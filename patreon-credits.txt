@@ -1,7 +1,6 @@
 #TIER=0
 brodeity
 ×°Daΐsy°×
-zeezaaVR
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -22,6 +21,7 @@ Nani the Duck
 Elbrar 
 SpittyDragon
 DarkShadowjb
+zeezaaVR
 AussieGuy92
 ElusiveFox35
 ULTRACHEESE
@@ -870,7 +870,6 @@ Humble Butler
 PA~San
 #TIER=1
 ≺≺banhart_vr≻≻
-サリィ・ミラ【salymira
 MeepsKitten
 Dorktoast
 AkaruHaru
@@ -1068,6 +1067,7 @@ Troublezz11
 爪_千_乃
 FireGaming
 Lexi-chan
+サリィ・ミラ【salymira
 LanePaxton
 gothic_angel ഒ
 Turtle6767
@@ -1198,7 +1198,6 @@ Bonkerzz
 ᴋᴀʀᴍᴀ ღ
 ACGamingST 823c
 #TIER=2
--Mana-
 FoxDotGIF
 bd_
  Galaxy20Wolf
@@ -1226,6 +1225,7 @@ DeathSlender
 MiniMinereth
 Pogekira
 Higgs Monaghan
+-Mana-
 Skel-E
 TinyFuzzyThing
 Littlekiwee
