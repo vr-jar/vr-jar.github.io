@@ -883,6 +883,7 @@ MidnightKing
 #TIER=1
 ≺≺banhart_vr≻≻
 AddieKilos
+スイカ改ニ
 MeepsKitten
 Dorktoast
 AkaruHaru
