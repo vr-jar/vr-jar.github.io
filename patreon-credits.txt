@@ -896,6 +896,7 @@ MidnightKing
 DevilishDakota
 #TIER=1
 ≺≺banhart_vr≻≻
+Athenas_enamour
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1133,7 +1134,6 @@ mina．
 Nicksmith2091
 toro³
 Aurorize4
-william․deromegrise 8e6d
 monosan
 StellarSting
 Lawbrojr
