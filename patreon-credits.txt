@@ -897,6 +897,7 @@ DevilishDakota
 #TIER=1
 ≺≺banhart_vr≻≻
 Iz_Loko
+Arzolath
 MeepsKitten
 AddieKilos
 Dorktoast
