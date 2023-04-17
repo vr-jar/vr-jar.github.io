@@ -897,6 +897,7 @@ MidnightKing
 DevilishDakota
 #TIER=1
 ≺≺banhart_vr≻≻
+Reinhold De Fey
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1024,7 +1025,6 @@ Honyo
 Hiddendemonsoul
 Sandwich544
 senkodev
-IssacSoF
 Shusky
 CheekyToonz
 Cinnabear
