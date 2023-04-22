@@ -913,6 +913,7 @@ MearOwl 94cd
 °Tempest°¿
 #TIER=1
 ≺≺banhart_vr≻≻
+drkarcher 83c6
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1059,7 +1060,6 @@ Soulless_Dev
 Central_Fire154
 Neko_Amber
 SynexBB
-_ROOD_
 TURKINATOR
 AxelTheAvali
 Squidney≺3
