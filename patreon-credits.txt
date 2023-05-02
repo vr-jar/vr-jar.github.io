@@ -845,6 +845,7 @@ Miss Tiny-Chan
 bunbun-neko
 #TIER=1
 ≺≺banhart_vr≻≻
+HopelessRose
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -973,7 +974,6 @@ CheekyToonz
 Iz_Loko
 Cinnabear
 kittygamer06660
-OblivionSky
 -Toad~
 ThunderEgg
 LovelyOne
