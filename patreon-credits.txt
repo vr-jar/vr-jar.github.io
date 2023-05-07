@@ -1217,7 +1217,6 @@ YellowTurtle117
 Russian Gremlin
 ACGamingST 823c
 #TIER=2
-BYEFELISHA21
 FoxDotGIF
 bd_
  Galaxy20Wolf
@@ -1304,6 +1303,7 @@ JigglyPup
 Vibegcrden
 Psych_Foxtrot
 #TIER=3
+BYEFELISHA21
 MrCreepyPasta
 Taeko_4
 JaekSmith
