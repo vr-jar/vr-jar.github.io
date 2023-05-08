@@ -889,6 +889,7 @@ kiwinova
 #TIER=1
 ≺≺banhart_vr≻≻
 mythic_goddess
+Ankha UwU
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1153,7 +1154,6 @@ offset04
 Non-Responsive
 AceCobra29
 Squish boy
-Ankha_Mokocchi
 thejackal
 BrattyPrincess0
 theredflash07 71e7
