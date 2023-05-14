@@ -1330,6 +1330,7 @@ JigglyPup
 Vibegcrden
 Psych_Foxtrot
 #TIER=3
+Ruben_Rosamine
 MrCreepyPasta
 Taeko_4
 JaekSmith
@@ -1409,7 +1410,6 @@ ShadowDoctor659
 ShayCat
 LilyLongBean
 Tattooedkillar8
-Ruben_Rose
 EclipseOmega
 halodragon1010
 _Roxis_
