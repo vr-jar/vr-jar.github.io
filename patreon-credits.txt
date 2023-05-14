@@ -910,6 +910,7 @@ beepbeepboop 779a
 GhostTownKat
 #TIER=1
 ≺≺banhart_vr≻≻
+音猫ラスク（DaiKing）
 MeepsKitten
 AddieKilos
 Dorktoast
