@@ -1355,6 +1355,7 @@ Vibegcrden
 Psych_Foxtrot
 Angie-Meister
 #TIER=3
+EtherealRaccoon
 MrCreepyPasta
 Taeko_4
 JaekSmith
@@ -1391,7 +1392,6 @@ Zi11a
 NonchalantGamer
 MountainDewGod
 hppedeaf
-Username-Taken_
 monokro
 GREATMOONAROMA_
 ♢ PYRO DRAGON ♢
