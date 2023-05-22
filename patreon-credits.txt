@@ -1358,6 +1358,7 @@ Vibegcrden
 Psych_Foxtrot
 Angie-Meister
 #TIER=3
+Ruben Rosamine
 MrCreepyPasta
 Taeko_4
 JaekSmith
@@ -1437,7 +1438,6 @@ ShadowDoctor659
 ShayCat
 LilyLongBean
 Tattooedkillar8
-Ruben_Rosamine
 EclipseOmega
 halodragon1010
 _Roxis_
