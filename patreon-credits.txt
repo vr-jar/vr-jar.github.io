@@ -805,7 +805,6 @@ SM
 AntAngel
 UnknxwnVR
 EvanPrime
-VortexDE
 ImHiroki
 Rosieli
 ValkyrieOfDeath
@@ -929,6 +928,7 @@ Zypher_29
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+VortexWolf_
 MeepsKitten
 AddieKilos
 Dorktoast
