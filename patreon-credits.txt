@@ -938,6 +938,7 @@ OldManThunder
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+VortexWolf_
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1226,7 +1227,6 @@ ShiniMugetsu
 『SmolJade』
 FallenFromKhaos
 cleanerfall420
-VortexWolf_
 Koala_Bean
 Mrs Boneß
 ღSkittlesღ
