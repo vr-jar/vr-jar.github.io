@@ -955,6 +955,7 @@ XHatsuneMikuX
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+Ludo The Cabbit
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1233,7 +1234,6 @@ MsR41NBOW
 Artizea_
 killerswo
 Scott Devlin
-Fuzzball VR
 El Kunai
 ~myth
 mariposamuerte
