@@ -961,6 +961,7 @@ XHatsuneMikuX
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+-Lupo-
 MeepsKitten
 AddieKilos
 Dorktoast
