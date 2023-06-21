@@ -959,6 +959,7 @@ _ROOD_
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+Mr Tomo Tog
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1037,7 +1038,6 @@ dstayton
 dont_jinxit
 DrakenStark
 ღ JeffyVR ღ
-Toͥᴍoͣxͫΐc
 MadJackRabbit
 DiabloSAVG
 miner28_3
