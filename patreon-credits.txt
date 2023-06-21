@@ -5,6 +5,7 @@ brodeity
 XykronGamer250
 Rori Vrc≺3
 _ROOD_
+MentalDebuff
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -352,7 +353,6 @@ Link_1503
 Moonyshine
 Gold_Potato
 koenne
-ke_taxevader
 GodlyOwl
 RicterNova
 Luka 
