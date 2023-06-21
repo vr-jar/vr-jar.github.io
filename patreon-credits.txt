@@ -4,9 +4,6 @@ brodeity
 ღLuckyCloverღ
 XykronGamer250
 Rori Vrc≺3
-_ROOD_
-MentalDebuff
-Aezlith
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -346,6 +343,7 @@ Yapple Dapple
 ༒»ʙᴏᴏᴘʟᴏᴏᴘʏ«༒
 Vernas
 SplashLemon
+Aezlith
 TechieFoxx
 Chrysocyan
 ItsSamK
@@ -354,6 +352,7 @@ Link_1503
 Moonyshine
 Gold_Potato
 koenne
+MentalDebuff
 GodlyOwl
 RicterNova
 Luka 
@@ -956,6 +955,7 @@ OldManThunder
 Тоkуо
 R͓̽e͓̽m͓̽m͓̽y͓̽
 XHatsuneMikuX
+_ROOD_
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
@@ -1285,7 +1285,6 @@ BossJuggler54
 werescout5782
 AnimeQueenJessy
 TypischRudi
-Drollestsugar56
 Rockiest_Wizard
 音猫ラスク（DaiKing）
 Vicalicious
@@ -1338,7 +1337,6 @@ Littlekiwee
 emptyfeed
 Monty Ausgleich
 Depressio․
--Shikari-
 Orebranch
 Ramenǃ
 Limbonic
