@@ -1411,6 +1411,7 @@ luvrdarling
 爪尺 ㄥ卂乙ㄚ
 #TIER=3
 SmokeGrass
+Ambi Dextro
 MrCreepyPasta
 Taeko_4
 JaekSmith
@@ -1442,7 +1443,6 @@ MW3KingofWar
 ᴮᵉʳʳʸᴮᵒᵐᵇ
 Plague_VR
 Tony_Lewis
-Ambi Dextro
 Aequitas
 Zi11a
 NonchalantGamer
