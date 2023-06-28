@@ -977,6 +977,7 @@ FATHER_BEANS
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+Š ø ń ã
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1237,7 +1238,6 @@ Nighteye54
 Bluerhapsody
 WιɳƚҽɾWσʅʋҽʂ
 Sma11Dood1e
-WinterSkyFox
 ZokuLo
 Suww_ღRawrღ
 Emperor Zurg
