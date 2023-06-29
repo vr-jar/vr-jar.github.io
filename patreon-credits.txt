@@ -979,6 +979,7 @@ FATHER_BEANS
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+Novitia
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1125,7 +1126,6 @@ LovelyOne
 Yuki_유키
 Soulless_Dev
 Central_Fire154
-Neko_Amber
 SynexBB
 TURKINATOR
 AxelTheAvali
