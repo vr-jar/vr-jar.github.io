@@ -985,6 +985,7 @@ FATHER_BEANS
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+showered
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1268,7 +1269,6 @@ Scott Devlin
 El Kunai
 ~myth
 mariposamuerte
-artsyarson
 ༒Coat ༒
 Seltic_Sanders16 6a7b
 Coloredatom451
