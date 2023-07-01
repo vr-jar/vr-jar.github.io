@@ -1417,6 +1417,7 @@ luvrdarling
 TheCrashArmy
 #TIER=3
 SmokeGrass
+Kai_DemonWolf
 MrCreepyPasta
 Taeko_4
 JaekSmith
