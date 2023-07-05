@@ -964,6 +964,7 @@ SleepyFox_
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+-Aizetsu-
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1269,7 +1270,6 @@ Papillon971
 Frostie069
 ProfessorMadLad
 MizchiefMaker
-＋Artemis＋
 Yume_senpai
 Betafurr
 KnockedPluto258
