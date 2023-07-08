@@ -1420,6 +1420,7 @@ TheCrashArmy
 Volrug
 #TIER=3
 SmokeGrass
+ShayCat
 MrCreepyPasta
 Taeko_4
 JaekSmith
@@ -1492,7 +1493,6 @@ sendev
 Beowolf_Kurama
 NoBrainFunction
 ShadowDoctor659
-ShayCat
 LilyLongBean
 Ms_Coffee
 Ruben Rosamine
