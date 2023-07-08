@@ -1421,6 +1421,7 @@ Volrug
 #TIER=3
 SmokeGrass
 ShayCat
+Ambi Dextro
 MrCreepyPasta
 Taeko_4
 JaekSmith
@@ -1449,7 +1450,6 @@ ShadowRunner69
 ᴮᵉʳʳʸᴮᵒᵐᵇ
 Plague_VR
 Tony_Lewis
-Ambi Dextro
 Aequitas
 Zi11a
 NonchalantGamer
