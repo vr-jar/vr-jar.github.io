@@ -972,6 +972,7 @@ Bot4noob-_-
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+~meth
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1254,7 +1255,6 @@ Retrax500
 Artizea_
 killerswo
 El Kunai
-~myth
 mariposamuerte
 showered
 ༒Coat ༒
