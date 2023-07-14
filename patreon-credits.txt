@@ -982,6 +982,7 @@ HollowofAether
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+AssassinICU
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1329,7 +1330,6 @@ VirtualDaddy~
 pug UWU gamer
 freezydubッ
 sleepyspooky
-Father Dre
 ErrorMistake
 ACGamingST 823c
 #TIER=2
