@@ -999,6 +999,7 @@ _TWCWolfBoy_
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+Miss_Asuna
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1273,7 +1274,6 @@ offset04
 Non-Responsive
 -Lupo-
 Squish boy
-Ankha UwU
 thejackal
 BrattyPrincess0
 Theredflash07
