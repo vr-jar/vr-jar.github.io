@@ -998,6 +998,7 @@ Drawkll
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+Ankha UwU
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1273,7 +1274,6 @@ offset04
 Non-Responsive
 -Lupo-
 Squish boy
-Miss_Asuna
 thejackal
 BrattyPrincess0
 Theredflash07
