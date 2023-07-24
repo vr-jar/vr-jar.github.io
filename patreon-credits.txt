@@ -1453,6 +1453,7 @@ Volrug
 BubbleMothz
 #TIER=3
 SmokeGrass
+AetherTheProto
 MrCreepyPasta
 Taeko_4
 JaekSmith
@@ -1495,7 +1496,6 @@ GREATMOONAROMA_
 ♢ PYRO DRAGON ♢
 ᴘʟᴀɴᴇᴛ
 【ร๏гคкคเՇ๏0】
-Sapphira_Proto
 blackvelvety
 ElyjaGaming
 Silent Blade
