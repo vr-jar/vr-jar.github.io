@@ -1006,6 +1006,7 @@ kimmininnie
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+Ankha UwU
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1282,7 +1283,6 @@ offset04
 Non-Responsive
 Zouyu
 Squish boy
-Miss_Asuna
 thejackal
 BrattyPrincess0
 Theredflash07
