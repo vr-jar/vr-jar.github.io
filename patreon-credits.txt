@@ -1287,7 +1287,6 @@ offset04
 Non-Responsive
 Zouyu
 Squish boy
-Ankha UwU
 thejackal
 BrattyPrincess0
 Theredflash07
@@ -1363,6 +1362,7 @@ ErrorMistake
 Katze_Sango
 ACGamingST 823c
 #TIER=2
+Miss_Asuna
 FoxDotGIF
 bd_
  Galaxy20Wolf
