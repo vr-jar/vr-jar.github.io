@@ -1362,6 +1362,7 @@ ErrorMistake
 Katze_Sango
 ACGamingST 823c
 #TIER=2
+DeathSlender
 FoxDotGIF
 bd_
  Galaxy20Wolf
@@ -1385,7 +1386,6 @@ Retro༄
 TB_bresson
 MUTECyberwolf
 Noodle~
-DeathSlender 
 MiniMinereth
 Pogekira
 °Remy°
