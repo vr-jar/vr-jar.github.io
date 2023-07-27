@@ -96,7 +96,6 @@ ProjectRubick
 Da Bass Man
 TroyK88
 MangOwO LeFroot
-エミリー・コミト
 Neko Haiku
 Zoka_Crow
 Dwën
@@ -1453,6 +1452,7 @@ Volrug
 BubbleMothz
 #TIER=3
 SmokeGrass
+エミリー・コミト
 MrCreepyPasta
 Taeko_4
 JaekSmith
