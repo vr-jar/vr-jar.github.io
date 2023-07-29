@@ -1466,6 +1466,7 @@ Volrug
 BubbleMothz
 #TIER=3
 SmokeGrass
+Takumi
 MrCreepyPasta
 Taeko_4
 JaekSmith
@@ -1554,7 +1555,6 @@ RedVibez
 Setsuna2503
 Thatscoolbro
 Kai_DemonWolf
-Takumi 
 Ludo The Cabbit
 Lewd Thots
 Kandiaru
