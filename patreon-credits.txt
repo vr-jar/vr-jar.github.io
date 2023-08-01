@@ -1432,6 +1432,7 @@ TheCrashArmy
 Volrug
 BubbleMothz
 #TIER=3
+AetherTheProto
 Takumi
 SmokeGrass
 MrCreepyPasta
@@ -1470,7 +1471,6 @@ monokro
 GREATMOONAROMA_
 ♢ PYRO DRAGON ♢
 ᴘʟᴀɴᴇᴛ
-AetherTheProto
 blackvelvety
 ElyjaGaming
 Silent Blade
