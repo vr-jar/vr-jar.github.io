@@ -1384,6 +1384,7 @@ TheCrashArmy
 Volrug
 BubbleMothz
 #TIER=3
+TheLostAkuma
 Takumi
 SmokeGrass
 MrCreepyPasta
