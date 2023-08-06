@@ -1441,9 +1441,10 @@ TheCrashArmy
 Volrug
 BubbleMothz
 #TIER=3
-EmpressStarNeko
-Takumi
 SmokeGrass
+Takumi
+EmpressStarNeko
+;UwU
 MrCreepyPasta
 Taeko_4
 JaekSmith
