@@ -1442,8 +1442,9 @@ TheCrashArmy
 Volrug
 BubbleMothz
 #TIER=3
-Takumi
 SmokeGrass
+Takumi
+~Mr․King~
 MrCreepyPasta
 Taeko_4
 JaekSmith
