@@ -993,6 +993,7 @@ _F1sh3y_
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+Queen Colored
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1286,7 +1287,6 @@ mariposamuerte
 showered
 ＷＡＬＬＹ
 Seltic_Sanders16 6a7b
-Coloredatom451
 GummiiNatal
 ShiniMugetsu
 ᴶᵃᵈᵉ°
