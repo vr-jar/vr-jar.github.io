@@ -990,6 +990,7 @@ _F1sh3y_
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+Speedyvr9
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1014,7 +1015,6 @@ gngrninja
 ShellNotSpeak
 ClawTheZin
 ․Mystical․
-speedy9
 Rexyy
 Dentora
 Riokoneko
