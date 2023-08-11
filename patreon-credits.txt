@@ -1370,7 +1370,6 @@ Katze_Sango
 PhattyDaddy
 ACGamingST 823c
 #TIER=2
-Rowdyrocker
 FoxDotGIF
 bd_
  Galaxy20Wolf
@@ -1466,6 +1465,7 @@ BubbleMothz
 #TIER=3
 SmokeGrass
 Takumi
+Rowdyrocker
 MrCreepyPasta
 Taeko_4
 JaekSmith
