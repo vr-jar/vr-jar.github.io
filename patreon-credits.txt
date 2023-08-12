@@ -1459,6 +1459,7 @@ BubbleMothz
 #TIER=3
 SmokeGrass
 Takumi
+Mirroth
 MrCreepyPasta
 Taeko_4
 JaekSmith
@@ -1489,7 +1490,6 @@ Tony_Lewis
 Ambi Dextro
 Aequitas
 Zi11a
-Rowdyrocker
 NonchalantGamer
 MountainDewGod
 hppedeaf
