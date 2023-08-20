@@ -1007,7 +1007,6 @@ WhoisCloie?
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
-｜SlyJenna｜
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1083,6 +1082,7 @@ Sendooh
 NumiVR
 Rathain Kuromaru
 Hecker
+｜SlyJenna｜
 Buizels
 ashling1395
 dstayton
@@ -1371,7 +1371,6 @@ Mirroth
 Dehmg
 ACGamingST 823c
 #TIER=2
-randok2i
 ~CooblyDoobly~
 FoxDotGIF
 bd_
@@ -1469,10 +1468,10 @@ TheCrashArmy
 Volrug
 ¥Ǥнσsτ¥
 NepNeptune46
+randok2i
 #TIER=3
 SmokeGrass
 Takumi
-ScottDevlin
 MrCreepyPasta
 Taeko_4
 JaekSmith
@@ -1569,6 +1568,7 @@ TheLostAkuma
 Kai_DemonWolf
 BYEFELISHA21
 Dreٰamy
+ScottDevlin
 Ludo The Cabbit
 Lewd Thots
 Kandiaru
