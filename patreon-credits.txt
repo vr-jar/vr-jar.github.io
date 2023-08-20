@@ -1470,6 +1470,7 @@ NepNeptune46
 #TIER=3
 SmokeGrass
 Takumi
+ScottDevlin
 MrCreepyPasta
 Taeko_4
 JaekSmith
@@ -1566,7 +1567,6 @@ TheLostAkuma
 Kai_DemonWolf
 BYEFELISHA21
 Dreٰamy
-ScottDevlin
 Ludo The Cabbit
 Lewd Thots
 Kandiaru
