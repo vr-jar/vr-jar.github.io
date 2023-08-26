@@ -1482,6 +1482,7 @@ randok2i
 #TIER=3
 SmokeGrass
 Takumi
+Chihiro2002
 MrCreepyPasta
 Taeko_4
 JaekSmith
