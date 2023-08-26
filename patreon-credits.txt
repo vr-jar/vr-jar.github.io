@@ -827,6 +827,7 @@ c4deadboom1
 ღ bubblegum ღ
 Cubix-2g
 TheMultiPotato
+GoomyTheVrShark
 Øzży
 xxlightxx123
 cheeseytoes
@@ -1482,7 +1483,6 @@ randok2i
 #TIER=3
 SmokeGrass
 Takumi
-Chihiro2002
 MrCreepyPasta
 Taeko_4
 JaekSmith
@@ -1596,3 +1596,4 @@ ThtGamerChad
 Thanatos69
 EmpressStarNeko
 Kayake
+Chihiro2002
