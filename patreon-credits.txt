@@ -1488,6 +1488,7 @@ randok2i
 #TIER=3
 SmokeGrass
 Takumi
+Luxx IDK
 MrCreepyPasta
 Taeko_4
 JaekSmith
