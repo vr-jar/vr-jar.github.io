@@ -7,7 +7,6 @@ XHatsuneMikuX
 Meziix
 lyrikidionisos
 AstralAngelXO
-Darolisk
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -16,7 +15,6 @@ Nirvash
 Parsonsda
 Neochill
 GlitchedStorm
-Blackthorn 217
 jesse l30l
 Steelhide
 Tareck
@@ -312,6 +310,7 @@ NoxRyder
 cocowithnoco
 Lin Rosaline~
 ࿏BUD࿏
+Darolisk
 JustSylveon
 「ᴸᴱᴹᴼᴺ」
 Littlecolteee
@@ -1017,7 +1016,6 @@ HallNT
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
-MidnightLight01
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1029,7 +1027,6 @@ Ekron Vulture
 ArdsFantasy
 Flameknight7
 tfmjonny
-AlienBenny
 AtroxChobatsu
 Dargön
 `Miner
@@ -1299,7 +1296,6 @@ xlilpeep
 Nirezi（2レジ）
 Dangerspike
 Butterflyvixin
-strixre
 offset04
 Non-Responsive
 Zouyu
@@ -1342,7 +1338,6 @@ Betafurr
 KnockedPluto258
 wheelninja
 Dutchmanchan
-DemonWolfProto
 Exonea
 Eclipse4
 Rotixx
@@ -1374,6 +1369,7 @@ killacreeper893
 VirtualDaddy~
 pug UWU gamer
 ¤ErenJäger¤
+MidnightLight01
 HollowofAether
 Katze_Sango
 kimmininnie
@@ -1486,7 +1482,6 @@ randok2i
 #TIER=3
 SmokeGrass
 Takumi
-Bodygurdgirl120 97fa
 MrCreepyPasta
 Taeko_4
 JaekSmith
@@ -1567,6 +1562,7 @@ ShayCat
 LilyLongBean
 Ms_Coffee
 Ruben Rosamine
+Bodygurdgirl120 97fa
 EclipseOmega
 halodragon1010
 _Roxis_
