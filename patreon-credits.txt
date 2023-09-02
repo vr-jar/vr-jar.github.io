@@ -1423,6 +1423,7 @@ randok2i
 #TIER=3
 SmokeGrass
 Takumi
+イーブイᵉᵉᵥᵉᵉ
 MrCreepyPasta
 Taeko_4
 JaekSmith
