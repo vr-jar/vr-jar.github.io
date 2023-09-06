@@ -1443,6 +1443,7 @@ Schizophrenić
 #TIER=3
 SmokeGrass
 Takumi
+AkiraWolf24
 MrCreepyPasta
 Taeko_4
 JaekSmith
