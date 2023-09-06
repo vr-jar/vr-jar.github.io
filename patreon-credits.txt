@@ -7,8 +7,6 @@ XHatsuneMikuX
 Meziix
 lyrikidionisos
 AstralAngelXO
-《~Splaty~》
-༒Providence༒
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -184,6 +182,7 @@ ShakiraSnep
 Thorkell
 Ecu~
 SurosX
+《~Splaty~》
 formosa
 KingChristianII
 Gumball
@@ -545,6 +544,7 @@ King Tubbs ツ
 NotZeldaLol
 AuxieFox
 BinBinBinnouz
+AlleyCatFever
 Tengoku Hoshi
 SymbiontUV
 Narixian
@@ -978,6 +978,7 @@ kutx
 Runetunes
 exzee
 ༒Beanбурритô༒
+༒Providence༒
 _F1sh3y_
 ~MΛЯZ~
 ༒Ʉ₦holy₭ł₦₲༒
@@ -996,7 +997,6 @@ Honeybee24
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
-Eli is cuteღ
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1354,6 +1354,7 @@ PhattyDaddy
 Mirroth
 Dehmg
 Camo-63
+Eli is cuteღ
 Master Gamer214
 Wi1ted
 _Tally Marks_
