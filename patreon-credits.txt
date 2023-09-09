@@ -1495,6 +1495,7 @@ Schizophrenić
 #TIER=3
 SmokeGrass
 Takumi
+;UwU
 MrCreepyPasta
 Taeko_4
 JaekSmith
