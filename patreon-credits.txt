@@ -1023,8 +1023,6 @@ LittleBroLuffy
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
-meisjfudge
-Foxy_kun
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1212,6 +1210,7 @@ SeismicCon
 CrypticCassidy
 Kornkob95
 ittie
+meisjfudge
 KillerBatDrone
 Apex․Wolf
 CasVR
@@ -1389,6 +1388,7 @@ Mirroth
 Dehmg
 Camo-63
 Jennas Puppyッ
+Foxy_kun
 Master Gamer214
 Wi1ted
 _Tally Marks_
