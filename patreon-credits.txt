@@ -1499,6 +1499,7 @@ Schizophrenić
 #TIER=3
 SmokeGrass
 Takumi
+FenekkuRosamine
 MrCreepyPasta
 Taeko_4
 JaekSmith
@@ -1578,7 +1579,6 @@ ShadowDoctor659
 ShayCat
 LilyLongBean
 Ms_Coffee
-Ruben Rosamine
 Bodygurdgirl120 97fa
 EclipseOmega
 halodragon1010
