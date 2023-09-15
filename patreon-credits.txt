@@ -1019,6 +1019,7 @@ Koisano
 #TIER=1
 ≺≺banhart_vr≻≻
 -Hyver-
+Dead_Batz
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1077,7 +1078,6 @@ Sergal_Gaming
 Splargh
 RexWusky
 DrPineapple
-Dead_Batz
 WalGesicht 
 Nogh0st
 CyanLaser
