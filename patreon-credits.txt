@@ -1,6 +1,4 @@
 #TIER=0
-RedShift_101
-۵Visible
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -516,6 +514,7 @@ Draven1613
 「zore」
 LozzaE
 Еugeo
+RedShift_101
 qoyri
 Drax_Gang
 HaloGodKu 6d12
@@ -731,6 +730,7 @@ UnknxwnVR
 ༒ẔØM฿łɆ․₴₳ɎɆR̸༒
 ImHiroki
 Rosieli
+YukiKaizuka
 Miss Mia
 Luckycarbs
 AnarchistAva
@@ -810,7 +810,6 @@ Fulcrum09
 Knuffelfratz
 PowerFlowerC3
 -Azüki-
-ᴘᴇᴀɴᴜᴛ
 Tomasino-
 999NizCarti999
 beepbeepboop 779a
@@ -852,6 +851,7 @@ tbh
 kutx
 - Fragile -
 Drawkll
+Runetunes
 exzee
 ༒ɧყʂɬɛཞıą༒
 _F1sh3y_
@@ -880,8 +880,8 @@ Alex Alex
 ༺亗 Kayberry 亗༻
 ToxicRedDragon
 Flipperearth380
+۵Visible
 #TIER=1
-NathanTheRikkor
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -918,6 +918,7 @@ Radio Miku
 MiraDonao
 Midnight Myth
 Nimble Weave
+NathanTheRikkor
 Pyric Static
 Macil
 Fireblast123
@@ -1268,6 +1269,7 @@ Ambi Dextro
 Zi11a
 NonchalantGamer
 MountainDewGod
+DeathHunter133
 hppedeaf
 EtherealRaccoon
 monokro
