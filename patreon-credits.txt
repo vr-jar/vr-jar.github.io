@@ -1,5 +1,4 @@
 #TIER=0
-NobisStray
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -161,7 +160,6 @@ KingChristianII
 Moloblack
 grim_Karito~
 cocakoala
-Foxfish21
 Supslowrobot
 RachetRanger
 Panthera2K7
@@ -744,7 +742,6 @@ Jace~
 air_エアー
 ラジオサラダ
 RAGINGDRAGON48 00f6
-PinaColadaOckie
 vinser17
 SerenadeOfWater
 lost_ssouls_
@@ -882,8 +879,8 @@ Alex Alex
 ToxicRedDragon
 Flipperearth380
 ۵Visible
+NobisStray
 #TIER=1
-ものさん
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1083,11 +1080,11 @@ CN-愚蠢的小旋
 alka_tsukin
 mina．
 ๔เש๏
+ものさん
 Lawbrojr
 Chrono Ky
 PiercedTheVeil
 〜Horde〜
-~K1NGSAVAGE71~
 Thelvaen
 ≺⁄3νi̴βέ≺3
 Nighteye54
@@ -1147,7 +1144,6 @@ Rockiest_Wizard
 音猫ラスク（DaiKing）
 ςђคгɭเє
 YellowTurtle117
-_Oxy
 Ka9eryu
 killacreeper893
 ༒丂ㄥ乇乇尸丫༒
@@ -1168,7 +1164,6 @@ Jewelthepetbean
 Iced Coffee~
 ACGamingST 823c
 #TIER=2
-~Mommy Remy~
 bd_
  Galaxy20Wolf
 ParAlex
@@ -1193,6 +1188,7 @@ Noodle~
 DeathSlender
 MiniMinereth
 Pogekira
+~Mommy Remy~
 TinyFuzzyThing
 Littlekiwee
 Monty Ausgleich
