@@ -883,6 +883,7 @@ ToxicRedDragon
 Flipperearth380
 ۵Visible
 #TIER=1
+ものさん
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1082,7 +1083,6 @@ CN-愚蠢的小旋
 alka_tsukin
 mina．
 ๔เש๏
-monosan
 Lawbrojr
 Chrono Ky
 PiercedTheVeil
