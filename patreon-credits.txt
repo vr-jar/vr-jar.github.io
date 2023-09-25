@@ -1,10 +1,4 @@
 #TIER=0
-~STAJA~
-~trickiersine~
-ƑҽɾօքհҽӀҽվ ও
-mutekai
-Silent Solitude
-Micah2crazzy
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -563,6 +557,7 @@ Samwich~
 ·bella·
 C0nrad
 Emone
+mutekai
 Eranstone
 itsRandyRandom
 EmperorPenguiin
@@ -797,6 +792,7 @@ Poof~
 Dangerzone50
 TheFusky
 twoside22
+~trickiersine~
 Arky in VR
 BlackTeddyBear
 HuunyBun
@@ -811,7 +807,6 @@ Sxon
 Fulcrum09
 Knuffelfratz
 PowerFlowerC3
--Azüki-
 Tomasino-
 999NizCarti999
 beepbeepboop 779a
@@ -885,6 +880,10 @@ ToxicRedDragon
 Flipperearth380
 ۵Visible
 NobisStray
+~STAJA~
+ƑҽɾօքհҽӀҽվ ও
+Silent Solitude
+Micah2crazzy
 #TIER=1
 MeepsKitten
 AddieKilos
