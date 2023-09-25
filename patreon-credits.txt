@@ -885,6 +885,7 @@ Flipperearth380
 NobisStray
 #TIER=1
 HighTruth_
+~Λᴎเռყค~
 MeepsKitten
 AddieKilos
 Dorktoast
