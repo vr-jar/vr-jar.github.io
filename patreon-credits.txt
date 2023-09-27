@@ -1,7 +1,4 @@
 #TIER=0
-Coomdump
-rurakura
-Lyo De Vil
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -55,6 +52,7 @@ Xeon_The_Fox
 ~Spunky~
 FeralWolf427
 NightshadeLenar
+rurakura
 -ReDoX-
 Sophia Rexis
 Tundra Lunamos
@@ -283,7 +281,6 @@ Woriak
 Kringly
 Firezfire
 rwkplay
-Wolyxie
 Morningstar'
 Xsynchro
 Onix001
@@ -328,6 +325,7 @@ Jade_Nox9876
 ThunderClaw
 S˸P˸A˸R˸R˸O˸W
 LittleWannaDie
+Coomdump
 AnotherLurker
 HachinoSagiri
 ϟamhain
@@ -694,6 +692,7 @@ Angel Cakes~
 LokiWolf
 ItzJustLogicZ
 MouseyRawR
+Lyo De Vil
 Schizophrenić
 Glue eater
 ѕнισяι
@@ -881,7 +880,6 @@ Silent Solitude
 Micah2crazzy
 ＋Sαlεʍ＋
 #TIER=1
-Mawtii
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1164,6 +1162,7 @@ M_R_V_N
 Jewelthepetbean
 Iced Coffee~
 HighTruth_
+Mawtii
 ACGamingST 823c
 #TIER=2
 bd_
