@@ -1,5 +1,4 @@
 #TIER=0
-Mawtii
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -880,6 +879,7 @@ Silent Solitude
 Micah2crazzy
 ＋Sαlεʍ＋
 #TIER=1
+Mawtii
 MeepsKitten
 AddieKilos
 Dorktoast
