@@ -1,6 +1,7 @@
 #TIER=0
 ~FF Frisk
 StarTheKitsune
+Revenant幽靈
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -643,7 +644,6 @@ TrH4rD fb8e
 Memeboi049
 Wolf2230
 Veirus
-TraMuh
 Nowe
 M3xicanPanda
 Atreyugam3r10
