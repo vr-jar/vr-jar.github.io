@@ -1,4 +1,5 @@
 #TIER=0
+~FF Frisk
 KeithiSnow
 StripedStash
 Adeon Writer
