@@ -1,4 +1,5 @@
 #TIER=0
+ruralist
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -50,7 +51,6 @@ Xeon_The_Fox
 ~Spunky~
 FeralWolf427
 NightshadeLenar
-rurakura
 -ReDoX-
 Sophia Rexis
 Tundra Lunamos
