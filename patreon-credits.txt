@@ -1,5 +1,4 @@
 #TIER=0
-ruralist
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -51,6 +50,7 @@ Xeon_The_Fox
 ~Spunky~
 FeralWolf427
 NightshadeLenar
+ruralist
 -ReDoX-
 Sophia Rexis
 Tundra Lunamos
@@ -204,7 +204,6 @@ ProtoDragonSoul
 FroostySenpai
 Asteroid 385
 John Upstairs
-乃卂乃ㄚ 爪ㄖ匚卄卂几
 ․Princesskeeg․
 tomtom69420
 -ᴍᴏɴᴏᴄʜʀᴏᴍᴇ-
@@ -274,6 +273,7 @@ Woriak
 『Waffles』
 Kringly
 rwkplay
+Ällïêヅ
 Morningstar'
 Xsynchro
 Onix001
@@ -744,6 +744,7 @@ DJEeveeSquad257
 Jetsetforfail
 TͥOKͣYͫO
 EvilSquishi
+KT
 FӨЯGӨƬƬΣП
 Luciusツ
 ChibiPup
@@ -756,6 +757,7 @@ The hooded don
 _Tensi_
 Píckles
 Call me Nawa
+Portgas D Ace-
 ․ᴄʀʏsᴛᴏʟ․
 AwkwardBoyy
 『 Ø₩Ɇ₦ 』
@@ -767,6 +769,7 @@ Dangerzone50
 TheFusky
 twoside22
 ~trickiersine~
+_sleepyyy
 Arky in VR
 BlackTeddyBear
 HuunyBun
@@ -821,6 +824,7 @@ kutx
 - Fragile -
 Runetunes
 exzee
+༒ɧყʂɬɛཞıą༒
 _F1sh3y_
 -MRS MΛЯZ-
 ༒Ʉ₦holy₭ł₦₲༒
@@ -859,8 +863,6 @@ Micah2crazzy
 ღ Civik K ღ
 TakoaTime
 #TIER=1
-albetta
-BrattyPrincess0
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -900,6 +902,7 @@ Pyric Static
 Macil
 Fireblast123
 Chaosmyth
+albetta
 Wolfy_Dusk
 Ariyana
 SlashVR
@@ -978,7 +981,6 @@ CuriousCharr
 ChaoticYing
 ࿇ ZOM ࿇
 Sexikap82
-NovaTheKitsune
 Unreliable22
 GoldenEye8741
 Dezzer_
@@ -1072,6 +1074,7 @@ strixre
 offset04
 Non-Responsive
 thejackal
+BrattyPrincess0
 OZZ¥
 ǝuoɥd¯ǝsɹǝԀ
 Retrax500
