@@ -1,6 +1,4 @@
 #TIER=0
-AxoltheOrca
-SempSaberWolf
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -23,6 +21,7 @@ AussieGuy92
 ElusiveFox35
 ULTRACHEESE
 IkodoMoonstrife
+SempSaberWolf
 kყle
 Oni Kidou
 Dracaelus
@@ -171,6 +170,7 @@ Popshotable
 Bounty_Tomboy
 ~Black Noir~
 Rekrow
+AxoltheOrca
 LaceWF
 AstralHusky20
 【Violet】
@@ -258,7 +258,6 @@ NoxRyder
 ࿏BUD࿏
 Darolisk
 JustSylveon
-「ᴸᴱᴹᴼᴺ」
 Littlecolteee
 Soup_The_Simp
 （Atlas）
@@ -569,7 +568,6 @@ ALGEBRAIC ANDY
 Spartan778
 Yorichiru
 NINJASHARKISHA
-JDancingCloaker
 Zeke818
 Novakunowo
 AWildShuri
@@ -672,7 +670,6 @@ ItzJustLogicZ
 MouseyRawR
 SuicidalFrowner
 Lyo De Vil
-Schizophrenić
 Glue eater
 ѕнισяι
 ᴇʀʀᴏʀ404
@@ -705,7 +702,6 @@ Devil_Hunter_682
 scαɾlxɾժ
 ۵ peaches ۵
 SM
-Videno
 UnknxwnVR
 ༒ẔØM฿łɆ․₴₳ɎɆR̸༒
 LaughingDazzler
@@ -731,7 +727,6 @@ lost_ssouls_
 Mini207
 Butterbunni
 deasolum
-プレアデス
 XIIIJason_
 JustVoided
 CrypTunnieSmle
@@ -811,13 +806,12 @@ Daffysmoove
 Mitchellblanton e155
 Storm_999
 _༆˸․
+Rez_Petra
 1_Ɣ6_ㄈΛ௱Λ尺Ø
 ~Motor Spirit~
 King Melon
 shellingcord
 luxx̵
-Schizophrenić
-Schizophrenić
 Sethoto
 ₭₫Φg
 syph0n
@@ -1216,7 +1210,6 @@ Cookiesimo
 TheCrashArmy
 Volrug
 BubbleMothz
-Schizophrenić
 ․˸ᴛ․ᴇ․ᴅ․ᴅ․ʏ˸․
 #TIER=3
 MrCreepyPasta
