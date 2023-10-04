@@ -1,5 +1,4 @@
 #TIER=0
-MurkyLight9
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -155,6 +154,7 @@ KingChristianII
 Moloblack
 grim_Karito~
 cocakoala
+MurkyLight9
 Cwandaaa
 Supslowrobot
 RachetRanger
@@ -569,6 +569,7 @@ ALGEBRAIC ANDY
 Spartan778
 Yorichiru
 NINJASHARKISHA
+JDancingCloaker
 Zeke818
 Novakunowo
 AWildShuri
@@ -861,7 +862,6 @@ Micah2crazzy
 ღ Civik K ღ
 TakoaTime
 #TIER=1
-Mєi ･ও
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -928,6 +928,7 @@ dstayton
 dont_jinxit
 DrakenStark
 MadJackRabbit
+Mєi ･ও
 DiabloSAVG
 Nkombat16
 Avionora
