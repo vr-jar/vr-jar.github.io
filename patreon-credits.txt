@@ -1,4 +1,5 @@
 #TIER=0
+EchoEclips3
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -29,7 +30,6 @@ Dracaelus
 Lexiam
 dogfox101
 YuuClark
-EchoEclips3
 TaterBaiter
 Aikotan
 LuxIsBored
