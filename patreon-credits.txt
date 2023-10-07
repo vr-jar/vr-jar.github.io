@@ -1,7 +1,4 @@
 #TIER=0
-EchoEclips3
-Santan Vizionz
-PerseveranceTG
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -32,6 +29,7 @@ Dracaelus
 Lexiam
 dogfox101
 YuuClark
+EchoEclips3
 TaterBaiter
 Aikotan
 LuxIsBored
@@ -610,6 +608,7 @@ StormyVay
 B1ueTheWolf
 Roku_The_Box_of_Chocolates c121
 ~๓ครђเг๏~
+PerseveranceTG
 Alley-Katz
 MsAngelTripleA
 raptorowen
@@ -796,6 +795,7 @@ Sxon
 愛ㄒ尺ㄩ 愛
 Fulcrum09
 Knuffelfratz
+Santan Vizionz
 beepbeepboop 779a
 I AM GIZZY
 MelodySky1984
@@ -869,7 +869,6 @@ Micah2crazzy
 ღ Civik K ღ
 TakoaTime
 #TIER=1
-Ruby_ru
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -986,6 +985,7 @@ Soulless_Dev
 Central_Fire154
 Novitia
 TURKINATOR
+Ruby_ru
 Squidney≺3
 CuriousCharr
 ChaoticYing
