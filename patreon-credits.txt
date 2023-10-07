@@ -875,6 +875,7 @@ TakoaTime
 #TIER=1
 ᵐᵉᵗʰ
 Lexter21
+Guac-o-Lantern
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1109,7 +1110,6 @@ GummiiNatal
 Billin_
 TheLustfulEve
 halowolf007
-ᴀᴠᴏᴄᴀᴅᴏ
 Papillon971
 ぴんくのぽみぇ
 ProfessorMadLad
