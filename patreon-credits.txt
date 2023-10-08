@@ -1,4 +1,5 @@
 #TIER=0
+LT Ace
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -664,7 +665,6 @@ Nova290 1f64
 ·riley·
 Lockoo
 Falchion95
-Ace_Of-Spades
 TotalLOser
 Tomoya-Okazaki
 ¥Ouji Senpai¥
