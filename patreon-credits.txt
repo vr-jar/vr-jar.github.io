@@ -1,8 +1,4 @@
 #TIER=0
-LT Ace
-zǝǝɹq
-Isabella
-ItsSamK
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -152,6 +148,7 @@ JustaTURTL3
 LuvTofuu
 spark。
 ShakiraSnep
+Thorkell
 Ecu~
 SurosX
 formosa
@@ -179,9 +176,7 @@ Bounty_Tomboy
 Rekrow
 AxoltheOrca
 LaceWF
-AstralHusky20
 SirArtorias615
-【Violet】
 VR Too™
 SilverTide
 Ɔoɹdsǝ Ɔɐʇ
@@ -316,11 +311,11 @@ KobaKiju
 爪卂尺尺 几æㄒ卂
 TechieFoxx
 Chrysocyan
+ItsSamK
 ooOmikuOoo
 ズﾑﾉ 丂ﾑズﾉ
 Moonyshine
 Gold_Potato
-༒ㄒㄖㄩҜ卂༒
 koenne
 MentalDebuff
 RicterNova
@@ -625,6 +620,7 @@ _Labyrinth_
 Silvexius
 Uhhnoobie
 dakudaa
+zǝǝɹq
 Katonin
 RoxasSanson 59c1
 SilentStarVR
@@ -644,7 +640,6 @@ CutieOlivia
 ShiroTwo
 Shirasaka
 SσყSαυƈҽ
-Kowgomoo
 FreelanceGoober
 Finka_
 Pinkazillaఌ
@@ -666,6 +661,7 @@ Nova290 1f64
 ·riley·
 Lockoo
 Falchion95
+LT Ace
 TotalLOser
 Tomoya-Okazaki
 ¥Ouji Senpai¥
@@ -693,7 +689,6 @@ Adrian Rodriguez
 Marijn~kun
 ~orca~
 balllcrusher
-MFBOOST
 Тoast
 Skiie_Baby
 Lokitheprotogen
@@ -746,7 +741,6 @@ JustVoided
 CrypTunnieSmle
 Viteran
 -OzzieVA-
-Darkedge2285
 VagabondBlood
 -sushii-
 ZanderDaExpressiveWolfKitty
@@ -872,7 +866,6 @@ Micah2crazzy
 TakoaTime
 Bumblebee_Roxi
 #TIER=1
-TheLastAzreal
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1055,6 +1048,7 @@ emi bear
 MR_TIMO_LP
 ąքէϚҟմӀӀօց
 LuniTooni
+TheLastAzreal
 -Ace of spades-
 Katamew
  Ibezio
@@ -1228,6 +1222,7 @@ TheCrashArmy
 Volrug
 BubbleMothz
 ․˸ᴛ․ᴇ․ᴅ․ᴅ․ʏ˸․
+Isabella
 #TIER=3
 MrCreepyPasta
 Taeko_4
@@ -1315,7 +1310,6 @@ HαυɳƚҽԃMαყȥ
 AnimeQueenJessy
 Local_sle3py
 Roxysimp
-۞Luna ۞
 ThtGamerChad
 。Tsunami 。
 EmpressStarNeko
