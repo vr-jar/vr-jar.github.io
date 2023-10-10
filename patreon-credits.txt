@@ -1229,6 +1229,7 @@ BubbleMothz
 ․˸ᴛ․ᴇ․ᴅ․ᴅ․ʏ˸․
 Isabella
 #TIER=3
+ShayCat
 MrCreepyPasta
 Taeko_4
 JaekSmith
@@ -1291,7 +1292,6 @@ Pikavee
 Jei Ziel
 ＳｈａｄｏｗＰｈｏｅｎｉｘ
 ShadowDoctor659
-ShayCat
 LilyLongBean
 Ms_Coffee
 FenekkuRosamine
