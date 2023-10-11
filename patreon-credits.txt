@@ -1,5 +1,4 @@
 #TIER=0
-Scuffed_VR
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -182,6 +181,7 @@ SirArtorias615
 VR Too™
 SilverTide
 Ɔoɹdsǝ Ɔɐʇ
+Scuffed_VR
 ྾Kimo྾
 errorix
 ·ᴄᴀᴛ·
@@ -406,7 +406,6 @@ WarlockWeirdo 726e
 Whatchamacallit
 Noctis Ahknor
 ThatPortal
-Deadpool Merc56 
 ［ᴀɴɢᴇʟ］ღ
 YandereKitsune6
 Glitchy_Fox
@@ -804,8 +803,6 @@ Mightykong
 sløth~
 Zypher_29
 SirLeki
--Malakhi-
-Lumiri 
 Peachyluvv 
 wwwjjj100k
 Bread9670
@@ -847,10 +844,8 @@ MIntchoco1256
 Honeybee24
 Lord_Madara
 B100DW0LF
-OGvTeddybear f1ac
 LittleBroLuffy
 YulesIce
-Koisano
 Alex Alex
 ღ?不明キル。ღ
 ༺亗 Kayberry 亗༻
@@ -867,7 +862,6 @@ Micah2crazzy
 TakoaTime
 Bumblebee_Roxi
 #TIER=1
-GenoIX
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1143,6 +1137,7 @@ Camo-63
 Master Gamer214
 Wi1ted
 _Tally Marks_
+GenoIX
 Jewelthepetbean
 Iced Coffee~
 HighTruth_
@@ -1151,7 +1146,6 @@ Mawtii
 LeeTheFurry
 ACGamingST 823c
 #TIER=2
-Uncle Smile
 bd_
 ParAlex
 magnummike
@@ -1215,6 +1209,7 @@ ImprovisedNW
 saika mujuuk
 blueberry2001
 Psych_Foxtrot
+Uncle Smile
 DevilishDakota
 ThisguyYT
 Oleix
@@ -1247,6 +1242,7 @@ Dacon
 ToxicPositivity
 GRUMPY VIKING
 ShadowRunner69
+MW3KingofWar
 ᴮᵉʳʳʸᴮᵒᵐᵇ
 Plague_VR
 Tony_Lewis
