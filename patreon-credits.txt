@@ -1,4 +1,5 @@
 #TIER=0
+Scuffed_VR
 KeithiSnow
 StripedStash
 Adeon Writer
