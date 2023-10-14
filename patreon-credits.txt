@@ -1,10 +1,4 @@
 #TIER=0
-Tempo_Hawk
-KnottyRexouium
-~《ADHD~B¡tch》~
-《~Splaty~》
-ღღFreyaღღ
-_fexa_
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -158,6 +152,7 @@ ShakiraSnep
 Thorkell
 Ecu~
 SurosX
+《~Splaty~》
 formosa
 KingChristianII
 ~Mayo
@@ -261,6 +256,7 @@ SketyNoodles
 MilChenPanda
 ~Diamond~
 Fubuhito
+ღღFreyaღღ
 Ken-shi
 Cobalt Skyhunter
 RavenTheGhost
@@ -840,6 +836,7 @@ tbh
 kutx
 - Fragile -
 Runetunes
+KnottyRexouium
 exzee
 ༒ɧყʂɬɛཞıą༒
 _F1sh3y_
@@ -876,8 +873,9 @@ Micah2crazzy
 TakoaTime
 Bumblebee_Roxi
 B00MZY
+Tempo_Hawk
+_fexa_
 #TIER=1
-ɴᴀᴅᴀ
 MeepsKitten
 AddieKilos
 Dorktoast
@@ -1159,6 +1157,7 @@ HighTruth_
 Mawtii
 -ςђคгɭเє-
 LeeTheFurry
+ɴᴀᴅᴀ
 ACGamingST 823c
 #TIER=2
 bd_
