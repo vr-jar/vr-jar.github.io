@@ -1,6 +1,4 @@
 #TIER=0
-【 Ｌａｔｔｅ 】
-༺亗 Skyberry 亗༻
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -709,6 +707,7 @@ MermaidCordylia
 Sex Vіbrator
 ~FF Frisk
 c4deadboom1
+【 Ｌａｔｔｅ 】
 Cubix-2g
 TheMultiPotato
 Somethings Feet
@@ -866,6 +865,7 @@ Alex Alex
 ༺亗 Kayberry 亗༻
 ToxicRedDragon
 Flipperearth380
+༺亗 Skyberry 亗༻
 ۵Visible
 NobisStray
 ~STAJA~
@@ -879,7 +879,6 @@ Bumblebee_Roxi
 B00MZY
 MIYΛПӨ
 Tempo_Hawk
-_fexa_
 #TIER=1
 MeepsKitten
 AddieKilos
@@ -899,7 +898,6 @@ slayer6409
 JalenBarks
 SweetRSong
 ~Nightingale~
-gngrninja
 ClawTheZin
 Rexyy
 Riokoneko
@@ -921,7 +919,6 @@ Pyric Static
 Macil
 Fireblast123
 Chaosmyth
-albetta
 Wolfy_Dusk
 Ariyana
 BlaketheWagon
@@ -1164,6 +1161,7 @@ Mawtii
 -ςђคгɭเє-
 LeeTheFurry
 ɴᴀᴅᴀ
+_fexa_
 ACGamingST 823c
 #TIER=2
 bd_
