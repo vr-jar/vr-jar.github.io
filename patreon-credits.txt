@@ -1,7 +1,4 @@
 #TIER=0
-Schizophrenić
-Salem Asylum
-Havent
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -238,7 +235,6 @@ Amol Selseila
 ciel nocturne
 The_Atkinson
 ≺Umikosu≻
-ᴅᴇʟᴛᴀᴀ
 SplotchDoggo
 CarnifexKid
 NekoAkary
@@ -463,6 +459,7 @@ Scentik
 Brieana
 Shovel Knight
 Simp~Lordツ
+Lupina Wolff
 yolododo4life
 Furmanator1234
 Mechasonic101 5a62
@@ -566,6 +563,7 @@ Clare-
 Sloth_Fairy
 Choucousse
 Shawdown
+Havent
 AgnosticNoss
 JustTy1er
 ɢᴏᴛʜɪᴄᴄ ᴅᴏɢɢᴏ
@@ -638,7 +636,6 @@ BlueBirdThing
 Jocularprism485
 TrH4rD fb8e
 Memeboi049
-Wolf2230
 Veirus
 Revenant幽靈
 Nowe
@@ -666,6 +663,7 @@ Butter_proxy 83ed
 hollygen
 sodium002
 dylanterlau ffa4
+Schizophrenić
 Nova290 1f64
 ·sleepy·
 ·riley·
@@ -781,6 +779,7 @@ AwkwardBoyy
 『 Ø₩Ɇ₦ 』
 「ʟɪʟsᴘᴏᴏᴋɪᴇ」
 Ice Blue Dragon
+Mr_doomdagger
 - ᴊᴜɴᴇʙᴜɢ -
 Poof~
 Dangerzone50
@@ -879,6 +878,7 @@ Bumblebee_Roxi
 B00MZY
 MIYΛПӨ
 Tempo_Hawk
+Salem Asylum
 #TIER=1
 MeepsKitten
 AddieKilos
@@ -961,7 +961,6 @@ MidshipMorgan
 gu_sya
 seabanana
 ThunderBolt95
-EngineShot
 サミュエル＠samuel
 Georninja
 missingnickel
@@ -981,7 +980,6 @@ senkodev
 Reinhold De Fey
 Shusky
 CheekyToonz
-Iz_loko
 Cinnabear
 kittygamer06660
 Kai The Hybrid
@@ -1132,7 +1130,6 @@ ToastedSugr
 Akira Masahito
 Gevauden
 BossJuggler54
-Mr_doomdagger
 werescout5782
 TypischRudi
 RedEyeDelta
@@ -1333,4 +1330,5 @@ ThtGamerChad
 EmpressStarNeko
 Chihiro2002
 ieatkids11 a4ba
+cinnxroll
 Johnny Apple
