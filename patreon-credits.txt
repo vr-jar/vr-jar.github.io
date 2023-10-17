@@ -1,5 +1,4 @@
 #TIER=0
-HatsuneMikuVR
 KeithiSnow
 StripedStash
 Adeon Writer
@@ -394,6 +393,7 @@ LCDR Akame
 RazerTech
 抹茶スパ／greenspa
 FlacidPatrick
+DDTGhost
 ʜ ᴏ ᴏ ᴅ ɪ ᴇ
 InvaderTheGator
 Hideri2021
@@ -821,6 +821,7 @@ wwwjjj100k
 Bread9670
 OldManThunder
 Jojo_darkblue
+HatsuneMikuVR
 Daffysmoove
 Mitchellblanton e155
 Storm_999
