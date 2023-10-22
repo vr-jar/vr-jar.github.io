@@ -889,6 +889,7 @@ Salem Asylum
 #TIER=1
 Goldy~
 ~Cassy~
+~GhostlyFlare~
 MeepsKitten
 AddieKilos
 Dorktoast
