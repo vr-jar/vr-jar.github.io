@@ -886,6 +886,7 @@ Tempo_Hawk
 Salem Asylum
 #TIER=1
 Goldy~
+~Cassy~
 MeepsKitten
 AddieKilos
 Dorktoast
