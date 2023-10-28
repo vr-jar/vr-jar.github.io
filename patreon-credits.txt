@@ -902,7 +902,6 @@ Goldy~
 ~GhostlyFlare~
 ~Reset~
 Jewelthepetbean
-Ruby_ru
 ᴀᴠᴏᴄᴀᴅᴏ
 Sendōh
 MeepsKitten
@@ -1179,6 +1178,7 @@ LeeTheFurry
 _fexa_
 ACGamingST 823c
 #TIER=2
+Ruby_ru
 bd_
 ParAlex
 magnummike
