@@ -1080,7 +1080,6 @@ MR_TIMO_LP
 ∗Ryu∗
 LuniTooni
 TheLastAzreal
--Ace of spades-
 Katamew
  Ibezio
 icyhalo5447
@@ -1178,6 +1177,7 @@ LeeTheFurry
 _fexa_
 ACGamingST 823c
 #TIER=2
+-Ace of spades-
 Ruby_ru
 bd_
 ParAlex
