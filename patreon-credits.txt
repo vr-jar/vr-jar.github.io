@@ -102,7 +102,6 @@ Xeon_The_Fox
 ~Spunky~
 FeralWolf427
 NightshadeLenar
-ruralist
 -ReDoX-
 Sophia Rexis
 Tundra Lunamos
@@ -1207,6 +1206,7 @@ LeeTheFurry
 _fexa_
 ACGamingST 823c
 #TIER=2
+ruralist
 XxGOTHIC_WOLFxX
 Millieblonde1 2b40
 Kayleigh Marie
