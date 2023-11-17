@@ -1,5 +1,4 @@
 #TIER=0
-Jay3409
 GlitchedStorm
 Steelhide
 IkodoMoonstrife
@@ -58,7 +57,6 @@ Pen2n／ペンペン
 SmokeVRC
 Pax the Casual
 Noctis Ahknor
-［ᴀɴɢᴇʟ］ღ
 Glitchy_Fox
 Pinkwolfie
 AMSWeb
@@ -524,7 +522,6 @@ Cwandaaa
 Supslowrobot
 RachetRanger
 Panthera2K7
-Jay3409
 Savvybmm
 ․·þåþå ๒єll·․
 Cris1126
@@ -875,6 +872,8 @@ ZeoFash
 BritishAubrey
 Weezer1812
 filming only
+Jay3409
+［ᴀɴɢᴇʟ］ღ
 #TIER=1
 missingnickel
 AkaruHaru
@@ -1146,6 +1145,7 @@ HighTruth_
 -ςђคгɭเє-
 Ａｍａｒｉ Ｇｒｉｍｅｓ
 ~SillyLily~
+VRCButterfly001
 #TIER=2
 Psych_Foxtrot
 TheCloaksMan
@@ -1330,3 +1330,4 @@ cinnxroll
 Johnny Apple
 ᴛʜᴇ ᴡᴀᴛᴄʜᴇʀ
 XRubyKitsuneX
+MamaBeele
