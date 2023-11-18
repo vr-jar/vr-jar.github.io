@@ -1148,6 +1148,7 @@ VRCButterfly001
 `Miner
 Adynamic
 ¤ErenJäger¤
+Figbean
 #TIER=2
 ~Monkee~
 Pogekira
