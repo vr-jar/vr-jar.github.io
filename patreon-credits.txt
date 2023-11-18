@@ -874,6 +874,7 @@ Jay3409
 Sterling
 Zen the Fen
 MajesticAstra
+xKaijo
 #TIER=1
 missingnickel
 AkaruHaru
@@ -1254,7 +1255,6 @@ MW3KingofWar
 Plague_VR
 Zi11a
 MountainDewGod
-hppedeaf
 monokro
 ElyjaGaming
 CataclysmDraco
@@ -1332,3 +1332,4 @@ XRubyKitsuneX
 MamaBeele
 Viger
 やぎ くずまき
+hppedeaf
