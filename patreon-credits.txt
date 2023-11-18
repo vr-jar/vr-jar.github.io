@@ -971,7 +971,6 @@ Neppyツ
 ˗ˏˋBlueFoxˎˊ˗
 DrCatspaw
 FlareWintermoon
-Hiddendemonsoul
 senkodev
 CheekyToonz
 -Toad~
@@ -1149,6 +1148,7 @@ VRCButterfly001
 Adynamic
 ¤ErenJäger¤
 Figbean
+Hiddendemonsoul
 #TIER=2
 ~Monkee~
 Pogekira
