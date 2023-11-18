@@ -1237,7 +1237,6 @@ TenRedBandit
 -Nezumi-
 Alatreonslayer
 Psychobatic
-Viger
 PhazonRidley95
 Black＂Flame
 TheArtAttack
@@ -1326,3 +1325,4 @@ Johnny Apple
 ᴛʜᴇ ᴡᴀᴛᴄʜᴇʀ
 XRubyKitsuneX
 MamaBeele
+Viger
