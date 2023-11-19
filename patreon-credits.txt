@@ -526,7 +526,6 @@ Savvybmm
 Cris1126
 ~Black Noir~
 AxoltheOrca
-AstralHusky20
 SilverTide
 Scuffed_VR
 KomiBread
@@ -874,6 +873,7 @@ MajesticAstra
 xKaijo
 Jay3409
 KaylaRose324
+AstralHusky20
 #TIER=1
 missingnickel
 AkaruHaru
