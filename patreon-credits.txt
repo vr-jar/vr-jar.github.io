@@ -1287,7 +1287,6 @@ TTV_LoneWolfPak
 Dacon
 GRUMPY VIKING
 Kitty_Forest
-ShadowRunner69
 Tony_Lewis
 WickedRaven98
 Ambi Dextro
@@ -1336,3 +1335,4 @@ Viger
 やぎ くずまき
 hppedeaf
 AtlasZeroHour
+ShadowRunner69
