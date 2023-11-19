@@ -1028,7 +1028,6 @@ aRkker
 Ekron Vulture
 Flameknight7
 Dargön
-JalenBarks
 ~Nightingale~
 Rexyy
 AncientDream
@@ -1155,6 +1154,7 @@ Adynamic
 ¤ErenJäger¤
 Figbean
 Hiddendemonsoul
+JalenBarks
 #TIER=2
 ~Monkee~
 Pogekira
