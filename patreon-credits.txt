@@ -823,7 +823,6 @@ MIntchoco1256
 Honeybee24
 Lord_Madara
 B100DW0LF
-LittleBroLuffy
 YulesIce
 Koisano
 Alex Alex
@@ -890,6 +889,7 @@ Kyderfox
 JamminJames22
 Pixel13234
 TrickySpookster
+BroLuffy
 #TIER=1
 missingnickel
 AkaruHaru
