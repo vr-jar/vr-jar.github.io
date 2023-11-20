@@ -885,6 +885,7 @@ Adeon Writer
 Greyfurr
 K_Viceroy
 HawkyVR
+LCDR Akame
 #TIER=1
 missingnickel
 AkaruHaru
