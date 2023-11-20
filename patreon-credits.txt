@@ -885,6 +885,7 @@ Ashkablade
 Adeon Writer
 Greyfurr
 K_Viceroy
+HawkyVR
 #TIER=1
 missingnickel
 AkaruHaru
