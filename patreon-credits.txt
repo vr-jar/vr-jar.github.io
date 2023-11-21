@@ -899,6 +899,7 @@ tipsydemondork
 Dero Myrteon
 Gorerilla
 Zero_Moon002
+DEATHANGEL_vr
 #TIER=1
 missingnickel
 AkaruHaru
