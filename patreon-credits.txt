@@ -1049,7 +1049,6 @@ Macil
 Ariyana
 Splargh
 RexWusky
-Dead_Batz
 Nogh0st
 CyanLaser
 AsheWHY
@@ -1187,6 +1186,7 @@ Honyo
 _Fallen_
 KnockedPluto258
 KitenSpiceLatte
+Dead_Batz
 #TIER=2
 ForestTheFox
 TheCloaksMan
