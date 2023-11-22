@@ -186,7 +186,6 @@ DarkShadowjb
 ElusiveFox35
 ULTRACHEESE
 Oni Kidou
-Lexiam
 TaterBaiter
 LuxIsBored
 NookieMyCookie
@@ -908,6 +907,7 @@ BitKino
 ｛Ruby≺3｝
 Ant1n3
 ｊｕｉｃｅｂｏｘ
+Lexiam
 #TIER=1
 missingnickel
 AkaruHaru
