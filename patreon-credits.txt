@@ -538,7 +538,6 @@ MilChenPanda
 ༒AshGamin༒
 Darolisk
 Iz_loko
-Soup_The_Simp
 （Atlas）
 BlueSkills
 ToastedDrago
@@ -919,6 +918,7 @@ Dangerzone50
 Neppy Uzume
 Pandah_y0
 DiamondTheDutch
+Soup_The_Simp
 #TIER=1
 missingnickel
 AkaruHaru
