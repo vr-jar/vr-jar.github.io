@@ -1001,7 +1001,6 @@ MidshipMorgan
 ［WhiteWolfMeg］
 seabanana
 calite
-saberslay
 Neppyツ
 07actual
 ˗ˏˋBlueFoxˎˊ˗
@@ -1228,6 +1227,7 @@ DrakenStark
 ~FluffyTiger~
 KoRnKoB95
 RoseHoneybee
+saberslay
 #TIER=2
 TheCloaksMan
 ForestTheFox
