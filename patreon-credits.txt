@@ -749,7 +749,6 @@ HuunyBun
 F̴o̴r̴t̴u̴n̴e̴
 SwiftShwisp
 Chiyo_VR
-༺༒FoxyʚɞAngel༒༻
 MearOwl
 MearOwl 94cd
 °Tempest°¿
@@ -911,6 +910,8 @@ SLEEPING-BEAUTY
 Happyface8300
 K̟u̟m̟o̟
 LaceWF
+༺༒FoxyʚɞAngel༒༻
+TiffINAy 
 #TIER=1
 missingnickel
 AkaruHaru
@@ -952,7 +953,6 @@ Thelvaen
 Nighteye54
 Emperor Zurg
 Butterflyvixin
-offset04
 thejackal
 Retrax500
 Artizea_
@@ -972,7 +972,6 @@ BossJuggler54
 TypischRudi
 Sylleath
 GreyFoxx74
-GothPanda
 ArdsFantasy
 SweetRSong
 ClawTheZin
@@ -1220,6 +1219,8 @@ CrownedCerberus
 DrCinnamonDa1
 JakeDoge
 Macil
+offset04
+GothPanda
 #TIER=2
 ForestTheFox
 TheCloaksMan
