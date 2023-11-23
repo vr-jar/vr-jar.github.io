@@ -1060,7 +1060,6 @@ aRkker
 Ekron Vulture
 Flameknight7
 Dargön
-~Nightingale~
 Rexyy
 AncientDream
 MythicalCuddles
@@ -1234,6 +1233,7 @@ saberslay
 senkodev
 Ziggy Darkglow
 ToxicHowl
+~Nightingale~
 #TIER=2
 ArkoNero
 ~Monkee~
