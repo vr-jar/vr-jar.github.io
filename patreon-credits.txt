@@ -1066,7 +1066,6 @@ AncientDream
 MythicalCuddles
 Midnight Myth
 NathanTheRikkor
-Macil
 Ariyana
 Splargh
 RexWusky
@@ -1219,6 +1218,8 @@ ABYSSAL~
 Osamabinjose
 CrownedCerberus
 DrCinnamonDa1
+JakeDoge
+Macil
 #TIER=2
 ForestTheFox
 TheCloaksMan
