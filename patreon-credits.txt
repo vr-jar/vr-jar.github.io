@@ -649,7 +649,6 @@ AgnosticNoss
 ɢᴏᴛʜɪᴄᴄ ᴅᴏɢɢᴏ
 Nekiyo
 ＤＥＡＴＨ?
-Pandah_y0
 OfficalWBRNXen
 Valeazra
 Yorichiru
@@ -919,6 +918,7 @@ OzzieVA
 Dangerzone50
 -ReDoX-
 Neppy Uzume
+Pandah_y0
 #TIER=1
 missingnickel
 AkaruHaru
