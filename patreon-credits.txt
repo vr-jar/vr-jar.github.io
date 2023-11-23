@@ -1225,6 +1225,7 @@ GothPanda
 KokonaFan d8e8
 smackkers
 Astronaut Meeps
+NixyTheSnep
 #TIER=2
 TheCloaksMan
 ForestTheFox
@@ -1367,7 +1368,6 @@ Dacon
 GRUMPY VIKING
 Kitty_Forest
 Tony_Lewis
-WickedRaven98
 Ambi Dextro
 Kill Bill
 EtherealRaccoon
@@ -1417,3 +1417,4 @@ ShadowRunner69
 Cloaked Schemer
 Floofway
 MrCreepyPasta
+WickedRaven98
