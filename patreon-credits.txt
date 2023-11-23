@@ -1226,6 +1226,7 @@ smackkers
 Astronaut Meeps
 NixyTheSnep
 DrakenStark
+~FluffyTiger~
 #TIER=2
 TheCloaksMan
 ForestTheFox
