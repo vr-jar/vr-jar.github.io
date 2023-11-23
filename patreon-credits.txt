@@ -1022,7 +1022,6 @@ Jövil
 MrKrabsLaugh
 ~Praestigiator~
 LockieHellfire
-IFelix
 ~~Nickname~~
 SilverInk
 Mysticola
@@ -1235,6 +1234,7 @@ Ziggy Darkglow
 ToxicHowl
 ~Nightingale~
 senkodev
+IFelix
 #TIER=2
 ArkoNero
 ~Monkee~
