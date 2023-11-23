@@ -1025,7 +1025,6 @@ SilverInk
 Mysticola
 SeismicCon
 CrypticCassidy
-Kornkob95
 ittie
 KillerBatDrone
 Hādēs
@@ -1227,6 +1226,7 @@ Astronaut Meeps
 NixyTheSnep
 DrakenStark
 ~FluffyTiger~
+KoRnKoB95
 #TIER=2
 TheCloaksMan
 ForestTheFox
