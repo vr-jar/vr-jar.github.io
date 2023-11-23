@@ -482,7 +482,6 @@ WolfGamesHD1
 Dwën
 NanoBunTV
 Kanji_UwU
-Twigglestick
 Kuyajoey
 Squirrel
 ༒Flower༒
@@ -913,6 +912,7 @@ Calmsy Jinx
 TiffINAy
 GodDan420
 ͶEKOYΑΚΙ
+Twigglestick
 #TIER=1
 missingnickel
 AkaruHaru
@@ -1217,6 +1217,7 @@ ABYSSAL~
 Osamabinjose
 CrownedCerberus
 DrCinnamonDa1
+Vancom
 JakeDoge
 Macil
 offset04
