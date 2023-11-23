@@ -1223,7 +1223,6 @@ GothPanda
 KokonaFan d8e8
 smackkers
 Astronaut Meeps
-NixyTheSnep
 DrakenStark
 ~FluffyTiger~
 KoRnKoB95
@@ -1235,6 +1234,7 @@ ToxicHowl
 ~Nightingale~
 senkodev
 IFelix
+NixyTheSnep
 #TIER=2
 ArkoNero
 ~Monkee~
@@ -1427,4 +1427,4 @@ MrCreepyPasta
 WickedRaven98
 Cloaked Schemer
 LittleWolfy_
-ShadowDoctor659 
+ShadowDoctor659
