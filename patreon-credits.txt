@@ -1075,7 +1075,6 @@ ErikJB
 Sendōh
 ｜SlyJenna｜
 Maiaer
-DrakenStark
 Virtual_Jeffy
 Mєi ･ও
 DiabloSAVG
@@ -1226,6 +1225,7 @@ KokonaFan d8e8
 smackkers
 Astronaut Meeps
 NixyTheSnep
+DrakenStark
 #TIER=2
 TheCloaksMan
 ForestTheFox
