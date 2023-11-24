@@ -929,6 +929,7 @@ GMAXstarlight17
 blacklistkj 0f4b
 Honeybee (some special symbols)
 woahpotato
+EchoDeltaVR 
 #TIER=1
 missingnickel
 AkaruHaru
