@@ -919,6 +919,7 @@ DollKingEmmett
 nepnep110
 LordMythix
 Lhylak
+~awesome~
 #TIER=1
 missingnickel
 AkaruHaru
@@ -1246,6 +1247,7 @@ voidedreaper115
 Pandem0nium
 Jonathanlh
 Hiccup-
+~グリーンミスト~
 #TIER=2
 TheCloaksMan
 Pogekira
