@@ -932,6 +932,7 @@ EchoDeltaVR
 LuckyLuigiX4
 Pay112233
 Bread9670
+chuck1200
 #TIER=1
 missingnickel
 AkaruHaru
