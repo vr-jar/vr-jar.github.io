@@ -923,7 +923,6 @@ SleepKing731
 Mercy383
 cooljoe
 BakaHydra
-gmax.starlight 89bf
 #TIER=1
 missingnickel
 AkaruHaru
