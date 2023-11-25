@@ -1017,7 +1017,6 @@ kemoki
 MugiwaraCosplay
 Zayde Tenshi
 Nimble Weave
-Chaosmyth
 BlaketheWagon
 Sergal_Gaming
 Krusnik760
@@ -1297,6 +1296,7 @@ Alex_White985
 ༒Lucidity༒
 Oka Hancroft
 Vyse foxx
+Chaosmyth
 #TIER=2
 CODBO3RGM3
 ~Monkee~
