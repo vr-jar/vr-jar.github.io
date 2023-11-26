@@ -1,6 +1,5 @@
 #TIER=0
 GlitchedStorm
-Steelhide
 IkodoMoonstrife
 Dracaelus
 YuuClark
@@ -973,6 +972,7 @@ Foxy Pigeonx
 missingnickel
 AkaruHaru
 Riles
+Steelhide
 AtroxChobatsu
 LefTonbo
 Pyric Static
