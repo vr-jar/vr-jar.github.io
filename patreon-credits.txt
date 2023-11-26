@@ -965,7 +965,6 @@ AkaruHaru
 Riles
 AtroxChobatsu
 LefTonbo
-Radio Miku
 Pyric Static
 Fireblast123
 Wolfy_Dusk
@@ -1314,6 +1313,7 @@ SoulBurner67
 Valantine~
 TenRedBandit
 Scramble c373
+Radio Miku
 #TIER=2
 ~Monkee~
 CODBO3RGM3
