@@ -956,6 +956,7 @@ Akela~
 ~Vio-
 Crescent16
 LuvSushi
+NeuroNebula
 #TIER=1
 missingnickel
 AkaruHaru
@@ -1308,6 +1309,7 @@ zx6r
 -ʀɪʏᴜ-
 MackYuki
 ~Ashtoria~
+SoulBurner67
 #TIER=2
 ~Monkee~
 CODBO3RGM3
