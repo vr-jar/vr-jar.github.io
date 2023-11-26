@@ -1322,9 +1322,9 @@ Scramble c373
 Radio Miku
 Dazethesparkfem
 ~conk~
-SpookyDuke f162
 WalGesicht
 _Malphas
+SpookDuke
 #TIER=2
 Psych_Foxtrot
 ForestTheFox
