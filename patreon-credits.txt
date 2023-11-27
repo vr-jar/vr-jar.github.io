@@ -1349,7 +1349,6 @@ FadeuUnknown
 ZawaYashi
 HaydenPrime
 Gankmynuts
-It’sCoffee
 BlastBeatFolf
 #TIER=2
 ForestTheFox
