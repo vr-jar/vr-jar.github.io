@@ -1394,6 +1394,7 @@ NovaStarTempest
 KingdomChaosGod
 -Mors
 Sukiiツ
+FloofyAltair
 #TIER=2
 ForestTheFox
 CODBO3RGM3
