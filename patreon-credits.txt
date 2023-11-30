@@ -1046,6 +1046,7 @@ StarSkunk
 DarkHorse05 703e
 VR-Jerry-Smith
 ShmexyDianosawr
+Lacornae
 #TIER=1
 ~ Ветерок ~
 missingnickel
@@ -1442,6 +1443,7 @@ MagicTyFighter
 BlueMarker21
 Noobzoard
 shadow214313
+Gootz
 #TIER=2
 redneck kill
 CODBO3RGM3
