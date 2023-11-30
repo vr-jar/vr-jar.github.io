@@ -1036,7 +1036,6 @@ FustyIugs
 GMNPrime
 ì
 PeanutBuddha
-Shammÿ
 ༒ANG3LDR3AMS༒
 Aurorize4
 #TIER=1
@@ -1430,6 +1429,7 @@ DiaraD
 JadedGale
 TobiasGriffin
 Sheldon_SpaceX
+MagicTyFighter
 BlueMarker21
 Noobzoard
 #TIER=2
@@ -1636,3 +1636,4 @@ kittygamer06660
 Cinnamon_buns23
 ᴛʜᴇ ᴡᴀᴛᴄʜᴇʀ
 MuffyButt
+Shammÿ
