@@ -1016,10 +1016,10 @@ ColtWylde
 Butterbunni
 sad_lil_b
 Makudonaludo
-Jay3409
 Yeshou
 AngelOfHell
 Debbiecat
+Jay3409
 #TIER=1
 ~ Ветерок ~
 missingnickel
@@ -1415,6 +1415,7 @@ anon_fox
 Wolfy90Jungle
 ;UwU
 Ducketh
+Bastoss
 #TIER=2
 Pogekira
 CODBO3RGM3
