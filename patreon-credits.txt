@@ -146,7 +146,6 @@ Dot｡Jen
 air_エアー
 ラジオサラダ
 vinser17
-Butterbunni
 deasolum
 プレアデス
 XIIIJason_
@@ -1043,6 +1042,7 @@ maki̸̘͒
 ColtWylde
 ᴅᴏʟʟsᴋɪɴ
 9end_4
+Butterbunni
 #TIER=1
 ~ Ветерок ~
 missingnickel
