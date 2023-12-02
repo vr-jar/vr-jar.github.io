@@ -530,7 +530,6 @@ Worksolution506
 Coomdump
 ϟamhain
 TheCavan
-kangatheroo
 ~Lonely-Prince~
 sbnu
 Sai~
@@ -1020,6 +1019,7 @@ Yeshou
 AngelOfHell
 Debbiecat
 Trexy1220
+kangatheroo
 #TIER=1
 ~ Ветерок ~
 missingnickel
