@@ -177,7 +177,6 @@ ULTRACHEESE
 Oni Kidou
 TaterBaiter
 LuxIsBored
-NookieMyCookie
 Fusl™
 Kiwi®
 FeralWolf427
@@ -1065,6 +1064,7 @@ Sleepymans
 Ketzuto
 BIBI Tԋҽ Dσʋҽ
 bow_hq
+NookieMyCookie
 #TIER=1
 ~ Ветерок ~
 missingnickel
