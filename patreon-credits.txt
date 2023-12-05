@@ -1181,7 +1181,6 @@ Hādēs
 coderbritton05
 HotChomper
 Alatreon_Killer
-TheAuraFusion
 爪_千_乃
 FireGaming
 LanePaxton
@@ -1487,6 +1486,7 @@ ATypicalMistake
 D4rk3st_V01d
 ~-Evie-~
 iiYugi
+TheAuraFusion
 #TIER=2
 Z-AuraSphere23
 saika mujuuk
