@@ -1520,6 +1520,7 @@ Gluo
 Fighter_Builder
 M̲a̲r̲s̲
 RiderSavior
+The Haze
 #TIER=2
 Z-AuraSphere23
 saika mujuuk
