@@ -1631,6 +1631,7 @@ DEADEYE36635
 BlackOutJoker
 CorpseLady
 Ghoulrevived
+Roxanne53
 #TIER=3
 SidMarcus
 PinballReviewer
