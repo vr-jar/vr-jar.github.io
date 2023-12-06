@@ -1628,6 +1628,7 @@ Jay~Jay
 DEADEYE36635
 BlackOutJoker
 CorpseLady
+Ghoulrevived
 #TIER=3
 SidMarcus
 PinballReviewer
