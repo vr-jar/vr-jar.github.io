@@ -1097,6 +1097,7 @@ KiwamiAntounVT
 Hiiru
 ~Duracell~
 Fuarthain
+Diamondst
 #TIER=1
 ~ Ветерок ~
 missingnickel
