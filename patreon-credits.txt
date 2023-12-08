@@ -1412,7 +1412,6 @@ Macil
 offset04
 GothPanda
 KokonaFan d8e8
-smackkers
 Astronaut Meeps
 DrakenStark
 ~FluffyTiger~
@@ -1560,6 +1559,7 @@ SweetKitsune
 っ0°0っʎǝlᴉɹ
 shinji001
 O6_Jax
+smackkers
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
