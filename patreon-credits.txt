@@ -1215,7 +1215,6 @@ Emperor Zurg
 Butterflyvixin
 thejackal
 Retrax500
-Artizea_
 killerswo
 El Kunai
 mariposamuerte
@@ -1634,6 +1633,7 @@ Rhonas
 Kilo The Fluff
 Nommers_Alt
 StrawHat-Luffy
+Artizea__
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
