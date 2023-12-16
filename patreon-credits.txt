@@ -624,7 +624,6 @@ Havent
 AgnosticNoss
 ɢᴏᴛʜɪᴄᴄ ᴅᴏɢɢᴏ
 Nekiyo
-OfficalWBRNXen
 Valeazra
 NINJASHARKISHA
 JDancingCloaker
@@ -1204,6 +1203,7 @@ ilydark
 Psycho_king92
 Blụsh
 OilyBalls
+-V2i0-
 #TIER=1
 ~ Ветерок ~
 missingnickel
@@ -1786,6 +1786,7 @@ Deadlylinevr
 That 1950's guy
 Crayolathegamer
 WuffleBiscuit
+Dusk_Blainville
 #TIER=3
 SidMarcus
 PinballReviewer
