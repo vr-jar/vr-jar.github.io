@@ -1257,7 +1257,6 @@ ArdsFantasy
 SweetRSong
 ClawTheZin
 Riokoneko
-CorgiCraft
 kemoki
 MugiwaraCosplay
 Zayde Tenshi
@@ -1660,6 +1659,7 @@ Jade Furry
 LilDripDropOwo
 ༒§kïll_Ì§§µê༒
 EliteRussianGuy
+Melloniac
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
