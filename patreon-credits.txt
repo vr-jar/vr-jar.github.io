@@ -1208,6 +1208,7 @@ Cubix-2g
 endoskelitonbro
 hatkyd
 ༒RainOutlaw༒
+Sçãrä
 #TIER=1
 ~ Ветерок ~
 missingnickel
@@ -1800,7 +1801,7 @@ WuffleBiscuit
 Dusk_Blainville
 WzlsXLeapie
 ~GECKO~
-Sçãrä
+Halfsackian
 #TIER=3
 SidMarcus
 PinballReviewer
