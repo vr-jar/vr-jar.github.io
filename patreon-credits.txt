@@ -632,7 +632,6 @@ B1ueTheWolf
 PerseveranceTG
 Alley-Katz
 yorkwarrior
-_Labyrinth_
 zǝǝɹq
 SilentStarVR
 -Wispur-
@@ -1213,6 +1212,7 @@ freshclover
 Mozkey
 Furscots
 Dwën
+_Labyrinth_
 #TIER=1
 ~ Ветерок ~
 missingnickel
