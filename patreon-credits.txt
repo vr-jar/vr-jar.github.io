@@ -460,7 +460,6 @@ momothemonster
 CozyCoral
 Lark_
 Cypher100
-Dwën
 NanoBunTV
 Kanji_UwU
 Kuyajoey
@@ -1213,6 +1212,7 @@ Sçãrä
 freshclover
 Mozkey
 Furscots
+Dwën
 #TIER=1
 ~ Ветерок ~
 missingnickel
