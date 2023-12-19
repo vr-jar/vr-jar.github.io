@@ -1298,7 +1298,6 @@ _PANDA__
 Krusnik760
 ღภєк๏ღ
 Rathain Kuromaru
-Hecker
 dstayton
 MadJackRabbit
 Avionora
@@ -1707,6 +1706,7 @@ Yoshino Sakura
 ْْْ7
 ღ LaxMothy ღ
 vaccinatorguy
+Hecker
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
