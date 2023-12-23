@@ -1251,6 +1251,8 @@ Marshalpoi
 sbnu
 Jackal_VR
 CowboyVR
+ねこunknownねこ
+PrimordialAqua
 #TIER=1
 ~ Ветерок ~
 missingnickel
@@ -1454,7 +1456,6 @@ TheFluxGoddess
 Sma11Dood1e
 Š ø ń ã
 Dangerspike
-Revrsee-
 OZZ¥
 ǝuoɥd¯ǝsɹǝԀ
 ~Λᴎเռყค~
@@ -1746,6 +1747,7 @@ washy․tics
 TheMandoMan
 GioPro1
 FlacidPatrick
+-PlayBoy
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
