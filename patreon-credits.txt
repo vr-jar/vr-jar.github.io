@@ -1253,6 +1253,7 @@ Jackal_VR
 CowboyVR
 ねこunknownねこ
 PrimordialAqua
+Atuwq
 #TIER=1
 ~ Ветерок ~
 missingnickel
