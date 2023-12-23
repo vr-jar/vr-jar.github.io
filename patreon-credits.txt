@@ -1249,6 +1249,8 @@ DisasterInACan
 ~TophatRaptorVR
 Marshalpoi
 sbnu
+Jackal_VR
+CowboyVR
 #TIER=1
 ~ Ветерок ~
 missingnickel
