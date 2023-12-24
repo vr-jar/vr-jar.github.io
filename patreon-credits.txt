@@ -1254,6 +1254,7 @@ CowboyVR
 ねこunknownねこ
 PrimordialAqua
 Atuwq
+superiorDudeist
 #TIER=1
 ~ Ветерок ~
 missingnickel
@@ -1749,6 +1750,7 @@ TheMandoMan
 GioPro1
 FlacidPatrick
 -PlayBoy
+PigG13
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
