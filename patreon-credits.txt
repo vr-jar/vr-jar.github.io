@@ -1257,6 +1257,7 @@ Hunter_Blunt
 Handacondaa
 Yumi （ ユミ）
 ItsChiyo
+Baku_VR
 #TIER=1
 ~ Ветерок ~
 missingnickel
