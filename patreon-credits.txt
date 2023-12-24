@@ -693,7 +693,6 @@ BlackTeddyBear
 HuunyBun
 F̴o̴r̴t̴u̴n̴e̴
 SwiftShwisp
-Chiyo_VR
 MearOwl
 MearOwl 94cd
 Sxon
@@ -1257,6 +1256,7 @@ SerenityGrace
 Hunter_Blunt
 Handacondaa
 Yumi （ ユミ）
+ItsChiyo
 #TIER=1
 ~ Ветерок ~
 missingnickel
