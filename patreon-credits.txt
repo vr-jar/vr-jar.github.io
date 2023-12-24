@@ -1256,6 +1256,7 @@ DEATHANGEL_vr
 SerenityGrace
 Hunter_Blunt
 Handacondaa
+Yumi （ ユミ）
 #TIER=1
 ~ Ветерок ~
 missingnickel
@@ -1751,6 +1752,7 @@ FlacidPatrick
 PrimordialAqua
 -PlayBoy
 PigG13
+Shiro Akatsumi
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
