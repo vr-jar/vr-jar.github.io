@@ -1253,6 +1253,7 @@ CowboyVR
 Atuwq
 superiorDudeist
 RoseRainwater
+DEATHANGEL_vr
 #TIER=1
 ~ Ветерок ~
 missingnickel
