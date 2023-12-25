@@ -1578,7 +1578,6 @@ MackYuki
 SoulBurner67
 Valantine~
 TenRedBandit
-Scramble c373
 Radio Miku
 Dazethesparkfem
 ~conk~
@@ -1755,6 +1754,7 @@ SchwiftySniper
 Q u p i d
 ღHazel_Luckღ
 【Ｋｉｂｂｙ】
+ScrambleCozy
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
