@@ -1759,6 +1759,7 @@ Q u p i d
 【Ｋｉｂｂｙ】
 ScrambleCozy
 Naleris
+diamonddevil
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
