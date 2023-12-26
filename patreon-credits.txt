@@ -1259,6 +1259,8 @@ Kätzchen_
 LgndSupernova
 NixPigeon
 bow_hq
+CappyBaron
+MrCLeAn19
 #TIER=1
 missingnickel
 AkaruHaru
