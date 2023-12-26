@@ -1767,6 +1767,7 @@ ScrambleCozy
 Naleris
 diamonddevil
 linkstar612
+Moguu
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
