@@ -1261,6 +1261,7 @@ NixPigeon
 bow_hq
 CappyBaron
 MrCLeAn19
+~TisNova~
 #TIER=1
 missingnickel
 AkaruHaru
