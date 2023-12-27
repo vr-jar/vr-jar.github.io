@@ -1272,7 +1272,6 @@ bow_hq
 CappyBaron
 MrCLeAn19
 ~TisNova~
-Contimential
 #TIER=1
 missingnickel
 AkaruHaru
