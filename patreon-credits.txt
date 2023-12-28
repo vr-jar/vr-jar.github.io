@@ -1905,7 +1905,6 @@ CWG1178
 Ubba Bear
 Graystripe
 Spleensᵛʳ
----Lunar---
 #TIER=3
 SidMarcus
 PinballReviewer
@@ -2044,3 +2043,4 @@ Liliweiss
 Positive VR
 ᴛʜᴇ ᴡᴀᴛᴄʜᴇʀ
 Forgotten_Ghost
+---Lunar---
