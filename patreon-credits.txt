@@ -617,7 +617,6 @@ AgnosticNoss
 Nekiyo
 Valeazra
 NINJASHARKISHA
-JDancingCloaker
 AWildShuri
 RíceƁåll
 Ƨ Ө B Σ Я
@@ -1287,6 +1286,7 @@ MariTheSlayer
 FosterIsShort
 YIKI WRLD
 ZeirTheFox01
+festivefemboy
 #TIER=1
 ~ Ветерок ~
 missingnickel
@@ -1928,6 +1928,7 @@ Spleensᵛʳ
 TheDrunkenMel
 원ᴍɪᴋᴇʏ원
 Womanizer4Men
+CorruptedEntity
 #TIER=3
 SidMarcus
 PinballReviewer
