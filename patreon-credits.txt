@@ -1295,7 +1295,6 @@ Karliea
 ღ Kari
 #TIER=1
 ~ Ветерок ~
-missingnickel
 AkaruHaru
 Riles
 Steelhide
@@ -1451,7 +1450,6 @@ PhthaloBlue
 WriterFluff
 ThunderBolt95
 Georninja
-missingnickel
 squidyboi
 FecalFart
 -Tabbid-
@@ -1809,6 +1807,7 @@ The darkest sun
 Wolfie1330
 Lexious
 Cosmic-Furry
+missingnickel
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
