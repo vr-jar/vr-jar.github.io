@@ -1304,6 +1304,7 @@ MR Luigixp
 m1ch_
 JakeGaming270
 ジKenjiJenjiジ
+Bonnie 204
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
@@ -1826,6 +1827,7 @@ TrevorBear
 Rosette'
 ツCalico
 NoboruArata
+Xeo․
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
