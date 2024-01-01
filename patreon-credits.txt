@@ -1930,6 +1930,7 @@ Womanizer4Men
 CorruptedEntity
 Random2005 7b46
 Bootleg Sid
+SpiceReaper
 #TIER=3
 SidMarcus
 PinballReviewer
