@@ -1282,6 +1282,7 @@ Alimancer
 Darcknight12332
 Marzipaca
 Call24843455O8
+UrFurryFriend
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
@@ -1465,7 +1466,6 @@ Cyclone∗
 ~Cassy~
 ąքէϚҟմӀӀօց
 TheLastAzreal
-LooksToTheMoon1
 Bizzle77
 ＂Ｍ Ｉ Ｋ Ａ＂
 alka_tsukin
@@ -1803,6 +1803,7 @@ LUSTM4RE
 freddokamado
 madcap 5t
 werewolf332
+CompanyMember
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
