@@ -1889,6 +1889,7 @@ _Bael_
 Katamew
 AbsolutelyNot
 FullMetalFoxx
+_Sonic-
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
