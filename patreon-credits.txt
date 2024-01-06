@@ -1374,7 +1374,6 @@ Holy_Guacamole
 SpaceFox․
 Reserk
 RevenantAD
-Katamew
 CN-愚蠢的小旋
 mina．
 Lawbrojr
@@ -1886,6 +1885,7 @@ Mistkuni
 _Bael_
 ᴅιvιɴᴇᴀɴԍᴇʟ
 ｃｈｉｍｉ ゟジぢ
+Katamew
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
