@@ -1367,6 +1367,7 @@ LongPinkNoodle
 TheMutant44
 _Linea_
 Nаtty
+OzbendPrime
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
@@ -1912,6 +1913,7 @@ scottytheghost
 ZZ_Ignis
 ϚҟմӀlDօƃ
 Dwayne Kentson
+KILLMASTER2032
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
