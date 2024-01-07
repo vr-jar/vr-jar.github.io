@@ -574,7 +574,6 @@ Analog Heart
 DοΖy
 lυɴαr eclιpѕe
 Beanuko
-Ιumina
 F͓̽e͓̽a͓̽r͓̽
 Samwich~
 mutekai
@@ -1367,6 +1366,7 @@ hooded_dll
 LongPinkNoodle
 TheMutant44
 _Linea_
+Nаtty
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
