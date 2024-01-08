@@ -1369,7 +1369,6 @@ Case_Talos
 ༒Mistress Jana༒
 Roxanne_Starboy
 Mackenzie Heart
-Pronkix
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
@@ -2048,6 +2047,7 @@ kaybean510
 Panda1061
 ღMidnight_hazeღ
 Drunk Ghostface
+Pronkix
 #TIER=3
 SidMarcus
 PinballReviewer
