@@ -1363,6 +1363,7 @@ xanąx
 OzbendPrime
 titangolem5000
 Starrin
+Case_Talos
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
