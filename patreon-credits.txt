@@ -1935,6 +1935,7 @@ SolsticeF0X
 Konshu
 iHadeis
 Pandora
+ItzFlaco
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
