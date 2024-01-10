@@ -1936,6 +1936,7 @@ Konshu
 iHadeis
 Pandora
 ItzFlaco
+FrostMoonKnight
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
