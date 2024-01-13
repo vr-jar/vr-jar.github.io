@@ -621,7 +621,6 @@ Ludo The Cabbit
 samstack
 ~FF Frisk
 【 Ｌａｔｔｅ 】
-Somethings Feet
 SpyroDragon76
 Kenmaskittie 72c3
 UnknxwnVR
@@ -1424,6 +1423,7 @@ himopimo
 ღᵀᴵᵀᴬᴺღ
 Prototyping
 Biblobloom
+BreakcoreAddict
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
