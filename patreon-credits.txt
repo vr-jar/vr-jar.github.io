@@ -1450,6 +1450,7 @@ JRC_2_BAD
 Thunder405YT
 SakiShogun
 Slav_Ghost
+violetblitz
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
