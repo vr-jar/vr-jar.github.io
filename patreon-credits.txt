@@ -1447,6 +1447,7 @@ Hadal Vagrant
 Lone Of Wrath
 vampyrdeath
 °Lyo°
+JRC_2_BAD
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
