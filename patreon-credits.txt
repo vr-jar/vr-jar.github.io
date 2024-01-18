@@ -1472,6 +1472,7 @@ ProbablyCaption
 Lunart
 Lunar_Star90
 RetroKaiju
+༺Ventrix༻
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
