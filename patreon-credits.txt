@@ -1470,6 +1470,7 @@ Lunar_Star90
 RetroKaiju
 ༺Ventrix༻
 ZΣΣ'
+Paint_Strip
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
