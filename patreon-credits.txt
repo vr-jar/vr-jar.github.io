@@ -1471,6 +1471,7 @@ Frostyx24
 ProbablyCaption
 Lunart
 Lunar_Star90
+RetroKaiju
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
