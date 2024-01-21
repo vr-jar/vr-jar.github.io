@@ -1478,6 +1478,7 @@ FoxxoDaBro15
 竜｜Ａｚｒａｅｌ
 Fallouren
 Koppu_
+VolteerDAD
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
@@ -2044,6 +2045,7 @@ Instaboi
 Jay_LivingDiff
 coderbritton05
 ~sᴀʙɪ~
+-NightSky-
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
