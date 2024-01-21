@@ -2168,7 +2168,6 @@ Plague_VR
 Zi11a
 MountainDewGod
 monokro
-ElyjaGaming
 CataclysmDraco
 SHYMAN
 Monti Wolf
@@ -2291,3 +2290,4 @@ ThiccSkullDaddy
 èepy kitty
 xSonicEevee
 Ɛ≻MokaLoka≺3
+ElyjaGaming
