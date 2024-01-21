@@ -1161,7 +1161,6 @@ Barksley
 Darkedge2285
 ༒Asta4 ༒
 織田 狂三（Kurumi）
-TicTacModz
 -_Fenrir_-
 Kätzchen_
 LgndSupernova
@@ -1472,6 +1471,7 @@ ArsonisticRat2
 ItFruitJuice
 AvocadoHusky
 ARman444
+IAmPuff
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
