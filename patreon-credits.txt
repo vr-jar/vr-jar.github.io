@@ -2176,6 +2176,7 @@ flora_real
 Mandalorian8629
 FreehandDuke
 YeetleMcDeetle
+Phantom
 #TIER=3
 SidMarcus
 PinballReviewer
