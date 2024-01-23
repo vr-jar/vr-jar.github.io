@@ -1425,6 +1425,7 @@ Djetak
 AutumnFiametta
 Tac Esproque
 死Shadow恐
+octovic30
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
