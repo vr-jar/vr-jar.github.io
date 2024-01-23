@@ -1314,7 +1314,6 @@ duskDaFloof
 FlipperEarth38o
 Shmuk Murica
 ElectroQT314
-Jay3409
 -RALTZ-
 Slyphix
 Axyrthz
@@ -1453,6 +1452,7 @@ Euphynos
 ᴵᵃᵐPUPPY_Clank
 StonksDealer
 nentendo126
+Jay3409
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
