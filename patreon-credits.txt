@@ -1451,6 +1451,7 @@ Santafip
 TicTacModz
 Euphynos
 ᴵᵃᵐPUPPY_Clank
+StonksDealer
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
