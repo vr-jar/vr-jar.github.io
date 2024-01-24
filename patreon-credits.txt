@@ -1398,7 +1398,6 @@ Fallouren
 Koppu_
 VolteerDAD
 Gamerlord123
-AvocadoHusky
 ItsXan
 Rhohnin
 ღ Zarei ღ
@@ -1426,6 +1425,7 @@ nentendo126
 PixelArt2
 Jay3409
 Cutewolfe14
+AvocadoHusky
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
