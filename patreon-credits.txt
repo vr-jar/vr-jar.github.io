@@ -661,7 +661,6 @@ Honeybee24
 B100DW0LF
 YulesIce
 Koisano
-ღ?不明キル。ღ
 ToxicRedDragon
 Imani~
 ༺亗 Skyberry 亗༻
@@ -1453,6 +1452,7 @@ ESGOLET
 Shallwe?
 Animak
 NetvLa
+ღ不明キル。ღ
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
