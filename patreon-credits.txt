@@ -1470,6 +1470,7 @@ Derilix
 TooSleepy4U
 Emmikuni
 -Azul
+BakaHydra
 #TIER=1
 AkaruHaru
 Riles
