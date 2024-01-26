@@ -6,23 +6,23 @@ VERIFIED: False
 TAGS: Skit
 SET: Dining Room
 CHARACTERS ================================
-WOMAN: Person allergic to dogs:Center Stage
-TRAINER: Dog trainer:Entrance Stage Left
-DOG: Dog:Entrance Stage Left
-OWNER: Cat owner:Backstage
 CAT: Cat:Backstage
+OWNER: Cat owner:Backstage
+DOG: Dog:Entrance Stage Left
+TRAINER: Dog trainer:Entrance Stage Left
+WOMAN: Person allergic to dogs:Center Stage
 SUGGESTIONS =============================
-SNACK: A snack food:Doritos, Jolly Rancher, chocolate tacos with strawberry sauce
-POODLE: A type of dog:poodle, dalmatian, great dane
-DND CHARACTER DESCRIPTION: Describe a Dungeons and Dragons character:half-elf barbarian who grew up cooking pies for the king but one day accidentally poisoned the king and is now on a quest to clear his name, a wizard who can cast any spell and also has one million hit points, a cute wittol tiefling with cute wittol horns teehee
-MITTENS: A cat name:Mittens, Mister Dumpy, Gucci
-PRICELESS ANTIQUES: Something priceless or fragile you don't want to break:priceless anime figurine collection, antique crystal toilet that belonged to the Queen
-CUPCAKE: Something not worth fighting a war over:cupcake, Popey'es fried chicken, NFT
-STRENUOUS ACTIVITY: Something that takes physical effort to do:walking to school every day- through the snow- uphill, stopping bad guys from committing no-no crimes, talking smack about my boss behind her back
-THIGHS: A body part you might work out:inner thighs, toes, abdominals
-MAGAZINES: Something you might hide in your bedroom:tasteful magazines with pictures of old people, bedtime fun pills, severed human ear collection
-VEHICLE: A vehicle:horse, submarine, skateboard, Harley
 DND CREATURE: A fantasy creature:dragon, orc, dwarf
+VEHICLE: A vehicle:horse, submarine, skateboard, Harley
+MAGAZINES: Something you might hide in your bedroom:tasteful magazines with pictures of old people, bedtime fun pills, severed human ear collection
+THIGHS: A body part you might work out:inner thighs, toes, abdominals
+STRENUOUS ACTIVITY: Something that takes physical effort to do:walking to school every day- through the snow- uphill, stopping bad guys from committing no-no crimes, talking smack about my boss behind her back
+CUPCAKE: Something not worth fighting a war over:cupcake, Popeye's fried chicken, NFT
+PRICELESS ANTIQUES: Something priceless or fragile you don't want to break:priceless anime figurine collection, antique crystal toilet that belonged to the Queen
+MITTENS: A cat name:Mittens, Mister Dumpy, Gucci
+DND CHARACTER DESCRIPTION: Describe a Dungeons and Dragons character:half-elf barbarian who grew up cooking pies for the king but one day accidentally poisoned the king and is now on a quest to clear his name, a wizard who can cast any spell and also has one million hit points, a cute wittol tiefling with cute wittol horns teehee
+POODLE: A type of dog:poodle, dalmatian, great dane
+SNACK: A snack food:Doritos, Jolly Rancher, chocolate tacos with strawberry sauce
 SCRIPT ==========================================
 WOMAN: (Arrange snacks on the table) Let's see, I've got popcorn, pretzels, and SNACK.
 WOMAN: Hopefully that's enough for tonight's 6-hour Dungeons and Dragons session.
@@ -46,7 +46,7 @@ Meanwhile TRAINER: (Wander around touching stuff)
 WOMAN: (Sneeze) Achoo! I'm allergic to dogs! Especially POODLEs!
 TRAINER: (Noticing snacks on table) Ah sweet! You have SNACK? Don't mind if I do! (Eat snacks)
 TRAINER: (To DOG) Do you want some SNACK, boy? (Feed DOG some snacks)
-Meanwhile DOG: Woof woof! (The TRAINER feeds you SNACK)
+Meanwhile DOG: Woof woof! (The TRAINER feeds you SNACK)
 WOMAN: You must have the wrong party, I'm hosting Dungeons and Dragons.
 TRAINER: What's Dungeons and Dragons? Can my POODLE play?
 WOMAN: No, dogs can't play. And besides, you need a character first.
