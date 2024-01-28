@@ -1474,6 +1474,7 @@ KupoBeat
 DarkessDayz
 Synizta
 UndeadTanuki
+CoFFeMachine
 #TIER=1
 AkaruHaru
 Riles
