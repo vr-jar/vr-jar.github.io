@@ -1475,6 +1475,7 @@ DarkessDayz
 Synizta
 UndeadTanuki
 CoFFeMachine
+ღ Kari
 #TIER=1
 AkaruHaru
 Riles
