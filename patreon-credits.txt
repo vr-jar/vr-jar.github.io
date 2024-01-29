@@ -1469,6 +1469,7 @@ CoFFeMachine
 Ｒｅｃｋｅｒ８９７
 EmpressChi
 JackoFoxxo
+Speedycal68
 #TIER=1
 AkaruHaru
 Riles
