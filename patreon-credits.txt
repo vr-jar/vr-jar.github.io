@@ -1470,6 +1470,7 @@ CoFFeMachine
 EmpressChi
 JackoFoxxo
 Speedycal68
+Moookie
 #TIER=1
 AkaruHaru
 Riles
