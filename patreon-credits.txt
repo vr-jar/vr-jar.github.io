@@ -1439,6 +1439,7 @@ CoFFeMachine
 ღ Kari
 Ｒｅｃｋｅｒ８９７
 EmpressChi
+JackoFoxxo
 #TIER=1
 AkaruHaru
 Riles
@@ -2105,6 +2106,7 @@ Chihiro2002
 PrimordialAqua
 big_boi_bid
 FemPyro
+Sissyfiss
 #TIER=3
 SidMarcus
 PinballReviewer
