@@ -1485,6 +1485,7 @@ Tïtan
 ༒bon༒
 Nature_Sanctum
 Blaiser10101
+Dewy_21
 #TIER=1
 AkaruHaru
 Riles
@@ -2312,3 +2313,4 @@ MythicalCuddles
 La BarbieGirl
 Ghost LVTN
 The Hell Kitty
+BlixertheMochi
