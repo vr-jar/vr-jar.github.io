@@ -1487,7 +1487,6 @@ Nature_Sanctum
 Blaiser10101
 Dewy_21
 WanderingSpoon
-Otigna
 #TIER=1
 AkaruHaru
 Riles
@@ -1794,7 +1793,6 @@ Noobzoard
 Gootz
 xNOTurHEROx
 Tauntlessツ
-MacNCheesee
 anon_fox
 Pastelghost8
 Ducketh
@@ -2117,6 +2115,7 @@ KingdomChaosGod
 MaskedFreak-1
 Stariish
 Eyebolt64
+MacNCheesee
 OctoTako
 ჯلօҟҽվƒɾąացցҽɾჯ
 Trueuglygod2988
