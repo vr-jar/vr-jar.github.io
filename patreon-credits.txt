@@ -1495,6 +1495,7 @@ StarSkunk
 vFizz
 TicTacModz
 Otigna
+Mr Gener
 #TIER=1
 AkaruHaru
 Riles
