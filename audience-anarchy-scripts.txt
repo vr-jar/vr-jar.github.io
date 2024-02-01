@@ -129,30 +129,30 @@ VERIFIED: False
 TAGS: Skit
 SET: Political Debate USA
 CHARACTERS ================================
-ALIEN: Space alien:Podium Stage Right
-COWBOY: Cletus Williams:Podium Stage Left
 MODERATOR: Debate moderator:Moderator Table
+COWBOY: Cletus Williams:Podium Stage Left
+ALIEN: Space alien:Podium Stage Right
 SUGGESTIONS =============================
-INTERNAL ORGAN: An internal organ:spleen, liver, brain-meat, bladder
-GUN: Something cowboys like to have:gun, horse, country music, truck, steak
-CAPITALISM: Something America is known for:capitalism, monster trucks, McDonald's
-MASSAGE DEVICE: A gift you would like to receive:massage chair, subscription to National Geographic, epic REAL LIFE pirate boat
-DOING LAUNDRY: A laborious task:doing the laundry, shoveling horse manure, developing video games
-ZORTRON: An alien planet:Zortron, PurpleNurp, Uranus, Party People
-VERB: A verb you can do to something:probe, desecrate, blend, massage
-WEAPON: A weapon of war:catapult, AK-47, drone strike
-FRENCH: A nationality:French, Japanese, Yankee, Italian, Australian, European
 BODY PART: A body part that a cow has:milkers, udder, tongue, horns, hooves, tail, spots
+FRENCH: A nationality:French, Japanese, Yankee, Italian, Australian, European
+WEAPON: A weapon of war:catapult, AK-47, drone strike
+VERB: A verb you can do to something:probe, desecrate, blend, massage
+ZORTRON: An alien planet:Zortron, PurpleNurp, Uranus, Party People
+DOING LAUNDRY: A laborious task:doing the laundry, shoveling horse manure, developing video games
+MASSAGE DEVICE: A gift you would like to receive:massage chair, subscription to National Geographic, epic REAL LIFE pirate boat
+CAPITALISM: Something America is known for:capitalism, monster trucks, McDonald's
+GUN: Something cowboys like to have:gun, horse, country music, truck, steak
+INTERNAL ORGAN: An internal organ:spleen, liver, brain-meat, bladder
 SCRIPT ==========================================
 World news intro
 MODERATOR: Good evening and welcome to tonight's much-anticipated political debate.
 MODERATOR: Tonight we are joined by our two presidential candidates.
 MODERATOR: Representing the Cowboy party, Cletus Williams.
+Applause
 COWBOY: (Tip hat) Well howdy, folks. Who's ready to fix this great country of ours?
-Meanwhile Applause
 MODERATOR: And running independently, XN-74, an alien from outer space.
+Applause
 ALIEN: (Wave to audience) Greetings earthlings. Vote for me, or your planet will be D E S T R O Y E D.
-Meanwhile Applause
 MODERATOR: Candidates, let's address the elephant in the room.
 MODERATOR: Millions of American citizens are concerned about the rising cost of prescription drugs.
 MODERATOR: Will you do anything to make healthcare more affordable? Mr. Cletus Williams, let's start with you.
@@ -170,7 +170,8 @@ ALIEN: We VERB your cattle and eat their BODY PART. It makes us S T R O N G E R.
 COWBOY: Now folks, I sure as shootin’ ain’t no space traveller
 COWBOY: but I reckon I’m not feeling too confident about handing our nation's reins to a varmint like that (Point at ALIEN)...
 COWBOY: whose idea of a good time is suckin' the BODY PART off of some poor, unsuspecting cow.
-COWBOY: Also, you should vote for me because I like GUN.
+COWBOY: Also, you should vote for me because I like GUN.
+Music stops
 Applause
 MODERATOR: XN-74, your response?
 USA Anthem Music
@@ -189,6 +190,7 @@ ALIEN: For example. DOING LAUNDRY. (Hold up hands in celebration)
 ALIEN: All nations will be destroyed. But if you vote for me, we will start by destroying... the FRENCH nation. (Hold up hands in celebration)
 ALIEN: All humans who submit to your ZORTRON overlords will also be given a free MASSAGE DEVICE. (Hold up hands in celebration)
 ALIEN: All humans who dissent will be destroyed, especially the FRENCH! (Hold up hands in celebration)
+Music stops
 Applause
 MODERATOR: Interesting points on both sides. However, we are almost out of time.
 MODERATOR: Mr. Cletus Williams, do you have any closing remarks?
@@ -198,6 +200,7 @@ COWBOY: I stand for guns, freedom, guns, CAPITALISM, and not getting our BODY PA
 COWBOY: However, I do concede that the love between brother and sister is strong.
 COWBOY: But the love between a man and his GUN is stronger.
 COWBOY: Your honor, I rest my case.
+Music stops
 Applause
 MODERATOR: Thank you, Mr. Williams. XN-74, your closing remarks?
 USA Anthem Music
@@ -210,9 +213,10 @@ ALIEN: They are extremely delicious and will be given to all the "Good" humans w
 ALIEN: The "bad" humans will be put to work in the burger factory.
 ALIEN: (Point at audience) Puny Earthlings! Look under your chairs! Everyone gets a free MASSAGE DEVICE!
 ALIEN: (Hold up hands in celebration) For the glory of ZORTRON!
+Music stops
 Applause
+World news outro
 MODERATOR: With those remarks, our debate concludes. Remember to cast your votes responsibly, America. Goodnight!
-Meanwhile World news outro
 
 ======
 
@@ -6236,79 +6240,6 @@ MIA: Ohh... I'm going to miss him...
 GRANDMA: Who are you people!?
 LAZZIE: Don't cry Mia, we can always make another...
 MIA: Okay... Just make sure you change grandma first...
-
-======
-
-INFORMATION ===============================
-ID: 102
-TITLE: Cold Trails
-AUTHOR: ThreeMenschen3
-VERIFIED: True
-TAGS: Skit
-SET: Detective Noir
-CHARACTERS ================================
-DETECTIVE: Detective Stockhullem:Entrance Stage Left
-VISITOR: Mysterious Visitor:Backstage
-SUGGESTIONS =============================
-TIME: A date:"Sometime in 1900", 12/3/20, 3/2/2018, "June 8, 1876"
-SUS1: A person's name:Deez, Saul Goodman
-SUS2: A person's name:Frederick Fazbearius, Chris Pratt, Rihanna
-SUS3: A person's name:Archibald, Chad, Stacy S. Stacyton
-SUS4: A person's name:Sussybaka 2 , our lord and saviour Jesus Christ, Joe Mama
-SUS5: A person's name:Floyd starwhisperer, Sonc the heg hog, Murderdude
-SUSWORK: The name of a business:Pizza Hut, Domino's Pizza, Papa John's, Amazon, Wal-Mart, X.com
-SCRIPT ==========================================
-Noir music 4
-TYPEWRITER: TIME;Union City;Detective Stockhullem's Office;6:00 PM
-DETECTIVE: (Enter, speaking to self) 6 weeks in, and I'm not any closer to finding out who's killing all the folks in this city.
-DETECTIVE: (Walking to window and talking) SUS1 was a dead end, SUS2 was a worse dead end and SUS3 was a...
-DETECTIVE: (Turn to Audience) Well, lost cause.
-DETECTIVE: (Turn back to window) But, I think I'm getting somewhere with SUS4 though.
-DETECTIVE: After all they seem the most likely, they work at SUSWORK, which is really close.
-DETECTIVE: And the time of the murders line up.
-DETECTIVE: But I don't have any hard evidence to pin all of it on them.
-Cellphone vibrate
-DETECTIVE: (Sits at desk and looks at phone) Another murder reported just now. Right on time.
-DETECTIVE: If only I had a witness-
-Knocking on door
-DETECTIVE: Come in.
-Noir music 3
-VISITOR: (Enters) Hello Stockhullem, are you busy at the moment?
-DETECTIVE: Not at all, what do you need?
-Noir music 4
-VISITOR: (Walks over to desk) I heard you're on the case about the murders happening around here.
-DETECTIVE: Indeed I am.
-VISITOR: Well I have something for you. (Pulls out closed ziplock bag with a bloody knife inside)
-Gameshow ding
-DETECTIVE: (Stands up slamming hands on desk) How do you have that?!
-VISITOR: The murderer of my sister left this in her body.
-DETECTIVE: May you hand that over?
-VISITOR: (Hand bag to Detective)
-Meanwhile DETECTIVE: (Takes bag) I need a closer look.
-Music Stops
-DETECTIVE: (Examine bagged knife carefully)
-VISITOR: What is it?
-DETECTIVE: Just as I thought.
-VISITOR: What?
-Noir music 1
-DETECTIVE: This knife belongs to SUS5, I'll have to look into him. Thanks for the tip.
-VISITOR: You're welcome Stockhullem. (Start walking out then stop and turn around)
-VISITOR: Actually, I heard you talking about someone, a "SUS4" if I heard it correctly?
-DETECTIVE: Indeed you heard their name correct, it is indeed SUS4.
-VISITOR: Well, I'm one of their closest friends. I was driving them home from the bar earlier.
-Gameshow ding
-DETECTIVE: "Earlier"? How long?
-VISITOR: A few minutes before I got here. They could barely walk in a straight line.
-VISITOR: Then I drove home and found my sister dead on the couch and the window broken.
-DETECTIVE: Friend. You have no idea how much you helped my case. May I ask you something?
-VISITOR: Sure, what is it Stockhullem?
-DETECTIVE: Is your sister's body still at your home?
-VISITOR: It is, the police were finishing up looking at it.
-Noir music 2
-DETECTIVE: (Putting on jacket and hat) Mind if come home with you to examine the scene myself?
-VISITOR: I don't, as long as it helps the search for who did this to my sister!
-DETECTIVE: Well, no time to waste! Lets get moving, shall we? (Leave with Visitor)
-Meanwhile VISITOR: (Leave with Detective)
 
 ======
 
@@ -19034,6 +18965,346 @@ music stops
 WOLF: Surffy, the target is terminated.
 MIKU: Good work Agent Wolfe, Your work here is done
 WOLF: I think I might take a vacation.
+
+======
+
+INFORMATION ===============================
+ID: 543
+TITLE: Clone Encounters
+AUTHOR: TrickySpookster
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Interrogation Room
+CHARACTERS ================================
+CLONE: Wife's Evil Clone (Use Same Avatar):Corner Left
+WIFE: Wife (Use Same Avatar):Chair
+HUSBAND: John, the Husband:Corner Right 
+SUGGESTIONS =============================
+BODYPART: A funny body part:butt, armpit, belly button
+ACTIVITY: A strange activity:eat cheesecake, hyperventilate, do the macarena, wear matching ski masks
+NOUN: A strange noun:walrus, wax model of Morgan Freeman, zookeeper, 55-gallon drum of ketchup, group of 7 clowns
+INSULT: Something you call someone who's stealing your man:creep, hussy, homewrecker
+ADULT: An activity specifically for adults:filing taxes, balancing one's checkbook, interior decoration, book club
+JUNK: Some unpleasant substance or collection of things:mud, garbage, soiled diapers, nuclear waste, expired mayonnaise, Jersey Shore DVD's
+HONEYMOON: A place you'd go on honeymoon:Hawaii, Cancun, Madrid, the only nice block in Detroit, orbit around the moon
+MEDICAL: A secret medical condition:147 extra chromosomes, missing nipples, ligma, snot for brains syndrome
+DOGNAME: A name for a beloved family pet:Sparky, Rover, Rex, Admiral Wolverine Lightningbolt
+SCRIPT ==========================================
+tense cinematic music
+HUSBAND: (point gun at WIFE and CLONE) Alright, nobody move! One of you is my beautiful darling wife Jill, and one of you is an evil clone!
+WIFE: It's me, darling! I'm your wife!
+Meanwhile CLONE: (point at WIFE) Shoot her, not me!
+WIFE: (look at CLONE) How dare you! (fight CLONE)
+Meanwhile CLONE: (look at WIFE) Why I oughtta! (fight WIFE)
+HUSBAND: Enough! (shoot gun in air)
+gunshot
+HUSBAND: There's only one way to determine who the evil clone is. I'll ask you some questions only my real wife would know!
+WIFE: Splendid idea!
+Meanwhile CLONE: (nervous) Uhhh, sure?
+HUSBAND: Alright! First question... What's the name of our pet dog?
+WIFE: Why, it's DOGNAME!
+HUSBAND: That's right. DOGNAME, our sweet beloved boy. Oh, how I love DOGNAME. I love him like a son, in fact!
+CLONE: Do you maybe love him like... the son we never had?
+HUSBAND: (gasp) Only my real wife would know about that!
+WIFE: Are you serious, John? Everyone knows we don't have any kids! Whatever, lucky guess!
+CLONE: Th-That's right! Yep, only I, your real wife, would know the reason we never had a son is, uh... y'know...
+HUSBAND: My MEDICAL! Yes, my horribly embarrassing, life-altering, crushingly debilitating MEDICAL! The doctor said it rendered me...
+CLONE: Impotent?
+HUSBAND: Yes! (to WIFE) You're looking pretty sus right now...
+WIFE: You're joking! You basically gave her that one for free! John, sweetie, you must know it's me.
+WIFE: (pleading) Think of all the time we've spent together, baby. All our years of marriage. Come on, John. Ask me something hard!
+HUSBAND: Alright... (to WIFE) Where did we go for our honeymoon, and what did we get as a souvenir?
+WIFE: That's easy! We spent a beautiful week in HONEYMOON, and we brought back our beloved dog, DOGNAME!
+HUSBAND: That's right! We found DOGNAME rummaging around in a mound of JUNK! It made him smell so bad! We washed him up in our shower at the hotel and took him home!
+HUSBAND: But how can both of you know such intimate details about our marriage? Could it be that... you're BOTH my wife?!
+vine boom
+WIFE: Don't be stupid!
+Meanwhile CLONE: I'm good with sharing.
+WIFE: (to CLONE) Excuse me?!
+HUSBAND: Two wives, huh? That would certainly make ADULT more interesting, hehe...
+WIFE: I am NOT sharing my husband with you, you INSULT! (attack CLONE)
+Meanwhile CLONE: (fight WIFE when she attacks you)
+HUSBAND: (shoot gun into the air)
+gunshot
+HUSBAND: I'm warning you! I know how to use this thing!
+CLONE: (point to WIFE) She keeps attacking me! She's clearly the evil one!
+HUSBAND: I don't know, that's pretty in-character for my wife.
+HUSBAND: Ugh, these questions are getting us nowhere. You're both so... wife-like.
+WIFE: Then there's no choice... You're going to have to shoot us both.
+CLONE: Or! Or, instead of killing us, we could... come to an agreement?
+silly music 2
+HUSBAND: What kind of agreement?
+CLONE: I'm sure there's something you've always wanted from your wife... Something she's... not willing to do for you?
+HUSBAND: Well, there is that one kinky little thing we talked about...
+WIFE: My God, John. This again? Don't make me sick!
+CLONE: (flirtatiously) Go on? (approach HUSBAND)
+WIFE: John! You can't be serious!
+HUSBAND: Well, I've always wanted to... (whisper whisper) in bed with a NOUN... (whisper whisper) while we ADULT and ACTIVITY1 and... (whisper whisper)...
+Meanwhile CLONE: (whispering) Yes?... Uh huh, uh huh... Go on?... Oh my, you naughty boy... while we ADULT? Goodness!
+CLONE: Yeah, we can totally do all that.
+CLONE: (walk back to WIFE and flick her on the nose)
+Meanwhile WIFE: (get flicked on the nose by CLONE) Ow!
+HUSBAND: (clear throat) So uh... I've made a decision.
+WIFE: (pray to the sky) God, just kill me now.
+HUSBAND: (point gun at WIFE) Only my real wife would love me enough to agree to all that at gunpoint!... or something. Right? (look at CLONE)
+CLONE: (thumbs up) Right. Shoot her in the BODYPART.
+HUSBAND: Alright! (pull trigger, look at gun confused)
+HUSBAND: Oh. I guess I only had two bullets.
+WIFE: I want a divorce.
+laughter
+
+======
+
+INFORMATION ===============================
+ID: 545
+TITLE: New Horse Order
+AUTHOR: SuperNova77
+VERIFIED: True
+TAGS: Skit
+SET: Courtroom
+CHARACTERS ================================
+PSN: Judge Theodore :Judge Chair
+JACK: Jackie Jackson, The Defendant :Defendant Table
+STAR: Nova Elpis, The Defense:Defendant Table
+KRIS: Prosecutor Khristopher The Musician :Plaintiff Table
+SUN: Sunny Shine, The Witness:Plaintiff Door
+SUGGESTIONS =============================
+ROOT: A name of a farm :Fatal Fields, Anarchy Acres, Frenzy Farm, Fencing Fields. 
+HATE: A word to negatively describe a group of people:hooligans, vandals, thugs, stoneheads
+YUM: A drink:Slurp Juice, Kool-Aid, Slap Juice, Kelp Shake 
+SWEET: A justice related catchphrase:Justice serves all! Justice never rests! Justice will pummel all!
+SOUND: An onomatopoeia:YOINK, SPABLOOM, BRAP
+DAMN: A negative word:baloney, tommyrot, nonsense
+FLUID: Any liquid:water, oil, milk, acid
+SCRIPT ==========================================
+PSN: The Court is now in session!
+courtroom music
+PSN: Prosecutor Khristopher, please make your opening statement.
+KRIS: Thank you, Judge Theodore.
+KRIS: The Prosecution accuses the defendant, Jackie Jackson, of murdering our beloved horse at ROOT, Busty Bandit!
+JACK: It wasn't me!
+STAR: OBJECTION!
+PSN: Nothing happened yet, Nova.
+STAR: Exactly! The prosections claim is a bunch of DAMN! Nothing happened because my defendant didn't do anything at all!
+STAR: The Defense kindly asks the Prosecution to stop HORSING around!
+explosion
+KRIS: I'm horsing around? (scoff)
+KRIS: Get off your HIGH HORSE Mr.Elpis!
+explosion
+KRIS: Busty Bandit was last seen entering the horse stable at 10:30 PM
+KRIS: And when the barn was checked at 11:00, No one was there other than Jackie Jackson!
+KRIS: This case is as clear as glass, so you best GIDDY UP, Nova Elpis!
+explosion
+PSN: The Prosection does seem to have a clear statement, Your response, Nova?
+STAR: Hold your Horses Your Honor! There is a clear flaw in the prosecutions statement!
+explosion
+STAR: If the defendant really killed Busty Bandit...
+STAR: Then why wasn't there nobody found at the scene?
+PSN: The Defense does make a good point, but back to the MANE topic.
+explosion
+PSN: Your response, Khristopher?
+KRIS: Youre HAYlarious, Mr Elpis!
+explosion
+KRIS: You think we didn't think of that? We're getting that info out of the defendant!
+KRIS: He clearly hid the body during those 30 minutes, but he hasn't confessed yet.
+STAR: OBJECTION! Want to know why the client is so confused? Because he didn't hide the body at all!
+STAR: You have no proof that Jackie Jackson did anything at all in that stable!
+KRIS: OBJECTION! tsk tsk tsk! If only you were as STABLE as the stable Busty died in.
+explosion
+KRIS: Your Honor! I have a witness who claims to of seen the crime!
+STAR: WHAT?
+PSN: This case seems to be GALLOPING along nicely, bring in the witness!
+explosion
+SUN: (Enter and make your way to the witness stand) 'Ello everyone! Names Sunny Shine, I work with 'em horses down at the ROOT. 
+STAR: OBJECTION! Wouldn't it make more sense to have one of the horses at the stable testify instead?
+PSN: Horses can't testify, Nova, what would they swear on, the horseshoe?
+explosion
+SUN: I can tell just by the look of that lil ol face of the defendant over there that he did it! he looks like he wanna STIRRUP some trouble
+explosion
+KRIS: What did you see at the time of the crime?
+SUN: So I was round and about th' barn carrying my bucket of FLUID when I saw lil ol Jackie Jackson enter the stable! Usually only busty is in there at the time.
+SUN: Then I heard SOUND coming from the barn which made me spill my whole dang bucket of FLUID!
+SUN: And when i ran inside that stable, It was only Jackie Jackson there.
+SUN: Poor Busty, he was the best darn horse in the NEIGH-borhood.
+explosion
+KRIS: As you see, Your Honor, Sunny Shine heard SOUND while Jackie Jackson was in the barn! and he was the only one at the barn! It could only be him
+KRIS: As always, you were a FOAL, Mr. Elpis.
+KRIS: After this easy trial, Im gonna get back to my favorite bar and have some YUM!
+explosion
+STAR: Ugh...I think I'm feeling horse-sick.
+explosion
+PSN: That is a pretty decisive testimony...I guess the defendant couldn't MANE-tain his innocence
+explosion
+SUN: I am just a NEIGH-utral like that! Give Busty the justice he deserves!
+explosion
+PSN: I am ready to deliver my verdict. The Defendant, Jackie Jackson is...
+JACK: (Loud) STOOOOPPP!!!!
+JACK: (Move to center stage) I HAD IT WITH YOU PEOPLE!
+JACK: WANT TO KNOW HOW I COULDNT OF KILLED BUSTY BANDIT?
+JACK: BECAUSE I AM BUSTY BANDIT!!!
+vine boom
+KRIS: (Shocked) WHAT???
+PSN: But...How?
+JACK: LIFE AT THE STABLE WAS SO AWFUL!
+JACK: EVERYONE THERE TOLD TERRIBLE HORSE JOKES EVERY SECOND! THOSE HATE DROVE ME CRAZY!
+JACK: SO I THOUGHT FAKING MY DEATH WOULD HELP BE FREE.
+JACK: BUT AS IT TURNS OUT I'M FILLED WITH ANOTHER AWFUL ROOM WITH PEOPLE TELLING AWFUL JOKES!
+PSN: (Stare at Jackie) ...
+PSN: You're being awfully NEIGH-gative, Jackie Jackson.
+explosion
+JACK: AHHHHHH!!! (Exit stage left while screaming)
+PSN: Well, Since it seems like there was no actual murder committed, the defendant couldn't be guilty.
+PSN: I find the defendant, Jackie Jackson, Not Guilty. Justice has been HERD!
+explosion
+KRIS: NOOOOOOO!!
+courtroom sting
+STAR: (start dancing) YESSS!
+STAR: Why the LONG FACE, Khristopher The Musician?
+explosion
+STAR: You should know, as I always say, SWEET!
+
+======
+
+INFORMATION ===============================
+ID: 548
+TITLE: Unfortunate Game Show
+AUTHOR: Oerlikon
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+CHARACTERS ================================
+HOST: Suspicious Gameshow Host:Host Podium
+CONTESTANT1: Monotone Contestant:Contestant Podium 1
+CONTESTANT2: Silly  Contestant:Contestant Podium 2
+SUGGESTIONS =============================
+EVENT: What happened in 1987?:The bite of '87, The great bake off
+RESTAURANT: Name of a restaurant:Fredbears Family Diner, Jim's Pizza
+GAME: Gameshow Name:Do that Thing, Say that Line
+SILLY: Silly Name:Tiny Bobby, Silly Dude
+VALUE: Something of value you can steal:Ring, Jelly bean bag, Chocolates
+NUMBER: A large number:17, at least 2, 620
+EMOTION: An emotion you can feel.:Happy, Sad, Angry
+SCRIPT ==========================================
+gameshow intro
+HOST: Hello ladies and gentlemen! Welcome back to GAME!
+HOST: Joined today by our two contestants (Walk over to podiums) Contestant #1! Joe! And #2.. SILLY?
+HOST: Ahem. Anyway Joe got any funny stories from the last few years?
+CONTESTANT1: I kissed a man on the head before I stole his VALUE with a grabby toy.
+CONTESTANT1: And then I cried.
+HOST: Okay! Haha! And what would you do if you won the money?
+CONTESTANT1: No.
+HOST: Great! Onto you number two! SILLY, what do you have goin' on in life?
+CONTESTANT2: Well! Hehe. My VALUE was stolen recently, I've been quite upset about that but I'm hoping to buy or win a new one!
+HOST: Fantastic! Now with introductions out of the way lets get right into the game!
+HOST: Round one!
+gameshow timer music
+HOST: Which of you can name what happened in 1987 at RESTAURANT?
+gameshow ring
+Music stops
+CONTESTANT2: Was that EVENT?!
+gameshow ding
+HOST: Correct! Can't believe you didn't get that Joe!
+Meanwhile CONTESTANT1: I wasn't exactly given time..
+HOST: Haha! Now onto the next round.
+gameshow timer music
+HOST: What is my *favourite* restaurant?
+gameshow ring
+Music stops
+CONTESTANT1: Is it RESTAURANT?
+gameshow buzzer
+HOST: Hoho! No! Now that you have lost one and SILLY has won one, that means they get to decide your fate.
+HOST: Contestant #2. What will their punishment for this round be?
+CONTESTANT2: The metal of fate!
+HOST: You heard 'em folks! The metal of fate! Joe will need to hit the metal NUMBER times in order to win and stay in the game!
+gameshow bonus round
+HOST: Come over here and lets get started! (Go to host podium)
+Meanwhile CONTESTANT1: (Walk over to host podium)
+HOST: Are you ready to wack that metal?
+Meanwhile CONTESTANT1: Yes.
+CONTESTANT1: (Start hitting the podium)
+Meanwhile HOST: Begin!
+gameshow crowd shouting numbers
+gameshow timer music
+CONTESTANT1: (Continue hitting podium)
+Music stops
+gameshow ding
+HOST: Joe you have successfully hit metal 17 times so, you are now proud owner of this:
+HOST: Photograph of motorcar. (point to board)
+applause
+CONTESTANT1: I am EMOTION.
+HOST: But property is theft, so you are now under arrest.
+CONTESTANT1: Fair enough.
+HOST: (Escort them off stage, return to podium when done)
+laughter
+Meanwhile CONTESTANT1: (Follow host off stage)
+HOST: Now #2, with him gone that's 37 contestants vanished this week. SILLY, is that gonna be higher or lower than last week?
+gameshow bonus round
+CONTESTANT2: I'm gonna say higher!
+gameshow ding
+HOST: Correct SILLY! With all those wins and being the last man standing. You have won GAME!
+HOST: Congratulations how do you feel?
+CONTESTANT2: Oh my god thank you so much! I can finally buy a new VALUE!
+HOST: Haha good for you! We'll see you tomorrow with more GAME! Have a good night everybody!
+gameshow outro
+
+======
+
+INFORMATION ===============================
+ID: 549
+TITLE: Snooze News
+AUTHOR: TiffanyMoon
+VERIFIED: True
+TAGS: Skit,Infomercial
+SET: News
+CHARACTERS ================================
+ANCHOR: News Head Anchor:News Desk
+PRESENTER: A sleepy forecaster/reporter:Fake Street Backdrop
+ASSISTANT: A crazed assistant:Center Stage
+SUGGESTIONS =============================
+TIME: A time of day:Morning, Afternoon, Evening, Night
+FOOD: A food you eat:pizza, cereal, bacon
+CRIME: a crime you can commit:theft, arson, vandalism
+PET: a pet you can own:dog, cat, bird
+STRIKE: a light action to affect someone:poke, shake, gently slap
+JOB: a low paying job:janitor, waiter/waitress, fast-food clerk
+NOMS: a food you can eat:chicken nuggets, banana, burgers
+COLOR: a color:red, yellow, purple
+GAME: a classic board game you play:Monopoly, Scrabble, Sorry
+ADJECTIVE: a describing word:huge, enormous, grand
+COUNTRY: a place:Japan, Canada, Scotland
+VIDEO: a video game:Pokemon, Minecraft, VRChat
+SCRIPT ==========================================
+corporate motivational music
+TYPEWRITER: Live on Jar TV;This is the daily TIME report;Starring News Anchor Bob FOOD
+ANCHOR: (always to audience) Good TIME, all. I'm your host for the news report, Bob FOOD. Today we have a tragic story about recent CRIMEs in the local VRChat area.
+ANCHOR: According to the Local Police, these CRIMEs have been on the rise following a recent speech Mayor Jar has provided. We have Ray PET on scene. Ray?
+PRESENTER: (snore and make other sleeping noises)
+ANCHOR: RAY!!!
+ASSISTANT: (go up to PRESENTER and STRIKE them) Wake up, sleepy head!
+ASSISTANT: Or if you don't Jar will put you back on JOB duty! (go back to center)
+PRESENTER: (jolt awake) GAH!!! No please!!! Not JOB duty!
+tense cinematic music
+PRESENTER: (realize you are live) Ahem. Pardon that, viewers and staff. Yes, according to a speech that Mayor Jar has made, all Pawns will now be paid in NOMS.
+PRESENTER: This disturbing news made supporters of the Pawns go rampant, causing local distress. Though one suspect that keeps being pointed out, is Jones John COLOR.
+lacrimosa music
+ASSISTANT: (to yourself) Hehehe. They're already talking about me. They didn't realize I'm the one behind all this! I am Jones John COLOR!
+ASSISTANT: Soon they'll all see that this is but a mere beginning to world domination!
+corporate motivational music
+PRESENTER: At this time, the whereabouts of the criminal are unknown. If you have any information, please contact local police.
+PRESENTER: Ray PET here, thanking you. Back to you, Bob.
+ANCHOR: Thank you, Ray. In other news, the upcoming GAME festival is coming up and expecting a/an ADJECTIVE turnout.
+ANCHOR: The most excited fans have already signed up, but it's not too late. You can sign up today on the official GAME website, www.GAME.com
+lacrimosa music
+ASSISTANT: (to yourself) Hehehehe! This is perfect! I already know I'll be slipping through and causing more CRIMEs at this festival! It'll be a dream!
+ASSISTANT: And once this is over, I'll make my retreat to COUNTRY! Hahahahahahaahah!
+corporate motivational music
+ANCHOR: That's a wrap for today. Thank you for tuning in, and we'll see you tomorrow TIME. I'm Bob FOOD, take care.
+PRESENTER: (relieved) Phew, sorry about that. I thought I got enough sleep. Guess I ended up playing the new VIDEO too late.
+ANCHOR: (to PRESENTER) Why don't you take tomorrow off and get some better sleep.
+PRESENTER: Sure. Thanks, Bob. Wanna go get some FOOD? (leave)
+ANCHOR: Sounds nice. Maybe you can tell me more about this VIDEO you play. (leave)
+ASSISTANT: (to audience) You better hide in your homes, or Jones John COLOR will get you! HAHAHAHAHHA!!! (leave)
+thunder
 
 ======
 
