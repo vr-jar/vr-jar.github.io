@@ -14626,7 +14626,7 @@ BOB: BYE.
 INFORMATION ===============================
 ID: 429
 TITLE: So-Not-A-Monster
-AUTHOR: thebotanicalgarden
+AUTHOR: bitchfacee
 VERIFIED: False
 TAGS: Skit
 SET: Campsite
@@ -18782,24 +18782,24 @@ VERIFIED: True
 TAGS: Skit
 SET: Living Room
 CHARACTERS ================================
-DAN: Dan, the father of the family.:Center Stage
-JAX: Jax, the son of the family.:Couch
-MARIE: Marie, the mom of the family.:Side Door
-LEBRONZE JADE: Bearer of Sprite Cranberry.:Backstage
 TELECASTER: Herald of impending doom.:Backstage
+LEBRONZE JADE: Bearer of Sprite Cranberry.:Backstage
+MARIE: Marie, the mom of the family.:Side Door
+JAX: Jax, the son of the family.:Couch
+DAN: Dan, the father of the family.:Center Stage
 SUGGESTIONS =============================
-SANTA: Mythical figure of dubious distinction.:Santa, Krampus, Goku, St. Jar
-CHRISTMAS: Festive holiday.:Christmas, Hanukkah, Kwanzaa
-CRANBERRY: Essential holiday foodstuff.:cranberry, stuffing, turkey, 
-ITEM: Any item.:money, pencil, aluminum foil, baja blast
-ENTITY: A creature.:sloth, shark, alligator, creature
-NEIGHBOR: Name of a neighbor.:James, Trixie, Alex, Julie
-DEAR: Pet name for wife.:dear, snookums, babe, mi corazon
-HONEY: Pet name for husband.:honey, babe, darling, hubby
-LOCAL: City name.:NYC, Dallas, London, Amsterdam
-BASEBALL BAT: Tool turned weapon.:baseball bat, hammer, butcher knife, nail gun
-ENGLISH: Any language.:English, Spanish, Latin, Brandonese
 WEAPON: Improvised weapon.:pipe bomb, IED, molotov, rock
+ENGLISH: Any language.:English, Spanish, Latin, Brandonese
+BASEBALL BAT: Tool turned weapon.:baseball bat, hammer, butcher knife, nail gun
+LOCAL: City name.:NYC, Dallas, London, Amsterdam
+HONEY: Pet name for husband.:honey, babe, darling, hubby
+DEAR: Pet name for wife.:dear, snookums, babe, mi corazon
+NEIGHBOR: Name of a neighbor.:James, Trixie, Alex, Julie
+ENTITY: A creature.:sloth, shark, alligator, creature
+ITEM: Any item.:money, pencil, aluminum foil, baja blast
+CRANBERRY: Essential holiday foodstuff.:cranberry, stuffing, turkey, 
+CHRISTMAS: Festive holiday.:Christmas, Hanukkah, Kwanzaa
+SANTA: Mythical figure of dubious distinction.:Santa, Krampus, Goku, St. Jar
 SCRIPT ==========================================
 christmas music 3
 DAN: Ah, I love the festive feeling of CHRISTMAS! Don't you agree, son?
@@ -18823,13 +18823,14 @@ crashing debris
 TELECASTER: Well folks, this is it for me. Good luck-
 explosion
 Teleport TELECASTER to Backstage
+tense cinematic music
 DAN: Great googly moogly! The studio exploded!
 JAX: Mommy, I'm scared...
 MARIE: Everything will be fine, dear. This is probably just some sick joke.
 DAN: Wait, what's that sound?
 alien teleport
-Teleport LEBRONZE JADE to Front Door
-LEBRONZE JADE: (Ring doorbell, then continue knocking on door until prompted)
+Teleport LEBRONZE JADE to Entrance Stage Right
+LEBRONZE JADE: (Ring doorbell, keep door closed until prompted)
 doorbell
 JAX: Who is that?
 knocking on door
@@ -18838,39 +18839,42 @@ MARIE: Not this year...
 waterphone
 JAX: Then...maybe it's NEIGHBOR? If they need help, maybe we should-
 heavy door knocking
-DAN: Son, go to your room.
+DAN: (Anxious) Son, go to your room.
 JAX: (nods and runs through the kitchen out of the side door)
 MARIE: (Startled) HONEY, what should we do? Whoever it is seems pretty angry...
 DAN: Go get my BASEBALL BAT. My old glory days aren't behind me just yet!
-MARIE: (Runs out side door to grab item)
+MARIE: (Run out through the side door to grab the item)
 DAN: (Yelling) Whoever you are, you'd better leave us alone!
 extreme knocking
 LEBRONZE JADE: Wanna Sprite Cranberry?
 DAN: What does that even mean? Is he speaking ENGLISH? Is that ENGLISH? That's gotta be ENGLISH!
 heavy door knocking
-MARIE: (Runs back onstage to hand Dan the improvised weapon)
+MARIE: (Run back onstage to hand Dan an improvised weapon)
 DAN: The WEAPON?? Where's my trusty BASEBALL BAT?
 extreme knocking
 MARIE: You lent it to NEIGHBOR, remember?
 DAN: How could I have made such a blunder? DEAR, this has to be the ENTITY!!
-MARIE: LeBronze Jade? But that's impossible! We're 2000 miles away from LOCAL!!
+MARIE: The LeBronze Jade? But that's impossible! We're 2000 miles away from LOCAL!!
 LEBRONZE JADE: It's the thir-thirstiest tiiiime of the year...
 crashing debris
-DAN: DEAR, I love you.
+DAN: This might be it for us. DEAR, I love you.
 MARIE: I love you too.
 aww
-LEBRONZE JADE: (Break down door and enter menacingly)
+Music Stops
 break down door
+LEBRONZE JADE: (Break down door and enter menacingly)
+thunder
+epic fantasy music 2
 LEBRONZE JADE: I have just one query...
 DAN: (Ready for action) Bring it on, you ENTITY! I'm not scared of you!!
 LEBRONZE JADE: Wanna Sprite Cranberry?
 MARIE: (Realizes the way to survive) ...wait. HONEY, WAIT!!
-DAN: (Charge at entity and swing)
-Meanwhile LEBRONZE JADE: (Take Dan's swing unflinchingly)
+DAN: (Charge at entity and swing with weapon)
+LEBRONZE JADE: (Take Dan's swing unflinchingly)
 vine boom
 MARIE: Oh great heavens!
 DAN: Welp, we're dead. Jax, survive, my son...
-LEBRONZE JADE: (Destroy the enemies of Sprite Cranberry) Sprite! Let's GO!!
+LEBRONZE JADE: (Destroy the enemies) Sprite! Let's GO!!
 super epic charge up
 
 ======
@@ -19305,6 +19309,296 @@ PRESENTER: Sure. Thanks, Bob. Wanna go get some FOOD? (leave)
 ANCHOR: Sounds nice. Maybe you can tell me more about this VIDEO you play. (leave)
 ASSISTANT: (to audience) You better hide in your homes, or Jones John COLOR will get you! HAHAHAHAHHA!!! (leave)
 thunder
+
+======
+
+INFORMATION ===============================
+ID: 562
+TITLE: There's No Time
+AUTHOR: MrKite6
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+CHARACTERS ================================
+TT: Time-Traveller:Backstage
+NB: Neighbor:Backstage
+WF: Wife:Side Door
+HB: Husband:Kitchen
+SUGGESTIONS =============================
+VILLAIN: Made up name for a villain:Destroys All, Blow Em Up, Evil Dude, Doomsday
+PERSON: A random person:Mickey Mouse, John F Kennedy, Jeffery, Jar
+TIME: A long amount of time:2 hours, A day, 3 weeks, 2 months
+INGREDIENT: A food ingredient:sugar, salt, milk, parsley, onion
+DINNER: Something you'd have for dinner:pizza, spaghetti, mac n cheese, meatloaf, 
+SCRIPT ==========================================
+WF: (Enter stage left) Honey, I'm starting to get hungry. Have you started dinner yet?
+HB: Yep! I just started it a minute ago.
+WF: So, what are we having?
+HB: I was gonna make DINNER
+WF: Yum, I can't wait! (Exit stage left)
+Teleport NB to Front Door
+knocking on door
+HB: (Answer the door)
+NB: Howdy neighbor! Could I trouble you for some INGREDIENT?
+HB: Of course! (Get neighbor some INGREDIENT)
+NB: Why, thank you! Have a good night! (Leave)
+HB: (Go start making dinner in the kitchen)
+TT: (Enter stage right)
+break down door
+TT: Oh my God! Stop making that DINNER!
+HB: What the hell?
+Meanwhile TT: (Run over and throw the DINNER onto the floor)
+HB: Hey! What was that for?
+TT: I'm from the future! Your decision to make DINNER has messed up the future big time!
+HB: What?
+TT: (Look at wrist) Hold up, that didn't work! The future is still a mess!
+TT: We need to go back and stop the past you from starting to make the DINNER!
+HB: What are you talking about?
+TT: (Put hand onto husband's shoulder) There's no time! 3, 2, 1. Now!
+TT: (Look at wrist) Uh oh, I don't think that worked
+WF: (Enter stage left) Honey, who is that?
+TT: Ah! (Shoot wife)
+raygun shot
+WF: (Pass out)
+HB: My wife! You shot her!
+TT: Don't worry, that was a stun ray, she should be back up in...
+TT: (Look at wrist) TIME
+HB: TIME!?
+Teleport NB to Front Door
+knocking on door
+NB: Sorry, neighbor, do you think I could have a bit more INGREDIENT?
+TT: Holy mother of PERSON! (Shoot neighbor)
+raygun shot
+HB: Stop shooting people!
+TT: That wasn't any person! Your neighbor becomes VILLAIN! Did he ask for INGREDIENT?
+HB: Yeah, he did.
+TT: He's using INGREDIENT to make a bomb to blow up the Capitol!
+HB: Okay, I've had enough of this, you need to leave! (Push the time-traveller)
+magic sound
+epic fantasy music 2
+TT: You activated my time travel watch! Stay back! It might affect you if you're too close!
+HB: Just get out of my house!
+super epic charge up
+Teleport TT to Backstage
+Teleport WF to Entrance Stage Left
+Teleport NB to Front Door
+Music Stops
+HB: What the?
+WF: (Enter stage Left) Honey, I'm starting to get hungry. Have you started dinner yet?
+HB: Darling, you're okay!
+WF: Of course I'm okay! So, what are we having?
+HB: I, uh
+knocking on door
+HB: (Answer the door)
+NB: Howdy neighbor! Could I trouble you for some INGREDIENT?
+HB: (Punch neighbor)
+NB: (Fall over, knocked out)
+WF: Honey, what was that all about?
+HB: Let's just go out to eat tonight.
+
+======
+
+INFORMATION ===============================
+ID: 563
+TITLE: It's A Boy
+AUTHOR: MrKite6
+VERIFIED: True
+TAGS: Skit
+SET: Doctor's Office
+CHARACTERS ================================
+NF: New Father:Examination Table
+DR: Doctor:Backstage
+NR: Nurse:Entrance Stage Right
+SUGGESTIONS =============================
+NAME: Random last name:Smith, Johnson, Billybob, Giggles
+DOCTOR: Last name of a doctor:Doctor, House, Jones, Beans
+PATIENT: Random name:John, Paul, George, Richard
+OBJECT: A physical object:ball, pen, apple, car, fidget spinner
+BODY PART: A body part:arm, leg, lung, brain, pinky toe
+BABY: Random boy name:Tommy, Phil, Chucky, Dil
+GAME: A game:catch, Halo, Call of Duty, chess, cops and robbers
+OCCUPATION: A job:plumber, electrician, used car salesman, backup dancer
+SOMETHING: Something you would NOT want to have daily:whiskey, lead, asbestos, Justin Bieber music
+SCRIPT ==========================================
+silly music 2
+NF: Oh man, I hope everything's okay with our new child.
+knocking on door
+NR: (Enter through door) Sorry about the wait, Mr. NAME. The doctor will be in shortly to let you know how the delivery went!
+NF: Are my wife and baby okay?
+NR: I'm sorry, you'll have to ask Dr. DOCTOR.
+knocking on door
+DR: (Enter through door)
+NR: Ah, there he is! I'll leave you two then (Leave)
+NF: So? How is it Dr. DOCTOR?
+DR: Your wife is okay and...
+DR: It's a boy
+NF: (gasp in excitement)
+DR: But there's one problem
+NF: A problem?
+DR: He's got a condition. He's... alive.
+vine boom
+Music Stops
+NF: W-what?
+DR: It's terminal. I'd give him 80, maybe 90 years to live.
+NF: Oh... oh god.
+sad chug jug music
+DR: I'm so sorry Mr. NAME.
+DR: My uncle was born alive and he now works a normal life as a OCCUPATION!
+knocking on door
+NR: Sorry Dr. DOCTOR, PATIENT is here again complaining about a OBJECT in his BODY PART.
+DR: Nurse! Can't you see I'm breaking bad news to a patient? This man's new baby boy is alive!
+NR: Oh... oh my god
+NR: (Hug new father) I'm so sorry!
+NR: (Run out crying)
+NF: We were going to name him BABY, I was going to play GAME with him.
+DR: Modern medicine has come a long way. With a daily dose of SOMETHING he may live to see 100!
+NF: I should have known this would happen. Being alive runs in my family!
+DR: It runs in mine too!
+DR: (Hug new father)
+Meanwhile NF: (Hug the doctor)
+DR: Don't worry! We'll get through this!
+
+======
+
+INFORMATION ===============================
+ID: 564
+TITLE: A Special Gift
+AUTHOR: MrKite6
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+CHARACTERS ================================
+SC: The Strange Creature:Backstage
+SK: Shopkeeper:Behind Register
+CR: Customer:Entrance Stage Right
+SUGGESTIONS =============================
+COUNTRY: A random country:Canada, Japan, France, India, Madagascar
+LIQUID: A liquid other than water:oil, vinegar, milk, hot sauce
+NOISE: An animal noise:MOO!, QUACK!, PEEP!, MAROOO!
+CREATURE: A made up creature:flufflebus, rintingle, poppyfoot, mustard dog
+ADJECTIVE: An adjective (descriptive word):fluffy, slimy, friendly, dirty, green
+OBJECT: A physical object:sock, yo-yo, pet goldfish, half-eaten banana
+SCRIPT ==========================================
+silly music 2
+CR: (Enter stage right)
+SK: Hello! How can I help you today?
+CR: I'm looking for a birthday gift for my kid.
+SK: Ah, say no more! I have this OBJECT that's a perfect gift!
+CR: Nah, I think he already has one of those. I'm looking for something more ADJECTIVE.
+SK: Oh, I have just the thing! (Go to back door)
+Music Stops
+SK: Come on! Come on!
+SC: (Enter stage left)
+noir music 1
+CR: What on earth is that?
+SK: This is a CREATURE!
+SC: NOISE
+CR: Oh wow, that is ADJECTIVE! I'll take it!
+SK: But, I must warn you, there are 3 rules you must follow!
+CR: Rules?
+SK: First, you must never expose it to bright lights.
+CR: How bright are we talking here?
+SK: Just... bright.
+CR: Hold up, is it a vampire?
+SK: What? No. Does it look like a vampire?
+CR: (Look at the creature)
+SC: NOISE
+CR: Kinda.
+SK: Second. You must not allow it to get wet.
+CR: So I can't pour any LIQUID on it?
+SK: What? Why would you- no. Nothing that will get it wet!
+CR: So how do I clean this thing? Does it get stinky?
+SK: It just cleans itself somehow!
+CR: How?
+SK: Shut up.
+SC: NOISE
+SK: Third, and most importantly, you must not feed it after midnight!
+CR: After midnight?
+SK: Precisely.
+CR: Well what is that supposed to mean?
+SK: What?
+CR: Are we talking local time? COUNTRY time? Where does this thing even come from? How does it know the time?
+SK: It just knows.
+CR: And when is it no longer "after midnight"?
+SK: Look, do you want this thing or not?
+SC: NOISE
+CR: I'm sorry, sir. But I'm not too interested in your smelly vampire that tells time.
+CR: I think I'll just get my kid the OBJECT.
+SK: Suit yourself. Here you go (Hand customer the OBJECT)
+CR: Thank you. (Grab OBJECT and leave)
+SK: Well, little CREATURE, it's his loss.
+SC: NOISE
+SK: Oh, I must've forgotten to feed you dinner.
+SK: (Look at watch) Eh, we've still got an hour.
+SK: (Feed the creature)
+Music Stops
+SC: (Eat then start growling)
+waterphone
+SK: Uh oh
+SC: (Attack the shopkeeper)
+SK: Oh god! I forgot about daylight savings time!
+
+======
+
+INFORMATION ===============================
+ID: 570
+TITLE: Dish Fiasco
+AUTHOR: kira_kirabakyun
+VERIFIED: False
+TAGS: 
+SET: Infomercial Kitchen
+CHARACTERS ================================
+IAN: Ian the taste tester:Entrance Stage Left
+TERRY: Terry the chef:Backstage
+NICKY: Nicky the chef:Center Stage
+SUGGESTIONS =============================
+VEGETABLE: A type of vegetable:potatoes, carrots, broccoli
+INSULT: An insult:idiot, butthead, dummy
+OBJECT: A hard object:brick, rock, stone
+CHEER: Something to yell out in excitement:heck yeah, woohoo, yeehaw
+MEAT: Any type of meat:steak, chicken, pork
+SCRIPT ==========================================
+Happy music 1
+IAN: (Enter) Hey Nicky, I'm here to taste test your new dish.
+NICKY: Thanks for coming. Terry's also coming over to help me make it. Though, he's running a bit late.
+TERRY: (Enter stage left) Sorry for being late! My work took longer than I thought.
+NICKY: It's fine. Let's get started since it's getting late.
+TERRY: We're cooking MEAT, right? Just to let you guys know; I'm a pro at cooking.
+IAN: Do you mind if I watch?
+NICKY: Nah man, I don't mind.
+NICKY: Actually, can you help me cut up some VEGETABLE?
+IAN: (Pick up knife) Sure. These VEGETABLE will be cut up perfectly.
+NICKY: Oh, they look good! How's the MEAT coming along, Terry?
+Meanwhile TERRY: (Flip the MEAT) It's looking good. It needs a bit more time though.
+NICKY: Woah woah woah, why is the burner on high? You're gonna burn the MEAT!
+TERRY: I know what I'm doing Nicky! Just leave it to me.
+IAN: Terry, the MEAT is turning black. I don't think it's edible anymore.
+NICKY: Okay, why don't you start over?
+TERRY: Why?
+NICKY: Because it's now hard as a OBJECT. Ian can't eat that.
+IAN: I'm done cutting the VEGETABLE.
+NICKY: Good, let's cook them now. Terry, move aside please. You can cook the MEAT afterwards.
+TERRY: Fine, I'll go take out the plates.
+IAN: Wow, they smell good.
+NICKY: You're a natural at cooking, Ian.
+IAN: Thanks. Terry, are the plates ready?
+TERRY: Yeah, was it fine I got them from the dishwasher?
+NICKY: Yeah those are fine. You can cook now. Try to not burn the MEAT, okay?
+TERRY: CHEER! Don't worry so much. I got this!
+IAN: He's gonna burn it again.
+NICKY: Uhhh let's just trust him. Maybe he got distracted the first time and burnt it.
+IAN: I hope you're right. Is this a good placement?
+NICKY: That's good! You're pretty particular with how it should be placed, huh?
+Music stops
+IAN: Well, it's gotta look pretty. (coughs) What's that smell?
+Fire alarm
+TERRY: Uh guys. Help!
+NICKY: INSULT! What did you do!?
+TERRY: I was just cooking the MEAT and it started smoking!
+NICKY: Terry, get out! No more cooking for you!
+TERRY: I'm sorry! (Exit)
+NICKY: Phew, sorry about that. I can cook up MEAT for you instead.
+IAN: Um, no worries! I'm just gonna head home. It was nice of you to invite me! (Exit)
 
 ======
 
