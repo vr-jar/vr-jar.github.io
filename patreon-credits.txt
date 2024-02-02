@@ -2072,6 +2072,7 @@ FemPyro
 Sissyfiss
 Achaeron
 DJ Lvna
+SpiceReaper
 #TIER=3
 SidMarcus
 PinballReviewer
