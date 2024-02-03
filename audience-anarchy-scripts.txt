@@ -19541,6 +19541,86 @@ SK: Oh god! I forgot about daylight savings time!
 ======
 
 INFORMATION ===============================
+ID: 566
+TITLE: Troll Hunters
+AUTHOR: ~ Evie ~
+VERIFIED: True
+TAGS: Skit
+SET: Forest Bridge
+CHARACTERS ================================
+TROLL: Troll:On bridge
+BELIEVER: Believer:Backstage
+SKEPTIC: Skeptic:Backstage
+SUGGESTIONS =============================
+BODYPART: A bodypart:hand, eyes, spine
+SHOW: The name of a supernatural investigation show:spooky time, truth finders, ghoul o'clock
+ANIMAL: An animal:bear, owl, moose, cat
+PLACE: A country/state:England, Canada, Norway, Louisiana, Ohio
+SMELL: Something with a strong smell:garlic, cheese, old pizza
+NAME: A person's name:Shia Labeouf, Bill Gates, Gordon Ramsey
+CREATURE: A supernatural creature:ghost, vampire, goblin
+BUILDING: A building you'd find in a city/town:hospital, school, police station
+WEIRDTHING: A weird thing to scream when you're panicked:give me your glasses, pick me up, feed me lemons
+JOB: A job title:electrician, barber, engineer
+ANYTHING: Literally anything:fish, car, smoke alarm, cardboard box
+SCRIPT ==========================================
+TROLL: Troll had slow day today. Not many humans come to Troll's bridge anymore.
+TROLL: Troll not even eaten any human BODYPART in weeks!
+TROLL: Troll study to become JOB. Troll not even do that right. Troll always back to living under bridge. What Troll doing with life?
+TROLL: (Sniff yourself) Yuck, Troll smell like SMELL! Troll need to clean.
+TROLL: (Jump into the river facing the audience) Troll stay here until Troll not smell like SMELL anymore.
+BELIEVER: (Enter stage right) Okay, so I got Amy to set the cameras up already, so we should be good to go. Oh, is your body camera on?
+Meanwhile SKEPTIC: (Follow believer through stage right)
+SKEPTIC: Yeah yeah, it's not like we're going to find anything, we never do.
+BELIEVER: Shush! Let's be professional. Three, two, one...
+Scary music
+BELIEVER: (Look to the audience) Welcome back to SHOW, the best supernatural investigation show in the business!
+BELIEVER: Last week we caught a CREATURE on camera at the nearby BUILDING!
+SKEPTIC: Well, that's debatable...
+BELIEVER: (Ignore skeptic) Anyway, this week we're deep in the forests of PLACE, hunting for the mysterious Troll said to lurk around this very bridge.
+BELIEVER: They say this creature is known for its fierce teeth, gigantic stature, and the stench of SMELL!
+Thunder
+SKEPTIC: I mean, trolls don't exist, but this bridge does really stink of SMELL.
+TROLL: (Climb back onto the bridge and face the investigators) Hey! That not nice. Troll wash self in river. Troll not smell like SMELL anymore!
+BELIEVER: (Step back in awe at the sigh of the Troll) It can't be! Is that... The Troll of PLACE?!
+SKEPTIC: Oh please, it's clearly just a really big ANIMAL.
+Silly music 2
+BELIEVER: (Point at skeptic) You always do this. You always try to explain everything away. What about the CREATURE we caught on camera last week at the BUILDING?
+SKEPTIC: That CREATURE was NAME!
+SKEPTIC: They just accidentally fell into some SUBSTANCE then rolled around in trash trying to get it off.
+SKEPTIC: Then started to scream WEIRDTHING at the top of their lungs.
+SKEPTIC: Sure it's weird, but it doesn't make them a CREATURE.
+BELIEVER: Was it really NAME though? I don't buy it. Screaming WEIRDTHING is something that only a CREATURE would do!
+BELIEVER: And it's known that trolls smell like SMELL, therefore this is a genuine troll! And it talks too!
+SKEPTIC: Okay, listen, sure this ANIMAL talks, but think about it, parrots can talk, so it's not that much of a leap to say that a big ANIMAL could talk too.
+SKEPTIC: And hey, maybe it'll scream WEIRDTHING too, who knows? But it's not a troll.
+TROLL: Humans make too much noise. Make Troll's head hurt. Why you bother troll?
+BELIEVER: (Excitedly talk to the Troll) Well, we're filming for our show, SHOW, we seek out supernatural creatures, much like yourself!
+BELIEVER: So tell me, how long have you lived in the forests of PLACE?
+TROLL: Well, Troll study to be JOB, but Troll no find work. No-one want to hire Troll.
+TROLL: They say Troll smells too much like SMELL.
+BELIEVER: Well, that's because you're a troll, right? Don't you all smell like that?
+TROLL: No! Troll normally smell fine, not like SMELL at all!
+SKEPTIC: For the record, I think you only smell that way because you're clearly a ANIMAL.
+TROLL: (Frustrated) Why you call Troll ANIMAL? Humans are rude! Troll no do interview. Troll want to sit in river, not answer questions.
+BELIEVER: Look what you did! You blew a perfect opportunity to learn more about the supernatural! I hope you're happy with yourself.
+SKEPTIC: (Approach the Troll) Look, I didn't mean any disrespect, maybe I came off a bit harsh. I'm just tired is all.
+SKEPTIC: I'm sure you'd make a great JOB, after a bit of a clean that is.
+TROLL: Human really mean it?
+SKEPTIC: Yeah, of course! And it's better to be a JOB than to do what we do.
+SKEPTIC: My friend here drags me out to do these supernatural 'hunts' with him, it's always something completely explainable though.
+TROLL: Wait. Humans want to hunt Troll? Troll easily crush humans!
+TROLL: (Move toward the investigators aggressively) Troll crush humans right now, then eat human's BODYPART!
+BELIEVER: (Step back in horror) No, not my BODYPART!
+BELIEVER: (Run away through stage right) Quickly, let's get out of here! And make sure you bring all of the footage!
+SKEPTIC: (Give the troll a can a deodorant) Hey man, I know you're not a troll, but you smell like one. Try this on, it's ANYTHING scented deodorant.
+TROLL: (Take the deodorant, confused)
+SKEPTIC: Anyway, I better go keep an eye on him in case he has another 'accident', he usually does when he's scared. (Exit stage right)
+TROLL: (Sniff the deodorant) This ANYTHING deodorant smell bad, like human! Troll would rather smell like SMELL than like human!
+
+======
+
+INFORMATION ===============================
 ID: 570
 TITLE: Dish Fiasco
 AUTHOR: kira_kirabakyun
