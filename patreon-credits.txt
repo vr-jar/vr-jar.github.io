@@ -1476,6 +1476,7 @@ GoddessDarkHope
 MediaPlanet
 AllKnowinStoner
 DyingBug101
+Alastor 2
 #TIER=1
 AkaruHaru
 Riles
