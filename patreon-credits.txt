@@ -557,7 +557,6 @@ LT Ace
 RainfireVT
 Angel Cakes~
 nyowdy
-Ludo The Cabbit
 samstack
 ~FF Frisk
 【 Ｌａｔｔｅ 】
@@ -1479,6 +1478,7 @@ BeeFuccer
 brëad
 RivsterDandy
 _-Peaches-_
+Ludo Cabbit
 #TIER=1
 AkaruHaru
 Riles
