@@ -1483,6 +1483,7 @@ sn00z13
 Scuffed_VR
 Moxxicide
 Bignuke
+Dead Dandy
 #TIER=1
 AkaruHaru
 Riles
