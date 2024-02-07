@@ -1404,7 +1404,6 @@ DarkessDayz
 Synizta
 UndeadTanuki
 CoFFeMachine
-ღ Kari
 Ｒｅｃｋｅｒ８９７
 EmpressChi
 JackoFoxxo
@@ -1493,6 +1492,7 @@ Andrejklol
 MrBlackTail
 DylanCombineNLD
 kay_moon485
+ღ Kari
 #TIER=1
 AkaruHaru
 Riles
