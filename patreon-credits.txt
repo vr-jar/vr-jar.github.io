@@ -1487,6 +1487,7 @@ chaimera rex
 TRUSquidKing
 KiwamiAntounVT
 SanityD
+DyingBug101
 #TIER=1
 AkaruHaru
 Riles
