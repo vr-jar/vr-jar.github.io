@@ -19402,21 +19402,21 @@ VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
 CHARACTERS ================================
-WIZ: The Grand Wizard, disturbed by the noise in the castle:Backstage
-ARCH: The shapeshifter thief, disguised as an Archer:Entrance Stage Right
-GUAR:  Dim-witted Guard, protecting the King's treasure:Chair
 KNIG: The Knight, alerted of a thief's presence:Entrance Stage Right
+GUAR:  Dim-witted Guard, protecting the King's treasure:Chair
+ARCH: The shapeshifter thief, disguised as an Archer:Entrance Stage Right
+WIZ: The Grand Wizard, disturbed by the noise in the castle:Backstage
 SUGGESTIONS =============================
-OBJECT: Name any object:book, typewriter, Cheese grater, shoelace, wind chime, espresso machine, piano bench, traffic cone, jade figurine, satellite dish, Viking helmet, flashlight, avocado, rotary phone, jackhammer, origami crane, prosthetic leg, gold doubloon, Furby, Tibetan singing bowl, bonsai tree, ghost pepper
-LACELOT: The name of a Knight (Without "Sir"):Lancelot, Galahad, Percival, Gawain, Ector, Tristan, Siegfried, Bevis, Roland, Malory, Stark, Batman, Orlando Florida
-EYE: An ingredient you'd add to a potion:Frog's extract, Eye of Newt, Dragon's heartstrings, Phoenix feather, Unicorn tear, Basilisk Scale, Moon dust, Vortex confection, Fairy wing powder, Banshee wail, Dream weaver silk, Essence of Starlight
-GREEN: An adjective that describes something yucky:Stinky, Slimy, Fetid, Repulsive, Vile, Gruesome, Putrid, Nauseating, Rancid
-GOO: A substance one might leave behind:Mud, Lipstick mark, Tears, Blood, Graffiti, Love letter, Chewing gum, Discarded clothes, Carbon footprint, Ashes, DNA, Nail clippings, Forgotten Dreams
-RAT: An ingredient you'd add to a potion:Rat's tails, Breath of a wild storm, Mermaid's heart
-MAGIC2: A verb ending in -ing:Swimming, Thinking, Dreaming, Planning, Skipping, Memorizing, Laughing
-MAGIC1: A verb ending in -ing:Flying, Building, Drifting, Existing, Pondering, Rediscovering, Shivering
-HARRY: The name of a great wizard:Merlin, Shazam, Rasputin, Zatara, Prospero, Dr. Strange, Elminster
 JEWEL: (Plural) Things you wouldn't want anyone to find:Jewels, Stolen goods, Unpaid bills, love letters, dark web search history, tattoos
+HARRY: The name of a great wizard:Merlin, Shazam, Rasputin, Zatara, Prospero, Dr. Strange, Elminster
+MAGIC1: A verb ending in -ing:Flying, Building, Drifting, Existing, Pondering, Rediscovering, Shivering
+MAGIC2: A verb ending in -ing:Swimming, Thinking, Dreaming, Planning, Skipping, Memorizing, Laughing
+RAT: An ingredient you'd add to a potion:Rat's tails, Breath of a wild storm, Mermaid's heart
+GOO: A substance one might leave behind:Mud, Lipstick mark, Tears, Blood, Graffiti, Love letter, Chewing gum, Discarded clothes, Carbon footprint, Ashes, DNA, Nail clippings, Forgotten Dreams
+GREEN: An adjective that describes something yucky:Stinky, Slimy, Fetid, Repulsive, Vile, Gruesome, Putrid, Nauseating, Rancid
+EYE: An ingredient you'd add to a potion:Frog's extract, Eye of Newt, Dragon's heartstrings, Phoenix feather, Unicorn tear, Basilisk Scale, Moon dust, Vortex confection, Fairy wing powder, Banshee wail, Dream weaver silk, Essence of Starlight
+LACELOT: The name of a Knight (Without "Sir"):Lancelot, Galahad, Percival, Gawain, Ector, Tristan, Siegfried, Bevis, Roland, Malory, Stark, Batman, Orlando Florida
+OBJECT: Name any object:book, typewriter, Cheese grater, shoelace, wind chime, espresso machine, piano bench, traffic cone, jade figurine, satellite dish, Viking helmet, flashlight, avocado, rotary phone, jackhammer, origami crane, prosthetic leg, gold doubloon, Furby, Tibetan singing bowl, bonsai tree, ghost pepper
 SCRIPT ==========================================
 Peaceful fantasy music
 GUAR: (sitting, asleep) Honk mi mi mi. Honk mi mi mi.
@@ -19481,9 +19481,9 @@ KNIG: I think you just.. you just killed the Grand wizard HARRY .
 GUAR: (crouch down and poke the wizard’s body) Oh…
 KNIG: Which means we still have a problem.
 GUAR: No, we’ll just say the archer did this.
-Meanwhile ARCH: (Sneak up behind the 2 guards backs. Switch avatars if you want?)
+Meanwhile ARCH: (Sneak up behind the 2 guards backs. Switch avatars to reveal you're the shapeshifter)
 KNIG: I meant about the shapeshifter.
-Meanwhile ARCH: (Sneak up behind the 2 guards backs. Switch avatars if you want?)
+Meanwhile ARCH: (Sneak up behind the 2 guards backs. Switch avatars to reveal you're the shapeshifter)
 GUAR: Oh right! The shapeshifter.
 Epic fantasy music 2
 ARCH: Right behind you. (stab both guards)
@@ -20011,6 +20011,282 @@ NICKY: Terry, get out! No more cooking for you!
 TERRY: I'm sorry! (Exit)
 NICKY: Phew, sorry about that. I can cook up MEAT for you instead.
 IAN: Um, no worries! I'm just gonna head home. It was nice of you to invite me! (Exit)
+
+======
+
+INFORMATION ===============================
+ID: 578
+TITLE: Positive Prisoners
+AUTHOR: LongPinkNoodle
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+CHARACTERS ================================
+PRISONER: Prisoner who is just happy to be here.:Chair
+TORTURER: An insane torturer.:Entrance Stage Right
+DYING: A half dead prisoner lying on the floor.:Stage Left
+SUGGESTIONS =============================
+MEDICAL: A medical procedure. :Tumor Extraction, Heart Transplant
+NUMBER: A very high number for a temperature.:400, Three Billion
+BAD: A verb or action that would be horrible to do to someone.:Eat your dog, Chop off your legs
+ORGAN: A single organ someone would require in order to live.:Stomach, Lung, Brain
+ZAP: An electronic device that shouldn't be near water.:Car Battery, Toaster, 
+NOTFOOD: Something that would not be pleasant to eat.:Spiders, Acid, Fillet O' Fish
+COUNTRY: A country.:France, America
+SCRIPT ==========================================
+DYING: (Lay dead on the floor)
+Meanwhile PRISONER: (Tied to a chair)
+TORTURER: (Enter Stage Right) You animals better be ready for more fun.
+TORTURER: You've probably noticed by now that I may have upped the thermostat in here.
+TORTURER: NUMBER degrees.
+TORTURER: (Deranged laugh) Mmm, Toasty.
+PRISONER: Yeah, like a personal sauna.
+DYING: Just the heating bill alone, you really spoil us.
+PRISONER: (Turn to the dying hostage) Oh hey man! You're still alive?
+DYING: And living my best life at that.
+DYING: With my ORGAN removed I honestly feel 30 pounds lighter.
+PRISONER: You're glowing, really.
+DYING: I think its a mindset honestly.
+PRISONER: It's all about staying positive.
+TORTURER: (Sputter and grunt.) P-Positive? (Laugh maniacally) How about we see how positive you are...
+TORTURER: (Pull out a knife.) When I peel off all your skin.
+PRISONER: Ya know, I was just thinking it might be time to cool off.
+DYING: You know us so well.
+TORTURER: (Laugh maniacally)
+DYING: (Chuckle)
+Meanwhile PRISONER: (Chuckle)
+DYING: Wow that laughter is just...
+PRISONER: Infectious.
+DYING: Such a playful spirit, I love your energy.
+TORTURER: God damn it!
+DYING: And might I just say this is possibly the nicest floor I've ever bled out on.
+DYING: This is just a great space overall Really just a top-tier musty cellar.
+PRISONER: And the decor! You wouldn't believe how comfortable this chair is.
+TORTURER: (Strike the hostage in the back) Quiet!
+PRISONER: (While getting struck in the back) Just a little higher.
+TORTURER: (Strike the hostage again, grunt aggressively)
+PRISONER: Ah! That's the spot! Really got to hit with your hips.
+TORTURER: You! You haven't even begun to know suffering!
+DYING: You're the expert man.
+PRISONER: Saving the best for last I think.
+DYING: As if anything could top when he put us in the bathtub with that ZAP.
+PRISONER: My Electro Shock Therapy bill would have been through the roof!
+DYING: My rates have been crazy high since I got that MEDICAL last year, but now?
+DYING: Its just an empty cavity, don't feel a thing.
+TORTURER: No!!!
+TORTURER: (Scream in frustration) Fine! I'll just continue to leave you two here to rot!
+DYING: Been really appreciating the peace and quiet.
+PRISONER: Honestly the stress from work. Could do without it for a while.
+DYING: So nice to destress. Haven't felt a thing since I've been going in and out of shock the past 48 hours.
+PRISONER: You know all of this has gotten me to just slow down, and I think I've learned...
+PRISONER: That the key is to just-
+Meanwhile TORTURER: I will BAD if you don't shut your mouth I swear!
+PRISONER: -really listen to people.
+TORTURER: (Shout with rage and slam the table)
+break down door
+PRISONER: Wow... I've never seen someone so passionate about their work.
+DYING: You really love your job.
+TORTURER: Make it stop!
+DYING: Really you're just doing fantastic.
+PRISONER: (Clap) For sure just, bravo. I couldn't have asked for a better torture.
+PRISONER: Yeah I'd be right there with you applauding if I wasn't paralyzed from the neck down buddy.
+TORTURER: You're lucky you're still alive!
+PRISONER: Aren't we all.
+TORTURER: I will make you eat NOTFOOD!
+PRISONER: Oh is that a COUNTRY thing? I heard that's a delicacy.
+DYING: Kids are starving out there in the world, we're truly blessed.
+TORTURER: I will make your world a living hell! Worse than COUNTRY!
+PRISONER: A beautiful world really.
+DYING: We're all fortunate to be in it.
+TORTURER: You're driving me insane! I'm losing my mind!
+DYING: A beautiful mind.
+PRISONER: Honestly, sounds like you could take a day off.
+TORTURER: I can't take it anymore! (Begin to Sob)
+DYING: We of all people know how hard you work.
+TORTURER: This is torture! (Scream in rage and agony)
+
+======
+
+INFORMATION ===============================
+ID: 580
+TITLE: The Haunted Doll
+AUTHOR: Twintacle PTT
+VERIFIED: True
+TAGS: Skit
+SET: Classroom
+CHARACTERS ================================
+HYBRID: A Hybrid expiriment:Backstage
+POPULAR GIRL: A Popular Girl:Desk 2
+DOLL: The Haunted Doll:Desk 5
+KAWAII GIRL: A very cute Girl:Desk 5
+BOY: Nathan:Desk 3
+TEACHER: The Teacher:Teacher Desk
+SUGGESTIONS =============================
+SUFFIX: Anything that goes with Mr.:Suess, Sunny, Harrison
+DOLL: Any Creepypasta Other than the Tails Doll:Red Mist, Jeff the Killer, Ben Drowned
+BAND: Any Popular Band:My Chemical Romance, Gorillaz, Imagine Dragons
+ANIME: Any Popular Anime:Demon Slayer, Naruto, Dragon Ball Z
+PILLOW: Any kind of Pillow:Neck Pillow, Body Pillow, Pillow full of Buge
+KID: Any Name for a Student:Frank, Francine, Jimmy Manson Jr.
+NAME: Any Name of a Fictional Character:Barnaby, Pomni, Caillou
+SCRIPT ==========================================
+TEACHER: Good Morning Class!
+KAWAII GIRL: Good morning, Mr. SUFFIX!
+Meanwhile BOY: Howdy Mr. SUFFIX!
+POPULAR GIRL: Whatever.
+TEACHER: You may have noticed that NAME and KID are both absent today.
+TEACHER: The Ladder Called in Sick. And the Other, well, Got into trouble.
+TEACHER: Anyway, today, we have a science Experiment to do today.
+POPULAR GIRL: Yeah Yeah, we all know this is a Big Part of our grades.
+BOY: (Raises hand) Hey Teacher, Someone has brought a Doll to School!
+TEACHER: Oh Really? A Doll? Save that for a show and tell!
+KAWAII GIRL: I was feeling a little scared, so I got myself a DOLL Plushie. It was the only one they had.
+POPULAR GIRL: (Laughs) You think That doll is going to calm you? What an Idiot! Everyone Laugh!
+Laughter
+BOY: That's Not funny!
+Meanwhile TEACHER: That's enough, Stop now!
+TEACHER: Now Girl you know that thing can easily get ripped apart to shreds.
+TEACHER: So, I recommend putting the doll somewhere safe
+KAWAII GIRL: Ok! (Puts the Doll Down)
+Meanwhile DOLL: (Lays down next to the desk)
+TEACHER: (Points at the Peroidic table) Now, by that Periodic table is a Hybrid Machine. It can combine anything with anything.'
+Meanwhile DOLL: (Under the Breath) Nobody wants to grab me...
+TEACHER: Who said that? Eh, just me.
+DOLL: (Gets up) You may not Grab the Doll... the Doll Grabs You!
+Scary Music
+BOY: (Points to the Doll) Look, It's alive! She did it Early!
+DOLL: You!!! (Chokes KAWAII GIRL)
+BOY: (Gasp)
+Meanwhile TEACHER: (Gasp)
+POPULAR GIRL: What is going on there- OH MY GOD!
+KAWAII GIRL: (Coughs) Help! Someone Help me!
+KAWAII GIRL: I don't wanna die!
+DOLL: Too bad!
+KAWAII GIRL: (Dies)
+TEACHER: The Doll is possessed! Aaaaaaaaah!
+Meanwhile BOY: Aaaaaaaaaah!
+POPULAR GIRL: Someone throw that doll Away!
+BOY: No, someone call the cops!
+TEACHER: Their line is down right now! What can I do?
+Teleport DOLL to Desk 2
+Music Stops
+POPULAR GIRL: Heh, all what we need to do now, is to post this to make it go viral.
+BOY: You think social media is more important than someone dying? That is really cruel of you!
+TEACHER: Calm down everyone, the doll is somewhere else now!
+POPULAR GIRL: Then how come I feel like I am having a PILLOW on my neck?
+POPULAR GIRL: Nobody put a PILLOW on me.
+DOLL: Actually, I did! (Cracks the neck of The Popular Girl)
+POPULAR GIRL: What the? (Dies)
+BOY: (Screams)
+TEACHER: Not again!
+DOLL: (Walks to the Teacher) Your Next!
+DOLL: (Stabs the Teacher) DIE! DIE DIE! Hahahahaha!
+TEACHER: Ugh! (Falls Down)
+BOY: Mr. SUFFIX! No! (Run to the Teacher)
+Meanwhile DOLL: (Walks to the other end of the room)
+BOY: (Couches down to the teacher) Not Mr. SUFFIX! You were the best Teacher I'd ever had! No!
+BOY: (Cries)
+DOLL: Oh, Boo hoo! Someone is Sad. What a waste of emotion!
+TEACHER: (Injured) I am ok, Just, please, do the assignment!
+BOY: But what can I do? All the other students are dead. The Experiment will never happen!
+TEACHER: The other students may not, but you can!
+BOY: Really?
+TEACHER: I need you to combine any Anime you find with anything powerful, Memes or Music maybe?
+TEACHER: Combine it with the Machine. And Team up with the Hybrid, Kill the doll before it kills you!
+BOY: I shall do what I can do.
+epic cinematic music
+BOY: Hey Stupid DOLL Guy, Over here! (Runs to the Periodic table)
+DOLL: (Chases the last student) Oh, no you don't!
+BOY: (Puts ANIME into the Machine) ANIME! Dropped!
+BOY: (Runs to the desk)
+Meanwhile DOLL: (Gets after the student) Get back here you Creep!
+BOY: (Runs to the Periodic table and drops BAND in) BAND!
+DOLL: No!
+BOY: (Pushes the button on the machine)
+explosion
+Music Stops
+DOLL: (Cough) Ugh, Stupid boy!
+Teleport HYBRID to Stage Right
+DOLL: What? Who are you?
+HYBRID: You Hurt my friends, you hurt me! I am a combination of ANIME and BAND!
+DOLL: Fair enough, then, why not be my next victim?
+HYBRID: No, you have killed the children, for that, (Screaming) you must die!
+epic fantasy music 3
+DOLL: No! No stop, No!
+Meanwhile HYBRID: (Walks to the Doll)
+HYBRID: This is for all the students! (Stabs the Doll to death)
+DOLL: Ahh! Ahh! Nooo! I'll return! (Dies)
+Happy music 1
+BOY: Yes! The Doll is dead! I hope the school calls me a Hero!
+HYBRID: (To the Student) You know what, you are such a good kid. Someday I can teach you my ways.
+
+======
+
+INFORMATION ===============================
+ID: 582
+TITLE: Jesse we need to cook!
+AUTHOR: Awbluefy
+VERIFIED: True
+TAGS: 
+SET: Living Room
+CHARACTERS ================================
+DOCTOR: Call in psychiatrist:Stage Right
+JESSE: Definitely Jessie Pinkman ;):Front Door
+WALTER: Definitely Walter White ;):Couch
+SUGGESTIONS =============================
+COMPANY: A name for a psychiatrist company:Among Us Psychiatry Inc., Why wouldn't you need therapy Co., Walk in for crazies Ltd
+WAME2: A parody name of Walter White:Malter Fight, Woltor Wote, Walter Bright
+JAME1: A parody last name of Pinkman:Purpleman, Blueman, Punkman
+SMEDIA: A social media name (can be made up):Tiktok, Bookface, Memepage
+SHOW: A parody name for Breaking Bad:Broken Fad, Borked Awful, That one meth show
+PHRASE: An action that you can do:cook, cease the means of production, take over the government
+STREET: A street name:Parkway Drive, Nowhere Lane, Road Road
+NUM: A reasonable number:4269, 420, 69, 1200
+STATE: Name a place or city and state:Albuquerque New Mexico, Columbus Ohio, Hell, The Town, Mc Donald's
+NAME2: Any name of a person:Keanu, Joe, Borfus
+NAME1: An embarrassing name:Fuffles Mc Doofus, Shurly, Dumb
+FOOD: Some kind of snack food (singular):bag of chips, brownie, pizza, meth
+SCRIPT ==========================================
+JESSE: Oh boy I do love me a FOOD while watching my favorite TV show.
+break down door
+WALTER: (open the door and run in) JESSE! JESSE! WE NEED TO PHRASE!
+JESSE: What the heck man? What are you talking about?
+WALTER: WE NEED TO PHRASE!
+JESSE: Well, I mean I don't see why I couldn't another time but I'm not sure I want to do that with you.
+WALTER: But Jesse.... We need to PHRASE.
+JESSE: Why do you keep saying that? My name isn't Jesse!
+WALTER: Yes it is.
+JESSE: No, my name is NAME1 you know this...
+WALTER: No! You're Jesse JAME1!
+JESSE: Wait a minute... JAME1?.. That sounds oddly familiar.
+WALTER: My name is WAME2 I live at NUM STREET STATE this is my confesssion...
+JESSE: Wait no, none of that is true, your name is NAME2.
+WALTER: I wasn't done with my confession!
+JESSE: Confession? Of what? Oh... I think I see what's going on... Have you been on SMEDA?
+WALTER: That isn't important right now, Jesse, we need to PHRASE!
+JESSE: I might be wrong but I think this is all coming from memes about that one show... What was it called? SHOW?
+WALTER: Never heard of it, we need to PHRASE! Now Jesse!
+JESSE: Ok that's it I'm calling a call in psychiatrist.
+WALTER: We don't need a psychiatrist! We need to PHRASE!
+JESSE: (pull out a phone and dial a number) Hello! Is this COMPANY?
+DOCTOR: Why yes it is! What is your psychological issue on this fine evening?
+JESSE: Well you see my friend seems to be speaking nonsense, they say their name is FNAME2, and all sorts of other things.
+DOCTOR: Ill be right over.
+doorbell
+JESSE: (get up and get the door) Wow... That was fast!
+DOCTOR: (walk inside) 30 minutes or less or your FOOD is free! Wait that's my other job...
+DOCTOR: Well anyways, who is the patient for me to work on today.
+WALTER: Jesse! We need to PHRASE.
+JESSE: He's been saying that all day.
+DOCTOR: Oh like the meme from SHOW.
+JESSE: Exactly!
+DOCTOR: They think they are WAME2 how cute!
+DOCTOR: They have probably been on SMEDIA huh?
+JESSE: Not sure. Is there anything you can do?
+DOCTOR: No.
+JESSE: What?
+WALTER: JESSE WE NEED TO PHRASE!
+laughter
 
 ======
 
