@@ -1500,6 +1500,7 @@ Chekk
 Ｄｉｓａｐｐｏｉｎｔｍｅｎｔ
 CutenessKuroko
 _Thon
+Deadeye Medic
 #TIER=1
 AkaruHaru
 Riles
