@@ -1503,6 +1503,7 @@ Chekk
 _Thon
 Deadeye Medic
 CriticalOmen
+Syrilai
 #TIER=1
 AkaruHaru
 Riles
