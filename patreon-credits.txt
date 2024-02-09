@@ -1445,7 +1445,6 @@ BardicRJ
 StarsyBlue
 PineapplGirl
 Antiidote
-CutenessKuroko
 GoddessDarkHope
 《~Splaty~》
 MediaPlanet
@@ -1499,6 +1498,7 @@ The_Flash_Playz
 yorkwarrior
 Chekk
 Ｄｉｓａｐｐｏｉｎｔｍｅｎｔ
+CutenessKuroko
 #TIER=1
 AkaruHaru
 Riles
