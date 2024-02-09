@@ -17499,7 +17499,7 @@ shark tank deal
 INFORMATION ===============================
 ID: 497
 TITLE: Unusual Suspects
-AUTHOR: ∗Yobio∗
+AUTHOR: Moomster
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -18880,6 +18880,88 @@ super epic charge up
 ======
 
 INFORMATION ===============================
+ID: 539
+TITLE: Shark Tank
+AUTHOR: Paperclip95
+VERIFIED: True
+TAGS: 
+SET: Conference Room
+CHARACTERS ================================
+CREATOR: Creator of the Product:Backstage
+PRODUCT: Product:Backstage
+INV2: Investor 2:Office Chair 1
+INV1: Investor 1:Boss Chair
+SUGGESTIONS =============================
+GIVEMONEY: Any amount of money:1, 1 million, 1 billion, 100 trillion 
+ASKMONEY: Large amount of money:1.5 million, 1.25 billion, 1 trillion
+PRICE: An amount that something can cost:50, 100, 3500
+PRODTALK: A greeting:Hello, I am your friend, Greetings investors
+FEATURES: One or more things that a product can do:clean your house, make itself as your roomate, make itself as your emotional support person
+PROBLEM2: A problem that you hate:too shy to talk to your best friend, have that one friend who you hate but flirts you so much, too nervous to talk to your girlfriend/boyfriend
+PROBLEM1: A problem that annoys you:cleaned a lot of dishes and they still come back dirty after some time, experienced your pc getting slower, have that one friend who makes fun of you, have that one cousin who always gets compared with you
+PRODNAME: A new product name:A human,The Plushie Maker, Emotional Support Person
+COMPANY: Company Name:Paperclip Studios, Speed Techs, Pear Inc., Smash Nuggs
+NUMBER: Any number:1, 69, 420, 1000
+SCRIPT ==========================================
+INV1: Can't wait to see who’s coming up next!
+INV2: Yeah, the product we reviewed last time got pretty popular for it's convenience. What products we will be seeing today?
+INV1: Guess we'll find out.
+shark tank walking theme
+CREATOR: (Enter the stage) Greetings, Investors!
+CREATOR: I'm the CEO and Founder of COMPANY.
+CREATOR: So, we have all been there, you ever just PROBLEM1, PROBLEM2, and many other problems you might have.
+CREATOR: Does these problems annoy you so much you want to get rid of them?
+INV1: Yeah, it really bothers me so much.
+INV2: Yes.
+CREATOR: If only there's someone who are helpful enough to fix these problems for you...
+CREATOR: So here at COMPANY, we just found an innovative way and crafted the product that can help you live in peace knowing someone's with you.
+CREATOR: Introducing… (Gesture toward the door, waiting)
+PRODUCT: (Enter the stage and stand alongside CREATOR)
+CREATOR: PRODNAME.
+INV1: Wait... Isn't it just… a person?
+CREATOR: Yes, it technically is.
+CREATOR: But PRODNAME can do all the annoying problems solved for you in any way they can possibly think of.
+INV2: Can I use it as a roommate?
+CREATOR: Absolutely! You can do anything you want with PRODNAME. Anything.
+INV1: But... can it speak just like any other avatar?
+CREATOR: It does. (Look at PRODNAME) Hey, PRODNAME!
+PRODUCT: PRODTALK
+INV1: Oh, so it's technically a person then.
+CREATOR: The secret behind is that PRODNAME uses machine learning technology powered by it's own processor, V1 chip…
+CREATOR: …to do anything like FEATURES, etc.
+PRODUCT: There are tons of other features I can do for you that I can't fit in this show.
+INV2: Is it available for purchase yet?
+CREATOR: Unfortunately, it's still in production, with deliveries planned in batches in the near future.
+CREATOR: And, you can buy PRODNAME for a small price of PRICE.
+shark tank discussion music 1
+INV1: So, we have already found some flaws as you're talking about PRODNAME.
+INV1: Is it actually designed for use in extreme activities, such as using it to work in a job and give you salary they earned?
+CREATOR: We actually thought of that, and, because it's only designed for use at home, we made it so that none of these extreme activities will be worked with PRODNAME.
+CREATOR: We also have a NUMBER-page safety instruction manual included if you buy one.
+INV2: Can I use it as a mentor to teach my children?
+CREATOR: If only it's your problem, then yes.
+CREATOR: Keep in mind, PRODNAME can only solve YOUR problems for you, not someone else's problem. You can think of it as your personal roomate.
+INV1: What if PRODNAME suddenly stops working?
+CREATOR: That is why there's a 7 day battery life so you don't have to charge it often.
+INV2: But I'm afraid the charging time would take hours since it has a big battery...
+CREATOR: THAT is also why we managed to achieve charging time when charging to 80% to be less than 1 hour.
+INV2: Looks like we have nothing else to doubt. I'm impressed you actually thought way beyond and created a product with all that in mind.
+INV1: Yeah, I'm impressed too, you're a genius! Anyway, what do you ask for an investment?
+CREATOR: We plan to roll out software updates and potentially an enhanced version of PRODNAME,
+CREATOR: so we're looking for an investment of ASKMONEY dollars.
+shark tank offer
+INV1: We can do it for GIVEMONEY dollars.
+CREATOR: (pause) Deal. Why not?
+INV1: (Shake hands with CREATOR) Deal.
+shark tank deal
+CREATOR: (Shake hands with INV1)
+INV2: I'll invest in this thing too. (Shake hands with CREATOR)
+CREATOR: (Shake hands with INV2)
+PRODUCT: Thanks for supporting me, CREATOR and COMPANY. It's been a pleasure connecting with you all.
+
+======
+
+INFORMATION ===============================
 ID: 541
 TITLE: Assassination Attempt
 AUTHOR: SuperNova77
@@ -19313,6 +19395,180 @@ thunder
 ======
 
 INFORMATION ===============================
+ID: 556
+TITLE: Meet the Shapeshifter
+AUTHOR: Pumgumgum
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+CHARACTERS ================================
+WIZ: The Grand Wizard, disturbed by the noise in the castle:Backstage
+ARCH: The shapeshifter thief, disguised as an Archer:Entrance Stage Right
+GUAR:  Dim-witted Guard, protecting the King's treasure:Chair
+KNIG: The Knight, alerted of a thief's presence:Entrance Stage Right
+SUGGESTIONS =============================
+OBJECT: Name any object:book, typewriter, Cheese grater, shoelace, wind chime, espresso machine, piano bench, traffic cone, jade figurine, satellite dish, Viking helmet, flashlight, avocado, rotary phone, jackhammer, origami crane, prosthetic leg, gold doubloon, Furby, Tibetan singing bowl, bonsai tree, ghost pepper
+LACELOT: The name of a Knight (Without "Sir"):Lancelot, Galahad, Percival, Gawain, Ector, Tristan, Siegfried, Bevis, Roland, Malory, Stark, Batman, Orlando Florida
+EYE: An ingredient you'd add to a potion:Frog's extract, Eye of Newt, Dragon's heartstrings, Phoenix feather, Unicorn tear, Basilisk Scale, Moon dust, Vortex confection, Fairy wing powder, Banshee wail, Dream weaver silk, Essence of Starlight
+GREEN: An adjective that describes something yucky:Stinky, Slimy, Fetid, Repulsive, Vile, Gruesome, Putrid, Nauseating, Rancid
+GOO: A substance one might leave behind:Mud, Lipstick mark, Tears, Blood, Graffiti, Love letter, Chewing gum, Discarded clothes, Carbon footprint, Ashes, DNA, Nail clippings, Forgotten Dreams
+RAT: An ingredient you'd add to a potion:Rat's tails, Breath of a wild storm, Mermaid's heart
+MAGIC2: A verb ending in -ing:Swimming, Thinking, Dreaming, Planning, Skipping, Memorizing, Laughing
+MAGIC1: A verb ending in -ing:Flying, Building, Drifting, Existing, Pondering, Rediscovering, Shivering
+HARRY: The name of a great wizard:Merlin, Shazam, Rasputin, Zatara, Prospero, Dr. Strange, Elminster
+JEWEL: (Plural) Things you wouldn't want anyone to find:Jewels, Stolen goods, Unpaid bills, love letters, dark web search history, tattoos
+SCRIPT ==========================================
+Peaceful fantasy music
+GUAR: (sitting, asleep) Honk mi mi mi. Honk mi mi mi.
+Explosion, break down door
+KNIG: (break in through the door) Is it it still here?
+Meanwhile ARCH: (run in with the knight)
+GUAR: (Startled out of chair) Wh-what’s going on!? Sir LACELOT ?!
+Meanwhile KNIG: (Run to the locker in the corner) The King’s JEWEL you fool! The crown JEWEL! The very thing you’re guarding!
+ARCH: A thief entered the castle! The lookout gave the alert!
+GUAR: A thief!
+KNIG: (Pull out the JEWEL from the locker) Oof… The JEWEL are safe.
+ARCH: You were slacking off again, weren’t you
+GUAR: Wha- pfff no! I was. I was inspecting the inside of my eyelids…
+KNIG: (slap the guard on the back of the head) You twit! With your presence of mind that thief could steal the whole castle before you noticed!
+Meanwhile GUAR: (The Knight hits you) Ouch!
+WIZ: (appear in the doorframe) I’m afraid things are much worse that you say Sir LACELOT.
+KNIG: Grand Wizard HARRY ! What brings you down from your tower!
+WIZ: Are the JEWEL safe?
+KNIG: Well, yes, but- Wait, what do you mean, much worse?
+WIZ: The hour is dire. I was in the middle of concocting my new MAGIC1 potion.
+WIZ: I was dosing the correct amount of RAT to add, when suddenly the lookout’s call startled me and I added too much.
+WIZ: Upset, I decided I’d go give him a piece of my mind about yelling at such hours.
+ARCH: Get to the point!
+WIZ: Ahem, right. Anyway, as I was walking to the watchtower I found this! (Present the GOO )
+thunder
+KNIG: (stare in silent confusion)
+Meanwhile ARCH: (stare in silent confusion)
+GUAR: GOO ?
+WIZ: Not just any GOO . This is GREEN GOO
+ARCH: So…?
+WIZ: So! This thief isn’t any old thief! The castle is being robbed by a shapeshifter!
+KNIG: A shapeshifter!
+Meanwhile ARCH: A shapeshifter!
+GUAR: A what-now?
+WIZ: A shapeshifter! A magical creature which can turn into anything or anyone it pleases!
+ARCH: (Look at the guard mockingly) It’s kind of in the name smart guy
+GUAR: Ooooh
+WIZ: Indeed and every time a shapeshifter changes, it leaves behind GREEN GOO !
+WIZ: (examine the GOO ) which coincidentally could prove most useful for the development of a MAGIC2 potion.
+WIZ: (To yourself) Maybe with an ounce of EYE and heated up a bit.
+KNIG: (annoyed) Your point, Grand Wizard HARRY .
+WIZ: My point!? (close the door, then look back at the others)
+WIZ: Well tell me, Sir LACELOT ? Did you happen to see any shapeshifters?
+KNIG: No?
+WIZ: (Make your way to the center of the room) And you archer? Did you spy with you keen eye any shapeshifters on your way here?
+ARCH: uuh no?
+WIZ: And you guard! Did you see any shapeshifters!
+GUAR: No! What’s your point!
+WIZ: By Merlin’s beard, do you not realize, he could be in this very room! Hiding among us, waiting for suspicion to fall and snatch the JEWEL
+WIZ: He could be anyone of us! He could be you! He could be me! He could be that chair! He could even be a magically levitating OBJECT for all we know!
+Meanwhile GUAR: (make your way behind the wizard and raise your sword)
+WIZ: (To yourself) Or maybe he’s waiting for us to turn on eachother so he can steal the JEWEL unhindered?
+GUAR: (Slash the wizard with your sword) Ha!
+Knife wound, Music stops
+WIZ: Argh! (Fall to the floor)
+Scary music
+ARCH: Oh my God! You just cut his head clean off!
+GUAR: (Triumphantly) Take that you evil shape-shifting thief! Ha ha!
+KNIG: (crouch down over the wizard’s body) Oh…
+GUAR: You will not be putting your slimy paws on our King’s JEWEL today!
+KNIG: I think you just.. you just killed the Grand wizard HARRY .
+GUAR: (crouch down and poke the wizard’s body) Oh…
+KNIG: Which means we still have a problem.
+GUAR: No, we’ll just say the archer did this.
+Meanwhile ARCH: (Sneak up behind the 2 guards backs. Switch avatars if you want?)
+KNIG: I meant about the shapeshifter.
+Meanwhile ARCH: (Sneak up behind the 2 guards backs. Switch avatars if you want?)
+GUAR: Oh right! The shapeshifter.
+Epic fantasy music 2
+ARCH: Right behind you. (stab both guards)
+Knife wound
+GUAR: Aaargh (fall to the floor)
+Meanwhile KNIG: Aaargh (fall to the floor)
+Lacrimosa music
+ARCH: Ah ha ha. Leave humans too long together and they’ll always turn on eachother!
+ARCH: (Pick up the JEWEL from the knight’s body) Anywho, I’ll be taking this.
+ARCH: (examine the JEWEL ) These JEWEL will fetch me a pretty penny indeed.
+ARCH: (Bow to the bodies as you leave) Sir LACELOT , Grand Wizard HARRY , amusing guard....
+ARCH: Thank you for such a delightfully entertaining time. Sadly, I must be off now.
+ARCH: Toodaloo! (exit and close the door)
+
+======
+
+INFORMATION ===============================
+ID: 561
+TITLE: The Unkillable Soldier
+AUTHOR: kiro-sage
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+CHARACTERS ================================
+ES: Enemy Soldier:Entrance Stage Left
+US: Immortal Soldier:Entrance Stage Right
+SUGGESTIONS =============================
+PARTY: Name of a party:Democratic Party, Cultist Palooza, Cosmic Eclipse Gathering
+BODY PART: A vital body part:eye, appendix, spleen, femur, pancreas, thyroid gland, tongue, diaphragm, spinal cord, bladder
+FAVORITE: Favorite thing:toothbrush, bee,  red lipstick, jazz vinyl records, road trips, grandmother's letter, morning coffee, pet snake, full moon, insomnia-induced creativity, moss-covered stones
+OBJECT: Something that could protect you from death:luck, God, pneumo-ultra-micro-scopic-cylicone-volcano-coni-osis, seatbelt, bulletproof vest, a high-quality medical insurance, protective spirit animal, Iron Man suit,  lifelong martial arts training
+ANIMAL: Animals (Plural):squirrels, goombas, leopards, mockingbirds, tarantulas, kangaroos, iguanas
+SPECIAL ATTACK: Name of a special attack:Bullet Shower, Cartwheel Pipe Bomb, Avalanche Uppercut, Quantum Quake, Minty Fresh Chaos Destroyer Gamma Ray Burst
+SCRIPT ==========================================
+Yankee Doodle music
+US: (walks on stage from right) Ah Fancy meeting you here, friend. Got tired of sunny days back at the base?
+ES: (walks on stage from left) Orders are orders. Came here to make sure you see the sunset one last time.
+US: (loading a magazine)And why is that? you come here to kill me or something, ill have you know that ive survived countless battles
+ES: (chuckles) Cocky, aren't you? Let's see how you handle my SPECIAL ATTACK
+US: You ever hear about the Unkillable Soldier? Rumor has it He can survive anything. Bullets, bombs, bad punchlines.
+ES: (laughs) Unkillable? Sounds like a fairy tale they tell green recruits. I don't buy it.
+US: (confidently) Suit yourself, but you're about to become a character in that fairy tale. (racks a bullet)
+Music stops
+ES: (mocking) Let's test that theory, shall we?
+sword fighting, epic fantasy music 1
+ES:(fighting the soldier)
+meanwhile US:(fighting the soldier)
+US: You can try all you want, but I've survived explosions, poison gas, even a stampede of ANIMAL s. You can't take me down.
+ES: (smirks) ANIMAL s? Really? I've faced the deadliest creatures this war has thrown at us, but ANIMAL s? That's a new one.
+US: (parrying a strike) You ever wonder why they call me Unkillable?
+meanwhile ES:(swings at the soldier attack gets parried)
+ES: Probably because you've been lucky. but luck runs out, my friend.
+US: Luck? Nah, it's more like a combination of skill, charisma, and my OBJECT you cant even scratch me
+Music Stops
+ES: (stop fighting) You're a tough nut to crack, but every soldier has a weakness
+US: (smiling) Weakness? I left that at home with my favorite FAVORITE . Good luck finding it.
+ES: Dammit fine then(pulls out a gun and shoots the Soldier in the BODY PART)
+gunshot
+US: (gets shot in the BODY PART but completely shrugs it off) Wow good shot
+ES: (bewildered) What the...? I shot you in the BODY PART! You should be dead!
+US: (nonchalant) Oh, It's just a flesh wound. I've got a spare BODY PART back at camp. Comes in handy for situations like these.
+thunder
+ES: a Spare BODY PART ? Are you for real? Am I dreaming? Did I accidentally step on a landmine and this is the afterlife?
+US: (smirking) Nope, you're wide awake. Just facing the Unkillable Soldier, living proof that sometimes, reality is stranger than fiction.
+ES: (panting and is beginning to get tired) I've had enough of your tales. Time to end this. (attacks and is parried)
+meanwhile US:(parries the other soldiers attacks)
+US: You're running on fumes, my friend. Need a breather?
+ES: (gritting teeth) I'll end you, even if it's the last thing I do. (pulls out a Thermite Bomb and throws it directly at the soldier)
+ES: Let's see you survive this inferno, Unkillable! (laughs maniacally)
+US: (casual) Is this your idea of a barbecue? I prefer mine with a side of victory.
+thunder
+ES: (shocked) How are you not burning?
+US: (smirking) Fire can't touch the untouchable. I've danced through hotter flames than this at the PARTY
+ES: (completely stunned) b-bu-But how?! you should be burning in hell right now
+US: like i said i have skills, charisma, and a OBJECT
+ES: (frustrated) This can't be happening!
+US: (grinning) Sorry bud it seems like you've yeed your last haw (shoots the ES)
+gunshot
+Teleport ES to Backstage
+yankee doodle music
+US: Welp now time to get that replacement BODY PART
+
+======
+
+INFORMATION ===============================
 ID: 562
 TITLE: There's No Time
 AUTHOR: MrKite6
@@ -19617,6 +19873,82 @@ SKEPTIC: (Give the troll a can a deodorant) Hey man, I know you're not a troll, 
 TROLL: (Take the deodorant, confused)
 SKEPTIC: Anyway, I better go keep an eye on him in case he has another 'accident', he usually does when he's scared. (Exit stage right)
 TROLL: (Sniff the deodorant) This ANYTHING deodorant smell bad, like human! Troll would rather smell like SMELL than like human!
+
+======
+
+INFORMATION ===============================
+ID: 569
+TITLE: Anime Detectives
+AUTHOR: FrostyApri
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+CHARACTERS ================================
+D: Detective:Entrance Stage Right
+C: Cop:Center Stage
+SUGGESTIONS =============================
+CLOTHING: A piece of clothing:Shirt, Pants, Jacket
+NAME: A name:Jack, Sofia, Sam
+MANE: A street name:A, Rhode, Main
+RESTURANT: A restaurant you'd want to eat at:Olive garden, Golden Coral, McDonalds
+BODY: A body part:Arm, Leg, Face
+WEAPON: A weapon:Glock, Baseball bat, Crowbar
+STORE: A store:Low's, Walmart, Kroger
+HIT: An action of violence (ex. Punch and kick):Punch, kick, shoot
+POLICE: A police department:LA, Loli Police, Detroit
+DRINK: A drink:Beer, Soda, Lemonade
+SCRIPT ==========================================
+noir music 1
+D: (Walk in on stage) I'm a detective from the POLICE police department
+D: What have you figured out so far?
+C: Not much, only that they were killed here at STORE
+C: We are still waiting on the surveillance footage
+D: That's weird
+C: What is weird, did you figure something out?
+C: Tell me what is it?
+D: This isn't where they were killed
+C: How do you know?
+C: We are supposed to be sharing information, right?
+C: How can you tell?
+D: Their CLOTHING is toughed shifting all the atoms in the room over to the right
+D: Meaning the body was actually killed over here (Walk behind the shelf) then dragged
+C: No that doesn't make any sense there isn't any logic behind that
+C: How would you even read the atoms in the room, like that doesn't make sense
+D: This might be an issue
+C: Of course there is an issue your logic is flawed
+D: There was only one, right?
+C: Yes, we only found one
+D: How odd...
+C: Okay sure but what was the problem before?
+C: I'm definitely going to need some DRINK after this one
+C: Why are you ignoring me?
+D: I got it!
+C: What did you get?!
+C: Oh my, I wanna HIT you so much right now but I wanna keep my job.
+D: The killer is NAME and they live on MANE Street
+C: What do you mean?! How did you get that?!
+D: When they were murdered the killer did a 360 and hit them on the BODY with a WEAPON
+D: From that, I used a mental Image reconstruction to find out what fingerprint was left on the WEAPON
+D: Since I have memorized all the fingerprints in the city, finding out who it was is mere child's play
+C: I think I finally understand, you are actually crazy
+C: Is everyone else from the POLICE department as cuckoo as you?
+D: Wait!
+music stops
+C: Come on, what is it now?
+cellphone vibrate
+C: Hold on (You pick it up and mumble to yourself) Okay hold on it was NAME on MANE street?
+C: WAIT, WHAT!!!
+Vine boom
+D: If we want to catch them we better start heading to the RESTURANT at the end of Main Street
+C: How do you know? How did you figure that out?
+D: No time to explain, we have to get over there and arrest them
+C: No time? You had all this time to explain
+sad chug jug music
+D: We have to get a move on
+C: No I'm done, I'm not qualified for this, how am I supposed to find out where the body was killed by the atoms in a room
+D: Now isn't the time, we need to catch the killer (Exit stage right)
+C: I quit, there isn't any room for me here
+C: I'm done. I just want a glass of DRINK. I'm done
 
 ======
 
