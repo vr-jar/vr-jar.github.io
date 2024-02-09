@@ -1502,6 +1502,7 @@ Chekk
 Ｄｉｓａｐｐｏｉｎｔｍｅｎｔ
 _Thon
 Deadeye Medic
+CriticalOmen
 #TIER=1
 AkaruHaru
 Riles
