@@ -1499,6 +1499,7 @@ yorkwarrior
 Chekk
 Ｄｉｓａｐｐｏｉｎｔｍｅｎｔ
 CutenessKuroko
+_Thon
 #TIER=1
 AkaruHaru
 Riles
