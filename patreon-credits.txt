@@ -1510,6 +1510,7 @@ The_Dude_82
 blacklistkj 0f4b
 Shxdow-kun
 tashatheslyfox
+Pallas Sekhmet
 #TIER=1
 AkaruHaru
 Riles
@@ -2196,6 +2197,7 @@ PokeMeHardElmo
 flora_real
 Gikii
 º-STORMS-º
+Gradenr
 #TIER=3
 SidMarcus
 PinballReviewer
