@@ -1511,6 +1511,7 @@ blacklistkj 0f4b
 Shxdow-kun
 tashatheslyfox
 Pallas Sekhmet
+Goldenbumblebee
 #TIER=1
 AkaruHaru
 Riles
