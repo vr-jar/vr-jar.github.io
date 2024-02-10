@@ -1475,6 +1475,7 @@ Deadeye Medic
 CriticalOmen
 Syrilai
 lainax
+Furry_funtime
 #TIER=1
 AkaruHaru
 Riles
