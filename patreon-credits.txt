@@ -2067,6 +2067,7 @@ Ddk1628
 LuciferBL
 lan626
 Goldkin
+ClairRose
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
