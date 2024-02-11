@@ -1510,6 +1510,7 @@ tall_lightskin
 5starz_legion
 AstralHusky20
 CrypTunnieSmle
+Loony_Cat
 #TIER=1
 AkaruHaru
 Riles
