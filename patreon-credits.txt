@@ -1479,6 +1479,7 @@ Goldenbumblebee
 『S͛D-Slouch͛』
 DyingBug101
 tall_lightskin
+5starz_legion
 #TIER=1
 AkaruHaru
 Riles
