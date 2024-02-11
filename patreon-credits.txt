@@ -1509,6 +1509,7 @@ Goldenbumblebee
 『S͛D-Slouch͛』
 tall_lightskin
 5starz_legion
+AstralHusky20
 #TIER=1
 AkaruHaru
 Riles
