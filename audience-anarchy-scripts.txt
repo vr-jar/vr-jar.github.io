@@ -20290,3 +20290,148 @@ laughter
 
 ======
 
+INFORMATION ===============================
+ID: 586
+TITLE: The lady's food
+AUTHOR: petihun4
+VERIFIED: True
+TAGS: 
+SET: Living Room
+CHARACTERS ================================
+LADY: Lady:Center Stage
+SOLDIER: Soldier:Entrance Stage Right
+SUGGESTIONS =============================
+PUNISHMENT: A form of punishment.:slap, boop, yell at
+L-F: Something long that you can eat. (plural).:sausages, baguettes, pickles
+BAD3: Another way to say bad.:awful, terrible, horrible
+POUR: Something you might pour.:salt, sugar, dandruff
+BAD2: Something bad.:nauseating, sickening, foul
+BAD1: A way to say bad.:really bad, abysmal, bad
+ACTION: Something you do with food.:eat, lick, smell
+GROWING: Something you'd grow in your yard (plural).:vegtables, grass, berries
+FOOD: A food you really shouldn't eat.:bauxite, stone, paper
+PLACE: A place you'd go to.:beach, mall, moon
+L-NAME: Name for an old lady.:Mary, Jane, Margaret
+S-NAME: Name for a young man.:Jessie, Peter, Joe
+SCRIPT ==========================================
+Heavy door knocking
+Scary music
+Extreme knocking
+LADY: Come on in!
+Break down door
+SOLDIER: (Enter stage right)
+Music Stops
+Bluegrass music
+SOLDIER: Hello old L-NAME! It's me, S-NAME!
+LADY: (walk up to S-NAME)
+LADY: Hi S-NAME! How's it hanging?
+SOLDIER: I'm heading to the PLACE. Want to come along?
+LADY: Don't know... should I?
+LADY: We can go to the PLACE after we cook some FOOD
+SOLDIER: Here's the FOOD! (Show the FOOD to L-NAME.)
+LADY: What a nice FOOD! Where did you get it?
+SOLDIER: No asking! Just cook it!
+LADY: I'll bring the pot! (Go to the kitchen and take out the pot.)
+SOLDIER: (Put the FOOD in the pot.) (With excitement) Man i can't wait to ACTION this FOOD!
+LADY: (Cook the FOOD) Give it a taste young S-NAME!
+SOLDIER: Don't mind if I do. (Taste the FOOD)
+LADY: How does it taste?
+SOLDIER: Could be a bit better, at least it's not BAD1, instead it's BAD2. It still needs some stuff.
+Laughter
+LADY: I'll bring it! I'll bring it! (Bring the POUR.)
+LADY: Look! Some POUR!
+SOLDIER: Hope it'll taste better with this POUR. (Taste the FOOD.)
+LADY: Does it taste better? Does it? How good is it?
+SOLDIER: Well it's still BAD3, but it will be even better if you bring me L-F!
+Laughter
+LADY: I'll be right back! (Leave the stage from the kitchen and stay behind the walls.)
+SOLDIER: L-NAME wassuuup?
+LADY: Suuuuup?
+LADY: (Enter the kitchen and put L-F in the pot.)
+SOLDIER: (Taste the FOOD.) Mmm~. Still taste bad. I'll need some things for this FOOD, then i won't PUNISHMENT you.
+Laughter
+LADY: (Leave through the door, and then come right back in with GROWING) Got the GROWING!
+Tada
+LADY: In it goes. (Shove GROWING into the pot)
+SOLDIER: Hey L-NAME, when will we go to the PLACE?
+LADY: Let me taste the FOOD first! (Taste the FOOD.)
+SOLDIER: But L-NAME, i really want to go to the PLACE! Please, for God sake!
+Aww
+LADY: Wait just a bit! I'll bring some crumbs! (Pour crumbs into the pot.) Now it has to taste mazing!
+LADY: (Serve S-NAME with the FOOD.)
+SOLDIER: (Eat the FOOD.)
+Meanwhile LADY: (Eat the FOOD.)
+SOLDIER: When will we go to the PLACE, L-NAME?
+LADY: Pffft! They're long closed by now S-NAME! Trust me on that!
+Laughter
+SOLDIER: You got to be kidding me!
+
+======
+
+INFORMATION ===============================
+ID: 587
+TITLE: Hungry Wish
+AUTHOR: MrMonsterX
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+CHARACTERS ================================
+ADULT: Adult:Couch
+GENIE: Genie:Backstage
+SUGGESTIONS =============================
+OBJECT: An object/item that contains a wishing creature:lamp, box, bottle
+WISH: An odd wish:a t-rex pet, a real lightsaber, raining meatballs
+GENIE: Mystical creature that grants wishes:genie, talking dog, homeless person
+FOOD1: Something you like to eat:sandwich, burger, noodles
+FOOD2: Something you want to eat:pizza, rice, spaghetti
+SCRIPT ==========================================
+christmas music 2
+ADULT: (sigh) I can't believe my wife left me....and on christmas no less!
+ADULT: Guess it'll just be me and the TV this year..
+doorbell
+ADULT: Who could that be? (open the door)
+ADULT: A package? I didn't order anything. (grab the package and close the door)
+ADULT: (Place the package on the table and open it) What is this? a OBJECT?
+ADULT: Why did someone send me this?
+ADULT: (rub the object)
+magic sound
+Teleport GENIE to Center Stage
+ADULT: (Gasp) who are you?!
+Groose music
+GENIE: I am GENIE of the OBJECT and i'm here to grant you any wish.
+ADULT: Really? Any wish i want?
+GENIE: Yup.
+ADULT: Even WISH?
+laughter
+GENIE: Absolutely.
+ADULT: Hmm...oh i know exactly what to wish for!
+ADULT: I wish... I wish for FOOD1!
+GENIE: Your wish is my- what? really, that's your wish?
+laughter
+ADULT: Something wrong?
+GENIE: You could literally wish for anything, why FOOD1?
+ADULT: Because I'm hungry.
+GENIE: I could make you rich!
+ADULT: Meh, i want FOOD1.
+GENIE: You can use the money to buy FOOD.
+ADULT: But i want FOOD1 now.
+GENIE: What about your wife? Don't you want to wish her back?
+ADULT: But I'm hungry.
+GENIE: (facepalm) I see why your wife left you.
+laughter
+ADULT: (sad) huh?
+GENIE: (annoyed) Fine, whatever, I'll grant you your wish..
+ADULT: (happy) Really?
+GENIE: Your wish is my command!
+ADULT: Actually! Can i get FOOD2 instead?
+laughter
+GENIE: W-what?! What happened with wanting FOOD1?!
+ADULT: Well, all this talk has made me crave FOOD2.
+GENIE: (exasperated) You know what? I'm done, I'm not doing this anymore. (walk towards the door)
+GENIE: (angry) have a terrible Christmas! (open the door and walk out)
+christmas music 3
+ADULT: Welp, I guess we all learned a valuable lesson today.
+ADULT: Don't celebrate Christmas! (laugh and transition into crying)
+
+======
+
