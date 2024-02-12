@@ -1516,6 +1516,7 @@ TITII
 NobisStray
 Quill_
 bunbun_shortie 078e
+Kaiq SC
 #TIER=1
 AkaruHaru
 Riles
