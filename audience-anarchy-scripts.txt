@@ -20435,3 +20435,230 @@ ADULT: Don't celebrate Christmas! (laugh and transition into crying)
 
 ======
 
+INFORMATION ===============================
+ID: 588
+TITLE: The Dr. Jerry Kyle Show
+AUTHOR: Valhymm
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Living Room
+CHARACTERS ================================
+HOST: Talk show host:Backstage
+GUEST1: Nervous guest with a guilty pleasure:Entrance Stage Right
+GUEST2: Boyfriend/girlfriend of first guest:Entrance Stage Left
+GUEST3: Shameless lover of first guest and ex of second guest:Entrance Stage Right
+SUGGESTIONS =============================
+HOSTNAME: Talk show host's name:Jerry Springer, Dr Phil, Jeremy Kyle, Oprah Winfrey
+GUEST1NAME: First guest's name:Cindy, Randy, Bingus
+GUEST2NAME: Second guest's name:Leeroy, Tammy, Senpai
+GUEST3NAME: Third guest's name:Krystal, Tucker, Daddy
+GP: A guilty pleasure:eating raw cookie dough, taking selfies, reality TV
+INSULT: An insult:a smelly sausage, dog-poo breath, a skid-mark
+METAPHOR: A metaphor:a box of chocolates, a summer's day, a burnt-off eyebrow
+LOCATION: An embarrassing location:middle of the football pitch, car park, shopping centre
+SCRIPT ==========================================
+gameshow intro
+TYPEWRITER: HOSTNAME! HOSTNAME! HOSTNAME!
+HOST: (Enter stage right) Hello! Thank you! Hello everyone! How are you doing?
+Meanwhile GUEST1: (Enter stage right and sit on the couch)
+HOST: Hello, and welcome to the show. I'm HOSTNAME.
+HOST: Joining me tonight is GUEST1NAME, who's here to confess to their significant other about their guilty pleasure.
+Applause
+HOST: GUEST1NAME, tell us, what's been going on?
+GUEST1: Well HOSTNAME, I've been seeing GUEST2NAME for a while now, and I'm a bit nervous...
+GUEST1: but I thought, this is too important to keep to myself, so I want to get it out in the open.
+HOST: Okay, sounds pretty serious. Are you ready?
+GUEST1: Yeah.
+HOST: Okay, let's get GUEST2NAME on the show.
+applause
+GUEST2: (Enter stage left and sit on the couch next to GUEST1NAME) Hello, HOSTNAME.
+HOST: Welcome to the show GUEST2NAME. Do you know why GUEST1NAME brought you here today?
+GUEST2: No, HOSTNAME, I've got no idea.
+HOST: Well, it's because GUEST1NAME has got something important to tell you. Go ahead, GUEST1NAME.
+GUEST1: (turn to GUEST2NAME and hold their hand)
+GUEST1: GUEST2NAME... it's just... well...
+GUEST1: I'm really into GP, and I know you don't like it, so...
+GUEST1: I've been seeing someone else behind your back.
+GUEST2: What?! Who?!
+GUEST3: (Enter stage right) They been seein' me! I'm GUEST3NAME!
+courtroom sting
+GUEST2: Why you...! (Wrestle GUEST3NAME)
+gameshow crowd shouting numbers
+HOST: (Break up the fight) Whoa, whoa, whoa! Break it up! Break it up!
+GUEST3: (Stop fighting, point at GUEST2NAME) You know it, honey!
+GUEST2: Get your own, you INSULT!
+HOST: All right, all right. GUEST2NAME, this must be quite the shock for you?
+GUEST2: You think? I haven't seen this guy since high school, and they were into GP all along?
+GUEST3: Ahh no, you know you like this, GUEST3NAME remembers that night like it was yesterday!
+HOST: What night, GUEST3NAME? Tell us what happened?
+GUEST3: Me and GUEST2NAME were into GP for years, then in senior year, we decided to take it to the next level!
+GUEST3: We did GP right there in the LOCATION! Where everybody could see us!
+HOST: You did it where?!
+GUEST2: But that was then! This is now! I wanted to get away from it, it was so embarrassing! And then I found you, GUEST1NAME!
+aww
+GUEST2: I thought we had something! And you're seeing _this_ behind my back?! Why?
+GUEST1: ...Because I really like GP?
+GUEST1: But I really like you too! It's true! But why can't I have both? I mean, it's not that big a deal...
+GUEST2: But why would you go out with someone like them? They're a complete INSULT!
+GUEST3: Look in the mirror, honey!
+GUEST1: (Attack GUEST3NAME) You shut your damn mouth!
+HOST: Okay, okay, by the look of it, you two are pretty much inconsolable. So I guess it's time to ask GUEST1NAME who they'd rather go with.
+HOST: Will you choose the one who loves you, or the one who can give you as much GP as you'd like?
+GUEST1: I choose... (GUEST2NAME or GUEST3NAME, then stand next to them)
+aww
+GUEST1: Come on, let's go home. (Both exit stage left)
+HOST: Wow, I did not expect that. (To unchosen guest) I'm so sorry, thanks for coming on. A round of applause for all today's guests, please.
+applause
+TYPEWRITER: HOSTNAME's Final Thought
+HOST: (From centre stage) You know, I think we've all learned something here today.
+HOST: Though controversial, GP is not the be-all-and-end-all we'd think it is. Some people like it, some people can't stand it.
+HOST: That's just the way people are, which is fine. In that way, it's a bit like METAPHOR.
+HOST: We all talk about METAPHOR as if it's nothing, yet it's something that affects every one of us.
+HOST: When we talk about METAPHOR, we connect with each other, we're more open with each other, and most importantly, we help each other cope.
+HOST: After all, a problem shared is a problem halved, especially when it comes to METAPHOR.
+HOST: So let's all do the same for folks who like GP, and also those who don't.
+HOST: And on that note, take care of yourselves, and each other. Goodnight.
+gameshow outro
+
+======
+
+INFORMATION ===============================
+ID: 589
+TITLE: Personal Injury Lawyers
+AUTHOR: Stitcharoo
+VERIFIED: True
+TAGS: Skit,Infomercial
+SET: Living Room
+CHARACTERS ================================
+PERSON1: Person giving testimonial:Entrance Stage Right
+PERSON2: Satisfied customer:Backstage
+LAW1: Lawyer 1:Backstage
+LAW2: Lawyer 2:Backstage
+SUGGESTIONS =============================
+BODY1: An unusual body part:Spleen, Nostril, Uvula, Pituitary Gland, Frenulum
+BODY2: Part of the body that hurts to stub:Funny Bone, Thumb, Knee, Toe, Face
+FURN: A peculiar furniture piece:End table, Umbrella stand, Shoe tree, Toothbrush holder
+LAWFIRM: A name of a "Legit" Legal Firm:Stab'n'Slab Law Clinic, Bean & Burrito Legal Association, MoneyPlease Attorney Network 
+TVSHOW: Title of an embarrassing TV show:Boy Kisser Island, The Potato Batchelor, All My Nuggets, Taidums Gone Wild 
+MONEY: Another word for money:Moola, a side of lettuce, Scrooge McDuck'n, Shinies
+COMP: A type of computer:Gaming, Fast, Fancy, Expensive, Nerdy
+OOF: Word you exclaim when hurt:Oh my!, Ouch!, That Smarts!, I got hurt just now!
+RELATE: Someone in relation to you:Landlord, Grandma, Coworker, Dance instructor
+SCRIPT ==========================================
+SAD CHUG JUG MUSIC
+PERSON1: (Address the audience) It was supposed to be the best day of my life.
+PERSON1: I just finished building my brand new COMP computer.
+PERSON1: And my VR equipment arrived in the mail!
+PERSON1: It even came with full BODY1 Tracking!
+PERSON1: I Put the headset on and started playing VRChat, and that's when it happened.
+PERSON1: (Bump into an object you can't see. Ouch!) OOF
+CRASHING DEBRIS
+LAW1: (Enter stage right and address the audience) This tragic tale happens more often than you'd think.
+LAW1: Each day, tens of players using VR equipment slam into everyday objects they just couldn't see.
+LAW1: Desks, small tables, FURN, and more are unseen hazards we all know.
+LAW2: (Enter from stage left addressing the audience) Have you recently been injured in a VR accident?
+LAW2: Don't let big VR step all over you.
+COURTROOM MUSIC
+LAW1: Here at LAWFIRM we fight for you and your rights!
+LAW2: We're fired up and we mean business!
+LAW2: Listen to this testimonial from a satisfied client (motion to stage right).
+PERSON2: (Enter Stage Right and address the audience) When I crashed my BODY2 into my TV, I was bummed
+BREAK DOWN DOOR
+PERSON2: I was out of work that one whole day and I was out of a TV.
+PERSON2: But LAWFIRM took on the spoopy insurance company and even got me a new TV!
+PERSON2: They gave me an attorney and handled everything.
+PERSON2: It was easy, and so fast, too.
+PERSON2: I didn't miss a single episode of my favorite TV show, TVSHOW!
+LAW1: You might think that VR is a lawless hellscape.
+FIRE ALARM
+LAW1: And for the most part you'd be right.
+LAW2: But LAWFIRM has justice and legs!
+Meanwhile LAW1: (Make kicking motions to show your legs)
+LAW1: (Yell and draw out the word out) Justice!
+LAW2: Here's a testimonial from a satisfied returning client.
+PERSON1: When I fell down a flight of stairs, I broke my VR gear.
+PERSON1: And broke my BODY1.
+VINE BOOM
+PERSON1: LAWFIRM got me cash MONEY fast.
+PERSON1: I was out of the hospital in no time!
+PERSON2: I got my MONEY and sued my RELATE for some reason!
+PERSON2: (Thumbs up to the audience) Thanks LAWFIRM!
+Meanwhile PERSON1: (Thumbs up to the audience) Thanks LAWFIRM!
+LAW1: So if you stubbed your BODY2 on yours or someone else's FURN while playing VRChat, we'll sue whoever, or whatever, you want.
+COURTROOM STING
+LAW2: Don't walk around with an injured BODY1, call 1-800- OOF and get your MONEY today!
+Meanwhile TYPEWRITER: Call LAWFIRM to get your MONEY today! Dial 1-800- OOF
+LAW1: (Commercial is over but you forgot this last bit to squeeze in there) We also validate parking!
+
+======
+
+INFORMATION ===============================
+ID: 591
+TITLE: Evil Ambassador
+AUTHOR: ptepik
+VERIFIED: False
+TAGS: Skit
+SET: Political Debate USA
+CHARACTERS ================================
+PRES: Johnny President:Center Stage
+AMB: Terrifying Ambassador:Entrance Stage Left
+ADV: Political Advisor:Podium Stage Left
+SUGGESTIONS =============================
+POWER: Something extremely powerful:dragon, demon, nuclear weapon
+INSULT: An insult:crybaby, wet cabbage, nerd, foolish mortal
+PART: A body part:stomach, knee, head, big toe
+PLACE: A terrifying place:Walmart, North Korea, The Hood
+ISSUE: A controversial topic:pineapple on pizza, WWIII, Taylor Swift
+KILL: Intense and in-depth way to kill someone:tear you apart limb from limb, eat your eyeballs, stage an elaborate toaster + bathtub accident
+SCRIPT ==========================================
+usa anthem music
+PRES: Hello fellow Americans! Now, I know you all are here to know my opinions on ISSUE, however first I have something I must say.
+PRES: As an American like you all, making this decision was no easy task, and it took a lot of decision making on my behalf, but I stand by what I am about to say.
+Music Stops
+cellphone vibrate
+ADV: Sir, I hate to interrupt you, but we just got a pressing message from the ambassador of PLACE.
+PRES: (Act scared) The ambassador of PLACE? What could they possibly want?
+break down door
+scary music
+AMB: (Breaks into office) Johnny president! You Have some explaining to do!
+PRES: H-Hold on now, ambassador! I promise you, my views on ISSUE won't harm PLACE in any way!
+AMB: Good, then you should have no issue with me saying by to listen. (Sit at the chair by the table)
+noir music 1
+ADV: Mr. President, are you sure we should continue this broadcast?
+PRES: (Unsure) O-Of course! we have to show our fellow Americans that we aren't Afraid of anything!
+AMB: Well, get on with it.
+PRES: As I was saying, my views on ISSUE are as follows:
+PRES: (Glancing back at the ambassador) It's... uh... Its generally bad!
+epic fantasy music 3
+AMB: WHAT DID YOU JUST SAY?!
+PRES: H-Hold on now ambassador, I'm sure its not as bad as you think!
+AMB: (Shouting) You dare support a viewpoint opposing mine? Do you know who I am?
+AMB: I'm the one and only ambassador to PLACE!
+AMB: Now for that, I'm Going to KILL. (Walk slowly toward the president)
+ADV: (cutting off the ambassador) Not if I have anything to say about it!
+PRES: Trusty advisor whom I cannot remember the name of, No! You'll only get yourself killed! Do you know how expensive hiring another advisor would be?
+ADV: Don't worry Johnny President, I've got this!
+ADV: Ambassador of PLACE, Your days of harassing the president are over! Now, I shall defeat you!
+AMB: You really think you can defeat me? Ha! You are more foolish than you look.
+pokemon battle start
+pokemon battle music
+AMB: (Fight the advisor)
+Meanwhile ADV: (Fight the ambassador)
+PRES: (standing on the sidelines, watching the two fight) Wow, those two are really going at it.
+explosion
+tense cinematic music
+ADV: (Get knocked down) Ow! You hit me right in the PART. No Fair!
+Meanwhile AMB: (Knock down the advisor)
+AMB: Stop being such a INSULT!
+ADV: Fine, looks like I'll have to use my special power!
+Music Stops
+super epic charge up
+ADV: POWER powers, activate!
+AMB: Noooo!! POWER, my only weakness! (Die)
+church bell
+PRES: Wow, that was impressive!
+ADV: So does that mean I'm getting a raise?
+PRES: Ha! in your dreams!
+
+======
+
