@@ -11870,20 +11870,21 @@ VERIFIED: True
 TAGS: Skit
 SET: Backyard
 CHARACTERS ================================
-ARTHUR: A middle aged man.:Stage Left
 PROSSER: A construction foreman.:Stage Right
+ARTHUR: A middle aged man.:Stage Left
 SUGGESTIONS =============================
-DOZER: Large vehicle used in construction:Bulldozer, Crane, Backhoe
-BREAKDOWN: A way a machine can fail:Rust, Seize
-BUILD: Large construction project:Bypass, Skyscraper, Mall
-H.ACTIVITY: Activity done around the house:Clean, Wash, Vacuum
-H.ACT.OBJ: Household object:Windows, Dishes, Carpet
-REST.POS: Resting position:Laying, sitting, napping
-TIME: A short period of past time:Yesterday, Five minutes ago
-FEE: An amount of money:Five dollars, Ten cents
-OFFICE: An office department:Human Resources, Planning Department, Shipping, Receiving
-ROOM: A disused room of a building:Basement, Cellar, Attic, Dungeon
 CONNECTION: A way to move between rooms or floors:Stairs, Elevator, Door, Escalator, Gate
+ROOM: A disused room of a building:Basement, Cellar, Attic, Dungeon
+OFFICE: An office department:Human Resources, Planning Department, Shipping, Receiving
+FEE: An amount of money:Five dollars, Ten cents
+TIME: A short period of past time:Yesterday, Five minutes ago
+REST.POS: Resting position:Laying, sitting, napping
+H.ACT.OBJ: Household object:Windows, Dishes, Carpet
+H.ACTIVITY: Activity done around the house:Clean, Wash, Vacuum
+BUILD: Large construction project:Bypass, Skyscraper, Mall
+BREAKDOWN: A way a machine can fail:Rust, Seize
+DOZER: Large vehicle used in construction:Bulldozer, Crane, Backhoe
+ANIMAL: A dangerous creature:Tiger, Leopard, Crocodile
 SCRIPT ==========================================
 PROSSER: Come off it Mr. Dent, you can't win you know. There's no point in REST.POS down in the path of progress.
 ARTHUR: I've gone off the idea of progress. It's overrated.
@@ -19662,19 +19663,19 @@ VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
 CHARACTERS ================================
-NF: New Father:Examination Table
-DR: Doctor:Backstage
 NR: Nurse:Entrance Stage Right
+DR: Doctor:Backstage
+NF: New Father:Examination Table
 SUGGESTIONS =============================
-NAME: Random last name:Smith, Johnson, Billybob, Giggles
-DOCTOR: Last name of a doctor:Doctor, House, Jones, Beans
-PATIENT: Random name:John, Paul, George, Richard
-OBJECT: A physical object:ball, pen, apple, car, fidget spinner
-BODY PART: A body part:arm, leg, lung, brain, pinky toe
-BABY: Random boy name:Tommy, Phil, Chucky, Dil
-GAME: A game:catch, Halo, Call of Duty, chess, cops and robbers
-OCCUPATION: A job:plumber, electrician, used car salesman, backup dancer
 SOMETHING: Something you would NOT want to have daily:whiskey, lead, asbestos, Justin Bieber music
+OCCUPATION: A job:plumber, electrician, used car salesman, backup dancer
+GAME: A game:catch, Halo, Call of Duty, chess, cops and robbers
+BABY: Random boy name:Tommy, Phil, Chucky, Dil
+BODY PART: A body part:arm, leg, lung, brain, pinky toe
+OBJECT: A physical object:ball, pen, apple, car, fidget spinner
+PATIENT: Random name:John, Paul, George, Richard
+DOCTOR: Last name of a doctor:Doctor, House, Jones, Beans
+NAME: Random last name:Smith, Johnson, Billybob, Giggles
 SCRIPT ==========================================
 silly music 2
 NF: Oh man, I hope everything's okay with our new child.
@@ -19701,7 +19702,7 @@ sad chug jug music
 DR: I'm so sorry Mr. NAME.
 DR: My uncle was born alive and he now works a normal life as a OCCUPATION!
 knocking on door
-NR: Sorry Dr. DOCTOR, PATIENT is here again complaining about a OBJECT in his BODY PART.
+NR: (Enter stage right) Sorry Dr. DOCTOR, PATIENT is here again complaining about a OBJECT in his BODY PART.
 DR: Nurse! Can't you see I'm breaking bad news to a patient? This man's new baby boy is alive!
 NR: Oh... oh my god
 NR: (Hug new father) I'm so sorry!
@@ -19804,21 +19805,22 @@ VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
 CHARACTERS ================================
-TROLL: Troll:On bridge
-BELIEVER: Believer:Backstage
 SKEPTIC: Skeptic:Backstage
+BELIEVER: Believer:Backstage
+TROLL: Troll:On bridge
 SUGGESTIONS =============================
-BODYPART: A bodypart:hand, eyes, spine
-SHOW: The name of a supernatural investigation show:spooky time, truth finders, ghoul o'clock
-ANIMAL: An animal:bear, owl, moose, cat
-PLACE: A country/state:England, Canada, Norway, Louisiana, Ohio
-SMELL: Something with a strong smell:garlic, cheese, old pizza
-NAME: A person's name:Shia Labeouf, Bill Gates, Gordon Ramsey
-CREATURE: A supernatural creature:ghost, vampire, goblin
-BUILDING: A building you'd find in a city/town:hospital, school, police station
-WEIRDTHING: A weird thing to scream when you're panicked:give me your glasses, pick me up, feed me lemons
-JOB: A job title:electrician, barber, engineer
 ANYTHING: Literally anything:fish, car, smoke alarm, cardboard box
+JOB: A job title:electrician, barber, engineer
+WEIRDTHING: A weird thing to scream when you're panicked:give me your glasses, pick me up, feed me lemons
+BUILDING: A building you'd find in a city/town:hospital, school, police station
+CREATURE: A supernatural creature:ghost, vampire, goblin
+NAME: A person's name:Shia Labeouf, Bill Gates, Gordon Ramsey
+SMELL: Something with a strong smell:garlic, cheese, old pizza
+PLACE: A country/state:England, Canada, Norway, Louisiana, Ohio
+ANIMAL: An animal:bear, owl, moose, cat
+SHOW: The name of a supernatural investigation show:spooky time, truth finders, ghoul o'clock
+BODYPART: A bodypart:hand, eyes, spine
+SUBSTANCE: Something sticky:glue, sticky tape, toffee
 SCRIPT ==========================================
 TROLL: Troll had slow day today. Not many humans come to Troll's bridge anymore.
 TROLL: Troll not even eaten any human BODYPART in weeks!
