@@ -9423,35 +9423,35 @@ VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
 CHARACTERS ================================
-SUPER HERO: Hero, Weakened, but not dead:Corner Left
 SUPER VILLAIN: Villain, The one in Control:Behind Door
+SUPER HERO: Hero, Weakened, but not dead:Corner Left
 SUGGESTIONS =============================
-HERO: A Super Hero Name (Existing or Made up):Roach Man, Captain Pool-cue, Aluminum Girl, Spider-Man
-VILLAIN: A Super Villain Name (Existing or Made up):Glowing Elf, Poison, Jay Johnna Jameson, Green Goblin
-CRIME: A type of criminal (Ex. "Murderer"):Murderer, Felon, Pimp, Thief
-AREA: A type of location where people live:City, Town, Apartment
-POPNUM: A Population Number of an Area (Ex 8 Million):8 Million, 2.5 Million, 3,000,000, 1,337,420
-BUG: Something easily squashed or squeezed:Bug, Spider, Potato, Melon, piece of old gum
-BODYPART: External Body Part (Preferably Plural):Shoulders, Heads, Knees
-AMAZE: A word to describe an Exceptional Person (With An or a in front):an Amazing, a Spectacular, a Fantastic
-CREATE: Something two people working together could do?:create, build, cook
-NAME: The most ordinary name you can think of.:Bob, John, Karen, Ken, Ashley
 COSPLAYER: Username, your own or otherwise:Tupper VRChat, Sans Undertale
+NAME: The most ordinary name you can think of.:Bob, John, Karen, Ken, Ashley, Peter
+CREATE: Something two people working together could do?:create, build, cook
+AMAZE: A word to describe an Exceptional Person (With An or a in front):an Amazing, a Spectacular, a Fantastic
+BODYPART: External Body Part (Preferably Plural):Shoulders, Heads, Knees
+BUG: Something easily squashed or squeezed:Bug, Spider, Potato, Melon, piece of old gum
+POPNUM: A Population Number of an Area (Ex. "8 Million"):8 Million, 2.5 Million, 3,000,000, 1,337,420
+AREA: A type of location where people live:City, Town, Apartment
+CRIME: A type of criminal (Ex. "Murderer"):Murderer, Felon, Pimp, Thief
+VILLAIN: A Super Villain Name (Existing or Made up):Glowing Elf, Poison, Jay Johnna Jameson, Green Goblin
+HERO: A Super Hero Name (Existing or Made up):Roach Man, Captain Pool-cue, Aluminum Girl, Spider-Man
 SCRIPT ==========================================
 Tense cinematic music
 SUPER HERO: (Sitting on the ground, head down, weakened and paralyzed)
 SUPER VILLAIN: Wake up HERO, Wake up.
-SUPER VILLAIN: No, you're not dead, yet. Just paralyzed, temporarily.
-Meanwhile SUPER HERO: (Slowly Lifts head up, groaning in pain)
-SUPER VILLAIN: (Enter Though Door) You're AMAZE creature HERO. You and I are not so different.
+SUPER VILLAIN: No, you're not dead, yet. Just paralyzed, temporarily.
+Meanwhile SUPER HERO: (Slowly Lifts head up, groaning in pain)
+SUPER VILLAIN: (Enter Though Door) You're AMAZE creature HERO. You and I are not so different.
 SUPER HERO: I'm not like you...you're a CRIME...
-SUPER VILLAIN: Well, to each his own. 
-SUPER VILLAIN: (Points at self then at HERO) I chose my path you chose the way of the hero. 
+SUPER VILLAIN: Well, to each his own. 
+SUPER VILLAIN: (Points at self then at HERO) I chose my path you chose the way of the hero. 
 SUPER VILLAIN: And they found you amusing for awhile, the people of this AREA.
 SUPER VILLAIN: (Lift hand and finger up if possible.) But the one thing they love more than a hero, is to see a hero fail, fall, die trying. (Put hand down)
 SUPER VILLAIN: In spite of everything you've done for them, eventually they will hate you. Why bother?
 SUPER HERO: Because...wait, where am I?
-Meanwhile SUPER VILLAIN: (Walk towards HERO)
+Meanwhile SUPER VILLAIN: (Walk towards HERO)
 Music Stops
 SUPER VILLAIN: Uh...an interrogation room. Now answer my question HERO. Why bother?
 SUPER HERO: (Still can't stand up) What am I being interrogated for? Wait, are you...
@@ -9479,15 +9479,15 @@ SUPER HERO: I don't think I actually have a choice here...so sure.
 Music Stops
 SUPER VILLAIN: (Walks towards HERO Again) Great, thank you.
 Tense cinematic music
-SUPER VILLAIN: (Lightly Slap back of HERO 's Head) Here's the real truth. 
-SUPER VILLAIN: There are POPNUM people in this AREA. And those teeming masses exist for the sole purpose, of lifting the few exceptional onto their BODYPART. 
+SUPER VILLAIN: (Lightly Slap back of HERO 's Head) Here's the real truth. 
+SUPER VILLAIN: There are POPNUM people in this AREA. And those teeming masses exist for the sole purpose, of lifting the few exceptional onto their BODYPART. 
 SUPER VILLAIN: You me...we're exceptional.
 Meanwhile SUPER HERO: (Trying to lift head again, but is struggling.)
 SUPER VILLAIN: (Crouches to HERO 's Face level and grabs their chin) I could squash you like a BUG right now! (Looking directing at HERO 's face)
 Meanwhile SUPER HERO: (Looking Directly at VILLAIN 's face)
 SUPER VILLAIN: But I'm offering you a choice. Join me. Imagine what we could accomplish together. What we could CREATE.
-SUPER VILLAIN: Or we could destroy! (Stand up suddenly and walk away) 
-SUPER VILLAIN: Cause the deaths of countless innocents in selfish battle again and Again and AGAIN until we're both dead! Is that, what you want?
+SUPER VILLAIN: Or we could destroy! (Stand up suddenly and walk away) 
+SUPER VILLAIN: Cause the deaths of countless innocents in selfish battle again and Again and AGAIN until we're both dead! Is that, what you want?
 SUPER VILLAIN: THINK ABOUT IT, "HERO"! (Exit stage any way you wish, You are done with this performance.)
 Meanwhile SUPER HERO: (Finally attempting to stand up)
 Music Stops
@@ -19403,21 +19403,22 @@ VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
 CHARACTERS ================================
-KNIG: The Knight, alerted of a thief's presence:Entrance Stage Right
-GUAR:  Dim-witted Guard, protecting the King's treasure:Chair
-ARCH: The shapeshifter thief, disguised as an Archer:Entrance Stage Right
 WIZ: The Grand Wizard, disturbed by the noise in the castle:Backstage
+ARCH: The shapeshifter thief, disguised as an Archer:Entrance Stage Right
+GUAR:  Dim-witted Guard, protecting the King's treasure:Chair
+KNIG: The Knight, alerted of a thief's presence:Entrance Stage Right
 SUGGESTIONS =============================
-JEWEL: (Plural) Things you wouldn't want anyone to find:Jewels, Stolen goods, Unpaid bills, love letters, dark web search history, tattoos
-HARRY: The name of a great wizard:Merlin, Shazam, Rasputin, Zatara, Prospero, Dr. Strange, Elminster
-MAGIC1: A verb ending in -ing:Flying, Building, Drifting, Existing, Pondering, Rediscovering, Shivering
-MAGIC2: A verb ending in -ing:Swimming, Thinking, Dreaming, Planning, Skipping, Memorizing, Laughing
-RAT: An ingredient you'd add to a potion:Rat's tails, Breath of a wild storm, Mermaid's heart
-GOO: A substance one might leave behind:Mud, Lipstick mark, Tears, Blood, Graffiti, Love letter, Chewing gum, Discarded clothes, Carbon footprint, Ashes, DNA, Nail clippings, Forgotten Dreams
-GREEN: An adjective that describes something yucky:Stinky, Slimy, Fetid, Repulsive, Vile, Gruesome, Putrid, Nauseating, Rancid
-EYE: An ingredient you'd add to a potion:Frog's extract, Eye of Newt, Dragon's heartstrings, Phoenix feather, Unicorn tear, Basilisk Scale, Moon dust, Vortex confection, Fairy wing powder, Banshee wail, Dream weaver silk, Essence of Starlight
-LACELOT: The name of a Knight (Without "Sir"):Lancelot, Galahad, Percival, Gawain, Ector, Tristan, Siegfried, Bevis, Roland, Malory, Stark, Batman, Orlando Florida
 OBJECT: Name any object:book, typewriter, Cheese grater, shoelace, wind chime, espresso machine, piano bench, traffic cone, jade figurine, satellite dish, Viking helmet, flashlight, avocado, rotary phone, jackhammer, origami crane, prosthetic leg, gold doubloon, Furby, Tibetan singing bowl, bonsai tree, ghost pepper
+LACELOT: The name of a Knight (Without "Sir"):Lancelot, Galahad, Percival, Gawain, Ector, Tristan, Siegfried, Bevis, Roland, Malory, Stark, Batman, Orlando Florida
+EYE: An ingredient you'd add to a potion:Frog's extract, Eye of Newt, Dragon's heartstrings, Phoenix feather, Unicorn tear, Basilisk Scale, Moon dust, Vortex confection, Fairy wing powder, Banshee wail, Dream weaver silk, Essence of Starlight
+GREEN: An adjective that describes something yucky:Stinky, Slimy, Fetid, Repulsive, Vile, Gruesome, Putrid, Nauseating, Rancid
+GOO: A substance one might leave behind:Mud, Lipstick mark, Tears, Blood, Graffiti, Love letter, Chewing gum, Discarded clothes, Carbon footprint, Ashes, DNA, Nail clippings, Forgotten Dreams
+RAT: An ingredient you'd add to a potion:Rat's tails, Breath of a wild storm, Mermaid's heart
+MAGIC2: A verb ending in -ing:Swimming, Thinking, Dreaming, Planning, Skipping, Memorizing, Laughing
+MAGIC1: A verb ending in -ing:Flying, Building, Drifting, Existing, Pondering, Rediscovering, Shivering
+HARRY: The name of a great wizard:Merlin, Shazam, Rasputin, Zatara, Prospero, Dr. Strange, Elminster
+JEWEL: (Plural) Things you wouldn't want anyone to find:Jewels, Stolen goods, Unpaid bills, love letters, dark web search history, tattoos
+SHAPE: A fantasy creature known to shapeshift into humans:Shapeshifter, Mimic, Skin-walker, Slime, Ditto
 SCRIPT ==========================================
 Peaceful fantasy music
 GUAR: (sitting, asleep) Honk mi mi mi. Honk mi mi mi.
@@ -19448,28 +19449,28 @@ Meanwhile ARCH: (stare in silent confusion)
 GUAR: GOO ?
 WIZ: Not just any GOO . This is GREEN GOO
 ARCH: So…?
-WIZ: So! This thief isn’t any old thief! The castle is being robbed by a shapeshifter!
-KNIG: A shapeshifter!
-Meanwhile ARCH: A shapeshifter!
+WIZ: So! This thief isn’t any old thief! The castle is being robbed by a SHAPE !
+KNIG: A SHAPE !
+Meanwhile ARCH: A SHAPE !
 GUAR: A what-now?
-WIZ: A shapeshifter! A magical creature which can turn into anything or anyone it pleases!
-ARCH: (Look at the guard mockingly) It’s kind of in the name smart guy
+WIZ: A SHAPE ! A magical creature which can turn into anything, or anyone it pleases!
+ARCH: (Look at the guard mockingly) Honestly, don't you know anything...
 GUAR: Ooooh
-WIZ: Indeed and every time a shapeshifter changes, it leaves behind GREEN GOO !
+WIZ: Indeed and every time a SHAPE changes, it leaves behind GREEN GOO !
 WIZ: (examine the GOO ) which coincidentally could prove most useful for the development of a MAGIC2 potion.
 WIZ: (To yourself) Maybe with an ounce of EYE and heated up a bit.
 KNIG: (annoyed) Your point, Grand Wizard HARRY .
 WIZ: My point!? (close the door, then look back at the others)
-WIZ: Well tell me, Sir LACELOT ? Did you happen to see any shapeshifters?
+WIZ: Well tell me, Sir LACELOT ? Did you happen to see any SHAPE s?
 KNIG: No?
-WIZ: (Make your way to the center of the room) And you archer? Did you spy with you keen eye any shapeshifters on your way here?
+WIZ: (Make your way to the center of the room) And you archer? Did you spy with you keen eye any SHAPE s on your way here?
 ARCH: uuh no?
-WIZ: And you guard! Did you see any shapeshifters!
+WIZ: And you guard! Did you see any SHAPE s!
 GUAR: No! What’s your point!
-WIZ: By Merlin’s beard, do you not realize, he could be in this very room! Hiding among us, waiting for suspicion to fall and snatch the JEWEL
-WIZ: He could be anyone of us! He could be you! He could be me! He could be that chair! He could even be a magically levitating OBJECT for all we know!
+WIZ: By Merlin’s beard, do you not realize, it could be in this very room! Hiding among us, waiting for suspicion to fall and snatch the JEWEL
+WIZ: It could be anyone of us! It could be you! It could be me! It could be that chair! It could even be a magically levitating OBJECT for all we know!
 Meanwhile GUAR: (make your way behind the wizard and raise your sword)
-WIZ: (To yourself) Or maybe he’s waiting for us to turn on eachother so he can steal the JEWEL unhindered?
+WIZ: (To yourself) Or maybe it’s waiting for us to turn on each other so it can steal the JEWEL unhindered?
 GUAR: (Slash the wizard with your sword) Ha!
 Knife wound, Music stops
 WIZ: Argh! (Fall to the floor)
@@ -19478,22 +19479,22 @@ ARCH: Oh my God! You just cut his head clean off!
 GUAR: (Triumphantly) Take that you evil shape-shifting thief! Ha ha!
 KNIG: (crouch down over the wizard’s body) Oh…
 GUAR: You will not be putting your slimy paws on our King’s JEWEL today!
-KNIG: I think you just.. you just killed the Grand wizard HARRY .
+KNIG: I think you just.. you just killed the real Grand wizard HARRY .
 GUAR: (crouch down and poke the wizard’s body) Oh…
 KNIG: Which means we still have a problem.
 GUAR: No, we’ll just say the archer did this.
 Meanwhile ARCH: (Sneak up behind the 2 guards backs. Switch avatars to reveal you're the shapeshifter)
-KNIG: I meant about the shapeshifter.
+KNIG: I meant about the SHAPE .
 Meanwhile ARCH: (Sneak up behind the 2 guards backs. Switch avatars to reveal you're the shapeshifter)
-GUAR: Oh right! The shapeshifter.
+GUAR: Oh right! The SHAPE .
 Epic fantasy music 2
 ARCH: Right behind you. (stab both guards)
 Knife wound
 GUAR: Aaargh (fall to the floor)
 Meanwhile KNIG: Aaargh (fall to the floor)
 Lacrimosa music
-ARCH: Ah ha ha. Leave humans too long together and they’ll always turn on eachother!
-ARCH: (Pick up the JEWEL from the knight’s body) Anywho, I’ll be taking this.
+ARCH: Ah ha ha. Leave humans too long together and they’ll always turn on each other!
+ARCH: (Pick up the JEWEL from the knight’s body) Any who, I’ll be taking this.
 ARCH: (examine the JEWEL ) These JEWEL will fetch me a pretty penny indeed.
 ARCH: (Bow to the bodies as you leave) Sir LACELOT , Grand Wizard HARRY , amusing guard....
 ARCH: Thank you for such a delightfully entertaining time. Sadly, I must be off now.
@@ -20229,25 +20230,25 @@ ID: 582
 TITLE: Jesse we need to cook!
 AUTHOR: Awbluefy
 VERIFIED: True
-TAGS: 
+TAGS: Skit
 SET: Living Room
 CHARACTERS ================================
-DOCTOR: Call in psychiatrist:Stage Right
-JESSE: Definitely Jessie Pinkman ;):Front Door
 WALTER: Definitely Walter White ;):Couch
+JESSE: Definitely Jessie Pinkman ;):Front Door
+DOCTOR: Call in psychiatrist:Stage Right
 SUGGESTIONS =============================
-COMPANY: A name for a psychiatrist company:Among Us Psychiatry Inc., Why wouldn't you need therapy Co., Walk in for crazies Ltd
-WAME2: A parody name of Walter White:Malter Fight, Woltor Wote, Walter Bright
-JAME1: A parody last name of Pinkman:Purpleman, Blueman, Punkman
-SMEDIA: A social media name (can be made up):Tiktok, Bookface, Memepage
-SHOW: A parody name for Breaking Bad:Broken Fad, Borked Awful, That one meth show
-PHRASE: An action that you can do:cook, cease the means of production, take over the government
-STREET: A street name:Parkway Drive, Nowhere Lane, Road Road
-NUM: A reasonable number:4269, 420, 69, 1200
-STATE: Name a place or city and state:Albuquerque New Mexico, Columbus Ohio, Hell, The Town, Mc Donald's
-NAME2: Any name of a person:Keanu, Joe, Borfus
-NAME1: An embarrassing name:Fuffles Mc Doofus, Shurly, Dumb
 FOOD: Some kind of snack food (singular):bag of chips, brownie, pizza, meth
+NAME1: An embarrassing name:Fuffles Mc Doofus, Shurly, Dumb
+NAME2: Any name of a person:Keanu, Joe, Borfus
+STATE: Name a place or city and state:Albuquerque New Mexico, Columbus Ohio, Hell, The Town, Mc Donald's
+NUM: A reasonable number:4269, 420, 69, 1200
+STREET: A street name:Parkway Drive, Nowhere Lane, Road Road
+PHRASE: An action that you can do:cook, cease the means of production, take over the government
+SHOW: A parody name for Breaking Bad:Broken Fad, Borked Awful, That one meth show
+SMEDIA: A social media name (can be made up):Tiktok, Bookface, Memepage
+JAME1: A parody last name of Pinkman:Purpleman, Blueman, Punkman
+WAME2: A parody name of Walter White:Malter Fight, Woltor Wote, Walter Bright
+COMPANY: A name for a psychiatrist company:Among Us Psychiatry Inc., Why wouldn't you need therapy Co., Walk in for crazies Ltd
 SCRIPT ==========================================
 JESSE: Oh boy I do love me a FOOD while watching my favorite TV show.
 break down door
@@ -20438,93 +20439,6 @@ ADULT: Don't celebrate Christmas! (laugh and transition into crying)
 ======
 
 INFORMATION ===============================
-ID: 588
-TITLE: The Dr. Jerry Kyle Show
-AUTHOR: Valhymm
-VERIFIED: True
-TAGS: Skit,Contains Adult Innuendo
-SET: Living Room
-CHARACTERS ================================
-HOST: Talk show host:Backstage
-GUEST1: Nervous guest with a guilty pleasure:Entrance Stage Right
-GUEST2: Boyfriend/girlfriend of first guest:Entrance Stage Left
-GUEST3: Shameless lover of first guest and ex of second guest:Entrance Stage Right
-SUGGESTIONS =============================
-HOSTNAME: Talk show host's name:Jerry Springer, Dr Phil, Jeremy Kyle, Oprah Winfrey
-GUEST1NAME: First guest's name:Cindy, Randy, Bingus
-GUEST2NAME: Second guest's name:Leeroy, Tammy, Senpai
-GUEST3NAME: Third guest's name:Krystal, Tucker, Daddy
-GP: A guilty pleasure:eating raw cookie dough, taking selfies, reality TV
-INSULT: An insult:a smelly sausage, dog-poo breath, a skid-mark
-METAPHOR: A metaphor:a box of chocolates, a summer's day, a burnt-off eyebrow
-LOCATION: An embarrassing location:middle of the football pitch, car park, shopping centre
-SCRIPT ==========================================
-gameshow intro
-TYPEWRITER: HOSTNAME! HOSTNAME! HOSTNAME!
-HOST: (Enter stage right) Hello! Thank you! Hello everyone! How are you doing?
-Meanwhile GUEST1: (Enter stage right and sit on the couch)
-HOST: Hello, and welcome to the show. I'm HOSTNAME.
-HOST: Joining me tonight is GUEST1NAME, who's here to confess to their significant other about their guilty pleasure.
-Applause
-HOST: GUEST1NAME, tell us, what's been going on?
-GUEST1: Well HOSTNAME, I've been seeing GUEST2NAME for a while now, and I'm a bit nervous...
-GUEST1: but I thought, this is too important to keep to myself, so I want to get it out in the open.
-HOST: Okay, sounds pretty serious. Are you ready?
-GUEST1: Yeah.
-HOST: Okay, let's get GUEST2NAME on the show.
-applause
-GUEST2: (Enter stage left and sit on the couch next to GUEST1NAME) Hello, HOSTNAME.
-HOST: Welcome to the show GUEST2NAME. Do you know why GUEST1NAME brought you here today?
-GUEST2: No, HOSTNAME, I've got no idea.
-HOST: Well, it's because GUEST1NAME has got something important to tell you. Go ahead, GUEST1NAME.
-GUEST1: (turn to GUEST2NAME and hold their hand)
-GUEST1: GUEST2NAME... it's just... well...
-GUEST1: I'm really into GP, and I know you don't like it, so...
-GUEST1: I've been seeing someone else behind your back.
-GUEST2: What?! Who?!
-GUEST3: (Enter stage right) They been seein' me! I'm GUEST3NAME!
-courtroom sting
-GUEST2: Why you...! (Wrestle GUEST3NAME)
-gameshow crowd shouting numbers
-HOST: (Break up the fight) Whoa, whoa, whoa! Break it up! Break it up!
-GUEST3: (Stop fighting, point at GUEST2NAME) You know it, honey!
-GUEST2: Get your own, you INSULT!
-HOST: All right, all right. GUEST2NAME, this must be quite the shock for you?
-GUEST2: You think? I haven't seen this guy since high school, and they were into GP all along?
-GUEST3: Ahh no, you know you like this, GUEST3NAME remembers that night like it was yesterday!
-HOST: What night, GUEST3NAME? Tell us what happened?
-GUEST3: Me and GUEST2NAME were into GP for years, then in senior year, we decided to take it to the next level!
-GUEST3: We did GP right there in the LOCATION! Where everybody could see us!
-HOST: You did it where?!
-GUEST2: But that was then! This is now! I wanted to get away from it, it was so embarrassing! And then I found you, GUEST1NAME!
-aww
-GUEST2: I thought we had something! And you're seeing _this_ behind my back?! Why?
-GUEST1: ...Because I really like GP?
-GUEST1: But I really like you too! It's true! But why can't I have both? I mean, it's not that big a deal...
-GUEST2: But why would you go out with someone like them? They're a complete INSULT!
-GUEST3: Look in the mirror, honey!
-GUEST1: (Attack GUEST3NAME) You shut your damn mouth!
-HOST: Okay, okay, by the look of it, you two are pretty much inconsolable. So I guess it's time to ask GUEST1NAME who they'd rather go with.
-HOST: Will you choose the one who loves you, or the one who can give you as much GP as you'd like?
-GUEST1: I choose... (GUEST2NAME or GUEST3NAME, then stand next to them)
-aww
-GUEST1: Come on, let's go home. (Both exit stage left)
-HOST: Wow, I did not expect that. (To unchosen guest) I'm so sorry, thanks for coming on. A round of applause for all today's guests, please.
-applause
-TYPEWRITER: HOSTNAME's Final Thought
-HOST: (From centre stage) You know, I think we've all learned something here today.
-HOST: Though controversial, GP is not the be-all-and-end-all we'd think it is. Some people like it, some people can't stand it.
-HOST: That's just the way people are, which is fine. In that way, it's a bit like METAPHOR.
-HOST: We all talk about METAPHOR as if it's nothing, yet it's something that affects every one of us.
-HOST: When we talk about METAPHOR, we connect with each other, we're more open with each other, and most importantly, we help each other cope.
-HOST: After all, a problem shared is a problem halved, especially when it comes to METAPHOR.
-HOST: So let's all do the same for folks who like GP, and also those who don't.
-HOST: And on that note, take care of yourselves, and each other. Goodnight.
-gameshow outro
-
-======
-
-INFORMATION ===============================
 ID: 589
 TITLE: Personal Injury Lawyers
 AUTHOR: Stitcharoo
@@ -20661,6 +20575,238 @@ church bell
 PRES: Wow, that was impressive!
 ADV: So does that mean I'm getting a raise?
 PRES: Ha! in your dreams!
+
+======
+
+INFORMATION ===============================
+ID: 597
+TITLE: The Alien
+AUTHOR: Imoriginal
+VERIFIED: True
+TAGS: Skit
+SET: Doctor's Office
+CHARACTERS ================================
+PATIENT: Person being diagnosed:Examination Table
+DOCTOR: The doctor:Stool
+ALIEN: Alien:Backstage
+SUGGESTIONS =============================
+BILL: A large number:356, 987, 164
+MONEY: A number under 20:3, 5, 15
+COMPANY: A company :Company inc, Bottle Co, Facebook
+MONSTER NAME: A name for something ugly:Horace, Xinjiang, Dyon
+PRODUCT: A name of a product:Cleenex, Cheese puffs, Caramel
+DR NAME: A goofy doctor name:Dr. Doof, Dr. Fridley, Dr. Doctor
+PERSON NAME: The name of a man:Bob, Ryan, Chris
+MONSTER SPECIES: The species for a monster:Xenomorph, Conespear, Chilaplia
+SCRIPT ==========================================
+Jazz music 1
+DOCTOR: Hello, my name is DR NAME and how can I help you?
+PATIENT: (In pain while on the examination table) PLEASE HELP ME!
+DOCTOR: Can you describe what you are feeling?
+PATIENT: ITS GOING TO KILL ME, OH GOD!
+DOCTOR: Please calm down and tell me what is happening.
+PATIENT: THERE IS A SPECIES NAME INSIDE OF ME!
+DOCTOR: A what inside you?
+PATIENT: A SPECIES NAME INSIDE OF ME!
+DOCTOR: Well, what is your name?
+PATIENT: (calmed down) My name is PERSON NAME.
+DOCTOR: Well PERSON NAME I have never dealt with this SPECIES NAME before, are you sure you know what you are talking about?
+PATIENT: I know it sounds stupid, but I'm being serious.
+PATIENT: But it's the truth, THERE IS SOMETHING INSIDE ME!
+DOCTOR: Okay then, give me a second.
+PATIENT: Alright then.
+PATIENT: OH GOD!
+Meanwhile DOCTOR: WHAT IS HAPPENING!
+PATIENT: I AM ABOUT TO DIE, OH GOD!
+Teleport ALIEN to EXAMINATION TABLE
+ALIEN: (Questioning yourself) Who am I?
+[Vine boom]
+PATIENT: Bro, what?
+Meanwhile DOCTOR: Bro, what?
+PATIENT: This is incredibly underwhelming.
+ALIEN: What are you talking about?
+DOCTOR: (to PATIENT) Not even gonna lie, that is kinda sad.
+PATIENT: Yeah.
+ALIEN: What are you guys talking about?
+PATIENT: Nothing important.
+Meanwhile DOCTOR: Nothing much.
+ALIEN: OH YEAH, now I remember why I'm here!
+ALIEN: My name is MONSTER NAME the MONSTER SPECIES and I'm here on behalf of COMPANY here to sell you PRODUCT.
+PATIENT: I am flabbergasted.
+Meanwhile ALIEN: (Stand next to the door)
+DOCTOR: I really thought this was going to some cliche alien encounter.
+ALIEN: Nah, I am not here for that.
+PATIENT: OH, then what ARE you here for?
+ALIEN: I LITERALLY JUST TOLD YOU!
+PATIENT: OH right, the PRODUCT.
+PATIENT: So how much for PRODUCT?
+ALIEN: Only MONEY dollars.
+PATIENT: (take out wallet and hand them the money) Alright.
+ALIEN: Pleasure doing business with you, but I'll be on my way now. (Exit stage right)
+DOCTOR: Well, your total comes to BILL dollars.
+PATIENT: (Shocked) AIN'T NO WAY YOU ARE CHARGING ME EVEN THOUGH I ALMOST DIED!
+DOCTOR: Yeah, nothin' you can do about it.
+PATIENT: Fine, how much again?
+DOCTOR: BILL Dollars.
+
+======
+
+INFORMATION ===============================
+ID: 599
+TITLE: The Overly Rich Content Creator
+AUTHOR: morchogames
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+CHARACTERS ================================
+MANAGER: The Store Manager:Backstage
+CLERK: Store Clerk:Behind Register
+FRIEND2: Friend 2:Stage Right
+FRIEND1: Friend 1:Stage Left
+CONTENTCREATOR: The Content Creator:Center Stage
+SUGGESTIONS =============================
+NAMEOFCLERK: Name of the Clerk:Karen, Larry, Eric, Dylan
+NAMEOFSTORE: Name of or Type of Store for Food:The Grocery Store, Walmart, Target, The Gas Station
+NAMEOFFRIEND2: Friend 2's Name:Carl, Amelia, Jones, Kendall, Kyle, Michelle, Rick, Ashley
+NAMEOFFRIEND1: Friend 1's Name:Carl, Amelia, Jones, Kendall, Kyle, Michelle, Rick, Ashley
+NEEDYGROUP: A Group of People in Need:The Homeless, Some Poor People,
+FOLLOWERCOUNT: Follower Count:8 Thousand, 20 Thousand, 400 Thousand, 3 Million, 20 Million, 100 Million
+PLATFORM: a Content Creator Platform:YouTube, Twitch, TikTok, Twitter, Instagram
+SNACK: Type of Snack/Drink (Plural):Bags of Chips, Candy Bars, Boxes of Microwave Popcorn, Soda Bottles 
+NAMEOFCREATOR: Name of the Content Creator:Mr. Beast, Markiplier, Jacksepticeye, PewDiePie, Jacksfilms, CinnamonToastKen, MoistCr1tikal,
+SCRIPT ==========================================
+badass music 1
+CONTENTCREATOR: What is up, Everybody! My Name is NAMEOFCREATOR
+CONTENTCREATOR: And I'm here at NAMEOFSTORE with NAMEOFFRIEND1 and NAMEOFFRIEND2 and Today we're gonna be doing something special for the Community.
+CONTENTCREATOR: In this video we're gonna be buying all the SNACK in this place so we can donate it to NEEDYGROUP.
+FRIEND1: Oh, Boy! This is so Exciting I Can't Wait to donate SNACK to NEEDYGROUP. FRIEND2: Dude, Me too!
+CONTENTCREATOR: Alright, you two! Let's Go Ahead and get started.
+Music Stops
+CLERK: Hey, You Three Can't be doing that here!
+CONTENTCREATOR: Huh?
+CLERK: You Can't Be Recording Here!
+CONTENTCREATOR: What? Why Not?
+CLERK: Because Recording in Public Places is Illegal!
+FRIEND1: Aw, Man!
+CONTENTCREATOR: Really? I was just doing something nice on PLATFORM for my FOLLOWERCOUNT Followers to See!
+FRIEND2: Hold on Guys, I Got this.
+CLERK: You Guys Need to Leave or I'm Calling the Police!
+FRIEND2: Excuse me, but Filming is in fact Legal.
+CLERK: What did you just say?!!
+courtroom music
+FRIEND2: It's true, I took law school and Filming in Public Places is indeed legal.
+CLERK: Well You're Disturbing the Other Customers! So You Shouldn't be doing that here Anyway!
+FRIEND2: Not Necessarily, According to the Law It's Still Legal to Film in Public Places including here at NAMEOFSTORE.
+CLERK: Well... You're Trespassing so You Still Can't Be Here!
+FRIEND2: Really? During Store Hours?
+CLERK: Look, I Don't Care if you're some dumb influencer on PLATFORM, You just can't do that here!
+Silly music 1
+MANAGER: (Walk in through Stage Left Entrance) Hey, What the hell is going on out here!
+CLERK: Boss! These Kids Here are Trying to Film in this store!
+MANAGER: What do you mean "Film in this store"?
+CONTENTCREATOR: I'm Sorry, Sir! We're Just trying to record a video for PLATFORM, but this clerk here doesn't want us to.
+MANAGER: a PLATFORM video, huh? what's it about?
+CONTENTCREATOR: We were just gonna buy all the SNACK in this store and Donate it all to NEEDYGROUP.
+CLERK: You Still Can't Do That Here!
+MANAGER: NAMEOFCLERK, Don't Be Ridiculous. As long as they're not doing anything wrong, They're Perfectly Allowed to Film Here.
+CLERK: But, Boss! They could be disturbing the other customers!
+MANAGER: NAMEOFCLERK, They're the only customers here! Let them do their Shopping and Record their Video.
+CLERK: But... Sir! They Can't Just do that!
+MANAGER: NAMEOFCLERK, You're Fired!
+CLERK: I Hated this Job Anyway. (Exit Stage Right)
+MANAGER: Sorry About that, Young People, But now that I'm Curious, What Exactly is the name of your PLATFORM channel?
+CONTENTCREATOR: I run this PLATFORM Channel called "NAMEOFCREATOR" where we make these awesome videos.
+MANAGER: Interesting, I think my Kid watches your Channel.
+FRIEND1: So you don't mind that we record a video here?
+MANAGER: Of Course Not, You're Free to Record your Video Here as you Please.
+FRIEND1: Heck Yeah!
+Meanwhile FRIEND2: Alright!
+CONTENTCREATOR: Thank you, we won't forget this!
+MANAGER: (Get behind counter) Now then, What's this about buying all the SNACK to donate to NEEDYGROUP?
+TYPEWRITER: After NAMEOFCREATOR, NAMEOFFRIEND1 and NAMEOFFRIEND2 Bought all the SNACK from NAMEOFSTORE...
+TYPEWRITER: The Video They Recorded was Uploaded to PLATFORM and got Enough Views to Pay back for All the SNACK they bought.
+TYPEWRITER: As for the NAMEOFCLERK, the Clerk, They went on to work as a McDonald's Chef.
+FRIEND1: (Face Friend 2) Oh, Yeah. Where'd you learn about those laws about filming in public?
+FRIEND2: My Dad's a Lawyer.
+
+======
+
+INFORMATION ===============================
+ID: 601
+TITLE: Dice Bot 2000!
+AUTHOR: LuckyLuigiX4
+VERIFIED: True
+TAGS: Infomercial
+SET: Dining Room
+CHARACTERS ================================
+LATEGUY: The Late Player:Backstage
+DICEBOT: Dice Bot 2000:Entrance Stage Left
+PLAYER1: Player 1:Chair 2
+DM: Dungeon Master:Chair 1
+ADGUY: Billy Mays:Stage Left
+SUGGESTIONS =============================
+LOWPRICE: A price for a product on an informercial. :19.99, 24.95, 44.95, 49.99, 99.96
+BODYPART: A Body Part. :Head, Back, Leg, Arm
+LOWNUM: A very low number for a D20. :1, 2, 3, 4
+EXCLAIM: Fill in the blank "Oh my ______!":Gosh, Golly, Car, Trash, Cow, Zeus
+ERRORNUM: A random READABLE number over 20. (Ex Equal or less than 1000000):1000000, 21, 2024, 133769, 69420, 80085
+DICENUM: A random number between 8-20. :19, 14, 9, 16, 15, 11, 8, 12
+LATENESS: A reason for missing/being late to an event.:caught in traffic, an illness, lazy
+NAME4: A name for a Boring Human Character.:Alex, Mitch, Drake, Zara, Willow
+NAME3: A name for an Orc Character.:Harbond, Skull Crusher, Magub, Grognak, Ghorza
+NAME2: A name for an Elven Character.:Elmon, Simimar, Elixar, Lyra
+NAME1: A regular human name for a D&D Player.:Zach, John, Benny, Anne, Charles, Kazuko
+SCRIPT ==========================================
+Happy music 1
+ADGUY: Are you tired of gathering your friends to play Dungeons and Dragons, yet having to wait for the friend that is chronically late?
+DM: Jeez what's taking NAME1 so long to get here? (To other) Do you know?
+ADGUY: Or annoyed having that one person always miss the date?
+PLAYER1: I don't know, probably got LATENESS .
+Corporate motivational music
+ADGUY: Hi Billy Mays here to show you our brand new product for situations just like this. (Open the Stage left door, has two windows)
+ADGUY: Introducing, the brand new "Dice Bot 2000"!
+Meanwhile DICEBOT: (Enter stage from door, waving robotically)
+DM: Oh my EXCLAIM!
+PLAYER1: What is that?!
+DICEBOT: Greetings Role-players, I am Dice Bot 2000. Are we ready to roll...some dice?
+DM: (Laugh)
+Meanwhile PLAYER1: (Awkwardly Laugh)
+ADGUY: The Dice Bot 2000 can do anything you would need a player to do while playing Dungeons and Dragons!
+Meanwhile DICEBOT: (Move to table and take a seat)
+ADGUY: Features include but are not limited to, role-playing the absent player!
+DM: OK So you're character is a boring Human Knight Dice Bot 2000.
+DICEBOT: Error. Must roleplay player before character. Exception Fault.
+PLAYER1: I still don't know what is going on here.
+ADGUY: Manage the Inventory of the absent player!
+PLAYER1: I will use my torch to light up the dark cave.
+DICEBOT: Negative, torch not found in Inventory.
+DM: Not your torch, their torch Dice Bot 2000.
+DICEBOT: Adding Torch to NAME2 's Inventory.
+Meanwhile PLAYER1: (Facepalm) We don't have a NAME2 in the party...
+ADGUY: And of course the main feature, rolling dice!
+DM: You're camping in the woods. NAME3 is trying to start a fire. (Look at Player 1) Roll a D20 for Survival.
+PLAYER1: (Shake dice in hand) Come on... (Throw die on table) ... LOWNUM
+DM: Dang, ok Dice Bot 2000 (Look at Dice Bot), as NAME4 please roll a D20 for Survival.
+DICEBOT: Rolling dice. (Try and fail to roll the dice)
+ADGUY: The Dice Bot 2000 even comes with a built in Random Number Generator in case you hate to use your own dice!
+ADGUY: (Walk to Dice Bot) All you need to do is flip the switch on the back of it's BODYPART! (Flip Switch)
+DICEBOT: Processing...Processing...Random Number Equals ERRORNUM
+DM: That's not a D20, please give something between 1 and 20.
+DICEBOT: Processing...Processing...Random Number between 1 and 20 equals DICENUM.
+DM: NAME4 successfully starts the fire!
+ADGUY: But I'm not done yet! If you order now, we'll double the offer, absolutely free!
+ADGUY: That's two Dice Bot 2000's for the low price of $ LOWPRICE
+ADGUY: So what are you waiting for? Order now by calling-
+Doorbell
+ADGUY: This is part of the ad, who's this?
+Music Stops
+LATEGUY: (Enter stage) Sorry I'm so late. You wouldn't believe what happened on the way here...what's going on?
+Groose music
+ADGUY: I thought we paid you not to show up for our ad.
+LATEGUY: No one paid me anything.
+DM: I was!
+PLAYER1: Wait, you guys are getting paid?
+Infomercial disclaimer
 
 ======
 
