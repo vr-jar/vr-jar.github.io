@@ -1363,7 +1363,6 @@ TicTacModz
 PRspacey
 Otigna
 Mr Gener
-WOLFHAWK X
 TheTheo20
 SugarGummi
 HawkyVR
@@ -1508,6 +1507,7 @@ Tabbycattt
 mawskull
 Batrick Pateman
 Bread9670
+WOLFHAWK X
 #TIER=1
 AkaruHaru
 Riles
