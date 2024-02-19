@@ -1538,6 +1538,7 @@ RasberryGrinlin
 ViruValgel
 VisedBubble9320
 AxiAxiAxi
+DyingBug101
 #TIER=1
 AkaruHaru
 Riles
