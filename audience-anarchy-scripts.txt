@@ -7701,94 +7701,6 @@ Brain: The same thing we do every night Pinky, Try to take over the world!!
 ======
 
 INFORMATION ===============================
-ID: 132
-TITLE: Black Knight
-AUTHOR: Figbean
-VERIFIED: True
-TAGS: Skit
-SET: Forest Bridge
-CHARACTERS ================================
-ARTHUR: Arthur, King of the Britons:Entrance Stage Left
-BLACK KNIGHT: Stoic and silent Knight:On bridge
-SUGGESTIONS =============================
-COLOR: color:Yellow, blue, green
-INJURY2: An injury:flesh wound, bruise, laceration
-INJURY1: Some injury:scratch, broken arm, 3rd degree burn
-INSULT: One word insult:loser, dumb-brain, pansy
-BODYPART1: Body part:arm, tongue, eyebrow
-NOUN1: Noun:man, dog, muppet lookin ah
-EMOTION: Emotion:sad, angry, happy
-PLACE2: Location:Chuck E. Cheese, The Office, Your Mom's House
-PLACE1: Country:England, France, Ohio
-SCRIPT ==========================================
-ARTHUR: You fight with the strength of many men, Sir knight. I am Arthur, King of PLACE1
-BLACK KNIGHT: ...
-ARTHUR: I seek the finest and the bravest knights in the land to join me in my court of PLACE2.
-BLACK KNIGHT: ...
-ARTHUR: You have proved yourself worthy; will you join me?
-BLACK KNIGHT: ...
-ARTHUR: You make me EMOTION. So be it.
-BLACK KNIGHT: None shall pass.
-ARTHUR: What?
-BLACK KNIGHT: None shall pass.
-ARTHUR: I have no quarrel with you, good Sir knight, but I must cross this bridge.
-BLACK KNIGHT: Then you shall die.
-ARTHUR: I command you as King of PLACE1 to stand aside!
-BLACK KNIGHT: I move for no NOUN1.
-Draw sword
-ARTHUR: So be it!
-Epic Fantasy Music 2
-ARTHUR: (sword fight the black knight)
-Meanwhile BLACK KNIGHT: (sword fight arthur)
-Anime sword gleam 1
-ARTHUR: (cut BLACK KNIGHT's left arm off)
-Meanwhile BLACK KNIGHT: (drop your left controller. Hope you have your strap on lol)
-Music stops
-ARTHUR: Now stand aside, worthy adversary.
-BLACK KNIGHT: 'Tis but a INJURY1.
-ARTHUR: A scratch? Your BODYPART1 off! 
-BLACK KNIGHT: No it isn't.
-ARTHUR: Well, what's that then? (pointing to BLACK KNIGHT's severed BODYPART1)
-BLACK KNIGHT: I've had worse.
-ARTHUR: You liar!
-BLACK KNIGHT: Come on you INSULT!
-Epic Fantasy Music 2
-ARTHUR: (sword fight the black knight)
-Meanwhile BLACK KNIGHT: (sword fight arthur)
-Anime sword gleam 1
-ARTHUR: (cut BLACK KNIGHT's right arm off)
-Meanwhile BLACK KNIGHT: (drop your right controller. Hope you have your strap on lol)
-ARTHUR: Victory is mine! (kneels and prays) We thank thee Lord, that in thy merc-
-BLACK KNIGHT: (Kicks ARTHUR) Come on then!
-ARTHUR: What?
-BLACK KNIGHT: Have at you!
-ARTHUR: You are indeed brave, Sir knight, but the fight is mine.
-BLACK KNIGHT: Oh, had enough, eh?
-ARTHUR: Look, you stupid bastard, you've got no arms left.
-BLACK KNIGHT: Yes I have.
-ARTHUR: Look! (pointing to BLACK KNIGHT's other severed arm)
-BLACK KNIGHT: Just a INJURY2 (Keeps kicking Arthur)
-ARTHUR: Look, stop that.
-BLACK KNIGHT: Chicken! Chicken!
-ARTHUR: Look, I'll have your leg. Right!
-Anime sword gleam 2
-ARTHUR: (Cuts BLACK KNIGHT'S leg off)
-BLACK KNIGHT: (get on one leg) Right, I'll do you for that!
-ARTHUR: You'll what?
-BLACK KNIGHT: Come 'ere! (runs into Arthur)
-ARTHUR: What are you going to do, bleed on me?
-BLACK KNIGHT: I'm invincible!
-ARTHUR: You're a loony.
-BLACK KNIGHT: The Black Knight always triumphs! Have at you! Come on then.
-ARTHUR: (chops the BLACK KNIGHT's other leg off)
-Meanwhile BLACK KNIGHT: (your other leg got chopped off. Big L. Get on your knees.)
-BLACK KNIGHT: (looks at his missing limbs) All right; we'll call it a draw.
-ARTHUR: (Exit stage right)
-BLACK KNIGHT: Oh, oh, I see, running away then. You COLOR INSULT! Come back here and take what's coming to you. I'll bite your legs off!
-
-======
-
-INFORMATION ===============================
 ID: 133
 TITLE: Romeo and Juliet
 AUTHOR: Basemisl
@@ -8008,107 +7920,6 @@ Gameshow buzzer
 BOSS: Welcome to JOB2
 BOSS: (Shake their hand)
 APPLICANT: (Shake their hand)
-
-======
-
-INFORMATION ===============================
-ID: 140
-TITLE: Steamed Hams
-AUTHOR: Bеtty
-VERIFIED: True
-TAGS: Skit
-SET: Dining Room
-CHARACTERS ================================
-SINGER: Person singing the theme song:Narrator Podium
-AGNES: Agnes, grandma:Backstage
-CHALMERS: Chalmers, superintendent:Backstage
-SKINNER: Skinner, school principal:Stage Left
-SUGGESTIONS =============================
-NAME2: A name:Chalmers
-NAME1: A name:Skinner
-BRIGHT: Something bright:aurora borealis
-DINER: A restaurant:Crusty Burgers
-PLACE3: A city:Albania
-PLACE2: A city:Utica
-PLACE1: A provence:New Yord
-FOOD3: A food:Steamed Hams
-FOOD2: A food:Clams
-BODY: Body part:Legs
-GAS: A gas:Steam
-FOOD1: A food:Hamburger
-SCRIPT ==========================================
-Chalmers: (Enter stage right)
-Doorbell
-Skinner: (Go to the door)
-Chalmers: Well, NAME1 I made it, despite your directions.
-Skinner: Ah, Superintendent NAME2 welcome. I hope you're prepared for an unforgettable luncheon!
-Chalmers: Yeah. (Sit at the table)
-Skinner: (Go into the kitchen) Oh, egads! My roast is ruined! But what if I were to purchase FOOD1 from DINER and disguise it as my own cooking?
-Skinner: (Laugh)
-Skinner: Delightfully devilish, NAME1
-Skinner: (Struggle to climb out the window) Hnnggh...
-Chalmers: (Enter the kitchen)
-Chalmers: Uh....
-Singer: (Sing the following lines)
-Singer: NAME1 with his crazy explanations,
-Singer: The NAME2 gonna need his medication,
-Singer: When he hears NAME1's lame exaggerations,
-Singer: There'll be trouble in town tonight!
-Chalmers: NAME1!!!!!
-Skinner: Name2 I was just...uh---just stretching my BODY on the windowsill. Isometric exercise! Care to join me?
-Chalmers: Why is there smoke coming out of your oven, NAME1
-Skinner: Uh... ooh! That isn't smoke, it's GAS
-Skinner: GAS from the FOOD1 we're having. Mmmm, FOOD1
-Chalmers: Suspicious) OK (Sit down at the table again)
-Skinner: Phew... (exit stage right)
-Skinner: (enter stage right, carrying a tray of FOOD3)
-Skinner: NAME2 I hope you're ready for mouthwatering FOOD3
-Chalmers: I thought we were having FOOD1
-Skinner: Oh no, I said FOOD2. That's what I call FOOD3
-Chalmers: You call FOOD3 FOOD2?
-Skinner: Yes! It's a regional dialect.
-Chalmers: Uh-huh. Eh, what region?
-Skinner: Uh... PLACE1
-Chalmers: Really? Well I'm from PLACE2 and I've never heard anyone use the phrase FOOD2
-Skinner: Oh, not in PLACE2
-Skinner: no. It's an PLACE3 expression.
-Chalmers: I see.
-Chalmers: (Eat a food)
-Skinner: (Drink some wine)
-Chalmers: You know, these FOOD3 are quite similar to the ones they have at DINER
-Skinner: Hohoho, no! Patented NAME1 FOOD3
-Skinner: Old family recipe!
-Chalmers: For FOOD2
-Skinner: Yes.
-Chalmers: Yes, and you call them steamed hams, despite the fact they are obviously grilled.
-Skinner: Y- Uh.. you know, the... One thing I should... excuse me for one second.
-Chalmers: Of course.
-Skinner: (Run into the kitchen)
-Skinner: (Come back to the dining room)
-Skinner: (yawn)
-Skinner: Well, that was wonderful. A good time was had by all. I'm pooped.
-Chalmers: Yes, I should be--
-Chalmers: (Stand quickly and point at the kitchen)
-Chalmers: good lord, what is happening in there?!
-Skinner: BRIGHT
-Chalmers: Ah- BRIGHT?!
-Chalmers: At this time of year?
-Chalmers: at this time of day?
-Chalmers: in this part of the country?
-Chalmers: localized entirely within your kitchen?!
-Skinner: Yes.
-Chalmers: ...May I see it?
-Skinner: ...No.
-Chalmers: (Go to Right stage)
-Skinner: (Go to right stage)
-Fire alarm
-Teleport AGNES to Entrance stage right
-Agnes: (enter stage right) NAME1 The house is on fire!
-Skinner: No, mother, it's just the BRIGHT
-Chalmers: Well, NAME1
-Chalmers: you are an odd fellow, but I must say... you make a good FOOD2
-Chalmers: (Leave stage)
-Agnes: Help! HELP!!!
 
 ======
 
@@ -20597,7 +20408,7 @@ MONSTER NAME: A name for something ugly:Horace, Xinjiang, Dyon
 PRODUCT: A name of a product:Cleenex, Cheese puffs, Caramel
 DR NAME: A goofy doctor name:Dr. Doof, Dr. Fridley, Dr. Doctor
 PERSON NAME: The name of a man:Bob, Ryan, Chris
-MONSTER SPECIES: The species for a monster:Xenomorph, Conespear, Chilaplia
+SPECIES NAME: The species for a monster:Xenomorph, Conespear, Chilaplia
 SCRIPT ==========================================
 Jazz music 1
 DOCTOR: Hello, my name is DR NAME and how can I help you?
@@ -20618,7 +20429,7 @@ PATIENT: Alright then.
 PATIENT: OH GOD!
 Meanwhile DOCTOR: WHAT IS HAPPENING!
 PATIENT: I AM ABOUT TO DIE, OH GOD!
-Teleport ALIEN to EXAMINATION TABLE
+Teleport ALIEN to Examination table
 ALIEN: (Questioning yourself) Who am I?
 [Vine boom]
 PATIENT: Bro, what?
@@ -20736,7 +20547,7 @@ ID: 601
 TITLE: Dice Bot 2000!
 AUTHOR: LuckyLuigiX4
 VERIFIED: True
-TAGS: Infomercial
+TAGS: Skit,Infomercial
 SET: Dining Room
 CHARACTERS ================================
 LATEGUY: The Late Player:Backstage
@@ -20798,7 +20609,7 @@ ADGUY: But I'm not done yet! If you order now, we'll double the offer, absolutel
 ADGUY: That's two Dice Bot 2000's for the low price of $ LOWPRICE
 ADGUY: So what are you waiting for? Order now by calling-
 Doorbell
-ADGUY: This is part of the ad, who's this?
+ADGUY: This isn't part of the ad, who's this?
 Music Stops
 LATEGUY: (Enter stage) Sorry I'm so late. You wouldn't believe what happened on the way here...what's going on?
 Groose music
@@ -20807,6 +20618,91 @@ LATEGUY: No one paid me anything.
 DM: I was!
 PLAYER1: Wait, you guys are getting paid?
 Infomercial disclaimer
+
+======
+
+INFORMATION ===============================
+ID: 605
+TITLE: The Midnight Shift
+AUTHOR: DaKcBomb
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+CHARACTERS ================================
+POLICE: Police Officer:Backstage
+CUSTOMER: Crazy Looking Customer:Backstage
+CLERK 2: Bored Clerk:Behind Register
+CLERK 1: Laid Back Clerk:Center Stage
+SUGGESTIONS =============================
+PARTY: Activity people do on holidays:Partying, trick-or-treating, going to the parade, celebrating with family
+ALIEN: A monster/alien race:Monster, space man, full-body player, anime girls from the planet anime, highly intelligent sea serpents
+STORE: Make up a store name:Fantasy Costco, Space Walmart, Gremblo Gas Station, Alec Baldwin's Laser Tag Arena with Real Guns
+POTATO: Make up a random word/object:Plumbus, alien probe units, uranium, adult kazoo, gravestone, drain snake
+ACID: A very harmful drug:Cocaine, Acid, Meth, Anime
+WEED: A fairly harmless drug:Marijuana, Caffiene, Unpasturized Milk
+HOLIDAY: A holiday you usually get candy from:Halloween, Valentine's Day, Mardi Gras, 420, The Purge
+HOUR: A reasonable number:2, 7, 5, 6, 11, 2 and a half, 0.0001
+PHRASE: A random phrase someone might yell:Wubba lubba dub dub, It's Morbin Time, Alvin's Hot Juicebox Alvin's Hot Juicebox!
+SCRIPT ==========================================
+Jazz music 1
+CLERK 2: (sigh) How much longer...I'm sooo bored.
+CLERK 1: It's only HOUR more hours, dude.
+CLERK 2: HOUR more hours? HOUR more hours, I can't wait that long man.
+CLERK 1: Dude, want some candy?
+CLERK 2: Eh, no thanks.
+CLERK 1: Dude, come on. It's HOLIDAY. You gotta have candy on HOLIDAY.
+CLERK 2: Okay fine, just give me one.
+CLERK 1: Ha ha, yeah let's go (hands other clerk candy)
+CLERK 2: (chews candy and thinks) Hey I think there's something wrong with this candy.
+CLERK 1: What do you mean? What's wrong with it?
+CLERK 2: I don't know, it tastes kinda funny.
+CLERK 1: Hmm? Oh yeah, it's probably because of the drugs I put in it.
+CLERK 2: What? Why would you do that, what's wrong with you?
+CLERK 1: Oh jeez, sorry I-I thought it would be fun.
+CLERK 2: Well you thought wrong, I mean what did you put in these things anyway?
+CLERK 1: It's just a little WEED
+CLERK 2: WEED candy. You put WEED in a candy bar.
+CLERK 1: (thinks) Oh wait, I didn't put any WEED in this candy. It was ACID!
+CLERK 2: (spits out candy) ACID?! What the hell is wrong with you?
+CLERK 1: I'm sorry, I'm sorry
+CLERK 2: You say that like ACID is safer than WEED. You know it's not, right?
+CLERK 1: I'm sorry, but what's done is done. My advice, just stay calm and let it ride out.
+CLERK 2: Fine, I guess you're right. When do you suppose it will kick in?
+Alien Siren
+CUSTOMER: (enter stage right, talking in a weird, loud voice) Hello do you have any POTATO here?
+CLERK 2: Uhh w-what? What's a POTATO?
+Meanwhile CLERK 1: (laugh to yourself) Here we go
+CUSTOMER: Do you have any POTATO? This is STORE is it not?
+CLERK 1: (Trying to act casual) Yeah man, this is STORE.
+CLERK 2: (whisper to clerk) What's going on?
+CLERK 1: (whisper to clerk) Just go with it.
+CUSTOMER: Excuse me! I don't have all night, it is HOLIDAY after all and I'm a very busy ALIEN
+CLERK 1: Yeah dude, I think we have some in the back. Follow me
+CUSTOMER: Thank you, I thought I'd never find any POTATO this time of night. (follow clerk towards stage left)
+Meanwhile CLERK 1: (walk customer towards stage left)
+CLERK 2: Oh man. What am I gonna do? I can't help any customers like this.
+CLERK 2: You know what, he's right. I just gotta stay calm and let it ride out.
+CLERK 2: Everything will be fine, what's the worst that could happen?
+waterphone
+Meanwhile POLICE: (You're about to walk in stage right)
+POLICE: (Casually walk in stage right) Evening sir.
+CLERK 2: (panicking) H-h-hi there. H-h-how can I h-h-help you?
+POLICE: Just coming in for a late night snack.
+CLERK 2: Heheheh
+Meanwhile POLICE: (You don't notice the screaming customer about to run by, they're invisible to you)
+CUSTOMER: (run across stage from stage left exiting stage right, screaming) PHRASE!!
+Meanwhile POLICE: (You don't notice the screaming customer running by, they're invisible to you)
+POLICE: (suspiciously to clerk) Hey! You staying outta trouble?
+CLERK 2: (gulp) W-who me?
+POLICE: Ha! I'm just messing with you.
+CLERK 2: (laughing nervously) Well it's a slow night, just doing my best to keep busy.
+POLICE: I hear that, but it is HOLIDAY. Everyone is probably out PARTY
+CLERK 2: Of course, of course.
+POLICE: Hey! You haven't seen anyone carrying any WEED or ACID here tonight, have you?
+CLERK 2: Uh no! N-no why would I see anyone with WEED or ACID?
+CLERK 1: (run back in from stage left) Dude, guess what!
+vine boom
+CLERK 1: I think all the ACID we took is starting to wear off!
 
 ======
 
