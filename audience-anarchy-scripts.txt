@@ -20444,3 +20444,103 @@ CLERK 1: I think all the ACID we took is starting to wear off!
 
 ======
 
+INFORMATION ===============================
+ID: 607
+TITLE: Our New Neighbor Sucks
+AUTHOR: TrickySpookster
+VERIFIED: True
+TAGS: Skit
+SET: Backyard
+CHARACTERS ================================
+BRUCE: Bruce, Husband:Grill
+RITA: Rita, Wife:Stage Right
+VAMPIRE: The Vampire Neighbor:Entrance Stage Left
+SUGGESTIONS =============================
+DEITY: A god or godlike entity:God, Jesus, Vishnu, Odin, Osiris, Morgan Freeman in Bruce Almighty
+ACTIVITY: Something evil a vampire would do:bite your neck, curse the town, eat a basket full of kittens, start an undead book club
+ADJECTIVE: A positive adjective:great, wonderful, swell, poggerific
+WEAKNESS: Something funny a vampire would be weak to:Christian rock music, holy gamer girl bath water, tanning beds cranked up to 11
+STREET: A street name:Park Avenue, Old Town Road, Sesame Street
+CHURCH: A church name:Our Lady of Mercy Cathedral, St. Augustine's Revival Church, Big Kev's Stay and Pray Church and Gun Store
+MESSAGE: A funny thing to write on an apron:kiss the cook, smokin' hot just like my meat, if meat is murder I'm a serial killer
+IMAGE: A funny image for an apron:a pig dressed like a chef, a pile of burning sausages, a steak with big muscly arms wielding a butcher's knife
+MOUNT: Something you ride:unicycle, jetpack, magical flying dragon named Falkor
+NAME: A vampire's name:Count Dracula, Elvira, Vlad the Impaler, Count Strahd von Zarovich, Mr. Bitey Bitey Suck Suck
+BAKED: A baked good:chocolate chip cookies, lemon squares, cream puffs, macaroons
+CHARITY: A charity, fictitious or not:Make-a-Wish Foundation, Ronald McDonald House, Grannies Against Tax Fraud
+SCRIPT ==========================================
+guitar music 1
+BRUCE: Rita honey, have you seen my favorite apron? How am I supposed to grill my famous garlic burgers without it?!
+RITA: You mean the one that says MESSAGE on it under a picture of IMAGE?
+BRUCE: Yeah, that's the one!
+RITA: You're wearing it already, dear.
+BRUCE: (look down at your apron) Oh right! Anyway, where's Bobby? Our own son can't miss the neighborhood grillin' party!
+RITA: I think he's out riding his MOUNT again.
+BRUCE: (shake your head and laugh) That son of mine!
+RITA: Dear, don't you think we have bigger things to worry about than your IMAGE apron and Bobby's unbreakable penchant for riding MOUNT?
+BRUCE: Like what? It's a beautiful day outside! Birds are singing, flowers are blooming, and all the neighbors are coming over for an unforgettable luncheon!
+RITA: Exactly! All the neighbors, including... (point at the neighbor's house)
+Meanwhile BRUCE: (look at the neighbor's house)
+Music Stops
+RITA: (look at BRUCE) NAME!
+Meanwhile BRUCE: (look at Rita) NAME!
+thunder
+scary music
+BRUCE: That mysterious foreigner from Transylvania who never leaves the house, who only orders live chickens and goats on DoorDash!
+RITA: They say bats and rats flock to that home to serve their dark master under the light of full moon! But... vampires aren't real, right?
+VAMPIRE: (enter stage left) Bleh! Bleh! Hiss!
+BRUCE: No way! Our new neighbor really is a vampire!
+RITA: (hide behind BRUCE) Go get Bobby and his MOUNT inside, quick!
+silly music 1
+VAMPIRE: (spit something out, then wipe your mouth) Bleh, I hate these vegan BAKED from the church bake sale! But oh, all the profits go to CHARITY. Such a noble cause.
+VAMPIRE: (look at BRUCE and RITA) Oh! Good morning, new neighbors! I do not believe we have been formally acquainted. (walk stage right, stop center stage)
+RITA: Th-That's close enough! (run center stage, confront VAMPIRE) You can't come in our yard without being invited! That's vampire rules!
+VAMPIRE: This is true, but you see, I have been invited. This party you are throwing, it is for the whole neighborhood. Hello, neighbor.
+halloween music
+BRUCE: But we didn't expect you to come! It's a bright sunny morning, so why aren't you burning?
+VAMPIRE: Ah. The sunlight thing, it is a hurtful stereotype. We vampires are simply misunderstood. I can provide you with an educational pamphlet if you wish.
+BRUCE: Really? I thought vampires were bloodthirsty monsters. That's what all the movies say, at least. Sorry about that, neighbor.
+VAMPIRE: Slander, all of it. Throughout history, only one daughter of Adam has captured the truth of my kin in writing. She is called... Stephenie Meyer.
+RITA: The lady who wrote Twilight?! You're telling me the true vampire mythos isn't Bram Stoker's Dracula? Nosferatu? Hell, I'd even take Buffy the Vampire Slayer!
+VAMPIRE: Nope, Twilight. Anyway, I am NAME. In my tongue, it means blood letter, render of flesh, eater of souls! Oh, and I brought you some BAKED.
+BRUCE: Ooo, I love BAKED! (take the treat from VAMPIRE)
+RITA: Bruce! NAME literally just said their name means eater of souls!
+BRUCE: Eater of souls? Haven't got any of those, so how about we make you eater of burgers? Come on over, neighbor!
+VAMPIRE: Thank you. Admittedly, I do not have much of an appetite. I had a big breakfast, you see. Regardless, I would be glad to join your festivities.
+VAMPIRE: (stand next to BRUCE) Ha. Your apron, it is humorous. To think one would wear a garment featuring IMAGE while cooking. How whimsical.
+BRUCE: Well thanks, NAME! See, Rita honey? Someone who appreciates this apron can't be all bad!
+RITA: Bruce, how can you be so accepting of a vampire?! Unless... (gasp) you're under their vampiric charms!
+BRUCE: The only thing charming me is the smell of my world famous garlic burgers! (pause) Oh, and you, honey!
+VAMPIRE: Nice save. (fistbump BRUCE)
+Meanwhile BRUCE: (fistbump VAMPIRE)
+RITA: Oh holy Father who art in heaven... (quietly pray to yourself)
+BRUCE: Honey? Are you praying to DEITY?
+VAMPIRE: Probably trying to repel me with holy power. I regret to inform you, neighbor, but prayer does not repel me. I am, in fact, in regular attendance of CHURCH.
+RITA: If prayer won't work then... (sniff the air) Garlic burgers! That's it! (grab a burger off the grill) Ow ow ow, hot. (slap VAMPIRE across the face with burger)
+VAMPIRE: How uncouth, to slap a new neighbor with your husband's flaming hot meat. I have half a mind to tell the Homeowner's Association about this.
+RITA: But- But garlic is supposed to be your weakness! That's vampire rules!
+VAMPIRE: I have already told you. Such silly folktales do not hold truth. Garlic, holy water, WEAKNESS -- they affect me not.
+RITA: But we can't have a vampire at the neighborhood cookout! You're gonna suck all the steaks dry and your bats are gonna give the potato salad rabies!
+BRUCE: Honey! Don't you think you're being a little... racist?
+vine boom
+sad chug jug music
+RITA: I am? Oh my gosh, you're right... NAME, I'm so sorry. I really am a very accepting woman. It's just, well...
+VAMPIRE: No, I understand. Everywhere I go, it is always the same. The people, they fear me. Perhaps I shall return to Transylvania... (sadly walk stage left)
+RITA: No! NAME, please don't go! (stop VAMPIRE) Things will be different here! This is a very tolerant neighborhood.
+VAMPIRE: But it is as you say. You thought I was a monster. Perhaps you still do. Aren't you afraid I'll ACTIVITY?
+BRUCE: Nonsense, neighbor! Hey, I have a ADJECTIVE idea.
+happy music 1
+BRUCE: You can be this barbecue's guest of honor, and the whole neighborhood can get to know you!
+RITA: Excellent idea, honey! We'll make it the NAME Welcoming Party! We'll have balloons and cake and all sorts of nice things!
+VAMPIRE: Really? That is the nicest thing anyone has ever done for me.
+BRUCE: You just hang around, NAME, and we'll have a great time! (check your watch) Aha! The neighbors'll be here any minute!
+RITA: Now if only Bobby and his MOUNT would get here! Oh, I'm sure our son would love to meet you, NAME!
+VAMPIRE: Did you say your son was riding a MOUNT? Out in the middle of the neighborhood? On the corner of West and STREET, perhaps?
+RITA: That's right!
+VAMPIRE: Oh. I might have... drank all his blood? (shrug at audience)
+laughter
+RITA: (look at BRUCE) Our new neighbor sucks!
+Meanwhile BRUCE: (look at RITA) Our new neighbor sucks!
+
+======
+
