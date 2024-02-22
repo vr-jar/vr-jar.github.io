@@ -12133,22 +12133,21 @@ VERIFIED: True
 TAGS: Skit
 SET: Backyard
 CHARACTERS ================================
-BIGDEM: Summoned Creature:Backstage
-NEIGHBOR: Neighbor:Entrance Stage Left
-CHILD: Child:Sandbox
 PARENT: Parent:Grill
+CHILD: Child:Sandbox
+NEIGHBOR: Neighbor:Entrance Stage Left
+BIGDEM: Summoned Creature:Backstage
 SUGGESTIONS =============================
-PENTA: A place where you summon things:Summoning Circle, Pentagram, Altar
-FOOD: Name of a Food:Deviled Eggs, Deviled Hams, Deviled Dumplings
-CHANT: CHANT (Phrase you can repeat):Ooh Moh Gwa Gwa Zi Di Foh, Roundy Roundy Summon Di Monsty, Uhh Let's Summon Stuff Yeah,
-LUCIFER: Named Unholy Being:Lucifer, Satan, Mortis, Asmodeus
-TAG: Singular Ritualistic Object:Tag, Candle, Incense
-TIMMY: Cute first name:Timmy, Bozo, Riley
-DEMON: Cult or Cryptid Monster:Demon, Slenderman, Sand Monster
-NEINAME: Full Name (First and Last):Charles McFullbottom, Swizzy VonDizzy, Natalie Cheesewizzums
-WONDERFUL: Adjective (Word that describes something):Crummy, Wonderful, Joyous
-CASTLES: Plural Noun (Object, place or thing):Castles, Buildings, Skyscraper
 LOVELY: Adjective (Word that describes something):Comfortable, Lovely, Pleasant
+CASTLES: Plural Noun (Object, place or thing):Castles, Buildings, Skyscraper
+WONDERFUL: Adjective (Word that describes something):Crummy, Wonderful, Joyous
+NEINAME: Full Name (First and Last):Charles McFullbottom, Swizzy VonDizzy, Natalie Cheesewizzums
+DEMON: Cult or Cryptid Monster:Demon, Slenderman, Sand Monster
+TIMMY: Cute first name:Timmy, Bozo, Riley
+TAG: Singular Ritualistic Object:Tag, Candle, Incense
+LUCIFER: Named Unholy Being:Lucifer, Satan, Mortis, Asmodeus
+CHANT: CHANT (Phrase you can repeat):Ooh Moh Gwa Gwa Zi Di Foh, Roundy Roundy Summon Di Monsty, Uhh Let's Summon Stuff Yeah,
+PENTA: A place where you summon things:Summoning Circle, Pentagram, Altar
 SCRIPT ==========================================
 guitar music 1
 PARENT: What a LOVELY day outside! I just know it's going to be a WONDERFUL day!
@@ -12180,7 +12179,7 @@ PARENT: Oh- Uh- Wait, I know you want to take over the world and all! But hear m
 Music Stops
 BIGDEM: Take over the- No! I don't even want to be here.
 BIGDEM: Look, just because I am LUCIFER doesn't mean I want to destroy humanity or anything. I just want to be left alone.
-CHILD: Hi LUCIFER Can i be your evil general!?
+CHILD: Hi LUCIFER Can I be your evil general!?
 BIGDEM: What? No, I'm not taking over anything! Send me back!
 PARENT: How?
 BIGDEM: Uh... well how did you summon me?
@@ -12189,10 +12188,10 @@ BIGDEM: (Rush over to child) NO! Absolutely not! You need to use the return spel
 CHILD: But I was just saying funny words...
 NEIGHBOR: Well, guess you are stuck here with us now LUCIFER.
 PARENT: So... you aren't going to destroy the world?
-BIGDEM: No... Ugh...
+BIGDEM: No... (Sigh deeply)
 PARENT: Well... Since we summoned you, I guess you could stay with us. I'm making dinner soon.
 BIGDEM: …Fine, What is it?
-PARENT: (Face Audience) FOOD!
+PARENT: (Face Audience) Deviled Eggs!
 guitar music 1
 BIGDEM: (Face Audience and sigh) Great...
 
@@ -12930,23 +12929,23 @@ VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
 CHARACTERS ================================
-PVAIN: Party Dude:Backstage
-MVAIN: Muscle Man:Entrance Stage Right
-NVAIN: Tech Expert:Stage Left
 SVAIN: Serious Villain:Center Stage
+NVAIN: Tech Expert:Stage Left
+MVAIN: Muscle Man:Entrance Stage Right
+PVAIN: Party Dude:Backstage
 SUGGESTIONS =============================
-HERO: Name of a Superhero.:Captain McGoodPants, The Flying Hat, Turkey Man
-YUCK: Something that would taste bad.:Dirty Bathwater, Rotten Tomatoes, Foot Fungus 
-TRAP: Something you would capture someone with.:Ropes, Pitfalls, Falling Cages
-PLACE: Name of a place (City, Building, Store, etc):New York Plaza, Yellowstone Park, Water World
-BOARD: Name of a Board Game.:Chutes and Ladders, Monopoly, Uno
-DRINKS: A type of Drink (plural) ex. Sodas.:Beers, Sodas, Juice Pouches
-FOOD: A type of Snack (plural) ex. Chips.:Chips, Muffins, Cookies
-NOUN: A Plural Noun (Persons, Places or Things):Old Ladies, Children, Trees, Buildings
-PART: Name for a Party Dude.:Kelp Kahuna, Tidal Titan, Perry Party
-MUSC: Name for a Musclehead Villain.:Zugg, Kurb, Desto
-TECH: Name for a Tech Expert.:Nerdman, Wizzo, Gadgeet
 VILL: Name for a Super Villain.:Dr. Destro, The Death Knock, Evil Suit man
+TECH: Name for a Tech Expert.:Nerdman, Wizzo, Gadgeet
+MUSC: Name for a Musclehead Villain.:Zugg, Kurb, Desto
+PART: Name for a Party Dude.:Kelp Kahuna, Tidal Titan, Perry Party
+NOUN: A Plural Noun (Persons, Places or Things):Old Ladies, Children, Trees, Buildings
+FOOD: A type of Snack (plural) ex. Chips.:Chips, Muffins, Cookies
+DRINKS: A type of Drink (plural) ex. Sodas.:Beers, Sodas, Juice Pouches
+BOARD: Name of a Board Game.:Chutes and Ladders, Monopoly, Uno
+PLACE: Name of a place (City, Building, Store, etc):New York Plaza, Yellowstone Park, Water World
+TRAP: Something you would capture someone with.:Ropes, Pitfalls, Falling Cages
+YUCK: Something that would taste bad.:Dirty Bathwater, Rotten Tomatoes, Foot Fungus 
+HERO: Name of a Superhero.:Captain McGoodPants, The Flying Hat, Turkey Man
 SCRIPT ==========================================
 Spy music 1
 SVAIN: What is taking those two so long!? Don't they understand that our success depends on our union!?
@@ -12959,7 +12958,7 @@ SVAIN: (Check Phone) No... nothing... blast! He is even more unpredictable than 
 meanwhile PVAIN: (Get behind door)
 PVAIN: (Rush into scene up to the table) HEY BROS and BROSETTES! That's a word right? Well whatever, hah!
 MVAIN: What those?
-PVAIN: Well, I figured we couldn't have this powwow without the goods!
+PVAIN: Well, I figured we couldn't have this pow-wow without the goods!
 SVAIN: Interesting thought, more resources certainly couldn't hurt...
 NVAIN: Indeed! What exactly did you bring, PART?
 PVAIN: HahaH! Well, Can't go wrong with some FOOD, Lets see... uhh I picked up some DRINKS too!
@@ -12983,10 +12982,12 @@ SVAIN: That... sounds plausible actually.
 PVAIN: Yeah man! Oh, want one of the DRINKS?
 Music Stops
 SVAIN: Oh, well... I suppose...
-MVAIN: Me take SODAS too...
+MVAIN: Me take DRINKS too...
 NVAIN: Far be it for me not too as well.
 PVAIN: Cheers, Bad Dudes and Dudettes!
-SVAIN: Wait a moment... this doesn't taste quite right...
+SVAIN: (Sip the drink) Wait a moment... this doesn't taste quite right...
+meanwhile MVAIN: (Sip drink)
+NVAIN: (Sip the drink)
 MVAIN: Bleh, it taste like YUCK!
 NVAIN: Indeed... Honestly YUCK would taste better than whatever this foul thing... is...
 PVAIN: Really, that's a shame fellas... (Sound heroic) Because it is time to put a stop to your foul plot!
@@ -12994,7 +12995,7 @@ Vine boom
 SVAIN: (Becoming weakened and slump to floor) No! You aren't PART are you!? Could it be...
 meanwhile NVAIN: (Becoming weakened and slump to floor)
 PVAIN: That is right! It is I! HERO! Your reigns of tyranny are over fiends! Prepare yourself for my-
-meanwhile MVAIN: (Get behind the HERO)
+meanwhile MVAIN: (Get behind the HERO ready to smash them)
 crashing debris
 PVAIN: Arrrgggh! (Fall unconscious)
 MVAIN: Finally smash.
@@ -20541,6 +20542,270 @@ VAMPIRE: Oh. I might have... drank all his blood? (shrug at audience)
 laughter
 RITA: (look at BRUCE) Our new neighbor sucks!
 Meanwhile BRUCE: (look at RITA) Our new neighbor sucks!
+
+======
+
+INFORMATION ===============================
+ID: 609
+TITLE: Dinner Party for One
+AUTHOR: Tricky_Hunter
+VERIFIED: True
+TAGS: Skit
+SET: Dining Room
+CHARACTERS ================================
+BILL: Main Character:Entrance Stage Right
+MARY: Love Interest:Backstage
+STACY: Flirty Friend:Backstage
+BOB: Third Wheel (Comedic Relief):Entrance Stage Left
+SUGGESTIONS =============================
+SMELLCOMPLEMENT: A complement about the smell of food:Delicious, Devine, Delightful, Amazing, Just fine, Mouthwatering
+FLIRTSNAME: Flirty girls name:Suzan, Trisha, Lynn, Vivian
+LOVEINTERESTNAME: Love interests name:Anne, Tanya, Clare, Chantel, Rebecca
+FLIRTYSOUND: A flirty or sensual sound:mmmhhhhmmmm, ooooaaaahhh, fffmmmmaaa, Shabonga!
+FOOD: Food:Roast, Chicken, Stew, Bangers and Mash, Cheese Stuffed Sausages
+KNICKNACK: An item of interest that catches the eye:Troll Doll, Unicorn, Pickle Rick, Rock on a stick
+SCRIPT ==========================================
+applause
+jazz music 2
+BILL: (Walk into the room and start setting the table) I hope everyone's hungry, I think I made way too much FOOD
+BILL: (Look up at audience) They should be here any minute...
+BILL: Any... minute... now...
+BILL: (Look meaningfully at the stage left door) I said (Yell) Any minute now!
+BOB: (Yell)...Oh yeah... sorry!
+doorbell
+BILL: (Aggitated) That must be one of them now... (Open the stage left door)
+BOB: About time... I was waiting out there forever! (Walk in the door)
+BILL: (close door and say under breath) ...and who's fault is that... 
+BOB: (Walk over to bookshelf) Who else is coming? (Examine items and don't stop)
+BILL: Just LOVEINTERESTNAME and FLIRTSNAME
+Music Stops
+doorbell
+BILL: That's probably them... (Walk over and open the door)
+jazz music 1
+BILL: (Open the door) Hey FLIRTSNAME come in
+STACY: (Walk through the door) FLIRTYSOUND... it smells SMELLCOMPLEMENT in here. Did you make FOOD?
+BILL: (Close door) Yeah, I wasn't sure if you liked FOOD
+BOB: (Continue to examine bookshelf say under breath) ...everyone knows FLIRTSNAME likes FOOD...
+BILL: I better go check on dinner I'll be right back (walk out door stage right)
+doorbell
+STACY: I'll get it! It's probably LOVEINTERESTNAME right? (Walk to the door and open it) Hey, LOVEINTERESTNAME!
+Music Stops
+MARY: (Disappointed) FLIRTSNAME... didn't know you'd be here... (Walk into room)
+STACY: (Excited) Wouldn't miss it, doesn't the FOOD smell SMELLCOMPLEMENT!
+BOB: (Pick up an item on the bookshelf) Would you look at that a KNICKNACK! (Examine it and put it back keep looking at the shelf)
+MARY: FLIRTSNAME I don't see why you had to come tonight. It's pretty clear you're not welcome here...
+STACY: I don't think it's clear. Just because you don't want me here doesn't make me not welcome!
+BOB: (Pick up another item) Would you look at that, here's another KNICKNACK
+BILL: (Walk in from stage right and set food on the table) Oh! LOVEINTERESTNAME! I didn't know you were here already. I hope you're hungry for FOOD!
+MARY: (Angry) So nice of you to notice and after you make FLIRTSNAME's favorite!
+BILL: It's FLIRTSNAME's favorite? I had no idea... I wasn't even sure FLIRTSNAME liked FOOD
+BOB: (Continue to examine bookshelf say under breath) ...everyone knows FLIRTSNAME likes FOOD...
+BOB: (Pick up another item) and another one! Why do you have so many KNICKNACKs?
+STACY: Well I think it's sweet that you made FOOD for me
+MARY: Oh yeah, real sweet! So sweet it's making me sick! You two enjoy your FOOD I'm out of here (Exit stage left)
+BILL: (Follow after actor stage left) LOVEINTERESTNAME! Wait, I didn't just make FOOD for FLIRTSNAME
+BILL: (From off stage) Come back!
+STACY: (Follow off stage left) Just let LOVEINTERESTNAME go, we can it your SMELLCOMPLEMENT FOOD together!
+BOB: (Study bookshelf some more) I guess that's all of them...
+BOB: I still don't understand why so many KNICKNACKs (Look around the room)
+BOB: Seriously?!? Where'd everyone go? The FOOD is getting cold
+BOB: (Sit down at table) More FOOD for me then I guess...
+happy music 1
+BOB: Nothing quite like fresh FOOD! (dig into meal)
+
+======
+
+INFORMATION ===============================
+ID: 610
+TITLE: The Emotion Fairy
+AUTHOR: Figbean
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+CHARACTERS ================================
+ALEX: A person who can't control their emotions:Couch
+SAM: Alex's friend:Side Door
+EMOTION FAIRY: A fairy of Emotions:Backstage
+SUGGESTIONS =============================
+NUMBER: A number:5, 68, 70
+EMOTION: An emotion:angry, sad, happy
+NOUN: A noun. Literally anything.:Olive Garden, log, zip bomb containing 728 Zettabytes of data
+ANOTHER: Another noun. Literally anything.:Best Buy, last chip in the Pringles can, shredded cheese
+MAGIC PHRASE: A magic phrase:Skibidi Rizz Glizzy, I didn't expect the Spanish Inquisition, Abyssal horror beyond my comprehension approach me
+SCRIPT ==========================================
+corporate guitar music
+ALEX: (Act really EMOTION)
+SAM: (Enter) Hey, Alex! What's good my NOUN?
+ALEX: I'm so- Wait... What did you just call me?
+SAM: NOUN! Y'know, personal, but not too close.
+ALEX: Sam, we've known each other for like NUMBER years. You don't need to call me NOUN.
+SAM: Fair enough. Anyway, what's wrong?
+ALEX: I'm so EMOTION!
+SAM: Why are you so EMOTION?
+ALEX: I just learned the German translation for "birth control pill" is Antibabypillen!
+SAM: I'm gonna be honest, that's a really weird thing to be EMOTION over.
+ALEX: (get even more EMOTION) I KNOW!
+SAM: But I know who can help!
+ALEX: Really? Who?
+SAM: The Emotion Fairy!
+Music Stops
+ALEX: I'm sorry, what?
+SAM: (Turn to audience) Okay, everyone! In order to summon the emotion fairy, I'm going to need all of your help! We have to say the magic words together!
+Meanwhile ALEX: What are you doing? Who the hell are you talking to?
+SAM: On the count of three, we all need to say MAGIC PHRASE!
+TYPEWRITER: MAGIC PHRASE!
+Meanwhile ALEX: Seriously, Sam. What are you doing-OH SWEET JESUS WHY IS THERE SUDDENLY BACKWARDS WRITING ON MY WALL!?
+SAM: One, Two, Three! MAGIC PHRASE!
+magic sound
+fantasy music 2
+Teleport EMOTION FAIRY to Center Stage
+EMOTION FAIRY: Alas, I, The Emotion Fairy™, hath finally awoken from my thousand year slumber!
+SAM: Praise be, O Beneficent The Emotion Fairy™
+Meanwhile Alex: OH GOD WHAT THE HELL IS THAT THING!?
+SAM: O Great The Emotion Fairy™, My friend suffers from an emotion most foul; EMOTION!
+ALEX: I'm gonna be honest, the whole EMOTION thing is the least of my concerns right now.
+EMOTION FAIRY: Ah yes, EMOTION. However, as The Emotion Fairy™ I know of a magical cure!
+Meanwhile ALEX: No, really, what the hell is going on?
+EMOTION FAIRY: WITNESS MY KNOWLEDGE TO UNDO YOUR EMOTION!
+SAM: Please, O great The Emotion Fairy™, dispense your all-knowing wisdom unto us mere mortals!
+EMOTION FAIRY: The German translation for "Birth control" is "Geburtenkontrolle", but "birth control pill" is "Antibabypillen"
+SAM: I'm sorry, what?
+Meanwhile ALEX: OH COME ON!
+SAM: Now I'm EMOTION as well!
+EMOTION FAIRY: Chill, my ANOTHER
+ALEX: (in an EMOTION tone) ARE YOU KIDDING ME!?
+SAM: Personal, but not too close?
+EMOTION FAIRY: Personal, but not too close.
+SAM: He gets it. BUT NOW I'M SO EMOTION!
+ALEX: ME TOO!
+EMOTION FAIRY: The contract is sealed. And now, I leave!
+Music Stops
+magic sound
+Teleport EMOTION FAIRY to Backstage
+ALEX: Well, darn. Now what?
+
+======
+
+INFORMATION ===============================
+ID: 611
+TITLE: Quarterly Freakout Meds
+AUTHOR: Tricky_Hunter
+VERIFIED: True
+TAGS: Infomercial,Contains Adult Innuendo
+SET: Conference Room
+CHARACTERS ================================
+BOSS: Boring Boss:Boss Chair
+BORED: Bored Employee:Office Chair 3
+NARRATOR: Narrator:Narrator Podium
+SUCKUP: Suck up employee:Office Chair 2
+SUGGESTIONS =============================
+DOWNPER: Percentage:95%, 98%, 350%
+PASSION: weird hobby:eating your own toenail clippings, putting wigs on cats, boggle
+PRODUCT: Pharmaceutical product:Mindblow TM, TrainMind DM, Citizall Permanganate 
+COMPANY: Pharmaceutical Company:Fly-by-night industries limited, Can't get right inc, Tiny Pharma LLC
+INGREDIENT1: Drug Ingredient:Sugar, Dihydrogen Oxide, Maltodextrin 
+INGREDIENT2: Drug Ingredient:Caffine, Anna kournikova, Red #40
+INGREDIENT3: Drug Ingredient:Chloroform, Placebo, Sodium Cloride
+PIZZA: Pizza Restaurant:Dominos, Pizza Hut, Papa Johns
+SIDEEFFECT1: Medication Side Effect:Memory loss, incontinence, Hyper-tension 
+SIDEEFFECT2: Medication Side Effect:Aches and Pains, distaste for Pineapple, Memory loss
+SIDEEFFECT3: Medication Side Effect:Vision Problems, Extreme Hair Growth, Extreme Hair Loss, Memory loss
+SIDEEFFECT4: Medication Side Effect:Glowing Sweat, Excessive Sweating, Improved Night Vision, Memory loss
+SCRIPT ==========================================
+BOSS:(Point at whiteboard) ...and with that quarterly earnings are down over DOWNPER and we're going to start having to layoff midlevels
+meanwhile SUCKUP: (Pay close attention to everything the boss is saying)
+corporate motivational music
+NARRATOR: Boss got you daydreaming and thinking about anything but work?
+meanwhile BOSS: This is going to come as a shock to many of our valued employees
+BOSS: but this is essential to our bottom line.
+meanwhile BORED: (Start glancing around the room)
+NARRATOR: Find yourself drifting into a daze about PASSION?
+meanwhile BORED: (Look up at the ceiling)
+Music Stops
+BORED: what the hell?
+BOSS: (Stop presenting) Is something wrong Stephens?
+SUCKUP: (glare at Stephens) Do you mind? This is kind of important don't you think?!?
+corporate motivational music
+NARRATOR: Random voices making you look bad in front of your boss and colleagues?
+meanwhile BORED: (fidget and look nervous)
+BORED: Is no one else hearing that?
+NARRATOR: Intrusive thoughts keeping you from paying attention and derailing meetings at work?
+SUCKUP: Hearing what? The traffic?
+NARRATOR: Well maybe it's time for you to try PRODUCT
+NARRATOR: The latest in a long line of questionable products from COMPANY
+meanwhile BORED: (Stand up and continue to fidget and look nervous)
+NARRATOR: PRODUCTs patent pending formula which includes active ingredients such as INGREDIENT1, INGREDIENT2, and INGREDIENT3
+Music Stops
+BOSS: Lets get back to business shall we?
+BORED: Is... is it... gone?
+SUCKUP: Is what gone? You're making no sense today.
+BOSS: Can we all sit down and get back to the layoffs?
+BORED: (Sit down) Yeah... sorry. Not sure what that was...
+BOSS: As I was saying the quarterly earnings report doesn't look good and I'm likely only going to get a 30% raise this year.
+SUCKUP: (Gasp)
+BOSS: But before we start layoffs we will be sure to put everyone's mind at ease with a pizza party
+corporate motivational music
+BOSS: That always cheers me up and makes me feel like I'm doing well at work.
+meanwhile BORED: (Start muttering)
+BORED: No.. Not again... No no no no...
+BOSS: Come on Stephens, pizza from PIZZA isn't that bad...
+meanwhile BORED: (Continue muttering) no no no no
+NARRATOR: Side effects may include: Amnesia, Colored Urine, SIDEEFFECT1, SIDEEFFECT2, SIDEEFFECT3, SIDEEFFECT4, and Hallucinations
+meanwhile BORED: (Runaround screaming like you have ants under your skin)
+NARRATOR: Get your work life back with PRODUCT. Talk to your healthcare professional today!
+BORED: (Scream) Get out of my head!
+
+======
+
+INFORMATION ===============================
+ID: 613
+TITLE: Deceitful News Broadcast
+AUTHOR: Tricky_Hunter
+VERIFIED: True
+TAGS: Skit
+SET: News
+CHARACTERS ================================
+REPORTER: Field Reporter:Fake Street Backdrop
+ANCHOR: Studio news anchor:News Desk
+SUGGESTIONS =============================
+PARTNER: Persons name:Emma Stone, Clara Williams, Steve Harvey
+EVENT1PRAISE: A word of praise:celebration of the ages, a new world wonder, better than your event
+REPORTERNICKNAME: Field Reporter Nickname:God of Thunder, The Cheese on my cracker, The peanut butter to my jelly
+REPORTERNAME: Field Report Name:Rainier Weather, Stacy TwoToes, Milly Thompson
+EVENT1ORGANIZER: Persons name:Peter Dinklage, Justin Case, Steve Miller
+EVENT1SLANDER2: Statement of slander:without imagination, just boring, ugly
+EVENT1SLANDER1: Statement of slander:Dumb, Worthless, Tedious 
+EVENT1NAME: Noteworthy event for a small town:Chili Cook-Off, Mole-day, Compliment Day Celebration
+ANCHORNAME: News caster name:Richard Cameoff, Tom Nobody, Frankly Noneyabusiness
+STARTTIME: Some ridiculous time of day:two twenty two in the morning, eleventy two o'clock, no time like the present
+SCRIPT ==========================================
+world news intro
+ANCHOR: (Look straight ahead) It's STARTTIME and this is your local news update, I'm ANCHORNAME.
+ANCHOR: (Look stage right) Things have not been the same in the big city since the start of the EVENT1NAME.
+ANCHOR: Those who have attend have denounced EVENT1ORGANIZER, the organizer, calling them "EVENT1SLANDER1" and "EVENT1SLANDER2"
+ANCHOR: For more on this story we go to REPORTERNAME who I affectionately refer to as REPORTERNICKNAME
+ANCHOR: (Hold hand up to ear) REPORTERNICKNAME, can you hear me, what can you tell us about the peoples reaction to the EVENT1NAME?
+REPORTER: (Hold hand up to ear) Yes I can hear you and what have I told you about calling me REPORTERNICKNAME?
+ANCHOR: That you prefer it to the other nickname I gave you six years ago.
+REPORTER: True however, I would still like you to please quit before our viewers at home get the wrong idea.
+REPORTER: Anyway... (Gesture at backdrop) the EVENT1NAME has resulted in mixed opinions.
+REPORTER: Though many have called the organizer "EVENT1SLANDER2" and "EVENT1SLANDER1" one person has said its "EVENT1PRAISE"
+ANCHOR: Are you at liberty to disclose the name of this person?
+REPORTER: I believe their name was EVENT1ORGANIZER.
+ANCHOR: Thank you REPORTERNICKNAME, and good work out there.
+ANCHOR: In other news, insider information has been leaked stating that EVENT1ORGANIZER is a liar!
+ANCHOR: (Hold hand up to ear) Breaking news! We have it on good authority that PARTNER the partner of EVENT1ORGANIZER was seen setting fire to EVENT1ORGANIZER's house.
+ANCHOR: For more detail we go now to the whiniest field reporter on staff REPORTERNAME who ran across town to be on scene.
+REPORTER: (Out of breath) Yep... that's worse... than REPORTERNICKNAME...
+ANCHOR: You told me to change it up!
+REPORTER: (Catch Breath then start speaking) PARTNER was just spotted fleeing the scene of the crime here at the house of EVENT1ORGANIZER
+REPORTER: Eyewitnesses calm PARTNER was screaming that they saw on the news that EVENT1ORGANIZER has always been a liar and can no longer trust them.
+REPORTER: (Shrug) Though I would never jump to conclusions, this humble reporter can clearly state that ANCHORNAME might be to blame
+REPORTER: Back to you, ANCHORNAME!
+ANCHOR: Whoever ANCHORNAME might be, I hope they sleep well tonight knowing they ruined a life other than their own.
+ANCHOR: I for one know I will!
+world news outro
+ANCHOR: And that's the news, I've been your host ANCHORNAME!
 
 ======
 
