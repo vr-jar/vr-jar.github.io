@@ -504,7 +504,6 @@ SleepyAcid
 AlleyCatFever
 Dayanashusband
 LT ~
-ItsPurelySpeedy
 W0lf Daddy
 ༒MistressAshey༒
 RJJJ
@@ -1546,6 +1545,7 @@ XxMҽɠυɱιxX
 Jmm200
 Koopith
 DyingBug101
+CSM_Speedy
 #TIER=1
 AkaruHaru
 Riles
@@ -2122,6 +2122,7 @@ Rocky?
 OskarE5
 AsheWHY
 Agerian
+PelvicSling
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
