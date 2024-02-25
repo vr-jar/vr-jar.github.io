@@ -13995,16 +13995,16 @@ WARRIOR: Hero's friend:On bridge
 MONSTER: Monster:Stage Left
 HERO: The "revived" Hero:Backstage
 SUGGESTIONS =============================
-WARRIOR: a type of warrior:Hunter, Warrior, Savior, Fighter
-VILLAGE: a village name:Peace, LoveTown, Guildus
-MONSTER: a type of monster:Demon, Werewolf, Monster, Hobgoblin
-EVENT: an event:the attack, the invasion, Christmas
-SPECIAL: special attack:Flurry Slash, Execution, Blast-phemy
-LOSE: another way of saying "loser":loser, failure, coward
-LOST: something that you can lose:arm, soul, heart
-NAME: name:Romeo, Juliet
-SAD: a negative emotion:crying, upset, frustrated
-ALLY: relationship to anyone (i.e. family, friend, brother, etc.):mother, father, brother, friend
+WARRIOR: A type of warrior:Hunter, Warrior, Savior, Fighter
+VILLAGE: A village name:Peace, LoveTown, Guildus
+MONSTER: A type of monster:Demon, Werewolf, Monster, Hobgoblin
+EVENT: An event:the attack, the invasion, Christmas
+SPECIAL: Special attack:Flurry Slash, Execution, Blast-phemy
+LOSE: Another way of saying "loser":loser, failure, coward
+LOST: Something that you can lose:arm, soul, heart
+NAME: Name:Romeo, Juliet
+SAD: A negative emotion:crying, upset, frustrated
+ALLY: Relationship to anyone (i.e. family, friend, brother, etc.):mother, father, brother, friend
 SCRIPT ==========================================
 epic fantasy music 1
 sword fighting
@@ -14072,6 +14072,7 @@ WARRIOR: It is NAME...
 HERO: (finally turns to the warrior)
 WARRIOR: (turns around and looks at the Hero's face) You're SAD....
 HERO: (SAD) Of course I'm SAD! Do you have any idea how it feels to betray someone's expectations?! Do you?!
+WARRIOR: I.... uh...
 HERO: NAME cared for me, nurtured me, and believed me. I saw NAME as a true ALLY
 HERO: NAME always told me that I'm destined for "greatness" but I couldn't compare with everyone else at the village of VILLAGE!
 HERO: And every failure, I saw the disappointment in NAME's eyes and that affected me as well.
@@ -20368,27 +20369,29 @@ VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
 CHARACTERS ================================
-POLICE: Police Officer:Backstage
-CUSTOMER: Crazy Looking Customer:Backstage
-CLERK 2: Bored Clerk:Behind Register
 CLERK 1: Laid Back Clerk:Center Stage
+CLERK 2: Bored Clerk:Behind Register
+CUSTOMER: Crazy Looking Customer:Backstage
+POLICE: Police Officer:Backstage
 SUGGESTIONS =============================
-PARTY: Activity people do on holidays:Partying, trick-or-treating, going to the parade, celebrating with family
-ALIEN: A monster/alien race:Monster, space man, full-body player, anime girls from the planet anime, highly intelligent sea serpents
-STORE: Make up a store name:Fantasy Costco, Space Walmart, Gremblo Gas Station, Alec Baldwin's Laser Tag Arena with Real Guns
-POTATO: Make up a random word/object:Plumbus, alien probe units, uranium, adult kazoo, gravestone, drain snake
-ACID: A very harmful drug:Cocaine, Acid, Meth, Anime
-WEED: A fairly harmless drug:Marijuana, Caffiene, Unpasturized Milk
-HOLIDAY: A holiday you usually get candy from:Halloween, Valentine's Day, Mardi Gras, 420, The Purge
-HOUR: A reasonable number:2, 7, 5, 6, 11, 2 and a half, 0.0001
 PHRASE: A random phrase someone might yell:Wubba lubba dub dub, It's Morbin Time, Alvin's Hot Juicebox Alvin's Hot Juicebox!
+HOUR: A reasonable number:2, 7, 5, 6, 11, 2 and a half, 0.0001
+HOLIDAY: A holiday you usually get candy from:Halloween, Valentine's Day, Mardi Gras, 420, The Purge
+WEED: A fairly harmless drug:Marijuana, Caffiene, Unpasturized Milk
+ACID: A very harmful drug:Cocaine, Acid, Meth, Anime
+POTATO: Make up a random word/object:Plumbus, alien probe units, uranium, adult kazoo, gravestone, drain snake
+STORE: Make up a store name:Fantasy Costco, Space Walmart, Gremblo Gas Station, Alec Baldwin's Laser Tag Arena with Real Guns
+ALIEN: A monster/alien race:Monster, space man, full-body player, anime girls from the planet anime, highly intelligent sea serpents
+PARTY: Activity people do on holidays:Partying, trick-or-treating, going to the parade, celebrating with family
+FAME: Online celebrity:PewDiePie, Danny Sexbang, Jacksepticeye, Markiplier, the Game Grump, Drumsy
+CHIPS: a snack food:
 SCRIPT ==========================================
-Jazz music 1
+Silly Music 2
 CLERK 2: (sigh) How much longer...I'm sooo bored.
 CLERK 1: It's only HOUR more hours, dude.
 CLERK 2: HOUR more hours? HOUR more hours, I can't wait that long man.
 CLERK 1: Dude, want some candy?
-CLERK 2: Eh, no thanks.
+CLERK 2: Eh, no thanks. I've been snacking on CHIPS all night.
 CLERK 1: Dude, come on. It's HOLIDAY. You gotta have candy on HOLIDAY.
 CLERK 2: Okay fine, just give me one.
 CLERK 1: Ha ha, yeah let's go (hands other clerk candy)
@@ -20408,6 +20411,7 @@ CLERK 2: You say that like ACID is safer than WEED. You know it's not, right?
 CLERK 1: I'm sorry, but what's done is done. My advice, just stay calm and let it ride out.
 CLERK 2: Fine, I guess you're right. When do you suppose it will kick in?
 Alien Siren
+groose music
 CUSTOMER: (enter stage right, talking in a weird, loud voice) Hello do you have any POTATO here?
 CLERK 2: Uhh w-what? What's a POTATO?
 Meanwhile CLERK 1: (laugh to yourself) Here we go
@@ -20416,6 +20420,7 @@ CLERK 1: (Trying to act casual) Yeah man, this is STORE.
 CLERK 2: (whisper to clerk) What's going on?
 CLERK 1: (whisper to clerk) Just go with it.
 CUSTOMER: Excuse me! I don't have all night, it is HOLIDAY after all and I'm a very busy ALIEN
+CUSTOMER: I have to go PARTY with my good personal friend FAME soon
 CLERK 1: Yeah dude, I think we have some in the back. Follow me
 CUSTOMER: Thank you, I thought I'd never find any POTATO this time of night. (follow clerk towards stage left)
 Meanwhile CLERK 1: (walk customer towards stage left)
@@ -20423,6 +20428,7 @@ CLERK 2: Oh man. What am I gonna do? I can't help any customers like this.
 CLERK 2: You know what, he's right. I just gotta stay calm and let it ride out.
 CLERK 2: Everything will be fine, what's the worst that could happen?
 waterphone
+shark tank serious music 1
 Meanwhile POLICE: (You're about to walk in stage right)
 POLICE: (Casually walk in stage right) Evening sir.
 CLERK 2: (panicking) H-h-hi there. H-h-how can I h-h-help you?
@@ -20765,24 +20771,24 @@ VERIFIED: True
 TAGS: Skit
 SET: News
 CHARACTERS ================================
-REPORTER: Field Reporter:Fake Street Backdrop
 ANCHOR: Studio news anchor:News Desk
+REPORTER: Field Reporter:Fake Street Backdrop
 SUGGESTIONS =============================
-PARTNER: Persons name:Emma Stone, Clara Williams, Steve Harvey
-EVENT1PRAISE: A word of praise:celebration of the ages, a new world wonder, better than your event
-REPORTERNICKNAME: Field Reporter Nickname:God of Thunder, The Cheese on my cracker, The peanut butter to my jelly
-REPORTERNAME: Field Report Name:Rainier Weather, Stacy TwoToes, Milly Thompson
-EVENT1ORGANIZER: Persons name:Peter Dinklage, Justin Case, Steve Miller
-EVENT1SLANDER2: Statement of slander:without imagination, just boring, ugly
-EVENT1SLANDER1: Statement of slander:Dumb, Worthless, Tedious 
-EVENT1NAME: Noteworthy event for a small town:Chili Cook-Off, Mole-day, Compliment Day Celebration
-ANCHORNAME: News caster name:Richard Cameoff, Tom Nobody, Frankly Noneyabusiness
 STARTTIME: Some ridiculous time of day:two twenty two in the morning, eleventy two o'clock, no time like the present
+ANCHORNAME: News caster name:Richard Cameoff, Tom Nobody, Frankly Noneyabusiness
+EVENT1NAME: Noteworthy event for a small town:Chili Cook-Off, Mole-day, Compliment Day Celebration
+EVENT1SLANDER1: Statement of slander:Dumb, Worthless, Tedious 
+EVENT1SLANDER2: Statement of slander:without imagination, just boring, ugly
+EVENT1ORGANIZER: Persons name:Peter Dinklage, Justin Case, Steve Miller
+REPORTERNAME: Field Report Name:Rainier Weather, Stacy TwoToes, Milly Thompson
+REPORTERNICKNAME: Field Reporter Nickname:God of Thunder, The Cheese on my cracker, The peanut butter to my jelly
+EVENT1PRAISE: A word of praise:celebration of the ages, a new world wonder, better than your event
+PARTNER: Persons name:Emma Stone, Clara Williams, Steve Harvey
 SCRIPT ==========================================
 world news intro
 ANCHOR: (Look straight ahead) It's STARTTIME and this is your local news update, I'm ANCHORNAME.
 ANCHOR: (Look stage right) Things have not been the same in the big city since the start of the EVENT1NAME.
-ANCHOR: Those who have attend have denounced EVENT1ORGANIZER, the organizer, calling them "EVENT1SLANDER1" and "EVENT1SLANDER2"
+ANCHOR: Those who have attended have denounced EVENT1ORGANIZER, the organizer, calling them "EVENT1SLANDER1" and "EVENT1SLANDER2"
 ANCHOR: For more on this story we go to REPORTERNAME who I affectionately refer to as REPORTERNICKNAME
 ANCHOR: (Hold hand up to ear) REPORTERNICKNAME, can you hear me, what can you tell us about the peoples reaction to the EVENT1NAME?
 REPORTER: (Hold hand up to ear) Yes I can hear you and what have I told you about calling me REPORTERNICKNAME?
