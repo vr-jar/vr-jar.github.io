@@ -1546,6 +1546,7 @@ woahpotato
 dillmatt09
 Rainy-_
 lvesck
+ClawsEncounter
 #TIER=1
 AkaruHaru
 Riles
