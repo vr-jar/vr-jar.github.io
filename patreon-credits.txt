@@ -1511,6 +1511,7 @@ FishToShark
 ToeFungie
 DyingBug101
 Тoast
+ItsLoyalpher
 #TIER=1
 Riles
 Steelhide
