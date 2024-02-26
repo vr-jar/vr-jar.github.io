@@ -1510,6 +1510,7 @@ Roboworgen
 FishToShark
 ToeFungie
 DyingBug101
+Тoast
 #TIER=1
 Riles
 Steelhide
