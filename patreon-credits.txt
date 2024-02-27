@@ -2136,6 +2136,7 @@ AnimaCorpus
 ~JayLivingDiff~
 sʎɐɾ
 GentlemanSona
+AstralAbyssVr
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
