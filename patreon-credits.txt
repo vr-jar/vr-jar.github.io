@@ -1564,6 +1564,7 @@ CurvyGutss
 SnowyThing
 AntagonistVs
 Exooooo
+Kymerah
 #TIER=1
 AkaruHaru
 Riles
