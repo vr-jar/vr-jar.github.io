@@ -1558,6 +1558,7 @@ MintiTheSmol
 Lunablushwolf
 likeaboss23
 AvocadoHusky
+R3TR0_Protato
 #TIER=1
 AkaruHaru
 Riles
@@ -1800,7 +1801,6 @@ Vyse foxx
 jojoyoyonono 7a86
 zx6r
 ~Ashtoria~
-Valantine~
 Radio Miku
 Dazethesparkfem
 ~conk~
@@ -2127,6 +2127,8 @@ GentlemanSona
 AstralAbyssVr
 Mask3dgamez
 Chill And Virus
+Relies
+SoundAround
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
