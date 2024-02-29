@@ -1297,6 +1297,7 @@ Synizta
 CoFFeMachine
 Ｒｅｃｋｅｒ８９７
 EmpressChi
+JackoFoxxo
 Moookie
 Celestebunbun
 Wolfie27415
@@ -1549,7 +1550,6 @@ ZeCloud
 Z-01
 KalixFoz
 NapsAlotlTTV
-DyingBug101
 #TIER=1
 AkaruHaru
 Riles
