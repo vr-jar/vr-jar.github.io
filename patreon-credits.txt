@@ -1548,6 +1548,7 @@ WOLFHAWK X
 ZeCloud
 Z-01
 KalixFoz
+DyingBug101
 #TIER=1
 AkaruHaru
 Riles
