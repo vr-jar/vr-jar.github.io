@@ -1547,6 +1547,7 @@ Lemmon__Lime
 WOLFHAWK X
 ZeCloud
 DyingBug101
+Z-01
 #TIER=1
 AkaruHaru
 Riles
