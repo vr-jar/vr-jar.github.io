@@ -1239,7 +1239,6 @@ AncientDream
 Misfire
 Midnight Myth
 NathanTheRikkor
-Splargh
 ErikJB
 Virtual_Jeffy
 PhthaloBlue
@@ -1645,6 +1644,7 @@ god-of-death
 leona205
 SungJlnW00
 ღC̴in̴nam̴oღ
+Splargh
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
