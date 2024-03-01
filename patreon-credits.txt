@@ -1353,6 +1353,7 @@ _ఌsɪɴɴᴇʀఌ_
 BluBerryStriker
 SmokeVRC
 katanacat3
+CSM_Speedy
 #TIER=1
 AkaruHaru
 Steelhide
