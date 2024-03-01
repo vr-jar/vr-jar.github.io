@@ -1096,7 +1096,6 @@ TinyPaw
 xMeowchax
 OtōsanOkami
 Mocha_Lem0n
-MrBluStriker
 hooded_dll
 LongPinkNoodle
 TheMutant44
@@ -1547,6 +1546,7 @@ Lou_28
 ~°BIBBLE°~
 JordanKujo
 _ఌsɪɴɴᴇʀఌ_
+BluBerryStriker
 #TIER=1
 AkaruHaru
 Riles
