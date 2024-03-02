@@ -1466,6 +1466,7 @@ katanacat3
 Silvexius
 NoOneCold
 ̷g̷o̷O̷B̷e̷r
+Alimancer
 #TIER=1
 AkaruHaru
 Riles
