@@ -1518,6 +1518,7 @@ Alimancer
 TTV_ghostly16
 Goldenbumblebee
 WHODAT__1-6
+DyingBug101
 #TIER=1
 AkaruHaru
 Riles
@@ -1986,6 +1987,7 @@ MidshipMorgan
 Kermisha
 Derpy Dergon
 Dividing Zer0
+ApølløSøl
 【VirusDreemurr】
 XelaZander
 sakuraviolet
