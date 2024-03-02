@@ -2215,6 +2215,7 @@ Sparky_TheFolf
 YamiFudoFate39
 ~Fazbear~
 Kregethran
+GothicGirlChews
 #TIER=3
 SidMarcus
 PinballReviewer
