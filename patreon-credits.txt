@@ -1520,7 +1520,6 @@ TTV_ghostly16
 Goldenbumblebee
 WHODAT__1-6
 xXAqua~StarzXx
-Cookie Mama
 #TIER=1
 AkaruHaru
 Riles
@@ -2091,6 +2090,7 @@ P33katchuwu
 CSM_Speedy
 Ƀłᵾɇ_Ɇɏɇs
 Armana
+Cookie Mama
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
@@ -2125,7 +2125,6 @@ Burnt Toaste
 ༺Stolynn༻
 Satoru_Hashi_
 9041_
-Tattooedkillar8
 oregonzz
 nightrhyme
 ImprovisedNW
@@ -2260,6 +2259,7 @@ CHA0SMASTER
 ~Mr․King~
 ＳｈａｄｏｗＰｈｏｅｎｉｘ
 ShayCat
+Tattooedkillar8
 FenekkuRosamine
 BYEFELISHA21
 ScottDevlin
