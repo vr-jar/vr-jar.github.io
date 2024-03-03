@@ -2108,6 +2108,7 @@ CSM_Speedy
 Armana
 Cookie Mama
 stihl
+Yukari TK
 #TIER=2
 Z-AuraSphere23
 CODBO3RGM3
