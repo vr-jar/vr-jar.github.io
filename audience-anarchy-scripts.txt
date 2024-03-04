@@ -12717,6 +12717,129 @@ BABY: (Awkward silence, sniff) So uhh... Karen. Did you get your INFECTION sorte
 ======
 
 INFORMATION ===============================
+ID: 388
+TITLE: Redemption
+AUTHOR: CaptainJackk
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+CHARACTERS ================================
+VILLAIN: The Villain:Stage Left
+HERO: The broken Hero:Stage Right
+ALLY: The Hero's supporting ally:Backstage
+SUGGESTIONS =============================
+WEAK: another way of saying "weakling":weakling, coward, child
+HEIR: a type of heirloom:amulet, dagger, ring
+POWER: a word of encouragement :I am very proud of you, You have come a long way, You are strong. Even stronger than I
+RELATION: relationship status (i.e. friend, partner, lover, etc.):friend, comrade, ally
+SPECIAL2: a special move:Attack, Slash, Do-over, Break
+SPECIAL1: a special move:Burning, Final, Ultimate, Dual
+EVENT: an event that took place:Christmas, your birthday, the attack
+FUEL: another way to say energy:energy, fuel, power
+NUMBER: a percentage:100%, 1000%, 1000000%
+STUFF: something to buy:lunch, first-aid kit, potions
+MONSTER: a type of monster:giant troll, mechagolem, hydra, demon, monster
+SCRIPT ==========================================
+Epic Fantasy Music 2
+sword fighting
+HERO: (clash weapon with the Villain) For every blow you deal, I will return it tenfold!
+Meanwhile VILLAIN: (clash weapon with the Hero)
+VILLAIN: (annoyed) You really are a persistent one, WEAK. But it's time to finish you off for good!
+HERO: I could say the same thing to you, monster. I took everything from someone very close to me and I'm willing to give it all back even if it costs my life!
+VILLAIN: Then I suppose this final strike will dictate who will be the victor..
+HERO: Agreed.....
+super epic charge up
+HERO: (charges up a special move) I'm charging up my special move...
+Meanwhile Villain: (charges up a special move)
+VILLAIN: RAAAAAAAA!!!!!!!!!!! (Unleash your attack)
+Meanwhile HERO: RAAAAAAAA!!!!!!!!!!! (Unleash your attack)
+Music Stops
+explosion
+VILLAIN: (falls to the ground) I am defeated!
+Meanwhile HERO: (falls to the ground)
+HERO: (On the ground) Each breath... a struggle...
+VILLAIN: (gets up and growls) I never would have thought that a WEAK like you would have gotten this much power ever since EVENT...
+VILLAIN: (slowly walks to Hero) Let alone, I never would have thought someone like you to even survive in the first place....
+Meanwhile HERO: (struggles to get up)
+VILLAIN: (draws weapon) I guess I should finish you off for good. Now DIE!!!!
+ALLY: (enter Stage Right and immediately attack) HYAAAAH!!!!
+knife wound
+VILLAIN: GACK!!!! (falls to the ground)
+HERO: (To Ally) It's you!
+ALLY: (To hero) You look like you've been through a war... But you stood strong.
+HERO: (looks down) I know..... I look like a wreck don't I?
+emotional piano music
+HERO: I've always been a wreck.... I've let many people down because of my incompetence.... Worst of all, you had to suffer since EVENT because of my weakness.
+ALLY: (Reassuring hug) No... you are not as weak as you think you are. I've seen you grown ever since we've first met.
+ALLY: Like for instance, you were able to contend against a MONSTER. The same enemy that defeated our friend with little to no effort.
+ALLY: I am sorry that you felt this way. But what I'm most sorry, is that I've never got a chance to tell you this and that is....
+ALLY: POWER and I am very grateful to have you as my RELATION
+Music Stops
+anime sword gleam 1
+HERO: You believe in me? (cries in relief)
+ALLY: It's okay.... I'm here for you... (hug)
+VILLAIN: (gets up, growling) and now look who decided to show up.....
+badass music 1
+ALLY: It seems like this guy doesn't have as much FUEL as before.
+Meanwhile HERO: (gets up)
+HERO: I too still don't have as much "FUEL" you know...
+ALLY: True, but at least you still have someone else on your side that is NUMBER FUEL.
+HERO: (chuckles) True that....
+draw sword
+HERO: (draws weapon) You're buying me STUFF after this.
+draw sword
+ALLY: (draws weapon) That's if we both make out alive that is, my RELATION.
+draw sword
+VILLAIN: (draws weapon) This ends now, once and for all!
+VILLAIN: HIYAAHHH!!!
+HERO: (charges at the Villain) GRAAAAAAA!!!!
+Meanwhile ALLY: (charges at the Villain) HAAAA!!!!
+sword fighting
+VILLAIN: (Fighting) You persistent little...
+VILLAIN: I've defeated both of you in EVENT and I can do it again right now!!
+sword fighting
+ALLY: (Fighting It won't be the same like in EVENT! Unlike you, we have a purpose in life.
+HERO: (Fighting And we won't let some "monster" like you interfere our future!
+sword fighting
+ALLY: The bond between my RELATION and I....
+HERO: Is what makes us stronger!
+knife wound
+VILLAIN: (Pain) Noo! (Crouches) No one has ever pushed me to my knees like this before!
+VILLAIN: This is impossible!
+ALLY: (To hero) Let's finish this, my RELATION!!
+HERO: RIGHT!!!
+super epic charge up
+HERO: (Charges up weapon) This power, it courses through me for victory!
+Meanwhile ALLY: (charges up a special move)
+HERO: SPECIAL1!!!!
+ALLY: SPECIAL2!!!!
+HERO: Raa! (Unleash your attack)
+Meanwhile ALLY: Raa! (Unleash your attack)
+VILLAIN: Grah! This... cannot be my end... (dies)
+Teleport VILLAIN to Backstage
+explosion
+HERO: (Give a thumbs up to the Ally) Nice job.
+Meanwhile ALLY: (Give a thumbs up to the Hero)
+Music Stops
+HERO: (collapses) The fight has drained me... but it was worth it.
+ALLY: (helps the Hero back up) Whoa there, Hero. You fought a hard battle. You must rest.
+bard music 2
+HERO: (weakened) So.... you going to buy me the STUFF?
+ALLY: (chuckles) Yeah of course I will, my RELATION.
+ALLY: I've told you this before and I'm willing to tell you again that POWER... So, you've earned it.
+HERO: (chuckles) Yea... Thank you for everything. Thank you for being with me this entire time even when I didn't know.
+HERO: ....Oh yea! Your HEIR. You lost it ever since EVENT and I decided to keep it as a memento. I thought maybe I should give it back to its rightful owner.
+ALLY: Oh... Thank you! But... you should keep it. Besides, my HEIR looks good on you.
+HERO: Are you sure about that? It was never mine to begin with...
+ALLY: It is now.
+HERO: I don't know what to say but... thank you... I will take good care of your... our HEIR
+ALLY: I believe you will. Anyways, let's go buy some STUFF. A promise is a promise, no?
+HERO: Yea we should! I'm glad to have you back.
+ALLY: And I'm glad to have you back as well, my RELATION.
+
+======
+
+INFORMATION ===============================
 ID: 392
 TITLE: The night before Christmas
 AUTHOR: Not~A~Spy
@@ -13852,6 +13975,104 @@ Teleport MAGICIAN to BACKSTAGE
 magic sound
 APPRENTICE: (enter stage right) Finally that freak is gone, he was never good at magic, I could make NUMBER NOUNs disappear just like that (snap)
 APPRENTICE: its time for me to get the spot light, Everyone be ready for I shall now be know as NEW MAGIC NAME (bow)
+
+======
+
+INFORMATION ===============================
+ID: 427
+TITLE: Resurrection
+AUTHOR: CaptainJackk
+VERIFIED: True
+TAGS: Skit
+SET: Forest Bridge
+CHARACTERS ================================
+HERO: The "revived" Hero:Backstage
+MONSTER: Monster:Stage Left
+WARRIOR: Hero's friend:On bridge
+SUGGESTIONS =============================
+ALLY: Relationship to anyone (i.e. family, friend, brother, etc.):mother, father, brother, friend
+SAD: A negative emotion:crying, upset, frustrated
+NAME: Name:Romeo, Juliet
+LOST: Something that you can lose:arm, soul, heart
+LOSE: Another way of saying "loser":loser, failure, coward
+SPECIAL: Special attack:Flurry Slash, Execution, Blast-phemy
+EVENT: An event:the attack, the invasion, Christmas
+MONSTER: A type of monster:Demon, Werewolf, Monster, Hobgoblin
+VILLAGE: A village name:Peace, LoveTown, Guildus
+WARRIOR: A type of warrior:Hunter, Warrior, Savior, Fighter
+SCRIPT ==========================================
+epic fantasy music 1
+MONSTER: (Intimidating roar at the heroes) Graaah!
+WARRIOR: (tired) This MONSTER doesn't know when to quit! But I shouldn't quit either!
+WARRIOR: I'll have to attack with everything I got for me to even have a chance against this MONSTER!
+WARRIOR: For the village of VILLAGE!
+sword fighting
+WARRIOR: (Strike monster several times) Take this! And this!
+super epic charge up
+Music stops
+explosion
+MONSTER: Rawr! (Defeated groaning, falls down)
+WARRIOR: Is it dead?
+MONSTER: (Gets up, angrier) Grrrrrr...
+epic cinematic music
+WARRIOR: What?! No way! I gave everything I got against this MONSTER and it had little to no effect?!
+super epic charge up
+MONSTER: ROAR!! (Swipe at the hero dramatically)
+explosion
+WARRIOR: (Wounded) The power... it's too much! (collapses)
+WARRIOR: (struggles to get up) No.... The children in the village of VILLAGE need me....
+WARRIOR: (Strained) ... Is this the end?
+Music stops
+gunshot
+MONSTER: (Staggers from gunshot) ROAR!
+HERO: (Enter the stage pointing smoking gun) Behold, creature of darkness, your reckoning approaches!
+epic fantasy music 3
+WARRIOR: (Surprised) You're alive?! But how?!
+HERO: Don't worry, brave warrior. I'll take care of this.
+HERO: Stand back. It's time to end this nightmare once and for all.
+MONSTER: Roar! (Attack the hero, but it has no effect) R- roar???
+Meanwhile HERO: (Effortlessly deflect and brush off the MONSTER's attack)
+HERO: (Smug) Heh. You'll have to do better than that, monster!
+sword fighting
+HERO: (charges up attack) SPECIAL... Attack!
+super epic charge up
+HERO: (Stab monster) Hi-ya!
+anime sword gleam 3
+MONSTER: (Fatally injured) R...roar! Immpossible! (dies)
+explosion
+Teleport MONSTER to Backstage
+HERO: (Approach warrior) Fear not, warrior; by my hand, your wounds shall mend.  (Apply bandage)
+magic sound
+WARRIOR: (fully healed and refreshed) Thank you so much. I am in your debt.
+HERO: My work here is done, but the path I walk is a solitary one. (Slowly walk toward the exit)
+WARRIOR: Wait...
+Meanwhile HERO: (stop in place)
+Music Stops
+WARRIOR: How did you manage to survive EVENT?
+WARRIOR: We all thought you died at EVENT.... and also... you've completely changed...
+HERO: (Dramatic, back turned) I can't say myself how I survived EVENT and honestly, it would've been better if I did die...
+WARRIOR: Why would you say that? Every WARRIOR deserves to live.
+HERO: But I'm no WARRIOR like you guys.... I am nothing but a LOSE....
+HERO: Especially since someone very close to me lost his- or her- LOST because I couldn't get the job done...
+WARRIOR: Someone close to you? Who?
+HERO: It's a wound too deep for words, one I cannot yet speak of.
+WARRIOR: It's NAME. Isn't it?!
+HERO: (shocked) How... how could you possibly know that!?
+WARRIOR: (Approach and stares Hero in the face) You're SAD....
+scary music
+HERO: (SAD) Of course I'm SAD! Do you have any idea how it feels to betray someone's expectations?! Do you?!
+WARRIOR: I.... uh...
+HERO: NAME cared for me, nurtured me, and believed me. I saw NAME as a true ALLY
+HERO: NAME always told me that I'm destined for "greatness" but I couldn't compare with everyone else at the village of VILLAGE!
+HERO: And every failure, I saw the disappointment in NAME's eyes and that affected me as well.
+HERO: And then EVENT happened and the lost of NAME's LOST, was the final nail in the coffin...
+HERO: (looks down) It should've been me.... that's why I'm willing to give back everything that NAME lost even if it costs my life...
+HERO: Someone like me would hardly matter in this world.... I made NAME lose all faith in me... (Exit)
+WARRIOR: (nervously) B-but... NAME.... has....
+Meanwhile HERO: (exits)
+WARRIOR: ...NAME still sees the potential in you!!! He (or she) has not lost faith in you!!
+WARRIOR: ....And never will....
+Music Stops
 
 ======
 
@@ -20669,6 +20890,106 @@ ANCHOR: Whoever ANCHORNAME might be, I hope they sleep well tonight knowing they
 ANCHOR: I for one know I will!
 world news outro
 ANCHOR: And that's the news, I've been your host ANCHORNAME!
+
+======
+
+INFORMATION ===============================
+ID: 629
+TITLE: The Beast of corkingdale bog
+AUTHOR: ~°Mısanʇhrope°~
+VERIFIED: True
+TAGS: Skit
+SET: Campsite
+CHARACTERS ================================
+STEVE: Camper 3:Rock chair
+CHUCK: Camper 1:Log chair
+JIM: Camper 2:Camping chair
+SCHMUKUS: The beast:Backstage
+SUGGESTIONS =============================
+STORE: A popular store:Tesco, Asda, Sainsbury's
+LANDMARK: Name a famous landmark:Great Wall of China, Eiffel Tower, Christ the Redeemer
+ITEM: A valuable item:Diamond, wallet, crown
+CELEBRITY: Name a famous celebrity:Elvis Presley, Danny Devito, George Orwell
+MONARCH: Name a famous king/queen:Queen Elizabeth, Henry VIII, Tutankhamen
+FOOD: A type of food:Burger, hotdog, pizza
+GAME: A video game:GTA, LittleBigPlanet, Elder Scrolls
+CITY: A city:New York, London, Naples
+ANIMAL: A type of aggressive animal:Alligator, Bear, Wolf
+CLOTHING: A piece of clothing:Jeans, hawaiin shirt, pith helmet
+SCRIPT ==========================================
+scary music
+CHUCK: So, have you ever heard the story of Schmukus the ANIMAL ?
+JIM: Yeah, I think so. The beast who stole CELEBRITY 's ITEM ?
+CHUCK: Yeah! Thats Schmukus!
+STEVE: (nervously) Geez guys, don't you think it's a little late to be telling spooky stories?
+JIM: Oh grow up Steve, he isn't real, its just a story made up to scare people
+CHUCK: Yeah, besides, even if he is real and in this very woods, I packed my big ass gun, one blast from it will send Schmukus to LANDMARK
+CHUCK: (reaches out hand to grab gun) Oh blast! I forgot to pack it!
+STEVE: (nervously) oh no!
+JIM: Ah well, let's continue the story Chuck, I wanna hear about the beast of corkingdale bog!
+CHUCK: Oh yes. Where were we? Ah yes that's it, Schmukus!
+CHUCK: The Beast of Corkingdale bog, aka Schmukus, is said to inhabit these very woods!
+thunder
+STEVE: (scared) Guys stop it! I won't be able to sleep at night!
+JIM: Steve, grow up, the chances that we get mauled to death by some fat ANIMAL called Schmukus is very low
+forest footstep
+STEVE: (stressed) did you guys just hear that?
+CHUCK: Look Steve buddy, its probably just a deer, or a hare, let's just tell the story then go to bed.
+STEVE: O-Okay.
+CHUCK: So, as Jim said earlier, Schmukus once broke into the house of CELEBRITY and stole their ITEM !
+STEVE: Woah!
+JIM: How did he manage that?
+CHUCK: Nobody knows how he gained entry, but he got caught by CELEBRITY who then had him locked up in a cage!
+STEVE: Oh well that's a massive relief! We are safe then!
+JIM: Oh no, no we aren't. Legend has it, when CELEBRITY awoke the next morning
+JIM: they were locked up in the cage that Schmukus was in the night before and Schmukus wasn't to be seen!
+CHUCK: Yeah, and when CELEBRITY got out of the cage, they discovered that there CLOTHING had also been stolen!
+thunder
+STEVE: (startled) That damn thunder! It keeps making me jump out of my own skin!
+JIM: Hey Chuck, one time I heard that Schmukus ate MONARCH because he didn't agree with their views. Is this true?
+CHUCK: Oh yeah, he ate MONARCH piece by piece and then scurried out of their bedroom window and escaped into the night.
+JIM: Oh geez
+STEVE: Guys, I can't take much more of this, I'm terrified!
+CHUCK: I heard, one time, Schmukus threatened the developers of GAME so that he would be a playable character in the next game in the series!
+JIM: Now that is frightening!
+STEVE: (looking down at his phone) Guys, it says here that Schmukus stole a FOOD truck in 2012
+STEVE:and then used it to lure unsuspecting victims in, oh god, I can't read anymore!
+JIM: That is pretty evil!
+CHUCK: Oh 'eck!
+JIM: Continue the story, I wanna know what else Schmukus has done!
+CHUCK: Say Jim, do you ever think Schmukus is real? Like could he be out there right now stalking us and listening to our conversation?
+JIM: Of course not. What are you turning into Steve now?
+STEVE: Hey!
+CHUCK: No, no of course not, it just makes me wonder.
+forest footstep
+JIM: Wait. You heard that too right?
+CHUCK: (nervously) yeah I did
+tense cinematic music
+forest footstep
+SCHMUKUS: (enters the stage from the left)
+gong
+STEVE: oh my god! Stay back foul beast!
+SCHMUKUS: What? I ain't gon' hurt you.
+JIM: Wait, you're-you're Schmukus! The Beast of Corkingdale bog! Of course your gonna hurt us!
+SCHMUKUS: Oh no! I left that life a long time ago. Now I'm just yer regular old Schmukus the alligator!
+bluegrass music
+CHUCK: Wait. You are an Alligator. The stories said you were an ANIMAL !
+STEVE: Stay back! You devilish beast!
+SCHMUKUS: (looking at Steve) Well hi there partner, I am Schmukus, pleasure to meet you!
+STEVE: (terrified) Oh my gosh! (faints on the floor)
+SCHMUKUS: Now whats his problem?
+JIM: I have no idea.
+CHUCK: Wait so you aren't gonna hurt us?
+SCHMUKUS: Of course not! Where you guys from anyway?
+JIM: Oh we are from CITY . We came here on a camping trip. Whats life like out here Schmukus?
+SCHMUKUS: Well, we do things a little differently around here compared to the big ol' city (rubs big belly).
+CHUCK: So tell me, Schmukus, did you really eat MONARCH for disagreeing with their views?
+SCHMUKUS: (Rubs belly) Yup! They are still chilling in my big old belly!
+JIM: Wow! And did you really threaten the developers of GAME so that you would be a playable character in the next game?
+SCHMUKUS: Yup.
+CHUCK: And what about that time you broke into the local STORE
+SCHMUKUS: No more questions please folks. I'm getting kinda hungry (looks at the campers and rubs big belly)
+CHUCK: Run!! (Exit stage)
 
 ======
 
