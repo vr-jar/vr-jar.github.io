@@ -1481,7 +1481,6 @@ WHODAT__1-6
 xXAqua~StarzXx
 MewPL
 Ruzair
-The-Radio_Demon
 Tepidsink
 BeetleKieran
 Sir Andrewღ
@@ -1510,6 +1509,7 @@ MurkyLight9
 Maik832
 ~Novality~
 Slitheryhighway
+The-Radio_Demon
 #TIER=1
 AkaruHaru
 Riles
