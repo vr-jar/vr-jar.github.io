@@ -12717,134 +12717,6 @@ BABY: (Awkward silence, sniff) So uhh... Karen. Did you get your INFECTION sorte
 ======
 
 INFORMATION ===============================
-ID: 388
-TITLE: Redemption
-AUTHOR: CaptainJackk
-VERIFIED: True
-TAGS: Skit
-SET: Forest
-CHARACTERS ================================
-VILLAIN: The Villain:Stage Left
-HERO: The broken Hero:Stage Right
-ALLY: The Hero's supporting ally:Backstage
-SUGGESTIONS =============================
-WEAK: another way of saying "weakling":weakling, coward, child
-HEIR: a type of heirloom:amulet, dagger, ring
-POWER: a word of encouragement :I am very proud of you, You have come a long way, You are strong. Even stronger than I
-RELATION: relationship status (i.e. friend, partner, lover, etc.):friend, comrade, ally
-SPECIAL2: a special move:Attack, Slash, Do-over, Break
-SPECIAL1: a special move:Burning, Final, Ultimate, Dual
-EVENT: an event that took place:Christmas, your birthday, the attack
-FUEL: another way to say energy:energy, fuel, power
-NUMBER: a percentage:100%, 1000%, 1000000%
-STUFF: something to buy:lunch, first-aid kit, potions
-MONSTER: a type of monster:giant troll, mechagolem, hydra, demon, monster
-SCRIPT ==========================================
-Epic Fantasy Music 2
-sword fighting
-HERO: (clash weapon with the Villain)
-Meanwhile VILLAIN: (clash weapon with the Hero)
-VILLAIN: (annoyed) You really are a persistent one, WEAK. But it's time to finish you off for good!
-HERO: I could say the same thing to you, monster. I took everything from someone very close to me and I'm willing to give it all back even if it costs my life!
-VILLAIN: Then I suppose this final strike will dictate who will be the victor..
-HERO: Agreed.....
-super epic charge up
-HERO: (charges up a special move)
-Meanwhile Villain: (charges up a special move)
-VILLAIN: RAAAAAAAA!!!!!!!!!!! (Unleash your attack)
-Meanwhile HERO: RAAAAAAAA!!!!!!!!!!! (Unleash your attack)
-Music Stops
-explosion
-VILLAIN: (falls to the ground)
-Meanwhile HERO: (falls to the ground)
-VILLAIN: (gets up) *growl* I never would have thought that a WEAK like you would have gotten this much power ever since EVENT...
-VILLAIN: (slowly walks to Hero) Let alone, I never would have thought someone like you to even survive in the first place....
-Meanwhile HERO: (struggles to get up)
-VILLAIN: (draws weapon) I guess I should finish you off for good. Now DIE!!!!
-ALLY: (enter Stage Right and immediately attack) HYAAAAH!!!!
-knife wound
-VILLAIN: GACK!!!! (falls to the ground)
-HERO: (To Ally) You!
-ALLY: (looks at the Hero)
-HERO: (looks down) I know..... I look like a wreck don't I?
-sad chug jug music
-HERO: I've always been one.... I've let many people down because of my incompetence.... Worst of all, you had to suffer since EVENT because of my weakness.
-ALLY: (nods head in denial) No... you are not as weak as you think you are. I've seen you grown ever since we've first met.
-ALLY: Like for instance, you were able to contend against a MONSTER. The same enemy that defeated me with little to no effort.
-ALLY: I am sorry that you felt this way. But what I'm most sorry, is that I've never got a chance to tell you this and that is....
-ALLY: POWER and I am very grateful to have you as my RELATION
-Music Stops
-anime sword gleam 1
-HERO: (shocked) I....
-HERO: (cries in relief)
-ALLY: It's okay.... I'm here for you...
-VILLAIN: (gets up) *growl* and now look who decided to show up.....
-HERO: (Looks at the Villain)
-Meanwhile ALLY: (Looks at the Villain)
-badass music 1
-ALLY: It seems like this guy doesn't have as much FUEL as before.
-Meanwhile HERO: (gets up)
-HERO: I too still don't have as much "FUEL" you know...
-ALLY: True, but at least you still have someone else on your side that is NUMBER FUEL.
-HERO: (chuckles) True that....
-draw sword
-HERO: (draws weapon) You're buying me STUFF after this.
-draw sword
-ALLY: (draws weapon) That's if we both make out alive that is, my RELATION.
-draw sword
-VILLAIN: (draws weapon)
-VILLAIN: HIYAAHHH!!! (get ready to charge once the Hero and Ally charges)
-HERO: (charges at the Villain) GRAAAAAAA!!!!
-Meanwhile ALLY: (charges at the Villain) HAAAA!!!!
-sword fighting
-VILLAIN: You persistent little...
-VILLAIN: I've defeated both of you in EVENT and I can do it again right now!!
-sword fighting
-ALLY: It won't be the same like in EVENT! Unlike you, we have a purpose in life.
-HERO: and we won't let some "monster" like you interfere our future!
-sword fighting
-ALLY: The bond between my RELATION and I....
-HERO: Is what makes us stronger!
-knife wound
-VILLAIN: GRAWWW!! (gets in a vulnerable position)
-VILLAIN: Impossible!
-ALLY: Let's finish this, my RELATION!!
-HERO: RIGHT!!!
-super epic charge up
-HERO: (charges up a special move)
-Meanwhile ALLY: (charges up a special move)
-HERO: SPECIAL1!!!!
-ALLY: SPECIAL2!!!!
-HERO: RAAAAAAAA!!!!!!!!!!! (Unleash your attack)
-Meanwhile ALLY: RAAAAAAAA!!!!!!!!!!! (Unleash your attack)
-VILLAIN: GRAHHHHHHH!!!!! (dies)
-Teleport VILLAIN to Backstage
-explosion
-Music Stops
-HERO: (Gives a thumbs up to the Ally)
-Meanwhile ALLY: (Gives a thumbs up to the Hero)
-HERO: (collapses from exhaustion)
-ALLY: (helps the Hero back up) Whoa there.
-bard music 2
-HERO: (weakened) So.... you going to buy me the STUFF?
-ALLY: (chuckles) Yeah of course I will, my RELATION.
-ALLY: I've told you this before and I'm willing to tell you again that POWER... So, you've earned it.
-HERO: *chuckles* Yea... Thank you for everything. Thank you for being with me this entire time even when I didn't know.
-HERO: ...
-HERO: ....Oh yea! Your HEIR. You lost it ever since EVENT and I decided to keep it as a memento. I thought maybe I should give it back to its rightful owner.
-ALLY: Oh... Thank you! But... you should keep it. Besides, my HEIR looks good on you.
-HERO: Are you sure about that? It was never mine to begin with...
-ALLY: It is now.
-HERO: I don't know what to say but... thank you... I will take good care of your... our HEIR
-ALLY: I believe you will. Anyways, let's go buy some STUFF. A promise is a promise, no?
-HERO: Yea we should! I'm glad to have you back.
-ALLY: And I'm glad to have you back as well, my RELATION.
-HERO: (exit Stage Right)
-Meanwhile ALLY: (exit Stage Right)
-
-======
-
-INFORMATION ===============================
 ID: 392
 TITLE: The night before Christmas
 AUTHOR: Not~A~Spy
@@ -13980,109 +13852,6 @@ Teleport MAGICIAN to BACKSTAGE
 magic sound
 APPRENTICE: (enter stage right) Finally that freak is gone, he was never good at magic, I could make NUMBER NOUNs disappear just like that (snap)
 APPRENTICE: its time for me to get the spot light, Everyone be ready for I shall now be know as NEW MAGIC NAME (bow)
-
-======
-
-INFORMATION ===============================
-ID: 427
-TITLE: Resurrection
-AUTHOR: CaptainJackk
-VERIFIED: True
-TAGS: Skit
-SET: Forest Bridge
-CHARACTERS ================================
-WARRIOR: Hero's friend:On bridge
-MONSTER: Monster:Stage Left
-HERO: The "revived" Hero:Backstage
-SUGGESTIONS =============================
-WARRIOR: A type of warrior:Hunter, Warrior, Savior, Fighter
-VILLAGE: A village name:Peace, LoveTown, Guildus
-MONSTER: A type of monster:Demon, Werewolf, Monster, Hobgoblin
-EVENT: An event:the attack, the invasion, Christmas
-SPECIAL: Special attack:Flurry Slash, Execution, Blast-phemy
-LOSE: Another way of saying "loser":loser, failure, coward
-LOST: Something that you can lose:arm, soul, heart
-NAME: Name:Romeo, Juliet
-SAD: A negative emotion:crying, upset, frustrated
-ALLY: Relationship to anyone (i.e. family, friend, brother, etc.):mother, father, brother, friend
-SCRIPT ==========================================
-epic fantasy music 1
-sword fighting
-MONSTER: GRAAAAAAAHHHH!!!!
-WARRIOR: (tired) This MONSTER doesn't know when to quit! But I shouldn't quit either!
-WARRIOR: I'll have to attack with everything I got for me to even have a chance against this MONSTER!
-WARRIOR: For the village of VILLAGE!
-super epic charge up
-WARRIOR: HAAAA!!!!
-Music stops
-explosion
-MONSTER: (falls down)
-WARRIOR: Is it dead?
-MONSTER: ....
-MONSTER: (gets up) Grrrrrr.....
-epic cinematic music
-WARRIOR: What?! No way! I gave everything I got against this MONSTER and it had little to no effect?!
-MONSTER: (charge up attack)
-super epic charge up
-MONSTER: RAWWWWWWWW!!!!!!!! (release the attack)
-explosion
-WARRIOR: AHHHHHHH! (falls down)
-MONSTER: (walk past the bridge VERY slowly)
-WARRIOR: (struggles to get up) No.... The children in the village of VILLAGE.... Is this the end?....
-Music stops
-gunshot
-MONSTER: (staggers from impact) GRAAAAA!!!!
-HERO: (slowly enter Stage Right while pointing weapon at the monster)
-epic fantasy music 3
-WARRIOR: (surprised ) You're alive?! But how?!
-HERO: ... I'll take care of this
-MONSTER: (attacks the Hero but to no avail)
-Meanwhile HERO: (starts parrying and weaving all of the Monster's attacks)
-sword fighting
-HERO: (charges up attack)
-super epic charge up
-HERO: SPECIAL...
-HERO: (Unleash attack at the monster)
-anime sword gleam 3
-MONSTER: GRAAAAAAAAA!!!! (dies)
-explosion
-Teleport MONSTER to Backstage
-HERO: ...
-Music Stops
-HERO: (slowly walk to the fallen warrior and starts healing)
-magic sound
-WARRIOR: (fully healed) Thank you so much. I am in your debt
-HERO: ....
-HERO: (walk VERY slowly to the entrance of Stage Right)
-WARRIOR: Wait...
-Meanwhile HERO: (stop in place)
-HERO: .... (back is turned)
-WARRIOR: How did you manage to survive EVENT?
-HERO: .... (back is turned)
-WARRIOR: We all thought you died at EVENT.... and also... you've completely changed...
-HERO: (back is still turned) ....I can't say myself how I survived EVENT and honestly, it would've been better if I did die...
-WARRIOR: Why would you say that? Every WARRIOR deserves to live.
-HERO: (back is still turned) ....But I'm no WARRIOR like you guys.... I am nothing but a LOSE....
-HERO: Especially since someone very close to me lost his (or her) LOST because I couldn't get the job done...
-WARRIOR: Someone close to you? Who?
-HERO: ...
-WARRIOR: It's NAME. Isn't it?!
-HERO: ...!
-WARRIOR: It is NAME...
-HERO: (finally turns to the warrior)
-WARRIOR: (turns around and looks at the Hero's face) You're SAD....
-HERO: (SAD) Of course I'm SAD! Do you have any idea how it feels to betray someone's expectations?! Do you?!
-WARRIOR: I.... uh...
-HERO: NAME cared for me, nurtured me, and believed me. I saw NAME as a true ALLY
-HERO: NAME always told me that I'm destined for "greatness" but I couldn't compare with everyone else at the village of VILLAGE!
-HERO: And every failure, I saw the disappointment in NAME's eyes and that affected me as well.
-HERO: And then EVENT happened and the lost of NAME's LOST, was the final nail in the coffin...
-HERO: It should've been me.... that's why I'm willing to give back everything that NAME lost even if it costs my life...
-HERO: Someone like me would hardly matter in this world.... I made NAME lose all faith in me...
-WARRIOR: (nervously) B-but... NAME.... has....
-Meanwhile HERO: (exits Stage Right)
-WARRIOR: ...NAME still sees the potential in you!!! He (or she) has not lost faith in you!!
-WARRIOR: ....And never will....
 
 ======
 
@@ -16622,25 +16391,25 @@ ID: 491
 TITLE: Restless Clash
 AUTHOR: GioGioDaGiostar
 VERIFIED: True
-TAGS: 
+TAGS: Skit
 SET: Forest Bridge
 CHARACTERS ================================
-THESON: Older Brother's Son:Backstage
-YOUNG: Younger Brother:Entrance Stage Right
 OLD: Older Brother:On bridge
+YOUNG: Younger Brother:Entrance Stage Right
+THESON: Older Brother's Son:Backstage
 SUGGESTIONS =============================
-BONE: A body part:skull, brain, nose
-SON: A name:Nero, David, Billy
-ARM: A body part:arm, neck, leg
-FAMILY: A familial relationship:son, nephew, aunt
-BROTHER2: A name:Dante, Jack, John
-BROTHER1: A name:Vergil, Samuel, Seth
-ACTION: A two word action:portal-open, strike-out, high-tide
-WEAPON: A name of a weapon (such as Rebellion, Bloodlust, etc.):Yamato, Murasama, Devil Sword
-DAD: A familial relationship:father, son, cousin
-FACADE: An alias:V, John Doe, Qtaro
-DEAD: An insulting name:deadweight, poopyhead, dummy
 SIBLING: A familial relationship:sibling, uncle, sister
+DEAD: An insulting name:deadweight, poopyhead, dummy
+FACADE: An alias:V, John Doe, Qtaro
+DAD: A familial relationship:father, son, cousin
+WEAPON: A name of a weapon (such as Rebellion, Bloodlust, etc.):Yamato, Murasama, Devil Sword
+ACTION: A two word action:portal-open, strike-out, high-tide
+BROTHER1: Name the older brother:Vergil, Samuel, Seth
+BROTHER2: Name the younger brother:Dante, Jack, John
+FAMILY: A familial relationship:son, nephew, aunt
+ARM: A body part:arm, neck, leg
+SON: Name the son:Nero, David, Billy
+BONE: A body part:skull, brain, nose
 SCRIPT ==========================================
 YOUNG: (Enter stage right) Hey BROTHER1, your ACTIONing days are over. Give me the WEAPON.
 Meanwhile OLD: (Sit facing stage left)
@@ -16661,6 +16430,7 @@ Music stops
 YOUNG: (Slide back) You cut off your own FAMILY's ARM for this?
 Meanwhile OLD: (Slide back)
 OLD: SON... is my FAMILY?
+Meanwhile THESON: (Climb up the backstage ladder and get ready to drop down)
 YOUNG: Yeah, dumbass. Can't remember through that thick BONE of yours?
 OLD: Well, well... that was a long time ago.
 YOUNG: (Laugh) I guess you were young once too.. and as much as I'd love to hear that story, I think it's about time we..
@@ -16670,8 +16440,7 @@ YOUNG: (Prepare weapon)
 OLD: (Charge toward BROTHER2)
 Meanwhile YOUNG: (Charge toward BROTHER1)
 explosion
-Teleport THESON to On Bridge
-THESON:(Hold back BROTHER1 and BROTHER2)
+THESON: (Drop down between BROTHER1 and BROTHER2, and hold them back)
 OLD: This is.. curious.
 YOUNG: SON?
 THESON: (Push both back)
@@ -16694,7 +16463,9 @@ YOUNG: Whatever... I don't really care... I'm just gonna sit this one out. (Lay 
 epic cinematic music
 THESON: When this is over.. I'll make you submit, DAD. (Crack your knuckles and draw your weapon)
 OLD: This has nothing to do with you, stand down.
-THESON: Nothing to do with me? It has everything to do with me! (Rush towards BROTHER1)
+THESON: Nothing to do with me? It has everything to do with me! (Back up a little)
+OLD: SON...
+THESON: Screw you! (Rush towards BROTHER1)
 sword fighting
 OLD: (Swing weapon wildly at SON)
 Meanwhile THESON: (Swing weapon wildly at BROTHER1)
@@ -19061,15 +18832,15 @@ VERIFIED: True
 TAGS: Skit
 SET: Forest
 CHARACTERS ================================
-ES: Enemy Soldier:Entrance Stage Left
 US: Immortal Soldier:Entrance Stage Right
+ES: Enemy Soldier:Entrance Stage Left
 SUGGESTIONS =============================
-PARTY: Name of a party:Democratic Party, Cultist Palooza, Cosmic Eclipse Gathering
-BODY PART: A vital body part:eye, appendix, spleen, femur, pancreas, thyroid gland, tongue, diaphragm, spinal cord, bladder
-FAVORITE: Favorite thing:toothbrush, bee,  red lipstick, jazz vinyl records, road trips, grandmother's letter, morning coffee, pet snake, full moon, insomnia-induced creativity, moss-covered stones
-OBJECT: Something that could protect you from death:luck, God, pneumo-ultra-micro-scopic-cylicone-volcano-coni-osis, seatbelt, bulletproof vest, a high-quality medical insurance, protective spirit animal, Iron Man suit,  lifelong martial arts training
-ANIMAL: Animals (Plural):squirrels, goombas, leopards, mockingbirds, tarantulas, kangaroos, iguanas
 SPECIAL ATTACK: Name of a special attack:Bullet Shower, Cartwheel Pipe Bomb, Avalanche Uppercut, Quantum Quake, Minty Fresh Chaos Destroyer Gamma Ray Burst
+ANIMAL: Animals (Plural):squirrels, goombas, leopards, mockingbirds, tarantulas, kangaroos, iguanas
+OBJECT: Something that could protect you from death:luck, God, pneumo-ultra-micro-scopic-cylicone-volcano-coni-osis, seatbelt, bulletproof vest, a high-quality medical insurance, protective spirit animal, Iron Man suit,  lifelong martial arts training
+FAVORITE: Favorite thing:toothbrush, bee,  red lipstick, jazz vinyl records, road trips, grandmother's letter, morning coffee, pet snake, full moon, insomnia-induced creativity, moss-covered stones
+BODY PART: A vital body part:eye, appendix, spleen, femur, pancreas, thyroid gland, tongue, diaphragm, spinal cord, bladder
+PARTY: Name of a party:Democratic Party, Cultist Palooza, Cosmic Eclipse Gathering
 SCRIPT ==========================================
 Yankee Doodle music
 US: (walks on stage from right) Ah Fancy meeting you here, friend. Got tired of sunny days back at the base?
@@ -19106,6 +18877,7 @@ meanwhile US:(parries the other soldiers attacks)
 US: You're running on fumes, my friend. Need a breather?
 ES: (gritting teeth) I'll end you, even if it's the last thing I do. (pulls out a Thermite Bomb and throws it directly at the soldier)
 ES: Let's see you survive this inferno, Unkillable! (laughs maniacally)
+fire alarm
 US: (casual) Is this your idea of a barbecue? I prefer mine with a side of victory.
 thunder
 ES: (shocked) How are you not burning?
@@ -20358,6 +20130,91 @@ LATEGUY: No one paid me anything.
 DM: I was!
 PLAYER1: Wait, you guys are getting paid?
 Infomercial disclaimer
+
+======
+
+INFORMATION ===============================
+ID: 604
+TITLE: Oh my Darling!
+AUTHOR: kichan6
+VERIFIED: False
+TAGS: Skit,Contains Adult Innuendo
+SET: Living Room
+CHARACTERS ================================
+JAMEE: Jamee The secret lover:Backstage
+ANDROMEDA: Andromeda The wife:Center Stage
+KEATON: Keaton The husband:Stage Right
+SUGGESTIONS =============================
+3 PERSON ACTIVITY: something 3 people can do together:Dance, Cook, Watch tv
+2 PERSON ACTIVITY: something 2 people can do together:exercise together, Chess, Checkers, Cook, watch tv
+PETNAME 3: a nickname for a lover:Dynomite, Lover, Beautiful, Cutie
+ADJECTIVE: way to describe something:great, nice, terrible, slimy
+ANIMAL: any type of animal :Cat, dog, wolf, Kangaroo, Koala, Zebra, Cheetah
+PETNAME 2: a nickname for a lover:stud muffin, Kitten, Kangaroo, 
+JOB TITLE 2: position of work someone has:Solicitor, Salesperson, gardener
+ACTIVITIES: something you can do with 2 people:play chess, sideways tango, build a cat tower
+PETNAME 1: a nickname for a lover:Darling, honey, babe, froggy
+OBJECT: something you can carry:Keys, wallet, ID, briefcase, lunch
+JOB TITLE 1: position of work someone has:pool cleaner, plumber, accountant, Delivery person
+PLACE LOCATION: Place where the husband leaves to:Work, The store, The park, The gym
+SCRIPT ==========================================
+happy music 1
+KEATON: Well, PETNAME 1 I'm off to PLACE LOCATION. Don't forget to let the ANIMAL out!
+ANDROMEDA: Oh, my darling of course I won't forget! Have a ADJECTIVE day!
+KEATON: I Will! (wave & exit stage right, closing it behind you)
+ANDROMEDA: (Let the ANIMAL out & call Jamee)
+cellphone vibrate
+JAMEE: (answer your phone) Hello~?
+ANDROMEDA: Heyy PETNAME 2 , He's gone to PLACE LOCATION , so you can come over now.
+JAMEE: I'll be there shortly, PETNAME 3 . Do you want me to pick up some ADJECTIVE food?
+ANDROMEDA: Oooh, Yes PETNAME 2! Maybe some chocolate sauce and ice cream too.
+JAMEE: I love the way you think, PETNAME 3.
+ANDROMEDA: Awee thank you PETNAME 2, drive safe.
+JAMEE: Will do, PETNAME 3. (Kissy sounds into the phone)
+doorbell
+ANDROMEDA: Coming! (open the door stage right) PETNAME 2! Come in!
+JAMEE: (enter and close the door behind you) Well thank you, PETNAME 3 . How long do think we have?
+ANDROMEDA: Keaton left for PLACE LOCATION, so he'll be gone all day. Im excited to make some sundaes!
+JAMEE: Ok, yea lets have some but make sure to save some of the caramel sauce.
+ANDROMEDA: Caramel? I thought i said to pick up chocolate?
+JAMEE: I got both.
+ANDROMEDA: Ooohh~ I like the way you think PETNAME 2!
+JAMEE: I like how you think more, PETNAME 3.
+ANDROMEDA: oooo hehehe PETNAME 2 ~
+JAMEE: hmm. Well I think I have an idea. We can 2 PERSON ACTIVITIES on the couch. (Go to the couch with ANDROMEDA)
+ANDROMEDA: ooo PETNAME 2~(Go to the couch with JAMEE)
+JAMEE: mmmmm PETNAME 3
+70s music
+KEATON: (Walk through the front door stage right, leave the door open) PETNAME 1 , I forgot OBJECT and - OH MY HEAVENS TO BETSEY! PETNAME 1 !
+ANDROMEDA: UH! ITS NOT WHAT IT LOOKS LIKE!
+KEATON: What do you mean, "its not what it looks like?"
+ANDROMEDA: Because its uhmmm
+KEATON: Its who? And where is the ANIMAL?
+ANDROMEDA: uhh the JOB TITLE 1!
+JAMEE: The wha-?
+ANDROMEDA: And the ANIMAL is still in the yard.
+KEATON: The JOB TITLE 1 ?!
+JAMEE: You have a ANIMAL?
+KEATON: How long were you gonna leave the ANIMAL in the yard?
+ANDROMEDA: Enough about the ANIMAL. Jamee is the JOB TITLE 1!
+KEATON: Last time you said they were the JOB TITLE 2 !
+ANDROMEDA: uh
+KEATON: Which is it?!
+JAMEE: Hey uh...
+KEATON: And Why would JOB TITLE 1 or JOB TITLE 2 be doing 2 PERSON ACTIVITY on the couch with my wife!?
+ANDROMEDA: Uhmm..
+KEATON: And where was that music coming from??
+ANDROMEDA: uhhh...Music?
+JAMEE: hey hey heyyy (Standing between them) There's enough of Jamee to go around. You feel me?
+ANDROMEDA: What are you suggesting?
+KEATON: I'd like to know the same.
+JAMEE: Why don't we all do 3 PERSON ACTIVITY together in the bedroom? y'know , blow off some steam?
+KEATON: All 3 of us??
+ANDROMEDA: Im down for it.
+KEATON: Really?!?
+JAMEE: Come on, i'll make sure you have LOTS of fun.
+ANDROMEDA: you did say you wanted to spice up our marriage. (Exit stage left)
+KEATON: I'll just tell PLACE LOCATION I was having car troubles. Wait for me! (Exit stage left, giggling)
 
 ======
 
