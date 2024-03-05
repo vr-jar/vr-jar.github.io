@@ -1280,7 +1280,6 @@ SuperMarioJr
 N3X33R
 sn00z13
 flora_real
-Scuffed_VR
 Moxxicide
 Bignuke
 Dead Dandy
@@ -1515,7 +1514,6 @@ Maik832
 milkey64 58b2
 Slitheryhighway
 The-Radio_Demon
-DyingBug101
 #TIER=1
 AkaruHaru
 Riles
