@@ -1528,6 +1528,7 @@ BlastingBlade
 FloofyFreddie
 TyrantRawr
 B3njaminVR
+DyingBug101
 #TIER=1
 AkaruHaru
 Riles
