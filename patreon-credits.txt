@@ -1525,6 +1525,7 @@ ACLP Films
 hakuskrub
 BlastingBlade
 FloofyFreddie
+TyrantRawr
 #TIER=1
 AkaruHaru
 Riles
