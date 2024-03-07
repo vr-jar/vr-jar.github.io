@@ -1528,6 +1528,7 @@ BlastingBlade
 FloofyFreddie
 TyrantRawr
 B3njaminVR
+LowkeyLuc
 #TIER=1
 AkaruHaru
 Riles
