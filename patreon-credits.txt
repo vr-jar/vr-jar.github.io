@@ -1523,6 +1523,7 @@ slushxvalid
 SleepySheep3020
 ACLP Films
 hakuskrub
+BlastingBlade
 #TIER=1
 AkaruHaru
 Riles
