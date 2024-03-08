@@ -1273,7 +1273,6 @@ _-Peaches-_
 Ludo Cabbit
 Malle
 sǝɓuǝʌǝɹ
-bitSkyes
 ღNightfallღ
 SuperMarioJr
 M̶indless
@@ -1539,6 +1538,7 @@ Emrys-
 SquishyTaco
 ~Conne~
 MochaTheLatte
+bitSkyes
 #TIER=1
 AkaruHaru
 Riles
