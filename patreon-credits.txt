@@ -1296,7 +1296,6 @@ FemGizzard
 Mr-Proto-Tog
 yorkwarrior
 Chekk
-Ｄｉｓａｐｐｏｉｎｔｍｅｎｔ
 _Thon
 Deadeye Medic
 CriticalOmen
@@ -1537,7 +1536,6 @@ bitSkyes
 丁ærje丁
 Lilyyy ≺3
 UISFHTAM
-DyingBug101
 stonedangel999
 DreadBody
 #TIER=1
