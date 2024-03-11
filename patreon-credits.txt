@@ -1539,6 +1539,7 @@ ModxVoldHunter
 ঞSunnyRiverঞ
 Q_AGE
 TheWiseOppai
+CaptainSmug
 #TIER=1
 AkaruHaru
 Riles
