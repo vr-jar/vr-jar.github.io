@@ -7851,18 +7851,18 @@ VERIFIED: True
 TAGS: Skit
 SET: Living Room
 CHARACTERS ================================
-PAUL: Paul, the victim:Couch
 NICKY: Nicky, the password changer:Stage Left
+PAUL: Paul, the victim:Couch
 SUGGESTIONS =============================
-ITEM: a device that requires a password:Quest headset
-GOD: something or someone you would swear or pray to:god, Jesus, Allah, the Fonz, Cthulhu
-THREE: Wi-Fi network name:Wi-Fi Three, Good Day Sir, You Lost The Game
-TWO: Wi-Fi network name:Wi-Fi Two, Trixie Pix, You Lose
-INSULT: Angry exclaimation, nickname, or insult (one word):Jerk, Idiot
-ONE: Wi-Fi network name:Wi-Fi One, Silly Rabbit, You Get Nothing
-ADJ: adjective to describe someone:stupid, slow, flamboyant, little
-STUPID: stupid password:1234, picklerick69, deeznuts420, ChipsAhoy4pack
 NICKNAME: a nickname you'd give a friend:homey, friend, pally, brother, bro
+STUPID: stupid password:1234, picklerick69, deeznuts420, ChipsAhoy4pack
+ADJ: adjective to describe someone:stupid, slow, flamboyant, little
+ONE: Wi-Fi network name:Wi-Fi One, Silly Rabbit, You Get Nothing
+INSULT: Angry exclaimation, nickname, or insult (one word):Jerk, Idiot
+TWO: Wi-Fi network name:Wi-Fi Two, Trixie Pix, You Lose
+THREE: Wi-Fi network name:Wi-Fi Three, Good Day Sir, You Lost The Game
+GOD: something or someone you would swear or pray to:god, Jesus, Allah, the Fonz, Cthulhu
+ITEM: a device that requires a password:Quest headset, smart phone, secret safe
 SCRIPT ==========================================
 PAUL: (pretend to be using your phone) Ey yo, Nicky!
 NICKY: (look over) Wassup, NICKNAME?
@@ -9056,10 +9056,10 @@ VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
 CHARACTERS ================================
-SUPER VILLAIN: Villain, The one in Control:Behind Door
+SUPER VILLAIN: Villain, The one in Control:Entrance Stage Right
 SUPER HERO: Hero, Weakened, but not dead:Corner Left
 SUGGESTIONS =============================
-COSPLAYER: Username, your own or otherwise:Tupper VRChat, Sans Undertale
+COSPLAYER: Username, your own or otherwise:Tupper VRChat, Sans Undertale, Nootnootgaming
 NAME: The most ordinary name you can think of.:Bob, John, Karen, Ken, Ashley, Peter
 CREATE: Something two people working together could do?:create, build, cook
 AMAZE: A word to describe an Exceptional Person (With An or a in front):an Amazing, a Spectacular, a Fantastic
@@ -9068,7 +9068,7 @@ BUG: Something easily squashed or squeezed:Bug, Spider, Potato, Melon, piece of 
 POPNUM: A Population Number of an Area (Ex. "8 Million"):8 Million, 2.5 Million, 3,000,000, 1,337,420
 AREA: A type of location where people live:City, Town, Apartment
 CRIME: A type of criminal (Ex. "Murderer"):Murderer, Felon, Pimp, Thief
-VILLAIN: A Super Villain Name (Existing or Made up):Glowing Elf, Poison, Jay Johnna Jameson, Green Goblin
+VILLAIN: A Super Villain Name (Existing or Made up):Glowing Elf, Poison, J. Jonah Jameson, Green Goblin
 HERO: A Super Hero Name (Existing or Made up):Roach Man, Captain Pool-cue, Aluminum Girl, Spider-Man
 SCRIPT ==========================================
 Tense cinematic music
@@ -9078,8 +9078,8 @@ SUPER VILLAIN: No, you're not dead, yet. Just paralyzed, temporarily.
 Meanwhile SUPER HERO: (Slowly Lifts head up, groaning in pain)
 SUPER VILLAIN: (Enter Though Door) You're AMAZE creature HERO. You and I are not so different.
 SUPER HERO: I'm not like you...you're a CRIME...
-SUPER VILLAIN: Well, to each his own. 
-SUPER VILLAIN: (Points at self then at HERO) I chose my path you chose the way of the hero. 
+SUPER VILLAIN: Well, to each his own.
+SUPER VILLAIN: (Points at self then at HERO) I chose my path you chose the way of the hero.
 SUPER VILLAIN: And they found you amusing for awhile, the people of this AREA.
 SUPER VILLAIN: (Lift hand and finger up if possible.) But the one thing they love more than a hero, is to see a hero fail, fall, die trying. (Put hand down)
 SUPER VILLAIN: In spite of everything you've done for them, eventually they will hate you. Why bother?
@@ -9112,14 +9112,14 @@ SUPER HERO: I don't think I actually have a choice here...so sure.
 Music Stops
 SUPER VILLAIN: (Walks towards HERO Again) Great, thank you.
 Tense cinematic music
-SUPER VILLAIN: (Lightly Slap back of HERO 's Head) Here's the real truth. 
-SUPER VILLAIN: There are POPNUM people in this AREA. And those teeming masses exist for the sole purpose, of lifting the few exceptional onto their BODYPART. 
+SUPER VILLAIN: (Lightly Slap back of HERO 's Head) Here's the real truth.
+SUPER VILLAIN: There are POPNUM people in this AREA. And those teeming masses exist for the sole purpose, of lifting the few exceptional onto their BODYPART.
 SUPER VILLAIN: You me...we're exceptional.
 Meanwhile SUPER HERO: (Trying to lift head again, but is struggling.)
 SUPER VILLAIN: (Crouches to HERO 's Face level and grabs their chin) I could squash you like a BUG right now! (Looking directing at HERO 's face)
 Meanwhile SUPER HERO: (Looking Directly at VILLAIN 's face)
 SUPER VILLAIN: But I'm offering you a choice. Join me. Imagine what we could accomplish together. What we could CREATE.
-SUPER VILLAIN: Or we could destroy! (Stand up suddenly and walk away) 
+SUPER VILLAIN: Or we could destroy! (Stand up suddenly and walk away)
 SUPER VILLAIN: Cause the deaths of countless innocents in selfish battle again and Again and AGAIN until we're both dead! Is that, what you want?
 SUPER VILLAIN: THINK ABOUT IT, "HERO"! (Exit stage any way you wish, You are done with this performance.)
 Meanwhile SUPER HERO: (Finally attempting to stand up)
@@ -9803,7 +9803,7 @@ SET: Hardware Store
 CHARACTERS ================================
 SON: Son:Center Stage
 DAD: Dad:Center Stage
-CLERK: Salesperson:Behind Shelf
+CLERK: Salesperson:None
 SUGGESTIONS =============================
 OTHER: A random object carried in a hardware store:Bedroom swing, Light bulb, Propane and propane accessories
 PUNISH: You are grounded, and no _____ for a month!:Fortnite, Dating Sims, Skibidi Toilet
@@ -11202,7 +11202,7 @@ magic sound
 INFORMATION ===============================
 ID: 274
 TITLE: Sponsored Apology
-AUTHOR: Gabeisop․
+AUTHOR: Asuraisop
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -12736,37 +12736,35 @@ SPECIAL2: a special move:Attack, Slash, Do-over, Break
 SPECIAL1: a special move:Burning, Final, Ultimate, Dual
 EVENT: an event that took place:Christmas, your birthday, the attack
 FUEL: another way to say energy:energy, fuel, power
-NUMBER: a percentage:100%, 1000%, 1000000%
+NUMBER: a number:100, 1000, 1337
 STUFF: something to buy:lunch, first-aid kit, potions
 MONSTER: a type of monster:giant troll, mechagolem, hydra, demon, monster
 SCRIPT ==========================================
 Epic Fantasy Music 2
-sword fighting
 HERO: (clash weapon with the Villain) For every blow you deal, I will return it tenfold!
 Meanwhile VILLAIN: (clash weapon with the Hero)
+sword fighting
 VILLAIN: (annoyed) You really are a persistent one, WEAK. But it's time to finish you off for good!
 HERO: I could say the same thing to you, monster. I took everything from someone very close to me and I'm willing to give it all back even if it costs my life!
-VILLAIN: Then I suppose this final strike will dictate who will be the victor..
-HERO: Agreed.....
+VILLAIN: Then I suppose this final strike will dictate who will be the victor.. (charges up special move)
+HERO: Agreed..... (charges up special move)
 super epic charge up
-HERO: (charges up a special move) I'm charging up my special move...
-Meanwhile Villain: (charges up a special move)
 VILLAIN: RAAAAAAAA!!!!!!!!!!! (Unleash your attack)
 Meanwhile HERO: RAAAAAAAA!!!!!!!!!!! (Unleash your attack)
-Music Stops
-explosion
-VILLAIN: (falls to the ground) I am defeated!
-Meanwhile HERO: (falls to the ground)
-HERO: (On the ground) Each breath... a struggle...
+Music Stops, explosion
+VILLAIN: (falls to the ground) GRAAA!
+Meanwhile HERO: (falls to the ground) GRAAA!
+HERO: (On the ground) It's over....
 VILLAIN: (gets up and growls) I never would have thought that a WEAK like you would have gotten this much power ever since EVENT...
 VILLAIN: (slowly walks to Hero) Let alone, I never would have thought someone like you to even survive in the first place....
 Meanwhile HERO: (struggles to get up)
+draw sword
 VILLAIN: (draws weapon) I guess I should finish you off for good. Now DIE!!!!
 ALLY: (enter Stage Right and immediately attack) HYAAAAH!!!!
 knife wound
 VILLAIN: GACK!!!! (falls to the ground)
 HERO: (To Ally) It's you!
-ALLY: (To hero) You look like you've been through a war... But you stood strong.
+ALLY: Long time no see! Man, look at you...
 HERO: (looks down) I know..... I look like a wreck don't I?
 emotional piano music
 HERO: I've always been a wreck.... I've let many people down because of my incompetence.... Worst of all, you had to suffer since EVENT because of my weakness.
@@ -12774,16 +12772,15 @@ ALLY: (Reassuring hug) No... you are not as weak as you think you are. I've seen
 ALLY: Like for instance, you were able to contend against a MONSTER. The same enemy that defeated our friend with little to no effort.
 ALLY: I am sorry that you felt this way. But what I'm most sorry, is that I've never got a chance to tell you this and that is....
 ALLY: POWER and I am very grateful to have you as my RELATION
-Music Stops
-anime sword gleam 1
-HERO: You believe in me? (cries in relief)
-ALLY: It's okay.... I'm here for you... (hug)
+Music Stops, anime sword gleam 1
+HERO: You believed in me? (cries in relief)
+ALLY: Yes.... and I never left that... It's okay.... I'm here for you... (hug)
 VILLAIN: (gets up, growling) and now look who decided to show up.....
 badass music 1
 ALLY: It seems like this guy doesn't have as much FUEL as before.
 Meanwhile HERO: (gets up)
 HERO: I too still don't have as much "FUEL" you know...
-ALLY: True, but at least you still have someone else on your side that is NUMBER FUEL.
+ALLY: True, but at least you still have someone else on your side that is NUMBER% FUEL.
 HERO: (chuckles) True that....
 draw sword
 HERO: (draws weapon) You're buying me STUFF after this.
@@ -12791,38 +12788,35 @@ draw sword
 ALLY: (draws weapon) That's if we both make out alive that is, my RELATION.
 draw sword
 VILLAIN: (draws weapon) This ends now, once and for all!
-VILLAIN: HIYAAHHH!!!
 HERO: (charges at the Villain) GRAAAAAAA!!!!
 Meanwhile ALLY: (charges at the Villain) HAAAA!!!!
 sword fighting
 VILLAIN: (Fighting) You persistent little...
 VILLAIN: I've defeated both of you in EVENT and I can do it again right now!!
 sword fighting
-ALLY: (Fighting It won't be the same like in EVENT! Unlike you, we have a purpose in life.
-HERO: (Fighting And we won't let some "monster" like you interfere our future!
+ALLY: (Fighting) It won't be the same like in EVENT! Unlike you, we have a purpose in life.
+HERO: (Fighting) And we won't let some "monster" like you interfere our future!
 sword fighting
 ALLY: The bond between my RELATION and I....
 HERO: Is what makes us stronger!
 knife wound
-VILLAIN: (Pain) Noo! (Crouches) No one has ever pushed me to my knees like this before!
-VILLAIN: This is impossible!
+VILLAIN: (Pain) Noo! (Crouches) No one has ever pushed me to my knees like this before! This is impossible!
 ALLY: (To hero) Let's finish this, my RELATION!!
 HERO: RIGHT!!!
 super epic charge up
-HERO: (Charges up weapon) This power, it courses through me for victory!
-Meanwhile ALLY: (charges up a special move)
+HERO: (Charges up weapon) TOGETHER!!!
+Meanwhile ALLY: (charges up weapon) TOGETHER!!!
 HERO: SPECIAL1!!!!
 ALLY: SPECIAL2!!!!
 HERO: Raa! (Unleash your attack)
 Meanwhile ALLY: Raa! (Unleash your attack)
-VILLAIN: Grah! This... cannot be my end... (dies)
-Teleport VILLAIN to Backstage
-explosion
-HERO: (Give a thumbs up to the Ally) Nice job.
-Meanwhile ALLY: (Give a thumbs up to the Hero)
+VILLAIN: Grah! This... bested by mere "children"? How droll! (dies)
+explosion, Teleport VILLAIN to Backstage
+HERO: (Give a thumbs up to the Ally) We did it...
+ALLY: (Give a thumbs up to the Hero) Yes we did indeed...
 Music Stops
-HERO: (collapses) The fight has drained me... but it was worth it.
-ALLY: (helps the Hero back up) Whoa there, Hero. You fought a hard battle. You must rest.
+HERO: (collapses) That was a tough battle. I honestly thought I would've died for sure.
+ALLY: (helps the Hero back up) Whoa there. You fought a hard battle. You must rest.
 bard music 2
 HERO: (weakened) So.... you going to buy me the STUFF?
 ALLY: (chuckles) Yeah of course I will, my RELATION.
@@ -13986,31 +13980,31 @@ VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
 CHARACTERS ================================
-HERO: The "revived" Hero:Backstage
-MONSTER: Monster:Stage Left
 WARRIOR: Hero's friend:On bridge
+MONSTER: Monster:Stage Left
+HERO: The "revived" Hero:Backstage
 SUGGESTIONS =============================
-ALLY: Relationship to anyone (i.e. family, friend, brother, etc.):mother, father, brother, friend
-SAD: A negative emotion:crying, upset, frustrated
-NAME: Name:Romeo, Juliet
-LOST: Something that you can lose:arm, soul, heart
-LOSE: Another way of saying "loser":loser, failure, coward
-SPECIAL: Special attack:Flurry Slash, Execution, Blast-phemy
-EVENT: An event:the attack, the invasion, Christmas
-MONSTER: A type of monster:Demon, Werewolf, Monster, Hobgoblin
-VILLAGE: A village name:Peace, LoveTown, Guildus
 WARRIOR: A type of warrior:Hunter, Warrior, Savior, Fighter
+VILLAGE: A village name:Peace, LoveTown, Guildus
+MONSTER: A type of monster:Demon, Werewolf, Monster, Hobgoblin
+EVENT: An event:the attack, the invasion, Christmas
+SPECIAL: Special attack:Flurry Slash, Execution, Blast-phemy
+LOSE: Another way of saying "loser":loser, failure, coward
+LOST: Something that you can lose:arm, soul, heart
+NAME: Name:Romeo, Juliet
+SAD: A negative emotion:crying, upset, frustrated
+ALLY: Relationship to anyone (i.e. family, friend, brother, etc.):mother, father, brother, friend
 SCRIPT ==========================================
 epic fantasy music 1
-MONSTER: (Intimidating roar at the heroes) Graaah!
+MONSTER: (Intimidating roar at the hero) Graaah!
 WARRIOR: (tired) This MONSTER doesn't know when to quit! But I shouldn't quit either!
 WARRIOR: I'll have to attack with everything I got for me to even have a chance against this MONSTER!
 WARRIOR: For the village of VILLAGE!
 sword fighting
-WARRIOR: (Strike monster several times) Take this! And this!
+WARRIOR: (Strike monster several times) Now for the finishing blow!
 super epic charge up
-Music stops
-explosion
+WARRIOR: HA!
+Music stops, explosion
 MONSTER: Rawr! (Defeated groaning, falls down)
 WARRIOR: Is it dead?
 MONSTER: (Gets up, angrier) Grrrrrr...
@@ -14019,60 +14013,58 @@ WARRIOR: What?! No way! I gave everything I got against this MONSTER and it had 
 super epic charge up
 MONSTER: ROAR!! (Swipe at the hero dramatically)
 explosion
-WARRIOR: (Wounded) The power... it's too much! (collapses)
-WARRIOR: (struggles to get up) No.... The children in the village of VILLAGE need me....
-WARRIOR: (Strained) ... Is this the end?
-Music stops
-gunshot
+WARRIOR: Ah! (Collapses) The power... it's too much!
+WARRIOR: (struggles to get up) No.... The children in the village of VILLAGE need me.... Is this the end?
+Meanwhile MONSTER: (Walks VERY slowly to the middle of the bridge)
+Music stops, gunshot
 MONSTER: (Staggers from gunshot) ROAR!
-HERO: (Enter the stage pointing smoking gun) Behold, creature of darkness, your reckoning approaches!
+HERO: (Enter the stage pointing weapon at the monster) Seems like I entered just in time...
 epic fantasy music 3
 WARRIOR: (Surprised) You're alive?! But how?!
-HERO: Don't worry, brave warrior. I'll take care of this.
-HERO: Stand back. It's time to end this nightmare once and for all.
+HERO: ...I'll take care of this. It's the least I could do...
 MONSTER: Roar! (Attack the hero, but it has no effect) R- roar???
 Meanwhile HERO: (Effortlessly deflect and brush off the MONSTER's attack)
-HERO: (Smug) Heh. You'll have to do better than that, monster!
 sword fighting
+HERO: If I keep this up, this would be troublesome. I'll have to finish this now.
 HERO: (charges up attack) SPECIAL... Attack!
 super epic charge up
 HERO: (Stab monster) Hi-ya!
 anime sword gleam 3
-MONSTER: (Fatally injured) R...roar! Immpossible! (dies)
-explosion
-Teleport MONSTER to Backstage
-HERO: (Approach warrior) Fear not, warrior; by my hand, your wounds shall mend.  (Apply bandage)
+MONSTER: R...roar! (dies)
+explosion, Teleport MONSTER to Backstage
+HERO: (Approach warrior) Don't move... This will be quick... (heals warrior)
 magic sound
 WARRIOR: (fully healed and refreshed) Thank you so much. I am in your debt.
-HERO: My work here is done, but the path I walk is a solitary one. (Slowly walk toward the exit)
+HERO: Yea... But I must go. Just... don't end up doing something reckless. (Slowly walk toward the exit)
 WARRIOR: Wait...
 Meanwhile HERO: (stop in place)
 Music Stops
-WARRIOR: How did you manage to survive EVENT?
-WARRIOR: We all thought you died at EVENT.... and also... you've completely changed...
+WARRIOR: How did you manage to survive EVENT? We all thought you died at EVENT.... and also... you've completely changed...
 HERO: (Dramatic, back turned) I can't say myself how I survived EVENT and honestly, it would've been better if I did die...
 WARRIOR: Why would you say that? Every WARRIOR deserves to live.
 HERO: But I'm no WARRIOR like you guys.... I am nothing but a LOSE....
-HERO: Especially since someone very close to me lost his- or her- LOST because I couldn't get the job done...
+HERO: Especially since someone very close to me lost his/her LOST because I couldn't get the job done...
 WARRIOR: Someone close to you? Who?
-HERO: It's a wound too deep for words, one I cannot yet speak of.
+HERO: I don't want to talk too much detail about it...
 WARRIOR: It's NAME. Isn't it?!
-HERO: (shocked) How... how could you possibly know that!?
-WARRIOR: (Approach and stares Hero in the face) You're SAD....
+HERO: (shocked and griefed in pain) Don't.... mention that name...
+WARRIOR: It is NAME...
+Meanwhile HERO: Shut up!
+HERO: (turns around) What's it matter to you?!
+WARRIOR: (stares Hero in the face) You're SAD....
 scary music
 HERO: (SAD) Of course I'm SAD! Do you have any idea how it feels to betray someone's expectations?! Do you?!
 WARRIOR: I.... uh...
 HERO: NAME cared for me, nurtured me, and believed me. I saw NAME as a true ALLY
-HERO: NAME always told me that I'm destined for "greatness" but I couldn't compare with everyone else at the village of VILLAGE!
+HERO: NAME always told me that I'm destined for "greatness" but I couldn't compare with everyone else at the village of VILLAGE! I couldn't...
 HERO: And every failure, I saw the disappointment in NAME's eyes and that affected me as well.
 HERO: And then EVENT happened and the lost of NAME's LOST, was the final nail in the coffin...
 HERO: (looks down) It should've been me.... that's why I'm willing to give back everything that NAME lost even if it costs my life...
-HERO: Someone like me would hardly matter in this world.... I made NAME lose all faith in me... (Exit)
+HERO: Someone like me would hardly matter in this world.... I made NAME lose all faith in me...
 WARRIOR: (nervously) B-but... NAME.... has....
 Meanwhile HERO: (exits)
-WARRIOR: ...NAME still sees the potential in you!!! He (or she) has not lost faith in you!!
-WARRIOR: ....And never will....
 Music Stops
+WARRIOR: ...NAME still sees the potential in you!!! He/She has not lost faith in you!! ....And never will....
 
 ======
 
@@ -15691,7 +15683,7 @@ PRISONER: I'll never tell you! You'll never defeat us!
 ROBOT: Oh, but we will. That pitiful NUMBER we killed when we abducted you was only the beginning. We will destroy all humans.
 PRISONER: Is that so? All humans?
 ROBOT: Yes, all humans.
-PRISONER: (Point to fake robot) Then what about that one over there?
+PRISONER: (Point to fake robot near the door) Then what about that one over there?
 ROBOT: That is a robot.
 FAKER: Huh? What? Y-Yeah! N-No human here! I'm just your standard old robot!
 PRISONER: You're literally wearing a robot costume from STORE!
@@ -15715,7 +15707,7 @@ ROBOT: Are you a robot?
 PRISONER: No, of course not! I'm a human!
 ESCAPEE: I'm a robot!
 ROBOT: You're a robot?! My apologies. You are free to go.
-ESCAPEE: Sweet, thanks! I'm gonna go get some FAST FOOD. *exit happily*
+ESCAPEE: Sweet, thanks! I'm gonna go get some FAST FOOD. (exit happily)
 PRISONER: Wh- They're not... You know what? How about this?
 PRISONER: You robots have no feelings, right? No emotions, nothing like that?
 ROBOT: That is correct. No feelings whatsoever.
@@ -15730,7 +15722,7 @@ ROBOT: Location confirmed. Commencing PLAN! (evil laughter before falling to the
 alien teleport
 silly music 2
 PRISONER: Wh-What just happened?! A-Are they dead?
-ESCAPEE: *carrying a COMPUTER* Hey guys! I yanked out the COMPUTER from the mainframe so... robot invasion over I guess? You're welcome.
+ESCAPEE: (carrying a COMPUTER) Hey guys! I yanked out the COMPUTER from the mainframe so... robot invasion over I guess? You're welcome.
 PRISONER: The COMPUTER?! Of course! Why didn't I think of that?
 PRISONER: FAMOUS! Thank you so much! You've saved us all! How could we ever repay you?
 ESCAPEE: Y'all wanna get some FAST FOOD?
@@ -16608,113 +16600,6 @@ Laughter
 ======
 
 INFORMATION ===============================
-ID: 491
-TITLE: Restless Clash
-AUTHOR: GioGioDaGiostar
-VERIFIED: True
-TAGS: Skit
-SET: Forest Bridge
-CHARACTERS ================================
-OLD: Older Brother:On bridge
-YOUNG: Younger Brother:Entrance Stage Right
-THESON: Older Brother's Son:Backstage
-SUGGESTIONS =============================
-SIBLING: A familial relationship:sibling, uncle, sister
-DEAD: An insulting name:deadweight, poopyhead, dummy
-FACADE: An alias:V, John Doe, Qtaro
-DAD: A familial relationship:father, son, cousin
-WEAPON: A name of a weapon (such as Rebellion, Bloodlust, etc.):Yamato, Murasama, Devil Sword
-ACTION: A two word action:portal-open, strike-out, high-tide
-BROTHER1: Name the older brother:Vergil, Samuel, Seth
-BROTHER2: Name the younger brother:Dante, Jack, John
-FAMILY: A familial relationship:son, nephew, aunt
-ARM: A body part:arm, neck, leg
-SON: Name the son:Nero, David, Billy
-BONE: A body part:skull, brain, nose
-SCRIPT ==========================================
-YOUNG: (Enter stage right) Hey BROTHER1, your ACTIONing days are over. Give me the WEAPON.
-Meanwhile OLD: (Sit facing stage left)
-OLD: (Slowly stand up and face BROTHER2) If you want it, then you'll have to take it.
-OLD: But you already knew that.
-YOUNG: I had a feeling you'd say that. (Draw weapon)
-epic cinematic music
-draw sword
-OLD: How many times have we fought?
-YOUNG: (Rest weapon on shoulder) Hard to say. It's the only memory I have of us since we were kids. (Vocalize a smile)
-OLD: (Vocalize a smile)
-YOUNG: It's time to finish this, BROTHER1! (Hold weapon out) Once and for all.
-OLD: (Point weapon at BROTHER2) I won't lose to the likes of you... little SIBLING.
-sword fighting
-YOUNG: (Swing weapon wildly at BROTHER1)
-Meanwhile OLD: (Swing weapon wildly at BROTHER2)
-Music stops
-YOUNG: (Slide back) You cut off your own FAMILY's ARM for this?
-Meanwhile OLD: (Slide back)
-OLD: SON... is my FAMILY?
-Meanwhile THESON: (Climb up the backstage ladder and get ready to drop down)
-YOUNG: Yeah, dumbass. Can't remember through that thick BONE of yours?
-OLD: Well, well... that was a long time ago.
-YOUNG: (Laugh) I guess you were young once too.. and as much as I'd love to hear that story, I think it's about time we..
-OLD: Ended this? (Prepare weapon)
-super epic charge up
-YOUNG: (Prepare weapon)
-OLD: (Charge toward BROTHER2)
-Meanwhile YOUNG: (Charge toward BROTHER1)
-explosion
-THESON: (Drop down between BROTHER1 and BROTHER2, and hold them back)
-OLD: This is.. curious.
-YOUNG: SON?
-THESON: (Push both back)
-OLD: (Slide back) What form of power is this..?
-Meanwhile YOUNG: (Slide back)
-YOUNG: What the hell?
-THESON: This ends, right here.
-YOUNG: (Approach SON) Listen to me, I told you already. This is not your battle.
-THESON: (Slap BROTHER2)
-Meanwhile YOUNG: (Fly back)
-THESON: You listen, DEAD. I won't let you kill each other.
-THESON: There are other ways of settling your differences.
-THESON: I'm putting a stop to the SIBLING rivalry.
-OLD: (Laugh) You came all this way, just for that?
-THESON: BROTHER1, FACADE, whatever you call yourself. BROTHER2's not gonna die here, and neither are you.
-THESON: You got a problem with that?
-YOUNG: 'Not gonna die', my ass.. that bitch-slap nearly killed me.
-OLD: (Look at BROTHER2) If I beat SON, then by default, I beat you. Agreed, BROTHER2?
-YOUNG: Whatever... I don't really care... I'm just gonna sit this one out. (Lay down)
-epic cinematic music
-THESON: When this is over.. I'll make you submit, DAD. (Crack your knuckles and draw your weapon)
-OLD: This has nothing to do with you, stand down.
-THESON: Nothing to do with me? It has everything to do with me! (Back up a little)
-OLD: SON...
-THESON: Screw you! (Rush towards BROTHER1)
-sword fighting
-OLD: (Swing weapon wildly at SON)
-Meanwhile THESON: (Swing weapon wildly at BROTHER1)
-THESON: (Continue swinging) Feeling accepting yet?
-OLD: (Continue swinging) Of your existence, or your strength?
-THESON: (Continue swinging) Both, you son of a bitch!
-knife wound
-THESON: (Stab BROTHER1)
-Meanwhile OLD: (Stop swinging, get stabbed)
-Music stops
-OLD: Interesting...
-YOUNG: (Laugh, slowly get up) Oh, brother... you cut off your FAMILY's ARM for more power.. and you still lost. (Chuckle)
-THESON: (Pull weapon out of BROTHER1) Enough, damnit! The scuffle's over, let's just go our ways, and remember how we got humbled today.
-OLD: I can still fight... but if we stay here with him... (Point at SON) he'll just interfere with our business.
-YOUNG: Now that's the smartest thing I've ever heard you say... (Slowly approach BROTHER1) Better hurry up, we still have a score to settle.
-OLD: Evidently.
-THESON: Where are you going?
-YOUNG: Away from you. (Slowly walk away)
-OLD: Where we can settle this in private. (Walk with BROTHER2)
-THESON: (Run after BROTHER1 and BROTHER2) Hey, wait!
-YOUNG: (Stop SON) Let us have this.. Take care, SON... Adios. (Exit stage left)
-OLD: (Turn to SON) I won't lose next time.
-OLD: (Give SON something) Hold onto that until then.
-OLD: (Exit stage left)
-
-======
-
-INFORMATION ===============================
 ID: 492
 TITLE: You owe me
 AUTHOR: TheyLuvStrawbyy
@@ -16902,24 +16787,24 @@ ID: 495
 TITLE: Psychic Arrest
 AUTHOR: Senty
 VERIFIED: True
-TAGS: 
+TAGS: Skit
 SET: Interrogation Room
 CHARACTERS ================================
-BADCOP: The Bad Cop:Corner Left
-WORSECOP: The Worse Cop:Center Stage
-INTERN: An underpaid police intern:Backstage
 PSYCHIC: A psychic who's shorter than everyone else in the room:Backstage
+INTERN: An underpaid police intern:Backstage
+WORSECOP: The Worse Cop:Center Stage
+BADCOP: The Bad Cop:Corner Left
 SUGGESTIONS =============================
-MCSTARBUCKS: The name of a fast food place the cops like going to a lot:McDonald's, Starbucks, Dunkin' Donuts, Five Guys, Six Guys, Four Guys, Cops R Us, City Hall
-JAILTIME: The duration of a prison sentence. (It should end in either years, months, days, hours, etc.):69 years haha, 1 hour, 525960 minutes, idk how many years, way too many seconds, a lot of hours I think
-CRUELPUNISH: A VERY cruel punishment:Watch all of The Lord of The Rings back-to-back, Watch Star Wars Episode 9, Join a public VRC instance, Lose internet for a week
-STUMPYSHORT: A mean thing to call a short person:Stumpy, Squeak, Itty Bitty, Lil' Man, Napoleon, Danny Devito, Mini, Frodo
-COPDRINK: The cop's favorite drink:Coffee, Overpriced Starbucks, Criminals' Tears, Monster Energy, Saltwater, Caprisun, Mountain Dew
-COPSNACK: A tasty snack (Plural):Donuts, Pizza, Fries, Cupcakes, Jalapeno Poppers
-PSYNAME: A name for a powerful psychic...Or just someone who's short.:Sabrina, Will, Robin, Caitlin, Torbjorn, Ness, Lucas, Ashley
-BADCOPNAME: A food item known for being sour:Lemon, Warheads, Kimchi, Lime, Vinegar, Kombucha, Citrus
-WORSECOPNAME: A food item known for being bitter:Ginger, Spoiled Milk, Celery, Kale, Cabbage, Brussel Sprout, Kale
 AWFULCRIME: A nasty, awful crime:Murder, Vandalizing Wikipedia, Burning an Orphanage, Paying With Exposure, Kicking A Puppy, Keying A Car, Starting a Pyramid Scheme
+WORSECOPNAME: A food item known for being bitter:Ginger, Spoiled Milk, Celery, Kale, Cabbage, Brussel Sprout, Kale
+BADCOPNAME: A food item known for being sour:Lemon, Warheads, Kimchi, Lime, Vinegar, Kombucha, Citrus
+PSYNAME: A name for a powerful psychic...Or just someone who's short.:Sabrina, Will, Robin, Caitlin, Torbjorn, Ness, Lucas, Ashley
+COPSNACK: A tasty snack (Plural):Donuts, Pizza, Fries, Cupcakes, Jalapeno Poppers
+COPDRINK: The cop's favorite drink:Coffee, Overpriced Starbucks, Criminals' Tears, Monster Energy, Saltwater, Caprisun, Mountain Dew
+STUMPYSHORT: A mean thing to call a short person:Stumpy, Squeak, Itty Bitty, Lil' Man, Napoleon, Danny Devito, Mini, Frodo
+CRUELPUNISH: A VERY cruel punishment:Watch all of The Lord of The Rings back-to-back, Watch Star Wars Episode 9, Join a public VRC instance, Lose internet for a week
+JAILTIME: The duration of a prison sentence. (It should end in either years, months, days, hours, etc.):69 years haha, 1 hour, 525960 minutes, idk how many years, way too many seconds, a lot of hours I think
+MCSTARBUCKS: The name of a fast food place the cops like going to a lot:McDonald's, Starbucks, Dunkin' Donuts, Five Guys, Six Guys, Four Guys, Cops R Us, City Hall
 SCRIPT ==========================================
 noir music 1
 WORSECOP: Is the culprit ready?
@@ -19990,30 +19875,30 @@ VERIFIED: True
 TAGS: Skit,Infomercial
 SET: Living Room
 CHARACTERS ================================
-PERSON1: Person giving testimonial:Entrance Stage Right
-PERSON2: Satisfied customer:Backstage
-LAW1: Lawyer 1:Backstage
-LAW2: Lawyer 2:Backstage
+LAW2: Lawyer 2:Entrance Stage Left
+LAW1: Lawyer 1:Entrance Stage Right
+PERSON2: Satisfied customer:Entrance Stage Right
+PERSON1: Person giving testimonial:Couch
 SUGGESTIONS =============================
-BODY1: An unusual body part:Spleen, Nostril, Uvula, Pituitary Gland, Frenulum
-BODY2: Part of the body that hurts to stub:Funny Bone, Thumb, Knee, Toe, Face
-FURN: A peculiar furniture piece:End table, Umbrella stand, Shoe tree, Toothbrush holder
-LAWFIRM: A name of a "Legit" Legal Firm:Stab'n'Slab Law Clinic, Bean & Burrito Legal Association, MoneyPlease Attorney Network 
-TVSHOW: Title of an embarrassing TV show:Boy Kisser Island, The Potato Batchelor, All My Nuggets, Taidums Gone Wild 
-MONEY: Another word for money:Moola, a side of lettuce, Scrooge McDuck'n, Shinies
-COMP: A type of computer:Gaming, Fast, Fancy, Expensive, Nerdy
-OOF: Word you exclaim when hurt:Oh my!, Ouch!, That Smarts!, I got hurt just now!
 RELATE: Someone in relation to you:Landlord, Grandma, Coworker, Dance instructor
+OOF: Word you exclaim when hurt:Oh my!, Ouch!, That Smarts!, I got hurt just now!
+COMP: A type of computer:Gaming, Fast, Fancy, Expensive, Nerdy
+MONEY: Another word for money:Moola, a side of lettuce, Scrooge McDuck'n, Shinies
+TVSHOW: Title of an embarrassing TV show:Boy Kisser Island, The Potato Batchelor, All My Nuggets, Taidums Gone Wild 
+LAWFIRM: A name of a "Legit" Legal Firm:Stab'n'Slab Law Clinic, Bean & Burrito Legal Association, MoneyPlease Attorney Network 
+FURN: A peculiar furniture piece:End table, Umbrella stand, Shoe tree, Toothbrush holder
+BODY2: Part of the body that hurts to stub:Funny Bone, Thumb, Knee, Toe, Face
+BODY1: An unusual body part:Spleen, Nostril, Uvula, Pituitary Gland, Frenulum
 SCRIPT ==========================================
 SAD CHUG JUG MUSIC
-PERSON1: (Address the audience) It was supposed to be the best day of my life.
+PERSON1: (Face and address the audience) It was supposed to be the best day of my life.
 PERSON1: I just finished building my brand new COMP computer.
 PERSON1: And my VR equipment arrived in the mail!
 PERSON1: It even came with full BODY1 Tracking!
 PERSON1: I Put the headset on and started playing VRChat, and that's when it happened.
 PERSON1: (Bump into an object you can't see. Ouch!) OOF
 CRASHING DEBRIS
-LAW1: (Enter stage right and address the audience) This tragic tale happens more often than you'd think.
+LAW1: (Enter from stage right and address the audience) This tragic tale happens more often than you'd think.
 LAW1: Each day, tens of players using VR equipment slam into everyday objects they just couldn't see.
 LAW1: Desks, small tables, FURN, and more are unseen hazards we all know.
 LAW2: (Enter from stage left addressing the audience) Have you recently been injured in a VR accident?
@@ -20022,7 +19907,7 @@ COURTROOM MUSIC
 LAW1: Here at LAWFIRM we fight for you and your rights!
 LAW2: We're fired up and we mean business!
 LAW2: Listen to this testimonial from a satisfied client (motion to stage right).
-PERSON2: (Enter Stage Right and address the audience) When I crashed my BODY2 into my TV, I was bummed
+PERSON2: (Enter from Stage Right and address the audience) When I crashed my BODY2 into my TV, I was bummed
 BREAK DOWN DOOR
 PERSON2: I was out of work that one whole day and I was out of a TV.
 PERSON2: But LAWFIRM took on the spoopy insurance company and even got me a new TV!
@@ -20030,7 +19915,6 @@ PERSON2: They gave me an attorney and handled everything.
 PERSON2: It was easy, and so fast, too.
 PERSON2: I didn't miss a single episode of my favorite TV show, TVSHOW!
 LAW1: You might think that VR is a lawless hellscape.
-FIRE ALARM
 LAW1: And for the most part you'd be right.
 LAW2: But LAWFIRM has justice and legs!
 Meanwhile LAW1: (Make kicking motions to show your legs)
@@ -20038,7 +19922,7 @@ LAW1: (Yell and draw out the word out) Justice!
 LAW2: Here's a testimonial from a satisfied returning client.
 PERSON1: When I fell down a flight of stairs, I broke my VR gear.
 PERSON1: And broke my BODY1.
-VINE BOOM
+CRASHING DEBRIS
 PERSON1: LAWFIRM got me cash MONEY fast.
 PERSON1: I was out of the hospital in no time!
 PERSON2: I got my MONEY and sued my RELATE for some reason!
@@ -20130,18 +20014,18 @@ VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
 CHARACTERS ================================
-PATIENT: Person being diagnosed:Examination Table
-DOCTOR: The doctor:Stool
 ALIEN: Alien:Backstage
+DOCTOR: The doctor:Stool
+PATIENT: Person being diagnosed:Examination Table
 SUGGESTIONS =============================
-BILL: A large number:356, 987, 164
-MONEY: A number under 20:3, 5, 15
-COMPANY: A company :Company inc, Bottle Co, Facebook
-MONSTER NAME: A name for something ugly:Horace, Xinjiang, Dyon
-PRODUCT: A name of a product:Cleenex, Cheese puffs, Caramel
-DR NAME: A goofy doctor name:Dr. Doof, Dr. Fridley, Dr. Doctor
-PERSON NAME: The name of a man:Bob, Ryan, Chris
 SPECIES NAME: The species for a monster:Xenomorph, Conespear, Chilaplia
+PERSON NAME: The name of a man:Bob, Ryan, Chris
+DR NAME: A goofy doctor name:Dr. Doof, Dr. Fridley, Dr. Doctor
+PRODUCT: A name of a product:Cleenex, Cheese puffs, Caramel
+MONSTER NAME: A name for something ugly:Horace, Xinjiang, Dyon
+COMPANY: A company :Company inc, Bottle Co, Facebook
+MONEY: A number under 20:3, 5, 15
+BILL: A large number:356, 987, 164
 SCRIPT ==========================================
 Jazz music 1
 DOCTOR: Hello, my name is DR NAME and how can I help you?
@@ -20175,7 +20059,7 @@ ALIEN: What are you guys talking about?
 PATIENT: Nothing important.
 Meanwhile DOCTOR: Nothing much.
 ALIEN: OH YEAH, now I remember why I'm here!
-ALIEN: My name is MONSTER NAME the MONSTER SPECIES and I'm here on behalf of COMPANY here to sell you PRODUCT.
+ALIEN: My name is MONSTER NAME the Alien and I'm here on behalf of COMPANY here to sell you PRODUCT.
 PATIENT: I am flabbergasted.
 Meanwhile ALIEN: (Stand next to the door)
 DOCTOR: I really thought this was going to some cliche alien encounter.
@@ -20990,6 +20874,214 @@ SCHMUKUS: Yup.
 CHUCK: And what about that time you broke into the local STORE
 SCHMUKUS: No more questions please folks. I'm getting kinda hungry (looks at the campers and rubs big belly)
 CHUCK: Run!! (Exit stage)
+
+======
+
+INFORMATION ===============================
+ID: 637
+TITLE: The Unbelievable Update 
+AUTHOR: тaсo
+VERIFIED: True
+TAGS: Skit
+SET: News
+CHARACTERS ================================
+ANALYST: Dr. Emily Parker, Analyst:Backstage
+REPORTER: Mike Roberts, News Reporter:Fake Street Backdrop
+ANCHOR: Jane Smith, News Anchor:News Desk
+SUGGESTIONS =============================
+CREATURE: A strange creature or being:Jackalope, Chupacabra, Bunyip, Wendigo, Elmo from Sesame Street
+WEATHER: An unusual weather phenomenon:Fire whirls, Catatumbo lightning, Blood rain, raining cockroaches
+CITY: Any city name, real or fictional:Willowbrook heights, New York, Harborview bay, San Francisco
+FOOD: A tasty food:Gourmet donuts, tacos, canned olives, sardines, banana pudding, cool whip
+EVENT: An event :Music festival, Game night, art walk, public execution
+TECH: A technological advancement :Robotic pets, Quantum computing, Virtual Reality Chat
+DISCOVERY: A ancient relic:Rosetta stone, crusty sock, the uncensored statue of david
+CELEBRITY: A celebrity :Chris Pratt, Drake, Taylor swift, Eminem, Barack Obama
+MOVIE: A moive name :The super Mario movie, Cars, kronks new groove 
+SCRIPT ==========================================
+world news intro
+ANCHOR: Good evening, Viewers. I'm Jane Smith, your beacon of truth in this sea of uncertainty.
+shark tank discussion music 1
+ANCHOR: Tonight, we bring you a broadcast like no other, filled with intrigue, wonder, and a dash of bizarre.
+ANCHOR: But first, let's dive into our top story with our fearless field reporter, Mike Roberts.
+ANCHOR: Mike, what's the latest from the field?
+REPORTER: Thanks, Jane. I'm here at the heart of CITY
+REPORTER: where citizens are abuzz with the talk of unprecedented WEATHER and sightings of a peculiar strange CREATURE on the loose.
+REPORTER: Let me tell you, Jane, I've seen some strange things in my time as a reporter, But nothing quite like this!
+REPORTER: It's like the city's gone through a cosmic blender and ended up with a smoothie of bizarre.
+REPORTER: And speaking of bizarre, have you heard about the latest craze sweeping through CITY ?
+REPORTER: It's called FOOD , And let me tell you. It's got everyone eating out the palm of there hands!
+ANCHOR: Thank you, Mike, For your fearless reporting...
+TELEPORT ANALYST to News Desk
+ANCHOR: Now the person next to me is Dr. Emily Parker, Our resident analyst, to delve deeper into the implications of these developments.
+ANCHOR: Dr. Parker, What can you tell us about the potential impact on our city and its inhabitants?
+ANALYST: Jane, the appearance of the strange CREATURE and the anomalous WEATHER raises profound questions about the fabric of reality itself.
+ANALYST: We must consider the possibility of parallel dimensions, cosmic interference, or even extraterrestrial intervention!
+ANALYST: But let's not forget the EVENT happening tomorrow here in CITY !
+ANALYST: It's a chance for our community to come together and celebrate everything that makes our city great.
+REPORTER: Hold on a second. Dr. Parker. Are you suggesting we're dealing with some kind of intergalactic menagerie here in CITY ?
+REPORTER: Because I've got to say, That would be one heck of a story! I can already see the headlines "City of wonders : CREATURE among us?"
+waterphone
+REPORTER: And speaking of wonders, have you heard about the latest TECH ? I mean it's a game-changer Jane, A REAL GAME-CHANGER!
+shark tank serious music 1
+ANALYST: Well, Mike, I wouldn't rule out anything at this point.
+ANALYST: The universe is a vast and mysterious place, and we've only scratched the surface of what lies beyond our understanding.
+shark tank positive music
+ANCHOR: Fascinating insights Dr. Parker. Now let's shift our focus to a recent DISCOVERY that has archeologists buzzing with excitement!
+ANCHOR: Our team uncovered this DISCOVERY , and its dating back to thousands of years, shedding new light on our city's past.
+REPORTER: Absolutely riveting, Jane. It's incredible to think about the rich history hidden beneath our feet.
+REPORTER: And speaking of hidden treasures, have you heard about CELEBRITY , who's been spotted wandering the streets incognito?
+REPORTER: Rumor has it they're filming their latest blockbuster, MOVIE, and fans are going wild trying to catch a glimpse.
+ANALYST: Indeed, Mike, it's always fascinating when the past intersects with present in unexpected ways.
+ANALYST: Whether it's ancient relics or modern day icons, Our city is a melting pot of culture.
+Anchor: Absolutely, Dr. Parker. As the city grapples with these unprecedented events, one thing is certain...
+ANCHOR: We will continue to bring you the latest updates, the most compelling stories, and the truth, no matter how strange or unbelievable.
+ANCHOR: Stay tuned, dear viewers, for the adventure of a lifetime!
+world news outro
+ANCHOR: I'm Jane Smith. Signing off. Goodnight, everyone.
+
+======
+
+INFORMATION ===============================
+ID: 648
+TITLE: New Product!
+AUTHOR: TiffanyMoon
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+CHARACTERS ================================
+PROTO: A clumsy yet lovable tinkerer:Office Chair 2
+HELPER: A Dedicated Young Helper:Office Chair 1
+BOSS: A Hard-Working Boss:Boss Chair
+SUGGESTIONS =============================
+ENGINEER: A job:engineer, plumber, waiter
+FIGHTING: An action with an "ing" ending:fighting, rolling, morphing
+FACE: A body part:face, chest, knee
+CAR: A vehicle:car, train, boat
+TIME: A time of day:evening, 2 00 PM, afternoon
+BUILDING: A building:store, apartment complex, office building
+FISH: An aquatic creature:shark, dolphin, crab
+TOOL: A tool:screwdriver, hammer, drill
+TOY: A generic toy:Spinning top, Dinosaur,  Car
+NAME: A name:John, Smith, Adam
+SCRIPT ==========================================
+corporate guitar music
+BOSS: Okay, team. We need to send out a new product, and fast. The people want more of NAME 's Trinkets!
+HELPER: How about this idea, boss? What about a brand-new turbo powered TOY?
+BOSS: Turbo-powered? How would that work for a TOY
+PROTO: I know! We put it in by using a TOOL!
+BOSS: That could work! Let's shelf that idea for now and move on.
+PROTO: What about a solar powered FISH?
+BOSS: Hmmm... I'm not sure if that'll work.
+PROTO: Oh but it will! I have a prototype here! (sets a tub of water and the product on the table)
+music stops
+tada
+HELPER: Interesting! You said this is solar powered?
+PROTO: It is! When it goes in the water like this... (set the product in the tub of water)
+HELPER: But it's not doing anything...
+BOSS: Does it need to be activated?
+PROTO: It does! Press the button... (poke the product)
+explosion
+groose music
+PROTO: Well that idea didn't go so well...
+BOSS: You think?! This whole BUILDING could have gone up in flames from that explosion!
+HELPER: I think's it's because water and electricity don't mix.
+PROTO: I guess so... I do have another idea that will-
+BOSS: No. I think we need to wrap up for now. It's already late in TIME. Any other ideas before we go home?
+HELPER: What about a wind-up CAR? Kids always love those!
+BOSS: True. That's a good one. What about you? Any other ideas that won't explode in my FACE?
+PROTO: I don't have it with me, but I do have a FIGHTING robot back at home.
+BOSS: A FIGHTING robot? Geez... That's a bit much to wrap my head around. Let's wrap up here and go home. (Exit the room)
+HELPER: Well... I'm sure it's a nice FIGHTING robot. I'd love to see it.
+PROTO: Really?
+HELPER: No. (Exit the room)
+PROTO: (sigh) Well now what am I supposed to do? My business degree isn't helping.
+BOSS: (Enter the room) Maybe you could be an ENGINEER? I overheard your dilemma.
+PROTO: Really? You think so?
+BOSS: Sure! I know some great people that can help you with that tinkering you do.
+BOSS: You'd make a great ENGINEER! (Share their hand) Welcome aboard!
+Meanwhile PROTO: (Shakes boss's hand)
+
+======
+
+INFORMATION ===============================
+ID: 650
+TITLE: Obscure Potion
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+CHARACTERS ================================
+SELL: Seller of potions:Center Stage
+ADV: Experienced adventurer:Entrance Stage Left
+COM: Worried companion:Backstage
+SUGGESTIONS =============================
+LOCATION: a place, real or fictional:Marley, Eldia, France, The MCU, Pokemon-land
+MEMBER: a username of an audience member:Little boy, Little girl, Quest user, Annoying child
+NAME: a name of a crazy person:Goobert, Hinga-tinga-durgen, Eren Yeager, Optimus Prime
+MINOR: a small injury:Skinned knee, Hang-nail, Stubbed toe, Eyelash in your eye
+CLASS: a fantasy or D&D race/class:Dwarf, Mage, Warrior, Priest, Necromancer, Acrobat, Elf
+MAJOR: a detailed way to be violently killed instantly:Decapitated, De-gloved, De-rizzed, Became a puddle
+HEALING: a type of potion:transform into a banana, extra limbs, bleach, depression
+FAMILY: a family member:Grandma, Grandpa, Big Ogre, Step-bro, Megatron
+FLUID: a bodily fluid:human juice, honey, tears
+MONEY: an amount of any currency:1 Zeni, 2 Pound, 300 Yen, 4 Dollars, 5 Euro, 600 V-Bucks, 7 Coin
+PARK: a real or fake theme park:Chessington World of Adventures, Thorpe Park, Blackpool Pleasure Beach
+VRCHAT: a thing people do in VRchat:ERP, Look at mirrors, Stay on orange status, Be mute in a social game, Hate themselves
+SCRIPT ==========================================
+bard music
+SELL: (look at audience) Greetings to you all! I come from the far-off land of LOCATION!
+SELL: I have many wares to show you, so lets get started. (rummage in pockets)
+SELL: Ah! (point to MEMBER) I thought about you in particular when I found this potion, MEMBER!
+music stops
+ADV: There you are, I've finally found you!
+SELL: Oh no. I've heard about you.
+SELL: You're NAME aren't you...
+ADV: Shut up. I just want that HEALING potion.
+vine boom
+ADV: I know you have it in stock. Relinquish it now, or else....
+thunder
+teleport COM to Stage Right
+COM: ... we will send you back to LOCATION with a MINOR.
+waterphone
+SELL: Oof!
+ADV: Muhahahaha!
+COM: Say..... NAME?
+ADV: Hm? What?
+COM: Is a acquiring a potion of HEALING really a top priority for us right now?
+COM: I mean, we just lost our CLASS friend.
+ADV: Yeah, yeah. They got MAJOR right in front of you. blah blah. (shrug)
+COM: (sniff and rub tear from face) I loved them. (cry pathetically)
+sad chug jug music
+ADV: Anyway, just give me that HEALING potion and you can get back to your show.
+SELL: NAME, I'm going to be honest as you're both clearly grieving.
+SELL: There is no HEALING potion.
+vine boom
+COM: I knew it. (sniffle)
+ADV: No! My FAMILY read me bedtime stories about it, you're a liar! (point)
+SELL: (hands up) Its true, i swear. The closest potion I have to anything of that description is...
+SELL: (rummage through pockets) This potion of FLUID.
+vine boom
+ADV: How much?
+SELL: I don't think that you really want this.
+ADV: (angry) How much?
+SELL: MONEY.
+ADV: Companion, Give them MONEY.
+COM: B-But NAME.. This MONEY was all that CLASS gave me.
+ADV: (even angrier) Do it!
+COM: (sadly hand over the money)
+SELL: (take money then give potion to adventurer) Do you want a bag?
+scary music
+ADV: Nope! (drink whole potion)
+COM: Oh no..
+ADV: Wahoo! I'm going go to PARK! (run off stage)
+COM: Wait for me! (follow adventurer)
+SELL: Well then....
+bard music
+SELL: (look back at MEMBER in the audience)
+SELL: So, MEMBER, I have this potion of VRCHAT for you and your friends to enjoy!
+SELL: It only costs one month of VRC PLUS!
+infomercial disclaimer
 
 ======
 
