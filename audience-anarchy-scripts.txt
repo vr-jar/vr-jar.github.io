@@ -7287,24 +7287,24 @@ VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Doctor's Office
 CHARACTERS ================================
-LOVER: The secret lover.:Backstage
-CHILD: The beautiful newborn.:Backstage
-HUSBAND: The confused husband.:Center Stage
-WIFE: The pregnant wife.:Examination Table
 DOCTOR: The physician.:Entrance Stage Right
+WIFE: The pregnant wife.:Examination Table
+HUSBAND: The confused husband.:Center Stage
+CHILD: The beautiful newborn.:Backstage
+LOVER: The secret lover.:Backstage
 SUGGESTIONS =============================
-STUDY: Some kind of field of study:astrophysics, mechanical engineering, biology
-SHIELD: Some sort of protection:NORD VPN, come-be-gone pills
-BABYNAME: A name for a newborn child:Elon, Corbelle, Janie
-DUEL: A type of challenge, duel or fight between two people:Yu-Gi-Oh, pokemon battle, pillow fighting
-ACTION: An activity between two consenting adults:fortnite gaming, picnics, walks on the beach
-DOCNAME: A person's last name:Bezos, Tupper, Corbelle
-LASTNAME: A person's last name:Dickenson, Musk, Kruger
-ADJ2: Pet name for someone's husband:my love, cupcake
-NUM1: A number greater than 1:69, 3, 2
-CHORE: A household chore:doing the dishes, cooking dinner, taking the trash out
-BODYPART: A body part, appendage or organ:stomach, leg, head
 ADJ1: Pet name for someone's wife:darling, honeybun, sweetie
+BODYPART: A body part, appendage or organ:stomach, leg, head
+CHORE: A household chore:doing the dishes, cooking dinner, taking the trash out
+NUM1: A number greater than 1:69, 3, 2
+ADJ2: Pet name for someone's husband:my love, cupcake
+LASTNAME: A person's last name:Dickenson, Musk, Kruger
+DOCNAME: A person's last name:Bezos, Tupper, Corbelle
+ACTION: An activity between two consenting adults:fortnite gaming, picnics, walks on the beach
+DUEL: A type of challenge, duel or fight between two people:Yu-Gi-Oh, pokemon battle, pillow fighting
+BABYNAME: A name for a newborn child:Elon, Corbelle, Janie
+SHIELD: Some sort of protection:NORD VPN, come-be-gone pills
+STUDY: Some kind of field of study:astrophysics, mechanical engineering, biology
 SCRIPT ==========================================
 Telenovela music 1
 HUSBAND: Tell me again my ADJ1, why did we have to come to the hospital again?
@@ -7344,7 +7344,7 @@ Telenovela music 2
 DOCTOR: (Gets into position in front the exam table) I think I can see it's head!
 HUSBAND: (Panicking) Don't worry ADJ1! I'm here! (Holds Wife's hand)
 DOCTOR: Here it comes!
-Teleport CHILD to Examination Table
+Teleport CHILD to Stool
 CHILD: (IF TELEPORT FAILED USE LADDER TO ENTER SCENE)
 CHILD: Waahh waaahh waahh!
 DOCTOR: (Holds baby) What an adorable bundle of joy! (Hands child to their mother)
@@ -7362,6 +7362,7 @@ Meanwhile CHILD: (Laughing and baby goo goo gah gah noises)
 Telenovela sting 1
 Telenovela music 2
 HUSBAND: (To your Wife Shocked) Whaaat? How could you ADJ1?! How could you ACTION with another man!
+Meanwhile DOCTOR: (To the Secret Lover) God damn it, my door!
 HUSBAND: (Draw weapon to your Wife's Secret Lover) I challenge you to a duel of DUEL!
 Meanwhile CHILD: (Laughing and baby goo goo gah gah noises)
 Draw sword
@@ -7369,7 +7370,7 @@ LOVER: I accept this challenge of DUEL! (Draws weapon)
 Draw sword
 Accordion sting
 DOCTOR: Uh oh... I'm outta here! (Run out and close the door)
-Meanwhile CHILD: (SAY THIS:) B-buh by by!
+Meanwhile CHILD: (SAY THIS) B-buh by by!
 Laughter
 HUSBAND: (To Secret Lover) Take this you fiend!
 Epic fantasy music 3
@@ -20014,65 +20015,69 @@ VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
 CHARACTERS ================================
-ALIEN: Alien:Backstage
+PATIENT: Person being Chased:Examination Table
 DOCTOR: The doctor:Stool
-PATIENT: Person being diagnosed:Examination Table
+ALIEN: Alien:Backstage
 SUGGESTIONS =============================
-SPECIES NAME: The species for a monster:Xenomorph, Conespear, Chilaplia
-PERSON NAME: The name of a man:Bob, Ryan, Chris
-DR NAME: A goofy doctor name:Dr. Doof, Dr. Fridley, Dr. Doctor
-PRODUCT: A name of a product:Cleenex, Cheese puffs, Caramel
-MONSTER NAME: A name for something ugly:Horace, Xinjiang, Dyon
-COMPANY: A company :Company inc, Bottle Co, Facebook
-MONEY: A number under 20:3, 5, 15
 BILL: A large number:356, 987, 164
+MONEY: A number under 20:3, 5, 15
+COMPANY: A company :Company inc, Bottle Co, Facebook
+MONSTER NAME: A name for something ugly:Horace, Xinjiang, Dyon
+PRODUCT: A name of a product:Cleenex, Cheese puffs, Caramel
+DR NAME: A goofy doctor name:Dr. Doof, Dr. Fridley, Dr. Doctor
+PERSON NAME: The name of a man:Bob, Ryan, Chris
+SPECIES NAME: The species for a monster:Xenomorph, Conespear, Chilaplia
 SCRIPT ==========================================
 Jazz music 1
-DOCTOR: Hello, my name is DR NAME and how can I help you?
-PATIENT: (In pain while on the examination table) PLEASE HELP ME!
-DOCTOR: Can you describe what you are feeling?
-PATIENT: ITS GOING TO KILL ME, OH GOD!
-DOCTOR: Please calm down and tell me what is happening.
-PATIENT: THERE IS A SPECIES NAME INSIDE OF ME!
-DOCTOR: A what inside you?
-PATIENT: A SPECIES NAME INSIDE OF ME!
+DOCTOR: Wow... very lonely.
+DOCTOR: Kinda wonder why there is a doctors office in the middle of the forest?
+Break down door
+PATIENT: (Run into scene worried)
+PATIENT: I think im safe for now.
+DOCTOR: What is happening!
+DOCTOR: I'd like some explanation please.
+PATIENT: I'm being chased by a monster of some sort.
+PATIENT: I think its called a SPECIES NAME.
 DOCTOR: Well, what is your name?
 PATIENT: (calmed down) My name is PERSON NAME.
-DOCTOR: Well PERSON NAME I have never dealt with this SPECIES NAME before, are you sure you know what you are talking about?
+DOCTOR: Well PERSON NAME, my name is DR NAME and I have never heard of this SPECIES NAME before, are you sure you know what you are talking about?
 PATIENT: I know it sounds stupid, but I'm being serious.
-PATIENT: But it's the truth, THERE IS SOMETHING INSIDE ME!
+PATIENT: SOMETHING IS OUT THERE!
 DOCTOR: Okay then, give me a second.
+ALIEN: (Wait at door)
+Heavy door knocking
 PATIENT: Alright then.
 PATIENT: OH GOD!
-Meanwhile DOCTOR: WHAT IS HAPPENING!
-PATIENT: I AM ABOUT TO DIE, OH GOD!
-Teleport ALIEN to Examination table
-ALIEN: (Questioning yourself) Who am I?
+Meanwhile DOCTOR: WE ARE DEAD, OH LORD
+PATIENT: I AM ABOUT- my bad, WE are about to die.
+ALIEN: (walk in) Why was i chasing you again?
 [Vine boom]
 PATIENT: Bro, what?
-Meanwhile DOCTOR: Bro, what?
+Meanwhile DOCTOR: Huh?
+Groose music
 PATIENT: This is incredibly underwhelming.
 ALIEN: What are you talking about?
-DOCTOR: (to PATIENT) Not even gonna lie, that is kinda sad.
+DOCTOR: (to PATIENT) Not even gonna lie, this is kinda weird.
 PATIENT: Yeah.
-ALIEN: What are you guys talking about?
+ALIEN: What do you mean?
 PATIENT: Nothing important.
 Meanwhile DOCTOR: Nothing much.
-ALIEN: OH YEAH, now I remember why I'm here!
+ALIEN: Oh yeah!
+ALIEN: Anyways im here to sell you something!
 ALIEN: My name is MONSTER NAME the Alien and I'm here on behalf of COMPANY here to sell you PRODUCT.
 PATIENT: I am flabbergasted.
-Meanwhile ALIEN: (Stand next to the door)
 DOCTOR: I really thought this was going to some cliche alien encounter.
-ALIEN: Nah, I am not here for that.
+ALIEN: Nah, not here for that.
 PATIENT: OH, then what ARE you here for?
 ALIEN: I LITERALLY JUST TOLD YOU!
 PATIENT: OH right, the PRODUCT.
 PATIENT: So how much for PRODUCT?
 ALIEN: Only MONEY dollars.
 PATIENT: (take out wallet and hand them the money) Alright.
+Meanwhile ALIEN: (hold out your hand)
 ALIEN: Pleasure doing business with you, but I'll be on my way now. (Exit stage right)
 DOCTOR: Well, your total comes to BILL dollars.
-PATIENT: (Shocked) AIN'T NO WAY YOU ARE CHARGING ME EVEN THOUGH I ALMOST DIED!
+PATIENT: You didn't even do anything to charge me.
 DOCTOR: Yeah, nothin' you can do about it.
 PATIENT: Fine, how much again?
 DOCTOR: BILL Dollars.
@@ -21012,22 +21017,22 @@ VERIFIED: True
 TAGS: Skit
 SET: Forest
 CHARACTERS ================================
-SELL: Seller of potions:Center Stage
-ADV: Experienced adventurer:Entrance Stage Left
 COM: Worried companion:Backstage
+ADV: Experienced adventurer:Entrance Stage Left
+SELL: Seller of potions:Center Stage
 SUGGESTIONS =============================
-LOCATION: a place, real or fictional:Marley, Eldia, France, The MCU, Pokemon-land
-MEMBER: a username of an audience member:Little boy, Little girl, Quest user, Annoying child
-NAME: a name of a crazy person:Goobert, Hinga-tinga-durgen, Eren Yeager, Optimus Prime
-MINOR: a small injury:Skinned knee, Hang-nail, Stubbed toe, Eyelash in your eye
-CLASS: a fantasy or D&D race/class:Dwarf, Mage, Warrior, Priest, Necromancer, Acrobat, Elf
-MAJOR: a detailed way to be violently killed instantly:Decapitated, De-gloved, De-rizzed, Became a puddle
-HEALING: a type of potion:transform into a banana, extra limbs, bleach, depression
-FAMILY: a family member:Grandma, Grandpa, Big Ogre, Step-bro, Megatron
-FLUID: a bodily fluid:human juice, honey, tears
+VRCHAT: a thing people do in VRchat:ERP, Look at a mirror, Stay on orange status, Be mute, Hate themselves
+PARK: a real or fake theme park:Alton Towers, Chessington World of Adventures, Thorpe Park, Blackpool Pleasure Beach
 MONEY: an amount of any currency:1 Zeni, 2 Pound, 300 Yen, 4 Dollars, 5 Euro, 600 V-Bucks, 7 Coin
-PARK: a real or fake theme park:Chessington World of Adventures, Thorpe Park, Blackpool Pleasure Beach
-VRCHAT: a thing people do in VRchat:ERP, Look at mirrors, Stay on orange status, Be mute in a social game, Hate themselves
+FLUID: a bodily fluid:human juice, tears, blood, sweat, spinal fluid
+FAMILY: a family member:Grandma, Grandpa, Big Ogre, Step-bro, Megatron
+POTION: a weird type of potion (one word):anti-clothes, lemon, Full-body-tracking, tap water, flaccid pancake
+MAJOR: a detailed way to be violently killed instantly:Decapitated, De-gloved, De-rizzed, Became a puddle, got cancelled on Twitter
+CLASS: a fantasy or D&D race/class:Dwarf, Mage, Warrior, Priest, Necromancer, Acrobat, Elf
+MINOR: a small injury:Skinned knee, Hang-nail, Stubbed toe, Eyelash in your open eye
+NAME: a name of a crazy person:Goobert, Hinga-tinga-durgen, Eren Yeager, Optimus Prime
+MEMBER: a username of an audience member:Little boy, Little girl, Quest user, Annoying child
+LOCATION: a place, real or fictional:Marley, Eldia, France, The MCU, Pokemon-land
 SCRIPT ==========================================
 bard music
 SELL: (look at audience) Greetings to you all! I come from the far-off land of LOCATION!
@@ -21037,7 +21042,7 @@ music stops
 ADV: There you are, I've finally found you!
 SELL: Oh no. I've heard about you.
 SELL: You're NAME aren't you...
-ADV: Shut up. I just want that HEALING potion.
+ADV: Shut up. I just want that POTION potion.
 vine boom
 ADV: I know you have it in stock. Relinquish it now, or else....
 thunder
@@ -21048,14 +21053,14 @@ SELL: Oof!
 ADV: Muhahahaha!
 COM: Say..... NAME?
 ADV: Hm? What?
-COM: Is a acquiring a potion of HEALING really a top priority for us right now?
+COM: Is a acquiring a potion of POTION really a top priority for us right now?
 COM: I mean, we just lost our CLASS friend.
 ADV: Yeah, yeah. They got MAJOR right in front of you. blah blah. (shrug)
 COM: (sniff and rub tear from face) I loved them. (cry pathetically)
 sad chug jug music
-ADV: Anyway, just give me that HEALING potion and you can get back to your show.
+ADV: Anyway, just give me that POTION potion and you can get back to your show.
 SELL: NAME, I'm going to be honest as you're both clearly grieving.
-SELL: There is no HEALING potion.
+SELL: There is no POTION potion.
 vine boom
 COM: I knew it. (sniffle)
 ADV: No! My FAMILY read me bedtime stories about it, you're a liar! (point)
@@ -21082,6 +21087,104 @@ SELL: (look back at MEMBER in the audience)
 SELL: So, MEMBER, I have this potion of VRCHAT for you and your friends to enjoy!
 SELL: It only costs one month of VRC PLUS!
 infomercial disclaimer
+
+======
+
+INFORMATION ===============================
+ID: 651
+TITLE: The Villain Council 
+AUTHOR: DaKcBomb
+VERIFIED: True
+TAGS: Skit
+SET: Courtroom
+CHARACTERS ================================
+KING: The Most Evil Villain:Judge Chair
+GREED: Greedy Business Executive:Plaintiff Table
+PRIDE: Prideful Politician:Stage Right
+ENVY: Social Media Influencer :Defendant Table
+SLOTH: Lazy Game Developer:Stage Left
+SUGGESTIONS =============================
+TWITTER: Social Media Company:facebook, twitter, tiktok, instagram, reddit
+UBISOFT: Gaming Company with a negative reputation:EA, Ubisoft, Microsoft
+PRODUCT: A useless product :Oxi-Clean, Shamwow, Mobile Games,
+LAWFUL: A harmless activity :Smoking weed, Having fun in public, being vegan, holding hands in public
+CRIME: A crime someone with a lot of money could get away with:Stealing candy from babies, embezzling money, drunk driving, money laundering, eating pineapple with pizza
+COMPANY: A multi-million dollar company:walmart, amazon, meta
+COUNTRY: A powerful country:united states, russia, china
+CELEBRITY: A well-loved celebrity:Jack Black, Chris Evans, Johnny Depp, 
+GAME: An unfinished video game:No Man's Sky, Jedi Survival, the new call of duty
+EXPLODE: A faulty mechanic from a cheap product:makes babies heads explode, turns my pee green, kills puppies
+OSCARS: A celebrity awards show:oscars, game of the year awards, streamys 
+MORONS: An insulting name to call a group of people:morons, dumbasses, buffoons
+SCRIPT ==========================================
+shark tank walking theme
+KING: Welcome my friends to the Council of Villains!
+KING: Take a seat and we will get started discussing our plans for future villainy!
+KING: We will begin with each of you stating your name and what evil schemes you have accomplished this year.
+shark tank positive music
+GREED: Hello, I'm the head of COMPANY, you may have heard of me.
+GREED: Let me be the first to say how grateful I am to be a part of this glorious league of villainy.
+KING: Yes, yes, get on with it.
+GREED: Yes of course, this year COMPANY has improved profits by 10 thousand percent!
+GREED: We've sold more PRODUCT this year than any other year.
+GREED: And with all the employee layoffs, I was able to give myself and my investors a generous bonus of 600 million dollars.
+KING: Truly evil, thank you for your contribution to our cause.
+KING: Onto our next villain...
+shark tank discussion music 1
+PRIDE: Yes, sir. I am the official leader of COUNTRY.
+PRIDE: We have spend a considerable amount of time and money to officially make LAWFUL illegal.
+PRIDE: Meanwhile, we've worked hard so that CRIME should only be legal for the 1%.
+GREED: I have to thank you again for that PRES, got me out of a lot of trouble for that one.
+shark tank serious music 1
+message receive
+ENVY: (check phone) Oh my god yass, I just got 420 billion followers on TWITTER!
+KING: I guess that brings us to our next villain, what have you contributed to our reign of evil?
+ENVY: Um, are you telling me you don't know who I am?
+ENVY: Anyway, I just told my followers that CELEBRITY just CRIME.
+ENVY: I lied of course, but as we speak CELEBRITY is getting cancelled on TWITTER.
+PRIDE: Aw man, not CELEBRITY! I just talked with them last night at the OSCARS.
+KING: Ah, there's nothing more despicable than lying on the internet.
+KING: With that, onto our final villain.
+KING: Ahem, I will not ask a second time
+SLOTH: Oh uh yeah, I own UBISOFT.
+SLOTH: We just released GAME completely unfinished. It's pretty funny actually.
+SLOTH: We had all the programmers work overtime.
+SLOTH: And after the game didn't sell well, we fired the whole team.
+GREED: Ah, such evil business tactics. I love it! Reminds me of my younger days...
+shark tank walking theme
+KING: Well with all that settled, lets get right down to business.
+shark tank offer
+PRIDE: (stand) If I may sir, I think our first order of business should be to ban TWITTER.
+tense cinematic music
+PRIDE: I spoke with the other politicians in COUNTRY and we're ready to ban TWITTER any day now.
+ENVY: Excuse me? You're just mad that you keep getting called out for CRIME.
+GREED: If we ban TWITTER in COUNTRY it will eliminate competition for COMPANY.
+SLOTH: But TWITTER is the only place we can advertise our paid dlc to fix GAME!!
+PRIDE: Bah, do the people of COUNTRY really need another GAME.
+GREED: Yeah, people should be spending more money on PRODUCT instead.
+ENVY: I saw on TWITTER that PRODUCT EXPLODE!!!
+PRIDE: Fake news, that's why we gotta ban TWITTER.
+lacrimosa music
+thunder
+KING: Silence!!!!
+KING: You MORONS aren't thinking of the big picture.
+KING: Whatever happened to taking over the world?
+message receive
+ENVY: (sarcastically) Uh oh, looks like someone else got cancelled on TWITTER
+KING: What??
+ENVY: Yeah, you got cancelled for being so boring.
+PRIDE: Can't you see? We've already taken over the world.
+GREED: He who holds the money holds the power as they say.
+SLOTH: Game over man.
+thunder
+KING: (furious) I have had enough!
+KING: You pathetic excuses for villains disgust me. Get out of my sight.
+ENVY: Fine, I didn't even want to be here in the first place. (exit)
+SLOTH: Yeah, I was getting bored listening to you guys talk politics and stuff. (exit)
+GREED: This was a waste of time and money
+GREED: (talk on phone) Jeeves, get my private jet ready. (exit)
+PRIDE: I shouldn't be insulted by the likes of you freaks. See you all in hell. (exit)
+KING: (sigh) One day they'll understand what it truly means to be a villain...
 
 ======
 
