@@ -1562,6 +1562,7 @@ HK_LightVR
 samurai103
 Blazeoak
 Vxrbo
+Romanruso
 #TIER=1
 AkaruHaru
 Riles
