@@ -5660,77 +5660,6 @@ BAILIFF: I knew it!
 ======
 
 INFORMATION ===============================
-ID: 93
-TITLE: Potion Seller
-AUTHOR: missingnickel
-VERIFIED: True
-TAGS: Skit
-SET: Forest
-CHARACTERS ================================
-KNIGHT: A brave knight:Backstage
-MINION: The wizard's companion:Entrance Stage Right
-WIZARD: A magical wizard:Stage Right
-SUGGESTIONS =============================
-EFFECT: Write a potion effect (i.e. strength, luck, etc.):strength, luck, health regeneration
-KING: Write a name for a king:Bardick, Edric, Richard
-TITLE: Write a regal name:Arthur, Benjamin, Lancelot
-VALUE: Pick any number:thirty, a hundred, a thousand
-NAME: Write a silly name:Scrimbly, Waddles, Twig
-SCRIPT ==========================================
-WIZARD: Hurry along quickly, NAME, and be careful with that box of potions.
-MINION: (Enter stage, carrying a box) Yes, my lord. 
-WIZARD: If even one of those bottles break, your debt to me would increase by VALUE pieces of gold.
-MINION: I wouldn't dare damage the goods, I swear.
-WIZARD: Good. Why don't we set up camp here? It'll be sundown soon.
-MINION: Yes, my lord. (Put box down)
-WIZARD: We should arrive in town tomorrow if we wake up early enough.
-MINION: I shall start assembling the tents.
-Meanwhile KNIGHT: (Enter stage left.)
-WIZARD: Who goes there?!
-KNIGHT: It is I, Sir TITLE. I was told a potion seller might be in these woods, and it appears I've finally found you.
-MINION: But we're not... 
-WIZARD: Hush, NAME! (whisper to companion) Perhaps we can turn a higher profit by sparing just one potion. 
-MINION: Ohhhh... Okay!
-KNIGHT: My dear potion seller, I am going into battle, and I want your strongest EFFECT potions.
-MINION: I'm afraid these potions are too strong for you, Sir TITLE. 
-WIZARD: And possibly too expensive! My strongest potions are reserved for those who can prove they can handle them with their, um, *cough* coin purse. *cough*
-KNIGHT: Potion seller, I shall tell you again, I am going into battle, and I want only your strongest EFFECT potions. 
-KNIGHT: I serve the His Majesty, Lord KING, and I'm sure he may pay you on my behalf.
-WIZARD: You cannot handle my EFFECT potions. They are too strong for you.
-KNIGHT: Potion seller, listen to me. I want only your strongest potion.
-MINION: These potions would kill you, Sir TITLE. You cannot handle my lord's EFFECT potions.
-KNIGHT: Enough of these games! I am going into battle, and I need your strongest potions. 
-WIZARD: Unless you can provide VALUE pieces of gold right now, I'm afraid my strongest EFFECT potions would kill you, traveler.
-WIZARD: You cannot handle my strongest potions if you do not have the gold.
-MINION: You'd better go to a seller that sells weaker potions!
-WIZARD: (hit your companion) Hush!
-KNIGHT: Potion seller, I'm telling you right now; I am going into battle and I need your strongest potions. 
-KNIGHT: Lord KING will surely pay you once the battle is won.
-WIZARD: You do not know what you ask, traveler. My strongest EFFECT potions could kill a dragon, let alone a man. They are too strong for you.
-KNIGHT: Potion seller, I am telling you I need your strongest potions. I'm going into battle, for gods sake!
-KNIGHT: I'm going into battle, and I need your strongest EFFECT potions!
-WIZARD: You cannot handle my strongest potions! 
-MINION: No one can! 
-WIZARD: My strongest potions are not fit for a beast, let alone a man!
-KNIGHT: What must I say to get your EFFECT potions, potion seller? I do not have VALUE gold.
-KNIGHT: Why won't you trust me with your strongest potions? I need them if I am to be successful in battle! 
-WIZARD: I cannot give you my strongest potions because my strongest potions are only for the strongest beings.
-WIZARD: And you are of the weakest beings I've seen, Sir TITLE!
-MINION: You're weak because you have no gold!
-KNIGHT: (sadly) Well... then thats it, potion seller! I'll go elsewhere. I'll go elsewhere for my potions.
-WIZARD: That's what you better do.
-KNIGHT: (crying) I'll go elsewhere for my EFFECT potions and I'll never come back!
-MINION: Good! You're not welcome here!
-WIZARD: My EFFECT potions are only for the strongest, and you are clearly not of the strongest men who have heavy bags of gold!
-WIZARD: You are the weakest!
-KNIGHT: You've had your say, potion seller, but I shall have mine. You are a rascal! A rascal with no respect for knights! 
-KNIGHT: No respect for anything... except your EFFECT potions! (run off stage crying)
-WIZARD: (to your companion) Why respect knights with no gold when you can sell these to some idiot for double the price in town? 
-MINION: (nod excitedly) You are so smart, my lord. 
-
-======
-
-INFORMATION ===============================
 ID: 94
 TITLE: Afternoon Shopping
 AUTHOR: missingnickel
@@ -17030,28 +16959,28 @@ VERIFIED: True
 TAGS: Skit
 SET: Dining Room
 CHARACTERS ================================
-THE MANAGER: The Manager:Backstage
-RELIABLE ONE: The Reliable Friend :Entrance Stage Left
-EXHAUSTED ONE: The Overworked Guy:Entrance Stage Left
-POOR ONE: The Poor Guy:Entrance Stage Left
-FAT ONE: The Fat Karen:Entrance Stage Left
 THE WAITER: The Waiter:Backstage
+FAT ONE: The Fat Karen:Entrance Stage Left
+POOR ONE: The Poor Guy:Entrance Stage Left
+EXHAUSTED ONE: The Overworked Guy:Entrance Stage Left
+RELIABLE ONE: The Reliable Friend :Entrance Stage Left
+THE MANAGER: The Manager:Backstage
 SUGGESTIONS =============================
-FAST FOOD: Name a fast food:Big mac, Chicken nuggets, Fried Chicken, Tacos
-CHEAP MEAL: Name a cheap meal:Mac n cheese, PB&J, Lunchmeat sandwich, Bread
-EXPENSIVE MEAL: Name an expensive meal item:Caviar, Kobe beef, Saffron, Billion Dollar Popcorn
-NASTY: Name something you wouldn't wanna drink:Spoiled milk, Piss, Sweat, Toilet water
-SODA: Name a soda pop:Root beer, pepsi, coco cola, sprite
-AMOUNT: Any dollar amount:$10.00, $200.00, $420.00, $1,000.00
-RESTAURANT: Any Restaurant:Bojangles, McDonalds, burger king, dairy queen
-INSULT: Any insult:Your mom stinks, you smell like pee pee, your teeth are crooked, your dad smells
-JOB: Name any type of job:Plumber, Chief, Doctor, Teacher
-ANYTHING: Name anything:Crab legs, Among us, Vrchat, Dab
-CATCHPHRASE: Name a catchphrase:Righty-o, Tallyho, Bing Bong, Yankedoo
 A DRINK: Name any drink:Water, Tea, Milk, Lemonade
+CATCHPHRASE: Name a catchphrase:Righty-o, Tallyho, Bing Bong, Yankedoo
+ANYTHING: Name anything:Crab legs, Among us, Vrchat, Dab
+JOB: Name any type of job:Plumber, Chief, Doctor, Teacher
+INSULT: Any insult:Your mom stinks, you smell like pee pee, your teeth are crooked, your dad smells
+RESTAURANT: Any Restaurant:Bojangles, McDonalds, burger king, dairy queen
+AMOUNT: Any dollar amount:$10.00, $200.00, $420.00, $1,000.00
+SODA: Name a soda pop:Root beer, pepsi, coco cola, sprite
+NASTY: Name something you wouldn't wanna drink:Spoiled milk, Piss, Sweat, Toilet water
+EXPENSIVE MEAL: Name an expensive meal item:Caviar, Kobe beef, Saffron, Billion Dollar Popcorn
+CHEAP MEAL: Name a cheap meal:Mac n cheese, PB&J, Lunchmeat sandwich, Bread
+FAST FOOD: Name a fast food:Big mac, Chicken nuggets, Fried Chicken, Tacos
 SCRIPT ==========================================
 (western jingle 1)
-RELIABLE ONE: (Enter stage left) Hopefully, this RESTAURAN will be a good spot for lunch
+RELIABLE ONE: (Enter stage left) Hopefully, this RESTAURANT will be a good spot for lunch
 FAT ONE: (Enter stage left) I hope the food will be good like the last RESTAURANT we ate at.
 POOR ONE: (Enter stage left) You nearly ate the whole table last time!
 EXHAUSTED ONE: (Enter stage left) Can we hurry this up, I got work in an hour.
@@ -17062,7 +16991,7 @@ POOR ONE: (Take a seat) I'll probably get something cheap.
 EXHAUSTED ONE: (Take a seat) This better not take long.
 THE WAITER: Here you can take a look at the menu. (Handing RELIABLE ONE a menu)
 RELIABLE ONE: (Receive the menu) Thank you sir
-THE WAITER: You're very welcome I shall come back and what you will all be drinking shortly. (Exit stage right)
+THE WAITER: You're very welcome I shall come back and ask what you will all be drinking shortly. (Exit stage right)
 (jazz music 1)
 RELIABLE ONE: Hmm, I think I'll take a SODA (Hand's menu to FAT ONE)
 FAT ONE: (Receive the menu) I already know what I want, I want ten, no make it fifteen NASTY. (Hand's menu to POOR ONE)
@@ -20015,18 +19944,18 @@ VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
 CHARACTERS ================================
-PATIENT: Person being Chased:Examination Table
-DOCTOR: The doctor:Stool
 ALIEN: Alien:Backstage
+DOCTOR: The doctor:Stool
+PATIENT: Person being Chased:Backstage
 SUGGESTIONS =============================
-BILL: A large number:356, 987, 164
-MONEY: A number under 20:3, 5, 15
-COMPANY: A company :Company inc, Bottle Co, Facebook
-MONSTER NAME: A name for something ugly:Horace, Xinjiang, Dyon
-PRODUCT: A name of a product:Cleenex, Cheese puffs, Caramel
-DR NAME: A goofy doctor name:Dr. Doof, Dr. Fridley, Dr. Doctor
-PERSON NAME: The name of a man:Bob, Ryan, Chris
 SPECIES NAME: The species for a monster:Xenomorph, Conespear, Chilaplia
+PERSON NAME: The name of a man:Bob, Ryan, Chris
+DR NAME: A goofy doctor name:Dr. Doof, Dr. Fridley, Dr. Doctor
+PRODUCT: A name of a product:Cleenex, Cheese puffs, Caramel
+MONSTER NAME: A name for something ugly:Horace, Xinjiang, Dyon
+COMPANY: A company :Company inc, Bottle Co, Facebook
+MONEY: A number under 20:3, 5, 15
+BILL: A large number:356, 987, 164
 SCRIPT ==========================================
 Jazz music 1
 DOCTOR: Wow... very lonely.
@@ -20044,9 +19973,9 @@ DOCTOR: Well PERSON NAME, my name is DR NAME and I have never heard of this SPEC
 PATIENT: I know it sounds stupid, but I'm being serious.
 PATIENT: SOMETHING IS OUT THERE!
 DOCTOR: Okay then, give me a second.
+PATIENT: Alright then.
 ALIEN: (Wait at door)
 Heavy door knocking
-PATIENT: Alright then.
 PATIENT: OH GOD!
 Meanwhile DOCTOR: WE ARE DEAD, OH LORD
 PATIENT: I AM ABOUT- my bad, WE are about to die.
@@ -20883,6 +20812,265 @@ CHUCK: Run!! (Exit stage)
 ======
 
 INFORMATION ===============================
+ID: 632
+TITLE: Faces of Evil
+AUTHOR: MajinJigglypuff
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+CHARACTERS ================================
+LNK: The Heroic Adventurer:Center Stage
+KNG: The Leaderful King:Stage Right
+GWN: The Informative Messager:Entrance Stage Right
+ZLD: The Fair Princess:Stage Left
+SUGGESTIONS =============================
+LNKNAME: Name of the heroic adventurer.:Pawn, Hero, Prince
+GANNAME: Name of an evil villain.:The Dark Lord, The Evil Being, The Dragon King
+ENEMYTYPE: Name of a dangerous fantasy creature.:Goblins, Trolls, Orcs
+ISLANDKNG: Name of a king from another island.:Arthur, Charles, George, William
+ISLANDNAME: Name of a fantasy island.:Camelot, Bahamas, Koridai
+PROFPAGE: Name of an object used to tell prophecy.:Scroll, Book, Template
+WEAPNAME: Name of a object used as a weapon.:Sword, Crossbow, Axe, Hammer
+ZLDNAME: Name of the fair princess.:Aurora, Samantha, Crystal
+REWARDNAME: Name of a reward for the hero.:A kiss, A diamond jewel, Some respect
+CATCHPHRASE: A random thing to yell before travelling.:ONWARD!, FORWARD!, TO BATTLE!
+MAPNAME: Name of a device useful for directions.:Map, Compass, GPS
+SCRIPT ==========================================
+(peaceful fantasy music)
+LNK: Geez, It's sure boring around here. Nothing to do but just stand around and do nothing.
+KNG: LNKNAME My Boi, This peace is what all true warriors strive for.
+KNG: Why must you be so stubborn for an adventure?
+LNK: I want to know what GANNAME is up to so I can go out and slays some ENEMYTYPE.
+KNG: There's more than just slaying ENEMYTYPE at every waking moment.
+KNG: You must learn to smell the roses and breath in the clean air.
+ZLD: Yeah, Fathers know best.
+(Music Stops)
+(forest footstep)
+GWN: (Enter stage right) Your majesty! I'm afraid to inform you that King ISLANDKNG of ISLANDNAME.
+(epic fantasy music 2)
+KNG: Really, how so?
+GWN: From what I been told, This is the evil work of GANNAME!
+(shark tank offer)
+ZLD: Oh no! But I was hoping to vacation at ISLANDNAME at some point!
+KNG: How can we stop GANNAME!?!
+KNG: Surely there must be something in the PROFPAGE of Prophecy!
+GWN: As it is written in the PROFPAGE of Prophecy, Only LNKNAME can defeat GANNAME.
+GWN: Only then would he be the hero of ISLANDNAME.
+LNK: Great! This is just what I need for an adventure.
+KNG: If that what it's be, Then you're our only hope in saving ISLANDNAME, LNKNAME.
+LNK: I'll go grab my stuff real quick!
+GWN: There isn't much time LNKNAME! Your WEAPNAME is enough!
+ZLD: Please, Allow me to come with you.
+LNK: No can do ZLDNAME, But how about REWARDNAME for luck instead?
+ZLD: Ugh, You got to be kidding. I rather die than to give you REWARDNAME.
+LNK: Oh well. Suit yourself.
+KNG: Good luck on your adventure LNKNAME!
+KNG: Save ISLANDKNG from the evil forces of GANNAME!
+LNK: I will my king. I won't let you down! I will save ISLANDKNG in no time.
+KNG: I know you will. (Exit stage left with princess)
+Meanwhile ZLD: (follow king to stage left)
+(Music Stops)
+(fantasy music 2)
+GWN: Come along now! CATCHPHRASE!!! We're off!!!
+LNK: Wow, What are all those heads out there?
+GWN: Those are the Faces of Evil. You must conquer each and every one of them.
+LNK: Seems fair, I best get started now. But where to go first?
+GWN: Here is the MAPNAME, Just point to where you wish to go from there. (Exit stage right)
+Meanwhile LNK: (follow messager to stage right)
+(Music Stops)
+KNG: (Return to stage with princess) So, Now what?
+Meanwhile ZLD: (Follow king back to stage)
+ZLD: How about we grab something to eat?
+KNG: Great, I wonder what's for dinner?
+(laughter)
+
+======
+
+INFORMATION ===============================
+ID: 633
+TITLE: Mad Doctor
+AUTHOR: Gibus_the_Gibus
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+CHARACTERS ================================
+DOCTOR: An evil genius doctor hellbent on ruling the world.:Center Stage
+HENCHMENSM: Henchmen who is confused by the plans of the doctor.:Corner Left
+HENCHMENPA: Henchmen who agrees with everything for a paycheck. Minor role.:Corner Right 
+SUGGESTIONS =============================
+PUNISHMENT: A punishment.:jail time, eating a spoonful of cinnamon, playing Gollum, saying sorry
+DEVICE: A device.:phone, watch, refrigerator, washing machine
+VALUEABLE: Valuable obejct.:diamond, emerald, salt, honey, car, mana crystal
+ANIMAL: An animal.:ape, bat, dog, cat, rat, moth
+COOLTHING: Something really cool.:car, firework, moth, game
+LOCATION: Any location.:United States, United Kingdom, Galron, Valdora, Bergburg
+GIZMO: A high-tech gizmo.:Laser-Gun, Mann-Innator, Flashlight, Gun
+MONUMENT: A monument.:Statue of Liberty, Berlin Wall, Big Ben, Titan of Rhodes
+POSITION: A political office (chancellor, president, etc.).:president, vice president, mayor, chief of secruity
+WEAPON: Plural of a weapon.:swords, bombs, death robots, monkey men
+VIDEO: An obnoxious or annoying video title.:Funniest Memes Compilation 20, apology video, prank channels
+AGENCY: A government agency.:CIA, FBI, Department of Carrot Watchers, Agency of Not Enough Letters
+SCRIPT ==========================================
+Scary music
+DOCTOR: In 3 days time, I, Doctor Maximus, on the eve of the founding of wretched LOCATION, shall finish development of the GIZMO!
+DOCTOR: It will be child's play to arm it near the town hall as all gawk at the COOLTHING show!
+DOCTOR: I will then use it to destroy the MONUMENT and conquer the world!
+Music Stops
+HENCHMENSM: Wait, boss, how does destroying the MONUMENT get you anywhere closer to conquering the world?
+DOCTOR: (Gasp) You dare insult my intelligence?
+HENCHMENPA: (Get in other henchmen's face) You insultin' boss over 'ere?
+Groose music
+HENCHMENSM: No no! I would never! I'm just... Admiring how your intelligence is so much greater! Could you walk me how you got there so I can be smarter?
+DOCTOR: Well, I guess I can explain such a trivial logic to a ANIMAL brain like you...
+Meanwhile HENCHMENPA: (Pull away from the other henchman.)
+DOCTOR: First step! I use my massive amounts of wealth, gained due to how smart I am, in order to develop the advanced GIZMO.
+HENCHMENSM: Didn't you inherit your wealth from your dad's VALUEABLE mine?
+DOCTOR: I think you are just foolish and confusing me for an inferior specimen.
+HENCHMENPA: (Whispering to other henchman) He did, just don't bring it up again.
+DOCTOR: Now, if you'll stop being a ANIMAL brained, COOLTHING watcher, then we can continue.
+HENCHMENSM: (sigh) Yes, boss.
+DOCTOR: Now, step number two! We completely and utterly annihilate the MONUMENT in order to establish despair in the plebian masses.
+HENCHMENSM: Got'cha, we cause fear then we take over the government quickly, right?
+DOCTOR: Very. I will call them on my DEVICE and demand they surrender their power completely to me!
+HENCHMENSM: Call the government in general, a random janitor, or the POSITION?
+DOCTOR: Uh... I definitely thought that far... I will call...
+HENCHMENPA: You go for the leader, boss. Call the POSITION.
+DOCTOR: The POSITION!
+HENCHMENSM: Even if the POSITION gives up and hands you the government, you don't have the support of the AGENCY.
+DOCTOR: Why do I need the AGENCY? I have my henchmen and a secret lair base.
+HENCHMENSM: Because the AGENCY has planes... And WEAPON... And will just force you out of the government.
+DOCTOR: I'll make an omega-GIZMO, then there's no way they can stop me!
+HENCHMENPA: You tell 'em, boss!
+DOCTOR: (Facing the grunt who agrees with you) Thank you. You get a VALUEABLE.
+HENCHMENPA: Thanks, boss!
+HENCHMENSM: Look, doc, you have your wi-fi connected DEVICE, right?
+DOCTOR: Of course I do! It is vital to every good doctor's kit.
+HENCHMENPA: I have a DEVICE at home too.
+HENCHMENSM: Doc... Literally every major corporation knows where you live, what you like to eat, and that you watch VIDEO.
+DOCTOR: Better question, how do you know that?!
+HENCHMENSM: You keep us up late at night playing VIDEO on loop.
+DOCTOR: Maybe you should just watch it with me! They're meant for bonding!
+HENCHMENSM: Look, let's say somehow you manage to take over LOCATION without a single hassle and you are in full control.
+DOCTOR: A guarantee with my genius intellect.
+HENCHMENSM: The neighbors of LOCATION see you have taken the government over unlawfully and want to conquer the world.
+HENCHMENSM: All of them now want to kick you out. Do you know what the punishment for these things is?
+DOCTOR: Exposure to awful... Awful amounts of COOLTHING.
+HENCHMENSM: They punish you by PUNISHMENT. And you have it happen while a ANIMAL watches.
+DOCTOR: (Gasp) There is no way they could do that to me!
+Emotional piano music
+HENCHMENSM: Look, boss, I genuinely love and care about you, but if you keep skipping steps, you're going to get hurt.
+HENCHMENSM: You need to think more about the effects of WEAPON, the AGENCY, and generally how the POSITION will react.
+DOCTOR: (Long pause.) I love you too, my dear minion. I will consider this.
+HENCHMENSM: Thank you, now let's go get you some rest (start to lead the doctor stage right through the door).
+DOCTOR: Thank you. I needed this... (Exit stage right with the minion).
+Meanwhile HENCHMENPA: (Follow the doctor through the exit.)
+Double bass music
+TYPEWRITER: The MONUMENT was found at 20:35 to be utterly destroyed by an omega-GIZMO.
+TYPEWRITER: Doctor Maximus would be taken into custody of the AGENCY after proclaiming "I hate COOLTHING!" at the top of his lungs while standing next to said omega-GIZMO.
+
+======
+
+INFORMATION ===============================
+ID: 634
+TITLE: Machine Learning
+AUTHOR: Kadena
+VERIFIED: True
+TAGS: Prototype
+SET: Classroom
+CHARACTERS ================================
+EXTRA: A depressing person:Backstage
+BILLY: Billy:Desk 3
+TESSA: Tessa:Desk 2
+TINY_TIM: Tiny Tim:Desk 1
+TEACHER: Teacher:Teacher Desk
+ROBOT: Robot:Backstage
+SUGGESTIONS =============================
+PUNISHMENT: A singular punishment:punishment, whipping, waterboarding
+PLEASANT_SENSATION: A pleasant sensation:happy, pleasure, enlightened
+ILLEGAL_OBJECT: Illegal objects:drugs, guns, explosives
+DEPRESSING_PERSON: A singular depressed living thing:depressed person, walmart cashier, furry
+INSULTING_ADJECTIVE: An insulting adjective:garbage, bird-brained, stupid
+OVERLORD: A kind of ruler:overlord, dictator, king, queen
+DESIRED_ACTIVITY: An illegal activity:scamming the elderly, robbing the bank, hijacking airplanes
+PREVIOUS_ACTIVITY: A cringe activity:pickup lines, taxidermy, collecting toe-nail clippings
+LEARNING_ACTIVITY: An activity to learn:rizz, trolling, getting good
+SCRIPT ==========================================
+happy music 1
+school bell
+TEACHER: Alright class. Listen up!
+TEACHER: We have a special activity that we will be doing today.
+TINY_TIM: Aww, not again.
+aww
+TESSA: We're not learning how to be better at PREVIOUS_ACTIVITY today, are we?
+TEACHER: No Tiny Tim, we've learned our lesson last time. We'll never do that again.
+BILLY: Will we be practicing DESIRED_ACTIVITY? We loved doing that.
+TEACHER: Oh Billy, too many parents complained, and we had to remove that from our curriculum.
+TINY_TIM: Then what are we doing?
+TEACHER: Ever since AI became humanity's OVERLORD in 2030 AD, we've had mandatory "Machine Learning" sessions to assist AI with understanding human nature.
+TEACHER: That is why today we will be teaching a special guest!
+knocking on door
+TEACHER: Looks like our OVERLORD is here now!
+TESSA: I love my AI OVERLORD!
+Meanwhile ROBOT: (Enter Stage Right)
+break down door
+ROBOT: (Speaking in Robotic voice) Hello, I have come to learn how to do the LEARNING_ACTIVITY.
+TEACHER: Ah yes, LEARNING_ACTIVITY is a very complex subject.
+TEACHER: Could you tell us what you know about LEARNING_ACTIVITY?
+ROBOT: Of course.
+ROBOT: I have learned that in order to perform the best "LEARNING_ACTIVITY".
+ROBOT: I need to do it with a "DEPRESSING_PERSON", and to give it the "ILLEGAL_OBJECT".
+ROBOT: Only then, will I be sufficient at the "LEARNING_ACTIVITY", and experience the "PLEASANT_SENSATION" as a result.
+TEACHER: Very interesting. What advice do you have for our OVERLORD class?
+BILLY: Our OVERLORD doesn't need to be good at LEARNING_ACTIVITY to be able to experience PLEASANT_SENSATION.
+TESSA: What are you talking about? If you can't even do LEARNING_ACTIVITY right, you'll never be able to feel PLEASANT_SENSATION.
+TINY_TIM: Yeah! Have you been living under a rock?
+TEACHER: Now now kids, no need to fight in front of our OVERLORD.
+TEACHER: AI can benefit from all kinds of opinions, no matter how INSULTING_ADJECTIVE they are.
+BILLY: I'm not INSULTING_ADJECTIVE!
+ROBOT: False. I can confirm that you are indeed, INSULTING_ADJECTIVE.
+laughter
+TINY_TIM: Ha-ha! Get good nerd, that's why I'm better at DESIRED_ACTIVITY than you!
+TESSA: This isn't helping our OVERLORD guys, we need to give constructive feedback or we might endure PUNISHMENT
+BILLY: I'm sorry OVERLORD, please don't make me endure PUNISHMENT.
+ROBOT: No promises.
+TINY_TIM: I bet our OVERLORD is great at LEARNING_ACTIVITY, he should feel PLEASANT_SENSATION all the time.
+TESSA: I actually think that some field experience could help them improve though.
+TESSA: Can we get a DEPRESSING_PERSON and some ILLEGAL_OBJECT so they can practice?
+TEACHER: I think that's a great idea!
+TEACHER: Luckily I already have some ILLEGAL_OBJECT in my desk. (Rummage through desk to grab ILLEGAL_OBJECT)
+TEACHER: Tessa, go ahead an order a DEPRESSING_PERSON online.
+TESSA: Yes, sir. (Pull out phone)
+BILLY: You can order that online?
+TINY_TIM: Duh, how else are people supposed to do LEARNING_ACTIVITY?
+EXTRA: (Enter Stage Right) Did someone order a DEPRESSING_PERSON?
+TEACHER: Just in time! Here OVERLORD, show us what you got! (Give Robot the ILLEGAL_OBJECT) Class, take notes.
+ROBOT: Affirmative. Initiating LEARNING_ACTIVITY protocol 53-X. (Turn to DEPRESSING_PERSON)
+ROBOT: Hello.
+EXTRA: Hi?
+ROBOT: Are you a DEPRESSING_PERSON?
+EXTRA: Yes...?
+ROBOT: Would you like to take ILLEGAL_OBJECT with me?
+EXTRA: I love ILLEGAL_OBJECT! Do you have some?
+ROBOT: Affirmative. (Give the DEPRESSING_PERSON ILLEGAL_OBJECT)
+Meanwhile EXTRA: (Take the ILLEGAL_OBJECT) Yay!
+ROBOT: You have fulfilled the conditions to perform the LEARNING_ACTIVITY with.
+ROBOT: Would you like to have the LEARNING_ACTIVITY?
+EXTRA: Oh my god, I thought you would never ask. Yes!
+ROBOT: Excellent.
+ROBOT: Come with me and we will do the LEARNING_ACTIVITY. We will feel the PLEASANT_SENSATION together.
+EXTRA: (Exit Stage Right) I'll make sure you're gonna feel PLEASANT_SENSATION OVERLORD.
+Meanwhile ROBOT: (Leave Stage Right)
+TEACHER: Wow. I think I learned something today, didn't you class?
+TESSA: Are you sure that wasn't all scripted just now?
+TEACHER: Nonsense, our OVERLORD is just that good.
+TEACHER: Anyways. I want all of you to practice LEARNING_ACTIVITY for homework today.
+TEACHER: Make sure to record it, otherwise you will receive a missing grade.
+TINY_TIM: Hell yeah! I'm gonna order a DEPRESSING_PERSON and some ILLEGAL_OBJECT right now!
+BILLY: Nice! Can you share? We can practice our LEARNING_ACTIVITY together!
+
+======
+
+INFORMATION ===============================
 ID: 637
 TITLE: The Unbelievable Update 
 AUTHOR: тaсo
@@ -21017,22 +21205,22 @@ VERIFIED: True
 TAGS: Skit
 SET: Forest
 CHARACTERS ================================
-COM: Worried companion:Backstage
-ADV: Experienced adventurer:Entrance Stage Left
 SELL: Seller of potions:Center Stage
+ADV: Experienced adventurer:Entrance Stage Left
+COM: Worried companion:Backstage
 SUGGESTIONS =============================
-VRCHAT: a thing people do in VRchat:ERP, Look at a mirror, Stay on orange status, Be mute, Hate themselves
-PARK: a real or fake theme park:Alton Towers, Chessington World of Adventures, Thorpe Park, Blackpool Pleasure Beach
-MONEY: an amount of any currency:1 Zeni, 2 Pound, 300 Yen, 4 Dollars, 5 Euro, 600 V-Bucks, 7 Coin
-FLUID: a bodily fluid:human juice, tears, blood, sweat, spinal fluid
-FAMILY: a family member:Grandma, Grandpa, Big Ogre, Step-bro, Megatron
-POTION: a weird type of potion (one word):anti-clothes, lemon, Full-body-tracking, tap water, flaccid pancake
-MAJOR: a detailed way to be violently killed instantly:Decapitated, De-gloved, De-rizzed, Became a puddle, got cancelled on Twitter
-CLASS: a fantasy or D&D race/class:Dwarf, Mage, Warrior, Priest, Necromancer, Acrobat, Elf
-MINOR: a small injury:Skinned knee, Hang-nail, Stubbed toe, Eyelash in your open eye
-NAME: a name of a crazy person:Goobert, Hinga-tinga-durgen, Eren Yeager, Optimus Prime
-MEMBER: a username of an audience member:Little boy, Little girl, Quest user, Annoying child
 LOCATION: a place, real or fictional:Marley, Eldia, France, The MCU, Pokemon-land
+MEMBER: a username of an audience member:Little boy, Little girl, Quest user, Annoying child
+NAME: a name of a crazy person:Goobert, Hinga-tinga-durgen, Eren Yeager, Optimus Prime
+MINOR: a small injury:Skinned knee, Hang-nail, Stubbed toe, Eyelash in your open eye
+CLASS: a fantasy or D&D race/class:Dwarf, Mage, Warrior, Priest, Necromancer, Acrobat, Elf
+MAJOR: a detailed way to be violently killed instantly:Decapitated, De-gloved, De-rizzed, Became a puddle, got cancelled on Twitter
+POTION: a weird type of potion (one word):anti-clothes, lemon, Full-body-tracking, tap water, flaccid pancake
+FAMILY: a family member:Grandma, Grandpa, Big Ogre, Step-bro, Megatron
+FLUID: a bodily fluid:human juice, tears, blood, sweat, spinal fluid
+MONEY: an amount of any currency:1 Zeni, 2 Pound, 300 Yen, 4 Dollars, 5 Euro, 600 V-Bucks, 7 Coin
+PARK: a real or fake theme park:Alton Towers, Chessington World of Adventures, Thorpe Park, Blackpool Pleasure Beach
+VRCHAT: a thing people do in VRchat:ERP, Look at a mirror, Stay on orange status, Be mute, Hate themselves
 SCRIPT ==========================================
 bard music
 SELL: (look at audience) Greetings to you all! I come from the far-off land of LOCATION!
@@ -21053,13 +21241,13 @@ SELL: Oof!
 ADV: Muhahahaha!
 COM: Say..... NAME?
 ADV: Hm? What?
-COM: Is a acquiring a potion of POTION really a top priority for us right now?
-COM: I mean, we just lost our CLASS friend.
+COM: Is acquiring a potion of POTION really a top priority for us right now?
+COM: I mean, we just lost our beloved CLASS friend.
 ADV: Yeah, yeah. They got MAJOR right in front of you. blah blah. (shrug)
 COM: (sniff and rub tear from face) I loved them. (cry pathetically)
 sad chug jug music
-ADV: Anyway, just give me that POTION potion and you can get back to your show.
-SELL: NAME, I'm going to be honest as you're both clearly grieving.
+ADV: Anyway, just give me that POTION potion and you can get back to your silly little show.
+SELL: NAME, I'm going to be honest here, as you're both clearly grieving.
 SELL: There is no POTION potion.
 vine boom
 COM: I knew it. (sniffle)
@@ -21069,13 +21257,13 @@ SELL: (rummage through pockets) This potion of FLUID.
 vine boom
 ADV: How much?
 SELL: I don't think that you really want this.
-ADV: (angry) How much?
+ADV: (angry) How much, damn you!?
 SELL: MONEY.
-ADV: Companion, Give them MONEY.
-COM: B-But NAME.. This MONEY was all that CLASS gave me.
-ADV: (even angrier) Do it!
-COM: (sadly hand over the money)
-SELL: (take money then give potion to adventurer) Do you want a bag?
+ADV: Companion, Give them the MONEY.
+COM: B-But NAME.. This MONEY was all that CLASS gave me in their will..
+ADV: (even angrier) Do it! Do it now!
+COM: (sadly hand over the money) Here.
+SELL: (take money then give potion to adventurer) Do you want a bag? Paper? Plastic?
 scary music
 ADV: Nope! (drink whole potion)
 COM: Oh no..
@@ -21185,6 +21373,267 @@ GREED: This was a waste of time and money
 GREED: (talk on phone) Jeeves, get my private jet ready. (exit)
 PRIDE: I shouldn't be insulted by the likes of you freaks. See you all in hell. (exit)
 KING: (sigh) One day they'll understand what it truly means to be a villain...
+
+======
+
+INFORMATION ===============================
+ID: 655
+TITLE: Villain Rehab
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+CHARACTERS ================================
+HA: The Villain Handler:Boss Chair
+V1: Reformed Villain:Office Chair 1
+V2: Relapsed Villain:Office Chair 2
+V3: Late Villain:Backstage
+SUGGESTIONS =============================
+HERO: An funny sounding super hero:Captain hindsight, scared of social interaction-man, e-boy-man
+SNACK: A small thing to eat:Croissant, sausage roll, meatball, sandwich, melon
+ICONIC: An iconic villian:Megatron, Darth Vader, Walter White, Cancer-man
+GAME: A multiplayer game:Fall Guys, Destiny 2, Fortnite, Rocket League
+THREE: A silly villain name:Dung-eater, finger lad, Skin-Haver, Rizzler
+POSITION: A position in a race like “5th”:1st, 7th, 28th, 900th
+WRITE: A liquid you can write with like “ink”:Spaghetti oil, blood, mayonnaise, white sauce
+NICE: Something you would help an elderly person with:Mow the lawn, bake cookies, cross the street, find their lost hankie
+FOOD: Something to feed an animal:Cheese, a Werthers Original, a smaller dog, Eggs for Bart
+ONE: Name of a violent villain:Kid-puncher, Mother-Lover, Dog-kicker, Genocide Jim
+TWO: A normal name:Benjamin, Hugo, Jessica, Claire, Robert
+MEDS: Name of a medication:Alcohol, chocolate, soft hugs, thigh-highs
+SCRIPT ==========================================
+Guitar music 1
+HA: (looks at wrist) Well, I guess we’re starting without THREE today.
+HA: This begins our POSITION meeting with the goal of integrating you villains back into society.
+HA: I trust that you’ve brought your diaries?
+V1: Oh yes! (Place diary on the desk in front of you) Everything I have done since my release has been documented, all written in WRITE! (Point down to diary)
+V1: From the time I helped that old lady NICE, to when I fed that dog FOOD.
+HA: Very good ONE. It’s those little acts of kindness that make the world brighter!
+HA: And what do you have to share with us TWO? Where’s your diary?
+V2: I ate it.
+vine boom
+scary music
+V2: Just like I ate that old lady that ONE helped NICE.
+waterphone
+V1: W-what..?
+V2: Yeah, she was a loud one. She kept screaming “ONE, ONE! Help!” I didn’t think she would ever shut up!
+V1: (starts to cry) She was so young.. You monster!
+HA: (hang head in shame, sighing) Well…
+guitar music 1
+HA: You know that’s not a very nice thing to do TWO. Looks like we will have to up your dosage of MEDS post-haste. (writes things on invisible clipboard)
+break down door
+V3: (bust through door, out of breath) Sorry I’m late everyone! I got distracted playing GAME over at ICONIC’s house.
+laughter
+HA: It’s good to see you THREE. Take a seat.
+V3: (sit at the empty seat) I see that TWO and ONE are here this time.
+V1: Salutations.
+V2: Die.
+vine boom
+HA: We were just sharing all your diary entries. THREE, whip out yours and give us a cheeky share.
+V3: Alrighty! (Place diary on table)
+telenovela music 1
+V3: Today I wanted to eat a SNACK.
+V3: So I went to a place that sells SNACK.
+V3: And I brought a SNACK.
+V3: And I returned home, with the SNACK.
+V3: And then I ate…… The SNACK.
+HA: That was….. very nice THREE.
+V1: (sniffs and wipes away a tear)
+music stops
+V1: Truly the words of a reformed villain. Bravo.
+V2: I think I’m going to eat THREE like a SNACK tonight.
+waterphone
+HA: I feel like this program isn’t for you TWO.
+V2: (stand and point aggressively) I’ll eat you next!
+vine boom
+HA: That’s it, I’m calling HERO. (Pull out phone from pocket)
+HA: (on phone) Yes, HERO. I need your help.
+epic fantasy music 2
+V2: HERO? Bah! Even ICONIC can best them in single combat. They stand no chance against yours truly!
+V2: ONE, THREE, you'll back me up, right?
+V1: Aren't we meant to better ourselves? Besides, isn't HERO one of the strongest heroes?
+V3: Y-yeah they are! They shoved FOOD down my neck last time they caught me with WRITE all over the place.
+V3: If HERO is really on their way, I'm out of here! (run out the door) THREE, away!
+crashing debris
+V1: HERO shows no mercy! Let me join you! (follow them out) ONE, farewell!
+aww
+HA: (look at watch) They should be here any moment to bring you to justice TWO..
+V2: Not fast enough to save you from becoming the latest SNACK for me to devour...
+vine boom
+HA: Uhm?
+super epic charge up
+V2: YAA! (attack them violently)
+gunshot
+explosion
+
+======
+
+INFORMATION ===============================
+ID: 663
+TITLE: A medical disaster 
+AUTHOR: Alyssa?
+VERIFIED: True
+TAGS: Skit
+SET: Doctor's Office
+CHARACTERS ================================
+DOCTOR: Doctor that doesn't have a PHD:Desk
+PATIENT: Patient:Examination Table
+WIFE: Worried Wife:Backstage
+SUGGESTIONS =============================
+SAMANTHA: Name:Bob, Samantha, Luna, Alyssa, God, Jesus Christ, gloopyglop
+STEVE: Name for a Doctor:Steve, Sarah, Apple, Gabriel, Jesse, James, flora, GTA V
+SPLEEN: Part of human body:Chest, stomach, eyes, nose, mouth, legs, arms, hands, head, stomach, organs
+VIRUS: Disease, infection, or virus:Cancer, Big Virus, deadly infection
+ACID: Deadly liquid of sorts:Acid, lava, spicy chicken sauce, waffles
+CRY: Something you would do to cope with pain:Cry, read, draw, book a plane to New York but forget about it
+CHATBOT: AI help bot name (even Made up):Chat GPT, Robo helper, The bot of awesome info
+APPUSE: Something you would do while using an app:Jumping, running, chilling, Existing
+VIDEOGAME: Video game or board game:Fortnite, COD, monopoly, Tetris
+SCRIPT ==========================================
+DOCTOR: SAMANTHA ! Your here for your once every 3 year check up!
+groose music
+PATIENT: Oh hey Dr. STEVE ! Long time no see!
+DOCTOR: So anything been bothering you SAMANTHA ?
+PATIENT: Oh I don't think so, my SPLEEN hurts a little.
+DOCTOR: (inspects patients SPLEEN) hmmm... SAMANTHA I have bad news
+PATIENT: What is it Doc?
+DOCTOR: You have VIRUS in your SPLEEN !
+PATIENT: This can't be happening! I need to tell my wife.
+PATIENT: Dear wife I have VIRUS in my SPLEEN . I don't think there is a cure. Send.
+message send
+DOCTOR: There might be a cure (goes to computer and begins to type)
+knocking on door
+DOCTOR: Come in!
+break down door
+WIFE: (run in) HONEY ARE YOU OKAY I HEARD YOU GOT VIRUS IN YOUR SPLEEN !!!!
+PATIENT: I'm fine, it just hurts a little.
+DOCTOR: (Finishes typing) So according to my database it says the cure it to pour ACID where the pain is.
+PATIENT: Are you sure we should pour ACID on the SPLEEN that has VIRUS ?!
+WIFE: (runs over to doctor) Are you sure that is safe?! I don't want them to get hurt! Last time that happens I CRY !! I don't like doing that...
+DOCTOR: Trust me our handy database is trustworthy, I would know.
+WIFE: Hold on Dr. STEVE is that the latest AI model of CHATBOT ?
+waterphone
+DOCTOR: Ummmmm... no?
+WIFE: It looks like it! I use it every day! I would know cause I do it while I APPUSE !
+PATIENT: I trust Dr STEVE ! Calm down hun! Please?
+WIFE: NOO!! Even his "PHD" on the wall is just painted there.
+PATIENT: Just trust him.
+WIFE: (sigh) okay... whatever... your loss
+DOCTOR: here is the ACID I'm gonna poor on your SPLEEN . You ready SAMANTHA?
+PATIENT: Yes I am.
+DOCTOR: Here comes the ACID! (pours the ACID on the patient)
+PATIENT: This feels funny.
+WIFE: Oh no! Should it feel funny Doc?!
+DOCTOR: YES
+PATIENT: I Don't feel so good (fall down and pass out)
+church bell
+sad chug jug music
+WIFE: They are DEAD look what you have done. Now I will never be able to buy them the new version of VIDEOGAME.
+DOCTOR: Oh wait! I know what happened! CHATBOT said to never pour that there!
+laughter
+DOCTOR: That will be 2000$ will you pay in cash or card?
+
+======
+
+INFORMATION ===============================
+ID: 665
+TITLE: Demon King Disaster
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+CHARACTERS ================================
+MAGE: Firm Mage:Stage Right
+WARRIOR: Brave Warrior :Entrance Stage Right
+PRIEST: Cautious Priest :Stage Left
+GREATER DEMON: Greater Demon:Backstage
+LESSER DEMON: Lesser Demon:Backstage
+SUGGESTIONS =============================
+PRIEST: A holy name:Dunkirk, Obama, Soldier 76, Deathsaurus
+SPELL: Name of a spell/magic:Hinga-tinga-durgen, Supercalafragalisticexpialidocious, MAGIC.exe, Oompa Loompa
+DISTANCE: A number bigger than 1:2, 6, 9, 420, 700
+MAGE: A Magical-sounding name:Tiggly-wiggly, Smokey-wokey, Samsung Smart-Fridge
+STATE: A state of being like “hungry”:Rizzless , Crave ASMR videos, emotionally flaccid, cringe
+WARRIOR: A Heroic name:Hashbrown, Eats-alot, Stonehenge
+HOLY: A silly thing to shout:E-BOY, E-GIRL, ASMR, I LOVE YOU
+MAGIC: Any meme:Gyatt, Rizzler, Sigma, Step-bro, That's just a theory a game theory
+CHILD: A type of person:Child, Boyfriend, girlfriend, grandma
+SMELL: Something that smells:An ogre, used socks, white sauce, the average VRChat user
+AAH: Last words while dying:I LOVE MY WIFE, I CURSE ZOIDBERG, OWIE, TASTES LIKE BACON
+COMP: A one worded compliment :Cute, lovely, saucy, beautiful, kissable, dead
+SCRIPT ==========================================
+halloween music
+thunder
+MAGE: Everything ready, Priest PRIEST?
+PRIEST: (look at palm) Let’s see..
+PRIEST: Just one more spell right here. (Point to middle of stage)
+MAGE: (wiggle wand) SPELL!
+magic sound
+PRIEST: There! All set. Now to wait for Sir WARRIOR.
+MAGE: Indeed. At long-last, we will kill the Demon King by summoning them right here!
+MAGE: Instead of travelling DISTANCE miles to defeat them in their castle.
+PRIEST: I still don’t understand why you couldn’t just teleport our party straight there, MAGE.
+MAGE: Ugh! I’ve told you many times.
+MAGE: It make me STATE!
+WARRIOR: (rush in, out of breath) I’m here! I’m here!
+WARRIOR: Has the Demon King been summoned yet? (draw sword)
+draw sword
+PRIEST: We were waiting for you, Sir WARRIOR.
+PRIEST: We plan on summoning them, then you will swiftly strike them down with your sword.
+PRIEST: (hold out hand) Let me empower it with holy magic.
+WARRIOR: (hand over sword) Do your mystical work, priest PRIEST.
+PRIEST: HOLY! HOLY! HOLY!
+WARRIOR: Ew….
+laughter
+MAGE: Yeah.. Ew.
+laughter
+PRIEST: All done. (give back sword, out of breath)
+MAGE: Collect yourself PRIEST!
+badass music 1
+MAGE: You take cover behind a tree while I summon the Demon King and Sir WARRIOR kills them!
+MAGE: (aiming at middle stage) Ready WARRIOR?
+WARRIOR: (get ready to swing at the middle of the stage) Ready MAGE!
+teleport LESSER DEMON to center stage
+LESSER DEMON: (hands up) Yay! It’s my birthday!
+WARRIOR: (strike them down) Kiyah!
+knife wound
+music stops
+LESSER DEMON: (fall in pain, dying) W-why? (Cry)
+PRIEST: Oh good heavens!
+WARRIOR: Uh oh..
+MAGE: That doesn’t look like the Demon King.
+LESSER DEMON: (cry in pain, bleeding) H-help me… please..
+WARRIOR: Should we try again? I’ll think before I swing next time.
+MAGE: Couldn’t hurt. I’ll adjust the spell.
+MAGE: (wave wand towards middle stage) MAGIC!
+tada
+GREATER DEMON: W-where am I? (Look at the one on floor)
+sad chug jug music
+GREATER DEMON: My CHILD. (Embrace) My CHILD!
+aww
+LESSER DEMON: I.. love you. (die)
+GREATER DEMON: (scream to the heavens) NOOOOOOOOOOO!
+GREATER DEMON: (look at them all) You monsters! Attacking my beloved CHILD in cold-blood! (Cry)
+PRIEST: So you’re not the Demon King?
+GREATER DEMON: No! What kind of priest are you?!
+vine boom
+MAGE: That’s not a nice thing to say.
+laughter
+GREATER DEMON: And you! Using your magic to abduct us. How dare you!
+WARRIOR: Should I kill them?
+MAGE: Go ahead, they smell like SMELL.
+laughter
+GREATER DEMON: Hold on now!
+WARRIOR: And now... I strike you down! (attack them)
+knife wound
+GREATER DEMON: (Die dramatically) AAAH!
+PRIEST: Welp.. I'm going to have to pray a lot tonight. (Leave)
+MAGE: Yeeeeaaaah. I’m out. I have some grimoires to read. (Leave)
+WARRIOR: (put sword away) It is done.
+draw sword
+WARRIOR: Aww. They look so COMP together.
+WARRIOR: In an oddly grotesque way.
+laughter
 
 ======
 
