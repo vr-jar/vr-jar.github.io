@@ -1586,6 +1586,7 @@ SleepyZoroark
 TurboTheGameGuy
 -RALTZ-
 Soul_Beat
+Kazuma-1
 #TIER=1
 AkaruHaru
 Riles
