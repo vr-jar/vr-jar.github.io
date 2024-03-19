@@ -1585,6 +1585,7 @@ SleepyZoroark
 Ｎｉｌｉｏｕｚ
 TurboTheGameGuy
 -RALTZ-
+Soul_Beat
 #TIER=1
 AkaruHaru
 Riles
