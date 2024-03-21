@@ -2160,7 +2160,6 @@ Hi5 Me
 あいしてる
 ༒ララ-タイガー༒
 #TIER=2
-Z-AuraSphere23
 CODBO3RGM3
 ~Monkee~
 ArkoNero
@@ -2284,6 +2283,7 @@ jassi701
 Shin-_
 shadowblade0
 Lucifer0TTV
+Lady Auracle
 #TIER=3
 SidMarcus
 PinballReviewer
