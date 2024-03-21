@@ -1584,6 +1584,7 @@ HyperAzura
 Rhohnin
 o-JayG-o
 ＳＡＮＩＴＹ
+DapperKnight
 #TIER=1
 AkaruHaru
 Riles
