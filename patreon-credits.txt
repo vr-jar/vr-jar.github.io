@@ -1214,7 +1214,7 @@ Nature_Sanctum
 Blaiser10101
 Dewy_21
 WanderingSpoon
-BarkySter
+Furry Kisser
 raiquaza
 sʏʟᴠɪʟʏ
 Ralsei_123
@@ -1603,6 +1603,7 @@ DrumstickPony
 Sh4rk B1te
 lаsh
 Cosmicbear
+MrPringles
 #TIER=1
 AkaruHaru
 Riles
