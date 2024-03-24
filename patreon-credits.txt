@@ -1579,7 +1579,6 @@ o-JayG-o
 ＳＡＮＩＴＹ
 DapperKnight
 Grif12345689
-BgS Metro
 FaZe_stello
 NotYuno
 DrumstickPony
@@ -1612,6 +1611,7 @@ BexxBug
 ＣΛＬΛＭＩＴＹ
 DJ Cobra
 Ƭhat Person
+BgS Metro
 #TIER=1
 AkaruHaru
 Riles
