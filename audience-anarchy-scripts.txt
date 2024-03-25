@@ -7774,114 +7774,6 @@ Meanwhile DAUGHTER: (hurriedly to mother) [HOMEWORK] is [DARK], but [LIGHT] came
 ======
 
 INFORMATION ===============================
-ID: 143
-TITLE: Password Panic
-AUTHOR: Zen the Fen
-VERIFIED: True
-TAGS: Skit
-SET: Living Room
-CHARACTERS ================================
-NICKY: Nicky, the password changer:Stage Left
-PAUL: Paul, the victim:Couch
-SUGGESTIONS =============================
-NICKNAME: a nickname you'd give a friend:homey, friend, pally, brother, bro
-STUPID: stupid password:1234, picklerick69, deeznuts420, ChipsAhoy4pack
-ADJ: adjective to describe someone:stupid, slow, flamboyant, little
-ONE: Wi-Fi network name:Wi-Fi One, Silly Rabbit, You Get Nothing
-INSULT: Angry exclaimation, nickname, or insult (one word):Jerk, Idiot
-TWO: Wi-Fi network name:Wi-Fi Two, Trixie Pix, You Lose
-THREE: Wi-Fi network name:Wi-Fi Three, Good Day Sir, You Lost The Game
-GOD: something or someone you would swear or pray to:god, Jesus, Allah, the Fonz, Cthulhu
-ITEM: a device that requires a password:Quest headset, smart phone, secret safe
-SCRIPT ==========================================
-PAUL: (pretend to be using your phone) Ey yo, Nicky!
-NICKY: (look over) Wassup, NICKNAME?
-Laughter
-PAUL: I can't log into any of the Wi-Fi networks.
-NICKY: Oh sorry, I thought I told you. I changed the passwords.
-PAUL: What? Why?!
-NICKY: Well, security maintenance.
-PAUL: (skeptical) Mmm... I dunno, that sounds made up.
-Laughter
-NICKY: It's not, it's actually something you need to do now and then.
-PAUL: You could have told me, at least.
-NICKY: I'm sorry, I thought I did! Anyway, they should be easier to remember now.
-NICKY: Contrary to last time, I made these passwords unusual, so that we can remember them, and so they can't be guessed as easily.
-PAUL: Alright, cool. Yeah, "STUPID" as the last password was kinda stupid.
-Laughter
-NICKY: I didn't make that, actually.
-PAUL: I know, your ADJ friend from across the street did, and he still forgot it.
-Laughter
-PAUL: But I digress. What's the password for the "ONE" Wi-Fi network?
-NICKY: "I can't tell you."
-PAUL: Why not?
-NICKY: Why not what?
-PAUL: Why can't you tell me?
-NICKY: Tell you what? The password? I just did.
-PAUL: No you didn't, what's the password?
-NICKY: "I can't tell you."
-PAUL: INSULT!
-Laughter
-PAUL: Fine, don't tell me. But at least tell me the password for the "TWO" Wi-Fi network.
-NICKY: Fine. "I don't remember."
-PAUL: W- INSULT!
-Laughter
-PAUL: You said these were going to be easy to remember!
-NICKY: They are easy to remember, you're just not getting it!
-PAUL: Obviously not if you forgot.
-NICKY: I didn't forget it...
-PAUL: Then what is it?!
-NICKY: "I don't remember."
-PAUL: DUDE...!
-Laughter
-PAUL: We have three Wi-Fi networks, set up and configured - by you!
-NICKY: Yes.
-PAUL: And you made all the passwords, so you would know them all, right?
-NICKY: Yes, of course.
-PAUL: And I deserve to know them too, right?
-NICKY: Of course you do, that's why I'm giving them to you!
-PAUL: (scoff) Well you haven't told me anything yet!
-Laughter
-PAUL: What's the "ONE" password?
-NICKY: "I. Can't. Tell you."
-PAUL: INSULT, what's the one for "TWO?"
-NICKY: "I don't remember."
-PAUL: INSULT! What's the password for... "THREE?" We really need to work on these Wi-Fi names...
-Laughter
-NICKY: "You have to guess it."
-PAUL: I CAN'T GUESS IT, THAT'S WHY I'M ASKING YOU!
-Laughter
-NICKY: Well of course you can't guess it.
-PAUL: Then what is it?!
-NICKY: "You have to guess it."
-PAUL: (get up in their face) I will end you.
-Laughter
-NICKY: Would you like to see them in black and white??
-PAUL: Yes, puh-lease!
-NICKY: They're on my computer, go take a look.
-PAUL: Good, thanks. (turn to leave the room, then stop) Oh, hang on a sec.
-NICKY: What now?
-PAUL: ... what's the password for your computer?
-Laughter
-NICKY: "Who's Asking."
-PAUL: Y- W-... I am!
-NICKY: What?
-PAUL: I'm asking for your computer password.
-NICKY: Yeah, "Who's Asking."
-PAUL: (wave in front of their face) Hello? I'm right. Here. Computer password, please.
-NICKY: "Who's. Asking."
-PAUL: I swear to GOD, you are ACTUALLY mentally deficient.
-Laughter
-PAUL: Never mind, I'm just gonna ask your mother.
-NICKY: Wait, hang on... what did you just say?
-PAUL: Ask your mother.
-NICKY: Oh hey, that's the password for my ITEM.
-Laughter
-Gameshow outro
-
-======
-
-INFORMATION ===============================
 ID: 145
 TITLE: Psychic Medium
 AUTHOR: TrickySpookster
@@ -12848,23 +12740,23 @@ VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
 CHARACTERS ================================
-SVAIN: Serious Villain:Center Stage
-NVAIN: Tech Expert:Stage Left
-MVAIN: Muscle Man:Entrance Stage Right
 PVAIN: Party Dude:Backstage
+MVAIN: Muscle Man:Entrance Stage Right
+NVAIN: Tech Expert:Stage Left
+SVAIN: Serious Villain:Center Stage
 SUGGESTIONS =============================
-VILL: Name for a Super Villain.:Dr. Destro, The Death Knock, Evil Suit man
-TECH: Name for a Tech Expert.:Nerdman, Wizzo, Gadgeet
-MUSC: Name for a Musclehead Villain.:Zugg, Kurb, Desto
-PART: Name for a Party Dude.:Kelp Kahuna, Tidal Titan, Perry Party
-NOUN: A Plural Noun (Persons, Places or Things):Old Ladies, Children, Trees, Buildings
-FOOD: A type of Snack (plural) ex. Chips.:Chips, Muffins, Cookies
-DRINKS: A type of Drink (plural) ex. Sodas.:Beers, Sodas, Juice Pouches
-BOARD: Name of a Board Game.:Chutes and Ladders, Monopoly, Uno
-PLACE: Name of a place (City, Building, Store, etc):New York Plaza, Yellowstone Park, Water World
-TRAP: Something you would capture someone with.:Ropes, Pitfalls, Falling Cages
-YUCK: Something that would taste bad.:Dirty Bathwater, Rotten Tomatoes, Foot Fungus 
 HERO: Name of a Superhero.:Captain McGoodPants, The Flying Hat, Turkey Man
+YUCK: Something that would taste bad.:Dirty Bathwater, Rotten Tomatoes, Foot Fungus 
+TRAP: Something you would capture someone with.:Ropes, Pitfalls, Falling Cages
+PLACE: Name of a place (City, Building, Store, etc):New York Plaza, Yellowstone Park, Water World
+BOARD: Name of a Board Game.:Chutes and Ladders, Monopoly, Uno
+DRINKS: A type of Drink (plural) ex. Sodas.:Beers, Sodas, Juice Pouches
+FOOD: A type of Snack (plural) ex. Chips.:Chips, Muffins, Cookies
+NOUN: A Plural Noun (Persons, Places or Things):Old Ladies, Children, Trees, Buildings
+PART: Name for a Party Dude.:Kelp Kahuna, Tidal Titan, Perry Party
+MUSC: Name for a Musclehead Villain.:Zugg, Kurb, Desto
+TECH: Name for a Tech Expert.:Nerdman, Wizzo, Gadgeet
+VILL: Name for a Super Villain.:Dr. Destro, The Death Knock, Evil Suit man
 SCRIPT ==========================================
 Spy music 1
 SVAIN: What is taking those two so long!? Don't they understand that our success depends on our union!?
@@ -12914,7 +12806,7 @@ Vine boom
 SVAIN: (Becoming weakened and slump to floor) No! You aren't PART are you!? Could it be...
 meanwhile NVAIN: (Becoming weakened and slump to floor)
 PVAIN: That is right! It is I! HERO! Your reigns of tyranny are over fiends! Prepare yourself for my-
-meanwhile MVAIN: (Get behind the HERO ready to smash them)
+meanwhile MVAIN: (Get behind the hero and get ready to smash them)
 crashing debris
 PVAIN: Arrrgggh! (Fall unconscious)
 MVAIN: Finally smash.
@@ -18502,25 +18394,25 @@ laughter
 
 INFORMATION ===============================
 ID: 545
-TITLE: New Horse Order
+TITLE: Court Case: Horsing Around
 AUTHOR: SuperNova77
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
 CHARACTERS ================================
-PSN: Judge Theodore :Judge Chair
-JACK: Jackie Jackson, The Defendant :Defendant Table
-STAR: Nova Elpis, The Defense:Defendant Table
-KRIS: Prosecutor Khristopher The Musician :Plaintiff Table
 SUN: Sunny Shine, The Witness:Plaintiff Door
+KRIS: Prosecutor Khristopher The Musician :Plaintiff Table
+STAR: Nova Elpis, The Defense:Defendant Table
+JACK: Jackie Jackson, The Defendant :Defendant Table
+PSN: Judge Theodore :Judge Chair
 SUGGESTIONS =============================
-ROOT: A name of a farm :Fatal Fields, Anarchy Acres, Frenzy Farm, Fencing Fields. 
-HATE: A word to negatively describe a group of people:hooligans, vandals, thugs, stoneheads
-YUM: A drink:Slurp Juice, Kool-Aid, Slap Juice, Kelp Shake 
-SWEET: A justice related catchphrase:Justice serves all! Justice never rests! Justice will pummel all!
-SOUND: An onomatopoeia:YOINK, SPABLOOM, BRAP
-DAMN: A negative word:baloney, tommyrot, nonsense
 FLUID: Any liquid:water, oil, milk, acid
+DAMN: A negative word:baloney, tommyrot, nonsense
+SOUND: An onomatopoeia:YOINK, SPABLOOM, BRAP
+SWEET: A justice related catchphrase:Justice serves all! Justice never rests! Justice will pummel all!
+YUM: A drink:Slurp Juice, Kool-Aid, Slap Juice, Kelp Shake 
+HATE: A word to negatively describe a group of people:hooligans, vandals, thugs, stoneheads
+ROOT: A name of a farm :Fatal Fields, Anarchy Acres, Frenzy Farm, Fencing Fields. 
 SCRIPT ==========================================
 PSN: The Court is now in session!
 courtroom music
@@ -20846,7 +20738,7 @@ KNG: You must learn to smell the roses and breath in the clean air.
 ZLD: Yeah, Fathers know best.
 (Music Stops)
 (forest footstep)
-GWN: (Enter stage right) Your majesty! I'm afraid to inform you that King ISLANDKNG of ISLANDNAME.
+GWN: (Enter stage right) Your majesty! I'm afraid to inform you that King ISLANDKNG of ISLANDNAME is under attack!
 (epic fantasy music 2)
 KNG: Really, how so?
 GWN: From what I been told, This is the evil work of GANNAME!
@@ -20872,13 +20764,13 @@ Meanwhile ZLD: (follow king to stage left)
 (Music Stops)
 (fantasy music 2)
 GWN: Come along now! CATCHPHRASE!!! We're off!!!
-LNK: Wow, What are all those heads out there?
+LNK: (Point to the audience.) Wow, What are all those heads out there?
 GWN: Those are the Faces of Evil. You must conquer each and every one of them.
 LNK: Seems fair, I best get started now. But where to go first?
 GWN: Here is the MAPNAME, Just point to where you wish to go from there. (Exit stage right)
 Meanwhile LNK: (follow messager to stage right)
 (Music Stops)
-KNG: (Return to stage with princess) So, Now what?
+KNG: (Return to stage with princess) Well, they're finally gone now. Now what?
 Meanwhile ZLD: (Follow king back to stage)
 ZLD: How about we grab something to eat?
 KNG: Great, I wonder what's for dinner?
@@ -21078,19 +20970,19 @@ VERIFIED: True
 TAGS: Skit
 SET: News
 CHARACTERS ================================
-ANALYST: Dr. Emily Parker, Analyst:Backstage
-REPORTER: Mike Roberts, News Reporter:Fake Street Backdrop
 ANCHOR: Jane Smith, News Anchor:News Desk
+REPORTER: Mike Roberts, News Reporter:Fake Street Backdrop
+ANALYST: Dr. Emily Parker, Analyst:Backstage
 SUGGESTIONS =============================
-CREATURE: A strange creature or being:Jackalope, Chupacabra, Bunyip, Wendigo, Elmo from Sesame Street
-WEATHER: An unusual weather phenomenon:Fire whirls, Catatumbo lightning, Blood rain, raining cockroaches
-CITY: Any city name, real or fictional:Willowbrook heights, New York, Harborview bay, San Francisco
-FOOD: A tasty food:Gourmet donuts, tacos, canned olives, sardines, banana pudding, cool whip
-EVENT: An event :Music festival, Game night, art walk, public execution
-TECH: A technological advancement :Robotic pets, Quantum computing, Virtual Reality Chat
-DISCOVERY: A ancient relic:Rosetta stone, crusty sock, the uncensored statue of david
+MOVIE: A movie name :The super Mario movie, Cars, kronks new groove 
 CELEBRITY: A celebrity :Chris Pratt, Drake, Taylor swift, Eminem, Barack Obama
-MOVIE: A moive name :The super Mario movie, Cars, kronks new groove 
+DISCOVERY: A ancient relic:Rosetta stone, crusty sock, the uncensored statue of david
+TECH: A technological advancement :Robotic pets, Quantum computing, Virtual Reality Chat
+EVENT: An event :Music festival, Game night, art walk, public execution
+FOOD: A tasty food:Gourmet donuts, tacos, canned olives, sardines, banana pudding, cool whip
+CITY: Any city name, real or fictional:Willowbrook heights, New York, Harborview bay, San Francisco
+WEATHER: An unusual weather phenomenon:Fire whirls, Catatumbo lightning, Blood rain, raining cockroaches
+CREATURE: A strange creature or being:Jackalope, Chupacabra, Bunyip, Wendigo, Elmo from Sesame Street
 SCRIPT ==========================================
 world news intro
 ANCHOR: Good evening, Viewers. I'm Jane Smith, your beacon of truth in this sea of uncertainty.
@@ -21469,8 +21361,100 @@ explosion
 ======
 
 INFORMATION ===============================
+ID: 657
+TITLE: Goodies Inspection
+AUTHOR: AirportPigeon
+VERIFIED: True
+TAGS: Skit
+SET: Forest Bridge
+CHARACTERS ================================
+GUARD: Guard:On bridge
+MAGE: Mage:Entrance Stage Right
+KNIGHT: Knight:Backstage
+JESTER: Jester:Backstage
+SUGGESTIONS =============================
+LOCATION: a fictional place:russia, mcdonalds, where the pokemon come from
+MAGE: a name for a mage:gorlock, skidaddle, skibidi
+ROYALTY: a name for a mighty king:Charles, Henry, Steven, Arthur, fritz
+GIFT: a tiny gift:a biscuit, a penny, a jewel, a iphone 11 pro max
+FAMILY: a large family member:Ogre, Goth mommy, eboy
+HANDLE: a name for a knight:Sir Killsalot, Sir Bash, Sir Biboo, Sir Musk
+PLACE: a name for a kingdom:Mushrooms, Science, blood, friendship
+DESCRIPTION: a description for tasty food:scrumptious, delicous, yummy in my tummy, fat free
+BODY : a body part that can hurt:arm, leg, lower back, knee
+SILLY: a name for a jester/clown or a silly name:goofy, mickey, silly billy, brent, the clown from it
+HOME: name of a circus :silly , Funny, Meth, endangerment
+NUMBER: a random number:15, 82, 94
+SCRIPT ==========================================
+peaceful fantasy music
+GUARD: Man, I hope I get a raise.. Manning this checkpoint is rough on my BODY..
+KNIGHT: (huddle with Mage and Jester)
+KNIGHT: We need to get into this kingdom, guys.
+MAGE: I’ll try first to test the waters.
+MAGE: Wish me luck!
+KNIGHT: Good luck!
+JESTER: (random goofy, funny laugh)
+MAGE: (slowly approach bridge) Hello? Is this the kingdom of King ROYALTY?
+GUARD: (Hand forward) Who goes there? Tell me your name and where you have come from!
+MAGE: My name is MAGE I am from the great mighty land of LOCATION.
+GUARD: (write down the information on a scroll) Alright what have you brought as tribute for our great mighty king ROYALTY?
+MAGE: I have brought GIFT for king ROYALTY. A special delight from LOCATION!
+GUARD: Let me get a good hearty sniff of that GIFT. (smell the item)
+GUARD: Smells like... Contraband..
+music stops
+vine boom
+MAGE: W-what? But my FAMILY gave it to me before they died last Tuesday!
+GUARD: Your GIFT would make King ROYALTY cry!
+draw sword
+GUARD: (draw weapon) prepare to perish!
+GUARD: Any last words?
+MAGE: Can I just leave? And maybe get a better offering?
+GUARD: Neigh. (strike them down)
+knife wound
+MAGE: (die crying, say anything you want.)
+teleport MAGE to Backstage
+GUARD: Next in line!
+peaceful fantasy music
+KNIGHT: Salutations, my name is HANDLE from the war-torn lands of PLACE!
+GUARD: (write down info on scroll) And you tribute for the king ROYALTY?
+KNIGHT: I have come to offer my body and sword for King ROYALTY.
+GUARD: Oh, I see..
+GUARD: Well.. (inspects) You don’t look like what the King would want in a Knight.
+KNIGHT: What’s that supposed to mean?!
+GUARD: You are neither “Plump”, “Sweet”, nor “begging for cream.”
+KNIGHT: (bewildered) Now that’s just ridiculous! Let me by!
+GUARD: (hand forward) I simply can’t let you in. You’re just not DESCRIPTION enough.
+music stops
+vine boom
+KNIGHT: But I am the most DESCRIPTION of all my land! Please reconsider!
+laughter
+GUARD: (Draw sword)
+Draw sword
+GUARD: Neigh. (strike them down)
+knife wound
+KNIGHT: But im soooo DESCRIPTION!(die slowly)
+teleport KNIGHT backstage
+yankee doodle music
+GUARD: One last visitor for the day. my BODY hurts!
+JESTER: (dance flamboyantly on stage)
+JESTER: Hardy-har-har! it is I, SILLY from the bounce-house of HOME.
+GUARD: Interesting, interesting. (writes info on scroll)
+GUARD: Did you bring any tribute for our king ROYALTY?
+JESTER: (hand in pocket) I have in my possession…
+JESTER: (hold hand up) NUMBER grams of freshly sniffable fairy powder for the king ROYALTY!
+JESTER: (point to self) Cooked to crispy perfection by yours truly!
+GUARD: (examines) Looks pretty legitimate to me.
+GUARD:As long as I get a sample later, I think your good to go!
+GUARD: Have a red letter day, my effeminate fellow!
+applause
+JESTER: (dance out of the stage) Yoohohaa!
+GUARD: What a handsome and great young fellow. (Start to pack-up)
+
+======
+
+INFORMATION ===============================
 ID: 663
-TITLE: A medical disaster 
+TITLE: A Medical Disaster 
 AUTHOR: Alyssa?
 VERIFIED: True
 TAGS: Skit
@@ -21485,41 +21469,41 @@ STEVE: Name for a Doctor:Steve, Sarah, Apple, Gabriel, Jesse, James, flora, GTA 
 SPLEEN: Part of human body:Chest, stomach, eyes, nose, mouth, legs, arms, hands, head, stomach, organs
 VIRUS: Disease, infection, or virus:Cancer, Big Virus, deadly infection
 ACID: Deadly liquid of sorts:Acid, lava, spicy chicken sauce, waffles
-CRY: Something you would do to cope with pain:Cry, read, draw, book a plane to New York but forget about it
+CRY: Something you have done to cope with pain (past tense)):Cried, read, drew, exercised
 CHATBOT: AI help bot name (even Made up):Chat GPT, Robo helper, The bot of awesome info
-APPUSE: Something you would do while using an app:Jumping, running, chilling, Existing
+APPUSE: Something you would do while using an app:Jump, run, chill, Exist
 VIDEOGAME: Video game or board game:Fortnite, COD, monopoly, Tetris
 SCRIPT ==========================================
 DOCTOR: SAMANTHA ! Your here for your once every 3 year check up!
 groose music
 PATIENT: Oh hey Dr. STEVE ! Long time no see!
-DOCTOR: So anything been bothering you SAMANTHA ?
+DOCTOR: So anything been bothering you SAMANTHA?
 PATIENT: Oh I don't think so, my SPLEEN hurts a little.
 DOCTOR: (inspects patients SPLEEN) hmmm... SAMANTHA I have bad news
 PATIENT: What is it Doc?
-DOCTOR: You have VIRUS in your SPLEEN !
+DOCTOR: You have VIRUS in your SPLEEN!
 PATIENT: This can't be happening! I need to tell my wife.
-PATIENT: Dear wife I have VIRUS in my SPLEEN . I don't think there is a cure. Send.
+PATIENT: Dear wife I have VIRUS in my SPLEEN. I don't think there is a cure. Send.
 message send
 DOCTOR: There might be a cure (goes to computer and begins to type)
 knocking on door
 DOCTOR: Come in!
 break down door
-WIFE: (run in) HONEY ARE YOU OKAY I HEARD YOU GOT VIRUS IN YOUR SPLEEN !!!!
+WIFE: (run in) HONEY ARE YOU OKAY I HEARD YOU GOT VIRUS IN YOUR SPLEEN!!!!
 PATIENT: I'm fine, it just hurts a little.
-DOCTOR: (Finishes typing) So according to my database it says the cure it to pour ACID where the pain is.
-PATIENT: Are you sure we should pour ACID on the SPLEEN that has VIRUS ?!
-WIFE: (runs over to doctor) Are you sure that is safe?! I don't want them to get hurt! Last time that happens I CRY !! I don't like doing that...
+DOCTOR: (Finishes typing) So according to my database it says the cure is to pour ACID where the pain is.
+PATIENT: Are you sure we should pour ACID on the SPLEEN that has VIRUS?!
+WIFE: (runs over to doctor) Are you sure that is safe?! I don't want them to get hurt! Last time that happens I CRY!! I don't like doing that...
 DOCTOR: Trust me our handy database is trustworthy, I would know.
-WIFE: Hold on Dr. STEVE is that the latest AI model of CHATBOT ?
+WIFE: Hold on Dr. STEVE is that the latest AI model of CHATBOT?
 waterphone
 DOCTOR: Ummmmm... no?
-WIFE: It looks like it! I use it every day! I would know cause I do it while I APPUSE !
-PATIENT: I trust Dr STEVE ! Calm down hun! Please?
+WIFE: It looks like it! I use it every day! I would know cause I do it while I APPUSE!
+PATIENT: I trust Dr STEVE! Calm down hun! Please?
 WIFE: NOO!! Even his "PHD" on the wall is just painted there.
 PATIENT: Just trust him.
 WIFE: (sigh) okay... whatever... your loss
-DOCTOR: here is the ACID I'm gonna poor on your SPLEEN . You ready SAMANTHA?
+DOCTOR: here is the ACID I'm gonna poor on your SPLEEN. You ready SAMANTHA?
 PATIENT: Yes I am.
 DOCTOR: Here comes the ACID! (pours the ACID on the patient)
 PATIENT: This feels funny.
@@ -21634,6 +21618,308 @@ draw sword
 WARRIOR: Aww. They look so COMP together.
 WARRIOR: In an oddly grotesque way.
 laughter
+
+======
+
+INFORMATION ===============================
+ID: 668
+TITLE: You Got That Thing?
+AUTHOR: Alyssa?
+VERIFIED: True
+TAGS: Skit
+SET: Forest Bridge
+CHARACTERS ================================
+P: Pokemon:Backstage
+C: The Child:Backstage
+B: The Buyer?:On bridge
+K2: The Actual Knapper:Backstage
+K1: The "Kidnapper":Backstage
+SUGGESTIONS =============================
+AC: Game:Fortnite, monopoly, uno, tetris
+AB: Website:Wikihow, Google, youtube, Wikipedia 
+AA: Something a pokemon would love:Food, hugs, lava, vr headsets
+A9: A dance:Boogie, cha-cha-slide, Griddy
+A8: An attack:Tackle, quick attack, punch, assault, pistol
+A7: A pokemon:Pikachu, Vaporeon, character, Lopunny, Eve
+A6: Something you would give to save your own life:Robot, computer, vr, gun, person, soul
+A5: A building:Home, tower, store, factory, orphanage 
+A4: Something valuable :Money, cash, business, bank, gold
+A3: Something that was found in a dumpster:Trash, waterborne, lead, Metal, The homeless
+A2: Agent Code Name:Pineapple, waffle, ninja, apple, walmart
+TIMMY: Name for a child:Timmy, Jim, Bob, Rebecca, James
+SCRIPT ==========================================
+bard music 2
+B: I have been waiting weeks to get my hands on little TIMMY.
+B: They are rare now and days... They used to be everywhere...
+B: But now I meet here to finally get a little TIMMY!
+K1: (walk in stage left) Hello there!
+courtroom music
+B: So you finally arrive...
+K1: If this is the correct person. What is the code name?
+B: A2! If I remember correctly...
+K1: That is correct!
+B: You got the thing?
+K1: Well I got many things depends on which customer this is. Are you talking about the A3? Or the A4?
+B: No no no no... the thing! You know! Little A1?
+K1: Oh!! That! I left that back at the A5...
+B: Really? I have been waiting all week for little A1!
+K1: I'll go get it, shouldn't take long! (Run off stage left)
+B: Fine... I guess I can wait... longer...
+K2: (Enter stage right) You the guy?
+Meanwhile C: (Enter stage right with The Kidnapper)
+B: Why do you have a child?
+K2: Isn't that what you ordered?
+waterphone
+B: No!! You must of got the wrong location bud! I want my childhood plush named little A1.
+K2: This isn't the little A1 you wanted?
+C: Help me! Please! Save me! He did many bad things to me!
+K2: Oh shush little A1!
+B: Can you like leave?
+K2: Actually I think not... you have seen to much.
+B: Please I'll do anything?
+K2: Give me your favorite A6!
+pokemon battle start
+B: No! I would never! A7! I choose you!
+P: A7! A7!
+K2: Wait what?
+C: Omg I love A7!
+K2: Umm little A1! I choose you!
+pokemon battle music
+B: A7! Use A8!
+magic sound
+P: A7! A7! (A8 towards the child but miss)
+C: (move out of the way) You missed I think
+K2: little A1! Use A9!
+C: No!
+B: Ha! Seems you picked a bad pokemon!
+K1: (run in stage left) I got the thing!
+C: (punch K2 in the face) take that!
+K2: (Run away crying) Why me?
+courtroom music
+K1: Sorry the A5 was full of children!
+B: Just give me the little A1!
+K1: Here you go! (Hand him little A1 plush)
+B: Oh! how I missed you!
+accordion sting
+P: (take the plush and run into the river with it) A7! A7! A7!
+C: Silly A7
+B: This isn't funny I spent a A4 on this!
+K1: I hear that A7 loves AA! I read it on AB!
+C: I read AB every day! Well I did before I was kidnapped!
+B: I have some AA in my pocket actually! Let me get it out!
+P: A7! A7! A7! (Drop the plush into the river)
+lacrimosa music
+B: Oh no!
+K1: Womp womp
+C: A7 is so funny haha
+K2: (wear a different avatar as a disguise)
+groose music
+B: What will I do now? An A4 gone to waste.
+K1: Couldn't tell you (walk off stage left)
+K2: (walk in stage right) Hey kid! Want some candy?
+waterphone
+C: I love candy (run off stage right)
+P: (run at K2 and A8 him)
+magic sound
+K2: (fall over)
+church bell
+P: (Run off stage right)
+B: Darn... no more plush cuddles and AC.
+
+======
+
+INFORMATION ===============================
+ID: 670
+TITLE: Yummy Yummy Yummy
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+CHARACTERS ================================
+CHILD: Silly Child:Stage Left
+TEEN:  Edgy teenager:Couch
+GUARDIAN: Parental figure:Kitchen
+SUGGESTIONS =============================
+DELI: A Youtuber:Mr. Beast, Pewdiepie, Markiplier, Koseki Bijou, DokiBird
+DANGER: A dangerous thing to eat:Used needles, PSA 10 Holo Base Set Charizards, Baby batter, sweaty shirts, freshly plucked teeth
+PART: A body part you don’t want more of:Tongue, breast, ear, nose, cheek, thigh
+BODY: A body part:Head, feet, middle finger, eyes, rear, chest, tummy, knees
+GIRL: Gen Z Girl name:Krystal, Cyan, E-gurl, Euphoria
+PET: An animal that should t be a household pet:Whale, Ant, Elephant, T-Rex, Genetically Altered Moose
+ILL: A disease, real or fictional:The Lurgy, Scurvy, Mad Cow disease, Bird-Flu
+EDGE: Name of an Edgelord:xX_Killa_Xx, Raymond’s Law, Deathsauraus, Adam Smasher, Devil’s bane
+NUMBER: A number higher than 1:28, 15, 7, 2
+GROSS: Something gross:blood biscuits, Dog water, used bandaids
+EVENT: A celebratory event:Christmas, Easter, Black Friday, Grandmas funeral
+KID: A name of a stupid child:Durp, Smoothie, Mistake, Amanda Hugandkiss
+SCRIPT ==========================================
+Groose music
+GUARDIAN: KID, my darling. We are getting some food delivered to celebrate EVENT.
+GUARDIAN: What do you want to order?
+CHILD: I want GROSS!
+vine boom
+GUARDIAN: (sigh) Now KID, we’ve ordered you GROSS many times!
+GUARDIAN: And every time you don’t eat all of it.
+GUARDIAN: (wag finger) It’s a waste of money and it smells out the whole house for NUMBER days!
+laughter
+TEEN: (shout over) It’s not KID’s fault that they put so much GROSS in the box.
+GUARDIAN: Then why don’t you share some with KID, EDGE?
+TEEN: Ew, no. People online say that GROSS gives you ILL. I can’t deal with ILL right now.
+discord notification
+TEEN: (type on phone) Not today. Not at EVENT.
+CHILD: (cry a little) Didn't our lovely pet PET die from ILL?
+GUARDIAN: You fed our PET some GROSS?!
+vine boom
+CHILD: A little bit.. They looked so hungry!
+discord notification
+TEEN: (look at phone) Oh, sweet.
+GUARDIAN: What is it?
+TEEN: My girlfriend GIRL is coming over!
+CHILD: The one with the huge BODY?
+laughter
+GUARDIAN: KID!!!
+CHILD: Hehe, I like their BODY..
+aww
+TEEN: No, they’re the one with the extra PART.
+laughter
+GUARDIAN: Ah, her. She’s a good one.
+GUARDIAN: When are you going to slap a ring on that PART?
+TEEN: They don’t really celebrate EVENT, so I don’t know.
+discord notification
+TEEN: (look at phone) She says she wants some GROSS too.
+CHILD: Yippie!! GROSS for everyone!
+laughter
+GUARDIAN: Fine. KID and GIRL can share a bucket of GROSS.
+GUARDIAN: What do you want, EDGE?
+TEEN: I want a box of DANGER.
+waterphone
+GUARDIAN: E-Excuse me?!
+TEEN: You heard me.
+laughter
+TEEN: Hurry up and order it!
+GUARDIAN: … Okay… If that’s what you’re into. It is EVENT after all.
+GUARDIAN: (take out phone and begin to order) Hmmmmm…
+CHILD: Can I have some?
+TEEN: No, buzz off!
+CHILD: Aw..
+GUARDIAN: (finish ordering) Okay, all ordered.
+GUARDIAN: Our delivery is being delivered by DELI!
+applause
+CHILD: I love DELI!
+TEEN: Overhyped.
+vine boom
+TEEN: They lost my respect when they began selling NFTs.
+GUARDIAN: What’s an NFT?
+CHILD: Isn’t it that thingy online about the ugly monkey?
+laughter
+GUARDIAN: I thought it was about that Zucker-fellow from the Facebook?
+aww
+TEEN: (facepalm) Oh lord..
+doorbell
+GUARDIAN: Oh! That could be DELI with the GROSS and DANGER!
+CHILD: Or it could be GIRL with the extra PART!
+TEEN: I hate EVENT….
+aww
+
+======
+
+INFORMATION ===============================
+ID: 678
+TITLE: Oddly Named Recruit 
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Detective Noir
+CHARACTERS ================================
+REC: Poorly named Soldier:Backstage
+SOL: Reliable Soldier:Visitor Chair
+COM: Oblivious Commander:Detective Chair
+SUGGESTIONS =============================
+HOLE: A hole in the human body:Ear, eye, mouth, nose, butt, belly button 
+ACTION: An action you can do with your arms:Dance, Wave, dab, thrust, fist bump, slap
+EVENT: An important event:No-nut-November, Friedan Friday, Free V-Bucks Tuesday, 2012, The Sabbath, my birthday
+BODY: A big part of the body:Head, arm, leg, torso, mouth
+PLACE: A building:Retail District, Home Depot, Tescos, Pet Store
+FAMILY: An older relative like “father”:Grandpa, grandma, mother, father
+PART: A small fragile part of the human body:Wenis, kneecap, butt, foot, groin
+MILLY: A short and snappy name:Cliffjumper, Hotrod, Needlenose, Hound
+SCRIPT ==========================================
+Yankee Doodle music
+COM: Alright soldier, we’re just about ready to assault the enemy PLACE.
+COM: (look at soldier) MILLY.
+SOL: Yes Commander! I’m right here!
+COM: I will get the other troops ready.
+COM: You and PART BODY scout ahead for a clear path so we avoid any detection.
+SOL: You got it!
+SOL: W-Wait what?
+Vine boom
+Music stops
+COM: We head out at 0600.
+COM: If there’s enemy patrol, give me the heads up, and we will prepare accordingly.
+Groose music
+SOL: (hands forward) Hold hol.. PART…. PART BODY?
+COM: Huh?
+COM: Oh, PART BODY. They’re a new recruit. I want you to take them along.
+SOL: That’s really their name?
+Laughter
+COM: Yeah.
+SOL: Their name is.. is PART BODY?
+COM: Yes. Their name is PART BODY.
+SOL: Who names their child “PART BODY?”
+COM: (shrug) What’s wrong with a name like that?
+SOL: I mean it’s just- Its just a bit of a strange name, don’tcha think?
+COM: I wouldn’t say it’s strange at all.
+COM: PART BODY! It sounds strong.
+COM: (hand on chin) Powerful, even.
+Laughter
+SOL: I just can’t get my head around it.
+COM: (point) Look, if you’re going to be weird about it I can send you with someone else.
+SOL: (hands out) I- I’m not saying I can’t work with them!
+COM: Well you seem really distracted by this.
+COM: And to be honest, we can’t afford distractions right now.
+COM: This assault has to happen today.
+COM: Because tomorrows EVENT.
+Laughter
+SOL: Ok, ok. I’ll show them the ropes.
+SOL: (under breath) Even if they have such a stupid name..
+Sad chug jug music
+REC: (enter shyly) Is that what you… Really think of me?
+Aww
+SOL: N-no no no, it’s not that, it’s just..
+REC: What even was it that you said? “Who would name their child that?”
+REC: You really think I asked to be called PART BODY?
+COM: No one is making fun of you, PART BODY.
+COM: (point) MILLY, look what you did…. You upset PART BODY.
+Laughter
+SOL: What? N-n-no that’s not what I meant to say.
+REC: (point at self) This name means something, y’know!
+REC: I came from a long line of honourable soldiers. My FAMILY was a PART BODY before me.
+SOL: That’s so..
+COM: (nod) That’s very brave of you, PART BODY.
+Laughter
+REC: But if that’s what you really think of me..
+REC: (hands on hips) Then I’ll just ACTION.
+COM: Don’t ACTION PART BODY!
+Laughter
+SOL: Do you hear yourselves?
+REC: No. Don’t bother!
+REC: I know well enough when I’m not wanted around.
+Aww
+REC: PART BODY, ACTION away!
+REC: (leave, crying) I’m PART BODY…
+Music stops
+COM: You just had to be up PART BODY’s HOLE, didn’t you.
+Vine boom
+SOL: I-I feel like I’m going crazy.
+COM: (finger wag) Maybe if you didn’t spend so much time railing on people’s names you’d be happier with your life!
+Laughter
+SOL: Oh, come on commander..
+COM: Maybe you need more PART in your life!
+Waterphone
+SOL: Alright that’s it I’m done. (Leave fast)
+COM: (sit in chair, exhausted) I hope the enemy has to deal with this sort of thing..
+COM: Damn..
+Applause
 
 ======
 
