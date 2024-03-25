@@ -1610,6 +1610,7 @@ DJ Cobra
 BgS Metro
 Baptism of Fire
 Ashen~Whisper
+~Arcadia~
 #TIER=1
 AkaruHaru
 Riles
