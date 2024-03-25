@@ -7194,12 +7194,13 @@ TITLE: DEBUG SCRIPT
 AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Debug,Skit
-SET: Classroom
+SET: Western
 CHARACTERS ================================
 TEST CHARACTER: TEST:Center Stage
 SUGGESTIONS =============================
 FRUIT: A fruit:apple, banana, cherry
 SCRIPT ==========================================
+Western showdown music
 TEST CHARACTER: HELLO
 TEST CHARACTER: I love FRUIT
 TYPEWRITER: asdfghjkl
