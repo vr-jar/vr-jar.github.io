@@ -21825,6 +21825,195 @@ aww
 ======
 
 INFORMATION ===============================
+ID: 674
+TITLE: Biology Class
+AUTHOR: Valhymm
+VERIFIED: True
+TAGS: Skit
+SET: Classroom
+CHARACTERS ================================
+BEN: Ben, a pupil:Desk 3
+CHLOE: Chloe, a pupil:Desk 2
+JIMMY: Jimmy, a pupil:Desk 1
+TEACH: Teacher:Teacher Desk
+SUGGESTIONS =============================
+FOODSTUFF: Any edible item:apple, hamburger, wasabi paste, frogs' legs, rice, scarab beetles, baguette
+GOLF: A dangerous or questionable activity:golf, wrestling bears, driving blind, taking candy from a baby, listening to dubstep, chewing open-mouthed, nose-picking
+PRINCE: A dead celebrity or notable person:Albert Einstein, Amy Winehouse, Michael Jackson, TIna Turner, Elvis Presley, Bob Marley, Walt Disney, Marilyn Monroe
+CRITICAL: An adjective:important, funky, smelly, crucial, critical, poggers
+FRANCE: A country, city or place:France, New York, between your toes, the Moon, Mars, Antarctica, under your bed
+DOCTOR: An occupation:doctor, plumber, librarian, mechanic, lawyer, programmer, teacher, YouTuber, gamer
+SKYDIVING: An activity you wouldn't try even once:eating a really spicy chilli, bungee jumping, skydiving, parachuting, paragliding, riding on the outside of a train
+SEE: An action you can do:read, breathe fire, bake cookies, twitch, jump, count, run, detach itself
+SUBJECT: A school subject you absolutely hate:PE, English, Cookery, French, Chemistry, Physics, RE, Computing, Maths, Geography, History, Design-Tech, Music, Art
+LIVER: A body part:eye, liver, thigh, spine, stomach
+UVULA: A body part:nose, spleen, upper arm, pelvis, uvula
+SCRIPT ==========================================
+jazz music 1
+TEACH: Good afternoon class, and welcome to Biology. Today we'll be discussing the UVULA.
+TEACH: As you know, everybody has a UVULA, but did you know it has a secret function?
+TEACH: Recent studies have shown that the UVULA can SEE in addition to its normal functions!
+JIMMY: But Teach, I've known about that for years! I discovered my UVULA could do that when I was SKYDIVING!
+TEACH: Well, Jimmy, that's very interesting, although not everyone in the class has DOCTORs for parents like you do.
+TEACH: Plus, this was only recently added to the curriculum, so it's important for everyone to be aware of it.
+TEACH: In fact, many DOCTORs discovered this years ago by accident, during a University of FRANCE study into the otherwise-unrelated LIVER.
+TEACH: So, there are implications for that other area too.
+CHLOE: Teach, I'm about to have that part of my body taken out in a couple of weeks, it's called a LIVER-ectomy.
+CHLOE: Does that mean my UVULA will never SEE again?
+TEACH: All I can say, Chloe, is that this was a very limited study, so there's always hope. Are there any other questions?
+BEN: Teach, didn't PRINCE die because they had their LIVER removed?
+music stops
+waterphone
+CHLOE: (Whimper nervously)
+JIMMY: Shut up Ben, you're scaring Chloe!
+BEN: I'm just saying, it seems like a pretty CRITICAL body part to lose!
+shark tank discussion music 1
+TEACH: Settle down now! There are no silly questions.
+TEACH: Although I would suggest, Ben, that you try to read the room before asking sensitive questions.
+BEN: Sorry Teach. Sorry Chloe.
+TEACH: And Jimmy, there'll be no rude language in my class, thank you, this isn't SUBJECT.
+JIMMY: Sorry, Teach.
+jazz music 1
+TEACH: Chloe, PRINCE did have that operation, but that wasn't why they died.
+TEACH: They died because of their addiction to GOLF, which I'm sure nobody in their right mind would ever get involved in, so don't worry.
+CHLOE: (Wipe your brow) Phew!
+TEACH: Anyway, the takeaway from this lesson is this.
+TEACH: If you want to try getting your own UVULA to SEE, the best place to do it is at home.
+TEACH: Just blitz a banana, a tomato and a FOODSTUFF in a blender, then drink the resulting smoothie.
+Music Stops
+BEN: Uh-oh... Teach, how long does that take to work?
+TEACH: About half an hour, Ben.
+BEN: Crap, those were the three things I had for lunch!
+BEN: (Get up and run to the door) GANGWAY!
+BEN: (Exit the stage while making a UVULA-related noise)
+crashing debris
+JIMMY: (Walk to door and call outside) You okay mate?
+church bell
+TEACH: Ooh... Nasty...
+jazz music 1
+CHLOE: Well, if that's what happens, they can have my LIVER!
+
+======
+
+INFORMATION ===============================
+ID: 677
+TITLE: News Channel Chaos
+AUTHOR: GameBot 2000
+VERIFIED: True
+TAGS: Skit
+SET: News
+CHARACTERS ================================
+TY: Tyler the little brother:Entrance Stage Right
+SAM: Samantha the mother:Entrance Stage Right
+COREY: Corey the father:Entrance Stage Right
+LINDA: Linda the journalist:Fake Street Backdrop
+TOM: Thomas the news reporter:News Desk
+SUGGESTIONS =============================
+DANCE: A name of a dance move:the floss, the griddy, the orange justice
+BAD FOOD: A terrible food combo you can think of:eggplant pizza, nacho ice cream, hot dogs with chocolate filling, pickle cotton candy
+PRANK: A popular funny prank:made someone kiss a badger, made a scam account about V-bucks, trolled a random Minecraft player online
+CRIME: A crime people commit:robbing a bank, stealing a motorcycle, snatching a lady's purse, pirating a video game
+NAME: Anybody's name:Tom Hardy, Peter Dinklage, Brie Larson
+NUMBER: A random number:8, 16, 24, 32
+FAMILY: A family member:mom, dad, granddad, grandmother
+COMP: A one-word compliment :lovely, wonderful, awesome
+BUILDING: Any building name:castle, campus, condo
+FACE: A part of your facial area:cheeks, nose, chin, eyebrow, lips
+PHONE: Any kind of phone:iPhone, Android, Samsung Galaxy
+ADJECTIVE: Any adjective :juiciest, greatest, dumbest, weirdest
+SCRIPT ==========================================
+world news intro
+TYPEWRITER: You are watching News Channel NUMBER
+TOM: Hello, and thank you for tuning in to News Channel NUMBER!
+TOM: I am your local news reporter, Thomas, and I'm here to bring you the most ADJECTIVE stories imaginable.
+spy music 1
+TOM: (pick up some papers) Now, for today's news, we recently learned that NAME has committed a serious crime.
+TOM: That's right, the crime NAME has committed today is CRIME. That's a big yikes right there, folks.
+TOM: But that's not all that NAME had done today. They also PRANK...
+TOM: ...made some BAD FOOD...
+TOM: ...aaaaand did the DANCE. That dastardly fiend...!
+TOM: (point at Linda) We now move over to Linda, live on the scene.
+LINDA: Thank you, my love! (blow a kiss at TOM)
+aww
+LINDA: As you can see behind me, we see the aftermath of the crimes NAME had committed today.
+LINDA: The poor folks back there who were affected are still trying to recover from the disaster.
+LINDA: Let's have an interview with one of those people.
+knocking on door
+TOM: Uh... ignore that, baby. Please, continue.
+LINDA: ...Okay. As I was saying, let's have an interview with...
+Music stops
+extreme knocking
+TOM: (look to your right) Not now! I'm busy!
+break down door
+bluegrass music
+SAM: (walk into the set) YEEHAW!
+Meanwhile COREY: (walk into the set) YEEHAW!
+TY: (walks into the set, laughing goofily)
+TOM: Ugh...! Are you serious, guys?! How many times have I told you not to come here?
+COREY: Aw, come on! We just wanted to see our COMP son!
+Meanwhile TY: (runs around the set)
+SAM: Yeah, Tommy! We haven't seen you around the house all day!
+TOM: Mom, please don't call me that in front of my girlfriend!
+LINDA: Uh, what is... happening?
+TOM: Don’t worry about it, Linda. Everything will be under control, I promise.
+COREY: What are you doing anyway, son? You're going to be late for SPORT practice!
+TOM: Dad, SPORT practice isn't until later this evening. Now get out of here!
+TY: Oooh, pretty camera! Cheese!
+TOM: Wait, NO, TYLER! THAT'S MY BACKUP CAMERA!
+crashing debris
+TOM: ... dang.
+LINDA: Thomas! What is wrong with your family?
+LINDA: You never told me that they're like this!
+SAM: Say, Tommy, are you filming something right now?
+COREY: Looks to me, sweetie, that he's filming a news show or something or other. I dunno.
+SAM: Ooh, a news show! How exciting!
+Meanwhile TOM: (facepalm) For crying out loud...
+SAM: (looks at Thomas) Tommy, can you make a presentation about our loving family?
+SAM: Or how about the time we built a giant sand BUILDING last Saturday?
+TOM: No, Mom. We were trying to talk about how NAME committed CRIME.
+COREY: CRIME? My grandfather used to do that to support his FAMILY back in YEAR. Hahaha!
+SAM: (waves to the audience) Hello, television world! My name is Samantha!
+SAM: And we are his handsome boy's parents!
+TY: Me! Me! Me here!
+SAM: Oh, and this here is Tyler, his little brother! Isn't he the cutest?
+Meanwhile TY: (goofy giggling)
+TOM: I swear, I am going to ANGRY...
+discord notification
+COREY: Here, son! I sent you this news article about HERO pinching everybody's FACE at CON. Can you do that one next?
+TOM: No, dad. I am NOT taking requests!
+SAM: Oh, and there's that time we took Tommy to a skating rink! Oh, he used to fall on his BODY all the time!
+Meanwhile TY: Mamma, I have to go pee!
+SAM: It was hilarious every time he fell! I've got some video footage on my PHONE here!
+Meanwhile TY: I wanna go to the potty, mamma!
+COREY: Hey, son! Tell them about that BAD FOOD I ate this morning!
+Meanwhile TY: Potty! Potty! Potty!
+Music stops
+thunder
+TOM: THAT IS ENOUGH!
+vine boom
+SAM: (look at Thomas) Huh?
+Meanwhile COREY: (look at Thomas) Huh?
+TY: ... I pottied.
+TOM: Get out! Get out of my station right now!
+SAM: But Tommy…!
+TOM: NOW! Don't make me tell you again!
+SAM: (look down sad and leaves) Aww...
+Meanwhile TY: (sobbing and following Samantha) I pottied my pants...
+COREY: (angrily point at Thomas) You're grounded for a month. (Exit stage)
+Meanwhile LINDA: (walk towards Thomas)
+LINDA: (slap Thomas) I would never date a man with a bizarre family like this!
+Meanwhile TOM: (gets slapped) Ow!
+TOM: Huh? But Linda...
+LINDA: No... It's over. Goodbye, "Tommy". (leaves)
+TOM: No, Linda! WAIT, PLEASE!
+TOM: (bang head on desk) Ugh... I never should've turned my room into a news station.
+TOM: (slowly look at the camera) News Channel NUMBER is canceled. FOREVER. (leave, sobbing)
+world news outro
+TYPEWRITER: Thank you for watching News Channel NUMBER
+
+======
+
+INFORMATION ===============================
 ID: 678
 TITLE: Oddly Named Recruit 
 AUTHOR: Kymerah
@@ -21921,6 +22110,211 @@ SOL: Alright that’s it I’m done. (Leave fast)
 COM: (sit in chair, exhausted) I hope the enemy has to deal with this sort of thing..
 COM: Damn..
 Applause
+
+======
+
+INFORMATION ===============================
+ID: 681
+TITLE: Physical Gaming
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Grocery Store
+CHARACTERS ================================
+EMP: Game store employee:Behind Register
+BRO: Online gamer:Backstage
+NER: Nerdy gamer:Backstage
+SUGGESTIONS =============================
+GAME: A popular video game series:Animal crossing, DOOM, Destiny, Fall Guys
+SYSTEM: A modern gaming console:Nintendo Switch, PS5, Xbox series X, Valve Index
+FAN: An online community/fandom:Furry, anime, FNAF, Vtuber
+PLATFORM: A gaming system:Personal Computer, Xbox one, PS4, Wii
+PRICE: A large sum of money:$500, £1, 2000 yen, 9000 Euro
+BIT: A virtual currency, real or fake:Elon Coin, Yum-yum Coin, Daddy Coin, Coin with extra mayo
+USERNAME: A online username:BoyWithBeans6969, GirlsWithGlue6969, QuestUser6969, 2Poor4daddy6969
+JOB: A job you can do online:Influencer, cam model, youtuber, tiktoker
+VIDEO: An old video game:Final Fantasy 6, Frolf, Bionicle Mask of Light the game, War for Cybertron
+RETRO: A classic gaming system:Turbographx 16, Gameboy, Gamegear, Playstation 1
+SPECIAL: Something you can do privately ending in "ing":Hardcore crying, toe picking, mirror kissing, body exploring
+UTUBE: A famous person:Drake, Trump, Leafy, Sasha Grey
+SCRIPT ==========================================
+guitar music 1
+EMP: Oh boy. It’s my first day on the job!
+EMP: I know physical gaming media is a dying industry, but a job is a job!
+aww
+NER: (enter with finger up) Shopkeeper! I'd like one copy of GAME for the SYSTEM please!
+laughter
+EMP: My first customer!
+EMP: (Point across the stage) The SYSTEM games are all over there.
+NER: Lovely! I’ll see if GAME is amongst them. (Go to shelves and browse)
+EMP: Wow, GAME. That really brings me back.
+EMP: I remember when I was part of the FAN community, playing the original on the PLATFORM.
+NER: PLATFORM?! You must be really old then. Haha.
+laughter
+NER: (approach register) Here, GAME. (Place game)
+EMP: (take GAME) That will be PRICE please.
+NER: Ha! Only PRICE? I can make that in a day by selling a singular BIT online.
+EMP: (scan game and give it to them) A what?
+explosion
+BRO: (from the door, bombastically) It’s a virtual currency, you know.
+BRO: (stand in the doorway confidently) Humph!
+EMP: W-who are you?!
+BRO: Haven’t you heard of me? (Pose)
+BRO: I’m USERNAME. I’m an online JOB. (Different pose)
+vine boom
+NER: Really?
+EMP: So… Can I help you find anything, USERNAME?
+BRO: Yes! I would like to buy a copy of VIDEO for the RETRO!
+EMP: Ah, a retro gamer I see.
+EMP: All the RETRO games are over there. (Point across the stage)
+BRO: My thanks, good bean. (Head over and browse)
+NER: I swear I’ve heard of you, USERNAME.
+BRO: Maybe you’ve seen one of my SPECIAL videos online? They’re popular with the youth.
+waterphone
+NER: Mm. perhaps.
+BRO: Here it is, VIDEO!
+EMP: Come over here and I'll ring you up, USERNAME.
+BRO: (go to register) I remember this from when I was a part of the FAN community.
+EMP: (scan VIDEO) Same. They don't make them like this nowadays..
+EMP: That'll be PRICE please. Hey, the same price as GAME!
+BRO: Ha! GAME is getting reviewed horribly!
+vine boom
+BRO: I pity anyone who paid full sticker for it.
+NER: D-do you have your own opinions?
+NER: Or do you just copy what others think online?
+waterphone
+BRO: I watch UTUBE review games and the like all the time.
+laughter
+BRO: Got to make sure I have the right opinion! (thumbs up to audience)
+NER: That seems s-stupid..
+vine boom
+NER: Why not try it yourself and form your own view on the game?
+BRO: I don't have time for that, I need to make 28 SPECIAL videos a month!
+laughter
+EMP: That must be tiring...
+BRO: It is. I can barely stand after a good session.
+NER: Ew..
+laughter
+NER: Anyway, Thank you for GAME, shopkeeper!
+NER: (leave singing to self) Lalalalalalalala.
+BRO: Mind if I shoot a SPECIAL video here?
+vine boom
+BRO: It wont take long? I've gotten real good at it recently.
+BRO: (prepare to SPECIAL in the store) See!
+applause
+EMP: Nonono! We just had the floor waxed!
+EMP: Go home and SPECIAL in private please.
+BRO: Awww.. Kill-joy. (leave, deflated)
+laughter
+EMP: (wipe sweat off brow) Phew. That was close.
+EMP: You know what? Maybe there is a place in the world for physical gaming media.
+aww
+TYPEWRITER: BIT crashed moments later, ; bankrupting the game store.
+
+======
+
+INFORMATION ===============================
+ID: 684
+TITLE: Burn the Outlaw!
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Western
+CHARACTERS ================================
+OUT: Outlaw:Stage Right
+COW: Cowboy:Stage Left
+LAD: Lover:Balcony
+SUGGESTIONS =============================
+LANGUAGE: A foreign language:French, Japanese, Turkish, German
+NUMBER: A number:2, 5, 90, 280
+FAMILY: A member of a family:Mother, Sister, Grandma, Uncle
+CELEB: A famous person:Zuckerberg, Elon, Obama, Trump 
+SWEAR: A swear word:Crap, hell, shit, bastard
+FINAL: Final words before execution :Goodbye, I'm perishing, I'm coming mother, Darn
+HOLE: A hole of the human body:Mouth, Ear, Nostril, Belly-button
+PART: A part of the body:Arm, Head, Leg, Torso
+INSULT: A one-word insult:Loser, Wimp, Jerk, Stupid
+COWBOY: A made up cowboy name:M'llennial, Squid Cassidy, Martin the Slow, Brok from Pokemon
+HOME: A place to live:Detroit, Uganda, Turkmenistan, Santa's Grotto 
+OUTLAW: A made up Outlaw name:Willy-Jimmy, Cranky-Frank, Horny-Gorney, Spiffy-William
+SCRIPT ==========================================
+western showdown music
+COW: (point) It’s over, OUTLAW.
+COW: I’ve chased you out of NUMBER settlements, including my hometown in HOME.
+COW: Surrender!
+OUT: (point back) Don’t take another step, COWBOY.
+OUT: I’ve rigged explosives to your beloved lady. (Point to LADY)
+LAD: (flail arms) Help me COWBOY help me!
+COW: You dastardly INSULT! Let her go right now OUTLAW!
+OUT: Don’t tempt me COWBOY. You know I’ve done far worse.
+waterphone
+COW: Alright, alright. What are your demands?
+LAD: Nooo! Don’t listen to them COWBOY! It’s a trap!
+LAD: Take OUTLAW down, don’t worry about me!
+COW: (point at her) You sit tight, ya hear my beloved!
+COW: Once OUTLAW and I come to some sort of agreement, I’ll free you faster than a SLOW.
+laughter
+COW: You have my word, sweetheart.
+LAD: I love you..
+aww
+COW: I love you too, darlin’.
+aww
+COW: (point to OUTLAW) Now, what are your demands, ya INSULT?
+OUT: No need to be so crass, COWBOY. My terms are quite petite.
+music stops
+COW: Bless you.
+OUT: Huh?
+COW: I said “bless you” OUTLAW. You got a cold or something?
+OUT: N-no! Petite. It means little. Basic LANGUAGE?
+COW: Oh. You mean like your PART? (Point)
+waterphone
+COW: That seems pretty “petite” to me, if you pardon my LANGUAGE.
+vine boom
+OUT: (stagger and clutch chest) Aaa!
+LAD: Oh good heavens. (Fan self with hand)
+LAD: Nice roast, COWBOY! (Thumbs up)
+COW: All for you, m’love. (Thumbs up back)
+OUT: What in the SWEAR just happened to me?!
+western hero theme
+COW: (point) You just got burned, OUTLAW.
+COW: And there’s another one coming your way if you don’t stand down!
+OUT: Ha! Unlikely!
+OUT: Now that I’m ready for it, I doubt any burn can penetrate me further!
+OUT: Do your worst, COWBOY.
+COW: You’re right. I doubt anything in my arsenal could penetrate you, OUTLAW.
+OUT: Haha. That's right! Surrender!
+COW: (point) ...What with that mighty narrow HOLE of yours..
+vine boom
+music stops
+OUT: (fall to knees) Gaaah! My equilibrium!
+OUT: How- how did you know that I'm self-conscious about my HOLE?
+laughter
+LAD: (gasp) Oh, I say! (clap)
+LAD: Good show! (clap)
+COW: A cowboy never reveals his secrets. (aim gun at OUTLAW)
+western hero theme
+COW: Recite your death haiku, before its too late.
+music stops
+OUT: (gasp for air) FINAL.
+vine boom
+OUT: (Thumbs up in air, then fist) Die!
+COW: (look up at lover) Oh SWEAR, no!
+LAD: COWBOY!!! (scream before exploding)
+explosion
+teleport LAD to backstage
+sad chug jug music
+COW: (fall to knees) Noooooooo!
+OUT: (stand) Aha!
+OUT: All I wanted was a tasteful yet compromising of CELEB in exchange.
+OUT: (point) But you just had to insult me!
+COW: (weep) They were my FAMILY! (punch ground)
+vine boom
+OUT: Your what!?
+music stops
+OUT: Wait... What state are we in again?
+western piano music 2
+TYPEWRITER: No one was harmed during his historical re-enactment.
+explosion
 
 ======
 
