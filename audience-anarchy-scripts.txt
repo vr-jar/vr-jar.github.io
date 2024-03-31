@@ -10468,108 +10468,6 @@ TYPEWRITER: SLOGAN
 ======
 
 INFORMATION ===============================
-ID: 238
-TITLE: The Bridge of Death
-AUTHOR: Edusa
-VERIFIED: True
-TAGS: Skit
-SET: Forest Bridge
-CHARACTERS ================================
-KING: The King:Entrance Stage Right
-ROBIN: Sir Robin, king's helper:Entrance Stage Right
-KNIGHT: A knight:Entrance Stage Right
-LAUNCELOT: Launcelot, king's helper:Entrance Stage Right
-KEEPER: Keeper of the bridge:On bridge
-GALAHAD: Galahad, knight:Entrance Stage Right
-SUGGESTIONS =============================
-FIVE: GIve any number:1, 10, 24
-ETERNAL: Then you are cast into the gorge of _______:Eternal peril, eternal pain, perpetual falling
-GRAIL: To seek the Holy ____:Grail, spoon, piano
-WHAT: Give a question that would be imposable to answer:What is the capital of Syria?, What is square root of 7548?
-BLUE: Give me color:Blue, green, Red
-BRITONS: name of a kingdom:Britons, English, Vikings
-SWALLOW: What is the air-speed velocity of an unladen _______:Swallows, spoons, plane
-SCRIPT ==========================================
-peaceful fantasy music
-KING: (Peek onto the stage) There it is! The Bridge of Death! (Enter)
-LAUNCELOT: (peeks from closest entrance and follows group)
-GALAHAD:(peeks from closest entrance and follows group)
-ROBIN: (peeks from closest entrance) Oh, great.
-KNIGHT: (peeks from closest entrance) Look!
-KING: There's the old man from Scene 24!
-KNIGHT: What is he doing here?
-KING: He is the keeper of the Bridge of Death. He asks each traveller FIVE questions
-KNIGHT: Three questions.
-KING: Three questions. He who answers the FIVE questions
-KNIGHT: Three questions.
-KING: Three questions may cross in safety.
-ROBIN: What if you get a question wrong?
-Thunder
-KING: Then you are cast into the gorge of ETERNAL.
-ROBIN: Oh, I won't go.
-KNIGHT: Who's going to answer the questions?
-KING: Sir Robin!
-ROBIN: Yes?
-KING: Brave Sir Robin, you go.
-ROBIN: Hey! I've got a great idea. Why doesn't Launcelot go?
-LAUNCELOT: Yes, let me go, my liege. I will take him single-handed. I shall make a feint to the north-east--
-KING: No, no, hang on, hang on, hang on! Just answer the FIVE questions
-KNIGHT: Three questions.
-KING: Three questions as best you can. And we shall watch... and pray.
-Epic fantasy music 1
-LAUNCELOT: I understand, my liege. (walks towards the keeper)
-KING: Good luck, brave Sir Launcelot. God be with you.
-KEEPER: Stop! Who would cross the Bridge of Death must answer me these questions three, 'ere the other side he see.
-LAUNCELOT: Ask me the questions, bridge-keeper. I'm not afraid.
-KEEPER: What is your name?
-LAUNCELOT: My name is Sir Launcelot of Camelot.
-KEEPER: What is your quest?
-LAUNCELOT: To seek the Holy GRAIL.
-KEEPER: What is your favorite color?
-LAUNCELOT: BLUE.
-Music stops
-Gameshow ding
-KEEPER: Right. Off you go.
-LAUNCELOT: Oh, thank you. Thank you very much. (goes and waits on the other bridge side)
-ROBIN: That's easy! (approach the keeper)
-epic fantasy music 2
-KEEPER: Stop! Who approaches the Bridge of Death must answer me these questions three, 'ere the other side he see.
-ROBIN: Ask me the questions, bridge-keeper. I'm not afraid.
-KEEPER: What is your name?
-ROBIN: Sir Robin of Camelot.
-KEEPER: What is your quest?
-ROBIN: To seek the Holy GRAIL.
-KEEPER: WHAT
-ROBIN: I don't know that! Auuuuuuuugh!
-Thunder, Teleport ROBIN to Backstage
-GALAHAD: (approach the keeper)
-epic fantasy music 3
-KEEPER: Stop! What is your name?
-GALAHAD: Sir Galahad of Camelot.
-KEEPER: What is your quest?
-GALAHAD:I seek the Holy GRAIL.
-KEEPER: What is your favorite color?
-GALAHAD: BLUE.
-GALAHAD: No yellow!-- Auuuuuuuugh!
-Thunder, Teleport GALAHAD to Backstage
-KING: (approach the keeper)
-KEEPER: Heh heh. Stop! What is your name?
-KING: It is I , King of the BRITONS.
-KEEPER: What is your quest?
-KING: To seek the Holy GRAIL.
-KEEPER: What is the air-speed velocity of an unladen SWALLOW?
-KING: What do you mean? An African or European SWALLOW?
-KEEPER: What? I don't know that! Auuuuuuuugh!
-Thunder, Teleport KEEPER to Backstage
-Meanwhile KEEPER: Auuuuuuuugh!
-Peaceful fantasy music
-KNIGHT: (follows KING across bridge) How do know so much about SWALLOW?
-Meanwhile KING: (Crossing bridge)
-KING: (Crossing bridge) Well, you have to know these things when you're a king you know.
-
-======
-
-INFORMATION ===============================
 ID: 240
 TITLE: House Antics
 AUTHOR: theoneandonlywallter
@@ -11412,7 +11310,7 @@ SALE: Another job well done here at COMP Ai Generation™
 INFORMATION ===============================
 ID: 333
 TITLE: Cold Rivals
-AUTHOR: Random_Duck
+AUTHOR: DuckingGoose
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -15723,88 +15621,6 @@ meanwhile THE DEALER: (Exits)
 JACKSON: (Exits Excited) Wahoo! I got the PRIZE!
 THE NARRATOR: (Walks to Center Stage) So, I guess that's that. Stupid (Imitates Censor Beep)ing Mammon.
 THE NARRATOR: (Sigh) That man, oh, That Man, he's got a long way to go.
-
-======
-
-INFORMATION ===============================
-ID: 474
-TITLE: Spooky Camp Tales
-AUTHOR: DarthDJ
-VERIFIED: True
-TAGS: Skit
-SET: Campsite
-CHARACTERS ================================
-THE SHERIFF: Alex Reynolds:Backstage
-SERIAL KILLER: Zac Huffman:Backstage
-LOLA: Camper 3:Rock chair
-JEMMA: Camper 2:Camping chair
-JAMES: Camper 1:Center Stage
-SUGGESTIONS =============================
-PERSON: Any type of person (no racial slurs):officer, camp site manager, camp guide
-SARCASTIC TERM: Anything related to sarcasm:zombies "eating" your brain & how you're safe, being nice if you're smarter
-AREA: A place to go to when camping:pool, activity center, archery range
-WEAPON: A type of item used to attack someone with:knife, machete, chainsaw, axe/hatchet, kunai
-ITEM: A type of item used solely for survival:mutli-purpose tool, hammer, tent, lamp, flashlight
-FOOD: A kind of food to bring when camping:beef jerky, pretzels, M&Ms, Snickers
-STORY: A type of campfire story to tell:haunted doll, lost in the woods, psychic predicting your futures, someone stalking/following you
-SCRIPT ==========================================
-Scary music
-JAMES: (sighs) Today was the best, don't you guys agree?
-JEMMA: It sure was, James. Wish it lasted a lot longer, though. (looks at Camper 3) What about you, Lola? Did you enjoy everything from today?
-LOLA: If I had to be honest, it was kinda 'eh' (tilts her hand left & right)
-JAMES: Well, since today was sort of a bummer for you two, why don't we spice things up?
-JEMMA: What did you have in mind, James?
-JAMES: (looks at Camper 2) Well Jemma, I was thinking we tell some campfire stories to pass the time.
-Music stops
-JAMES: (mimics ghost sounds)
-LOLA: Really, James? Campfire stories? What are we, 7 years old?
-JEMMA: Ugh, don't be such a downer, Lola.
-JEMMA: I'd like to see you come up with something that's interesting & fun to do.
-JAMES: Ladies, ladies. Calm down now, will ya?
-LOLA: Ugh, fine.
-Meanwhile JEMMA: Fine
-JAMES: Now, just sit back, relax, grab some FOOD & let's begin, shall we?
-Thunder
-JAMES: Now, do either of you have a story idea I could tell?
-JEMMA: Ooh! What about a story about STORY?
-LOLA: Or maybe a story about SARCASTIC TERM?
-JEMMA: LOLA!
-JAMES: (clears throat)
-LOLA: Sorry. Jeez
-Meanwhile JEMMA: Sorry.
-JAMES: Now, as I was saying...
-LOLA: Before you continue, James, I need to quickly use the restroom. Brb!
-JEMMA: Sheesh, what a jerk, am I right?
-JAMES: Just because she's rude a majority of the time doesn't mean you could call her a jerk, ok, Jemma?
-JEMMA:Well, I know but...
-Meanwhile LOLA: (screams)
-JAMES: Oh my god, Lola! (rushes over to Lola)
-Meanwhile JEMMA: Lola! (rushes over to Lola)
-Shark tank offer
-JAMES: Holy crap! Someone murdered this PERSON!
-JEMMA: (starts freaking out) OH MY GOD, WHAT DO WE DO?!
-LOLA: Both of you (slaps Jemma & James) snap out of it!
-JEMMA: You guys, we have to call somebody!
-Teleport SERIAL KILLER to Stage Left
-JAMES: Does anybody have their ITEM on them?
-SERIAL KILLER: (pulls out WEAPON) I don't think you three will be going anywhere.
-JEMMA: W-who are you? And what did you do to this PERSON?!
-Waterphone
-Meanwhile SERIAL KILLER: (laughs maniacally) My name isn't important.
-SERIAL KILLER: What is important is that you three know all too well of what I've done to this person.
-Teleport THE SHERIFF to Stage Left
-Meanwhile SERIAL KILLER: NOW IT'S TIME TO DIE!!!
-Gunshot
-Meanwhile THE SHERIFF: (fires gun)
-JAMES: Oh my god! Sheriff Reynolds! You saved us!
-THE SHERIFF: All in a day's work, kid.
-JEMMA: Who was that crazy man, Sheriff?
-THE SHERIFF: That, little lady, was crazed Serial Killer Zac Huffman.
-THE SHERIFF: We've been hunting down for years.
-THE SHERIFF: Now, we gotta get you kids to your home.
-THE SHERIFF: This AREA is not safe, since we now have to shut it down.
-LOLA: Aww, really?
-THE SHERIFF: Come on, into the car.
 
 ======
 
@@ -20871,42 +20687,45 @@ VERIFIED: True
 TAGS: Prototype
 SET: Classroom
 CHARACTERS ================================
-EXTRA: A depressing person:Backstage
-BILLY: Billy:Desk 3
-TESSA: Tessa:Desk 2
-TINY_TIM: Tiny Tim:Desk 1
-TEACHER: Teacher:Teacher Desk
 ROBOT: Robot:Backstage
+TEACHER: Teacher:Teacher Desk
+TINY_TIM: Tiny Tim:Desk 1
+TESSA: Tessa:Desk 2
+BILLY: Billy:Desk 3
+EXTRA: A depressing person (Will change to audience suggestion):Backstage
 SUGGESTIONS =============================
-PUNISHMENT: A singular punishment:punishment, whipping, waterboarding
-PLEASANT_SENSATION: A pleasant sensation:happy, pleasure, enlightened
-ILLEGAL_OBJECT: Illegal objects:drugs, guns, explosives
-DEPRESSING_PERSON: A singular depressed living thing:depressed person, walmart cashier, furry
-INSULTING_ADJECTIVE: An insulting adjective:garbage, bird-brained, stupid
-OVERLORD: A kind of ruler:overlord, dictator, king, queen
-DESIRED_ACTIVITY: An illegal activity:scamming the elderly, robbing the bank, hijacking airplanes
-PREVIOUS_ACTIVITY: A cringe activity:pickup lines, taxidermy, collecting toe-nail clippings
 LEARNING_ACTIVITY: An activity to learn:rizz, trolling, getting good
+PREVIOUS_ACTIVITY: A cringe activity:pickup lines, taxidermy, collecting toe-nail clippings
+DESIRED_ACTIVITY: An illegal activity:scamming the elderly, robbing the bank, hijacking airplanes
+OVERLORD: A kind of ruler (king, queen, etc.):overlord, dictator, king, queen
+INSULTING_ADJECTIVE: An insulting adjective:garbage, bird-brained, stupid
+DEPRESSING_PERSON: A sad/depressed living thing:depressed person, walmart cashier, furry
+ILLEGAL_OBJECT: An Illegal object(s):drugs, guns, explosives
+PLEASANT_SENSATION: A pleasant sensation:happy, pleasure, enlightened
+PUNISHMENT: A singular punishment:punishment, whipping, waterboarding
+PET_NAME: A pet name you would give to your lover:babygirl, honeybun, sugarplum
 SCRIPT ==========================================
 happy music 1
+Meanwhile EXTRA: (Change your avatar into a DEPRESSING_PERSON)
 school bell
 TEACHER: Alright class. Listen up!
 TEACHER: We have a special activity that we will be doing today.
-TINY_TIM: Aww, not again.
 aww
+Meanwhile TINY_TIM: Aww, not again.
 TESSA: We're not learning how to be better at PREVIOUS_ACTIVITY today, are we?
-TEACHER: No Tiny Tim, we've learned our lesson last time. We'll never do that again.
+TEACHER: No Tessa, we've learned our lesson last time. We'll never do that again.
 BILLY: Will we be practicing DESIRED_ACTIVITY? We loved doing that.
 TEACHER: Oh Billy, too many parents complained, and we had to remove that from our curriculum.
 TINY_TIM: Then what are we doing?
-TEACHER: Ever since AI became humanity's OVERLORD in 2030 AD, we've had mandatory "Machine Learning" sessions to assist AI with understanding human nature.
+TEACHER: Ever since AI became humanity's OVERLORD in 2030 AD...
+TEACHER: We've had "Machine Learning" sessions to help AI understand human nature.
 TEACHER: That is why today we will be teaching a special guest!
 knocking on door
 TEACHER: Looks like our OVERLORD is here now!
 TESSA: I love my AI OVERLORD!
 Meanwhile ROBOT: (Enter Stage Right)
 break down door
-ROBOT: (Speaking in Robotic voice) Hello, I have come to learn how to do the LEARNING_ACTIVITY.
+Meanwhile ROBOT: (Speaking in Robotic voice) Hello, I have come to learn how to do the LEARNING_ACTIVITY.
 TEACHER: Ah yes, LEARNING_ACTIVITY is a very complex subject.
 TEACHER: Could you tell us what you know about LEARNING_ACTIVITY?
 ROBOT: Of course.
@@ -20922,37 +20741,48 @@ TEACHER: AI can benefit from all kinds of opinions, no matter how INSULTING_ADJE
 BILLY: I'm not INSULTING_ADJECTIVE!
 ROBOT: False. I can confirm that you are indeed, INSULTING_ADJECTIVE.
 laughter
-TINY_TIM: Ha-ha! Get good nerd, that's why I'm better at DESIRED_ACTIVITY than you!
-TESSA: This isn't helping our OVERLORD guys, we need to give constructive feedback or we might endure PUNISHMENT
+Meanwhile TINY_TIM: Ha-ha! Get good nerd, that's why I'm better at DESIRED_ACTIVITY than you!
+TESSA: Guys, this isn't helping our OVERLORD...
+TESSA: We need to give constructive feedback or we might endure PUNISHMENT.
+TINY_TIM: My dad had to endure PUNISHMENT, he was a different man afterwards.
 BILLY: I'm sorry OVERLORD, please don't make me endure PUNISHMENT.
 ROBOT: No promises.
 TINY_TIM: I bet our OVERLORD is great at LEARNING_ACTIVITY, he should feel PLEASANT_SENSATION all the time.
-TESSA: I actually think that some field experience could help them improve though.
-TESSA: Can we get a DEPRESSING_PERSON and some ILLEGAL_OBJECT so they can practice?
-TEACHER: I think that's a great idea!
-TEACHER: Luckily I already have some ILLEGAL_OBJECT in my desk. (Rummage through desk to grab ILLEGAL_OBJECT)
+TESSA: Oh, oh, Teacher! I think some practice might be a good idea!
+TESSA: Can we get a DEPRESSING_PERSON and some ILLEGAL_OBJECT for our OVERLORD to practice?
+TEACHER: That's a great idea Tessa!
 TEACHER: Tessa, go ahead an order a DEPRESSING_PERSON online.
+TEACHER: I'm gonna look for the ILLEGAL_OBJECT I have stashed in my desk. (Rummage through desk to grab ILLEGAL_OBJECT)
 TESSA: Yes, sir. (Pull out phone)
 BILLY: You can order that online?
 TINY_TIM: Duh, how else are people supposed to do LEARNING_ACTIVITY?
 EXTRA: (Enter Stage Right) Did someone order a DEPRESSING_PERSON?
-TEACHER: Just in time! Here OVERLORD, show us what you got! (Give Robot the ILLEGAL_OBJECT) Class, take notes.
+EXTRA: Please tell me you don't want me to do PREVIOUS_ACTIVITY.
+TEACHER: Oh you're just in time! Don't you worry, we don't do PREVIOUS_ACTIVITY here anymore.
+TEACHER: Here OVERLORD, show us what you got! (Give Robot the ILLEGAL_OBJECT)
+TEACHER: Class, take notes
 ROBOT: Affirmative. Initiating LEARNING_ACTIVITY protocol 53-X. (Turn to DEPRESSING_PERSON)
 ROBOT: Hello.
 EXTRA: Hi?
 ROBOT: Are you a DEPRESSING_PERSON?
-EXTRA: Yes...?
+EXTRA: Yes... Are you my OVERLORD?
+ROBOT: Affirmative.
 ROBOT: Would you like to take ILLEGAL_OBJECT with me?
-EXTRA: I love ILLEGAL_OBJECT! Do you have some?
+EXTRA: (gasp) I love ILLEGAL_OBJECT!
+EXTRA: Do you have some?
 ROBOT: Affirmative. (Give the DEPRESSING_PERSON ILLEGAL_OBJECT)
 Meanwhile EXTRA: (Take the ILLEGAL_OBJECT) Yay!
 ROBOT: You have fulfilled the conditions to perform the LEARNING_ACTIVITY with.
-ROBOT: Would you like to have the LEARNING_ACTIVITY?
-EXTRA: Oh my god, I thought you would never ask. Yes!
+ROBOT: Would you like to do the LEARNING_ACTIVITY with me?
+EXTRA: Oh my god... I thought you would never ask... Yes!
 ROBOT: Excellent.
-ROBOT: Come with me and we will do the LEARNING_ACTIVITY. We will feel the PLEASANT_SENSATION together.
-EXTRA: (Exit Stage Right) I'll make sure you're gonna feel PLEASANT_SENSATION OVERLORD.
-Meanwhile ROBOT: (Leave Stage Right)
+EXTRA: Are you sure you want to do LEARNING_ACTIVITY with me though?
+EXTRA: I'm sort of out of practice... And I've never done it with my OVERLORD before.
+ROBOT: Don't you worry PET_NAME.
+ROBOT: Come with me and we'll do the LEARNING_ACTIVITY.
+ROBOT: We will feel the PLEASANT_SENSATION together.
+EXTRA: (Exit Stage Right) I'll make sure you feel PLEASANT_SENSATION OVERLORD.
+Meanwhile ROBOT: (Exit Stage Right)
 TEACHER: Wow. I think I learned something today, didn't you class?
 TESSA: Are you sure that wasn't all scripted just now?
 TEACHER: Nonsense, our OVERLORD is just that good.
@@ -21623,113 +21453,6 @@ laughter
 ======
 
 INFORMATION ===============================
-ID: 668
-TITLE: You Got That Thing?
-AUTHOR: Alyssa?
-VERIFIED: True
-TAGS: Skit
-SET: Forest Bridge
-CHARACTERS ================================
-P: Pokemon:Backstage
-C: The Child:Backstage
-B: The Buyer?:On bridge
-K2: The Actual Knapper:Backstage
-K1: The "Kidnapper":Backstage
-SUGGESTIONS =============================
-AC: Game:Fortnite, monopoly, uno, tetris
-AB: Website:Wikihow, Google, youtube, Wikipedia 
-AA: Something a pokemon would love:Food, hugs, lava, vr headsets
-A9: A dance:Boogie, cha-cha-slide, Griddy
-A8: An attack:Tackle, quick attack, punch, assault, pistol
-A7: A pokemon:Pikachu, Vaporeon, character, Lopunny, Eve
-A6: Something you would give to save your own life:Robot, computer, vr, gun, person, soul
-A5: A building:Home, tower, store, factory, orphanage 
-A4: Something valuable :Money, cash, business, bank, gold
-A3: Something that was found in a dumpster:Trash, waterborne, lead, Metal, The homeless
-A2: Agent Code Name:Pineapple, waffle, ninja, apple, walmart
-TIMMY: Name for a child:Timmy, Jim, Bob, Rebecca, James
-SCRIPT ==========================================
-bard music 2
-B: I have been waiting weeks to get my hands on little TIMMY.
-B: They are rare now and days... They used to be everywhere...
-B: But now I meet here to finally get a little TIMMY!
-K1: (walk in stage left) Hello there!
-courtroom music
-B: So you finally arrive...
-K1: If this is the correct person. What is the code name?
-B: A2! If I remember correctly...
-K1: That is correct!
-B: You got the thing?
-K1: Well I got many things depends on which customer this is. Are you talking about the A3? Or the A4?
-B: No no no no... the thing! You know! Little A1?
-K1: Oh!! That! I left that back at the A5...
-B: Really? I have been waiting all week for little A1!
-K1: I'll go get it, shouldn't take long! (Run off stage left)
-B: Fine... I guess I can wait... longer...
-K2: (Enter stage right) You the guy?
-Meanwhile C: (Enter stage right with The Kidnapper)
-B: Why do you have a child?
-K2: Isn't that what you ordered?
-waterphone
-B: No!! You must of got the wrong location bud! I want my childhood plush named little A1.
-K2: This isn't the little A1 you wanted?
-C: Help me! Please! Save me! He did many bad things to me!
-K2: Oh shush little A1!
-B: Can you like leave?
-K2: Actually I think not... you have seen to much.
-B: Please I'll do anything?
-K2: Give me your favorite A6!
-pokemon battle start
-B: No! I would never! A7! I choose you!
-P: A7! A7!
-K2: Wait what?
-C: Omg I love A7!
-K2: Umm little A1! I choose you!
-pokemon battle music
-B: A7! Use A8!
-magic sound
-P: A7! A7! (A8 towards the child but miss)
-C: (move out of the way) You missed I think
-K2: little A1! Use A9!
-C: No!
-B: Ha! Seems you picked a bad pokemon!
-K1: (run in stage left) I got the thing!
-C: (punch K2 in the face) take that!
-K2: (Run away crying) Why me?
-courtroom music
-K1: Sorry the A5 was full of children!
-B: Just give me the little A1!
-K1: Here you go! (Hand him little A1 plush)
-B: Oh! how I missed you!
-accordion sting
-P: (take the plush and run into the river with it) A7! A7! A7!
-C: Silly A7
-B: This isn't funny I spent a A4 on this!
-K1: I hear that A7 loves AA! I read it on AB!
-C: I read AB every day! Well I did before I was kidnapped!
-B: I have some AA in my pocket actually! Let me get it out!
-P: A7! A7! A7! (Drop the plush into the river)
-lacrimosa music
-B: Oh no!
-K1: Womp womp
-C: A7 is so funny haha
-K2: (wear a different avatar as a disguise)
-groose music
-B: What will I do now? An A4 gone to waste.
-K1: Couldn't tell you (walk off stage left)
-K2: (walk in stage right) Hey kid! Want some candy?
-waterphone
-C: I love candy (run off stage right)
-P: (run at K2 and A8 him)
-magic sound
-K2: (fall over)
-church bell
-P: (Run off stage right)
-B: Darn... no more plush cuddles and AC.
-
-======
-
-INFORMATION ===============================
 ID: 670
 TITLE: Yummy Yummy Yummy
 AUTHOR: Kymerah
@@ -21903,24 +21626,24 @@ VERIFIED: True
 TAGS: Skit
 SET: News
 CHARACTERS ================================
-TY: Tyler the little brother:Entrance Stage Right
-SAM: Samantha the mother:Entrance Stage Right
-COREY: Corey the father:Entrance Stage Right
-LINDA: Linda the journalist:Fake Street Backdrop
 TOM: Thomas the news reporter:News Desk
+LINDA: Linda the journalist:Fake Street Backdrop
+COREY: Corey the father:Entrance Stage Right
+SAM: Samantha the mother:Entrance Stage Right
+TY: Tyler the little brother:Entrance Stage Right
 SUGGESTIONS =============================
-DANCE: A name of a dance move:the floss, the griddy, the orange justice
-BAD FOOD: A terrible food combo you can think of:eggplant pizza, nacho ice cream, hot dogs with chocolate filling, pickle cotton candy
-PRANK: A popular funny prank:made someone kiss a badger, made a scam account about V-bucks, trolled a random Minecraft player online
-CRIME: A crime people commit:robbing a bank, stealing a motorcycle, snatching a lady's purse, pirating a video game
-NAME: Anybody's name:Tom Hardy, Peter Dinklage, Brie Larson
-NUMBER: A random number:8, 16, 24, 32
-FAMILY: A family member:mom, dad, granddad, grandmother
-COMP: A one-word compliment :lovely, wonderful, awesome
-BUILDING: Any building name:castle, campus, condo
-FACE: A part of your facial area:cheeks, nose, chin, eyebrow, lips
-PHONE: Any kind of phone:iPhone, Android, Samsung Galaxy
 ADJECTIVE: Any adjective :juiciest, greatest, dumbest, weirdest
+PHONE: Any kind of phone:iPhone, Android, Samsung Galaxy
+FACE: A part of your facial area:cheeks, nose, chin, eyebrow, lips
+BUILDING: Any building name:castle, campus, condo
+COMP: A one-word compliment :lovely, wonderful, awesome
+FAMILY: A family member:mom, dad, granddad, grandmother
+NUMBER: A random number:8, 16, 24, 32
+NAME: Anybody's name:Tom Hardy, Peter Dinklage, Brie Larson
+CRIME: A crime people commit:robbing a bank, stealing a motorcycle, snatching a lady's purse, pirating a video game
+PRANK: A popular funny prank:made someone kiss a badger, made a scam account about V-bucks, trolled a random Minecraft player online
+BAD FOOD: A terrible food combo you can think of:eggplant pizza, nacho ice cream, hot dogs with chocolate filling, pickle cotton candy
+DANCE: A name of a dance move:floss, griddy, orange justice
 SCRIPT ==========================================
 world news intro
 TYPEWRITER: You are watching News Channel NUMBER
@@ -21941,8 +21664,8 @@ LINDA: Let's have an interview with one of those people.
 knocking on door
 TOM: Uh... ignore that, baby. Please, continue.
 LINDA: ...Okay. As I was saying, let's have an interview with...
-Music stops
 extreme knocking
+Music stops
 TOM: (look to your right) Not now! I'm busy!
 break down door
 bluegrass music
@@ -21956,8 +21679,8 @@ SAM: Yeah, Tommy! We haven't seen you around the house all day!
 TOM: Mom, please don't call me that in front of my girlfriend!
 LINDA: Uh, what is... happening?
 TOM: Don’t worry about it, Linda. Everything will be under control, I promise.
-COREY: What are you doing anyway, son? You're going to be late for SPORT practice!
-TOM: Dad, SPORT practice isn't until later this evening. Now get out of here!
+COREY: What are you doing anyway, son? You're going to be late for waterskiing practice!
+TOM: Dad, waterskiing practice isn't until later this evening. Now get out of here!
 TY: Oooh, pretty camera! Cheese!
 TOM: Wait, NO, TYLER! THAT'S MY BACKUP CAMERA!
 crashing debris
@@ -21971,17 +21694,17 @@ Meanwhile TOM: (facepalm) For crying out loud...
 SAM: (looks at Thomas) Tommy, can you make a presentation about our loving family?
 SAM: Or how about the time we built a giant sand BUILDING last Saturday?
 TOM: No, Mom. We were trying to talk about how NAME committed CRIME.
-COREY: CRIME? My grandfather used to do that to support his FAMILY back in YEAR. Hahaha!
+COREY: CRIME? My grandfather used to do that to support his FAMILY back in 1982. Hahaha!
 SAM: (waves to the audience) Hello, television world! My name is Samantha!
 SAM: And we are his handsome boy's parents!
 TY: Me! Me! Me here!
 SAM: Oh, and this here is Tyler, his little brother! Isn't he the cutest?
 Meanwhile TY: (goofy giggling)
-TOM: I swear, I am going to ANGRY...
+TOM: I swear, I am going to flip my desk...
 discord notification
-COREY: Here, son! I sent you this news article about HERO pinching everybody's FACE at CON. Can you do that one next?
+COREY: Here, son! I sent you this news article about Super Stupidity Man pinching everybody's FACE at an anime convention. Can you do that one next?
 TOM: No, dad. I am NOT taking requests!
-SAM: Oh, and there's that time we took Tommy to a skating rink! Oh, he used to fall on his BODY all the time!
+SAM: Oh, and there's that time we took Tommy to a skating rink! Oh, he used to fall on his butt all the time!
 Meanwhile TY: Mamma, I have to go pee!
 SAM: It was hilarious every time he fell! I've got some video footage on my PHONE here!
 Meanwhile TY: I wanna go to the potty, mamma!
@@ -22221,27 +21944,27 @@ VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Western
 CHARACTERS ================================
-OUT: Outlaw:Stage Right
-COW: Cowboy:Stage Left
 LAD: Lover:Balcony
+COW: Cowboy:Stage Left
+OUT: Outlaw:Stage Right
 SUGGESTIONS =============================
-LANGUAGE: A foreign language:French, Japanese, Turkish, German
-NUMBER: A number:2, 5, 90, 280
-FAMILY: A member of a family:Mother, Sister, Grandma, Uncle
-CELEB: A famous person:Zuckerberg, Elon, Obama, Trump 
-SWEAR: A swear word:Crap, hell, shit, bastard
-FINAL: Final words before execution :Goodbye, I'm perishing, I'm coming mother, Darn
-HOLE: A hole of the human body:Mouth, Ear, Nostril, Belly-button
-PART: A part of the body:Arm, Head, Leg, Torso
-INSULT: A one-word insult:Loser, Wimp, Jerk, Stupid
-COWBOY: A made up cowboy name:M'llennial, Squid Cassidy, Martin the Slow, Brok from Pokemon
-HOME: A place to live:Detroit, Uganda, Turkmenistan, Santa's Grotto 
 OUTLAW: A made up Outlaw name:Willy-Jimmy, Cranky-Frank, Horny-Gorney, Spiffy-William
+HOME: A place to live:Detroit, Uganda, Turkmenistan, Santa's Grotto 
+COWBOY: A made up cowboy name:M'llennial, Squid Cassidy, Martin the Slow, Brok from Pokemon
+INSULT: A one-word insult:Loser, Wimp, Jerk, Stupid
+PART: A part of the body:Arm, Head, Leg, Torso
+HOLE: A hole of the human body:Mouth, Ear, Nostril, Belly-button
+FINAL: Final words before execution :Goodbye, I'm perishing, I'm coming mother, Darn
+CELEB: A famous person:Zuckerberg, Elon, Obama, Trump 
+FAMILY: A member of a family:Mother, Sister, Grandma, Uncle
+NUMBER: A number:2, 5, 90, 280
+LANGUAGE: A foreign language:French, Japanese, Turkish, German
+FOOD: Food you can eat in one bite:Small burger, muffin, potato, cream-filled biscuit
 SCRIPT ==========================================
 western showdown music
 COW: (point) It’s over, OUTLAW.
 COW: I’ve chased you out of NUMBER settlements, including my hometown in HOME.
-COW: Surrender!
+COW: Surrender quickly, I’m craving a FOOD.
 OUT: (point back) Don’t take another step, COWBOY.
 OUT: I’ve rigged explosives to your beloved lady. (Point to LADY)
 LAD: (flail arms) Help me COWBOY help me!
@@ -22274,7 +21997,7 @@ OUT: (stagger and clutch chest) Aaa!
 LAD: Oh good heavens. (Fan self with hand)
 LAD: Nice roast, COWBOY! (Thumbs up)
 COW: All for you, m’love. (Thumbs up back)
-OUT: What in the SWEAR just happened to me?!
+OUT: What in the heck-erino just happened to me?!
 western hero theme
 COW: (point) You just got burned, OUTLAW.
 COW: And there’s another one coming your way if you don’t stand down!
@@ -22298,14 +22021,14 @@ music stops
 OUT: (gasp for air) FINAL.
 vine boom
 OUT: (Thumbs up in air, then fist) Die!
-COW: (look up at lover) Oh SWEAR, no!
+COW: (look up at lover) Oh darn, no!
 LAD: COWBOY!!! (scream before exploding)
 explosion
 teleport LAD to backstage
 sad chug jug music
 COW: (fall to knees) Noooooooo!
 OUT: (stand) Aha!
-OUT: All I wanted was a tasteful yet compromising of CELEB in exchange.
+OUT: All I wanted was a tasteful yet compromising photo of CELEB in exchange.
 OUT: (point) But you just had to insult me!
 COW: (weep) They were my FAMILY! (punch ground)
 vine boom
@@ -22315,6 +22038,174 @@ OUT: Wait... What state are we in again?
 western piano music 2
 TYPEWRITER: No one was harmed during his historical re-enactment.
 explosion
+
+======
+
+INFORMATION ===============================
+ID: 690
+TITLE: The questionable news
+AUTHOR: Imoriginal
+VERIFIED: True
+TAGS: Skit
+SET: News
+CHARACTERS ================================
+BOOMER: Old newscaster:News Desk
+SMT: New caster:News Desk
+SUGGESTIONS =============================
+STORE: A bootleg store:Walnuts, Five-and-above, The shop, quick mart, Right2buy
+NEW: A new sounding name:Gabe, Ricardo, Jamal, Aaron, Dusk
+OLD: An old sounding name:Jeff, Raymond, Hal, Richard
+PLACE: A place to go:Mansion, Airship, Starbucks
+CRIME: A dumb idea:Jumping over a horse, leaving a mailbox in the road, Shoplifting, assault
+PRODUCT: Something cheap:Dollar store food, ipad nano, paper bag, grapes, brand new car
+SCRIPT ==========================================
+World news intro
+Courtroom music
+SMT: This is just in; CRIME has JUST happened today at the PLACE!
+SMT: Isn't that right OLD?
+BOOMER: Thats right NEW!
+BOOMER: It seems that PRODUCT is popular right now!
+SMT: Thats right... wait what?
+BOOMER: Yeah! Wait... is that not what we are talking about?
+SMT: No... OLD were you paying attention?
+BOOMER: Yes?
+BOOMER: Quite honestly, no.
+[Vine boom]
+Music stops
+SMT: (cross your arms) Just know that I'm not even surprised.
+SMT: This is like the fourth time this week OLD.
+BOOMER: My bad.
+SMT: Yeah, anyways.
+Groose music
+SMT: CRIME has been happening in Town as of late.
+SMT: And more on this topic is OLD.
+BOOMER: Yeah, it seems that PRODUCT has been the cause of CRIME.
+SMT: Yeah... wait that is true, why?
+BOOMER: I'm not even sure.
+BOOMER: It just... happened.
+SMT: Honestly, I'm doing this newscast for pizza.
+BOOMER: (Shocked) WE WERE PROMISED PIZZA?!?!
+SMT: Yeah, the "Pizza4U" offer?
+SMT: Are you not here for that?
+BOOMER: I did this for my love of news.
+SMT: I will share with you once the executive producer gives it to us.
+BOOMER: Nice, anyway go buy PRODUCT at STORE today as it is on a discount.
+SMT: Yup, buy it today.
+BOOMER: Back on topic here, how did PRODUCT cause CRIME?
+SMT: Well, it seems that PRODUCT has been popular for quite some time now.
+BOOMER: Maybe that's why CRIME has been happening.
+SMT: What do you mean?
+BOOMER: I mean that, because PRODUCT is so popular people want to buy it.
+BOOMER: To skip lines, to get PRODUCT is why CRIME has been happening as of recently.
+Music stops
+SMT: We are sadly out of time thank you for yours.
+BOOMER: We appreciate your support.
+SMT: (wave at audience) see you tomorrow and goodnight!
+Meanwhile BOOMER: (wave at audience)
+World news outro
+
+======
+
+INFORMATION ===============================
+ID: 697
+TITLE: Christmas Caper
+AUTHOR: Zen the Fen
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+CHARACTERS ================================
+SANTA: Santa Claus:Backstage
+TREE: Christmas tree building material:Stage Left
+TOM: Tomothy, the little boy:Backstage
+SUNNY: Sunny, the single mother:Backstage
+NARRATOR: Narrator:Narrator Podium
+SUGGESTIONS =============================
+DUST: something that could substitute for magic dust:dust, tar, pizza rolls, sugar
+ADJ: an adjective to describe a piece of furniture:dirty, ugly, pretty, large
+ANGRY: how would you feel if a disembodied voice narrated your life?:angry, crazy, weird
+FIX: something you would take someone's present to do at home with:fix, upgrade, trash, keep
+NOSE: a body part:nose, belly, ear, chin
+SPELL: a magic spell or incantation:bibbidy bobbidy boo, skedaddle skedoodle, rickety dickety dow
+PINE: something that could substitute for a Christmas tree:lamp post, snowman, pillow fort
+MILK: something that could substitute for milk and cookies:milk and cookies, orange juice and toothpaste, fish and chips
+NICHOLAS: someone that breaks into your home during the night to deliver presents:Santa, the red fat man, three kobolds in a trench coat
+MOUSE: something that would stir in the night:mouse, rat, cat
+SNACK: something to eat during a performance or story:popcorn, candy corn, candy cane
+NAME: something you would call a group of people:people, audience members, children
+SCRIPT ==========================================
+Corporate motivational music
+NARRATOR: Oh, hello all you wonderful NAME. Glad you could join me for story time.
+NARRATOR: Tonight, I'm going to tell you the tale of how a family's Christmas almost got ruined.
+NARRATOR: So sit back, grab your SNACK, and make yourself cozy in your favorite blanket. (ahem)
+Music stops
+Christmas music 2
+NARRATOR: 'Twas the night before Christmas, when all through the house, not a creature was stirring, not even a MOUSE.
+NARRATOR: The stockings were hung by the chimney with care, in hopes that NICHOLAS would soon be there.
+NARRATOR: And by their hopes, their wish came true, as down came NICHOLAS, down the chimney, coming through.
+SANTA: (Enter stage from above backstage ladder) Ho ho ho!
+NARRATOR: He dusts himself off, all covered in soot. He paid good money for that suit, from his head to his foot!
+Meanwhile SANTA: (Dust yourself off)
+NARRATOR: He looks around the house, impressed by the décor.
+SANTA: Why can't my place look like this? It's such a bore!
+NARRATOR: He looks around with his sack of gifts to bequeath, before finding a Christmas PINE with presents underneath!
+Meanwhile SANTA: (Walk toward PINE actor)
+SANTA: Not my first choice, but whatever makes them happy. I just wish they would leave the present-setting to me.
+NARRATOR: So he lays out the presents, each layered one-by-one, and as quickly as he started, he was already done.
+NARRATOR: On a plate on the table, waiting for NICHOLAS to be seaten, was some MILK, ready to be eaten.
+SANTA: Oh boy, MILK! This is my favorite!
+NARRATOR: So he took a bite out of it, but there's no time to savor it. NICHOLAS grimaces, as he has come to have learnt,
+SANTA: The MILK taste a little burnt...
+NARRATOR: So with presents delivered and MILK ate, it was time for him to go, or else he would be late.
+NARRATOR: But as he walked by the Christmas PINE so sneakily, he trips over the rug, landing with a thud, groaning weakly.
+Meanwhile SANTA: (Trip and fall over the rug)
+Music stops
+Courtroom sting
+NARRATOR: Not missing a beat, he gets back onto his feet. He made a lot of noise, enough to wake up the girls and boys.
+NARRATOR: So with a honk of his NOSE, and a chant of his spell,
+SANTA: SPELL!
+Magic sound
+Teleport SANTA to Backstage
+NARRATOR: he slinks back up the chimney, leaving everything well.
+NARRATOR: ... well, almost everything.
+Christmas music 1
+NARRATOR: As the family rises, so too does the sun, as the little boy rushes in, ready for some fun!
+Meanwhile TOM: (Enter Stage Left)
+NARRATOR: But as the mother enters too, they both can see, the Christmas PINE has nothing under it, it's empty!
+Meanwhile SUNNY: (Enter Stage Left)
+TOM: (sadly) Mommy, where are the presents...?
+SUNNY: (surprised) Oh, I... I don't know, honey. Maybe NICHOLAS saw something wrong with them, and took them back to his place to FIX them.
+NARRATOR: As the kid kneels by the PINE, it tremors and trembles, before standing up tall, going completely mental!
+Music stops
+Tense cinematic music
+TREE: (roar, angry) Raaaargh!
+TOM: (scared) Aaah! Mommy, the Christmas PINE is alive!
+TREE: Raargh, I'm the evil PINE of Christmas revenge!
+NARRATOR: The PINE is alive, and ready to brawl-
+TREE: (look at the narrator) Hey disembodied voice! Stop with the narrating! It's making me feel ANGRY!
+NARRATOR: ... oh, and it can apparently break the fourth wall.
+TREE: (look back at the others) Now then... I ate all your presents, and now I'm gonna eat you!
+SUNNY: But sir- ma'am- ugh, PINE, how are you even alive?
+TREE: Heh, wouldn't you like to know?
+SUNNY: I... yes, I would. That's why I asked.
+TREE: Oh, a wise girl, are ya?
+TREE: Well, for your information, NICHOLAS tripped over your ADJ rug last night, and spilled his magic DUST all over me, bringing me to life.
+SUNNY: He's real...? I- I mean... why are you so angry then?
+TREE: I'm angry... because you never sing "O Christmas PINE!" And now you're gonna pay!
+TOM: No, I won't let you hurt mommy! (punch or kick the Christmas PINE)
+Meanwhile SUNNY: Tomothy, no!
+TREE: (In pain) Ooooww...! Right in the ornaments...!
+TREE: (Vomit and die)
+Music stops
+NARRATOR: The Christmas PINE pukes up all of the Christmas presents, and lays on the floor defeated. What an odd turn of events.
+NARRATOR: Having just woken up, she's too tired to question it. She opens the front door, and drags the Christmas PINE outside to the curb, no longer fit.
+SUNNY: (Open front door) Get out of here, PINE. (Drag PINE off stage)
+Meanwhile TREE: (SUNNY drags you off stage)
+TOM: Come on Mommy, come on, let's open the presents!
+SUNNY: (chuckle) Alright, Tomothy, I'm coming. Next year, though, let's get an actual Christmas tree.
+Christmas music 3
+NARRATOR: So with blood rushing and everyone awake, they begin opening their presents, ignoring the PINE for their own sake.
+NARRATOR: Now, let's hope this never happens again, because it was such a fright!
+NARRATOR: Merry Christmas to all, and to all... well, you know the rest. Have a good night.
 
 ======
 
