@@ -1643,6 +1643,7 @@ Smiley_Dreemurr
 PhightingMedkit
 mikelizama2
 DyingBug101
+Yoshizuki
 #TIER=1
 AkaruHaru
 Riles
