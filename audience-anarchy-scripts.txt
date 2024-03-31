@@ -16666,7 +16666,7 @@ TITLE: Who's Tippin?
 AUTHOR: OzbendPrime
 VERIFIED: True
 TAGS: Skit
-SET: Dining Room
+SET: Restaurant
 CHARACTERS ================================
 THE WAITER: The Waiter:Backstage
 FAT ONE: The Fat Karen:Entrance Stage Left
@@ -16700,7 +16700,7 @@ POOR ONE: (Take a seat) I'll probably get something cheap.
 EXHAUSTED ONE: (Take a seat) This better not take long.
 THE WAITER: Here you can take a look at the menu. (Handing RELIABLE ONE a menu)
 RELIABLE ONE: (Receive the menu) Thank you sir
-THE WAITER: You're very welcome I shall come back and ask what you will all be drinking shortly. (Exit stage right)
+THE WAITER: You're very welcome I shall come back and ask what you all want to drink shortly. (Exit stage right)
 (jazz music 1)
 RELIABLE ONE: Hmm, I think I'll take a SODA (Hand's menu to FAT ONE)
 FAT ONE: (Receive the menu) I already know what I want, I want ten, no make it fifteen NASTY. (Hand's menu to POOR ONE)
