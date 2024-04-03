@@ -6468,89 +6468,6 @@ DEMON: Fine, but you get the crap controller.
 ======
 
 INFORMATION ===============================
-ID: 109
-TITLE: Numberwang
-AUTHOR: StarSkunk
-VERIFIED: True
-TAGS: Game Show
-SET: Game Show
-CHARACTERS ================================
-COP: Police officer:Backstage
-SIMON: Generic game show contestant:Contestant Podium 2
-JULIE: Generic game show contestant:Contestant Podium 1
-HOST: Over-excited game show host:Host Podium
-SUGGESTIONS =============================
-PLACE1: A place of origin:ancient greece, Pizza Hut's 1000 year old pepperoni pile
-FOOD: A food (plural):pizzas, cakes, marshmallows
-NUMBER3: Any number higher than 40:54, 68, 99
-NUMBER2: Any number:6, 9, 43
-NUMBER1: Any number:4, 8, 7 thousand
-FAKE NUMBER: A made-up, imaginary number:shinty-six, eleven jillion, weighty-five
-WEIRD PLACE: An unusual place to be from:space, the dark side of the moon, the alley outside the studio
-CITY: A city:Boston, Seattle, Nottingham
-SCRIPT ==========================================
-Gameshow intro
-HOST: Welcome to Numberwang, the math quiz that's simply everyone!
-Music Stops
-HOST: Here we have our two contestants, Julie, who's from CITY, PLACE1.
-JULIE: Hello!
-HOST: And Simon, who's also from WEIRD PLACE.
-SIMON: Hello!
-HOST: Julie, any hobbies?
-JULIE: Yes.
-HOST: Love it.  Simon?
-SIMON: No.
-HOST: Aww, too bad.  Let's play Numberwang!
-Gameshow start
-HOST: Julie to play last.
-SIMON: NUMBER1
-JULIE: Forty-six.
-SIMON: Twelve.
-Gameshow ding
-HOST: That's Numberwang!
-JULIE: NUMBER2
-Gameshow ding
-HOST: That's Numberwang!  Now onto Round 2, Imaginary Numbers!  Simon?
-SIMON: Threeve.
-JULIE: Twentington.
-SIMON: FAKE NUMBER
-Gameshow buzzer
-HOST: Ooh, I'm sorry, FAKE NUMBER is in fact a real number, as in "I ate FAKE NUMBER FOOD."  
-HOST: And as we go into the final round, Julie is ahead on 38, and Simon is behind on NUMBER3.
-HOST: But there's still all to play for as we get ready for Wangernumb, let's rotate the board!
-Gameshow intro
-Teleport JULIE to Backstage
-Teleport SIMON to Backstage
-Teleport COP to Contestant Podium 1
-COP: Wait, I'm not supposed to be here yet!
-Teleport JULIE to Contestant Podium 1
-Teleport SIMON to Contestant Podium 2
-Teleport COP to Backstage
-Music Stops
-HOST: Simon to play first.
-Gameshow timer music
-SIMON: Forty-three.
-JULIE: Seven.
-SIMON: Seventy-seven.
-JULIE: Seven hundred.
-HOST: Ooh?
-SIMON: Seven hundred seventy-seven.
-Meanwhile COP: (stand by at stage door to enter scene)
-Explosion
-Music Stops
-HOST: That's Wangernumb!
-COP: (Enter, place JULIE under arrest) You are under arrest for Wangernumb.
-Meanwhile JULIE: (You are being arrested)
-Gameshow outro
-HOST: Sorry Julie, you've been Wangernumbed, and that means Simon, you are today's Numberwang!
-COP: (Enter through stage door to arrest and remove Julie from the stage)
-Meanwhile JULIE: (The COP removes you from the stage; Exit the stage)
-HOST: More Numberwang tomorrow, but until then, stay Numberwang!
-Meanwhile SIMON: Stay Numberwang!
-
-======
-
-INFORMATION ===============================
 ID: 110
 TITLE: Food Battle!
 AUTHOR: Bosslayer
@@ -11129,66 +11046,6 @@ HORACE: (Laughing, follow Jasper) Yeah, sucker!
 PANTHER: (Turn to camera, shrugging casually.) I say, quite the daft chaps, aren't they?
 PANTHER: And to think, they robbed me of my entire EXPLOSIVE collection! Should be about right...
 explosion
-
-======
-
-INFORMATION ===============================
-ID: 309
-TITLE: My House!
-AUTHOR: Myrddyn
-VERIFIED: True
-TAGS: Skit
-SET: Backyard
-CHARACTERS ================================
-PROSSER: A construction foreman.:Stage Right
-ARTHUR: A middle aged man.:Stage Left
-SUGGESTIONS =============================
-CONNECTION: A way to move between rooms or floors:Stairs, Elevator, Door, Escalator, Gate
-ROOM: A disused room of a building:Basement, Cellar, Attic, Dungeon
-OFFICE: An office department:Human Resources, Planning Department, Shipping, Receiving
-FEE: An amount of money:Five dollars, Ten cents
-TIME: A short period of past time:Yesterday, Five minutes ago
-REST.POS: Resting position:Laying, sitting, napping
-H.ACT.OBJ: Household object:Windows, Dishes, Carpet
-H.ACTIVITY: Activity done around the house:Clean, Wash, Vacuum
-BUILD: Large construction project:Bypass, Skyscraper, Mall
-BREAKDOWN: A way a machine can fail:Rust, Seize
-DOZER: Large vehicle used in construction:Bulldozer, Crane, Backhoe
-ANIMAL: A dangerous creature:Tiger, Leopard, Crocodile
-SCRIPT ==========================================
-PROSSER: Come off it Mr. Dent, you can't win you know. There's no point in REST.POS down in the path of progress.
-ARTHUR: I've gone off the idea of progress. It's overrated.
-PROSSER: But you must realize that you can't REST.POS in front of the DOZER indefinitely.
-ARTHUR: I'm game, we'll see who BREAKDOWN first.
-PROSSER: I'm afraid you're going to have to accept it. This BUILD has got to be built and it's going to be built. Nothing you can say or do ...
-ARTHUR: Why's the BUILD got to be built?
-PROSSER: What you mean, why's the BUILD got to be built? It's a BUILD, you've got to build BUILD.
-ARTHUR: Did anyone consider the alternatives?
-PROSSER: There aren't any alternatives. Look you were quite entitled to make any suggestions or protests at the appropriate time.
-ARTHUR: Appropriate time? The first I knew about it was when a workman arrived at the door TIME.
-ARTHUR: I asked him if he'd come to H.ACTIVITY the H.ACT.OBJ and he said he'd come to demolish the house.
-ARTHUR: He didn't tell me straight away of course.
-ARTHUR: No, first he H.ACTIVITY a couple of H.ACT.OBJ and charged me a FEE. Then he told me.
-PROSSER: But Mr. Dent, The plans have been available in the OFFICE for the last nine months.
-ARTHUR: Yes. I went round to find them TIME afternoon. You hadn't exactly gone out of your way to call much attention to them had you?
-ARTHUR: (sarcastically annoyed) I mean, like actually telling anybody or anything.
-PROSSER: That depends where you were looking.
-ARTHUR: I eventually had to go down to the ROOM ...
-PROSSER: That's the display department.
-ARTHUR: (intensely) with a torch.
-PROSSER: (slightly nervous) Ah, the lights had probably gone.
-ARTHUR: So had the CONNECTION.
-PROSSER: But you found the notice didn't you?
-ARTHUR: (hostile) Yes. It was on display in the bottom of a locked filing cabinet stuck in a disused lavatory,
-ARTHUR: with a sign on the door saying "Beware of the ANIMAL".
-ARTHUR: (normal voice) Ever thought of going into advertising?
-PROSSER: It's not as if it's a particularly nice house anyway.
-ARTHUR: I happen rather to like it.
-PROSSER: (very annoyed) Mr. Dent!
-ARTHUR: Hello? Yes?
-PROSSER: Have you any idea how much damage that DOZER would suffer if I just let it roll straight over you?
-ARTHUR: How much?
-PROSSER: None at all.
 
 ======
 
@@ -19967,96 +19824,6 @@ KEATON: I'll just tell PLACE LOCATION I was having car troubles. Wait for me! (E
 ======
 
 INFORMATION ===============================
-ID: 605
-TITLE: The Midnight Shift
-AUTHOR: DaKcBomb
-VERIFIED: True
-TAGS: Skit
-SET: Grocery Store
-CHARACTERS ================================
-CLERK 1: Laid Back Clerk:Center Stage
-CLERK 2: Bored Clerk:Behind Register
-CUSTOMER: Crazy Looking Customer:Backstage
-POLICE: Police Officer:Backstage
-SUGGESTIONS =============================
-PHRASE: A random phrase someone might yell:Wubba lubba dub dub, It's Morbin Time, Alvin's Hot Juicebox Alvin's Hot Juicebox!
-HOUR: A reasonable number:2, 7, 5, 6, 11, 2 and a half, 0.0001
-HOLIDAY: A holiday you usually get candy from:Halloween, Valentine's Day, Mardi Gras, 420, The Purge
-WEED: A fairly harmless drug:Marijuana, Caffiene, Unpasturized Milk
-ACID: A very harmful drug:Cocaine, Acid, Meth, Anime
-POTATO: Make up a random word/object:Plumbus, alien probe units, uranium, adult kazoo, gravestone, drain snake
-STORE: Make up a store name:Fantasy Costco, Space Walmart, Gremblo Gas Station, Alec Baldwin's Laser Tag Arena with Real Guns
-ALIEN: A monster/alien race:Monster, space man, full-body player, anime girls from the planet anime, highly intelligent sea serpents
-PARTY: Activity people do on holidays:Partying, trick-or-treating, going to the parade, celebrating with family
-FAME: Online celebrity:PewDiePie, Danny Sexbang, Jacksepticeye, Markiplier, the Game Grump, Drumsy
-CHIPS: a snack food:
-SCRIPT ==========================================
-Silly Music 2
-CLERK 2: (sigh) How much longer...I'm sooo bored.
-CLERK 1: It's only HOUR more hours, dude.
-CLERK 2: HOUR more hours? HOUR more hours, I can't wait that long man.
-CLERK 1: Dude, want some candy?
-CLERK 2: Eh, no thanks. I've been snacking on CHIPS all night.
-CLERK 1: Dude, come on. It's HOLIDAY. You gotta have candy on HOLIDAY.
-CLERK 2: Okay fine, just give me one.
-CLERK 1: Ha ha, yeah let's go (hands other clerk candy)
-CLERK 2: (chews candy and thinks) Hey I think there's something wrong with this candy.
-CLERK 1: What do you mean? What's wrong with it?
-CLERK 2: I don't know, it tastes kinda funny.
-CLERK 1: Hmm? Oh yeah, it's probably because of the drugs I put in it.
-CLERK 2: What? Why would you do that, what's wrong with you?
-CLERK 1: Oh jeez, sorry I-I thought it would be fun.
-CLERK 2: Well you thought wrong, I mean what did you put in these things anyway?
-CLERK 1: It's just a little WEED
-CLERK 2: WEED candy. You put WEED in a candy bar.
-CLERK 1: (thinks) Oh wait, I didn't put any WEED in this candy. It was ACID!
-CLERK 2: (spits out candy) ACID?! What the hell is wrong with you?
-CLERK 1: I'm sorry, I'm sorry
-CLERK 2: You say that like ACID is safer than WEED. You know it's not, right?
-CLERK 1: I'm sorry, but what's done is done. My advice, just stay calm and let it ride out.
-CLERK 2: Fine, I guess you're right. When do you suppose it will kick in?
-Alien Siren
-groose music
-CUSTOMER: (enter stage right, talking in a weird, loud voice) Hello do you have any POTATO here?
-CLERK 2: Uhh w-what? What's a POTATO?
-Meanwhile CLERK 1: (laugh to yourself) Here we go
-CUSTOMER: Do you have any POTATO? This is STORE is it not?
-CLERK 1: (Trying to act casual) Yeah man, this is STORE.
-CLERK 2: (whisper to clerk) What's going on?
-CLERK 1: (whisper to clerk) Just go with it.
-CUSTOMER: Excuse me! I don't have all night, it is HOLIDAY after all and I'm a very busy ALIEN
-CUSTOMER: I have to go PARTY with my good personal friend FAME soon
-CLERK 1: Yeah dude, I think we have some in the back. Follow me
-CUSTOMER: Thank you, I thought I'd never find any POTATO this time of night. (follow clerk towards stage left)
-Meanwhile CLERK 1: (walk customer towards stage left)
-CLERK 2: Oh man. What am I gonna do? I can't help any customers like this.
-CLERK 2: You know what, he's right. I just gotta stay calm and let it ride out.
-CLERK 2: Everything will be fine, what's the worst that could happen?
-waterphone
-shark tank serious music 1
-Meanwhile POLICE: (You're about to walk in stage right)
-POLICE: (Casually walk in stage right) Evening sir.
-CLERK 2: (panicking) H-h-hi there. H-h-how can I h-h-help you?
-POLICE: Just coming in for a late night snack.
-CLERK 2: Heheheh
-Meanwhile POLICE: (You don't notice the screaming customer about to run by, they're invisible to you)
-CUSTOMER: (run across stage from stage left exiting stage right, screaming) PHRASE!!
-Meanwhile POLICE: (You don't notice the screaming customer running by, they're invisible to you)
-POLICE: (suspiciously to clerk) Hey! You staying outta trouble?
-CLERK 2: (gulp) W-who me?
-POLICE: Ha! I'm just messing with you.
-CLERK 2: (laughing nervously) Well it's a slow night, just doing my best to keep busy.
-POLICE: I hear that, but it is HOLIDAY. Everyone is probably out PARTY
-CLERK 2: Of course, of course.
-POLICE: Hey! You haven't seen anyone carrying any WEED or ACID here tonight, have you?
-CLERK 2: Uh no! N-no why would I see anyone with WEED or ACID?
-CLERK 1: (run back in from stage left) Dude, guess what!
-vine boom
-CLERK 1: I think all the ACID we took is starting to wear off!
-
-======
-
-INFORMATION ===============================
 ID: 607
 TITLE: Our New Neighbor Sucks
 AUTHOR: TrickySpookster
@@ -20417,6 +20184,156 @@ ANCHOR: Whoever ANCHORNAME might be, I hope they sleep well tonight knowing they
 ANCHOR: I for one know I will!
 world news outro
 ANCHOR: And that's the news, I've been your host ANCHORNAME!
+
+======
+
+INFORMATION ===============================
+ID: 616
+TITLE: Grocery Confusion
+AUTHOR: Tricky_Hunter
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+CHARACTERS ================================
+CASHIER: Cashier:Behind Register
+ALIEN: Alien:Entrance Stage Right
+MANAGER: Store manager:Entrance Stage Left
+SUGGESTIONS =============================
+PUBLICSERVICE: a government service you need an identification card for:Motor Vehicle Department, Library, Police
+ARTIFACT: a fantasy artifact:Holy Grail, Genetic Ion Obliterator, Subsonic Flow Detector, Curved Source Swapper, Mental Shock Core
+GASSTATION: a convenience store chain:Kum & Go, Wawa, Buc-ee's, Casey's, QuikTrip, 7-eleven
+SPACEWEAPON: an ominious sounding sifi weapon:Anti-matter shrapnel cannon, Obliteration beam saber, particle beam laser
+SHIPPART: a part of a spaceship:Fluxcore, anti-matter drive, Interstellar guidance system, superconducting conduit 
+HARDWARESTORE: a common hardware retailer:Menards, Home Depot, Lowes, Ace Hardware
+STOREITEM: a common office supply:paper clips, staples, loose leaf paper, notebooks, ink cartridges 
+SCRIPT ==========================================
+guitar music 1
+ALIEN: (walk into the store) What's this? It seems like it must be one of those... what do they called it?
+meanwhile CASHIER: (wave to and greet new customer)
+ALIEN: From what I remember this is known as a food PUBLICSERVICE location.
+CASHIER: Is there something I can help you find?
+ALIEN: Perhaps you can tell me where I might locate a ARTIFACT?
+CASHIER: I don't believe we carry any ARTIFACT's, let me check, I'll be right back... (move through stage left door)
+ALIEN: Interesting... the overlords claimed that the humans would not be this forthcoming regarding their ARTIFACTs but it would appear they were ill-informed
+CASHIER: (whisper) Hey Boss? We have a weirdo out there asking about ARTIFACT's and I have no idea what to tell them.
+MANAGER: (whisper) They're asking about what? ARTIFACT's? We haven't carried those for years...
+CASHIER: (whisper) What do you mean? We used to carry ARTIFACT's?
+MANAGER: (whisper) Yeah, we used to get a lot of customers from out of town asking about them. I'll go see if I can smooth this over. (Walk out to register)
+MANAGER: Hello, I hear you're looking for a specialty item?
+ALIEN: I wouldn't consider a ARTIFACT to be a specialized item of any sort. They are quite common from my understanding.
+MANAGER: Unfortunately we haven't stocked ARTIFACT's for quite a while now. Is there anything else we could help you with?
+ALIEN: That is a rather disagreeable outcome indeed.
+meanwhile CASHIER: (walk back to register)
+MANAGER: Maybe you could find one still at the GASTATION down the road, they usually are the last to sell out.
+meanwhile CASHIER: (walk back to register)
+ALIEN: While I currently occupy this point in space time, might you have any SPACEWEAPONs or SHIPPARTs?
+meanwhile CASHIER: (walk back to register)
+MANAGER: I'm sorry but I don't believe we've ever stocked anything of that type here. Might have better luck at HARDWARESTORE though.
+meanwhile CASHIER: (walk back to register)
+CASHIER: You do know this is a grocery store right?
+MANAGER: Shhhh... I'm sorry for their rudeness, they just started here.
+MANAGER: (at cashier) How about you go organize the STOREITEMs in the back!
+CASHIER: (walk off stage left) GAH!
+MANAGER: Is there anything else I could help you with?
+ALIEN: The only other provision that we require is a box of Fruit Stripe.
+MANAGER: I'm sorry, they discontinued those a while ago.
+ALIEN: Perhaps I will have a greater chance of success at this GASSTATION you speak of. (Exit Stage Right)
+MANAGER: (Wait for customer to leave) Just can't please some people...
+meanwhile ALIEN: (Exit Stage Right)
+CASHIER: (From Stage Left Entrance) Hey Boss?
+MANAGER: What do you need?
+CASHIER: I just found a box marked "ARTIFACTs" and another marked "SHIPPARTs"
+CASHIER: ...and here's one marked "SPACEWEAPONs" I thought they were messing with us and if we have them why didn't you tell them?
+MANAGER: Oh, well those aren't for sale.
+Music Stops
+MANAGER: (vicious tone) We need those for the coming war with HARDWARESTORE!
+
+======
+
+INFORMATION ===============================
+ID: 619
+TITLE: Noir roommates
+AUTHOR: itsmrdude
+VERIFIED: False
+TAGS: Skit,Contains Adult Innuendo
+SET: Detective Noir
+CHARACTERS ================================
+RANDY: Guilty Roommate :Backstage
+SAMMY: suspisious Roommate:Backstage
+SUGGESTIONS =============================
+HOLE: A hole in the human body:Ear, nose, mouth
+FLY: A type of public transportation :Plane, train, bus
+CITY2: City:Stockholm, Sydney, Paris
+NICKNAME2: Friendly nickname:Big guy, bro, pally
+METAL: Small metal item:Rings, coins, bottlecaps
+CITY NAME: A city:Seattle, Portland, Dallas 
+NICKNAME1: Friendly nickname:Doll face, honey bun, slim
+NOISE: A type of noise when excited:*loud moan*, *monkey screech*, *random screaming*
+CAN: A type of food in a can:Peaches, green beans, pears
+QUIET: Something really quiet (perhaps too quiet):A dead mime, mute imaginary friend, silent film in braille 
+SCRIPT ==========================================
+Noir music 1
+SAMMY: (enter facing audience) The time was 9:45, I entered the kitchen, it was quiet…too quiet. Quieter than a QUIET.
+SAMMY: I had opened the fridge, something was missing. Where’s my can of CAN?
+RANDY: (Enter room mumbling) Man those CAN were delicious.
+SAMMY: Hey Randy have you seen my CAN?
+RANDY: No.
+SAMMY: It’s just that they were here last night and they’re not here now.
+RANDY: Well maybe somebody ate them.
+RANDY: (Turn to audience) Damn, I shouldn’t have said that, it’ll give ‘em ideas.
+SAMMY: (Turn to audience) hmmm, that gives me an idea.
+SAMMY: Did you eat my CAN ?
+RANDY: No!
+RANDY: (Turn to audience) yes. I snuck in after midnight and gorged myself on their juicy CAN goodness.
+RANDY: Mmm just thinking about it right now makes me wanna NOISE.
+SAMMY: Are you ok?!
+RANDY: Yes… I was just thinking about…uhhhhh apricots!!
+SAMMY: Apricots? But you hate apricots, ever since Harry’s bachelor party.
+RANDY: It was supposed to be a routine lap dance….then she cracked out the apricots.
+SAMMY: Hey man, no one saw it coming.
+RANDY: You coulda stopped it!!
+SAMMY: My hands were tied.
+SAMMY: (turn to audience) I was too busy taking pictures.
+RANDY: I lost my innocence that night.
+SAMMY: Forget it NICKNAME1, the stone fruit stripper can’t hurt you no more.
+RANDY: (Turn to audience) little does he know the stone fruit stripper is upstairs right now, finishing off the last of the CAN.
+SAMMY: Tell me Randy, where were you on the night of the 24th?
+RANDY: Putting out milk and cookies.
+SAMMY:….no the 24th of November.
+RANDY: (Turn to audience) I knew that, Santa and I have an agreement
+RANDY: (Turn to audience) He brings me my presents a month early and I don’t tell the press he ran over that kid in CITY NAME.
+SAMMY: ANSWER THE QUESTION!
+RANDY: I was eating CAN.
+SAMMY: What?
+RANDY: (Turn to crowd) Dammit!
+RANDY: (To SAMMY) I was combing beaches, ya know for METAL and stuff.
+SAMMY: Oh yeah? Well where’s your metal detector?
+RANDY: (Pull out metal detector) it’s right here.
+SAMMY: (Take metal detector) so how does this thing work?
+RANDY: Well you just switch it on and it leads you to metallic objects.
+SAMMY: Oh I think it’s picked something up. (leave through door making beeps)
+RANDY: (Stay in room) no NO NOO! DONT GO UP THERE!
+SAMMY: OH MY GOD!!!
+SAMMY: (Come back in holding the CAN) well, I see you two have stayed in contact.
+RANDY: She’s shown me things no other woman can.
+SAMMY: Like what?
+RANDY: How to put food in my HOLE.
+SAMMY: My CAN!!
+RANDY: It’s ok Sammy, it’s not like I do this every night.
+RANDY: (Turn to audience) Normally I get them back in the can before he knows they were missing.
+SAMMY: You’re dead to me Randy, you hear? Dead to me!!
+SAMMY: (Grab randy by the neck) Now listen up Randy!
+SAMMY: You’re gonna March your little butt down to the store, buy me some CAN and we’ll put this whole sorry episode behind us.
+RANDY: (Struggle free) can’t do that NICKNAME2, Trixie and I have a FLY to catch
+SAMMY: You’re leaving?
+RANDY: Yeah and I won’t be coming back.
+SAMMY: Can I come with you?
+RANDY: Where I’m going, you can’t follow, what I have to do, you can’t be any part of.
+SAMMY: Will you write?
+RANDY: Of course I will.
+RANDY: (Speak to audience) Highly unlikely.
+RANDY: Take care kiddo, we'll always have CITY2
+RANDY: (Walk to door) Just think of me whenever you eat CAN (leave scene)
 
 ======
 
@@ -20859,6 +20776,127 @@ ANCHOR: I'm Jane Smith. Signing off. Goodnight, everyone.
 ======
 
 INFORMATION ===============================
+ID: 643
+TITLE: Repugnantation
+AUTHOR: CaptainJackk
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+CHARACTERS ================================
+NARRATOR: Commentator:Narrator Podium
+VILLAIN: Villain:Backstage
+FRIEND: Ally's best friend:Backstage
+ALLY: Hero's closest ally:Backstage
+HERO: Timid Hero:Backstage
+SUGGESTIONS =============================
+HEROMOVE: A special move (Hero):Hiryu Shugekiha ,Leo Cascade, Alangina Diablo
+WEAKLING: Another way of saying "weakling":child, weakling, coward
+RHODES: Village name:Rhodes, Terra, Remnant
+ETHAN: Name (Hero's closest ally):Kurumi, Izaya, Ethan
+FACTION: A faction:Free World, Cult of Jar, Copy Express
+WARRIOR: A type of warrior:warrior, fighter, hunter
+POINTS: Number less than 75:50, 25, 0
+ROMEO: Name (timid Hero):Romeo, Juliet, Jack, Eric
+MOOK: A type of enemy (weak monster preferably):Slime, Pawn, Goblin
+POWER: Another way of saying "power-up":power-up, upgrade, evolution
+VILLAINMOVE: A special move (Villain):Kurayami Iai Dokugo Issen, Fushicho Musou Giri, Solomon Break
+FRIEND: Relations with the Hero (Friend, Sibling, Family):friend, ally, relative, parent, child
+SCRIPT ==========================================
+NARRATOR: And the results are in for the Pre-Qualifications match of a four way free for all between; Contestants Exol, Bravo, Snide, and ROMEO!
+NARRATOR: In last place, we have ROMEO with a low POINTS points...
+aww
+NARRATOR: Coming in 3rd, we have Exol with a decent 75 points.
+applause
+NARRATOR: Which only leaves Snide and Bravo and the winner that will be promoted as a full fledged WARRIOR is...
+gong
+NARRATOR: Bravo with an outstanding 100 points! Which means, Bravo will become a full fledged WARRIOR!
+tada
+NARRATOR: That's it for today, folks! We will be making preparations shortly for the Finals so stay tuned!
+applause
+HERO: (Enter stage) (disappointed) I'm... sorry, ETHAN. I'm s-sorry that I failed you again. I guess I can never be a WARRIOR like you.
+Meanwhile ALLY: (Follow Hero)
+ALLY: It's.... (sigh) alright, ROMEO.... I mean, there's still another time....
+ALLY: But even with all that, there's something I've wanted to tell you and that is...
+explosion, fire alarm
+ALLY: What was that?! This doesn't sound good. I guess what I was about to say can wait, we'll need to see what's going on. Come on let's go! (exit stage)
+Meanwhile HERO: (Follows Ally)
+NARRATOR: This is your host speaking! We interrupt with the program with great urgency!
+tense cinematic music
+NARRATOR: We're under attack! I repeat! We're under attack by the FACTION!
+Meanwhile VILLAIN: (go behind the podium)
+knife wound
+NARRATOR: Gack! (dies)
+Meanwhile VILLAIN: (Enter Stage Right)
+gameshow crowd shouting numbers
+VILLAIN: WEAKLINGlings, a bunch of them. Soon, the RHODES of RHODES will be ours, the FACTION!
+HERO: (Enter Stage Left) (sees Villain) T-this is my chance. I can finally... prove to ETHAN that I am a capable WARRIOR. (draws weapon)
+draw sword
+VILLAIN: (looks at Hero) This kid. How peculiar.... (draws weapon)
+draw sword
+HERO: I will protect the RHODES of RHODES! (charge at the Villain)
+sword fighting
+VILLAIN: This WEAKLING isn't giving me as much of a challenge.
+knife wound
+HERO: No! (falls to the ground) I've failed again...
+Meanwhile ALLY: (Enter stage)
+ALLY: ROMEO!
+VILLAIN: (looks at Ally)
+ALLY: Hang on, ROMEO I got you! (draws weapon)
+draw sword
+VILLAIN: Another one? I'll make this quick. (looks at Hero) As for you, WEAKLING you can get to see your "FRIEND" suffer a horrible fate. (draws weapon)
+sword fighting
+VILLAIN: This one's a bit tougher. Seems like I'll have to get serious then. (charges special attack)
+super epic charge up
+VILLAIN: VILLAINMOVE...
+Music Stops, anime sword gleam 2
+ALLY: (collapses)
+HERO: (In despair) ETHAN! No!
+VILLAIN: (to Hero) Now that's over, I can finally get to torture you, WEAKLING.
+HERO: (snaps) You'll... pay....
+VILLAIN: What's that? Pay for what?
+HERO: (Gets up) I will make you pay for this!
+epic cinematic music
+FRIEND: (Enter Stage) I saw the commotion. I've come to help. (Sees Ally on the ground) ETHAN!
+HERO: (Angry) ETHAN is still alive. Take ETHAN with you and go as far away as possible.
+FRIEND: But... ROMEO... you'll die.
+HERO: I don't care what happens to me anymore... The longer you stall, the higher likely ETHAN will die. So go... now!!
+FRIEND: (Goes to Ally) O-okay... But... I'll come back for you too so hold on!
+magic sound, Teleport FRIEND to Backstage, Teleport ALLY to Backstage
+HERO: (softly) I'm sorry... but I'm going to have to break that promise
+VILLAIN: Hehehehe. Well then. Show me what you can do.
+HERO: (charges at Villain) You bastard! I will not let you get away with this!
+sword fighting
+VILLAIN: And what can you do, WEAKLING? I've seen better combat from a MOOK than this.
+knife wound
+HERO: Gack! (falls down) I'll kill you for this, monster! (gets up)
+sword fighting
+VILLAIN: You really are a peculiar one. I guess I'll have to make this quick.
+knife wound
+HERO: Gack! (falls down) I guess I have no choice but to use my special attack. (gets up)
+HERO: (charges special move)
+super epic charge up
+HERO: HEROMOVE! HYAAA!
+Meanwhile VILLAIN: (block the attack)
+Music Stops, explosion
+HERO: (tired) I know that blast connected...
+VILLAIN: (lower block) Even with all that bravado, is that all you can do?
+epic cinematic music
+HERO: (shocked) No! This can't be! (gets on the ground) But I can't give up... I will fight until the end...
+VILLAIN: Oh but you are indeed finished. It's a shame, even with all that "POWER" you are still no match for the FACTION.
+VILLAIN: It's time to end this (charges up weapon)
+super epic charge up
+VILLAIN: VILLAINMOVE...
+anime sword gleam 2
+HERO: Ah! (falls)
+explosion, Teleport HERO to Backstage
+VILLAIN: (sigh) Such wasted potential. That WEAKLING would've been a great member for the FACTION but alas, the WEAKLING had to choose the wrong side. (exit stage)
+Music Stops
+FRIEND: (Enters stage) ROMEO, I'm back! Where are you, ROMEO? NAME!
+FRIEND: (Looks around) No.... Is ROMEO dead? How am I going to tell this to ETHAN?
+
+======
+
+INFORMATION ===============================
 ID: 648
 TITLE: New Product!
 AUTHOR: TiffanyMoon
@@ -21284,6 +21322,83 @@ GUARD: What a handsome and great young fellow. (Start to pack-up)
 ======
 
 INFORMATION ===============================
+ID: 658
+TITLE: Cowboy Duel
+AUTHOR: Im_15Spiderman
+VERIFIED: True
+TAGS: Skit
+SET: Western
+CHARACTERS ================================
+WILLY: Willy The Cowboy:Entrance Stage Right
+CREG: Creg a normal person of society :Stage Left
+KID: Willy's kid:Center Stage
+DIRECTOR: Director :Backstage
+SUGGESTIONS =============================
+INSULT: An insult :Why your forehead so big,why do you wear shoes from dollar tree,Ya mom 
+FAME: A famous person :Luke Combs, Morgan Wallen,Youngboy
+RANDOM: A object :Lamp,Chair, Candle 
+HARD: Something difficult or off-putting:Homework, Stank, manual labor, 100 push-ups, stepping on a LEGO
+DAD: Something precious :Family, friends,PS4
+SWEAR BY: Something people put a lot on:On god,on Shrek,On Jar
+NEVER: Someone who died horribly:Arthur Morgan, John Marston, Dutch Van Der Linde 
+FAMILY : Family member:Dad,Mom, Brother,Weird Uncle, Annoying Sister
+NEWS: A Entertainment channel :Comedy Central,Jars Entertainment,Big Brain Funnies
+SCRIPT ==========================================
+happy music 1
+CREG:Man it's such a beautiful day today, don't you agree with me weird kid?
+KID: (playing) INSULT
+CREG:Ok I don't care cause today, I'm not letting anything ruin my mood.
+KID: You're having a good day, I don't like that, DAD!
+CREG:Oh no...
+Music Stops
+WILLY:(enter the stage) Now what in the FAME is going on out here?
+WILLY:(Looks down at KID) And what are you whining about this time?
+KID: He hurt me. (points at CREG)
+CREG: What!? No I didn't!
+WILLY:Alright, listen up partner...
+western hero theme
+WILLY: Nobody hurts my RANDOM except for me, so we can do this the easy way or the HARD way.
+WILLY: Your choice, partner.
+CREG: Ok this stuff is getting too out of hand,can you just please leave me alone.
+CREG: "I was having a good day".
+WILLY: No can do partner, see, you hurt my family, and I'm not about to take that disrespect.
+WILLY: And from the looks of it you want it the HARD way.
+WILLY: So on my mark we draw.
+Music Stops
+CREG: Wait wait wait! I do not want to do this!
+WILLY:1.
+CREG: Stop...
+WILLY:2.....
+CREG: (sigh) Alright then (gets ready to pull out gun)
+WILLY:3!
+gunshot
+CREG: (Gun pointing at WILLY's forehead) Welp
+WILLY: That doesn't sound good (checks forehead)
+WILLY: Wow....., that's some darn good shooting I'll tell you that.
+WILLY: I'm not feeling so good (looks up) FAMILY (Falls to ground)
+KID: NOOOOO, DADA!! (Crawls to WILLY)
+CREG: (Throws gun to ground) I tried to stop him.
+KID: (Looks at CREG) I'll get you back I put that on SWEAR BY !
+CREG: Hey you know he could had ended like NEVER.
+CREG: Anyways, I'm going back inside,you can mourn or whatever...(exit stage)
+KID: (looks at the audience) This isn't over....
+gameshow intro
+DIRECTOR: (walk on stage and look at KID) Your Right!
+KID: What wait...?
+DIRECTOR: You are an actor for this beautiful movie!
+KID: How come I have no memory of this...?
+DIRECTOR: How come you ask questions too much, ever thought of that!!
+DIRECTOR: Anyways,your dad is fine that was just the prop gun.
+DIRECTOR: (pulls out gun) Now this is the real one I'll even show you it's the real one. (Tries to pull the trigger)
+Music Stops
+KID: Is everything okay?
+DIRECTOR: Yeah everything good it's just that um... uh....
+DIRECTOR: (To audience) We'll see you next time on NEWS!
+DIRECTOR: (waving arms to stop at the audience) Cut The Cameras!
+
+======
+
+INFORMATION ===============================
 ID: 663
 TITLE: A Medical Disaster 
 AUTHOR: Alyssa?
@@ -21555,22 +21670,22 @@ VERIFIED: True
 TAGS: Skit
 SET: Classroom
 CHARACTERS ================================
-BEN: Ben, a pupil:Desk 3
-CHLOE: Chloe, a pupil:Desk 2
-JIMMY: Jimmy, a pupil:Desk 1
 TEACH: Teacher:Teacher Desk
+JIMMY: Jimmy, a pupil:Desk 1
+CHLOE: Chloe, a pupil:Desk 2
+BEN: Ben, a pupil:Desk 3
 SUGGESTIONS =============================
-FOODSTUFF: Any edible item:apple, hamburger, wasabi paste, frogs' legs, rice, scarab beetles, baguette
-GOLF: A dangerous or questionable activity:golf, wrestling bears, driving blind, taking candy from a baby, listening to dubstep, chewing open-mouthed, nose-picking
-PRINCE: A dead celebrity or notable person:Albert Einstein, Amy Winehouse, Michael Jackson, TIna Turner, Elvis Presley, Bob Marley, Walt Disney, Marilyn Monroe
-CRITICAL: An adjective:important, funky, smelly, crucial, critical, poggers
-FRANCE: A country, city or place:France, New York, between your toes, the Moon, Mars, Antarctica, under your bed
-DOCTOR: An occupation:doctor, plumber, librarian, mechanic, lawyer, programmer, teacher, YouTuber, gamer
-SKYDIVING: An activity you wouldn't try even once:eating a really spicy chilli, bungee jumping, skydiving, parachuting, paragliding, riding on the outside of a train
-SEE: An action you can do:read, breathe fire, bake cookies, twitch, jump, count, run, detach itself
-SUBJECT: A school subject you absolutely hate:PE, English, Cookery, French, Chemistry, Physics, RE, Computing, Maths, Geography, History, Design-Tech, Music, Art
-LIVER: A body part:eye, liver, thigh, spine, stomach
 UVULA: A body part:nose, spleen, upper arm, pelvis, uvula
+LIVER: A body part:eye, liver, thigh, spine, stomach
+SUBJECT: A school subject you absolutely hate:PE, English, Cookery, French, Chemistry, Physics, RE, Computing, Maths, Geography, History, Design-Tech, Music, Art
+SEE: An action you can do:read, breathe fire, bake cookies, twitch, jump, count, run, detach itself
+SKYDIVING: An activity you wouldn't try even once:eating a really spicy chilli, bungee jumping, skydiving, parachuting, paragliding, riding on the outside of a train
+DOCTOR: An occupation:doctor, plumber, librarian, mechanic, lawyer, programmer, teacher, YouTuber, gamer
+FRANCE: A country, city or place:France, New York, between your toes, the Moon, Mars, Antarctica, under your bed
+CRITICAL: An adjective:important, funky, smelly, crucial, critical, poggers
+PRINCE: A dead celebrity or notable person:Albert Einstein, Amy Winehouse, Michael Jackson, Tina Turner, Elvis Presley, Bob Marley, Walt Disney, Marilyn Monroe
+GOLF: A dangerous or questionable activity:golf, wrestling bears, driving blind, taking candy from a baby, listening to dubstep, chewing open-mouthed, nose-picking
+FOODSTUFF: Any edible item:apple, hamburger, wasabi paste, frogs' legs, rice, scarab beetles, baguette
 SCRIPT ==========================================
 jazz music 1
 TEACH: Good afternoon class, and welcome to Biology. Today we'll be discussing the UVULA.
@@ -22042,6 +22157,260 @@ explosion
 ======
 
 INFORMATION ===============================
+ID: 685
+TITLE: Competitive Gaslighting 
+AUTHOR: kiro-sage
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+CHARACTERS ================================
+HOST: The game show host with magical powers:Center Stage
+CON1: Very popular and beloved Contestant:Backstage
+CON2: New and psychopathic contestant :Backstage
+VOL: Volunteer thats here against their will:Backstage
+SUGGESTIONS =============================
+INCANTATION: A powerful magical spell/incantation:bola-arc-furnace-sediment-chip-Necrosma, Please, Ostrich egg Shi tzu
+SPELL: Magical words to cast a spell:Our Father in heaven hallowed be your name, Open Salami, Hoopla-droopla
+GAME: The name of a whacky gameshow:Wonderwall, Uncle smiles ho-down, The Bible games
+MAGIC: The words you'd say to cast a spell:Bippity-Boppity-Boo, Woo-loo-loo, I cast fist to the face (punch)
+WORD: You know em, you love em, you _____ em:at least heard of, wanna kill, also hate,
+TOWN: a brutal town/city/state:Ohio, New york, Nethril
+NAME: the name of a killer (male):David, Baron, Hulk
+NUMBER: a number or word:404, Minecraft, 37 lumas
+DESTROY: an act of violence that leads to death:Strangled, Hung them on a cross and burnt them alive, Did the good ol one two to the back of their skull
+PLAYER: a person in the audience:kiro-sage, uncle smiles, Killa, Iron, Jar
+SCRIPT ==========================================
+Gameshow intro
+HOST: Welcome one and all to GAME, the show where we do everything, every hour, every day.
+HOST: Today we will be playing a game of gaslighting. Our contestants will need to convince our lovely volunteer that what they are doing or did was right or wrong.
+crowd woo
+HOST: Our first contestant, you know em, you love em, you've WORD em, give it up for Max Acorn.
+crowd woo
+CON1: (walks to center stage waving hand and presenting self) Hello, my adoring fans. Thanks for coming down here and inviting me.
+HOST: Ah, we love you Max, head over to your podium please.
+meanwhile CON1: (walks over to podium 1)
+HOST: Now for our second contestant, coming from the brutal town of TOWN, they are a self proclaimed master at gaslighting, give it up for Reginal Morrowind.
+CON2: (walk over to podium 2) hello there (wave a bit)
+HOST: These are our contestants for today (head over to host podium) Now let's bring in the volunteer.
+VOL: (being dragged on stage) Let me out, please! I just want to leave. (goes to center stage)
+HOST: (unfazed) Ah, it would seem that our volunteer needs another memory wipe.
+meanwhile VOL: (whispers to self terrified) What is going on? Who are these people?
+HOST: (in a deep voice waving hand in front of volunteer) MAGIC.
+magic sound
+HOST: Now that their mind is in the right place, let's get on with the game.
+meanwhile VOL: (dazed and confused after memory wipe)
+HOST: For this first scenario, our volunteer, let's call him NAME, just had a massive argument and fight with his wife and that led to him DESTROY her
+HOST: Your goal is to convince them that he was either right in killing her or wrong. Max, you are first to go.
+CON1: (joyfully) Thank you, Mr. Host. (walks over to the volunteer)
+emotional piano music
+CON1: NAME, you have to listen to me. You need to turn yourself in.
+VOL: (snapping out of it now angry and panicking) Turn myself in? Are you crazy? I didn't do anything wrong.
+CON1: NAME. You got into an argument with her and now she's dead.
+VOL: That's not enough to accuse me of murder!
+VOL: (pauses, visibly conflicted) I didn't mean for any of this to happen.
+CON1: I know, NAME. But running away won't change anything.
+VOL: (sighs and crying) Alright, fine, I'll turn myself in
+Music Stops
+Gameshow ding
+HOST: Good job Max, you diffused that situation perfectly. That's NUMBER points for you.
+CON1: (bowing and waving to audience) Thank you! Thank you, everyone. (heads back to podium 1)
+HOST: Now time for another memory wipe. (walks up and faces the volunteer) Everybody say it with me.
+Gameshow crowd shouting numbers
+HOST: (waves hands in front of volunteer) MAGIC.
+magic sound
+VOL: (screaming in pain, holding head)
+HOST: Hmm, it would seem that the volunteer has become resistant to the spell. Let's try again. MAGIC.
+(magic sound)
+meanwhile VOL: (fall over, completely motionless)
+HOST: Perfect. Now let's bring in our next contestant. Come on over here, uh, (looks down at hand) Reginal.
+tense cinematic music
+CON2: (walks up to the volunteer) NAME, my friend, why are you letting guilt weigh you down? You did what you had to do.
+VOL: (waking up a little dazed but angry) What? I killed her, Reginal. I killed my wife!
+CON2: She pushed you to the edge, and you defended yourself. It's as simple as that.
+Music Stops
+scary music
+VOL: But it wasn't self-defense! We were arguing, and then... I DESTROY her. I lost control!
+CON2: Control? NAME, control is an illusion. Embrace your impulses, your desires. Let me guide you.
+VOL: (calming down) Guide me to what?
+CON2: To power, NAME. To dominance. You've tasted it now. Don't you want more?
+VOL: (eyes widening, slowly becoming crazy) Y-yeah, it did feel good, maybe your right
+CON2: Exactly. And you can feel that rush again. Just imagine, NAME, the fear in their eyes, as you DESTROY them all
+VOL: (nodding slowly) Yes... yes, I want that feeling again.
+CON2: Then embrace it, NAME. Give in to your bloodlust. There's a whole world out there waiting for you to DESTROY
+HOST: (running in between them, a little scared) OK, let's not do that.
+HOST: (waves hands in front of the volunteer's face and in a deep voice) SPELL.
+Music Stops
+magic sound
+VOL: Augh not again (fall to the ground asleep)
+HOST: Ok, uhh, how about we begin our next game? contestant two do not do that again
+meanwhile CON2: (scoff then walk back to podium 2)
+Gameshow start
+HOST: Alright umm in this scenario, a small child is convinced that you did something to their younger brother. Max, you're up.
+meanwhile CON1: (walk up to the volunteer)
+epic fantasy music 2
+VOL: (waking up acting like a child) I saw you near his room, Max! I know you did something!
+CON1: (calm and reassuring) I was just checking on him, he's my friend too, remember?
+VOL: No! You're lying! He's not moving, Max! I know you did something.
+CON1: (getting a little stressed) Kid, listen to me. Let's go check on him together, okay? We'll see that he's just fine.
+VOL: (even more angry) No! I don't trust you! I HATE YOU!
+CON1: Please don't say that. I'm here to help.
+Gameshow buzzer
+HOST: Ooh, it would seem you've lost your client. Sadly, I'm going to need to take away your NUMBER points.
+CON1: Dammit. (mumbling, walks back to podium 1) Stupid fricken kid.
+HOST: (waves hands in front of the volunteer) SPELL. Well, onto (sighs) oh boy, contestant 2.
+CON2: (walks up to the volunteer) why hello there
+mystery music 1
+VOL: (scared) W-who are you? What did you do to Andrew?
+CON2: Heh, I never did anything, so why blame me?
+CON2: You're his sister, you should be watching out for him too.
+CON2: You know he's better off without you anyways.
+meanwhile VOL: (beginning to tear up and cry)
+CON2: (kneels down to the volunteer) You solely are responsible for this.
+VOL: (crying, runs off stage)
+HOST: (astonished) ... Wow, um, I don't know what to do now. Uh.
+CON1: Are you serious? Isn't it obvious that he is cheating? I mean, how else would he beat me?
+CON2: Oh, you think I'm cheating just because I have actual skill?
+CON2: The only reason you're on here is because you suck up to that damn host, using your massive "personality" and your plastic face to get your way.
+HOST: Alright, time to pull the plug on everything. (walks into the middle of the stage and in a deep voice) INCANTATION, INCANTATION (shouting) INCANTATION.
+Music Stops
+thunder
+CON1: Augh why am i so sleepy suddenly (fall to the floor asleep)
+CON2: Dammit i was about to win (slowly falls down to the floor asleep)
+HOST: Welp, I'm sorry everyone in the audience this got really out of hand, but be sure to tune in next time to GAME.
+meanwhile VOL: (falls to the floor dead)
+HOST: (look down at the volunteer) Oh dear i think they're dead... I know i can just kidnap and brain wipe PLAYER
+
+======
+
+INFORMATION ===============================
+ID: 687
+TITLE: You Shall Not Pass!
+AUTHOR: DaKcBomb
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+CHARACTERS ================================
+NARRATOR: The Narrator:Narrator Podium
+RICH: Sir Richard:Entrance Stage Right
+PERCY: Sir Percival:Entrance Stage Right
+LANCE: Sir Lancelot:Entrance Stage Right
+ART: King Arthur:Entrance Stage Right
+WIZ: All Powerful Wizard:Backstage
+SUGGESTIONS =============================
+CRUSH: A girl's name:Stephanie, Stacy, Amy, Robin, Summer
+QUOTE: A strange and short quote:If every porkchop were perfect we wouldn't have hot dogs, the skin on your lips is the same as the skin on your bum hole, everyone is a skeleton on the inside, always look on the bright side of life
+GOBLIN: a fantasy creature/monster:goblin, orc, monster
+WIZ: A wizard name:Gandalf, Dumbledore
+DOOM: Something Scary:Doom, Terror, Monsters
+BRIT: A European Country:Britain, England, Ireland, Scotland, France, Spain, Spain without the S
+TREE: Object that rhymes with "Three":tree, bee, me, tea, pee, weed
+WIFE: A famous actor/actress:Marilyn Monroe, Scarlett Johanson, Margot Robbie, Brad Pitt
+SWORD: A sharp weapon:sword, knife, axe, blade
+MUSH: Something mushy and gross:turds, slime, mush, flesh
+WIMP: A name for a coward:chicken, wimp, pansie
+CORN: A vegetable:corn, pumpkin, carrot
+SCRIPT ==========================================
+fantasy music 2
+NARRATOR: Ladies and Gentlemen, tonight I will tell you a tale.
+NARRATOR: A tale of King Arthur and the knights of the round table.
+NARRATOR: After a grueling journey across BRIT, our heroes come upon their most fearsome foe.
+NARRATOR: The Wizard of DOOM
+thunder
+NARRATOR: Here come our heroes now!
+meanwhile ART: (Enter Stage Right with your Knights)
+ART: Halt! My knights, I feel a disturbance in the air.
+RICH: My king, what is it?
+LANCE: I feel it too my king, could it be?
+PERCY: The evil wizard who guards these woods?
+ART: Yes, the Wizard of DOOM
+thunder
+Teleport WIZ to On Bridge
+scary music
+RICH: It's him! Old WIZ himself!
+LANCE: Do not fret my king, That GOBLIN I slain before was tougher than this geezer.
+ART: Be careful Sir Lancelot, I sense this is no ordinary foe.
+meanwhile LANCE: (walk towards the wizard)
+WIZ: Stop! I am WIZ, the Wizard of DOOM
+thunder
+WIZ: Those who tread where I see, must defeat my challenges three,
+WIZ: Otherwise I will turn you into TREE!
+LANCE: Do your worst Wizard, I am not afraid.
+WIZ: Your first challenge will make you scream!
+WIZ: Tell old WIZ that which you dream.
+dark classical music
+LANCE: What I dream? Well to be honest...
+LANCE: Last night I had a dream that I was married to WIFE,
+LANCE: but then WIFE turned into a GOBLIN.
+LANCE: Then there was that one time I dreamed I was the king of BRIT,
+LANCE: but everyone in my kingdom was a CORN
+LANCE: I couldn't eat CORN for a week after that one... (shiver)
+WIZ: Interesting. Very Interesting. Well, off you go!
+fantasy music 2
+NARRATOR: And with that, the brave Sir Lancelot passed the first of the wizard's challenges.
+PERCY: That's it? This next challenge will be a breeze. (Approach the wizard)
+WIZ: So you may think, but confidence will make you fall flat.
+WIZ: For sir knight, your next challenge will be facing me in combat!
+epic fantasy music 2
+PERCY: Combat?? Why did he just get to talk about his dreams but I have to fight you?
+ART: Come now, Percival. You are a knight, are you not?
+RICH: Yeah Percy, just cut him with your SWORD!
+PERCY: (sigh) Fine, have at thee foul wizard!
+draw sword
+PERCY: (pull out your weapon and slash at the wizard) Have at thee!
+meanwhile WIZ: (you are unfazed by Percival's attacks)
+sword fighting
+PERCY: Victory is mine!
+groose music
+WIZ: Nuh uh
+PERCY: What do you mean "Nuh Uh"??
+PERCY: Nothing can stop my SWORD. You should be a pile of MUSH by now.
+WIZ: Hahaha, you fool! I cannot so easily be slain.
+WIZ: However, this wizard you have been able to entertain.
+NARRATOR: Despite the wizards questionable grammar, Sir Percival passed the second challenge!
+ART: Well, Sir Richard, go on. Don't be a WIMP.
+RICH: I'm not a WIMP! Give me your final challenge wizard.
+WIZ: For my final challenge, you may blush
+WIZ: I wish to know about your first crush
+RICH: What?? That's way too personal!!
+LANCE: Come on Richard, you're a knight! Not a WIMP
+PERCY: (mockingly) Look out for Sir Richard, the WIMP knight.
+RICH: Will you stop calling me that! Fine.
+peaceful fantasy music
+RICH: Well, there was this girl in the third grade...
+RICH: Her name was CRUSH and well...
+RICH: CRUSH's mom had really got it goin on...
+RICH: She was all I wanted and I had waited so long...
+RICH: I knew it might be wrong but I was into CRUSH's mom!!
+tada
+fantasy music 2
+NARRATOR: While Sir Richard had questionable taste in women, the Wizard accepted this answer.
+LANCE: Wizard, these challenges were surprisingly easy.
+PERCY: Yeah, what game are you playing at?
+RICH: (shudder) I never shared that with anyone...
+WIZ: W-whatever do you mean?
+ART: Gentlemen. I believe I know the answer!
+ART: This Wizard is a fraud!
+WIZ: Okay fine! You're right I am a phony!
+WIZ: I only stop people because I am lonely...
+ART: I pity you old wizard.
+ART: But because I am a forgiving man, I offer you to join us on our quest!
+LANCE: Yes, it was quite therapeutic.
+PERCY: Quite right, I really worked up a sweat fighting you!
+meanwhile LANCE: (exit stage left)
+RICH: Everyone is going to think I'm a freak...
+meanwhile PERCY: (exit stage left)
+ART: Come wizard, Adventure awaits!
+meanwhile RICH: (exit stage left, ashamed at your friend's knowing the truth about CRUSH's mom)
+WIZ: Yippie!! I'm finally not alone!!!
+meanwhile ART: (exit stage left, motioning the wizard to join you)
+NARRATOR: And with that, our heroes continue on their journey!
+NARRATOR: But before I go, always remember...
+NARRATOR: QUOTE.
+NARRATOR: Until we meet again!
+
+======
+
+INFORMATION ===============================
 ID: 690
 TITLE: The questionable news
 AUTHOR: Imoriginal
@@ -22107,6 +22476,114 @@ World news outro
 ======
 
 INFORMATION ===============================
+ID: 693
+TITLE: Chemistry Class
+AUTHOR: Valhymm
+VERIFIED: True
+TAGS: Skit
+SET: Infomercial Kitchen
+CHARACTERS ================================
+BEN: Ben, a pupil:Stage Right
+CHLOE: Chloe, a pupil:Stage Right
+JIMMY: Jimmy, a pupil:Stage Right
+TEACH: Teacher:Entrance Stage Left
+SUGGESTIONS =============================
+COLA: A liquid you can drink:cola, water, coffee, tea, chocolate, treacle, syrup, milk
+SHOULDER: An external body part:back, foot, arm, shoulder, chin, knee, hand
+HAZARD: Something you could trip over or slip on:banana peel, concrete football, brick, paving stone, pool of oil
+FAIRY: A type of cake:fairy, fruit, sponge, chocolate, red velvet, jaffa, lemon drizzle
+UNOBTAINIUM: A substance, real or fictional:unobtainium, kryptonite, wasabi, adamantite, ginger, applied phlebotinum
+HEATER: A piece of laboratory or medical equipment:heater, condenser, fume cupboard, stretcher, pump, aerator, respirator, transmogrifier
+DOCTOR: An occupation:doctor, plumber, librarian, mechanic, lawyer, programmer, teacher, YouTuber, gamer, chemist, nun
+WART: A skin complaint:wart, boil, pimple, ingrown hair, scab, rash, bruise
+MARKIPLIER: An actor, singer, comedian or celebrity:Meghan Markle, KSI, Taylor Swift, RuPaul, Jeremy Clarkson, Markiplier, Ant and Dec
+DIABETES: A medical condition, real or fictional:snowflakeitis, walking corpse syndrome, halitosis, exploding head syndrome, diabetes, the Tetris effect
+FRANCE: A country, city or place:France, New York, between your toes, the Moon, Mars, Antarctica, under your bed, just down the M1
+SCRIPT ==========================================
+jazz music 1
+TEACH: (Enter stage left) Okay class, everyone gather round the back of the worktop with me.
+TEACH: Today we've booked Billy Mays' kitchen instead of the classroom, because there's been another discovery at the University of FRANCE.
+JIMMY: Is it a new element?
+BEN: A cure for DIABETES?
+CHLOE: Has MARKIPLIER finally written a book worth reading?
+TEACH: Ben, you're closest. It's a new, ultra-quick WART remover!
+TEACH: Observe. (Paint your finger with a nail brush, then hold it up for the class to see)
+magic sound
+JIMMY: Oooh!
+Meanwhile CHLOE: Wow!
+BEN: Uh-oh...
+TEACH: This new discovery makes annoying little WARTs disappear!
+TEACH: Now, I think it's best that you all learn how to make it, because it's so effective, as you can see.
+JIMMY: How do you make it?
+TEACH: It's easy, Jimmy. The DOCTORs at the University of FRANCE took three very simple compounds and mixed them together in a blender.
+TEACH: However, unlike traditional WART remover, it doesn't require processing in a HEATER, so you can make it at home!
+BEN: What are the ingredients?
+TEACH: Well Ben, you need about a cupful of protium hydroxide, three tablespoons of sodium bicarbonate, and just a smidge of UNOBTAINIUM.
+CHLOE: Wait a minute Teach, that's just water and baking powder, and everyone's got UNOBTAINIUM in their kitchen cupboard!
+CHLOE: You're teaching us how to make batter for a FAIRY cake!
+music stops
+record scratch
+TEACH: ...Who would have guessed that FAIRY cake batter could also be used as a super-effective WART remover?!
+JIMMY: Not me!
+Meanwhile BEN: Never would've guessed that...
+jazz music 1
+TEACH: Well anyway, to the practical! I've lined up two of the ingredients on the worktop already, as you can see.
+TEACH: And if you look in the oven, there's enough UNOBTAINIUM for two of you, but one of you will need to go into the back room to get yours.
+JIMMY: (Touch your nose) Not it!
+Meanwhile CHLOE: (Touch your nose) Not it!
+BEN: (Disappointed, exit stage right) Awww...
+CHLOE: (Open the oven and take something out, stand behind worktop) Got one. Hey, this is a pretty nice one.
+Meanwhile JIMMY: (Take something out of the oven, close it and stand behind worktop) Me too.
+TEACH: (Go to right door, call backstage) You okay Ben?
+crashing debris
+BEN: (Enter stage left, stand behind worktop) Yeah Teach, I found one!
+CHLOE: What was that noise?
+BEN: Someone left a HAZARD right in the middle of the floor and I tripped over it.
+JIMMY: (To audience) Oh, I wonder how *that* got there!
+TEACH: Settle down, now! Anyway, you've each got your ingredients, so let's get started. Ben, how about you go first?
+BEN: (While putting ingredients in bowl) Okay, in goes the protium hydroxide, add the sodium bicarbonate...
+BEN: And now just a smidge of UNOBTAINIUM... (add way too much of the stuff)
+explosion
+fire alarm
+BEN: (Coughing, wafting the smoke away) Jeez, Teach, that's strong stuff!
+Meanwhile CHLOE: (Laugh mockingly)
+TEACH: (Coughing, wafting the smoke away) Well... this medicine is for pretty big WARTs too!
+Meanwhile JIMMY: (Laugh mockingly)
+TEACH: I guess you'll have to be our guinea pig for the rest of the class, Ben. Have you still got that WART on your SHOULDER?
+BEN: (Go to centre stage) Uh... yeah... how did you know I had a WART on my SHOULDER?
+Music stops
+waterphone
+TEACH: (Slightly nervously) Great! We'll have it gone in no time! Uh, Jimmy, how about you make your batch next?
+jazz music 1
+JIMMY: (While mixing the ingredients) Uhh... Okay, first it's the clear liquid, then the white powder...
+TEACH: Now remember, it's just a smidge of UNOBTAINIUM, nothing more.
+JIMMY: (Add just a smidge of UNOBTAINIUM) Okay, I think it's ready.
+TEACH: Right, get a bit on that paintbrush and lightly dab it on Ben's WART.
+JIMMY: Can't really see it... must be a tiny little thing.
+JIMMY: I'll just paint the whole SHOULDER, I'm bound to get it! (Paint Ben's entire SHOULDER)
+BEN: Ooh! (Scratch your SHOULDER furiously) Ah! Ah! Itchy! Itchy!
+Meanwhile JIMMY: (Go back behind the worktop)
+TEACH: (Pour a bucket of liquid over Ben) Hold still Ben, this will help!
+Meanwhile BEN: (Stop scratching, splutter)
+TEACH: This is why we always keep a bucket of COLA on hand.
+TEACH: This formula very much depends on how ripe the UNOBTAINIUM is, otherwise you get the world's strongest itching powder!
+BEN: (Wipe your eyes) You could've told me! And that was one from the oven... (gasp) oh no, Chloe's next!
+TEACH: (Go back behind the worktop) Well anyway, looks like Chloe's the only one left, why don't you have a go?
+CHLOE: (Mix everything together) Water and sodium bicarbonate, in a bowl, mix it up, add the UNOBTAINIUM...
+Meanwhile BEN: Can't we just use your batch, Teach?
+CHLOE: Done. Just like cooking with Grandma.
+TEACH: Okay, take the paintbrush, and listen, it's just a dab of the stuff on his WART this time.
+CHLOE: Just a dab... (Lightly dab Ben's SHOULDER with the paintbrush)
+teleport BEN to Backstage
+magic sound
+JIMMY: He's gone!
+TEACH: (Scratching your head) Uhh... that's not supposed to happen...
+CHLOE: What are you talking about, Teach, it did exactly what you said it should!
+CHLOE: (Triumphantly, to audience) This medicine really does make annoying little WARTs disappear!
+
+======
+
+INFORMATION ===============================
 ID: 697
 TITLE: Christmas Caper
 AUTHOR: Zen the Fen
@@ -22114,24 +22591,22 @@ VERIFIED: True
 TAGS: Skit
 SET: Living Room
 CHARACTERS ================================
-SANTA: Santa Claus:Backstage
-TREE: Christmas tree building material:Stage Left
-TOM: Tomothy, the little boy:Backstage
-SUNNY: Sunny, the single mother:Backstage
 NARRATOR: Narrator:Narrator Podium
+SUNNY: Sunny, the single mother:Backstage
+TOM: Tomothy, the little boy:Backstage
+TREE: Christmas tree:Stage Left
+SANTA: Santa Claus:Backstage
 SUGGESTIONS =============================
-DUST: something that could substitute for magic dust:dust, tar, pizza rolls, sugar
-ADJ: an adjective to describe a piece of furniture:dirty, ugly, pretty, large
-ANGRY: how would you feel if a disembodied voice narrated your life?:angry, crazy, weird
-FIX: something you would take someone's present to do at home with:fix, upgrade, trash, keep
-NOSE: a body part:nose, belly, ear, chin
-SPELL: a magic spell or incantation:bibbidy bobbidy boo, skedaddle skedoodle, rickety dickety dow
-PINE: something that could substitute for a Christmas tree:lamp post, snowman, pillow fort
-MILK: something that could substitute for milk and cookies:milk and cookies, orange juice and toothpaste, fish and chips
-NICHOLAS: someone that breaks into your home during the night to deliver presents:Santa, the red fat man, three kobolds in a trench coat
-MOUSE: something that would stir in the night:mouse, rat, cat
-SNACK: something to eat during a performance or story:popcorn, candy corn, candy cane
 NAME: something you would call a group of people:people, audience members, children
+SNACK: something to eat during a performance or story:popcorn, candy corn, candy cane
+MOUSE: something that would stir in the night:mouse, rat, cat
+MILK: something that could substitute for milk and cookies:milk and cookies, orange juice and toothpaste, fish and chips
+SPELL: a magic spell or incantation:bibbidy bobbidy boo, skedaddle skedoodle, rickety dickety dow
+NOSE: a body part:nose, belly, ear, chin
+FIX: something you would take someone's present to do at home with:fix, upgrade, trash, keep
+ANGRY: how would you feel if a disembodied voice narrated your life?:angry, crazy, weird
+ADJ: an adjective to describe a piece of furniture:dirty, ugly, pretty, large
+DUST: something that could substitute for magic dust:dust, tar, pizza rolls, sugar
 SCRIPT ==========================================
 Corporate motivational music
 NARRATOR: Oh, hello all you wonderful NAME. Glad you could join me for story time.
@@ -22140,23 +22615,24 @@ NARRATOR: So sit back, grab your SNACK, and make yourself cozy in your favorite 
 Music stops
 Christmas music 2
 NARRATOR: 'Twas the night before Christmas, when all through the house, not a creature was stirring, not even a MOUSE.
-NARRATOR: The stockings were hung by the chimney with care, in hopes that NICHOLAS would soon be there.
-NARRATOR: And by their hopes, their wish came true, as down came NICHOLAS, down the chimney, coming through.
-SANTA: (Enter stage from above backstage ladder) Ho ho ho!
+NARRATOR: The stockings were hung by the chimney with care, in hopes that St. Nicholas would soon be there.
+NARRATOR: And by their hopes, their wish came true, as down came ol' Santa, down the chimney, coming through.
+Meanwhile SANTA: (Enter stage from above backstage ladder) Ho ho ho!
 NARRATOR: He dusts himself off, all covered in soot. He paid good money for that suit, from his head to his foot!
 Meanwhile SANTA: (Dust yourself off)
 NARRATOR: He looks around the house, impressed by the décor.
 SANTA: Why can't my place look like this? It's such a bore!
-NARRATOR: He looks around with his sack of gifts to bequeath, before finding a Christmas PINE with presents underneath!
-Meanwhile SANTA: (Walk toward PINE actor)
-SANTA: Not my first choice, but whatever makes them happy. I just wish they would leave the present-setting to me.
+NARRATOR: He looks around with his sack of gifts to bequeath, before finding a Christmas tree with presents underneath!
+Meanwhile SANTA: (Walk to the bookshelf, pretend there's a tree here)
+SANTA: Ohoho, what a magnificent tree. I just wish they would leave the present-setting to me.
 NARRATOR: So he lays out the presents, each layered one-by-one, and as quickly as he started, he was already done.
-NARRATOR: On a plate on the table, waiting for NICHOLAS to be seaten, was some MILK, ready to be eaten.
+Meanwhile SANTA: (Start placing presents by the tree)
+NARRATOR: On a plate on the table, waiting for Santa to be seaten, was some MILK, ready to be eaten.
 SANTA: Oh boy, MILK! This is my favorite!
-NARRATOR: So he took a bite out of it, but there's no time to savor it. NICHOLAS grimaces, as he has come to have learnt,
-SANTA: The MILK taste a little burnt...
+NARRATOR: So he took a bite out of it, but there's no time to savor it. Santa Claus grimaces, as he has come to have learnt,
+SANTA: This MILK taste a little burnt...
 NARRATOR: So with presents delivered and MILK ate, it was time for him to go, or else he would be late.
-NARRATOR: But as he walked by the Christmas PINE so sneakily, he trips over the rug, landing with a thud, groaning weakly.
+NARRATOR: But as he walked by the Christmas tree so sneakily, he trips over the rug, landing with a thud, groaning weakly.
 Meanwhile SANTA: (Trip and fall over the rug)
 Music stops
 Courtroom sting
@@ -22170,42 +22646,44 @@ NARRATOR: ... well, almost everything.
 Christmas music 1
 NARRATOR: As the family rises, so too does the sun, as the little boy rushes in, ready for some fun!
 Meanwhile TOM: (Enter Stage Left)
-NARRATOR: But as the mother enters too, they both can see, the Christmas PINE has nothing under it, it's empty!
+NARRATOR: But as the mother enters too, they both can see, the Christmas tree has nothing under it, it's empty!
 Meanwhile SUNNY: (Enter Stage Left)
 TOM: (sadly) Mommy, where are the presents...?
-SUNNY: (surprised) Oh, I... I don't know, honey. Maybe NICHOLAS saw something wrong with them, and took them back to his place to FIX them.
-NARRATOR: As the kid kneels by the PINE, it tremors and trembles, before standing up tall, going completely mental!
+SUNNY: (surprised) Oh, I... I don't know, honey. Maybe Santa saw something wrong with them, and took them back to his place to FIX them.
+NARRATOR: As the kid kneels by the tree, it tremors and trembles, before standing up tall, going completely mental!
 Music stops
 Tense cinematic music
+Teleport TREE to Center Stage
 TREE: (roar, angry) Raaaargh!
-TOM: (scared) Aaah! Mommy, the Christmas PINE is alive!
-TREE: Raargh, I'm the evil PINE of Christmas revenge!
-NARRATOR: The PINE is alive, and ready to brawl-
-TREE: (look at the narrator) Hey disembodied voice! Stop with the narrating! It's making me feel ANGRY!
+TOM: (scared) Aaah! Mommy, the Christmas tree is alive!
+TREE: Raargh, I'm the evil tree of Christmas revenge!
+NARRATOR: The tree is alive, and ready to brawl-
+Meanwhile TREE: (look at the narrator) Hey disembodied voice! Stop with the narrating! It's making me feel ANGRY!
 NARRATOR: ... oh, and it can apparently break the fourth wall.
 TREE: (look back at the others) Now then... I ate all your presents, and now I'm gonna eat you!
-SUNNY: But sir- ma'am- ugh, PINE, how are you even alive?
+SUNNY: But sir- ma'am- ugh, tree, how are you even alive?
 TREE: Heh, wouldn't you like to know?
 SUNNY: I... yes, I would. That's why I asked.
 TREE: Oh, a wise girl, are ya?
-TREE: Well, for your information, NICHOLAS tripped over your ADJ rug last night, and spilled his magic DUST all over me, bringing me to life.
+TREE: Well, for your information, Santa tripped over your ADJ rug last night, and spilled his magic DUST all over me, bringing me to life.
 SUNNY: He's real...? I- I mean... why are you so angry then?
-TREE: I'm angry... because you never sing "O Christmas PINE!" And now you're gonna pay!
-TOM: No, I won't let you hurt mommy! (punch or kick the Christmas PINE)
+TREE: I'm angry... because you never sing "O Christmas Tree!" And now you're gonna pay!
+TOM: No, I won't let you hurt mommy! (punch or kick the Christmas tree)
 Meanwhile SUNNY: Tomothy, no!
+Crashing debris
 TREE: (In pain) Ooooww...! Right in the ornaments...!
 TREE: (Vomit and die)
 Music stops
-NARRATOR: The Christmas PINE pukes up all of the Christmas presents, and lays on the floor defeated. What an odd turn of events.
-NARRATOR: Having just woken up, she's too tired to question it. She opens the front door, and drags the Christmas PINE outside to the curb, no longer fit.
-SUNNY: (Open front door) Get out of here, PINE. (Drag PINE off stage)
-Meanwhile TREE: (SUNNY drags you off stage)
+NARRATOR: The Christmas tree pukes up all of the Christmas presents, and lays on the floor defeated. What an odd turn of events.
+NARRATOR: Having just woken up, she's too tired to question it. The mother opens the front door, and drags the Christmas tree outside to the curb, no longer fit.
+SUNNY: (Open front door) Get out of here, you tree. (Drag the tree off stage)
+Meanwhile TREE: (get dragged off stage)
 TOM: Come on Mommy, come on, let's open the presents!
-SUNNY: (chuckle) Alright, Tomothy, I'm coming. Next year, though, let's get an actual Christmas tree.
+SUNNY: (chuckle) Alright, Tomothy, I'm coming. Next year, though, let's try something that can't kill us.
 Christmas music 3
-NARRATOR: So with blood rushing and everyone awake, they begin opening their presents, ignoring the PINE for their own sake.
+NARRATOR: So with blood rushing and everyone awake, they begin opening their presents, ignoring the tree for their own sake.
 NARRATOR: Now, let's hope this never happens again, because it was such a fright!
-NARRATOR: Merry Christmas to all, and to all... well, you know the rest. Have a good night.
+NARRATOR: Merry Christmas to all, and to all... well, you know the rest.
 
 ======
 
