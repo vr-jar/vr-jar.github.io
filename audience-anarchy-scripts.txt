@@ -20783,24 +20783,24 @@ VERIFIED: True
 TAGS: Skit
 SET: Forest
 CHARACTERS ================================
-NARRATOR: Commentator:Narrator Podium
-VILLAIN: Villain:Backstage
-FRIEND: Ally's best friend:Backstage
-ALLY: Hero's closest ally:Backstage
 HERO: Timid Hero:Backstage
+ALLY: Hero's closest ally:Backstage
+FRIEND: Ally's best friend:Backstage
+VILLAIN: Villain:Backstage
+NARRATOR: Commentator:Narrator Podium
 SUGGESTIONS =============================
-HEROMOVE: A special move (Hero):Hiryu Shugekiha ,Leo Cascade, Alangina Diablo
-WEAKLING: Another way of saying "weakling":child, weakling, coward
-RHODES: Village name:Rhodes, Terra, Remnant
-ETHAN: Name (Hero's closest ally):Kurumi, Izaya, Ethan
-FACTION: A faction:Free World, Cult of Jar, Copy Express
-WARRIOR: A type of warrior:warrior, fighter, hunter
-POINTS: Number less than 75:50, 25, 0
-ROMEO: Name (timid Hero):Romeo, Juliet, Jack, Eric
-MOOK: A type of enemy (weak monster preferably):Slime, Pawn, Goblin
-POWER: Another way of saying "power-up":power-up, upgrade, evolution
-VILLAINMOVE: A special move (Villain):Kurayami Iai Dokugo Issen, Fushicho Musou Giri, Solomon Break
 FRIEND: Relations with the Hero (Friend, Sibling, Family):friend, ally, relative, parent, child
+VILLAINMOVE: A special move (Villain):Kurayami Iai Dokugo Issen, Fushicho Musou Giri, Solomon Break
+POWER: Another way of saying "power-up":power-up, upgrade, evolution
+MOOK: A type of enemy (weak monster preferably):Slime, Pawn, Goblin
+ROMEO: Name (timid Hero):Romeo, Juliet, Jack, Eric
+POINTS: Number less than 75:50, 25, 0
+WARRIOR: A type of warrior:warrior, fighter, hunter
+FACTION: A faction:Free World, Cult of Jar, Copy Express
+ETHAN: Name (Hero's closest ally):Kurumi, Izaya, Ethan
+RHODES: Village name:Rhodes, Terra, Remnant
+WEAKLING: Another way of saying "weakling":child, weakling, coward
+HEROMOVE: A special move (Hero):Hiryu Shugekiha ,Leo Cascade, Alangina Diablo
 SCRIPT ==========================================
 NARRATOR: And the results are in for the Pre-Qualifications match of a four way free for all between; Contestants Exol, Bravo, Snide, and ROMEO!
 NARRATOR: In last place, we have ROMEO with a low POINTS points...
@@ -20828,12 +20828,12 @@ knife wound
 NARRATOR: Gack! (dies)
 Meanwhile VILLAIN: (Enter Stage Right)
 gameshow crowd shouting numbers
-VILLAIN: WEAKLINGlings, a bunch of them. Soon, the RHODES of RHODES will be ours, the FACTION!
+VILLAIN: WEAKLINGlings, a bunch of them. Soon, the village of RHODES will be ours, the FACTION!
 HERO: (Enter Stage Left) (sees Villain) T-this is my chance. I can finally... prove to ETHAN that I am a capable WARRIOR. (draws weapon)
 draw sword
 VILLAIN: (looks at Hero) This kid. How peculiar.... (draws weapon)
 draw sword
-HERO: I will protect the RHODES of RHODES! (charge at the Villain)
+HERO: I will protect the village of RHODES! (charge at the Villain)
 sword fighting
 VILLAIN: This WEAKLING isn't giving me as much of a challenge.
 knife wound
@@ -22584,6 +22584,113 @@ CHLOE: (Triumphantly, to audience) This medicine really does make annoying littl
 ======
 
 INFORMATION ===============================
+ID: 696
+TITLE: Physics Class
+AUTHOR: Valhymm
+VERIFIED: True
+TAGS: Skit
+SET: Classroom
+CHARACTERS ================================
+TEACH: Teacher:Teacher Desk
+JIMMY: Jimmy, a pupil:Desk 1
+CHLOE: Chloe, a pupil:Desk 2
+BEN: Ben, a pupil:Desk 3
+SUGGESTIONS =============================
+START: Another word or phrase for 'Start':Start, Play, Punch it, Go Baby Go, Light 'em up, Let 'Er Rip, You Ain't Seen Nothin' Yet
+TEN: Any reasonable number:seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen
+CUCUMBER: Something you shouldn't bring to school:cucumber, banana, leek, knife, sausage, pencil, sword, phone, makeup bag, handbag
+MICROWAVE: An electrical appliance:microwave, blender, electric whisk, coffee machine, espresso machine, refrigerator, slow cooker, washing machine
+MATCHBOX: Something smaller than a breadbox:matchbox, banana, loaf of bread, teacup, Xbox controller, phone, Quest 3, HTC Vive, car battery
+ANTIMATTER: A sci-fi-sounding substance:dark matter, antimatter, dark energy, gamma radiation, cosmic energy
+FRANCE: A country, city or place:France, New York, between your toes, the Moon, Mars, Antarctica, under your bed
+FOX: A TV channel of questionable quality:Fox, ITV, MTV, RTÉ, Channel 5, The CW, HBO
+PRINCE: An actor, comedian, singer or celebrity:Meghan Markle, KSI, Taylor Swift, RuPaul, Jeremy Clarkson, Markiplier, Arnold Schwarzenegger, Kim Kardashian
+GLADIATORS: A TV show which is a guilty pleasure:Gladiators, WWE Raw, The Traitors, Game of Thrones, Breaking Bad, The Fresh Prince of Bel Air, Glee, Keeping Up with the Kardashians, Baywatch, Two and a Half Men, Sabrina the Teenage Witch, Gilmore Girls
+ELBOW: An upper body part:elbow, neck, jaw, rib, hand, arm, ear, nose, tongue
+SCRIPT ==========================================
+jazz music 1
+TEACH: Good afternoon class, welcome to Physics. Today we've got a very special lesson planned for you.
+TEACH: You all saw the news last night on Channel 4, didn't you?
+BEN: About PRINCE and their partner's breakup? I could see that coming a mile off.
+TEACH: ...No Ben, I said Channel 4, not FOX (finger quotes) 'News'.
+JIMMY: About NASA's new Moon rocket?
+TEACH: That's not what I had in mind Jimmy, but yes, very exciting nonetheless.
+CHLOE: You're talking about the University of FRANCE's discovery of time travel, aren't you?
+TEACH: Precisely. Today we'll learn about sending objects forward through time.
+TEACH: Now, since the school budget isn't big enough for a proper time machine...
+TEACH: (Lift the time machine from under the desk and put it on top) We'll need to improvise for today's demonstration.
+CHLOE: Oooooh!
+Meanwhile Ben: Wooooow!
+JIMMY: What can we send, Teach?
+TEACH: Whatever will fit inside this MICROWAVE, about the size of a MATCHBOX.
+BEN: Can we send the class hamster?
+TEACH: No Ben, time travel is far too dangerous for living things, even PRINCE.
+JIMMY: Can we send this? (Hold up your hand)
+music stops
+record scratch
+TEACH: Give me that. Now.
+JIMMY: (Hand it over) But Teach, it's just a CUCUMBER!
+TEACH: I'll let it slide because we can use it for the demo. You'll get this back at the end of class.
+JIMMY: (Go back to your seat) (To others) What did I do?
+jazz music 1
+CHLOE: The news said the FRANCE scientists used an ANTIMATTER condenser. Do we have one, Teach?
+TEACH: Nah, just an ordinary air fryer will do. It's the same technology, after all.
+JIMMY: Why is the MICROWAVE upside-down?
+TEACH: It reverses the electricity, otherwise everything on the outside gets sent instead.
+TEACH: Uh, Ben, you're closest, would you please go and plug the air fryer in for me?
+CHLOE: Are you sure it's a good idea to let Ben do that?
+Meanwhile BEN: (Grab the plug, plug it in by the door, then go back to your desk)
+TEACH: Relax Chloe, only someone who can't tell his backside from his ELBOWs could do that wrong!
+CHLOE: (To audience) That's what I mean...
+BEN: All set!
+TEACH: (Beckon everybody up to the desk) Okay, everybody gather round.
+Meanwhile CHLOE: (Stand up, but don't go to the desk)
+TEACH: Let's put the CUCUMBER in the MICROWAVE and set it for about...
+TEACH: TEN minutes forwards. Come on Chloe, don't be shy.
+CHLOE: (Slowly back towards the door) I'm... fine, thank you Teach.
+TEACH: Suit yourself. Okay, everybody ready?
+BEN: I'll turn on the air fryer!
+JIMMY: And I'll press the button on the MICROWAVE!
+CHLOE: And I'm... oh God, I'm getting outta here! I can't watch! (Run out of the classroom)
+Meanwhile BEN: (Flip the switch) On!
+super epic charge up
+TEACH: I'll count you down, Jimmy! Three! Two! One!
+JIMMY: START! (press the button)
+Meanwhile TEACH: START!
+music stops
+alien teleport
+TEACH: Huh? (Bang the top of the machine)
+extreme knocking
+tense cinematic music
+BEN: Did it work?
+gameshow ding
+JIMMY: I dunno, the CUCUMBER's still there... it's definitely smaller than a MATCHBOX.
+CHLOE: (Enter stage right, stand by the door, furious) No it did not work, doofuses! You're the ones who time-travelled!
+JIMMY: Huh? We haven't moved!
+CHLOE: (Point above the door) Look at the clock!
+TEACH: (Facepalm) Oh, crap...
+CHLOE: You've been gone TEN hours, not TEN minutes! School's finished!
+CHLOE: Ben plugged the air fryer in upside-down! I *so* warned you!
+BEN: Whoops...
+CHLOE: That thing's been running at full tilt all day!
+JIMMY: Sorry...
+CHLOE: The electricity's cost school more than PRINCE earns in a week!
+TEACH: That's the budget blown for the rest of the year...
+CHLOE: I was questioned by the *police* over how you three went missing!
+CHLOE: And the worst part? It took so long that I missed the grand final of GLADIATORS on FOX!
+CHLOE: God! (Storm offstage, slamming the door behind you)
+music stops
+jazz music 1
+JIMMY: Well, I guess I'll have my CUCUMBER back then. Does this mean class is dismissed?
+TEACH: Yes, I think so. (Upbeat) But at least we've discovered time travel is safe for living things after all!
+JIMMY: Great! (Exit stage right)
+TEACH: So I'll type up my findings, send them off to the University of FRANCE, and see you lot tomorrow... or later on this morning... or after Christmas?
+BEN: Yeah, it's no use us sitting around on our ELBOWs all night. (Exit stage right)
+TEACH: (Look at your watch) TEN hours?! Jeez...
+
+======
+
+INFORMATION ===============================
 ID: 697
 TITLE: Christmas Caper
 AUTHOR: Zen the Fen
@@ -22684,6 +22791,492 @@ Christmas music 3
 NARRATOR: So with blood rushing and everyone awake, they begin opening their presents, ignoring the tree for their own sake.
 NARRATOR: Now, let's hope this never happens again, because it was such a fright!
 NARRATOR: Merry Christmas to all, and to all... well, you know the rest.
+
+======
+
+INFORMATION ===============================
+ID: 704
+TITLE: The Sponsor
+AUTHOR: ninjitsu1859
+VERIFIED: False
+TAGS: Skit
+SET: Conference Room
+CHARACTERS ================================
+BOSS: Boss of business :Boss Chair
+EMPLOYEE: Worker at business :Office Chair 1
+SPONSOR: Billionaire businessman :Backstage
+ROBOT: Company Robot:Backstage
+SUGGESTIONS =============================
+NAME: Name of a person:Karen, Jack, Micheal, Kelly
+MONTH: A month:April, October, December,November
+DRINK: Something you drink:Water, Fanta, tea, Coffee
+COMPANY: Type of company:Water, plumbing, food, Paper
+INITIALS: Initials:M.P, K.L, J.N, H.M
+TITLE: A full name, or, a professional title:Mark Chang, Weird Man, personal trainer, Super man
+MATERIAL: What something would be made out of:Medal, Gold, Diamond, copper
+JOB: A job:Care salesmen, President, Farmer, Trucker
+HOBBY: A hobby:Paint, write, sing, Coach
+TRICK: A type of trick:Backflip, juggle, hand stand, front flip 
+HURT: A way to harm someone:Punch, kick, slap, flick
+WATER: Something  to drink:Water, soda, tea, Coffee 
+SCRIPT ==========================================
+Piano theme
+Boss: Alright NAME, we have a big business man coming here to see your latest invention.
+Employee: I can’t wait to show it off sir I’ve been waiting since MONTH.
+Boss: Well we’re is it NAME?
+Employee: It’s in the back. Let me go get it. (Exit stage left)
+Robot: (Enter stage left) Hello sir!
+Employee: (Enter stage left) Here ya go sir! Our own brand new robot!
+Tada
+Boss: NAME he looks amazing! What can he do?
+Employee: Anything you ask him to sir! Robot, fix me a cup of DRINK
+Robot: Yes sir! (Fix a cup of DRINK)
+Robot: Here you go (Hand over the cup of DRINK)
+Employee: Thank you robot. (Drink DRINK)
+Boss: Amazing! This is sure to get us the money we need to get us out of dept.
+Break down door
+Sponsor: (Enter stage left) Sorry about that, I’m too rich to knock.
+Boss: It’s fine, I’ll fix that right up because we totally have the money for that.
+Employee: Sir we’re in the negatives.
+Boss: Shut up NAME I know that!
+Sponsor: So where’s the invention you’ve been working on.
+Employee: Right here sir, our own company robot!
+Robot: Hello sir!
+Sponsor: Oh my! This looks fantastic, even though this is a COMPANY Company.
+Employee: Thank you I made it myself.
+Sponsor: I could tell from the initials you put on it. What does INITIALS mean?
+Employee: TITLE
+Sponsor: Brilliant! Now what is it made out of?
+Employee: It is made out of MATERIAL! Straight from the source.
+Boss: NAME how did you get that? I thought you were broke?
+Employee: I have my ways boss. I’m a secret JOB at night.
+Sponsor: Well sir I love what you have here. Mr.Robot what do you do?
+Robot: I love to HOBBY all the time.
+Sponsor: Do you know any tricks?
+Robot: Yes, I can TRICK
+Sponsor: Show me then.
+Robot: Of course! ( TRICK )
+Boss: Oh my gosh that’s amazing.
+Sponsor: That was quite amazing, What else can you do?
+Employee: Make him a cup of WATER.
+Robot: Yes sir! (Make a cup of WATER)
+Robot: Here you go. (Hand over WATER)
+Sponsor: Thank you Mr.Robot. (Drink cup of WATER)
+Sponsor: Well I was rather thrilled by this experience. I shall grant you 50 million to make more of these.
+Boss: Thank you so much sir, you won’t regret it.
+Sponsor: I better not or I will HURT you.(Exit stage left)
+Employee: Well ima get to work sir, thank you for this!
+Boss: Keep it up kid, you might get promoted.
+Employee: I will sir. (Exit stage left)
+Robot: What now?
+Boss: Do that trick again.
+Robot: Yes sir! (TRICK)
+Boss: I could get use to this.
+
+======
+
+INFORMATION ===============================
+ID: 705
+TITLE: Satan's Suggestive Sentencing 
+AUTHOR: Hylactic
+VERIFIED: True
+TAGS: Skit
+SET: Courtroom
+CHARACTERS ================================
+SATAN: Satan, The literal Devil:Judge Chair
+DEMON: Satan's assistant Demon:Plaintiff Table
+SOUL 1: A confused soul:Defendant Table
+SOUL 2: An anxious soul:Defendant Table
+SUGGESTIONS =============================
+SIN: A ridiculous sin:spreading glitter everywhere, binge-watching reality TV shows, not washing your hands, actually liking bounty bars, eating microplastics, looking at designer products and thinking they're at a reasonable price, buying a build-a-bear at the age of 25, farting on a train, nuking the country of turkey, spelling your name wrong, spelling your name without a capital letter, enjoying learning the french horn
+FOOD: A strange food item:pickle-flavoured ice cream, spicy jellybeans, fish, dog food, jelly cat food, metal, expired milk
+HOBBY: An unenjoyable activity you wouldn't want to do forever:ironing, knitting, literature, bird-watching, bug-catching, turning a computer off and on again, watching paint dry
+WORD: Any word, ever, even made up:flibberjibbit, schnitzelfritz, umbrella, bioweapon, kerfuffle, Bibble, Cacophony, Gobbledygook
+SUPERPOWER: A dumb superpower:the ability to turn invisible but only while sneezing, The ability to see ghosts but it only activates after you die
+GERUND: A verb ending in ing:Moisturizing, Sanding, Modelling, Exercising, Drinking, Jumping
+RELIEF: Something you would say out of relief:Aah my horns were starting to itch, Well I'm starved, About time that ended, Ah what a relief, Well that went well
+ADJECTIVE: A negative adjective:Smelly, Distasteful, Dirty, Disrespectful, Futile, Unconvincing, Silly, Lazy
+SCRIPT ==========================================
+courtroom music
+SATAN: (Bangs gavel) Order in Hell's Courtroom! We are here today to sentence two souls for their egregious sin of SIN.
+DEMON: (Whispering to Satan) Your horns are looking extra pointy today, sir.
+SATAN: Thank you, I've been GERUND.
+SOUL 1: Um, excuse me, what's going on?
+SOUL 2: Yeah, why are we here?
+SATAN: (Smirks) You're here because you've been naughty little souls. Now, for your punishment...
+DEMON: How about we make them eat FOOD for eternity?
+SATAN: (Laughs) Brilliant! You two will be forced to eat FOOD for all of eternity!
+church bell
+SOUL 1: No, please, anything but that!
+SOUL 2: I'm allergic to FOOD!
+SATAN: Tough luck, my little sinners. Now, as for your role in Hell...
+DEMON: (Whispers to Satan) What about making them participate in HOBBY competitions?
+SATAN: (Nods) Excellent suggestion! You will spend your days engaging in competitive HOBBY tournaments!
+church bell
+SOUL 1: This is torture!
+SOUL 2: I never even liked HOBBY!
+SATAN: (Chuckles) And just to add insult to injury, if either of you utters a word such as WORD, you'll gain the power of SUPERPOWER!
+church bell
+SOUL 1: Oh god anything but that!
+SATAN: Not god, Satan. Common misconception.
+SOUL 1: Oh WORD! (gasp) No, I'm sorry!
+epic cinematic music
+Teleport SOUL 1 to Plaintiff Door
+gong
+SOUL 2: (sobbing)
+SATAN: (Laughs maniacally) Enjoy your eternity, my little minions! Court adjourned! (Bangs gavel)
+Teleport SOUL 2 to Plaintiff Door
+applause
+halloween music
+DEMON: RELIEF. Wouldn't you agree, sir?
+SATAN: Indeed, my loyal servant. It's quite entertaining to witness their ADJECTIVE protests and ADJECTIVE attempts at rebellion.
+DEMON: Speaking of rebellion, did you see the look on their faces when you mentioned the words?
+SATAN: (Laughs) Priceless! The fear in their eyes as they try to resist speaking, knowing the consequences of gaining such useless abilities like SUPERPOWER.
+DEMON: (Mocking) "Oh WORD! (gasp) No, I'm sorry!" indeed! (Laughs)
+SATAN: We truly are masters of torment, my friend. Let's retire to the Infernal Lounge and celebrate another successful sentencing.
+DEMON: Sounds diabolical, sir. Lead the way.
+
+======
+
+INFORMATION ===============================
+ID: 706
+TITLE: Wrong Order
+AUTHOR: ninjitsu1859
+VERIFIED: False
+TAGS: Skit
+SET: Restaurant
+CHARACTERS ================================
+JOSH: Boyfriend :Entrance Stage Right
+MARY: Girlfriend:Entrance Stage Right
+KEVIN: Waiter:Stage Right
+KAREN: Manager:Backstage
+SUGGESTIONS =============================
+SAD: A type of life you have:Sad, happy, boring, terrible
+RESTAURANT: A restaurant :Texas Roadhouse,McDonalds, Burger King 
+BABE: Something you would call your lover:Babe, Darling, My love 
+DRINK: Something you drink:Water, Beer, Soda
+THIRST: Something you drink:Water, Beer, Soda
+FOOD: Something you eat for dinner:Pizza, Chicken, Green beans
+ONE: Any number:1,35,87
+HUNGER: Any type of food:Fish, lion, Apple
+PHOTOS: Something you would take a picture of:Dog, Waterfall, Fireworks
+DOG: A type of pet:Dog, Cat, Fish
+SCRIPT ==========================================
+Jazz music 1
+Mary: (Enter stage right) I can’t believe you actually got reservations to RESTAURANT. They’re so expensive to buy.
+Josh: (Enter stage right) Only the best for you BABE!
+Kevin: Good evening and welcome to RESTAURANT! How may I help you today.
+Josh: Table for two please.
+Kevin: Right this way sir (Walk to table)
+Kevin: My name is Kevin and I’ll be your waiter today, what can I get for your drinks.
+Mary: I’ll have a water.
+Josh: I’ll have DRINK.
+Kevin: Alright, ill be right back with your drinks (Exit stage left)
+Josh: So Mary I brought you here for a reason today.
+Mary: Yes, to eat of course!
+Josh: Yes but there’s more to it BABE.
+Mary: Well what could it be.
+Josh: So I’ve been thinking for a while about this and-
+Kevin: Here are your drinks. One water and one THIRST.
+Josh: I definitely didn’t order this. I had the DRINK.
+Kevin: No you definitely said THIRST.
+Mary: It’s ok BABE, you used to drink THIRST all the time before we dated.
+Josh: I guess I’ll accept.
+Kevin: So what will we be having for dinner today!
+Mary: I would like FOOD and a side of fries
+Scribbling
+Kevin: (Write down on paper) FOOD and a side of fries. What will you have sir?
+Josh: Just some chicken tenders and fries will do.
+Kevin: Gotcha, I’ll be right back.
+Josh: Waiter can I talk to in private real fast.
+Kevin: Yes sir?
+Josh: Can you place this ring in her food please, I’m trying to propose tonight.
+Kevin: Of course, but it’s gonna cost you ONE thousand dollars.
+Josh: ONE thousand dollars?!
+Kevin: Take it or leave it.
+Josh: Fine.(Hand the waiter the money)
+Kevin: Pleasure doing business with you sir.
+Mary: What was that about?
+Josh: Nothing BABE, just trying to make sure this day is special for you.
+Mary: Its already special. I’ve never been treated like this before.
+Josh: Well I’m glad you’re enjoying this.
+Kevin: Here you go sir, your order of HUNGER, and for you my lady FOOD.
+Josh: This is not what I ordered man. I had chicken tenders.
+Mary: Let us speak to your manager, this is outrageous.
+Kevin: Alright then.
+Kevin: BOSS!!!
+Karen: (Enter stage left) What is Kevin I’m busy!
+Kevin: These guys wanna talk to you.
+Karen: What is it?
+Karen: Wait a minute. Don’t I know you?
+Josh: Uh no, you shouldn’t?
+Karen: You were just here last week with another girl.
+Record scratch
+Mary: Oh really? So you’re cheating on me!
+Josh: Wait no I can explain!
+Mary: I should’ve known from all those PHOTOS in your phone!
+Telenovela music 1
+Mary: I can’t believe you Josh. We are over! (Exit stage right)
+Josh: Why would you do that!
+Karen: How you gonna take her to a fancy restaurant and not me? That’s your karma for today.
+Karen: Don’t call or text me either! (Exit stage left)
+Kevin: Wow dude, you have terrible luck.
+Josh: Well unlike you I actually get girls.
+Kevin: Whatever dude, I got a DOG back home. They’re all I need in my life.
+Josh: That’s a SAD life.
+Kevin: Better than what you got going on bro. (Exit stage left)
+Josh: I did not order this drama today either.
+
+======
+
+INFORMATION ===============================
+ID: 709
+TITLE: Public Service announcement 
+AUTHOR: ninjitsu1859
+VERIFIED: False
+TAGS: Skit
+SET: News
+CHARACTERS ================================
+POLICE MAN: Armed police man:Backstage
+RANDOM MAN: Guy off the street:Fake Street Backdrop
+JUDY: News reporter:Fake Street Backdrop
+JERRY: News anchor:News Desk
+SUGGESTIONS =============================
+MASK: Something you wear on your face:Mask, Paint, piercings
+TWO: Any number higher than 1:2,56, 35
+NUMBER: Any number:67,98,1
+BAD: Something traumatic that happens to someone:Dog died, mom died, school shooting
+FLU: A new type of disease:Covid, flu, plague
+NEWS: A news station:Channel 2, Fox 5, channel 11
+YEAR: A year:2006,1987,1675
+STATE: A state:Florida,Georgia, North Carolina 
+SITTING: Something you do outside:Sitting, Gardening, Running
+THREE: Any number higher than 1:3,65,78
+NAME: Random name:Mark, Jamal, Will
+CLOTHES: Something you wear:Hat, Shoes, shirt
+SCRIPT ==========================================
+World news intro
+Jerry: Hi everyone this is Jerry with the NEWS news reporting to you a new disease spreading!
+Groose music
+Jerry: People are calling it the FLU Disease.
+Jerry: The disease started in YEAR and was deemed a threat yesterday.
+Jerry: We have local reports right now coming from STATE.
+Jerry: Let’s report to Judy on the scene. Judy, what’s the report.
+Judy: Well I found this man on the street while I was running around.
+Judy: He was SITTING before I came to him.
+Judy: Please sir, tell us what you think of this new FLU disease.
+Random Man: Well let me tell you something, this is nothing compared to when BAD happened.
+Random Man: when BAD happened I wasn’t myself anymore. I went NUMBER days with no sleep.
+Judy: But sir over TWO people have died!
+Random Man: So what? I’ve killed people before and no one’s stopped me yet.
+Random Man: I’ve been on the run for THREE years.
+Jerry: Uh Judy get out of there.
+Judy: (Whisper) Please call someone!
+Random Man: Are you guys talking about me? I don’t like people that talk about me.
+Judy: Back to you Jerry! Someone please help.
+Jerry: Um… So with that folks please stay safe, wear a MASK, and be careful from that FLU disease.
+Jerry: Any words for the people Judy?
+Judy: (Lying on floor dying) Please help!
+Police man: Please sir put the gun down!
+Random man: You’ll never take me alive!!
+Gunshot
+Jerry: Uh…, we will see you next time on NEWS news! It was wonderful to have you!
+Jerry: Wait, I’m getting word that the cops have some information to tell us
+Police man: Dear NAME county, the man that was just here has escaped custody.
+Police man: He is armed and dangerous and we are in the lookout for him.
+Police man: He is wearing red CLOTHES and has a knife. Lock your doors, and cover your windows. He could be anywhere.
+Jerry: Well guys you heard it here on NEWS news
+Jerry: This has been Jerry, please stay safe and I’ll see you next time.
+World news outro
+Jerry: (Wave goodbye) Bye bye now!
+Random Man: (Walk over to Jerry) I found you!
+Jerry: AAAAAAAAAAAH!
+
+======
+
+INFORMATION ===============================
+ID: 710
+TITLE: The Standoff
+AUTHOR: ninjitsu1859
+VERIFIED: False
+TAGS: Skit
+SET: Western
+CHARACTERS ================================
+ANGUS:  Cowboy out for revenge:Stage Left
+CARL: Cowboy being hunted:Stage Right
+SHERIFF: Sheriff of the town:Backstage
+SUGGESTIONS =============================
+YEAR: Any year:1875,2020,3000
+JOB: Any type of job:Cook, plumber, police man
+DOG: Any type of pet:Lion, bird, cat
+TWO: Any number higher than 1:2,57,89
+FOOD: A fast food place:McDonald, Arby’s, wendys
+FAMOUS: A famous person:Will smith, will arnet, Rosa parks
+MEMBER: Family member:Mom, dad, grandma
+DEAD: A dead celebrity :Bruce Lee, Stan Lee, Carl weathers 
+HURT: A way to hurt someone:Punch,kick, slap
+DISTRACTED: Something you get distracted from:Fireworks, Waterfall, A video
+TRAUMATIC: Something traumatic you do to someone:Hurt them, kill their family, kidnap them
+STORE: A type of shop:Walmart, Target, kroger
+SCRIPT ==========================================
+Western jingle 1
+Carl: Long ago in the year YEAR I had a best friend named Angus. We fell out after the incident that happened.
+Carl: We are here now to settle our differences after TWO years.
+Western piano music 1
+Carl: I wonder if any shops got some new horses in stock this year.
+Carl: Need to head over to the STORE to see.
+Angus: What a coincidence to see an old face.
+Carl: Well well well. If it isn’t angus my old friend.
+Angus: We were never friends. You are dead to me. Ever since you TRAUMATIC and left me for dead.
+Carl: That was TWO years ago Angus get over it.
+Carl: I TRAUMATIC you for the safety of my family. It’s not my fault you were to distracted by DISTRACTED.
+Angus: That doesn’t matter now. What matters is I’m gonna HURT you and make you see how it feels.
+Carl: What good will that do? Killing me won’t bring back DEAD.
+Angus: No, but I will get back revenge for them . (Standoff)
+Carl: Bring it on. (Standoff)
+Western showdown music
+Sheriff: Wait!!!
+Record scratch
+Sheriff: Let’s do this the right way now.
+Carl: What are you talking about?
+Sheriff: Come to the middle and turn your backs to each other.
+Angus: That’s a waste of time. I can just shoot him now.
+Sheriff: Yes, but this is more interesting.
+Carl: He does have a point. (Go to the middle)
+Angus: Whatever. (Walk to the middle)
+Sheriff: Ok now turn your backs to one another.
+Sheriff: I will count to 3 and you will take two steps for every count, then when I get to 3 I’ll say shoot.
+Sheriff: You’ll turn around and shoot when I say shoot. Understand?
+Carl: Yes.
+Angus: Wait, so I take a step for every what?
+Carl: After all these years you’re still stupid.
+Angus: Nothings stoping me from shooting you now.
+Sheriff: Just take a step for each number.
+Sheriff: Here we go! 1.
+Western showdown music
+Carl: You are so dead (take two step forward)
+Angus: I’ll kill you first (take two steps forward)
+Sheriff: 2!
+Carl: It was TWO years ago man (Take two steps forward)
+Angus: You TRAUMATIC me dude that’s not cool (Take two steps forward)
+Sheriff: 3!
+Angus: Ready to die? (Take two steps forward)
+Carl: No are you? (Take two steps forward)
+Sheriff: Shoot!!!
+Carl: HAA! (draw gun and shoot)
+Gunshot
+Angus: Missed me. (Draw gun and shoot)
+Gunshot
+Carl: (lies on the floor dying) I should’ve retired a long time ago. Dang it!
+Angus: Now you can never TRAUMATIC anyone ever again. This is for you DEAD!!!
+Carl: You will regret this. My MEMBER FAMOUS will come after you. You’ll be on the run forever.
+Angus: They will end up just like you. Dead! (Shoot Carl in the head)
+Gunshot
+Carl: AH! (Dead)
+Tense cinematic music
+Angus: Im on the run from Carl’s MEMBER FAMOUS now. They will suffer just like Carl.
+Angus: After TWO years i finally got my revenge.
+Angus: Carl died without saying goodbye to his family and his beloved pet DOG.
+Angus: I heard he was a JOB too. Guess that went down the drain.
+Sheriff: Are you done with the long monologue?
+Angus: Yes. Aren’t you supposed to be somewhere helping folks?
+Sheriff: Yea but this was much more fun.
+Angus: Well ima go get some FOOD now. All this revenge got me hungry.
+Sheriff: Can I come along? It’s on me.
+Angus: Let’s go then (Exit stage right)
+Sheriff: Yippie! (Exit stage right)
+
+======
+
+INFORMATION ===============================
+ID: 713
+TITLE: Concrete Alibi
+AUTHOR: abysswireless
+VERIFIED: True
+TAGS: Skit
+SET: City
+CHARACTERS ================================
+ALEX: Alex, Laid Back Jokester:Entrance Stage Right
+FRANK: Francis, Mischievious Artist:Alley
+ROB: Robbie, Store Owner (minor role):Entrance Stage Left
+JESSE: Jesse, Robber:Entrance Stage Left
+SUGGESTIONS =============================
+ACT: An activity.:grinding in Fortnite, watching Youtube Shorts, contemplating the meaning of life
+PRICE: An amount of money.:About tree fiddy, $50, $2000
+BAD: An insult.:Poopyhead, Dingus, Dweeb
+PLACE: A location.:Tilted Towers, skate park, bank
+ITEM: Something you could build or put together.:Tower, Statue, Death Star
+A2CT: Another activity.:get lunch, play some games, mess with powers beyond our comprehension
+ART: A way to describe art.:belongs in the trash, marvelous work, art
+SCRIPT ==========================================
+western jingle 1
+FRANK: (spray painting) Alright, just about done...
+FRANK: (step back) Perfect!
+ALEX: (enter stage right and go to the alley) Ayyy, Frank!
+oldschool hiphop music
+FRANK: Al!
+FRANK: Wazzaaaaap!
+meanwhile ALEX: Wazzaaaaap!
+ALEX: Not much though, just finished ACT
+laughter
+FRANK: Oh really? I was gonna paint something about ACT, but I don't think the world's ready to see my take on it.
+ALEX: Listen, in my opinion...
+music stops
+ALEX: ...The ground wouldn't have much to say anyway.
+laughter
+FRANK: So what else have you been up to?
+ALEX: Oh you know, the usual.
+ALEX: More ACT.
+laughter
+ALEX: Anyway, nice catching up with you.
+FRANK: You too, man
+break down door
+FRANK: What was that?!
+crashing debris
+ALEX: My guess is as good as yours, dude.
+JESSE: (come on stage with a bag and start running away) I gotta get out of here fast!
+FRANK: Wait a minute, Jess?
+JESSE: (stop) Yeah?
+silly music 1
+FRANK: Wazzaaaaap!
+JESSE: Wazzaaaaap!
+laughter
+Frank: What'cha got there?
+JESSE: Uhhh, fancy garbage?
+laughter
+ALEX: Sure got a lot of it too, How expensive was it?
+JESSE: I uh... wouldn't worry about that.
+FRANK: You did pay for it right?
+JESSE: Oh yeah, totally. It was PRICE
+FRANK: Sounds about right for that place.
+ALEX: Surprised you could afford it.
+laughter
+JESSE: Yeah well uh-
+music stops, police car
+JESSE: ...I better get going!
+JESSE: (run offstage) See you two later!
+FRANK: Huh, wonder what they're gonna do with all of that.
+ALEX: Maybe they could make ITEM out of it.
+laughter
+ROB: (enter stage left and look at alex and francis) Oh, hey you two.
+FRANK: Wazzaaaaap!
+ROB: Wazzaaaaap!
+Meanwhile ALEX: Wazzaaaaap!
+laughter
+ROB: Did you two see someone running from my store just now?
+ROB: That BAD took half the stuff I had for sale, and I just restocked too.
+FRANK: Nope, sorry man.
+ALEX: Actually, I think I saw them headed down the street to PLACE.
+ROB: Alright, thanks. Anyway, what are you fellas up to?
+FRANK: Just admiring my new masterpiece. What do you think?
+ROB: It's cool. Definetely ART.
+ROB: Anyway, I may as well close for the day.
+ROB: What do you guys wanna do?
+ALEX: Why don't we A2CT
+laughter
+ROB: Sure, why not.
+FRANK: Sounds fun.
+western jingle 1
 
 ======
 
