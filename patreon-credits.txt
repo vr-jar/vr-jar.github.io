@@ -1629,6 +1629,7 @@ The Honored 0ne
 Sinful ღ Wolf
 Prince_Rosco
 DinoCastRL
+_Shatter_
 #TIER=1
 AkaruHaru
 Riles
