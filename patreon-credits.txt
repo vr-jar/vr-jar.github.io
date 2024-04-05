@@ -1653,6 +1653,7 @@ TicTacModz
 l plan a l
 Scottish_person
 bravewarrior27
+AmorNova
 #TIER=1
 AkaruHaru
 Riles
