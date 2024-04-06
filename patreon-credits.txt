@@ -2356,6 +2356,7 @@ Blot455
 IndigoVoidigo
 kuromoriii
 Nicolas Road
+Sope-R
 #TIER=3
 SidMarcus
 PinballReviewer
