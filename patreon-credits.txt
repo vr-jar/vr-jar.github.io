@@ -1648,7 +1648,6 @@ Scottish_person
 AmorNova
 bravewarrior27
 Animebit6996
-DyingBug101
 #TIER=1
 AkaruHaru
 Riles
@@ -2233,6 +2232,7 @@ SwooSh_100
 Shykes211
 #TIER=2
 CODBO3RGM3
+~Monkee~
 ArkoNero
 saika mujuuk
 Psych_Foxtrot
