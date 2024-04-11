@@ -20331,8 +20331,8 @@ CHUCK: Run!! (Exit stage)
 INFORMATION ===============================
 ID: 632
 TITLE: Faces of Evil
-AUTHOR: MajinJigglypuff
-VERIFIED: True
+AUTHOR: majinjigglypuff
+VERIFIED: False
 TAGS: Skit
 SET: Forest
 CHARACTERS ================================
@@ -20674,24 +20674,24 @@ VERIFIED: True
 TAGS: Skit
 SET: Murder
 CHARACTERS ================================
-HERO: Timid Hero:Backstage
-ALLY: Hero's closest ally:Backstage
-FRIEND: Ally's best friend:Backstage
-VILLAIN: Villain:Backstage
 NARRATOR: Commentator:Narrator Podium
+VILLAIN: Villain:Backstage
+FRIEND: Ally's best friend:Backstage
+ALLY: Hero's closest ally:Backstage
+HERO: Timid Hero:Backstage
 SUGGESTIONS =============================
-FRIEND: Relations with the Hero (Friend, Sibling, Family):friend, ally, relative, parent, child
-VILLAINMOVE: A special move (Villain):Kurayami Iai Dokugo Issen, Fushicho Musou Giri, Solomon Break
-POWER: Another way of saying "power-up":power-up, upgrade, evolution
-MOOK: A type of enemy (weak monster preferably):Slime, Pawn, Goblin
-ROMEO: Name (timid Hero):Romeo, Juliet, Jack, Eric
-POINTS: Number less than 75:50, 25, 0
-WARRIOR: A type of warrior:warrior, fighter, hunter
-FACTION: A faction:Free World, Cult of Jar, Copy Express
-ETHAN: Name (Hero's closest ally):Kurumi, Izaya, Ethan
-RHODES: Village name:Rhodes, Terra, Remnant
-WEAKLING: Another way of saying "weakling":child, weakling, coward
 HEROMOVE: A special move (Hero):Hiryu Shugekiha ,Leo Cascade, Alangina Diablo
+WEAKLING: Another way of saying "weakling":child, weakling, coward
+RHODES: Village name:Rhodes, Terra, Remnant
+ETHAN: Name (Hero's closest ally):Kurumi, Izaya, Ethan
+FACTION: A faction:Free World, Cult of Jar, Copy Express
+WARRIOR: A type of warrior:warrior, fighter, hunter
+POINTS: Number less than 75:50, 25, 0
+ROMEO: Name (timid Hero):Romeo, Juliet, Jack, Eric
+MOOK: A type of enemy (weak monster preferably):Slime, Pawn, Goblin
+POWER: Another way of saying "power-up":power-up, upgrade, evolution
+VILLAINMOVE: A special move (Villain):Kurayami Iai Dokugo Issen, Fushicho Musou Giri, Solomon Break
+FRIEND: Relations with the Hero (Friend, Sibling, Family):friend, ally, relative, parent, child
 SCRIPT ==========================================
 NARRATOR: And the results are in for the Pre-Qualifications match of a four way free for all between; Contestants Exol, Bravo, Snide, and ROMEO!
 NARRATOR: In last place, we have ROMEO with a low POINTS points...
@@ -20782,7 +20782,7 @@ HERO: Ah! (falls)
 explosion, Teleport HERO to Backstage
 VILLAIN: (sigh) Such wasted potential. That WEAKLING would've been a great member for the FACTION but alas, the WEAKLING had to choose the wrong side. (exit stage)
 Music Stops
-FRIEND: (Enters stage) ROMEO, I'm back! Where are you, ROMEO? NAME!
+FRIEND: (Enters stage) ROMEO, I'm back! Where are you, ROMEO? ROMEO!
 FRIEND: (Looks around) No.... Is ROMEO dead? How am I going to tell this to ETHAN?
 
 ======
@@ -23242,6 +23242,428 @@ Cop: (Exit stage left with Jerry) You’ll have plenty of SHOP in jail murderer.
 Happy music 1
 Fan: Another day, another crime solved thanks to me.
 Fan: I need some SHOP as well. I wonder if TARGET has em.
+
+======
+
+INFORMATION ===============================
+ID: 720
+TITLE: Date Night
+AUTHOR: scottytheghost
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Restaurant
+CHARACTERS ================================
+WAITER: The waiter:Entrance Stage Left
+FREDDY: Freddy, George's embarrassing childhood friend:Backstage
+JESSICA: Jessica, out of George's league:Entrance Stage Right
+GEORGE: George, first time on a date:Chair 1
+SUGGESTIONS =============================
+DATINGSITE: A dating site/app:Tinder, OkCupid, hotsinglevrchatters.com
+EXCUSE1: An excuse for being late:traffic was a nightmare, my dog ate my homework, I forgor
+RESTAURANT: A fancy restaurant name:Bellefleur, Le chat noir, Élever des cannes
+DRINK: A drink:coffee, water, wine
+TIME: A long amount of time:20 years, 9 months, 3 days
+HOBBY: An embarrassing hobby:LARPing, embroidery, cosplay
+FOOD1: A tasty dinner:filet mignon, chicken carbonara, lobster tail
+FOOD2: A gross food:scorpion legs, brussel sprouts, fish heads
+TOPIC: A conversation topic:bees, sudoku, John Wick
+EXCUSE2: An excuse for leaving:I forgot to turn the stove off, I need to feed my cat, I left my wallet in my other pants
+ANIMAL: An animal other than fish:Horse, bird, dinosaur
+LOCATION: Any location:Waffle House, Walmart, his grandpa's funeral
+SCRIPT ==========================================
+waltz music
+GEORGE: She was supposed to be here 30 minutes ago... she stood me up, didn't she? I just got stood up.
+GEORGE: I guess that's what I deserve for trying to meet someone on DATINGSITE...
+JESSICA: (enter) Excuse me? Are you George from DATINGSITE?
+GEORGE: Oh- yes- that's me! Hi! You must be Jessica! Go ahead, have a seat!
+JESSICA: (sit down) Sorry I'm late, EXCUSE1.
+GEORGE: Nono, it's fine! Life happens, and all that. I'm just- glad you're here- really.
+WAITER: (enter, walk towards diners) Welcome to RESTAURANT. What can I get you two to drink?
+JESSICA: Hmm, I think I'll have a DRINK, please.
+GEORGE: I'll- also have a DRINK, then!
+WAITER: Two DRINKs, then. I will get that for you right away. (exit through kitchen door)
+JESSICA: You know, I'll admit I'm impressed you got a reservation for RESTAURANT. This is the fanciest place in town!
+GEORGE: Well, you did mention RESTAURANT being your favorite restaurant on your DATINGSITE profile.
+JESSICA: It's also very expensive... you're treating, right?
+GEORGE: Oh- um- yeah- sure.
+WAITER: (enter) I have the DRINKs for you two. (set one next to Jessica)
+GEORGE: Thank you so much. I really appreciate it!
+music stops
+record scratch
+WAITER: Here you go... (accidentally spill DRINK on George) Oops!
+MEANWHILE GEORGE: (The waiter spills DRINK spilled on you) Oh no, what a mess!
+WAITER: My apologies, sir. It seems my hand slipped. Unfortunately, that was our last DRINK.
+GEORGE: It's- it's okay! Accidents happen! Everything's fine! No big deal!
+GEORGE: I'll just- um- clean myself up in the bathroom real quick. (exit through white door)
+JESSICA: That guy sure is... nervous. Hopefully he'll relax and nothing else weird happens.
+MEANWHILE WAITER: (head back into kitchen)
+groose music
+FREDDY: (barge in through front doors) Yo, what's up? You're Jessica from DATINGSITE, right?
+JESSICA: Um, do I know you?
+FREDDY: No, but I know you! George has been talking about you nonstop!
+JESSICA: Wow, that's... that's great. I'm hoping you're a friend of his?
+FREDDY: (sit down next to Jessica) Yeah, I'm Freddy! I've been best buds with George for TIME!
+FREDDY: He's like a brother to me. We're hanging out all the time, playing all the hottest new video games...
+FREDDY: Did you know that he's secretly into HOBBY? Oops, shouldn't have said that out loud!
+JESSICA: Interesting... so like, why are you here?
+FREDDY: I just wanted to check in on my best bud, see how his date's going! Oh- look, there he is! Sup, dude?
+MEANWHILE GEORGE: (enter, see Freddy, under breath) Oh no.
+GEORGE: Heyyyy, Freddy. Fancy seeing you here! I thought I told you I'd be busy tonight!
+FREDDY: Sorry, I just wanted to make sure you were okay! I know you get super nervous around girls you like!
+GEORGE: Okay- thanks for saying that out loud. Could you- get out of my chair please?
+FREDDY: My bad! (stand up, sit at a different table)
+GEORGE: (sit down next to Jessica) I am so sorry about my friend. He's, um... quirky sometimes.
+JESSICA: Don't worry, he seems... really nice!
+FREDDY: Why thank you!
+MEANWHILE GEORGE: (grumble impatiently)
+silly music 2
+WAITER: (enter) What can I get you two to eat?
+JESSICA: I'd love to have your FOOD1.
+GEORGE: I'll also get FOOD1!
+FREDDY: Ooh, can I have some?
+GEORGE: ...no.
+WAITER: I will get that out for you right away. (exit to kitchen)
+GEORGE: Soooo... ummm... you... you hear about video games?
+JESSICA: Uh... yeah. What about them?
+GEORGE: Um... I like video games. They're fun. Yeah.
+FREDDY: Quick, George, talk about TOPIC! Girls love TOPIC!
+GEORGE: Where did you get that from?
+FREDDY: Just trust me, bro!
+JESSICA: He's not wrong actually, I don't know how you knew that but one of my favorite things is TOPIC.
+GEORGE: Oh- really? I mean- yeah- me too! I love TOPIC so much! I could talk about TOPIC all night long!
+FREDDY: She knows you're lying, George! Roll it back!
+GEORGE: I... hate TOPIC!
+FREDDY: No, wait, roll it forward!
+GEORGE: I have a very slight enjoyment of TOPIC?
+FREDDY: Perfect!
+WAITER: (enter with food) I have the FOOD1 for you, ma'am. (give Jessica the FOOD1)
+JESSICA: Thaaanks...
+WAITER: And for you, sir, the FOOD2. (give George the FOOD2)
+GEORGE: Uhhh... this isn't what I ordered. I also got the FOOD1?
+WAITER: I see. My apologies. Unfortunately, we are now all out of FOOD1. Enjoy. (exit to kitchen)
+FREDDY: (walk to table) Yo, I love FOOD2! Can I have some of that?
+GEORGE: (sigh) You know what? Knock yourself out.
+music stops
+FREDDY: (Eat entire plate of FOOD2 loudly) Mmh, delicious, mm, my favorite. You're the best, George!
+GEORGE: (Noticing empty plate) There's no FOOD2 left for us! I said you could have some of it, not all of it!
+FREDDY: Sorry dude, I guess I was really hungry!
+GEORGE: Sorry doesn't cut it, Freddy! I didn't ask for you to be the third wheel! You're ruining my date!
+emotional piano music
+FREDDY: Ruining? I... really thought I was helping you, man... (sulk in corner)
+JESSICA: You shouldn't be so mean to your friend, George.
+GEORGE: You're taking his side in all of this?! After he ate my FOOD2?!
+JESSICA: You and I both know he means well. You've known him for what, TIME? I'd be lucky to have a friend as supportive as him.
+JESSICA: You're only mad because you're scared of making a bad impression, aren't you?
+GEORGE: I... I... you're right. I'll be honest: this is the first time I've gone on a date, and I feel like a ANIMAL out of water.
+JESSICA: I don't think that's how the expression goes...
+GEORGE: You get what I mean! It feels like everything's going wrong and I'm making a complete fool of myself. I'm sorry, Jessica.
+JESSICA: It's okay, George. Trust me, this isn't as bad as the time my date took me to LOCATION. (shudder)
+JESSICA: You just need to stop worrying about what I think and genuinely be yourself. For example...
+music stops
+JESSICA: A little Freddy told me you were into HOBBY?
+GEORGE: Wha- he- yo- only ironically, okay?!
+JESSICA: Really now? That's a shame. I was going to say I've been a fan of HOBBY for years...
+JESSICA: Maybe you'd like to go back to my place and talk some more about HOBBY?
+happy music 1
+GEORGE: (jumps out of chair) I would really really really love that. Let's go! (exit restaurant)
+MEANWHILE JESSICA: (leave restaurant with George)
+WAITER: (exit kitchen) That is the last time I'm playing the part of saboteur.
+FREDDY: Hey, all's well that ends well, right? Thanks for the help, man. So how much do I owe you?
+WAITER: (hand over check) You can start by paying for the bill they conveniently forgot about.
+FREDDY: Oh, that's easy. I'm sure they didn't spend that much!
+FREDDY: ...actually, about that, I just realized EXCUSE2 I will be right back- (run out of restaurant)
+WAITER: I guess this is what I deserve for trying to meet someone on DATINGSITE...
+
+======
+
+INFORMATION ===============================
+ID: 725
+TITLE: It’s in my mouth
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Restaurant
+CHARACTERS ================================
+RICH: Greasy friend :Stage Left
+FRIEND: Innocent friend :Stage Right
+WAITER: The waiter:Stage Right
+SUGGESTIONS =============================
+SICK: Something you don’t want to drink:White-sauce, glue, clotted blood, spinal fluid
+EW: Something smelly:Discord Mod underwear, E-Girl chair sweat, used tissues, burned witches corpse
+GROSS: Something utterly disgusting :Armpit meat, most socks, crusty feet, rotten teeth
+YUCK: Something you don’t want to eat:Sewage, clumpy batter, blue noodles, meat-cheese
+WATER: A basic drink:Lemonade, Cola, Water, Monster
+BASIC: Something small to eat:Garlic bread, nachos, Wedges, Macaroni
+SIMPLE: Something normal to eat:Bread, pasta, potato, sausage
+UTUBE: A Youtuber:Abroad in Japan, Joey the Anime-man, Giguk, CdawgVA
+CELEB: A famous person:Obama, Queen Elizabeth, Mario from Mario, Cloud Strife
+PART: A part of the human body that creates liquid:Nose, mouth, eyes, armpits
+TIER: Something big and disgusting:Godzilla in a tutu, Bloated whale corpse, Kaiju Karen, Double-cheeked Moon
+ACTION: (Past tense) An unpleasant action you did to someone:Punched, tickled, burped in their face, licked
+SCRIPT ==========================================
+70s music
+RICH: (enter laughing with friend) … And so I ACTION them so hard they started crying!
+FRIEND: (enter with friend, laughing) Oho! I bet they’ll never mess with you again.
+Laughter
+WAITER: (Approach the customers and bow head) Good evening you two.
+RICH: (to friend) This place is truly divine. They can make any food you wish!
+FRIEND: (to friend) Ooo. Colour me impressed.
+RICH: (point to table) Two seats in the center of the restaurant please.
+RICH: We will be having the TIER experience today.
+Vine boom
+FRIEND: E-excuse me?
+WAITER: Ah, yes. (Gesture to table) Right this way. (Guide them to table)
+RICH: (sit) Oh boy! My PART is already watering with delight!
+Laughter
+FRIEND: Um, firstly, gross. (Sit) Secondly, what is the TIER experience exactly?
+WAITER: (hold pen and paper) It must be your first time here.
+WAITER: The TIER experience is our U.S.P.
+WAITER: It’s an experience where you test your friendship with another.
+WAITER: You order for your friend and your friend must consume it.
+Waterphone
+FRIEND: Huh?!
+RICH: I saw CELEB do it in a viral video with UTUBE one time!
+FRIEND: CELEB? Really? Then it must be worthwhile…
+WAITER: Do you need a bucket? (Point to floor) Your PART is dripping at an uncomfortable rate…
+FRIEND: Please get your PART under control… I can’t eat while it’s doing that.
+Laughter
+RICH: Sorry, sorry. (Hold PART for a bit.) Can I get a towel?
+WAITER: Certainly. (Get towel from under table, offer it.)
+RICH: (take towel, pat PART) Thank you. That should be fixed now!
+FRIEND: Good. (Finger wag) No one should lose that much precious fluid.
+WAITER: (clap) Are you two ready to order now?
+RICH: You go first, my friend.
+FRIEND: Okay. (Think)
+FRIEND: I want you to have SIMPLE with a side of BASIC and a WATER to drink!
+WAITER: (sarcastic tone) Oh! Feeling really risky today, aren’t we?
+Laughter
+WAITER: (look at other) And you? What will you be making your adventurous friend eat?
+RICH: I’ll order for you……. (Think)
+RICH: A slimy plate of YUCK.
+Vine boom
+RICH: With a steaming layer of GROSS.
+Vine boom
+RICH: And a big juicy helping of EW.
+Vine boom
+RICH: And a heaping bowl of SICK to wash it all down!
+Vine boom
+FRIEND: What?!
+WAITER: Right away. (Exit to kitchen)
+FRIEND: Y-you can’t be serious!
+RICH: Oh I am.
+RICH: (slap hands on table) You’re going to chew on EW. (Point) and you’re going to like it!
+Waterphone
+RICH: (evil laugh) Finally! My GROSS obsession will be satisfied!
+RICH: And I’ll finally see SICK pulsate with my own eyes!
+FRIEND: Noooo! (arms to sky) But I hate YUCK!!
+Laughter
+WAITER: (return with both meals) Here you go.
+WAITER: BASIC, SIMPLE and WATER for you..
+WAITER: And YUCK, GROSS, EW and SICK for you.
+WAITER: Enjoy! (Leave)
+FRIEND: (stare at food) …….. Please no..
+RICH: (happily eat food) Mmm! So good! I love BASIC!
+RICH: Hurry up and dig-in! I like the look of that YUCK!
+RICH: Your GROSS is getting cold.
+FRIEND: (start to eat the GROSS) … Gawk! (Fake faint and fall of chair)
+Crashing debris
+RICH: Wow.. Even UTUBE got through the first course..
+FRIEND: First… course? How… many… are there?
+RICH: Seventeen. (Eat happily)
+Vine boom
+FRIEND: N-noooo!!! (Faint for real)
+Aww
+
+======
+
+INFORMATION ===============================
+ID: 726
+TITLE: Date with a Blockchain Romeo
+AUTHOR: senorconqueso
+VERIFIED: False
+TAGS: Skit
+SET: Restaurant
+CHARACTERS ================================
+CHAD: Certified Crypto Bro:Stage Left
+LOVER: Aspiring Crypto Lover:Stage Right
+SUGGESTIONS =============================
+TATTOO: An Absurd Tattoo:Dinosaur Chicken Nugget, A Narwhal Riding a Unicorn, A Bitcoin Symbol with Green Arrows
+ENDEARMENT: A Nickname For a Partner:Honey, Bae, Baby
+SOCIALMEDIA: A Social Media Platform:YouTube, Reddit, Discord
+MYTHICAL: A Mythical Creature:Troll, Goblin, Siren
+LUXURY: An Expensive Item:Century Egg, Lambo, Jetliner
+PROFILE: Another Online Username/Handle:hodlorfodl, Natureisawesome99, Itspuregreen42
+NOUN: A Sought After Item:Pokemon Cards, Pepe Memes, Unstable Unicorns
+ANIMAL: A Type of Animal:Lion, Dog, Gator
+PLACENAME: A Quirky Restaurant Name:Pie in the Sky, The Good Drip
+USERNAME: An Online Username/Handle:@memelover23, gmeorbust45, cryptoking96
+SOCIAL2: Name For a Dating App:Tinder, Grindr, Farmer's Only
+SCRIPT ==========================================
+LOVER: (to audience) Once upon a time, in the heart of Silicon Valley, I found myself swiping right on SOCIAL2.
+LOVER: My screen lit up with a notification: You’ve matched with USERNAME Little did I know that this would be the most volatile date of my life.
+LOVER: (to audience) We agreed to meet at a trendy coffee shop called “PLACENAME”
+LOVER: (to audience) As I walked in, I spotted him—Chad sipping a chai latte and checking his portfolio. His eyes sparkled like ANIMAL NFTs on auction day.
+emotional piano music
+CHAD: Hey, (extend hand) I’m Chad. I mine crypto and collect rare NOUN.
+LOVER: (Handshake and sit down with Chad) Nice to meet you, I’m PROFILE.
+LOVER: I hodl Dogecoin and have a soft spot for Shiba Inu dogs.
+aww
+CHAD: (pulls out phone) Let’s play a game, I’ll give you a token, and you tell me what it represents.
+LOVER: Deal,
+CHAD: Okay, first one: LUXURY Coin.
+LOVER: (thinks for a moment) Ah, that’s the token you buy when you’re convinced your Lambo will fly you to the moon after the next bull run.
+CHAD: Correct! Now, your turn. What’s a FUDMYTHICAL?
+LOVER: That’s the mythical creature that spreads FUD (Fear, Uncertainty, and Doubt) in crypto forums,
+LOVER: Legend has it that it lives in the depths of SOCIALMEDIA channels, whispering bearish predictions.
+laughter
+CHAD: You know. I’ve got a white paper for our future together.
+LOVER: Really? What’s it called?
+CHAD: ENDEARMENTChain: A Decentralized Romance Protocol,
+CHAD: It’s all about trustless hugs and immutable kisses.
+LOVER: Chad, you’re a real DeFi dreamboat.
+CHAD: (winks) And you’re my liquidity pool, baby.
+LOVER: (to audience) As the evening wore on, Chad revealed his deepest secret:
+CHAD: I’ve got a tattoo of TATTOO on my ankle.
+LOVER: (choking on drink) Why?
+CHAD: Because it symbolizes my undying love for decentralized finance and magical creatures.
+LOVER: (to audience) Our date ended with a crypto-themed dessert: a Non-Fungible Cupcake.
+LOVER: (to audience) Chad paid with a QR code, and we shared a fork, our lips brushing against the icing.
+LOVER: (to audience) As I walked home, I realized that love, like blockchain, is unpredictable.
+LOVER: (to audience) Sometimes it moons, sometimes it crashes—but it’s always worth hodling.
+
+======
+
+INFORMATION ===============================
+ID: 729
+TITLE: Duel at the Alright Corral
+AUTHOR: Tricky_Hunter
+VERIFIED: True
+TAGS: Skit
+SET: Western
+CHARACTERS ================================
+CLOWN: Clown Gun Slinger/Sheriff:Stage Left
+OUTLAW: Outlaw:Stage Left
+SUGGESTIONS =============================
+OUTRAGE: Old west word of outrage:tarnation, sam hill, all hell
+TOUGH: Another word for being tough or strong:man, hard, stout, savage
+WEAPON: Another name for a gun:Pistol, Six Shooter, Pea Shooter, Blaster, Rooty-Tooty Point and Shooty
+GUNSLINGERNAME: Name of a old west outlaw:Pistol McGraw, Keylime Killer, Mutilator Jones, Billy the Echidna
+BUBBLES: Name of a party clown:Bubbles, Balloon McTwisty, Smiles, Hungry, Pancake
+INSULT1: An old timey insult from the 1800's:Yellow, Gibfaced, Ratbagged, Crooked
+INSULT2: Wild west insult:Skinny, Weasel, Varmint, Rat
+BUSINESS: Another word for self made man:entrepreneur, go getter, man of culture
+INSULT3: Wild west insult:Polecat, lily livered coward, snake in the grass 
+SCRIPT ==========================================
+western jingle 1
+OUTLAW: Well... ain't no one 'round these parts man enough to face ol' GUNSLINGERNAME.
+church bell
+OUTLAW: Would ya look at that, it's high noon and I ain't seen hide nor hair of BUBBLES the local Sheriff.
+OUTLAW: I reckon he's just INSULT.
+CLOWN: (Step onto saloon porch) Who you callin' INSULT1?
+western showdown music
+OUTLAW: Well look who decided to show his INSULT2 face!
+CLOWN: That's Mr. BUBBLES to you, GUNSLINGERNAME!
+CLOWN: It's time ya' learned some manners!
+OUTLAW: Manners is fur INSULT1, INSULT2, girlies like you. I'm what ya call a BUSINESS.
+CLOWN: The only BUSINESS I see just happens to be the one's on the wrong end of yer WEAPON!
+OUTLAW: Ain't nothin' but business, which you should be mindin' ya INSULT3!
+CLOWN: Don't ya see, this is my business!
+CLOWN: It's my duty to be lookin' after the safety of this here town!
+OUTLAW: The last man who got in my way ended up as a notch on WEAPON's handle!
+OUTLAW: You think yer better than me BUBBLES? Do ya?!?
+OUTLAW: Well I got news fur ya! Ain't nobody better on the draw than ol' GUNSLINGERNAME!
+OUTLAW: So if ya think yer TOUGH enough, let's settle it here and now!
+CLOWN: Best you just walk away GUNSLINGERNAME, I don't wanna have to stain this town with your blood.
+CLOWN: Nobody has to meet their maker today, if you just do the sensible thing.
+OUTLAW: Sensible? Sensible?!? Why in OUTRAGE would I be sensible?
+OUTLAW: I'm GUNSLINGERNAME, I din't make a name fur myself by bein' sensible!
+OUTLAW: Now ya gonna live upta that fancy get up ya got on, or you gonna be the INSULT2 'lil INSULT1 I know ya are?
+CLOWN: Well if that's the way your fixin' to have it, then I've got no choice GUNSLINGERNAME
+CLOWN: Just know I gave you the chance to see tomorrow
+CLOWN: Last chance GUNSLINGERNAME! (step out into street)
+CLOWN: You gonna mosey along or am I gonna have to make work for our undertaker?
+OUTLAW: Ain't no one ever bested ol' GUNSLINGERNAME and yer not gonna be the one ta take me down.
+CLOWN: On a count of three then? (prepare to draw your gun)
+meanwhile OUTLAW: (prepare to draw your gun)
+OUTLAW: Given' me a fair chance, that's might kind of ya (prepare to draw your gun)
+meanwhile CLOWN: (prepare to draw your gun)
+CLOWN: We play fair round these parts, you should know that by now GUNSLINGERNAME (prepare to draw gun)
+meanwhile OUTLAW: (prepare to draw gun)
+Music Stops
+CLOWN: (prepare to draw gun) Three... Two...
+meanwhile OUTLAW: (point gun at opponent)
+gunshot
+CLOWN: (clutch at chest and collapse) but we play fair in these parts... (cough and die)
+church bell
+OUTLAW: (Holster gun) Ain't nobody wins as much as ol' GUNSLINGERNAME if'n ya play fair
+western hero theme
+OUTLAW: (stare out at audience) On ta the next town that likes ta... play fair...
+TYPEWRITER: Ol' GUNSLINGERNAME skipped town to find his next victim;On the way GUNSLINGERNAME died of dysentery and his corpse was picked clean by vultures
+
+======
+
+INFORMATION ===============================
+ID: 731
+TITLE: The Trial of the Witch
+AUTHOR: senorconqueso
+VERIFIED: False
+TAGS: Skit
+SET: Courtroom
+CHARACTERS ================================
+AGATHA: Agatha, the Accused Witch:Witness Stand
+PRUDENCE: Prudence, the Village Gossip:Defendant Table
+EZEKIEL: Ezekiel, the Devout Judge:Judge Chair
+ABIGAIL: Abigail, the Zealous Accuser:Plaintiff Table
+SUGGESTIONS =============================
+MEAT: Type of Meat:Beef, Pork, Chicken
+HOLY: A Name of a Higher Power:Shivartha, C'tul, Rael
+MUSHROOMS: A Cooking Ingredient:Toadstools, Paprika, Garlic
+REMEDIES: A Type of Medicine:Remedy, Salve, Health Tonic
+HERBS: A Type of Plant:Herb, Root, Tulips
+CAULDRON: A Vessel for Carrying Liquid:Urn, Bucket, Cast Iron Bowl
+VILLAGE: Name of Place/Community:Hillside, Salem, Homestuck fans, Facebook Marketplace, Jail
+FRANCHISE: A food francise you might eat lunch at:R. Kelly's Lemonade Stand, Starbucks, Super K-Mart, Quizno's, Chipotle, Popeye's Fried Chicken Store
+WEAPON: A weapon or torture instrument:fire ants, handcuffs, butter knife of doom, Taylor Swift 10 hour mix, leeches, 50 caliber machine gun
+SCRIPT ==========================================
+TYPEWRITER: Salem, Massachusetts 1692
+scary music
+EZEKIEL: (bangs gavel) Good afternoon. I am Your Honorable Ezekiel, presiding over the case of VILLAGE vs Agatha.
+EZEKIEL: Agatha, you stand accused by the citizens of VILLAGE due multiple instances of suspected witchcraft.
+ABIGAIL: (pointing accusingly) I saw her, Your Honor! She was dancing in the moonlight, chanting strange incantations!
+Music Stops
+EZEKIEL: And what evidence do you have, Abigail?
+ABIGAIL: (excitedly) She was carrying a CAULDRON, Your Honor! A CAULDRON!
+PRUDENCE: (to Ezekiel) I always suspected Agatha. She's always been a bit too fond of HERBS, if you ask me.
+EZEKIEL: Very well. Agatha, do you deny these accusations?
+AGATHA: (nervously) I do, Your Honor. I swear, I was merely collecting HERBS for my potions. I mean, REMEDIES.
+ABIGAIL: POTION MAKER! She admits it!
+EZEKIEL: Silence, Abigail! Let the accused speak.
+PRUDENCE: But what about the MUSHROOMS, Ezekiel? I heard she was brewing potions with MUSHROOMS!
+EZEKIEL: (curious) Is this true, Agatha?
+AGATHA: (frustrated) They're not for potions! They're for my vegan MUSHROOMS stew! I'm a herbalist, not a witch!
+vine boom
+ABIGAIL: (scoffing) A likely story! Everyone knows witches use MUSHROOMS!
+EZEKIEL: (stroking his chin) Indeed, MUSHROOMS are commonly associated with witchcraft.
+PRUDENCE: See, I told you!
+AGATHA: (desperately) Your Honor, I swear on all that is HOLY, I'm innocent! I just have a passion for plants and a distaste for MEAT!
+EZEKIEL: (thoughtfully) Very well. We shall adjourn for now and reconvene after lunch to deliberate.
+TYPEWRITER: Two Hours at FRANCHISE Later
+EZEKIEL: (addressing the courtroom) After two hours of careful consideration, and a combo meal at FRANCHISE, we have reached a verdict.
+ABIGAIL: (eagerly) Guilty! She's guilty!
+PRUDENCE: (nodding vigorously) Burn the witch!
+EZEKIEL: (raising his hand for silence) However, upon further investigation,
+EZEKIEL: it has become clear that Agatha's actions were not rooted in witchcraft, but rather in her dietary choices.
+AGATHA: (hopeful) So you believe me, Your Honor?
+EZEKIEL: Yes, Agatha. It is evident that you are not a witch, but simply a vegan herbalist.
+ABIGAIL: (deflated) But... but what about the CAULDRON and the Incantations?
+AGATHA: (smirking) The CAULDRON was for my vegetable stew, and the Incantations were just me singing to my plants.
+PRUDENCE: (Embarrassed) Oh... I see.
+EZEKIEL: (clearing his throat) In light of this revelation, Agatha is free to go. Case dismissed.
+crowd woo
+AGATHA: (Exit Stage Right)
+ABIGAIL: (muttering) I guess we were a bit too quick to judge.
+PRUDENCE: (nervously) Perhaps we should take care of her before this spreads any further...
+ABIGAIL: I'll get the WEAPON.
 
 ======
 
