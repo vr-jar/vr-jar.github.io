@@ -12414,7 +12414,7 @@ ALLY: And I'm glad to have you back as well, my RELATION.
 INFORMATION ===============================
 ID: 392
 TITLE: The night before Christmas
-AUTHOR: Not~A~Spy
+AUTHOR: Deadly~Lex
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -23377,6 +23377,79 @@ WAITER: I guess this is what I deserve for trying to meet someone on DATINGSITE.
 ======
 
 INFORMATION ===============================
+ID: 721
+TITLE: Juice Stand
+AUTHOR: scottytheghost
+VERIFIED: True
+TAGS: Skit
+SET: City
+CHARACTERS ================================
+KID: A kid running a juice stand:Center Stage
+EMPLOYEE: A disgruntled employee:Entrance Stage Left
+SUGGESTIONS =============================
+OCCUPATION: A job or occupation:fast food manager, cashier, janitor
+FEATURE: An identifying characteristic of someone:eyes, face, hair, walk
+FOOD: A food that isn't a fruit:pizza, burger, steak
+TOOL: A tool used in the kitchen:blender, knife, hammer
+INGREDIENT: A secret ingredient:a splash of vinegar, a shot of vodka, cayenne peppers
+GIFT: A gift for a kid:puppy, Nintendo Switch, bicycle
+FLYINGTHING: A flying animal or object:bluebird, balloon, kite
+LANGUAGE: A language:Japanese, Spanish, German
+HOBBY: A hobby:calligraphy, chess, stamp collecting
+NUMBER: A large number:1234, 5000, 1337
+SCRIPT ==========================================
+guitar music 1
+KID: (at a juice stand) Juice for sale! Get some fresh juice here! Get it while it's hot- I mean, cold!
+EMPLOYEE: (enter, groan) What a long day. I'm so tired of being a OCCUPATION. I need a drink.
+KID: Excuse me, did you say you wanted a drink? I've got some juice for sale!
+EMPLOYEE: Oh, uh- sorry, kid. I don't mean that kind of drink.
+KID: Are you sure? You look like a disgruntled employee!
+EMPLOYEE: How could you tell?
+KID: I see it in your FEATURE. You're tired. Very tired. (point) Also you still have your name tag on.
+EMPLOYEE: Oh. Right. You know what, you've got my interest.
+EMPLOYEE: (walk to kid) So what are you selling? Lemonade? Orange juice?
+KID: Nothing like that! My juice is far more special than some fruity drink.
+music stops
+KID: I'm selling... FOOD juice!
+EMPLOYEE: I'm sorry, FOOD juice?!
+double bass music
+KID: Yep! You heard me right! There's nothing like a good glass of FOOD juice to quench your thirst!
+EMPLOYEE: How do you even make juice from FOOD?
+KID: It's simple, really! First I buy all the FOOD I can from nearby stores and restaurants.
+KID: Then I use a TOOL to extract all the juice from the FOOD.
+KID: Finally, I add my secret ingredient to top it off!
+KID: (fake whisper) Just between you and me, the secret ingredient is INGREDIENT.
+EMPLOYEE: That's... one way to make a drink. So why are you selling FOOD juice?
+KID: I want to buy myself a GIFT!
+EMPLOYEE: That's sweet, but not what I meant. Why are you selling *FOOD juice* of all things?
+KID: I made it for myself once by accident and I really liked it. I just want to share the joy of FOOD juice with other people!
+KID: I know it sounds really weird, but don't knock it 'til you try it!
+EMPLOYEE: I'm not sure if that's safe for me to drink...
+KID: Come on! Please?
+EMPLOYEE: I don't know about this...
+KID: Pleaaaaaaaaaaaaaaaase?
+EMPLOYEE: (long sigh) Okay, fine. Only because it's helping you get your GIFT.
+KID: Yay! (hand over drink) Here you go! One fresh glass of FOOD juice!
+MEANWHILE EMPLOYEE: (You are handed a glass of FOOD juice)
+EMPLOYEE: Well... cheers, kid. (take a drink of FOOD juice)
+music stops
+EMPLOYEE: (instant regret, cough, gag) Ugh, this tastes nothing like FOOD! What the hell, kid?!
+KID: It's supposed to taste bad at first! Just give it a moment!
+EMPLOYEE: If it tasted bad, I wouldn't have drank it! Why I oughta... I...
+peaceful fantasy music
+EMPLOYEE: (face audience) I feel... light. Weightless, like a FLYINGTHING drifting through the air.
+EMPLOYEE: It's like all my anxieties and fears and worries were taken away from me. Like... they were extracted. Specifically with a TOOL for some reason.
+EMPLOYEE: I am so much more than a JOB. I'm... me. And I can do whatever I want with me.
+EMPLOYEE: Maybe I'll finally learn LANGUAGE, or get into HOBBY like I've always wanted to!
+EMPLOYEE: (turn to kid) Thank you, kid. I don't know how, but your FOOD juice changed my life.
+KID: No problem! I'm glad you liked it so much!
+music stops
+KID: That'll be NUMBER dollars, please!
+EMPLOYEE: Wait, what?
+
+======
+
+INFORMATION ===============================
 ID: 725
 TITLE: It’s in my mouth
 AUTHOR: Kymerah
@@ -23541,18 +23614,18 @@ VERIFIED: True
 TAGS: Skit
 SET: Western
 CHARACTERS ================================
-CLOWN: Clown Gun Slinger/Sheriff:Stage Left
 OUTLAW: Outlaw:Stage Left
+CLOWN: Clown Gun Slinger/Sheriff:Stage Left
 SUGGESTIONS =============================
-OUTRAGE: Old west word of outrage:tarnation, sam hill, all hell
-TOUGH: Another word for being tough or strong:man, hard, stout, savage
-WEAPON: Another name for a gun:Pistol, Six Shooter, Pea Shooter, Blaster, Rooty-Tooty Point and Shooty
-GUNSLINGERNAME: Name of a old west outlaw:Pistol McGraw, Keylime Killer, Mutilator Jones, Billy the Echidna
-BUBBLES: Name of a party clown:Bubbles, Balloon McTwisty, Smiles, Hungry, Pancake
-INSULT1: An old timey insult from the 1800's:Yellow, Gibfaced, Ratbagged, Crooked
-INSULT2: Wild west insult:Skinny, Weasel, Varmint, Rat
-BUSINESS: Another word for self made man:entrepreneur, go getter, man of culture
 INSULT3: Wild west insult:Polecat, lily livered coward, snake in the grass 
+BUSINESS: Another word for self made man:entrepreneur, go getter, man of culture
+INSULT2: Wild west insult:Skinny, Weasel, Varmint, Rat
+INSULT1: An old timey insult from the 1800's:Yellow, Gibfaced, Ratbagged, Crooked
+BUBBLES: Name of a party clown:Bubbles, Balloon McTwisty, Smiles, Hungry, Pancake
+GUNSLINGERNAME: Name of a old west outlaw:Pistol McGraw, Keylime Killer, Mutilator Jones, Billy the Echidna
+WEAPON: Another name for a gun:Pistol, Six Shooter, Pea Shooter, Blaster, Rooty-Tooty Point and Shooty
+TOUGH: Another word for being tough or strong:man, hard, stout, savage
+OUTRAGE: Old west word of outrage:tarnation, sam hill, all hell
 SCRIPT ==========================================
 western jingle 1
 OUTLAW: Well... ain't no one 'round these parts man enough to face ol' GUNSLINGERNAME.
@@ -23585,7 +23658,7 @@ CLOWN: You gonna mosey along or am I gonna have to make work for our undertaker?
 OUTLAW: Ain't no one ever bested ol' GUNSLINGERNAME and yer not gonna be the one ta take me down.
 CLOWN: On a count of three then? (prepare to draw your gun)
 meanwhile OUTLAW: (prepare to draw your gun)
-OUTLAW: Given' me a fair chance, that's might kind of ya (prepare to draw your gun)
+OUTLAW: Given' me a fair chance, that's mighty kind of ya (prepare to draw your gun)
 meanwhile CLOWN: (prepare to draw your gun)
 CLOWN: We play fair round these parts, you should know that by now GUNSLINGERNAME (prepare to draw gun)
 meanwhile OUTLAW: (prepare to draw gun)
