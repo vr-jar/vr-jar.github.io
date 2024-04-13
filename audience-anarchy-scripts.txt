@@ -23384,19 +23384,19 @@ VERIFIED: True
 TAGS: Skit
 SET: City
 CHARACTERS ================================
-KID: A kid running a juice stand:Center Stage
 EMPLOYEE: A disgruntled employee:Entrance Stage Left
+KID: A kid running a juice stand:Center Stage
 SUGGESTIONS =============================
-OCCUPATION: A job or occupation:fast food manager, cashier, janitor
-FEATURE: An identifying characteristic of someone:eyes, face, hair, walk
-FOOD: A food that isn't a fruit:pizza, burger, steak
-TOOL: A tool used in the kitchen:blender, knife, hammer
-INGREDIENT: A secret ingredient:a splash of vinegar, a shot of vodka, cayenne peppers
-GIFT: A gift for a kid:puppy, Nintendo Switch, bicycle
-FLYINGTHING: A flying animal or object:bluebird, balloon, kite
-LANGUAGE: A language:Japanese, Spanish, German
-HOBBY: A hobby:calligraphy, chess, stamp collecting
 NUMBER: A large number:1234, 5000, 1337
+HOBBY: A hobby:calligraphy, chess, stamp collecting
+LANGUAGE: A language:Japanese, Spanish, German
+FLYINGTHING: A flying animal or object:bluebird, balloon, kite
+GIFT: A gift for a kid:puppy, Nintendo Switch, bicycle
+INGREDIENT: A secret ingredient:a splash of vinegar, a shot of vodka, cayenne peppers
+TOOL: A tool used in the kitchen:blender, knife, hammer
+FOOD: A food that isn't a fruit:pizza, burger, steak
+FEATURE: An identifying characteristic of someone:eyes, face, hair, walk
+OCCUPATION: A job or occupation:fast food manager, cashier, janitor
 SCRIPT ==========================================
 guitar music 1
 KID: (at a juice stand) Juice for sale! Get some fresh juice here! Get it while it's hot- I mean, cold!
@@ -23439,7 +23439,7 @@ EMPLOYEE: If it tasted bad, I wouldn't have drank it! Why I oughta... I...
 peaceful fantasy music
 EMPLOYEE: (face audience) I feel... light. Weightless, like a FLYINGTHING drifting through the air.
 EMPLOYEE: It's like all my anxieties and fears and worries were taken away from me. Like... they were extracted. Specifically with a TOOL for some reason.
-EMPLOYEE: I am so much more than a JOB. I'm... me. And I can do whatever I want with me.
+EMPLOYEE: I am so much more than a OCCUPATION. I'm... me. And I can do whatever I want with me.
 EMPLOYEE: Maybe I'll finally learn LANGUAGE, or get into HOBBY like I've always wanted to!
 EMPLOYEE: (turn to kid) Thank you, kid. I don't know how, but your FOOD juice changed my life.
 KID: No problem! I'm glad you liked it so much!
@@ -23552,8 +23552,8 @@ Aww
 INFORMATION ===============================
 ID: 726
 TITLE: Date with a Blockchain Romeo
-AUTHOR: senorconqueso
-VERIFIED: False
+AUTHOR: SenorconQueso
+VERIFIED: True
 TAGS: Skit
 SET: Restaurant
 CHARACTERS ================================
@@ -23678,8 +23678,8 @@ TYPEWRITER: Ol' GUNSLINGERNAME skipped town to find his next victim;On the way G
 INFORMATION ===============================
 ID: 731
 TITLE: The Trial of the Witch
-AUTHOR: senorconqueso
-VERIFIED: False
+AUTHOR: SenorconQueso
+VERIFIED: True
 TAGS: Skit
 SET: Courtroom
 CHARACTERS ================================
