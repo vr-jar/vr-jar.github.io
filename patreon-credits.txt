@@ -458,7 +458,6 @@ AWildShuri
 B1ueTheWolf
 PerseveranceTG
 zǝǝɹq
-SilentStarVR
 -Wispur-
 Atreyugam3r10
 ShiroTwo
@@ -1664,6 +1663,7 @@ Joker180
 RoseGemstone
 anime20100
 Drax_Gang
+SilentStarVR
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
