@@ -22299,6 +22299,88 @@ NARRATOR: Until we meet again!
 ======
 
 INFORMATION ===============================
+ID: 688
+TITLE: Fur-tastic Frenzy Gameshow 
+AUTHOR: ReefissDaMerpup
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+CHARACTERS ================================
+HOST: Alex:Host Podium
+CONTESTANT 1: Chris:Contestant Podium 1
+CONTESTANT 2: Sarah:Contestant Podium 2
+SUGGESTIONS =============================
+FURSUITING: A type of full body suit :Costumes, outfits, suits, gear,
+ANTHROCON: A furry convention in the usa:FurDU, Eurofurence, Further Confusion
+MIDWEST FURFEST: A Festival in the Midwestern us:Cattle congress, Iowa Irish fest, 4th Street cruise
+WINNIE THE POOH: A popular cartoon character :Micky mouse, Bluey, Ben 10, Blue, Coral
+WOLVES: A species of mammals :Felines, Bears, Horses, Canines
+SHADOWCLAW: A random name :Miguel, John, Mike, William 
+FOXY MCFURSON: Any name :Sam, Jonah, Jack, Mark 
+SOFTWARE: A person who engineers important things:Product, Business, Data, Game
+GRAPHIC: A type of content:Video, Games, Music, Artitistc 
+SCRIPT ==========================================
+[GAMESHOW INTRO]
+Host: Welcome, ladies and gentlemen, to the electrifying spectacle that is "Fur-tastic Frenzy"!
+Host: I'm your host, Alex, and tonight, we're diving deep into the furry world with two extraordinary contestants! Let's meet them!
+[APPLAUSE]
+Host: Contestant number one, tell us a bit about yourself.
+Contestant 1: Greetings, everyone! I'm Chris, a humble GRAPHIC designer by day, but when the moon rises, I transform into a fierce wolf!
+Contestant 1: Ready to unleash my creative fury on this stage!
+Host: And now, let's hear from contestant number two.
+Contestant 2: Hey there, folks! I'm Sarah, a SOFTWARE engineer by profession, but when it's time to play, I slip into the skin of a cunning fox!
+Contestant 2: I'm ready to outfox the competition and have a blast doing it!
+Host: Wonderful! Let the games begin! Our first round is "Fur-ocious Trivia!" Contestants, get ready to pounce on those buzzers as I fire away with furry facts!
+[GAMESHOW START]
+Host: Question one: What is the name of the world's largest furry CONVENTION, held annually in Pittsburgh, Pennsylvania?
+[GAMESHOW BUZZER]
+Contestant 1: ANTHROCON!
+[APPLAUSE]
+Host: Correct! One point for Chris! Question two: In furry slang, what term describes the act of dressing up in ANIMAL costumes?
+[GAMESHOW BUZZER]
+Contestant 2: FURSUITING!
+[APPLAUSE]
+Host: Right you are, Sarah! One point for you! Question three: Which iconic bear is known for his love of honey and adventures in the Hundred Acre Wood?
+[GAMESHOW BUZZER]
+Contestant 1: WINNIE THE POOH!
+[APPLAUSE]
+Host: Indeed, Chris! Oh wait, what’s this? It appears our buzzer system is acting up.
+[Groose Music]
+Contestant 2: Hey, my buzzer sounds like a duck now!
+[Laughter]
+Host: (chuckles) Well, it seems we have a little technical hiccup, but the show must go on!
+Host: Now, onto our next round, "Create-a-Creature!" Host: Each of you will have one minute to unleash your inner artist,
+Host: and design your very own furry character using these art supplies. Ready, set, draw!
+[GAMESHOW TIMER MUSIC]
+CONTESTANT 1: (Drawing) This shall be a masterpiece.
+Meanwhile CONTESTANT 2: (Drawing furiously)
+[GAMESHOW TIME EXPIRE]
+Host: Time's up! Let's see what magnificent creatures you've concocted!
+Contestant 2: Presenting... FOXY MCFURSON, the dashing fox with a heart of gold and a penchant for adventure!
+Host: Splendid, Sarah! And now, Chris, reveal your creation!
+Contestant 1: Feast your eyes on SHADOWCLAW, the mysterious wolf with piercing blue eyes and lightning-fast reflexes, prowling through the night with an air of enigma!
+Host: Incredible work, Chris! Now, onto our final round, "Furry Feud!"
+Host: We SURVEYED 100 furries and asked them a series of questions. Your task is to guess the top answers. Are you ready?
+Contestant 1: Born ready!
+Contestant 2: Let's do this!
+Host: First question: Name a popular furry CONVENTION besides Anthrocon.
+[GAMESHOW BUZZER]
+Contestant 2: MIDWEST FURFEST!
+Host: Correct! Sarah, you're on the board. Next question: What is the most common species represented in the furry community?
+[GAMESHOW BUZZER]
+Contestant 1: WOLVES!
+Host: Correct again, Chris! Last question: What's the best part about being a furry?
+[GAMESHOW BUZZER]
+Contestant 2: Expressing yourself without judgment!
+Host: Absolutely right, Sarah! And with that, we have a tie!
+Host: You both played phenomenally well, and as a reward, we have some fantastic prizes for both of you!
+Host: Thanks for joining us on this wild ride of "Fur-tastic Frenzy!" Until next time, keep those tails wagging and those creative juices flowing!
+[APPLAUSE]
+[GAMESHOW BUZZER]
+
+======
+
+INFORMATION ===============================
 ID: 690
 TITLE: The questionable news
 AUTHOR: Imoriginal
