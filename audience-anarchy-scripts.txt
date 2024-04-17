@@ -23676,6 +23676,109 @@ TYPEWRITER: Ol' GUNSLINGERNAME skipped town to find his next victim;On the way G
 ======
 
 INFORMATION ===============================
+ID: 730
+TITLE: Accidental Actor
+AUTHOR: TheCatCatBoi
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+CHARACTERS ================================
+ACTOR3: Real actor:Backstage
+DIRECTOR: Director:Stage Right
+ACTOR2: Actor two:Center Stage
+ACTOR1: Actor one:Center Stage
+GUY: Random guy:Entrance Stage Right
+SUGGESTIONS =============================
+WEIRDONAME: A commonly used name:Bob, Jerry, Jack, Robert
+PRICE1: A large price for an item in a grocery store:$59.99, $99.99, $149.99
+STORE: The name of a grocery store:Safeway, Walmart, Whole Foods, Trader Joe's
+ITEM3: Something you would normally not find in a grocery store:a piano, a car, a nuclear warhead, another grocery store
+ACTNAME2: A name for a person:Eric, Johnson, Steve, Austen
+TIME: An amount of time:30 minutes, an hour and a half, 2 hours
+ITEM2: Something you would get at a grocery store:bread, cereal, bananas, peanut butter, chips
+ITEM1: Something you would get at a grocery store:milk, eggs, juice, cooking oil, mac and cheese
+GUYNAME: A name for a person:James, Kevin, Arnold, Gaven
+PRICE2: A VERY large amount of money:$5000.00, $8000.00 $4500.00
+SCRIPT ==========================================
+ACTOR1: Oh, come on, where is this guy?
+ACTOR2: Really, we have been waiting for TIME!
+DIRECTOR: (Gesture at front door) Hey guys I think he's here.
+ACTOR1: Really? It's about time...
+GUY: (Walk into STORE and start going over to the shelfs) Woah what's with all the cameras?
+Meanwhile ACTOR2: Hey what took you so long GUYNAME?
+GUY: Huh? I'm not GUYNAME.
+Silly music 2
+GUY: I just came here for ITEM1 and ITEM2!
+DIRECTOR: Ok, enough playing around, also remember GUYNAME, you are the casheir.
+DIRECTOR: Well anyways, let's get started!
+ACTOR1: Yeah c'mon GUYNAME!
+GUY: I'm not GUYNAME though!
+ACTOR2: Yeah sure stop playing around.
+Music stops
+DIRECTOR: Ok get in your spots, I'm starting in, three, two, one. (Leave through side door)
+Double bass music
+ACTOR1: (To other actor) Hey ACTNAME2, have you found the ITEM2 yet?
+ACTOR2: No sorry I think they are out...
+ACTOR1: (Look at GUYNAME expectantly) Well?
+Meanwhile ACTOR2: (Look at GUYNAME expectantly)
+Music stops
+GUY: Why are you all staring at me?
+ACTOR1: Oh come on did you forget your lines already?
+DIRECTOR: (Enter stage) CUT, CUT, GUYNAME, please either say your lines or just improvise.
+GUY: Wait, will I get paid for this?
+DIRECTOR: Yeees?? Thats how a job works isn't it?
+GUY: How much?
+DIRECTOR: I thought we went over this. I said PRICE2.
+GUY: (To self) Oh wow that's a lot...
+GUY: (To director) Ok! I'll do it.
+DIRECTOR: Ok, starting in, three, two, one. (Leave through side door)
+Double bass music
+ACTOR1: (To ACTNAME2) Hey ACTNAME2, have you found the ITEM2 yet?
+ACTOR2: No sorry I think they are out...
+GUY: Hey you two, need any help?
+ACTOR1: Yeah, we can't find any ITEM2.
+GUY: Hang on I'll go check the back. (Start walking over to the side door)
+ACTOR2: Wait while you are back there, can you also check for ITEM3?
+GUY: Um, sir? this is a STORE...
+ACTOR1: (To ACTNAME2) Really?
+ACTOR2: YES really!! We need ITEM3!
+GUY: Look, we don't have any ITEM3 here sorry.
+GUY: (Go into the back to look for ITEM2, make it sound like you are struggling with something)
+GUY: But on the brighter side, I've got your ITEM2.
+ACTOR2: Thanks, also what was that noise?
+GUY: Don't worry about it that was just WEIRDONAME.
+ACTOR2: WEIRDONAME? I always wondered where he went.
+GUY: (Go back to the register) Here I'll scan this for you.
+ACTOR1: (Follow GUYNAME) Thanks.
+Meanwhile ACTOR2: (Follow other actor)
+GUY: ok that will be PRICE1.
+ACTOR2: WHAT?!? Thats way too much for ITEM2?!
+GUY: Sorry but that's the price.
+ACTOR2: (Grumbling) Ok fine. But only because we really need it.
+ACTOR1: (Pay for ACTNAME2)
+ACTOR2: (to self) Why does ITEM2 cost so much these days. (Start to leave the store angrily but stop)
+Meanwhile ACTOR1: (Follow other actor halfway)
+Music stops
+ACTOR3: (Walk in) Hey guys sorry for the wait, my car broke down.
+DIRECTOR: (Quickly enter stage) HUUHH?? I thought this guy was you!?
+Silly music 2
+ACTOR3: What?
+DIRECTOR: He just did your whole part of this scene for you!!
+ACTOR2: (Laugh very hard)
+Meanwhile ACTOR1: (Laugh very hard)
+GUY: (To director) So, you said I would be getting paid for this?
+DIRECTOR: Haha, yeah I did say that didn't I.
+ACTOR3: Wait you're paying him?!
+DIRECTOR: Yes? He did the acting better than you ever have.
+ACTOR3: Yeah, no. I'm out. Have fun with that Dumby.
+ACTOR3: (Start rapping) He's the maestro of missteps, tripping through life's maze.
+ACTOR3: In the land of blunders, his stupidity never ceases to amaze!! (Leave the store through the wrong door)
+ACTOR3: (Quickly run back to the actual exit)
+Music stops
+
+======
+
+INFORMATION ===============================
 ID: 731
 TITLE: The Trial of the Witch
 AUTHOR: SenorconQueso
@@ -23737,6 +23840,371 @@ AGATHA: (Exit Stage Right)
 ABIGAIL: (muttering) I guess we were a bit too quick to judge.
 PRUDENCE: (nervously) Perhaps we should take care of her before this spreads any further...
 ABIGAIL: I'll get the WEAPON.
+
+======
+
+INFORMATION ===============================
+ID: 735
+TITLE: Time Traveling Out West
+AUTHOR: TrickySpookster
+VERIFIED: True
+TAGS: Skit
+SET: Western
+CHARACTERS ================================
+OUTLAW: A Fearsome Outlaw:Backstage
+HORSE: A Trusty Horse:Stage Right
+COWBOY: A Cowboy:Stage Right
+LAURA: Laura:Backstage
+KEITH: Keith:Backstage
+SUGGESTIONS =============================
+SMELL: An unpleasant odor of the Wild West:horse farts, moldy spittoons, cowboy B.O., cow pies
+RURAL: A place where you'd find rednecks:Kentucky, Bass Pro Shop, a Brad Paisley concert
+CNAME: A funny cowboy name:Buster Scruggs, Quickdraw McGraw, Tacoma Paloma from Roma Oklahoma
+HNAME: A funny horse name:My Little Pony, Yo Mama, Horsey McHorseface
+MODERN: A modern day event:the 2024 Paris Olympics, the Glasgow Wonka Experience, the Crowning of King Charles III
+TOWN: A town name in the Wild West:Mudbucket, Fiddlestick, Sarsaparilla Springs, Long Gone Gulch
+PLACE: A place far from the Wild West:New York, England, Tokyo
+GNAME: A funny name for a saloon girl:Dolly Parton, Hannah Montana, Sally McHorseface
+EXCLAMATION: Something a shocked cowboy would yell:Well tan my hide, Oh my stars and garters, Well toss me in a puddle and call me a bullfrog
+ACTIVITY: An activity a cowboy would do with a saloon girl:drinking whiskey, talking about horses, polishing the ol' six shooter
+ONAME: A funny name for a fearsome outlaw:Texas Red, El Burrito Bandido, Rufus Roughhouse, The Hamburglar
+CRIME: A crime:cattle rustling, jaywalking, tax evasion, stealing candy from a baby
+SCRIPT ==========================================
+western piano music 1
+scifi contraption
+Teleport KEITH to CENTER STAGE
+Teleport LAURA to CENTER STAGE
+KEITH: Wow! Here we are, honey! Transported straight from the present day to the Wild Wild West! (breathe in) It even smells authentic!
+LAURA: (sniff the air) A little too authentic if you ask me. All I smell is SMELL. When are we leaving?
+KEITH: But honey, we just got here! Besides, the time machine takes 6 hours to charge. Won't you at least give it a chance?
+LAURA: I suppose I don't have a choice. Just look at this dusty old place.
+COWBOY: (approach KEITH and LAURA) Well howdy, partners! Ain't seen yer faces 'round these parts. Put 'er there! (hold hand out for handshake)
+KEITH: (shake hand) Well hello to you, good sir! My name is Keith, and this is my darling fiance, Laura.
+LAURA: (disinterested) Nice to meet you. (whisper to KEITH) 6 hours of this, huh? If we wanted to talk to rednecks, we could've just gone to RURAL.
+COWBOY: Pleasure to make yer acquaintances. The name's CNAME, and this here's my horse, HNAME. I'm a rootin' tootin' cowboy!
+Meanwhile HORSE: (go up to COWBOY, KEITH, and LAURA, make horse noises)
+LAURA: How charming. I'm so glad we're doing this instead of seeing MODERN. (pet HORSE) At least the horse is cute.
+KEITH: Oh, come on now, Laura... Isn't this exciting? You're talking to a real life cowboy! Oh, CNAME, if you don't mind me asking -- where and when are we, exactly?
+COWBOY: Well, you two are in the li'l town of TOWN. As for when... Ain't they got calendars where you come from, partner? It's 1876! June 17th, to be exact.
+KEITH: (to self) June 17th, 1876... Why do I know that date?
+COWBOY: You folks don't seem like the rough and tumble cowpolk type. Just where are ya'll from, if ya'll don't mind my askin'?
+KEITH: We're time travele- (get hit by LAURA) oof! (look at LAURA)
+Meanwhile LAURA: (hit Keith) We're from PLACE. (glare at Keith) We're on our honeymoon.
+KEITH: Right, right. Our honeymoon, from PLACE.
+COWBOY: Honeymoon? Ain't you supposed to do that after the wedding?
+LAURA: Maybe in TOWN, but in PLACE, we do things differently.
+COWBOY: Well ain't that somethin'... Hey, all this talk of time and romancin' makes me think I'm forgettin' somethin'...
+church bell
+western piano music 2
+COWBOY: EXCLAMATION! That there's the 11 o'clock bell, which means I'm late for my date! I've gotta mosey on outta here!
+KEITH: You've got a date at 11 in the morning?
+COWBOY: Let's just say It's a special kind of date, the kind ya pay for by the hour. (point to the saloon)
+COWBOY: I've got some quality time with GNAME, the finest girl in the saloon! I'm gonna be ACTIVITY with her real good! I hate to ask, but can you folks watch HNAME?
+KEITH: We'd love to! (get hit by Laura) Ouch, that smarts. (rub where you got hit)
+Meanwhile LAURA: Hell no. (hit Keith again)
+COWBOY: Great! HNAME, be nice and let these PLACE folk ride ya 'round if'n they so desire. Adios for now! (exit stage right)
+KEITH: CNAME, GNAME, June 17th 1876... Why does this all sound so familiar? I swear I've read about this before. (pull out phone) I'll Google it. Oh wait, no wi-fi.
+LAURA: Great, now we're stuck playing babysitter for some stupid horse. Gosh I wish we were back in the present day, watching MODERN.
+HORSE: I don't take kindly to being called stupid, Miss Laura.
+LAURA: A talking horse?!
+HORSE: Indeed. I've only revealed myself to you because you're obviously time travelers. I, too, am not from this time period.
+LAURA: A talking, time-traveling horse named HNAME? I don't believe it. Are you part robot too?
+KEITH: I'm just as shocked as you, honey. What can we do for you, HNAME? If you want, we can take you back to the future with us.
+HORSE: No no, I'm quite comfortable here in 1876. CNAME treats me with dignity and respect, and I just love how the air smells of SMELL.
+LAURA: What a weird horse.
+KEITH: So why did you travel to this particular time then, HNAME?
+HORSE: To put a stop to ONAME, the most fearsome outlaw in all the Wild West.
+western hero theme
+HORSE: In just a moment, ONAME is going to rob the old general store, ignite a bundle of dynamite, and blow up the ol' saloon. Well, I won't stand for it.
+LAURA: You're very brave, HNAME. Anything we can do to help?
+HORSE: Just stand back and watch. I've planned this whole encounter out.
+gunshot
+HORSE: Here he comes! Exactly as I planned, he just shot the general store owner.
+LAURA: Couldn't you have stopped him before he gunned a man down?
+OUTLAW: (enter stage left) Well howdy doody, folks of TOWN! It's me, ONAME, and I'm here to do some real mean outlaw stuff, like CRIME!
+HORSE: Not so fast, ONAME. (meet OUTLAW at center stage)
+OUTLAW: What in the God damn? A walkin', talkin' horse? (meet HORSE at center stage)
+HORSE: That's right, ONAME. You can call me Sheriff HNAME. I'ma callin' you out, you no-good outlaw. Put down that dynamite and duel me.
+western showdown music
+OUTLAW: EXCLAMATION, I sure wasn't expectin' no sharpshootin' horse. Fine! (drop dynamite) 10 paces and we draw, unless you're chicken.
+HORSE: On the contrary, ONAME. I'm a horse. Now get to walkin'. (turn around and start walking stage right)
+OUTLAW: (turn and walk stage left) 1! 2! 3!
+Meanwhile HORSE: 1! 2! 3!
+KEITH: HNAME, I hate to ask, but do you even have a gun? How do you plan to shoot ONAME?
+HORSE: (keep walking) 4! 5! 6! (to KEITH) It's in my saddle bag. As for how to shoot it, I... hadn't considered that.
+LAURA: But if you can't shoot your gun, ONAME will win by default! I thought you planned this all out!
+KEITH: I'll go get CNAME! He had a gun, right? There's still time!
+HORSE: No, I can hear him with my incredible horse hearing. He's still ACTIVITY with GNAME. You'll never get to him in time. You'll have to take the shot for me.
+KEITH: Ok! (grab the gun from HORSE's saddle bag and shoot OUTLAW in the back)
+gunshot
+OUTLAW: What in tarnation..? (fall over dead)
+HORSE: That... wasn't exactly fair, but I suppose results are results. ONAME, the feared outlaw of the west, is dead. TOWN is saved.
+tada
+western piano music 1
+TYPEWRITER: 6 hours later...
+KEITH: Goodbye, HNAME! We're off to MODERN! We'll never forget you!
+scifi contraption
+LAURA: Well, Keith? What's wrong with it? Why haven't we been transported to MODERN?
+KEITH: Great Scott! According to these readings, killing ONAME erased the event from history! And worse yet, attempting to go there drained the batteries again!
+LAURA: We're stuck here for another 6 hours?! Noooo!
+
+======
+
+INFORMATION ===============================
+ID: 740
+TITLE: Downtown Dilemma
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit
+SET: News
+CHARACTERS ================================
+LOCA: On-location reporter:Fake Street Backdrop
+NEWS: News anchor:News Desk
+SUGGESTIONS =============================
+END: Words of wisdom :Don't invest in trading cards, Full-body tracking isn't worth the money, Jesus died for our sins, Don't touch your butt and then your eyes, Pineapple on pizza is great, You're wasting your life playing Vrchat. 
+TRAVEL: A very very weird form of transport (one word):pogo-stick, marching-band, conga-line, cardboard-box
+DIST: Any number and measurement of distance:1 mile, 16 boat lengths, 20 Japanese kilometres, really far 
+NUMBER: A number lower than 100:14, 28, 45, 70, 96
+KID: A gamer girl username:PuppyLover01, LittleFlowerXL, ILoveLife68+1, CutieGurl43
+GROUP: A franchise that you love:MCU, Transformers, Brum, Nintendo, Pokemon, Fall Guys, PC
+FAN: A franchise you heavily dislike:DC, FNAF, Hazbin Hotel, VRchat, Fortnite, Xbox, Playstation
+STREET: A funny name of a street:Femboy, ERP, Banshee, Gosling, Barbie, Jar
+REPORT: A normal sounding first name:Billy, Niall, Elliot, Jordan, Kate, Louise, Sasha, Lindsey, Ashley
+TITLE: A one syllable word :Crunk, Poo, Guur, Doof, Fab
+ANCHOR: A silly full name:Scott Shelby, Nolan North, Billy Piper, Chris Broard
+SHOW: A tv show not for kids (real or fake):X-Men 97, Futurama, The Walking Dead, Devilman Crybaby
+SCRIPT ==========================================
+world news intro
+NEWS: We interrupt your scheduled episode of SHOW to bring you this shocking news report.
+NEWS: My name is ANCHOR and you’re watching TITLE news.
+NEWS: We now join our on-site reporter REPORT to see what has happened.
+NEWS: (finger on ear) Hello REPORT, what can you tell us?
+corporate motivational music
+LOCA: (hold microphone when talking) Yes, hello ANCHOR.
+LOCA: I’m here on 28 STREET street where the horrible set of events took place.
+LOCA: It was said that over 35 FAN fans where killed last night.
+vine boom
+NEWS: Absolutely dreadful. Was this at a FAN event of some description?
+LOCA: Indeed ANCHOR.
+LOCA: The family of the victims all say that this must of been a targeted attack by the GROUP community.
+LOCA: It would seem that there is major beef between the two groups.
+NEWS: I can’t believe it. People who are into GROUP in my experience, aren’t very violent…
+LOCA: (finger up) On the contrary.
+LOCA: I heard from an officer that the bodies were viciously torn apart.
+LOCA: A gruesome scene to behold.
+NEWS: Any other information REPORT?
+NEWS: I'm sure everyone at home wants to get back to watching SHOW.
+LOCA: But I want to briefly share the story of KID.
+NEWS: Oh? Go ahead.
+emotional piano music
+LOCA: KID was a shy NUMBER year-old girl who loved living in this town.
+LOCA: KID didn’t have many friends, but connected online with others.
+LOCA: Others who where like them. Those who loved FAN.
+LOCA: A source of such comfort and delight, ended their life last night.
+NEWS: (pound desk) Those GROUP fans have to be put to justice..
+NEWS: My son loves GROUP. How am I going to tell him this..
+NEWS: We have to burn all his GROUP paraphernalia!
+corporate motivational music
+LOCA: (finger on ear) Oh! Sorry to interrupt ANCHOR but there has been an update.
+LOCA: It appears that the FAN fans have set the GROUP headquarters on fire!
+vine boom
+LOCA: This could only be in response to the deaths of the 35 FAN fans last night!
+NEWS: (gasp) Good heavens!
+NEWS: (point) Get down to the GROUP headquarters asap REPORT! The people need swift coverage!
+LOCA: But GROUP HQ is DIST away! That would take me days to travel!
+NEWS: We will send over the company TRAVEL to get you there post-haste!
+NEWS: All of TITLE news's reputation is riding on this story REPORT.
+NEWS: Don't let us down!
+superhero fanfare
+LOCA: (hand above eyes) Ah! I see the TRAVEL in the distance ANCHOR!
+LOCA: They're just coming up on 21 STREET street.
+tire screech
+LOCA: (point upward) Enjoy the newest episode of SHOW folks, We will update you afterwards.
+corporate motivational music
+NEWS: (point) That's right everyone. Don't adjust your sets, we'll be right back after SHOW.
+world news outro
+NEWS: (point again, firmly) And always remember....
+TYPEWRITER: END
+
+======
+
+INFORMATION ===============================
+ID: 741
+TITLE: Lap it up
+AUTHOR: AirportPigeon
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Interrogation Room
+CHARACTERS ================================
+COP: Police Officer:Behind Door
+SANTA: Santa :Chair
+SUGGESTIONS =============================
+THING: Something you shouldn’t call someone else:loser, wazzock, pimple, Vtuber enjoyer, American, human, wimp
+PET: A kind of animal:Wale, giraffe, gorilla, pikachu, sonic, doge, kitty-cat, snail
+EVIL: Something you should never do (past tense):Ate one wet cookie, Farted, Did nothing, ERP’d in Vrchat
+BAD: An evil persons name:Adolf, Darth Vader, The joker, satan, the kid from up
+PERSON: a kind of person :E-boy, kitten, Acrobat, Decepticon, Quirkless nerd, gamer, beta 
+STATE: A word to describe something ending in “y”:Spiky, lumpy, bouncy, squishy, crappy, sloppy, crispy
+GREAT: A positive word to describe someone:Legendary, sexy, interesting, Cautionary, lovely, Sensual, Nice
+BODY: A place you would hide something on your body:Crusty crack, busty bosom, womb, moist mouth
+CRIME: A villainous crime:Hefty gyatt slap, Grand theft panty, ERP raid, murder by NFT
+PART: A part of the human body:Hand, Elbow, Shoulder, Neck, Head, Chest, Gut, Groin, Leg, Foot
+DECADE: A number greater then 1 and lesser then 10:2, 3, 4, 5, 6, 7, 8, 9, 1.5, 6.9, 4.20, 2.8,
+SCRIPT ==========================================
+christmas music 2
+COP: (bust in) At last, after DECADE decades, the swift arm of the law has finally caught up to you Saint Nicholas.
+COP: (point) Anything to say for yourself?
+SANTA: (point to their PART) PART!
+vine boom
+COP: Stop joking around Saint Nicholas!
+COP: (point aggressively) We all know you committed a CRIME last Christmas.
+laughter
+SANTA: (shrugs) Well, maybe I did, officer, maybe I didn't.
+SANTA: (pull out large list from your BODY) But you've done far worse.
+vine boom
+COP: Where did you get that list from? And why is it so wet?
+SANTA: (put list on table) I kept it in my BODY for safe-keeping.
+COP: (hold mouth) Ew.
+SANTA: I can fit anything in the known galaxy in my PART regardless of size.
+COP: That must be really useful. May I inspect it?
+SANTA: (finger wag) Only if you sit on my lap.
+COP: I've heard tales of that lap of yours.
+SANTA: What kind of tales?
+COP: GREAT tales.
+SANTA: All lies, fake news in-fact.
+COP: Are you sure about that?
+SANTA: Only one way to find out. (pat lap)
+waterphone
+COP: If you insist Saint Nicholas. (sit on lap)
+SANTA: So, is it as GREAT as the tales proclaim?
+COP: (wiggle) Its a bit too STATE.
+SANTA: STATE, you say. Well, that means you've been a bad little PERSON this year.
+vine boom
+COP: But I'm not a PERSON!
+SANTA: You are what the lap deems you.
+SANTA: Failure to accept your true self will only make you fall lower down...
+COP: Lower down? Lower down what?
+COP: I'm already on your lap. How lower can I go?
+SANTA: (point to list on table) Lower down on my naughty list!
+vine boom
+COP: (look at list on table) What? I'm right next to BAD on the list!
+COP: What have I done to deserve such a cruel placement?
+SANTA: You EVIL last Tuesday.
+vine boom
+COP: H-how did you know that I EVIL last Tuesday? I thought I did that in private!
+SANTA: The lap reveals all, my friend.
+SANTA: (stand) Now why don't we forget all about this little encounter and go our separate ways.
+COP: B-but you're wanted for committing a CRIME.
+COP: I can't jeopardize my minimum wage job to cover up the fact that I EVIL.
+SANTA: Do you want your beloved pet PET to find out?
+COP: N-No..... I love my pet PET.
+aww
+SANTA: Then let me by, you rancid THING.
+COP: No need to get personal...
+COP: (stand aside, open door for them) You promise not to tell my pet PET?
+SANTA: (walk by to the doorway) I'm Saint Nicholas. I never break a promise.
+SANTA: Even to a PERSON like you..
+laughter
+SANTA: (point to their PART then walk out) PART!
+COP: (sit on chair, relieved) That lap really was GREAT...
+COP: (head in hands) What am I going to tell my chief?
+aww
+
+======
+
+INFORMATION ===============================
+ID: 747
+TITLE: Backyard Beast
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Backyard
+CHARACTERS ================================
+GUY: Regular person:Grill
+BEAST: Magical creature:Backstage
+SUGGESTIONS =============================
+SITE: A real or fake social website ending in “.com”:YummyYummy.com, DaddyDaddy.com, TheMILFInU.com, DucksAndChucks.com, LonelyPony.com
+WISDOM: A catchphrase or slogan:I’m lovin’ it. When you’re here you’re family, robots in disguise, may the force be with you, ba weep gramma weep ninny bong
+FAMILY: A family member:Daddy, mommy, Step-bro, gran-gran 
+BODY: A part of the body you don’t want to be hit in:Tummy, breast, cheeks, thigh, entire face, mother
+LOOT: Sonething very, very disgusting:Poop, Vomit, Urine, Spice, Mold
+FOOD: A grillable food:Hotdog, burger, lemon, toast, Oreo
+WORK: An odd job:VRC developer, Letter-licker, drug tester, seed giver, breath-taker
+ITEM: An embarrassing item to drop:Verified E-boy card, small Ranni, pocket pounder 3000, self-respect
+MAGIC: A magical creature:Leech, Gnome, Rabbit, McDonalds Employee, MILF lover
+NAME: A regular name:Benjamin, Rick, Susan, Barbara, Chris
+PLACE: A country, real or fake:England, Canada, Uganda, Austria, Turkministan
+SAUCE: Something gross you can put on food:White sauce, gravel, toe cheese, groin crust, baby batter
+SCRIPT ==========================================
+Groose music
+GUY: Boy, my life sure is boring.
+GUY: (flip FOOD) I’ve been stuck working a 9 to 5 job at WORK for years now.
+GUY: (accidentally drop something) Whoops. Dropped my ITEM.
+Laughter
+GUY: (bend to pick it up) Thank the lord no one saw that…
+Teleport BEAST to Sandbox
+Magic sound
+BEAST: (arms stretched out) Aha!
+GUY: Whoa, what on Earth are you? Wait, you look like a…
+BEAST: That’s right! I’m a MAGIC!
+BEAST: (point) Your personal MAGIC to be exact.
+GUY: Excuse me? Since when was a MAGIC an actual thing that exists?
+GUY: And why would anyone ever need a personal one? And why me? Why now?
+BEAST: (point to ITEM on ground) Well, you dropped your ITEM.
+BEAST: (pick item and offer it) There you go.
+GUY: (take ITEM from them) Thaaanks..
+Laughter
+BEAST: (bow) My job is done.
+BEAST: (start to leave) Farewell my friend.
+GUY: (hand out) Hold on there BEAST. Was that all you came here to do?
+BEAST: (turn, finger up) Why yes. Dropping ones ITEM can be quite the embarrassment.
+BEAST: What if one of your WORK colleagues saw you drop it?
+GUY: True. (Look around) My neighbours are quite nosy.
+GUY: But I don’t think that dropping my ITEM warrants a MAGIC spawning in to help me retrieve it.
+Laughter
+BEAST: You’ll have to take it up with NAME.
+GUY: NAME? Who’s that?
+BEAST: NAME is my boss. They’re from the MAGIC department based in PLACE.
+GUY: You really came all the way from PLACE?!
+BEAST: That’s nothing special. Us MAGIC are very good at our job.
+BEAST: (point to grill) Is that FOOD? 
+GUY: Yeah, I was grilling some FOOD then I dropped my ITEM. Want some?
+BEAST: Oh yeah I do! My job is tiring work!
+GUY: (Grill FOOD) Want any toppings?
+BEAST: Got any SAUCE?
+GUY: I think I have some in the house. Let me check (go in house)
+Scary music
+BEAST: Finally… (hand on ear) I’m in, NAME.
+BEAST: No, I haven’t found LOOT yet. No, it wasn’t hidden in the ITEM.
+BEAST: I’ll keep you posted, the idiot is rummaging for SAUCE.
+BEAST: (look at house) They’re coming back.
+Groose music
+GUY: (return, happy) I got the SAUCE!
+BEAST: Got any napkins? I love slathering my FOOD with SAUCE.
+GUY: Sure thing, be right back. (Go back in house)
+Scary music
+BEAST: (panic, search sandbox) Where the heck is that LOOT?!
+BEAST: NAME is going to spank my BODY if I don’t retrieve it today!
+Laughter
+Groose music
+GUY: (return) Sad news. We have run out of napkins.
+Aww
+GUY: (raise hand) But I found some rags you could use.
+GUY: (inspect rags) Just have to clean the LOOT off of it..
+BEAST: (sudden head turn) No! Keep it on! 
+BEAST: (look down) I… I like how LOOT makes the FOOD taste..
+Laughter
+GUY: You’re an odd little MAGIC aren’t ya? (Give FOOD in LOOT)
+BEAST: (take FOOD) I’ll save it for the road.
+BEAST: Just like my FAMILY says, WISDOM.
+GUY: What road? Don’t you just teleport? 
+BEAST: Um… Bye!
+Magic sound
+Teleport BEAST to Backstage
+GUY: My own personal MAGIC…
+GUY: I’ll have to tell all my friends on SITE.
+GUY: That’ll give me some fun in my boring life I suppose.
+Applause
 
 ======
 
