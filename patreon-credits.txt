@@ -2387,7 +2387,6 @@ Blitzen_Wolf24
 TuiAvatar
 RealSovietmoans
 myummi
-ThyStonerGirl
 #TIER=3
 SidMarcus
 PinballReviewer
@@ -2529,3 +2528,4 @@ GrimmVelvet
 TrueBlueBerry21
 cj_thez 3ef9
 rottenegirll
+ThyStonerGirl
