@@ -2231,7 +2231,6 @@ GG_089
 Purploons
 VerboseK
 Frankie The Dog
-StonerGirl__
 DemiHuman21
 JohnBDev
 Anexamarus
@@ -2388,6 +2387,7 @@ Blitzen_Wolf24
 TuiAvatar
 RealSovietmoans
 myummi
+ThyStonerGirl
 #TIER=3
 SidMarcus
 PinballReviewer
