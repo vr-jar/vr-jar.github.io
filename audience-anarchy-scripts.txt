@@ -16315,7 +16315,7 @@ shark tank deal
 INFORMATION ===============================
 ID: 497
 TITLE: Unusual Suspects
-AUTHOR: Moomster
+AUTHOR: ∗Yobio∗
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -24033,6 +24033,229 @@ LAURA: We're stuck here for another 6 hours?! Noooo!
 ======
 
 INFORMATION ===============================
+ID: 737
+TITLE: Time cops
+AUTHOR: itsmrdude
+VERIFIED: False
+TAGS: Skit
+SET: Western
+CHARACTERS ================================
+ROOK: Rookie time cop:Backstage
+COP: Time cop:Backstage
+OUT: Outlaw (with a twist):Backstage
+OLD: Time traveler’s ancestor cowboy:Backstage
+TIME: Time traveler :Backstage
+SUGGESTIONS =============================
+HIDE: Somewhere to hide something:Under bed, locker, closet
+MILK: Milk producing animal (not cow):Goat, camel, llama 
+NUMB: Random number:8675309, 90210, 3
+DAN: Outlaw name:Dirty Dan, Black eye Pete, Barbados Slim
+COUNTRY: A foreign country :China, Africa, India
+COM: Successful company:McDonald’s, Apple, Ford
+TOWN: Town name:Cave junction, alameda, doonsbury
+FEM: Female name:Susie, Mary, Caitlin 
+COND: Condescending nickname:Kiddo, shorty, dimwit
+THREAT: A threat of voilence:Kick your butt, pull your hair out, cut off your fingers
+ITEM: Item you can buy at a general store:Cigarettes, milk, beer
+BLAND: A gross food/drink:Fried crickets, anchovy salad, pineapple on pizza
+SCRIPT ==========================================
+Western piano music 1
+OLD: (enter stage right) Ah what a lovely day here in TOWN in the lovely year of our lord 1872.
+OLD: Not sure why I’m saying all this exposition but I’m too happy to care, today’s the day I get married to my sweet FEM
+OLD: Nothing could possibly ruin this day
+Music Stops
+Alien teleport
+Teleport TIME to Balcony
+TIME: Oh wow, I did it! I traveled back to the year 1872 to the town of TOWN.
+TIME: Todays the day my great great great Grandfather gets married to the love of his life and everything changes for the better.
+TIME: They have kids who invest in COM and that paves the way for their children to grow up to be pioneers in science and technology leading to time travel.
+OLD: Hey you up there, mumbling all that random horse puckey!
+TIME: (to yourself) Oh no, I’ve been spotted and what’s worse it’s him, I gotta make sure to interact as little as possible as to not change anything.
+TIME: (Shout down) Uh yeah, can I help you?
+OLD: That’s a might spiffy outfit you got there, ain’t seen one like it before, you from outta town?
+TIME: uh yeah I’m from COUNTRY.
+OLD: COUNTRY ey? Well hope you enjoy your time here in TOWN. Now if you’ll excuse me I’ve got a wedding to get to.
+Explosion
+Gunshot
+OUT: (enter stage left) Hell yeah I love me a good stick up, got me 200$ cash, ITEM and three sticks of butter, I’m rich!!
+TIME: Oh no, it’s the infamous outlaw DAN!
+Meanwhile OLD: Oh no, it’s the infamous outlaw DAN
+Western showdown music
+OUT: That’s right it’s me, DAN and y’all better not try and stop me or I’ll fill ya with lead!
+TIME: oh no, I don’t remember hearing about this happening to my great great great grandfather, I must have slowed him down too much.
+TIME: I can’t let anything happen to him or I’ll be a goner.
+OLD: I can’t let you do that, what you’re doing is wrong and I won’t stand for it.
+OUT: I warned you, now take this ya do-gooder!
+Music Stops
+Alien teleport
+teleport COP to center stage
+teleport ROOK to center stage
+COP: Hold it right there!
+ROOK: You heard him, freeze!
+OUT: Who the tarnation are you two?
+COP: We happen to be the Time Cops.
+ROOK: Yeah and we’re here because of a time anomaly in the space time continuum!
+COP: Ease up Rookie, these primitives don’t need to know everything. Let’s just say we’re here to catch an outlaw.
+OUT: Just you try and catch me, I’ll fill you with so much lead you-
+COP: No not you, we’re here for someone in our jurisdiction
+ROOK: Him! (Point to time traveler)
+TIME: Me?! What did I do?
+ROOK: According to article NUMB of the time travelers law time travelers are not allowed to be spotted or change the outcome of the past.
+OLD: I’m so confused right now.
+TIME: but aren’t you doing that right now?
+COP: Time cops are exempt from article NUMB while on duty, perks of the job.
+TIME: That seems highly unfair, crooked even.
+OUT: That’s cause it is COND.
+ROOK: Shut up you primitive scum, your opinion doesn’t matter!
+OUT: Oh but it does because I’m no outlaw, I’m actually Time Detective Conan Holmes!
+COP: Conan Holmes?! What are you doing here?!
+OUT: We’ve been getting reports of suspected abuse of power from a couple time cops so we set up this little sting.
+OUT: We knew this person would travel back to this moment so we set up a situation that looked like something bad would happen and you took the bait.
+COP: But we haven’t done anything wrong.
+ROOK: Yeah we’re just catching the perp.
+OUT: Don’t bother trying to deny it, we checked your HIDE, we know why you’re really here.
+OLD: Wait, lemme guess, the money from the general store, so they could be rich?
+OUT: HA! No no, that much money wouldn’t do much but get them one gallon of gasoline in our time.
+OLD: Gasoline? What’s Gasoline?
+OUT: No they came here for something much more rare. Real authentic butter made by hand.
+OLD: What?
+Meanwhile TIME: What?
+OUT: Yes, in the future all butter is soy based after cows went extinct.
+COP: And we couldn’t take it! That horrible soy taste, the look and feel of it being made by machines in a factory.
+ROOK: once we got a taste for the real thing there was no going back, we tried MILK milk butter but it wasn’t the same.
+OUT: And now you’ll go to time jail and be served nothing but soy butter and BLAND
+COP: NOOOOOO!
+Meanwhile ROOK: NOOOOOO!
+Alien teleport
+Teleport COP Backstage
+Teleport ROOK Backstage
+TIME: And what about me?
+OUT: You’ll be sent home with a stern warning since you helped bag a couple bigger criminals, just make sure you stay clean.
+OLD: And me? What about me?
+OUT: You just make sure to get to that wedding of yours on time and pretend this never happened.
+OUT: Or else I’ll come back and THREAT for violating the time stream.
+Alien teleport
+Teleport TIME Backstage
+Teleport OUT Backstage
+OLD: Well shoot, that was mighty confusing, I think I need me a drink to process all of that. (Head towards saloon)
+Alien teleport
+Teleport OUT center stage
+OUT: Didn't I tell you to get to your wedding!
+OLD: YES MA’AM!
+
+======
+
+INFORMATION ===============================
+ID: 739
+TITLE: The Case Of The Taco Bell Mild Sauce
+AUTHOR: The_Dapper_Cat
+VERIFIED: True
+TAGS: Skit
+SET: Detective Noir
+CHARACTERS ================================
+INVESTIGATOR: Investigator:Center Stage
+THIEF: Taco bell Thief:Backstage
+SUGGESTIONS =============================
+WEAPON1: Any Kind of weapon:Kinfe, Bat, Crowbar 
+WEAPON2: Any kind of weapon:Sword, Dagger, Pipe
+OBJECT1: Any kind of object :Vase, Lamp, Curtains
+OBJECT2: Something you would like to be seen thrown at someone:Baseball, Stick, Anvil 
+EVENT: A Historical Event :WWII, WWI, Civil War
+VERB: Something evil you would do to someone:Run over, Hurt, Cut 
+AJECTIVE : Something to describe an object :Long, Cute, Stupid
+BODYPART: A humanoid body part:Leg, Arm, Torso 
+ORGAN: A name of an Internal Organ :Liver, Kidney, Intestines 
+INV NAME: Name of a person with a high class job:Mike, Jackson, William Bartholomae III
+TBT NAME: Name of a person:Jason, Max Jamieson Jr, Harry 
+NICKNAME: A good or bad nickname you would call someone  :stupid, Pookie, Sweetheart
+SCRIPT ==========================================
+Piano theme
+INVESTIGATOR: It was a cold dark night. The kind of night that was cold....and...dark.
+INVESTIGATOR: I look out this beloved window and see that same old taco bell sign every day.
+INVESTIGATOR: Sometimes I wonder if that place will ever go out of business.
+INVESTIGATOR: You know that reminds me of a story. It involved Taco bell mild sauce...and EVENT.
+INVESTIGATOR: It was a long time ago...In the same galaxy...however it was a very tragic story.
+INVESTIGATOR: I was sitting in this very office, and then out of no where, EVENT happened right outside my house!
+INVESTIGATOR: I was watching from this very window and saw the Taco bell get absolute obliterated.
+INVESTIGATOR: Then all the packets of the delightful Mild Sauce flew out of the Taco bell right into my ORGAN.
+INVESTIGATOR: Yes the whole entire thing, it was very painful, however, that didn't stop me. I took it like a man.
+INVESTIGATOR: There was an abundance of it. And It was amazing.
+INVESTIGATOR: But since that happened, I have kept all the Taco Bell Mild Sauce under my floorboards for safe keeping.
+INVESTIGATOR: And then what happened next was unbelievable....I.
+crashing debris
+INVESTIGATOR: What was that...(walk behind your desk and crouch)
+door creak
+sad chug jug music
+THIEF: Hello anyone home?
+INVESTIGATOR: (Quietly) maybe if I don't talk, he wont know I'm here...
+THIEF: Ah, no one is here, Now it the time to strike. I have heard there was some taco bell mild sauce hidden under this wooden floor.
+THIEF: (Try to look for the loose floor boards) I know its under here somewhere...(slam the ground)
+break down door
+THIEF: Ahh ha hahaaa, I got it! The taco bell mild sauce is all mine!
+Scary music
+THIEF: With this Taco Bell mild sauce, Ill be able to take over the world!
+THIEF: No one will stop me!!!
+INVESTIGATOR: (Jump out from the desk) Hold it right there!
+THIEF: Oh great heavens, who are you and where did you come from!
+INVESTIGATOR: Where I came from is none of you business. But my name is INV NAME, and I will not let you take all my sauce.
+INVESTIGATOR: Let me just conveniently pull out this weapon I have in my pocket.
+THIEF: Excuse me...Is that a WEAPON1.
+INVESTIGATOR: Why yes it is.
+THIEF: That is a very AJECTIVE WEAPON1.
+INVESTIGATOR: Don't make fun of my WEAPON1 its sensitive.
+INVESTIGATOR: But that's not the point, Who are you?
+THIEF: My name is TBT NAME.
+INVESTIGATOR: Wow that's an awful name.
+THIEF: You know what! I don't care NICKNAME.
+INVESTIGATOR: Wow...(start to cry) that hurt man.
+INVESTIGATOR: Anyway! Put your hands up NICKNAME.
+THIEF: No can do! Let me also just conveniently pull out a weapon of my very own.
+INVESTIGATOR: Is that a WEAPON2.
+THIEF: Well yes it is.
+INVESTIGATOR: Well just like you said, that is a very AJECTIVE WEAPON2.
+THIEF: Well, unlike yours, mine can do this. (attack some part of the house with your weapon)
+INVESTIGATOR: Nooo not my OBJECT1.
+INVESTIGATOR: (Fall to the ground in agony) How could you do this.
+THIEF: It was just a demonstration NICKNAME.
+INVESTIGATOR: I'm gonna- I'm gonna VERB.
+Music Stops
+THIEF: Your gonna what!
+INVESTIGATOR: You heard me NICKNAME, im gonna VERB.
+THIEF: No! Please have mercy!
+INVESTIGATOR: Then leave the taco bell sauce and go!
+THIEF: Oh but wait.....I have one final trick up my sleave.
+thunder
+THIEF: (Evil laugh) (Take out a packet of mild sauce and drink it)
+INVESTIGATOR: Nooo! Don't Drink the mild sauce!
+scary music
+THIEF: Well well well Mr. INV NAME, how the turns have tabled.
+INVESTIGATOR: Isn't it tables have turned?
+THIEF: Shut up NICKNAME.
+THIEF: Now with the power of the mild sauce, I will VERB with my WEAPON2 you NICKNAME.
+INVESTIGATOR: Not before I can do something about it! (Grab something off your desk and throw it at him)
+crashing debris
+lacrimosa music
+THIEF: Ahhhh! Did you just throw OBJECT2 at me!
+INVESTIGATOR: Sorry, it was the only thing I could find...Come to think of it, I could have just used my WEAPON1.
+THIEF: Well it didn't do much. However! With the power of this taco bell mild sauce, I will now end your life.
+INVESTIGATOR: Never!. (Use your weapon and attack him)
+THIEF: (Laugh) Its no use! With the Taco Bell Mild Sauce, im too strong!
+THIEF: Now let me show you how its done. (Attack him)
+knife wound
+INVESTIGATOR: Ahhhh! Right in my BODYPART.
+THIEF: I have won
+INVESTIGATOR: (Slowly die) Before I die (cough cough) I must tell you about the consequences....
+THIEF: Consequences you say?
+INVESTIGATOR: Yes...The Consequences are very dangerous.
+INVESTIGATOR: You see Mr. TBT NAME, too much mild sauce can lead to....(Fall down and Die)
+THIEF: Oh well, I'm sure it cant be that bad....wait...my stomach feel bad.
+Music stops
+THIEF: I have to go to the bathroom...Oh my gosh...its really really bad.
+THIEF: (run of the stage screaming)
+
+======
+
+INFORMATION ===============================
 ID: 740
 TITLE: Downtown Dilemma
 AUTHOR: Kymerah
@@ -24287,6 +24510,223 @@ GUY: My own personal MAGIC…
 GUY: I’ll have to tell all my friends on SITE.
 GUY: That’ll give me some fun in my boring life I suppose.
 Applause
+
+======
+
+INFORMATION ===============================
+ID: 748
+TITLE: Maid Master, My Dude
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Murder
+CHARACTERS ================================
+DUDE: Dude Bro:Backstage
+MAID: The Maid:Stage Right
+MASTER: The Master:Center Stage
+SUGGESTIONS =============================
+PET: Living beings (plural) that no one should legally own:Tigers, Man-eating Snails, Dolphins, Aliens
+GREETING: Something you’d say to introduce yourself to a lady:What’s cookin’ good lookin’? Whoah you’re pretty!, MILF alert!
+ACTION: An activity for two people:Fish, Dance, Vomit
+GOO: A sticky substance :Glue, baby-batter, snot, spinal fluid, bug guts
+SUBJECT: A school subject:Math, Science, English, Media studies, product design, art
+NAME: A bro-like name:Coolio, Samuel, Cade, Noah, Jack, Raff
+MASTER: Name of a fancy rich person:Wellington, Vilhelm, Sussy Jack, Arthur
+CLOTHES: An item of clothing:Coat, hat, shoes, bag, underwear
+INVEST: A highly successful business :Amazon, Disney, Google, The Royal Family, Cheese
+BUSS: A fictional business:Milkies, Lava incorporated, e-boys, tummy pats
+CHANGE: A small amount of money:One pound, one dollar, 100 yen, 1 euro
+ILLNESS: An illness:The Lurgy, COVID, The common cold, upset stomach
+SCRIPT ==========================================
+Dark classical music
+MASTER: Maid! (Double clap) Clean the sofa. As you know, we are expecting company today.
+MAID: Yes Master, I believe you said it was your old friend NAME from college? (Start cleaning sofa)
+MASTER: Ah yes, NAME. Me and NAME got into a wide range of tomfoolery back in the day.
+MASTER: (point to fingers while listing) Pranking the SUBJECT teacher..
+Laughter
+MASTER: Making sure our home-room teacher always had GOO in her pockets…
+Laughter
+MASTER: We ACTION with eachother every night…
+Vine boom
+MAID: (stop cleaning and look disgusted) Master….. Gross..
+MASTER: (wave off Maid) Bah, it’s all history now Maid.
+MASTER: But I can’t deny that it made me the person I am today!
+Doorbell
+MAID: That must be NAME.
+Door creak
+DUDE: GREETING is this where MASTER lives?
+MAID: MASTER? You mean my Master?
+DUDE: No way! You’re an actual maid?! How much is MASTER paying you?
+DUDE: (elbow maid’s arm) Or are you doing it for free?
+Laughter
+MASTER: (wave over NAME) NAME, come on in!
+MASTER: Maid, take NAME ‘s CLOTHES will you?
+MAID: Certainly. (take CLOTHES)
+MASTER: (take seat and point to sofa) Take a seat NAME, relax! I have news for you.
+DUDE: Real swanky place you got here MASTER. You invest in INVEST like you said you would?
+MASTER: (two hand wave, shake head) Oh, no no. Far too mainstream for yours truly.
+MASTER: I put all my stock in BUSS.
+MASTER: And aquired all my wealth thusly!
+DUDE: (head in hands) Damn… Wish I knew you had money sooner..
+DUDE: My FAMILY passed last Thursday
+Sad chug jug music
+DUDE: And I needed CHANGE for the surgery..
+MAID: Only CHANGE? Peasant.
+MASTER: Hush Maid!
+MASTER: I’m so sorry NAME..
+MASTER: I couldnt help your dear FAMILY, (point) but I can help you.
+Emotional piano music
+DUDE: (raise head) Huh? How?
+MASTER: I’m dying you see. It’s ILLNESS. I only have a few days left in me.
+DUDE: (stand in shock) ILLNESS?! H-how? When? You can’t treat it?!
+MAID: We tried everything. Even the anti- ILLNESS injections… (hands covering mouth)
+MASTER: So, there’s nothing to be done about it.
+MASTER: NAME, my fortune (arms out) and all my worldly possessions are hereby yours!
+Happy music 1
+MASTER: (point to Maid) Even my beloved Maid is under your employ now!
+MAID: What?!
+Laughter
+DUDE: What?!
+Record scratch
+MASTER: (fall down in pain) Ack..!
+Crashing debris
+MAID: Master! (Support on ground)
+Tense cinematic music
+DUDE: MASTER! (Kneel) You good?
+DUDE: It isn't that pesky ILLNESS is it?
+MASTER: It… must be…
+MASTER: Maid..
+MAID: I’m here, Master.
+MASTER: Be… a good little bean for NAME.. will you?
+MAID: (cry) I-I will, Master..
+MASTER: And.. Make sure.. to dispose of.. those 83 PET in the cellar..
+Waterphone
+MAID: Wait what?!
+MASTER: NAME… I… leave the rest to you…. (Expire)
+DUDE: MASTER? You dead?
+MAID: (stand) those PET aren’t going to euthanise themselves.
+MAID: I’ll get the flamethrower. (Leave)
+Vine boom
+DUDE: (close MASTER ‘s eyes) Rest well, my fellow dude.. (wipe away tear)
+TYPEWRITER: NAME foolishly ACTIONed with Maid and caught ILLNESS and died 2 days later.
+Aww
+Applause
+
+======
+
+INFORMATION ===============================
+ID: 749
+TITLE: Adventure Gone Wrong?
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Campsite
+CHARACTERS ================================
+PRIEST: Selfish priest:Entrance Stage Left
+MONSTER: Big scary monster:Backstage
+CRUS: Crusader who likes pain:Backstage
+MAGE: One-shot Mage:Backstage
+ROGUE: Sleazy Rogue:Entrance Stage Right
+SUGGESTIONS =============================
+SHOUT: Something you’d shout in celebration:Happy birthday, I passed my exam!, I love you!, I love my job!
+BAD: A one worded compliment :Nice, juicy, attractive, kind
+GOO: A sticky substance:Goo, blood, cream, spit, batter
+HANDLE: A regular name:Benjamin, Adrian, Mark, Jessica, Rebecca
+ORGAN: A human organ:Brain, liver, sack, uterus, lungs
+BODY: A particular part of the human body:Head, ass, nose, leg, arm
+TASTE: Something that tastes awful:Fish Sauce, body odour, a juicy cucumber
+PANTS: A type of underwear :Socks, bra, tights, briefs, boxers, panties, lingerie
+PART: A part of the body you don’t want to break:Groin, spine, little finger, nose, heart
+SOUND: A sound a monster would make:uwu, rawr, Oink, Baaaah, weywey
+SPELL: The spell of …:Glue, medium power, tongues, crust, pineapples
+WORD: A single word:Friends, love, Bacon
+SCRIPT ==========================================
+epic fantasy music 2
+PRIEST: (run in, arms up) Don’t eat me, I taste like TASTE!
+PRIEST: (hug tree in fear) Please please please! TASTE TASTE TASTE!!!
+Laughter
+ROGUE: (rush in after them) What the hell! You were meant to heal us!!
+ROGUE: (point off-stage) You know the other two are probably dead because of you!
+PRIEST: Like I give a damn! That monster nearly ate my whole BODY!
+ROGUE: Who cares about your BODY?!
+ROGUE: You could of given it up so that the rest of us could run away.
+PRIEST: (point to BODY) My BODY is worth 10 of you and you know it!
+ROGUE: Oh again with this!
+ROGUE: No one, and I mean no one, not even me, could possibly find your BODY attractive!
+Laughter
+PRIEST: (shake fists in anger) I hate you! Why can’t you say one nice thing about your priest?!
+Crashing debris
+MAGE: (enter slowly, injured, dizzy) Hey… guys… The monster cut my ORGAN out..
+ROGUE: Oh lord no! Mage, you’re bleeding! (Help them stand still)
+MAGE: (to Priest) Heal… me… (reach out hand)
+PRIEST: (distracted by campfire) Huh?
+ROGUE: Hurry up and heal their wound!
+PRIEST: Ew, no. They’re covered in GOO. Monster GOO.
+Laughter
+ROGUE: Do it or I’ll steal the holy PANTS you’re wearing and sell them for cheap in the market!
+PRIEST: (big gasp) You wouldn’t dare!
+ROGUE: (reach out hand) I hereby cast……
+PRIEST: Okay okay! (Hop over and heal Mage)
+Magic sound
+MAGE: C-Crusader is still fighting the monster! They’ll die before long!
+ROGUE: Can you cast a spell to get them to safety?
+MAGE: (finger up) Ah, my spell of warping should do nicely.
+MAGE: (cast spell directed at the rock chair) Yah!
+Teleport CRUS to rock chair
+Tada
+CRUS: (swing sword violently around) That’s not going to hurt me, you BAD monster!
+ROGUE: H-hey! Crusader! Stop swinging!
+CRUS: (keep swinging) Harder! Harder!! Make me feel it!
+PRIEST: Crusader… (touch Crusader)
+CRUS: (hit Priest in the PART by accident) Just a bit mor—! Oh dear!
+Laughter
+PRIEST: (fall in pain) M-my PART! My holy PART! It’s broken…!
+ROGUE: (laugh) Deserved.
+MAGE: Guess that’s karma for leaving us to die!
+CRUS: Indeed. A true warrior takes all the hits, no matter the ferocity.
+CRUS: Speaking of.. What happened? Why warp me here?
+MAGE: We wanted to save you.
+CRUS: No, why here? At this camp?
+ROGUE: No reason, we just ended up here.
+CRUS: Oh. Because the monster is right there. (Point to forest)
+Thunder
+MONSTER: SOUND. HANDLE!
+ROGUE: Aah!! (Hide behind Crusader)
+PRIEST: Eeeh!! (Hide behind Rogue)
+MAGE: Ooof!! (Hide behind Priest)
+MONSTER: (raise hands) HANDLE SOUND! SOUND!
+ROGUE: Crusader! Distract it!
+CRUS: (charge at monster and flail sword around) Give me a real fight!!
+Sword fighting
+ROGUE: Priest, heal Crusader if they get hurt.
+CRUS: (still swinging) No! I want to saver the feeling! I’m so close!
+Laughter
+PRIEST: Ew.. (hide behind tree)
+ROGUE: Mage! Charge up your most powerful spell!
+MAGE: You mean the spell of SPELL? We all have to say the thing in order though..
+ROGUE: Charge it up!
+ROGUE: Everyone get in position.
+MONSTER: SOUND! (Smack Crusader)
+CRUS: (get smacked) SHOUT!
+Super epic charge up
+MAGE: (charge up spell aimed at Monster) its ready! Say the word guys!
+MONSTER: SOUND! HANDLE!
+ROGUE: WORD!
+CRUS: WORD!
+PRIEST: WORD!
+MAGE: WORD!
+Raygun shot
+MONSTER: (cover face with arm then fall) …. HANDLE… SOUND….. (die)
+Explosion
+ROGUE: Phew. (Look at dead monster) Glad that’s over with..
+MAGE: I’m exhausted.. (leave stage)
+ROGUE: Same. (Wag finger while leaving) I stole its PANTS though.
+PRIEST: (check PANTS) H-Hey! Those are mine! (Chase Rogue)
+Laughter
+CRUS: Dumb monster. (poke monster with sword)
+CRUS: I didn’t even get to finish…
+MONSTER: HANDLE…
+Aww
 
 ======
 
