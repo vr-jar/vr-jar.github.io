@@ -23532,6 +23532,95 @@ EMPLOYEE: Wait, what?
 ======
 
 INFORMATION ===============================
+ID: 724
+TITLE: Actor Anarchy
+AUTHOR: kiro-sage
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+CHARACTERS ================================
+DIRECT: The very serious Director:Backstage
+SON: The Child actor:Entrance Stage Right
+DAD: The Father actor:Center Stage
+DOC: The Doctor actor:Narrator Podium
+SUGGESTIONS =============================
+TOOL: An object:Screwdriver, Rubber ducky, Katana, Blaze reap
+WORKING: An action (-ing) you can be doing at home :Working out, Playing piano, Crying
+THING: An object that might give you a sickness:Dead rat, Cursed Vase, Duck, Teddy bear
+MAN: A person or actor:Danny Devito, Kirby, Tom Holland
+EMOTIONLESS: An emotion:Furry, Emotionless, Silly, Painful
+SICKNESS: A form of sickness:Appendicitis, Skulk infection, Ren-Diggity-Dog, pneumo-ultra-micro-scopic-cyllica-volcano-coni-osis
+SAD: An emotion:depression, miserable, Bored, Tired
+ACT: An action:Dance, punch, sing, eat
+COMPANY: A company or person:TikTok, Amazon, Microsoft, C418, Stampylonghead
+SCRIPT ==========================================
+groose music
+SON: (SAD, walks out on stage) Hello, Father, my stomach hurts. (fake cough)
+DAD: (SAD) My son, what ever could be the problem?
+SON: I believe I have... (looks down at "script") SICKNESS. (fake cough)
+DAD: SICKNESS?! Oh dear, that's a very... uhh, very dangerous disease. We must call the doctor.
+DAD: (runs to table and picks up phone) Hello, Doc, my son has SICKNESS.
+Meanwhile SON: (falls to the floor)
+DOC: (SAD) Got it... SICKNESS is very fatal. I will be there as soon as possible.
+DOC: (wee-woo to stage left door) Hello, I am the medic.
+DAD: (walks up to doc) Doc, my son, he's not doing well. Please help him.
+SON: Dad... (normal) Line?
+Music Stops
+DIRECT: (runs on stage) Cut, cut! What in tarnation was that?
+DIRECT: (sighs) Your line is "Dad, will I be ok?" but ignoring that, why were you all so SAD? (turn to doc) And mama mia you did not act what so ever.
+DAD: (still SAD) Well, we all had a really rough day and are not feeling it today.
+DIRECT: That's not an excuse. (sighs) Just go over it again, but this time be less SAD, be more... EMOTIONLESS. (walk to exit)
+DIRECT: (to doc) And you act like MAN ok please. (head backstage)
+DOC: You got it boss. (walk to narrator podium)
+meanwhile SON: (walk back stage)
+silly music 1
+DAD: (EMOTIONLESS, WORKING) Oh, hey son, what you got there?
+Meanwhile SON: (walks on stage carrying THING)
+SON: (EMOTIONLESS) Oh, it's just a THING, what are you doing?
+DAD: You know, my daily session of WORKING.
+DAD: Wait, did you say that you found a THING?
+SON: (still EMOTIONLESS) Yeah, why? (begins coughing)
+DAD: (still EMOTIONLESS) Oh no. (stops WORKING) It would seem you've come down with a case of SICKNESS.
+thunder
+DAD: We need to call the doctor right away. (grabs THING and throws it, then runs to table and calls the doctor)
+Meanwhile SON: (falls to ground)
+SON: But Dad, what about your WORKING session?
+DAD: That can wait you are more important and all that I have left (pick up phone)
+DOC: (Acting like MAN and EMOTIONLESS) Hello there, this is COMPANY hospital, you sick 'em, we try to fix 'em. What seems to be nagging you today?
+DAD: Hello, Doc, my son has caught SICKNESS, please help.
+DOC: Got it, on my way. (EMOTIONLESS-ly wee-woo to left stage door)
+DAD: (opens door for doc) My son is over here. (turns to son, then gasps) Oh no, he's fallen unconscious. Doc, will he be alright?
+DOC: (EMOTIONLESS, checks on son) Don't worry, I have this TOOL so I should be able to fix him up. (hits the son with TOOL)
+SON: (coughs) D-Dad. (dies)
+DAD: Son, are you ok? Son. (shouts) SON.
+Music Stops
+DIRECT: (runs on stage) My goodness, that was worse than the last one. Ugh.
+DIRECT: Another thing, why were you all so EMOTIONLESS this time? And why are you acting like MAN?
+SON: (confused) Didn't you tell us to be more EMOTIONLESS?
+DOC: And didnt you tell me to act like MAN?
+DIRECT: I- well, yes, but. Augh. (sighs)
+DIRECT: Look we just got bought out by COMPANY and they want us to incorporate a lot of ACT ok. Dont mess this up (head backstage)
+DAD: Welp, time to make this our best performance yet, you guys with me? (puts hand in)
+DOC: Well, I guess. (puts hand in)
+SON: This is the last time we will see each other, so let's make it count. . (puts hand in)
+DAD: Then let's do this.
+DOC: Woo. (runs to narrator podium)
+meanwhile SON: (runs to stage right entrance)
+badass music 1
+SON: (dramatic but acting) Hello, father, my stomach hurts. (coughs then acts) I believe I have SICKNESS.
+DAD: My son, you have (acts) SICKNESS? We must call a doctor at once. (runs to phone while acting).
+DAD: Hello, Doc, my son has SICKNESS, and we need your help. (acts).
+Meanwhile SON: (falls to the floor in an acting way)
+DOC: (acting) Got it, SICKNESS is very fatal. I will be there as soon as possible.
+DOC: (somehow wee-woo to stage left in an acting way) Worry not, for I am here.
+DAD: (acts as he walks to the doc) Doc, my son, he's not doing well. Please help him.
+DOC: (checks up on son while acting then stands up) I'm sorry; it would seem your son (ACT) was not long for this world.
+Meanwhile DAD: (ACTs)
+DAD: No, my son, I'm sorry. (kneels down to son while ACTing) I'm sorry I couldn't be the father you wanted
+
+======
+
+INFORMATION ===============================
 ID: 725
 TITLE: It’s in my mouth
 AUTHOR: Kymerah
@@ -24425,21 +24514,21 @@ VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Backyard
 CHARACTERS ================================
-GUY: Regular person:Grill
 BEAST: Magical creature:Backstage
+GUY: Regular person:Grill
 SUGGESTIONS =============================
-SITE: A real or fake social website ending in “.com”:YummyYummy.com, DaddyDaddy.com, TheMILFInU.com, DucksAndChucks.com, LonelyPony.com
-WISDOM: A catchphrase or slogan:I’m lovin’ it. When you’re here you’re family, robots in disguise, may the force be with you, ba weep gramma weep ninny bong
-FAMILY: A family member:Daddy, mommy, Step-bro, gran-gran 
-BODY: A part of the body you don’t want to be hit in:Tummy, breast, cheeks, thigh, entire face, mother
-LOOT: Sonething very, very disgusting:Poop, Vomit, Urine, Spice, Mold
-FOOD: A grillable food:Hotdog, burger, lemon, toast, Oreo
-WORK: An odd job:VRC developer, Letter-licker, drug tester, seed giver, breath-taker
-ITEM: An embarrassing item to drop:Verified E-boy card, small Ranni, pocket pounder 3000, self-respect
-MAGIC: A magical creature:Leech, Gnome, Rabbit, McDonalds Employee, MILF lover
-NAME: A regular name:Benjamin, Rick, Susan, Barbara, Chris
-PLACE: A country, real or fake:England, Canada, Uganda, Austria, Turkministan
 SAUCE: Something gross you can put on food:White sauce, gravel, toe cheese, groin crust, baby batter
+PLACE: A country, real or fake:England, Canada, Uganda, Austria, Turkministan
+NAME: A regular name:Benjamin, Rick, Susan, Barbara, Chris
+MAGIC: A magical creature:Leech, Gnome, Rabbit, McDonalds Employee, MILF lover
+ITEM: An embarrassing item to drop:Verified E-boy card, small Ranni, pocket pounder 3000, self-respect
+WORK: An odd job:VRC developer, Letter-licker, drug tester, seed giver, breath-taker
+FOOD: A grillable food:Hotdog, burger, lemon, toast, Oreo
+LOOT: Sonething very, very disgusting:Poop, Vomit, Urine, Spice, Mold
+BODY: A part of the body you don’t want to be hit in:Tummy, breast, cheeks, thigh, entire face, mother
+FAMILY: A family member:Daddy, mommy, Step-bro, gran-gran 
+WISDOM: A catchphrase or slogan:I’m lovin’ it. When you’re here you’re family, robots in disguise, may the force be with you, ba weep gramma weep ninny bong
+SITE: A real or fake social website ending in “.com”:YummyYummy.com, DaddyDaddy.com, TheMILFInU.com, DucksAndChucks.com, LonelyPony.com
 SCRIPT ==========================================
 Groose music
 GUY: Boy, my life sure is boring.
@@ -24461,7 +24550,7 @@ GUY: (take ITEM from them) Thaaanks..
 Laughter
 BEAST: (bow) My job is done.
 BEAST: (start to leave) Farewell my friend.
-GUY: (hand out) Hold on there BEAST. Was that all you came here to do?
+GUY: (hand out) Hold on there MAGIC. Was that all you came here to do?
 BEAST: (turn, finger up) Why yes. Dropping ones ITEM can be quite the embarrassment.
 BEAST: What if one of your WORK colleagues saw you drop it?
 GUY: True. (Look around) My neighbours are quite nosy.
