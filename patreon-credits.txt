@@ -1422,7 +1422,6 @@ Soul_Beat
 Рancake
 Goldinese
 Umi ღ
-HyperAzura
 Rhohnin
 o-JayG-o
 ＳＡＮＩＴＹ
@@ -1690,7 +1689,6 @@ CrustyCrusade
 izumiiz
 g1itch_141
 punisher2003606
-ProxedYT
 XxWARDENxX
 #TIER=1
 ~ Ветерок ~
@@ -2413,6 +2411,7 @@ Blitzen_Wolf24
 TuiAvatar
 RealSovietmoans
 myummi
+Redman_1506
 #TIER=3
 SidMarcus
 PinballReviewer
