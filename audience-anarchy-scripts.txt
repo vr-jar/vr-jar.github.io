@@ -24242,37 +24242,39 @@ VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
 CHARACTERS ================================
-INVESTIGATOR: Investigator:Center Stage
 THIEF: Taco bell Thief:Backstage
+INVESTIGATOR: Investigator:Center Stage
 SUGGESTIONS =============================
-WEAPON1: Any Kind of weapon:Kinfe, Bat, Crowbar 
-WEAPON2: Any kind of weapon:Sword, Dagger, Pipe
-OBJECT1: Any kind of object :Vase, Lamp, Curtains
-OBJECT2: Something you would like to be seen thrown at someone:Baseball, Stick, Anvil 
-EVENT: A Historical Event :WWII, WWI, Civil War
-VERB: Something evil you would do to someone:Run over, Hurt, Cut 
-AJECTIVE : Something to describe an object :Long, Cute, Stupid
-BODYPART: A humanoid body part:Leg, Arm, Torso 
-ORGAN: A name of an Internal Organ :Liver, Kidney, Intestines 
-INV NAME: Name of a person with a high class job:Mike, Jackson, William Bartholomae III
-TBT NAME: Name of a person:Jason, Max Jamieson Jr, Harry 
 NICKNAME: A good or bad nickname you would call someone  :stupid, Pookie, Sweetheart
+TBT NAME: Name of a person:Jason, Max Jamieson Jr, Harry 
+INV NAME: Name of a person with a high class job:Mike, Jackson, William Bartholomae III
+ORGAN: A name of an Internal Organ :Liver, Kidney, Intestines 
+BODYPART: A humanoid body part:Leg, Arm, Torso 
+AJECTIVE : Something to describe an object :Long, Cute, Stupid
+VERB: Something evil you would do :Run over, Hurt, Cut 
+EVENT: A Historical Event :WWII, WWI, Civil War
+OBJECT2: Something you would like to be seen thrown at someone:Baseball, Stick, Anvil 
+OBJECT1: Any kind of object :Vase, Lamp, Curtains
+WEAPON2: Any kind of weapon:Sword, Dagger, Pipe
+WEAPON1: Any Kind of weapon:Kinfe, Bat, Crowbar 
 SCRIPT ==========================================
-Piano theme
+Mystery music 1
 INVESTIGATOR: It was a cold dark night. The kind of night that was cold....and...dark.
 INVESTIGATOR: I look out this beloved window and see that same old taco bell sign every day.
 INVESTIGATOR: Sometimes I wonder if that place will ever go out of business.
 INVESTIGATOR: You know that reminds me of a story. It involved Taco bell mild sauce...and EVENT.
-INVESTIGATOR: It was a long time ago...In the same galaxy...however it was a very tragic story.
+INVESTIGATOR: It was a long time ago...In a galaxy far fa-....In the same galaxy of course...however it was a very tragic story.
 INVESTIGATOR: I was sitting in this very office, and then out of no where, EVENT happened right outside my house!
-INVESTIGATOR: I was watching from this very window and saw the Taco bell get absolute obliterated.
+INVESTIGATOR: It was crazy! I was watching from this very window and saw the Taco bell get absolute obliterated.
 INVESTIGATOR: Then all the packets of the delightful Mild Sauce flew out of the Taco bell right into my ORGAN.
 INVESTIGATOR: Yes the whole entire thing, it was very painful, however, that didn't stop me. I took it like a man.
-INVESTIGATOR: There was an abundance of it. And It was amazing.
-INVESTIGATOR: But since that happened, I have kept all the Taco Bell Mild Sauce under my floorboards for safe keeping.
+INVESTIGATOR: There was an abundance of it. The sheer power of it was out of this world, and It was amazing.
+INVESTIGATOR: Since that happened, I have kept all the Taco Bell Mild Sauce under my floorboards for safe keeping.
 INVESTIGATOR: And then what happened next was unbelievable....I.
 crashing debris
+Music stops
 INVESTIGATOR: What was that...(walk behind your desk and crouch)
+THIEF: (Open the door)
 door creak
 sad chug jug music
 THIEF: Hello anyone home?
@@ -24315,31 +24317,35 @@ INVESTIGATOR: Then leave the taco bell sauce and go!
 THIEF: Oh but wait.....I have one final trick up my sleave.
 thunder
 THIEF: (Evil laugh) (Take out a packet of mild sauce and drink it)
-INVESTIGATOR: Nooo! Don't Drink the mild sauce!
+INVESTIGATOR: Nooo! Don't Drink my sauce!
 scary music
 THIEF: Well well well Mr. INV NAME, how the turns have tabled.
 INVESTIGATOR: Isn't it tables have turned?
 THIEF: Shut up NICKNAME.
-THIEF: Now with the power of the mild sauce, I will VERB with my WEAPON2 you NICKNAME.
-INVESTIGATOR: Not before I can do something about it! (Grab something off your desk and throw it at him)
+THIEF: Now with the power of the mild sauce, I will VERB with my AJECTIVE WEAPON2 you NICKNAME.
+INVESTIGATOR: Not before I can do something about it! Let me just conveniently grab this OBJECT2 off my desk. (throw it at him)
 crashing debris
 lacrimosa music
-THIEF: Ahhhh! Did you just throw OBJECT2 at me!
-INVESTIGATOR: Sorry, it was the only thing I could find...Come to think of it, I could have just used my WEAPON1.
+THIEF: Ahhhh! Did you just throw OBJECT2 at me?
+INVESTIGATOR: Sorry, it was the only thing I could find...Come to think of it, I could have just used the WEAPON1 that is in my hand.
 THIEF: Well it didn't do much. However! With the power of this taco bell mild sauce, I will now end your life.
 INVESTIGATOR: Never!. (Use your weapon and attack him)
 THIEF: (Laugh) Its no use! With the Taco Bell Mild Sauce, im too strong!
-THIEF: Now let me show you how its done. (Attack him)
+THIEF: Now let me show you how its done.
+THIEF: Ahhhhhh! (Attack him)
+Music stops
 knife wound
 INVESTIGATOR: Ahhhh! Right in my BODYPART.
 THIEF: I have won
+western showdown music
 INVESTIGATOR: (Slowly die) Before I die (cough cough) I must tell you about the consequences....
 THIEF: Consequences you say?
 INVESTIGATOR: Yes...The Consequences are very dangerous.
 INVESTIGATOR: You see Mr. TBT NAME, too much mild sauce can lead to....(Fall down and Die)
 THIEF: Oh well, I'm sure it cant be that bad....wait...my stomach feel bad.
 Music stops
-THIEF: I have to go to the bathroom...Oh my gosh...its really really bad.
+THIEF: I have to go to the bathroom...
+THIEF: Oh my gosh...its really really bad.
 THIEF: (run of the stage screaming)
 
 ======
@@ -24514,21 +24520,21 @@ VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Backyard
 CHARACTERS ================================
-BEAST: Magical creature:Backstage
 GUY: Regular person:Grill
+BEAST: Magical creature:Backstage
 SUGGESTIONS =============================
-SAUCE: Something gross you can put on food:White sauce, gravel, toe cheese, groin crust, baby batter
-PLACE: A country, real or fake:England, Canada, Uganda, Austria, Turkministan
-NAME: A regular name:Benjamin, Rick, Susan, Barbara, Chris
-MAGIC: A magical creature:Leech, Gnome, Rabbit, McDonalds Employee, MILF lover
-ITEM: An embarrassing item to drop:Verified E-boy card, small Ranni, pocket pounder 3000, self-respect
-WORK: An odd job:VRC developer, Letter-licker, drug tester, seed giver, breath-taker
-FOOD: A grillable food:Hotdog, burger, lemon, toast, Oreo
-LOOT: Sonething very, very disgusting:Poop, Vomit, Urine, Spice, Mold
-BODY: A part of the body you don’t want to be hit in:Tummy, breast, cheeks, thigh, entire face, mother
-FAMILY: A family member:Daddy, mommy, Step-bro, gran-gran 
-WISDOM: A catchphrase or slogan:I’m lovin’ it. When you’re here you’re family, robots in disguise, may the force be with you, ba weep gramma weep ninny bong
 SITE: A real or fake social website ending in “.com”:YummyYummy.com, DaddyDaddy.com, TheMILFInU.com, DucksAndChucks.com, LonelyPony.com
+WISDOM: A catchphrase or slogan:I’m lovin’ it. When you’re here you’re family, robots in disguise, may the force be with you, ba weep gramma weep ninny bong
+FAMILY: A family member:Daddy, mommy, Step-bro, gran-gran 
+BODY: A part of the body you don’t want to be hit in:Tummy, breast, cheeks, thigh, entire face, mother
+LOOT: Sonething very, very disgusting:Poop, Vomit, Urine, Spice, Mold
+FOOD: A grillable food:Hotdog, burger, lemon, toast, Oreo
+WORK: An odd job:VRC developer, Letter-licker, drug tester, seed giver, breath-taker
+ITEM: An embarrassing item to drop:Verified E-boy card, small Ranni, pocket pounder 3000, self-respect
+MAGIC: A magical creature:Leech, Gnome, Rabbit, McDonalds Employee, MILF lover
+NAME: A regular name:Benjamin, Rick, Susan, Barbara, Chris
+PLACE: A country, real or fake:England, Canada, Uganda, Austria, Turkministan
+SAUCE: Something gross you can put on food:White sauce, gravel, toe cheese, groin crust, baby batter
 SCRIPT ==========================================
 Groose music
 GUY: Boy, my life sure is boring.
@@ -24536,7 +24542,7 @@ GUY: (flip FOOD) I’ve been stuck working a 9 to 5 job at WORK for years now.
 GUY: (accidentally drop something) Whoops. Dropped my ITEM.
 Laughter
 GUY: (bend to pick it up) Thank the lord no one saw that…
-Teleport BEAST to Sandbox
+Teleport BEAST to center stage
 Magic sound
 BEAST: (arms stretched out) Aha!
 GUY: Whoa, what on Earth are you? Wait, you look like a…
@@ -24561,7 +24567,7 @@ GUY: NAME? Who’s that?
 BEAST: NAME is my boss. They’re from the MAGIC department based in PLACE.
 GUY: You really came all the way from PLACE?!
 BEAST: That’s nothing special. Us MAGIC are very good at our job.
-BEAST: (point to grill) Is that FOOD? 
+BEAST: (point to grill) Is that FOOD?
 GUY: Yeah, I was grilling some FOOD then I dropped my ITEM. Want some?
 BEAST: Oh yeah I do! My job is tiring work!
 GUY: (Grill FOOD) Want any toppings?
@@ -24585,13 +24591,13 @@ GUY: (return) Sad news. We have run out of napkins.
 Aww
 GUY: (raise hand) But I found some rags you could use.
 GUY: (inspect rags) Just have to clean the LOOT off of it..
-BEAST: (sudden head turn) No! Keep it on! 
+BEAST: (sudden head turn) No! Keep it on!
 BEAST: (look down) I… I like how LOOT makes the FOOD taste..
 Laughter
 GUY: You’re an odd little MAGIC aren’t ya? (Give FOOD in LOOT)
 BEAST: (take FOOD) I’ll save it for the road.
 BEAST: Just like my FAMILY says, WISDOM.
-GUY: What road? Don’t you just teleport? 
+GUY: What road? Don’t you just teleport?
 BEAST: Um… Bye!
 Magic sound
 Teleport BEAST to Backstage
@@ -24816,6 +24822,131 @@ CRUS: Dumb monster. (poke monster with sword)
 CRUS: I didn’t even get to finish…
 MONSTER: HANDLE…
 Aww
+
+======
+
+INFORMATION ===============================
+ID: 751
+TITLE: Mister Cosplay
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: City
+CHARACTERS ================================
+CHAMP: Opponent (2 avatars):Center Stage
+NOOB: Challenger (have sword):Entrance Stage Left
+SUGGESTIONS =============================
+BEAM: A projectile:Bullet, stone, rock, laser, beam
+POW: A comic sound effect like “pow”:Thwip, Bang, Zoom, pow
+SPARK: A snappy word:Snip, pap, clap, gasp
+DESTROY: A single powerful word:Huge, Pathetic, Gargantuan, Microscopic
+ACTION: A thing you can do to another human:Hug, Kiss, touch, smile at
+PART: A part of the lower body you can balance on:Toes, Knee, lap, hip, groin
+JOB: A job title:Dancer, Content Creator, Piece of garbage
+PEOPLE: A type of high schoolers that might hang out together:Nerds, Punks, Emos, Cheerleaders, Jocks
+NAME: A silly name:Large Marge, Flim-flom, Motivator, Minor
+MOVE: A type of dance:Dab, Griddy, worm, boogie
+FAMILY: A beloved family member:Mommy, daddy, step bro, uncle earl 
+GAME: A video game, real or made up:Fortnite, Raid Shadow Legends, Pokémon Go, DanganRonpa, Fall Guys, No More Heroes
+SCRIPT ==========================================
+Scary music
+NOOB: (enter cautiously) it’s finally time, after a gruelling gauntlet of fighters, I’ve come to fight number 8..
+NOOB: And after I’ve killed them, I’ll become ranked 8 on the leaderboard and earn a kiss. (Thumbs up)
+Laughter
+NOOB: (point to opponent) That must be them..
+CHAMP: (slowly turn to face enemy) I also thought you wouldn’t make it on time. Had to take care of some PEOPLE that filed complaints myself.
+CHAMP: (bow) My apologies. So much to do with so little help. I can’t stand these PEOPLE with all their nonsense complaints.
+CHAMP: They think they can say anything, it’s crazy. But anyway I’m here, I made it on time. That’s the important thing right?
+CHAMP: I take it you’re Mr. NAME?
+NOOB: You?! You’re rank 8?!
+NOOB: Why are you talking like it’s a poorly dubbed show? So long-winded.
+CHAMP: I am indeed ranked 8th Mr.NAME.
+CHAMP: (pose) I grew up watching soap operas and Tokusatsu shows. It’s in my blood.
+Laughter
+NOOB: (shrug, nod in agreement) That makes sense.
+CHAMP: Alright, we’ve got a job to do. (Bow) But first I need some time to get ready.
+CHAMP: (point across stage) Would you mind turning the other way? I need some privacy.
+NOOB: Privacy?!
+CHAMP: Yes. I need to prepare. (Bow)
+NOOB: Whatever. (Shrug)
+NOOB: Don’t mind me. Pretend like I’m not even here.
+CHAMP: I just need you to look the other way for a second…
+NOOB: A second?
+CHAMP: Yes. Just a split second. I don’t think that it’s too much to ask, do you?
+NOOB: Then we can get on with our epic clash?
+CHAMP: (nod) That is correct.
+NOOB: Alright. (Turn around)
+CHAMP: (change avatar) I’m ready.
+Tada
+NOOB: Whoa! For a second there I forgot you were a JOB.
+CHAMP: Sorry if I scared you. I didn’t mean to do that. Something is wrong with me today. The air, maybe?
+NOOB: (speak to self) I let my guard down… Getting sloppy. I gotta stay on my PART. (Approach)
+CHAMP: (hand forward) Do you mind if I ask you something?
+NOOB: (stop just in front of the hand) Yeah what is it, mister cosplay?
+Laughter
+CHAMP: We’re both assassins, right? Why do we have to ACTION each other anyway?
+CHAMP: If you ask me, it’s absolutely meaningless.
+NOOB: It’s about determining who’s best. (one finger up) That’s what it’s about.
+CHAMP: (shrug) Can’t argue with that.
+CHAMP: Well then, let’s get started. (Offer handshake)
+NOOB: (look at hand) What? You wanna shake hands?
+Laughter
+CHAMP: We’re both fighters aren’t we? Not killers. At least for now.
+CHAMP: This is a sign of good sportsmanship. That we respect eachother before and after the fight. Good luck.
+NOOB: (hold their hand) Likewise.
+CHAMP: DESTROY SPARK
+Raygun shot
+NOOB: (get shocked, fall to ground) Azzaaazaak!!
+Crashing debris
+Music stops
+CHAMP: (point and laugh) This is great! Is this guy an idiot or what?
+CHAMP: Hahaha, is this a joke. You fell for the oldest trick in the book! Oh man, you are something.
+CHAMP: You are the best, man. You really crack me up. Haha, I think this laughter is going to kill me!
+CHAMP: Seriously, I think I might really die from laughter. It hurts. Someone help! Hehe. Oh god!
+NOOB: (squirm) Ugh… you…. Son of a….
+CHAMP: I thought I was going to die there, for real.
+CHAMP: (get serious) And look at you.. You look like you’re dead. I guess it’s time for a wake-up call.
+CHAMP: (punch ground) DESTROY POW
+honking
+CHAMP: (point at them) DESTROY BEAM
+Raygun shot
+NOOB: Uwaah! (Get zapped, stand)
+NOOB: That was quite a move.. I’ll admit you’ve got potential.
+NOOB: (firm point) if challenge had a taste, you’d be quite delicious.
+Laughter
+NOOB: Assassin battle? Yeah sure, bring it on. I love a challenge! (draw sword)
+Superhero music
+CHAMP: (slowly raise hand to point) You’re as good as dead…
+NOOB: (battle stance) Kiyahh!
+Teleport NOOB to stage right
+CHAMP: (don’t look behind) Where did you go, Mr.NAME?!
+NOOB: Super NAME thrust! (Impale them through the back, keep it there)
+CHAMP: (get impaled) G-gaaah!! (start crying)
+Sad chug jug music
+NOOB: Don’t cry like that, you’re a killer, aren’t you?
+CHAMP: Help…
+NOOB: What?
+CHAMP: Help!
+NOOB: (lean in) I can’t hear you.
+CHAMP: (look back at them) Help me. Please…
+NOOB: What is this I hear from the 8th ranked killer?
+NOOB: Whatever, it’s over anyway.
+CHAMP: Please help me.. FAMILY.
+NOOB: (pull sword out aggressively) There you go!
+CHAMP: (stagger forward) Hehe..
+Vine boom
+CHAMP: (turn and point fingers over Mr.NAME’s shoulders) DESTROY MOVE!
+NOOB: (Effortlessly strike their neck) Idiot.
+Laughter
+CHAMP: (fall down) Impossible!!!!
+Explosion
+Teleport CHAMP to backstage
+NOOB: (finger wag) instead of watching tokusatsu, you should have played GAME.
+NOOB: But still, not too shabby, Mister Cosplay.
+Applause
+TYPEWRITER: Mister Cosplay- Defeated.
+TYPEWRITER: Mr.NAME- ranked 8th!
+Crowd woo
 
 ======
 
