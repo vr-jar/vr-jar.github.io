@@ -960,7 +960,6 @@ Cowvr1 . 802247 c670
 Balto0345
 Ravens-Knight
 VulpineVentures
-PheonixAvis
 _DayoDayo_
 BiAutisticGamer
 SoulForce20
@@ -1685,6 +1684,7 @@ Ryu-Kazuki
 Unknown_person8
 TheCoolKidXD
 Lunalazy
+DyingBug101
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
@@ -2267,6 +2267,7 @@ Blu€Rin
 ᴄᴏᴢʏ ᴛᴏᴀsᴛʏ
 lustmar3
 SpikedYanderez
+PheoAvis~
 #TIER=2
 CODBO3RGM3
 ~Monkee~
