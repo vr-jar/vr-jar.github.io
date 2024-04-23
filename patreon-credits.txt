@@ -2412,7 +2412,6 @@ Redman_1506
 Lowxy the Fox
 BaronVonBishop
 FoxzyVR
-Non-Responsive
 #TIER=3
 SidMarcus
 PinballReviewer
@@ -2556,3 +2555,4 @@ HeyItsAbbie
 ψCryoψ
 Sope-R
 CrypticFurr
+Non-Responsive
