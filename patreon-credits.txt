@@ -835,7 +835,6 @@ TyBee
 Jackal_VR
 ねこunknownねこ
 Atwuq
-AnemicChildren
 RoseRainwater
 SerenityGrace
 Hunter_Blunt
@@ -1066,7 +1065,6 @@ Djetak
 AutumnFiametta
 Tac Esproque
 Santafip
-Euphynos
 ᴵᵃᵐPUPPY_Clank
 StonksDealer
 nentendo126
@@ -2079,7 +2077,6 @@ DevilishDelight
 CaptainCoder
 -NightSky-
 SpookiSpoopi
-E-man_
 Demaider
 R E S O L V E
 FrostStar93
