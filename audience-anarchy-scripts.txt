@@ -21461,7 +21461,7 @@ laughter
 
 INFORMATION ===============================
 ID: 670
-TITLE: Yummy Yummy Yummy
+TITLE: Yummy Yum Yummy
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
@@ -23622,28 +23622,28 @@ DAD: No, my son, I'm sorry. (kneels down to son while ACTing) I'm sorry I couldn
 
 INFORMATION ===============================
 ID: 725
-TITLE: It’s in my mouth
+TITLE: It’s In My Mouth
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Restaurant
 CHARACTERS ================================
-RICH: Greasy friend :Stage Left
-FRIEND: Innocent friend :Stage Right
 WAITER: The waiter:Stage Right
+FRIEND: Innocent friend :Stage Right
+RICH: Greasy friend :Stage Left
 SUGGESTIONS =============================
-SICK: Something you don’t want to drink:White-sauce, glue, clotted blood, spinal fluid
-EW: Something smelly:Discord Mod underwear, E-Girl chair sweat, used tissues, burned witches corpse
-GROSS: Something utterly disgusting :Armpit meat, most socks, crusty feet, rotten teeth
-YUCK: Something you don’t want to eat:Sewage, clumpy batter, blue noodles, meat-cheese
-WATER: A basic drink:Lemonade, Cola, Water, Monster
-BASIC: Something small to eat:Garlic bread, nachos, Wedges, Macaroni
-SIMPLE: Something normal to eat:Bread, pasta, potato, sausage
-UTUBE: A Youtuber:Abroad in Japan, Joey the Anime-man, Giguk, CdawgVA
-CELEB: A famous person:Obama, Queen Elizabeth, Mario from Mario, Cloud Strife
-PART: A part of the human body that creates liquid:Nose, mouth, eyes, armpits
-TIER: Something big and disgusting:Godzilla in a tutu, Bloated whale corpse, Kaiju Karen, Double-cheeked Moon
 ACTION: (Past tense) An unpleasant action you did to someone:Punched, tickled, burped in their face, licked
+TIER: Something big and disgusting:Godzilla in a tutu, Bloated whale corpse, Kaiju Karen, Double-cheeked Moon
+PART: A part of the human body that creates liquid:Nose, mouth, eyes, armpits
+CELEB: A famous person:Obama, Queen Elizabeth, Mario from Mario, Cloud Strife
+UTUBE: A Youtuber:Abroad in Japan, Joey the Anime-man, Giguk, CdawgVA
+SIMPLE: Something normal to eat:Bread, pasta, potato, sausage
+BASIC: Something small to eat:Garlic bread, nachos, Wedges, Macaroni
+WATER: A basic drink:Lemonade, Cola, Water, Monster
+YUCK: Something you don’t want to eat:Sewage, clumpy batter, blue noodles, meat-cheese
+GROSS: Something utterly disgusting :Armpit meat, most socks, crusty feet, rotten teeth
+EW: Something smelly:Discord Mod underwear, E-Girl chair sweat, used tissues, burned witches corpse
+SICK: Something you don’t want to drink:White-sauce, glue, clotted blood, spinal fluid
 SCRIPT ==========================================
 70s music
 RICH: (enter laughing with friend) … And so I ACTION them so hard they started crying!
@@ -24022,24 +24022,24 @@ VERIFIED: True
 TAGS: Skit
 SET: Western
 CHARACTERS ================================
-OUTLAW: A Fearsome Outlaw:Backstage
-HORSE: A Trusty Horse:Stage Right
-COWBOY: A Cowboy:Stage Right
-LAURA: Laura:Backstage
 KEITH: Keith:Backstage
+LAURA: Laura:Backstage
+COWBOY: A Cowboy:Stage Right
+HORSE: A Trusty Horse:Stage Right
+OUTLAW: A Fearsome Outlaw:Backstage
 SUGGESTIONS =============================
-SMELL: An unpleasant odor of the Wild West:horse farts, moldy spittoons, cowboy B.O., cow pies
-RURAL: A place where you'd find rednecks:Kentucky, Bass Pro Shop, a Brad Paisley concert
-CNAME: A funny cowboy name:Buster Scruggs, Quickdraw McGraw, Tacoma Paloma from Roma Oklahoma
-HNAME: A funny horse name:My Little Pony, Yo Mama, Horsey McHorseface
-MODERN: A modern day event:the 2024 Paris Olympics, the Glasgow Wonka Experience, the Crowning of King Charles III
-TOWN: A town name in the Wild West:Mudbucket, Fiddlestick, Sarsaparilla Springs, Long Gone Gulch
-PLACE: A place far from the Wild West:New York, England, Tokyo
-GNAME: A funny name for a saloon girl:Dolly Parton, Hannah Montana, Sally McHorseface
-EXCLAMATION: Something a shocked cowboy would yell:Well tan my hide, Oh my stars and garters, Well toss me in a puddle and call me a bullfrog
-ACTIVITY: An activity a cowboy would do with a saloon girl:drinking whiskey, talking about horses, polishing the ol' six shooter
-ONAME: A funny name for a fearsome outlaw:Texas Red, El Burrito Bandido, Rufus Roughhouse, The Hamburglar
 CRIME: A crime:cattle rustling, jaywalking, tax evasion, stealing candy from a baby
+ONAME: A funny name for a fearsome outlaw:Texas Red, El Burrito Bandido, Rufus Roughhouse, The Hamburglar
+ACTIVITY: An activity a cowboy would do with a saloon girl:drinking whiskey, talking about horses, polishing the ol' six shooter
+EXCLAMATION: Something a shocked cowboy would yell:Well tan my hide, Oh my stars and garters, Well toss me in a puddle and call me a bullfrog
+GNAME: A funny name for a saloon girl:Dolly Parton, Hannah Montana, Sally McHorseface
+PLACE: A place far from the Wild West:New York, England, Tokyo
+TOWN: A town name in the Wild West:Mudbucket, Fiddlestick, Sarsaparilla Springs, Long Gone Gulch
+MODERN: A modern day event:the 2024 Paris Olympics, the Glasgow Wonka Experience, the Crowning of King Charles III
+HNAME: A funny horse name:My Little Pony, Yo Mama, Horsey McHorseface
+CNAME: A funny cowboy name:Buster Scruggs, Quickdraw McGraw, Tacoma Paloma from Roma Oklahoma
+RURAL: A place where you'd find rednecks:Kentucky, Bass Pro Shop, a Brad Paisley concert
+SMELL: An unpleasant odor of the Wild West:horse farts, moldy spittoons, cowboy B.O., cow pies
 SCRIPT ==========================================
 western piano music 1
 scifi contraption
@@ -24085,6 +24085,7 @@ HORSE: No no, I'm quite comfortable here in 1876. CNAME treats me with dignity a
 LAURA: What a weird horse.
 KEITH: So why did you travel to this particular time then, HNAME?
 HORSE: To put a stop to ONAME, the most fearsome outlaw in all the Wild West.
+music stops
 western hero theme
 HORSE: In just a moment, ONAME is going to rob the old general store, ignite a bundle of dynamite, and blow up the ol' saloon. Well, I won't stand for it.
 LAURA: You're very brave, HNAME. Anything we can do to help?
@@ -24092,11 +24093,11 @@ HORSE: Just stand back and watch. I've planned this whole encounter out.
 gunshot
 HORSE: Here he comes! Exactly as I planned, he just shot the general store owner.
 LAURA: Couldn't you have stopped him before he gunned a man down?
+western showdown music
 OUTLAW: (enter stage left) Well howdy doody, folks of TOWN! It's me, ONAME, and I'm here to do some real mean outlaw stuff, like CRIME!
 HORSE: Not so fast, ONAME. (meet OUTLAW at center stage)
 OUTLAW: What in the God damn? A walkin', talkin' horse? (meet HORSE at center stage)
 HORSE: That's right, ONAME. You can call me Sheriff HNAME. I'ma callin' you out, you no-good outlaw. Put down that dynamite and duel me.
-western showdown music
 OUTLAW: EXCLAMATION, I sure wasn't expectin' no sharpshootin' horse. Fine! (drop dynamite) 10 paces and we draw, unless you're chicken.
 HORSE: On the contrary, ONAME. I'm a horse. Now get to walkin'. (turn around and start walking stage right)
 OUTLAW: (turn and walk stage left) 1! 2! 3!
@@ -24129,24 +24130,24 @@ VERIFIED: False
 TAGS: Skit
 SET: Western
 CHARACTERS ================================
-ROOK: Rookie time cop:Backstage
-COP: Time cop:Backstage
-OUT: Outlaw (with a twist):Backstage
-OLD: Time traveler’s ancestor cowboy:Backstage
 TIME: Time traveler :Backstage
+OLD: Time traveler’s ancestor cowboy:Backstage
+OUT: Outlaw (with a twist):Backstage
+COP: Time cop:Backstage
+ROOK: Rookie time cop:Backstage
 SUGGESTIONS =============================
-HIDE: Somewhere to hide something:Under bed, locker, closet
-MILK: Milk producing animal (not cow):Goat, camel, llama 
-NUMB: Random number:8675309, 90210, 3
-DAN: Outlaw name:Dirty Dan, Black eye Pete, Barbados Slim
-COUNTRY: A foreign country :China, Africa, India
-COM: Successful company:McDonald’s, Apple, Ford
-TOWN: Town name:Cave junction, alameda, doonsbury
-FEM: Female name:Susie, Mary, Caitlin 
-COND: Condescending nickname:Kiddo, shorty, dimwit
-THREAT: A threat of voilence:Kick your butt, pull your hair out, cut off your fingers
-ITEM: Item you can buy at a general store:Cigarettes, milk, beer
 BLAND: A gross food/drink:Fried crickets, anchovy salad, pineapple on pizza
+ITEM: Item you can buy at a general store:Cigarettes, milk, beer
+THREAT: A threat of voilence:Kick your butt, pull your hair out, cut off your fingers
+COND: Condescending nickname:Kiddo, shorty, dimwit
+FEM: Female name:Susie, Mary, Caitlin 
+TOWN: Town name:Cave junction, alameda, doonsbury
+COM: Successful company:McDonald’s, Apple, Ford
+COUNTRY: A foreign country :China, Africa, India
+DAN: Outlaw name:Dirty Dan, Black eye Pete, Barbados Slim
+NUMB: Random number:8675309, 90210, 3
+MILK: Milk producing animal (not cow):Goat, camel, llama 
+HIDE: Somewhere to hide something:Under bed, locker, closet
 SCRIPT ==========================================
 Western piano music 1
 OLD: (enter stage right) Ah what a lovely day here in TOWN in the lovely year of our lord 1872.
@@ -24154,7 +24155,7 @@ OLD: Not sure why I’m saying all this exposition but I’m too happy to care, 
 OLD: Nothing could possibly ruin this day
 Music Stops
 Alien teleport
-Teleport TIME to Balcony
+teleport TIME to Balcony
 TIME: Oh wow, I did it! I traveled back to the year 1872 to the town of TOWN.
 TIME: Todays the day my great great great Grandfather gets married to the love of his life and everything changes for the better.
 TIME: They have kids who invest in COM and that paves the way for their children to grow up to be pioneers in science and technology leading to time travel.
@@ -24513,6 +24514,81 @@ aww
 ======
 
 INFORMATION ===============================
+ID: 743
+TITLE: Sunshine Showdown
+AUTHOR: TiffanyMoon
+VERIFIED: True
+TAGS: Skit
+SET: Western
+CHARACTERS ================================
+SHERIFF: A kind-hearted protector:Stage Left
+BULLY: A wicked criminal mastermind:Stage Right
+SALLY: A woman in distress:Balcony
+HENCHMAN: A henchman:Entrance Stage Right
+SUGGESTIONS =============================
+FOOD: a food you can eat:beef, stew, pasta
+PRETTY: describing word:pertty, ugly, handsome
+HEART: A body part:heart, knee, head
+NUMBER: A number:3, 400, 10
+RELATIVE: A family member:sister, husband, father
+WAYWARD: A direction:South, North, West
+CRIME: A crime you can commit:moonshine, robbery, arson
+WESTERN: An object/thing related to western:horse, Saloon, bandit
+ADJECTIVE: a describing word:foolish, dirty, unoriginal
+SCRIPT ==========================================
+western showdown music
+SHERIFF: (ready to draw a pistol) Alright, Bully Boy Bardow. I've had enough of you running around taking over my town. This ends now.
+BULLY: (maniacal laughter) You just think I'm gonna give up my dream of being a high hat CRIME boss?
+BULLY: No, Sheriff Jones. I'm taking the PRETTY lady with me to get me some loving.
+SALLY: (distressed) Oh Jones! Jones! You mustn't listen to him! He's nothing but trouble! He killed my RELATIVE!
+HENCHMAN: (enter and stand next to Bully) Alright, boss. Train's all loaded up with the cash, and ready to roll on out of here! We should get going before it gets dark.
+BULLY: Good work, Mack. What about our food and supplies? Have you had them all loaded too?
+HENCHMAN: Wait, you mean to tell me that we need those on too? That'll take us an hour!
+BULLY: Yes! You mean to tell me you forgot the FOOD of all things?
+HENCHMAN: (worried) I didn't mean to, boss! (sees the Sheriff) Who's that?
+BULLY: A man trying to interfere with our plans. Now let us leave, Sheriff.
+SHERIFF: You boys aren't going anywhere.
+BULLY: Oh? And you think a proper high class city boy like you is gonna stop us? Ha! You might be the most ADJECTIVE sheriff here in Black WESTERN Bay!
+HENCHMAN: (looking at the Sheriff) Uh, boss? I don't think we should stay here any longer. This man is a dangerous one!
+BULLY: What do ye mean, Mack?
+HENCHMAN: That ain't no ordinary sheriff, boss! That's Sunshine Jones! Th' sharpest shooter i' th' WAYWARD!
+BULLY: Is that so? Well now... gives me all the more reason to kill the man. (speaking to Sheriff) Sunshine Jones, eh?
+SHERIFF: (proudly) That's me, son. Now Bardow. Come clean or I'll have to whip you down.
+SALLY: Oh Jones! You mustn't say such words! If you get shot, I'd... I'll...
+HENCHMAN: Keep quiet up there, ya little desert rose! The boss will see to you when he's done.
+BULLY: Mack. I have this under control. There is no need to interfere when I can speak for myself.
+HENCHMAN: (gulp) S-sorry boss. I-I won't interfere.
+BULLY: (turning to the sheriff, ready to draw a pistol) Now then, Sunshine. Put up your dukes, and face me one on one.
+SHERIFF: Alright, then. Have Mack here be our count off.
+HENCHMAN: (shocked) Wait, you want me to see this through?
+BULLY: (annoyed) MACK! Do your job!
+HENCHMAN: Yikes! S-sorry! Alright... (come center to the cactus, and raise an arm)
+SALLY: (praying) Lord... give Jones the strength he needs...
+HENCHMAN: This showdown is between Bully Boy Bardow and Sheriff Sunshine Jones! Only one walks away!
+music stops
+thunder
+SALLY: (crying) Oh Jones... Jones!
+HENCHMAN: (look up at the woman) Save your breath. This will all be over soon.
+SALLY: Jones... please, don't do this!
+Sheriff: Don't you worry. I've got this under control.
+BULLY: (angry and shouting) SAY YOUR LAST WORDS, BOY!!!
+SHERIFF: (staring down Bully, calmly) You'll pay the price in the afterlife...
+Henchman: On my mark!
+Henchman: NUMBER! 2! 1! FIRE!!
+BULLY: EAT LEAD!!! (draw a gun)
+SHERIFF: HA! (draw a gun)
+gunshot
+BULLY: N-Nice... shot... (drop dead)
+western hero theme
+HENCHMAN: (scared) Oh, crap!
+SHERIFF: Now then, Mack... you better run along. Give the stolen goods back, and turn yourself and your friends in. Or I'll hurt you myself.
+HENCHMAN: Y-yes sir! You haven't seen me sir! (scrambling offstage)
+SALLY: (relieved) Oh, Jones! Bless my HEART! You saved us all!
+SHERIFF: (put the gun away) Sally, I'm sorry about your loss. May your RELATIVE rest in peace. Now come on. Let's head home.
+
+======
+
+INFORMATION ===============================
 ID: 747
 TITLE: Backyard Beast
 AUTHOR: Kymerah
@@ -24616,22 +24692,22 @@ VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Murder
 CHARACTERS ================================
-DUDE: Dude Bro:Backstage
-MAID: The Maid:Stage Right
 MASTER: The Master:Center Stage
+MAID: The Maid:Stage Right
+DUDE: Dude Bro:Backstage
 SUGGESTIONS =============================
-PET: Living beings (plural) that no one should legally own:Tigers, Man-eating Snails, Dolphins, Aliens
-GREETING: Something you’d say to introduce yourself to a lady:What’s cookin’ good lookin’? Whoah you’re pretty!, MILF alert!
-ACTION: An activity for two people:Fish, Dance, Vomit
-GOO: A sticky substance :Glue, baby-batter, snot, spinal fluid, bug guts
-SUBJECT: A school subject:Math, Science, English, Media studies, product design, art
-NAME: A bro-like name:Coolio, Samuel, Cade, Noah, Jack, Raff
-MASTER: Name of a fancy rich person:Wellington, Vilhelm, Sussy Jack, Arthur
-CLOTHES: An item of clothing:Coat, hat, shoes, bag, underwear
-INVEST: A highly successful business :Amazon, Disney, Google, The Royal Family, Cheese
-BUSS: A fictional business:Milkies, Lava incorporated, e-boys, tummy pats
-CHANGE: A small amount of money:One pound, one dollar, 100 yen, 1 euro
 ILLNESS: An illness:The Lurgy, COVID, The common cold, upset stomach
+CHANGE: A small amount of money:One pound, one dollar, 100 yen, 1 euro
+BUSS: A fictional business:Milkies, Lava incorporated, e-boys, tummy pats
+INVEST: A highly successful business :Amazon, Disney, Google, The Royal Family, Cheese
+CLOTHES: An item of clothing:Coat, hat, shoes, bag, underwear
+MASTER: Name of a fancy rich person:Wellington, Vilhelm, Sussy Jack, Arthur
+NAME: A bro-like name:Coolio, Samuel, Cade, Noah, Jack, Raff
+SUBJECT: A school subject:Math, Science, English, Media studies, product design, art
+GOO: A sticky substance :Glue, baby-batter, snot, spinal fluid, bug guts
+ACTION: An activity for two people:Fish, Dance, Vomit
+GREETING: Something you’d say to introduce yourself to a lady:What’s cookin’ good lookin’? Whoah you’re pretty!, MILF alert!
+PET: Living beings (plural) that no one should legally own:Tigers, Man-eating Snails, Dolphins, Aliens
 SCRIPT ==========================================
 Dark classical music
 MASTER: Maid! (Double clap) Clean the sofa. As you know, we are expecting company today.
@@ -24663,7 +24739,7 @@ MASTER: (two hand wave, shake head) Oh, no no. Far too mainstream for yours trul
 MASTER: I put all my stock in BUSS.
 MASTER: And aquired all my wealth thusly!
 DUDE: (head in hands) Damn… Wish I knew you had money sooner..
-DUDE: My FAMILY passed last Thursday
+DUDE: A family member of mine passed last away last week.
 Sad chug jug music
 DUDE: And I needed CHANGE for the surgery..
 MAID: Only CHANGE? Peasant.
@@ -24734,7 +24810,7 @@ PANTS: A type of underwear :Socks, bra, tights, briefs, boxers, panties, lingeri
 PART: A part of the body you don’t want to break:Groin, spine, little finger, nose, heart
 SOUND: A sound a monster would make:uwu, rawr, Oink, Baaaah, weywey
 SPELL: The spell of …:Glue, medium power, tongues, crust, pineapples
-WORD: A single word:Friends, love, Bacon
+WORD: A single word:Friends, love, Bacon, wow
 SCRIPT ==========================================
 epic fantasy music 2
 PRIEST: (run in, arms up) Don’t eat me, I taste like TASTE!
@@ -24766,8 +24842,8 @@ Magic sound
 MAGE: C-Crusader is still fighting the monster! They’ll die before long!
 ROGUE: Can you cast a spell to get them to safety?
 MAGE: (finger up) Ah, my spell of warping should do nicely.
-MAGE: (cast spell directed at the rock chair) Yah!
-Teleport CRUS to rock chair
+MAGE: (cast spell towards the middle of the stage) Yah!
+Teleport CRUS to center stage
 Tada
 CRUS: (swing sword violently around) That’s not going to hurt me, you BAD monster!
 ROGUE: H-hey! Crusader! Stop swinging!
@@ -24947,6 +25023,262 @@ Applause
 TYPEWRITER: Mister Cosplay- Defeated.
 TYPEWRITER: Mr.NAME- ranked 8th!
 Crowd woo
+
+======
+
+INFORMATION ===============================
+ID: 752
+TITLE: Dubious Cereal
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Infomercial,Contains Adult Innuendo
+SET: Infomercial Kitchen
+CHARACTERS ================================
+VILL: Villain:Center Stage
+DIR: Director:Narrator Podium
+SUGGESTIONS =============================
+VILLAIN: A name of an evil person fictional or real:Kid Puncher, Wife Stealer, Father Kisser, Tax Avoider
+HERO: A name of a hero, fictional or real:Captain Love, Charity Helper, Mr. Good Guy
+CRIME: A crime:Robbery, Murder, Crime, Piracy
+THINGS: Any small thing:Pennys, trading cards, jigsaw pieces, dice, crystals
+WEAK: A word you would call a weak person:Pathetic, lamentable, cowardly, sour
+BODY: A small part of the body:Nose, tooth, gyatt, nipple, ball
+EW: It tastes like “____!”:lemonade, garbage, black tar heroin
+PART: A large part of the human body:Head, arm, leg, torso
+ANIMAL: An animal :Dog, kitty-cat, Dolphin, Lizard
+SHOOT: A villainous catchphrase:Knowing is half the battle, green is not a creative colour, I am your father!
+DEATH: Last words before dying:I hope my insurance covers this! Ow my lower back!, I’m perishing! I’m melting!
+STORE: A food store or restaurant:Tesco, ASDA, Sainsbury’s, LIDL, Aldi
+SCRIPT ==========================================
+Oldschool hiphop music
+DIR: Okay VILLAIN, just relax, you’re gunna do great!
+VILL: (stand behind table and face audience) Of course I am.
+DIR: Alright. We had HERO in yesterday, they did very good.
+VILL: (shake fist) Grrrr. Don’t mention HERO…
+DIR: So the product is called CRIME -Os.
+VILL: (look down at cereal bowl) They aren’t even Os.
+VILL: (pick up a single piece of cereal) They’re miniature THINGS! (shake head)
+DIR: Hehehe, yeah.
+DIR: So when I say action, you’re going to say your lines.
+VILL: (hit table then point at the director) Don’t tell me what to do you WEAK idiot!
+VILL: (point to self) VILLAIN takes orders from no one!
+DIR: Okay. Okay, sure.
+DIR: Um.. uh. Whenever you’re ready VILLAIN.
+VILL: Watch me put HERO ‘s performance to shame, Director. (Clear throat)
+VILL: (wave) Hello miserable people of PLACE, I am VILLAIN.
+VILL: And just as much as I crave ultimate power, I crave CRIME -Os cereal!
+VILL: And unlike that pathetic excuse for a Hero HERO, I have a BODY!
+VILL: And I can eat this wretched food just like this, watch! (Eat a spoonful)
+VILL: (spit it out) Pweeh!!
+Vine boom
+DIR: What’s wrong VILLAIN?
+VILL: Tastes like EW! This isn’t even real THINGS!
+DIR: Welcome to Hollywood.
+DIR: But I think that was uh… good, VILLAIN!
+DIR: Could we uh, try that again, for safety!
+VILL: (growl) Grrrrr… Fine.
+DIR: Okay great. Could we reset that box if we could and VILLAIN?
+VILL: What is it?
+DIR: (point to VILLAIN) Could we get rid of your thingy?
+VILL: (point to your PART) My PART?!
+Waterphone
+DIR: Yeah, it’s really getting in the way.
+VILL: (hit desk then point at Director) You’re getting in the way, you obnoxious biological ANIMAL!
+VILL: (stand in front of desk and shoot Director) SHOOT!
+Gunshot
+DIR: DEATH (fall down and die)
+Explosion
+Teleport DIR to backstage
+VILL: (return behind desk) Greetings Earth germs!
+VILL: (point to self) I am VILLAIN! And I command you all to buy my VILLAIN -Os!
+VILL: (hands on hips) Yeeeeesss!! Hahahaha!! (thumb up)
+TYPEWRITER: VILLAIN -Os, now being sold at a STORE near you!
+Infomercial disclaimer
+Crowd woo
+
+======
+
+INFORMATION ===============================
+ID: 753
+TITLE: Fairy Wish Prince
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Living Room
+CHARACTERS ================================
+WISH: Fairy Wish Prince:Backstage
+GUY: Bored guy:Couch
+SUGGESTIONS =============================
+ROYAL: A royal title like “King”:King, queen, princess, duke, knight
+EMO: An emotion :Happy, sad, angry, horny
+CREATURE: A mythical creature:Elf, troll, goblin, demon
+PROD: An expensive product:PC, PSA 10 Base set Charizard, Goth Mommy, Full body tracking
+SUB: A liquid you don’t want to touch:Acid, liquid nitrogen, lava, oil, white sauce, crusty jam
+BODY: A part of the body to pinch:arm, leg, tummy, knee, elbow
+TV: A TV show:X-Men’97, Konosuba, The Walking Dead, Breaking Bad, G.I Joe
+YOUNG: Something you would call a young person:Boy, girl, chap, lad, lass, child, kid, youngster
+PART: A specific part of the body:Boobs, ass, lips, cheeks
+FAN: A popular franchise:SpongeBob, FNAF, Fortnite, Marvel, Hazbin Hotel
+ORGAN: An internal organ:Heart, lung, pancreas, brain, balls
+SILLY: Another word for stupid:Wazzock, bafoon, silly billy, fool, idiot
+SCRIPT ==========================================
+GUY: (turn off tv) That was a very slow episode of TV…
+GUY: (sigh) Boy, life sure is boring right now.
+GUY: If only I had a Fairy Wish Prince to grant me a— Oh my god!
+bard music
+Alien teleport
+Teleport WISH to center stage
+WISH: TUNE!
+WISH: Hello little YOUNG!
+GUY: Who are you?
+WISH: I am your Fairy Wish Prince, at your service. (bow)
+GUY: (look them over) Whoa..!
+GUY: Hey, if you’re a prince how come you have PART?
+Laughter
+WISH: (grab PART) My plump, juicy PART are none of your god damned business.
+WISH: (point) And you’re one to talk, you chubby little FAN fan!
+Laughter
+GUY: (look down) Aw..
+WISH: (arm around shoulder) Oh, cheer up! I’m here to make your wildest dreams come true!
+WISH: Simply pinch my BODY three times and I’ll grant you one wish!
+Vine boom
+GUY: Your BODY?!
+WISH: Anything your ORGAN desires will be yours for the taking.
+GUY: Really?
+WISH: For really! (Offer BODY)
+GUY: O-oh? Okay!
+WISH: Just pinch it.
+GUY: (extend hand) Lemme just..
+WISH: Come on now… Don’t be shy!
+GUY: (pinch) Oh!
+WISH: Yes, just like that!
+GUY: Hehe! (Pinch)
+WISH: One more.
+WISH: Careful not to get SUB on your finger cuz I’m going to move around really fast like this. (Wobble BODY)
+Laughter
+GUY: H-hey, stop that! (final pinch)
+WISH: (perk up) Now what’s your one wish? The skys the limit.
+GUY: Um.. I want PROD!
+Music stops
+WISH: You SILLY! You’re crazy, I can’t afford PROD.
+GUY: Oh.. You’re stupid.
+WISH: Yeah..
+GUY: (clear throat) Hmm.
+WISH: What?
+GUY: Nothing..
+WISH: I’m going to go home now.
+GUY: Buh-bye. (Wave)
+WISH: (leave) Bye now.
+GUY: (sit on couch) Man, I really wanted that PROD..
+Aww
+GUY: If only I had a EMO CREATURE ROYAL….
+Laughter
+
+======
+
+INFORMATION ===============================
+ID: 754
+TITLE: Medieval Melee
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit
+SET: Forest Bridge
+CHARACTERS ================================
+LOVER: The Lover:On bridge
+HERO: The Hero:Entrance Stage Left
+MENTOR: The Mentor:Backstage
+SUGGESTIONS =============================
+MENTOR: An old person name:Goobert, Reggie, Doug, Harry
+INNOCENT: Harmless living creatures:Babies, puppies, kittens, grandmas
+HERO: An epic sounding name:Maximillion, Gilgamesh, Avdol, Jeff
+FAMILY: A member of a family:Step-bro, sister, mother, father
+JOB: A low paying job title:Toilet cleaner, voice actor, coffin tester, seat sitter
+ORGAN: An internal organ:Heart, pancreas, lungs, womb
+ITEM: A desirable item:Xbox, PlayStation, Nintendo switch, rizz 
+FAN: A franchise you enjoy:Transformers, Star Wars, X-men, Vrchat
+WORD: Something you can to to another person (one word):Love, kiss, lick, touch
+CONCEPT: Absolutely anything:Walmart,L, AC/DC, Pewdiepie, Thanos
+FEEL: An emotion or state of being:silly, rage filled, hungry, sweaty, dumpy
+POWER: Someone of extreme power:Trump, Putin, Queen Elizabeth, Steve Harvey
+SCRIPT ==========================================
+Peaceful fantasy music
+HERO: I saw your horse. (hug) What are you doing out here?
+Aww
+LOVER: I was so worried about you. (hug) MENTOR told me absolutely terrible things.
+HERO: What things?
+LOVER: He said you turned evil. That you... killed INNOCENT.
+HERO: (shake head) MENTOR is trying to turn you against me.
+LOVER: He cares about us.
+HERO: Us? (Head tilt)
+LOVER: He knows.. He wants to help you. HERO, all I want is your love.
+HERO: Love won’t save you my dear, only my new abilities can do that.
+LOVER: At what cost? You're a good guy, don't do this.
+HERO: I won't lose you the way I lost my FAMILY.
+HERO: I am becoming more pure than any JOB has ever dreamed of, and I'm doing it all for you.
+HERO: To defend you.
+LOVER: Come away with me, help me raise our child, leave everything else behind while we still can.
+HERO: Don't you see, we don't have to run away anymore. I have brought peace to the realm.
+HERO: I am more powerful than POWER, I can overthrow them with ease.
+HERO: And together, you and I can rule this land. Make things the way we want them to be!
+LOVER: (back off) I don't believe what I'm hearing. MENTOR was right. You've changed.
+HERO: I don't want to hear any more about MENTOR.
+HERO: The FAN fans turned against me, don't you turn against me.
+LOVER: I don't know you anymore.. HERO, you're breaking my ORGAN... (cry)
+LOVER: You're going down a path I cant follow.
+HERO: Because of MENTOR?
+Music stops
+Vine boom
+LOVER: Because of what you've done, what you plan to do.
+LOVER: Stop. Stop now and come back.. I love you!
+teleport MENTOR to stage right
+HERO: (notice the other and point) Liar!
+LOVER: (look over) No!
+HERO: (point to MENTOR) You're with him! You brought him here to WORD me! (strangle)
+Sad chug jug music
+LOVER: (choking) No... No!
+MENTOR: Let her go HERO.
+LOVER: HERO.....!
+MENTOR: Let. Her. Go.
+LOVER: Uu.. (faint, lay down)
+Music stops
+HERO: You made her betray me?!
+MENTOR: You have done that by your own accord!
+HERO: You will not take her love from me!!!
+MENTOR: Your frustration and your need for ITEM has already done that.
+MENTOR: You have allowed this POWER to twist your noodle until now..
+MENTOR: Until now you have become the very thing you swore to destroy..
+HERO: Don't yap to me MENTOR. I see through the lies of the JOB higher-ups. I do not fear the FAN fans as you do.
+HERO: I have brought meat, salad, drink and women to my new land!
+MENTOR: Your new land!?
+HERO: Don't make me WORD you...
+MENTOR: HERO, my allegiance is to CONCEPT, to democracy!
+HERO: If you're not with me... Then you're my foe!
+Epic cinematic music
+MENTOR: I will do what I can to end you. (draw sword)
+Draw sword
+HERO: You can try... (draw sword and attack)
+Draw sword
+Sword fighting
+MENTOR: (defend yourself) Ooof!
+HERO: (back up and pose) Heeh.
+MENTOR: I have failed you HERO, I have failed you..
+HERO: I should of known that the JOB higher-ups were plotting to take over...
+MENTOR: HERO, we know the FAN fans are evil!
+HERO: And from my point of view, the people who are JOB are evil!
+MENTOR: Well then you are lost!!
+HERO: (badass sword pose) This is the end for you MENTOR..
+MENTOR: (stand at top of bridge) Its over HERO, I have the priority.
+HERO: (look up at them) You underestimate my skill.
+MENTOR: Don't attempt it..
+HERO: (run straight at them) Yaaah..
+MENTOR: (Cut them down) Hyaah.
+HERO: (fall in front river, defeated) Uooohh!
+MENTOR: (look down at them) You were the FEEL one!
+MENTOR: It was said you would WORD POWER, not help them!
+MENTOR: Bring peace to the land, not leave it without any INNOCENT!
+HERO: (look up at them) I dislike you!!!
+MENTOR: You were my FAMILY HERO.
+MENTOR: I really liked you...! (Walk away sad)
 
 ======
 
