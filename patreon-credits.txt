@@ -1298,7 +1298,6 @@ xXAqua~StarzXx
 MewPL
 Tepidsink
 BeetleKieran
-BunnyBothered
 ༒A͙s͙b͙e͙e͙l͙༒
 ღ Kari
 Mojave Drifter
@@ -1693,6 +1692,7 @@ VoidFlames
 vixievulpixie
 StraightUpDeath
 crimsonred09
+BunnyBothered
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
