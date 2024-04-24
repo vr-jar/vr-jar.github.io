@@ -2348,7 +2348,6 @@ Slothoo0890
 Ubba Bear
 Spleensᵛʳ
 3psilon
-Karliea
 Bootleg Sid
 Tristan Asher
 L0NDZ3R_FUR04
@@ -2411,6 +2410,7 @@ BaronVonBishop
 FoxzyVR
 Samantha2654
 over-kill
+Karliea
 #TIER=3
 SidMarcus
 PinballReviewer
