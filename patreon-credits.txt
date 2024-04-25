@@ -426,7 +426,6 @@ TheCraftedGamer
 Szycos
 -Piko-
 DDTGhost
-Ｙａｙａ
 TiaBeau
 comedic tragedy
 SleepyAcid
@@ -1685,6 +1684,7 @@ StraightUpDeath
 crimsonred09
 BunnyBothered
 ThebaconGM
+Ｙaｙa
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
