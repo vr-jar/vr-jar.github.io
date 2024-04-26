@@ -7594,104 +7594,6 @@ APPLICANT: (Shake their hand)
 ======
 
 INFORMATION ===============================
-ID: 142
-TITLE: Story Time
-AUTHOR: PipSqueakie
-VERIFIED: True
-TAGS: Skit
-SET: Living Room
-CHARACTERS ================================
-MOTHER: Interrupts for dinner (Mother):Kitchen
-DAUGHTER: Plays the good guy (Daughter):Couch
-SON: Plays the bad guy (Son):Center Stage
-FATHER: Forgetful Storyteller (Dad):Couch
-SUGGESTIONS =============================
-[WARS]: A thing countries do (plural):Complains, Bickers, Trades, Oversteps, Battles, Nukes
-[STAR]: A place (noun, singular):Planet, Space, Person, Alien, Galactic, Country
-[DAVE]: Name of a Neighbour:Dave, Steve, Stacy, Stan, Freddie, Mark
-[OLD]: Descriptor of a person (singular):Old, Creepy, Suspicious, Farmer, Nosy, Helpful
-[HOMEWORK]: A thing kids do:Nose picking, Whining, Roughhousing, Dog Petting, Quiet Time, Studies
-[GAS]: A type of fuel (singular):Caesium One-Thirty-Seven, Fertilizer, Coal, Wood, Fire, Solar
-[WEAPON]: The name of a weapon (singular):Rusty sword, Imagination, Anime Body Pillow, Alchemised Sord, Chainsword, Belt of Knives
-[LIGHT]: Something uplifting (singular):Hope, Dog, Unicorn, Love, Happiness, Adrenaline
-[DARK]: Something scary (singular):Dork, Tiger, Death, Snake, Spider, Insurmountable Void
-SCRIPT ==========================================
-Jazz music 1
-FATHER: (act surprised)
-Meanwhile SON: (act surprised) Uhh?
-SON: W-what happened?
-FATHER: (sighs) Looks like the power's gone out.
-DAUGHTER: (whiny) B-but our shooow.
-Music Stops
-MOTHER: Luckily we're cookin' on [GAS].
-FATHER: (with his hand blocking his mouth to talk to the kids) Real [GAS], not your mothers attempt at climate change.
-SON: (muffled laughter, quietly between themselves) Eh-heh. [GAS].  
-Meanwhile DAUGHTER: (muffled laughter, quietly between themselves) Eh-heh. [GAS]. 
-SON: (quietly) Spicy flavor.
-MOTHER: What was that?
-FATHER: Love you honey.
-MOTHER: Awh~ (Kiss father)
-Meanwhile FATHER: (reciprocate kiss with MOTHER)
-SON: (disgusted) Ugh!
-Meanwhile DAUGHTER: (disgusted) Ugh!
-MOTHER: Well, you kids can do your [HOMEWORK] while you wait.
-SON: (Quietly) Ugh... 
-Meanwhile DAUGHTER: (Quietly) Ugh...
-FATHER: (Lifts newspaper to read)
-MOTHER: (approaches Father) I better check on our neighbour [OLD] [DAVE], can you watch the stove, hun?
-FATHER: (Puts down newspaper) Mh? Oh, sure hun.
-MOTHER: (Exit via door)
-SON: Pst, hey. Dad. Tell us a story.
-DAUGHTER: Yeah!
-FATHER: (Idling at the kitchen) Hm. Okay. How about.. The [OLD] story of [LIGHT] versus [DARK]
-SON: Yeah!
-Meanwhile DAUGHTER: Yeah!
-FATHER: Alright then. (Clears throat)
-Fantasy Music 2
-FATHER: This is the story of... [STAR] [WARS]!
-Meanwhile TYPEWRITER: [STAR] [WARS]
-FATHER: (move to couch) SON: (move to couch) DAUGHTER: (move to couch)
-Music Stops
-FATHER: It all began some distance away, in a [OLD] Galaxy, last week, infact.
-FATHER: Where a young hero (gestures to SON), was forced to do [HOMEWORK] and became a bad guy.
-SON: (moves center stage) Just call me.. [DARK] [DAVE] !
-DAUGHTER: (overdramatic gasp)
-FATHER: [DARK] [DAVE] did all kinds of bad stuff, [DARK] stuff.
-FATHER: Like cutting off peoples' power, making people do their [HOMEWORK] and worst of all..
-FATHER: Stealing the [STAR]'s [GAS] !
-SON: Mwhahahah. (laughs)
-FATHER: But, the [LIGHT] had an answer. A young heroine ! (gestures to daughter)
-DAUGHTER: (Stand and do a pose)
-FATHER: She was uncorruptable by [HOMEWORK], [DAVE] or anything else.
-FATHER: And her tutor; [OLD] Dad Shinobi, gifted her a [WEAPON] to protect herself.
-DAUGHTER: I will defeat [DARK] [DAVE] with it and get our [GAS] back!
-SON: (whiny) Awh.. I want a [WEAPON]..
-FATHER: Oh, you'd already have a [WEAPON], you're a bad guy afterall. How else did you conquer the [STAR]s?
-SON: Cool~
-FATHER: After the tutor taught her everything she knows about [WEAPON], she was off on her quest.
-SON: (pretend to stab father) Hah! [DARK] stuff!
-Meanwhile FATHER: (death noises and plays along)
-DAUGHTER: (overdramatic) Noooooo! [OLD] Dad Shinobi!
-SON: (laughs)
-Meanwhile DAUGHTER: (laughs)
-SON: This is my [STAR] [WARS] story now. Come, Heroine. Join the [DARK] side. Or face my [WEAPON].
-DAUGHTER: No! I'll never forgive you for what you've done. Unless. You give back all our [GAS], Stop making people do [HOMEWORK] and join the [LIGHT] side.
-SON: (draw weapon, plays Super epic charge up) Bshhhhewww.
-DAUGHTER: (draw weapon, plays Super epic charge up) Bshhhhewww!
-SON: (fighting)
-Meanwhile DAUGHTER: (fighting)
-SON: (out of breath) Your [LIGHT] side powers are admirable. But it's no match for my [WEAPON] skills !
-DAUGHTER: (out of breath) Your [DARK] side powers... smell like burning [GAS] ?
-FATHER: Oh no! (scrambles off couch to go to the kitchen)
-Fire alarm
-MOTHER: (off stage) Honey, i'm home~!
-MOTHER: (enters from door) What's going on?! (fists on hips)
-SON: (hurriedly to mother) You missed it all! [OLD] Dad Shinobi got [WEAPON]'d by [DARK] [DAVE] while we were playing [STAR] [WARS]
-Meanwhile DAUGHTER: (hurriedly to mother) [HOMEWORK] is [DARK], but [LIGHT] came with [GAS] and used its [WEAPON] to save [STAR] [WARS]
-
-======
-
-INFORMATION ===============================
 ID: 145
 TITLE: Psychic Medium
 AUTHOR: TrickySpookster
@@ -8198,107 +8100,6 @@ Meanwhile: UNKNOWING DETECTIVE: (laugh like the end of a 90s sitcom)
 ======
 
 INFORMATION ===============================
-ID: 162
-TITLE: DnD
-AUTHOR: Cloaked Schemer
-VERIFIED: True
-TAGS: Skit
-SET: Dining Room
-CHARACTERS ================================
-ELF: DnD Companion:Chair 3
-FRAN: Guy in the Kitchen who's not there and yelling:Stage Right
-GOL: Sorcerer of Light:Chair 2
-GREG: DnD Game Master:Chair 1
-SUGGESTIONS =============================
-RACE: A Dungeon and Dragons Character Race?:Elf, Orc, Dwarf
-WEAPON: Name a weapon:Knife, Gun, Sword
-GIRL: People you'd like to meet at the bar:Girls, Guys, Non-binary
-CAST: Anything:Mordecai, Tide Pods, Femoboys
-CLOTH: What is the character wearing?:Tunic, Underwear, Trenchcoat
-COLOR: Name any Color:Grey, Blue, Red
-ENEMY: What enemy are they surrounded by?:Ogre, Goblins, Trolls
-SPELL: What magical spell is being casted?:Magic Missle, Fireball, Thunderbolt
-DRINK: A drink you really want:Mountain Dew, Fanta, Dr Pepper
-SNACK: A Snack you really want:Cheetos, Doritos, Funyuns
-STINK: What's something that's really stinky?:Mildew, Poo Poo, Farts
-NAME: What is the DnD Characters name?:GolStaff, Gurgglenoise, Cinnabon mini rolls
-SCRIPT ==========================================
-Bard music 2
-GREG: NAME you have entered the door to the north.
-GREG: You are now by yourself, standing in a dark room
-GREG: The pungent stench of STINK emanates from the wet dungeon walls...
-Music stops
-Silly music 1
-FRAN: (You're always yelling from the kitchen) Where are the SNACKs
-GOL: (Excited) I cast a spell!
-GREG: (Yelling back to answer) They're right next to you!
-FRAN: (Still yelling and asking) Where's the DRINK?
-GREG: (Still yelling back) In the fridge, duh!
-GOL: I want to cast a spell!
-FRAN: Can I have a DRINK?
-GREG: Yes you can have a DRINK just go get it!
-GOL: I-I can cast any of these right? (Look down at list) On the list?
-GREG: Yes! Any, Any of the first level ones.
-FRAN: I'm going to get a DRINK anyone want one?
-FRAN: Hey Greg! I'm not in the room right?
-GREG: What room!?
-GOL: I-I want to cast magic SPELL
-FRAN: A room where he's casting all these spells from!
-GREG: He hasn't cast anything yet!
-GOL: I am though if you'd listen!
-GOL: I want to cast magic SPELL
-GREG: Why are you casting magic SPELL? There's nothing to attack here?
-GOL: Uhhh...
-GOL: I'm attacking the darkness!
-music stops
-GREG: (Laughing)
-meanwhile FRAN: (Laughing and pointing at NAME)
-Bard music 2
-GREG: (Laughing) Fine, Fine, you attack the Darkness.
-GREG: There's a RACE next to you
-GOL: (Surprised) Woah!!
-ELF: That's me right?
-GREG: He's wearing a-a brown CLOTH and he has grey hair, and blue eyes
-ELF: N-No I don't I have COLOR eyes!
-GREG: Let me see that sheet...
-ELF: Well it says I have... Well it says I have blue but I decided I wanted COLOR eyes!
-GREG: Whatever! Okay you guys can talk to each other now if you want
-GOL: Hello!
-ELF: Hello
-GOL: I am NAME! Sorcerer of Light!
-ELF: Then how come you had to cast magic SPELL?
-FRAN: (Laughing from kitchen)
-meanwhile GREG: (Laughing)
-GREG: Y-You guys are being attacked!
-FRAN: Do I see that happening!?
-GREG: No! You're outside by the Tavern!
-FRAN: Cool! I get drunk!
-GREG: (Sigh) There, There are seven ENEMY surrounding you.
-GOL: (You are upset and confused) How can they surround us!? 
-GOL: I had CAST faithful watchdog cast?
-GREG: No you didn't!?
-FRAN: I'm getting drunk! Are there any GIRLs there?
-GOL: (Still upset) I totally did!
-GOL: You asked me if I wanted any equipment before this adventure but I said No!
-GOL: But I need material components for all my spells!
-GOL: So I casted CAST faithful watchdog!
-GREG: But you never actually casts it?
-FRAN: Roll the dice to see if I'm getting drunk!
-Gameshow ring
-GREG: (Sigh and roll the dice) Yeah, you are!
-FRAN: Are there any GIRLs there?
-GREG: Yeah!
-GOL: (Still upset) I did though! I completely said when you asked me!
-GREG: No you didn't!
-GREG: You didn't actually say you were casting the spell so now there's ENEMY okay!
-FRAN: ENEMY? I have a ENEMY slaying WEAPON its got a plus nine against ENEMY
-meanwhile ELF: (Shake your head)
-GREG: You're not there! You're getting drunk!!
-FRAN: Okay! But if there's any GIRLs I want to do them!
-
-======
-
-INFORMATION ===============================
 ID: 164
 TITLE: Absorbent Infomercial
 AUTHOR: JanieUwU
@@ -8422,67 +8223,6 @@ Lacrimosa Music
 SARAH: Mike... no....
 LILY: We have to keep moving...We can make it out (leaves through the opposite door)
 SARAH: But at what cost?... MIKE I will always EMOTION1 You ...(Leaves through the same door as LILY)
-
-======
-
-INFORMATION ===============================
-ID: 169
-TITLE: Bird Court: Trial by Laughter
-AUTHOR: MrCreepyPasta
-VERIFIED: True
-TAGS: Skit
-SET: Courtroom
-CHARACTERS ================================
-JESTER JAY: Jester Jay:Backstage
-MANNY MAGPIE: Manny Magpie:Backstage
-POLLY PARROT: Polly Parrot:Witness Stand
-JUDGE FALCON: Judge Falcon:Judge Chair
-JUSTICE QUILL: Justice Quill:Plaintiff Table
-PHOENIX FEATHER: Phoenix Feather:Defendant Table
-SUGGESTIONS =============================
-FOOD1: :
-SCRIPT ==========================================
-Noir Music 4
-PHOENIX FEATHER: (enthusiastically) Your Honor, I present to you the defense's Case, proving beyond the shadow of a doubt that my client is innocent! 
-JUSTICE QUILL: (condescending) Oh, Phoenix Feather, your dense is about as strong as a feather against the wind
-JUDGE FALCON: Order in the court! Let's proceed with the first witness. Polly Parrot, take the stand.
-POLLY PARROT: (squawking) Polly wants a cracker, but Polly also wants justice! I saw the defendant at the scene of the crime.
-PHOENIX FEATHER: (dramatically) Your Honor, this witness is a known parrot-agonist! Can we really trust a bird brain?
-JUSTICE QUILL: (sarcastically) How original, Mr. Feather. I'm sure the jury is on the edge of their perches.
-JUDGE FALCON: That's enough out of you Justice Quill! Mr. Feather please begin your Cross-Examination.
-Courtroom Music
-PHOENIX FEATHER: (excited) Polly, If you're so sure of what you saw , can you tell us what the defendant was wearing? 
-POLLY PARROT: (squawking) Blue feathers, JUST. LIKE. YOURS!
-PHOENIX FEATHER: (stammering) uh... well... that could be anyone with blue feathers...
-JUDGE FALCON: (amuse) Mr. Feather, your argument is as wobbly as a fledgling taking it's first steps.
-PHOENIX FEATHER: With all due respect your Honor, Objection.
-JUDGE FALCON: Over ruled, continue.
-PHOENIX FEATHER: (thinking) ok so If the Defendant had Blue feathers AS YOU SAY. Then how do you explain being able to see the residue of the FOOD1 on the victim?
-POLLY PARROT: FOOD1 ? I dont recall...
-PHOENIX FEATHER: OBJECTION! According to Exhibit 1 you can clear see that the investigation return that there was FOOD1 found at the scene
-JUDGE FALCON: Well Ms Parrot?
-POLLY PARROT: What? I... I Dont recall... I...
-JUSTICE QUILL: Well done Phoenix, You have successfully broken the only witness.
-JUDGE FALCON: I suppose we'll have to call this-
-Vine boom
-JESTER JAY: (bursting in) Your Honor, I have vital information! I saw the crime happen!
-JUSTICE QUILL: (annoyed) And who might you be?
-JESTER JAY: (bowing) Jester Jay, the court's entertainer. I was juggling FOOD1 near the crime scene.
-PHOENIX FEATHER: (confused) FOOD1 ?
-JESTER JAY: (smirking) Yes! And I can prove the defendant's innocence. I saw the real culprit – a mischievous monkey! (Point at someone in the audience)
-MANNY MAGPIE: (gasping) That's bananas!
-PHOENIX FEATHER: (triumphant) Your Honor, it seems the parrot's testimony was for the birds! 
-PHOENIX FEATHER: The real culprit is the monkey, not my client! (gesturing to the same audience member)
-JUSTICE QUILL: (grumbling) This is a circus, not a courtroom.
-Extreme Knocking
-JUDGE FALCON: (bangs gavel) Order! The court accepts the new evidence. The defendant is acquitted.
-Courtroom Sting
-Corporate Guitar Music
-PHOENIX FEATHER: (grinning) Another victory for justice, and a lesson for us all – always watch out for falling FOOD1 !
-JUSTICE QUILL: (muttering) I need a vacation. (exiting his area towards Phoenix)
-PHOENIX FEATHER: (smirking) Maybe a tropical one, with plenty of FOOD1 . (walking toward JUSTICE and putting his arm around them like friends)
-JUDGE FALCON: (chuckles) Court adjourned. This has been one for the feathers.
-Extreme Knocking
 
 ======
 
@@ -9355,71 +9095,6 @@ MF: A rich one! (exit stage)
 ======
 
 INFORMATION ===============================
-ID: 200
-TITLE: Never Have I Ever
-AUTHOR: Tiger-Claw
-VERIFIED: True
-TAGS: Skit,Contains Adult Innuendo
-SET: Campsite
-CHARACTERS ================================
-BOBBY: Bobby, 18-year old camper:Rock chair
-MIKE: Mike, 18-year old camper:Log chair
-CLAIRE: Claire, 18-year old camper:Camping chair
-TESSA: Tessa, 18-year old camper:Stump chair
-MOM: Tessa's mom:Backstage
-DAD: Tessa's dad:Backstage
-SUGGESTIONS =============================
-BODYPART: Any part of the body:Arm, hand, toe, nose
-FEAR: Something ridiculous someone might be afraid of:Lady bug, butterfly, toilet
-ANIMAL: Any animal:Dog, cat, zebra
-BEVERAGE: Anything you can drink:Beer, wine, apple juice
-SCRIPT ==========================================
-BOBBY:  (finishing a ghost story)  And as they hid there, cowering in the bushes, they could hear the footsteps coming closer.  
-BOBBY:  (in a spooky voice)  Who’s got my golden BODYPART?  
-BOBBY:  (louder)  Who’s got my golden BODYPART?
-BOBBY:  (louder)  Who’s got my golden BODYPART?
-BOBBY:  (yelling while leaping towards MIKE)  You’ve got it!
-MIKE:  (screams)  Ahhhhh!!!  (runs and hides in the bushes)  (Laughter)
-CLAIRE:  Oh my gosh, Bobby.  That was so good.
-MIKE: I think I need a hug after that...
-TESSA:  Seriously though, I think Mike needs a hug.
-BOBBY: (walks to Mike, hugs him, brings him back to campfire)  Bro, my bad.  I had no idea you were so scared of BODYPARTs.
-MIKE:  It’s cool.  You had no way of knowing.  
-MIKE:  The thing is, about five years ago, I was jogging in the forest when a very large ANIMAL ran up to me and bit me in the BODYPART.
-CLAIRE:  Oh my gosh, Mike!  Are you okay?
-MIKE:  No, not really.  There was permanent damage.  My BODYPART is kind of bent now. (Gong)
-TESSA:  It’s true.  Like ninety degrees or something.  (winks at Mike)  Comes in handy though.
-MIKE:  Can we stop talking about my BODYPART?  I’ve never told anyone, before tonight.
-CLAIRE:  Oh my gosh!  That gives me an idea.  We should play never have I ever! 
-BOBBY:  OMG, yes!  I’ll start.  Never have I ever been afraid of ANIMALs.  (Laughter)
-TESSA:  Don’t be a jerk Bobby!  At least he’s not afraid of a FEAR.  (Laughter)
-CLAIRE:  For real though, let’s play.  Never have I ever …. ummm (thinking hard)
-DAD:  (walks into scene, drunk and slurring)  Hey kids!  Whatcha all doing?
-MOM:  (walks into scene, drunk and slurring)  Yeah, what’s happening peeps?
-TESSA:  Oh heck no!  You two go back to your own campfire. 
-CLAIRE:  It’s okay Tessa.  Your parents were so nice to bring us on this camping trip.  We should let them play too.  
-CLAIRE:  (to the parents)  We were playing never have I ever.
-TESSA:  This is a bad idea Claire.  Can’t you see they’re drunk?
-DAD:  (Drunk) Whoa there Tess…ica.  Who you callin drunk?  I had like two maybe three glasses of ice cold BEVERAGE.
-MOM:  Ummm … I think it was more like nine.
-DAD:  Correction.  I had nine glasses of ice cold BEVERAGE.
-BOBBY:  Can we have some ice cold BEVERAGE?
-MOM:  No!  It’s bad for your health and you might get addicted.  (Laughter)
-MIKE:  Can we just play the game already?
-MOM:  Ooo me first!  Never have I ever drunken forty-four glasses of ice cold BEVERAGE in less than four minutes!
-DAD:  (Drunk) I’ll drink to that!
-TESSA:  You people are embarrassing yourselves.
-MOM:  Hey!  We’re your parents!  If anything, we’re embarrassing you.  (Laughter)
-DAD:  (Drunk) Okay.  My turn.  Never have I ever … never have I ever … never have I ever … (falls asleep)
-MIKE:  Did he just fall asleep standing up?
-DAD:  (wakes up and yells) Never have I ever dressed up as a ANIMAL and bit a random jogger in the BODYPART!
-MIKE:  Ahhhhhh!   (runs into the bushes) (Laughter)
-MOM:  (elbows Dad)  You still got that ANIMAL costume, sweetheart? (Laughter)
-DAD:   (puts arm around Mom)  Sure do.  You still got your golden FEAR? (Laughter)
-
-======
-
-INFORMATION ===============================
 ID: 201
 TITLE: First Date
 AUTHOR: _Malphas
@@ -9776,90 +9451,6 @@ REPRESENTATIVE: (Storm off stage via stage right.)
 ======
 
 INFORMATION ===============================
-ID: 208
-TITLE: Discombobulate
-AUTHOR: Gofuis
-VERIFIED: True
-TAGS: Skit,Contains Adult Innuendo
-SET: Conference Room
-CHARACTERS ================================
-JIMMY: Jimmy Skinnz the Dealer:Backstage
-AMBER: Amber the Secretary:Office Chair 3
-MICHAEL: Michael the Executive:Boss Chair
-DAVE: Dave from Accounting:Entrance Stage Left
-SUGGESTIONS =============================
-PARTY: How would you party?:Cocaine Catastrophe
-BODYPART: A body part:The tuchus
-BUSINESS: The name of a Corporation:Bingus Cat Enterprises
-PUNISH: A punishment:NO fortnite battlepass for you this season
-TIME: An amount of time.:Thirty fortnite battle passes ago.
-DISTRACT: How would you distract someone?:Throw a hankerchief at their face.
-DRUGREACT: What do you tell the drug dealer trying to sell you drugs?:No thank you sir, i'm high on life.
-REACTION3: A counter to someone attacking you:employ elbow block, then body shot
-EXCUSE: An excuse:Extreme bowel movements, busted cheeks.
-REACTION2: A counter to someone attacking you:employ elbow block, then body shot
-REACTION1: A counter to someone attacking you:employ elbow block, then body shot
-SUBSTANCE: Some kind of substance:cookie dough
-SCRIPT ==========================================
-Jazz music 1
-TYPEWRITER: BUSINESS - 12:45PM;Just after the Union mandated Lunch/Crying break
-MICHAEL: (Angrily) AMBER! Where the hell is Dave? I needed him to bring me that acquisition report TIME ago!
-AMBER: Sir, he was on the union mandated lunch and cry break, TIME ago.
-MICHAEL: (Angry) God as my witness I will PUNISH him!
-Heavy door knocking
-MICHAEL: Is that you Dave, you little underperforming overpaid union pissant?
-DAVE: (Shy) Yes Michael sir, may I come in, sir?
-MICHAEL: (Yelling) Get the hell in here!
-DAVE: (Nervously enter the room).
-Meanwhile AMBER: (Wave to Dave)
-MICHAEL: (Barely contained rage) So... Dave, i'm sure you already know what i've been waiting TIME for... Right?
-Dave: (About to cry) Yes sir... About the report sir... Well...
-MICHAEL: (Cutely) Yes... David?
-Dave: (Almost crying) EXCUSE
-Music stops
-Vine boom
-MICHAEL: (Stand up and rapidly approach Dave)
-Meanwhile AMBER: (Step back and giggling to yourself)
-DAVE: Listen... Sir... If I could explain!
-DAVE: Just give me a slight extensi-
-Meanwhile MICHAEL: (Spit on Dave)
-Vine Boom
-AMBER: (Shocked) Ohhhhh DAMN!
-DAVE: (Stare silently at Michael)
-Epic fantasy music 2
-DAVE: (Speaking to yourself) This mustn't register on an emotional level.
-DAVE: First, DISTRACT target, then block his blind jab.
-MICHAEL: (Throw a punch at Dave)
-DAVE: (Speaking to yourself) Counter with REACTION1. (Do a REACTION1)
-DAVE: (Slap both his ears) Discombobulate.
-Music stops
-Church bell
-DAVE: (To yourself) Dazed, he'll attempt a wild hay-maker, employ REACTION2, and REACTION3.
-DAVE: (Do a REACTION2 and REACTION3)
-Meanwhile MICHAEL: (Dazed, throws a big wide punch in retaliation)
-Break down door
-DAVE: (To yourself) Block feral left, then REACTION3. (Do a REACTION3)
-Meanwhile MICHAEL: (Throw a wild left hook)
-Vine boom
-DAVE: (To yourself) Heel kick to BODYPART. (Kick their BODYPART)
-Meanwhile MICHAEL: (Fall to the floor after Dave kicks you.)
-Crashing debris
-DAVE: (To yourself) In summary, L + Ratio + Discombobulated. 
-DAVE: (To yourself) Physical recovery, 6 weeks, full psychological recovery, TIME, capacity to get angry about not finishing my report. Neutralized.
-Meanwhile JIMMY: (Get ready to enter stage left.)
-AMBER: (Stare in awe at what just occured.)
-Jazz music 1
-JIMMY: (Enter stage left) Eyyyyy Michael, Baby, one fresh order of premium mostly uncut SUBSTANCE, just si- Oh...
-JIMMY: (Realize the scene you've just witnessed and turn to Amber) So uh... You lookin' to party? (Hold out the SUBSTANCE to her)
-AMBER: (Cheerful) About damn time! I needed you TIME ago!
-JIMMY: (Turn to Dave) Alright alright alriiiiight, How about you big guy? You down to PARTY?
-Music stops
-DAVE: (Calm, cool, collected.) Heh.... DRUGREACT.
-Gameshow outro
-
-======
-
-INFORMATION ===============================
 ID: 213
 TITLE: But I'm a Vtuber
 AUTHOR: tfmjonny
@@ -10173,161 +9764,6 @@ CHILD: Me too, dad.
 DAD: And don't think about drinking that DRINK!
 CHILD: I know. I don't want my BODY PART to be big and purple and hairy.
 CHILD: And I don't want to get DISEASE either.
-
-======
-
-INFORMATION ===============================
-ID: 218
-TITLE: The Case of Old Man Jenkins
-AUTHOR: frozenegg_52962
-VERIFIED: False
-TAGS: Skit
-SET: Dining Room
-CHARACTERS ================================
-ROOMY: Bill's roommate, likes to watch tv:Backstage
-FRANK: Frank, Bill's brother, a chef:Center Stage
-BILL: Bill, friend of Jenkins:Stage Right
-YOUNG MAN JENKINS: Jenkins, Not-so-shady business man:Stage Right
-OLD MAN JENKINS: Shady Man:Backstage
-SUGGESTIONS =============================
-KIDS: Something you might keep in your basement:hostages, shrine to former president Barack Obama, dead bodies
-PIZZA: A type of pizza topping; exotic:chestnut, plastic, aluminum
-DINNER: What they will have to eat:Drywall-Infused Turkey, Pork with Ketchup
-BUSINESS NAME: An evil company name:Criminals Inc., Killers Co.
-MURDER WEAPON: How did Jenkins kill?:Cola Can, That one broken Christmas light
-SCRIPT ==========================================
-YOUNG MAN JENKINS: Thanks for having me over, Bill!
-BILL: No problem, Jenkins.
-YOUNG MAN JENKINS: Is frank here?
-BILL: He's makin' dinner. Isn't your dad coming too?
-YOUNG MAN JENKINS: You sure you really want him to come?
-Doorbell
-YOUNG MAN JENKINS: (turns to the door) Oh, that must be him.
-YOUNG MAN JENKINS: (opens the door to let old man in) Hi, Dad.
-OLD MAN JENKINS: (in a creepy voice) Hi, son!
-BILL: Oh, I can tell why you didn't want him here...
-FRANK: Hi guys, what's going on?
-BILL: Jenkins' dad is here.
-FRANK: Cool. I made you guys dinner!
-ROOMY: (swings by) Has anyone seen my MURDER WEAPON?
-FRANK: Why on earth would you carry a MURDER WEAPON on you?
-ROOMY: What? I got that thing from the coolest company ever!
-BILL: Which is?
-ROOMY: BUSINESS NAME, of course!
-FRANK: Uhhh... Okay?
-OLD MAN JENKINS: I buy from there too! That's where I bought the KIDS in my basement!
-YOUNG MAN JENKINS: Uh, don't- don't listen to him, he's delusional.
-BILL: Well, let's ignore him then and eat some DINNER
-ROOMY: Yo, no way! Is that DINNER?
-FRANK: It sure is!
-YOUNG MAN JENKINS: But it doesn't make me feel too good, I'm gonna use the restroom.
-BILL: (wait a few seconds before line) Y'know, I didn't hear the door shut or lock, I'm gonna go check on him. (walk backstage)
-BILL: AAAAAAAAAAAAAAHHHHH! (run back onstage) JENKINS IS DEAD!
-Vine boom
-FRANK: What? No way!
-BILL: I saw him! I also saw a red MURDER WEAPON next to him!
-FRANK: But, didn't your roommate buy...
-ROOMY: What? I would never! I don't even know him!
-FRANK: But you had the weapon!
-OLD MAN JENKINS: Are you guys talking about my limited edition XL $90 special red MURDER WEAPON?
-BILL: Roomy, call 911...
-ROOMY: Okay! (dials a number) Hi, is this Little Caesars? Yes, can I get one large PIZZA pizza?
-BILL: DUDE, CALL 911!
-ROOMY: Okay, what's the number?
-BILL: 9-
-ROOMY: Hold on, let me get out my notepad.
-FRANK: (take the phone from roomy) Let me do it. Hello? Someone just murdered their own son!
-BILL: Tell them where we are!
-FRANK: We're at 62 West Wallaby Street.
-FRANK: (hangs up) Okay, they should be coming.
-Doorbell
-OLD MAN JENKINS: Oh no! The coppers have come to arrest me!
-FRANK: (opens the door) Yes, thank you. (shuts the door and walks back in)
-BILL: IS THAT A LITTLE CAESARS PIZZA pizza?!
-FRANK: Sure is!
-YOUNG MAN JENKINS: (awakens from the dead) Do I smell PIZZA pizza?
-FRANK: Wait what?
-OLD MAN JENKINS: Yay! I'm not going to jail!
-BILL: That still counts as attempted murder.
-FRANK: And we still have your limited edition XL $90 special red MURDER WEAPON to prove it.
-BILL: But where is it?
-FRANK: I thought it was right here, on the table!
-OLD MAN JENKINS: Hah, you'll never prove anything! (Running out the door) Ow, my hip!
-
-======
-
-INFORMATION ===============================
-ID: 221
-TITLE: Mods
-AUTHOR: PeanutBuddha
-VERIFIED: True
-TAGS: Skit
-SET: Conference Room
-CHARACTERS ================================
-CEO: CEO of VR social game company:Boss Chair
-EMPLOYEE_1: Employee of company:Office Chair 1
-EMPLOYEE_2: Another employee of company:Office Chair 2
-SUGGESTIONS =============================
-QUANTITY: Any quantity of paper.:Big pile, bucket full, pockets full
-NEGATIVE_DESC: A way to negatively describe something:Bad, disgusting, yucky
-INSULT_PLURAL: An insult for several people:Idiots, morons, sillybillies
-POSITIVE_DESC: A way to positively describe something:Good, enjoyable
-LAZY_PERSON_ACTION: Something a lazy person would do:Having a nap, eating some lunch
-ANNOY_VERB: A verb like annoy:Annoy, trigger, insult
-METHOD_OF_TRANSPORT: A name for public transportation:Bus, train, bicycle
-LOW_PAYING_JOB: A name for a low paying job:Janitor, maid, garbage collector
-SOMETHING_EMPLOYEES_WANT: Something an employee always wants (not pay rise):More benefits, a parking spot, working from home
-NAME_FOR_MONEY: A name for money (not dough/capital/moolah):Green, coin
-BREAD_ACTION: Something you do to bread:Bake, cook, make
-VR_COMPANY_NAME: The name of a VR social game company:VRHangout, ChillVR, NewVR, VRPortal
-SCRIPT ==========================================
-Shark Tank discussion music 1
-CEO: Loyal employees of VR_COMPANY_NAME, I have gathered you here to today to talk about something serious.
-EMPLOYEE_1: A pay rise?
-CEO: No, not that.
-EMPLOYEE_2: SOMETHING_EMPLOYEES_WANT?
-CEO: No! What we have is a QUANTITY of money from our investors. And they have certain expectations from our company.
-EMPLOYEE_2: What do you mean boss?
-CEO: Mods! Those NEGATIVE_DESC mods are ruining our video game! They are a menace! They have to be stopped!
-EMPLOYEE_1: (confused) But why sir?
-EMPLOYEE_2: Yeah I love my mods! My favorite is MOD_FOR_VR_GAME
-CEO: Because you INSULT_PLURAL, we need QUANTITY of moolah! (pause) NAME_FOR_MONEY! (pause) Capital! (pause) Dough!
-EMPLOYEE_1: I'm confused sir.
-EMPLOYEE_2: You want us to BREAD_ACTION some bread?
-CEO: No you INSULT_PLURAL, we need to make money!
-EMPLOYEE_1: (same time) Ohhhh!
-Meanwhile EMPLOYEE_2: (same time) Ohhhh!
-CEO: Look. Money makes the world go round. It's why you two have jobs. Now think of a way to deal with these NEGATIVE_DESC mods.
-EMPLOYEE_1: We could build all of the features of all of the mods into our game?
-CEO: Too hard! Next!
-EMPLOYEE_2: We could hire all of the developers of the mods and they could build them for us?
-CEO: Too expensive! How much am I paying you two?!
-EMPLOYEE_1: Too little (roll eyes)
-CEO: Next!
-EMPLOYEE_1: We could embrace modding and create a POSITIVE_DESC game that everyone loves?
-CEO: (ignore employee) I've got it! It's the perfect idea!
-EMPLOYEE_2: Finally, I need to get back to LAZY_PERSON_ACTION...
-CEO: Ban them! Ban them all! Ban every single NEGATIVE_DESC mod and ban every NEGATIVE_DESC player who tries using one!
-EMPLOYEE_1: But won't that ANNOY_VERB our players?
-EMPLOYEE_2: Yeah what about people who rely on mods to even play?
-CEO: You INSULT_PLURAL. We don't need them! Think of all of those kids getting a headset for Christmas. Think of the QUANTITY money!
-EMPLOYEE_1: I think you've really lost it, sir.
-Meanwhile EMPLOYEE_2: (nodding head)
-CEO: This may be the best idea I've ever had. (evil laugh)
-Teleport EMPLOYEE_1 Backstage
-Teleport EMPLOYEE_2 Backstage
-Teleport CEO Backstage
-TYPEWRITER: 6 months later
-Happy music 1
-Teleport EMPLOYEE_1 Boss Chair
-Teleport EMPLOYEE_2 Boss Chair
-Knocking on door
-EMPLOYEE_1: Come in! (wait for CEO to enter)
-Meanwhile CEO: Wait to be called in at door
-CEO: (open door and walk in) Sorry I'm late, I got lost taking the METHOD_OF_TRANSPORT.
-EMPLOYEE_1: I am the CEO of VR_COMPANY_NAME. We only have one job position open: LOW_PAYING_JOB. Minimum wage. I hope that won't be an issue?
-CEO: (grateful) Oh no. Of course not. I will do my best. Sir.
-EMPLOYEE_2: (laughing) We know you will. But one thing - don't you wish you'd just listened to us that one time, boss?
 
 ======
 
@@ -10972,80 +10408,6 @@ Sword fighting
 KNIGHT: (Yelling battle cry) Ahhh! (Run out stage left)
 Crashing debris
 KNIGHT: (Weakly from offstage) Ow.
-
-======
-
-INFORMATION ===============================
-ID: 304
-TITLE: The Heist
-AUTHOR: CinnaBunBunn
-VERIFIED: True
-TAGS: Skit
-SET: Living Room
-CHARACTERS ================================
-JASPER: Jasper, the Boss:Center Stage
-HORACE: Horace, the Boss' Sidekick:Couch
-PANTHER: The Posh Owner of the Home:Backstage
-SUGGESTIONS =============================
-EXPLOSIVE: A Highly Explosive Thing:C4, Bomb, Dynamite
-SUGAR: A delicious food:Candy, Cookies, Mom's Spaghetti
-TOOL: A Tool used in construction:Wrench, Hacksaw, Hammer
-BUSINESS: A shady sounding Corporation:ACME, SHADY, THEIVES R US
-LOCK: A way to Lock something up:Padlock, Number Dial, Keypad
-TWOL: A Power tool:Power Drill, Power Saw, Jackhammer
-TWOCK: A Strange Device to secure something:Pile of Chains, Force Field, Zipties
-SCRIPT ==========================================
-silly music 2
-JASPER: Alright Horace, we ready to rob this joint right blind?
-HORACE: Oh you know it, Jasper. I can already taste the SUGAR all this loot is gonna get us.
-JASPER: Typical Horace, always thinking with your stomach. Now pass me that TOOL.
-HORACE: (Pass TOOL to Jasper.) You got it Boss!
-JASPER: (Fiddle with TOOL against the TV) Can't believe those suckers fell for the 'Buy a Safe that looks like a TV' scam.
-JASPER: Y'think by now the public would be aware that we got a deal going on with BUSINESS inc!
-HORACE: They sure ain't the brightest shovels in the shed, eh Jasper?
-JASPER: (Look stupified at Horace.)...yeah, they ain't the only ones.
-Meanwhile HORACE: (Chuckle at your own joke.)
-JASPER: (Finally open the SafeTV) Aha! We got it. Now we just reach inside and...
-explosion
-Teleport JASPER to Backstage
-Teleport HORACE to Backstage
-PANTHER: (Walk on stage from Side door, looking baffled)
-PANTHER: (Suave British Accent)...I say, what on earth was that? Most peculiar fellows, leaving so soon...
-PANTHER: (Idly begin to repair SafeTV) What a pity. Well, might as well tidy up the place...
-PANTHER: ...and there! Good as new.(Nod and move back thru the side door)
-JASPER: (Walk back thru Front Door, rubbing head.) Ugh, what on earth was tha... Huh?
-Meanwhile HORACE: (Follow Jasper thru Front Door, rubbing head and grumbling.)
-HORACE: Eh? What's wrong, Jasper?
-JASPER: (Move to inspect the SafeTV) Didn't this thing have a LOCK before?
-HORACE: (Rub head inspecting SafeTV) ...I dunno, Jasper, I wasn't paying attention.
-JASPER: (Shake head.) Ehn, doesn't matter. Hand me the TWOL for this TWOCK, would you?
-HORACE: (Hand TWOL to Jasper) No worries, Boss!
-JASPER: (Again start to fiddle with SafeTV) Just a turn here, a slight crank there...
-Gunshot
-JASPER: (Leap in pain) AGH! What in the blazes...
-HORACE: (Snicker slightly.) Gee Boss, I think they sprung for the extra protection version.
-JASPER: (Rub self and grumble.) Yeah yeah... well, it ain't getting us for the next time. Now just let me - (Get cut off)
-explosion
-Teleport JASPER to Backstage
-Teleport HORACE to Backstage
-PANTHER: (Walk back thru Side Door, looking baffled.)
-PANTHER: (Slap TV like you're trying to fix it.) Why, how annoying. Blasted thing seems to be going on the fritz...
-PANTHER: (Stop slapping) Ah, there we go. Beautiful!
-Meanwhile JASPER: (Enter thru Front Door) I just don't understand it...
-HORACE: (Follow Jasper thru Front Door) I don't recall that in the commercials.
-JASPER: (Notice Owner) Oi! Back off mate, this here's our gig!
-HORACE: (Point accusingly) Yeah! We're robbing these folks, fair and square!
-PANTHER: (Calm and collected) Ah! I must apologize chaps, I didn't realize you had dibs!
-PANTHER: (Calmly pat SafeTV) All yours, take it!
-JASPER: Aw, now ain't that honor among theives! Don't worry chap, sure the next house will be loaded for you!
-HORACE: (Start collecting the loot.) Yeah! You can buy yourself some SUGAR too!
-Meanwhile JASPER: (Start collecting the loot.)
-PANTHER: I say, a splendid idea! Well, take care lads, keep those hands dipping in the pockets!
-JASPER: (Laughing) Psh, take care sucker! (Exit to back stage)
-HORACE: (Laughing, follow Jasper) Yeah, sucker!
-PANTHER: (Turn to camera, shrugging casually.) I say, quite the daft chaps, aren't they?
-PANTHER: And to think, they robbed me of my entire EXPLOSIVE collection! Should be about right...
-explosion
 
 ======
 
@@ -13841,102 +13203,6 @@ TYPEWRITER: Ian never got his money, 1 like = 1 prayer
 ======
 
 INFORMATION ===============================
-ID: 431
-TITLE: Bad Aim
-AUTHOR: LongPinkNoodle
-VERIFIED: True
-TAGS: Skit
-SET: Campsite
-CHARACTERS ================================
-DEPUTY: An cautious deputy.:Entrance Stage Left
-DAMSEL: A damsel in distress.:Log chair
-OUTLAW: A dastardly outlaw.:Center Stage
-SHERIFF: A heroic sheriff.:Entrance Stage Left
-SUGGESTIONS =============================
-SCARY: Something or someone scary.:Monster, Zombie, Dragon
-CRIMINALNOUN: A word to describe a criminal.:Do-Badder, Scum, Hooligan, Tweaker
-WEAPONNOUN: A Weapon.:Big Iron, Samurai Sword, Twitter Followers
-TIME: A time or time of day.:High Noon, 3 in the morning, Seven Forty Five
-ADHESIVE: Something to put in or over someone's mouth.:Socks, Tape, Gorilla Glue
-MEDICAL: A medical procedure.:Lasik, C-Section, Rotationplasty
-DAMSELNAME: The name of a beautiful women.:Jessica Rabbit, Ronald McDonald
-SHERIFFNAME: The name of a gunslinger.:Billy Bob, Clay Gunnerson, Jimmy the Smooth
-OUTLAWNAME: The name of a dangerous outlaw.:Pawn Cassidy, Pawn Deadmask, Evil ShootyShooty Man
-GANG: The name of a gang of criminals.:Bermuda Gang, Avocado Cartel
-INSULT: An insulting thing to call someone.:Bastard, Greenhorn, Rat Bastard
-TOWNNAME: The name of a town or city.:Charleston, Los Angeles, Pyongyang
-SCRIPT ==========================================
-OUTLAW: (Laugh Manically)
-DAMSEL: Help! Help me! (Stay seated, tied up on the log chair.)
-OUTLAW: Quiet! I can't even hear my self think with all your noise. I knew I should've brought ADHESIVE.
-DAMSEL: You'll never get away with this OUTLAWNAME, SHERIFFNAME will be comin' for you any minute now.
-OUTLAW: That's Precisely the plan.
-SHERIFF: OUTLAWNAME! Yer' time is up you no good CRIMINALNOUN.
-OUTLAW: Right on cue.
-SHERIFF: This is the last time you'll ever be causin' trouble in TOWNNAME Gulch.
-DEPUTY: Kidnapping SHERIFFNAME's girl was a big mistake OUTLAWNAME.
-OUTLAW: You two are the INSULT's that's been rounding up my gang. The GANG.
-OUTLAW: So I'm here to settle the score. I knew you'd come crawling back for your lady DAMSELNAME.
-OUTLAW: And now yer' gunna duel me like a man SHERIFFNAME...
-SHERIFF: (Reach for your hip) So be it. We duel at the stroke of TIME.
-OUTLAW: But.. it's the middle of the night. Can't we just duel now?
-SHERIFF: Fine, then we'll duel right now.
-DEPUTY: SHERIFFNAME, didn't you just get that MEDICAL done?
-SHERIFF: So what, deputy? I can sharpshoot this CRIMINALNOUN in my sleep.
-DEPUTY: Are you sure SHERIFFNAME? Let me handle OUTLAWNAME, I've practicing my WEAPONNOUN slinging skill's just for a time like this.
-SHERIFF: Watch n' learn partner.
-DEPUTY: (Sigh, and stand beside the damsel.) Un-be-leviable.
-SHERIFF: I hope you brought your WEAPONNOUN. (Raise your weapon.)
-SHERIFF: (Stand centerstage, back to back with Outlaw)
-meanwhile OUTLAW: (Stand centerstage, back to back with the sheriff)
-OUTLAW: Five Paces...
-SHERIFF: (Take five steps away from Outlaw.)
-meanwhile OUTLAW: (Take five steps away from the sheriff)
-church bell
-SHERIFF: (Turn around, Fumble and Drop your weapon.) Gawd Damn it!
-OUTLAW: (Turn around, and point your weapon.)
-SHERIFF: (Mumble while looking around on the floor.) Knew I shouldn't have gotten that damn MEDICAL.
-OUTLAW: (Face palm, and shoot the sheriff.)
-gunshot
-SHERIFF: Ow! Now I'm gunna hafta to get another MEDICAL!
-OUTLAW: Looks like you lost SHERIFFNAME...
-OUTLAW: (Point your weapon again.) You ready to die?
-DEPUTY: Now hold on right there! SHERIFFNAME still hasn't fired his WEAPONNOUN!
-OUTLAW: (Scoff.) Ugh. Very well then.
-OUTLAW: (Stand Stage left, open your arms wide and allow the Sheriff to fire.) Go on.
-SHERIFF: (Struggle while raising your weapon and shoot.)
-gunshot
-OUTLAW: (Examine yourself calmly.)
-OUTLAW: Well SHERIFFNAME... looks like ya missed.
-SHERIFF: Wait I weren't ready! (Shoot again.)
-gunshot
-OUTLAW: (Look around frantically) What the hell are you-!
-OUTLAW: Huh, missed again...
-SHERIFF: (Shoot again wildly)
-gunshot
-OUTLAW: (Turn to damsel.)
-meanwhile DEPUTY: (Jump back in surprise.)
-DAMSEL: (Slowly fall over.)
-OUTLAW: What the hell are you-!.. Can we just get this over with. (Raise your weapon again.)
-SHERIFF: (Start reloading.) Wait a minute hold on! (Fire repeatedly.)
-gunshot
-gunshot
-gunshot
-DEPUTY: Ow you INSULT! (Run off Stage Right holding your shoulder.)
-DEPUTY: (Exit)
-OUTLAW: (Casually walk towards Stage Left exit)
-SHERIFF: You can't run from the law forever OUTLAWNAME! (Shoot and miss again)
-gunshot
-OUTLAW: I ain't runnin' (Exit)
-DAMSEL: (Slowly standing back up, groaning.)
-DAMSEL: I think.. I think I'm okay.
-SHERIFF: Ah! SCARY! (Shoot the damsel.)
-gunshot
-DAMSEL: (Fall down again.)
-
-======
-
-INFORMATION ===============================
 ID: 434
 TITLE: Shark Tank Pitch
 AUTHOR: Jasperwolf08
@@ -15510,101 +14776,6 @@ BRIDE: What was his deal anyway?
 GROOM: I guess some people don't want to see others happy. Hey, why don't we go to COUNTRY for our honeymoon, eat a lot of FOOD and then so see MOVIE starring ACTOR.
 BRIDE: but ACTOR isn't in MOVIE.
 GROOM: I know
-
-======
-
-INFORMATION ===============================
-ID: 478
-TITLE: If a Dictator Had a Youtube Channel
-AUTHOR: jasthefrog
-VERIFIED: True
-TAGS: Skit
-SET: Living Room
-CHARACTERS ================================
-DICTATOR: the almighty glorious leader:Center Stage
-A MOTHER: a caring woman:Backstage
-THE BABY: has a deep voice; for some reason:Backstage
-SILLY SOLDIER: a goofy guy:Backstage
-SERIOUS SOLDIER: he follows orders:Backstage
-SUGGESTIONS =============================
-COUNTRY: a glorious country:USA, Canada, Germany
-AUDIENCE NAME: name someone in the audience:Joe, Alex, Michael
-ACTION VERB: something you can do:kill, trip, hurt
-CUTE BABY NAME: adorable name for a baby:Darius, Oklahoma, Jesus
-WEAPON: an almighty weapon:sword, machete, gun, pen
-A NUMBER : your favorite number:200, 3, 40
-A FAMILY MEMBER: like a cousin or something:cousin, mother, sister
-ANOTHER NAME: an audience member:Adrian, Aaron, Jas
-AN ACTION (ING): something you can be doing:dancing, crawling, walking
-OCCUPATION: a job:knight, soldier, doctor
-SOCIAL MEDIA: something with videos:tiktok, instagram, youtube
-MARTIAL ART: something you can practice:taekwondo, BJJ, Kickboxing
-SCRIPT ==========================================
-(applause)
-DICTATOR: Welcome back to another SOCIAL MEDIA video!
-DICTATOR: (gesturing to the audience) It is another day in COUNTRY!
-DICTATOR: and it is I, AUDIENCE NAME, the glorious almighty leader of COUNTRY!
-DICTATOR: Today we will be doing another challenge.
-DICTATOR: This challenge is to see how many people my OCCUPATION s can ACTION VERB before they run out of time!
-(discord notification)
-SERIOUS SOLDIER: (enters stage left)
-(silly music 1)
-DICTATOR: Hello my brave OCCUPATION! You will be in my newest SOCIAL MEDIA video here, as you see I am recording right now.
-SERIOUS SOLDIER: (salutes) Sir yes Sir! What are my orders Sir?
-DICTATOR: (facing the soldier) You have to ACTION VERB as many people as you can before time runs out.
-DICTATOR: If you don’t ACTION VERB enough people, I will ACTION VERB your A FAMILY MEMBER!!
-SERIOUS SOLDIER: WHAT?? UHH I mean sir yes sir! I will participate sir!
-DICTATOR: Good. Now, (gestures to the audience) let the challenge commence!
-(badass music 1)
-A MOTHER:(enters stage right)
-Meanwhile THE BABY: (enters stage right)
-A MOTHER: Oh I love my baby, CUTE BABY NAME! I hope someone doesn’t ACTION VERB it!
-DICTATOR: Oh my! It seems we have our first victim here!
-Dictator: (laughs maniacally)
-SERIOUS SOLDIER: sir yes sir! (walks over to mother and baby)
-SERIOUS SOLDIER: I am going to ACTION VERB you and CUTE BABY NAME!
-THE BABY: (in a deep voice) goo goo ga ga
-SERIOUS SOLDIER: (bursts into tears) I can’t do it sir! I can’t!
-(double bass music)
-A MOTHER: How dare you threaten to ACTION VERB me! And CUTE BABY NAME! This is outrageous!
-THE BABY: (in a deep voice) I do not want someone to ACTION VERB me. This would be highly inconvenient.
-A MOTHER: My baby, CUTE BABY NAME is a blackbelt in MARTIAL ART! He will defeat you if you try!
-DICTATOR: Booooring! Get to the ACTION VERB ing already!
-DICTATOR: (looks at the audience) Is this lame or what? I wasn’t “elected” glorious leader of the country COUNTRY for no reason!
-DICTATOR: I need to keep my audience engaged!
-A MOTHER: Is that our glorious leader, AUDIENCE NAME?
-(draw sword)
-SERIOUS SOLDIER: yes it is! and he gave me the orders…
-SILLY SOLDIER: (enters stage right)
-SERIOUS SOLDIER: OCCUPATION! Stand clear! I will be… wait, what are you doing here? You should be at your station!
-SILLY SOLDIER: I heard our glorious leader AUDIENCE NAME was making a cool SOCIAL MEDIA video and I wanted to join in!
-SERIOUS SOLDIER: I am upholding the greatest honor of participating in this SOCIAL MEDIA video, OCCUPATION, and I hope you do not think that you can just come in and…
-(music stops)
-(bard music 2)
-SILLY SOLDIER: (starts AN ACTION (ING))
-SERIOUS SOLDIER: Stop that! Get back to your station!
-DICTATOR: Ooooh we got some fighting here! OCCUPATION, your time is almost up! WILL YOU COMPLETE THE CHALLENGE??
-SERIOUS SOLDIER: Sir yes sir! (pulls out WEAPON)
-(draw sword)
-A MOTHER: ahhhh! Is that a WEAPON?
-THE BABY: Do not forsake me mother!
-SERIOUS SOLDIER: yes it is. Now prepare to meet your demise! CUTE BABY NAME, MARTIAL ART won't be useful here! (uses WEAPON on mother and baby)
-Teleport A MOTHER Backstage
-Teleport THE BABY Backstage
-SILLY SOLDIER: (still AN ACTION (ING)) woah! That’s sick!
-SERIOUS SOLDIER: glorious almighty leader AUDIENCE NAME! Have I completed the challenge sir?
-DICTATOR: No! You have like A NUMBER more to go!
-SILLY SOLDIER: (singing) It must be nice, it must be nice, to have AUDIENCE NAME on your side-
-SERIOUS SOLDIER: (yelling) SHUT UP ANOTHER NAME THIS IS NO SINGING MATTER
-DICTATOR: Oooh my fans are getting bored! OCCUPATION, entertain them!
-SERIOUS SOLDIER: Sir yes sir! (aims WEAPON at ANOTHER NAME)
-(draw sword)
-SILLY SOLDIER: (still AN ACTION (ING)) huh?
-Teleport SILLY SOLDIER Backstage
-DICTATOR: And that’s all we have for you today folks! Stay tuned in for my next SOCIAL MEDIA video when I will ACTION VERB my soldier’s A FAMILY MEMBER!
-SERIOUS SOLDIER: WHAT???
-TYPEWRITER: Almighty leader AUDIENCE NAME ended up ACTION VERB ing the OCCUPATION's A FAMILY MEMBER
-TYPEWRITER: This is so sad
 
 ======
 
@@ -23628,22 +22799,22 @@ VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Restaurant
 CHARACTERS ================================
-WAITER: The waiter:Stage Right
+RICH: Greasy friend :Stage Right
 FRIEND: Innocent friend :Stage Right
-RICH: Greasy friend :Stage Left
+WAITER: The waiter:Stage Left
 SUGGESTIONS =============================
-ACTION: (Past tense) An unpleasant action you did to someone:Punched, tickled, burped in their face, licked
-TIER: Something big and disgusting:Godzilla in a tutu, Bloated whale corpse, Kaiju Karen, Double-cheeked Moon
-PART: A part of the human body that creates liquid:Nose, mouth, eyes, armpits
-CELEB: A famous person:Obama, Queen Elizabeth, Mario from Mario, Cloud Strife
-UTUBE: A Youtuber:Abroad in Japan, Joey the Anime-man, Giguk, CdawgVA
-SIMPLE: Something normal to eat:Bread, pasta, potato, sausage
-BASIC: Something small to eat:Garlic bread, nachos, Wedges, Macaroni
-WATER: A basic drink:Lemonade, Cola, Water, Monster
-YUCK: Something you don’t want to eat:Sewage, clumpy batter, blue noodles, meat-cheese
-GROSS: Something utterly disgusting :Armpit meat, most socks, crusty feet, rotten teeth
-EW: Something smelly:Discord Mod underwear, E-Girl chair sweat, used tissues, burned witches corpse
 SICK: Something you don’t want to drink:White-sauce, glue, clotted blood, spinal fluid
+EW: Something smelly:Discord Mod underwear, E-Girl chair sweat, used tissues, burned witches corpse
+GROSS: Something utterly disgusting :Armpit meat, moist socks, crusty feet, rotten teeth
+YUCK: Something you don’t want to eat:Sewage, clumpy batter, blue noodles, meat-cheese
+WATER: A basic drink:Lemonade, Cola, Water, Monster
+BASIC: Something small to eat:Garlic bread, nachos, Wedges, Macaroni
+SIMPLE: Something normal to eat:Bread, pasta, potato, sausage
+UTUBE: A Youtuber:Abroad in Japan, Joey the Anime-man, Giguk, CdawgVA
+CELEB: A famous person:Obama, Queen Elizabeth, Mario from Mario, Cloud Strife
+PART: A part of the human body that creates liquid:Nose, mouth, eyes, armpits
+TIER: Something big and disgusting:Godzilla in a tutu, Bloated whale corpse, Kaiju Karen, Double-cheeked Moon
+ACTION: (Past tense) An unpleasant action you did to someone:Punched, tickled, burped in their face, licked
 SCRIPT ==========================================
 70s music
 RICH: (enter laughing with friend) … And so I ACTION them so hard they started crying!
@@ -24437,7 +23608,7 @@ VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Interrogation Room
 CHARACTERS ================================
-COP: Police Officer:Behind Door
+COP: Police Officer:Backstage
 SANTA: Santa :Chair
 SUGGESTIONS =============================
 THING: Something you shouldn’t call someone else:loser, wazzock, pimple, Vtuber enjoyer, American, human, wimp
@@ -24466,7 +23637,7 @@ vine boom
 COP: Where did you get that list from? And why is it so wet?
 SANTA: (put list on table) I kept it in my BODY for safe-keeping.
 COP: (hold mouth) Ew.
-SANTA: I can fit anything in the known galaxy in my PART regardless of size.
+SANTA: I can fit anything in the known galaxy in my BODY regardless of size.
 COP: That must be really useful. May I inspect it?
 SANTA: (finger wag) Only if you sit on my lap.
 COP: I've heard tales of that lap of yours.
@@ -24692,22 +23863,22 @@ VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Murder
 CHARACTERS ================================
-MASTER: The Master:Center Stage
-MAID: The Maid:Stage Right
 DUDE: Dude Bro:Backstage
+MAID: The Maid:Stage Right
+MASTER: The Master:Center Stage
 SUGGESTIONS =============================
-ILLNESS: An illness:The Lurgy, COVID, The common cold, upset stomach
-CHANGE: A small amount of money:One pound, one dollar, 100 yen, 1 euro
-BUSS: A fictional business:Milkies, Lava incorporated, e-boys, tummy pats
-INVEST: A highly successful business :Amazon, Disney, Google, The Royal Family, Cheese
-CLOTHES: An item of clothing:Coat, hat, shoes, bag, underwear
-MASTER: Name of a fancy rich person:Wellington, Vilhelm, Sussy Jack, Arthur
-NAME: A bro-like name:Coolio, Samuel, Cade, Noah, Jack, Raff
-SUBJECT: A school subject:Math, Science, English, Media studies, product design, art
-GOO: A sticky substance :Glue, baby-batter, snot, spinal fluid, bug guts
-ACTION: An activity for two people:Fish, Dance, Vomit
-GREETING: Something you’d say to introduce yourself to a lady:What’s cookin’ good lookin’? Whoah you’re pretty!, MILF alert!
 PET: Living beings (plural) that no one should legally own:Tigers, Man-eating Snails, Dolphins, Aliens
+GREETING: Something you’d say to introduce yourself to a lady:What’s cookin’ good lookin’?, Whoah you’re pretty!, MILF alert!
+ACTION: An activity for two people:Fish, Dance, Vomit, kiss
+GOO: A sticky substance :Glue, baby-batter, snot, spinal fluid, bug guts
+SUBJECT: A school subject:Math, Science, English, Media studies, product design, art
+NAME: A bro-like name:Coolio, Samuel, Cade, Noah, Jack, Raff
+MASTER: Name of a fancy rich person:Wellington, Vilhelm, Sussy Jack, Arthur
+CLOTHES: An item of clothing:Coat, hat, shoes, bag, underwear
+INVEST: A highly successful business :Amazon, Disney, Google, The Royal Family, Cheese
+BUSS: A fictional business:Milkies, Lava incorporated, e-boys, tummy pats
+CHANGE: A small amount of money:One pound, one dollar, 100 yen, 1 euro
+ILLNESS: An illness:The Lurgy, COVID, The common cold, upset stomach
 SCRIPT ==========================================
 Dark classical music
 MASTER: Maid! (Double clap) Clean the sofa. As you know, we are expecting company today.
@@ -24902,131 +24073,6 @@ Aww
 ======
 
 INFORMATION ===============================
-ID: 751
-TITLE: Mister Cosplay
-AUTHOR: Kymerah
-VERIFIED: True
-TAGS: Skit,Contains Adult Innuendo
-SET: City
-CHARACTERS ================================
-CHAMP: Opponent (2 avatars):Center Stage
-NOOB: Challenger (have sword):Entrance Stage Left
-SUGGESTIONS =============================
-BEAM: A projectile:Bullet, stone, rock, laser, beam
-POW: A comic sound effect like “pow”:Thwip, Bang, Zoom, pow
-SPARK: A snappy word:Snip, pap, clap, gasp
-DESTROY: A single powerful word:Huge, Pathetic, Gargantuan, Microscopic
-ACTION: A thing you can do to another human:Hug, Kiss, touch, smile at
-PART: A part of the lower body you can balance on:Toes, Knee, lap, hip, groin
-JOB: A job title:Dancer, Content Creator, Piece of garbage
-PEOPLE: A type of high schoolers that might hang out together:Nerds, Punks, Emos, Cheerleaders, Jocks
-NAME: A silly name:Large Marge, Flim-flom, Motivator, Minor
-MOVE: A type of dance:Dab, Griddy, worm, boogie
-FAMILY: A beloved family member:Mommy, daddy, step bro, uncle earl 
-GAME: A video game, real or made up:Fortnite, Raid Shadow Legends, Pokémon Go, DanganRonpa, Fall Guys, No More Heroes
-SCRIPT ==========================================
-Scary music
-NOOB: (enter cautiously) it’s finally time, after a gruelling gauntlet of fighters, I’ve come to fight number 8..
-NOOB: And after I’ve killed them, I’ll become ranked 8 on the leaderboard and earn a kiss. (Thumbs up)
-Laughter
-NOOB: (point to opponent) That must be them..
-CHAMP: (slowly turn to face enemy) I also thought you wouldn’t make it on time. Had to take care of some PEOPLE that filed complaints myself.
-CHAMP: (bow) My apologies. So much to do with so little help. I can’t stand these PEOPLE with all their nonsense complaints.
-CHAMP: They think they can say anything, it’s crazy. But anyway I’m here, I made it on time. That’s the important thing right?
-CHAMP: I take it you’re Mr. NAME?
-NOOB: You?! You’re rank 8?!
-NOOB: Why are you talking like it’s a poorly dubbed show? So long-winded.
-CHAMP: I am indeed ranked 8th Mr.NAME.
-CHAMP: (pose) I grew up watching soap operas and Tokusatsu shows. It’s in my blood.
-Laughter
-NOOB: (shrug, nod in agreement) That makes sense.
-CHAMP: Alright, we’ve got a job to do. (Bow) But first I need some time to get ready.
-CHAMP: (point across stage) Would you mind turning the other way? I need some privacy.
-NOOB: Privacy?!
-CHAMP: Yes. I need to prepare. (Bow)
-NOOB: Whatever. (Shrug)
-NOOB: Don’t mind me. Pretend like I’m not even here.
-CHAMP: I just need you to look the other way for a second…
-NOOB: A second?
-CHAMP: Yes. Just a split second. I don’t think that it’s too much to ask, do you?
-NOOB: Then we can get on with our epic clash?
-CHAMP: (nod) That is correct.
-NOOB: Alright. (Turn around)
-CHAMP: (change avatar) I’m ready.
-Tada
-NOOB: Whoa! For a second there I forgot you were a JOB.
-CHAMP: Sorry if I scared you. I didn’t mean to do that. Something is wrong with me today. The air, maybe?
-NOOB: (speak to self) I let my guard down… Getting sloppy. I gotta stay on my PART. (Approach)
-CHAMP: (hand forward) Do you mind if I ask you something?
-NOOB: (stop just in front of the hand) Yeah what is it, mister cosplay?
-Laughter
-CHAMP: We’re both assassins, right? Why do we have to ACTION each other anyway?
-CHAMP: If you ask me, it’s absolutely meaningless.
-NOOB: It’s about determining who’s best. (one finger up) That’s what it’s about.
-CHAMP: (shrug) Can’t argue with that.
-CHAMP: Well then, let’s get started. (Offer handshake)
-NOOB: (look at hand) What? You wanna shake hands?
-Laughter
-CHAMP: We’re both fighters aren’t we? Not killers. At least for now.
-CHAMP: This is a sign of good sportsmanship. That we respect eachother before and after the fight. Good luck.
-NOOB: (hold their hand) Likewise.
-CHAMP: DESTROY SPARK
-Raygun shot
-NOOB: (get shocked, fall to ground) Azzaaazaak!!
-Crashing debris
-Music stops
-CHAMP: (point and laugh) This is great! Is this guy an idiot or what?
-CHAMP: Hahaha, is this a joke. You fell for the oldest trick in the book! Oh man, you are something.
-CHAMP: You are the best, man. You really crack me up. Haha, I think this laughter is going to kill me!
-CHAMP: Seriously, I think I might really die from laughter. It hurts. Someone help! Hehe. Oh god!
-NOOB: (squirm) Ugh… you…. Son of a….
-CHAMP: I thought I was going to die there, for real.
-CHAMP: (get serious) And look at you.. You look like you’re dead. I guess it’s time for a wake-up call.
-CHAMP: (punch ground) DESTROY POW
-honking
-CHAMP: (point at them) DESTROY BEAM
-Raygun shot
-NOOB: Uwaah! (Get zapped, stand)
-NOOB: That was quite a move.. I’ll admit you’ve got potential.
-NOOB: (firm point) if challenge had a taste, you’d be quite delicious.
-Laughter
-NOOB: Assassin battle? Yeah sure, bring it on. I love a challenge! (draw sword)
-Superhero music
-CHAMP: (slowly raise hand to point) You’re as good as dead…
-NOOB: (battle stance) Kiyahh!
-Teleport NOOB to stage right
-CHAMP: (don’t look behind) Where did you go, Mr.NAME?!
-NOOB: Super NAME thrust! (Impale them through the back, keep it there)
-CHAMP: (get impaled) G-gaaah!! (start crying)
-Sad chug jug music
-NOOB: Don’t cry like that, you’re a killer, aren’t you?
-CHAMP: Help…
-NOOB: What?
-CHAMP: Help!
-NOOB: (lean in) I can’t hear you.
-CHAMP: (look back at them) Help me. Please…
-NOOB: What is this I hear from the 8th ranked killer?
-NOOB: Whatever, it’s over anyway.
-CHAMP: Please help me.. FAMILY.
-NOOB: (pull sword out aggressively) There you go!
-CHAMP: (stagger forward) Hehe..
-Vine boom
-CHAMP: (turn and point fingers over Mr.NAME’s shoulders) DESTROY MOVE!
-NOOB: (Effortlessly strike their neck) Idiot.
-Laughter
-CHAMP: (fall down) Impossible!!!!
-Explosion
-Teleport CHAMP to backstage
-NOOB: (finger wag) instead of watching tokusatsu, you should have played GAME.
-NOOB: But still, not too shabby, Mister Cosplay.
-Applause
-TYPEWRITER: Mister Cosplay- Defeated.
-TYPEWRITER: Mr.NAME- ranked 8th!
-Crowd woo
-
-======
-
-INFORMATION ===============================
 ID: 752
 TITLE: Dubious Cereal
 AUTHOR: Kymerah
@@ -25034,21 +24080,21 @@ VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
 CHARACTERS ================================
-VILL: Villain:Center Stage
 DIR: Director:Narrator Podium
+VILL: Villain:Center Stage
 SUGGESTIONS =============================
-VILLAIN: A name of an evil person fictional or real:Kid Puncher, Wife Stealer, Father Kisser, Tax Avoider
-HERO: A name of a hero, fictional or real:Captain Love, Charity Helper, Mr. Good Guy
-CRIME: A crime:Robbery, Murder, Crime, Piracy
-THINGS: Any small thing:Pennys, trading cards, jigsaw pieces, dice, crystals
-WEAK: A word you would call a weak person:Pathetic, lamentable, cowardly, sour
-BODY: A small part of the body:Nose, tooth, gyatt, nipple, ball
-EW: It tastes like “____!”:lemonade, garbage, black tar heroin
-PART: A large part of the human body:Head, arm, leg, torso
-ANIMAL: An animal :Dog, kitty-cat, Dolphin, Lizard
-SHOOT: A villainous catchphrase:Knowing is half the battle, green is not a creative colour, I am your father!
+PLACE: A planet:Earth, mars, pluto, venus
 DEATH: Last words before dying:I hope my insurance covers this! Ow my lower back!, I’m perishing! I’m melting!
-STORE: A food store or restaurant:Tesco, ASDA, Sainsbury’s, LIDL, Aldi
+SHOOT: A villainous catchphrase:Knowing is half the battle, green is not a creative colour, I am your father!
+ANIMAL: An animal :Dog, kitty-cat, Dolphin, Lizard
+PART: A large part of the human body:Head, arm, leg, torso
+EW: It tastes like “____!”:lemonade, garbage, black tar heroin
+BODY: A small part of the body:Nose, tooth, gyatt, nipple, ball
+WEAK: A word you would call a weak person:Pathetic, lamentable, cowardly, sour
+THINGS: Any small thing:Pennys, trading cards, jigsaw pieces, dice, crystals
+CRIME: A crime:Robbery, Murder, Crime, Piracy
+HERO: A name of a hero, fictional or real:Captain Love, Charity Helper, Mr. Good Guy
+VILLAIN: A name of an evil person fictional or real:Kid Puncher, Wife Stealer, Father Kisser, Tax Avoider
 SCRIPT ==========================================
 Oldschool hiphop music
 DIR: Okay VILLAIN, just relax, you’re gunna do great!
@@ -25173,112 +24219,6 @@ GUY: (sit on couch) Man, I really wanted that PROD..
 Aww
 GUY: If only I had a EMO CREATURE ROYAL….
 Laughter
-
-======
-
-INFORMATION ===============================
-ID: 754
-TITLE: Medieval Melee
-AUTHOR: Kymerah
-VERIFIED: True
-TAGS: Skit
-SET: Forest Bridge
-CHARACTERS ================================
-LOVER: The Lover:On bridge
-HERO: The Hero:Entrance Stage Left
-MENTOR: The Mentor:Backstage
-SUGGESTIONS =============================
-MENTOR: An old person name:Goobert, Reggie, Doug, Harry
-INNOCENT: Harmless living creatures:Babies, puppies, kittens, grandmas
-HERO: An epic sounding name:Maximillion, Gilgamesh, Avdol, Jeff
-FAMILY: A member of a family:Step-bro, sister, mother, father
-JOB: A low paying job title:Toilet cleaner, voice actor, coffin tester, seat sitter
-ORGAN: An internal organ:Heart, pancreas, lungs, womb
-ITEM: A desirable item:Xbox, PlayStation, Nintendo switch, rizz 
-FAN: A franchise you enjoy:Transformers, Star Wars, X-men, Vrchat
-WORD: Something you can to to another person (one word):Love, kiss, lick, touch
-CONCEPT: Absolutely anything:Walmart,L, AC/DC, Pewdiepie, Thanos
-FEEL: An emotion or state of being:silly, rage filled, hungry, sweaty, dumpy
-POWER: Someone of extreme power:Trump, Putin, Queen Elizabeth, Steve Harvey
-SCRIPT ==========================================
-Peaceful fantasy music
-HERO: I saw your horse. (hug) What are you doing out here?
-Aww
-LOVER: I was so worried about you. (hug) MENTOR told me absolutely terrible things.
-HERO: What things?
-LOVER: He said you turned evil. That you... killed INNOCENT.
-HERO: (shake head) MENTOR is trying to turn you against me.
-LOVER: He cares about us.
-HERO: Us? (Head tilt)
-LOVER: He knows.. He wants to help you. HERO, all I want is your love.
-HERO: Love won’t save you my dear, only my new abilities can do that.
-LOVER: At what cost? You're a good guy, don't do this.
-HERO: I won't lose you the way I lost my FAMILY.
-HERO: I am becoming more pure than any JOB has ever dreamed of, and I'm doing it all for you.
-HERO: To defend you.
-LOVER: Come away with me, help me raise our child, leave everything else behind while we still can.
-HERO: Don't you see, we don't have to run away anymore. I have brought peace to the realm.
-HERO: I am more powerful than POWER, I can overthrow them with ease.
-HERO: And together, you and I can rule this land. Make things the way we want them to be!
-LOVER: (back off) I don't believe what I'm hearing. MENTOR was right. You've changed.
-HERO: I don't want to hear any more about MENTOR.
-HERO: The FAN fans turned against me, don't you turn against me.
-LOVER: I don't know you anymore.. HERO, you're breaking my ORGAN... (cry)
-LOVER: You're going down a path I cant follow.
-HERO: Because of MENTOR?
-Music stops
-Vine boom
-LOVER: Because of what you've done, what you plan to do.
-LOVER: Stop. Stop now and come back.. I love you!
-teleport MENTOR to stage right
-HERO: (notice the other and point) Liar!
-LOVER: (look over) No!
-HERO: (point to MENTOR) You're with him! You brought him here to WORD me! (strangle)
-Sad chug jug music
-LOVER: (choking) No... No!
-MENTOR: Let her go HERO.
-LOVER: HERO.....!
-MENTOR: Let. Her. Go.
-LOVER: Uu.. (faint, lay down)
-Music stops
-HERO: You made her betray me?!
-MENTOR: You have done that by your own accord!
-HERO: You will not take her love from me!!!
-MENTOR: Your frustration and your need for ITEM has already done that.
-MENTOR: You have allowed this POWER to twist your noodle until now..
-MENTOR: Until now you have become the very thing you swore to destroy..
-HERO: Don't yap to me MENTOR. I see through the lies of the JOB higher-ups. I do not fear the FAN fans as you do.
-HERO: I have brought meat, salad, drink and women to my new land!
-MENTOR: Your new land!?
-HERO: Don't make me WORD you...
-MENTOR: HERO, my allegiance is to CONCEPT, to democracy!
-HERO: If you're not with me... Then you're my foe!
-Epic cinematic music
-MENTOR: I will do what I can to end you. (draw sword)
-Draw sword
-HERO: You can try... (draw sword and attack)
-Draw sword
-Sword fighting
-MENTOR: (defend yourself) Ooof!
-HERO: (back up and pose) Heeh.
-MENTOR: I have failed you HERO, I have failed you..
-HERO: I should of known that the JOB higher-ups were plotting to take over...
-MENTOR: HERO, we know the FAN fans are evil!
-HERO: And from my point of view, the people who are JOB are evil!
-MENTOR: Well then you are lost!!
-HERO: (badass sword pose) This is the end for you MENTOR..
-MENTOR: (stand at top of bridge) Its over HERO, I have the priority.
-HERO: (look up at them) You underestimate my skill.
-MENTOR: Don't attempt it..
-HERO: (run straight at them) Yaaah..
-MENTOR: (Cut them down) Hyaah.
-HERO: (fall in front river, defeated) Uooohh!
-MENTOR: (look down at them) You were the FEEL one!
-MENTOR: It was said you would WORD POWER, not help them!
-MENTOR: Bring peace to the land, not leave it without any INNOCENT!
-HERO: (look up at them) I dislike you!!!
-MENTOR: You were my FAMILY HERO.
-MENTOR: I really liked you...! (Walk away sad)
 
 ======
 
