@@ -1445,7 +1445,6 @@ ToeFungie
 melonvrc
 _Itri_
 Courier67
-༒vamprydeath༒
 lovelycalison
 kerykeion
 Noodle_bOy_Jr
@@ -1694,6 +1693,7 @@ CinnamonSoap4u 91db
 BitsyMouse
 Chandy Mandy
 Aether`
+༒vamprydeath༒
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
