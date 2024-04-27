@@ -20922,33 +20922,35 @@ VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Detective Noir
 CHARACTERS ================================
-REC: Poorly named Soldier:Backstage
-SOL: Reliable Soldier:Visitor Chair
 COM: Oblivious Commander:Detective Chair
+SOL: Reliable Soldier:Visitor Chair
+REC: Poorly named Soldier:Backstage
 SUGGESTIONS =============================
-HOLE: A hole in the human body:Ear, eye, mouth, nose, butt, belly button 
-ACTION: An action you can do with your arms:Dance, Wave, dab, thrust, fist bump, slap
-EVENT: An important event:No-nut-November, Friedan Friday, Free V-Bucks Tuesday, 2012, The Sabbath, my birthday
-BODY: A big part of the body:Head, arm, leg, torso, mouth
-PLACE: A building:Retail District, Home Depot, Tescos, Pet Store
-FAMILY: An older relative like “father”:Grandpa, grandma, mother, father
-PART: A small fragile part of the human body:Wenis, kneecap, butt, foot, groin
 MILLY: A short and snappy name:Cliffjumper, Hotrod, Needlenose, Hound
+PART: A small fragile part of the human body:wenis, kneecap, butt, finger, groin,
+FAMILY: An older relative like “father”:Grandpa, grandma, mother, father
+PLACE: A building:day-care, homeless shelter, charity store, hospital, church, 
+BODY: A big part of the body:Head, arm, leg, torso, mouth, eyeball, skin
+EVENT: An important event:No-nut-November, Free V-Bucks Tuesday, tomorrow and not today, The Sabbath, my birthday
+ACTION: An action you can do with your arms:Dance, Wave, dab, thrust, fist bump, slap, griddy, pose
+HOLE: A hole in the human body:Ear, eye, mouth, nose, butt, belly button, third leg
+STRONG: A word you would use to describe a strong person:Rough, firm, stiff, buff, heroic, imposing
+POWERFUL: A word to describe a big monster:mighty, scary, gargantuan, inspiring 
+TOOL: A work tool or household appliance:chainsaw, drill, grinder, juicer, oven, heater
+PINCH: A part of the body you don't want to be pinched:groin, nipple, buttock, boobie, cheek, tongue
 SCRIPT ==========================================
 Yankee Doodle music
 COM: Alright soldier, we’re just about ready to assault the enemy PLACE.
 COM: (look at soldier) MILLY.
 SOL: Yes Commander! I’m right here!
 COM: I will get the other troops ready.
-COM: You and PART BODY scout ahead for a clear path so we avoid any detection.
-SOL: You got it!
-SOL: W-Wait what?
-Vine boom
+COM: You and PART BODY scout ahead.
+SOL: You got it! W-Wait what?
 Music stops
 COM: We head out at 0600.
-COM: If there’s enemy patrol, give me the heads up, and we will prepare accordingly.
+COM: If there’s enemy patrol, give me the heads up.
 Groose music
-SOL: (hands forward) Hold hol.. PART…. PART BODY?
+SOL: (hands forward) Hold on.. PART…. PART BODY?
 COM: Huh?
 COM: Oh, PART BODY. They’re a new recruit. I want you to take them along.
 SOL: That’s really their name?
@@ -20958,14 +20960,14 @@ SOL: Their name is.. is PART BODY?
 COM: Yes. Their name is PART BODY.
 SOL: Who names their child “PART BODY?”
 COM: (shrug) What’s wrong with a name like that?
-SOL: I mean it’s just- Its just a bit of a strange name, don’tcha think?
+SOL: I mean it's just a bit of a strange name, don’tcha think?
 COM: I wouldn’t say it’s strange at all.
-COM: PART BODY! It sounds strong.
-COM: (hand on chin) Powerful, even.
+COM: PART BODY! It sounds STRONG.
+COM: (hand on chin) POWERFUL, even.
 Laughter
 SOL: I just can’t get my head around it.
 COM: (point) Look, if you’re going to be weird about it I can send you with someone else.
-SOL: (hands out) I- I’m not saying I can’t work with them!
+SOL: (hands out) I’m not saying I can’t work with them!
 COM: Well you seem really distracted by this.
 COM: And to be honest, we can’t afford distractions right now.
 COM: This assault has to happen today.
@@ -20980,7 +20982,7 @@ SOL: N-no no no, it’s not that, it’s just..
 REC: What even was it that you said? “Who would name their child that?”
 REC: You really think I asked to be called PART BODY?
 COM: No one is making fun of you, PART BODY.
-COM: (point) MILLY, look what you did…. You upset PART BODY.
+COM: (point) MILLY, look what you did, you upset PART BODY.
 Laughter
 SOL: What? N-n-no that’s not what I meant to say.
 REC: (point at self) This name means something, y’know!
@@ -20989,27 +20991,30 @@ SOL: That’s so..
 COM: (nod) That’s very brave of you, PART BODY.
 Laughter
 REC: But if that’s what you really think of me..
-REC: (hands on hips) Then I’ll just ACTION.
+REC: (Perform ACTION) Then I’ll just ACTION.
 COM: Don’t ACTION PART BODY!
 Laughter
 SOL: Do you hear yourselves?
 REC: No. Don’t bother!
 REC: I know well enough when I’m not wanted around.
 Aww
-REC: PART BODY, ACTION away!
+REC: (perform ACTION) PART BODY, ACTION away!
 REC: (leave, crying) I’m PART BODY…
 Music stops
 COM: You just had to be up PART BODY’s HOLE, didn’t you.
 Vine boom
 SOL: I-I feel like I’m going crazy.
-COM: (finger wag) Maybe if you didn’t spend so much time railing on people’s names you’d be happier with your life!
+COM: (finger wag) Maybe if you didn’t spend so much time railing on people’s names you’d be happier!
 Laughter
-SOL: Oh, come on commander..
+SOL: Oh, come on now commander..
 COM: Maybe you need more PART in your life!
 Waterphone
 SOL: Alright that’s it I’m done. (Leave fast)
-COM: (sit in chair, exhausted) I hope the enemy has to deal with this sort of thing..
-COM: Damn..
+COM: (reach out) MILLY don't.. Aww..
+COM: (sit) Maybe I went too far..
+COM: (check paper) Now, who do I have to brief next...
+COM: PINCH TOOL ?!
+laughter
 Applause
 
 ======
@@ -23025,22 +23030,22 @@ VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
 CHARACTERS ================================
-ACTOR3: Real actor:Backstage
-DIRECTOR: Director:Stage Right
-ACTOR2: Actor two:Center Stage
-ACTOR1: Actor one:Center Stage
 GUY: Random guy:Entrance Stage Right
+ACTOR1: Actor one:Center Stage
+ACTOR2: Actor two:Center Stage
+DIRECTOR: Director:Stage Right
+ACTOR3: Real actor:Backstage
 SUGGESTIONS =============================
-WEIRDONAME: A commonly used name:Bob, Jerry, Jack, Robert
-PRICE1: A large price for an item in a grocery store:$59.99, $99.99, $149.99
-STORE: The name of a grocery store:Safeway, Walmart, Whole Foods, Trader Joe's
-ITEM3: Something you would normally not find in a grocery store:a piano, a car, a nuclear warhead, another grocery store
-ACTNAME2: A name for a person:Eric, Johnson, Steve, Austen
-TIME: An amount of time:30 minutes, an hour and a half, 2 hours
-ITEM2: Something you would get at a grocery store:bread, cereal, bananas, peanut butter, chips
-ITEM1: Something you would get at a grocery store:milk, eggs, juice, cooking oil, mac and cheese
-GUYNAME: A name for a person:James, Kevin, Arnold, Gaven
 PRICE2: A VERY large amount of money:$5000.00, $8000.00 $4500.00
+GUYNAME: A name for a person:James, Kevin, Arnold, Gaven
+ITEM1: Something you would get at a grocery store:milk, eggs, juice, cooking oil, mac and cheese
+ITEM2: Something you would get at a grocery store:bread, cereal, bananas, peanut butter, chips
+TIME: An amount of time:30 minutes, an hour and a half, 2 hours
+ACTNAME2: A name for a person:Eric, Johnson, Steve, Austen
+ITEM3: Something you would normally not find in a grocery store:a piano, a car, a nuclear warhead, another grocery store
+STORE: The name of a grocery store:Safeway, Walmart, Whole Foods, Trader Joe's
+PRICE1: A large price for an item in a grocery store:$59.99, $99.99, $149.99
+WEIRDONAME: A commonly used name:Bob, Jerry, Jack, Robert
 SCRIPT ==========================================
 ACTOR1: Oh, come on, where is this guy?
 ACTOR2: Really, we have been waiting for TIME!
@@ -23068,7 +23073,7 @@ GUY: Why are you all staring at me?
 ACTOR1: Oh come on did you forget your lines already?
 DIRECTOR: (Enter stage) CUT, CUT, GUYNAME, please either say your lines or just improvise.
 GUY: Wait, will I get paid for this?
-DIRECTOR: Yeees?? Thats how a job works isn't it?
+DIRECTOR: Yeeesss?? Thats how a job works isn't it?
 GUY: How much?
 DIRECTOR: I thought we went over this. I said PRICE2.
 GUY: (To self) Oh wow that's a lot...
@@ -23085,8 +23090,8 @@ GUY: Um, sir? this is a STORE...
 ACTOR1: (To ACTNAME2) Really?
 ACTOR2: YES really!! We need ITEM3!
 GUY: Look, we don't have any ITEM3 here sorry.
-GUY: (Go into the back to look for ITEM2, make it sound like you are struggling with something)
-GUY: But on the brighter side, I've got your ITEM2.
+GUY: (Go into the back to look for ITEM2) (quietly) Oh, Agh, WEIRDONAME stop.
+GUY: (Walk out) But on the brighter side, I've got your ITEM2.
 ACTOR2: Thanks, also what was that noise?
 GUY: Don't worry about it that was just WEIRDONAME.
 ACTOR2: WEIRDONAME? I always wondered where he went.
@@ -23101,7 +23106,7 @@ ACTOR1: (Pay for ACTNAME2)
 ACTOR2: (to self) Why does ITEM2 cost so much these days. (Start to leave the store angrily but stop)
 Meanwhile ACTOR1: (Follow other actor halfway)
 Music stops
-ACTOR3: (Walk in) Hey guys sorry for the wait, my car broke down.
+ACTOR3: (Enter the right door) Hey guys sorry for the wait, my car broke down.
 DIRECTOR: (Quickly enter stage) HUUHH?? I thought this guy was you!?
 Silly music 2
 ACTOR3: What?
@@ -23115,7 +23120,7 @@ DIRECTOR: Yes? He did the acting better than you ever have.
 ACTOR3: Yeah, no. I'm out. Have fun with that Dumby.
 ACTOR3: (Start rapping) He's the maestro of missteps, tripping through life's maze.
 ACTOR3: In the land of blunders, his stupidity never ceases to amaze!! (Leave the store through the wrong door)
-ACTOR3: (Quickly run back to the actual exit)
+ACTOR3: (Quickly run back to the actual exit) 
 Music stops
 
 ======
@@ -24073,6 +24078,86 @@ Aww
 ======
 
 INFORMATION ===============================
+ID: 751
+TITLE: Raid Garbagé
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit
+SET: City
+CHARACTERS ================================
+BOSS: The hammy leader:Center Stage
+KID: The new recruit:Stage Right
+OLD: The very old person:Entrance Stage Right
+SUGGESTIONS =============================
+KID: A cute nickname:Babygirl, pebble, deadbeat, shrimp, darling, sapling
+DISTANCE: A very low number:1, 2, 3, 4, 5
+BODY: A fragile part of the human body:Elbow, toe, finger, lip, ass, groin
+OLD: A name for an old person:Goobert, Reggie, Camilla, FredFredBurger
+BEAST: A disgusting animal:Dung beetle, slug, spider, camel
+AGE: A large lovable age:100, 69, 4, 78
+WAR: An agressive last name:KillMen, ShootGun, PrisonShank, NoMercy
+DANCE: A dance to perform:Dab, griddy, gangnam style, twerk
+PART: A part of the body that needs loosening up:Leg, gyatt, nose, tit
+ITEM: An item you could steal:Funny toy, hamster, lip pump, corpse
+STORE: A retail store:BigBadToyStore, Amazon, EBay, Facebook marketplace
+ILL: An illness or disease:Urine infection, eye cancer, frostbite, Lurgy, bad breath
+SCRIPT ==========================================
+TYPEWRITER: The day before the operation.
+Spy music 1
+BOSS: I see you know how to follow directions, KID.
+KID: (shrug) Yeah, Yeah. You said just in front of the old pizza store, right? It’s not very difficult to find.
+BOSS: (nod and point) You’d be surprised. Quite a few new recruits fail to make it to the first scouting mission.
+KID: But isn’t your den like… DISTANCE yards away?
+BOSS: KID, this is why I lead these practice missions.
+BOSS: (point) Noobies like you think too plainly.
+BOSS: If you’re going to steal something, no one expects you to live DISTANCE yards away!
+KID: Whoa! (clap) You’re so wise! I never would of thought of it like that!
+BOSS: (hands forward) Please, please, spare me your praise. I learned it all from the best.
+KID: Who? Who’s the best? You seem pretty intelligent.
+BOSS: (point to pizza restaurant) Crusty BODY OLD!
+OLD: (hobble through door) I’m coming, I’m coming… hold yer horses you young whippersnappers...
+KID: Ew. They really are crusty..
+Vine boom
+OLD: What did you call me, you vile BEAST?!
+BOSS: KID, have some respect! They’re AGE years old and still working!
+BOSS: Now OLD, how would you personally attempt to steal from this Fancy Garbagé? (Point to store)
+OLD: (snore standing up) Zzzzz.
+KID: OLD? (Wave hand in front of them) BODY OLD?
+OLD: (wake up startled) E-Eh? You’re not Major Lieutenant WAR?! (Flail)
+KID: This old-timer is a liability!
+BOSS: Give them time, KID, they’re AGE years young!
+BOSS: OLD, how would you approach this? (Point to building)
+OLD: Well.. (finger on chin)
+OLD: (point to alley) firstly, I’d, start by doing a little DANCE over at that alley over yonder.
+OLD: (do a little DANCE) Doing a good ol’ boogie always loosens up my PART nicely!
+Laughter
+BOSS: Amazing! Just like that time back in 1962 when you stole ITEM from the STORE!
+KID: Wait, that was you BODY OLD?! My granny told me about that historic raid!
+OLD: Yes, yes. Good times…
+OLD: (point to store) Anyway, finally I’d simply enter the building and take what is mine!
+Waterphone
+KID: Huh?!
+BOSS: Brilliant! No one would suspect a AGE year old!
+BOSS: And if you got caught, you could blame it on your ILL!
+OLD: Heheheeee! (cough)
+BOSS: Okay KID! (Point to alley) perform a fancy DANCE over there then take a ITEM from that Fancy Garbagé!
+BOSS: We await your success! Let’s get some pizza, Crusty BODY OLD! (Enter pizza restaurant)
+OLD: Can we get one with my favourite toppings and some white sauce? (slowly follow them)
+Laughter
+Spy music 2
+KID: (DANCE in alley) How did OLD do it again? Like this?
+Music stops
+KID: Okay… here goes nothing! (Enter Fancy Garbagé store, close door)
+Crashing debris
+Gunshot
+Police car
+Silly music 2
+TYPEWRITER: KID tripped on their BODY. Then got shot AGE times.
+Aww
+
+======
+
+INFORMATION ===============================
 ID: 752
 TITLE: Dubious Cereal
 AUTHOR: Kymerah
@@ -24152,10 +24237,10 @@ VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
 CHARACTERS ================================
-WISH: Fairy Wish Prince:Backstage
-GUY: Bored guy:Couch
+WISH: The Fairy Wish Prince:Backstage
+GUY: Person wanting wish:Couch
 SUGGESTIONS =============================
-ROYAL: A royal title like “King”:King, queen, princess, duke, knight
+ROYAL: A royal title (example “King”):King, queen, princess, duke, knight, high emperor, The Almighty
 EMO: An emotion :Happy, sad, angry, horny
 CREATURE: A mythical creature:Elf, troll, goblin, demon
 PROD: An expensive product:PC, PSA 10 Base set Charizard, Goth Mommy, Full body tracking
@@ -24166,59 +24251,228 @@ YOUNG: Something you would call a young person:Boy, girl, chap, lad, lass, child
 PART: A specific part of the body:Boobs, ass, lips, cheeks
 FAN: A popular franchise:SpongeBob, FNAF, Fortnite, Marvel, Hazbin Hotel
 ORGAN: An internal organ:Heart, lung, pancreas, brain, balls
-SILLY: Another word for stupid:Wazzock, bafoon, silly billy, fool, idiot
+SILLY: A single word to describe someone:Lovely, pathetic, smelly, fruity, moist, foolish, idiotic
 SCRIPT ==========================================
 GUY: (turn off tv) That was a very slow episode of TV…
 GUY: (sigh) Boy, life sure is boring right now.
 GUY: If only I had a Fairy Wish Prince to grant me a— Oh my god!
-bard music
-Alien teleport
 Teleport WISH to center stage
-WISH: TUNE!
+Alien teleport
+bard music
+WISH: (arms out) Laaaaa!
 WISH: Hello little YOUNG!
 GUY: Who are you?
 WISH: I am your Fairy Wish Prince, at your service. (bow)
 GUY: (look them over) Whoa..!
-GUY: Hey, if you’re a prince how come you have PART?
+GUY: Hey, if you’re a prince how come you have...... PART?
 Laughter
-WISH: (grab PART) My plump, juicy PART are none of your god damned business.
+WISH: (grab PART) My plump, juicy PART is none of your god damned business.
 WISH: (point) And you’re one to talk, you chubby little FAN fan!
 Laughter
 GUY: (look down) Aw..
 WISH: (arm around shoulder) Oh, cheer up! I’m here to make your wildest dreams come true!
-WISH: Simply pinch my BODY three times and I’ll grant you one wish!
+WISH: Simply poke my BODY three times and I’ll grant you one wish!
 Vine boom
 GUY: Your BODY?!
 WISH: Anything your ORGAN desires will be yours for the taking.
 GUY: Really?
 WISH: For really! (Offer BODY)
 GUY: O-oh? Okay!
-WISH: Just pinch it.
+WISH: Just poke it.
 GUY: (extend hand) Lemme just..
 WISH: Come on now… Don’t be shy!
-GUY: (pinch) Oh!
+GUY: (poke 1) Oh!
 WISH: Yes, just like that!
-GUY: Hehe! (Pinch)
+GUY: Hehe! (poke 2)
 WISH: One more.
 WISH: Careful not to get SUB on your finger cuz I’m going to move around really fast like this. (Wobble BODY)
 Laughter
-GUY: H-hey, stop that! (final pinch)
-WISH: (perk up) Now what’s your one wish? The skys the limit.
+GUY: H-hey, stop that! (poke 3)
+WISH: (perk up) Now what’s your one wish? (reach out) The sky is the limit!
 GUY: Um.. I want PROD!
 Music stops
-WISH: You SILLY! You’re crazy, I can’t afford PROD.
-GUY: Oh.. You’re stupid.
+WISH: You SILLY YOUNG, I can’t afford a PROD!
+GUY: Oh..
+GUY: You’re stupid.
 WISH: Yeah..
 GUY: (clear throat) Hmm.
 WISH: What?
 GUY: Nothing..
 WISH: I’m going to go home now.
 GUY: Buh-bye. (Wave)
-WISH: (leave) Bye now.
+WISH: (leave) Bye now. (change avatar)
 GUY: (sit on couch) Man, I really wanted that PROD..
 Aww
-GUY: If only I had a EMO CREATURE ROYAL….
+TYPEWRITER: Ten seconds later…
+GUY: I guess my life really is boring..
+GUY: If only I had a EMO CREATURE ROYAL to grant me a— Oh my god!
+Teleport WISH to center stage
+Alien teleport
+bard music
+WISH: (arms out) Laaaaa!
+GUY: Oh no.... (hang head)
 Laughter
+applause
+
+======
+
+INFORMATION ===============================
+ID: 754
+TITLE: New Chimera
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Doctor's Office
+CHARACTERS ================================
+CHI: The Chimera:Backstage
+ASS: The Assistant:Entrance Stage Right
+SCI: The Scientist:Entrance Stage Right
+SUGGESTIONS =============================
+DANCE: A dance:Griddy, dap, whip, gangnam style
+EMB: A type of internet video:Cat, secret cam, vtuber, try not to fart
+HOLE: A hole of the human body:Mouth, nose, ear, eyes, tummy
+PART: A part of the body you can wipe:Gyatt, butt, ass, groin, mouth, armpit
+FAN: A popular franchise :Anime, MCU, FNAF, SpongeBob
+ERP: A thing a VRChat player can say:Turn on that mirror, can I clone your avatar?, can you ERP with me?
+VRCHAT: A type of Vrchat player:E-boy, femboy, furry, mirror-dweller
+PROT: A form of physical protection:Helmet, cup, bra, holy bible
+LIQUID: A liquid, smooth or lumpy:Blood, spit, spinal fluid, snot
+ILL: An illness or disease:The Lurgy, Covid, the common cold, life
+PLACE: A place, real or fake:Your mother, france, this stage, Gotham City
+NAME: A silly last name:Hinga-tinga-durgen, flimflom, wellington, jelly
+SCRIPT ==========================================
+Corporate guitar music
+SCI: (enter sneakily) Quickly assistant, quickly! Before the rest of the science team realise we’re gone!
+ASS: (enter) Where are we Professor NAME? This room isn’t on our lab schematic.
+SCI: This is my little secret test facility under PLACE, assistant!
+SCI: Where I’ve been making something… (hands together) Interesting.
+ASS: Oh! Is it that cure for ILL you’ve been talking about?
+ASS: (finger up) Or the rapid-fire LIQUID gun I’ve heard whispers of?
+SCI: (finger wag) Nonono.. We all know ILL is impossible to cure nowadays.
+Aww
+SCI: And I’ve long given up on finding a better way to drink LIQUID.. (hang head)
+Laughter
+ASS: Then what have you been working on in here?
+SCI: The Chimera….
+ASS: The what?
+Vine boom
+SCI: A being that’s composed for bits and pieces of different creatures.
+ASS: Yes, I know what a Chimera is Professor NAME..
+ASS: (hands up) But they’re fantasy, a myth! Have you lost your mind?!
+SCI: I know they don’t naturally exist. (Look at audience) But I’ve made my own..
+Waterphone
+ASS: W-what?! Is that legal?
+SCI: Hush, hush, assistant. This is no normal Chimera.
+ASS: How? (Look around) Where is it anyway?
+SCI: (point to the console) Merely press that button next to that bed to reveal the beast!
+ASS: Okay…. (Get ready to press) Do we need to wear PROT?
+SCI: Nah! Let’s go in raw! (Arms up) Press it!
+ASS: Here we go! (press button)
+Magic sound
+Teleport CHI to examination table
+CHI: Hello. (DANCE)
+ASS: Ah!! Oh… It doesn’t look like a mix of creatures..
+SCI: That’s because it’s all internal!
+SCI: (point to its head) It has the brain of a VRCHAT!
+CHI: ERP!
+SCI: And it’s heart! It has the heart of a FAN fan!
+CHI: Me love FAN! Me engage with FAN every hour!
+ASS: It really likes FAN? Impressive.
+ASS: What about their PART? What’s inside that?
+SCI: That’s just a normal PART.
+ASS: Aww. (Hang head) I wanted it to shoot LIQUID..
+CHI: Me like LIQUID. Put LIQUID in me HOLE like last week, Professor NAME!
+SCI: A-Ahh!! That’s enough! (press button)
+Magic sound
+teleport CHI to backstage
+ASS: Professor… What did the Chimera just say to you?
+SCI: You heard nothing. Nothing! (Leave fast)
+Laughter
+ASS: (look around) I wonder if I could make a cure for ILL here…
+ASS: (type on computer) Ew! Professor NAME! Your search history is full of EMB videos!
+Laughter
+
+======
+
+INFORMATION ===============================
+ID: 758
+TITLE: Doofy Draw
+AUTHOR: AirportPigeon
+VERIFIED: True
+TAGS: Skit
+SET: Western
+CHARACTERS ================================
+MOM: Mother:Backstage
+LAW: Sheriff:Entrance Stage Left
+COW: Cowboy:Entrance Stage Right
+SUGGESTIONS =============================
+HOLIDAY: A name of a holiday:Black Friday, thanksgiving, Christmas, 
+ANIMAL: A name for a animal:Ape, gorilla, baboon, biboof, dragon, kitten
+DISC: Describe how a desert tastes:Creamy, delicious, soft, scrumptious
+FRIEND: A name for a friend:Biboof the sigma, Mr beast, foot
+NAME: A stupid name:Biboo, megatron, aqua, eren yeager
+BODY: A body part of the lower section :Groin, Knee, Thigh, ass, shin
+SCRIPT ==========================================
+western piano music 2
+LAW: Well well well if it isn’t the infamous NAME the kid.
+LAW: I never thought you’d show your BODY in town again after what happened last Tuesday.
+COW: I thought it was last HOLIDAY. (Scratch BODY then sniff hand)
+music stops
+record scratch
+LAW: Are you stupid feller?
+vine boom
+COW: No I’m NAME are you stupid? (point at their BODY)
+laughter
+LAW: Hey it’s rude to point at someone’s BODY like that, especially on a Tuesday, DRAW! (whip out gun)
+western showdown music
+COW: (pull out pen and paper) Okay, what are we drawing? I got my pen and paper right here.
+scribbling
+LAW: (point to own gun) Your gun. Draw your gun! We're duelling.
+COW: But how can I draw it with my hands full?
+LAW: Drop your drawing utensils and get ready to fire!
+COW: (look around) Fire? Where?
+LAW: Damn, you really are an idiot, aren't ya?
+COW: No. My parents named me NAME!
+laughter
+LAW: I already know your name!
+LAW: Now draw!
+COW: My name?
+LAW: Your gun, pull out your gun and shoot me.
+COW: (hold up camera) Say cheese!
+LAW: (strike a pose) Wait, what? No! (slap camera from hand) Get that dumb thing outta here.
+aww
+COW: Hey! My friend FRIEND gave me that!
+LAW: Doesn't that make you angry?
+LAW: Angry enough to want to shoot someone?
+COW: I'm not angry....
+vine boom
+LAW: Oh? Then what are you?
+COW: I'm NAME.
+laughter
+LAW: That's enough! (Aim gun at their BODY)
+teleport MOM to balcony
+MOM: (wave hands) Stop, stop. Don't kill my DISC child.
+COW: (wave) Yay, its mommy!
+aww
+LAW: Is this your child ma'am?
+MOM: No he’s NAME!
+vine boom
+LAW: I know his damn name women I’m asking if he’s you damn child!
+LAW: You know what, don’t answer that, the answer is clear as day.
+MOM: Day isn’t clear, it’s bright! Just like my little boy NAME.
+LAW: I don’t think that’s quite the right term for him madam.
+MOM: M-my dam? I don’t own a dam and there’s no dam here! We’re in the desert, ya silly ANIMAL!
+COW: He’s not an ANIMAL, mom, he’s clearly a man.
+MOM: But what kind of man points a gun at my sweet NAME?
+LAW: I’ve had it! I’m out! (Run into general store)
+COW: He didn’t even say goodbye…
+Gunshot
+lacrimosa music
+COW: I wonder what his name was..
+MOM: It will be on his tombstone.
+COW: Tomb? But we're not in Egypt.
+TYPEWRITER: Legends say that they're still talking right now...
+crowd woo
 
 ======
 
