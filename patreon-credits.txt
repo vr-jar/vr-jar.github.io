@@ -301,7 +301,6 @@ DoubleUdon
 BiscuitTheFox
 Ｆａｗｋｅｓ
 PrinceDiva
-Blvxxii
 Draven1613
 Еugeo
 HaloGodKu 6d12
@@ -1696,6 +1695,7 @@ oscison
 GarΙicBreadCat
 เՇรгเק
 Disklexia
+Necromancy`
 #TIER=1
 ~ Ветерок ~
 AkaruHaru
