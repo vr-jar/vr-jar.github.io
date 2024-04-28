@@ -5,6 +5,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Dining Room
+DATE: 28/04/24
 CHARACTERS ================================
 CAT: Cat:Backstage
 OWNER: Cat owner:Backstage
@@ -128,6 +129,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Political Debate USA
+DATE: 28/04/24
 CHARACTERS ================================
 MODERATOR: Debate moderator:Moderator Table
 COWBOY: Cletus Williams:Podium Stage Left
@@ -227,6 +229,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Detective Noir
+DATE: 28/04/24
 CHARACTERS ================================
 DETECTIVE: Detective:Center Stage
 PIZZA GUY: Pizza Guy:Backstage
@@ -316,6 +319,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Detective Noir
+DATE: 28/04/24
 CHARACTERS ================================
 LADY: Mysterious Lady:Backstage
 DETECTIVE: Detective:Center Stage
@@ -391,6 +395,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Courtroom
+DATE: 28/04/24
 CHARACTERS ================================
 DEFENDANT: Defendant:Defendant Door
 PLAINTIFF: Plaintiff:Plaintiff Door
@@ -478,6 +483,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Political Debate USA
+DATE: 28/04/24
 CHARACTERS ================================
 MODERATOR: Debate moderator:Moderator Table
 JOHN: John Bear, eccentric candy company CEO:Podium Stage Right
@@ -585,6 +591,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 DYLAN: Dylan, College student:Center Stage
 FRANKIE: Frankie, Jock:Entrance Stage Left
@@ -678,6 +685,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 BOB: Bob Odenkirk, the actor from Better Call Saul:Center Stage
 NAOMI: Naomi Odenkirk, wife of Bob:Couch
@@ -810,6 +818,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Forest Bridge
+DATE: 28/04/24
 CHARACTERS ================================
 TROLL: Troll:On bridge
 BARD 1: Bard 1:Backstage
@@ -961,6 +970,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 LUPE: Lupe:Center Stage
 FERNANDO: Fernando:Center Stage
@@ -1072,6 +1082,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 BOBBY: Bobby, child:Center Stage
 SALLY: Sally, child:Center Stage
@@ -1161,6 +1172,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 HARRY: Harry Potter:Center Stage
 DUDLEY: Dudley, Harry's cousin:Couch
@@ -1273,6 +1285,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Dining Room
+DATE: 28/04/24
 CHARACTERS ================================
 UNCLE: P.J. Fiddlesticks, Weird Hobo Uncle:Backstage
 SON: Son:Chair 1
@@ -1377,6 +1390,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 HUMAN: Ordinary modern day person:Backstage
 WIZARD: Wizard:Center Stage
@@ -1480,6 +1494,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 TREVOR: Trevor, Friend with cellphone:Couch
 JACOB: Jacob, Friend with concerns:Stage Left
@@ -1612,6 +1627,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 SPYDUDE: Super spy:Center Stage
 TECHNICIAN: Gadget technician:Corner Left
@@ -1688,6 +1704,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 KNIGHT: Dark Knight of Living Darkness:Backstage
 PALADIN: Paladin of Justice:Center Stage
@@ -1789,6 +1806,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 ALEXA: Contestant #2 (Shirtless atttractive man):Contestant Podium 2
 TREVOR: Contestant #1 (Shirtless atttractive man):Contestant Podium 1
@@ -1883,6 +1901,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Game Show
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 CHILD: Child actor:Backstage
 MOTHER: Mother actor:Backstage
@@ -2011,6 +2030,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Backyard
+DATE: 28/04/24
 CHARACTERS ================================
 BOB: Bob, BBQ dad:Grill
 SUSAN: Susan, loud annoying neighbor:Neighbor's yard
@@ -2131,6 +2151,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
 DOCTOR: Doctor:Backstage
 PATIENT: Patient:Examination Table
@@ -2216,6 +2237,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 HUSBAND: Husband:Center Stage
 WIFE: Wife:Center Stage
@@ -2331,6 +2353,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Grocery Store
+DATE: 28/04/24
 CHARACTERS ================================
 MANAGER: Store manager:Backstage
 JENNY: Pokemon trainer kid (nemesis):Backstage
@@ -2440,6 +2463,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Campsite
+DATE: 28/04/24
 CHARACTERS ================================
 MOMMA BEAR: Larger grizzly bear:Backstage
 GRIZZLY BEAR: Grizzly bear:Backstage
@@ -2539,6 +2563,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Game Show
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 HOST: Gameshow host:Backstage
 TREVOR: Contestant #1:Contestant Podium 1
@@ -2643,6 +2668,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Game Show
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 ALEXA: Contestant #2:Contestant Podium 2
 TREVOR: Contestant #1:Contestant Podium 1
@@ -2760,6 +2786,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Game Show
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 HOST: Gameshow host:Backstage
 TREVOR: Contestant #1:Contestant Podium 1
@@ -2832,6 +2859,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 HUMAN: Generic human:Backstage
 PIKACHU: Another pokemon creature:Backstage
@@ -2933,6 +2961,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Game Show
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 LUCKY: Lucky the Cowboy:Contestant Podium 2
 JEN: Doctor Jen:Contestant Podium 1
@@ -3029,6 +3058,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 DISCORD MOD: Discord moderator:Contestant Podium 2
 EGIRL: e-girl:Contestant Podium 1
@@ -3112,6 +3142,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Game Show
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 CONTESTANT 2: Francis:Contestant Podium 2
 CONTESTANT 1: Paula:Contestant Podium 1
@@ -3204,6 +3235,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
+DATE: 28/04/24
 CHARACTERS ================================
 MANN: Man:Backstage
 WOMAN: Woman:Stage Right
@@ -3282,6 +3314,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Infomercial
 SET: Infomercial Kitchen
+DATE: 28/04/24
 CHARACTERS ================================
 ACTOR 2: Paid actor, antagonist:Backstage
 ACTOR 1: Paid actor, protagonist:Backstage
@@ -3372,6 +3405,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
+DATE: 28/04/24
 CHARACTERS ================================
 CHILD: Rambunctious child:Stage Right
 MOTHER: Mother:Stage Right
@@ -3451,6 +3485,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Infomercial
 SET: Infomercial Kitchen
+DATE: 28/04/24
 CHARACTERS ================================
 BILLY MAYS: Billy Mays, salesperson:Center Stage
 SON: Young son of Billy Mays:Backstage
@@ -3545,6 +3580,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Infomercial
 SET: Infomercial Kitchen
+DATE: 28/04/24
 CHARACTERS ================================
 BILLY MAYS: Billy Mays, salesperson:Stage Right
 TOASTER: A toaster:Backstage
@@ -3636,6 +3672,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
+DATE: 28/04/24
 CHARACTERS ================================
 CUSTOMER 2: Customer 2, friend:Stage Left
 CUSTOMER 1: Customer 1, friend:Stage Left
@@ -3704,6 +3741,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Infomercial
 SET: Infomercial Bathroom
+DATE: 28/04/24
 CHARACTERS ================================
 BILLY MAYS: Billy Mays, salesperson:Center Stage
 SUGGESTIONS =============================
@@ -3743,6 +3781,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Infomercial
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 BILLY MAYS: Billy Mays, salesperson:Backstage
 MOTHER: Frantic mother:Backstage
@@ -3829,6 +3868,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 SHAGGY: Shaggy from Scooby-Doo:Center Stage
 BILLY MAYS: Billy Mays, Salesperson:Center Stage
@@ -3910,6 +3950,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
 DOCTOR: Doctor:Backstage
 FRIEND: Patient's friend:Center Stage
@@ -3982,6 +4023,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
 DOCTOR: Doctor:Backstage
 PATIENT: Patient:Examination Table
@@ -4073,6 +4115,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 BOB: Person:Stage Left
 JIM: Person:Stage Right
@@ -4174,6 +4217,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 AGENT: Secret agent:Center Stage
 MAILMAN: Mail delivery person:Backstage
@@ -4276,6 +4320,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit,Contains Adult Innuendo
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 DUDE: Dude:Couch
 AI: Smart TV 6000:Front Door
@@ -4370,6 +4415,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit,Contains Adult Innuendo
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 JOHN: Officer John, secret lover:Entrance Stage Right
 BECKY: Officer Becky, secret lover:Entrance Stage Right
@@ -4461,6 +4507,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit
 SET: Hardware Store
+DATE: 28/04/24
 CHARACTERS ================================
 CUSTOMER: A customer:Backstage
 CLERK: A store clerk:Behind Register
@@ -4537,6 +4584,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit
 SET: Hardware Store
+DATE: 28/04/24
 CHARACTERS ================================
 CUSTOMER 1: Customer 1, couple:Backstage
 CUSTOMER 2: Customer 2, couple:Backstage
@@ -4621,6 +4669,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 SUSPECT: Suspect:Chair
 COP: Police detective:Center Stage
@@ -4705,6 +4754,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 PERSON: A person:Couch
 RELATIVE: Concerned family member:Backstage
@@ -4782,6 +4832,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 MAN: The husband:Entrance Stage Left
 WIFE: The wife:Entrance Stage Right
@@ -4872,6 +4923,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 COWBOY: Cowboy visitor:Backstage
 CAT: A talking cat:Center Stage
@@ -4950,6 +5002,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 BOSS: The boss:Boss Chair
 EMPLOYEE: A loyal employee:Office Chair 1
@@ -5023,6 +5076,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 ERIC: Person named Eric:Center Stage
 NINA: Person named Nina:Kitchen
@@ -5097,6 +5151,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 SAD BARD: A sad bard:Center Stage
 HAPPY BARD: A happy bard:Center Stage
@@ -5182,6 +5237,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 BOSS: The boss:Boss Chair
 EMPLOYEE: An employee:Office Chair 1
@@ -5245,6 +5301,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 MOM: Ordinary mother:Kitchen
 KID: Ordinary child:Couch
@@ -5304,6 +5361,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 BOB: Spouse 1:Couch
 JILL: Spouse 2:Couch
@@ -5378,6 +5436,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Infomercial
 SET: Infomercial Kitchen
+DATE: 28/04/24
 CHARACTERS ================================
 SELLER: Billy Mays, Infomercial presenter:Center Stage
 ROBOT: Robot (product):Center Stage
@@ -5435,6 +5494,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 KNIGHT: Sir Arthur, brave knight:Center Stage
 DOG: Max, dog:Center Stage
@@ -5531,6 +5591,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Prototype,Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 WANDERER: Wanderer:Center Stage
 SALESPERSON: Salesperson:Backstage
@@ -5597,6 +5658,7 @@ AUTHOR: missingnickel
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Courtroom
+DATE: 28/04/24
 CHARACTERS ================================
 JUDGE: Judge:Backstage
 BAILIFF: Bailiff:Bailiff Corner
@@ -5666,6 +5728,7 @@ AUTHOR: missingnickel
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
+DATE: 28/04/24
 CHARACTERS ================================
 STORE CLERK: Store Clerk who works at the store:Behind Register
 TIRED PARENT: Tired parent who needs to get shopping done:Backstage
@@ -5751,6 +5814,7 @@ AUTHOR: missingnickel
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 MOTHER: a tired mother:Kitchen
 CHILD: an annoying child:Couch
@@ -5830,6 +5894,7 @@ AUTHOR: PsyKoJesterZ
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 SUSAN: Mom:Backstage
 TREVOR: BF:Front Door
@@ -5892,6 +5957,7 @@ AUTHOR: Zen the Fen
 VERIFIED: True
 TAGS: Skit,Game Show
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 CHESTER: Chester, the game show contestant:Backstage
 HOST: Mike Michaels, the game show host:Backstage
@@ -5971,6 +6037,7 @@ AUTHOR: Cloaked Schemer
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 LAZZIE: Long lost Father:Backstage
 GRANDMA: Traumatized Granny:Couch
@@ -6102,6 +6169,7 @@ AUTHOR: ruralist
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 KIRK: Employee Fixing Toaster:Center Stage
 DAVID: Employee Not Wanting Toaster Fixed:Entrance Stage Right
@@ -6170,6 +6238,7 @@ AUTHOR: Cashmanigan
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 MONSTER: Antagonist "monster":Entrance Stage Right
 SIBLING #2: Cautious sibling:Entrance Stage Left
@@ -6262,6 +6331,7 @@ AUTHOR: Basemisl
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 SQUIRREL: A very territorial forest squirrel.:Backstage
 HUNTER: A hunter who has been scouring the forest, hoping to hunt an illusive cryptid.:Backstage
@@ -6376,6 +6446,7 @@ AUTHOR: Furfante
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 SUMMONER: Demon Summoner:Center Stage
 DEMON: Powerful, wish granting demon:Backstage
@@ -6474,6 +6545,7 @@ AUTHOR: Bosslayer
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 MOM: Mom:Backstage
 ANTHONY: Friend offering food:Entrance Stage Right
@@ -6613,6 +6685,7 @@ AUTHOR: JamminJames22
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 BROWSER: Sneaky Villain:Stage Left
 MARTY-O: Big Bro:Backstage
@@ -6720,6 +6793,7 @@ AUTHOR: Generator10
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
+DATE: 28/04/24
 CHARACTERS ================================
 DETECTIVE PIKACHU: Detective Pikachu:Center Stage
 TIM: Tim, Detective's Partner:Backstage
@@ -6819,6 +6893,7 @@ AUTHOR: Basemisl
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 VILLAIN: Supervillain:Center Stage
 MINION: Supervillain's minion:Stage Left
@@ -6928,6 +7003,7 @@ AUTHOR: Oerlikon
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
+DATE: 28/04/24
 CHARACTERS ================================
 MYSTERIOUS CHARACTER: Mysterious character:Backstage
 SPOUSE: Spouse of a missing person:Backstage
@@ -7004,6 +7080,7 @@ AUTHOR: TrickySpookster
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
+DATE: 28/04/24
 CHARACTERS ================================
 PIZZA GUY: Pizza Guy:Backstage
 CHAOTIC PLAYER: Chaotic Player:Chair 4
@@ -7112,6 +7189,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Debug,Skit
 SET: Western
+DATE: 28/04/24
 CHARACTERS ================================
 TEST CHARACTER: TEST:Center Stage
 SUGGESTIONS =============================
@@ -7133,6 +7211,7 @@ AUTHOR: JanieUwU
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
 DOCTOR: The physician.:Entrance Stage Right
 WIFE: The pregnant wife.:Examination Table
@@ -7260,6 +7339,7 @@ AUTHOR: Generator10
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
 PINKY: Pinky the Insane:Entrance Stage Left
 BRAIN: Brain the Genius:Entrance Stage Left
@@ -7377,6 +7457,7 @@ AUTHOR: Basemisl
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 JULIET: Juliet:Backstage
 ROMEO: Romeo:Backstage
@@ -7495,6 +7576,7 @@ AUTHOR: Bеtty
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 EMPLOYEE: Employee:Backstage
 APPLICANT: Applicant:Office Chair 1
@@ -7600,6 +7682,7 @@ AUTHOR: TrickySpookster
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 MEDIUM: Psychic Medium:Center Stage
 GHOST: Ghost:Backstage
@@ -7678,6 +7761,7 @@ AUTHOR: spurstx
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 STORYTELLER: Narrator, is AFRAID CIVILIAN in the future:Narrator Podium
 EVIL ALIEN: Alien, is very mysterious:Entrance Stage Left
@@ -7746,6 +7830,7 @@ AUTHOR: Ziggy Darkglow
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 HOMEBODY 2: Joining in with your friend:Stage Left
 HOMEBODY 1: Convincing your friend to workout:Couch
@@ -7822,6 +7907,7 @@ AUTHOR: JanieUwU
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
+DATE: 28/04/24
 CHARACTERS ================================
 BADGUY: Bad Guy (Small part):Backstage
 DEVICE: The Navigation Tool:Backstage
@@ -7926,6 +8012,7 @@ AUTHOR: thetrashmonarch
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 CHILD: The young child.:Backstage
 DAD: The father.:Stage Left
@@ -7992,6 +8079,7 @@ AUTHOR: Jamin'Jelly
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
+DATE: 28/04/24
 CHARACTERS ================================
 MAIN DETECTIVE: The Main Detective:Detective Chair
 UNKNOWING DETECTIVE: The Second Detective:Backstage
@@ -8106,6 +8194,7 @@ AUTHOR: JanieUwU
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
+DATE: 28/04/24
 CHARACTERS ================================
 CUSTOMER2: Generic Customer NPC:Backstage
 CUSTOMER1: Generic Customer NPC:Backstage
@@ -8162,6 +8251,7 @@ AUTHOR: MrCreepyPasta
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
+DATE: 28/04/24
 CHARACTERS ================================
 LILY : Lily, Final Girl:Stage Right
 JASON : Jason, First to Die:Stage Right
@@ -8233,6 +8323,7 @@ AUTHOR: IvoryFluff
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
 PATIENT: The patient awaiting treatment.:Examination Table
 SIBLING: The overly-curious sibling of the patient.:Center Stage
@@ -8303,6 +8394,7 @@ AUTHOR: Dangerzone50
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 PLAYER2: The new challenger:Contestant Podium 2
 PLAYER1: The returning champ:Contestant Podium 1
@@ -8372,6 +8464,7 @@ AUTHOR: Cloaked Schemer
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
 GUY: Guy Getting a sick new tattoo:Backstage
 FRIEND: Friend who dares friend to get the best tattoo:Backstage
@@ -8464,6 +8557,7 @@ AUTHOR: toast6741
 VERIFIED: False
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 ALIEN: An alien. The real culprit behind Japan’s destruction.:Backstage
 BUTLER: The butler. A gag character for any “The butler did it!” jokes.:Backstage
@@ -8535,6 +8629,7 @@ AUTHOR: LuckyLuigiX4
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 SUPER VILLAIN: Villain, The one in Control:Entrance Stage Right
 SUPER HERO: Hero, Weakened, but not dead:Corner Left
@@ -8615,6 +8710,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Classroom
+DATE: 28/04/24
 CHARACTERS ================================
 TEACHER: Teacher watching over detention:Teacher Desk
 ALICE: A student in detention:Desk 1
@@ -8702,6 +8798,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Dining Room
+DATE: 28/04/24
 CHARACTERS ================================
 OTHER GUEST: Fancy dinner guest:Narrator Podium
 BODYGUARD: Evil mastermind's bodyguard:Stage Left
@@ -8802,6 +8899,7 @@ AUTHOR: Jay3409
 VERIFIED: True
 TAGS: Skit
 SET: Infomercial Kitchen
+DATE: 28/04/24
 CHARACTERS ================================
 JAMIE: Juror:Center Stage
 CHEF2: Chef Sam:Stage Right
@@ -8867,6 +8965,7 @@ AUTHOR: Dangerzone50
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Classroom
+DATE: 28/04/24
 CHARACTERS ================================
 TEACHER: The Teacher:Teacher Desk
 KID1: A (male) student:Desk 1
@@ -8943,6 +9042,7 @@ AUTHOR: justjack8
 VERIFIED: False
 TAGS: Skit
 SET: Dining Room
+DATE: 28/04/24
 CHARACTERS ================================
 POLICEMAN: The One Who Takes Mrs. Peacock into custody:Backstage
 MISS SCARLETT: Suspect, sultry and beautiful actress:Center Stage
@@ -9033,6 +9133,7 @@ AUTHOR: Jamin'Jelly
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 TB: The Boss:Backstage
 MF: Manager's Friend:Office Chair 2
@@ -9101,6 +9202,7 @@ AUTHOR: _Malphas
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 NERVOUS PERSON: A very antsy person meeting their date for the first time:Center Stage
 CONFIDENT PERSON: A person who's experienced with relationships:Entrance Stage Left
@@ -9215,6 +9317,7 @@ AUTHOR: Dangerzone50
 VERIFIED: True
 TAGS: Skit
 SET: Hardware Store
+DATE: 28/04/24
 CHARACTERS ================================
 SON: Son:Center Stage
 DAD: Dad:Center Stage
@@ -9281,6 +9384,7 @@ AUTHOR: Cloaked Schemer
 VERIFIED: True
 TAGS: Skit
 SET: Infomercial Bathroom
+DATE: 28/04/24
 CHARACTERS ================================
 WITCH: A Very Evil Witch brewing a potion:Entrance Stage Right
 GOBLIN: Goblin watching the Door:Entrance Stage Left
@@ -9391,6 +9495,7 @@ AUTHOR: Gibus_the_Gibus
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
 RELATIVE: Family relative:Backstage
 CHILD: Terminally ill child:Examination Table
@@ -9457,6 +9562,7 @@ AUTHOR: tfmjonny
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 KID: Marvin, A Content Creator:Backstage
 MOM: A Concerned Mother:Stage Left
@@ -9560,6 +9666,7 @@ AUTHOR: Jamin'Jelly
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
+DATE: 28/04/24
 CHARACTERS ================================
 COOK: The Cook:Grill
 NEIGHBOR: The Neighbor:Backstage
@@ -9650,6 +9757,7 @@ AUTHOR: Danny Grey
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Dining Room
+DATE: 28/04/24
 CHARACTERS ================================
 DAD: Father:Chair 2
 MOM: Mother:Chair 3
@@ -9774,6 +9882,7 @@ AUTHOR: Bеtty
 VERIFIED: True
 TAGS: Skit
 SET: Infomercial Kitchen
+DATE: 28/04/24
 CHARACTERS ================================
 VRCHAT DEVELOPER: VRChat Developer:Center Stage
 SUGGESTIONS =============================
@@ -9827,6 +9936,7 @@ AUTHOR: theoneandonlywallter
 VERIFIED: False
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 NOAH: Noah:Couch
 BLUE: Blue:Couch
@@ -9910,6 +10020,7 @@ AUTHOR: Panda oᴥo
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 JUDGE: Stern-faced Judge:Narrator Podium
 CONTESTANT_TWO: Confident Contestant #2:Contestant Podium 2
@@ -9969,6 +10080,7 @@ AUTHOR: GSGenesis
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 GENE SISBON: Gene Sisbon, Host:Host Podium
 VALERIE: Valerie, a regular contestant:Contestant Podium 2
@@ -10073,6 +10185,7 @@ AUTHOR: Bеtty
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 RIDDLER: The Riddler, Villain:Center Stage
 ALFRED: Alfred, Butler:Narrator Podium
@@ -10187,6 +10300,7 @@ AUTHOR: Metru Blizzaga
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
+DATE: 28/04/24
 CHARACTERS ================================
 KODOMO: The Problem Student, Kodomo:Desk 5
 JOSEI: The Laid-back Student, Josei:Desk 1
@@ -10280,6 +10394,7 @@ AUTHOR: Asuraisop
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 YOUTUBER: Youtuber:Couch
 RANDOM PERSON: Random person / victim:Entrance Stage Left
@@ -10355,6 +10470,7 @@ AUTHOR: IshikawaSAC
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 SIDEKICK: A small, nervous assistant:Stage Right
 KNIGHT: A brave knight with a sword:Center Stage
@@ -10418,6 +10534,7 @@ AUTHOR: Cloaked Schemer
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 CUSTOMER: Customer in need of a Waifu:Office Chair 1
 AIGF: Waifu (Will change avatars mid-script):Backstage
@@ -10533,6 +10650,7 @@ AUTHOR: DuckingGoose
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 AGENT: Secret Service Agent for the U.S Government.:Backstage
 MORTON: President Of The United States.:Boss Chair
@@ -10615,6 +10733,7 @@ AUTHOR: Hiddendemonsoul
 VERIFIED: True
 TAGS: Infomercial
 SET: Campsite
+DATE: 28/04/24
 CHARACTERS ================================
 COMFY DAD: Dad:Camping chair
 MYSTERY MAN: Mystery Man in the shadows:Behind bushes
@@ -10672,6 +10791,7 @@ AUTHOR: IshikawaSAC
 VERIFIED: True
 TAGS: 
 SET: Political Debate USA
+DATE: 28/04/24
 CHARACTERS ================================
 CANDIDATE 2: A generic presidential candidate:Podium Stage Left
 CANDIDATE 1: A generic presidential candidate:Podium Stage Right
@@ -10749,6 +10869,7 @@ AUTHOR: Gibus_the_Gibus
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 COURIER: Delivery Guy, delivering the pizza.:Backstage
 CUSTOMER: Customer, ordered a pizza.:Center Stage
@@ -10813,6 +10934,7 @@ AUTHOR: freshclover
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 LOVER 2: Obsessive lover, contestant:Contestant Podium 2
 LOVER 1: Lover with a dark secret, contestant:Contestant Podium 1
@@ -10943,6 +11065,7 @@ AUTHOR: Shalazar
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 MARK: Good-Cop (Avatar with gun helps):Stage Left
 BOB: Bad-Cop (Avatar with gun helps):Entrance Stage Right
@@ -11072,6 +11195,7 @@ AUTHOR: AnObviousTrap
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
+DATE: 28/04/24
 CHARACTERS ================================
 PARENT: Parent:Grill
 CHILD: Child:Sandbox
@@ -11144,6 +11268,7 @@ AUTHOR: Mr Mcree
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 MOTHER: Single Mother :Backstage
 OLDER BROTHER: Big brother :Couch
@@ -11213,6 +11338,7 @@ AUTHOR: Envizo
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
+DATE: 28/04/24
 CHARACTERS ================================
 CAMPER1: Ditsy camper:Stump chair
 CAMPER2: Spontaneous camper:Camping chair
@@ -11308,6 +11434,7 @@ AUTHOR: LoonaWusky
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
+DATE: 28/04/24
 CHARACTERS ================================
 TEACHER: A weird substitute teacher for the day:Entrance Stage Left
 TIMOTHY: A very derpy student:Desk 1
@@ -11382,6 +11509,7 @@ AUTHOR: ~×cozy×~
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
+DATE: 28/04/24
 CHARACTERS ================================
 SALLY: Sally(love interest):Stage Left
 FUTURE JONNY: John from the future:Backstage
@@ -11453,6 +11581,7 @@ AUTHOR: theeg67guyfromeguardians
 VERIFIED: False
 TAGS: Skit
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 THE BOSS: The Boss:Stage Right
 ELI: Eli, product tester:Backstage
@@ -11563,6 +11692,7 @@ AUTHOR: JoeyPie
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
 BABY: A baby with a deep voice speaking perfect english:Backstage
 RECEPTIONIST: The stressed out receptionist Mrs. Honey:Backstage
@@ -11663,6 +11793,7 @@ AUTHOR: CaptainJackk
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 VILLAIN: The Villain:Stage Left
 HERO: The broken Hero:Stage Right
@@ -11780,6 +11911,7 @@ AUTHOR: Deadly~Lex
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 SANTA CLAUS: Santa Claus:Backstage
 THE YOUNG CHILD: A young child:Backstage
@@ -11857,6 +11989,7 @@ AUTHOR: AnObviousTrap
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 PVAIN: Party Dude:Backstage
 MVAIN: Muscle Man:Entrance Stage Right
@@ -11944,6 +12077,7 @@ AUTHOR: MrShark97
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 CHILD: A small child:Side Door
 MOTHER: A caring mother:Side Door
@@ -12017,6 +12151,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 BOSS: The Boss, tasting the food:Boss Chair
 CHEF: The Passionate old Chef:Office Chair 1
@@ -12102,6 +12237,7 @@ AUTHOR: Ɛ≻MokaLoka≺3
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 DEMONIC THE TV GHOST: The Ghost that comes out of tvs:Backstage
 LAILA: Willow's Girlfriend:Kitchen
@@ -12205,6 +12341,7 @@ AUTHOR: CinnaBunBunn
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
 DOCTOR: Love Doctor:Center Stage
 PATIENT: Patient, a lonely soul:Backstage
@@ -12272,6 +12409,7 @@ AUTHOR: MrShark97
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 CONTESTANT2: Contestant #2:Contestant Podium 2
 CONTESTANT1: Contestant #1:Contestant Podium 1
@@ -12366,6 +12504,7 @@ AUTHOR: LoonaWusky
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
+DATE: 28/04/24
 CHARACTERS ================================
 GABRIEL: A person that loves telling scary stories:Camping chair
 CASSIDY: Gabriel's best friend:Log chair
@@ -12438,6 +12577,7 @@ AUTHOR: MrShark97
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 BARD: Bard:Stage Right
 PALADIN: Paladin:Stage Right
@@ -12502,6 +12642,7 @@ AUTHOR: TiffanyMoon
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
+DATE: 28/04/24
 CHARACTERS ================================
 CREATURE: The creature:Backstage
 GIRL: Young camper girl:Rock chair
@@ -12578,6 +12719,7 @@ AUTHOR: jasthefrog
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 SAMANTHA: Samantha is the liked child:Backstage
 GRANDMA: the old grammy:Couch
@@ -12664,6 +12806,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 COP: Interrogating the suspect :Behind Door
 ANIMAL: Translating what the suspect says:Backstage
@@ -12760,6 +12903,7 @@ AUTHOR: gkchez
 VERIFIED: False
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 ALEX: Alex, College student:Entrance Stage Left
 DERRICK: Derrick, Alex's roommate:Backstage
@@ -12864,6 +13008,7 @@ AUTHOR: ~×cozy×~
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 MAGICIAN: Magician:Center Stage
 APPRENTICE: The Magicians Apprentice:Stage Right
@@ -12919,6 +13064,7 @@ AUTHOR: CaptainJackk
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
+DATE: 28/04/24
 CHARACTERS ================================
 WARRIOR: Hero's friend:On bridge
 MONSTER: Monster:Stage Left
@@ -13015,6 +13161,7 @@ AUTHOR: PuppyShogun
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 SCROOGE: Ebenezer Scrooge:Center Stage
 BOB: Bob Cratchit:Center Stage
@@ -13104,6 +13251,7 @@ AUTHOR: bitchfacee
 VERIFIED: False
 TAGS: Skit
 SET: Campsite
+DATE: 28/04/24
 CHARACTERS ================================
 MONSTER: The forest monster:Backstage
 STELLA: Stella, the w o m e n:Camping chair
@@ -13209,6 +13357,7 @@ AUTHOR: Jasperwolf08
 VERIFIED: True
 TAGS: Skit
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 CONTESTANT: Contestant:Host Podium
 SHARK ONE: Shark One:Contestant Podium 1
@@ -13284,6 +13433,7 @@ AUTHOR: Melo the Marten
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
+DATE: 28/04/24
 CHARACTERS ================================
 DOCTOR: Bad doctor:Teacher Desk
 CHILD: Dumb child:Entrance Stage Right
@@ -13365,6 +13515,7 @@ AUTHOR: Cy Bunny
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 MONSTER: A Monster based on an Animal:Center Stage
 HERO: Hero:Backstage
@@ -13474,6 +13625,7 @@ AUTHOR: justjack8
 VERIFIED: False
 TAGS: Game Show
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 HOST: The Host:Entrance Stage Right
 CONTESTANT #1: Contestant #1 (A stay home mom who loves to cook):Backstage
@@ -13560,6 +13712,7 @@ AUTHOR: scottytheghost
 VERIFIED: True
 TAGS: 
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 CELEBRITY: A famous celebrity:Backstage
 JOHN: John, the anxious friend:Kitchen
@@ -13663,6 +13816,7 @@ AUTHOR: TheMutant44
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 BERNARD: Bernard the mugger:Entrance Stage Left
 CHARLES: Charles the mugger:Entrance Stage Left
@@ -13754,6 +13908,7 @@ AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 THE FATHER: The Worried Father:Stage Right
 THE DEMON: The Demon who lives in the Sink:Kitchen
@@ -13858,6 +14013,7 @@ AUTHOR: scottytheghost
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 GENIE: The genie:Backstage
 FRIEND2: The secretly evil friend:Entrance Stage Right
@@ -13971,6 +14127,7 @@ AUTHOR: scottytheghost
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
+DATE: 28/04/24
 CHARACTERS ================================
 FRIEND3: The victim:Chair 1
 FRIEND2: The anxious friend:Chair 2
@@ -14048,6 +14205,7 @@ AUTHOR: LongPinkNoodle
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
+DATE: 28/04/24
 CHARACTERS ================================
 ALIEN: An Alien Invader.:Center Stage
 PRIVATE: A timid Private assassin.:Moderator Table
@@ -14160,6 +14318,7 @@ AUTHOR: Raven Android
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 FATHER: Out of Touch Father:Center Stage
 SON: Uninterested Son:Stage Left
@@ -14262,6 +14421,7 @@ AUTHOR: scottytheghost
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 PURPLE: Purple, the reasonable one:Stage Left
 BLUE: Blue, hates Green:Office Chair 3
@@ -14354,6 +14514,7 @@ AUTHOR: Senty
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 SNAKE: A snake demon wanting to tempt others into sin:Backstage
 M: An earnest but clueless man:Backstage
@@ -14480,6 +14641,7 @@ AUTHOR: Rock_8oy
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 FAKER: Human pretending to be a robot:Stage Right
 ESCAPEE: Famous, wise-cracking celebrity:Corner Left
@@ -14584,6 +14746,7 @@ AUTHOR: OzbendPrime
 VERIFIED: True
 TAGS: Skit
 SET: News
+DATE: 28/04/24
 CHARACTERS ================================
 NEWS CASTER: News Caster:News Desk
 NEWS REPORTER: News Reporter:Fake Street Backdrop
@@ -14645,6 +14808,7 @@ AUTHOR: MrShark97
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 WIFE: Wife:Couch
 TWIN2: Twin 2:Backstage
@@ -14719,6 +14883,7 @@ AUTHOR: Femalesonicexe
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 BRIDE: the bride of the wedding:Stage Left
 GROOM: the groom of the wedding:Stage Right
@@ -14786,6 +14951,7 @@ AUTHOR: WienerStaffel
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 FRANKLIN: The normal worker:Office Chair 3
 DAYVON: The slightly aggressive worker:Office Chair 2
@@ -14868,6 +15034,7 @@ AUTHOR: Envizo
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 CHARLIE: A Betta fish that thinks they have the superior looks of the tank. :Center Stage
 SARAH:  A Clown fish that is tired of being in the aquarium. The wise one.:Center Stage
@@ -14957,6 +15124,7 @@ AUTHOR: TotallyNotAYP
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
+DATE: 28/04/24
 CHARACTERS ================================
 CASHIER: Bored Cashier:Behind Register
 ROBBER: A Robber:Entrance Stage Right
@@ -15026,6 +15194,7 @@ AUTHOR: djbaby faced
 VERIFIED: True
 TAGS: Skit
 SET: News
+DATE: 28/04/24
 CHARACTERS ================================
 CAMERAMAN: Robber disguised as a cameraman:Center Stage
 REPORTER: The Reporter:Fake Street Backdrop
@@ -15087,6 +15256,7 @@ AUTHOR: Ｒｅｃｋｅｒ８９７
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 RECKER: RECKER:Backstage
 VIOLET: VIOLET:Couch
@@ -15164,6 +15334,7 @@ AUTHOR: TheyLuvStrawbyy
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
 PATIENT: Patient:Examination Table
 NURSE: Nurse who follows the rules:Desk
@@ -15231,6 +15402,7 @@ AUTHOR: scottytheghost
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 DIRECTOR: The director:Entrance Stage Right
 VILLAIN: Actor playing the villain:Stage Left
@@ -15347,6 +15519,7 @@ AUTHOR: Senty
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 PSYCHIC: A psychic who's shorter than everyone else in the room:Backstage
 INTERN: An underpaid police intern:Backstage
@@ -15490,6 +15663,7 @@ AUTHOR: ∗Yobio∗
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 THE CRIMINAL: The real criminal suspect:Entrance Stage Right
 SUSPECT 2: Suspect # 2:Entrance Stage Right
@@ -15586,6 +15760,7 @@ AUTHOR: OzbendPrime
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
+DATE: 28/04/24
 CHARACTERS ================================
 THE WAITER: The Waiter:Backstage
 FAT ONE: The Fat Karen:Entrance Stage Left
@@ -15736,6 +15911,7 @@ AUTHOR: WienerStaffel
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
 DOCTOR: Doctor:Backstage
 DAD: Father:Center Stage
@@ -15803,6 +15979,7 @@ AUTHOR: Ｒｅｃｋｅｒ８９７
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
+DATE: 28/04/24
 CHARACTERS ================================
 GHOST: Big ol’ Ghost:Backstage
 RON: Ronny:Stage Left
@@ -15910,6 +16087,7 @@ AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: Infomercial
 SET: Forest Bridge
+DATE: 28/04/24
 CHARACTERS ================================
 BILLY: Ranger Billy Mays:Entrance Stage Right
 FISH: The Stereo Salmon:In river
@@ -15981,6 +16159,7 @@ AUTHOR: potainasaor
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Grocery Store
+DATE: 28/04/24
 CHARACTERS ================================
 VTUBER: Youtuber :Backstage
 GETO: Clerk Boyfriend:Behind Register
@@ -16063,6 +16242,7 @@ AUTHOR: saya81295
 VERIFIED: False
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 MONSTER: Monster from the Attic:Entrance Stage Left
 DAD: Elderly Dad:Entrance Stage Left
@@ -16152,6 +16332,7 @@ AUTHOR: TiffanyMoon
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
+DATE: 28/04/24
 CHARACTERS ================================
 LADY: A Mysterious Lady :Entrance Stage Left
 DETECTIVE: A Determined Detective:Detective Chair
@@ -16219,6 +16400,7 @@ AUTHOR: SuperNova77
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 IVAN: Ivan, The Lonely Kid:Couch
 FRIEND2: Vass, The Evil Imaginary Friend:Entrance Stage Left
@@ -16330,6 +16512,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Classroom
+DATE: 28/04/24
 CHARACTERS ================================
 TEACHER: The teacher:Teacher Desk
 ALEX: High school student:Desk 2
@@ -16407,6 +16590,7 @@ AUTHOR: vr_jar
 VERIFIED: False
 TAGS: Skit
 SET: Dining Room
+DATE: 28/04/24
 CHARACTERS ================================
 JOHN: John, dinner host:Center Stage
 PRESENT MATT: Matt:Backstage
@@ -16487,6 +16671,7 @@ AUTHOR: TotallyNotAYP
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
+DATE: 28/04/24
 CHARACTERS ================================
 JAMES: The host:Chair 1
 SAMANTHA: A guest:Entrance Stage Left
@@ -16571,6 +16756,7 @@ AUTHOR: Phantom
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 JONAS: Jonas, a gullible kid.:Chair
 MAXWELL: Maxwell, kid genius turned evil.:Entrance Stage Right
@@ -16675,22 +16861,23 @@ AUTHOR: ねこunknownねこ
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
-DAVE: Dave:Entrance Stage Right
 BARTH: Bartholomuel:Entrance Stage Right
+DAVE: Dave:Entrance Stage Right
 SUGGESTIONS =============================
-TOWNONE: A place:london, new york
-TOWNTWO: A place:cardiff, yorshire
-TOWNTHREE: A place:old mill town, swansea
-OBJONE: An object:boots, iron ore
-OBJTWO: An object:copper sulphate, necklace
-OBJTHREE: An object:bucket of rust, elbow grease
-OBJFOUR: An object:polka dot paint, glass hammer
-PROFONE: A profession:shopkeep, bartender
-PROFTWO: A profession:farmer, milkman
-PROFTHREE: A profession:alchemist, blacksmith
-PROFFOUR: A profession:scientist, factory worker
 FOOD: a food item (doesn't have to be edible):left over leg, lettuce
+PROFFOUR: A profession:scientist, factory worker
+PROFTHREE: A profession:alchemist, blacksmith
+PROFTWO: A profession:farmer, milkman
+PROFONE: A profession:shopkeep, bartender
+OBJFOUR: An object:polka dot paint, glass hammer
+OBJTHREE: An object:bucket of rust, elbow grease
+OBJTWO: An object:copper sulphate, necklace
+OBJONE: An object:boots, iron ore
+TOWNTHREE: A place:old mill town, swansea
+TOWNTWO: A place:cardiff, yorshire
+TOWNONE: A place:london, new york
 SCRIPT ==========================================
 fantasy music 2
 DAVE: (enter stage) I'm so happy you decided to join me Bartholomuel!
@@ -16714,7 +16901,7 @@ BARTH: And why are we headed to TOWNTWO exactly?
 DAVE: To meet the PROFTWO of course!
 BARTH: And why are we meeting the PROFTWO?
 DAVE: To give him a OBJTWO we got from the PROFONE!
-BARTH: Hold on, why does a PROFONE need a OBJTWO?
+BARTH: Hold on, why does a PROFTWO need a OBJTWO?
 DAVE: I'm not too sure, he says it's important to his work though.
 BARTH: Ah I see, shall we get going then?
 DAVE: We shall! (leave backstage)
@@ -16768,6 +16955,7 @@ AUTHOR: Phantom
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 TELECASTER: Herald of impending doom.:Backstage
 LEBRONZE JADE: Bearer of Sprite Cranberry.:Backstage
@@ -16873,6 +17061,7 @@ AUTHOR: Paperclip95
 VERIFIED: True
 TAGS: 
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 CREATOR: Creator of the Product:Backstage
 PRODUCT: Product:Backstage
@@ -16955,6 +17144,7 @@ AUTHOR: SuperNova77
 VERIFIED: True
 TAGS: 
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 WOLF: Agent Wolfe, The Assassin :Stage Left
 SALT: Lee Saltlick, The Accused:Office Chair 3
@@ -17048,6 +17238,7 @@ AUTHOR: TrickySpookster
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 CLONE: Wife's Evil Clone (Use Same Avatar):Corner Left
 WIFE: Wife (Use Same Avatar):Chair
@@ -17135,6 +17326,7 @@ AUTHOR: SuperNova77
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
+DATE: 28/04/24
 CHARACTERS ================================
 SUN: Sunny Shine, The Witness:Plaintiff Door
 KRIS: Prosecutor Khristopher The Musician :Plaintiff Table
@@ -17245,6 +17437,7 @@ AUTHOR: Oerlikon
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 HOST: Suspicious Gameshow Host:Host Podium
 CONTESTANT1: Monotone Contestant:Contestant Podium 1
@@ -17329,6 +17522,7 @@ AUTHOR: TiffanyMoon
 VERIFIED: True
 TAGS: Skit,Infomercial
 SET: News
+DATE: 28/04/24
 CHARACTERS ================================
 ANCHOR: News Head Anchor:News Desk
 PRESENTER: A sleepy forecaster/reporter:Fake Street Backdrop
@@ -17388,6 +17582,7 @@ AUTHOR: Pumgumgum
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 WIZ: The Grand Wizard, disturbed by the noise in the castle:Backstage
 ARCH: The shapeshifter thief, disguised as an Archer:Entrance Stage Right
@@ -17495,6 +17690,7 @@ AUTHOR: kiro-sage
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 US: Immortal Soldier:Entrance Stage Right
 ES: Enemy Soldier:Entrance Stage Left
@@ -17564,6 +17760,7 @@ AUTHOR: MrKite6
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 TT: Time-Traveller:Backstage
 NB: Neighbor:Backstage
@@ -17650,6 +17847,7 @@ AUTHOR: MrKite6
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
 NR: Nurse:Entrance Stage Right
 DR: Doctor:Backstage
@@ -17712,6 +17910,7 @@ AUTHOR: MrKite6
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
+DATE: 28/04/24
 CHARACTERS ================================
 SC: The Strange Creature:Backstage
 SK: Shopkeeper:Behind Register
@@ -17792,6 +17991,7 @@ AUTHOR: ~ Evie ~
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
+DATE: 28/04/24
 CHARACTERS ================================
 SKEPTIC: Skeptic:Backstage
 BELIEVER: Believer:Backstage
@@ -17873,6 +18073,7 @@ AUTHOR: FrostyApri
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
+DATE: 28/04/24
 CHARACTERS ================================
 D: Detective:Entrance Stage Right
 C: Cop:Center Stage
@@ -17949,6 +18150,7 @@ AUTHOR: kira_kirabakyun
 VERIFIED: False
 TAGS: 
 SET: Infomercial Kitchen
+DATE: 28/04/24
 CHARACTERS ================================
 IAN: Ian the taste tester:Entrance Stage Left
 TERRY: Terry the chef:Backstage
@@ -18011,6 +18213,7 @@ AUTHOR: LongPinkNoodle
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 PRISONER: Prisoner who is just happy to be here.:Chair
 TORTURER: An insane torturer.:Entrance Stage Right
@@ -18104,6 +18307,7 @@ AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
+DATE: 28/04/24
 CHARACTERS ================================
 HYBRID: A Hybrid expiriment:Backstage
 POPULAR GIRL: A Popular Girl:Desk 2
@@ -18219,6 +18423,7 @@ AUTHOR: Awbluefy
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 WALTER: Definitely Walter White ;):Couch
 JESSE: Definitely Jessie Pinkman ;):Front Door
@@ -18287,6 +18492,7 @@ AUTHOR: petihun4
 VERIFIED: True
 TAGS: 
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 LADY: Lady:Center Stage
 SOLDIER: Soldier:Entrance Stage Right
@@ -18365,6 +18571,7 @@ AUTHOR: MrMonsterX
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 ADULT: Adult:Couch
 GENIE: Genie:Backstage
@@ -18432,6 +18639,7 @@ AUTHOR: Stitcharoo
 VERIFIED: True
 TAGS: Skit,Infomercial
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 LAW2: Lawyer 2:Entrance Stage Left
 LAW1: Lawyer 1:Entrance Stage Right
@@ -18501,6 +18709,7 @@ AUTHOR: ptepik
 VERIFIED: False
 TAGS: Skit
 SET: Political Debate USA
+DATE: 28/04/24
 CHARACTERS ================================
 PRES: Johnny President:Center Stage
 AMB: Terrifying Ambassador:Entrance Stage Left
@@ -18571,6 +18780,7 @@ AUTHOR: Imoriginal
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
 ALIEN: Alien:Backstage
 DOCTOR: The doctor:Stool
@@ -18648,6 +18858,7 @@ AUTHOR: morchogames
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
+DATE: 28/04/24
 CHARACTERS ================================
 MANAGER: The Store Manager:Backstage
 CLERK: Store Clerk:Behind Register
@@ -18728,6 +18939,7 @@ AUTHOR: LuckyLuigiX4
 VERIFIED: True
 TAGS: Skit,Infomercial
 SET: Dining Room
+DATE: 28/04/24
 CHARACTERS ================================
 LATEGUY: The Late Player:Backstage
 DICEBOT: Dice Bot 2000:Entrance Stage Left
@@ -18807,6 +19019,7 @@ AUTHOR: kichan6
 VERIFIED: False
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 JAMEE: Jamee The secret lover:Backstage
 ANDROMEDA: Andromeda The wife:Center Stage
@@ -18892,6 +19105,7 @@ AUTHOR: TrickySpookster
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
+DATE: 28/04/24
 CHARACTERS ================================
 BRUCE: Bruce, Husband:Grill
 RITA: Rita, Wife:Stage Right
@@ -18992,6 +19206,7 @@ AUTHOR: Tricky_Hunter
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
+DATE: 28/04/24
 CHARACTERS ================================
 BILL: Main Character:Entrance Stage Right
 MARY: Love Interest:Backstage
@@ -19062,6 +19277,7 @@ AUTHOR: Figbean
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 ALEX: A person who can't control their emotions:Couch
 SAM: Alex's friend:Side Door
@@ -19133,6 +19349,7 @@ AUTHOR: Tricky_Hunter
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 BOSS: Boring Boss:Boss Chair
 BORED: Bored Employee:Office Chair 3
@@ -19204,6 +19421,7 @@ AUTHOR: Tricky_Hunter
 VERIFIED: True
 TAGS: Skit
 SET: News
+DATE: 28/04/24
 CHARACTERS ================================
 ANCHOR: Studio news anchor:News Desk
 REPORTER: Field Reporter:Fake Street Backdrop
@@ -19256,6 +19474,7 @@ AUTHOR: Tricky_Hunter
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
+DATE: 28/04/24
 CHARACTERS ================================
 CASHIER: Cashier:Behind Register
 ALIEN: Alien:Entrance Stage Right
@@ -19319,6 +19538,7 @@ AUTHOR: itsmrdude
 VERIFIED: False
 TAGS: Skit,Contains Adult Innuendo
 SET: Detective Noir
+DATE: 28/04/24
 CHARACTERS ================================
 RANDY: Guilty Roommate :Backstage
 SAMMY: suspisious Roommate:Backstage
@@ -19406,6 +19626,7 @@ AUTHOR: ~°Mısanʇhrope°~
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
+DATE: 28/04/24
 CHARACTERS ================================
 STEVE: Camper 3:Rock chair
 CHUCK: Camper 1:Log chair
@@ -19506,6 +19727,7 @@ AUTHOR: majinjigglypuff
 VERIFIED: False
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 LNK: The Heroic Adventurer:Center Stage
 KNG: The Leaderful King:Stage Right
@@ -19581,6 +19803,7 @@ AUTHOR: Gibus_the_Gibus
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 DOCTOR: An evil genius doctor hellbent on ruling the world.:Center Stage
 HENCHMENSM: Henchmen who is confused by the plans of the doctor.:Corner Left
@@ -19665,6 +19888,7 @@ AUTHOR: Kadena
 VERIFIED: True
 TAGS: Prototype
 SET: Classroom
+DATE: 28/04/24
 CHARACTERS ================================
 ROBOT: Robot:Backstage
 TEACHER: Teacher:Teacher Desk
@@ -19779,6 +20003,7 @@ AUTHOR: тaсo
 VERIFIED: True
 TAGS: Skit
 SET: News
+DATE: 28/04/24
 CHARACTERS ================================
 ANCHOR: Jane Smith, News Anchor:News Desk
 REPORTER: Mike Roberts, News Reporter:Fake Street Backdrop
@@ -19844,6 +20069,7 @@ AUTHOR: CaptainJackk
 VERIFIED: True
 TAGS: Skit
 SET: Murder
+DATE: 28/04/24
 CHARACTERS ================================
 NARRATOR: Commentator:Narrator Podium
 VILLAIN: Villain:Backstage
@@ -19965,6 +20191,7 @@ AUTHOR: TiffanyMoon
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 PROTO: A clumsy yet lovable tinkerer:Office Chair 2
 HELPER: A Dedicated Young Helper:Office Chair 1
@@ -20027,6 +20254,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 SELL: Seller of potions:Center Stage
 ADV: Experienced adventurer:Entrance Stage Left
@@ -20108,6 +20336,7 @@ AUTHOR: DaKcBomb
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
+DATE: 28/04/24
 CHARACTERS ================================
 KING: The Most Evil Villain:Judge Chair
 GREED: Greedy Business Executive:Plaintiff Table
@@ -20206,6 +20435,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 HA: The Villain Handler:Boss Chair
 V1: Reformed Villain:Office Chair 1
@@ -20298,6 +20528,7 @@ AUTHOR: AirportPigeon
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
+DATE: 28/04/24
 CHARACTERS ================================
 GUARD: Guard:On bridge
 MAGE: Mage:Entrance Stage Right
@@ -20390,6 +20621,7 @@ AUTHOR: Im_15Spiderman
 VERIFIED: True
 TAGS: Skit
 SET: Western
+DATE: 28/04/24
 CHARACTERS ================================
 WILLY: Willy The Cowboy:Entrance Stage Right
 CREG: Creg a normal person of society :Stage Left
@@ -20467,6 +20699,7 @@ AUTHOR: Alyssa?
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
 DOCTOR: Doctor that doesn't have a PHD:Desk
 PATIENT: Patient:Examination Table
@@ -20534,6 +20767,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 LESSER DEMON: Lesser Demon:Backstage
 GREATER DEMON: Greater Demon:Backstage
@@ -20637,6 +20871,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 CHILD: Silly Child:Stage Left
 TEEN:  Edgy teenager:Couch
@@ -20732,6 +20967,7 @@ AUTHOR: Valhymm
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
+DATE: 28/04/24
 CHARACTERS ================================
 BEN: Ben, a pupil:Desk 3
 CHLOE: Chloe, a pupil:Desk 2
@@ -20803,6 +21039,7 @@ AUTHOR: GameBot 2000
 VERIFIED: True
 TAGS: Skit
 SET: News
+DATE: 28/04/24
 CHARACTERS ================================
 TOM: Thomas the news reporter:News Desk
 LINDA: Linda the journalist:Fake Street Backdrop
@@ -20921,6 +21158,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Detective Noir
+DATE: 28/04/24
 CHARACTERS ================================
 COM: Oblivious Commander:Detective Chair
 SOL: Reliable Soldier:Visitor Chair
@@ -21026,6 +21264,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Grocery Store
+DATE: 28/04/24
 CHARACTERS ================================
 EMP: Game store employee:Behind Register
 BRO: Online gamer:Backstage
@@ -21126,6 +21365,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Western
+DATE: 28/04/24
 CHARACTERS ================================
 LAD: Lover:Balcony
 COW: Cowboy:Stage Left
@@ -21231,6 +21471,7 @@ AUTHOR: kiro-sage
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 HOST: The game show host with magical powers:Center Stage
 CON1: Very popular and beloved Contestant:Backstage
@@ -21357,6 +21598,7 @@ AUTHOR: DaKcBomb
 VERIFIED: True
 TAGS: Skit
 SET: Forest
+DATE: 28/04/24
 CHARACTERS ================================
 WIZ: All Powerful Wizard:Backstage
 ART: King Arthur:Entrance Stage Right
@@ -21481,6 +21723,7 @@ AUTHOR: ReefissDaMerpup
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
+DATE: 28/04/24
 CHARACTERS ================================
 HOST: Alex:Host Podium
 CONTESTANT 1: Chris:Contestant Podium 1
@@ -21563,6 +21806,7 @@ AUTHOR: Imoriginal
 VERIFIED: True
 TAGS: Skit
 SET: News
+DATE: 28/04/24
 CHARACTERS ================================
 BOOMER: Old newscaster:News Desk
 SMT: New caster:News Desk
@@ -21628,6 +21872,7 @@ AUTHOR: Valhymm
 VERIFIED: True
 TAGS: Skit
 SET: Infomercial Kitchen
+DATE: 28/04/24
 CHARACTERS ================================
 TEACH: Teacher:Entrance Stage Left
 JIMMY: Jimmy, a pupil:Stage Right
@@ -21736,6 +21981,7 @@ AUTHOR: Valhymm
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
+DATE: 28/04/24
 CHARACTERS ================================
 BEN: Ben, a pupil:Desk 3
 CHLOE: Chloe, a pupil:Desk 2
@@ -21842,6 +22088,7 @@ AUTHOR: Zen the Fen
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 NARRATOR: Narrator:Narrator Podium
 SUNNY: Sunny, the single mother:Backstage
@@ -21946,6 +22193,7 @@ AUTHOR: ninjitsu1859
 VERIFIED: False
 TAGS: Skit
 SET: Conference Room
+DATE: 28/04/24
 CHARACTERS ================================
 BOSS: Boss of business :Boss Chair
 EMPLOYEE: Worker at business :Office Chair 1
@@ -22027,6 +22275,7 @@ AUTHOR: Hylactic
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
+DATE: 28/04/24
 CHARACTERS ================================
 SATAN: Satan, The literal Devil:Judge Chair
 DEMON: Satan's assistant Demon:Plaintiff Table
@@ -22090,6 +22339,7 @@ AUTHOR: ninjitsu1859
 VERIFIED: False
 TAGS: Skit
 SET: Restaurant
+DATE: 28/04/24
 CHARACTERS ================================
 JOSH: Boyfriend :Entrance Stage Right
 MARY: Girlfriend:Entrance Stage Right
@@ -22181,6 +22431,7 @@ AUTHOR: ninjitsu1859
 VERIFIED: False
 TAGS: Skit
 SET: News
+DATE: 28/04/24
 CHARACTERS ================================
 POLICE MAN: Armed police man:Backstage
 RANDOM MAN: Guy off the street:Fake Street Backdrop
@@ -22246,6 +22497,7 @@ AUTHOR: ninjitsu1859
 VERIFIED: False
 TAGS: Skit
 SET: Western
+DATE: 28/04/24
 CHARACTERS ================================
 ANGUS:  Cowboy out for revenge:Stage Left
 CARL: Cowboy being hunted:Stage Right
@@ -22340,6 +22592,7 @@ AUTHOR: abysswireless
 VERIFIED: True
 TAGS: Skit
 SET: City
+DATE: 28/04/24
 CHARACTERS ================================
 ALEX: Alex, Laid Back Jokester:Entrance Stage Right
 FRANK: Francis, Mischievious Artist:Alley
@@ -22432,6 +22685,7 @@ AUTHOR: ninjitsu1859
 VERIFIED: False
 TAGS: Skit
 SET: City
+DATE: 28/04/24
 CHARACTERS ================================
 JERRY: Celebrity :Stage Left
 FAN: Huge Fan of Jerry:Alley
@@ -22510,6 +22764,7 @@ AUTHOR: scottytheghost
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Restaurant
+DATE: 28/04/24
 CHARACTERS ================================
 WAITER: The waiter:Entrance Stage Left
 FREDDY: Freddy, George's embarrassing childhood friend:Backstage
@@ -22641,6 +22896,7 @@ AUTHOR: scottytheghost
 VERIFIED: True
 TAGS: Skit
 SET: City
+DATE: 28/04/24
 CHARACTERS ================================
 EMPLOYEE: A disgruntled employee:Entrance Stage Left
 KID: A kid running a juice stand:Center Stage
@@ -22714,6 +22970,7 @@ AUTHOR: kiro-sage
 VERIFIED: True
 TAGS: Skit
 SET: Murder
+DATE: 28/04/24
 CHARACTERS ================================
 DIRECT: The very serious Director:Backstage
 SON: The Child actor:Entrance Stage Right
@@ -22803,6 +23060,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Restaurant
+DATE: 28/04/24
 CHARACTERS ================================
 RICH: Greasy friend :Stage Right
 FRIEND: Innocent friend :Stage Right
@@ -22903,6 +23161,7 @@ AUTHOR: SenorconQueso
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
+DATE: 28/04/24
 CHARACTERS ================================
 CHAD: Certified Crypto Bro:Stage Left
 LOVER: Aspiring Crypto Lover:Stage Right
@@ -22960,6 +23219,7 @@ AUTHOR: Tricky_Hunter
 VERIFIED: True
 TAGS: Skit
 SET: Western
+DATE: 28/04/24
 CHARACTERS ================================
 OUTLAW: Outlaw:Stage Left
 CLOWN: Clown Gun Slinger/Sheriff:Stage Left
@@ -23029,6 +23289,7 @@ AUTHOR: TheCatCatBoi
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
+DATE: 28/04/24
 CHARACTERS ================================
 GUY: Random guy:Entrance Stage Right
 ACTOR1: Actor one:Center Stage
@@ -23132,6 +23393,7 @@ AUTHOR: SenorconQueso
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
+DATE: 28/04/24
 CHARACTERS ================================
 AGATHA: Agatha, the Accused Witch:Witness Stand
 PRUDENCE: Prudence, the Village Gossip:Defendant Table
@@ -23197,6 +23459,7 @@ AUTHOR: TrickySpookster
 VERIFIED: True
 TAGS: Skit
 SET: Western
+DATE: 28/04/24
 CHARACTERS ================================
 KEITH: Keith:Backstage
 LAURA: Laura:Backstage
@@ -23305,6 +23568,7 @@ AUTHOR: itsmrdude
 VERIFIED: False
 TAGS: Skit
 SET: Western
+DATE: 28/04/24
 CHARACTERS ================================
 TIME: Time traveler :Backstage
 OLD: Time traveler’s ancestor cowboy:Backstage
@@ -23418,6 +23682,7 @@ AUTHOR: The_Dapper_Cat
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
+DATE: 28/04/24
 CHARACTERS ================================
 THIEF: Taco bell Thief:Backstage
 INVESTIGATOR: Investigator:Center Stage
@@ -23534,6 +23799,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
 SET: News
+DATE: 28/04/24
 CHARACTERS ================================
 LOCA: On-location reporter:Fake Street Backdrop
 NEWS: News anchor:News Desk
@@ -23612,6 +23878,7 @@ AUTHOR: AirportPigeon
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Interrogation Room
+DATE: 28/04/24
 CHARACTERS ================================
 COP: Police Officer:Backstage
 SANTA: Santa :Chair
@@ -23696,6 +23963,7 @@ AUTHOR: TiffanyMoon
 VERIFIED: True
 TAGS: Skit
 SET: Western
+DATE: 28/04/24
 CHARACTERS ================================
 SHERIFF: A kind-hearted protector:Stage Left
 BULLY: A wicked criminal mastermind:Stage Right
@@ -23771,6 +24039,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Backyard
+DATE: 28/04/24
 CHARACTERS ================================
 GUY: Regular person:Grill
 BEAST: Magical creature:Backstage
@@ -23867,6 +24136,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Murder
+DATE: 28/04/24
 CHARACTERS ================================
 DUDE: Dude Bro:Backstage
 MAID: The Maid:Stage Right
@@ -23968,6 +24238,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Campsite
+DATE: 28/04/24
 CHARACTERS ================================
 PRIEST: Selfish priest:Entrance Stage Left
 MONSTER: Big scary monster:Backstage
@@ -24084,6 +24355,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
 SET: City
+DATE: 28/04/24
 CHARACTERS ================================
 BOSS: The hammy leader:Center Stage
 KID: The new recruit:Stage Right
@@ -24164,6 +24436,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
+DATE: 28/04/24
 CHARACTERS ================================
 DIR: Director:Narrator Podium
 VILL: Villain:Center Stage
@@ -24236,6 +24509,7 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
+DATE: 28/04/24
 CHARACTERS ================================
 WISH: The Fairy Wish Prince:Backstage
 GUY: Person wanting wish:Couch
@@ -24323,23 +24597,24 @@ AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Doctor's Office
+DATE: 28/04/24
 CHARACTERS ================================
-CHI: The Chimera:Backstage
-ASS: The Assistant:Entrance Stage Right
 SCI: The Scientist:Entrance Stage Right
+ASS: The Assistant:Entrance Stage Right
+CHI: The Chimera:Backstage
 SUGGESTIONS =============================
-DANCE: A dance:Griddy, dap, whip, gangnam style
-EMB: A type of internet video:Cat, secret cam, vtuber, try not to fart
-HOLE: A hole of the human body:Mouth, nose, ear, eyes, tummy
-PART: A part of the body you can wipe:Gyatt, butt, ass, groin, mouth, armpit
-FAN: A popular franchise :Anime, MCU, FNAF, SpongeBob
-ERP: A thing a VRChat player can say:Turn on that mirror, can I clone your avatar?, can you ERP with me?
-VRCHAT: A type of Vrchat player:E-boy, femboy, furry, mirror-dweller
-PROT: A form of physical protection:Helmet, cup, bra, holy bible
-LIQUID: A liquid, smooth or lumpy:Blood, spit, spinal fluid, snot
-ILL: An illness or disease:The Lurgy, Covid, the common cold, life
-PLACE: A place, real or fake:Your mother, france, this stage, Gotham City
 NAME: A silly last name:Hinga-tinga-durgen, flimflom, wellington, jelly
+PLACE: A place, real or fake:Your mother, france, this stage, Gotham City
+ILL: An illness or disease:The Lurgy, Covid, the common cold, life
+LIQUID: A liquid, smooth or lumpy:Blood, spit, spinal fluid, snot
+PROT: A form of physical protection:Helmet, cup, bra, holy bible
+VRCHAT: A type of Vrchat player:E-boy, femboy, furry, mirror-dweller
+ERP: A thing a VRChat player can say:Turn on that mirror, can I clone your avatar?, can you ERP with me?
+FAN: A popular franchise :Anime, MCU, FNAF, SpongeBob
+PART: A part of the body you can wipe:Gyatt, butt, ass, groin, mouth, armpit
+HOLE: A hole of the human body:Mouth, nose, ear, eyes, tummy
+EMB: A type of internet video:Cat, secret cam, vtuber, try not to fart
+DANCE: A dance:Griddy, dap, whip, gangnam style
 SCRIPT ==========================================
 Corporate guitar music
 SCI: (enter sneakily) Quickly assistant, quickly! Before the rest of the science team realise we’re gone!
@@ -24369,7 +24644,7 @@ ASS: Okay…. (Get ready to press) Do we need to wear PROT?
 SCI: Nah! Let’s go in raw! (Arms up) Press it!
 ASS: Here we go! (press button)
 Magic sound
-Teleport CHI to examination table
+Teleport CHI to center stage
 CHI: Hello. (DANCE)
 ASS: Ah!! Oh… It doesn’t look like a mix of creatures..
 SCI: That’s because it’s all internal!
@@ -24401,20 +24676,22 @@ AUTHOR: AirportPigeon
 VERIFIED: True
 TAGS: Skit
 SET: Western
+DATE: 28/04/24
 CHARACTERS ================================
-MOM: Mother:Backstage
-LAW: Sheriff:Entrance Stage Left
 COW: Cowboy:Entrance Stage Right
+LAW: Sheriff:Entrance Stage Left
+MOM: Mother:Backstage
 SUGGESTIONS =============================
-HOLIDAY: A name of a holiday:Black Friday, thanksgiving, Christmas, 
-ANIMAL: A name for a animal:Ape, gorilla, baboon, biboof, dragon, kitten
-DISC: Describe how a desert tastes:Creamy, delicious, soft, scrumptious
-FRIEND: A name for a friend:Biboof the sigma, Mr beast, foot
-NAME: A stupid name:Biboo, megatron, aqua, eren yeager
 BODY: A body part of the lower section :Groin, Knee, Thigh, ass, shin
+NAME: A stupid name:Biboo, megatron, aqua, eren yeager
+FRIEND: A name for a friend:Biboof the sigma, Mr beast, foot
+DISC: Describe how a desert tastes:Creamy, delicious, soft, scrumptious
+ANIMAL: A name for a animal:Ape, gorilla, baboon, biboof, dragon, kitten
+HOLIDAY: A name of a holiday:Black Friday, thanksgiving, Christmas, 
+NICK: A nickname you would give someone:Biboof, Gyat, megatron, idiot
 SCRIPT ==========================================
 western piano music 2
-LAW: Well well well if it isn’t the infamous NAME the kid.
+LAW: Well well well if it isn’t the infamous NICK the kid.
 LAW: I never thought you’d show your BODY in town again after what happened last Tuesday.
 COW: I thought it was last HOLIDAY. (Scratch BODY then sniff hand)
 music stops
