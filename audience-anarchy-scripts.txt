@@ -22595,17 +22595,17 @@ SET: City
 DATE: 28/04/24
 CHARACTERS ================================
 ALEX: Alex, Laid Back Jokester:Entrance Stage Right
-FRANK: Francis, Mischievious Artist:Alley
+FRANK: Francis, Graffiti Artist:Alley
 ROB: Robbie, Store Owner (minor role):Entrance Stage Left
 JESSE: Jesse, Robber:Entrance Stage Left
 SUGGESTIONS =============================
 ACT: An activity.:grinding in Fortnite, watching Youtube Shorts, contemplating the meaning of life
 PRICE: An amount of money.:About tree fiddy, $50, $2000
-BAD: An insult.:Poopyhead, Dingus, Dweeb
+BAD: An insult.:poopyhead, dingus, dweeb, cotton-headed ninny muggins
 PLACE: A location.:Tilted Towers, skate park, bank
-ITEM: Something you could build or put together.:Tower, Statue, Death Star
+ITEM: A thing you could build or put together.:a tower, a statue, the Death Star
 A2CT: Another activity.:get lunch, play some games, mess with powers beyond our comprehension
-ART: A way to describe art.:belongs in the trash, marvelous work, art
+ART: A way to describe art.:belongs in the trash, great work, art
 SCRIPT ==========================================
 western jingle 1
 FRANK: (spray painting) Alright, just about done...
@@ -22622,6 +22622,7 @@ ALEX: Listen, in my opinion...
 music stops
 ALEX: ...The ground wouldn't have much to say anyway.
 laughter
+oldschool hiphop music
 FRANK: So what else have you been up to?
 ALEX: Oh you know, the usual.
 ALEX: More ACT.
@@ -22629,6 +22630,7 @@ laughter
 ALEX: Anyway, nice catching up with you.
 FRANK: You too, man
 break down door
+music stops, record scratch
 FRANK: What was that?!
 crashing debris
 ALEX: My guess is as good as yours, dude.
@@ -22642,38 +22644,39 @@ laughter
 Frank: What'cha got there?
 JESSE: Uhhh, fancy garbage?
 laughter
-ALEX: Sure got a lot of it too, How expensive was it?
-JESSE: I uh... wouldn't worry about that.
-FRANK: You did pay for it right?
-JESSE: Oh yeah, totally. It was PRICE
-FRANK: Sounds about right for that place.
-ALEX: Surprised you could afford it.
+ALEX: Sure got a lot of it too.
+ALEX: How much was it, dude? I haven't had the chance to check that place out yet.
+JESSE: Well... You see, umm...
+FRANK: Jesse, you did pay for it right?
+JESSE: O-oh yeah, totally. It was PRICE
+FRANK: Huh, sounds about right for that place.
+ALEX: How'd you get the money?
 laughter
-JESSE: Yeah well uh-
-music stops, police car
-JESSE: ...I better get going!
+music stops
+JESSE: Yeah well uh ...I better get going!
 JESSE: (run offstage) See you two later!
 FRANK: Huh, wonder what they're gonna do with all of that.
 ALEX: Maybe they could make ITEM out of it.
 laughter
 ROB: (enter stage left and look at alex and francis) Oh, hey you two.
+silly music 2
 FRANK: Wazzaaaaap!
-ROB: Wazzaaaaap!
 Meanwhile ALEX: Wazzaaaaap!
+ROB: Wazzaaaaap!
 laughter
 ROB: Did you two see someone running from my store just now?
 ROB: That BAD took half the stuff I had for sale, and I just restocked too.
 FRANK: Nope, sorry man.
 ALEX: Actually, I think I saw them headed down the street to PLACE.
-ROB: Alright, thanks. Anyway, what are you fellas up to?
+ROB: Alright, I'll let the police know. So, what are you fellas up to?
 FRANK: Just admiring my new masterpiece. What do you think?
-ROB: It's cool. Definetely ART.
+ROB: It's definetely interesting. I would even say ART.
 ROB: Anyway, I may as well close for the day.
-ROB: What do you guys wanna do?
-ALEX: Why don't we A2CT
+ROB: You guys wanna do something after I deal with all this?
+ALEX: Yeah, why don't we A2CT?
 laughter
 ROB: Sure, why not.
-FRANK: Sounds fun.
+FRANK: Count me in.
 western jingle 1
 
 ======
@@ -24750,6 +24753,305 @@ MOM: It will be on his tombstone.
 COW: Tomb? But we're not in Egypt.
 TYPEWRITER: Legends say that they're still talking right now...
 crowd woo
+
+======
+
+INFORMATION ===============================
+ID: 759
+TITLE: Death Row Gameshow
+AUTHOR: Hexarch
+VERIFIED: True
+TAGS: Skit,Game Show
+SET: Game Show
+DATE: 28/04/24
+CHARACTERS ================================
+EXECUTIONER: Stanley, The Executioner:Stage Right
+CT2: Unfazed contestant:Contestant Podium 2
+CT1: Nervous contestant:Contestant Podium 1
+HOST: Gameshow Host:Host Podium
+SUGGESTIONS =============================
+CRIME: A criminal offense:murder, arson, defenestration of the elderly, serial jaywalking
+ANIMALS: An animal or creature (plural):germs, bees, mammals, goldfish, dogs
+ACTIVITY: An activity:snorkeling, cooking, Lamaze 
+WEBSITE: A social media website:X, Twitter, Facebook, VRChat, Twitter.com, Myspace, YouTube
+TOPIC: A contentious topic:Pineapple on pizza, Toilet paper orientation, Children's television
+EMOJI: Your favorite emoji:Nerd, Poop, Thinking
+MOVIE: A popular movie or show:Avatar, Avengers, Star Wars
+NUMBER: A number:68, 430, 79, 421
+LASTNAME: An embarrassing last name:Weenus, Wartlick, von Grout
+PERSON: A special person in your life:Mom, Dad, Wife, Husband, Aunt, pet trout
+NICKNAME: A cutesy nickname:Muffin, Sport, Kitten, Stinky, Pookie
+GROSS: An unsavory substance:puke, pus, expired mayonnaise, horseradish
+SCRIPT ==========================================
+Gameshow Start
+HOST: Hello and welcome to another episode of Crime and Funishment -- the one and only gameshow where the contestants' lives are in your hands!
+HOST: I'm your host Schmitty LASTNAME, and coming straight from death row are today's contestants!
+HOST: Contestant #1, can you tell us a little bit about why you're here today?
+CT1: (Sobbing) I-I said I didn't think MOVIE was all that good on Twitter.
+HOST: Woah, nelly! I wouldn't wanna mess with this guy!
+HOST: How about you, Contestant #2?
+CT2: I stabbed an old lady NUMBER times in broad daylight.
+HOST: Impressive endurance! Ladies and ANIMALS, we've got a real contender on our hands!
+CT1: (Sniffling) Can I go home please? I miss my PERSON...
+EXECUTIONER: (Hit Contestant #1) Shut it!
+HOST: Only if you can handle our first and only challenge -- The Popularity Poll!
+Gameshow Start
+HOST: The rules are simple -- I'll give the both of you a topic, and you must have a civil discussion about it...
+CT1: That doesn't sound so bad...
+HOST: On WEBSITE!
+CT1: Oh no!
+Meanwhile CT2: Oh yes!
+HOST: That's right! And the person who gets the most votes from the audience wins the round and gets to walk right off the stage!
+HOST: The topic for today's challenge is...
+Gameshow Ding
+HOST: TOPIC!
+HOST: (chuckle) Boy, would I not want to be you guys!
+CT1: (dejected) I don't wanna be me right now either.
+EXECUTIONER: You won't be for long.
+HOST: No time for tears! You two had best get on your phones and get to typing! The timer starts now!
+HOST: (directly to the audience) And if any of you lovely people in the audience want to seal their fates, just text the number 1-800-SCHMITTYSOCOOL right now!
+HOST: Now, let's see how our contestants are doing!
+CT1: (nervously reading from device in hand) I-I think that there are many facets to consider when talking about TOPIC that make it very layered and interesting...
+HOST: (sternly) Pick up the pace, Shakespeare. I've got my ACTIVITY break in 15 minutes.
+CT1: (hurried) I think people are unnecessarily harsh about TOPIC and that if we all just treat each other as equals we can come to a peaceful consensus!
+CT2: EMOJI Emoji.
+CT1: Wha-? What do you mean "EMOJI Emoji"? What are you trying to say?
+CT2: EMOJI Emoji!
+CT1: That's not even a full sentence!
+CT2: EMOJI Emoji!
+CT1: You're not even making sense!
+CT2: (Shouting) EMOJI Emoji!
+Gong
+HOST: I'm sorry, but that's all the debate we have time for today!
+CT1: I didn't even get to read my whole post! I poured my blood, sweat, and GROSS into that!
+EXECUTIONER: Yeah, yeah. Don't worry, NICKNAME. We'll hang it up on the fridge or something.
+Gameshow Ring
+HOST: The votes are in! With an outstanding 300,000 out of 300,001 votes, today's winner is..
+Tada
+HOST: Contestant #1!
+Happy music 1
+CT1:I did it? I did it!
+HOST: You did it, Contest #1! In fact, you've won by the largest margin I've ever seen in 13 seasons!
+CT1: I get to go now, right?
+HOST: (Gesture to the door) Just follow Stanley through that door over there and he'll show you what you've won!
+EXECUTIONER: (Exit stage right with Contestant) Right this way, big winner.
+Meanwhile CT1: (Exit stage right with Stanley)
+Music Stops
+Gunshot
+HOST: And that's all for today, folks! Let's all give a big round of applause to our returning champion, Contestant #2!
+Applause
+HOST: (Approach Contestant #2) Contestant #2, what are you going to do now that you've escaped death row for the eighth time?
+CT2: I'm going to commit CRIME, Schmitty.
+HOST: (Turn to the audience) Going for a ninth! Don't ya just love the enthusiasm, folks?
+HOST: (Turn to Contestant #2) I know I just can't wait to see you on our show once again three months from now!
+CT2: Plan on two months.
+HOST: It's a date!
+HOST: (to the Audience) And I can't wait to see all of you again on our next episode of Crime and Funishment!
+Gameshow Outro
+
+======
+
+INFORMATION ===============================
+ID: 764
+TITLE: Bulletproof
+AUTHOR: AirportPigeon
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 28/04/24
+CHARACTERS ================================
+BOSS: Chief of police :Stage Left
+OFFICER: Confident Officer:Entrance Stage Right
+EVIL: Baby:Backstage
+STORY: Narrator :Narrator Podium
+SUGGESTIONS =============================
+NAME: A name you call a baby:Biboo, cop jr, darkness
+DAY: A type of weather or time :Day, night, afternoon, morning
+PLUMP: Another word for fat:Chubby, whale of a, tubby, round, rotund, thicc
+FOOD: A type of food:Biscuit, singular fry, burger, sandwich, piece of lettuce
+LANGUAGE: A type of language:German, French, Yappenese, Spanish, the queens I’m English 
+ANIMAL: A type of animal:Ape, gorilla, monkey, platypus, goblin shark, elf girl
+PART: A part of the body:Leg, toe, tummy, ear, kidney, left nut 
+BLANK: How something tastes:Creamy, dry, moist, crispy, crusty
+NUMBER: An amount:0, 1, 2, 3, 7, 4, 5
+ORGAN: A organ:Liver, heart, kidney, pancreas, intestines 
+ILLNESS: A illness:Covid, diabetes, diarrhea of the mouth , common cold, old age
+SCRIPT ==========================================
+70s music
+STORY: It is a stormy Tuesday DAY, and an officer and the chief were having a casual conversation
+OFFICER: Man my significant other has been a pain in the extra ORGAN as of recently.
+aww
+BOSS: I really don’t care, I’ve got more important things to care about.
+OFFICER: Like what?
+BOSS: My job like you should be doing!
+STORY: Suddenly there were large knocks on the door.
+Heavy door knocking
+BOSS: Go answer that I don’t wanna.
+OFFICER: Ok. ( go open the door )
+OFFICER: Hey chief there is a strange PLUMP baby on the doorstep.
+BOSS: What are you waiting for, a FOOD? Bring it in already!
+OFFICER: Well a FOOD would be nice, but yeah I’ll bring it in for interrogation.
+STORY: The officer had not eaten anything and was hungry, so the idea of FOOD sounded wonderful to them because it stimulated their extra ORGAN
+BOSS: Mm looks like my FAMILY, kinda strange cause they died.
+OFFICER: What should we name them chief?
+BOSS: How about NAME?
+EVIL: Get your hands off me you ANIMAL!
+BOSS: Wow it talks! Can it speak LANGUAGE?
+EVIL: Si senior.
+STORY: The baby in fact could not speak LANGUAGE.
+BOSS: Hey that’s not LANGUAGE! you lying fiend take it away for interrogation!
+OFFICER: That’s what I was doing chief, also Stop talking to a baby you sound insane.
+BOSS: You didn’t hear the baby?
+OFFICER: Of course I heard the baby, I’m not deaf I just don’t care enough.
+BOSS: Ok ok enough talk, get that baby out of here.
+EVIL: (Eat Boss) Om nom nom
+BOSS: AHHHH my PART
+teleport BOSS backstage
+OFFICER: WHAT DID YOU DO YOU- YOU MONSTER!?
+EVIL: I ate him isn’t it obvious? He tasted BLANK
+OFFICER: (pull gun) DIE (shoot)
+EVIL: You fool I’m bullet proof (bullet bounces off)
+OFFICER: So am I! (Bullet bounces off officer and back to the baby)
+EVIL: WHAT?! NOOOO
+Explosion
+Teleport EVIL backstage
+OFFICER:am I gonna be the new chief now?
+STORY: He never did become the chief nevertheless he was actually fired for property damage because of the explosion.
+STORY: The officer saved NUMBER persons that day, including a old grandma who had ILLNESS
+TYPEWRITER: Everybody died of the new ILLNESS strand after that
+
+======
+
+INFORMATION ===============================
+ID: 766
+TITLE: Welcome To The Family
+AUTHOR: OzbendPrime
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 28/04/24
+CHARACTERS ================================
+MOB BOSS: The Mob Boss:Center Stage
+ROOKIE: The New Rookie:Backstage
+CAPO: The Boss's Capo:Backstage
+COP: The Undercover Cop:Backstage
+SUGGESTIONS =============================
+ANIMAL: Name A Type Of Animal:Rat, Mole, Pig, Sheep
+ACTIVITY: Name A Type Of Illegal Activity:Murder, Drugs, Gambeling, Theft
+WEAPON: Name A Type Of Weapon:Gun, Knife, Sword, Tommy Gun
+BUISNESS : Name For A Buisness:The Barber, Tony's Steaks, The Laundromat, Home Goods.
+NAME: Name Of Someone In The Audience:Bob, Tom, Trent, David
+JOB: Name A Job :Taxi Driver, Butcher, Cashier, Barkeep
+CITY: Name For A City:Lost Heaven, Empire Bay, New Bourdex, Chicago
+PUNISHMENT: Name A Type Of Punishment:Sleeping with the fishes, Locked up, Tied up, Fired
+FLUID: Name A Bodily Fluid:Blood, Sweat, Tears, Saliva
+SCRIPT ==========================================
+(dark classical music)
+MOB BOSS: I hope my NAME has surely some useful members for our family.
+MOB BOSS: I hope that the Gambino didn't grab him.
+CAPO: (Enter Stage Left) I made it boss sorry for the wait.
+CAPO: I brought you two new recruits boss want me to bring them in for the family test?
+MOB BOSS: Go ahead bring them in.
+CAPO: Alright you two no funny business, you don't wanna mess with the boss.
+ROOKIE: (Enter Stage left) I w-wont screw up anything!
+COP: (Enter Stage Left) You can count on me!
+MOB BOSS: Alright, first off let's find out about them.
+MOB BOSS: (Look at ROOKIE) You, anything you wanna share?
+ROOKIE: M-me? I u-uh I am a simple JOB for your uh, BUISNESS.
+MOB BOSS: Checks out to me. (Look at COP) Your next.
+COP: Well sir, I just got into this CITY, and I saw your BUISNESS, then simply asked NAME here about a possible opportunity.
+CAPO: I can confirm this boss man.
+MOB BOSS: Alrighty, well here in CITY, I run the BUISNESS around here.
+MOB BOSS: Lets give em a good old little test. Just to make sure we don't have a dirty ANIMAL among us.
+MOB BOSS: Alright boy's let's see how well ya know the way the mob works.
+(music stops)
+CAPO: First off, which mob family is after the boss?
+ROOKIE: U-uhmmm isn't that? Crap I forgot there name.
+COP: That would be the Gambino family right?
+MOB BOSS: Correct, next question.
+CAPO: What does the boss do?
+ROOKIE: He u-uhmmm, runs the BUISNESS?
+CAPO: Not quite the answer bub.
+COP: The boss deal with ACTIVITY.
+CAPO: That's the answer were lookin for.
+(noir music 1)
+MOB BOSS: If I let you two into my family, do you pledge your loyalty?
+ROOKIE: (nervous) I pledge my entire loyalty! I wanna really be a part of this family b-boss!
+ROOKIE: I have been apart of BUISNESS after all!
+COP: I would give up my life for this life boss!
+MOB BOSS: Are you both sure? This line of work is hard.
+ROOKIE: (nervous) I-I don't know s-sir! I haven't used a WEAPON before.
+COP: I know I could, I have used a WEAPON before, not sure about with ACTIVTIY though.
+MOB BOSS: Well you see, I need loyal people in my family, otherwise, we might have problems.
+MOB BOSS: But as for the ACTIVITY, It's necessary for my BUISNESS.
+MOB BOSS: Without my BUISNESS I wouldn't have money.
+CAPO: Trust me when the boss doesn't get his money, it isn't pretty.
+MOB BOSS: That's why I trust NAME here with my life.
+CAPO: Yeah just last week we had to take care of what was his name boss?
+MOB BOSS: He was Fat Tony right NAME?
+CAPO: Yeah that was him, I recall you had me take a squad out to perform a PUNISHMENT for him.
+MOB BOSS: Just because he was nothin but a dirty filthy ANIMAL.
+ROOKIE: I-im very sure! of that!
+COP: I remember hearing that in the paper's when that happened.
+MOB BOSS: You know what NAME? give em a test run, lets see if they can handle it.
+(music stops)
+CAPO: You got it boss man, you heard him get goin!
+ROOKIE: O-okay! (exit stage left)
+COP: Im ready for this boss (exit stage left)
+MOB BOSS: Hey, NAME before you go,
+CAPO: Yeah boss?
+MOB BOSS: (whispering) Keep a close eye, I think one of em is a dirty ANIMAL.
+MOB BOSS: If need be you might have to use your WEAPON later.
+CAPO: You got it boss! (exit stage left)
+TYPEWRITER: Two hours later
+CAPO: (enter stage left) Were back boss, Hey! get in here you two!
+ROOKIE: (enter stage left) Di-did we just commit ACTIVITY??!
+COP: (enter stage left) I really don't see why your so nervous about ACTIVITY.
+ROOKIE: W-well there was so much FLUID everywhere and so many d-dead!
+CAPO: (approach ROOKIE) Well bub, straighten up cus you'll need to man up for this work. 
+ROOKIE: Y-yes sir.
+MOB BOSS: Well NAME how did they perform?
+(dark classical music)
+CAPO: Well as you can see here this one was nervous as a wreck however. 
+CAPO: (approach COP) This one did the ACTIVITY wonderful.
+MOB BOSS: Hmmm, I see. Now I think NAME, we shall decide who is fit for the family.
+CAPO: I agree boss, I think I know exactly who it might be though.
+MOB BOSS: For the final question, and lets do this one at a time.
+MOB BOSS: (approach ROOKIE) If there was a dirty ANIMAL in our midst what would you do?
+ROOKIE: U-uhm, I would tell you bo-boss!
+MOB BOSS: Even if it was your own family?
+ROOKIE: (nervous) Y-yes I would!
+MOB BOSS: Alright.
+MOB BOSS: (approach COP) Same question for you.
+MOB BOSS: If there was a dirty ANIMAL in our midst what would you do?
+COP: (scoff) Well that's easy I would use my WEAPON to dispose of them and then report it to you boss man!
+MOB BOSS: Even if they were family?
+COP: Yeah I would, because you have to be loyal to be in the family.
+COP: Unlike that one who's nervous as hell, I can use any WEAPON, for your ACTIVITY to help your BUISNESS grow.
+MOB BOSS: Good answers from both of you.
+MOB BOSS: This will be the final test.
+CAPO: There is currently a dirty ANIMAL among us right now. Who is it? (load gun)
+CAPO: (approach ROOKIE) Is it you? Are you the dirty ANIMAL?
+ROOKIE: W-what!?! No it's not me!! I have been loyal and working for the bosses BUISNESS for years!!!
+CAPO: (approach COP) Then could it be you? Are you the filthy ANIMAL?
+COP: No sir, I proved myself when we went to do that ACTIVITY just now
+COP: (points to ROOKIE) But I think it's him, he has shown that he's extremely nervous this whole time.
+COP: Any normal employee for the boss from BUISNESS would not act as nervous as he has.
+COP: He couldn't even use a WEAPON during the ACTIVITY we just did!
+COP: A dirty ANIMAL would act so nervous just like he is!
+CAPO: Alright you two have given your alibi's however.
+CAPO: Times up. (gunshot)
+COP: (clench stomach) W-why? (dies)
+ROOKIE: W-w-was it him!?
+CAPO: Yes, he was the dirty ANIMAL, What gave it away was that he knew about Fat Tony.
+MOB BOSS: Anyone who wasn't a dirty ANIMAL would not of known about Fat Tony.
+ROOKIE: I suppose, I didn't even know about Fat Tony.
+MOB BOSS: Well, you made it kid, your a part of the mob now.
+CAPO: Well boss what should I do with this mess?
+MOB BOSS: Oh him? Let him sleep where Fat Tony is.
+CAPO: Right away boss, I'll get the tools. (exit stage left)
+MOB BOSS: Anyway as for you lets get you cleaned up, red doesn't make fit with a suit. (exit stage right)
+ROOKIE: R-right sir, I'll try my best. (exit stage right)
 
 ======
 
