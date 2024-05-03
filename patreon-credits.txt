@@ -2386,6 +2386,7 @@ Bojikan
 StronkTank
 Eʅʋιɾα
 Ghost of Vex
+Evilmidnight
 #TIER=3
 SidMarcus
 PinballReviewer
