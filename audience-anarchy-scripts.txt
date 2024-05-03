@@ -6539,146 +6539,6 @@ DEMON: Fine, but you get the crap controller.
 ======
 
 INFORMATION ===============================
-ID: 110
-TITLE: Food Battle!
-AUTHOR: Bosslayer
-VERIFIED: True
-TAGS: Skit
-SET: Living Room
-DATE: 28/04/24
-CHARACTERS ================================
-MOM: Mom:Backstage
-ANTHONY: Friend offering food:Entrance Stage Right
-IAN: Friend defending food:Couch
-SUGGESTIONS =============================
-ERRAND: Something to do when you want to leave:take out the trash, unload the laundry, take out the dog
-NUMBER: A Very big number over 20:21, 20, 34, 69, 420, 1000
-EXCLAIMATION: Something you say when something bad happens:Damn it, Come on, No Fair
-RANDOM-NOUN: Random Word(s) you'd say to someone:Weiner Whistle, Dooky Brown, Butthead
-NEGATIVE-NOUN: What you'd say to consider something Poor Quality compared to another:Lame, Bad, Dumb, Stupid
-SHOW2: Something you'd watch on TV:Mukbang, Family Guy Funny Moments, 10 Hours of silence Interrupted randomly by Yoda Death Scream
-CATCHPHRASE: Something to say before you Leave:BOB PARKER, WAFFLE KRISP, BALLS
-PROTECTION: Something that can Protect a part of your body:Helmet, Diaper, Piece of Cardboard, Body Armor
-LIQUID: Something that can Harm or Kill if ingested:Poison, Bleach
-SHOW1: Something you'd watch on TV:Mukbang, Family Guy Funny Moments, 10 Hours of silence Interrupted randomly by Yoda Death Scream
-FOOD2: Any Food item at all:Taquito, Rock Candy, Eggroll, Chocolate Coated Banana, Churro, Pink Frosted Sprinkle Donut, Donut, Burrito, Giant Gummy Snake, Celery, Baguette, The Red Hot Chili Pepper, Rainbow Lolipop, 
-FOOD1: Any Food item at all:Pink Frosted Sprinkle Donut, Donut
-SCRIPT ==========================================
-ANTHONY: (Walks from the door and Wonder what Your Friend is Watching) Hey Ian, What are you watching?
-IAN: (Sitting on couch) Oh Nothing. Just Watching SHOW1 while eating my Favorite Food. FOOD1. (Grab and Eat FOOD1)
-ANTHONY: FOOD1? That's your Favorite Food? Pfft. That's NEGATIVE-NOUN.
-IAN: (Stunned and Shocked Silent for a second. Slowly Turn to your friend.)
-IAN: What... Did you say?
-ANTHONY: I Said FOOD1 is a NEGATIVE-NOUN favorite food. Why not something like... (Pulls out Favorite Food) FOOD2?!
-IAN: (Angry) FOOD2?! How Could you possibly Consider that as your Favorite Food? That's Like Saying your Favorite TV Show is SHOW2
-ANTHONY: (Offended) What are you saying? That SHOW2 is also NEGATIVE-NOUN?!
-IAN: Well more NEGATIVE-NOUN then FOOD1, not to mention FOOD2
-ANTHONY: Well I bet MY FOOD2 can do more everyday tasks then YOUR FOOD1
-IAN: Oh Really?
-ANTHONY: Yeah, Really
-IAN: If you think your FOOD2 can do more everyday tasks then my FOOD1! Then you're going down RANDOM-NOUN! (Furiously Eat up Favorite Food)
-TYPEWRITER: FOOD BATTLE 2023;VRCHAT EDITION
-Badass music 1  
-IAN: How about Socks? 
-ANTHONY: Alright! 
-IAN: (Struggle to Put on FOOD1 as socks For a few seconds before getting upset and Giving up) "EXCLAIMATION!"
-Gameshow buzzer
-ANTHONY: (Struggle to put on FOOD2 as socks for a few seconds, Then try to walk with them on as if it worked)
-Gameshow buzzer
-ANTHONY: How about a knife?
-IAN: YOU'RE ON!
-IAN: (Walk over to the table. A Conveniently Laid out Loaf of Bread is in front of you)
-Meanwhile: ANTHONY: (Walk over to the opposite side of the table that your opponent takes. A Conveniently Laid out Loaf of Bread is in front of your opponent)
-Draw sword
-IAN: let's Do this! (Try to saw the bread in front of you with FOOD1 for a few seconds before your FOOD1 breaks) "EXCLAIMATION!"
-ANTHONY: (Point and Laugh at your opponent) Haha! RANDOM-NOUN!
-Gameshow buzzer
-ANTHONY: Let me show you how it's done! Come on FOOD2! I know your the sharpest thing known to man!
-ANTHONY: (Raise your FOOD2 high in the air and then cut the bread slice off with perfect execution with dramatic audible effect)
-Gameshow ding
-ANTHONY: Let's try a lethal Liquid!
-IAN: Oh so like LIQUID?
-ANTHONY: Uhm... Sure I guess
-MOM: (Walk on stage as if you just got home)
-Meanwhile IAN: Wait... Who are we gonna...
-Music Stops
-MOM: Hi Kids! How are you two doing?
-IAN: (Annoyed) Mom! We're NUMBER! We're not kids!
-MOM: well you still watch SHOW2 and don't have a job still.
-IAN: That's not true! I watch SHOW1 with my FOOD1! It's Different!
-MOM: Right... Whatever. What are you even doing?
-Meanwhile ANTHONY: (Gasp and rub your hands together because you just got an idea)
-ANTHONY: Well I was just making a Delicious treat! A Very Special FOOD2 made just for you! (Walk up and hand over your FOOD2 to your opponents mom)
-MOM: Oh! Why thank you! 
-Tense cinematic music
-MOM: (Eat the FOOD2 up slowly. Make it Dramatic and Prolong if the FOOD2 will Kill you)
-Thunder
-Music Stops
-MOM: MMMmmm! (Rub Stomach in joy)
-ANTHONY: EXCLAIMATION!
-Gameshow buzzer
-IAN: Hehehe (Rub hands together) Oh mom! I also have a special food for you!
-IAN: (Walk up and hand the unbroken FOOD1 to your mom) 
-MOM: Oh! Why thank you!
-Tense cinematic music
-MOM: (Eat the FOOD2 up slowly. Make it Dramatic and Prolong if the FOOD1 will Kill you)
-Meanwhile IAN: (Rubs hands together all evil-like. Slowly Laughing more and more maniacally waiting for your mom to Die from your FOOD2)
-Thunder
-IAN: "Mwahahahahahaha!!!! Yes! Yes! DIE MOM, DIE! MWAHAHAHAHAHA!!!!"
-Meanwhile MOM: (Start Coughing as if you were choking on the FOOD1)
-Music Stops
-MOM: (finish up coughing and swallow the FOOD1) oh god... Almost choke on a piece of FOOD1
-IAN: EXCLAIMATION
-Gameshow buzzer
-IAN: (start crying onto your mom's shoulder) You were suppose to die!
-Meanwhile MOM: (comfort IAN as he cries onto your shoulder)
-MOM: oh Honey. Don't worry. You'll kill me someday. I'm sure of it.
-MOM: Now if you excuse me. I have to go ERRAND
-MOM: (Leave the stage)
-IAN: (Look at ANTHONY)
-Meanwhile ANTHONY: (Look at IAN)
-IAN: Lets see your NEGATIVE-NOUN FOOD2 be a PROTECTION!
-ANTHONY: You're on! RANDOM-NOUN!
-Badass music 1
-MOM: (Walk onstage from the other side of the stage you exited holding a gun) Oh Ian! I Bought this new gun and need to test it out.
-IAN: Alright! I have something you can test it on! (Run up in front of your mom holding your FOOD1 in front of your chest)
-MOM: (Shrug) "Alright" (aim with the gun and then shoot your son)
-Gunshot
-IAN: (Stumble back from the gunshot and look onto your chest. Gasp and Cheer) Hell yeah!
-Gameshow ding
-MOM: (Point Gun at ANTHONY For a few seconds, Let him panic and beg before you Shoot the gun)
-Meanwhile ANTHONY: (panic and hide behind your FOOD2) waitwaitwait! hold on hold on! I Didn't agre-
-Gunshot
-ANTHONY: (Fall onto the ground and die)
-Gameshow buzzer
-Music Stops
-IAN: Haha! RANDOM-NOUN! Told you that your NEGATIVE-NOUN FOOD2 was NEGATIVE-NOUN! RANDOM-NOUN!
-IAN: (laugh and point at your dead friend as you walk up to your dead friend)
-IAN: ... ANTHONY?
-ANTHONY: ... 
-Church bell
-Badass music 1
-MOM: (Pull out your Microphone and run up to IAN) IAN! IAN! You JUST won Food Battle 2023!
-IAN: (look at your MOM and get excited and distracted) Oh my god! Oh my god!
-Meanwhile ANTHONY: (Get up behind IAN and with your FOOD2 in hand)
-ANTHONY: (Stab IAN in the back with your FOOD2)
-Meanwhile IAN: ACH! (Start violently dieing with a FOOD2 in your back and fall to the ground.)
-IAN: (Look up at ANTHONY from the ground) H-How? I-I thought you died!
-Meanwhile ANTHONY: (Walk up and kneel before your dieing friend)
-ANTHONY: RANDOM-NOUN! I always have backup FOOD2 under my shirt as PROTECTION!
-IAN: So... this is it... this is how I die... By the hands of my Best Friend... How could you?
-ANTHONY: You Should know this. Food Battle isn't about who wins the most tasks. But who survives!
-IAN: What? I never knew that! This is the first one!
-ANTHONY: Oh... Well... (Shrug)
-IAN: EXCLAIMATION! (Die) 
-Church bell
-MOM: Wanna go watch SHOW2?
-ANTHONY: Sure
-MOM: CATCHPHRASE
-
-======
-
-INFORMATION ===============================
 ID: 111
 TITLE: Hotel Marty-o
 AUTHOR: JamminJames22
@@ -8895,8 +8755,8 @@ AGENT: (Nauseous) I think I'm turning into a SNAKE...
 INFORMATION ===============================
 ID: 184
 TITLE: The Bakeoff
-AUTHOR: Jay3409
-VERIFIED: True
+AUTHOR: jay3409
+VERIFIED: False
 TAGS: Skit
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -10180,76 +10040,78 @@ TYPEWRITER: It became the highest-grossing movie of all time,;making FIRST NUMBE
 
 INFORMATION ===============================
 ID: 251
-TITLE: Batman meets the Ridder
+TITLE: Batman meets the Riddler
 AUTHOR: Bеtty
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
 DATE: 28/04/24
 CHARACTERS ================================
-RIDDLER: The Riddler, Villain:Center Stage
-ALFRED: Alfred, Butler:Narrator Podium
-RACHEL: Rachel, Hostage:Chair
 BATMAN: Batman, Superhero:Backstage
+RACHEL: Rachel, Hostage:Chair
+ALFRED: Alfred, Butler:Narrator Podium
+RIDDLER: The Riddler, Villain:Center Stage
 SUGGESTIONS =============================
-GUESS3: A noun:Rats
-GUESS2: A noun:LED bulbs
-GUESS1: A noun:helecopter
-CAR: A mode of transportation:Bike
-EVIL: An evil villan:The joker
-ITEM: A noun:food
-SUB: Something embarrassing you can subscribe to:T-Series
-REJECT: Something you would say when rejected by a crush:Pft! What ever!
+CATCH: A 2 word catch phrase:cash money, All G, the bomb
+REJECT: Something you would say when rejected by a crush:Pft! What ever!, I never liked you in the first place, Yeah well I'm buying a wife off the russian internet so ha
+SUB: Something embarrassing you can subscribe to:T-Series, Cat Facts, Belle Delphine
+ITEM: A noun:food, screwdrivers, cockroach, mind-shattering pain and/or pleasure
+EVIL: An evil villain:The joker, Elonius Muskius, Jake from State Farm
+CAR: A mode of transportation:Bike, crawling on your hands and knees, skateboard
+GUESS1: Literally any person, place, thing, or concept:helicopter, peanut butter, your own shadow
+GUESS2: Literally any person, place, thing, or concept:LED bulbs, Tupper VRChat from VRChat, 600 dollars worth of Sims 4 DLC
+GUESS3: Literally any person, place, thing, or concept:Rats, belgian waffles with the strawberry sauce, Michelle Obama if she was a horse, the live action death note thing they made
 SCRIPT ==========================================
+Tense cinematic music
 BATMAN: (Enter stage right)
 BATMAN: Rachel!
 RACHEL: Batman!
-RIDDLER: Not... So... Fast... Batman..
-RIDDLER: Riddle me this Batman!
-RIDDLER: (Point a gun at Rachel)
-RIDDLER: If you aim to give us a shot, we'll riddle you.
-BATMAN: Is it a GUESS1
-RIDDLER: Okay... So like... What made you think GUESS1
+RIDDLER: Not... So... Fast... Batman.. I have your precious Rachel hostage. (Point a gun at Rachel)
+RIDDLER: We wouldn't want anything bad to happen to here, right?
+BATMAN: (Turn on ear-mounted radio) Alfred! Do you read me?
+ALFRED: (Over radio) Yes Batman?
+BATMAN: The Riddler has Rachel tied up. What do I do?
+ALFRED: Why, answer his riddles, of course.
+BATMAN: That's CATCH . Thanks Alfred. (Hang up)
+RIDDLER: Riddle me this Batman: "If you aim to give us a shot, we'll riddle you!"
+BATMAN: Is it a GUESS1?
+RIDDLER: Okay... So like... What made you think GUESS1?
 BATMAN: Okay.. Okay... Wait.. Say it again..
-RIDDLER: If you aim to give us a shot...
-RIDDLER: We'll riddle you...
-BATMAN: Oh man....
-BATMAN: That's a hard one...
-RIDDLER: Really? Because like... That was suppose to be easy...
-RIDDLER: Like... As an example of the concept... You know?
-RACHEL: Batman! It's... (Get cut off)
-BATMAN: Woh! Woh Woh!
-BATMAN: No spoilers!
-BATMAN: Is it... GUESS2
+RIDDLER: "If you aim to give us a shot... We'll riddle you..."
+BATMAN: Oh man.... That's a hard one...
+RIDDLER: Really? Because like... That was suppose to be easy. I have more riddles after this one.
+RIDDLER: This is like a tier 1 riddle.
+RACHEL: Batman! Listen to me! I know the answer!
+BATMAN: Woh! Woh Woh! No spoilers! I got this.
+BATMAN: Is it... GUESS2?
 RIDDLER: Seriously?
-RACHEL: (hinting at the answer) Buh.....
-BATMAN: Buh....
-BATMAN: The answer is... Uh... Buh....
-RIDDLER: You think the answer is "Buh"...
-BATMAN: She said... that... it was... uhh...
+RACHEL: (Whispering) Pssst.... "Buh...".
+BATMAN: Buh....?
+BATMAN: The answer is... Uh... "Buh"?
+RIDDLER: You think the answer is "Buh"?
+BATMAN: I don't know, she said "Buh", so...
 RIDDLER: Don't worry about what she said.
-RIDDLER: Look... If you... aim...
-RACHEL: Like... with a gun...
-RIDDLER: to give us a... shot....
-RACHEL: Bang bang bang
-RIDDLER: We'll.... riddle... you
-RACHEL: With little pieces of metal... Called...
-BATMAN: GUESS3
-RIDDLER: No.. Okay... So... What is gunna come out of the gun?
+RIDDLER: Look... "If you... aim..."
+RACHEL: Like... with a "GUN"...
+RIDDLER: to give us a... "SHOT"....
+RACHEL: Bang bang bang!
+RIDDLER: We'll "RIDDLE" you!
+RACHEL: (Encouraging) With little pieces of metal!? Called...???
+BATMAN: GUESS3.
+RIDDLER: No.. Okay... So... What is gonna come out of the gun?
 BATMAN: Injustice!
 RIDDLER: Okay... No...
 BATMAN: The tool of cowards.
 RACHEL: Please... Not right now...
 BATMAN: And criminals, in whom I am sworn to oppose...
 RIDDLER: Are you serious?
-RIDDLER: This is the guy who stopped EVIL
-RACHEL: Yeah... I know..
-RIDDLER: Like that time EVIL stole the world's supply of ITEM
-RIDDLER: That was them?
+RIDDLER: This is the guy who stopped EVIL?
+RACHEL: (Sigh) Yeah... I know.
+RIDDLER: Like that time EVIL stole the world's supply of ITEM.
+RIDDLER: That was this guy?
 RACHEL: Yup....
-BATMAN: (hold you finger to your ear)
-BATMAN: Alfred!
-ALFRED: Yes Batman?
+BATMAN: (Turn on ear-mounted radio) Alfred! Do you read me?
+ALFRED: (Over radio) Yes Batman?
 BATMAN: If you shoot... uh...
 BATMAN: To aim... uhh...
 BATMAN: Uh.. riddle... Uhh...
@@ -10258,16 +10120,22 @@ ALFRED: Is it a GUESS1 Mr. Wayne?
 BATMAN: That's what I said!
 ALFRED: Also, Mr. Wayne, Your subscription to SUB needs to be renewed, shall I renew it?
 BATMAN: What? No! I don't subscribe to SUB ! That's crazy!
-BATMAN: (whisper) Yes...
-RIDDLER: Okay... Well... It's not a GUESS1
-RIDDLER: Okay... So... Sometimes words have double meanings, so the word riddle can also mean....
-BATMAN: I got it! It's you! You're ridding me!
+BATMAN: (whisper) Yes... please renew my subscription to SUB...
+RIDDLER: Okay... Well... It's not a GUESS1.
+RIDDLER: You're not really getting the concept of Riddles. Which is like my whole thing.
+RIDDLER: Do you know what a "double meaning" is?
+BATMAN: Uh... Yeaaaah... Duh...
+BATMAN: (Turn on ear-mounted radio) Alfred.... What's a double meaning?
+ALFRED: Some words have two meanings Batman.
+ALFRED: So for example, riddle could also mean to provide a word puzzle.
+BATMAN: (Excitedly turn to the Riddler) Wait, I got it! It's you! You're ridding me!
 RACHEL: Oh my god...
 RIDDLER: Okay... Multiple choice...
 RACHEL: Good... Okay...
 RIDDLER: What comes out of a gun?
-RIDDLER: A.... Bullets....
-RACHEL: That's a pretty good hint...
+RIDDLER: A: Bullets
+RACHEL: That's a pretty good hint, Riddler.
+RIDDLER: Thank you.
 BATMAN: What's B and C?
 RIDDLER: There is no B and C.
 BATMAN: It's a trap!
@@ -10275,12 +10143,15 @@ RIDDLER: Oh my god! It's Bullets!
 RACHEL: Bullets
 RIDDLER: Bullets! Even she got it!
 BATMAN: What?... But like...
-BATMAN: How could a bullet riddle me? It doesn't have a mouth...
+Noir music 1
+BATMAN: (Pondering) How could a bullet riddle me? It doesn't have a mouth...
 RIDDLER: Oh my god! The answer is bullet, you were suppose to say the word.
 RIDDLER: Then I was going to shoot you like this!
 RIDDLER: (Point the gun at batman)
+Badass music 1
 BATMAN: (Beat up the ridder)
 RIDDLER: (Die)
+Music stops
 BATMAN: Don't worry Rachel, you're safe now!
 BATMAN: You wanna ride in the Bat CAR
 RACHEL: Uh... No... I'll just walk...
@@ -10288,7 +10159,7 @@ BATMAN: Fine! Your loss!
 RACHEL: (Leave Stage)
 BATMAN: REJECT
 ALFRED: Batman, everything okay?
-BATMAN: (Hold finger up to ear)
+BATMAN: (Using ear radio)
 BATMAN: Yeah... Yeah... They were just mad that I got the answer so fast.
 
 ======
@@ -12721,21 +12592,21 @@ TAGS: Skit
 SET: Living Room
 DATE: 28/04/24
 CHARACTERS ================================
-SAMANTHA: Samantha is the liked child:Backstage
-GRANDMA: the old grammy:Couch
-CHARLIE: Charlie is the favorite child:Backstage
 STEVEN: Steven is the hated child:Backstage
+CHARLIE: Charlie is the favorite child:Backstage
+GRANDMA: the old grammy:Couch
+SAMANTHA: Samantha is the liked child:Backstage
 SUGGESTIONS =============================
-HOLIDAY: any holiday you like!:Christmas, Halloween, St. Patrick's day
-DEADLY WEAPON: something you can use to hurt someone:gun, knife, bat
-SOMETHING YOU HATE: something you'd never want:used tissues, fish, underwear
-ANGRY WORD: something you say when angry!:wtf, frick, flip
-SOMETHING YOU LOVE: something you really love, like, a lot!:car keys, a pc, a vr headset
-CELEBRITY: make it funny!:Kanye West, Zendaya, Trump
-YUMMY FOOD: something you like to eat:fig jam, orange, banana
-RUDE NAME: something mean:idiot, lady, weirdo
-EDIBLE THING: something that you can eat:popcorn, chips, candy
 COUNTRY: a cool country!:Italy, Germany, Japan
+EDIBLE THING: something that you can eat:popcorn, chips, candy
+RUDE NAME: a mean name:idiot, lady, weirdo
+YUMMY FOOD: something you like to eat:fig jam, orange, banana
+CELEBRITY: a celebrity:Kanye West, Zendaya, Trump
+SOMETHING YOU LOVE: something you really love, like, a lot!:car keys, a pc, a vr headset
+ANGRY WORD: something you say when angry!:wtf, frick, flip
+SOMETHING YOU HATE: something you'd never want:used tissues, fish, underwear
+DEADLY WEAPON: something you can use to hurt someone:gun, knife, bat
+HOLIDAY: any holiday you like!:Christmas, Halloween, St. Patrick's day
 SCRIPT ==========================================
 world news intro
 Grandma: (watching TV)
@@ -12743,24 +12614,31 @@ Grandma: ANGRY WORD those youngins! Wait, is it HOLIDAY already?? Gee! I have my
 Grandma: I am so excited to give them something they will love.
 knocking on door
 Grandma: come in sweetie!
+guitar music 1
 Samantha: (enters through front door) hey grandma!
 Samantha: (snacking on something very loudly) these are too good (munch crunch)
 Grandma: whatcha got there honey bun?
 Samantha: EDIBLE THING, obviously.
 Grandma: Sounds delicious! I love me some EDIBLE THING. We will open gifts when Charlie and Steven get here.
 Samantha: Does Steven have to come? He’s like, kinda… weird.
-Grandma: He does my taxes and pays my mortgage. 
-Grandma: your mother would get angry if I didn't get him a little something anyways.
+record scratch
+Grandma: He does my taxes and pays my mortgage.
+Grandma: also, your mother would get angry if I didn't get him a little something anyways.
 break down door
 Charlie: (bursts through side door) grandma!
+jazz music 1
 Charlie: when am I getting my gift you RUDE NAME
 Grandma: oh Charlie, we will start when-
 knocking on door
 Grandma: come in!
 Steven: (enters through front door)
+crowd woo
 Steven: Hey guys, sorry I’m late! I hope you haven’t started yet, I just got back from COUNTRY with my girlfriend.
+guitar music 1
 Samantha: COUNTRY? wow, I didn't know they let weirdos into there.
-Grandma: well, better never than late! Anyways, Here you go Samantha. (gives gift to Samantha)
+Grandma: well, better never than late! 
+laughter
+Grandma: Anyways, Here you go Samantha. (gives gift to Samantha)
 Samantha: (takes the gift and opens it)
 Samantha: gee grandma, I do love YUMMY FOOD!
 Steven: woah! So cool!
@@ -12796,6 +12674,7 @@ Charlie: yeah! What she said!
 Grandma: I’m getting my DEADLY WEAPON!
 Steven: (runs out screaming)
 Samantha: Anyways, when is dinner?
+laughter
 
 ======
 
@@ -20005,19 +19884,19 @@ TAGS: Skit
 SET: News
 DATE: 28/04/24
 CHARACTERS ================================
-ANCHOR: Jane Smith, News Anchor:News Desk
+ANALYST: Dr. Emily Parker, Analyst:News Desk
 REPORTER: Mike Roberts, News Reporter:Fake Street Backdrop
-ANALYST: Dr. Emily Parker, Analyst:Backstage
+ANCHOR: Jane Smith, News Anchor:News Desk
 SUGGESTIONS =============================
-MOVIE: A movie name :The super Mario movie, Cars, kronks new groove 
-CELEBRITY: A celebrity :Chris Pratt, Drake, Taylor swift, Eminem, Barack Obama
-DISCOVERY: A ancient relic:Rosetta stone, crusty sock, the uncensored statue of david
-TECH: A technological advancement :Robotic pets, Quantum computing, Virtual Reality Chat
-EVENT: An event :Music festival, Game night, art walk, public execution
-FOOD: A tasty food:Gourmet donuts, tacos, canned olives, sardines, banana pudding, cool whip
-CITY: Any city name, real or fictional:Willowbrook heights, New York, Harborview bay, San Francisco
-WEATHER: An unusual weather phenomenon:Fire whirls, Catatumbo lightning, Blood rain, raining cockroaches
 CREATURE: A strange creature or being:Jackalope, Chupacabra, Bunyip, Wendigo, Elmo from Sesame Street
+WEATHER: An unusual weather phenomenon:Fire whirls, Catatumbo lightning, Blood rain, raining cockroaches
+CITY: Any city name, real or fictional:Willowbrook heights, New York, Harborview bay, San Francisco
+FOOD: A tasty food:Gourmet donuts, tacos, canned olives, sardines, banana pudding, cool whip
+EVENT: An event :Music festival, Game night, art walk, public execution
+TECH: A technological advancement :Robotic pets, Quantum computing, Virtual Reality Chat
+DISCOVERY: A ancient relic:Rosetta stone, crusty sock, the uncensored statue of david
+CELEBRITY: A celebrity :Chris Pratt, Drake, Taylor swift, Eminem, Barack Obama
+MOVIE: A movie name :The super Mario movie, Cars, kronks new groove 
 SCRIPT ==========================================
 world news intro
 ANCHOR: Good evening, Viewers. I'm Jane Smith, your beacon of truth in this sea of uncertainty.
@@ -20032,7 +19911,6 @@ REPORTER: It's like the city's gone through a cosmic blender and ended up with a
 REPORTER: And speaking of bizarre, have you heard about the latest craze sweeping through CITY ?
 REPORTER: It's called FOOD , And let me tell you. It's got everyone eating out the palm of there hands!
 ANCHOR: Thank you, Mike, For your fearless reporting...
-TELEPORT ANALYST to News Desk
 ANCHOR: Now the person next to me is Dr. Emily Parker, Our resident analyst, to delve deeper into the implications of these developments.
 ANCHOR: Dr. Parker, What can you tell us about the potential impact on our city and its inhabitants?
 ANALYST: Jane, the appearance of the strange CREATURE and the anomalous WEATHER raises profound questions about the fabric of reality itself.
@@ -22975,20 +22853,20 @@ TAGS: Skit
 SET: Murder
 DATE: 28/04/24
 CHARACTERS ================================
-DIRECT: The very serious Director:Backstage
-SON: The Child actor:Entrance Stage Right
-DAD: The Father actor:Center Stage
 DOC: The Doctor actor:Narrator Podium
+DAD: The Father actor:Center Stage
+SON: The Child actor:Entrance Stage Right
+DIRECT: The very serious Director:Backstage
 SUGGESTIONS =============================
-TOOL: An object:Screwdriver, Rubber ducky, Katana, Blaze reap
-WORKING: An action (-ing) you can be doing at home :Working out, Playing piano, Crying
-THING: An object that might give you a sickness:Dead rat, Cursed Vase, Duck, Teddy bear
-MAN: A person or actor:Danny Devito, Kirby, Tom Holland
-EMOTIONLESS: An emotion:Furry, Emotionless, Silly, Painful
-SICKNESS: A form of sickness:Appendicitis, Skulk infection, Ren-Diggity-Dog, pneumo-ultra-micro-scopic-cyllica-volcano-coni-osis
-SAD: An emotion:depression, miserable, Bored, Tired
-ACT: An action:Dance, punch, sing, eat
 COMPANY: A company or person:TikTok, Amazon, Microsoft, C418, Stampylonghead
+ACT: An action:Dance, punch, sing, eat
+SAD: An emotion:depression, miserable, Bored, Tired
+SICKNESS: A form of sickness:Appendicitis, Skulk infection, Ren-Diggity-Dog, pneumo-ultra-micro-scopic-cyllica-volcano-coni-osis
+EMOTIONLESS: An emotion:Furry, Emotionless, Silly, Painful
+MAN: A person or actor:Danny Devito, Kirby, Tom Holland
+THING: An object that might give you a sickness:Dead rat, Cursed Vase, Duck, Teddy bear
+WORKING: An action (-ing) you can be doing at home :Working out, Playing piano, Crying
+TOOL: An object:Screwdriver, Rubber ducky, Katana, Blaze reap
 SCRIPT ==========================================
 groose music
 SON: (SAD, walks out on stage) Hello, Father, my stomach hurts. (fake cough)
@@ -23043,16 +22921,16 @@ DAD: Then let's do this.
 DOC: Woo. (runs to narrator podium)
 meanwhile SON: (runs to stage right entrance)
 badass music 1
-SON: (dramatic but acting) Hello, father, my stomach hurts. (coughs then acts) I believe I have SICKNESS.
-DAD: My son, you have (acts) SICKNESS? We must call a doctor at once. (runs to phone while acting).
-DAD: Hello, Doc, my son has SICKNESS, and we need your help. (acts).
-Meanwhile SON: (falls to the floor in an acting way)
-DOC: (acting) Got it, SICKNESS is very fatal. I will be there as soon as possible.
-DOC: (somehow wee-woo to stage left in an acting way) Worry not, for I am here.
-DAD: (acts as he walks to the doc) Doc, my son, he's not doing well. Please help him.
-DOC: (checks up on son while acting then stands up) I'm sorry; it would seem your son (ACT) was not long for this world.
-Meanwhile DAD: (ACTs)
-DAD: No, my son, I'm sorry. (kneels down to son while ACTing) I'm sorry I couldn't be the father you wanted
+SON: (dramatic but acting) Hello, father, my stomach hurts. (coughs then ACT) I believe I have SICKNESS.
+DAD: My son, you have (ACT) SICKNESS? We must call a doctor at once. (runs to phone while acting).
+DAD: Hello, Doc, my son has SICKNESS, and we need your help. (ACT).
+Meanwhile SON: (falls to the floor in an ACT ing way)
+DOC: (ACT) Got it, SICKNESS is very fatal. I will be there as soon as possible.
+DOC: (somehow wee-woo to stage left in an ACT ing way) Worry not, for I am here.
+DAD: (ACT as he walks to the doc) Doc, my son, he's not doing well. Please help him.
+DOC: (checks up on son while ACT ing then stands up) I'm sorry; it would seem your son (ACT) was not long for this world.
+Meanwhile DAD: (ACT)
+DAD: No, my son, I'm sorry. (kneels down to son while ACT ing) I'm sorry I couldn't be the father you wanted
 
 ======
 
@@ -23224,18 +23102,18 @@ TAGS: Skit
 SET: Western
 DATE: 28/04/24
 CHARACTERS ================================
+CLOWN: Clown Gun Slinger/Sheriff:Entrance Stage Right
 OUTLAW: Outlaw:Stage Left
-CLOWN: Clown Gun Slinger/Sheriff:Stage Left
 SUGGESTIONS =============================
-INSULT3: Wild west insult:Polecat, lily livered coward, snake in the grass 
-BUSINESS: Another word for self made man:entrepreneur, go getter, man of culture
-INSULT2: Wild west insult:Skinny, Weasel, Varmint, Rat
-INSULT1: An old timey insult from the 1800's:Yellow, Gibfaced, Ratbagged, Crooked
-BUBBLES: Name of a party clown:Bubbles, Balloon McTwisty, Smiles, Hungry, Pancake
-GUNSLINGERNAME: Name of a old west outlaw:Pistol McGraw, Keylime Killer, Mutilator Jones, Billy the Echidna
-WEAPON: Another name for a gun:Pistol, Six Shooter, Pea Shooter, Blaster, Rooty-Tooty Point and Shooty
-TOUGH: Another word for being tough or strong:man, hard, stout, savage
 OUTRAGE: Old west word of outrage:tarnation, sam hill, all hell
+TOUGH: Another word for being tough or strong:man, hard, stout, savage
+WEAPON: Another name for a gun:Pistol, Six Shooter, Pea Shooter, Blaster, Rooty-Tooty Point and Shooty
+GUNSLINGERNAME: Name of a old west outlaw:Pistol McGraw, Keylime Killer, Mutilator Jones, Billy the Echidna
+BUBBLES: Name of a party clown:Bubbles, Balloon McTwisty, Smiles, Hungry, Pancake
+INSULT1: An old timey insult from the 1800's:Yellow, Gibfaced, Ratbagged, Crooked
+INSULT2: Wild west insult:Skinny, Weasel, Varmint, Rat
+BUSINESS: Another word for self made man:entrepreneur, go getter, man of culture
+INSULT3: Wild west insult:Polecat, lily livered coward, snake in the grass 
 SCRIPT ==========================================
 western jingle 1
 OUTLAW: Well... ain't no one 'round these parts man enough to face ol' GUNSLINGERNAME.
@@ -24134,7 +24012,7 @@ Applause
 
 INFORMATION ===============================
 ID: 748
-TITLE: Maid Master, My Dude
+TITLE: The Maid Master
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
@@ -24145,7 +24023,7 @@ DUDE: Dude Bro:Backstage
 MAID: The Maid:Stage Right
 MASTER: The Master:Center Stage
 SUGGESTIONS =============================
-PET: Living beings (plural) that no one should legally own:Tigers, Man-eating Snails, Dolphins, Aliens
+FAMILY: a member of a family:Mother, father, step-bro, daughter, son, grandma, grandpa, husband, wife
 GREETING: Something you’d say to introduce yourself to a lady:What’s cookin’ good lookin’?, Whoah you’re pretty!, MILF alert!
 ACTION: An activity for two people:Fish, Dance, Vomit, kiss
 GOO: A sticky substance :Glue, baby-batter, snot, spinal fluid, bug guts
@@ -24219,7 +24097,7 @@ MASTER: Maid..
 MAID: I’m here, Master.
 MASTER: Be… a good little bean for NAME.. will you?
 MAID: (cry) I-I will, Master..
-MASTER: And.. Make sure.. to dispose of.. those 83 PET in the cellar..
+MASTER: And.. Make sure.. to dispose of.. those 83 people in the cellar..
 Waterphone
 MAID: Wait what?!
 MASTER: NAME… I… leave the rest to you…. (Expire)
@@ -24236,7 +24114,7 @@ Applause
 
 INFORMATION ===============================
 ID: 749
-TITLE: Adventure Gone Wrong?
+TITLE: Quest Gone Wrong
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
@@ -24931,39 +24809,38 @@ TAGS: Skit
 SET: Murder
 DATE: 28/04/24
 CHARACTERS ================================
-MOB BOSS: The Mob Boss:Center Stage
-ROOKIE: The New Rookie:Backstage
-CAPO: The Boss's Capo:Backstage
 COP: The Undercover Cop:Backstage
+CAPO: The Boss's Capo:Backstage
+ROOKIE: The New Rookie:Backstage
+MOB BOSS: The Mob Boss:Center Stage
 SUGGESTIONS =============================
-ANIMAL: Name A Type Of Animal:Rat, Mole, Pig, Sheep
-ACTIVITY: Name A Type Of Illegal Activity:Murder, Drugs, Gambeling, Theft
-WEAPON: Name A Type Of Weapon:Gun, Knife, Sword, Tommy Gun
-BUISNESS : Name For A Buisness:The Barber, Tony's Steaks, The Laundromat, Home Goods.
-NAME: Name Of Someone In The Audience:Bob, Tom, Trent, David
-JOB: Name A Job :Taxi Driver, Butcher, Cashier, Barkeep
-CITY: Name For A City:Lost Heaven, Empire Bay, New Bourdex, Chicago
-PUNISHMENT: Name A Type Of Punishment:Sleeping with the fishes, Locked up, Tied up, Fired
 FLUID: Name A Bodily Fluid:Blood, Sweat, Tears, Saliva
+PUNISHMENT: Name A Type Of Punishment:Sleeping with the fishes, Locked up, Tied up, Fired
+CITY: Name For A City:Lost Heaven, Empire Bay, New Bourdex, Chicago
+JOB: Name A Job :Taxi Driver, Butcher, Cashier, Barkeep
+NAME: Name Of Someone In The Audience:Bob, Tom, Trent, David
+BUISNESS : Name For A Buisness:The Barber, Tony's Steaks, The Laundromat, Home Goods.
+WEAPON: Name A Type Of Weapon:Gun, Knife, Sword, Tommy Gun
+ACTIVITY: Name A Type Of Illegal Activity:Murder, Drugs, Gambeling, Theft
+ANIMAL: Name A Type Of Animal:Rat, Mole, Pig, Sheep
 SCRIPT ==========================================
 (dark classical music)
-MOB BOSS: I hope my NAME has surely some useful members for our family.
-MOB BOSS: I hope that the Gambino didn't grab him.
-CAPO: (Enter Stage Left) I made it boss sorry for the wait.
-CAPO: I brought you two new recruits boss want me to bring them in for the family test?
+MOB BOSS: I sure hope NAME has recruited some useful members for our family.
+MOB BOSS: Hope the Gambino family didn't pinch him, neither!
+CAPO: (Enter Stage Left) I made it back boss, sorry for the wait.
+CAPO: I brought you two new recruits, boss. Want me to bring them in for the family test?
 MOB BOSS: Go ahead bring them in.
-CAPO: Alright you two no funny business, you don't wanna mess with the boss.
+CAPO: Alright you two, no funny business, you don't wanna mess with the boss.
 ROOKIE: (Enter Stage left) I w-wont screw up anything!
 COP: (Enter Stage Left) You can count on me!
 MOB BOSS: Alright, first off let's find out about them.
 MOB BOSS: (Look at ROOKIE) You, anything you wanna share?
-ROOKIE: M-me? I u-uh I am a simple JOB for your uh, BUISNESS.
+ROOKIE: M-me? I u-uh I am a simple JOB for your business, BUISNESS.
 MOB BOSS: Checks out to me. (Look at COP) Your next.
 COP: Well sir, I just got into this CITY, and I saw your BUISNESS, then simply asked NAME here about a possible opportunity.
 CAPO: I can confirm this boss man.
 MOB BOSS: Alrighty, well here in CITY, I run the BUISNESS around here.
 MOB BOSS: Lets give em a good old little test. Just to make sure we don't have a dirty ANIMAL among us.
-MOB BOSS: Alright boy's let's see how well ya know the way the mob works.
 (music stops)
 CAPO: First off, which mob family is after the boss?
 ROOKIE: U-uhmmm isn't that? Crap I forgot there name.
@@ -24971,8 +24848,8 @@ COP: That would be the Gambino family right?
 MOB BOSS: Correct, next question.
 CAPO: What does the boss do?
 ROOKIE: He u-uhmmm, runs the BUISNESS?
-CAPO: Not quite the answer bub.
-COP: The boss deal with ACTIVITY.
+CAPO: Not quite the answer, bub.
+COP: The boss deals with ACTIVITY.
 CAPO: That's the answer were lookin for.
 (noir music 1)
 MOB BOSS: If I let you two into my family, do you pledge your loyalty?
@@ -24981,7 +24858,7 @@ ROOKIE: I have been apart of BUISNESS after all!
 COP: I would give up my life for this life boss!
 MOB BOSS: Are you both sure? This line of work is hard.
 ROOKIE: (nervous) I-I don't know s-sir! I haven't used a WEAPON before.
-COP: I know I could, I have used a WEAPON before, not sure about with ACTIVTIY though.
+COP: I know I could, I have used a WEAPON before, not sure about with ACTIVITY though.
 MOB BOSS: Well you see, I need loyal people in my family, otherwise, we might have problems.
 MOB BOSS: But as for the ACTIVITY, It's necessary for my BUISNESS.
 MOB BOSS: Without my BUISNESS I wouldn't have money.
@@ -24991,13 +24868,13 @@ CAPO: Yeah just last week we had to take care of what was his name boss?
 MOB BOSS: He was Fat Tony right NAME?
 CAPO: Yeah that was him, I recall you had me take a squad out to perform a PUNISHMENT for him.
 MOB BOSS: Just because he was nothin but a dirty filthy ANIMAL.
-ROOKIE: I-im very sure! of that!
+ROOKIE: I'm very sure! of that!
 COP: I remember hearing that in the paper's when that happened.
 MOB BOSS: You know what NAME? give em a test run, lets see if they can handle it.
 (music stops)
 CAPO: You got it boss man, you heard him get goin!
 ROOKIE: O-okay! (exit stage left)
-COP: Im ready for this boss (exit stage left)
+COP: I'm ready for this boss (exit stage left)
 MOB BOSS: Hey, NAME before you go,
 CAPO: Yeah boss?
 MOB BOSS: (whispering) Keep a close eye, I think one of em is a dirty ANIMAL.
@@ -25008,11 +24885,11 @@ CAPO: (enter stage left) Were back boss, Hey! get in here you two!
 ROOKIE: (enter stage left) Di-did we just commit ACTIVITY??!
 COP: (enter stage left) I really don't see why your so nervous about ACTIVITY.
 ROOKIE: W-well there was so much FLUID everywhere and so many d-dead!
-CAPO: (approach ROOKIE) Well bub, straighten up cus you'll need to man up for this work. 
+CAPO: (approach ROOKIE) Well bub, straighten up cus you'll need to man up for this work.
 ROOKIE: Y-yes sir.
 MOB BOSS: Well NAME how did they perform?
 (dark classical music)
-CAPO: Well as you can see here this one was nervous as a wreck however. 
+CAPO: Well as you can see here this one was nervous as a wreck however.
 CAPO: (approach COP) This one did the ACTIVITY wonderful.
 MOB BOSS: Hmmm, I see. Now I think NAME, we shall decide who is fit for the family.
 CAPO: I agree boss, I think I know exactly who it might be though.
@@ -25040,18 +24917,420 @@ COP: Any normal employee for the boss from BUISNESS would not act as nervous as 
 COP: He couldn't even use a WEAPON during the ACTIVITY we just did!
 COP: A dirty ANIMAL would act so nervous just like he is!
 CAPO: Alright you two have given your alibi's however.
-CAPO: Times up. (gunshot)
+CAPO: Times up.
+(gunshot)
 COP: (clench stomach) W-why? (dies)
 ROOKIE: W-w-was it him!?
 CAPO: Yes, he was the dirty ANIMAL, What gave it away was that he knew about Fat Tony.
 MOB BOSS: Anyone who wasn't a dirty ANIMAL would not of known about Fat Tony.
 ROOKIE: I suppose, I didn't even know about Fat Tony.
 MOB BOSS: Well, you made it kid, your a part of the mob now.
-CAPO: Well boss what should I do with this mess?
-MOB BOSS: Oh him? Let him sleep where Fat Tony is.
-CAPO: Right away boss, I'll get the tools. (exit stage left)
-MOB BOSS: Anyway as for you lets get you cleaned up, red doesn't make fit with a suit. (exit stage right)
-ROOKIE: R-right sir, I'll try my best. (exit stage right)
+CAPO: Well boss, (Point to dead body) what should I do with this mess?
+MOB BOSS: That guy? Take out the trash, if you know what I mean.
+CAPO: Right away boss, I'll get the tools.
+
+======
+
+INFORMATION ===============================
+ID: 770
+TITLE: Mafi-Oh-So Wrong!
+AUTHOR: Midnight Spark
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Detective Noir
+DATE: 28/04/24
+CHARACTERS ================================
+BOSS: The big boss:Detective Chair
+TERRY: Terry, The guy who tripped:Center Stage
+JERRY: Jerry, The guy who slipped:Stage Right
+LARRY: Larry, The guy who ripped:Visitor Chair
+PERRY: Perry, The guy who dipped:Stage Right
+SUGGESTIONS =============================
+PERSON: A type of person/family member/friend:Granny, Mailman, Dad
+DISEASE: A type of disease:Ligma, COVID, Cancer
+CLOTHING: A type of clothing:Gucci belt, Sweater, Jockstrap
+WEAPON: A dangerous weapon:Gun, Sword, Weapon of mass destruction
+EVENT: A event/convention:Party, Circus, Furry Convention
+WEBSITE: A website:Google, Youtube, Twitch
+TREAT: A type of treat:Ice cream, Coffee, A hotdog I found
+DEATH SHOUT: Something you'd say before you kill someone:TIME TO DIE!!!, AVADA KEDAVRA!!!, HOCUS POCUS!!!
+ACTIVITY: An activity you do with friends:Picnic, Hunting, Clubbing
+TOPPING: A type of topping:Pepperoni, Nails, Sprinkles
+THREAT: A threat against someone:YOU'RE GONNA DIE, I'm calling the police, HERE COMES THE GIANT FIST!!
+SCRIPT ==========================================
+noir music 2
+BOSS: I called you all out here today because PERSON has passed away due to DISEASE.
+LARRY: What? DISEASE? Damn, that's really rough boss.
+PERRY: Hey, they could have died from worse.
+LARRY: Perry! You watch your tone you numbskull, that's uncalled for. (Shove PERRY)
+PERRY: (Get shoved) Watch it! I just got this CLOTHING today!
+music stops
+TERRY: (Sip coffee) Sounds like a whole lot of not my problem.
+vine boom
+TERRY: Me personally, I wouldn't die like that.
+vine boom
+BOSS: Keep talking like that and I'll pull out my WEAPON.
+record scratch
+TERRY: (Sarcastically) Oh nooo! Not the WEAPON!
+vine boom
+LARRY: (Jump between BOSS and TERRY) Guys, stop fighting! We're family!
+sad chug jug music
+LARRY: We've been brothers for a long time. We gotta work with each other. We're Mafioso's!
+LARRY: Remember when we did ACTIVITY with PERSON.
+LARRY: It's how we've always gotten through all our problems.
+LARRY: So... Whaddya say?
+music stops
+TERRY: (Sip coffee) Skill issue.
+vine boom
+BOSS: (To LARRY) Can I kill him with my WEAPON now?
+groose music
+LARRY: No! Would you two just stop?
+TERRY: Even if he tried, I'd know when.
+TERRY: He always shouts DEATH SHOUT before properly killing someone.
+BOSS: Is that a problem?
+TERRY: Again, that's your problem.
+JERRY: Speaking of problems, don't we gotta go to a EVENT?
+TERRY: You mean a funeral, you idiot.
+LARRY: Hey, I heard they're gonna host a EVENT on WEBSITE.
+PERRY: What?
+PERRY: I never knew they did EVENT on WEBSITE.
+PERRY: (Rub your chin) Wasn't the ACTIVITY hosted by WEBSITE too. . ?
+BOSS: I can't believe I managed to survive for this long with all of you idiots with me.
+music stops
+TERRY: Like PERSON managed to survive for this long with DISEASE?
+vine boom
+BOSS: I'm gonna kill em'. (Pull out weapon)
+silly music 2
+TERRY: Nope! (Splash your coffee on BOSS)
+Meanwhile BOSS: AAAAAH! MY EYES!! (Flail arms around and aim weapon at JERRY)
+JERRY: Wrong guy! Wrong guy! (Put arms up and walk around desk, slipping into TERRY)
+TERRY: Gah! You dumbass watch where you're going- Woah! (Trip into LARRY)
+LARRY: No! My CLOTHING! It's ripped! You shmucks owe me a new CLOTHING!
+BOSS: Found you, ya little bug! (Blindly fire gun at LARRY)
+gunshot
+LARRY: My arm! You shot me boss! Look what you made him do! (Bonk JERRY)
+JERRY: (Look at TERRY) Oh my god! He shot Larry!
+Meanwhile TERRY: (Look at JERRY) Oh my god! He shot Terry!
+JERRY: Wait what? No he didn't!
+TERRY: (Whisper to JERRY) Shut up, I'll get you a TREAT if you don't sell me out!
+JERRY: (Whisper back to TERRY) Can I get a TREAT with TOPPING on it?
+TERRY: ... Sure.
+JERRY: Nice!
+BOSS: THREAT, Terry! You hear me?!? THREAT!! (Fire gun again)
+gunshot
+PERRY: Nope. . Nah. I'm not doing this. I'm outta here. Nonono. (Exit Stage Left)
+JERRY: (Hide behind LARRY) I'm over here, you blind shmuck!
+LARRY: You damn sellout!
+Meanwhile BOSS: There you are! (Shoot at LARRY again)
+gunshot
+LARRY: My other arm! WHYYYY?!?
+BOSS: DEATH SHOUT!
+gunshot
+PERRY: Gonna go sign up for that EVENT on WEBSITE while I'm at it.
+music stops
+
+======
+
+INFORMATION ===============================
+ID: 771
+TITLE: That woman is so weird
+AUTHOR: ahtcs026
+VERIFIED: False
+TAGS: Skit
+SET: City
+DATE: 28/04/24
+CHARACTERS ================================
+JESSICA: Mom #1:Stage Right
+SALLY: Mom #2:Center Stage
+MANDY: The wierd mom:Entrance Stage Left
+SUGGESTIONS =============================
+CITY NAME: City name:Paris, NYC, Rome
+PRODUCT: A product that you can easily buy at a store:Shampoo, keyboard, phone, knife
+ANIMALS: Literally any land animals (plural):Tigers, Ducks, Rats
+PROFESSION: Any profession:Plumber, Teacher, Cashier
+FUN NICKNAME: A fun and/or silly nickname :Sillie, Funnie, Dummie, Goofie
+SCARY OBJECT: An object that might scare you:Spider, Stick, Levitating ball
+WIERD INGRIDIENTS: Two weird ingredients that shouldn't go into a desert:Beef and egg, milk and hot sauce
+ACTIONING: A wierd action ending with -ing:stuffing, celebrating, whailing
+SLICE: A food that can be sliced:Cheese, ham, sausage
+FAM MEMBER: A family member that you RARELY talk to:mom's uncle, grandpa's sister
+ACTOR: Type a famous actor (who's alive):Tom Hanks, Tom Holland, Daniel Radcliffe
+EXCLAMATION: Write a silly exclamation:Holy mackerel, gee golly, gee whiz
+SCRIPT ==========================================
+70s music
+Typewriter: We now return to "The Neighbourhood"
+Jessica: Oh hey, I never saw you here before, are you new to this neighbourhood?
+Sally: Oh yeah, I actually just moved in from CITY NAME, I'm Sally.
+Jessica: I'm Jessica, I thought CITY NAME was great, what happened?
+Sally: There were too many ANIMALS in our house so we just had to get away from that place...
+Jessica: Yeah, that makes sense, well while you're here let me tell you about some people that live here!
+Jessica: We have Greg who works as a PROFESSION and- Oh no.
+Sally: What, what's happening?
+Jessica: There's Mandy coming out of that store, get ready, she's weird.
+waterphone
+Sally: How weird?
+Jessica: You'll see..
+Mandy: (walk out the store) (happy) Hey gal, how are you FUN NICKNAME doing? I'm just buying my favorite thing to buy: PRODUCT!
+Jessica: (uncomfortably and visibly alredy tired) Hey, Mandy, hope you liked buying PRODUCT again..
+Mandy: Of course I did! I loved it!!!
+Mandy: (scared and surprised) EXCLAMATION, Jessica! (slightly whispering) You didn't tell me there was a SCARY OBJECT next to you!
+Sally: (Angrily) Hey I'm not a SCARY OBJECT!
+Jessica: (Whispering to Sally) She didn't mean that, (talking to Mandy) Mandy that's not SCARY OBJECT, that's Sally, she just moved into town from CITY NAME.
+Mandy: Oh sorry, i've been seeing a lot of hallucinations ever since I baked my famous WIERD INGRIDIENTS strudel!
+Jessica: Yes, I know Mandy, that happened 6 years ago, you say that every day!..
+Sally: (talking to herself) WIERD INGRIDIENTS strudel? How can that even- Nevermind..
+Mandy: So anyway (as energetic as before) have you guys been ACTIONING lately?
+cellphone vibrate
+Mandy: Wait just a second you guys, (slightly frustrated) my Ipad is vibrating again!
+Mandy: (slightly whispering at Sally) that means it's ringing. (Take out your cellphone and press a button)
+Sally: (slightly whispering) Wait is that-? Is that a SLICE?
+Mandy: (Talking to someone on phone) Yes... mhm... of of course... certainly...
+Jessica: Yes, yes it is. I told you (emphasis on the next words) she's weird!
+Mandy: (Talking to someone on phone) ... it depends... I suppose so... Yep...
+Mandy: (suddenly shocked in a bad way) EXCLAMATION!
+Sally: What is it?
+Mandy: My FAM MEMBER just died!
+Sally: Oh no! I'm so sorry!
+Jessica: (sigh) (to Sally) she always says that when she's on a phone call.
+Mandy: (still shocked) EXCLAMATION! My FAM MEMBER was ACTOR!
+Sally: (a little bit sad) Oh nooo, that was my favorite ACTOR!
+Jessica: (to Sally) don't worry, she always says that.
+Mandy: (Crying) Oh my god, how can I continue like this? How can I go on?
+Sally: Aw, Mandy, do you need a napkin?
+Mandy: (Crying) What?
+Sally: (slightly louder) Do you need a napkin?
+Jessica: (to Sally, exhausted) trust me, you don't have to.
+Mandy: (through tears) What are you talking about? (Take a bite of SLICE)
+Sally: Well you are clearly crying, you need a napkin!
+Mandy: I already have one?
+Sally: No you don't, that's SLICE.
+Mandy: (through tears) (take another audible bite) A what?
+Sally: (slightly yelling) A SLICE!
+Mandy: (stop crying) I don't know what are you talking about!
+Sally: (Sigh) Oh, forget it, I'm going home! (exit)
+Meanwhile Jessica: Aw look what you've done, again!
+Mandy: What?
+Jessica: Sally left because of you!
+Mandy: Who's Sally?
+Jessica: (frustrated) Omg, I'm so done! (exit)
+Gunshot
+Mandy: What was that? Oh that's right! The sound of a sale for PRODUCT! yayyyyy! (Exit through door)
+Typewriter: After that, Mandy was reported by another PRODUCT buyer to the police.
+Typewriter: She was sentenced to ACTIONING for 10 years straight
+laughter
+
+======
+
+INFORMATION ===============================
+ID: 773
+TITLE: Murder: The Movie
+AUTHOR: GSGenesis
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 30/04/24
+CHARACTERS ================================
+DETECTIVE DAVISON: Detective Derek Davison:Backstage
+AMY: Amy, wife of Cameron:Backstage
+SHANNON: Shannon, relative:Stage Left
+THEA: Cousin Thea:Stage Right
+BILLY: Billy, son of Amy:Backstage
+RALPH: Ralph, immature son of Thea:Center Stage
+SUGGESTIONS =============================
+MEMBER: A family member title:Cousin-twice-removed, Sister, Mama, Niece
+INGREDIENT: A liquid ingredient:yeti sweat, hot sauce, liquid glass, rotten egg whites
+ACTION: Any ridiculous action:tweaked, pinched, snapped, squashed
+BODYPART: Any body part:hair, eyeball, funny bone, nostrils
+LOCATION: A type of house:outhouse, mansion, average apartment, motor home
+CONTAINER: Any type of beverage container:can, keg, barrel, bottle
+DRINK: Any liquid:root beer, Reddi-Wip, processed barf, ipecac
+TIME: Any span of time:hour, month, day, week
+GAME: A really bad video game:Dr. Jekyll & Mr. Hyde, Big Rigs, Cyberpunk 2077, Gollum
+FOOD: Any red food:strawberry, tomato, Tabasco, cherry
+APPENDAGE: Any body part:foot, hand, arm, scapula
+DINNER: Any food:pizza, pasta dish, fruitcake, sirloin steak
+SCRIPT ==========================================
+noir music 1
+THEA: What a lovely night – a friendly gala with my family and friends. Right, MEMBER Shannon?
+SHANNON: Yes…unlike that last party where Cameron spiked our wine with INGREDIENT!
+THEA: That definitely got us in a funk – and what about that time when you ran with scissors, Ralphie?
+RALPH: I was hyper, OK?
+AMY: (scream loudly)
+Music Stops
+record scratch
+SHANNON: What was that?
+THEA: Was that Amy?
+AMY: (enter from Stage Right Door, quivering in fear) ... Everyone? I have some terrible news!
+RALPH: What’s wrong, Auntie Amy?
+SHANNON: Did Cameron ACTION your BODYPART again?
+AMY: No…he’s dead! MURDERED!
+thunder
+RALPH: Huh?!
+Meanwhile THEA: WHAT?!
+mystery music 1
+AMY: He was lying lifeless on the bed…blood everywhere…(start breaking down into tears)
+SHANNON: I’ll call the police.
+THEA: No, MEMBER Shannon! Let’s get a detective here first! I know just who. (leave through Stage Right Door)
+AMY: (sobbing) His throat…a gaping slit in his throat…
+RALPH: How do you know he was murdered?
+Meanwhile THEA: Hello, operator? Have Detective Davison come to our LOCATION.
+SHANNON: Not the time to ask that question, Ralph.
+THEA: (reenter from Stage Right Door) Just don’t panic everyone, the Detective should be here any moment--
+tire screech
+knocking on door
+Teleport DETECTIVE DAVISON to Entrance Stage Left
+THEA: That must be him. (go to Stage Left Door, then open it)
+DETECTIVE DAVISON: Good evening, all. I heard that I was summoned here.
+SHANNON: We are grateful for your presence, Mr. Detective.
+DETECTIVE DAVISON: You can call me Dr. Davison, but only if you wish.
+Meanwhile RALPH: (wander offstage toward Stage Right Door)
+SHANNON: (follow Ralph offstage, in confusion) Ralph, where are you going?
+AMY: Ugh…I think I’m going to be sick from that sight…worse than when I drank that whole CONTAINER of DRINK! (Leave through Stage Right Door)
+dark classical music
+THEA: Dr. Davison, we need your help. Amy says her husband was murdered.
+DETECTIVE DAVISON: That’s the third one this TIME.
+THEA: How often do you get these cases...?
+SHANNON: (scream loudly)
+Music Stops
+knife wound
+thunder
+DETECTIVE DAVISON: What's that? The sounds of violence from behind that door?
+DETECTIVE DAVISON: Stay back – I’ll handle this. (inch toward Stage Right Door, drawing “gun”)
+scary music
+RALPH: (Enter from Stage Right Door, licking his fingers) Hey, what’s going on in here---
+gunshot
+RALPH: (fall to ground)
+Meanwhile THEA: (shriek) My son! Was it my son?!
+DETECTIVE DAVISON: Might have been – there’s blood on his hands.
+THEA: What?! Does that mean he’s the killer?
+Meanwhile DETECTIVE DAVISON: (approach the body of Ralph)
+DETECTIVE DAVISON: It would appear so; he was holding a stained knife in his hand as well!
+THEA: (sigh of relief) Thank goodness.
+footsteps on wood
+BILLY: (enter from Stage Right Door) Aunt Thea! I saw something- (gasp) RALPHIE!
+DETECTIVE DAVISON: Who are you?
+Meanwhile THEA: Don’t get close to him, Billy! He’ll think you’re involved with Ralph’s antics!
+BILLY: What antics? What did Ralph do? Did he cheat at GAME again?
+DETECTIVE DAVISON: This suspect murdered Cameron, wife of Amy.
+BILLY: What?! Ralphie would never do such a thing! Before I went upstairs, he said he was going to get something to eat!
+DETECTIVE DAVISON: Are you absolutely sure- wait a minute… (crouch to Ralph’s body, wipe finger on knife, then taste it)
+Music Stops
+DETECTIVE DAVISON: This isn’t blood – it’s FOOD jelly!
+silly music 2
+THEA: Are you now realizing that you just killed my son without hesitation?
+DETECTIVE DAVISON: Uh…oops.
+THEA: You absolute moron! (take gun from Davison) You lost your privilege to use this!
+DETECTIVE DAVISON: Hey, wait!
+Meanwhile THEA: I bet a million dollars it could be you!
+BILLY: (interrupting) ...Guys! I saw Amy kill Shannon!
+thunder
+piano theme
+DETECTIVE DAVISON: What?
+Meanwhile THEA: You did?
+BILLY: Yeah! I saw her leave the bedroom when Cameron was stabbed, too!
+AMY: (enter from Stage Right Door behind Billy, then stab him with a knife) And now your days are over!
+knife wound
+THEA: BILLY!
+AMY: (approach Davison and Thea menacingly, holding knife) So, that rotten brat told you, huh?
+tense cinematic music
+THEA: Amy…why? Why would you do such a vile thing? To your husband! To MEMBER Shannon! And to your own son! Why?!
+AMY: (snarly tone) Cameron never appreciated me…he always wanted to do what was best for Billy…
+thunder
+AMY: Shannon never liked me either! And Billy always got the best in life while I was thrown to the wolves!
+DETECTIVE DAVISON: So, you resorted to killing them!
+AMY: Same went for the man who broke the Clue DVD he borrowed from me and the student driver who ran over my APPENDAGE last month!
+DETECTIVE DAVISON: You killed them, too…I should have known it was you all along!
+THEA: Amy, please… calm down...
+Meanwhile DETECTIVE DAVISON: (reach behind back for shotgun)
+AMY: ENOUGH! You two won’t get away with revealing who I am! Now DIE!
+THEA: (shriek loudly)
+DETECTIVE DAVISON: (pull out shotgun, shoot Amy) Not today!
+gunshot
+Music Stops
+AMY: (hit by shot from shotgun, fall backwards onto ground, dead) Blech... (gurgle)
+emotional piano music
+THEA: (sigh of relief) Is it over?
+DETECTIVE DAVISON: I…I think so. She’s dead.
+THEA: (crying) Poor Ralph…
+RALPH: (gets up) Uh…what happened?
+THEA: Ralph! You’re alive! (hugs him strongly, kisses him a lot)
+DETECTIVE DAVISON: But- but, how? I thought you were shot dead!
+RALPH: (reach inside shirt, pull out frozen dinner) This frozen DINNER I tried to smuggle in my shirt saved me!
+THEA: Well, I think we can all say…
+DETECTIVE DAVISON: Case. Closed.
+Music Stops
+RALPH: Can I have my peanut butter and FOOD jelly sandwich now?
+
+======
+
+INFORMATION ===============================
+ID: 775
+TITLE: Conflicting Identities
+AUTHOR: AnObviousTrap
+VERIFIED: True
+TAGS: Skit
+SET: Western
+DATE: 30/04/24
+CHARACTERS ================================
+GUN1: Gunslinger with a weird name:Stage Right
+GUN2: Gunslinger with a worse name:Stage Left
+SUGGESTIONS =============================
+HALFNAME: Random Noun:Cheese, Grass, Stunk, Gunk, Chump, Rump, Billy
+NAMEHALF: Word that describes or could be put before a noun:Chumpy, Stinky, Hunky, Floaty, Gunky, Chili
+PALHALF: Belonging to A state or Country- American, Canadian etc.:Texan, Russian, German, Wisconsin, Virginian
+HALFPAL: A Color or Animal:Purple, Yellow, Magenta, Fox, Boar, Pony
+SLINGHALF: Weird or nonsensical first half of a name:JibbyJon, Skurpsin, Glueball, Rurden
+HALFSLING: Weird or nonsensical second half of a name:Heppadaiya, Vonvluggy, McSmellgood, Shaboosky
+FRIEND: Word for a family member or acquiantance:Sister, Cousin, Brother, Friend, Acquaintance, Uncle
+FRIHALF: Crazy first half of a name:Swizzy, Hurky, Glippy, Jog, Loop, Baddy, Really
+HALFFRI: Crazy Second half of a name:Jizzums, Purky, Quippy, Jogguns, McGoops, McDumbName
+SCRIPT ==========================================
+western showdown music
+GUN1: Well, Well, Well. I see you decided to show up.
+GUN1: Thought you might of just walked away after I had to put one of your pals in their place but here you are!
+GUN2: How Could I possibly let you get away after what you've done to PALHALF HALFPAL! They had a fiance waiting back home!
+GUN1: Like I care what they do or do not have! Certainly don't matter to them no more now does it?
+music stops
+GUN1: Now hold on, what did you say their name was?
+GUN2: You hard of hearing? It was PALHALF HALFPAL! Get ready to-
+GUN1: That is the most ridiculous name I have ever heard! Just... Wow.
+GUN1: (Turn away) Almost feel bad about shooting em...
+GUN2: How dare you! It's a... perfectly... Okay fine, yeah it's kinda bad...
+western showdown music
+GUN2: But that doesn't mean nothin' after what you've done! If their name's so bad then what do you call yourself partner!?
+GUN1: (Chuckle confidently) Oh me? Well you are dealing with no less than...
+GUN1: NAMEHALF HALFNAME!
+music stops
+GUN2: You're joking right?
+western showdown music
+GUN1: Shut up! Who are you to judge a name!?
+GUN2: Well, if you haven't already found out, then I suppose I'll have to enlighten you.
+GUN2: The one standing before you is none other then... (Pose Dramatically)
+music stops
+GUN2: SLINGHALF HALFSLING!
+GUN2: (Cough)
+silly music 2
+GUN1: Wow... I just... (turn away)
+GUN2: (Step closer) Now see here! Don't get distracted from what we came here to do! Which is settle the score!
+GUN1: Well, I guess... but jeez... Did you come up with them names yourself?
+GUN2: Well... no. It was my FRIEND. They really assured us they were good! How about you? Surely you didn't just up and name yourself NAMEHALF HALFNAME.
+GUN1: Well, actually I did... so... (Sniff)
+GUN2: Oh... Well, sorry partner. Ya really gotta workshop that alias of yours.
+GUN1: No, No.... I get it. Just thought I really had something going there.
+GUN1: But that FRIEND of yours... what do they go by?
+GUN2: Oh them? They go by FRIHALF HALFFRI.
+record scratch
+music stops
+GUN1: Really?
+GUN2: (facepalm, sigh) I realized as I said it...
+GUN1: You took advice from someone with THAT kind of name?
+GUN2: Don't.... Don't rub it in.
+GUN1: Hey, think we can just like... call this off for now and come back next week to settle this?
+GUN1: Like with better names?
+GUN2: Yeah... you really took the wind out of my sails anyway, I'll make the name for myself this time!
+GUN2: And uh... really get a second opinion when making yours this time all right?
+GUN1: Ugh, just shut up and go...
+jazz music 1
 
 ======
 
