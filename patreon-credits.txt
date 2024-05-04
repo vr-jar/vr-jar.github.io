@@ -2414,6 +2414,7 @@ StronkTank
 Eʅʋιɾα
 Ghost of Vex
 Evilmidnight
+KYUURYU 九龍
 #TIER=3
 SidMarcus
 PinballReviewer
