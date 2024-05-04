@@ -24932,6 +24932,117 @@ CAPO: Right away boss, I'll get the tools.
 ======
 
 INFORMATION ===============================
+ID: 767
+TITLE: Time Travel Tomfoolery
+AUTHOR: jasthefrog
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 28/04/24
+CHARACTERS ================================
+ROY: Roy, the leader:Center Stage
+ANDRE: Andre, the nice muscle:Stage Right
+JESSE: Jesse, the brain:Stage Left
+EVIL LEADER: The evil leader:Backstage
+EVIL GOON: The evil goon:Backstage
+SUGGESTIONS =============================
+EVIL LEADERNAME: The name of an evil tyrant from history:Genghis Khan, Ivan the Terrible, Stalin
+YEAR: A year before 2010:1940, 1870, 2000, 1456
+COUNTRY: Any country:Mexico, USA, Russia, Japan
+ACTION VERB: Something bad you can do to someone:Kill, imprison, extinguish
+WEAK NATION: A weak country:UK, France, Italy
+WEAPON: A mighty weapon:sword, gun, dagger
+CELEB: A celebrity people 'worship':Jesus, Justin Bieber, Harry Styles
+CATCHPHRASE: a cool catchphrase:yabadabadoo, whoopie, lets-a-go
+AUDIENCEMEMBER: a member of the audience name:Boris, Jas, Ramon
+ACTOR: an actor in the instance:Avery, Abby, Nick
+SCRIPT ==========================================
+guitar music 1
+ROY: (Touching trash can) yo! Andre! Jesse! Get over here!
+JESSE: (walk over to Roy) Is today the day?
+ANDRE: (walk over to Roy) CATCHPHRASE, I'm excited!
+JESSE: I gotcha Roy! The motherboard of the time machine is connected to the GPU and we’re good to go!
+JESSE: The fan system on this baby is insane!
+ANDRE: I got the snacks!
+ROY: perfect, now all we gotta do is go back in time, and kill EVIL LEADERNAME!
+JESSE: everyone around the machine!
+ANDRE: The trash can?
+JESSE: It may seem like a trash can…
+JESSE: But all we gotta do is press one button and we go to the year YEAR!
+ROY: And as we all know, in YEAR, EVIL LEADERNAME was the tyrant of the times!
+ANDRE: Alright, let’s do it then.
+ROY: (Smack the trash can) Away we go!
+spy machinery
+Teleport ROY to BACKSTAGE
+JESSE: looks like it's working!
+JESSE: (Smack the trash can) Kachow!
+spy machinery
+Teleport JESSE to BACKSTAGE
+ANDRE: oh man I'm so excited!
+ANDRE: (Smack the trash can) CATCHPHRASE!
+spy machinery
+Teleport ANDRE to BACKSTAGE
+TYPEWRITER: Meanwhile, in COUNTRY during YEAR...
+EVIL LEADER: (enter stage right) Come here, my goon! We have to plan our next move to conquer COUNTRY!
+EVIL GOON: (Enter stage right) comin right up, boss!
+mystery music 1
+EVIL LEADER: Call me by my name, you goon!
+EVIL LEADER: (turn and look at the audience) EVIL LEADERNAME!
+EVIL GOON: yes boss, I mean, EVIL LEADERNAME
+EVIL LEADER: Now, for the plan, I say we ACTION VERB everyone in WEAK NATION.
+EVIL LEADER: They won’t know what’s coming to them! (evil laughter)
+EVIL GOON: yeah, coming to them! (evil laughter)
+Teleport ROY to STAGE LEFT
+noir music 1
+ROY: Woah, is this what it looked like for COUNTRY in the year YEAR?
+Teleport JESSE to STAGE LEFT
+ROY: (look at Jesse) Where’s Andre?
+JESSE: Never mind that, look!
+ROY: ( gasp) oh jeez I knew we were coming to YEAR, but I didn’t think that we would teleport right next to EVIL LEADERNAME!
+Teleport ANDRE to STAGE RIGHT
+ANDRE: (wince in pain) ow!
+ROY: Andre! Over here man!
+ANDRE: I can’t! There's…
+EVIL LEADER: Stop right there, you fools!
+EVIL GOON: yeah, stop it!
+EVIL LEADER: What kind of tomfoolery is this?
+EVIL GOON: Tomfoolery!
+JESSE: Well, actually it’s Time Travel Tomfoolery™
+ROY: Guys, we gotta stay on the mission! Get out your WEAPONs!
+EVIL LEADER: What the heck? We don’t have WEAPONs in YEAR! Especially not in COUNTRY
+EVIL GOON: yeah boss, tell ‘em!
+EVIL LEADER: This script is all wrong!
+record scratch
+music stops
+ANDRE: No, you are!
+EVIL LEADER: (look at audience) AUDIENCEMEMBER, is this guy serious?
+JESSE: who are you looking at?
+EVIL LEADER: (to Jesse) look, I know it's you, ACTOR.
+JESSE: What?
+ROY: Andre! Attack 'em while he's distracted!
+badass music 1
+ANDRE: (Use WEAPON on EVIL LEADERNAME) CATCHPHRASE!
+gunshot
+EVIL LEADER: What!? This makes no sense!
+EVIL GOON: haha, no sense!
+EVIL LEADER: AUDIENCEMEMBER, dude, help me or something! My goon is useless!
+ANDRE: you’re going down, EVIL LEADERNAME!
+ROY: Rahhhhhhh! (charge at EVIL LEADERNAME) for CELEB!
+JESSE: Arrrrrggggh! (Charge at EVIL LEADERNAME) in the name of CELEB!
+EVIL LEADER: AAAAAAAAAUUUGHH (die on the floor)
+EVIL LEADER: Curse you, ACTOR!
+EVIL GOON: (run out screaming) you're on your own, boss!
+ROY: We did it boys! We saved WEAK NATION, and everyone else from being ACTION VERBed!
+ANDRE: Let’s go! CATCHPHRASE!
+JESSE: All thanks to the power of CELEB!
+discord notification
+music stops
+TYPEWRITER: Roy, Andre, and Jesse became renowned world leaders
+TYPEWRITER: All because of CELEB, I guess.
+
+======
+
+INFORMATION ===============================
 ID: 770
 TITLE: Mafi-Oh-So Wrong!
 AUTHOR: Midnight Spark
