@@ -241,7 +241,6 @@ Captain'
 AzuBark
 Mikonix
 Flynsie
-FireLaser500
 sugg
 AtreyuVII
 Penswer
@@ -1737,6 +1736,7 @@ Osocat
 Felspring
 yeggiz
 Smuxus
+FireSweetPea
 modNick
 ruralists
 #TIER=1
