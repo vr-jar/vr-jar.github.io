@@ -8755,8 +8755,8 @@ AGENT: (Nauseous) I think I'm turning into a SNAKE...
 INFORMATION ===============================
 ID: 184
 TITLE: The Bakeoff
-AUTHOR: jay3409
-VERIFIED: False
+AUTHOR: Jay3409
+VERIFIED: True
 TAGS: Skit
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -18446,7 +18446,7 @@ SOLDIER: You got to be kidding me!
 INFORMATION ===============================
 ID: 587
 TITLE: Hungry Wish
-AUTHOR: MrMonsterX
+AUTHOR: MrMonster_TV
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -21968,22 +21968,23 @@ TAGS: Skit
 SET: Living Room
 DATE: 28/04/24
 CHARACTERS ================================
-NARRATOR: Narrator:Narrator Podium
-SUNNY: Sunny, the single mother:Backstage
-TOM: Tomothy, the little boy:Backstage
-TREE: Christmas tree:Stage Left
 SANTA: Santa Claus:Backstage
+TREE: Christmas tree:Backstage
+TOM: Tomothy, the little boy:Backstage
+SUNNY: Sunny, the single mother:Backstage
+NARRATOR: Narrator:Narrator Podium
 SUGGESTIONS =============================
-NAME: something you would call a group of people:people, audience members, children
-SNACK: something to eat during a performance or story:popcorn, candy corn, candy cane
-MOUSE: something that would stir in the night:mouse, rat, cat
-MILK: something that could substitute for milk and cookies:milk and cookies, orange juice and toothpaste, fish and chips
-SPELL: a magic spell or incantation:bibbidy bobbidy boo, skedaddle skedoodle, rickety dickety dow
-NOSE: a body part:nose, belly, ear, chin
-FIX: something you would take someone's present to do at home with:fix, upgrade, trash, keep
-ANGRY: how would you feel if a disembodied voice narrated your life?:angry, crazy, weird
-ADJ: an adjective to describe a piece of furniture:dirty, ugly, pretty, large
 DUST: something that could substitute for magic dust:dust, tar, pizza rolls, sugar
+ADJ: an adjective to describe a piece of furniture:dirty, ugly, pretty, large
+ANGRY: how would you feel if a disembodied voice narrated your life?:angry, crazy, weird
+FIX: something you would do to someone's present you just took home:fix, upgrade, trash, keep
+NOSE: a body part:nose, belly, ear, chin
+SPELL: a magic spell or incantation:bibbidy bobbidy boo, skedaddle skedoodle, rickety dickety dow
+MILK: something that could substitute for milk and cookies:milk and cookies, orange juice and toothpaste, fish and chips
+MOUSE: something that would stir in the night:mouse, rat, cat
+SNACK: something to eat during a performance or story:popcorn, candy corn, candy cane
+NAME: something you would call a group of people:people, audience members, children
+FIGHT: a noise you would make when fighting someone:hiya, hoohah, whoopow, kachow
 SCRIPT ==========================================
 Corporate motivational music
 NARRATOR: Oh, hello all you wonderful NAME. Glad you could join me for story time.
@@ -22022,9 +22023,9 @@ NARRATOR: he slinks back up the chimney, leaving everything well.
 NARRATOR: ... well, almost everything.
 Christmas music 1
 NARRATOR: As the family rises, so too does the sun, as the little boy rushes in, ready for some fun!
-Meanwhile TOM: (Enter Stage Left)
+Meanwhile TOM: (Enter Stage Left, pretend there's a tree by the bookshelf)
 NARRATOR: But as the mother enters too, they both can see, the Christmas tree has nothing under it, it's empty!
-Meanwhile SUNNY: (Enter Stage Left)
+Meanwhile SUNNY: (Enter Stage Left, pretend there's a tree by the bookshelf)
 TOM: (sadly) Mommy, where are the presents...?
 SUNNY: (surprised) Oh, I... I don't know, honey. Maybe Santa saw something wrong with them, and took them back to his place to FIX them.
 NARRATOR: As the kid kneels by the tree, it tremors and trembles, before standing up tall, going completely mental!
@@ -22035,7 +22036,7 @@ TREE: (roar, angry) Raaaargh!
 TOM: (scared) Aaah! Mommy, the Christmas tree is alive!
 TREE: Raargh, I'm the evil tree of Christmas revenge!
 NARRATOR: The tree is alive, and ready to brawl-
-Meanwhile TREE: (look at the narrator) Hey disembodied voice! Stop with the narrating! It's making me feel ANGRY!
+TREE: (look at the narrator) Hey disembodied voice! Stop with the narrating! It's making me feel ANGRY!
 NARRATOR: ... oh, and it can apparently break the fourth wall.
 TREE: (look back at the others) Now then... I ate all your presents, and now I'm gonna eat you!
 SUNNY: But sir- ma'am- ugh, tree, how are you even alive?
@@ -22045,18 +22046,19 @@ TREE: Oh, a wise girl, are ya?
 TREE: Well, for your information, Santa tripped over your ADJ rug last night, and spilled his magic DUST all over me, bringing me to life.
 SUNNY: He's real...? I- I mean... why are you so angry then?
 TREE: I'm angry... because you never sing "O Christmas Tree!" And now you're gonna pay!
-TOM: No, I won't let you hurt mommy! (punch or kick the Christmas tree)
-Meanwhile SUNNY: Tomothy, no!
+TOM: No, I won't let you hurt mommy!
+SUNNY: Tomothy, no!
+TOM: (Punch or kick the tree) FIGHT!
 Crashing debris
 TREE: (In pain) Ooooww...! Right in the ornaments...!
 TREE: (Vomit and die)
 Music stops
 NARRATOR: The Christmas tree pukes up all of the Christmas presents, and lays on the floor defeated. What an odd turn of events.
 NARRATOR: Having just woken up, she's too tired to question it. The mother opens the front door, and drags the Christmas tree outside to the curb, no longer fit.
-SUNNY: (Open front door) Get out of here, you tree. (Drag the tree off stage)
+SUNNY: (Open front door, stage right) Get out of here, you tree. (Drag the tree off stage)
 Meanwhile TREE: (get dragged off stage)
 TOM: Come on Mommy, come on, let's open the presents!
-SUNNY: (chuckle) Alright, Tomothy, I'm coming. Next year, though, let's try something that can't kill us.
+SUNNY: (chuckle) Alright, Tomothy, I'm coming. Next year, though, let's try to get something that can't kill us.
 Christmas music 3
 NARRATOR: So with blood rushing and everyone awake, they begin opening their presents, ignoring the tree for their own sake.
 NARRATOR: Now, let's hope this never happens again, because it was such a fright!
@@ -23245,7 +23247,7 @@ ACTOR2: WHAT?!? Thats way too much for ITEM2?!
 GUY: Sorry but that's the price.
 ACTOR2: (Grumbling) Ok fine. But only because we really need it.
 ACTOR1: (Pay for ACTNAME2)
-ACTOR2: (to self) Why does ITEM2 cost so much these days. (Start to leave the store angrily but stop)
+ACTOR2: (To self) Why does ITEM2 cost so much these days. (Start to leave the store angrily but stop)
 Meanwhile ACTOR1: (Follow other actor halfway)
 Music stops
 ACTOR3: (Enter the right door) Hey guys sorry for the wait, my car broke down.
@@ -23261,8 +23263,7 @@ ACTOR3: Wait you're paying him?!
 DIRECTOR: Yes? He did the acting better than you ever have.
 ACTOR3: Yeah, no. I'm out. Have fun with that Dumby.
 ACTOR3: (Start rapping) He's the maestro of missteps, tripping through life's maze.
-ACTOR3: In the land of blunders, his stupidity never ceases to amaze!! (Leave the store through the wrong door)
-ACTOR3: (Quickly run back to the actual exit) 
+ACTOR3: In the land of blunders, his stupidity never ceases to amaze!! (Leave the store)
 Music stops
 
 ======
@@ -25383,18 +25384,18 @@ TAGS: Skit
 SET: Western
 DATE: 30/04/24
 CHARACTERS ================================
-GUN1: Gunslinger with a weird name:Stage Right
 GUN2: Gunslinger with a worse name:Stage Left
+GUN1: Gunslinger with a weird name:Stage Right
 SUGGESTIONS =============================
-HALFNAME: Random Noun:Cheese, Grass, Stunk, Gunk, Chump, Rump, Billy
-NAMEHALF: Word that describes or could be put before a noun:Chumpy, Stinky, Hunky, Floaty, Gunky, Chili
-PALHALF: Belonging to A state or Country- American, Canadian etc.:Texan, Russian, German, Wisconsin, Virginian
-HALFPAL: A Color or Animal:Purple, Yellow, Magenta, Fox, Boar, Pony
-SLINGHALF: Weird or nonsensical first half of a name:JibbyJon, Skurpsin, Glueball, Rurden
-HALFSLING: Weird or nonsensical second half of a name:Heppadaiya, Vonvluggy, McSmellgood, Shaboosky
-FRIEND: Word for a family member or acquiantance:Sister, Cousin, Brother, Friend, Acquaintance, Uncle
-FRIHALF: Crazy first half of a name:Swizzy, Hurky, Glippy, Jog, Loop, Baddy, Really
 HALFFRI: Crazy Second half of a name:Jizzums, Purky, Quippy, Jogguns, McGoops, McDumbName
+FRIHALF: Crazy first half of a name:Swizzy, Hurky, Glippy, Jog, Loop, Baddy, Really
+FRIEND: Word for a family member or acquiantance:Sister, Cousin, Brother, Friend, Acquaintance, Uncle
+HALFSLING: Weird or nonsensical second half of a name:Heppadaiya, Vonvluggy, McSmellgood, Shaboosky
+SLINGHALF: Weird or nonsensical first half of a name:JibbyJon, Skurpsin, Glueball, Rurden
+HALFPAL: A Color or Animal:Purple, Yellow, Magenta, Fox, Boar, Pony
+PALHALF: Belonging to A state or Country- American, Canadian etc.:Texan, Russian, German, Wisconsin, Virginian
+NAMEHALF: Word that describes or could be put before a noun:Chumpy, Stinky, Hunky, Floaty, Gunky, Chili
+HALFNAME: Random Noun:Cheese, Grass, Stunk, Gunk, Chump, Rump, Billy
 SCRIPT ==========================================
 western showdown music
 GUN1: Well, Well, Well. I see you decided to show up.
@@ -25441,7 +25442,99 @@ GUN1: Like with better names?
 GUN2: Yeah... you really took the wind out of my sails anyway, I'll make the name for myself this time!
 GUN2: And uh... really get a second opinion when making yours this time all right?
 GUN1: Ugh, just shut up and go...
-jazz music 1
+applause
+
+======
+
+INFORMATION ===============================
+ID: 800
+TITLE: Hero or Zero
+AUTHOR: flashlight2537
+VERIFIED: False
+TAGS: Contains Adult Innuendo
+SET: Political Debate USA
+DATE: 09/05/24
+CHARACTERS ================================
+PRES: President :Moderator Table
+VICE: Vice President :Podium Stage Left
+LEAD: Team Leader:Podium Stage Right
+HERO: New Hero:Center Stage
+FAN: FAN GIRL:Entrance Stage Left
+SUGGESTIONS =============================
+DANGER: Dangerous thing:Bear, Dragon, Lion, The Shadow Government
+POWER: A super power:Laser beams, Flying spaghetti tentacles, vibrating tongue smash, cancer beam, powers of seduction, 1000 IQ griddy-hitting, backhand pimp slap
+NAME: Name:Bob, Nick, David, Gargantus, Lil' Guy, Chief, Daddy-o, Big Fella, Princess, Dorkwad, Dumbass, Mike Pence, Ted Cruz
+TEAM: Team Name:The Avengers, Avatar, BakuDeku, We Stan Gaga, Paw Patrol, Panty Raiders XL, Purity (say no to drugs)
+TALENT: A talent:Singing, whistling, bending over backward, hand to hand combat, glass blowing, breakin it down, popping off
+ANIMAL: An animal :Horse, gorilla, seahorse, sea monkey, alpha wolf (rawr), humpback whale
+FOOD: Food:String cheese, cereal, muffins, meatballs, eggplant, protien powder, man jerky, gum
+NICKNM: A heroic name:Laser face, McFly, Batman, Kingfisher Stallion the Third, The Incredible Dude, Man destroyer, He who is Him
+PLACE: A place:Germany, France, England, a rubber room with rats, that place from Breaking Bad, Kentucky Fried Chicken, Sweet Hole Alabama
+NUMBER: A number:12, 34, 3, zero, almost 1, I forget how many, one thousand, .. Alexa what's 6 times 9 ? ..
+SIGNATURE : A signature move:Flying kick, running away to live another day, sproinkle, tax evasion, insurance fraud, pocket sand, Got Your Nose, Hypnotizing Sausage Spin
+SCRIPT ==========================================
+Superhero fanfare
+PRES: Good evening fellow Americans. We are gathered here today to decide the fate of this new local hero.
+Crowd woo
+PRES: Just recently this person saved children and staff of a nearby elementary school from a DANGER attack.
+PRES: And while they saved many lives... the school, which had existed since 1956, was destroyed entirely by a fire caused by POWER.
+PRES: leaving some people to believe this vigilante should be punished for their crimes.
+PRES: Joining us in the debate is NAME. Leader of Team TEAM. And on the opposing bench, you all might recognize as our charmingly snarky Vice President.
+applause
+VICE: I'm sorry but this is a waste of time. We should all go home now. This person in front of us shouldn't get to join Team TEAM.
+VICE: I went to that school they burned down, and they were the best years of my life!
+LEAD: As the leader of Team TEAM I believe this new hero has everything we are looking for in a member.
+LEAD: I've seen them TALENT and they may even be better at it than me.
+VICE: TALENT is not a talent. I could do that in my sleep. What does this person really offer? Look at them. They're scrawny and clearly unfit.
+HERO: I have to disagree Vice President. I am as fit as a ANIMAL.
+HERO: My strict fitness regimen of weight lifting and only eating FOOD has made me the strong hero who saved all those elementary kids.
+PRES: FOOD huh? From this day forward I will make sure that FOOD is served in all the school lunches of America for the rest of time.
+HERO: And might I add, if I get to join Team TEAM I would like to be known as Super Hero NICKNM.
+LEAD: Super Hero NICKNM? That is the greatest name I've ever heard.
+VICE: That was the name of our schools pet hamster who perished in the fire. You didn't save him did you Super Hero NICKNM!
+HERO: I'm sorry that my POWER burned down the school.
+HERO: I'm taking this name in honor of your school's pet hamster, and as a reminder of my biggest mistake. So I can be more careful in the future.
+LEAD: See? Modest and caring. Super Hero NICKNM you are a national treasure.
+VICE: National treasure? I'll bet they don't even know anything about this great Nation. Quick, name three American States!
+HERO: um...New York, Texas and PLACE.
+VICE: Haha! PLACE isn't a state. They're obviously not an American Citizen at all, and therefore can't join Team TEAM.
+VICE: They deserved to be locked up for their crimes of burning down buildings!
+HERO: I was just joking. It was a joke.
+LEAD: (hysterical laughter) And they're funny too! If that isn't enough to convince you people, then I'm gonna have to bring in the big guns.
+LEAD: I'd like to bring in a witness who was saved by Super Hero NICKNM on the night of the DANGER attack. She's a big fan of their's and an even bigger fan of mine.
+PRES: I will allow it. Please come in special guest.
+FAN: (Enter Left Stage)Hello everyone! I am Vanessa and I am NAME's biggest fan!
+LEAD: (flirty) Hey Snookie Bear. Miss me?
+VICE: Vanessa? This is my daughter! She's a teacher at the school. You're telling me "you" saved her?
+FAN: That's right, and I can't hide it anymore. Super Hero NICKNM saved me from the DANGER attack.
+FAN: And although I have been NAME's biggest fan for NUMBER years, I believe I have found a new love.
+LEAD: Wait what?
+FAN: I am madly in love with Super Hero NICKNM, and everything I ever thought about NAME is over.
+LEAD: But Snookie Bear, remember...? You're my fiancée... I just proposed to you this morning. You said yes!
+FAN: That was so NUMBER minutes ago. I'm dropping you for the heart throb who saved my life.
+aww
+FAN: And it's an honor to be here to watch as they become the new member of Team TEAM.
+HERO: Love ya babe!
+LEAD: Well hold on now, it's not set in stone yet.
+LEAD: We're still deciding, and actually I'm starting to think this might be a bad idea. I mean they're not that good at TALENT.
+laughter
+LEAD: I've never eaten FOOD... so that's probably why my muscles are so much bigger than their's.
+HERO: They're not that much bigger.
+LEAD: Also, everyone knows PLACE isn't a real state. Who would I be if I let someone that dumb on the team?
+VICE: You saved my daughter? You really are a hero! You are an upstanding American! A patriarch of our Country and you definitely deserve to join Team TEAM.
+LEAD: Not you too!
+HERO: Thank you Vice President. I will make America proud with my signature move. (Makes a gesture). I call it SIGNATURE .
+PRES: I love it! We should just fire that old NAME and make you the new leader of the team! To quote my grandfather "Where the bald eagle soars, you fly higher!"
+bird screech
+LEAD: What! But but..!!
+PRES: That's it. I hereby make Super Hero NICKNM the new Leader of Team TEAM!
+FAN: Oh Snookie Bear! You did it! You're on the team! I always believed in you.
+HERO: Wow! I wish Hamster NICKNM could see me now. (Exit with the fan girl)
+Meanwhile FAN: (Exit with New Hero)
+PRES: Come on Vice President you can come watch me practice TALENT. (Exit)
+VICE: Oohh, and we can pick up some FOOD on the way. (Exit)
+LEAD: Umm...did I just get fired?
+superhero music
 
 ======
 
