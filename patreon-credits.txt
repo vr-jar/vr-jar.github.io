@@ -686,7 +686,6 @@ Queen Dune
 actardebus
 Waspbie
 Yakuta
-『Autolycus』Zyra
 Sprintervaulter
 ~Yuki~Love~
 JesseTails
@@ -1728,6 +1727,7 @@ Aiyala
 Hyperdeath009
 ᴍᴀʀɪ ʀᴏsᴇ
 DyingBug101
+『Midas』Zyra
 modNick
 ruralists
 #TIER=1
