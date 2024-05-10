@@ -2392,7 +2392,6 @@ WuffleBiscuit
 Dusk_Blainville
 WzlsXLeapie
 ~GECKO~
-Sçãrä
 Halfsackian
 MidoriEquals緑
 Nova Viera
@@ -2467,6 +2466,7 @@ WishBone666
 Daddybuttercup
 Akuma_Akame
 XenoFlame
+Flîñt
 #TIER=3
 SidMarcus
 PinballReviewer
