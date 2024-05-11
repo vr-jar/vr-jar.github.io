@@ -1750,6 +1750,7 @@ RandomPeepersVA
 Galaxy's Saga
 slushxvalid
 Moookie
+ClosedOnSundays
 modNick
 ruralists
 #TIER=1
