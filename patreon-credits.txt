@@ -1754,6 +1754,7 @@ NootOverLord
 Poppy_PNG
 EobardThawne
 Rozzie_Da_Fox
+revatco
 modNick
 ruralists
 #TIER=1
@@ -2238,7 +2239,6 @@ STREETRUNNER90
 ˚ʚ MEI ɞ˚
 Unholy-Screech
 Specter~toast
-°Battle°
 randomdud1 d864
 OmgshYouFoundMe
 SwooSh_100
@@ -2613,3 +2613,4 @@ Anthony-EJ
 TheHollySky
 Andrejklol
 'Raven
+°Battle°
