@@ -329,7 +329,6 @@ PyroRiptide
 RayneBlue
 Wolfman2297
 Wolfy999
-jju765
 StormyVay
 ༒MrFoxy༒
 PG3DDarkHope
@@ -1754,6 +1753,7 @@ Skelly049
 ༒narcolepsy༒
 NootOverLord
 Poppy_PNG
+EobardThawne
 modNick
 ruralists
 #TIER=1
