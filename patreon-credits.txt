@@ -1761,6 +1761,7 @@ Jewelblaze
 IIASH80II
 Glocckboy
 Dawn_Blade
+DyingBug101
 modNick
 ruralists
 #TIER=1
@@ -2340,6 +2341,7 @@ aimeeekk
 ClawTheZin
 SandWich KING
 lustmar3
+frog apple
 #TIER=2
 CODBO3RGM3
 ~Monkee~
