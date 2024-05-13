@@ -2469,6 +2469,7 @@ Daddybuttercup
 Akuma_Akame
 XenoFlame
 Flîñt
+Am_Kenny
 #TIER=3
 SidMarcus
 PinballReviewer
