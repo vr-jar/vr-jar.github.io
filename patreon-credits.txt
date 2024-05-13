@@ -3,7 +3,6 @@ GlitchedStorm
 CmdrShepardsPie
 IkodoMoonstrife
 Dracaelus
-TheHiddenOneVR
 YuuClark
 itsNuke
 Noovee
@@ -1758,6 +1757,7 @@ Glocckboy
 Dawn_Blade
 Biblobloom
 Shark Omega
+TheHiddenOneVR
 modNick
 ruralists
 #TIER=1
