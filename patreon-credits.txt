@@ -1755,7 +1755,6 @@ IIASH80II
 Glocckboy
 Dawn_Blade
 Biblobloom
-DyingBug101
 modNick
 ruralists
 #TIER=1
