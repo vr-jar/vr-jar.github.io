@@ -23174,22 +23174,22 @@ TAGS: Skit
 SET: Grocery Store
 DATE: 28/04/24
 CHARACTERS ================================
-GUY: Random guy:Entrance Stage Right
-ACTOR1: Actor one:Center Stage
-ACTOR2: Actor two:Center Stage
-DIRECTOR: Director:Stage Right
 ACTOR3: Real actor:Backstage
+DIRECTOR: Director:Stage Right
+ACTOR2: Actor two:Center Stage
+ACTOR1: Actor one:Center Stage
+GUY: Random guy:Entrance Stage Right
 SUGGESTIONS =============================
-PRICE2: A VERY large amount of money:$5000.00, $8000.00 $4500.00
-GUYNAME: A name for a person:James, Kevin, Arnold, Gaven
-ITEM1: Something you would get at a grocery store:milk, eggs, juice, cooking oil, mac and cheese
-ITEM2: Something you would get at a grocery store:bread, cereal, bananas, peanut butter, chips
-TIME: An amount of time:30 minutes, an hour and a half, 2 hours
-ACTNAME2: A name for a person:Eric, Johnson, Steve, Austen
-ITEM3: Something you would normally not find in a grocery store:a piano, a car, a nuclear warhead, another grocery store
-STORE: The name of a grocery store:Safeway, Walmart, Whole Foods, Trader Joe's
-PRICE1: A large price for an item in a grocery store:$59.99, $99.99, $149.99
 WEIRDONAME: A commonly used name:Bob, Jerry, Jack, Robert
+PRICE1: A large price for an item in a grocery store:$59.99, $99.99, $149.99
+STORE: The name of a grocery store:Safeway, Walmart, Whole Foods, Trader Joe's
+ITEM3: Something you would normally not find in a grocery store:a piano, a car, a nuclear warhead, another grocery store
+ACTNAME2: A name for a person:Eric, Johnson, Steve, Austen
+TIME: An amount of time:30 minutes, an hour and a half, 2 hours
+ITEM2: Something you would get at a grocery store:bread, cereal, bananas, peanut butter, chips
+ITEM1: Something you would get at a grocery store:milk, eggs, juice, cooking oil, mac and cheese
+GUYNAME: A name for a person:James, Kevin, Arnold, Gaven
+PRICE2: A VERY large amount of money:$5000.00, $8000.00 $4500.00
 SCRIPT ==========================================
 ACTOR1: Oh, come on, where is this guy?
 ACTOR2: Really, we have been waiting for TIME!
@@ -23245,6 +23245,7 @@ Meanwhile ACTOR2: (Follow other actor)
 GUY: ok that will be PRICE1.
 ACTOR2: WHAT?!? Thats way too much for ITEM2?!
 GUY: Sorry but that's the price.
+Meanwhile ACTOR3: (Get ready to enter the store through the right door)
 ACTOR2: (Grumbling) Ok fine. But only because we really need it.
 ACTOR1: (Pay for ACTNAME2)
 ACTOR2: (To self) Why does ITEM2 cost so much these days. (Start to leave the store angrily but stop)
@@ -23263,7 +23264,8 @@ ACTOR3: Wait you're paying him?!
 DIRECTOR: Yes? He did the acting better than you ever have.
 ACTOR3: Yeah, no. I'm out. Have fun with that Dumby.
 ACTOR3: (Start rapping) He's the maestro of missteps, tripping through life's maze.
-ACTOR3: In the land of blunders, his stupidity never ceases to amaze!! (Leave the store)
+ACTOR3: In the land of blunders, his stupidity never ceases to amaze!! (Enter the side door)
+ACTOR3: Um, WEIRDONAME? Is that you? Omg, you're alive! I haven't seen you in 14 years!
 Music stops
 
 ======
