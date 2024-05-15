@@ -1767,6 +1767,7 @@ StarvexiaTTV
 RB_Nate_16
 JT2020
 Pupcorn18
+SirupyCord
 modNick
 ruralists
 #TIER=1
