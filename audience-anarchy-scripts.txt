@@ -24554,6 +24554,76 @@ Laughter
 ======
 
 INFORMATION ===============================
+ID: 757
+TITLE: Karen Rap Battle
+AUTHOR: TheCatCatBoi
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 28/04/24
+CHARACTERS ================================
+KAREN1: A karen:Entrance Stage Right
+KAREN2: The store manager who is also a karen:Entrance Stage Left
+EMPLOYEE: The confused employee:Behind Register
+SUGGESTIONS =============================
+EXHAUSTED: Something someone would say/do when they are exhausted:Sigh, Fine, ugh, (Quietly) Why me, (Quietly) I'm done
+DEMAND: Something a Karen would demand from a manager:discount, change, reimbursement, refund, free item
+DEFEAT: Something someone would say in defeat:They won, I've lost, You win, Well played, I'm done
+GIFT: A gift from a manager to calm a Karen down:gift card, coupon, voucher, refund, free item
+GROUP: A word for a group of people:friends, allies, group, band, club
+EMOTION2: An action someone would do when they are sad:Crying, Sobbing, Wiping tears, Sniffling, Sighing heavily
+SURPRISED: Something someone might say when they are surprised:Oh my goodness, What on earth, Well that's unexpected, I didn't see that coming
+EMOTION1: A shocked emotion:Shocked, surprised, amazed, bewildered, dumbfounded, speechless
+ANNOYED: Something someone would say when they are annoyed:Seriously, Really, Why me, Every day, Uggghhhhh
+ITEM: An item in a grocery store:banana, milk, cereal, egg carton, cooking oil
+HIGHERUPS: Any person/group in a business with a higher rank than manager:corporate, CEO, owner, president, vice president
+LAWSUIT: Something a Karen would sue a business for:deceit, harassment, negligence, injury, discrimination
+SCRIPT ==========================================
+EMPLOYEE: (Tidying the counter) Ok, we just opened, I really hope we don't get any Karens today.
+KAREN1: (Walk in and go over to the shelves and look at the items) (Quietly) Hmm.. Where is ITEM?
+KAREN1: Gasp, what is this?!?
+EMPLOYEE: (Quietly to self) ANNOYED? (To Karen) Do you need help maam?
+KAREN1: Yes!! This ITEM is way too expensive!!!
+EMPLOYEE: I am very sorry maam I can't control the prices.
+KAREN1: I want to speak to the manager!!!
+EMPLOYEE: EXHAUSTED, ok I will go get her... (Enter the side door)
+EMPLOYEE: (Walk out with the manager)
+Meanwhile KAREN2: (Walk out with the employee) What is with all of this commotion?!
+EMPLOYEE: She wants to speak with you. (Point at Karen)
+oldschool hiphop music
+KAREN1: (Walk up to manager) ♫ Excuse me manager, I need to vent, this ITEM is too expensive, it's money poorly spent. ♫
+KAREN1: (Rapping) ♫ I won't stand for it, I demand a change, or I'll make sure your reputation's rearranged. ♫
+KAREN2: (Rapping) ♫ Oh, please, spare me your drama, can't you see? I set the prices here, it's not up to thee! ♫
+KAREN2: ♫ You think you can intimidate me with your threats? Well, I'm not backing down, no regrets! ♫
+Meanwhile EMPLOYEE: (Stand there EMOTION1) (Whisper to self) SURPRISED?
+KAREN1: ♫ But it's outrageous, it's beyond belief, I demand a DEMAND, or I'll bring you grief! ♫
+KAREN1: ♫ I'll rally my GROUP, we'll stage a protest! Your corporate office will hear our unrest! ♫
+KAREN2: ♫ I'll listen to your concerns, but don't cross the line, you won't get your way with just with a whine! ♫
+KAREN2: ♫ I'll review our pricing strategy, ensure it's just and square, but dictating terms? That's simply not fair! ♫
+KAREN1: ♫ I'll call the HIGHERUPS, I'll leave bad reviews, I'll make sure everyone knows about your ruse! ♫
+KAREN1: ♫ I'm a loyal customer, but this is the last straw, if you don't fix this, I'll have to lay the law! ♫
+Meanwhile EMPLOYEE: (Slowly walk over to side door then go through it)
+KAREN2: ♫ I'll offer you a GIFT, as a sign of goodwill, but you must understand, I have a business to fulfill! ♫
+KAREN2: ♫ I'll ensure our staff receives training in care, but your approach, Karen, it's quite unfair! ♫
+KAREN1: ♫ Your deceit's acute, I'll sue for LAWSUIT, Manager, take a seat, your falsehoods we'll refute! ♫
+KAREN1: ♫ I'll make sure the world knows of your disgrace, your company's image, I'll forever deface! ♫
+KAREN2: ♫ I've dealt with customers like you before, and I'll handle this situation, I'll settle the score! ♫
+KAREN2: ♫ I value your feedback, I'll take it into account, but you can't just throw tantrums and pout! ♫
+KAREN2: ♫ I won't give up, I won't back down, I'll fight for what's right, I'll wear the crown! ♫
+Meanwhile KAREN1: (Fall backwards) Oof!
+KAREN2: ♫ I'm not just a manager, I'm a force to be reckoned, and your arrogance, well, it's sorely mistaken! ♫
+Meanwhile KAREN1: (Fall backwards) Ugh!
+KAREN2: ♫ I'll stand my ground, I'll hold the line, I won't be swayed, I won't decline! ♫
+Meanwhile KAREN1: (Fall backwards) Argh!
+KAREN2: ♫ Your demands are futile, your tantrums are lame, I'm the manager (step on Karen), and today I reign! ♫
+Meanwhile KAREN1: (Fall to the ground) Aaaah!
+music stops
+EMPLOYEE: (Peek head through door) You done yet?
+KAREN1: (EMOTION2) DEFEAT
+
+======
+
+INFORMATION ===============================
 ID: 758
 TITLE: Doofy Draw
 AUTHOR: AirportPigeon
@@ -25463,7 +25533,8 @@ SIS: The clingy sister!:Chair 3
 BRO: The troublemaking brother!:Chair 1
 BBY: The sweet innocent baby!:Stage Left
 SUGGESTIONS =============================
-CELEBNAME: A celebrity's name, name, or VRChat username:Patrick Stump, Bruce Wayne, Bill, Edward
+FANDOM: A popular fandom/fanbase:Star Wars, Dragon Ball Z, The Simpsons, Harry Potter
+CELEBNAME: A celebrity, character, or someone's VRChat username:Patrick Stump, Bruce Wayne, Henry Stickmin, Invader Zim
 PLACE1: A town, city, state, or country:Venice, Tokyo, Hawaii, Africa
 PHRASE: A catchy and/or popular phrase:mamma mìa!, Jimmy my Boots!, Wish me luck!
 VIDEOGAME: Any video game:Sonic Adventure 2, Genshin Impact, VRChat, Minecraft, osu!
@@ -25491,35 +25562,37 @@ laughter
 SIS: I've been busy practicing violin all daaaay, and I really just wanna HOBBY!
 DAD: (clears throat) Well, the TEAM1 and TEAM2 are playing against each other tonight.
 MOM: (turns to husband) (annoyed) ...really?
+thunder
 DAD: What!?! It's the playoffs! You know how much I love the TEAM1!
 DAD: I think we should postpone until next week.
 MOM: No, No, NO! I've been looking forward to ultimate domination in Monopoly all week!
 MOM: This is a tradition we've been doing for years!
-MOM: if you ruin our streak, you can kiss this entire family goodbye!
+MOM: if you ruin our streak, you can kiss our entire family goodbye!
 music stops
 vine boom
 happy music 1
 DAD: (genuinely concerned) A-Alright! Monopoly it is!
 laughter
-SIS: Whatever. . . I'll bring it out. . .
+SIS: Whatever. . . I guess I'll bring it out. . .
 BBY: goo goo gaa gaa
 BBY: gaa gaa goo goo
 aww
-SIS: Alright family, which version? We got "VIDEOGAME Monopoly", "Cheater's Monopoly", "Mega Monopoly". . .
+SIS: Alright family, which version? We got "FANDOM Monopoly", "Cheater's Monopoly", "Mega Monopoly". . .
 SIS: (confused) CELEBNAME Monopoly..?
 vine boom
 laughter
-MOM: Oh dear, l-let's just stick with regular, classic, original Monopoly.
+MOM: Oh dear, l-let's just stick with regular, original, classic Monopoly.
 MOM: the game is already uncomfortably complicated and realistic as it is.
 music stops
 TYPEWRITER: The family sets up a simple, innocent, peaceful, harmless game of Monopoly
 TYPEWRITER: 1 HOUR LATER
 jazz music 1
-SIS: Finally! I've saved up enough money and houses! I would like to buy a hotel!
+SIS: Finally! I've saved up enough money! I would like to buy a hotel!
 music stops
 record scratch
-SIS: (looks around the table) Hey, there were, like, five free hotels a second ago!
-BBY: hehe, coo goo caa gaa
+SIS: (looks around the table) Hey, where'd they go?
+SIS: There were, like, five free hotels a second ago!
+BBY: (muffled) hehe, goo goo gaa gaa
 aww
 silly music 1
 DAD: (defeated) My turn... already..?
@@ -25537,15 +25610,15 @@ laughter
 double bass music
 BRO: (evil anime laugh) I love watching my competition fall... Another dub for the epic pro gamer!
 fortnite
-DAD: Zip your lip, boy!
-DAD: (shuffling through money) (hands son money) take it, it's all I got..!
+DAD: Zip it, boy!
+DAD: (shuffling through money) (hands son money) take it, that's all I got..!
 BRO: (observing) Yikes... lookin' real light here, Dad.
 laughter
 DAD: (defeated) Cut me some slack, would ya'..?
 BRO: (hesitant) I dunno Daaaaaad.. Your track record isn't very clean..
 BRO: You've been in and out of jail THREE times for CRIME...
 vine boom
-DAD: (scoff) Jerk. . . I'll remember that next time it's your birthday...
+DAD: (scoff) Jerk. . . I'll remember that when it's your birthday...
 vine boom
 SIS: (inspecting Monopoly board) Hmm. . . What the..? (disassembles hotel)
 break down door
@@ -25600,14 +25673,14 @@ BRO: (panting) Y-Yeah...
 western piano music 1
 DAD: (long pause) (frantically) Not me! I gotta.. go grab the milk! (exit Stage Right)
 laughter
-BRO: (frantically) I- I have unfinished homework! (exit Stage Left)
-SIS: (frantically) I gotta check on m-my pet fish! Gotta make sure Mr. Bubbles isn't drowning!
+BRO: (frantically) I- I have some unfinished homework to do! (exit Stage Left)
+SIS: (frantically) I gotta check on... m-my pet fish! Yep, gotta make sure Mr. Bubbles isn't drowning!
 laughter
-SIS: Yep! Thanks, Mom! (exit Stage Left)
+SIS: Thanks, Mom! (exit Stage Left)
 MOM: (contemplate your life choices) (sigh) Why did I get married and have kids?
 MOM: Anyways, let's get you cleaned up!
 laughter
-BBY: (stammering) (sigh) Whatever... you can choose your friends, but ya' can't choose yer' family.
+BBY: (Southern accent) (stammering) (sigh) Whatever... you can choose your friends, but ya' can't choose yer' family.
 crowd woo
 
 ======
@@ -25765,6 +25838,71 @@ JAY: (thrilled) The unicorn shirt?! Excellent choice! It's like a rebellious SOM
 JAY: (lead ANDY to the register) I'll ring you right up~!
 FLYNN: (grab an item from the shelf) Hey. ...I'll take the socks.
 JAY: YAY!
+
+======
+
+INFORMATION ===============================
+ID: 816
+TITLE: Rap Battle
+AUTHOR: flashlight2537
+VERIFIED: False
+TAGS: Skit
+SET: City
+DATE: 14/05/24
+CHARACTERS ================================
+CHUMP: The Chump:Center Stage
+GOAT: The Goat:Stage Right
+SUGGESTIONS =============================
+ITEM: A special item:Teddy bear, sneakers, top hat, blanket, socks
+INSTRUMENT: A musical instrument :Flute, trumpet, clarinet, guitar, drums, fiddle, harp, kazoo, tuba, french horn
+FAMILY : A family member:Sister, grandma, grandad, mommy, daddy, brother,  little brother, cousin, little sister, great grandma
+CATCH: A catchphrase:Expectorant patronum, cabbage cabbage doo, Kamehameha, Ru-oh Raggy, taste the rainbow
+NICKNAME: A silly nickname:Catdog, SpongeBob, Mummy, Naruto, Sasuke, Luffy, Goku, Joe Biden, Donald Trump
+NOUN: A Noun:Dog, moose, Buffalo, dragon, hydra, butterfly, teacup, clock, couch
+ADJECTIVE: Describing words:Hairy, smelly, lonely, hungry, silly, giant,
+ACTIVITY : Something you've been doing:Sword swallowing, kite flying, bear wrestling, football playing, 
+ANTIC: An antic:Gum chewing, Yodeling, finger counting, beard braiding, cosplaying, kazoo playing
+DJNAME: Some kind of rapper/DJ name:DJ Smokeleaves, Bandito Gordito, Shadow Wizard Money Gang, DJ Nugget McChicken
+SCRIPT ==========================================
+badass music 1
+GOAT: You dare challenge me to a rap battle, bro?
+GOAT: Bring it on. Everyone knows I am the greatest of all time.
+CHUMP: Oh, it's on DJNAME.
+CHUMP: I'm going to take a dump on your ass.
+oldschool hiphop music
+GOAT: (Rapping) ♫ Yo, why'd you step-up? I'm 'bout to roast on a chump. ♫
+GOAT: ♫ I'm gonna beat your basic rump and take you straight to the dump. ♫
+GOAT: ♫ Don't hate it, just take it. I got what you can't see. You can't be. You or me. I bring the fatality. ♫
+GOAT: ♫ You asked your mama to bail you, but she told ya farewell. ♫
+GOAT: ♫ Cuz she could handle your ANTIC, but can't stomach your smell. ♫
+GOAT: ♫ You gotta stank that peels paint. You better wash your old Tee. You need to swallow a mint, before you rap against me. ♫
+GOAT: ♫ I am a rapping demon screaming, demeaning your useless bleating. ♫
+GOAT: ♫ I've been ACTIVITY . While you back home overfeeding. ♫
+CHUMP: (Rapping) ♫ That's right I be eatin', like I'm gonna eat you. You're gonna wish you weren't alone and brought your ADJECTIVE crew. ♫
+CHUMP: ♫ Cuz I'm a towerin' Colossus. And I'm built like a NOUN. I'm a buff. I know you're scared, because I look really rough. ♫
+CHUMP: ♫ You ain't tough. Got no stuff. As cute as a powder puff. You got nothing else inside except for marshmallow fluff. ♫
+CHUMP: ♫ I'm about to take you down and put a crack in your crown, cuz you're the biggest NICKNAME of this whole whacky town. ♫
+GOAT: ♫ Don't hate the player. I am as fresh as a bun. Hot as the Sun. And you? Well, you're just zero fun. ♫
+GOAT: ♫ And I'm not one to put things lightly. I'll be ruthless and cold. ♫
+GOAT: ♫ When I say CATCH believe you ain't getting trolled. ♫
+CHUMP: ♫ You think you's a Goat? Well now the wolf has come out. Bearing teeth, make you shout. I'm bout'a make you cry out. ♫
+CHUMP: ♫ So go say "baa-baa" to your FAMILY . The Goat's about to get sheered. ♫
+CHUMP: ♫ Cuz I'm the living embodiment of everything that'cha feared. ♫
+GOAT: ♫ You right I am scared, but it ain't from your rappin'. Your avatar look-like it was made while you were napping. ♫
+GOAT: ♫ But that's a good look for you. It's actually pretty insane. I'm amazed you found skin that matches up to your brain. ♫
+GOAT: ♫ And your name's quite unique. The spelling's great, low key. You know I also learned the alphabet when I was 3. ♫
+CHUMP: ♫ You think you're so smart, well I go news for you. If you think I'm three, we'll then you must be two. ♫
+CHUMP: ♫ Cuz your voice sounds like a INSTRUMENT . It makes me laugh out in tears. Like a popular mouse who's got circles for ears. ♫
+CHUMP: ♫ Did I reach a nerve? Have I got you enraged? Why don't you pack your ITEM and get off "my" stage. ♫
+GOAT: ♫ I'm 'bout to lay it down. Let me bring in the heat. You should have thought twice before you came out here to the streets. ♫
+GOAT: ♫ Cuz you got nothing on me. Your raps are just too tame. I'm gonna show you how it's done and I'm a win this game. ♫
+GOAT: ♫ Don't need a compass to see you're just going south. Does the junkyard miss the trash that's coming out your mouth? ♫
+GOAT: ♫ If you wanted a smack down that was totally free, then I guess it's a good thing that you've gone against me. ♫
+CHUMP: Well....um...you..gahh!?!?
+Music stops
+Teleport CHUMP to backstage.
+crowd woo
+GOAT: (take a bow)
 
 ======
 
