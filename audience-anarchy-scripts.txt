@@ -20402,7 +20402,7 @@ explosion
 INFORMATION ===============================
 ID: 657
 TITLE: Goodies Inspection
-AUTHOR: AirportPigeon
+AUTHOR: PigeonVa
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
@@ -23758,7 +23758,7 @@ TYPEWRITER: END
 INFORMATION ===============================
 ID: 741
 TITLE: Lap it up
-AUTHOR: AirportPigeon
+AUTHOR: PigeonVa
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Interrogation Room
@@ -24626,7 +24626,7 @@ KAREN1: (EMOTION2) DEFEAT
 INFORMATION ===============================
 ID: 758
 TITLE: Doofy Draw
-AUTHOR: AirportPigeon
+AUTHOR: PigeonVa
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -24805,7 +24805,7 @@ Gameshow Outro
 INFORMATION ===============================
 ID: 764
 TITLE: Bulletproof
-AUTHOR: AirportPigeon
+AUTHOR: PigeonVa
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -25838,6 +25838,250 @@ JAY: (thrilled) The unicorn shirt?! Excellent choice! It's like a rebellious SOM
 JAY: (lead ANDY to the register) I'll ring you right up~!
 FLYNN: (grab an item from the shelf) Hey. ...I'll take the socks.
 JAY: YAY!
+
+======
+
+INFORMATION ===============================
+ID: 809
+TITLE: Jesus and Buddha
+AUTHOR: IdleGav
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 11/05/24
+CHARACTERS ================================
+ROBBER: With gun:Entrance Stage Left
+CASHIER: minimum wage worker:Behind Register
+BUDDHA: Friend of Jesus:Entrance Stage Right
+JESUS: Friend of Buddha:Entrance Stage Right
+SUGGESTIONS =============================
+ITEM4: something random:Imposter, easter egg, plushie, trash can
+ITEM3: a stupid item:Fidget Spinner, Irradiated mushroom, Bowler Hat, rubix cube, train 
+NAME2: fictional name:Peter Griffin, John Wick, Tony Stark, Clark Kent, Goku 
+NAME1: secret name:Joe Zieja, Gavin, Matt Mercer, john doe, tom holland
+RELIGIOUS: religious action:meditating, praying, sacrifices, choir rehearsal
+VERB: something bad:horrible, awful, terrible, disastrous, lame 
+STORE: name of a store:target, walmart, mcgavins, 7/11, subway
+ITEM2: something you'd get while shopping:ice cream, soda, helldivers 2, shampoo, air fryer
+ITEM1: something you'd get while shopping:chips, pasta, cucumber, watermelon, pizza
+WEATHER: way to describe weather:dookie, nice, sunny, awful, hot
+ACTION: an action you would do with an item:stretching, exercising, running, gaming, pooping  
+SCRIPT ==========================================
+(jazz music 2)
+BUDDHA: (Jesus and Buddha enters entrance stage right)
+BUDDHA: Well Jesus, we're here now. by the way, I was surprised the weather was so WEATHER today, I can't believe there was a tornado outside.
+JESUS: Yeah Buddha, It's always nice to help the people on this planet. by the way, do you still have the grocery list?
+BUDDHA: Yeah! Fruits, Veggies, ITEM1 and ITEM2.
+BUDDHA: (walks to register)
+Meanwhile JESUS: (walks to isle)
+BUDDHA: Hello Cashier. How are you doing today? We were just coming over for a nice shopping trip, so I hope everything is going well!
+CASHIER: Thank you for asking... I've been VERB... My girlfriend left me this week, and yet I still have to work this dang job.
+BUDDHA: Oh, Please forgive me. Have you tried RELIGIOUS? That always seems to help me whenever times get tough.
+CASHIER: RELIGIOUS? What are you, some kind of Buddha?
+(vine boom)
+(tense cinematic music)
+BUDDHA: (acts surprised) Oh no, of course not! I'm not Buddha. I'm NAME1! I'm just a regular totally not suspicious customer...
+CASHIER: NAME1? Sure... And my name is NAME2
+(Jazz music 2)
+BUDDHA: Anyways, I hope you have a good rest of your day friend.
+CASHIER: Yeah... let me know whenever you're done shopping I guess...
+BUDDHA: (walks over to Jesus) Hey Jesus! Have you found ITEM1 and ITEM2? Maybe after this we can grab some food and head back to the apartment.
+JESUS: Nah, I'm still looking for ITEM1 but I found ITEM2. I also found this thing here, I think it's called a ITEM3... maybe this is something for people to use.
+BUDDHA: Huh, what exactly does it do?
+JESUS: I'm not really sure, maybe It's meant to be used for ACTION?
+(break down door)
+(epic fantasy music 2)
+ROBBER: (Robber enters entrance stage left) Everybody get down!! I'm robbing this place!
+CASHIER: I don't get payed enough for this...
+JESUS: (Looks at Robber) Oh, Hello there! Are you okay? you seem in distress my friend, maybe I can help you.
+BUDDHA: (whispers to jesus) Hey dude stop, don't you know what's going on?
+JESUS: It's ok. here, do you want this ITEM3? It may help ease any pain
+ROBBER: No! I'm robbing the STORE! Get on the ground or I'll shoot!! Yo wait, what are those injuries on your hands? are those holes? No... are you from the mafia?
+(silly music 1)
+JESUS: What, no I was held captive for three days. I did it for you and everyone around to save you.
+meanwhile BUDDHA: Hey! we're supposed to be a secret... you can't just say this stuff to everyone.
+ROBBER: Woah man, they let you out in just three days?? I thought you could never get out of there once they found you...
+JESUS: Oh no no, it was from the will of our father.
+ROBBER: Oh god man
+JESUS: Oh, you know him too?
+ROBBER: I'm so sorry, I would have shown you more respect if I knew you were from the family!
+ROBBER: I'm really sorry man you can have this store its your territory! get outta my head man! get outta my head!! (Robber runs out of store)
+BUDDHA: (sigh) It's alright Jesus, I guess we can't help everyone that is in trouble. lets get our stuff and get out of here.
+JESUS: Yeah, maybe they'll be able to find peace one day. (Buddha and Jesus walk to cashier)
+CASHIER: Thank you for shopping here... (discord notification) hold on, I gotta get this... huh, my girlfriend just texted me and said she wants to get back together!
+JESUS: Oh my, well of course my friend I am very happy to hear that! It seems that the future is bright for you.
+BUDDHA: Well, that's unexpected. maybe we were able to make another person after all!
+CASHIER: Anyways, let me help you with your stuff here... By the way, could I interest you in ITEM4? (exit)
+
+======
+
+INFORMATION ===============================
+ID: 810
+TITLE: Pokémon Explorers Guild Rivalry
+AUTHOR: badger__1
+VERIFIED: False
+TAGS: Skit,Contains Adult Innuendo
+SET: Forest Bridge
+DATE: 13/05/24
+CHARACTERS ================================
+MEOWSTIC: Guildmaster Meowstic:Entrance Stage Left
+CYNDAQUIL: Charmer Cyndaquil:Entrance Stage Left
+CHESPIN: no-nonsense Chespin:Entrance Stage Left
+LOPUNNY: Guildmaster Lopunny:Entrance Stage Right
+LUCARIO: Edgy Lucario:Entrance Stage Right
+SUGGESTIONS =============================
+CHESPINBODY: A body part to admire on Chespin:Tail, Quills, Belly
+NICK: Edgy Lucario's nickname:Darklord, Donut steel, Shadow
+MONOLOGUE: The internal thoughts of an edgy villain:My mom never loved me, I want them to feel my pain, I hate good guys
+EDGY: An edgy statement said right after teleporting behind someone:Nothing personal, You're already dead, Bazinga
+GUILDNAME: Guildname of a rival Explorer's Guild:Wigglytuff's Guild, Edgy Guild, Wanderlust Guild
+INFAMOUS: Something a guild would be infamous for:grilling pokémon, not taking any jobs, being worthless
+THREATEN: A threatening action:drown, destroy, slap, electrocute, dunk on
+BEST: Something this guild is the best at:capturing criminals, rescuing children, dying in dungeons
+JOB: A type of job:rescue jobs, exploration jobs, spying jobs
+EXCUSE: An poor excuse to avoid fighting:I have a tummy ache, I need to return some tapes, Mom said no
+SAFEWORD: A safe-word to stop the current activity:Bananas!, Big Ben!, Badabim badaboom! 
+ITEM: A small item to throw at an adversary:blast seed, throwing knife, glass shards
+SCRIPT ==========================================
+silly music 1
+MEOWSTIC: Well Well Well, if it isn't GUILDNAME.
+LOPUNNY: Guildmaster Meowstic, Long time no see! Still leading those losers at Clover Guild?
+CHESPIN: Oh shut up. Your guild's way worse. You guys are infamous for INFAMOUS. And also, you're literally a boring normie type.
+CYNDAQUIL: (Flirtatious) Forgive my friend Chespin, bunny girl. I would never discriminate on your type, because looking at you I can definitely tell you're my type!
+crowd woo
+LOPUNNY: First of all I'm a male.
+CYNDAQUIL: It's all the same to me, bunny boy!
+crowd woo
+LUCARIO: Do not disrespect GuildMaster Lopunny again, or I'll THREATEN you.
+MEOWSTIC: (Breaking up fight) Now, now, I don't want to burn bridges with GUILDNAME. How about we ease up the tension?
+CYNDAQUIL: (Suggestive) I know a few ways for us to ease up.
+LOPUNNY: I have no interest associating with you amateurs. We, GUILDNAME, are the best in the continent, and we are placed number 1 for the most accomplished JOB.
+CHESPIN: Who cares, you are the best at JOB. We Clover Guild are the best at BEST in the whole continent. So we're better actually.
+LUCARIO: (Growling) GRRRRRRR
+LOPUNNY: Ease up, Lucario.
+LUCARIO: Master, that is not my name...
+LOPUNNY: (Sigh) I mean, please calm down, NICK
+LUCARIO: Thank you master.
+LOPUNNY: (To Meowstic) BEST is boring. How about we settle who's the best guild the traditional way, with a good old battle?
+MEOWSTIC: umm, I can't fight
+LOPUNNY: Why not?
+MEOWSTIC: EXCUSE
+vine boom
+LOPUNNY: Ok, well how about we do my members vs yours? I bet NICK could take both of them out.
+CHESPIN: Bring it on!
+CYNDAQUIL: Uhh, I'm more of a lover not a fighter. Can we have a safeword? How about SAFEWORD
+aww
+Music Stops
+dark classical music
+LUCARIO: (addressing audience, evil laugh) Mwa ha ha. Clover Guild is pathetic. Using only a fraction of my power, I could easily Annihilate them
+Music Stops
+CHESPIN: Does this idiot know we can hear him?
+dark classical music
+LUCARIO: (Adressing audience) MONOLOGUE
+Music Stops
+MEOWSTIC: What did he mean by this?
+Teleport LUCARIO to Stage Right
+anime sword gleam 1
+pokemon battle music
+LUCARIO: (Go behind Chespin) EDGY
+anime sword gleam 2
+LUCARIO: (Hit Chespin with a big punch!) HAYAAA!
+Meanwhile CHESPIN: (React to being hit)
+LUCARIO: (to Cyndaquil) You're next.
+CYNDAQUIL: SAFEWORD !!! SAFEWORD !!! SAFEWORD !!!
+CHESPIN: (search your bag) I know I had this special item somewhere. Where is it!?
+CHESPIN: Aha, found it! Eat this ITEM (throw item at Lucario)
+Music Stops
+LUCARIO: No!!! ITEM, my only weakness! (Die)
+happy music 1
+MEOWSTIC: Well well well, would you look at that, the famous NICK from GUILDNAME lost to us! Looks like Clover Guild is number one after all!
+LOPUNNY: Despicable, using ITEM during a honourable battle?
+CYNDAQUIL: (Flirtatious) I know more dishonourable ways to use ITEMs but it requires some lubricant.
+crowd woo
+MEOWSTIC: Cyndaquil, if you don't shut up I'll THREATEN you myself.
+LOPUNNY: Whatever, I'm gonna go do some JOB (leave the scene)
+LUCARIO: Wait for me, I love JOB! (Exit)
+CHESPIN: You're not as bad as I thought, Cyndaquil. Thank you for distracting that GUILDNAME idiot while I was down.
+CYNDAQUIL: (Flirtatious) You're not so bad yourself Chespin, I have to admit, the whole fight I was myself distracted by your sexy CHESPINBODY
+crowd woo
+CHESPIN: Ok, see you guys. EXCUSE. Gonna go check on my partner Wooper. (leave the scene)
+MEOWSTIC: Ok, that one I'll give it to you, Chespin does have an amazing CHESPINBODY game.
+laughter
+CYNDAQUIL: (Laugh) Ha ha ha!
+Meanwhile MEOWSTIC: (Laugh) Ha ha ha!
+TYPEWRITER: And so, despite INFAMOUS, the Clover Guild, known for being the best at BEST, became the most beloved guild in the continent.
+tada
+
+======
+
+INFORMATION ===============================
+ID: 813
+TITLE: Gimme yer booty!
+AUTHOR: OzbendPrime
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 13/05/24
+CHARACTERS ================================
+PIRATE: The local pirate:Entrance Stage Right
+FIRSTMATE: The pirate's first mate:Entrance Stage Right
+STORE CLERK: The store clerk:Behind Register
+STORE MANAGER: The store manager:Backstage
+SUGGESTIONS =============================
+STORE: Name For A Store:Walmart, Toys-r-us, Kmart, Lowes
+MONEY: Name a type of currency:Doubloons, Dollars, Bitcoin, Vbucks
+SWORD: Name a type of bladed weapon:Cutlass, Katana, Sword, Dagger
+TOOL: Name a type of tool:Screwdriver, Hammer, 
+NICKNAME: Name a nickname for someone:Bobby Mcbob, Dilly Willy, Silly Billy, Willy Wacky
+SCRIPT ==========================================
+STORE CLERK: Man, it's been such a quiet day at STORE.
+(explosion)
+STORE CLERK: What the heck?
+(fantasy music 2)
+PIRATE: (Enter stage right) Yarghhh! We are here for ye booty!!
+FIRSTMATE: (Enter stage right) I suggest you listen to the captain or it wont be pretty!
+STORE CLERK: H-hey look man, I don't know what you mean, what have you come here for??
+PIRATE: Argghh! We have come for yer MONEY, ye scallywag!!
+STORE CLERK: W-what MONEY? We dont have that here at STORE!?
+PIRATE: What non sense is ye speaking?
+FIRSTMATE: I believe sir that he's saying that they dont have MONEY here.
+PIRATE: Nonsense!!! Ye scallywag is lieing!! (Draw sword) Draw ye SWORD and surrender or ye will suffer!!
+STORE CLERK: (Looking around) I have a TOOL!! (Draw TOOL)
+(music stops)
+PIRATE: I see ye have chosen your path! Suffer ye consequences!! (Charge to STORE CLERK)
+STORE CLERK: I shall fight you whoever you are!!! (Charge to PIRATE)
+(epic fantasy music 3)
+PIRATE: (sword fighting) Yargh!! Me heartie look around for the MONEY n booty!!
+FIRSTMATE: Roger that sir! (Exit stage left)
+PIRATE: (Fighting STORE CLERK) Ye landlubber! Ye have no chance against me!!
+STORE CLERK: (Fighting PIRATE) Listen I don't know what you want here!!
+PIRATE: Yarghhh! Ye are to strong.. (Kneel down)
+STORE CLERK: Look I am sorry that I hurt you.
+PIRATE: Yargh, you have bested me, take me plunder.
+(music stops)
+FIRSTMATE: (Enter stage left) I have found the MONEY captain!
+FIRSTMATE: (Approach PIRATE) Captain!! Are ye ok??
+PIRATE: This one bested me in the heat of battle.
+STORE MANAGER: (Enter stage right) Hey did you welcome that new mascot?
+(silly music 2)
+STORE MANAGER: What in good heavens happened here!?
+STORE CLERK: Look I can explain!
+STORE MANAGER: You better explain yourself!
+STORE CLERK: Listen boss, this guy (Points at pirate) busted down our front door!
+STORE CLERK: He wanted to find our MONEY!
+STORE CLERK: And then challenged me to a fight with his SWORD!
+STORE CLERK: So I fought him and knocked him out! With a TOOL!
+STORE MANAGER: You NICKNAME! I hired them!!
+(vine boom)
+STORE CLERK: W-what?! You never told me this!
+PIRATE: (Stand up) Hey I didn't get hired to be knocked out with a TOOL!
+FIRSTMATE: Where's our money. You said you'd pay us, we want a refund!
+STORE MANAGER: Please don't leave us we need you.
+STORE MANAGER: (Look at STORE CLERK) As for you! You are fired!!
+STORE CLERK: W-what!?! Aw man!! (exit stage right)
+STORE MANAGER: You two are now hired as my new store clerks.
+FIRSTMATE: Sweet!
+PIRATE: Can I have my money now?
 
 ======
 
