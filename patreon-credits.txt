@@ -651,6 +651,7 @@ AngelOfHell
 Debbiecat
 kangatheroo
 zaMiiKawa_ザミ川
+SempSaberWolf
 Hexi_Geee
 Fynn9563
 chasestan
@@ -1759,7 +1760,6 @@ ESO_ZAMASU
 SirupyCord
 竜｜Ａｚｒａｅｌ
 ᴬᴮᴮʸ
-DyingBug101
 modNick
 ruralists
 #TIER=1
@@ -2503,6 +2503,7 @@ blackvelvety
 ShayCat
 FenekkuRosamine
 ᴮᵒᵗˢ
+ScottDevlin
 AnimeQueenJessy
 Roxysimp
 EmpressStarNeko
