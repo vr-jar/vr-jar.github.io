@@ -1776,6 +1776,7 @@ SomeGuyNamedVib
 Grobi
 『TAROU』
 Seawolf035
+DyingBug101
 modNick
 ruralists
 #TIER=1
