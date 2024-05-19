@@ -1776,7 +1776,6 @@ BlakeTheKitsune
 _Yatsu
 TritonAlabaster
 Doom465
-DyingBug101
 modNick
 ruralists
 #TIER=1
