@@ -1526,6 +1526,7 @@ Miiikuu
 Forgotten AI
 Caden Zelive
 Zeus707
+MurkyLight9
 I_am_the_Monkey
 balbol
 Link_1503
@@ -1777,7 +1778,6 @@ _Yatsu
 TritonAlabaster
 Doom465
 DyingBug101
-syph0n
 modNick
 ruralists
 #TIER=1
