@@ -10429,6 +10429,134 @@ KNIGHT: (Weakly from offstage) Ow.
 ======
 
 INFORMATION ===============================
+ID: 307
+TITLE: Meet the Meat.
+AUTHOR: Myrddyn
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 28/04/24
+CHARACTERS ================================
+DATEE: A Woman out on a date:Backstage
+DATER: A Man out on a date:Backstage
+WAITER: Posh Waiter:Stage Right
+MEAT: Dish of the Day:Backstage
+SUGGESTIONS =============================
+PLACE: Strange name for a restaurant:NaanSense, Burgatory, What The Pho
+DECORATION: An odd or expensive piece of decor:Chandelier, Candelabra, Fireplace, Painting
+DISASTER: A disaster or mishap, such as a car accident.:Car Accident, Plane Crash, Bomb Explosion
+ENDOFIT: Place where you go when you die:Afterlife, Hell, Heaven, Underworld
+CUTOFMEAT1: A cut of meat:Rump
+CUTOFMEAT2: A cut of meat:Flank
+CUTOFMEAT3: A cut of meat:Shoulder
+ORGAN: An animal's organ:Brain, Liver, Lung
+VEGET: A Vegetable Food:Salad, Broccoli, Kale,
+VEGCOL: Color for a vegetable:Green
+DRINK: A Beverage:Beer, Drink, Milkshake
+SCRIPT ==========================================
+Noir music 4
+DATER: (Enter Stage Right) Wow this place is unreal.
+DATEE: (Following man) What a gloomy atmosphere.
+WAITER: (Overly Posh) Good evening Sir and Madam. Do you have a reservation?
+DATER: Sorry, No. (looks to companion) You need a reservation for the ENDOFIT.
+WAITER: No problem. Let's see.
+WAITER: (Look about empty restaurant, taking time.) Yes... busy night.
+DATER: What a night.
+DATEE: Indeed, I mean after that DISASTER.
+DATER: (chuckling nervously) Oh yes. the DISASTER.
+WAITER: This way. (Lead couple to table in center.
+MEANWHILE DATEE: (Interrupting the waiter) I mean, wow. The DISASTER was so intense.
+DATER: Hey, did you get that amazing thing of your whole life flashing before you?
+DATEE: Yeah, you got that too did you? Your whole life?
+DATER: Yeah. At least I assume it was mine. Some bits I didn't remember.
+DATEE: So what?
+DATER: Here we are, lying dead . . .
+DATEE: Standing . . .
+DATER: Right, Standing dead in this er . . . desolate . . .
+DATEE: Restaurant. . .
+DATER: Standing dead in this desolate . . .
+DATEE: Five star . . .
+DATER: Five star restaurant.
+DATEE: Odd, isn't it?
+DATER: Indeed, sure doesn't look like the ENDOFIT.
+DATEE: Surely not the ENDOFIT.
+WAITER: (clearing throat) IF you'll come this way, seems a table has just opened up. (Lead couple to table)
+DATER: (Hold out chair for companion) Here, let me get that for you.
+DATEE: (giggle) Oh you. (take offered seat)
+WAITER: If you would care to order DRINK . . .?
+DATER: Er, yeah.
+DATEE: Nice DECORATION, though.
+DATER: Hey, hang about... I think we're missing something important here, something really important that somebody just said . . . What was it? Hey, you.
+WAITER: Sir?
+DATER: Did you say something about DRINK?
+WAITER: Certainly, sir. If the lady and gentlemen would care to take DRINK before dinner. . .
+DATER: Yeah, great.
+WAITER: And the world will eend later for your pleasure.
+DATEE: Hey, what?
+DATER: Wow, what sort of DRINK do you serve here?
+WAITER: (Laughing) Ah, I think sir has perhaps misunderstood me.
+DATEE: (eager for a DRINK) I hope not.
+WAITER: It is not unusual for our customers to be a little disorientated by the teleport, so if I might suggest. . .
+DATER: You mean this isn't the ENDOFIT?
+WAITER: ENDOFIT sir? No, sir.
+DATER: (Skeptical) And we're not dead?
+WAITER: Aha, ha, no sir. Sir is most evidently alive, otherwise I would not attempt to serve sir.
+DATER: Then where are we?
+DATEE: (Suddenly) Hey, I've sussed it. This must be PLACE!
+DATER: PLACE!
+WAITER: Yes, this is PLACE, the Restaurant at the end of the World.
+DATEE: End of what?
+WAITER: The World.
+DATEE: When did that end?
+WAITER: In just a few minutes, sir. Now, if you would care to order DRINK I'll show you to your table.
+TYPEWRITER: A couple DRINK later...
+WAITER: (Enter Stage Left, Approach the table) Would you like to see the menu? or would you like meet the Dish of the Day?
+DATEE: Huh?
+MEANWHILE DATER: Huh?
+WAITER: (clearaing throat) I said, would you like a menu or to meet the dish of the day?
+DATEE: Meet the meat?
+WAITER: Exactly, meet the meat.
+DATER: (confused) Uh, sure, I guess we'll meet the meat.
+WAITER: Very good sir, I'll go fetch it. (Exit stage left)
+MEAT: (Enter Stage Left) Good evening. (approach table)
+MEANWHILE WAITER: (Enter Stage left, following the meat)
+MEAT: I am the main Dish of the Day. May I interest you in the parts of my body?
+MEANWHILE DATEE: (Act confused and disgusted)
+DATER: Not now dearie, it'll be okay.
+MEAT: Something off the CUTOFMEAT3 perhaps? Braised in a white wine sauce?
+DATEE: (horrified) Er, your CUTOFMEAT3?
+MEAT: But naturally my CUTOFMEAT3, sir, nobody else's is mine to offer.
+DATER: (Get up and start prodding and feeling the animal's CUTOFMEAT3 appreciatively)
+MEAT: Or the CUTOFMEAT2 is very good.
+MEAT: I've been exercising it and eating plenty of grain, so there's a lot of good CUTOFMEAT2 there.
+MEAT: Or a casserole of me perhaps?
+DATEE: You mean this animal actually wants us to eat it?
+WAITER: Of course!
+DATEE: That's absolutely horrible, the most revolting thing I've ever heard.
+DATER: Oh, I dunno, it kind of makes sense. (examining the animal's enormous rump) Very tender.
+DATEE: I just don't want to eat an animal that's standing there inviting me to, It's heartless.
+WAITER: Better than eating an animal that doesn't want to be eaten.
+DATEE: That's not the point (pause thinking) Alright, maybe it is the point. I don't care, I'm not going to think about it now. I'll just...
+DATEE: (mutter) I think I'll just have a VEGCOL VEGET
+MEAT: May I urge you to consider my ORGAN?
+MEAT: It must be very rich and tender by now, I've been force-feeding myself for months.
+DATEE: (emphatically) A VEGCOL VEGET.
+MEAT: (disapproving to ARTHUR:) A VEGCOL VEGET?
+DATEE: Are you going to tell me, that I shouldn't have VEGCOL VEGET?
+MEAT: Well, I know many VEGET that are very clear on that point.
+MEAT: Which is why it was eventually decided to cut through the whole tangled problem
+MEAT: and breed an animal that actually wanted to be eaten and was capable of saying so clearly and distinctly. And here I am.
+DATEE: (nervous) A glass of water please
+DATER: Look, we want to eat, we don't want to make a meal of the issues.
+DATER: (sitting back down, and to the waiter) Four rare CUTOFMEAT1 please, and hurry.
+MEAT: (shift to the table) A very wise choice, sir, if I may say so. Very good, I'll just nip off and shoot myself.
+MEAT: (start to exit stage left, pause and turn back)
+MEAT: Don't worry, sir, I'll be very humane. (exit stage left)
+GUNSHOT
+
+======
+
+INFORMATION ===============================
 ID: 319
 TITLE: AI Generated Wife
 AUTHOR: Cloaked Schemer
@@ -25549,6 +25677,71 @@ applause
 ======
 
 INFORMATION ===============================
+ID: 791
+TITLE: The Sock Snatcher
+AUTHOR: TheCatCatBoi
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 06/05/24
+CHARACTERS ================================
+MOM: The mother:Side Door
+DAD: The father:Front Door
+KID: The kid:Couch
+DEMON: The sock eating demon:Backstage
+SUGGESTIONS =============================
+NICKNAME: A funny nickname for a sock eating demon:sock sucker, sock snatcher, sock guzzler, toe terror, foot fiend
+NAME1: A name for a kid:Timmy, Liam, Noah, Oliver, Asher
+ACTION: Any action that is physically straining:cartwheel, handstand, headstand, summersault, backflip
+APPLIANCE: Any household appliance:toaster, microwave, dishwasher, sewing machine, refrigerator
+DEVICE: Any gaming device:phone, Nintendo switch, Xbox, PlayStation, PC
+NAME2: A scary name for a sock eating demon:Socksnatcher the Fiend of the Forgotten Footwear, Toestalker the Dreaded Darnfiend, Solegnasher the Phantom Footwear Fiend, Stitchbane the Sock Snatcher of Shadows, Pedalgeist the Malevolent Mender of Mismatched Munching
+BYE: Something someone would say when leaving:Bye, See ya, Farewell, Peace out, So long
+WEAPON: Any weapon that can easily be found in a house:frying pan, baseball bat, gun, baton, flashlight
+SCRIPT ==========================================
+KID: (Play on your DEVICE) (Quietly) Number one victory royale, yeah Fortnite we bout to get down, 10 kills on the board right now, just wiped out tomato town.
+Meanwhile MOM: (Walk in) Hey NAME1, get off your DEVICE and help me with the laundry.
+KID: But moooom, I'm in the middle of a game.
+MOM: I don't care, help me.
+KID: Ugh... Fine...
+KID: (Walk over to the table) (Grumbling) Why can't you do it?
+MOM: I do everything else, so you have to at least help me with this.
+MOM: (Looking through the laundry on the table) And where are all of our socks?
+KID: How could I know?
+MOM: Hey! Don't give me that attitude!
+MOM: But really, where are all of the socks?
+Teleport DEMON to Center Stage
+DEMON: Haha! It is I that has been stealing your socks! They taste so good!
+MOM: Omg! NAME1, call the police!
+KID: (staring in awe at the demon) Are you a real demon?
+DEMON: Uhh, yeah?
+KID: Wow! Can you do a ACTION?!
+DEMON: Uhh... Yeah?
+MOM: NAME1, stop asking it questions call the cops to come get this... Um... This NICKNAME!
+DEMON: Really? NICKNAME? Thats the best you come up with? I am NAME2!!
+DAD: (Enter front door) Hey! Who is this?!
+MOM: It's the demon that has been stealing all of our socks!
+DAD: Hey demon guy, can you not steal our socks?
+DEMON: Well, you would have to give me something else to feast upon.
+DAD: You eat the socks? Never mind, do you want this old APPLIANCE?
+DEMON: Hmm... I'll have to think about it.
+KID: So, are you gonna do a ACTION or not?
+Teleport DEMON to Backstage
+MOM: Ok good, its gone.
+DAD: (Whisper to mom) I'm gonna go wait and try to kill that thing when it comes back (Go wait in the side door)
+Teleport DEMON to Stage Left
+DEMON: Haha! I'm back for my APPLIANCE!
+DAD: (Rush in and hit demon with a WEAPON) I'll get you this time!
+Meanwhile DEMON: (Move a tiny bit from the impact)
+DEMON: Really? A WEAPON? Mortal weapons don't work on me.
+DAD: Ok fine, here is your APPLIANCE... (Hand demon the APPLIANCE)
+Meanwhile DEMON: (Grab the APPLIANCE from the father)
+DEMON: Thank you very much! I'm gonna go steal socks from your neighbor now.
+DEMON: BYE!
+
+======
+
+INFORMATION ===============================
 ID: 799
 TITLE: Monopoly Night
 AUTHOR: Tztsuya-Shiba
@@ -26181,6 +26374,325 @@ Music stops
 Teleport CHUMP to backstage.
 crowd woo
 GOAT: (take a bow)
+
+======
+
+INFORMATION ===============================
+ID: 824
+TITLE: Absurd Alert
+AUTHOR: GameAdvent2
+VERIFIED: True
+TAGS: Skit
+SET: News
+DATE: 17/05/24
+CHARACTERS ================================
+REPORTER: Field Reporter:Fake Street Backdrop
+ANCHOR: News Anchor:News Desk
+SUGGESTIONS =============================
+EMOTION: An exaggerated emotion:hysterically laughing, uncontrollable sobbing, overjoyed
+CLOTHING: A piece of clothing:sparkly tutu, oversized sombrero, neon leg warmers
+WEATHER: A strange weather condition:raining frogs, snowing cotton candy, tornado of cats
+EXCLAMATION: An exclamation:Great Scott!, Holy guacamole!, Oh my lanta!
+JOB: A job title:professional napper, dinosaur wrangler, bubblegum tester
+ANIMAL: An animal:kangaroo, penguin, sloth
+FOOD: A type of food:spaghetti, chocolate cake, pickled herring
+CELEBRITY: A well-known celebrity:Snoop Dogg, Taylor Swift, Dwayne "The Rock" Johnson
+OBJECT: A random object: rubber duck, giant toothbrush, inflatable unicorn
+LOCATION: A funny location:underwater basket-weaving class, hamster convention, ice cream factory
+INCIDENT: A bizarre incident:cat stuck in a tree, man marries a toaster, spontaneous dance party
+SCRIPT ==========================================
+World news intro
+ANCHOR: Good evening, I'm Tom Tucker, and we interrupt your regular programming with breaking news about a truly bizarre event.
+ANCHOR: Our top story tonight: a INCIDENT has just occurred at the LOCATION. We now go live to our field reporter for more details.
+REPORTER: Thank you, Tom Tucker. I'm here at the scene where INCIDENT has shocked everyone.
+REPORTER: Witnesses say it all started when someone spotted a OBJECT in the middle of the LOCATION.
+ANCHOR: Incredible! Do we know who might be behind this?
+REPORTER: Yes, it appears that CELEBRITY was involved in some way. According to bystanders, they were seen eating FOOD while riding a ANIMAL.
+ANCHOR: That sounds absolutely ridiculous. What was the reaction of the people around them?
+REPORTER: People were stunned, and one local JOB even exclaimed, "EXCLAMATION!"
+ANCHOR: What a scene! How is the weather affecting the situation over there?
+REPORTER: Surprisingly, the weather has taken a turn for the weird. It's currently WEATHER right here at the LOCATION.
+ANCHOR: I can't believe what I'm hearing. What else can you tell us?
+REPORTER: Well, there's also been a report of someone wearing a CLOTHING and expressing EMOTION at the absurdity of it all.
+ANCHOR: Truly a day to remember. Thank you for the update, REPORTER NAME.
+ANCHOR: We'll be sure to keep our viewers informed as more details come in about this INCIDENT at the LOCATION.
+REPORTER: Thank you, Tom Tucker. Reporting live from the LOCATION, back to you in the studio.
+ANCHOR: And coming up next after the commercial break, a story you won’t want to miss:
+ANCHOR: a local man claims to have invented a device that translates ANIMAL noises into CELEBRITY speeches. Stay tuned!
+
+======
+
+INFORMATION ===============================
+ID: 832
+TITLE: Milkshake Factory
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Contains Adult Innuendo
+SET: Infomercial Kitchen
+DATE: 20/05/24
+CHARACTERS ================================
+RUMSAY: Chef Rumsay:Center Stage
+APPRENTICE: Apprentice:Stage Right
+SUGGESTIONS =============================
+APPRENTICE NAME: Name of Person:John, Rick, David, Batman
+INGREDIENT: A type of ingredient:sugar, paprika, pumpkin spice
+FLAVOR: A type of flavor:vanilla, chocolate, strawberry, horseradish
+BODY PART: A body part:arm, leg, eye, lips
+GROUP: A group of people (plural):adults, aliens, farmers
+OBJECT: An object:screw, bubblegum, Taylor Swift
+NUMBER: A number:50, 100, 6969
+CONDITION: A medical condition:toe fungus, enlarged armpit hair, lemon eyes 
+SCRIPT ==========================================
+Applause
+RUMSAY: It's time for another episode of Milkshake Factory, a show where I taste and rate epic, frothy combinations.
+RUMSAY: That didn't sound right. I'm suing the teleprompter after this show.
+RUMSAY: And today, I'm joined by my apprentice, APPRENTICE NAME, who makes an awful lot of terrible milkshakes and a lot of bad decisions in life in general.
+APPRENTICE: They're not all bad. The one with INGREDIENT was actually pretty good.
+RUMSAY: That milkshake somehow caught on fire.
+APPRENTICE: You like it spicy. That's what you told me last night.
+RUMSAY: (agitated) We'll discuss that later.
+RUMSAY: Today, we're going to try a milkshake that I personally made. (takes shake from kitchen counter) This is the FLAVOR shake. Simple. Elegant.
+APPRENTICE: Smells like catfish, but it's absolutely scrumptious if you don't know what's in it.
+APPRENTICE: I've already prepared my will in the event I cease to be after drinking this. There is so much FLAVOR!
+RUMSAY: Your tastebuds may file for divorce, your toilet will go on strike, and you may lose a BODY PART.
+APPRENTICE: But rest assured, this will be the best milkshake you've ever had.
+RUMSAY: Let's drink. Drink it up. (drinks milkshake)
+APPRENTICE: Cheers to inevitable oblivion! (drinks milkshake)
+Tense Cinematic Music
+RUMSAY: And the verdict? APPRENTICE?
+APPRENTICE: It's definitely not, not terrible. Lots of milk. Creamy, even.
+RUMSAY: Yes. Lots of FLAVOR. Looks like you got some on your BODY PART there.
+APPRENTICE: Better find a napkin to clean it off of me. Slowly (poses).
+Waterphone
+RUMSAY: No! That is inappropriate! This show is for GROUP! What is wrong with you? It's in the contract you wouldn't say those things.
+APPRENTICE: Forget the GROUP. It also says in my contract that I wasn't allowed to put a OBJECT in the milkshake.
+RUMSAY: Which you've done NUMBER times already. And even though I drank your milkshake NUMBER times and developed CONDITION, I always resented that I drank it.
+APPRENTICE: You didn't tell me. And why did you drink it? Why must you punish yourself?
+RUMSAY: Because milkshakes... Listen to me, APPRENTICE. Look at me in the eyes. Not on my BODY PART. Eyes up here. Look at me.
+RUMSAY: Because milkshakes... bring all the GROUP to the yard. If you make a milkshake, I will be brought to the yard.
+APPRENTICE: This is a kitchen.
+RUMSAY: But metaphorically speaking, it is a yard. You're much too young to understand metaphors. They go over your head.
+APPRENTICE: (looks up) I don't see anything.
+RUMSAY: But my milkshake is better than yours. That's why I host this show. That's why GROUP love me.
+RUMSAY: And they enjoy the milkshakes I make. But I couldn't make milkshakes without you, dear APPRENTICE.
+RUMSAY: For so long, I couldn't make proper milkshakes. I spend long hours, days even, making milkshakes by myself in this kitchen.
+APPRENTICE: And sometimes, those milkshakes were made prematurely.
+RUMSAY: Other times I had to take CONDITION pills to make my milkshakes last longer than a hour. But then you came into my life.
+APPRENTICE: I did a number of times.
+RUMSAY: That's it! You're done! You've had your last milkshake!
+
+======
+
+INFORMATION ===============================
+ID: 838
+TITLE: The Streaker
+AUTHOR: MindlessGonzo
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: City
+DATE: 22/05/24
+CHARACTERS ================================
+STREAKER: The Streaker:Entrance Stage Left
+WITNESS 3: Witness 3, The Fan:Stage Left
+WITNESS 2: Witness 2, A Shopper:Alley
+WITNESS 1: Witness 1, The Parent:Center Stage
+ANDY: Andy The Reporter:Stage Right
+SUGGESTIONS =============================
+NUMBER: A number:7, 20, 400, 99, negative 1
+SILLY SOUND: A silly sound to make:a bird call, screeeee, (fart sound), Wingardium LeviOHsa not levioSAH
+FOOD: A food:hot dog, hamburger, spagetti
+SPORT: A sport:baseball, track, football
+SHOES: A kind of shoe or brand of shoe:sandals, sneakers, Timberland boots
+SOMETHING TO BUY: Something you buy at the store:vitamins, floor cleaner, eggs
+QUESTION: A random question:What is a man?, Where is Carmen Sandiego?, Is there such thing as dog hell?, Where's mommy?
+NAME: A name, be it just a first name or full name:John, Jane, Jacob Smith, Ronald McDonald, Jake from State Farm
+OBJECT: An object:can, toy, gun, toilet, piano, brick, minecraft diamond ore
+ANIMAL: An animal:cat, dog, bird, african elephant, gremlin, boa constrictor
+JOB TITLE: A job title:accountant, banker, cop
+EVENT: An event you want to go to or have to:business meeting, birthday party, parent-teacher conference
+SCRIPT ==========================================
+world news intro
+ANDY: This is ANDY DANDY with Channel 5 News live in Jarville, where a string of sightings has shook up the folks of this quiet town.
+ANDY: Sightings of a streaker.
+ANDY: I have here three witnesses to several of these sightings who claimed to have seen the streaker.
+WITNESS 1: Can I go first? I got EVENT to go to soon.
+WITNESS 3: And I got that JOB TITLEs game on television tonight! I can't miss it!
+ANDY: Right, our first witness was at the town park. Can you recall what happened?
+WITNESS 1: Yes, I can. I was out with my son, watching him as he played with his OBJECT and then here he comes, naked as a ANIMAL.
+WITNESS 1: I hollered at my son "Don't look NAME ", but it was too late!
+WITNESS 1: He seen everything and now he's asking things like (Whispering) " QUESTION "
+waterphone
+ANDY: Disturbing.
+ANDY: Our next one was shopping at the supermarket. What happened to you?
+WITNESS 2: I was just stopping by for SOMETHING TO BUY to take home.
+WITNESS 2: I look up and there he comes, nothing on but SHOES .
+WITNESS 2: I heard someone go "Don't look, Ethel!" But it was too late!
+WITNESS 2: His fruit and veggies were on full display! (Upset) Outrageous!
+ANDY: (To the last witness) And what about your story? Yours happened just at last night's SPORT game!
+WITNESS 3: Oh, God, it was crazy! So, I was there, rooting for our home team, the Jarville JOB TITLEs right?
+WITNESS 3: And then here he comes whizzing by the FOOD stand going right in the middle of everything!
+WITNESS 3: Everybody was shielding their eyes, screaming "Don't look! Don't look!" But I was too mad not to!
+ANDY: And why didn't you?
+WITNESS 3: (Angrily) He was double-dribbling...
+gong
+ANDY: (Awkwardly) Okay...
+happy music 1
+STREAKER: (Enters from Stage Left) Hey, you guys are doing a story?
+ANDY: Yes, we're talking about the string of streaker incidents here in Jarville. Do you know anything?
+STREAKER: Yes, I do.
+ANDY: And what will that be?
+music stops
+STREAKER: I'm The Streaker.
+record scratch
+STREAKER: SILLY SOUND (Exit Stage Right)
+groose music
+ANDY: (Loudly) After The Streaker! There's a reward if we catch him!
+ANDY: (Runs off Stage Right)
+WITNESS 3: I had NUMBER bucks on that game! (Runs off Stage Right)
+WITNESS 2: I didn't get to buy the SOMETHING TO BUY . (Runs off Stage Right)
+music stops
+WITNESS 1: Does anyone have an answer to QUESTION
+laughter
+
+======
+
+INFORMATION ===============================
+ID: 841
+TITLE: A Terrible Accident
+AUTHOR: holidaywither
+VERIFIED: False
+TAGS: Skit
+SET: Interrogation Room
+DATE: 23/05/24
+CHARACTERS ================================
+OFFICER: A Confused Officer:Corner Left
+TEENAGER: A Lonesome Teenager:Chair
+INVESTIGATOR: A Stoic Investigator:Entrance Stage Right
+SUGGESTIONS =============================
+TERM: A Popular Term With Young People:Skibiddy, Simp, Bussin'
+PUNISHMENT: A Severe Punishment For A Crime:Manual Labor, Rehabilitation, Short-Term Incarceration, Probation, Community Service
+GROUP: A Group Of Individuals:Orphans, Politicians, Soldiers, Babies
+EMOTION: An Emotion:Sad, Angry, Hopeless, Confused
+TOPIC: A Popular Video Game Series:Fortnite, Pokemon, Minecraft, Roblox, GTA
+FAMILY: A Family Member:Mother, Father, Grandmother
+MONUMENT: An Important Structure or Famous Landmark:Eifel Tower, Notre Dame, Grand Canyon, Roblox HQ
+INTERNET: A Viral/Popular Internet Term:Rizz, Vibe Check, Gyatt
+NAME: An Uncommon Name For A Young Adult:Jazlyn, Mitchell, Briar, Axel, Bristol, Timory, Asher
+SCRIPT ==========================================
+Noir music 4
+INVESTIGATOR: (enters room) Alright NAME, so why'd you do it?
+TEENAGER: Do what?
+INVESTIGATOR: Don't play dumb with me! I know you were behind the INTERNET crime.
+OFFICER: The INTERNET crime?
+INVESTIGATOR: Yes, the INTERNET crime! A crime so heinous, that it was enough to destroy the MONUMENT!
+TEENAGER: You have no proof that I did that crime. I'd never do such an act.
+INVESTIGATOR: Oh really? That's not what your FAMILY told me.
+TEENAGER: My FAMILY? What did they tell you?
+INVESTIGATOR: They told me that you've been acting very strange the past several months. Moreso since your friends all moved away.
+INVESTIGATOR: Your FAMILY also told me you've been spending a lot of time online, looking up some very interesting topics.
+TEENAGER: You're bluffing.
+INVESTIGATOR: Oh, am I? Does the term, TOPIC, ring a bell?
+OFFICER: TOPIC?
+TEENAGER: Please, stop.
+INVESTIGATOR: Are you ready to spill the beans now?
+TEENAGER: Alright, I admit it. I was the one who caused the INTERNET crime.
+INVESTIGATOR: Exactly. But what I want to know is, why? Why did you do it?
+TEENAGER: After all my friends left me, I felt...EMOTION. I didn't know what to do.
+INVESTIGATOR: And this EMOTION turned you towards TOPIC.
+TEENAGER: Yes.
+OFFICER: If you don't mind me asking. How are TOPIC and INTERNET connected?
+INVESTIGATOR: How about we have NAME explain?
+TEENAGER: TOPIC has been quite popular with my generation, so I figured that would be a good way to try and reconnect with my friends.
+TEENAGER: After spending countless days and nights studying TOPIC, I figured out a plan. It was foolproof.
+INVESTIGATOR: Did you ever stop to think about the actions of your plan?
+TEENAGER: I didn't think it'd go that far. Never far enough to destroy the MONUMENT.
+INVESTIGATOR: But it did. Now every single GROUP will never know the joys of the MONUMENT.
+OFFICER: They'll never?
+INVESTIGATOR: Never ever.
+TEENAGER: I feel horrible about this whole ordeal.
+INVESTIGATOR: As you should.
+TEENAGER: So how do you plan on punishing me?
+INVESTIGATOR: Giving you the only punishment suitable for your crime. Several long months of PUNISHMENT.
+TEENAGER: Please, anything but that!
+INVESTIGATOR: Maybe you should've thought of that sooner. Officer, get NAME out of my sight.
+OFFICER: (attempting to escort NAME offstage)
+Meanwhile TEENAGER: (Trying to stay put) Wait!
+TEENAGER: But I was doing it for my friends!
+Music Stops
+INVESTIGATOR: Ah, yes, speaking of. There's one thing I forgot to mention.
+TEENAGER: What?
+INVESTIGATOR: Your friends were about to visit the MONUMENT when it was destroyed.
+INVESTIGATOR: You nearly killed them. Knowing that, now they never want to see you again.
+Sad chug jug music
+TEENAGER: No, it can't be.
+INVESTIGATOR: Now you know actions have consequences.
+OFFICER: Let's go kid.
+TEENAGER: I only wanted to show them I could still be TERM. (Exits)
+Meanwhile OFFICER: (Exits after NAME)
+INVESTIGATOR: I still feel bad for those poor GROUP.
+Courtroom sting
+
+======
+
+INFORMATION ===============================
+ID: 842
+TITLE: Traffic Light Committee
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 23/05/24
+CHARACTERS ================================
+EMPLOYEE3: Employee #3:Backstage
+EMPLOYEE2: Employee #2:Office Chair 2
+EMPLOYEE1: Employee #1:Office Chair 1
+BOSS: Boss:Boss Chair
+SUGGESTIONS =============================
+PERSONLABEL: A noun:rat, racecar driver, beekeeper
+NAMECALL: A noun:worm, gadfly, goblin
+BODYPART: A body part with an orifice:butt, nose, ears
+WORD: A noun:goosebumps, a cow, nosehairs
+VERB: A verb (action):dance, cry, rub
+NOUN: A noun (plural):flowers, rats, leeches
+NUMBER: A large number:20, 50, 100
+SCRIPT ==========================================
+jazz music 1
+BOSS: Okay, ladies and gents and everyone in between, we need to find new ways to ruin humanity. Ideas? Go!
+EMPLOYEE1: As a member of the Traffic Light Committee, I believe there is plenty of room to innovate here.
+EMPLOYEE1: At a red light, we could have people wait from two minutes to NUMBER minutes.
+BOSS: That's very efficient. Continue.
+EMPLOYEE1: That way, motorists can spend less time thinking about heading to work and more time developing an existential crisis.
+BOSS: All while surrounded by the sweet smell of car smog and NOUN.
+EMPLOYEE1: Never thought about NOUN. We can definitely workshop that.
+BOSS: How about you?
+EMPLOYEE2: I'm thinking we add another color to the traffic light.
+BOSS: Bold suggestion.
+EMPLOYEE2: Red is stop. Yellow is yield. Green is go, right? But picture this: blue. And blue means VERB.
+BOSS: So when the light turns blue, everyone will VERB? I'm getting WORD just thinking about it. Very nice!
+EMPLOYEE2: Thank you, sir.
+BOSS: But more needs to be done. We need more to crush everyone's spirit.
+EMPLOYEE2: Let's not forget the pedestrians.
+BOSS: Yes! The pedestrians! Make them regret having legs to walk!
+EMPLOYEE2: Stop! We can only get so excited.
+EMPLOYEE1: Okay. Imagine they're at a crosswalk. While they wait to walk across the street, they hear this.
+Badass Music 1
+EMPLOYEE1: That way, we're daring them to ignore the crosswalk sign telling them to wait.
+EMPLOYEE2: And they're like, "No! I'm feeling adventurous today. I'm going to head out there and --
+Tire Screech
+Crashing Debris
+BOSS: Incredible! How are you doing all those sound effects?
+EMPLOYEE1: College party trick. I make noises from my BODYPART.
+EMPLOYEE2: Is that even physically possible?
+EMPLOYEE1: Laws of physics don't apply to comedy, you insignificant NAMECALL!
+EMPLOYEE3: (enter stage left) Eureka! I just came up with a brilliant idea and it doesn't require NOUN!
+BOSS: Thought I fired you yesterday. Okay, fine. What is your idea?
+EMPLOYEE3: A strobe light traffic light. Just imagine!
+EMPLOYEE3: Traffic lights are solid until they change, right? Let's make them blink suddenly and at random intervals.
+BOSS: Disturbing. I like it! You're still fired. Tell us more.
+EMPLOYEE3: People are like, "Flashing red means I should stop before proceeding, but what is green doing?"
+EMPLOYEE1: Yeah. What is green doing, flashing itself like some cheap PERSONLABEL?
+EMPLOYEE3: "Oh. Should you stop? Should you go? Go slower? Or maybe faster?"
+BOSS: Brilliant! Great work, everyone! We should clock out now and beat the traffic. The commute has been terrible lately.
 
 ======
 
