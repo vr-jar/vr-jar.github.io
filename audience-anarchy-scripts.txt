@@ -7438,27 +7438,34 @@ TAGS: Skit,Contains Adult Innuendo
 SET: Conference Room
 DATE: 28/04/24
 CHARACTERS ================================
-EMPLOYEE: Employee:Backstage
+EMPLOYEE: Employee:Boss Chair
 APPLICANT: Applicant:Office Chair 1
-BOSS: Boss:Boss Chair
+BOSS: Boss:Backstage
 SUGGESTIONS =============================
 FIB: A reason why you would miss a work deadline:Company reshuffle, I just didn't wanna, I was making a tiktok about dead birds
 ACTION: Something you would do for $20:Lick a foot, download Fortnite, drink diet coke
 JOB2: A company:Google, Starbucks, Hooters
 BRAG: A body part:Foot, tongue, biceps
 LIE: Something you don't do at work:Playing games, watching netflix, online gambling
-CRIME3: Why did you get fired? (past tense):Showed up late
-CRIME2: Why did you get fired? (past tense):Yelled at the boss
-CRIME1: Why did you get fired? (past tense):Stole office supplies
-POSITION: An occupation:Cleaner
-JOB1: A company:Amazon
-NAME2: A person's last name:Johnson
-NAME1: A person's first name:Betty
+CRIME3: Why did you get fired? (past tense):Showed up late, burped too loud, ordered chinese food at a pizza store
+CRIME2: Why did you get fired? (past tense):Yelled at the boss, punched a dog, had a weird smile
+CRIME1: Why did you get fired? (past tense):Stole office supplies, downloaded video games, sent an email of my ass
+POSITION: An occupation:cleaner, FBI agent, real estate agent, Doctor of Neuroscience, art teacher
+JOB1: A company:Amazon, VRChat, Electronic Arts, Pixar
+NAME2: A person's last name:Johnson, Boberson, Smitherson
+SAD: Something sad:Hungry orphans, the state of the Canadian housing market, a house fire totaling over $5,000
 SCRIPT ==========================================
 Jazz music 1
-BOSS: NAME1 thank you for coming to this interview.
+EMPLOYEE: Good luck on today's interview. The boss will be with you shortly!
+APPLICANT: Thanks!
+EMPLOYEE: Oh. Also, I should mention, don't talk about SAD, Mr. NAME2 get's really worked up about that.
+EMPLOYEE: (Exit stag)
+APPLICANT: Okay....
+BOSS: (Enter stage)
+BOSS: Perfect, you're here. Thank you for coming to this interview.
+BOSS: (Sit at table)
 APPLICANT: Thanks for having me Mr. NAME2
-BOSS: At JOB2 we  interview a little differently.
+BOSS: At JOB2 we interview a little differently.
 BOSS: This room is bugged with a wireless lie detector.
 BOSS: Here, check it out!
 BOSS: I am currently in space
@@ -7515,7 +7522,7 @@ BOSS: Sorry about that.
 APPLICANT: No problem
 BOSS: So...
 BOSS: How did you do it?
-APPLICANT:  Well... At the time I thought it was a good idea, but my boss came in and... (You get cut off)
+APPLICANT: Well... At the time I thought it was a good idea, but my boss came in and... (You get cut off)
 BOSS: No.. No... Your BRAG Did you put a cream on it?
 APPLICANT: Why are you so focused on my BRAG? Are you attracted to me?
 BOSS: What?! No!
@@ -7524,8 +7531,31 @@ BOSS: You have a nice face.
 Gameshow buzzer
 BOSS: You are exactly my type. I want you badly.
 APPLICANT: Uhh.... Well....
-BOSS: Yeah, sorry. This is going sideways. Look, I would end this interview now...
-BOSS: But company policy requires me to ask this final question.
+BOSS: Anyways... Look. You can't tell me the truth, and you were fired for CRIME1 of all things!
+BOSS: I'm sorry, but we won't be moving forward with you.
+APPLICANT: That makes me sadder than SAD.
+BOSS: (Yell)What did you just say?
+APPLICANT: I said...
+APPLICANT: (yell) That makes me sadder than SAD!
+BOSS: (yell) You come into my place of work, talking about SAD...
+BOSS: (yell) While your yourself have CRIME2 in the past...
+BOSS: (yell) Who told you about my hatred for SAD?
+APPLICANT: I don't know!
+Gameshow buzzer
+APPLICANT: Your assistant!
+BOSS: (yell) Jerry, get in here!
+EMPLOYEE: Yes sir?
+BOSS: You're fired!
+EMPLOYEE: What?!
+BOSS: Expect your final cheque in the mail.
+Gameshow buzzer
+BOSS: Now get out!
+EMPLOYEE: Wait! It buzzed, why did it buzz?
+BOSS: (yell) I said out!
+EMPLOYEE: (Leave stage sadly)
+BOSS: Yeah, sorry. This is going sideways...
+BOSS: Since we just had to let someone go...
+BOSS: Company policy requires me to ask this final question.
 BOSS: Will consider ACTION for this job
 APPLICANT: What?! No way!
 Gameshow buzzer
@@ -23259,13 +23289,13 @@ DIRECTOR: He just did your whole part of this scene for you!!
 ACTOR2: (Laugh very hard)
 Meanwhile ACTOR1: (Laugh very hard)
 GUY: (To director) So, you said I would be getting paid for this?
-DIRECTOR: Haha, yeah I did say that didn't I.
+DIRECTOR: Haha, yeah, I did say that didn't I.
 ACTOR3: Wait you're paying him?!
 DIRECTOR: Yes? He did the acting better than you ever have.
 ACTOR3: Yeah, no. I'm out. Have fun with that Dumby.
 ACTOR3: (Start rapping) He's the maestro of missteps, tripping through life's maze.
-ACTOR3: In the land of blunders, his stupidity never ceases to amaze!! (Enter the side door)
-ACTOR3: Um, WEIRDONAME? Is that you? Omg, you're alive! I haven't seen you in 14 years!
+ACTOR3: In the land of blunders, his stupidity never ceases to amaze!!
+ACTOR3: (Peer through side door) Um, WEIRDONAME? Is that you? Omg, you're alive! I haven't seen you in 14 years!
 Music stops
 
 ======
@@ -24022,22 +24052,22 @@ TAGS: Skit,Contains Adult Innuendo
 SET: Murder
 DATE: 28/04/24
 CHARACTERS ================================
-DUDE: Dude Bro:Backstage
-MAID: The Maid:Stage Right
 MASTER: The Master:Center Stage
+MAID: The Maid:Stage Right
+DUDE: Dude Bro:Backstage
 SUGGESTIONS =============================
-FAMILY: a member of a family:Mother, father, step-bro, daughter, son, grandma, grandpa, husband, wife
-GREETING: Something you’d say to introduce yourself to a lady:What’s cookin’ good lookin’?, Whoah you’re pretty!, MILF alert!
-ACTION: An activity for two people:Fish, Dance, Vomit, kiss
-GOO: A sticky substance :Glue, baby-batter, snot, spinal fluid, bug guts
-SUBJECT: A school subject:Math, Science, English, Media studies, product design, art
-NAME: A bro-like name:Coolio, Samuel, Cade, Noah, Jack, Raff
-MASTER: Name of a fancy rich person:Wellington, Vilhelm, Sussy Jack, Arthur
-CLOTHES: An item of clothing:Coat, hat, shoes, bag, underwear
-INVEST: A highly successful business :Amazon, Disney, Google, The Royal Family, Cheese
-BUSS: A fictional business:Milkies, Lava incorporated, e-boys, tummy pats
-CHANGE: A small amount of money:One pound, one dollar, 100 yen, 1 euro
 ILLNESS: An illness:The Lurgy, COVID, The common cold, upset stomach
+CHANGE: A small amount of money:One pound, one dollar, 100 yen, 1 euro
+BUSS: A fictional business:Milkies, Lava incorporated, e-boys, tummy pats
+INVEST: A highly successful business :Amazon, Disney, Google, The Royal Family, Cheese
+CLOTHES: An item of clothing:Coat, hat, shoes, bag, underwear
+MASTER: Name of a fancy rich person:Wellington, Vilhelm, Sussy Jack, Arthur
+NAME: A bro-like name:Coolio, Samuel, Cade, Noah, Jack, Raff
+SUBJECT: A school subject:Math, Science, English, Media studies, product design, art
+GOO: A sticky substance :Glue, baby-batter, snot, spinal fluid, bug guts
+ACTION: An activity for two people:Fish, Dance, Vomit, kiss
+GREETING: Something you’d say to introduce yourself to a lady:What’s cookin’ good lookin’?, Whoah you’re pretty!, MILF alert!
+FAMILY: a member of a family:Mother, father, step-bro, daughter, son, grandma, grandpa, husband, wife
 SCRIPT ==========================================
 Dark classical music
 MASTER: Maid! (Double clap) Clean the sofa. As you know, we are expecting company today.
@@ -24047,7 +24077,7 @@ MASTER: (point to fingers while listing) Pranking the SUBJECT teacher..
 Laughter
 MASTER: Making sure our home-room teacher always had GOO in her pockets…
 Laughter
-MASTER: We ACTION with eachother every night…
+MASTER: We ACTIONed with each other every night…
 Vine boom
 MAID: (stop cleaning and look disgusted) Master….. Gross..
 MASTER: (wave off Maid) Bah, it’s all history now Maid.
@@ -24067,15 +24097,15 @@ MASTER: (take seat and point to sofa) Take a seat NAME, relax! I have news for y
 DUDE: Real swanky place you got here MASTER. You invest in INVEST like you said you would?
 MASTER: (two hand wave, shake head) Oh, no no. Far too mainstream for yours truly.
 MASTER: I put all my stock in BUSS.
-MASTER: And aquired all my wealth thusly!
+MASTER: And acquired all my wealth thusly!
 DUDE: (head in hands) Damn… Wish I knew you had money sooner..
-DUDE: A family member of mine passed last away last week.
+DUDE: My FAMILY died horribly last week.
 Sad chug jug music
 DUDE: And I needed CHANGE for the surgery..
 MAID: Only CHANGE? Peasant.
 MASTER: Hush Maid!
 MASTER: I’m so sorry NAME..
-MASTER: I couldnt help your dear FAMILY, (point) but I can help you.
+MASTER: I couldn't help your dear FAMILY, (point) but I can help you.
 Emotional piano music
 DUDE: (raise head) Huh? How?
 MASTER: I’m dying you see. It’s ILLNESS. I only have a few days left in me.
@@ -24105,7 +24135,7 @@ Waterphone
 MAID: Wait what?!
 MASTER: NAME… I… leave the rest to you…. (Expire)
 DUDE: MASTER? You dead?
-MAID: (stand) those PET aren’t going to euthanise themselves.
+MAID: (stand) those 83 people aren’t going to euthanise themselves.
 MAID: I’ll get the flamethrower. (Leave)
 Vine boom
 DUDE: (close MASTER ‘s eyes) Rest well, my fellow dude.. (wipe away tear)
@@ -24395,21 +24425,21 @@ TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
 DATE: 28/04/24
 CHARACTERS ================================
-WISH: The Fairy Wish Prince:Backstage
 GUY: Person wanting wish:Couch
+WISH: The Fairy Wish Prince:Backstage
 SUGGESTIONS =============================
-ROYAL: A royal title (example “King”):King, queen, princess, duke, knight, high emperor, The Almighty
-EMO: An emotion :Happy, sad, angry, horny
-CREATURE: A mythical creature:Elf, troll, goblin, demon
-PROD: An expensive product:PC, PSA 10 Base set Charizard, Goth Mommy, Full body tracking
-SUB: A liquid you don’t want to touch:Acid, liquid nitrogen, lava, oil, white sauce, crusty jam
-BODY: A part of the body to pinch:arm, leg, tummy, knee, elbow
-TV: A TV show:X-Men’97, Konosuba, The Walking Dead, Breaking Bad, G.I Joe
-YOUNG: Something you would call a young person:Boy, girl, chap, lad, lass, child, kid, youngster
-PART: A specific part of the body:Boobs, ass, lips, cheeks
-FAN: A popular franchise:SpongeBob, FNAF, Fortnite, Marvel, Hazbin Hotel
-ORGAN: An internal organ:Heart, lung, pancreas, brain, balls
 SILLY: A single word to describe someone:Lovely, pathetic, smelly, fruity, moist, foolish, idiotic
+ORGAN: An internal organ:Heart, lung, pancreas, brain, balls
+FAN: A popular franchise:SpongeBob, FNAF, Fortnite, Marvel, Hazbin Hotel
+PART: A specific part of the body:Boobs, ass, lips, cheeks
+YOUNG: Something you would call a young person:Boy, girl, chap, lad, lass, child, kid, youngster
+TV: A TV show:X-Men’97, Konosuba, The Walking Dead, Breaking Bad, G.I Joe
+BODY: A part of the body to pinch:arm, leg, tummy, knee, elbow
+SUB: A liquid you don’t want to touch:Acid, liquid nitrogen, lava, oil, white sauce, crusty jam
+PROD: An expensive product:PC, PSA 10 Base set Charizard, Goth Mommy, Full body tracking
+CREATURE: A mythical creature:Elf, troll, goblin, demon
+EMO: An emotion :Happy, sad, angry, horny
+ROYAL: A royal title (example “King”):King, queen, princess, duke, knight, high emperor, The Almighty
 SCRIPT ==========================================
 GUY: (turn off tv) That was a very slow episode of TV…
 GUY: (sigh) Boy, life sure is boring right now.
@@ -24458,7 +24488,7 @@ WISH: What?
 GUY: Nothing..
 WISH: I’m going to go home now.
 GUY: Buh-bye. (Wave)
-WISH: (leave) Bye now. (change avatar)
+WISH: (leave) Bye now. (backstage change avatar)
 GUY: (sit on couch) Man, I really wanted that PROD..
 Aww
 TYPEWRITER: Ten seconds later…
@@ -25527,21 +25557,21 @@ TAGS: Skit
 SET: Dining Room
 DATE: 09/05/24
 CHARACTERS ================================
-MOM: The assertive mother!:Chair 2
-DAD: The good ol' father!:Chair 4
-SIS: The clingy sister!:Chair 3
-BRO: The troublemaking brother!:Chair 1
-BBY: The sweet innocent baby!:Stage Left
+MOM: The Assertive Mother:Chair 2
+DAD: The Good Ol' Father:Chair 4
+SIS: The Sophisticated Sister:Chair 3
+BRO: The "Pro Gamer" Brother:Chair 1
+BBY: The Newborn Baby:Stage Left
 SUGGESTIONS =============================
 FANDOM: A popular fandom/fanbase:Star Wars, Dragon Ball Z, The Simpsons, Harry Potter
-CELEBNAME: A celebrity, character, or someone's VRChat username:Patrick Stump, Bruce Wayne, Henry Stickmin, Invader Zim
+CELEBNAME: A celebrity, character, or someone's VRChat username:Patrick Stump, Bruce Wayne, Markiplier, Henry Stickmin, Invader Zim
 PLACE1: A town, city, state, or country:Venice, Tokyo, Hawaii, Africa
-PHRASE: A catchy and/or popular phrase:mamma mìa!, Jimmy my Boots!, Wish me luck!
+PHRASE: A catchy and/or popular phrase:mamma mìa!, Jimmy my Boots!, Eureka!, Wish me luck!
 VIDEOGAME: Any video game:Sonic Adventure 2, Genshin Impact, VRChat, Minecraft, osu!
-HOBBY: An activity people love to do:paint, watch movies, read, sleep, relax
+HOBBY: An activity people love to do:paint, watch movies, read a book, sleep, relax
 TEAM1: A name for a sports team:Dirty Divers, Swiping Swipers, Happy Hedgehogs, Hungry Hippos
 TEAM2: A name for a sports team:Biting Badgers, Fast Foxes, Saucy Tomatoes, Filthy Monkeys
-CRIME: A crime:Loitering, Money laundering, Tax evasion
+CRIME: A crime:Loitering, Money laundering, Tax evasion, Arson
 PLACE2: A town, city, state, or country:Magnolia Springs, Indianapolis, Alaska, Antartica
 SCRIPT ==========================================
 happy music 1
@@ -25561,37 +25591,38 @@ SIS: Anyways, Mom!
 laughter
 SIS: I've been busy practicing violin all daaaay, and I really just wanna HOBBY!
 DAD: (clears throat) Well, the TEAM1 and TEAM2 are playing against each other tonight.
-MOM: (turns to husband) (annoyed) ...really?
+MOM: (turn to husband) (annoyed) ...really?
 thunder
 DAD: What!?! It's the playoffs! You know how much I love the TEAM1!
 DAD: I think we should postpone until next week.
-MOM: No, No, NO! I've been looking forward to ultimate domination in Monopoly all week!
+MOM: No, NO, NO! I've been looking forward to ultimate domination in Monopoly all week!
 MOM: This is a tradition we've been doing for years!
 MOM: if you ruin our streak, you can kiss our entire family goodbye!
 music stops
 vine boom
-happy music 1
 DAD: (genuinely concerned) A-Alright! Monopoly it is!
+happy music 1
 laughter
 SIS: Whatever. . . I guess I'll bring it out. . .
 BBY: goo goo gaa gaa
+Meanwhile SIS: (walk over to the bookshelf)
 BBY: gaa gaa goo goo
 aww
 SIS: Alright family, which version? We got "FANDOM Monopoly", "Cheater's Monopoly", "Mega Monopoly". . .
 SIS: (confused) CELEBNAME Monopoly..?
 vine boom
-laughter
-MOM: Oh dear, l-let's just stick with regular, original, classic Monopoly.
+MOM: Oh dear, l-let's just stick with original Monopoly.
 MOM: the game is already uncomfortably complicated and realistic as it is.
 music stops
-TYPEWRITER: The family sets up a simple, innocent, peaceful, harmless game of Monopoly
+Meanwhile SIS: (walk back to the table)
+TYPEWRITER: The family sets up a simple, innocent, peaceful game of Monopoly
 TYPEWRITER: 1 HOUR LATER
 jazz music 1
 SIS: Finally! I've saved up enough money! I would like to buy a hotel!
 music stops
 record scratch
-SIS: (looks around the table) Hey, where'd they go?
-SIS: There were, like, five free hotels a second ago!
+SIS: (look around the table) Hey, where'd they go?
+SIS: There were, like, five available hotels a second ago!
 BBY: (muffled) hehe, goo goo gaa gaa
 aww
 silly music 1
@@ -25612,7 +25643,7 @@ BRO: (evil anime laugh) I love watching my competition fall... Another dub for t
 fortnite
 DAD: Zip it, boy!
 DAD: (shuffling through money) (hands son money) take it, that's all I got..!
-BRO: (observing) Yikes... lookin' real light here, Dad.
+BRO: (counting money) Yikes... lookin' real light here, Dad.
 laughter
 DAD: (defeated) Cut me some slack, would ya'..?
 BRO: (hesitant) I dunno Daaaaaad.. Your track record isn't very clean..
@@ -25627,7 +25658,7 @@ music stops
 waterphone
 pokemon battle start
 courtroom music
-BRO: (looks around at everyone) uh oh. . .
+BRO: (look around at everyone) (nervous) uh oh. . .
 MOM: Hey, that's not nice..! I-I'm sure it was an accident!
 SIS: Pfft, oh yeah! You instantly take his side 'cause he bought you that hotel on PLACE2 Street!
 vine boom
@@ -25658,12 +25689,12 @@ BBY: My voice and opinion are never heard in this family! It's time for some cha
 vine boom
 BBY: (clears throat)...Now that I have everyone's attention,
 yankee doodle music
-BBY: I declare that Friday Game Nights are officially banned! It's the same shenanigan every week!
+BBY: I declare that Friday Game Nights are officially banned! It's the same ol' shenanigan every week!
 BBY: Nobody in this family makes any well-thought, assertive decisions around here, and it's time I do!
 usa anthem music
 bird screech
-BBY: Friday Game Nights destroy our family by causing unnecessary quarrels, disrespecting our free time, and irking the neighbors, every.. single.. Friday!
-BBY: Normal families don't operate in such an uncoordinated, unorthodox, ignorant, displeasing way!
+BBY: Friday Game Nights destroy our family by causing unnecessary quarrels, disrupting our free time, and irking the neighbors, every.. single.. Friday!
+BBY: Normal families don't operate in such an uncoordinated, unorthodox, ignorant displeasing way!
 BBY: So let's be a normal family! Who's with me!?!
 music stops
 BBY: (starts crying)
@@ -25850,7 +25881,7 @@ TAGS: Skit
 SET: Grocery Store
 DATE: 11/05/24
 CHARACTERS ================================
-ROBBER: With gun:Entrance Stage Left
+ROBBER: Robber With gun:Entrance Stage Left
 CASHIER: minimum wage worker:Behind Register
 BUDDHA: Friend of Jesus:Entrance Stage Right
 JESUS: Friend of Buddha:Entrance Stage Right
@@ -25908,9 +25939,11 @@ ROBBER: I'm so sorry, I would have shown you more respect if I knew you were fro
 ROBBER: I'm really sorry man you can have this store its your territory! get outta my head man! get outta my head!! (Robber runs out of store)
 BUDDHA: (sigh) It's alright Jesus, I guess we can't help everyone that is in trouble. lets get our stuff and get out of here.
 JESUS: Yeah, maybe they'll be able to find peace one day. (Buddha and Jesus walk to cashier)
-CASHIER: Thank you for shopping here... (discord notification) hold on, I gotta get this... huh, my girlfriend just texted me and said she wants to get back together!
+CASHIER: Thank you for shopping here...
+(discord notification)
+CASHIER: hold on, I gotta get this... huh, my girlfriend just texted me and said she wants to get back together!
 JESUS: Oh my, well of course my friend I am very happy to hear that! It seems that the future is bright for you.
-BUDDHA: Well, that's unexpected. maybe we were able to make another person after all!
+BUDDHA: Well, that's unexpected. maybe we were able to make another persons day after all!
 CASHIER: Anyways, let me help you with your stuff here... By the way, could I interest you in ITEM4? (exit)
 
 ======
@@ -25924,24 +25957,24 @@ TAGS: Skit,Contains Adult Innuendo
 SET: Forest Bridge
 DATE: 13/05/24
 CHARACTERS ================================
-MEOWSTIC: Guildmaster Meowstic:Entrance Stage Left
-CYNDAQUIL: Charmer Cyndaquil:Entrance Stage Left
-CHESPIN: no-nonsense Chespin:Entrance Stage Left
-LOPUNNY: Guildmaster Lopunny:Entrance Stage Right
 LUCARIO: Edgy Lucario:Entrance Stage Right
+LOPUNNY: Guildmaster Lopunny:Entrance Stage Right
+CHESPIN: no-nonsense Chespin:Entrance Stage Left
+CYNDAQUIL: Charmer Cyndaquil:Entrance Stage Left
+MEOWSTIC: Guildmaster Meowstic:Entrance Stage Left
 SUGGESTIONS =============================
-CHESPINBODY: A body part to admire on Chespin:Tail, Quills, Belly
-NICK: Edgy Lucario's nickname:Darklord, Donut steel, Shadow
-MONOLOGUE: The internal thoughts of an edgy villain:My mom never loved me, I want them to feel my pain, I hate good guys
-EDGY: An edgy statement said right after teleporting behind someone:Nothing personal, You're already dead, Bazinga
-GUILDNAME: Guildname of a rival Explorer's Guild:Wigglytuff's Guild, Edgy Guild, Wanderlust Guild
-INFAMOUS: Something a guild would be infamous for:grilling pokémon, not taking any jobs, being worthless
-THREATEN: A threatening action:drown, destroy, slap, electrocute, dunk on
-BEST: Something this guild is the best at:capturing criminals, rescuing children, dying in dungeons
-JOB: A type of job:rescue jobs, exploration jobs, spying jobs
-EXCUSE: An poor excuse to avoid fighting:I have a tummy ache, I need to return some tapes, Mom said no
-SAFEWORD: A safe-word to stop the current activity:Bananas!, Big Ben!, Badabim badaboom! 
 ITEM: A small item to throw at an adversary:blast seed, throwing knife, glass shards
+SAFEWORD: A safe-word to stop the current activity:Bananas!, Big Ben!, Badabim badaboom! 
+EXCUSE: An poor excuse to avoid fighting:I have a tummy ache, I need to return some tapes, Mom said no
+JOB: A type of job:rescue jobs, exploration jobs, spying jobs
+BEST: Something this guild is the best at:capturing criminals, rescuing children, dying in dungeons
+THREATEN: A violent threatening action:drown, destroy, slap, electrocute, dunk on
+INFAMOUS: Something a guild would be infamous for:grilling pokémon, not taking any jobs, being worthless
+GUILDNAME: Guildname of a rival Explorer's Guild:Wigglytuff's Guild, Edgy Guild, Wanderlust Guild
+EDGY: An edgy statement said right after teleporting behind someone:Nothing personal, You're already dead, Bazinga
+MONOLOGUE: The internal thoughts of an edgy villain:My mom never loved me, I want them to feel my pain, I hate good guys
+NICK: Edgy Lucario's nickname:Darklord, Donut steel, Shadow
+CHESPINBODY: A body part to admire on Chespin:Tail, Quills, Belly
 SCRIPT ==========================================
 silly music 1
 MEOWSTIC: Well Well Well, if it isn't GUILDNAME.
@@ -25955,15 +25988,15 @@ crowd woo
 LUCARIO: Do not disrespect GuildMaster Lopunny again, or I'll THREATEN you.
 MEOWSTIC: (Breaking up fight) Now, now, I don't want to burn bridges with GUILDNAME. How about we ease up the tension?
 CYNDAQUIL: (Suggestive) I know a few ways for us to ease up.
-LOPUNNY: I have no interest associating with you amateurs. We, GUILDNAME, are the best in the continent, and we are placed number 1 for the most accomplished JOB.
-CHESPIN: Who cares, you are the best at JOB. We Clover Guild are the best at BEST in the whole continent. So we're better actually.
-LUCARIO: (Growling) GRRRRRRR
+LOPUNNY: I have no interest associating with you amateurs. We, GUILDNAME, are the best on the continent, and we are placed number 1 for the most accomplished JOB.
+CHESPIN: Who cares, you are the best at JOB. We Clover Guild are the best at BEST on the whole continent. So we're better actually.
+LUCARIO: (Growling) GRRRRRRR.
 LOPUNNY: Ease up, Lucario.
 LUCARIO: Master, that is not my name...
 LOPUNNY: (Sigh) I mean, please calm down, NICK
 LUCARIO: Thank you master.
 LOPUNNY: (To Meowstic) BEST is boring. How about we settle who's the best guild the traditional way, with a good old battle?
-MEOWSTIC: umm, I can't fight
+MEOWSTIC: umm, I can't fight.
 LOPUNNY: Why not?
 MEOWSTIC: EXCUSE
 vine boom
@@ -25973,7 +26006,7 @@ CYNDAQUIL: Uhh, I'm more of a lover not a fighter. Can we have a safeword? How a
 aww
 Music Stops
 dark classical music
-LUCARIO: (addressing audience, evil laugh) Mwa ha ha. Clover Guild is pathetic. Using only a fraction of my power, I could easily Annihilate them
+LUCARIO: (addressing audience, evil laugh) Mwa ha ha. Clover Guild is pathetic. Using only a fraction of my power, I could easily annihilate them.
 Music Stops
 CHESPIN: Does this idiot know we can hear him?
 dark classical music
@@ -26009,7 +26042,7 @@ MEOWSTIC: Ok, that one I'll give it to you, Chespin does have an amazing CHESPIN
 laughter
 CYNDAQUIL: (Laugh) Ha ha ha!
 Meanwhile MEOWSTIC: (Laugh) Ha ha ha!
-TYPEWRITER: And so, despite INFAMOUS, the Clover Guild, known for being the best at BEST, became the most beloved guild in the continent.
+TYPEWRITER: And so, despite INFAMOUS, the Clover Guild, known for being the best at BEST, became the most beloved guild on the continent.
 tada
 
 ======
@@ -26023,16 +26056,16 @@ TAGS: Skit
 SET: Grocery Store
 DATE: 13/05/24
 CHARACTERS ================================
-PIRATE: The local pirate:Entrance Stage Right
-FIRSTMATE: The pirate's first mate:Entrance Stage Right
-STORE CLERK: The store clerk:Behind Register
 STORE MANAGER: The store manager:Backstage
+STORE CLERK: The store clerk:Behind Register
+FIRSTMATE: The pirate's first mate:Entrance Stage Right
+PIRATE: The local pirate:Entrance Stage Right
 SUGGESTIONS =============================
-STORE: Name For A Store:Walmart, Toys-r-us, Kmart, Lowes
-MONEY: Name a type of currency:Doubloons, Dollars, Bitcoin, Vbucks
-SWORD: Name a type of bladed weapon:Cutlass, Katana, Sword, Dagger
-TOOL: Name a type of tool:Screwdriver, Hammer, 
 NICKNAME: Name a nickname for someone:Bobby Mcbob, Dilly Willy, Silly Billy, Willy Wacky
+TOOL: Name a type of tool:Screwdriver, Hammer, 
+SWORD: Name a type of bladed weapon:Cutlass, Katana, Sword, Dagger
+MONEY: Name a type of currency:Doubloons, Dollars, Bitcoin, Vbucks
+STORE: Name For A Store:Walmart, Toys-r-us, Kmart, Lowes
 SCRIPT ==========================================
 STORE CLERK: Man, it's been such a quiet day at STORE.
 (explosion)
@@ -26051,8 +26084,9 @@ STORE CLERK: (Looking around) I have a TOOL!! (Draw TOOL)
 PIRATE: I see ye have chosen your path! Suffer ye consequences!! (Charge to STORE CLERK)
 STORE CLERK: I shall fight you whoever you are!!! (Charge to PIRATE)
 (epic fantasy music 3)
-PIRATE: (sword fighting) Yargh!! Me heartie look around for the MONEY n booty!!
+PIRATE: Yargh!! Me heartie look around for the MONEY n booty!!
 FIRSTMATE: Roger that sir! (Exit stage left)
+(sword fighting)
 PIRATE: (Fighting STORE CLERK) Ye landlubber! Ye have no chance against me!!
 STORE CLERK: (Fighting PIRATE) Listen I don't know what you want here!!
 PIRATE: Yarghhh! Ye are to strong.. (Kneel down)
