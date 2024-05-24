@@ -1386,7 +1386,6 @@ l․panda․l
 Numi ʕ·ᴥ·ʔ
 Thorfinthehyena
 Prince_KZ
-abysswireless
 DʀᴇᴀᴍVᴇɪʟ-Cᴏ
 Verton
 PhightingMedkit
@@ -1782,6 +1781,7 @@ Duskwolf1
 Agent blue
 รยภรђเภє
 DyingBug101
+abysswireless
 modNick
 ruralists
 #TIER=1
