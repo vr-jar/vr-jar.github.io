@@ -22626,7 +22626,7 @@ Sheriff: Yippie! (Exit stage right)
 INFORMATION ===============================
 ID: 713
 TITLE: Concrete Alibi
-AUTHOR: abysswireless
+AUTHOR: ANNIHIL8EDRFLXN
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -26557,6 +26557,89 @@ laughter
 ======
 
 INFORMATION ===============================
+ID: 839
+TITLE: The Pizza Mafia Meeting
+AUTHOR: XenoFlameVR
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 22/05/24
+CHARACTERS ================================
+SERENA: Member:Entrance Stage Left
+BLANC: Member:Office Chair 2
+NICO: The Leader:Boss Chair
+MARIO: Second-in-command:Office Chair 1
+CHARLES: Wannabe Mafia member:Entrance Stage Left
+SUGGESTIONS =============================
+SHOW: Type the name of a show:MacGyver, Family Guy, Wipeout
+JOB: Type a Job someone can have:Doctor, Lawyer, Jeweler
+TECHNOLOGY: Name a piece of tech:Computer, Console, Phone
+COLOR: Choose your favorite color:Purple, Black, Orange
+ANIMAL: Choose an animal:Cat, Dog, Fox
+FOOD: Suggest a food that people eat:Taco, Sub, ramen
+TOPPING: Write a topping that belongs on pizza:Sausage, Pineapple, Ham
+YEAR: Choose a year:4354, 2001, 1999
+DANCE: Name any Dance in the world:Orange justice, Floss, The cupid shuffle
+CLOTHING: Suggest an article of clothing:Socks, Hat, Shirt
+STATE: Suggest a State that someone would live in:Maryland, Florida, Texas
+ACTION: Write an action:Run, Jump, Float
+SCRIPT ==========================================
+Jazz Music 1
+Nico: Thank you all for coming to this emergency meeting everyone. I know you all must be quite busy.
+Nico: I see Blanc is looking good in that CLOTHING that recently came out.
+Blanc: (Looking at Nico) Thank you for noticing the CLOTHING, but What's going on Mr. Bossman?
+Blanc: You never call a meeting like this. Especially not after the incident of YEAR.
+Mario: (Looks at Blanc then looks at Nico) She's right sir. This has to be important if you are calling this meeting.
+Nico: (Sternly) Don't remind me of the incident of YEAR. The Pasta linguine family had it coming. It was my only way of getting back at them.
+Blanc: Back at them? Sir, we have ACTION with them before. Why DANCE?
+Mario: No no, your thinking of ACTION with the New York Mets. or was it the Cowboys? I don't remember anymore.
+Nico: (Angerly) SHUT UP BOTH OF YOU!!! Anyway, where is Serena? She has never been late. Was she practicing that stupid DANCE from PikPok again?
+Mario: No, last time I checked in, she was with her boyfriend Marlo.
+Mario: So she might be awhile since she cant pick what COLOR CLOTHING to wear.
+Mario: I mean what are the odds of her coming through that door right now?
+music stops
+Serena: (Runs in out of breath) s-sorry I'm late! Marlo wanted to show me his TECHNOLOGY. I didnt understand parts of what he said but I
+Serena: did finally meet his ANIMAL.
+Serena: Plus I could not choose between this COLOR Ring the JOB gave me or the one Marlo gave me.
+Serena: (looks at Blanc) Hey Blanc, still looking flat as usual. Maybe if you drank more milk, Maybe you'd see some results.
+Laughter
+Serena: (Looks at Mario) Thanks for introducing me to your twin brother Marlo, Mario. I didnt know he was a JOB
+Serena: Its too bad Mario, if only you were better looking and made better Pizza with TOPPING and extra spicy Chicken liver sauce.
+aww
+Blanc: (Takes out knife) Can I stab her please before I do anything I would regret?
+Mario: I think stabbing her would be something you would regret though.
+Charles: (Barges into room acting crazy) What's up my pizza mafia brothers and sisters!! Whos ready to kick some FOOD butt!!
+Mario: (whispers to himself) Why does Charles always have the energy from that one guy from SHOW?
+Charles: I would have gotten here quicker, but I was having trouble with my TECHNOLOGY.
+Charles: (takes out UNO deck from pockets) and look, I even brought UNO to play. Come on, I'll even let Nico shuffle the deck~
+Blanc: (yelling) No one wants to play UNO! Who even is this person?
+Nico: (Facepalming) That is Charles. Sadly, he's my younger brother. He thinks he is a part of this gang but he's not. Just pretend like he is not here.
+Serena: (in shock) Wait a minute! You mean RainbowScytherHarem45645, the famous TECHNOLOGY reviewer on NachoTube is your brother?!
+Charles: (embarrassed) Wow, you know who I am? I'm flattered. Gosh, I haven't been noticed since YEAR in STATE when I was eating FOOD with TOPPING.
+Blanc: Can we please just start this God damn meeting already before I stab a JOB.
+Mario: She's right. Lets just start because' im starting to feel chafing from my COLOR underwear
+Charles: (Takes a seat) Sounds good. Can I get some FOOD before we start?
+Blanc: No Charles!
+Meanwhile Mario: No Charles!
+Nico: Thank you. Maybe I wont have to feed you to my PET after all
+Jazz Music 1
+Nico: Anyway, This meeting is about if we should add TOPPING for the next pizza.
+Nico: So far we have: Apples, Pumpkin seeds, taco shells, Turkey Gizzard and Bird Spit covered fries with a hint of basil.
+music stops
+Blanc: That's why you called us here?! For stupid toppings?! I thought we were going to plan to rob that new JOB that just moved in!
+Serena: Flaptops? I love that place. They have so many wonderful hats there. I always wanted to go!
+Blanc: (Pulls out knife and stabs Serena) Will you shut up already for the sake of everyone! No one wants to hear you talk Serena!
+knife wound
+Serena: (falls to the floor in pain) and...this is...why.. you'll never.. get a boyfriend
+Nico: This is getting no where. You know what?
+Nico: Meeting Dismissed. I'm just gonna go home and cry myself to sleep with my limited edition FOOD plushie (Exit the stage)
+Charles: (gets up and starts dancing) Welp, time to do the DANCE. Serena, want to join me?
+Serena: Of course I wanna do the DANCE.
+Blanc: Ugh, im out of here. (Exit the stage)
+
+======
+
+INFORMATION ===============================
 ID: 841
 TITLE: A Terrible Accident
 AUTHOR: holidaywither
@@ -26693,6 +26776,81 @@ EMPLOYEE3: People are like, "Flashing red means I should stop before proceeding,
 EMPLOYEE1: Yeah. What is green doing, flashing itself like some cheap PERSONLABEL?
 EMPLOYEE3: "Oh. Should you stop? Should you go? Go slower? Or maybe faster?"
 BOSS: Brilliant! Great work, everyone! We should clock out now and beat the traffic. The commute has been terrible lately.
+
+======
+
+INFORMATION ===============================
+ID: 845
+TITLE: A visit to grandpas
+AUTHOR: ninjitsu1859
+VERIFIED: False
+TAGS: Skit
+SET: Living Room
+DATE: 23/05/24
+CHARACTERS ================================
+BUTLER: Grandpas butler:Side Door
+JERRY: The grandson:Backstage
+GRANDPA: Jerry’s grandpa:Couch
+SUGGESTIONS =============================
+QUARTER: Any celebrity :Logan Paul, Mike Tyson, John cena
+ORANGE: Any year:1786,1965, 2006
+APPLE: A major event in history :Stock market crash, Great Depression, World war 1
+FAMOUS: Any actor or actress:Tom Holland, Mark Zuckerberg, Morgan freeman
+VEDO: Any TV show:Smiling friend, Teen Titans, Fanboy and chum chum
+KELP: Any time of day:2, 4, 10
+YEAR: Any year:2024, 2001, 1987
+TUFF: Something you do when you’re sick:Sleep, throw up, Sneeze
+GAS: Any number:25, 3, 15
+NAPPER: Name of someone:Garry, Terrance, Jack 
+LUNCH: Something you loose from not taking your medication :Mind, Memories, Sight
+MEDS: A name for a medicine :Adderall, Amitriptyline, Acetaminophen
+SCRIPT ==========================================
+70s music
+Grandpa: Butler!!!
+Butler: Yes Sir?
+Grandpa: What were my plans for today I can’t remember?
+Butler: Your grandson is coming to stay with you for a couple weeks for summer break.
+Butler: you didn’t take your MEDS medications again?
+Grandpa: No of course not. You know I hate swallowing those things.
+Butler: Sir you have to take them otherwise you’ll loose all your LUNCH.
+Grandpa: Yea whatever. So when is my grandson getting here?
+Jerry: Hello? (Walk up to front door)
+Doorbell
+Butler: That must be him now. (Open door)
+Jerry: Hey grandpa NAPPER!
+70s music
+Grandpa: Hey… uh. You.
+Jerry: He didn’t take his MEDS prescription again?
+Butler: No, he didn’t.
+Butler: Jerry sir.
+Grandpa: Ah yes! Jerry! My only grandson.
+Jerry: You have GAS other grandsons.
+Grandpa: Oh. Well you’re my favorite for sure.
+Butler: You said that to one of your other grandsons sir.
+Grandpa: Ok everyone shut up!
+Grandpa: I don’t remember nothing so if I say something that contradicts myself just know I don’t remember saying it.
+Jerry: Maybe if you take your meds grandpa.
+Grandpa: I don’t believe in that medication stuff. Back in my day we just TUFF and wait for it to pass by.
+Jerry: Well it’s YEAR now so a lot of medicine is better than just TUFF and waiting for it to pass.
+Grandpa: Ah whatever. Wait! What time is it butler?
+Butler: It is KELP.
+Grandpa: Oh my gosh I’m gonna miss my show! (Sit on couch)
+Jerry: What show grandpa, you said TV is the devils work?
+Grandpa: It still is my dear boy, but I was bored and turned it on and found something I like.
+Butler: He’s been obsessed on watching VEDO.
+Grandpa: Not obsessed just very interested.
+Butler: You have a life size cutout of FAMOUS in your bedroom because they showed up as a special guest.
+Grandpa: They have to be someone important if they had a special appearance.
+Jerry: Ok you are obsessed.
+Grandpa: Maybe a little. Don’t judge me boy I haven’t had this much fun since the great APPLE of ORANGE.
+Jerry: That wasn’t even a good thing, how did you have fun?
+Grandpa: Everything was fun back then.
+Grandpa: Oh look QUARTER stars in this episode.
+Jerry: Now I’m intrigued. (Sit on couch)
+Butler: Might as well watch it too.
+Grandpa: There’s nothing like watching your favorite show with your butler and your grandson… uh.
+Jerry: Jerry.
+Grandpa: Right, Jerry.
 
 ======
 
