@@ -1033,7 +1033,7 @@ Vodahmin vahlok
 TyTyJ7
 ༒卄ιяσѕнι ༒
 Shinyumbreon696
-certifedclaw
+CertifiedClaw
 KupoBeat
 Synizta
 CoFFeMachine
@@ -1783,6 +1783,7 @@ SenkyDragon
 PÜRÖ
 Sho'sCoffin
 ArsonMochii
+DyingBug101
 modNick
 ruralists
 #TIER=1
