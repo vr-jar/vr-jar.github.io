@@ -26074,22 +26074,22 @@ TAGS: Skit
 SET: Grocery Store
 DATE: 11/05/24
 CHARACTERS ================================
-ROBBER: Robber With gun:Entrance Stage Left
+JESUS: Jesus:Entrance Stage Right
+BUDDHA: Buddha:Entrance Stage Right
 CASHIER: minimum wage worker:Behind Register
-BUDDHA: Friend of Jesus:Entrance Stage Right
-JESUS: Friend of Buddha:Entrance Stage Right
+ROBBER: Robber With gun:Entrance Stage Left
 SUGGESTIONS =============================
-ITEM4: something random:Imposter, easter egg, plushie, trash can
-ITEM3: a stupid item:Fidget Spinner, Irradiated mushroom, Bowler Hat, rubix cube, train 
-NAME2: fictional name:Peter Griffin, John Wick, Tony Stark, Clark Kent, Goku 
-NAME1: secret name:Joe Zieja, Gavin, Matt Mercer, john doe, tom holland
-RELIGIOUS: religious action:meditating, praying, sacrifices, choir rehearsal
-VERB: something bad:horrible, awful, terrible, disastrous, lame 
-STORE: name of a store:target, walmart, mcgavins, 7/11, subway
-ITEM2: something you'd get while shopping:ice cream, soda, helldivers 2, shampoo, air fryer
-ITEM1: something you'd get while shopping:chips, pasta, cucumber, watermelon, pizza
-WEATHER: way to describe weather:dookie, nice, sunny, awful, hot
 ACTION: an action you would do with an item:stretching, exercising, running, gaming, pooping  
+WEATHER: way to describe weather:dookie, nice, sunny, awful, hot
+ITEM1: something you'd get while shopping:chips, pasta, cucumber, watermelon, pizza
+ITEM2: something you'd get while shopping:ice cream, soda, helldivers 2, shampoo, air fryer
+STORE: name of a store:target, walmart, mcgavins, 7/11, subway
+VERB: something bad:horrible, awful, terrible, disastrous, lame 
+RELIGIOUS: religious action:meditating, praying, sacrifices, choir rehearsal
+NAME1: secret name:Joe Zieja, Gavin, Matt Mercer, john doe, tom holland
+NAME2: fictional name:Peter Griffin, John Wick, Tony Stark, Clark Kent, Goku 
+ITEM3: a stupid item:Fidget Spinner, Irradiated mushroom, Bowler Hat, rubix cube, train 
+ITEM4: something random:Imposter, easter egg, plushie, trash can
 SCRIPT ==========================================
 (jazz music 2)
 BUDDHA: (Jesus and Buddha enters entrance stage right)
@@ -26616,25 +26616,25 @@ Blanc: (yelling) No one wants to play UNO! Who even is this person?
 Nico: (Facepalming) That is Charles. Sadly, he's my younger brother. He thinks he is a part of this gang but he's not. Just pretend like he is not here.
 Serena: (in shock) Wait a minute! You mean RainbowScytherHarem45645, the famous TECHNOLOGY reviewer on NachoTube is your brother?!
 Charles: (embarrassed) Wow, you know who I am? I'm flattered. Gosh, I haven't been noticed since YEAR in STATE when I was eating FOOD with TOPPING.
-Blanc: Can we please just start this God damn meeting already before I stab a JOB.
+Blanc: Can we please just start this God damn meeting already before I stab a JOB or Serena?
 Mario: She's right. Lets just start because' im starting to feel chafing from my COLOR underwear
 Charles: (Takes a seat) Sounds good. Can I get some FOOD before we start?
 Blanc: No Charles!
 Meanwhile Mario: No Charles!
 Nico: Thank you. Maybe I wont have to feed you to my PET after all
 Jazz Music 1
-Nico: Anyway, This meeting is about if we should add TOPPING for the next pizza.
+Nico: Anyway, if everyone is done lets get back to business. This meeting is about if we should add TOPPING for the next pizza.
 Nico: So far we have: Apples, Pumpkin seeds, taco shells, Turkey Gizzard and Bird Spit covered fries with a hint of basil.
 music stops
-Blanc: That's why you called us here?! For stupid toppings?! I thought we were going to plan to rob that new JOB that just moved in!
-Serena: Flaptops? I love that place. They have so many wonderful hats there. I always wanted to go!
+Blanc: That's why you called us here?! For stupid toppings?! I thought we were going to plan to rob that new JOB that just moved in! Man, that seriously blows.
+Serena: Seriously Blanc? Is crime the only thing you have on that smooth brain of yours?
 Blanc: (Pulls out knife and stabs Serena) Will you shut up already for the sake of everyone! No one wants to hear you talk Serena!
 knife wound
 Serena: (falls to the floor in pain) and...this is...why.. you'll never.. get a boyfriend
-Nico: This is getting no where. You know what?
+Nico: You know what? This is getting no where. 
 Nico: Meeting Dismissed. I'm just gonna go home and cry myself to sleep with my limited edition FOOD plushie (Exit the stage)
 Charles: (gets up and starts dancing) Welp, time to do the DANCE. Serena, want to join me?
-Serena: Of course I wanna do the DANCE.
+Serena: (gets up and staggers from pain) Ow ow ow! Damn it Blanc. But, Of course I wanna do the DANCE Charles
 Blanc: Ugh, im out of here. (Exit the stage)
 
 ======
@@ -26676,6 +26676,8 @@ INVESTIGATOR: Your FAMILY also told me you've been spending a lot of time online
 TEENAGER: You're bluffing.
 INVESTIGATOR: Oh, am I? Does the term, TOPIC, ring a bell?
 OFFICER: TOPIC?
+TEENAGER: Don't you dare.
+INVESTIGATOR: Bringing up TOPIC has hit a nerve of yours, hasn't it NAME?
 TEENAGER: Please, stop.
 INVESTIGATOR: Are you ready to spill the beans now?
 TEENAGER: Alright, I admit it. I was the one who caused the INTERNET crime.
@@ -26684,35 +26686,40 @@ TEENAGER: After all my friends left me, I felt...EMOTION. I didn't know what to 
 INVESTIGATOR: And this EMOTION turned you towards TOPIC.
 TEENAGER: Yes.
 OFFICER: If you don't mind me asking. How are TOPIC and INTERNET connected?
-INVESTIGATOR: How about we have NAME explain?
-TEENAGER: TOPIC has been quite popular with my generation, so I figured that would be a good way to try and reconnect with my friends.
-TEENAGER: After spending countless days and nights studying TOPIC, I figured out a plan. It was foolproof.
+TEENAGER: Is it really that hard to understand?
+OFFICER: I mean...maybe a little.
+INVESTIGATOR: Alright NAME, how about you explain?
+TEENAGER: Fine.
+TEENAGER: TOPIC has been growing in popularity recently, so I figured that would be a good way to try and reconnect with my friends.
+TEENAGER: After spending countless days and nights studying TOPIC, I figured out a plan, involving acts from said game. It was foolproof.
 INVESTIGATOR: Did you ever stop to think about the actions of your plan?
 TEENAGER: I didn't think it'd go that far. Never far enough to destroy the MONUMENT.
-INVESTIGATOR: But it did. Now every single GROUP will never know the joys of the MONUMENT.
+INVESTIGATOR: But it did. Now all of those poor GROUP will never know the joys of the MONUMENT.
 OFFICER: They'll never?
 INVESTIGATOR: Never ever.
-TEENAGER: I feel horrible about this whole ordeal.
+TEENAGER: I...I feel horrible about this whole ordeal.
 INVESTIGATOR: As you should.
 TEENAGER: So how do you plan on punishing me?
-INVESTIGATOR: Giving you the only punishment suitable for your crime. Several long months of PUNISHMENT.
+INVESTIGATOR: Giving you the only punishment suitable for your crime. Several months of PUNISHMENT.
 TEENAGER: Please, anything but that!
 INVESTIGATOR: Maybe you should've thought of that sooner. Officer, get NAME out of my sight.
 OFFICER: (attempting to escort NAME offstage)
-Meanwhile TEENAGER: (Trying to stay put) Wait!
-TEENAGER: But I was doing it for my friends!
+Meanwhile TEENAGER: (Trying to stay put) Hold on. Wait!
+TEENAGER: I was doing this for my friends!
 Music Stops
 INVESTIGATOR: Ah, yes, speaking of. There's one thing I forgot to mention.
 TEENAGER: What?
-INVESTIGATOR: Your friends were about to visit the MONUMENT when it was destroyed.
-INVESTIGATOR: You nearly killed them. Knowing that, now they never want to see you again.
+INVESTIGATOR: These so-called friends of yours? They were about to visit the MONUMENT when it was destroyed.
+INVESTIGATOR: You nearly killed them. Knowing that you were the one who did such an act, they never want to see you again.
 Sad chug jug music
 TEENAGER: No, it can't be.
 INVESTIGATOR: Now you know actions have consequences.
+OFFICER: Do you still want me to escort NAME out of here?
+INVESTIGATOR: Please.
 OFFICER: Let's go kid.
-TEENAGER: I only wanted to show them I could still be TERM. (Exits)
+TEENAGER: Why me? I only wanted to show them I could still be TERM. (Exits)
 Meanwhile OFFICER: (Exits after NAME)
-INVESTIGATOR: I still feel bad for those poor GROUP.
+INVESTIGATOR: Those poor, poor GROUP.
 Courtroom sting
 
 ======
