@@ -2344,6 +2344,7 @@ Dev3
 Luna Frostthorn
 ShadowD․
 RentedNoodle
+〈Squishy〉
 #TIER=2
 CODBO3RGM3
 ~Monkee~
