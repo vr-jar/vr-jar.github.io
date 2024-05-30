@@ -1770,7 +1770,6 @@ Quest2Controler
 AidenJamesYt
 ΛPΣX
 NolanTheNanachi
-DyingBug101
 modNick
 ruralists
 #TIER=1
