@@ -241,6 +241,7 @@ Flynsie
 sugg
 Blink Ryba
 AtreyuVII
+Linquinne
 Penswer
 Deithe Bas
 抹茶スパ／greenspa
@@ -1796,7 +1797,6 @@ Kiɳɠ Siɳϝυʅ
 Zhadnost
 YayFoxIsHere
 MiloLao
-DyingBug101
 modNick
 ruralists
 #TIER=1
