@@ -1280,7 +1280,6 @@ DapperKnight
 Grif12345689
 FaZe_stello
 NotYuno
-Sh4rk B1te
 Cosmicbear
 MrPringles
 TheAngelHalo
@@ -1775,6 +1774,7 @@ Venomous_Venus
 auzzie monkey
 NobxdyLuvTy
 PartTimeDevilDM
+Sh4rk B1te
 modNick
 ruralists
 #TIER=1
