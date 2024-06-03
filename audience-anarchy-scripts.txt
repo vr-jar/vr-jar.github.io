@@ -7434,26 +7434,26 @@ ID: 136
 TITLE: Lie detector
 AUTHOR: Bеtty
 VERIFIED: True
-TAGS: Skit,Contains Adult Innuendo
+TAGS: Skit
 SET: Conference Room
 DATE: 28/04/24
 CHARACTERS ================================
-EMPLOYEE: Employee:Boss Chair
-APPLICANT: Applicant:Office Chair 1
 BOSS: Boss:Backstage
+APPLICANT: Applicant:Office Chair 1
+EMPLOYEE: Employee:Boss Chair
 SUGGESTIONS =============================
-FIB: A reason why you would miss a work deadline:Company reshuffle, I just didn't wanna, I was making a tiktok about dead birds
-ACTION: Something you would do for $20:Lick a foot, download Fortnite, drink diet coke
-JOB2: A company:Google, Starbucks, Hooters
-BRAG: A body part:Foot, tongue, biceps
-LIE: Something you don't do at work:Playing games, watching netflix, online gambling
-CRIME3: Why did you get fired? (past tense):Showed up late, burped too loud, ordered chinese food at a pizza store
-CRIME2: Why did you get fired? (past tense):Yelled at the boss, punched a dog, had a weird smile
-CRIME1: Why did you get fired? (past tense):Stole office supplies, downloaded video games, sent an email of my ass
-POSITION: An occupation:cleaner, FBI agent, real estate agent, Doctor of Neuroscience, art teacher
-JOB1: A company:Amazon, VRChat, Electronic Arts, Pixar
-NAME2: A person's last name:Johnson, Boberson, Smitherson
 SAD: Something sad:Hungry orphans, the state of the Canadian housing market, a house fire totaling over $5,000
+NAME2: A person's last name:Johnson, Boberson, Smitherson
+JOB1: A company:Amazon, VRChat, Electronic Arts, Pixar
+POSITION: An occupation:cleaner, FBI agent, real estate agent, Doctor of Neuroscience, art teacher
+CRIME1: Why did you get fired? (past tense):Stole office supplies, downloaded video games, sent an email of my ass
+CRIME2: Why did you get fired? (past tense):Yelled at the boss, punched a dog, had a weird smile
+CRIME3: Why did you get fired? (past tense):Showed up late, burped too loud, ordered chinese food at a pizza store
+LIE: Something you don't do at work:Playing games, watching netflix, online gambling
+BRAG: A body part:Foot, tongue, biceps
+JOB2: A company:Google, Starbucks, Hooters
+ACTION: Something you would do for $20:Lick a foot, download Fortnite, drink diet coke
+FIB: A reason why you would miss a work deadline:Company reshuffle, I just didn't wanna, I was making a tiktok about dead birds
 SCRIPT ==========================================
 Jazz music 1
 EMPLOYEE: Good luck on today's interview. The boss will be with you shortly!
@@ -7538,7 +7538,7 @@ BOSS: (Yell)What did you just say?
 APPLICANT: I said...
 APPLICANT: (yell) That makes me sadder than SAD!
 BOSS: (yell) You come into my place of work, talking about SAD...
-BOSS: (yell) While your yourself have CRIME2 in the past...
+BOSS: (yell) While you yourself have CRIME2 in the past...
 BOSS: (yell) Who told you about my hatred for SAD?
 APPLICANT: I don't know!
 Gameshow buzzer
@@ -9776,24 +9776,24 @@ DATE: 28/04/24
 CHARACTERS ================================
 VRCHAT DEVELOPER: VRChat Developer:Center Stage
 SUGGESTIONS =============================
-SLOGAN: What would VRChat's slogan be?:Woopy doopy, I love lasagna
-TROLL: How do deal with trolls:Put them in jail
-MEET: A way to meet someone online:A pile of sand
-BAD: A really bad update idea:Microtransaction
-ACTION: A random movement:dab
-REMOVE: A feature in VRChat you like:friends lists
-ADD: Something don't want added to VRChat:Flappy bird
-GROUP: A VRChat community:Ugandian Knuckles
-EVENT: An activity you can do in VRChat:Wiggle Fest
-SOMETHING: Something you do in VRChat:Dance
-COMPANY: A video game company:Meta
-NO: Something a company would add if they owned VRChat:Ads
+NO: Something a company would add if they owned VRChat:Ads, Beans, Lag
+COMPANY: A video game company:Meta, Activision, Microsoft
+SOMETHING: Something you do in VRChat:Dance, Fight, Jump
+EVENT: An activity you can do in VRChat:Wiggle Fest, Dancing contest, Shoplifting spree
+GROUP: A VRChat community:Ugandian Knuckles, 666 Kitchen, Cult of Jar
+ADD: Something don't want added to VRChat:Flappy bird, Children, Flashing lights
+REMOVE: A feature in VRChat you like:friends lists, Avatars, Friend+
+ACTION: A random movement:dab, cry, evil laugh
+BAD: A really bad update idea:Microtransaction, Spyware, Nothing
+MEET: A way to meet someone online:A pile of sand, The Black Cat, An empty void
+TROLL: How do deal with trolls:Put them in jail, Ban them, Call their mom
+SLOGAN: What would VRChat's slogan be?:Woopy doopy, I love lasagna, IT'S TIME TO STOP
 SCRIPT ==========================================
 VRCHAT DEVELOPER: Hello everyone.
 VRCHAT DEVELOPER: It's time for another VRChat update!
 VRCHAT DEVELOPER: Here at VRChat we have been working hard to give you the updates that you want!
 VRCHAT DEVELOPER: Firstly, we have heard your feedback.
-VRCHAT DEVELOPER: There is a growing issue with trolling, and abusive behavior.
+VRCHAT DEVELOPER: There is a growing issue with trolling, and abusive behaviour.
 VRCHAT DEVELOPER: That is why starting today we will starting to TROLL
 VRCHAT DEVELOPER: We feel this is appropriate action help reduce the amount of uncomfortable encounters
 VRCHAT DEVELOPER: We also are introducing MEET
@@ -9808,7 +9808,7 @@ VRCHAT DEVELOPER: In two weeks we will be removing REMOVE and replacing it with 
 VRCHAT DEVELOPER: We think that players will really like the new ADD tab!
 VRCHAT DEVELOPER: (ACTION)
 VRCHAT DEVELOPER: Finally, we partnering up with GROUP for the first ever EVENT
-VRCHAT DEVELOPER: EVENT is a collaboration be GROUP and VRChat.
+VRCHAT DEVELOPER: EVENT is a collaboration with GROUP and VRChat.
 VRCHAT DEVELOPER: EVENT will include SOMETHING and alot of special guests from COMPANY
 VRCHAT DEVELOPER: Oh yeah! I almost forgot to mention, we have been acquired by COMPANY
 VRCHAT DEVELOPER: With COMPANY now owning VRChat expect alot more NO in the near future!
@@ -13284,7 +13284,7 @@ BOB: BYE.
 INFORMATION ===============================
 ID: 429
 TITLE: So-Not-A-Monster
-AUTHOR: bitchfacee
+AUTHOR: butterball2016
 VERIFIED: False
 TAGS: Skit
 SET: Campsite
@@ -17729,64 +17729,99 @@ TAGS: Skit
 SET: Forest
 DATE: 28/04/24
 CHARACTERS ================================
-US: Immortal Soldier:Entrance Stage Right
+HQ: High ranking Officer:Narrator Podium
+US: Immortal Soldier:Backstage
 ES: Enemy Soldier:Entrance Stage Left
 SUGGESTIONS =============================
-SPECIAL ATTACK: Name of a special attack:Bullet Shower, Cartwheel Pipe Bomb, Avalanche Uppercut, Quantum Quake, Minty Fresh Chaos Destroyer Gamma Ray Burst
+PARTY: A form of party:Democratic party, Cultist Palooza, uncle smile Hoe-down
+WEST: Name for a friendly country:AMERICA, Landia, Anarchitus
+EAST: Name for an enemy country:Britain, East Hevil, Lego land
+AGENT: A special agents name:Freeman, Aryn Yager, Creeper
+GOD: Name of a God:Gro-Goroth, Jesus Hecking Christ, Ms. Jar, Roxy
+LOCAL: An area or region:Golgotha, Squirrel Land,
+GUN: Name for a special gun:Gun with engravings on it, Blazereap, Gause Rifle
 ANIMAL: Animals (Plural):squirrels, goombas, leopards, mockingbirds, tarantulas, kangaroos, iguanas
 OBJECT: Something that could protect you from death:luck, God, pneumo-ultra-micro-scopic-cylicone-volcano-coni-osis, seatbelt, bulletproof vest, a high-quality medical insurance, protective spirit animal, Iron Man suit,  lifelong martial arts training
 FAVORITE: Favorite thing:toothbrush, bee,  red lipstick, jazz vinyl records, road trips, grandmother's letter, morning coffee, pet snake, full moon, insomnia-induced creativity, moss-covered stones
 BODY PART: A vital body part:eye, appendix, spleen, femur, pancreas, thyroid gland, tongue, diaphragm, spinal cord, bladder
-PARTY: Name of a party:Democratic Party, Cultist Palooza, Cosmic Eclipse Gathering
 SCRIPT ==========================================
-Yankee Doodle music
-US: (walks on stage from right) Ah Fancy meeting you here, friend. Got tired of sunny days back at the base?
-ES: (walks on stage from left) Orders are orders. Came here to make sure you see the sunset one last time.
-US: (loading a magazine)And why is that? you come here to kill me or something, ill have you know that ive survived countless battles
-ES: (chuckles) Cocky, aren't you? Let's see how you handle my SPECIAL ATTACK
-US: You ever hear about the Unkillable Soldier? Rumor has it He can survive anything. Bullets, bombs, bad punchlines.
-ES: (laughs) Unkillable? Sounds like a fairy tale they tell green recruits. I don't buy it.
-US: (confidently) Suit yourself, but you're about to become a character in that fairy tale. (racks a bullet)
-Music stops
-ES: (mocking) Let's test that theory, shall we?
-sword fighting, epic fantasy music 1
-ES:(fighting the soldier)
-meanwhile US:(fighting the soldier)
-US: You can try all you want, but I've survived explosions, poison gas, even a stampede of ANIMAL s. You can't take me down.
-ES: (smirks) ANIMAL s? Really? I've faced the deadliest creatures this war has thrown at us, but ANIMAL s? That's a new one.
-US: (parrying a strike) You ever wonder why they call me Unkillable?
-meanwhile ES:(swings at the soldier attack gets parried)
-ES: Probably because you've been lucky. but luck runs out, my friend.
-US: Luck? Nah, it's more like a combination of skill, charisma, and my OBJECT you cant even scratch me
-Music Stops
-ES: (stop fighting) You're a tough nut to crack, but every soldier has a weakness
-US: (smiling) Weakness? I left that at home with my favorite FAVORITE . Good luck finding it.
-ES: Dammit fine then(pulls out a gun and shoots the Soldier in the BODY PART)
+epic cinematic music
+ES: (runs on stage hiding behind tree) Holy mother of Megatron, this war is crazy. (puts hand up to ear) Sir, this is Agent AGENT , I need an evac ASAP.
+HQ: Hear you loud and clear, AGENT . Just give us your location and we will send in a vertibird to pick you up.
+ES: Alright, I am, I believe, in LOCAL right now, right next to Skull Rock.
+HQ: Roger tha- (pauses) Did you just say LOCAL? Right next to Skull Rock?
+ES: (questioning) Yeah? Is there anything wrong, sir?
+HQ: (panicking) You need to get out of there now. There is no time to explain.
+ES: (confused) Whoa, whoa, calm down. Why can't you explain?
+HQ: (sighs) A man known as the Unkillable Soldier was last spotted around there. A man so powerful he rivals the strength of GOD Himself.
+ES: (very confused) Excuse me, there is no way that someone can be stronger than GOD.
 gunshot
-US: (gets shot in the BODY PART but completely shrugs it off) Wow good shot
-ES: (bewildered) What the...? I shot you in the BODY PART! You should be dead!
-US: (nonchalant) Oh, It's just a flesh wound. I've got a spare BODY PART back at camp. Comes in handy for situations like these.
-thunder
-ES: a Spare BODY PART ? Are you for real? Am I dreaming? Did I accidentally step on a landmine and this is the afterlife?
-US: (smirking) Nope, you're wide awake. Just facing the Unkillable Soldier, living proof that sometimes, reality is stranger than fiction.
-ES: (panting and is beginning to get tired) I've had enough of your tales. Time to end this. (attacks and is parried)
-meanwhile US:(parries the other soldiers attacks)
-US: You're running on fumes, my friend. Need a breather?
-ES: (gritting teeth) I'll end you, even if it's the last thing I do. (pulls out a Thermite Bomb and throws it directly at the soldier)
-ES: Let's see you survive this inferno, Unkillable! (laughs maniacally)
-fire alarm
-US: (casual) Is this your idea of a barbecue? I prefer mine with a side of victory.
-thunder
-ES: (shocked) How are you not burning?
-US: (smirking) Fire can't touch the untouchable. I've danced through hotter flames than this at the PARTY
-ES: (completely stunned) b-bu-But how?! you should be burning in hell right now
-US: like i said i have skills, charisma, and a OBJECT
-ES: (frustrated) This can't be happening!
-US: (grinning) Sorry bud it seems like you've yeed your last haw (shoots the ES)
-gunshot
-Teleport ES to Backstage
+music stops
+US: (walks on stage holding a gun) Ah, fancy meeting you here.
 yankee doodle music
-US: Welp now time to get that replacement BODY PART
+ES: (stern and serious) HQ, I'm going to have to call you back. (removes hand from ear) Well, well, well, and who might you be?
+US: Just your friendly EAST soldier.
+HQ: (panicking) AGENT , what are you doing? Do not engage, you cannot take him!
+ES: (scoffs) A friendly soldier? From EAST? That is the funniest thing I've heard all year.
+ES: (pause) You wouldn't happen to be the "Unkillable Soldier" I've been hearing about?
+US: Aye, so you've heard of me. Good to know I have fans all around the world.
+ES: Can it, you weevil scum. (points gun at the other soldier) I'm going to put you down here and now, once and for all.
+US: Ooh, a GUN Good choice. But I've survived everything this war has thrown at me. Bombs. Bullets. Bad punchlines. I've seen it all.
+ES: And so have I. I am Agent AGENT, the man who took back Jerusalem, Jericho, even California. Ive fought and killed everyone and now your next
+US: So you're also a strong soldier. Good to know, but we better get this underway before your friends come.
+ES: I was thinking the same thing.
+epic fantasy music 2
+sword fighting
+meanwhile ES: (fights other soldier)
+US: (fights other soldier) You can try all you want, but like I said, I've survived explosions, poison gas, even a stampede of ANIMAL s. You can't take me down.
+ES: ANIMAL s? Really? You must have a crap ton of luck, but luck runs out, you Hevil scum.
+US: Luck? Nah, it's more like a combination of skill, charisma, and my OBJECT . You can't even scratch me.
+ES: You're a tough nut to crack, but every soldier has a weakness.
+US: (smiling) Weakness? I left that at home with my FAVORITE . Good luck finding it.
+meanwhile ES: (pulls out gun and shoots other soldier in the BODY PART after they're done talking)
+gunshot
+US: (coughing and weakly) Heh, g-good shot there, b-buddy. (coughs, falls to knee)
+ES: Finally, you've shut up. (puts hand to ear again) Sir, this is Agent AGENT. Killed the so-called Unkillable Soldier for you.
+US: (laughing and coughing) You h-haven't killed me. You can't kill th- (coughs) The Unkillable.
+ES: Hold that thought.
+gunshot
+gunshot
+gunshot
+ES: (sigh of relief) Now he's dead. Okay, so what did you say about him being unkillable? (turns back to other soldier)
+meanwhile US: (falls on back)
+HQ: (bewildered) D-did you actually kill him?
+ES: It was easy as... oh shoot, what was that word? Cake? No. Cookie? No. Ah, it was easy as pie.
+HQ: No, I'm serious. Did you make sure he's dead?
+ES: How would he be alive? I shot him in the BODY PART.
+HQ: Because this exact thing has happened before. A soldier shot the Unkillable Soldier in the body part and thought he was dead.
+meanwhile US: (stands up, brushes self off, and stands behind the other soldier)
+HQ: They turned their backs to him, only for him to come back and stab them.
+US: Oh yeah, that's how every single other fight happened. Interesting. (stabs other soldier)
+knife wound
+ES: (stumbles forward holding arm to shoulder) Augh, dammit, my shoulder. Whuh- (angry) How are you still alive? I shot you in the BODY PART.
+US: Bah, I got a spare BODY PART at home next to my FAVORITE.
+ES: You have (pauses and then laughs) You have a FAVORITE?
+ES: (angry) What am I saying. You have a spare BODY PART?
+US: Why yes, I do. Comes in handy for situations like this.
+ES: A-are you for real? Am I dreaming? Did I accidentally step on a landmine and die? And I'm now in purgatory? Is this the afterlife?
+US: Nope, you're wide awake. Just facing the Unkillable Soldier.
+ES: Shut up with the Unkillable Soldier stuff, dammit. (pats self down) Where did I put that grenade?
+US: I already told you, explosions won't kill me.
+ES: (grabs grenade) Shut up, you EAST cretin. (runs at other soldier)
+explosion
+US: (looks around) Is this your idea of a PARTY?
+meanwhile ES: (falls to ground
+ES: (weakly and furiously) D-dammit, how are y-you not (coughs) dead?
+US: Well, you see, fire can't touch the untouchable. I've danced through hotter flames than this at the PARTY.
+ES: T-this can't be h-happening.
+US: Sorry, it is bud. And it seems like you've yeed your last haw. (shoots the soldier)
+gunshot
+US: (goes up to body, grabs earpiece, and puts it up to ear) Hello there, WEST HQ? This is the Unkillable Soldier. Bet you've heard of me.
+meanwhile ES: (falls dead)
+US: Agent Freeman has unfortunately died.
+HQ: (sighs) Hear you loud and clear. (under breath) I swear, every single soldier we have is an idiot.
+US: I'm going now. Hope things go well back at WEST HQ. (throws earpiece on ground and walks right stage)
+US: (stops and turns around) Oh, be sure to tell Misses about this. She would love it. (walks off stage right)
 
 ======
 
@@ -22626,7 +22661,7 @@ Sheriff: Yippie! (Exit stage right)
 INFORMATION ===============================
 ID: 713
 TITLE: Concrete Alibi
-AUTHOR: ANNIHIL8EDRFLXN
+AUTHOR: abysswireless
 VERIFIED: True
 TAGS: Skit
 SET: City
