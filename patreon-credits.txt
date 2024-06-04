@@ -1970,7 +1970,6 @@ jojoyoyonono 7a86
 TenRedBandit
 Radio Miku
 Dazethesparkfem
-~conk~
 WalGesicht
 _Malphas
 Cattcat12
@@ -2357,6 +2356,7 @@ MTF Lieutenant
 Cuddleshy
 GracefulGracie
 ;UwU
+ ᴄᴏɴᴋ
 #TIER=2
 ~Monkee~
 ArkoNero
