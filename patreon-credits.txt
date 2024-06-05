@@ -1762,7 +1762,6 @@ SkyeAurora
 Astrasata
 bowhq
 Poisoned-Cherry
-Kachiko
 modNick
 ruralists
 #TIER=1
