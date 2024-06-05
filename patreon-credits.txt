@@ -1745,7 +1745,6 @@ ExileRadiation
 Loup1320
 Hҽɳƚαι вєαυту
 iifxowerii
-bow__hq
 Yoshizuki
 Venomous_Venus
 ° Kᴜʀᴏᴍɪɪ °
@@ -1763,6 +1762,7 @@ A'eala
 SkyeAurora
 ღᴄʀʏʙᴀʙʏღ
 Astrasata
+bowhq
 modNick
 ruralists
 #TIER=1
@@ -2229,7 +2229,7 @@ randok2i
 CursedImageJeff
 ღ Yuki ღ
 Roisu Dragneel
-smiley0bird
+sᴍɪʟᴇʏ0ʙɪʀᴅ
 69_DeViL_69
 Blu€Rin
 Broken_Cat
@@ -2467,6 +2467,7 @@ BigD11312
 C-RAMstuhlinger
 Akane-Blaze
 donkeydemon
+~~Nickname~~
 #TIER=3
 SidMarcus
 PinballReviewer
