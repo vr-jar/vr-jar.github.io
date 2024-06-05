@@ -1762,7 +1762,6 @@ SkyeAurora
 Astrasata
 bowhq
 Poisoned-Cherry
-Kachiko
 modNick
 ruralists
 #TIER=1
@@ -2431,6 +2430,7 @@ Lucifer0TTV
 olivia_drse
 BlurryFaceSys
 cj563
+SleepyAshZzz
 ChaoticQ
 Zyx1975
 JӨKΣYFЯΛЩGGΣЯZ
