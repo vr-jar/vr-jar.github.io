@@ -17729,21 +17729,21 @@ TAGS: Skit
 SET: Forest
 DATE: 28/04/24
 CHARACTERS ================================
-HQ: High ranking Officer:Narrator Podium
-US: Immortal Soldier:Backstage
 ES: Enemy Soldier:Entrance Stage Left
+US: Immortal Soldier:Backstage
+HQ: High ranking Officer:Narrator Podium
 SUGGESTIONS =============================
-PARTY: A form of party:Democratic party, Cultist Palooza, uncle smile Hoe-down
-WEST: Name for a friendly country:AMERICA, Landia, Anarchitus
-EAST: Name for an enemy country:Britain, East Hevil, Lego land
-AGENT: A special agents name:Freeman, Aryn Yager, Creeper
-GOD: Name of a God:Gro-Goroth, Jesus Hecking Christ, Ms. Jar, Roxy
-LOCAL: An area or region:Golgotha, Squirrel Land,
-GUN: Name for a special gun:Gun with engravings on it, Blazereap, Gause Rifle
-ANIMAL: Animals (Plural):squirrels, goombas, leopards, mockingbirds, tarantulas, kangaroos, iguanas
-OBJECT: Something that could protect you from death:luck, God, pneumo-ultra-micro-scopic-cylicone-volcano-coni-osis, seatbelt, bulletproof vest, a high-quality medical insurance, protective spirit animal, Iron Man suit,  lifelong martial arts training
-FAVORITE: Favorite thing:toothbrush, bee,  red lipstick, jazz vinyl records, road trips, grandmother's letter, morning coffee, pet snake, full moon, insomnia-induced creativity, moss-covered stones
 BODY PART: A vital body part:eye, appendix, spleen, femur, pancreas, thyroid gland, tongue, diaphragm, spinal cord, bladder
+FAVORITE: Favorite thing:toothbrush, bee,  red lipstick, jazz vinyl records, road trips, grandmother's letter, morning coffee, pet snake, full moon, insomnia-induced creativity, moss-covered stones
+OBJECT: Something that could protect you from death:luck, God, pneumo-ultra-micro-scopic-cylicone-volcano-coni-osis, seatbelt, bulletproof vest, a high-quality medical insurance, protective spirit animal, Iron Man suit,  lifelong martial arts training
+ANIMAL: Animals (Plural):squirrels, goombas, leopards, mockingbirds, tarantulas, kangaroos, iguanas
+GUN: Name for a special gun:Gun with engravings on it, Blazereap, Gause Rifle
+LOCAL: An area or region:Golgotha, Squirrel Land,
+GOD: Name of a God:Gro-Goroth, Jesus Hecking Christ, Ms. Jar, Roxy
+AGENT: A special agents name:Freeman, Aryn Yager, Creeper
+EAST: Name for an enemy country:Britain, East Hevil, Lego land
+WEST: Name for a friendly country:AMERICA, Landia, Anarchitus
+PARTY: A form of party:Democratic party, Cultist Palooza, uncle smile Hoe-down
 SCRIPT ==========================================
 epic cinematic music
 ES: (runs on stage hiding behind tree) Holy mother of Megatron, this war is crazy. (puts hand up to ear) Sir, this is Agent AGENT , I need an evac ASAP.
@@ -17793,7 +17793,7 @@ HQ: (bewildered) D-did you actually kill him?
 ES: It was easy as... oh shoot, what was that word? Cake? No. Cookie? No. Ah, it was easy as pie.
 HQ: No, I'm serious. Did you make sure he's dead?
 ES: How would he be alive? I shot him in the BODY PART.
-HQ: Because this exact thing has happened before. A soldier shot the Unkillable Soldier in the body part and thought he was dead.
+HQ: Because this exact thing has happened before. A soldier shot the Unkillable Soldier in the BODY PART and thought he was dead.
 meanwhile US: (stands up, brushes self off, and stands behind the other soldier)
 HQ: They turned their backs to him, only for him to come back and stab them.
 US: Oh yeah, that's how every single other fight happened. Interesting. (stabs other soldier)
@@ -17818,7 +17818,7 @@ US: Sorry, it is bud. And it seems like you've yeed your last haw. (shoots the s
 gunshot
 US: (goes up to body, grabs earpiece, and puts it up to ear) Hello there, WEST HQ? This is the Unkillable Soldier. Bet you've heard of me.
 meanwhile ES: (falls dead)
-US: Agent Freeman has unfortunately died.
+US: Agent AGENT has unfortunately died.
 HQ: (sighs) Hear you loud and clear. (under breath) I swear, every single soldier we have is an idiot.
 US: I'm going now. Hope things go well back at WEST HQ. (throws earpiece on ground and walks right stage)
 US: (stops and turns around) Oh, be sure to tell Misses about this. She would love it. (walks off stage right)
@@ -18842,6 +18842,107 @@ church bell
 PRES: Wow, that was impressive!
 ADV: So does that mean I'm getting a raise?
 PRES: Ha! in your dreams!
+
+======
+
+INFORMATION ===============================
+ID: 592
+TITLE: Hardware Shop
+AUTHOR: Valhymm
+VERIFIED: True
+TAGS: Skit
+SET: Hardware Store
+DATE: 28/04/24
+CHARACTERS ================================
+TIMMY: Timmy, son of Dave who always speaks his mind:Backstage
+DAVE: Dave, the clumsy customer:Backstage
+OLDMAN: Mr Fitzgerald, the grumpy old man:Entrance Stage Right
+MINA: Mina, the competent, no-nonsense employee:Center Stage
+FRANK: Frank, the eccentric hardware store owner:Behind Register
+SUGGESTIONS =============================
+TROUSERS: Any item of clothing:trousers, shirt, pants, underpants, socks, boots, sandals, hat
+DUCTTAPE: Any DIY substance:duct tape, modelling clay, papier maché, grease, two-part epoxy, 
+PETROL: Something you wouldn't want to drink:petrol, bleach, toilet cleaner, liquid nitrogen, sulphuric acid, rubbing alcohol
+SCREW: Any small item you'd find in a DIY story:screw, nut, bolt, washer, O ring, peg, keyring, key
+BLUE: Any colour:blue, white, red, green, orange, yellow, indigo, violet, purple, black, grey, lilac, pink
+SLINGSHOT: Any children's toy which could be used as a weapon:slingshot, popgun, super soaker, wooden sword, catapult, cricket bat
+GLUESTICKS: Any sticky substance:gluesticks, honey, caulk, cement, bogeys
+BARBEDWIRE: Any dangerous material:asbestos, barbed wire, anti-vandal paint, napalm, nettles
+WOOD: Any safe building material:wood, concrete, plasterboard, slate, bricks, breeze blocks
+TREEHOUSE: Any outdoor DIY project:treehouse, shed, patio, conservatory
+PAINT: Any liquid:paint, oil, turpentine, tar, pitch, water
+SCRIPT ==========================================
+FRANK: Now Mina, this is very important, DUCTTAPE can be used for pretty much anything...
+FRANK: It can even be used to mend leaky hosepipes like these which I'm trying to untangle.
+MINA: Yes Frank, but they wouldn't have got tangled up if they'd been stored away properly!
+FRANK: Ah yes, that reminds me, we have a fresh delivery of one hundred cans of PAINT in the back room, would you be so kind as to stack the shelves with them for me?
+MINA: Yes, Frank. (Start working on shelves)
+FRANK: Fantastic! I always knew I could count on Mina when I hired her, she has eyes like a warehouse rat with the things she can spot!
+groose music
+OLDMAN: (Enter stage right, mumbling)
+FRANK: (To old man) Ah, good morning Mr Fitzgerald! How are you this fine morning?
+OLDMAN: (Gestures dismissively) Cobblers!
+FRANK: Ah, so you want your shoes repaired! Well, just take a seat over there and I'll be with you as soon as I can.
+OLDMAN: (Mumbling) Bah! ... gotta... (sit on the lawnmower and read a newspaper)
+Meanwhile MINA: (Working on shelves)
+happy music 1
+TIMMY: Follow that idiot onstage. Hello everybody!
+Meanwhile DAVE: (Enter stage right)
+FRANK: Ah! Good morning, Dave and little Timmy!
+DAVE: Good morning Frank!
+TIMMY: Good morning Mr Frank!
+FRANK: And what can we do for you gentlemen this fine morning?
+DAVE: Well, little Timmy here wants a TREEHOUSE built in the back garden, and we're here to buy supplies, aren't we Timmy?
+TIMMY: Yes Daddy, I want a great big one!
+FRANK: Well young Timmy, we have everything here you could possibly need to build the best TREEHOUSE in the world!
+Meanwhile MINA: (Stand next to the checkout)
+FRANK: You'll need WOOD to build the walls and floor, BARBEDWIRE for keeping marauders and small animals out...
+FRANK: and GLUESTICKS for sticking it all together! We've got everything you need right over there on the shelves!
+FRANK: (Harshly) MINA!
+FRANK: (Calmly) Help Dave and his son Timmy find some WOOD, BARBEDWIRE and GLUESTICKS please!
+MINA: Uh... yes, Frank. Right this way please.
+groose music
+OLDMAN: During the war, we didn't have BARBEDWIRE, we had to rely on our skill with a SLINGSHOT to keep those friggin' intruders out!
+MINA: Mr Fitzgerald, we don't sell either of those.
+MINA: (To Dave) A simple door and some nails will do nicely.
+OLDMAN: You don't sell SLINGSHOTs? Urgh, kids these days... snowflakes...
+happy music 1
+TIMMY: Spotting a can of PAINT near the floor. Oooh! I always wanted a TREEHOUSE in BLUE! Picks up can of BLUE PAINT and makes the whole shelf collapse.
+crashing debris
+FRANK: (Wipe the BLUE PAINT from your eyes) Of course!
+FRANK: (To audience) BLUE PAINT makes for a great moisturiser!
+DAVE: (Rush to help Frank) No no no! I'm so sorry! (Trip and fall) Whoops!
+crashing debris
+MINA: Oh come on! I spent all morning organising all those SCREWs!
+MINA: Frank, couldn't you have tidied away the hose like I suggested? Now a customer has fallen over it!
+OLDMAN: (Annoyed) Can't a man have a little peace and quiet? (Annoyed mumbling)
+Meanwhile MINA: (Start picking up all the SCREWs)
+FRANK: (To audience) And if you do spill BLUE PAINT all over your TROUSERS, don't worry! You can clean it up with a splash of PETROL!
+FRANK: Just make sure you don't leave the PETROL on too long, or it'll make your TROUSERS fall off!
+OLDMAN: (Losing it) That's it! I've just about had enough of this! I demand to speak to the manager!
+FRANK: Speaking of TROUSERS, did you know...
+FRANK: (To Mr Fitzgerald) Ah, good morning Mr Fitzgerald! How are you this fine morning?
+OLDMAN: DOOORGH! (Storm offstage - exit right)
+FRANK: Wait, Mr Fitzgerald, didn't you want your shoes mended?
+FRANK: (To audience) Ah well, maybe he wouldn't need his shoes mended so often if he didn't always put his foot in it.
+TIMMY: Looks closely at back of PAINT can. Hey, I found a perfect blueprint for a TREEHOUSE on the back of this PAINT can! It even has a BLUE roof!
+MINA: Let me see that for a moment please, Timmy.
+TIMMY: Hands can to old crow.
+Meanwhile MINA: (Take can off Timmy)
+MINA: Fancy that. Okay, this makes things much easier. I'll be right back. (Exit stage left)
+DAVE: (Getting up) I am so sorry about my son, Frank.
+FRANK: Ah, don't worry Dave, boys will be boys after all! We'll have this cleared up in no time.
+MINA: Okay, here are all the nails and one fresh can of BLUE PAINT. You can pick up all the WOOD from round the back.
+FRANK: (To audience) Did you know, lemon juice makes for a great tea stain remover?
+DAVE: Thank you Mina, come on Timmy, let's get started on this TREEHOUSE!
+FRANK: And if you have manky ears, a drop of vinegar once a day will make them as soft as velvet again!
+TIMMY: I'm so excited! Run out of door. Goodbye everybody!
+Meanwhile DAVE: (Exit stage right)
+FRANK: Goodbye Dave, goodbye Timmy! Ah, great, another satisfied customer! I may be coated in a rainbow of PAINT now...
+FRANK: but that's just what this close-knit community needs - a colourful figure to bring hope, joy and knowledge, at least when it comes to home improvements.
+FRANK: Now I'd better get started on that display shelf for DUCTTAPE, made entirely out of DUCTTAPE!
+MINA: (Shake your head and chuckle)
+FRANK: Did you know, DUCTTAPE was used on MythBusters?
 
 ======
 
@@ -26413,6 +26514,83 @@ GOAT: (take a bow)
 ======
 
 INFORMATION ===============================
+ID: 820
+TITLE: Kart-Astrophe
+AUTHOR: MGLR
+VERIFIED: True
+TAGS: Skit
+SET: Hardware Store
+DATE: 15/05/24
+CHARACTERS ================================
+TERRY: Terry, the racer:Entrance Stage Left
+CLARIE: Clarie, Mark's assistant:Behind Register
+STEVE: Steve, the complainer:Entrance Stage Right
+MARK: Mark, the mechanic:Stage Left
+SUGGESTIONS =============================
+COMPONENT: A device:bomb, engine, radio
+NAME3: A celebrity's name:Charles Martinet, Logan Paul, Jimmy Donaldson
+NAME2: A celebrity's name:Ken Block, Alain Prost, Dwayne "The Rock" Johnson
+NAME1: A celebrity's name:Richard Petty, Jeff Gordon, Chris Pratt
+OBSTACLE: An unusual race obstacle:banana peel, nail, spaghetti
+CURRENCY: Currency amount:1 dollar, 10 million pennies, 275 pounds, 100 gold coins
+SCRIPT ==========================================
+Guitar music 1
+MARK: Alright, the new car is set and ready to go!
+CLARIE: Did you remember to install the COMPONENT?
+MARK: Yep! The racers should or should not notice a difference.
+Music Stops
+Extreme knocking
+STEVE: (Angrily) Alright, who here makes these cars?! I've got something to say to you!
+Silly music 1
+CLARIE: Mark over there makes the cars.
+STEVE: These are extremely poorly-manufactured cars if they keep slipping on OBSTACLEs and their engines keep backfiring when they shouldn't be!
+STEVE: Just look out there! That guy's dead, and it wasn't even NAME1 this time!
+STEVE: NAME2 broke their leg, NAME3 tore their suit, and look at Terry!
+TERRY: D'you say my name?
+STEVE: (Calmly) Oh, he's right there, nevermind.
+CLARIE: Alright, everyone stop. We're here to create the wackiest of races and to entertain the audience, not to make things realistic!
+MARK: Yeah, just calm down about the OBSTACLEs, whatever your name is.
+STEVE: My name's Steve! And I see you installing more of those COMPONENTs.
+TERRY: Maybe we should just stick to normal races, if this is the case.
+MARK: At least NAME1 died with honor... And my amusement.
+TERRY: Hey now, we can all agree that it's chaotic, and that's the good part, right?
+STEVE: Not while NAME2 has broken their leg.
+CLARIE: At least NAME3 tore their suit for a good cause.
+MARK: That's disgusting.
+CLARIE: Not like THAT!!
+TERRY: What were you thinking, Mark??
+MARK: What? I literally thought that's what they meant!
+STEVE: Anyway, the point is that something is causing those cars to crash all the time.
+Tire screech
+MARK: (Turn to Front Door) What was that?
+Meanwhile CLARIE: (Turn to Front Door)
+Explosion
+CLARIE: Oh, it's beautiful!
+MARK: The COMPONENTs! They worked!
+STEVE: You call installing COMPONENTs manufacturing cars?
+MARK: Hey, as long as it works.
+CLARIE: Alright, hold on. We can make up for this. How about CURRENCY?
+TERRY: Don't waste finances now.
+STEVE: That actually sounds great, just make sure no more cars crash.
+MARK: It won't happen again.
+STEVE: Good. I'll be back tomorrow to see if things improve.
+MARK: (Whispering to Clarie) The chaos is what causes the fun.
+TERRY: (Turn to Steve) What did he say?
+STEVE: I have no idea, I'm hard of hearing.
+Explosion
+STEVE: I did hear that explosion though.
+CLARIE: Was that one of our cars exploding?
+CLARIE: Welp. That was a waste of CURRENCY.
+TERRY: And the OBSTACLEs?
+STEVE: We can do without the OBSTACLEs, especially NAME2.
+MARK: Nah, we need the... Wait, shoot.
+STEVE: Mark, you promised me that you guys would stop.
+CLARIE: What's a country without some corruption?
+STEVE: (Irritatedly) You should've shut down at founding.
+
+======
+
+INFORMATION ===============================
 ID: 824
 TITLE: Absurd Alert
 AUTHOR: GameAdvent2
@@ -26893,6 +27071,710 @@ Butler: Might as well watch it too.
 Grandpa: There’s nothing like watching your favorite show with your butler and your grandson… uh.
 Jerry: Jerry.
 Grandpa: Right, Jerry.
+
+======
+
+INFORMATION ===============================
+ID: 847
+TITLE: Shocking Development
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: News
+DATE: 25/05/24
+CHARACTERS ================================
+TOM: Tom the Broadcaster:News Desk
+JANET: Janet the Broadcaster:Center Stage
+BRAD: Tom's Friend:Backstage
+SUGGESTIONS =============================
+ADJECTIVE: An adjective:shocking, horrifying, appalling
+OBJECT: An object (noun):pole, toad, popsicle
+TIME: Time period:three seconds ago, 1982, one day
+PLACE: A location (noun):Waffle House, a grocery store, massage parlor
+ADJPERSON: Adjective to describe a person:creative, professional, intelligent
+NOUN: A noun:jackhammer, toothpaste, camel
+VERBING: A verb ending in -ing:acting, licking, grating
+ANIMALS: An animal (plural):chickens, huskies, werewolves
+SCRIPT ==========================================
+Corporate Guitar Music
+TOM: Good evening, I’m Tom Anderson, and this is the KJAR 6 o'clock news.
+JANET: And I’m Janet Williams. Our top story tonight: a local man experiences a ADJECTIVE ordeal after licking a OBJECT.
+TOM: (awkwardly) Uh, yes, Janet. Our very own Jerry Thompson—my best friend since TIME—has managed to, uh...
+JANET: Authorities say Jerry was dared to lick a OBJECT by a group of young hooligans, and well, he took the challenge quite literally.
+TOM: Yes, and, uh, Jerry always had a taste for OBJECT.
+JANET: Try to keep it together, Tom. Witnesses say the incident happened at PLACE, and emergency services were quick to respond.
+JANET: Thankfully, Jerry is now safe and recovering in heaven.
+TOM: That can't be! I spoke with him just before the broadcast, and he’s most certainly not dead.
+JANET: We invited a local actor to join us tonight to reenact Jerry's untimely demise.
+TOM: Oh no. Brad, what are you doing here?
+BRAD: (enter stage left) Thought I’d give the viewers a firsthand account. You know, from a ADJPERSON perspective!
+JANET: Well, Brad, let the show begin.
+TOM: (whispers) Janet, what are you thinking?
+JANET: Ratings, Tom, Ratings.
+BRAD: Hi, I'm Jerry and I'm a big dumb idiot. Sometimes you just gotta live a little. Some kids gave me five bucks to lick this OBJECT.
+TOM: Brad, this is live TV.
+BRAD: Oh, come on, Tom. We’ve been through worse. Remember that time with you and the NOUN?
+JANET: This sounds like quite the story for another day. Please, Brad, continue.
+BRAD: Oh (licks) This OBJECT tastes so weird. Yummy, but weird. Wait. Why do I feel so tingly all of a sudden?
+TOM: That's enough. Seriously, kids, don’t try this at home. Leave the VERBING to the professionals.
+Scary Music
+BRAD: So much pain! I think I see the light. Grandma? Grandpa, is that you? I think I licked my last OBJECT.
+TOM: Please don’t. And now, in other news...
+BRAD: I have lost my sense of sight and sound. Everything is so dark, I don't know where I am. Oh no!
+BRAD: Goodbye, cruel world! Give my best to Tom and his NOUN! (exits stage left)
+JANET: Thanks for that, Brad. Coming up next, we’ll discuss the new OBJECT regulations downtown.
+TOM: Hopefully less ADJECTIVE reenactments.
+Crashing Debris
+JANET: This just in. Our friend, local actor, and beloved father of two ANIMALS Brad died unexpectedly today.
+JANET: He passed away peacefully surrounded by friends and loved ones.
+Western Piano Music 1
+TYPEWRITER: BRAD (1984 - 2024)
+TOM: What is going on? Why are you playing such oddly cheerful music for an In Memoriam segment?
+BRAD: (enters stage left) Tom, I'm a ghost now just let Jerry. And it's all your fault!
+TOM: And that’s all for tonight’s broadcast. I’m Tom Anderson of KJAR News at 6.
+TOM: Reminding you to stay safe, avoid licking OBJECT, and for the love of all that is holy, can someone get me a NOUN?
+JANET: Good night. And Rest in Peace, Jerry.
+
+======
+
+INFORMATION ===============================
+ID: 861
+TITLE: Trick of a Devil
+AUTHOR: Twintacle PTT
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+DATE: 29/05/24
+CHARACTERS ================================
+DEVIL: Shapeshifting Devil/Demon (Changes Avatar):Backstage
+PET: The pet of the Magician:Entrance Stage Right
+MAGICIAN: A lonely Magician:Entrance Stage Right
+SAMURAI: A Samurai summoned by the Magician:Backstage
+SUGGESTIONS =============================
+GOD: Any name for a God:Elohim, Ra, Enlil, Amaterasu
+FRUIT: Any kind of Fruit that grows on Trees:Apple, Orange, Banana, Pear
+EFFECT: Any Side effect:Pain, Runny Nose, Fever, Burning Sensation
+SHOOT: Fill in the blank, "Holy _______! He's dead!":Biscuits, Angels, Toledo, Jesus
+MAGIC: Any Kind of Potion:Poison, Healing, Harming, Fire Resistance
+POWER: Any kind of Superpower:Knowledge, Flight, Invisibility, Shapeshifting
+HERB: Any kind of Herb:Lavender, Parsley, Mint
+WORD: Any Magic Word:Hocus Pocus, Expecto Patronum, Abaracadabra
+SCRIPT ==========================================
+japanese music 1
+MAGICIAN: (Enters the stage) Another day, Another collection in the woods.
+Meanwhile PET: (Follows the Magician into the stage)
+MAGICIAN: We'll get the required herbs and then go off to get a MAGIC potion.
+PET: (Sniffing) I smell HERB.
+MAGICIAN: Good Scent, buddy!
+DEVIL: (Enters stage and sees the Travelers) This seems like a good opportunity.
+DEVIL: (Change into an Animal Avatar) Hehehehehe......
+Meanwhile MAGICIAN: (Collects HERB from the ground)
+DEVIL: (Heads toward the other two)
+PET: Um, boss, what is that? (Points to the Animal)
+MAGICIAN: Oh, it seems like a friendly Critter, nothing to be alarmed of.
+PET: (Sniffs the Animal) I smell... Evil...
+waterphone
+shark tank serious music 1
+DEVIL: Evil? Apologies in advance.
+DEVIL: (Change to a Demonic Avatar) I am not a critter after all!
+MAGICIAN: (Gasp) A devil!
+Meanwhile PET: (gasp) I knew it!
+DEVIL: Woah, I am not here to cause any harm, no!
+DEVIL: I am a very pleasant one indeed, for you shall not be afraid of me.
+PET: Are you sure? You do have an evil reputation.
+DEVIL: Hah! Nonsense! How about have this FRUIT?
+MAGICIAN: Now just a sec, is this FRUIT poisoned?
+Meanwhile DEVIL: (Grabs the FRUIT from one of the trees)
+DEVIL: No, No! In fact, this is a Special FRUIT!
+PET: A Special FRUIT? No, I have heard that it is a Modified FRUIT.
+MAGICIAN: Yeah, well, GOD told us that if we eat the modified FRUIT, we will die. So no, Rejected.
+PET: No No, I want to hear more.
+DEVIL: GOD? GOD told you if you eat it, you'll die? No! That can't be!
+DEVIL: You won't die; for if you eat it, GOD knows you will gain eternal POWER.
+PET: POWER? I would certainly love to have POWER!
+MAGICIAN: Hey buddy, no, you have already got your animal abilities.
+MAGICIAN: Besides, we are very busy. We have got to do some Magic Business.
+DEVIL: Can't you see your bud has a desire for POWER?
+PET: But this makes things quite fishy. Any Side Effects?
+DEVIL: Well, there is the one EFFECT for a bit.
+DEVIL: Other than that, you are good to go. So, why not have a taste?
+thunder
+tense cinematic music
+MAGICIAN: Don't do it Buddy! You are going to get killed!
+DEVIL: (offers the fruit to the pet) Don't listen to her, the Modified FRUIT is actually good!
+MAGICIAN: Remember the words of GOD? GOD Told us not to eat it!
+DEVIL: GOD has no importance in this world, only Satan! (Laughter)
+PET: Aw, man, I can't decide!
+MAGICIAN: Buddy, we should be already getting that MAGIC potion! We should not be dealing with this mess!
+DEVIL: (To the Magician) You just only care about the MAGIC potion!
+PET: I'll take the Fruit!
+thunder
+music stops
+MAGICIAN: Noooooooooooooo!
+DEVIL: Ha ha ha Yes! We got em'! (Hand the FRUIT to the Pet)
+Meanwhile PET: (Receives the FRUIT from the Devil)
+PET: (Eats FRUIT)
+DEVIL: Well?
+PET: Oh, yeah, the EFFECT is kicking in!
+MAGICIAN: Spit it out already.
+PET: (Swallows the FRUIT) Yummy!
+MAGICIAN: (backs up) I don't like where this is going!
+PET: Ugh, I don't feel so good... (dies)
+MAGICIAN: Holy SHOOT! Is he?
+emotional piano music
+MAGICIAN: Nooooooooooooo! Why, Buddy, Whyyyyyyyyyyyyyyyyyyyyyyyyyyyyy!?
+DEVIL: (Evil Laughter)
+MAGICIAN: (To the Devil) You have killed my precious baby!
+DEVIL: And, what?
+MAGICIAN: You have tricked him; he was my only pet!
+DEVIL: (Under the Magician's Breath) I should have gotten both of them.
+MAGICIAN: Now, you are going to have to pay!
+DEVIL: How much? You and what Army?
+anime sword gleam 1
+Meanwhile DEVIL: (puts hands out) I what can you use against me? I have my powers!
+MAGICIAN: Oh, I can summon anything.
+DEVIL: Anything?
+noir music 1
+MAGICIAN: WORD, WORD, WORD, WORD.
+DEVIL: Oh, I get it, it's a Magician.
+Meanwhile MAGICIAN: WORD, WORD, WORD, WORD.
+DEVIL: (yelling) Why do you keep saying that!?
+MAGICIAN: Yaaaah! (Mashes hand into the ground)
+explosion
+Teleport SAMURAI to Stage Right
+DEVIL: What the Hell was that?
+SAMURAI: Ugh, boy, the spirit realm makes me sick.
+MAGICIAN: That Devil has tricked my pet into Death!
+SAMURAI: Another Demon? Looks like we have got killing to do.
+DEVIL: Not if you catch me first! (Change back into Animal Avatar)
+DEVIL: (Runs off the stage) Hahahahaha!
+SAMURAI: (Chases the Devil) Come back here you little-
+DEVIL: (Runs back on the stage) I can run like this forever!
+Meanwhile SAMURAI: (Chases the Animal)
+MAGICIAN: WORD! (Points at the Animal)
+DEVIL: (Change back to Demonic Avatar) Hey! What The-?
+DEVIL: (Puts hands up as he is trapped) I am Trapped? Oh Crap!
+SAMURAI: You can't get away now! (Stabs the Devil)
+DEVIL: Aaaaaaaaaaaaaah! (Dies)
+MAGICIAN: Justice served!
+SAMURAI: Does this mean I have to go back to the spirit realm now?
+MAGICIAN: Eh, just in Case.
+MAGICIAN: WORD. (Points at the Samurai)
+Teleport SAMURAI to Backstage
+
+======
+
+INFORMATION ===============================
+ID: 865
+TITLE: A Robot Among Us?
+AUTHOR: LeDerp_64
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 30/05/24
+CHARACTERS ================================
+ROBOT: Very Obviously the Robot:Office Chair 1
+HUNTER: Hunter The Stupid Robot Assassinator:Entrance Stage Left
+DAVE: Dave The Slacker:Office Chair 2
+CARL: Carl The Boss:Boss Chair
+SUGGESTIONS =============================
+ROBOT NAME: A clearly non-human name:Not a Robot, Human Person, Earl
+OBJECT: Something in the office that needs fixing:Air Conditioning, 
+PROFESSION: A Profession someone scary would work in:Bounty Hunter, Assassin, Hunter
+WEAPON: A Weapon:Gun, Knife, Crossbow
+NICKNAME: Something your boss would call you:Chum, Buster, Buddy
+COMPANY: Name of a Company:Telsa, Papers & Moore
+NUMBER: A Number:5, 17, 71, 59, 90, 9
+PRESENT: Any kind of Present:Mug, pen, money
+PROVERB: A Proverb that doesn't make sense:A watched clown never eats his carrots, You can lead a tree up a hill but you can't make him eat pinecones
+ITEM: Something your boss should give you:Break, Paycheck, Vacation
+GOAL: Something an evil robot would want to do:Take over the world, Destroy humanity
+SCRIPT ==========================================
+corporate guitar music
+CARL: So, I called this meeting because corporate said they needed to send someone to fix a certain technical issue.
+DAVE: Are they going to finally fix the microwave?
+ROBOT: (in robot voice) Maybe they will fix the OBJECT
+CARL: Well I don't exactly know what they are fixing, all i know is that they are coming in today
+CARL: So make sure to stay out of their way.
+heavy door knocking
+Music stops
+CARL: That must be them!
+CARL: Dave, will you open the door for them?
+DAVE: I'm chilling for now
+CARL: i guess ill do it myself then (walks up to door but doesn't open it yet)
+break down door
+HUNTER: (breaks through door) Where are they?
+Meanwhile CARL: (Gets hit by door and falls)
+DAVE: Is this who they sent? He looks more like a PROFESSION than a repair man
+HUNTER: Repair man? no I'm here to get rid of a robot infestation.
+dark classical music
+ROBOT: Well clearly there aren't any robots here.
+HUNTER: Well I'm not leaving until i capture that robot (looks at Dave suspiciously)
+CARL: (gets up and brushes off shoulders) Well as the boss around here, I'd like to say, I'm not a robot
+DAVE: Sounds like something a robot would say.
+HUNTER: Thats true (points weapon at Carl)
+CARL: Woah there, put down that WEAPON NICKNAME
+ROBOT: Yes there is no need for senseless violence
+HUNTER:(lowers weapon while staring at Carl) Alright, but i still don't trust you
+CARL: (panicked voice) I'm the boss though, I've been working here at COMPANY for NUMBER years now!
+DAVE: What better possession to be for a robot than the boss of COMPANY.
+CARL: Dave, what are you saying, you've been to my wedding!
+DAVE: (shrugs) I don't remember that
+CARL: Well I'm just going to point out the obvious
+CARL: (points to Robot) They are obviously the robot!
+record scratch
+ROBOT: Why me?
+CARL: Look at you! It's so obvious! I don't even remember your name!
+ROBOT: Don't you know? My name is ROBOT NAME
+DAVE: yeah, I trust ROBOT NAME, they gave me PRESENT last year for Christmas.
+ROBOT: (Nods) Indeed
+CARL: I Gave you that PRESENT
+DAVE: (Sarcastically) So says you, Bob, if that is even your real name
+CARL: It's not bob! I'm Carl!
+ROBOT: It seems the cracks in your story are giving way
+ROBOT: Or as you might say PROVERB
+CARL: What?!
+HUNTER: I think I've heard all i need to hear (points weapon at carl)
+HUNTER: You're coming with me pal
+HUNTER: (starts dragging carl out of the office)
+Meanwhile CARL: (getting dragged out by Hunter) No, you can't do this! I Want to speak to my lawyer
+HUNTER: Too bad Mr. Robot!
+Teleport CARL to Backstage
+Teleport HUNTER to Backstage
+happy music 1
+ROBOT: Thank God that's over with, am i right?
+DAVE: Yeah, im glad that guy is gone, he never gave me my ITEM
+ROBOT: Well, who is going to be the boss now?
+ROBOT: Are you not next in line Dave?
+DAVE: meh too much responsibility, you can have it ROBOT NAME
+DAVE: im going to go home early, see you (Leaves stage)
+scary music
+ROBOT: (laughs maniacally) Finally, now i will have all the power and i will finally be able to GOAL
+thunder
+ROBOT: (Continues laughing maniacally)
+Music Stops
+
+======
+
+INFORMATION ===============================
+ID: 867
+TITLE: E-Girl Mafia
+AUTHOR: th3.m1mic
+VERIFIED: False
+TAGS: Skit
+SET: Interrogation Room
+DATE: 01/06/24
+CHARACTERS ================================
+JENNY: E-Girl Mafia member who saves their boss:Entrance Stage Right
+BAD COP: A cop who thinks they're the "bad cop" but just sucks at their job:Corner Left
+GOOD COP: A cop who is good at their job:Corner Right 
+MOB BOSS: Leader of the E-Girl Mafia:Chair
+SUGGESTIONS =============================
+WEAPON: Fake weapon:Pool noodle, nerf gun
+PERSON: Someone in the server:John Doe, Jane Doe
+CRIME: A crime you can commit:rob a bank, kidnap the rival mob boss
+OBJECT: Something you steal:Diamond necklace, ruby earrings
+FOOD: A food or drink:Pizza, Coffee, Burger
+LOCATION: A place you can go:Chuck E. Cheese', McDonald's
+TOY: Funny toy weapon:Bubble gun, toy sword
+ANYTHING: Something that's bad, or offensive to be compared to.:Highschool dropouts, cottage cheese and marshmellows
+SCRIPT ==========================================
+Spy music 1
+GOOD COP: Well man, we finally caught 'em. We got the boss of the E-Girl Mafia.
+Meanwhile MOB BOSS: (Struggling in the chair, trying to get out of handcuffs)
+BAD COP: I knew we could do it! After all, we are the good cop and bad cop of this town!
+MOB BOSS: Oh please, you two are ridiculous if you think you're the good cop and bad cop duo. MOB BOSS: You're more like ANYTHING.
+GOOD COP: (Scoffs) Excuse me.
+Meanwhile BAD COP: (Grabbing weapon)
+BAD COP: (Extremely angry) Don't you ever compare us to ANYTHING again! Otherwise, I'll send you straight to the big man upstairs! Don't think I'm joking; I have a TOY.
+MOB BOSS: (Laughing at the weapon) You really think I'm scared of your TOY.
+GOOD COP: Okay buddy. GOOD COP: (Put hand on Bad Cop's shoulder) I think you need to go breath really fast. Go to LOCATION and get yourself some FOOD.
+Meanwhile MOB BOSS: (Gets free of the handcuffs, but doesn't make it obvious)
+BAD COP: Fine, fine. I'll be back. BAD COP: (Look at Mob Boss) But don't think this is over you crook.
+BAD COP: (Exit the stage)
+Music Stops
+GOOD COP: Alright man, I'm going to level with you here. I don't want to incarcerate you.
+GOOD COP: But, I need you to answer some questions before I can let you go. (Pull out a notepad)
+MOB BOSS: And why would I trust that? Seems awfully suspicious, don't ya think?
+GOOD COP: C'mon boss, you don't recognize an old pal? It's me, Ellie! You're old right-hand woman??
+Record Scratch
+MOB BOSS: Ohhhhh, ya mean the one I kicked outta my mafia because you led the cops right to our hideout? Yeah, I remember you.
+Spy Music 2
+GOOD COP: That was an accident! They only found me because that OBJECT had a tracker on it!
+MOB BOSS: Well, that's funny because you were supposed to do CRIME!
+GOOD COP: Look, let's just get this over with. Answer my questions, and I'll let you go. I know you're a busy person.
+MOB BOSS: Whatever. (Sighs and sits back comfortably)
+GOOD COP: Was the E-Girl Mafia responsible for the death of PERSON?
+MOB BOSS: Pffft, no. They may have been one of our enemies, but I wouldn't even send one of my e-girls after them.
+Meanwhile GOOD COP: (Writing on notepad)
+MOB BOSS: Anyways, next question? (Puts hands behind head and gets comfy)
+GOOD COP: Yeah, yeah. Where were you on Januar- (Pauses in shock)
+MOB BOSS: January???
+GOOD COP: How in the hell are you sitting like that?! Where did your handcuffs go???
+MOB BOSS: That's not important.
+GOOD COP: Wha- Yes, it is?!
+Music Stops
+MOB BOSS: No, it's no-
+Meanwhile JENNY: (Knock on the door)
+Knocking on door
+GOOD COP: Oh, that must be-
+JENNY: (Burst through the door, and speak in a high-pitched voice) Boss, I've come to save you!
+MOB BOSS: Jenny???
+GOOD COP: Jenny. (Sighs)
+JENNY: (Clears throat) Ahem. (Speak in a deep masculine voice) Sorry, I still had my morning voice.
+MOB BOSS: Jenny, you're about 20 minutes late.
+JENNY: Sorry boss, anyways- (Pulls out weapon)
+GOOD COP: Is that...a WEAPON???
+JENNY: Yup, made it myself.
+MOB BOSS: Jenny, you're a disappointment.
+JENNY: I know!
+MOB BOSS: Whatever, let's go. (Gets up and exits the stage)
+Meanwhile JENNY: (Follow Mob Boss off the stage)
+GOOD COP: Wait! (Sighs in disbelief)
+BAD COP: (Re-enter stage) I'm doing better now that I got some FOOD!
+GOOD COP: I- (Standing in shock)
+BAD COP: Let's get back to interrogating this crook!!
+GOOD COP: Are you serious?! Did you not just see them walk past you?!?!
+BAD COP: Ohhhh, that's who those fine ladies were?
+Vine Boom
+
+======
+
+INFORMATION ===============================
+ID: 869
+TITLE: Secrets and Sacrifice
+AUTHOR: GameAdvent2
+VERIFIED: True
+TAGS: Skit
+SET: Detective Noir
+DATE: 02/06/24
+CHARACTERS ================================
+TARGET: The Target:Backstage
+GUY: The Pizza Guy:Backstage
+OLD: The Retired Spy:Detective Chair
+NEW: The New Spy:Visitor Chair
+SUGGESTIONS =============================
+ENDING: inish the Sentence "The old spy would then go on to _______.":Whatever you think fits
+PLACE1: Name of the apartment:(e.g., "Bob's" or "The Greatest")
+TOPPINGS: Toppings for a pizza:(e.g., "Cheese", "Peppers", "Meat", etc.)
+NUMBER1: Pick any number:(0 - 999999)
+REACTION1: An emotion :(e.g., "sad" or "shocking")
+FINISH2: Finish the Sentence "Some say, that he ________.":Whatever you think fits
+FINISH1: Finish the Sentence "Oh, he is the most _______.":Whatever you think fits
+NAME1: The Name of the Target :(The guy they are trying to kill)
+EVENT1: Name an event:(e.g., Comic-Con or the Renaissance Fair)
+NICE: Give a word that means greatness:(e.g., Hero or Acceptable Guy)
+SCRIPT ==========================================
+noir music 1
+TYPEWRITER: Jan. 19, 2019; New York City, Boston; The New Guy
+OLD: (sitting in a detective chair) So, are you ready to start your training to become the next spy?
+NEW: (sitting in a visitor chair) I don’t know, I just got the job last week, and no one has told me anything.
+OLD: (leaning forward) That is the way of the spy.
+NEW: (nodding) Ok, well, let’s get started.
+OLD: (smirking) Straight to the point, I like that. We have intel that NAME1 is going to be meeting in this building.
+NEW: Who is NAME1?
+OLD: (leaning back, contemplatively) Oh, he is the most FINISH1.
+NEW: (surprised) Oh my.
+OLD: (nodding) Some say, that he FINISH2.
+NEW: (reacting) That is REACTION1.
+OLD: That is why I need someone new. I have been working here for NUMBER1 years now.
+OLD: My time has come to retire. I need you to find NAME1 and take him down.
+OLD: Then, and only then, will you become the next spy.
+NEW: (determined) Understood.
+knocking on door
+OLD: (smiling) Oh, that must be the TOPPINGS pizza I ordered.
+GUY: (entering) Is this PLACE1 apartment?
+OLD: (gesturing) It sure is.
+GUY: (handing over pizza) Ok, here you go. One TOPPINGS pizza.
+OLD: (taking the pizza) Thanks. (to NEW) Now, let's eat.
+Teleport OLD to Backstage
+noir music 4
+TYPEWRITER: 3 Hours Later
+NEW: (impatiently) Man, this guy takes forever to meet up. (hears a noise) That must be him now. (opening the door) Ah, hello NAME1. Welcome. Come in, come in.
+TARGET: (entering, looking around) Nice place you got.
+NEW: (smiling) Thanks.
+TARGET: (seriously) Let’s get to the chase. I know why you’re here.
+NEW: (nervously) You do?
+TARGET: (pausing) Yeah, you’re here. (pauses dramatically) For the EVENT1 happening down the street, right?
+NEW: (relieved) Yeah?!
+TARGET: (smiling) Great, I am so glad that I found someone who likes EVENT1 as much as me.
+NEW: (enthusiastically) Yeah, if we start heading there now, we could have time for the meet and greet.
+TARGET: (motioning) Yeah, after you.
+NEW: (walking to the doorway, then stopping) Oh, I need to get… (turns back to TARGET)
+mystery music 1
+TARGET: (drawing a gun) There is no EVENT1 happening down the street. Do you really think I’m that stupid?
+NEW: (shocked) No…?
+TARGET: (smirking) I knew the old man would retire. Who do you think gave him the intel about me being here?
+NEW: (stunned) What!
+TARGET: (coldly) Now it is time for you to die.
+gunshot
+TARGET: (falling to the ground)
+Meanwhile OLD: appears at the door with a gun pointed at the TARGET
+tense cinematic music
+OLD: (sternly) Did you really think that I would let some new guy finish my job?
+TARGET: (weakly) Impossible, why did you shoot me?
+OLD: (coldly) To finish you off. (shoots him in the head)
+gunshot
+Teleport TARGET to Backstage
+OLD: (rushing to NEW) Are you okay, New Guy?
+NEW: (weakly) Yeah, I think I am. But is the room spinning to you? (falls to the ground)
+lacrimosa music
+OLD: (running to NEW) NEW GUY!
+NEW: (gasping) I think he shot me when you shot him.
+OLD: (desperately) No, stay with me now.
+NEW: (struggling) You were always my greatest NICE. (teleports to Backstage)
+OLD: (crying out) Nooooo!!!!!
+spy ending sting
+TYPEWRITER: The old spy would then go on to ENDING.
+
+======
+
+INFORMATION ===============================
+ID: 870
+TITLE: Death in the Intellect
+AUTHOR: Xzyloriz
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+DATE: 02/06/24
+CHARACTERS ================================
+HERO: The Hero:Entrance Stage Right
+DETECTIVE: The Detective:Corner Right 
+VILLAIN: The Villain:Chair
+SUGGESTIONS =============================
+NOUN1: An insult you used on a person or group.:Idiot, Moron, Fool
+PHRASE1: Something you say as goodbye.:Goodbye, Bye, Farewell
+VERB2: Something you do out of anger.:Punch, Kick, Bite
+PLACE1: A place you go on vacation.:Disneyland, Six Flags, Universal
+VERB1: An action that is a crime.:Shoot, Bomb, Burn
+NAME2: Name of a Super Villain you know.:Joker, Green Goblin, Lex Luthor
+NAME1: Name of a Super Hero you know.:Batman, Spider-Man, Superman
+SCRIPT ==========================================
+applause
+DETECTIVE: Good evening, NAME2, you know why you're here?
+VILLAIN: No, I am not. Remind me again why I should care?
+DETECTIVE: Because you're in here for VERB1ing the PLACE1.
+VILLAIN: And you're point is? As far as I know, I see no evidence.
+DETECTIVE: You're right. (Crossing arms) Which is I have a little treat for you.
+VILLAIN: Freedom? I sure could use it by now.
+DETECTIVE: (Chuckles) Even better.
+knocking on door
+DETECTIVE: (Looking at NAME2) Come on in.
+superhero music
+HERO: (Walking on stage from Entrance Stage Right) Sorry I'm late, Commissioner. I had to defeat NAME2 and... (Looking at NAME2) Oh, there you are.
+music stops
+DETECTIVE: (Looking at NAME1) Glad you came anyway. (Looking back at NAME2) I'm sure you know NAME1.
+VILLAIN: I guess. Don't you have somewhere else to be? Like VERB2ing some other criminal?
+HERO: (Walking towards NAME2) If you don't tell us the truth, then the only one who's going to get VERB2ed is you.
+VILLAIN: (Laughing) The truth about what? That I "VERB1ed the PLACE1". Like I said, without evidence you can't imprisoned me.
+DETECTIVE: NAME1 can and will.
+HERO: (Looking at DETECTIVE) If you tell us the truth.
+laughter
+DETECTIVE: (Looking at NAME1 confused) But you're the one who defeated NAME2.
+HERO: Yes, but I cannot put NAME2 in jail without proof.
+laughter
+DETECTIVE: (Shouting) YOU DEFEATED NAME2! Why would YOU need evidence!? You're a freaking hero.
+laughter
+HERO: (Shaking head) A hero who follows the laws.
+DETECTIVE: (Glaring at NAME2) Then you're lucky NAME1 is law-abiding hero. Because I will VERB2 YOU if you don't confess this minute.
+scary music
+VILLAIN: (Chuckles at DETECTIVE) You wouldn't dare.
+DETECTIVE: (Shouting at NAME2 up-close) THEN CONFESS! CONFESS NOW, YOU NOUN1!!
+HERO: (Reach hand at DETECTIVE): Detective?
+DETECTIVE: (Still shouting at NAME2 up-close) DO IT OR I'LL VERB2 YOU! DO IT!
+VILLAIN: (Looking at NAME1) Can you help me, please?
+DETECTIVE: YOU WANT TO GO TO JAIL UNHARMED!? THEN CONFESS!
+VILLAIN: (Shouting in fear) OKAY! OKAY. I did it. (Looking at NAME1) I VERB1ed the PLACE1. (Looking at DETECTIVE) Happy now!?
+music stops
+DETECTIVE: (Steps back, calm) Thank you for your cooperation... (Looking at NAME1) NAME1!
+HERO: Well, I guess that case is solved. Want to come hang out? We could have you sign up on our team.
+DETECTIVE: (Looking at NAME1) Really!? That would be so awesome! (Looking back at NAME2) Well, NAME2, looks like you're get off easy.
+DETECTIVE: (Leaving stage towards Entrance Stage Right) Until then, PHRASE1!
+laughter
+HERO: (Leaving stage towards Entrance Stage Right) Well, NAME2, I hope you learn you're lesson.
+VILLAIN: (Shrugging shoulders, shaking head) Nope.
+laughter
+applause
+
+======
+
+INFORMATION ===============================
+ID: 871
+TITLE: Barrel of Bricks
+AUTHOR: Valhymm
+VERIFIED: True
+TAGS: Skit
+SET: Doctor's Office
+DATE: 03/06/24
+CHARACTERS ================================
+PADDY: Injured builder lying on the trolley:Examination Table
+DOCTOR: Doctor, sitting on the stool:Stool
+MICK: Another builder, the witness:Center Stage
+SUGGESTIONS =============================
+BRICK: Anything heavy, bulky or messy:tools, bricks, cement, concrete, nails
+HOTEL: A building or type of business:hotel, supermarket, church, school, factory
+DUBLIN: A town or city:Dublin, London, Liverpool, Manchester, Belfast, Cork, Glasgow, Edinburgh
+HUNDRED: A number:100, 200, 300
+HEAD: An upper body part you have one of:head, nose, tongue, neck, mouth, uvula, brain
+LEG: A lower body part you have two of:leg, ankle, foot, big toe, kneecap, thigh, shin
+BACK: A body part you only have one of:back, backbone, spine
+HAND: An upper body part you have two of:hand, thumb, forearm, upper arm, elbow, shoulder, shoulder blade, collarbone
+RIBCAGE: A body part in your core:ribcage, heart, liver, spleen, stomach, bladder, small intestine, large intestine, gallbladder, lung, kidney
+PATRICK: A first name:Patrick, Paddy, Murphy, Jimmy, Dara, Jock, Eamonn, Seamus
+MICHAEL: A first name:Michael, Mick, Dougal, Rory, Oisin, Angus, Declan, Conor
+SCRIPT ==========================================
+jazz music 1
+DOCTOR: Good heavens PATRICK, you're in a right old state! Tell me exactly what happened.
+PADDY: Well now, that's a long story. I was knocked out at one point, but MICHAEL was working with me so he can fill in the gaps.
+MICK: It was his own bloody fault, I told him to just carry all the BRICKS down one at a time.
+DOCTOR: BRICKS?
+PADDY: Aye, we were working on that new HOTEL in DUBLIN, the one that was gonna open next month.
+MICK: Me and PATRICK had carried about HUNDRED kilos of BRICKS up to the top to do the work.
+PADDY: And when we were done, I thought it'd be a good idea to lower the BRICKS down in a small barrel using a pulley.
+PADDY: Eighty feet is a long way to carry stuff up and down by hand, and I'd already carried it up there once.
+MICK: I told him it was a bad idea and I didn't want to get in trouble, so I just came down the ladder.
+PADDY: I went down too, and tied off the rope on a bike rack, then I went back up and loaded the barrel with the BRICKS.
+DOCTOR: And then what happened?
+PADDY: Well, I came back down the ladder, held the rope tightly to support the weight, and untied the rope from the bike rack.
+MICK: I tried to warn him, but he just didn't listen!
+DOCTOR: Why, what happened then?
+PADDY: Well to be sure, I was surprised! I was so surprised that I forgot to let go!
+MICK: PATRICK only weighed about half the weight of the barrel! He shot up in the air like a rocket!
+PADDY: Next thing I knew, I was about forty feet in the air, and I met the barrel coming down as I was going up!
+PADDY: I think I must have hit my HEAD on the barrel and broke it.
+DOCTOR: The X-rays seem to agree with you there, PATRICK.
+MICK: But he kept on going up, up, up, until he got his HAND jammed in the pulley.
+DOCTOR: Did you not think to let go by this point, PATRICK?
+PADDY: Doc, I got hit in the HEAD by a HUNDRED-kilo barrel of BRICKS! I wasn't thinking straight!
+MICK: You weren't thinking straight when you untied the rope, you eejit!
+MICK: Anyway, by this time the barrel had smashed into the pavement and the bottom came off.
+DOCTOR: I think I know where this is going. About HUNDRED kilos of BRICKS spilled out on the pavement?
+MICK: Aye! And then what do you think happened?
+DOCTOR: The barrel now weighed less than PATRICK? So he fell back down and the barrel went back up?
+MICK: You hit the nail on the HEAD, Doc!
+PADDY: I just about regained my senses when I started falling again, still clinging on to the rope.
+PADDY: I must've fallen about forty feet when I met the barrel again on the way up.
+PADDY: I think I must have hit my LEGs on the barrel and broke them.
+DOCTOR: You're right there PATRICK, when the nurses examined your LEGs they found you had in fact broken both of them.
+DOCTOR: And I have to say, we were impressed.
+PADDY: Thank you Doc. But I kept falling, and the only thing that broke my fall was that big pile of BRICKS.
+MICK: Yep, he fell right onto the pile, he landed right on his BACK, and he must have broke it in three places!
+PADDY: By this time, I really was in a lot of pain, so much pain that I let go of the rope.
+DOCTOR: You did what?!
+MICK: He let go of the rope, Doc.
+DOCTOR: But the barrel must have been eighty feet in the air again!
+PADDY: Not for long, Doc. As I lay there on top of the HUNDRED-kilo pile of BRICKS, I saw the barrel hurtle back down towards me.
+PADDY: But just before it hit me, I blacked out with all the pain.
+MICK: That was probably for the best, it landed right on your RIBCAGE, and the rope followed it like a big string of spaghetti.
+MICK: You were a mess.
+DOCTOR: And then what happened?
+MICK: I called for a paramedic and they brought him here to you.
+DOCTOR: Right. So you've got a broken HEAD, a mangled HAND, two magnificent broken LEGs, one broken BACK and one shattered RIBCAGE.
+DOCTOR: I'm afraid it doesn't look good for you, PATRICK. What do you want me to do about it?
+music stops
+PADDY: (Wait for the music to stop) Can I have a sick note?
+
+======
+
+INFORMATION ===============================
+ID: 873
+TITLE: Prof. Clayton and the Devil's Sonata
+AUTHOR: AtmanRyu
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 04/06/24
+CHARACTERS ================================
+VILLAIN: Bombastic Villainous Scientist :Backstage
+INSPECTOR: Gruffy Inspector from Scotland Yard:Backstage
+APPRENTICE: Young Eager apprentice of the Professor:Backstage
+PROF. CLAYTON: Distinguished English Gentleman Prof. Clayton:Backstage
+SUGGESTIONS =============================
+FORBIDDEN ITEM: Name for a forbidden puzzle:The Anti-Life Equation, The Infinity Gaunlet, Lament Configuration Box
+TRAP: A type of dungeon trap:snake pit, spike room, poison gas room
+VILLAIN NAME: A Villain Name:Mustafa, Driscoll, Moriarty
+EVIL PLAN: "After I (_____________), I shall RULE THE WORLD!":Melt the Polar Ice Caps, Awaken a Super Volcano, Flood the World
+INSPECTOR NAME: Name for a Inspector:Lestrade, Holmes, Clouseau, Barker
+PUZZLE NUMBERS: A large number:1000, a million, a billion
+KID'S NAME: Name of a plucky child:Luke, Steven, Mary, Danny
+BRITISH TREAT: A British Treat:tea and crumpets, fish n' chips, a cup of Grey Earl
+SCRIPT ==========================================
+dark classical music
+APPRENTICE: (enters Stage Left) Amazing, Professor! It's most incredible that you were able to solve all PUZZLE NUMBERS to traverse ALL 100 levels of the Demonic Tower!
+PROF. CLAYTON: (enter Stage Left): Oh, dear KID'S NAME, 'twas nothing... Like I always taught you, it's all about creative thinking...
+APPRENTICE: (Saddened) Too bad we lost Inspector INSPECTOR NAME on our way here as he fell in the TRAP...
+PROF. CLAYTON: (Dismissive) Oh, don't fret, young KID'S NAME!
+PROF. CLAYTON: That rapscallion's harder to kill than cockroaches themselves! If I know him well, we will see him again sooner than later...
+INSPECTOR: (enters Stage Left, gasping) INSPECTOR INSPECTOR NAME OF THE YARD! JUSTICE SHALL PREVA- Oh bloody hell, lemme catch my breath first...
+PROF. CLAYTON: And there you go! Another puzzle solved...
+INSPECTOR: CLAYTON! You Bloody Tosser! You could have waited for me!
+PROF. CLAYTON: Oh do calm down. I always have faith in your survival.
+PROF. CLAYTON: Besides, reaching this room was of upmost importance, for it contains...
+PROF. CLAYTON: (points at piano) THE DEVIL'S SONATA!
+APPRENTICE: (checking notes) Oh that's right! A musical composition stated to be written by the Devil himself, that if performed, it could EVIL PLAN!
+INSPECTOR: INCONCEIVABLE! A mere music sheet should not be capable to do something like that!
+PROF. CLAYTON: Maybe. Maybe not. Still, we need to retrieve it to ensure it doesn't fall on the wrong hands.
+Music Stops
+record scratch
+VILLAIN: (behind backstage) MUAHAHAHAHAHAH!!! YOU'RE ALREADY LATE, CLAYTON!
+PROF. CLAYTON: Who's there!?
+Meanwhile INSPECTOR: (readies his gun)
+mystery music 1
+VILLAIN: (enters Stage Right) IT IS I! PROFESSOR VILLAIN NAME! YOUR ARCHNEMESIS!!!
+APPRENTICE: Professor! Do you really know this foul villain!?
+PROF. CLAYTON: Hmmmm....
+Groose music
+PROF. CLAYTON: I have no clue.
+VILLAIN: For real? I attempted 20 times to take your life? Almost sank London to the river Thames!? ALMOST ENGULFED ENGLAND IN FLAMES!?
+PROF. CLAYTON: I'm drawing a blank.
+VILLAIN: ....You know what, WHATEVER! Moving on!
+mystery music 1
+VILLAIN: As I was saying, you're too late, Clayton!
+VILLAIN: (point at piano) For I already deciphered the contents of the Devil's Sonata and prepared this piano to auto play its evil tune in a few seconds.
+VILLAIN: And once I EVIL PLAN! I shall rule over the world! MUHAHAHAHAHAHAHAHAH!
+Meanwhile INSPECTOR: (shoots at the piano)
+gunshot
+gunshot
+gunshot
+INSPECTOR: Not on my watch, for I'm Inspector INSPECTOR NAME of The Yard and Justice shall prevail on my watch!
+VILLAIN: You silly constable! You think brute force will stop the Devil's Sonata!?
+VILLAIN: FOOLS! The lot of you! Only solving it's complex algorithm would render the music sheet harmless!
+VILLAIN: But it's impossible to solve it in such short notice, even for you, Clayton! MUAHAHAHAHAAH!!!
+Meanwhile PROF. CLAYTON: (casually walks to the piano and does a lot of typing)
+Music Stops
+shark tank offer
+PROF. CLAYTON: And the Devil's Sonata's neutralized.
+APPRENTICE: You did it, professor!
+INSPECTOR: Outstanding, Clayton!
+VILLAIN: IMPOSSIBLE! But how!?
+scary music
+PROF. CLAYTON: And now, to address the elephant in the room... (reaches into pocket and pulls out a device)
+VILLAIN: (Nervous) Hold on... It's that...
+PROF. CLAYTON: Indeed, a most curious FORBIDDEN puzzle... The FORBIDDEN ITEM! An item capable of warping space and time at my whim.
+anime sword gleam 2
+PROF. CLAYTON: I may be a gentleman, but even I get tired when total nobodies pester me for the sake of clout!
+PROF. CLAYTON: Why you think I ignore the likes of you? I'm trying to save you from myself! But no... Such imbeciles...
+VILLAIN: (nervous) Now, now, Clayton... Don't do something you'll regret...
+PROF. CLAYTON: Why regret over something that never existed in the first place? (uses item on VILLAIN NAME)
+VILLAIN: (looking at themselves in horror) NOOOOOOOOOOOOOOOOOOOOOOOO---
+alien teleport
+Teleport VILLAIN to Backstage
+INSPECTOR: By Jove, Clayton! What in the world did you just do!?
+PROF. CLAYTON: Nothing worth remembering in 3, 2...
+alien siren
+dark classical music
+INSPECTOR: (shaking head) Oh, sorry there, dear chap. Zoned out for a moment... Oh right! Is that the Devil's Sonata?
+PROF. CLAYTON: Indeed it is. Now, how about you take it to the proper authorities so it can be sealed?
+INSPECTOR: Most excellent! I shall have our top men work on it! Tally ho! (exits thru Entrance Stage Left)
+PROF. CLAYTON: ... KID'S NAME? Are you ok?
+APPRENTICE: (shaking) Professor... This is the FIFTH time you have erased someone from existence and no one seems to mind!
+APPRENTICE: How come I'm the only one who remembers!?
+lacrimosa music
+PROF. CLAYTON: (sinister tone) Oh KID'S NAME, my dear boy... It's because I want you to learn this ONE lesson well...
+PROF. CLAYTON: A true gentleman's patience, while abundant, is also finite and NOT to be wasted on charlatans. And those who dare to tempt us...
+PROF. CLAYTON: Well... They must be dealt with...
+Music Stops
+PROF. CLAYTON: (cheery tone) But I don't know about you, but I'm quite peckish from this adventure... Who's up for some BRITISH TREAT?
 
 ======
 
