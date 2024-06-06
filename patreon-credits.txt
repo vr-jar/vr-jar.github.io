@@ -1768,7 +1768,6 @@ bowhq
 Poisoned-Cherry
 Z_ayato
 argentodawg
-DyingBug101
 modNick
 ruralists
 #TIER=1
