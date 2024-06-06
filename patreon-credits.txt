@@ -1768,7 +1768,6 @@ Poisoned-Cherry
 Z_ayato
 argentodawg
 Zweilous
-Kachiko
 modNick
 ruralists
 #TIER=1
