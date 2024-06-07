@@ -2488,6 +2488,7 @@ C-RAMstuhlinger
 Akane-Blaze
 donkeydemon
 ~~Nickname~~
+~乙 丹 匕 丹 尺 丹~
 #TIER=3
 SidMarcus
 PinballReviewer
