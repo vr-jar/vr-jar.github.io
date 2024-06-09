@@ -2458,7 +2458,6 @@ WishBone666
 Daddybuttercup
 XenoFlameVR
 Flîñt
-Am_Kenny
 Tz_Drake
 °DemonicEntity°
 BasilLeaves6969
@@ -2472,6 +2471,7 @@ Akane-Blaze
 donkeydemon
 ~~Nickname~~
 ~乙 丹 匕 丹 尺 丹~
+Verdurous
 #TIER=3
 SidMarcus
 PinballReviewer
