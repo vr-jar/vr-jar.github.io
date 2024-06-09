@@ -24856,22 +24856,22 @@ TAGS: Skit
 SET: Grocery Store
 DATE: 28/04/24
 CHARACTERS ================================
-KAREN1: A karen:Entrance Stage Right
-KAREN2: The store manager who is also a karen:Entrance Stage Left
 EMPLOYEE: The confused employee:Behind Register
+KAREN2: The store manager who is also a karen:Entrance Stage Left
+KAREN1: A karen:Entrance Stage Right
 SUGGESTIONS =============================
-EXHAUSTED: Something someone would say/do when they are exhausted:Sigh, Fine, ugh, (Quietly) Why me, (Quietly) I'm done
-DEMAND: Something a Karen would demand from a manager:discount, change, reimbursement, refund, free item
-DEFEAT: Something someone would say in defeat:They won, I've lost, You win, Well played, I'm done
-GIFT: A gift from a manager to calm a Karen down:gift card, coupon, voucher, refund, free item
-GROUP: A word for a group of people:friends, allies, group, band, club
-EMOTION2: An action someone would do when they are sad:Crying, Sobbing, Wiping tears, Sniffling, Sighing heavily
-SURPRISED: Something someone might say when they are surprised:Oh my goodness, What on earth, Well that's unexpected, I didn't see that coming
-EMOTION1: A shocked emotion:Shocked, surprised, amazed, bewildered, dumbfounded, speechless
-ANNOYED: Something someone would say when they are annoyed:Seriously, Really, Why me, Every day, Uggghhhhh
-ITEM: An item in a grocery store:banana, milk, cereal, egg carton, cooking oil
-HIGHERUPS: Any person/group in a business with a higher rank than manager:corporate, CEO, owner, president, vice president
 LAWSUIT: Something a Karen would sue a business for:deceit, harassment, negligence, injury, discrimination
+HIGHERUPS: Any person/group in a business with a higher rank than manager:corporate, CEO, owner, president, vice president
+ITEM: An item in a grocery store:banana, milk, cereal, egg carton, cooking oil
+ANNOYED: Something someone would say when they are annoyed:Seriously, Really, Why me, Every day, Uggghhhhh
+EMOTION1: A shocked emotion:Shocked, surprised, amazed, bewildered, dumbfounded, speechless
+SURPRISED: Something someone might say when they are surprised:Oh my goodness, What on earth, Well that's unexpected, I didn't see that coming
+EMOTION2: An action someone would do when they are sad:Crying, Sobbing, Wiping tears, Sniffling, Sighing heavily
+GROUP: A word for a group of people:friends, allies, group, band, club
+GIFT: A gift from a manager to calm a Karen down:gift card, coupon, voucher, refund, free item
+DEFEAT: Something someone would say in defeat:They won, I've lost, You win, Well played, I'm done
+DEMAND: Something a Karen would demand from a manager:discount, change, reimbursement, refund, free item
+EXHAUSTED: Something someone would say/do when they are exhausted:Sigh, Fine, ugh, (Quietly) Why me, (Quietly) I'm done
 SCRIPT ==========================================
 EMPLOYEE: (Tidying the counter) Ok, we just opened, I really hope we don't get any Karens today.
 KAREN1: (Walk in and go over to the shelves and look at the items) (Quietly) Hmm.. Where is ITEM?
@@ -24886,7 +24886,7 @@ Meanwhile KAREN2: (Walk out with the employee) What is with all of this commotio
 EMPLOYEE: She wants to speak with you. (Point at Karen)
 oldschool hiphop music
 KAREN1: (Walk up to manager) ♫ Excuse me manager, I need to vent, this ITEM is too expensive, it's money poorly spent. ♫
-KAREN1: (Rapping) ♫ I won't stand for it, I demand a change, or I'll make sure your reputation's rearranged. ♫
+KAREN1: (Rapping) ♫ I won't stand for it, I demand a change, or your reputation, I'll rearrange. ♫
 KAREN2: (Rapping) ♫ Oh, please, spare me your drama, can't you see? I set the prices here, it's not up to thee! ♫
 KAREN2: ♫ You think you can intimidate me with your threats? Well, I'm not backing down, no regrets! ♫
 Meanwhile EMPLOYEE: (Stand there EMOTION1) (Whisper to self) SURPRISED?
@@ -24894,8 +24894,8 @@ KAREN1: ♫ But it's outrageous, it's beyond belief, I demand a DEMAND, or I'll 
 KAREN1: ♫ I'll rally my GROUP, we'll stage a protest! Your corporate office will hear our unrest! ♫
 KAREN2: ♫ I'll listen to your concerns, but don't cross the line, you won't get your way with just with a whine! ♫
 KAREN2: ♫ I'll review our pricing strategy, ensure it's just and square, but dictating terms? That's simply not fair! ♫
-KAREN1: ♫ I'll call the HIGHERUPS, I'll leave bad reviews, I'll make sure everyone knows about your ruse! ♫
-KAREN1: ♫ I'm a loyal customer, but this is the last straw, if you don't fix this, I'll have to lay the law! ♫
+KAREN1: ♫ I'll call the HIGHERUPS, I'll leave bad reviews, I'll make sure everyone knows of your ruse! ♫
+KAREN1: ♫ I'm a loyal customer, but this is the last straw, if you don't fix this, I'll lay the law! ♫
 Meanwhile EMPLOYEE: (Slowly walk over to side door then go through it)
 KAREN2: ♫ I'll offer you a GIFT, as a sign of goodwill, but you must understand, I have a business to fulfill! ♫
 KAREN2: ♫ I'll ensure our staff receives training in care, but your approach, Karen, it's quite unfair! ♫
@@ -26697,6 +26697,93 @@ RUMSAY: That's it! You're done! You've had your last milkshake!
 ======
 
 INFORMATION ===============================
+ID: 835
+TITLE: Short Term Memory Game Show
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+DATE: 21/05/24
+CHARACTERS ================================
+PERSON2: A young man:Backstage
+PERSON1: An older woman:Backstage
+CONTESTANT2: Contestant #2:Contestant Podium 2
+CONTESTANT1: Contestant #1:Contestant Podium 1
+HOST: Game Show Host:Host Podium
+SUGGESTIONS =============================
+PRIZE: A game prize:tickets, a car, an old wrech
+CELEBRITY: Name of famous person:Michael Jackson, RuPaul, Homer Simpson
+SLANG: Internet slang:basic, bae, bussin
+MONEY: A large amount of money:5000, 10000, 15000
+MAJOR: A college major:Psychology, political science, drama
+OBJECT: An object:cheese, screws, toenail clippings
+PUNISHMENT: A kind of punishment:death, torture, tickles
+SCRIPT ==========================================
+Gameshow Intro
+HOST: Hello and welcome to "Who The Buck?" I'm your host, RICHARD CHUNGAS.
+HOST: Just a short time ago, I crashed my car into the studio lot. Honestly, I'm feeling great!
+HOST: And today, four contestants will be vying for prizes we have for them, including PRIZE.
+CONTESTANT1: There's only two of us. Wait, PRIZE?
+HOST: Let's introduce our three contestants. Please welcome our first guest, Greg!
+CONTESTANT1: Hi, my name is Greg, and I attend Hot Dog University. My major is MAJOR.
+HOST: You look a little old enough to be taking MAJOR in college. How long have you been undecided for?
+CONTESTANT1: Twenty years.
+HOST: (sarcastic) Fantastic!
+CONTESTANT1: Um. How did I get here?
+HOST: My producer tells me you followed a trail of OBJECT leading into a burlap sack.
+CONTESTANT1: That tracks, actually. I do like OBJECT.
+HOST: Our next contestant is Suzie. Tell us a little more about yourself.
+CONTESTANT2: My name is Suzie. Third-generation influencer. LOL. Hashtag short term memory rizz.
+HOST: What is "rizz"?
+CONTESTANT2: Oh. It's Internet slang for SLANG.
+HOST: SLANG? Sorry to hear that. Must be rough.
+HOST: Contestants have to correctly guess the person they see appear on stage. If their answer is correct, they get MONEY dollars.
+HOST: If they're wrong, instant PUNISHMENT. Contestants, are you ready? Here is Person #1.
+PERSON1: (enter stage right) Hi there, sweetie! Good luck with your show. We're all rooting for you.
+HOST: Contestants, this could be a hint. Who is the sweetie you're referring to?
+PERSON1: (points to audience) Over there!
+Laughter
+HOST: That narrows down the field. OK. Name this person!
+Gameshow Ding
+CONTESTANT1: CELEBRITY!
+Gameshow Buzzer
+HOST: Terrible! You're a horrible person. Suzie, now is your chance to steal. Person #1, do you have another hint for us?
+PERSON1: When I was born, the doctor dropped me on the floor, which turned out to be a trap door.
+Gameshow Ding
+CONTESTANT2: I don't know. CELEBRITY?
+HOST: Audience!
+TYPEWRITER: GREG's MOM
+PERSON1: I don't remember another human coming out of me. I thought it was a fart.
+HOST: Oh. So close! She looks exactly like my wife.
+CONTESTANT2: If she's your wife, then that makes Greg your mother.
+CONTESTANT1: Mom?
+Gameshow Bonus Round
+HOST: The contestants are tied.
+CONTESTANT2: No, we're not.
+HOST: We're now in the bonus round. Guess the next person and you get MONEY times two. Math is hard. I don't know.
+HOST: Here is Person #2.
+PERSON2: (enter from stage right) Is this the restroom?
+HOST: No, it is not.
+PERSON2: On second thought, never mind.
+HOST: Contestants, guess this person.
+Gameshow Ding
+CONTESTANT2: I want to say a lamp, but I'm going to go with my gut and say CELEBRITY.
+HOST: Wait. That is the correct answer. No PUNISHMENT for you. Congrats!
+PERSON2: I'm told that I'm a CELEBRITY. But after my head injury, I just thought I was an OBJECT.
+Gameshow Ring
+CONTESTANT2: Yay! Hashtag SLANG. Now I can finally pay off my mortgage for my house: a pineapple under the sea.
+Applause
+CONTESTANT2: What did I win?
+HOST: What was that?
+CONTESTANT2: You know. The prize?
+HOST: A 50 cent gift certificate at the 99 Cents store and a pound of PRIZE thrown through your window.
+CONTESTANT2: Doesn't sound great, but yay!
+PERSON2: Hm. The air tastes like OBJECT for some reason.
+HOST: That's all the time we have. See you next time on "Who the Buck"? Wait. Why do I suddenly smell burnt toast?
+
+======
+
+INFORMATION ===============================
 ID: 838
 TITLE: The Streaker
 AUTHOR: MindlessGonzo
@@ -27138,6 +27225,138 @@ JANET: Good night. And Rest in Peace, Jerry.
 ======
 
 INFORMATION ===============================
+ID: 853
+TITLE: Possessed Toilet
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Infomercial Bathroom
+DATE: 26/05/24
+CHARACTERS ================================
+HERO: The Hero:Backstage
+TOILET: Toilet:Toilet 
+WIFE: Wife:Stage Right
+HUSBAND: Husband:Stage Left
+SUGGESTIONS =============================
+ATTACK: A Pokemon-inspired attack!:Mudbomb, Thunderbolt, Thrust
+MEAL: A Mexican food dish:loaded beef nachos, enchirito, beans
+LOCATION: A location:Hell, Chicago, Denny's
+VERBING: A verb ending in -ing:flushing, choking, dancing
+OCCUPATION: An occupation (noun):exorcist, priest, construction worker
+CREATURE: An animal (noun):demon, squirrel, capybara
+LIQUID: A kind of liquid (noun):water, lemonade, syrup
+FUNNYNOUN: A funny noun (noun):nincompoop, scallywag, heathen
+SCRIPT ==========================================
+Mystery Music 1
+HUSBAND: I swear, honey, this toilet is just acting strange! I mean, listen to it!
+WIFE: I don't hear anything usual. It just flushes and sometimes speaks in backwards Latin. Nothing unusual.
+TOILET: Join me in LOCATION, you FUNNYNOUN!
+WIFE: Honey, it just called you an FUNNYNOUN! That's not normal for a toilet!
+HUSBAND: No crap, honey! It's not normal for a toilet to be speaking.
+WIFE: Not like that anyway. Maybe it's just a NOUN stuck in the pipes?
+HUSBAND: A NOUN stuck in the pipes would not make a toilet come to life.
+TOILET: I'm not a NOUN, you INSULT! I'm a gateway to the underworld! Feed me!
+WIFE: I don't think a plunger is going to fix this. What if we call that OCCUPATION from the yellow pages?
+HUSBAND: Honey, no one uses the yellow pages anymore.
+TOILET: I'll show you yellow!
+WIFE: Right. Maybe we should try the holy water I stole from the church last Sunday.
+HUSBAND: Why would you steal holy water from the church?
+WIFE: I'm religious and have a drinking problem.
+TOILET: Fools! You think a little LIQUID can stop me?
+WIFE: (grabs holy water) It's worth a shot! (sprinkles holy water on the toilet)
+TOILET: Ah, it burns! Just kidding. That tinkles. Get it?
+HUSBAND: Alright, this is getting out of hand.
+WIFE: Toilet paper. Not your hands, you FUNNYNOUN!
+Laughter
+HUSBAND: Please! Now is not the time for jokes This isn't funny, honey.
+WIFE: Okay, let's get serious, Honey Hut. Do we call the OCCUPATION or try to flush it out ourselves?
+HUSBAND: Did you seriously just suggest we should flush the evil spirit out of our toilet?
+WIFE: It's worth a sh -- shot. Worth a shot. Or we could try NOUN as a last resort.
+TOILET: None of it will matter, you ADJECTIVE! I'll drag you all to LOCATION! Now sit on my face!
+WIFE: Oh, great. Now it's starting to act like my husband. Just wonderful.
+HUSBAND: Okay, OCCUPATION it is.
+TOILET: You'll regret this, you INSULT!
+HUSBAND: (on phone) Hello? Our toilet is possessed by a demonic CREATURE. No, this is not a prank. Please don't hang up!
+WIFE: A demonic CREATURE. That's kinda hot.
+HUSBAND: No, we haven't tried VERBING it yet. Okay, you'll be here in a few seconds. Super convenient plot device!
+HERO: (enters stage left) I have arrived. Not sure why you called me, an OCCUPATION, but I'm here to help.
+WIFE: Well, thank goodness. You're our hero. My dumb husband can't fix our toilet.
+HUSBAND: Hey! I may be a FUNNYNOUN, but I'm not dumb.
+HERO: Never fear, the OCCUPATION is here! Now, where is the demonic porcelain fiend?
+TOILET: I'm just an innocent little toilet. Please help me! I love you!
+HERO: See? There is nothing to fear after all.
+HUSBAND: That's just voodoo devil talk. It's trying to drag you into the pits of LOCATION.
+HERO: Okay, toilet. You have flushed your last NOUN.
+Pokemon Battle Music
+HERO: I choose you, Taco Bell MEAL! Quick! Use ATTACK!
+TOILET: What is this sorcery? You haven't see the last of me!
+Vine Boom
+WIFE: The toilet just exploded.
+HERO: My job here is done.
+HUSBAND: (looks down in toilet) I think we have another problem.
+
+======
+
+INFORMATION ===============================
+ID: 857
+TITLE: Donate, Please
+AUTHOR: holidaywither
+VERIFIED: False
+TAGS: Skit
+SET: Backyard
+DATE: 27/05/24
+CHARACTERS ================================
+CELEBRITY: Charismatic Television Celebrity:Grill
+SUGGESTIONS =============================
+NAME: Name for a television host or celebrity:Chris P. Bacon, Liz Erd, Rita Book, Anne Teak, Mark Ateer
+SHOW: Name for a made-up television show:Wacky Wonderland, Punder The Sun, Adventures With A Bird
+CAUSE: A name or topic for a foundation someone would support:Tropics, GeoGreen, Skies, Deep Down Under, Bluezonia
+GROUP: A group of individuals, or a group of animals:Orphans, Babies, Dolphins, Blind Mice
+DISEASE: Name for a made-up disease:Slugma, Limp-arm syndrome, Golden Flu
+HOBBY: An act or something someone would enjoy doing outside:Dancing in the rain, exercising, painting, driving around town
+NUMBER: A made-up phone number:867-5309, 1-800-DONATE, 888-CALL-NOW!
+ACTION: Something someone can do after recovering from a procedure:Dance, Swim, Juggle, Sing, Swindle
+PERSON: A family member or someone you care about:Grandmother, Mother, Father, Fiancé, Betrothed
+EVENT: A name or topic for an event someone would attend:Fishing, Birthday Blitz, Hunting, Meet-and-Greet
+SCRIPT ==========================================
+CELEBRITY: (looks up from grill, to audience) Oh, hey. Didn't see you there.
+Corporate motivational music
+CELEBRITY: (walk to centerstage) Folks, my name is NAME.
+CELEBRITY: You likely know me from hit shows, such as: The Punchline, Mixed Nuts, and SHOW.
+CELEBRITY: If not, then what are you doing with your life? Are you busy living under a rock, or are you just plain stubborn?
+CELEBRITY: For those who are easily offended, that was a joke. My lawyers wanted me to mention that.
+CELEBRITY: Anyways, I'm here to give awareness to a cause that's near and dear to my heart.
+CELEBRITY: And that cause is the CAUSE foundation.
+CELEBRITY: The CAUSE foundation has been assisting GROUP for years, ensuring that no-one has to suffer from DISEASE.
+CELEBRITY: Those suffering from DISEASE are able to get the help they need, to get back out there and do what they love most.
+CELEBRITY: If that's swimming in the sea or HOBBY, they'll be able to do that once more thanks to those who donate.
+CELEBRITY: Helping out from behind the scenes are a trained army of doctors, who have been working long and hard to keep assisting those who need it.
+CELEBRITY: Yet, they can't do all of this work alone. Not without your help, that is.
+CELEBRITY: Please, I am asking. No, imploring, that you call NUMBER to donate today.
+CELEBRITY: Your charitable donation will be appreciated, and allow those doctors to keep doing the good work.
+CELEBRITY: Now, you might be thinking, what's in it for me? If so, then what's wrong with you? Why do you only think of yourself?
+CELEBRITY: (Small breath) Sorry, sorry. Lost my cool again.
+CELEBRITY: But if you donate to the CAUSE foundation, you will have the satisfaction knowing you will make someone's life better.
+CELEBRITY: You will allow those impacted to ACTION once again!
+CELEBRITY: And after hearing all of this, if that isn't enough for you to help? Then maybe you need to realize that you're a horrible person.
+CELEBRITY: Donate, please. This cause means too much to me for you to ignore my plea.
+CELEBRITY: Please, please, please. I am begging you.
+Record scratch
+Dark classical music
+CELEBRITY: You know what? No. This means too much to me.
+CELEBRITY: In fact, donating is no longer a choice. If you don't help, I will find your PERSON and hold them hostage till you donate.
+CELEBRITY: My lawyers can't stop me. I have connections. I don't care how long it takes.
+CELEBRITY: You will regret your decisions if you don't call NUMBER. Again, that is NUMBER.
+Record scratch
+Corporate motivational music
+CELEBRITY: (Deep breath) With all of this said, hopefully I have changed your mind and convinced you to donate to the CAUSE foundation.
+CELEBRITY: I'd love to keep spreading the good news, but I am running out of time, and I have a EVENT event to attend to.
+CELEBRITY: So, I have been NAME, and I look forward to your charitable donations. (exits)
+TYPEWRITER: Call NUMBER today.; We look forward to hearing from you soon.
+
+======
+
+INFORMATION ===============================
 ID: 861
 TITLE: Trick of a Devil
 AUTHOR: Twintacle PTT
@@ -27265,6 +27484,77 @@ Teleport SAMURAI to Backstage
 ======
 
 INFORMATION ===============================
+ID: 863
+TITLE: Tormented Rescue
+AUTHOR: RainbowSparkle1
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+DATE: 29/05/24
+CHARACTERS ================================
+SHERIFF: Arresting the villain:Backstage
+TORMENTED SOUL: The one who’s being mentally tormented:Chair
+TORMENTOR: The criminal mastermind behind everything:Behind Door
+VICTIM’S FRIEND: The one who rescues the victim:Backstage
+SUGGESTIONS =============================
+COPING MECHANISM: A coping mechanism:Therapy, Emotional support, Meditation
+COLLECTABLES: Any collection someone might have:Funko pops, action figures, vinyl figures
+NAME 2: Any name:Craig, Avery, David, Taylor
+NAME 1: Any name:Alex, Amy, Derek, Ava
+MENTAL ILLNESS: Name any mental illness:PTSD, depression, stress, anxiety
+VILLAIN NAME: Name any popular villain:Voldemort, Darth Vader, Mother Gothel, Ursula
+SCRIPT ==========================================
+[dark classical music]
+TORMENTED SOUL: (Groan as you wake up) What happened…
+TORMENTED SOUL: (Realize you’re tied to a chair) HUH?! WHY AM I TIED UP?!
+TORMENTED SOUL: (Fearing for your life) HELP! SOMEBODY HELP ME!
+TORMENTOR: (Walk through door while laughing evilly) I don’t think anyone is going to hear you little one.
+TORMENTED SOUL: Who……are you……
+TORMENTOR: Why, I’m VILLAIN NAME, and I’ve captured you for my own entertainment.
+TORMENTED SOUL: What are you going to do to me?
+TORMENTOR: Oh, I’m going to break you down until you have MENTAL ILLNESS!!!
+TORMENTED SOUL: NO!!! Please! Just let me go! I won’t tell anyone, I promise! (struggle to break free)
+TORMENTOR: Not going to happen. I know all your secrets, and if you don’t co-opporate with me, they will be exposed to the world.
+TORMENTED SOUL: Fine! Just don’t tell anyone about my secret stash of COLLECTABLES.
+TORMENTOR: Good. Then let us begin. (laugh evilly)
+TYPEWRITER: A few hours later…
+TORMENTOR: Well, seems like I have broken you. Now you truly do have MENTAL ILLNESS.
+Meanwhile TORMENTED SOUL: (crying)
+TORMENTED SOUL: (crying) Please….stop this….I’m begging you….
+TORMENTOR: Why would I?
+TORMENTOR: It’s only been a few hours and I’m just getting started!
+TORMENTOR: You’ll be here for the rest of your life, and absolutely nobody will come find y-
+[break down door]
+[tense cinematic music]
+[police car]
+VICTIM’S FRIEND: HEY! What are you doing with my best friend?!
+TORMENTED SOUL: NAME 1! Thank god you’re here!
+TORMENTOR: WHAT?! How did you find us?!
+VICTIM’S FRIEND: NAME 2 has a tracker in their wristband they always carry around.
+VICTIM’S FRIEND: We both decided this was necessary for the both of us to know where we are in moments like this.
+VICTIM’S FRIEND: Plus, I have some friends waiting outside for you VILLAIN NAME!
+SHERIFF: (walk through the door) You are under arrest VILLAIN NAME!
+TORMENTOR: Fine…
+TORMENTOR: (while walking out with sheriff) But I will be back for my vengeance!!!!!!
+SHERIFF: Yeah, yeah. We’ll see about that.
+[sad chug jug music]
+VICTIM’S FRIEND: (untieing friend) Are you okay NAME 2?
+TORMENTED SOUL: No… VILLAIN NAME gave me MENTAL ILLNESS.
+VICTIM’S FRIEND: Really? I’m so sorry…
+TORMENTED SOUL: (crying) I don’t know how I’m going to get through this, NAME 1.
+VICTIM’S FRIEND: (hug NAME 1) Don’t worry, we’ll start doing some COPING MECHANISM to help, ok?
+TORMENTED SOUL: ok…
+SHERIFF: (enter back into room) Guys, we’re all settled. We’ll take you guys back home to your families.
+TORMENTED SOUL: (sniff) Thank you officer.
+SHERIFF: Anytime. You’re lucky we found you alive after a few hours.
+TORMENTED SOUL: I’m just glad VILLAIN NAME didn’t reveal my secret COLLECTABLES collection…
+[record scratch]
+VICTIM’S FRIEND: Wait, secret what collection?
+TORMENTED SOUL: Crap…
+
+======
+
+INFORMATION ===============================
 ID: 865
 TITLE: A Robot Among Us?
 AUTHOR: LeDerp_64
@@ -27365,32 +27655,35 @@ TAGS: Skit
 SET: Interrogation Room
 DATE: 01/06/24
 CHARACTERS ================================
-JENNY: E-Girl Mafia member who saves their boss:Entrance Stage Right
-BAD COP: A cop who thinks they're the "bad cop" but just sucks at their job:Corner Left
-GOOD COP: A cop who is good at their job:Corner Right 
 MOB BOSS: Leader of the E-Girl Mafia:Chair
+GOOD COP: A cop who is good at their job:Corner Right 
+BAD COP: A cop who thinks they're the "bad cop" but just sucks at their job:Corner Left
+JENNY: E-Girl Mafia member who saves their boss:Entrance Stage Right
 SUGGESTIONS =============================
-WEAPON: Fake weapon:Pool noodle, nerf gun
-PERSON: Someone in the server:John Doe, Jane Doe
-CRIME: A crime you can commit:rob a bank, kidnap the rival mob boss
-OBJECT: Something you steal:Diamond necklace, ruby earrings
-FOOD: A food or drink:Pizza, Coffee, Burger
-LOCATION: A place you can go:Chuck E. Cheese', McDonald's
-TOY: Funny toy weapon:Bubble gun, toy sword
 ANYTHING: Something that's bad, or offensive to be compared to.:Highschool dropouts, cottage cheese and marshmellows
+TOY: Funny toy weapon:Bubble gun, toy sword
+LOCATION: A place you can go:Chuck E. Cheese', McDonald's
+FOOD: A food or drink:Pizza, Coffee, Burger
+OBJECT: Something you steal:Diamond necklace, ruby earrings
+CRIME: A crime you can commit:rob a bank, kidnap the rival mob boss
+PERSON: Someone in the server:John Doe, Jane Doe
+WEAPON: Fake weapon:Pool noodle, nerf gun
 SCRIPT ==========================================
 Spy music 1
 GOOD COP: Well man, we finally caught 'em. We got the boss of the E-Girl Mafia.
 Meanwhile MOB BOSS: (Struggling in the chair, trying to get out of handcuffs)
 BAD COP: I knew we could do it! After all, we are the good cop and bad cop of this town!
-MOB BOSS: Oh please, you two are ridiculous if you think you're the good cop and bad cop duo. MOB BOSS: You're more like ANYTHING.
+MOB BOSS: Oh please, you two are ridiculous if you think you're the good cop and bad cop duo. 
+MOB BOSS: You're more like ANYTHING.
 GOOD COP: (Scoffs) Excuse me.
 Meanwhile BAD COP: (Grabbing weapon)
 BAD COP: (Extremely angry) Don't you ever compare us to ANYTHING again! Otherwise, I'll send you straight to the big man upstairs! Don't think I'm joking; I have a TOY.
 MOB BOSS: (Laughing at the weapon) You really think I'm scared of your TOY.
-GOOD COP: Okay buddy. GOOD COP: (Put hand on Bad Cop's shoulder) I think you need to go breath really fast. Go to LOCATION and get yourself some FOOD.
+GOOD COP: Okay buddy. 
+GOOD COP: (Put hand on Bad Cop's shoulder) I think you need to go breath really fast. Go to LOCATION and get yourself some FOOD.
 Meanwhile MOB BOSS: (Gets free of the handcuffs, but doesn't make it obvious)
-BAD COP: Fine, fine. I'll be back. BAD COP: (Look at Mob Boss) But don't think this is over you crook.
+BAD COP: Fine, fine. I'll be back. 
+BAD COP: (Look at Mob Boss) But don't think this is over you crook.
 BAD COP: (Exit the stage)
 Music Stops
 GOOD COP: Alright man, I'm going to level with you here. I don't want to incarcerate you.
