@@ -2476,6 +2476,7 @@ donkeydemon
 ~乙 丹 匕 丹 尺 丹~
 Verdurous
 Soulvad is dumb
+Forgotten_Ghost
 #TIER=3
 SidMarcus
 PinballReviewer
