@@ -2474,6 +2474,7 @@ donkeydemon
 ~~Nickname~~
 ~乙 丹 匕 丹 尺 丹~
 Verdurous
+Soulvad is dumb
 #TIER=3
 SidMarcus
 PinballReviewer
