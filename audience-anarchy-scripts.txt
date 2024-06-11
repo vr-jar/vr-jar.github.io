@@ -24681,94 +24681,6 @@ Crowd woo
 ======
 
 INFORMATION ===============================
-ID: 753
-TITLE: Fairy Wish Prince
-AUTHOR: Kymerah
-VERIFIED: True
-TAGS: Skit,Contains Adult Innuendo
-SET: Living Room
-DATE: 28/04/24
-CHARACTERS ================================
-GUY: Person wanting wish:Couch
-WISH: The Fairy Wish Prince:Backstage
-SUGGESTIONS =============================
-SILLY: A single word to describe someone:Lovely, pathetic, smelly, fruity, moist, foolish, idiotic
-ORGAN: An internal organ:Heart, lung, pancreas, brain, balls
-FAN: A popular franchise:SpongeBob, FNAF, Fortnite, Marvel, Hazbin Hotel
-PART: A specific part of the body:Boobs, ass, lips, cheeks
-YOUNG: Something you would call a young person:Boy, girl, chap, lad, lass, child, kid, youngster
-TV: A TV show:X-Men’97, Konosuba, The Walking Dead, Breaking Bad, G.I Joe
-BODY: A part of the body to pinch:arm, leg, tummy, knee, elbow
-SUB: A liquid you don’t want to touch:Acid, liquid nitrogen, lava, oil, white sauce, crusty jam
-PROD: An expensive product:PC, PSA 10 Base set Charizard, Goth Mommy, Full body tracking
-CREATURE: A mythical creature:Elf, troll, goblin, demon
-EMO: An emotion :Happy, sad, angry, horny
-ROYAL: A royal title (example “King”):King, queen, princess, duke, knight, high emperor, The Almighty
-SCRIPT ==========================================
-GUY: (turn off tv) That was a very slow episode of TV…
-GUY: (sigh) Boy, life sure is boring right now.
-GUY: If only I had a Fairy Wish Prince to grant me a— Oh my god!
-Teleport WISH to center stage
-Alien teleport
-bard music
-WISH: (arms out) Laaaaa!
-WISH: Hello little YOUNG!
-GUY: Who are you?
-WISH: I am your Fairy Wish Prince, at your service. (bow)
-GUY: (look them over) Whoa..!
-GUY: Hey, if you’re a prince how come you have...... PART?
-Laughter
-WISH: (grab PART) My plump, juicy PART is none of your god damned business.
-WISH: (point) And you’re one to talk, you chubby little FAN fan!
-Laughter
-GUY: (look down) Aw..
-WISH: (arm around shoulder) Oh, cheer up! I’m here to make your wildest dreams come true!
-WISH: Simply poke my BODY three times and I’ll grant you one wish!
-Vine boom
-GUY: Your BODY?!
-WISH: Anything your ORGAN desires will be yours for the taking.
-GUY: Really?
-WISH: For really! (Offer BODY)
-GUY: O-oh? Okay!
-WISH: Just poke it.
-GUY: (extend hand) Lemme just..
-WISH: Come on now… Don’t be shy!
-GUY: (poke 1) Oh!
-WISH: Yes, just like that!
-GUY: Hehe! (poke 2)
-WISH: One more.
-WISH: Careful not to get SUB on your finger cuz I’m going to move around really fast like this. (Wobble BODY)
-Laughter
-GUY: H-hey, stop that! (poke 3)
-WISH: (perk up) Now what’s your one wish? (reach out) The sky is the limit!
-GUY: Um.. I want PROD!
-Music stops
-WISH: You SILLY YOUNG, I can’t afford a PROD!
-GUY: Oh..
-GUY: You’re stupid.
-WISH: Yeah..
-GUY: (clear throat) Hmm.
-WISH: What?
-GUY: Nothing..
-WISH: I’m going to go home now.
-GUY: Buh-bye. (Wave)
-WISH: (leave) Bye now. (backstage change avatar)
-GUY: (sit on couch) Man, I really wanted that PROD..
-Aww
-TYPEWRITER: Ten seconds later…
-GUY: I guess my life really is boring..
-GUY: If only I had a EMO CREATURE ROYAL to grant me a— Oh my god!
-Teleport WISH to center stage
-Alien teleport
-bard music
-WISH: (arms out) Laaaaa!
-GUY: Oh no.... (hang head)
-Laughter
-applause
-
-======
-
-INFORMATION ===============================
 ID: 754
 TITLE: New Chimera
 AUTHOR: Kymerah
@@ -28068,6 +27980,106 @@ PROF. CLAYTON: A true gentleman's patience, while abundant, is also finite and N
 PROF. CLAYTON: Well... They must be dealt with...
 Music Stops
 PROF. CLAYTON: (cheery tone) But I don't know about you, but I'm quite peckish from this adventure... Who's up for some BRITISH TREAT?
+
+======
+
+INFORMATION ===============================
+ID: 877
+TITLE: Pappi the Rappi
+AUTHOR: AtmanRyu
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 06/06/24
+CHARACTERS ================================
+PAPPI: Young Inspiring Rapper Pappi:Alley
+MASTER: Shady Famous Celebrity:Backstage
+SUGGESTIONS =============================
+ROBBERY: Describe an act of robbery:pickpocket that fool, steal all her jewels, highjack his car
+MANSLAUGHTER: Describe an act of manslaughter:Unalive that prick, Strangle that bastard, Curb stomp that snitch
+CATCHPRASE: Positive reinforcement catchphrase:I gotta believe, have to trust my heart, got to own this bit
+ARTIST: Name of Famous Celebrity, Real or Fake:Ludacris, Mix Master McFrog, Eminem, DJ Spicebag
+DATE: Romantic location:The Theater, Makeout Hill, The Park
+HUSTLE: A side hustle:make TikTok videos, do Twitch Streams, make music videos in my iPhone
+RECORDER: Something that repeats words:a parrot, a broken record, a yesman
+GESTURE: Describe a physical action:Spin around, do a flip, raise your arms, shake your hands
+CRIME: Any type of crime:Arson, Kidnapping, Cryptocurrency, Fraud
+SCRIPT ==========================================
+guitar music 1
+PAPPI: (dejected) Aw man... Such a bummer, dawg...
+PAPPI: I was looking forward to taking beautiful Sunny Sun-Sunshine for a night at DATE, but she DUMPED me instead!
+PAPPI: All because she saw me as IMMATURE! I don't get it! After all, I just told her I HUSTLE for a living! What gives, dawg...
+PAPPI: If only I could learns what it takes to be manly...
+badass music 1
+break down door
+MASTER: (enter Stage Right) YO YO YO, WASSUP, MY PLAYAS!!!
+crowd woo
+PAPPI: OH. MY. GOD!!!
+PAPPI: It's famous Celebrity, ARTIST!!!
+applause
+MASTER: You bet ya ass, Pappi! (thumbs up)
+PAPPI: What are you doing here? And how you know of me?
+MASTER: Ha ha ha! Who hasn't heard of Pappi!? Rapping sensation whose gig is to repeat people like RECORDER!
+MASTER: But what's important: I heard your pathetic laments of having ZERO rizz, and I'm here to fix that!
+MASTER: WATCH! LISTEN! LEARN!
+MASTER: And do EXACTLY as I do! (stand right side of Pappi while facing audience)
+Meanwhile PAPPI: (Stand left side of ARTIST while facing audience)
+PAPPI: Really? Oh, I know! CATCHPRASE!
+oldschool hiphop music
+MASTER: (rapping) ♫ Check it, I’m the one they all talkin’ ‘bout, Walk in the room, got that clout, no doubt. ♫
+MASTER: ♫ Flashin’ a smile, style so slick, Every step I take, it’s like a magic trick. ♫
+MASTER: ♫ Stop and Look around! ♫
+PAPPI: (copy) ♫ Stop and Look around! ♫
+MASTER: ♫ Check your surroundings! ♫
+PAPPI: (copy) ♫ Check my surroundings! ♫
+MASTER: ♫ Now ROBBERY! ♫
+PAPPI: (copy) ♫ ROBBERY! ♫
+Music Stops
+record scratch
+PAPPI: Wait, wait, WAIT... Where that came from!?
+MASTER: Oh, my bad, mah boi! Got caught up and I got nostalgic over a past role. So sorry!
+PAPPI: Well... I guess a slip up could happen to anyone...
+MASTER: Yeah yeah yeah! Let's get back to it!
+oldschool hiphop music
+MASTER: (rapping) ♫ I’m the cool in the breeze, the heat in the fire, Climbin’ to the top, my stock never tire. ♫
+MASTER: ♫ Got that charm, got that flair, Everywhere I go, people stop and stare. ♫
+MASTER: ♫ Think and contemplate your position. ♫
+PAPPI: (copy) ♫ Think and contemplate my position. ♫
+MASTER: ♫ Like an apex predator, be up for anything! ♫
+PAPPI: (copy): ♫ Like an apex predator, be up for anything! ♫
+MASTER: ♫ Now pounce and MANSLAUGHTER! ♫
+PAPPI: (copy): ♫ Pounce and MANSLAUGHTER! ♫
+Music Stops
+record scratch
+PAPPI: WHAT!? NOOOO! What is wrong with you!?
+MASTER: Wassup, homeslice? laying it too thick?
+PAPPI: You think!? All I want is proper advice and you go off into these horrible tangents! Can we focus, please?
+MASTER: Aright, short stack, I'll do it for you!
+PAPPI: Thank you...
+oldschool hiphop music
+MASTER: (rapping) ♫ Ice in my veins, but I’m burnin’ up the track, Every word I spit, it’s like a gold plaque. ♫
+MASTER: ♫ In the game of cool, I’m the MVP, Settin’ trends like it’s my legacy. ♫
+MASTER: ♫ Throw caution to the wind and prepare for anything! ♫
+PAPPI: (copy) ♫ Throw caution to the wind and prepare for anything! ♫
+MASTER: ♫ Because you know what, might as well engage in CRIME! ♫
+PAPPI: (copy) ♫ Because you know what, might as well engage in CRIME! ♫
+Music Stops
+record scratch
+PAPPI: (infuriated) ...That's it, I'm done! Get out of here! NOW!
+sad chug jug music
+MASTER: You know what? You right, I need therapy... But before I go to seek help, may I do one last request?
+PAPPI: ...Ugh, fine... What is it?
+MASTER: ♫ GESTURE and take on all the blame! ♫
+PAPPI: (copy) ♫ GESTURE and take on all the blame! ♫ ...DAMNIT!!!!
+Meanwhile MASTER: SUUUUUCKAAAA!!! (run out of the stage)
+Music Stops
+record scratch
+PAPPI: I hate it when that happens... Anyway, what he meant by that... (peek inside Right Stage door)
+PAPPI: (horrified) Oh my god! When that happened!? How he did it!? I better get out of here before the law gets here.
+police car
+police car
+police car
+PAPPI: ...Aw man...
 
 ======
 
