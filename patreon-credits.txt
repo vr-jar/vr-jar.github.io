@@ -1782,6 +1782,7 @@ Elmo Playz YT
 KatNoire
 «Lucifer»
 ~Novality~
+ClosedOnSundays
 modNick
 ruralists
 #TIER=1
