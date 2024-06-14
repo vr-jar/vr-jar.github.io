@@ -9822,7 +9822,7 @@ TYPEWRITER: SLOGAN
 INFORMATION ===============================
 ID: 240
 TITLE: House Antics
-AUTHOR: theoneandonlywallter
+AUTHOR: spacecannonz
 VERIFIED: False
 TAGS: Skit
 SET: Living Room
@@ -18847,30 +18847,30 @@ PRES: Ha! in your dreams!
 
 INFORMATION ===============================
 ID: 592
-TITLE: Hardware Shop
+TITLE: Doesn't-Work-Shop
 AUTHOR: Valhymm
 VERIFIED: True
 TAGS: Skit
 SET: Hardware Store
 DATE: 28/04/24
 CHARACTERS ================================
-TIMMY: Timmy, son of Dave who always speaks his mind:Backstage
-DAVE: Dave, the clumsy customer:Backstage
-OLDMAN: Mr Fitzgerald, the grumpy old man:Entrance Stage Right
-MINA: Mina, the competent, no-nonsense employee:Center Stage
 FRANK: Frank, the eccentric hardware store owner:Behind Register
+MINA: Mina, the competent, no-nonsense employee:Center Stage
+OLDMAN: Mr Fitzgerald, the grumpy old man:Entrance Stage Right
+DAVE: Dave, the clumsy customer:Backstage
+TIMMY: Timmy, son of Dave who always speaks his mind:Backstage
 SUGGESTIONS =============================
-TROUSERS: Any item of clothing:trousers, shirt, pants, underpants, socks, boots, sandals, hat
-DUCTTAPE: Any DIY substance:duct tape, modelling clay, papier maché, grease, two-part epoxy, 
-PETROL: Something you wouldn't want to drink:petrol, bleach, toilet cleaner, liquid nitrogen, sulphuric acid, rubbing alcohol
-SCREW: Any small item you'd find in a DIY story:screw, nut, bolt, washer, O ring, peg, keyring, key
-BLUE: Any colour:blue, white, red, green, orange, yellow, indigo, violet, purple, black, grey, lilac, pink
-SLINGSHOT: Any children's toy which could be used as a weapon:slingshot, popgun, super soaker, wooden sword, catapult, cricket bat
-GLUESTICKS: Any sticky substance:gluesticks, honey, caulk, cement, bogeys
-BARBEDWIRE: Any dangerous material:asbestos, barbed wire, anti-vandal paint, napalm, nettles
-WOOD: Any safe building material:wood, concrete, plasterboard, slate, bricks, breeze blocks
-TREEHOUSE: Any outdoor DIY project:treehouse, shed, patio, conservatory
 PAINT: Any liquid:paint, oil, turpentine, tar, pitch, water
+TREEHOUSE: Any outdoor DIY project:treehouse, shed, patio, conservatory
+WOOD: Any safe building material:wood, concrete, plasterboard, slate, bricks, breeze blocks
+BARBEDWIRE: Any dangerous material:asbestos, barbed wire, anti-vandal paint, napalm, nettles
+GLUESTICKS: Any sticky substance:gluesticks, honey, caulk, cement, bogeys
+SLINGSHOT: Any children's toy which could be used as a weapon:slingshot, popgun, super soaker, wooden sword, catapult, cricket bat
+BLUE: Any colour:blue, white, red, green, orange, yellow, indigo, violet, purple, black, grey, lilac, pink
+SCREW: Any small item you'd find in a DIY story:screw, nut, bolt, washer, O ring, peg, keyring, key
+PETROL: Something you wouldn't want to drink:petrol, bleach, toilet cleaner, liquid nitrogen, sulphuric acid, rubbing alcohol
+DUCTTAPE: Any DIY substance:duct tape, modelling clay, papier maché, grease, two-part epoxy, 
+TROUSERS: Any item of clothing:trousers, shirt, pants, underpants, socks, boots, sandals, hat
 SCRIPT ==========================================
 FRANK: Now Mina, this is very important, DUCTTAPE can be used for pretty much anything...
 FRANK: It can even be used to mend leaky hosepipes like these which I'm trying to untangle.
@@ -26700,28 +26700,28 @@ ID: 838
 TITLE: The Streaker
 AUTHOR: MindlessGonzo
 VERIFIED: True
-TAGS: Skit,Contains Adult Innuendo
+TAGS: Skit
 SET: City
 DATE: 22/05/24
 CHARACTERS ================================
-STREAKER: The Streaker:Entrance Stage Left
-WITNESS 3: Witness 3, The Fan:Stage Left
-WITNESS 2: Witness 2, A Shopper:Alley
-WITNESS 1: Witness 1, The Parent:Center Stage
 ANDY: Andy The Reporter:Stage Right
+WITNESS 1: Witness 1, The Parent:Center Stage
+WITNESS 2: Witness 2, A Shopper:Alley
+WITNESS 3: Witness 3, The Fan:Stage Left
+STREAKER: The Streaker:Entrance Stage Left
 SUGGESTIONS =============================
-NUMBER: A number:7, 20, 400, 99, negative 1
-SILLY SOUND: A silly sound to make:a bird call, screeeee, (fart sound), Wingardium LeviOHsa not levioSAH
-FOOD: A food:hot dog, hamburger, spagetti
-SPORT: A sport:baseball, track, football
-SHOES: A kind of shoe or brand of shoe:sandals, sneakers, Timberland boots
-SOMETHING TO BUY: Something you buy at the store:vitamins, floor cleaner, eggs
-QUESTION: A random question:What is a man?, Where is Carmen Sandiego?, Is there such thing as dog hell?, Where's mommy?
-NAME: A name, be it just a first name or full name:John, Jane, Jacob Smith, Ronald McDonald, Jake from State Farm
-OBJECT: An object:can, toy, gun, toilet, piano, brick, minecraft diamond ore
-ANIMAL: An animal:cat, dog, bird, african elephant, gremlin, boa constrictor
-JOB TITLE: A job title:accountant, banker, cop
 EVENT: An event you want to go to or have to:business meeting, birthday party, parent-teacher conference
+JOB TITLE: A job title:accountant, banker, cop
+ANIMAL: An animal:cat, dog, bird, african elephant, gremlin, boa constrictor
+OBJECT: An object:can, toy, gun, toilet, piano, brick, minecraft diamond ore
+NAME: A name, be it just a first name or full name:John, Jane, Jacob Smith, Ronald McDonald, Jake from State Farm
+QUESTION: A random question:What is a man?, Where is Carmen Sandiego?, Is there such thing as dog hell?, Where's mommy?
+SOMETHING TO BUY: Something you buy at the store:vitamins, floor cleaner, eggs
+SHOES: A kind of shoe or brand of shoe:sandals, sneakers, Timberland boots
+SPORT: A sport:baseball, track, football
+FOOD: A food:hot dog, hamburger, spagetti
+SILLY SOUND: A silly sound to make:a bird call, screeeee, (fart sound), Wingardium LeviOHsa not levioSAH
+NUMBER: A number:7, 20, 400, 99, negative 1
 SCRIPT ==========================================
 world news intro
 ANDY: This is ANDY DANDY with Channel 5 News live in Jarville, where a string of sightings has shook up the folks of this quiet town.
@@ -26753,8 +26753,10 @@ STREAKER: (Enters from Stage Left) Hey, you guys are doing a story?
 ANDY: Yes, we're talking about the string of streaker incidents here in Jarville. Do you know anything?
 STREAKER: Yes, I do.
 ANDY: And what will that be?
+STREAKER: I know who The Streaker is.
+ANDY: Oh, please, do tell us!
 music stops
-STREAKER: I'm The Streaker.
+STREAKER: It's me. I'm The Streaker.
 record scratch
 STREAKER: SILLY SOUND (Exit Stage Right)
 groose music
@@ -27404,28 +27406,28 @@ TAGS: Skit
 SET: Interrogation Room
 DATE: 29/05/24
 CHARACTERS ================================
-SHERIFF: Arresting the villain:Backstage
-TORMENTED SOUL: The one who’s being mentally tormented:Chair
-TORMENTOR: The criminal mastermind behind everything:Behind Door
-VICTIM’S FRIEND: The one who rescues the victim:Backstage
+VICTIM’S FRIEND: Victim’s friend:Backstage
+TORMENTOR: Tormentor:Entrance Stage Right
+TORMENTED SOUL: Victim:Chair
+SHERIFF: Sheriff:Backstage
 SUGGESTIONS =============================
-COPING MECHANISM: A coping mechanism:Therapy, Emotional support, Meditation
-COLLECTABLES: Any collection someone might have:Funko pops, action figures, vinyl figures
-NAME 2: Any name:Craig, Avery, David, Taylor
-NAME 1: Any name:Alex, Amy, Derek, Ava
-MENTAL ILLNESS: Name any mental illness:PTSD, depression, stress, anxiety
 VILLAIN NAME: Name any popular villain:Voldemort, Darth Vader, Mother Gothel, Ursula
+MENTAL ILLNESS: Name any mental illness:PTSD, depression, stress, anxiety
+NAME 1: Any name:Alex, Amy, Derek, Ava
+NAME 2: Any name:Craig, Avery, David, Taylor
+COLLECTABLES: Any collection someone might have:Funko pops, action figures, vinyl figures
+COPING MECHANISM: A coping mechanism:Therapy, Emotional support, Meditation
 SCRIPT ==========================================
 [dark classical music]
 TORMENTED SOUL: (Groan as you wake up) What happened…
 TORMENTED SOUL: (Realize you’re tied to a chair) HUH?! WHY AM I TIED UP?!
-TORMENTED SOUL: (Fearing for your life) HELP! SOMEBODY HELP ME!
+TORMENTED SOUL: (struggle to break free) HELP! SOMEBODY HELP ME!
 TORMENTOR: (Walk through door while laughing evilly) I don’t think anyone is going to hear you little one.
 TORMENTED SOUL: Who……are you……
 TORMENTOR: Why, I’m VILLAIN NAME, and I’ve captured you for my own entertainment.
 TORMENTED SOUL: What are you going to do to me?
 TORMENTOR: Oh, I’m going to break you down until you have MENTAL ILLNESS!!!
-TORMENTED SOUL: NO!!! Please! Just let me go! I won’t tell anyone, I promise! (struggle to break free)
+TORMENTED SOUL: NO!!! Please! Just let me go! I won’t tell anyone, I promise!
 TORMENTOR: Not going to happen. I know all your secrets, and if you don’t co-opporate with me, they will be exposed to the world.
 TORMENTED SOUL: Fine! Just don’t tell anyone about my secret stash of COLLECTABLES.
 TORMENTOR: Good. Then let us begin. (laugh evilly)
@@ -27460,6 +27462,7 @@ SHERIFF: (enter back into room) Guys, we’re all settled. We’ll take you guys
 TORMENTED SOUL: (sniff) Thank you officer.
 SHERIFF: Anytime. You’re lucky we found you alive after a few hours.
 TORMENTED SOUL: I’m just glad VILLAIN NAME didn’t reveal my secret COLLECTABLES collection…
+[music stops]
 [record scratch]
 VICTIM’S FRIEND: Wait, secret what collection?
 TORMENTED SOUL: Crap…
