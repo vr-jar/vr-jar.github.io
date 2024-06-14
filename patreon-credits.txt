@@ -1804,6 +1804,7 @@ Atonic_rain
 SANDW1CH0_0
 Neovali
 Agent_blu
+STORMひ
 modNick
 ruralists
 #TIER=1
