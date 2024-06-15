@@ -1798,6 +1798,7 @@ BiohazardFur
 Lunara Sanquina
 PPManLives
 flora_real
+DyingBug101
 modNick
 ruralists
 #TIER=1
