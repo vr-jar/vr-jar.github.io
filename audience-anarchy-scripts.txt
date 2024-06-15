@@ -8791,18 +8791,18 @@ TAGS: Skit
 SET: Infomercial Kitchen
 DATE: 28/04/24
 CHARACTERS ================================
-JAMIE: Juror:Center Stage
-CHEF2: Chef Sam:Stage Right
 CHEF1: Chef Charlie:Stage Left
+CHEF2: Chef Sam:Stage Right
+JAMIE: Juror:Center Stage
 SUGGESTIONS =============================
-NEXT: An unusual dish:breadless toast, fried coca cola
-FLAVOR: A unique flavor:metal, old socks, expired milk, mold
-CELEBRITY: A famous person:Gordon Ramsy, Jar, Queen Elisabeth III, Xi Jinping
-COUNTRY: A country or region:North Korea, Atlantis, Ohio
-DISH: A food dish :hot hog, salad, roast chicken, cake, burger, Pizza
-INGREDIENT: An unusual ingredient:raw chicken, molasses, seaweed
-KITCHEN TOOL: A kitchen tool:spoon, blender, stove, fridge
 BOMB: Something explosive:dynamite, C4, TNT, bombs
+KITCHEN TOOL: A kitchen tool:spoon, blender, stove, fridge
+INGREDIENT: An unusual ingredient:raw chicken, molasses, seaweed
+DISH: A food dish :hot hog, salad, roast chicken, cake, burger, Pizza
+COUNTRY: A country or region:North Korea, Atlantis, Ohio
+CELEBRITY: A famous person:Gordon Ramsy, Jar, Queen Elisabeth III, Xi Jinping
+FLAVOR: A unique flavor:metal, old socks, expired milk, mold
+NEXT: An unusual dish:breadless toast, fried coca cola
 SCRIPT ==========================================
 JAMIE: (To audience) Welcome to today's episode of "The Bakeoff"!
 JAMIE: Today, our chefs were tasked with creating a DISH using INGREDIENT and a KITCHEN TOOL.
@@ -25430,22 +25430,22 @@ TAGS: Skit
 SET: City
 DATE: 28/04/24
 CHARACTERS ================================
-JESSICA: Mom #1:Stage Right
-SALLY: Mom #2:Center Stage
 MANDY: The wierd mom:Entrance Stage Left
+SALLY: Mom #2:Center Stage
+JESSICA: Mom #1:Stage Right
 SUGGESTIONS =============================
-CITY NAME: City name:Paris, NYC, Rome
-PRODUCT: A product that you can easily buy at a store:Shampoo, keyboard, phone, knife
-ANIMALS: Literally any land animals (plural):Tigers, Ducks, Rats
-PROFESSION: Any profession:Plumber, Teacher, Cashier
-FUN NICKNAME: A fun and/or silly nickname :Sillie, Funnie, Dummie, Goofie
-SCARY OBJECT: An object that might scare you:Spider, Stick, Levitating ball
-WIERD INGRIDIENTS: Two weird ingredients that shouldn't go into a desert:Beef and egg, milk and hot sauce
-ACTIONING: A wierd action ending with -ing:stuffing, celebrating, whailing
-SLICE: A food that can be sliced:Cheese, ham, sausage
-FAM MEMBER: A family member that you RARELY talk to:mom's uncle, grandpa's sister
-ACTOR: Type a famous actor (who's alive):Tom Hanks, Tom Holland, Daniel Radcliffe
 EXCLAMATION: Write a silly exclamation:Holy mackerel, gee golly, gee whiz
+ACTOR: Type a famous actor (who's alive):Tom Hanks, Tom Holland, Daniel Radcliffe
+FAM MEMBER: A family member that you RARELY talk to:mom's uncle, grandpa's sister
+SLICE: A food that can be sliced:Cheese, ham, sausage
+ACTIONING: A wierd action ending with -ing:stuffing, celebrating, whailing
+WIERD INGRIDIENTS: Two weird ingredients that shouldn't go into a desert:Beef and egg, milk and hot sauce
+SCARY OBJECT: An object that might scare you:Spider, Stick, Levitating ball
+FUN NICKNAME: A fun and/or silly nickname :Sillie, Funnie, Dummie, Goofie
+PROFESSION: Any profession:Plumber, Teacher, Cashier
+ANIMALS: Literally any land animals (plural):Tigers, Ducks, Rats
+PRODUCT: A product that you can easily buy at a store:Shampoo, keyboard, phone, knife
+CITY NAME: City name:Paris, NYC, Rome
 SCRIPT ==========================================
 70s music
 Typewriter: We now return to "The Neighbourhood"
@@ -25483,7 +25483,7 @@ Mandy: My FAM MEMBER just died!
 Sally: Oh no! I'm so sorry!
 Jessica: (sigh) (to Sally) she always says that when she's on a phone call.
 Mandy: (still shocked) EXCLAMATION! My FAM MEMBER was ACTOR!
-Sally: (a little bit sad) Oh nooo, that was my favorite ACTOR!
+Sally: (a little bit sad) Oh nooo, that was my favorite actor!
 Jessica: (to Sally) don't worry, she always says that.
 Mandy: (Crying) Oh my god, how can I continue like this? How can I go on?
 Sally: Aw, Mandy, do you need a napkin?
@@ -27398,6 +27398,98 @@ Teleport SAMURAI to Backstage
 ======
 
 INFORMATION ===============================
+ID: 862
+TITLE: Pretend You're Sober
+AUTHOR: LeDerp_64
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 29/05/24
+CHARACTERS ================================
+MOTHER: Strict Mother:Entrance Stage Right
+L-BROTHER: Intoxicated Nervous Little Brother:Center Stage
+O-BROTHER: Intoxicated Older Brother:Couch
+SUGGESTIONS =============================
+TOPPING : A Topping for food:Sprinkles, Mushrooms, M&N's, spinach
+FREAK: Something someone would do when surprised :Freak out, Flip, Pass out, Scream, eat all the pop tarts
+GAME: A Video Game Title:Overwatch, Mario Party, Street Fighter
+NICKNAME: Something your mother would call you:Cupcake, Little Muffin, Sweetie, my little pumpkin pie
+EXCLAMATION: An exclamation someone would say if scared:Shoot, Crap, Zoinks, Oh nooooo UwU
+HOLIDAY: A Holiday:Halloween, Christmas, National Hot Dog Day, the apocalpyse
+WORK: An Occupation :Nurse, Teacher, Navy Seal, Children's television show mascot
+TREAT: A food given as a reward:Cookies, Ice Cream, Pizza, Mike's Hard Lemonade
+STATE OF MIND: An Adjective, a state of mind:High, Drunk, Depressed, Chill
+BIG BRO: A name for an older brother:Zach, Ryan, Chris
+LITTLE BRO: A name for a younger brother:Alex, Ethan, Charlie
+SUBSTANCE: Something someone underage is not allowed to consume:Alcohol, Weed, black tar heroin, lean
+SCRIPT ==========================================
+70s music
+L-BROTHER: I don't know BIG BRO, are you sure that doing SUBSTANCE was a good idea? What if mom finds out?
+O-BROTHER: Don't worry about a thing LITTLE BRO. this SUBSTANCE that I got isn't even that strong. It will fade before mom gets back from her job as a WORK.
+L-Brother: Oh Alright, I hope we don't get in trouble. Do I look STATE OF MIND?
+O-BROTHER: Eh a little... but it's fine, it will wear off soon.
+tire screech
+L-Brother: Wait what was that?
+scary music
+O-BROTHER: Oh EXCLAMATION, I think that's mom!
+L-Brother: (scared) I though you said she was at work!
+O-BROTHER: Oh no, I forgot it was HOLIDAY!
+O-BROTHER: Quick! We got to hide the SUBSTANCE before she gets in.
+knocking on door
+MOTHER: (from outside the front door) Kids, I'm home!
+O-BROTHER: You wait here and distract mom while I hide the SUBSTANCE. (runs to trash can and shoves SUBSTANCE inside)
+extreme knocking
+MOTHER: BIG BRO? LITTLE BRO? Are you there? Open the door NICKNAME.
+L-Brother: One moment mom, be right there! (goes to open the door)
+door creak
+silly music 1
+MOTHER: Thank you LITTLE BRO, because its HOLIDAY, I was able to leave work early and get some TREAT for you and your brother.
+MOTHER: What is your brother doing anyways. (looks for older brother from the doorway)
+Meanwhile O-BROTHER: (standing by the trashcan)
+L-BROTHER: (talking very nervously) Nothing! He wasn't doing anything we shouldn't be doing
+O-BROTHER: (Hurriedly walks to door) What LITTLE BRO was trying to say is we were playing GAME.
+MOTHER: Alrighty then. (Walks over to the sink to put away food)
+L-BROTHER: (Whispering to brother) What do we do? We are totally STATE OF MIND right now, mom is totally going to FREAK! (Start Hyperventilating)
+O-BROTHER: (Holding brother by the shoulders) Calm down LITTLE BRO, as long as mom doesn't see the SUBSTANCE in the trash can, we'll be fine.
+O-BROTHER: We just have to pretend to be not STATE OF MIND.
+L-BROTHER: (Takes a deep breath) Ok, I can do that.
+O-BROTHER: You just sit down and play some GAME, and I'll get mom away from the trash can.
+L-BROTHER: Alright. (Sits down on couch)
+O-BROTHER: (Walks over to mom) Hey mom, can I have a TREAT?
+MOTHER: Sure NICKNAME, let me just throw away the TOPPING, I know how much you don't like them. (almost throws away TOPPING)
+O-BROTHER: (Yells) No!
+record scratch
+Music Stops
+O-BROTHER: (nervously) I mean i wanted to try TOPPING today, it is HOLIDAY after all.
+Meanwhile MOTHER: (stops and looks at older brother)
+MOTHER: Really, that's a surprise. Looks like my NICKNAME is growing up after all! (pinches older brother's cheek)
+O-BROTHER: I guess I am.
+MOTHER: LITTLE BRO how about you do you want TOPPING on your TREAT?
+Meanwhile L-BROTHER: (Sitting on couch looking at hands silently)
+vine boom
+MOTHER: LITTLE BRO? Are you doing alright?
+L-BROTHER: (quietly) EXCLAMATION.
+O-BROTHER: Don't worry about him, he's been on a losing streak on GAME, I think it's really getting to him.
+MOTHER: Are you sure? I'm going to talk to him just in case. (Starts walking over to little brother)
+O-BROTHER: EXCLAMATION!
+MOTHER: (Sitting next to little brother) Are you okay NICKNAME?
+L-BROTHER: (Slowly looks away from hands and at mom) Where did my hands go?
+MOTHER: LITTLE BRO? What has gotten into you?
+L-BROTHER: (Looks around) Where did HOLIDAY go?
+MOTHER: (In a stern voice) LITTLE BRO, are you STATE OF MIND?
+O-Brother: Busted
+MOTHER: (Angry) You two are in so much trouble! Now none of you get TREAT
+O-BROTHER: EXCLAMATION
+MOTHER: Both of you to your rooms now!
+groose music
+O-BROTHER: (Dejected) Okay mom. Cmon LITTLE BRO.
+O-BROTHER: (Walks through side door with brother)
+Meanwhile L-BROTHER: (Walk through side door with brother while looking at hands again)
+Music Stops
+
+======
+
+INFORMATION ===============================
 ID: 863
 TITLE: Tormented Rescue
 AUTHOR: RainbowSparkle1
@@ -28083,6 +28175,402 @@ police car
 police car
 police car
 PAPPI: ...Aw man...
+
+======
+
+INFORMATION ===============================
+ID: 878
+TITLE: Spelling Bee Anarchy
+AUTHOR: beekeeperieman2
+VERIFIED: False
+TAGS: Skit
+SET: Classroom
+DATE: 06/06/24
+CHARACTERS ================================
+DK: The Dumb kid:Desk 3
+PK: The kid with Puberty:Desk 2
+RK: The Rude Kid:Desk 4
+SK:  The Smart Kid:Desk 1
+NT: The Nice Teacher :Teacher Desk
+VP: The Vice Principal:Teacher Desk
+SUGGESTIONS =============================
+WEIRD: A Weird Word:Gobbledegook, Lollygag,Bibble
+RODENT: A Rodent Name:Rat, acouchi, mice
+CAR: A Car Name:Car, truck, bus
+HARD: A Hard Word:Syzygy, Entertainment, entrepreneur
+EASY: A Easy Word:Cat, rock, hawk
+FINAL: A Medium Word:Imagine, future, diverse  
+HOBBY: A Hobby a kid would have:Rock collecting, spelling, build legos
+COIN: A Coin percentage :Penny, nickel, quarter
+SOMETHING : A place that a bond would go to:Store, College, dentist 
+SCRIPT ==========================================
+Jazz music 2
+Applause
+VP: (Waiting for Applause to stop) Calm down. I know we're all here to spell...
+Music stops
+NT: (Excitedly) Now who's ready to spell?
+SK: (Very loud and excited) I am!
+RK: (Annoyed) Ugh, shut up!
+NT: (Disappointed) Now we shouldn't be rude to fellow contestants..
+RK: (Embarrassed) Sorry.
+PK: (Staring at one of the female audience members and mumbling to herself) Oh my gosh, she's so hot.
+DK: Hey why are you looking at my sister?
+PK: (Out of trance) I'm not!
+NT: Settle down, settle down, let's get ready to spell
+Meanwhile PK: (Continue to stare at the female audience member)
+Silly music 2
+VP: (Monotone) Now, the spelling bee rules: you must spell the word. That's it.
+VP: Our first speller, please come to the center of the stage and get up.
+Meanwhile SK: (Walk to center of stage)
+NT: (Excitedly) They are their school's top student in HOBBY.
+VP: Okay your word is WEIRD.
+Record scratch
+Music stops
+SK: (Looking towards the teacher desk and saying with confusion) WEIRD?
+VP: Yes your word is WEIRD.
+SK: Got it! (Say each letter one by one) WEIRD!
+VP: That is correct.
+Meanwhile SK: (Walk back to your seat)
+Silly music 2
+VP: May our second speller come up to stage please your up.
+NT: (Excitedly) This speller was last year's winner of the spelling bee.
+Meanwhile RK: (Grumbling in annoyance)
+PK: (Embarrassed) Uhm, may my turn be skipped?
+VP: If you skip then you'll be eliminated.
+PK: Okay (Walk to the center). M-my word please?
+VP: Your word is Titup.
+Music stops
+PK: Oh uhm okay! T-I-T wait let me restart T-IT-U-P TITUP!
+Gameshow ding
+PK: (In a panic) But I got it right. I can't get out of a word spelled right!
+VP: I'm sorry, but the rules are rules. Please get your juice when you exit.
+PK: Are you kidding? (Walk out of the stage while grumbling about adolescence)
+NT: (Happy) Isn't it wonderful?
+VP: (Confused) I guess?
+Silly music 2
+VP: May our next speller come up, please.
+NT: (Excitedly) They were in second place in his city, but first place got into an accident.
+Meanwhile DK: (Walk to the center of the stage)
+VP: Your word is RODENT
+DK: Oh, that's like the rodent that looks like the other one (Say each letter one by one with energy) RODENT!
+VP: You are Correct
+Meanwhile DK: (Walking back to the seat)
+VP: Okay may our next speller come up?
+RK: This speller can speak with his hands.
+RK: (Annoyed yet excited) Finally my turn my word please?
+VP: Your word is CAR
+Music stops
+RK: (Appalled) Seriously, that's my word?
+VP: (Slightly annoyed) Yes, just spell the word
+RK: (Slightly angry) I want a harder word!
+VP: (More annoyed) We can't just spell the word!
+RK: (Looking away and crossing arms) I won't until you give me a harder word.
+VP: Can you stop stalling... and spell the damn word!?
+NT: (Shocked) Principal how dare you say that!
+VP: (Angry) It's vice principal, not principal. They won't make me principal.
+RK: (Sarcastically) I wonder why?
+NT: May you please come over here?
+RK: Okay. (Walk up to teacher)
+NT: Due to your constant rudeness, you are disqualified from the bee.
+RK: (Loudly) Good; I don't even want to be here! (Grumble while leaving the stage)
+NT: (Look towards vice principal) And you please leave before you explode like that again!
+VP: Good, I'm done with this! (Leave the stage)
+Silly music 2
+NT: (Stressed) Okay, you are the final two.
+DK: I didn't really think I'd come this far.
+Music stops
+NT: Shush I need explain the rules.
+Tense cinematic music
+NT: For this, you are going to be spelling word if you get them wrong.
+NT: The other speller will spell another word. If they get it correct, they win; if not, we continue.
+NT: Please, you two come up to the center of the stage and wait.
+DK: Got it, sir (walk up to the stage)
+Meanwhile SK: (stand at your seat, stressing out)
+NT: Excuse me are you gonna come up.
+SK: Oh yes, just prepping myself (walking to the center of stage)
+NT: Speller 1: Your word is COIN.
+DK: Okay, got it! (Say each letter one by one) COIN.
+NT: Correct speller 2; your word is EASY.
+SK: Ah, yes, of course. (Say each letter one by one) EASY!
+NT: Correct speller 1, your word Is HARD.
+DK: (Scared) Okay, that isn't that hard (Say each letter one by one but say one incorrectly) HARD?
+Gameshow ding
+Music stops
+NT: It seems like you got your word incorrect, but if they get their word incorrect, we will continue
+NT: For the win, your word is FINAL.
+SK: That's an easy word thus this is going to be an easy win.
+Meanwhile DK: (Sad)
+emotional piano music
+SK: (Noticing the other speller) Oh, uh, my word....
+SK: (Speaking silently) Should I misspell intentionally to make him win?
+DK: (Notice the other speller) It's alright.
+SK: Okay (say letter one by one in a teary voice) FINAL…
+Music stops
+NT: (Wait before saying) We have a winner!
+Happy music 1
+SK: (Excitedly yet sad) Thank you all, thank you!
+NT: As you know, the winner gets a $300 bond for SOMETHING and goes to the Nationals.
+SK: (Sadly) Okay, thank you.
+NT: I hope you're ready for nationals! (Leave stage)
+Music stops
+DK: Great job!
+SK: Thanks; I mean, you did good as well.
+DK: Aww, thanks. (Hugs awkwardly)
+Meanwhile SK: (Stand there awkwardly)
+SK: Well, see you next year, hopefully. (Leave stage)
+DK: Goodbye!
+
+======
+
+INFORMATION ===============================
+ID: 888
+TITLE: A Hairy Date
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 11/06/24
+CHARACTERS ================================
+WAITER: Waiter:Backstage
+ASHLEY: Ashley:Chair 2
+JOHN: John:Chair 1
+SUGGESTIONS =============================
+ANIMAL: A kind of animal (plural):dogs, gorillas, rats, koala bears
+FORESTNOUN: Something you find in a forest:tall grass, rocks, creek, delicious mushrooms
+BODYPART: A type of body part:leg, ear, nose, bellybutton, toenail
+VERB: A random verb:ride, honk, cry, griddy, lock in
+CREATURE: A hairy creature (noun):werewolf, bigfoot, bear
+TEAM: Name of a fictional sports team:Yonkers, Durgers, Lonkers, Santa Fe Grandmas
+APPETIZER: A kind of appetizer (noun):soup, salad, chicken wings, chikky nuggos
+SCRIPT ==========================================
+JOHN: It's so nice of you to join me for a date tonight.
+ASHLEY: Oh, absolutely. I always wanted to date a man with low self-esteem.
+JOHN: That's very funny. Funny, indeed. Did you manage to pay off your student loan debt from Clown College?
+ASHLEY: You got me there. Ouch! (Laughs)
+WAITER: (Enters from stage right) I am Mark, your server for this evening. Are you two interested in any APPETIZER?
+JOHN: Sounds delicious, but I'm going to start with a glass of water.
+WAITER: I see. So our APPETIZER isn't good enough for you?
+ASHLEY: Oh, I don't think he meant it like that. He's probably just poor.
+JOHN: Ashley!
+ASHLEY: I'm kidding. We'll definitely have take one APPETIZER.
+WAITER: Certainly, ma'am. (exits stage right)
+JOHN: You have a nice sense of humor, that's for sure. I like that.
+JOHN: But there is something about you that I can't quite put my finger on. I don't know.
+ASHLEY: What do you mean? Wait, what are you looking at?
+JOHN: Wow. I mean, nothing. Nothing at all.
+ASHLEY: Oh. You can tell me! What is it? What caught your eye?
+Waterphone
+JOHN: Say... how about them TEAM?
+ASHLEY: Come on, John. I can take it. I won't get upset.
+JOHN: Before I say anything, I just wanted to say that I am a proud ally of the CREATURE community.
+ASHLEY: Excuse me? Are you saying I'm a CREATURE?
+JOHN: I understand it may be a sensitive subject, but you're shave with me. I mean, safe with me.
+ASHLEY: Out with it, John! Come on.
+JOHN: And just so you know, my best friend is a CREATURE, so I'm VERB or die. Very pro-carpet.
+ASHLEY: (Annoyed) Part of my literally wants to kill you right now.
+JOHN: That's just your natural instincts wanting to come out, and I'm totally here for that.
+ASHLEY: Okay, no offense, but VERB in Hell.
+JOHN: Since you said you won't get upset, here it goes.
+JOHN: I just so happened to notice you have a rather hairy BODYPART.
+Scary Music
+ASHLEY: Is that so?
+JOHN: It's perfectly fine. Everyone knows someone who knows someone that has a misty forest.
+JOHN: A complete ecosystem full of trees and shady FORESTNOUN. One could easily get lost.
+ASHLEY: I know you're trying to be accepting, but you're still coming across as offensive.
+JOHN: No offense taken.
+WAITER: (Enters from stage right) Here is your APPETIZER and a glass of water.
+WAITER: A few of our patrons heard a commotion was going on at this table. Is everything okay?
+ASHLEY: No, it is not okay. This man here thinks I'm a CREATURE with a heavy BODYPART.
+ASHLEY: Can you believe that? Wait. Waiter, what are you looking at?
+WAITER: Sir, we do have a policy against having service ANIMALS inside our restaurant.
+ASHLEY: No, that is incorrect. I am a grown woman with a perfectly valid medical condition.
+ASHLEY: We all have something to be ashamed of. I mean, look at him. He has an incurably large nose.
+JOHN: Definitely. And your CREATURE smell is driving me wild, Ashley.
+ASHLEY: Oh really now?
+JOHN: Yes. And you know what? Waiter? I would like to take a check.
+WAITER: But you haven't ordered any entrees yet?
+JOHN: That's fine because I would like to spend some quality time with this beautiful CREATURE.
+JOHN: Sure, she may have a hairy BODYPART with a colony of busy fleas, but I see her beauty from the inside.
+ASHLEY: Aw, John. That's so sweet!
+JOHN: Come, my dear. Let us enjoy some human sacrifices in any cave of your choice. Together.
+
+======
+
+INFORMATION ===============================
+ID: 891
+TITLE: Not Pawn Stars
+AUTHOR: Novabyte98
+VERIFIED: True
+TAGS: Skit
+SET: Hardware Store
+DATE: 13/06/24
+CHARACTERS ================================
+DICK: Dick, Pawn Shop Owner:Center Stage
+EXPERT: Pawn Shop Expert:Backstage
+SELLER: Seller/Pawn Shop Customer:Backstage
+SUGGESTIONS =============================
+SELLER-OFFER: An extremely high number:One Gorzillion, Fifty Rizztillion, One Hundred Skibidillion
+ITEM: A common household item:toothbrush, loofa, back scratcher
+FAMILY: Family member and name:Great-Uncle Ricky, Grandpa Ben Dover, Cousin Mike Hunt
+SELLER-NAME: A First and Last name:Jar-Jar Stinks, Tony Soprano, Arthur Morgan
+YEAR: Any Year:2002, 522 B.C.E., 500000
+TOWN: Silly Town Name:Spaghetti City, Lazy Town, Toadsuck
+FAMOUS: A Famous Person:President George W. Bush, Jesus, Kim Kardashian
+EXPERT-NAME: A silly name:Quandalious, Pollimer Cobblepot, Lendrick Kamar
+WIFE: An unusual girl's name:Bartholomew, Sassafrass, Mrs. Crapshire 
+SHOUT: Something you'd shout in anger:Son of a mother!, AHH!, SCREE!
+SCRIPT ==========================================
+badass music 1
+DICK: (To Audience) Hello and welcome Not Pawn Stars!
+applause
+DICK: For those of you who are new to the show, let me bring you up to speed.
+DICK: Unlike my brother Rick's shop in Las Vegas, THIS pawn shop in TOWN does deals fairly and reasonably.
+DICK: Now let's bring in our first customer! (Go behind the counter)
+Meanwhile SELLER: (Enter Stage Right)
+Music Stops
+SELLER: (Entering Stage Right, Walk up to guy behind counter). Hey, my name is SELLER-NAME
+DICK: Hi, SELLER-NAME, I'm Dick. What did you bring in for us today?
+SELLER: I got a good one for you. (Set something on the counter)
+DICK: (Amazed) WOW! What is that?! I've never seen anything like it!
+SELLER: This is a ITEM from YEAR, used by FAMOUS.
+vine boom
+DICK: I thought every ITEM from YEAR was destroyed after FAMOUS died!
+SELLER: Not all of them. This is the last one.
+DICK: Well how much do you want for it??
+SELLER: Dick, I like you, so I'm only going to ask for SELLER-OFFER dollars
+vine boom
+shark tank discussion music 1
+DICK: (Suddenly anxious) Hmm.. I'm going to have to call in my guy on this.
+DICK: (Take out phone and dial) Hey yeah, it's Dick. I need you over here right now.
+Meanwhile EXPERT: (Enter Stage Right)
+EXPERT: (Entering Stage Right) Hi Dick, how's it going?
+DICK: Jesus, that was quick, EXPERT-NAME. Look at what this guy SELLER-NAME brought in.
+EXPERT: Wow, is that a ITEM from YEAR used by FAMOUS?
+SELLER: You bet it is.
+EXPERT: I thought they were all destroyed after FAMOUS died!
+SELLER: Nope. My old FAMILY kept the last one in good shape.
+DICK: What do you think, EXPERT-NAME? How much are we talking?
+EXPERT: (Pick Up Item and Inspect) Hmmmm.....
+EXPERT: I'd probably value this around the ballpark of..
+Music Stops
+EXPERT: 10 dollars
+vine boom
+DICK: I see. Well thank you for your time, EXPERT-NAME.
+EXPERT: You're welcome, Dick. Tell the wife and kids I said hello
+DICK: They left me.
+vine boom
+EXPERT: Oh yeah.
+EXPERT: (Exit stage right)
+SELLER: Well, you heard your guy EXPERT-NAME.
+DICK: I know. I'll offer you 5 dollars.
+SELLER: WHAT?? EXPERT-NAME said 10!
+DICK: I have to sell this thing you know. I can't be losing money!
+SELLER: Fine. Deal. I guess that's okay. (Shake hands)
+Meanwhile DICK: (Shake hands with SELLER-NAME)
+SELLER: Sorry to hear about your wife, WIFE, and kids.
+DICK: That's okay. I probably shouldn't have tried to sell them in my own store.
+SELLER: Okay. (Exit stage right)
+DICK: (To audience) Well folks, thanks for tuning in!
+badass music 1
+DICK: We'll be back next time for-
+Music Stops
+cellphone vibrate
+DICK: Huh? (Answers phone) Hello?
+DICK: Yes, WIFE? What?? You're with who now??
+DICK: SELLER-NAME????
+DICK: (Slam fist on counter) SHOUT!!
+break down door
+EXPERT: (Enter Stage Right) Dick! Dick! I have something to tell you!
+EXPERT: (Gasp) The ITEM from YEAR used by FAMOUS is shattered! What happened?!
+DICK: Nothing, don't worry about it. What's up?
+EXPERT: I just got off the phone with FAMOUS's grandson. That ITEM from YEAR was worth SELLER-OFFER dollars!
+
+======
+
+INFORMATION ===============================
+ID: 896
+TITLE: Transplant Transgression
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit
+SET: Doctor's Office
+DATE: 14/06/24
+CHARACTERS ================================
+DOC: Hammy doctor:Center Stage
+COW: Wimpy coward:Center Stage
+WAR: Rage-filled warrior:Backstage
+LEA: Powerful leader:Backstage
+SUGGESTIONS =============================
+ILL: A fatal illness:The common cold, The lurgy, cancer of the groin, COVID, The plague
+LIMB: A large part of the human body:arm, leg, head, torso, groin
+LOCATION: A real world country:Uganda, America, Cybertron, Germany, Vrchat
+RANK: A rank of high power:president, god, commander, captain, general
+BODY: An external part of the body:Gyatt, thigh, armpit, left breast, cheeks, mouth
+NORM: A normal feminine name:Skyquake, Chrissy, Nibb-Nibb, Gertrude, Eris 
+PRIDE: Name of an honourable warrior:Dreadwing, Sir licks-a-lott, Walter White, Big Ian
+ACTION: a physical action:Knockout, twerk, gangnam style, thust
+FAMILY: a family relative :twin, step-bro, brother, sister, manbearpig, granny
+PLACE: A public place or building:The clouds, playground, public park, a dark ally, play pokemon go
+PART: An internal part of the human body:T-cog, heart, lung, liver, brain
+WIMP: A wimpy name or character:Starscream, Skywarp, Thundercracker, Ramjet, Sunspot
+SCRIPT ==========================================
+COW: (Lay on table and slowly wake up) Uooohh
+French music
+DOC: Rise and shine, WIMP!
+DOC: You no longer have ILL!
+applause
+DOC: And your PART transplant was a success! (thumbs up) Yes, I'm just that good!
+COW: Ah, finally, I cant wait to go to PLACE and show off my PART!
+COW: Thank you, doctor ACTION.
+laughter
+DOC: Just be wary.. I saw PRIDE in the lobby. I think they know what you did to their beloved FAMILY.
+COW: Oh my stars and garters! Maybe I should leave through the window!
+DOC: What window?
+Japanese music 2
+WAR: WIMP! I regret to inform you that you will not live to show off your PART, ever again... (draw sword)
+draw sword
+COW: (hide behind table) Oh god no!
+COW: Doctor ACTION help me!
+DOC: Nope! (run out door)
+laughter
+COW: PRIDE, what has gotten into you?
+WAR: (Approach slowly) You know what you did...
+COW: No, wait, this is about NORM isn't it? I thought we had put that behind us. (shrug)
+WAR: So had it! (swing and miss)
+anime sword gleam 1
+COW: Casualties are an unfortunate consequence of war! (finger up)
+COW: But I assure you, your FAMILY met their end with great honour!
+WAR: Which you disgraced by cutting of their BODY after they died!
+vine boom
+COW: (look around panicked) Oh you know about that...
+COW: There must be something I can do! Some kind of reparation i can offer to alleviate your anguish!
+WAR: (point to their PART) Your PART will suffice! (raise sword)
+police car
+LEA: (Stand in doorway) PRIDE! (point) Stand down!
+DOC: (stand next to them) I called over the RANK!
+WAR: (look at RANK and point to WIMP) This desecrater must pay for their actions!
+COW: You call this "loyalty" RANK?!
+LEA: I said stand down! That is an order!
+WAR: One which I can not follow.... (Raise sword to WIMP)
+anime sword gleam 2
+COW: (hide face and cry) Noooooo!
+LEA: (kill PRIDE) Yaaah!
+anime sword gleam 3
+WAR: (Fall down dead) Guho
+crashing debris
+COW: (look down at body) I'm ok.. I'm ok! Oh, RANK, you have my eternal thanks! (bow)
+LEA: (point) Do not ever make me regret which one of you I spared... I know what you did to NORM.
+waterphone
+COW: (leave) Hey everyone! check out my new PART!
+aww
+silly music 1
+DOC: Sooo.... RANK.. Do you need a new LIMB? (point) Your current one has seen better days.
+LEA: you know what? Yeah, sure, why not! (get on table)
+LEA: I have heard great things about you, doctor ACTION.
+scifi contraption
+DOC: (start operating on their LIMB) How goes the war in LOCATION?
+LEA: (shrug) Same-old....
+laughter
 
 ======
 
