@@ -1798,6 +1798,7 @@ Inari_exe
 Littlepip02
 meloluvr
 Layered
+BiohazardFur
 modNick
 ruralists
 #TIER=1
