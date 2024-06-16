@@ -1796,7 +1796,6 @@ PPManLives
 flora_real
 TheDumbBear69
 Navywolf24
-DyingBug101
 modNick
 ruralists
 #TIER=1
