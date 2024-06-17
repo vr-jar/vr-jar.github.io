@@ -25798,22 +25798,22 @@ TAGS: Skit
 SET: Dining Room
 DATE: 09/05/24
 CHARACTERS ================================
-MOM: The Assertive Mother:Chair 2
-DAD: The Good Ol' Father:Chair 4
-SIS: The Sophisticated Sister:Chair 3
-BRO: The "Pro Gamer" Brother:Chair 1
 BBY: The Newborn Baby:Stage Left
+BRO: The "Pro Gamer" Brother:Chair 1
+SIS: The Sophisticated Sister:Chair 3
+DAD: The Good Ol' Father:Chair 4
+MOM: The Assertive Mother:Chair 2
 SUGGESTIONS =============================
-FANDOM: A popular fandom/fanbase:Star Wars, Dragon Ball Z, The Simpsons, Harry Potter
-CELEBNAME: A celebrity, character, or someone's VRChat username:Patrick Stump, Bruce Wayne, Markiplier, Henry Stickmin, Invader Zim
-PLACE1: A town, city, state, or country:Venice, Tokyo, Hawaii, Africa
-PHRASE: A catchy and/or popular phrase:mamma mìa!, Jimmy my Boots!, Eureka!, Wish me luck!
-VIDEOGAME: Any video game:Sonic Adventure 2, Genshin Impact, VRChat, Minecraft, osu!
-HOBBY: An activity people love to do:paint, watch movies, read a book, sleep, relax
-TEAM1: A name for a sports team:Dirty Divers, Swiping Swipers, Happy Hedgehogs, Hungry Hippos
-TEAM2: A name for a sports team:Biting Badgers, Fast Foxes, Saucy Tomatoes, Filthy Monkeys
+PLACE2: A town, city, state, or country:Magnolia Springs, Indianapolis, Alaska, Antarctica
 CRIME: A crime:Loitering, Money laundering, Tax evasion, Arson
-PLACE2: A town, city, state, or country:Magnolia Springs, Indianapolis, Alaska, Antartica
+TEAM2: A name for a sports team:Biting Badgers, Fast Foxes, Saucy Tomatoes, Filthy Monkeys
+TEAM1: A name for a sports team:Dirty Divers, Swiping Swipers, Happy Hedgehogs, Hungry Hippos
+HOBBY: An activity people love to do:paint, watch movies, read a book, sleep, relax
+VIDEOGAME: Any video game:Sonic Adventure 2, Genshin Impact, VRChat, Minecraft, osu!
+PHRASE: A catchy and/or popular phrase:mamma mìa!, Jimmy my Boots!, Eureka!, Wish me luck!
+PLACE1: A town, city, state, or country:Venice, Tokyo, Hawaii, Africa
+CELEBNAME: A celebrity, character, or someone's VRChat username:Patrick Stump, Bruce Wayne, Markiplier, Henry Stickmin, Invader Zim
+FANDOM: A popular fandom/fanbase:Star Wars, Dragon Ball Z, The Simpsons, Harry Potter
 SCRIPT ==========================================
 happy music 1
 MOM: (excited) Alright, family! It's Friday. . . you know what that means..!
@@ -28187,22 +28187,22 @@ TAGS: Skit
 SET: Classroom
 DATE: 06/06/24
 CHARACTERS ================================
-DK: The Dumb kid:Desk 3
-PK: The kid with Puberty:Desk 2
-RK: The Rude Kid:Desk 4
-SK:  The Smart Kid:Desk 1
-NT: The Nice Teacher :Teacher Desk
 VP: The Vice Principal:Teacher Desk
+NT: The Nice Teacher :Teacher Desk
+SK:  The Smart Kid:Desk 1
+RK: The Rude Kid:Desk 4
+PK: The kid with Puberty:Desk 2
+DK: The Dumb kid:Desk 3
 SUGGESTIONS =============================
-WEIRD: A Weird Word:Gobbledegook, Lollygag,Bibble
-RODENT: A Rodent Name:Rat, acouchi, mice
-CAR: A Car Name:Car, truck, bus
-HARD: A Hard Word:Syzygy, Entertainment, entrepreneur
-EASY: A Easy Word:Cat, rock, hawk
-FINAL: A Medium Word:Imagine, future, diverse  
-HOBBY: A Hobby a kid would have:Rock collecting, spelling, build legos
+SOMETHING : A place:School, Bank, The Dentist
 COIN: A Coin percentage :Penny, nickel, quarter
-SOMETHING : A place that a bond would go to:Store, College, dentist 
+HOBBY: A Hobby a kid would have:Rock collecting, spelling, build legos
+FINAL: A Medium Word:Imagine, future, diverse  
+EASY: A Easy Word:Cat, rock, hawk
+HARD: A Hard Word:Syzygy, Entertainment, entrepreneur
+CAR: A Car Name:Car, truck, bus
+RODENT: A Rodent Name:Rat, acouchi, mice
+WEIRD: A Weird Word:Gobbledegook, Lollygag,Bibble
 SCRIPT ==========================================
 Jazz music 2
 Applause
@@ -28256,7 +28256,7 @@ DK: Oh, that's like the rodent that looks like the other one (Say each letter on
 VP: You are Correct
 Meanwhile DK: (Walking back to the seat)
 VP: Okay may our next speller come up?
-RK: This speller can speak with his hands.
+NT: This speller can speak with his hands.
 RK: (Annoyed yet excited) Finally my turn my word please?
 VP: Your word is CAR
 Music stops
@@ -28571,6 +28571,206 @@ scifi contraption
 DOC: (start operating on their LIMB) How goes the war in LOCATION?
 LEA: (shrug) Same-old....
 laughter
+
+======
+
+INFORMATION ===============================
+ID: 903
+TITLE: The Shopping Cart
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 16/06/24
+CHARACTERS ================================
+CLERK: John the Store Clerk:Behind Register
+CUSTOMER: Jerry the Customer:Center Stage
+SUGGESTIONS =============================
+CHILDTOY: A toy:rubber duck, scissors, baseball bat
+VEGETABLE: A vegetable:onions, carrots, radishes
+FRUIT: A fruit:pineapple, orange, apple
+ANIMAL: An animal :squirrel, bird, camel
+WORKER: A type of uniformed worker:butler, doctor, lawyer
+LIQUID: A type of liquid:mayonnaise, jelly, oatmeal
+SUBSTANCE: An intoxicating substance:tidepods, alcohol, mushrooms
+INSECT: A type of insect:spiders, ants, beetles
+SCRIPT ==========================================
+Jazz music 1
+CLERK: Good evening! Did you find everything you were looking for today?
+CUSTOMER: Oh, I found more than I was looking for.
+CUSTOMER: You know, they say you can tell a lot about a person by the contents of their shopping cart.
+CLERK: I suppose that's true. Let's see what you've got.
+CUSTOMER: Prepare yourself. The journey through my cart will reveal everything.
+CLERK: Alright then, let's get started.
+CLERK: (scans item) Interesting choice. CHILDTOY?
+CUSTOMER: The CHILDTOY symbolizes childhood innocence lost but never forgotten unless you're hypnotized.
+CLERK: Hypnosis? Convenient, but the repressed memories do come out later. But forget about that. Moving on.
+CLERK: (scans item) Pickled VEGETABLEs. A bit tangy for my taste, but to each their own.
+CUSTOMER: Ah, but the pickled VEGETABLEs represent the layers of life, each one more pungent than the last.
+CLERK: Here I thought it was you being pungent. My apologies. Next!
+CLERK: (scans item) A FRUIT with sunglasses. Now that's just plain fun, right? But why the sunglasses?
+CUSTOMER: The FRUIT is the king of fruits and the sunglasses shield it from the harsh realities of life.
+CLERK: Makes perfect sense. But the FRUIT could also be blind.
+CUSTOMER: Glad I saw that deal.
+CLERK: (scans item) A shoe? Just one?
+CUSTOMER: The lone shoe is a metaphor for the journey we walk alone in life.
+CLERK: A poetic and unconventional choice. Okay, I can't argue with that.
+CUSTOMER: I can't count up to two either.
+CLERK: (scans item) I don't even know what to say about this one.
+CUSTOMER: Ah yes, the taxidermy WORKER ANIMAL.
+CUSTOMER: It reminds us that even in the stiffest of creatures, there lies great potential for service.
+CLERK: I don't like how you phrased that.
+CLERK: (scans item) Okay, now you're just messing with me. A whole gallon of LIQUID?
+CUSTOMER: I really like LIQUID. Just one afternoon to cover my face with it.
+CLERK: Alright, that's it. I can't take any more!
+CUSTOMER: You can take more. But the LIQUID reveals something deeper.
+CLERK: Oh yeah? What's that?
+CUSTOMER: That you, my friend, are the owner of this store and the one who ordered all these strange items I bought.
+CUSTOMER: You purchased this inventory. And I'm merely reclaiming it as part of my slow descent into insanity.
+CLERK: Oh, I forgot I had a midnight brainstorm. I must have ordered all this when I was on SUBSTANCE.
+CUSTOMER: Well, that explains the INSECTs.
+CLERK: Yeah, no kidding. Those INSECTs are everywhere.
+CUSTOMER: See you around, boss. Enjoy your jar of LIQUID.
+CLERK: And I know I will while making uncomfortable eye contact with my cat.
+
+======
+
+INFORMATION ===============================
+ID: 905
+TITLE: 2024 Presidential Debate
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Political Debate USA
+DATE: 17/06/24
+CHARACTERS ================================
+DON: Don the Candidate:Podium Stage Right
+JOE: Joe the Candidate:Podium Stage Left
+ZARNOK: Zarnok the Moderator:Moderator Table
+SUGGESTIONS =============================
+FROZEN: A sweet or frozen treat:popsicle, ice cream cone, jello
+HUG: A form of endearment:hug, kiss, nuzzle
+BODYPART: A body part:hand, leg, finger
+DRUG: Name of a drug:marijuana, cocaine, shrooms
+COUGH: A noun associated with being sick:cough, hack, wheeze
+R2NOUN: A random noun:escalator, elevator, cow
+PLANE: Something you find in an airplane:stairs, seats, flight attendants
+RNOUN: A random noun:genes, pants, apples
+VIDEOGAME: Name of a video game:Fortnite, Pokemon, Smash Bros
+RNUMBER: A random number:100, 1000, 10000
+SCRIPT ==========================================
+USA Anthem Music
+ZARNOK: Good evening, everyone. I am your moderator, ZARNOK. I mean, Bob.
+ZARNOK: Tonight, we have Joe Olden and Don Drumpf here to debate the future of this wonderful planet you call Earth.
+ZARNOK: I have from Earth, by the way. There is no reason to be suspicious.
+ZARNOK: Let’s start with something simple. Mr. Olden, people have concerns about your age.
+ZARNOK: How do you respond to those who say you might be too old to serve another term?
+JOE: Well, Jack, they say age is just a number. And in my case, that number is RNUMBER.
+JOE: It's somewhere between "Too old for VIDEOGAME" and "Who pooped in my pants?"
+JOE: But I’ve got the energy of men half my age!
+Crowd Woo
+ZARNOK: My name is Bob. I clearly stated this. Mr. Drumpf, same question. Are you fit to serve given your advanced years?
+DON: Listen, I’m the most fit president you’ve ever seen. Out of a scale from 1 to 10 on fitness, I am a RNUMBER.
+DON: In fact, I’m in tremendous shape. The best shape. People look at me and say, "Wow, how does he do it?"
+DON: It’s because I have the best RNOUNs, perfect RNOUNs. People don’t know that. Tremendous RNOUNs.
+JOE: Yeah, RNOUNs from the Jurassic period!
+Laughter
+ZARNOK: Interesting. Now, let’s talk about your fitness to lead.
+ZARNOK: Mr. Drumpf, there are rumors you’ve been challenged by the PLANE of Air Force One. Your response?
+DON: Fake news, all of it. Those PLANE are rigged. Everyone knows it.
+DON: They’re made by radicals to make me look bad. In fact, I’m installing RNOUN2s in every building across America.
+DON: Tremendous R2NOUNs. The best. You get on one and it takes you somewhere. It's going to be great.
+JOE: Can I get one of those R2NOUNs in my house? Might help make the floors less slippery around here.
+ZARNOK: Now, let's move on to something more serious. What are your plans for the future of healthcare?
+JOE: We need healthcare that works for everyone. Free Band-Aids, discounted COUGH syrup from the local horse cart.
+JOE: I promise to personally hand out DRUG to anyone who needs it. Check under your seats, folks. There is a giant pill.
+Tada
+DON: My plan is simple. The best doctors, the best medicine, and of course, the best prices.
+DON: We’re talking about beautiful healthcare, folks. Beautiful. It's so beautiful, you would want to get sick.
+ZARNOK: Alright. How will you handle the intergalactic threat. I mean, international relations?
+JOE: Interga-what-now? Look, we need to be friends with everyone. I’m talking HUGs, people.
+JOE: Big ol' HUGS for every world leader. Even the ones who don’t shower. Maybe especially those.
+DON: I'll handle it the way I handle everything. With style, with class, and with tweets. They call them posts now.
+DON: Lots and lots of posts. Upper caps. Everyone loves big letters. Not the tiny ones. They're like tiny BODYPARTs.
+ZARNOK: I hear no woman likes tiny BODYPARTs.
+DON: But some do.
+ZARNOK: My last question. What is your message to the people of the United States of Earth?
+JOE: Well, Jack. Look, we've come so far. And we need to come some more. Re-elect me and I'll buy you a FROZEN.
+DON: Everything is terrible. Our great country has fallen faster than my opponent on stairs. Vote for me or I'll say it's rigged.
+ZARNOK: Well, I think I’ve heard enough. After much consideration, I have concluded that Earth can neither be saved nor conquered.
+ZARNOK: So, I’m going back to my home planet. Good luck, Earthlings. You’ll need it.
+Alien Teleport
+
+======
+
+INFORMATION ===============================
+ID: 906
+TITLE: The Inheritance Scheme
+AUTHOR: novan1ty
+VERIFIED: False
+TAGS: Skit
+SET: Living Room
+DATE: 17/06/24
+CHARACTERS ================================
+LAWYER: Sly Lawyer Sally:Entrance Stage Right
+NEPHEW: Greedy Nephew Tim:Kitchen
+UNCLE: Rich Uncle Morty:Couch
+SUGGESTIONS =============================
+AITEM: Another random item/thing:diamond, tiktok dance, painting, carpet
+ITEMS: A random item/thing:diamond, tiktok dance, painting, carpet
+REVEAL: An unexpected plot twist:The uncle is an alien, the inheritance is a scam, the lawyer is an undercover cop
+PLAN: An absurd plan to get the inheritance:aking own death, blackmailing with embarrassing photos, hosting a fake séance
+INHERITENCE: Something ridiculous to inherit:A haunted house, a lifetime supply of mayonnaise, a cursed diamond
+SCRIPT ==========================================
+corporate motivational music
+UNCLE: (Sitting on the sofa) Tim, my dear nephew, come closer. I have something very important to discuss with you.
+NEPHEW: (Rubbing hands together) Yes, Uncle Morty? Is it about the inheritance?
+UNCLE: (Coughs dramatically) Indeed it is. But first, let’s welcome our family lawyer, Sally.
+door creak
+LAWYER: (Entering through the front door) Hello, Morty. Hello, Tim. Shall we get down to business?
+NEPHEW: (Eagerly) Absolutely. What do I need to do to secure my inheritance?
+UNCLE: (Smirking) Oh, it’s simple. You just need to follow my plan.
+NEPHEW: (Curious) What’s the plan?
+UNCLE: (Leaning in, whispering) you just have to PLAN.
+shark tank offer
+NEPHEW: (Shocked) What?!
+LAWYER: (Nods seriously) Yes, Tim. According to the will, you must successfully do the PLAN for 24 hours.
+LAWYER: Only then will you inherit the inheritance.
+NEPHEW: (Excited) Challenge accepted! What do I get?
+UNCLE: (Dramatically) You will inherit… (pause for effect) a INHERITENCE!
+scary music
+NEPHEW: (Confused) INHERITENCE?
+UNCLE: (Laughs wickedly) Yes, a INHERITENCE filled with ITEMS and AITEM. It’s been in our family for generations.
+NEPHEW: (Determined) Fine. I’ll do it. When do we start?
+UNCLE: (Smiling) Right now. Sally has everything prepared.
+LAWYER: (Handing NEPHEW a PLAN certificate) Just sign here, and the game begins.
+corporate guitar music
+NEPHEW: (Signs the paper) Alright, I’m PLAN Now what?
+UNCLE: (Grinning) Now you wait.
+church bell
+LAWYER: (Checking her watch) The 24-hour countdown starts now.
+NEPHEW: (Nervously) Okay. I’ll just hide in the attic. (Heading out to the side door)
+footsteps on wood
+UNCLE: (Watches NEPHEW leave) Good luck, Tim. (Winks at LAWYER)
+LAWYER: (Smirking) You’re quite the schemer, Morty. But why go through all this trouble?
+UNCLE: (Laughs darkly) Because, Sally, I have a reveal of my own.
+mystery music 1
+LAWYER: (Raising an eyebrow) Oh?
+UNCLE: (Leans in close) REVEAL... And the INHERITENCE is a scam.
+LAWYER: (Shocked) What?!
+UNCLE: (Laughing maniacally) Yes! I wanted to teach that greedy brat a lesson. There’s no INHERITENCE. He’ll be hiding for nothing!
+LAWYER: (Laughing) Well, this has been entertaining. But Morty, you forgot one thing.
+UNCLE: (Curious) And what’s that?
+LAWYER: (Revealing a badge) I’m an undercover cop. And PLAN is illegal. You are under arrest!
+vine boom
+UNCLE: (Simultaneously) What?!
+LAWYER: (Handcuffing him) You have the right to remain silent. Anything you say can and will be used against you in a court of law.
+courtroom sting
+UNCLE: (Grumbling) I should have seen this coming...
+LAWYER: (Smirking) Looks like this inheritance scheme turned into a nightmare for you. Enjoy your stay in jail!
+door creak
+LAWYER: (Leading him out) Let’s go. You’ve got a lot of explaining to do.
+epic cinematic music
 
 ======
 
