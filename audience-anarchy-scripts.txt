@@ -27907,55 +27907,54 @@ TAGS: Skit
 SET: Doctor's Office
 DATE: 03/06/24
 CHARACTERS ================================
-PADDY: Injured builder lying on the trolley:Examination Table
-DOCTOR: Doctor, sitting on the stool:Stool
 MICK: Another builder, the witness:Center Stage
+DOCTOR: Doctor, sitting on the stool:Stool
+PADDY: Injured builder lying on the trolley:Examination Table
 SUGGESTIONS =============================
-BRICK: Anything heavy, bulky or messy:tools, bricks, cement, concrete, nails
-HOTEL: A building or type of business:hotel, supermarket, church, school, factory
-DUBLIN: A town or city:Dublin, London, Liverpool, Manchester, Belfast, Cork, Glasgow, Edinburgh
-HUNDRED: A number:100, 200, 300
-HEAD: An upper body part you have one of:head, nose, tongue, neck, mouth, uvula, brain
-LEG: A lower body part you have two of:leg, ankle, foot, big toe, kneecap, thigh, shin
-BACK: A body part you only have one of:back, backbone, spine
-HAND: An upper body part you have two of:hand, thumb, forearm, upper arm, elbow, shoulder, shoulder blade, collarbone
 RIBCAGE: A body part in your core:ribcage, heart, liver, spleen, stomach, bladder, small intestine, large intestine, gallbladder, lung, kidney
-PATRICK: A first name:Patrick, Paddy, Murphy, Jimmy, Dara, Jock, Eamonn, Seamus
-MICHAEL: A first name:Michael, Mick, Dougal, Rory, Oisin, Angus, Declan, Conor
+HAND: An upper body part you have two of:hand, thumb, forearm, upper arm, elbow, shoulder, shoulder blade, collarbone
+BACK: A body part you only have one of:back, backbone, spine
+LEG: A lower body part you have two of:leg, ankle, foot, big toe, kneecap, thigh, shin
+HEAD: An upper body part you have one of:head, nose, tongue, neck, mouth, uvula, brain
+HUNDRED: A number:100, 200, 300
+DUBLIN: A town or city:Dublin, London, Liverpool, Manchester, Belfast, Cork, Glasgow, Edinburgh
+HOTEL: A building or type of business:hotel, supermarket, church, school, factory
+BRICK: Anything heavy, bulky or messy:tools, bricks, cement, concrete, nails
+BIKERACK: Something you'd find on a street corner:bike rack, tramp, newsboy, pillar box, bin, drain
 SCRIPT ==========================================
 jazz music 1
-DOCTOR: Good heavens PATRICK, you're in a right old state! Tell me exactly what happened.
-PADDY: Well now, that's a long story. I was knocked out at one point, but MICHAEL was working with me so he can fill in the gaps.
+DOCTOR: Good heavens Paddy, you're in a right old state! Tell me exactly what happened.
+PADDY: Well now, that's a long story. I was knocked out at one point, but Mick was working with me so he can fill in the gaps.
 MICK: It was his own bloody fault, I told him to just carry all the BRICKS down one at a time.
 DOCTOR: BRICKS?
 PADDY: Aye, we were working on that new HOTEL in DUBLIN, the one that was gonna open next month.
-MICK: Me and PATRICK had carried about HUNDRED kilos of BRICKS up to the top to do the work.
+MICK: Me and Paddy had carried about HUNDRED kilos of BRICKS up to the top to do the work.
 PADDY: And when we were done, I thought it'd be a good idea to lower the BRICKS down in a small barrel using a pulley.
 PADDY: Eighty feet is a long way to carry stuff up and down by hand, and I'd already carried it up there once.
 MICK: I told him it was a bad idea and I didn't want to get in trouble, so I just came down the ladder.
-PADDY: I went down too, and tied off the rope on a bike rack, then I went back up and loaded the barrel with the BRICKS.
+PADDY: I went down too, and tied off the rope on a BIKERACK, then I went back up and loaded the barrel with the BRICKS.
 DOCTOR: And then what happened?
-PADDY: Well, I came back down the ladder, held the rope tightly to support the weight, and untied the rope from the bike rack.
+PADDY: Well, I came back down the ladder, held the rope tightly to support the weight, and untied the rope from the BIKERACK.
 MICK: I tried to warn him, but he just didn't listen!
 DOCTOR: Why, what happened then?
 PADDY: Well to be sure, I was surprised! I was so surprised that I forgot to let go!
-MICK: PATRICK only weighed about half the weight of the barrel! He shot up in the air like a rocket!
+MICK: Paddy only weighed about half the weight of the barrel! He shot up in the air like a rocket!
 PADDY: Next thing I knew, I was about forty feet in the air, and I met the barrel coming down as I was going up!
 PADDY: I think I must have hit my HEAD on the barrel and broke it.
-DOCTOR: The X-rays seem to agree with you there, PATRICK.
+DOCTOR: The X-rays seem to agree with you there, Paddy.
 MICK: But he kept on going up, up, up, until he got his HAND jammed in the pulley.
-DOCTOR: Did you not think to let go by this point, PATRICK?
+DOCTOR: Did you not think to let go by this point, Paddy?
 PADDY: Doc, I got hit in the HEAD by a HUNDRED-kilo barrel of BRICKS! I wasn't thinking straight!
 MICK: You weren't thinking straight when you untied the rope, you eejit!
-MICK: Anyway, by this time the barrel had smashed into the pavement and the bottom came off.
+MICK: Anyway, by this time the barrel had smashed into the BIKERACK and the bottom came off.
 DOCTOR: I think I know where this is going. About HUNDRED kilos of BRICKS spilled out on the pavement?
 MICK: Aye! And then what do you think happened?
-DOCTOR: The barrel now weighed less than PATRICK? So he fell back down and the barrel went back up?
+DOCTOR: The barrel now weighed less than Paddy? So he fell back down and the barrel went back up?
 MICK: You hit the nail on the HEAD, Doc!
 PADDY: I just about regained my senses when I started falling again, still clinging on to the rope.
 PADDY: I must've fallen about forty feet when I met the barrel again on the way up.
 PADDY: I think I must have hit my LEGs on the barrel and broke them.
-DOCTOR: You're right there PATRICK, when the nurses examined your LEGs they found you had in fact broken both of them.
+DOCTOR: You're right there Paddy, when the nurses examined your LEGs they found you had in fact broken both of them.
 DOCTOR: And I have to say, we were impressed.
 PADDY: Thank you Doc. But I kept falling, and the only thing that broke my fall was that big pile of BRICKS.
 MICK: Yep, he fell right onto the pile, he landed right on his BACK, and he must have broke it in three places!
@@ -27968,9 +27967,9 @@ PADDY: But just before it hit me, I blacked out with all the pain.
 MICK: That was probably for the best, it landed right on your RIBCAGE, and the rope followed it like a big string of spaghetti.
 MICK: You were a mess.
 DOCTOR: And then what happened?
-MICK: I called for a paramedic and they brought him here to you.
+MICK: I called for a paramedic, I said "He's lying on top of a big pile of BRICKS next to a broken BIKERACK," and they brought him here to you.
 DOCTOR: Right. So you've got a broken HEAD, a mangled HAND, two magnificent broken LEGs, one broken BACK and one shattered RIBCAGE.
-DOCTOR: I'm afraid it doesn't look good for you, PATRICK. What do you want me to do about it?
+DOCTOR: I'm afraid it doesn't look good for you, Paddy. What do you want me to do about it?
 music stops
 PADDY: (Wait for the music to stop) Can I have a sick note?
 
@@ -28187,22 +28186,22 @@ TAGS: Skit
 SET: Classroom
 DATE: 06/06/24
 CHARACTERS ================================
-VP: The Vice Principal:Teacher Desk
-NT: The Nice Teacher :Teacher Desk
-SK:  The Smart Kid:Desk 1
-RK: The Rude Kid:Desk 4
-PK: The kid with Puberty:Desk 2
 DK: The Dumb kid:Desk 3
+PK: The kid with Puberty:Desk 2
+RK: The Rude Kid:Desk 4
+SK:  The Smart Kid:Desk 1
+NT: The Nice Teacher :Teacher Desk
+VP: The Vice Principal:Teacher Desk
 SUGGESTIONS =============================
-SOMETHING : A place:School, Bank, The Dentist
-COIN: A Coin percentage :Penny, nickel, quarter
-HOBBY: A Hobby a kid would have:Rock collecting, spelling, build legos
-FINAL: A Medium Word:Imagine, future, diverse  
-EASY: A Easy Word:Cat, rock, hawk
-HARD: A Hard Word:Syzygy, Entertainment, entrepreneur
-CAR: A Car Name:Car, truck, bus
-RODENT: A Rodent Name:Rat, acouchi, mice
 WEIRD: A Weird Word:Gobbledegook, Lollygag,Bibble
+RODENT: A Rodent Name:Rat, acouchi, mice
+CAR: A Car Name:Car, truck, bus
+HARD: A Hard Word:Syzygy, Entertainment, entrepreneur
+EASY: A Easy Word:Cat, rock, hawk
+FINAL: A Medium Word:Imagine, future, diverse  
+HOBBY: A Hobby a kid would have:Rock collecting, spelling, build legos
+COIN: A Coin percentage :Penny, nickel, quarter
+SOMETHING : A place:School, Bank, The Dentist
 SCRIPT ==========================================
 Jazz music 2
 Applause
@@ -28238,25 +28237,25 @@ Meanwhile RK: (Grumbling in annoyance)
 PK: (Embarrassed) Uhm, may my turn be skipped?
 VP: If you skip then you'll be eliminated.
 PK: Okay (Walk to the center). M-my word please?
-VP: Your word is Titup.
+VP: Your word is Tittup.
 Music stops
-PK: Oh uhm okay! T-I-T wait let me restart T-IT-U-P TITUP!
+PK: Oh uhm okay! T-I-T- wait let me restart T-I-T-T-U-P TITTUP!
 Gameshow ding
-PK: (In a panic) But I got it right. I can't get out of a word spelled right!
+PK: (In a panic) But I got it right. I can't get out of a word I spelled right!
 VP: I'm sorry, but the rules are rules. Please get your juice when you exit.
 PK: Are you kidding? (Walk out of the stage while grumbling about adolescence)
 NT: (Happy) Isn't it wonderful?
 VP: (Confused) I guess?
 Silly music 2
 VP: May our next speller come up, please.
-NT: (Excitedly) They were in second place in his city, but first place got into an accident.
+NT: (Excitedly) They were in second place in their city, but first place got into an accident.
 Meanwhile DK: (Walk to the center of the stage)
 VP: Your word is RODENT
 DK: Oh, that's like the rodent that looks like the other one (Say each letter one by one with energy) RODENT!
 VP: You are Correct
 Meanwhile DK: (Walking back to the seat)
 VP: Okay may our next speller come up?
-NT: This speller can speak with his hands.
+NT: This speller can speak with their hands.
 RK: (Annoyed yet excited) Finally my turn my word please?
 VP: Your word is CAR
 Music stops
@@ -28302,14 +28301,14 @@ SK: That's an easy word thus this is going to be an easy win.
 Meanwhile DK: (Sad)
 emotional piano music
 SK: (Noticing the other speller) Oh, uh, my word....
-SK: (Speaking silently) Should I misspell intentionally to make him win?
+SK: (Speaking silently) Should I misspell intentionally to make them win?
 DK: (Notice the other speller) It's alright.
 SK: Okay (say letter one by one in a teary voice) FINAL…
 Music stops
 NT: (Wait before saying) We have a winner!
 Happy music 1
 SK: (Excitedly yet sad) Thank you all, thank you!
-NT: As you know, the winner gets a $300 bond for SOMETHING and goes to the Nationals.
+NT: As you know, the winner gets a $300 dollar bond for SOMETHING and goes to the Nationals.
 SK: (Sadly) Okay, thank you.
 NT: I hope you're ready for nationals! (Leave stage)
 Music stops
@@ -28484,6 +28483,86 @@ EXPERT: (Enter Stage Right) Dick! Dick! I have something to tell you!
 EXPERT: (Gasp) The ITEM from YEAR used by FAMOUS is shattered! What happened?!
 DICK: Nothing, don't worry about it. What's up?
 EXPERT: I just got off the phone with FAMOUS's grandson. That ITEM from YEAR was worth SELLER-OFFER dollars!
+
+======
+
+INFORMATION ===============================
+ID: 893
+TITLE: The Case
+AUTHOR: BentleytheGreat
+VERIFIED: True
+TAGS: Skit
+SET: Courtroom
+DATE: 14/06/24
+CHARACTERS ================================
+JUDGE: Judge:Judge Chair
+BAILIFF: Bailiff:Bailiff Corner
+PLAINTIFF: Plaintiff:Plaintiff Table
+WITNESS: Witness:Witness Stand
+DEFENDANT: Defendant:Defendant Table
+SUGGESTIONS =============================
+CRIME: A crime:robbery, shoplifting, assault
+WHERE: Somewhere crime might occur:store, bank, playground
+WHY: The defendant's excuse:self defense, they're broke, they deserved it
+CDATE: The case date:April 15, June 27, May 23
+VERDICT: Guilty, Not Guilty, or anything else?:Guilty, Not Guilty, I don't care
+OBJECT: Any object:hammer, phone, credit card
+MOCK: A mocking/taunting phrase:Womp womp!, Haha!, I'm so sigma!, Get wrecked
+SCRIPT ==========================================
+courtroom music
+TYPEWRITER: On CDATE, we had a case about CRIME, which took place at WHERE. Welcome to the courtroom of Judge David.
+JUDGE: Court is now in session. Plaintiff, do you have an opening statement?
+PLAINTIFF: Yes, judge guy.
+BAILIFF: "Your honor", you mean?
+PLAINTIFF: Let me speak.
+BAILIFF: Go ahead.
+PLAINTIFF: Your honor, the defendant has committed CRIME at WHERE.
+JUDGE: Okay, and does the defendant have any opening statements?
+DEFENDANT: Yes. I commit CRIME because WHY.
+JUDGE: Okay, that's fair.
+DEFENDANT: I know it is.
+BAILIFF: Only speak when the judge asks.
+DEFENDANT: Alright, fine.
+JUDGE: Anyways, plaintiff, any evidence?
+PLAINTIFF: Yes. I have a witness.
+JUDGE: (To witness) Okay, witness. Did you see the crime?
+WITNESS: Yes.
+JUDGE: What happened?
+WITNESS: Obviously, he CRIME.
+JUDGE: No kidding, Sherlock, what do you think?
+BAILIFF: Your honor, calm down. Witness, continue.
+WITNESS: Ahem. As I was saying, I even have his fingerprints on the OBJECT.
+JUDGE: Do you have the OBJECT on you?
+WITNESS: Yes. (give the judge the OBJECT)
+JUDGE: Solid proof.
+PLAINTIFF: MOCK, defendant!
+BAILIFF: Only speak when the judge asks.
+PLAINTIFF: Why should I?
+BAILIFF: We can charge you for this.
+PLAINTIFF: What?
+BAILIFF: You heard me.
+PLAINTIFF: Okay. Jeez, dude.
+shark tank serious music 1
+DEFENDANT: May I show you my evidence?
+JUDGE: Sure.
+DEFENDANT: (Walk up to judge) Here ya go, judge.
+JUDGE: (Mad) Hey! Sit down and wait for the bailiff to get your evidence!
+PLAINTIFF: Oooohh! The defendant's in trouble!
+JUDGE: Order in the court! Again! Like damn, will you calm down?!
+BAILIFF: You... you can't swear, your honor.
+JUDGE: This is my show, my case, my job! You don't tell me what to do!
+BAILIFF: Want me to tell the Supreme Court?
+JUDGE: Alright fine. This is how I get my money, so I'll shut up.
+BAILIFF: Good. Anyways, here's the evidence. (Give the judge the evidence)
+JUDGE: As I was saying, this is true evidence about what happened. That explains your, ahem, "excuse". Anyways, does the plaintiff have any closing statements?
+PLAINTIFF: Yes. The defendant has no rizz.
+vine boom
+JUDGE: Does the defense have any closing statements?
+DEFENDANT: I am so sigma.
+vine boom
+JUDGE: Anyways, the court finds the defendant... VERDICT!
+courtroom sting
+TYPEWRITER: And so, after a wild turn of events, Judge David has declared the defendant VERDICT. All parties are excused.
 
 ======
 
@@ -28771,6 +28850,128 @@ LAWYER: (Smirking) Looks like this inheritance scheme turned into a nightmare fo
 door creak
 LAWYER: (Leading him out) Let’s go. You’ve got a lot of explaining to do.
 epic cinematic music
+
+======
+
+INFORMATION ===============================
+ID: 907
+TITLE: Tree Watchers
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Backyard
+DATE: 18/06/24
+CHARACTERS ================================
+OAKUS: Oakus the Tree Spirit:Backstage
+DARYL: Daryl The Skeptical Friend:Neighbor's yard
+HANK: Hank, A Tree Watcher:Center Stage
+ROBERT: Robert, A Tree Watcher:Stage Right
+SUGGESTIONS =============================
+SNACK: A type of snack:chips, trail mix, candy bars
+CREATURE: Name of animal:squirrel, capybara, wolf
+FOOD: Name a food:brownies, cookies, corndog
+ADJPERSON: An adjective to describe a person:crazy, weird, stupid
+BIGNUMBER: A large number:100, 1000, 2000
+MUSICGENRE: A genre of music:jazz, rock, rap
+TREENAME: Name a kind of tree:oak, pine, willow
+SCRIPT ==========================================
+Happy Music 1
+ROBERT: Thank you for inviting us over to your place, Daryl.
+DARYL: Don't mention it. I know you guys really wanted to visit, so I thought, "Why not?" It's a beautiful day today.
+DARYL: Speaking of which, why did you want to visit my backyard so badly?
+HANK: (whispering) Hey, shut up for a second. Look at the bark on that one, man. It's got such a unique texture!
+ROBERT: Oh yeah, that's a Quercus robur. The English TREENAME. You don't see those around here too often.
+HANK: Look at those branches strutting their stuff! It's like it's dancing to some MUSICGENRE. You go girl!
+DARYL: Y'all really out here tree watching? Seriously? What do you even see in these trees?
+ROBERT: Daryl, it's like bird-watching, but better. Trees are so majestic, so grounded. They have stories, history!
+ROBERT: This one here, for instance, could be over BIGNUMBER years old. Imagine the things it's seen!
+DARYL: (sarcastic) Yeah, like kids playing catch and dogs peeing on it. Fascinating.
+HANK: Don't kink-shame the trees, man. They've been on journeys.
+DARYL: Journeys? Dude, trees don't move. They don't go anywhere.
+ROBERT: No, really! You just have to look deeper. Every leaf, every branch tells a story.
+HANK: Oh my gosh, look! The leaves are rustling in a peculiar way. It's almost like they're trying to communicate.
+DARYL: Yeah, sure. Maybe it's saying, "Get these ADJPERSON people outta here."
+ROBERT: Oh, we're not ADJPERSON. Bruh, we know where the action is at. That TREENAME has cake!
+Lacrimosa Music
+OAKUS: (enters stage right) Hello, humans. I am Oakus, the ancient tree spirit.
+HANK: See, Daryl? I told you! The trees can talk!
+ROBERT: Oakus, we are honored by your presence. What wisdom do you have for us?
+OAKUS: I have stood here for centuries, watching the world change. And now, I must tell you something.
+Silly music 2
+OAKUS: You are all really, really high right now. Y'all smoke enough trees to see talking trees. Impressive!
+DARYL: (laughing) Wait, what? Are you telling me this whole time we've just been hallucinating?
+OAKUS: Indeed. Those FOOD you ate earlier were not just regular FOOD. I mean, it's possible they were simply really good FOOD.
+OAKUS: But then you chewed on my tree bark for reasons I cannot understand. I liked it, though.
+ROBERT: Oh man, this is too good. Tree watching while high. Classic.
+HANK: No wonder the leaves were so captivating.
+DARYL: I knew something was off. Trees don’t just start talking out of nowhere.
+ROBERT: O wise Oakus! What other pearls of wisdom do you have to bestow on us lowly creatures?
+OAKUS: Be mindful of the world around you or else you may become a viral Internet meme.
+DARYL: Yeah, like a bunch of dudes talking to trees. Totally poggers. Won't be mid.
+OAKUS: You are a grown CREATURE. Don't talk like that. Or maybe you aren't. I don't know. I might be high too, actually.
+OAKUS: Oh! Appreciate the simple things. And always, always read the labels on your SNACKs.
+HANK: There is so much to learn! So little time to actually follow through.
+ROBERT: If the SNACKs are delicious, there is no reason to read the warning signs. Anything else, Lord Oakus?
+OAKUS: Enjoy your trip, humans. But remember, the real magic of nature is in the sobriety of its beauty.
+OAKUS: Oh, and by the way, your best friend has been a tree this entire time. You refer to him as Daryl.
+ROBERT: Oh. Seriously? Well, that was one unforgettable tree-watching session.
+HANK: Yeah, next time, maybe we should just stick to regular FOOD.
+ROBERT: Or, you know, maybe try bird-watching. I hear they talk less.
+HANK: That is really funny. What do you think Daryl. Daryl?
+
+======
+
+INFORMATION ===============================
+ID: 911
+TITLE: Weather Report
+AUTHOR: MindlessGonzo
+VERIFIED: True
+TAGS: Skit
+SET: News
+DATE: 19/06/24
+CHARACTERS ================================
+WEATHERMAN: The weatherman:News Desk
+SUGGESTIONS =============================
+NAME: A name with a weather-based pun:Sunny Smith, Stormy Daniels, Chet Skies, Gale Clancy, Hank Winds
+OUTDOOR ACTIVITY: An activity you do outdoors:wash the car, go biking, touch grass, do yoga, go to the beach
+FOOD: A food, preferably one you can cook or warm up:mashed potatoes, hamburgers, pizza, Spaghetti-O's
+ANY RANDOM ITEM: Any random item:a door, a chair, a lawn ornament, a Ford Escort
+NUMBER BETWEEN 1 AND 50: A number between 1 and 50:2, 20, 17, 46, 32, 9
+ANIMAL: An animal, real or fake:horse, cat, tanuki, platypus, lion, narwhal
+BODY PART: A body part:ankle, knee, hip, chest, arm, hand, head, nose
+US STATE OR TERRITORY: A state or territory within the United States of America:Texas, California, Guam, The Virgin Islands, Puerto Rico, Ohio, American Samoa
+BIG OBJECT: A BIG object:a farm tractor, a monument, a semi truck, a jet plane
+LOCATION: A street location, building, or place of business:Elm Street, McDonald's, The Empire State Building, the sports stadium, the diner
+REASONABLE HIGH NUMBER: A reasonable high-sounding number:100, 3 thousand, 95, 1.6 million, 643 thousand, 80085
+MONSTER: Name of a monster:Flying Spaghetti Monster, Godzilla, Mothra, The Cloverfield Monster, Babadook
+SCRIPT ==========================================
+world news intro
+WEATHERMAN: Hello again, welcome back to Action News. I'm meteorologist NAME
+WEATHERMAN: As we take a look now on the Action News Tower Cam, it's a wonderful Sunday outside.
+WEATHERMAN: Current temp is sitting at a nice 72 degrees Fahrenheit with clear skies, the perfect weather to OUTDOOR ACTIVITY
+WEATHERMAN: And tonight's a wonder night to cook up some FOOD with a modest 62 degrees for the low.
+WEATHERMAN: Tomorrow, Monday, might be a bit harsh, so better be prepared.
+WEATHERMAN: We're looking at wind gusts that might blow around trees, tents and loose items like ANY RANDOM ITEM so we advise that you drive carefully.
+WEATHERMAN: It'll continue on into the night with a high of NUMBER BETWEEN 1 AND 50
+WEATHERMAN: Tuesday will be a break with partly cloudy skies around the mid 70s, so be on the lookout for any cloud shapes.
+WEATHERMAN: I once spotted a cloud shaped like a ANIMAL as a kid, so do enjoy Tuesday with your loved ones.
+WEATHERMAN: Wednesday will be worse than Monday, as we anticipate a very high chance of rain, so much that some areas might be flooding right up to your BODY PART
+WEATHERMAN: So keep your radios on and your weather preparedness kits ready.
+WEATHERMAN: The storms will thankfully end by Wednesday night to give you a nice, peaceful sleep.
+WEATHERMAN: Thursday gets much worse than before, as we anticipate a severe thunderstorm the size of US STATE OR TERRITORY entering the viewing area
+WEATHERMAN: and dropping a tornado that could throw around cars, houses and a BIG OBJECT
+WEATHERMAN: Now would be a good time to test your storm shelters to see if it's impervious to BIG OBJECT
+WEATHERMAN: Friday will be the worst of all, as the US Geological survey warns us a volcano might erupt somewhere in our viewing area,
+WEATHERMAN: with some guessing it'll be right at LOCATION
+WEATHERMAN: We're predicting a high of REASONABLE HIGH NUMBER.
+WEATHERMAN: We end the week with a promising clear day Saturday but due to the seismic activity on Friday,
+WEATHERMAN: we see the potential for the wakening of MONSTER to come to town to wreck havoc on the poor population.
+WEATHERMAN: We won't bother with next week as the attack by MONSTER will signal the End of Days,
+WEATHERMAN: thus wiping out everyone in the viewing area, leveling everything into a flat pancake.
+WEATHERMAN: This has been NAME with the weather.
+WEATHERMAN: Stay tuned to Action News where we be interviewing a psychiatrist who can help us control our negative thoughts
+WEATHERMAN: and later on, one of our area local chefs teaches us their method for world class FOOD
+world news outro
 
 ======
 
