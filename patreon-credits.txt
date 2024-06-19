@@ -2525,6 +2525,7 @@ Forgotten_Ghost
 1pacman234
 TrxstK4ii
 starcount
+0liverVR
 #TIER=3
 SidMarcus
 PinballReviewer
