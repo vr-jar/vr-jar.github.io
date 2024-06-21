@@ -1801,7 +1801,6 @@ inferno Vr
 ༒ɢʀᴀᴠᴇʏᴀʀᴅsʟᴜᴛ༒
 EggysCheggys
 Twippy 987e
-DyingBug101
 modNick
 ruralists
 #TIER=1
@@ -2385,7 +2384,6 @@ Zac'̀-'́
 Moofstera
 《ғʀᴀᴜᴅ》
 MidnightMoon001
-MTF Lieutenant
 #TIER=2
 CODBO3RGM3
 ArkoNero
@@ -2518,6 +2516,7 @@ Forgotten_Ghost
 TrxstK4ii
 sțar
 0liverVR
+MTF Lieutenant
 #TIER=3
 SidMarcus
 PinballReviewer
