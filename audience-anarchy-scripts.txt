@@ -28975,3 +28975,174 @@ world news outro
 
 ======
 
+INFORMATION ===============================
+ID: 918
+TITLE: Best Excuse Gameshow
+AUTHOR: P․ Penguin
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+DATE: 20/06/24
+CHARACTERS ================================
+ACTOR2: Gameshow Actor #2:Backstage
+ACTOR1: Gameshow Actor #1:Backstage
+CONTESTANT2: Contestant #2:Contestant Podium 2
+CONTESTANT1: Contestant #1:Contestant Podium 1
+HOST: Game Show Host:Entrance Stage Right
+SUGGESTIONS =============================
+PAYMENT: Something the host offered a contestant as payment to play:money, corn flakes, dog food
+ADJECTIVE: A adjective to describe a powerful person:great, all-mighty, strong
+CONTESTANTNAME2: A name for contestant number 2:Rick, Arnold, Garry
+CONTESTANTNAME1: A name for contestant number 1:Mary, Bella, Sophia
+HOSTNAME: A name for the gameshow host:Chuck Witty, Billy Bob, John Brown
+PLACE: A place you wouldn't expect:the moon, a deserted island, the North Pole
+FOOD: A weird type of food:marshmallows and pickle juice, chocolate-covered onions, spaghetti with whipped cream
+CELEBRITY: A famous person:Snoop Dogg, Tom Cruise, Justin Bieber
+WEATHER: A weird type of weather:spaghetti rain, a sharknado, a snowstorm of confetti
+OBJECT: An unusual object:a UFO, a giant rubber duck, a magic wand
+ANIMAL: A type of animal:dancing llama, talking parrot, sneaky raccoon
+SCENARIO: An odd situation:Why were you late to your own wedding?, Why didn't you show up to work?, Why was there a kangaroo in your house?
+SCRIPT ==========================================
+HOST: (Enters stage right) Hello everyone!
+Gameshow Intro
+HOST: Welcome to, "Who's Got the Best Excuse?"
+HOST: The game show where our contestants come up with the funniest and most ridiculous excuses for bizarre situations!
+HOST: I'm your host, HOSTNAME, and let's meet our contestants!
+HOST: (Gestures to Contestant 1) First up, we have CONTESTANTNAME1! Are you ready to come up with some wild excuses?
+CONTESTANT1: Absolutely, bring it on!
+Crowd Woo
+HOST: (Gestures to Contestant 2) And next, we have CONTESTANTNAME2! Think you can out-excuse CONTESTANTNAME1?
+CONTESTANT2: Oh, you bet I can!
+Crowd Woo
+HOST: Great! Let's get started. Our first ridiculous situation is... SCENARIO!
+HOST: Contestant number 1, what's your excuse?
+Gameshow Ring
+CONTESTANT1: (Thinking) Hmm, Well, you see the thing is, I was on my way there, when...
+CONTESTANT1: Suddenly I was stopped by a ANIMAL carrying a OBJECT! And to make it all worse worse, the weather turned into WEATHER!
+Gameshow Ding
+ACTOR1: (Enters acting as the animal facing towards actor 2) Excuse me CONTESTANTNAME1, can you help me with this OBJECT?
+ACTOR2: (Enters acting as contestant 1) No I can't help you with your OBJECT, I am late to my wedding and it's raining WEATHER! And your a ANIMAL!
+Laughter
+HOST: (Laughs) That's quite an excuse, CONTESTANTNAME1! CONTESTANTNAME2, can you top that?
+Gameshow Ring
+CONTESTANT2: Oh, definitely! I was just about to leave my house when CELEBRITY called me, asking for help with a FOOD emergency!
+CONTESTANT2: And then, out of nowhere, we were on a plane to PLACE!
+Gameshow Ding
+ACTOR1: (Acting as the celebrity) Hey CONTESTANTNAME2! I have a FOOD emergency, and I need your help right now!
+ACTOR2: (Acting as contestant 2) Normally I wouldn't do this on the day of my wedding, but I could never say no to the ADJECTIVE CELEBRITY!
+ACTOR1: Great! I hope you don't mind planes, it's the only way to get to PLACE.
+Laughter
+HOST: (Laughs) These excuses are getting better and better!
+HOST: (Walk towards contestant 2 stand) Hey, CONESTANTNAME2, you didn't happen to get CELEBRITY's autograph did you?
+CONTESTANT2: Yea, I did actually, do you want it? I'll sell it to you for 8 million dollars.
+HOST: 8 MILL- (Walk back to host stand) Okay, let's move on to our next scenario.
+HOST: This time, you're late for an important job interview. What's your excuse, CONTESTANTNAME1?
+Gameshow Ring
+CONTESTANT1: Well, in my case, I was stuck in traffic, right? And then suddenly
+CONTESTANT1: a ANIMAL parade broke out in front of me! So naturally, I had to join in and dance my way through it.
+Gameshow Ding
+ACTOR1: (Acting as a ANIMAL in a parade) Look at those dance moves on CONTESTANTNAME1!
+ACTOR2: (Acting as contestant 1 in a parade) I love ANIMAL parades!
+HOST: (Laughs) That's quite the sight, CONTESTANTNAME1! You really know how to turn a traffic jam into a party.
+HOST: Now, CONTESTANTNAME2, what is your excuse for being late to an important job interview?
+Gameshow Ring
+CONTESTANT2: Well, you see HOSTNAME, I woke up this morning feeling like a million dollars.
+CONTESTANT2: However, as soon as I stepped outside, I realized my car had transformed into a giant OBJECT!
+CONTESTANT2: And not just any OBJECT, mind you—it had a mind of its own, and wings!
+Gameshow Ding
+ACTOR1: (Acting as a passerby) Is that a flying OBJECT car!?
+ACTOR2: (Acting as CONTESTANTNAME2) Indeed it is! I tried to reason with it, but it was dead set on taking me for a joyride around town.
+HOST: (Laughs) A flying OBJECT car with a mind of its own—now that's a new one, CONTESTANTNAME2!
+HOST: That must have been quite the adventure. CONTESTANTNAME2, did you manage to explain this wild ride to your potential employers?
+CONTESTANT2: Unfortunately, by the time the flying car decided to return me to solid ground, the interview had already concluded.
+CONTESTANT2: They were quite understanding, though—everyone loves a good flying car story, right?
+Laughter
+HOST: Absolutely, CONTESTANTNAME2! Who wouldn't be captivated by a flying OBJECT car adventure? And CONTESTANTNAME1, your ANIMAL parade was equally as impressive.
+HOST: Now, it's time to hear from our audience.
+Gameshow Timer Music
+HOST: The votes are in, and... we have a winner...
+CONTESTANT1: (Excited) Oh, this is exciting!
+CONTESTANT2: (Nervous) Fingers crossed!
+HOST: The winner of today's "Who's Got the Best Excuse?" is...
+Music Stops
+HOST: CONTESTANTNAME1!
+Crowd Woo
+HOST: Congratulations on turning a traffic jam into a parade, CONTESTANTNAME1!
+CONTESTANT1: (Excited) Thank you, everyone! I couldn't have done it without you all!
+HOST: Well done, CONTESTANTNAME1. Your creativity has earned you the title of the best excuse-maker today.
+HOST: But fear not, CONTESTANTNAME2, your flying OBJECT car story was truly out of this world!
+CONTESTANT2: Thank you, HOSTNAME. It was a wild ride, indeed!
+HOST: And that wraps up another hilarious episode of "Who's Got the Best Excuse?"
+HOST: Thank you to our wonderful contestants and our amazing audience for joining us today.
+HOST: Tune in next time for more absurd situations and even wilder excuses!
+Crowd Woo
+HOST: (Waves at audience) Until next time folks!
+Applause
+CONTESTANT2: Hey HOSTNAME, do I still get the PAYMENT that you promised me?
+
+======
+
+INFORMATION ===============================
+ID: 919
+TITLE: The Kitchen Catastrophe
+AUTHOR: P․ Penguin
+VERIFIED: True
+TAGS: Infomercial
+SET: Infomercial Kitchen
+DATE: 21/06/24
+CHARACTERS ================================
+ASSISTANT: Nervous Assistant:Entrance Stage Right
+GUEST: Confused Guest:Entrance Stage Left
+CHEF: Clumsy Chef:Stage Left
+HOST: Overenthusiastic Infomercial Host:Center Stage
+SUGGESTIONS =============================
+ACCIDENT: A weird type of accident:falling out of an elevator, seahorse crash, slime attack
+RELATIVE: A relative to a person:brother, mom, cousin
+CELEBRITY: A famous person:Elon Musk, Oprah Winfrey, Dwayne 'The Rock' Johnson
+ITEM: A common household item:vacuum cleaner, blender, ironing board
+ADJECTIVE: A descriptive word:slimy, crunchy, explosive
+ACTION: A physical action:jumping jacks, floss, moonwalk
+APPLIANCE: A kitchen appliance:toaster oven, air fryer, waffle iron
+FOOD: A type of food:squid ink pasta, deep-fried butter, soggy bread
+SCRIPT ==========================================
+Gameshow Intro
+HOST: (Waving) Hello, hello! Welcome back, everyone!
+HOST: Today on "Culinary Wonders," we have a special treat for you. We're cooking up some delicious FOOD with our brand new KITCHEN!
+CHEF: (Holding up FOOD) That's right! This FOOD is perfect for any occasion, especially when you're feeling ADJECTIVE.
+GUEST: (Enter stage left, looking confused) Uh, hi? I was told there would be free FOOD?
+HOST: (Excitedly) Oh, we have more than just FOOD, dear customer! We have a culinary revolution! Chef, why don't you show our guest how it's done?
+CHEF: (Turning to the stove) Absolutely! First, we take the FOOD and place it in the APPLIANCE. But be careful, it's a bit ADJECTIVE!
+Crashing Debris
+GUEST: (Looking around) Uhh... Is it supposed to make that noise?
+HOST: (Ignoring the question) And while that's cooking, let's do some ACTION to pass the time!
+Groose Music
+CHEF: (Doing ACTION) This really helps to work up an appetite!
+GUEST: (Trying to do ACTION awkwardly) I feel like I'm in a weird exercise class.
+HOST: (Laughing) That's the spirit! Now, our FOOD should be ready. Chef, how's it looking?
+Music Stops
+CHEF: (Opening the APPLIANCE, smoke billows out) Uh oh, it looks like we've had a little accident...
+ASSISTANT: (Enter stage right, holding a large cookbook) Don't worry, everyone! I have the "Culinary Wonders" cookbook right here if we need backup recipes.
+Gameshow Bonus Round
+HOST: (Waving away smoke) This is why we have our special guest, CELEBRITY, here to show off FOOD in the best possible way!
+GUEST: (Shocked) Wait, CELEBRITY is here?
+HOST: Yes, CELEBRITY will be here any minute now! But in the meantime, let's clean up this mess with our handy ITEM.
+Groose Music
+CHEF: (Grabbing ITEM) This little beauty can clean up any disaster, even ones as ADJECTIVE as this!
+GUEST: (Taking the ITEM and awkwardly trying to clean) I never thought I'd be doing this on TV...
+HOST: (Chuckling) We always aim to surprise here on "Culinary Wonders"!
+Music Stops
+ASSISTANT: (Checking phone) Oh no, that's not good... (Whispers to host) Uh, sir, CELEBRITY isn't gonna make it.
+Record Scratch
+HOST: (Shocked) Why not?!
+ASSISTANT: (Nervous) Their RELATIVE had a ACCIDENT accident, and asked to reschedule...
+HOST: (Dramatic pause to audience) And that's the magic of "Culinary Wonders"! Join us next time for more kitchen adventures.
+HOST: And remember folks, with the right tools, any catastrophe can be a masterpiece!
+Gameshow Outro
+HOST: (Waving) See you next time, everyone!
+CHEF: (Waving) Bye!
+GUEST: Uh, so where's the free FOOD?
+CHEF: (Handing over a burnt piece of FOOD) Here you go! Fresh from the APPLIANCE!
+GUEST: (Looking at the burnt FOOD) Well, it's definitely... ADJECTIVE.
+
+======
+
