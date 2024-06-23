@@ -1810,7 +1810,6 @@ Mz-4a
 yuna_0
 ࿇「Ｋｕｒｕｍｉ」࿇
 TRUSТ
-DyingBug101
 modNick
 ruralists
 #TIER=1
@@ -2646,7 +2645,6 @@ johnsaltaccount
 Alohio
 ninja_b3an
 Demoncraftz
-Lucian-_-Heart
 BrokenBish20
 ~Zephyrus Wolf~
 November_War
