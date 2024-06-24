@@ -26426,6 +26426,109 @@ GOAT: (take a bow)
 ======
 
 INFORMATION ===============================
+ID: 818
+TITLE: Wall Spies
+AUTHOR: kiro-sage
+VERIFIED: True
+TAGS: 
+SET: Living Room
+DATE: 14/05/24
+CHARACTERS ================================
+GUARD2: Bad Kingdom guard :Backstage
+GUARD1: Good Kingdom guard:Backstage
+SPY2: The smarter and very religious spy :Backstage
+SPY1: A Very religious spy:Backstage
+LADY: Female worker for kingdom:Kitchen
+SUGGESTIONS =============================
+COMMAND: Something you shouldn't do:Own more than 13 rubber ducks, cry in the bathroon, name their child david
+GIANTS: Something terrifying :giant, wendigo, angel, walters, furry
+CITY: Name of a very strong city:Jericho, Dee-dee-dee Castle, Kermits Hermit Cove.
+WORKER: A form of job that involves people:Prostitute, Medic, Castle guard, Animator
+JESUS: The name of a lord and savior:Roxy, Wallace, Chriss jessie, Pneumoultramicoscopiccyllicavolcanoconiosis
+PUNISH: A brutal form of death:Crusify, Annihilate, Cook
+SECRET: A very embarrassing secret:Wet the bed until he was 14, has a tier list for diapers, Microwaved a hamster before
+ENEMYS: A pathetic sounding name for a village:Kirbu, Spyro dragon groupy, Furry, Cult of the Cuties
+OBJECT: A form of long object :Scarf, sword, Chain, gun, sledge hammer
+TOOL: A tool that can be used for breaking into places:Rope, Sword, Child, Discord moderator jar, Pelt
+WHACK: An action that can hurt someone:Cast spell, Suplex, Round-house kick, Macarena slap, 
+CRAP: A random made up word:Glubenstein, Frunckles, Yankee-doodle, Horabloomble
+SCRIPT ==========================================
+jazz music 1
+LADY: (Cooking in the kitchen) Ya know being a WORKER isn't that bad.
+LADY: I get benefits like WORKER health care. WORKER insurance. Yeah, I'm forced to live in the walls but it's alright.
+footsteps on wood
+LADY: Ah, that must be my next WORKER customer. I should get ready. (run backstage)
+music stops
+crashing debris
+SPY2: (climb up ladder and fall screaming) CRAP that hurt.
+SPY1: (climb up ladder) You okay?
+SPY2: (in pain) Yep, only fell like 50 feet.
+SPY1: Well, that's what you get for buying the cheap TOOL.
+SPY2: (angry) Weren't you the one who told me to buy the cheap TOOL ?
+noir music 4
+SPY1: Bah, potato, potato (hop down and look around) so why are we here again? The city of CITY is incredibly strong and filled with GIANTS 's .
+SPY2: Moses told us to scout out the place, find weaknesses in the CITY walls
+LADY: (behind stage left door) I will be there in a minute, just getting my WORKER dress on.
+music stops
+waterphone
+SPY1: (panicking) CRAP, the resident is still here. Quick hide now! (hide behind plant)
+meanwhile SPY2: (hide in lamp)
+LADY: (walk on stage) Hello, my valuable customers. Welcome to The CITY WORKER association... Why are you hiding? And what happened to the roof?
+SPY1: (jump out of hiding) I'm sorry for hiding, we are a little... uuhh afraid? We've seen a WORKER before.
+SPY2: (come out of hiding and WHACK the other spy) You idiot, don't you remember the 10 commandments our lord and savior JESUS gave us.
+meanwhile SPY1: (you get WHACK by the other spy)
+SPY2: always remember Thou shalt not COMMAND .
+SPY2: (look up to the sky) We love you JESUS .
+meanwhile SPY1: (look up to the sky) We love you JESUS .
+SPY2: (very angry) Thou shalt not lie, you buffoon. (WHACK the other spy again)
+meanwhile SPY1: (fall to the ground after WHACK)
+SPY2: (sigh and turn to women) I'm very sorry, Ma'am we were sent here to spy on the city of CITY .
+LADY: (surprised) Oh CRAP, if I knew you were coming, I wouldn't have worn my WORKER dress.
+SPY1: (getting up in pain) Whelp I think we got about everything we need so we shall be off. (turn to right stage)
+doorbell
+mystery music 1
+SPY1: (dramatic pause) You said you were expecting people, right?
+LADY: Yeah, I have some people coming over to this here WORKER association. (look out right stage window) And those are the kingdom guards!
+SPY1: (frightened) CRAP ma'am where can we hide if they find us they will PUNISH us?!
+extreme knocking
+LADY: Uuhh ok this way, (gesture to left stage) hide on top of the roof they probably won't look there.
+SPY2: Thank you, we are in your debt. (leave stage left)
+SPY1: Yeah, thank you SO much. (scurry off stage left)
+Music Stops
+break down door
+tense cinematic music
+GUARD2: (very aggressive to the lady) Where are you hiding the ENEMYS spies?
+LADY: (very obviously lying) Whah, I don't know what you're talking about. I'm just a lowly WORKER with no hidden ENEMYS spies whatsoever.
+GUARD1: (kindly sigh) Look, we don't want to do you any harm, we just want to find these spies.
+GUARD2: Yeah, who knows what they could find, they could find out that our king secretly SECRET .
+LADY: (bewildered) ... He... he did what?
+GUARD2: (very threatening) None of your beeswax, now tell us where the ENEMYS spies are.
+GUARD1: Yeah, saw them come here so if you just cooperate with us no one will get hurt and we will only PUNISH the ENEMYS .
+GUARD2: Yeah and maybe WHACK em in the kneecaps while we are at it.
+LADY: (very obviously lying) They were here but you just missed them and they were terrifying GIANTS 's .
+GUARD1: (look at the other guard for a second then look at the lady) Are you sure? it sounds a lot like you're lying to us.
+meanwhile GUARD2: (look at the other guard for a second then look at the lady with weapon ready)
+LADY: heh-heh noo totally not why would I a humble WORKER lie to you I'm not some pathetic ENEMYS .
+GUARD2: (very angry) HHmmmm you really sound like you're lying to us. I think we should WHACK her
+GUARD1: (calming other guard down) Hold on look, she clearly doesn't know anything so let's leave her alone.
+GUARD2: (calming down) Ugh fine let's go bro (walk off stage) I love you bro.
+meanwhile GUARD1: (walk off stage with other guard)
+GUARD1: I love you too bro.
+music stops
+peaceful fantasy music
+LADY: (sigh of relief) Ok, everything should be fine now.
+crashing debris
+SPY2: (climb up ladder and fall screaming) CRAP again why did I listen to you.
+SPY1: (climb up ladder and jump down) Because you apparently trust me.
+SPY2: (sigh and get up) Thank you for hiding us here to make it up to you we will make sure that you and your WORKER family live.
+LADY: (really happy) Oh my goodness thank you here I will hang this special scarlet WORKER OBJECT out my window so your men know what house not to attack.
+SPY1: (laugh) Oh your serious about that... welp I guess that will work thanks again bye now. (walk off stage right)
+SPY2: (hands in air shouting) ENEMIES away. (run off stage right)
+TYPEWRITER: They then attacked CITY and destroyed everything. The only thing left was the WORKER house with the scarlet OBJECT hanging out the window
+
+======
+
+INFORMATION ===============================
 ID: 819
 TITLE: It's To Die For
 AUTHOR: Tztsuya-Shiba
@@ -29072,6 +29175,130 @@ HANK: That is really funny. What do you think Daryl. Daryl?
 ======
 
 INFORMATION ===============================
+ID: 909
+TITLE: Thoughts turned to reality
+AUTHOR: spacecannonz
+VERIFIED: False
+TAGS: 
+SET: Restaurant
+DATE: 18/06/24
+CHARACTERS ================================
+FRIENDHAPPY: The more energetic friend:Backstage
+FRIENDTIRED: The more tired friend:Backstage
+WAITER: The waiter/waitress:Stage Right
+HEROPERSON: The undercover hero :Backstage
+CREATURE: The creature:Backstage
+SUGGESTIONS =============================
+PLACE: A food place or restaurant :Bobbie's Buns,Sam's Sausages
+NICKNAME: A nickname used on someone:bro,dude,friend,pal,man
+FOOD: A food or drink:The signature steak,flavor bursting burger
+EAT: A food or drink:Mega-pizza, mega-salad
+ITEM: Literally anything:Box,phone,vase,tree,police station,car,chair,table
+ACTION: An action:Wave hand fast,jump up and down
+HERO: A name of a hero, or person with powers:Power man, lighting guy
+THING: The name of a beast or creature:The destroyer,Terror,Dark Terror,Pain
+ATTACK: An attack move:Punch,kick,slap,stomp
+SCRIPT ==========================================
+WAITER: (sigh to self) I have to open the doors in the morning, cook the food, get diner's orders
+WAITER: I hate being the only one working at this entire place..
+WAITER: And the fact that I only got a few hours of sleep last night isn't helping.
+aww
+HEROPERSON: (walk onto the stage) Hello, this is the PLACE, correct?
+noir music 2
+WAITER: Indeed, We just opened aswell.
+HEROPERSON: Can I get a seat?
+WAITER: Right this way, kind fellow. (lead to any table that isn't the middle)
+Meanwhile HEROPERSON: (follow the waiter and take a seat) Thank you
+WAITER: Any refreshments to begin your day?
+HEROPERSON: Just a glass of water, please. I'm not looking to staying for long.
+FRIENDHAPPY: (walk onto the stage and look around) Gosh, isn't it wonderful that we have a PLACE that opens this early?
+Meanwhile FRIENDTIRED: (follow the friend)
+FRIENDTIRED: Sure is, NICKNAME.
+FRIENDHAPPY: (look at the waiter) Say, you mind if we sit in that middle table over there?
+french music
+WAITER: Yeah, go right ahead. I'll give you two a few minutes to look at our menu before you're ready to order
+WAITER: (seat the diners and give them menus before leaving off stage)
+FRIENDHAPPY: I'm so excited, NICKNAME. I heard they have the new FOOD on the menu
+FRIENDTIRED: FOOD? Don't get too happy now. You know nobody can make a good FOOD
+FRIENDHAPPY: C'mon.. you know PLACE makes amazing dishes!
+FRIENDTIRED: Right.. (looking down at menu) I'm probably just gonna get the..
+FRIENDTIRED: Wait.. They have the EAT in here?!?!
+FRIENDHAPPY: Woah! there's so many good things here I might just get two meals!
+FRIENDTIRED: .........You're joking
+laughter
+FRIENDHAPPY: Anyways, I found something yesterday, I forgot to tell you
+noir music 1
+FRIENDTIRED: What is it? (sound interested)
+FRIENDHAPPY: A ITEM. I thought it was interesting so I kept it
+Meanwhile HEROPERSON: (secretly listen in on them, looking over slightly)
+FRIENDTIRED: Cool. But you shouldn't go picking things up randomly, they could be dangerous.
+FRIENDHAPPY: Dangerous? What do you think a ITEM is gonna do?? Grant me three wishes?
+laughter
+FRIENDTIRED: Ugh, not that fictional
+FRIENDHAPPY: Heh, is it gonna do what I tell it to??? (in joking voice) "Make my friend ACTION"
+FRIENDTIRED: (ACTION)
+FRIENDHAPPY: I was joking.. NICKNAME. I think i'm just going to get the FOOD for today, we can go back another day
+Meanwhile FRIENDTIRED: (keep ACTION)
+FRIENDHAPPY: Okay okay, you can stop now
+Meanwhile FRIENDTIRED: (continue to ACTION)
+FRIENDTIRED: I can't stop.. it won't let me!
+FRIENDHAPPY: For real? Okay, oh magic ITEM, stop my friend from ACTION
+FRIENDTIRED: (stop ACTION) Phew.. I was getting tired there
+FRIENDTIRED: Quick, NICKNAME! Hide the ITEM! I hear the waiter!!!
+FRIENDHAPPY: (hide the ITEM) Okay okay!
+Music Stops
+Meanwhile WAITER: (walk back in)
+WAITER: Greetings, how is your days going so far?
+FRIENDHAPPY: G- Good.. yeah.. (act suspicious)
+Meanwhile FRIENDTIRED: Mhm!
+WAITER: What can I get started for you two?
+FRIENDTIRED: EAT please
+Meanwhile FRIENDHAPPY: Oh! I want the FOOD
+WAITER: (write down on paper before closing it) your EAT and FOOD will be ready momentarily. (exit stage)
+FRIENDHAPPY: Anyways..
+noir music 4
+HEROPERSON: You, you wait right there.. "NICKNAME".
+HEROPERSON: You have something that I need to take back..
+FRIENDHAPPY: Oh, you mean my ITEM?
+Meanwhile FRIENDTIRED: Oh boy
+HEROPERSON: It isn't "your" ITEM, it's my ITEM.
+FRIENDHAPPY: I got it, fair and square! You won't take it from me!
+HEROPERSON: I don't think you want to try me.
+HEROPERSON: (stand up and reveal your identity) I am HERO, protector of the magic ITEM.
+Meanwhile FRIENDTIRED: (gasp)
+HEROPERSON: The one thing that can turn any of your crazy thoughts into a reality simply with the words that come out of your mouth!
+FRIENDHAPPY: Try you, you say? how would you like if i... ITEM, summon a creature to defend me!
+alien teleport
+teleport CREATURE to Center Stage
+epic fantasy music 1
+CREATURE: I am THING, I will destroy you, HERO!!!
+HEROPERSON: I'd like to see you try..
+FRIENDHAPPY: (back up to the wall and hide) Over here, NICKNAME!
+Meanwhile FRIENDTIRED: (hide with your friend)
+HEROPERSON: I remember when you tried to steal my ITEM before, THING
+CREATURE: I needed it, I still need it
+HEROPERSON: for what, huh? to heal yourself from this?
+HEROPERSON: My ATTACK!
+Music Stops
+thunder
+HEROPERSON: (use your ATTACK on THING) Looks like you won't be defending that ITEM for long!
+Meanwhile CREATURE: (get knocked down by the ATTACK)
+CREATURE: Oh no! You got me good. It's over.. I was just ordered to do these things, I didn't mean to do any of this.
+emotional piano music
+CREATURE: I didn't mean to try and steal your ITEM, I didn't mean to try and defend those diners over there.
+HEROPERSON: I'm sorry, I thought wrong. Here, lemme help you up (walk over and hold hand out)
+Meanwhile CREATURE: (grab the hero's hand)
+Music Stops
+HEROPERSON: the real person we should be attacking..
+HEROPERSON: is those two over there..
+Meanwhile CREATURE: Are those people that summoned me!
+FRIENDHAPPY: Oh no, NICKNAME, get out of here!!! (run out off the stage)
+Meanwhile FRIENDTIRED: (run off the stage with the friend)
+superhero fanfare
+
+======
+
+INFORMATION ===============================
 ID: 911
 TITLE: Weather Report
 AUTHOR: MindlessGonzo
@@ -29082,18 +29309,18 @@ DATE: 19/06/24
 CHARACTERS ================================
 WEATHERMAN: The weatherman:News Desk
 SUGGESTIONS =============================
-NAME: A name with a weather-based pun:Sunny Smith, Stormy Daniels, Chet Skies, Gale Clancy, Hank Winds
-OUTDOOR ACTIVITY: An activity you do outdoors:wash the car, go biking, touch grass, do yoga, go to the beach
-FOOD: A food, preferably one you can cook or warm up:mashed potatoes, hamburgers, pizza, Spaghetti-O's
-ANY RANDOM ITEM: Any random item:a door, a chair, a lawn ornament, a Ford Escort
-NUMBER BETWEEN 1 AND 50: A number between 1 and 50:2, 20, 17, 46, 32, 9
-ANIMAL: An animal, real or fake:horse, cat, tanuki, platypus, lion, narwhal
-BODY PART: A body part:ankle, knee, hip, chest, arm, hand, head, nose
-US STATE OR TERRITORY: A state or territory within the United States of America:Texas, California, Guam, The Virgin Islands, Puerto Rico, Ohio, American Samoa
-BIG OBJECT: A BIG object:a farm tractor, a monument, a semi truck, a jet plane
-LOCATION: A street location, building, or place of business:Elm Street, McDonald's, The Empire State Building, the sports stadium, the diner
-REASONABLE HIGH NUMBER: A reasonable high-sounding number:100, 3 thousand, 95, 1.6 million, 643 thousand, 80085
 MONSTER: Name of a monster:Flying Spaghetti Monster, Godzilla, Mothra, The Cloverfield Monster, Babadook
+REASONABLE HIGH NUMBER: A reasonable high-sounding number:100, 3 thousand, 95, 1.6 million, 643 thousand, 80085
+LOCATION: A street location, building, or place of business:Elm Street, McDonald's, The Empire State Building, the sports stadium, the diner
+BIG OBJECT: A BIG object:a farm tractor, a monument, a semi truck, a jet plane
+US STATE OR TERRITORY: A state or territory within the United States of America:Texas, California, Guam, The Virgin Islands, Puerto Rico, Ohio, American Samoa
+BODY PART: A body part:ankle, knee, hip, chest, arm, hand, head, nose
+ANIMAL: An animal, real or fake:horse, cat, tanuki, platypus, lion, narwhal
+NUMBER BETWEEN 1 AND 50: A number between 1 and 50:2, 20, 17, 46, 32, 9
+ANY RANDOM ITEM: Any random item:a door, a chair, a lawn ornament, a Ford Escort
+FOOD: A food, preferably one you can cook or warm up:mashed potatoes, hamburgers, pizza, Spaghetti-O's
+OUTDOOR ACTIVITY: An activity you do outdoors:wash the car, go biking, touch grass, do yoga, go to the beach
+NAME: A name with a weather-based pun:Sunny Smith, Stormy Daniels, Chet Skies, Gale Clancy, Hank Winds
 SCRIPT ==========================================
 world news intro
 WEATHERMAN: Hello again, welcome back to Action News. I'm meteorologist NAME
@@ -29115,13 +29342,109 @@ WEATHERMAN: Friday will be the worst of all, as the US Geological survey warns u
 WEATHERMAN: with some guessing it'll be right at LOCATION
 WEATHERMAN: We're predicting a high of REASONABLE HIGH NUMBER.
 WEATHERMAN: We end the week with a promising clear day Saturday but due to the seismic activity on Friday,
-WEATHERMAN: we see the potential for the wakening of MONSTER to come to town to wreck havoc on the poor population.
+WEATHERMAN: we see the potential for the wakening of MONSTER to come to town to wreak havoc on the poor population.
 WEATHERMAN: We won't bother with next week as the attack by MONSTER will signal the End of Days,
 WEATHERMAN: thus wiping out everyone in the viewing area, leveling everything into a flat pancake.
 WEATHERMAN: This has been NAME with the weather.
 WEATHERMAN: Stay tuned to Action News where we be interviewing a psychiatrist who can help us control our negative thoughts
 WEATHERMAN: and later on, one of our area local chefs teaches us their method for world class FOOD
 world news outro
+
+======
+
+INFORMATION ===============================
+ID: 916
+TITLE: Household Goblin
+AUTHOR: LeDerp_64
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 19/06/24
+CHARACTERS ================================
+CHILD: Small Child:Couch
+MOM: The Mother:Kitchen
+DAD: The Father:Entrance Stage Right
+GOBLIN: Little Goblin:Entrance Stage Right
+SUGGESTIONS =============================
+HABIT: A bad habit:smoking, burping, not taking showers
+TRICK: A Simple Trick:handstand, kickflip, backflip
+FOOD: Something you cook/bake:cake, beef Wellington, Instant Noodles
+SAVED: Something you save money up for:Vacation, Cruise, Collage tuition
+MONEY: An Amont of money:100 Dollars, 25.99, 5 bucks
+DADNAME: A Name for an older man:David, Richard, Thomas
+SMELL: An unpleasant smell:Vomit, Trash, Mom's cooking
+GOBNAME: Name for a goblin:Muckwort, Thrag, Grizzle, Grubnash
+PET: An animal kept as a pet:Dog, Bird, Rabbit
+CHILDNAME: A name for a small child:David, Charlie, Keith
+HOME: Exclamation when walking into building:Honey I'm home, What's going on party people, I have arrived
+JOB: An Occupation:Office Worker, Reporter, Construction worker
+SCRIPT ==========================================
+jazz music 2
+CHILD: Mom, when is dad getting back home?
+MOM: Well, he should be off of work by now, I wonder what's keeping him.
+CHILD: Is he working late today?
+MOM: He Shouldn't be. his JOB job usually doesn't keep him late.
+tire screech
+MOM: That must be him!
+knocking on door
+CHILD: Dad! (runs to open door)
+DAD: HOME!
+CHILD: Welcome back dad!
+DAD: It's good to see you CHILDNAME.
+MOM: Welcome back dear, how was work?
+DAD: Same old same old, but i did come across something interesting on the way home.
+DAD: (looking at child) You know how you said you always wanted a pet?
+CHILD: Did you get me a PET!
+DAD: Even better than any PET.
+DAD: Introducing our new
+DAD: Goblin!
+Meanwhile GOBLIN: (walks into the house and stands next to the father)
+record scratch
+Music Stops
+GOBLIN: Sup
+GOBLIN: The name's GOBNAME
+GOBLIN: Wanna see my goblin dance? (does a little dance)
+MOM: Honey what is that?
+DAD: It's GOBNAME, he's our new household goblin!
+CHILD: Eww, he smells like SMELL.
+Goblin: Thank you.
+MOM: DADNAME, may I speak to you?
+DAD: Sure, CHILDNAME take GOBNAME to your room for a moment.
+CHILD: Do i have to?
+CHILD: I don't want my room to smell like SMELL.
+MOM: CHILDNAME do what your father says.
+CHILD: (dejected) Alright, let's go.
+GOBLIN: Hell yeah! (walks through side door)
+Meanwhile CHILD: (walks through side door)
+shark tank serious music 1
+MOM: DADNAME, you have some explaining to do!
+DAD: Well as i was driving back home i stopped by the pet store.
+DAD: I was going to get a PET for CHILDNAME, but before i walked into the store, i was approached by a strange fellow.
+DAD: He told me how he has a pet better than anything the store would sell me.
+DAD: He kept going on and on about how good a household goblin was, and i bought one for MONEY.
+MOM: MONEY?!?!
+MOM: You know we were saving that money for SAVED!
+MOM: And you spent it, on this?!
+DAD: Now i know that sounds pretty bad, but i haven't told you all the upsides yet!
+DAD: For instance, he will help clean the house, I know how much trouble you go through cleaning.
+MOM: Is that all?
+DAD: Far from it, he also knows how to make a nice FOOD.
+DAD: And he can be a good friend for CHILDNAME, we both know he doesn't have many friends.
+DAD: And the best part of them all.
+DAD: He makes for excellent house security!
+DAD: And did you see his goblin dance?
+CHILD: (walks out into living room happy) Hey dad, guess what GOBNAME taught me to do!
+Meanwhile GOBLIN: (walks into living room)
+DAD: And what is that CHILDNAME?
+CHILD: He taught me how to TRICK!
+DAD: Very nice, thank you GOBNAME.
+GOBLIN: No worries, I'm just tryna fit in here.
+DAD: (looking at mom) See? isn't this amazing?
+MOM: (pause thinking for a moment) Oh alright, I guess we can keep him after all.
+CHILD: Yay!
+Meanwhile GOBLIN: Hell yeah!
+DAD: (talking to the camera) I just hope she doesn't find out about the HABIT
+laughter
 
 ======
 
