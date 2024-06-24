@@ -1804,6 +1804,7 @@ yuna_0
 ࿇「Ｋｕｒｕｍｉ」࿇
 TRUSТ
 Noffwo
+0nashia
 modNick
 ruralists
 #TIER=1
