@@ -25322,6 +25322,131 @@ TYPEWRITER: All because of CELEB, I guess.
 ======
 
 INFORMATION ===============================
+ID: 769
+TITLE: Mild, Mild West
+AUTHOR: Valhymm
+VERIFIED: True
+TAGS: Skit
+SET: Western
+DATE: 28/04/24
+CHARACTERS ================================
+BLACKHAT: The real bad guy:Balcony
+SHERIFF: Sheriff - drunk as a lord:Entrance Stage Right
+WHITEHAT: Deputy disguised as a bad guy:Entrance Stage Left
+SUGGESTIONS =============================
+PINK: A colour:pink, green, blue, red, yellow, turquoise, purple, white, magenta, cyan
+PINHEAD: Nickname for a bad guy:Pinhead, Mad Dog, Saddle Sore, Two-Tooth
+WOODY: Cowboy's name:Woody, No-Name, Butch Cassidy, Jesse James
+CARGO: Something you can steal:gold, jewels, money, horses
+SHOOT: A verb:shoot, lick, stab, pinch, flatten, toss
+WRENCH: A tool you'd use in a robbery:crowbar, wrench, spanner, dynamite, saw, bolt cutter
+WHISKY: Something you can drink:whisky, wine, beer, milk, soda, lemonade, water
+MINESHAFT: Somewhere you'd hide treasure:mineshaft, cave, outpost, saloon, bank
+SILENT: An adjective:silent, groovy, fabulous, ugly
+GLOVE: An item of clothing:glove, boot, sock, shirt
+SCRIPT ==========================================
+WHITEHAT: (Swagger onstage) All right! These new boots are perfect, I look real good in PINK!
+WHITEHAT: And they only cost me five dollars!
+western showdown music
+door creak
+SHERIFF: (Stagger onstage, drunk) All right PINHEAD, (hiccup), your time is up!
+WHITEHAT: Who you callin' PINHEAD, old man? You know who I am, I'm WOODY, the best cowboy in town!
+SHERIFF: You're under arrest for robbing the Grand Central Railroad of all its CARGO!
+Teleport BLACKHAT to Balcony
+WHITEHAT: What are you talking about?! I ain't a criminal, I never done a train robbery!
+WHITEHAT: And besides, would a criminal have bought their own boots, (point at your feet) and had 'em made in PINK?
+SHERIFF: Are you gonna come quietly? Or am I gonna have to SHOOT you?
+WHITEHAT: Heh, old man, you couldn't SHOOT a duck from twenty yards! Even on a good day!
+WHITEHAT: You're lit up brighter than San Francisco on the Fourth of July!
+groose music
+SHERIFF: Are you inferrin' I'm drunk?
+WHITEHAT: Absolutely not, old man! I'm implyin' it!
+SHERIFF: I am not drunk!
+WHITEHAT: Oh yes you are!
+SHERIFF: I am not freakin' drunk!
+WHITEHAT: Oh really? (Point up at the back row of the audience) Can you tell the time on that there clock tower?
+SHERIFF: Sure I can!
+SHERIFF: (Point up at the back row of the audience) I am not... freakin' drunk!
+WHITEHAT: (Facepalm) Anyway, you're a man o' the law! You can't SHOOT me unless I'm threatening somebody! And you can't arrest me without probable cause!
+SHERIFF: I got all the probable cause I need right here! (Hold up a large tool)
+WHITEHAT: What's that, old man?
+SHERIFF: This is the WRENCH the engineer found on the tracks! The WRENCH you used to uncouple the wagon with all the CARGO in it!
+SHERIFF: And it's not got a single fingerprint on it! Because you wore GLOVEs!
+WHITEHAT: (Laugh mockingly) Number one, every cowboy in this entire town wears GLOVEs.
+WHITEHAT: If he doesn't, his hands'll get so worn down he won't have any fingerprints anyway!
+WHITEHAT: And number two, that ain't no WRENCH, that's a bottle of WHISKY!
+SHERIFF: (Look closer at the tool) Awww, shucks...
+WHITEHAT: Go back inside, old man. You ain't cut out for sheriffin' no more.
+Meanwhile SHERIFF: (Trudge back into the saloon, exit)
+Teleport BLACKHAT to Entrance Stage Right
+door creak
+music stops
+WHITEHAT: Sometimes I feel sorry for the old dude.
+WHITEHAT: He's got a lot of pressure from the real crooks 'round here.
+WHITEHAT: But, you gotta be tough to keep law and order in the West. No better way than with a pair of PINK boots and a sharp tongue.
+WHITEHAT: (Walk towards general store, pause) Hmm... maybe I was a little rough on the old man.
+WHITEHAT: (Turn and walk back towards the saloon) I'd better see if he's okay.
+Teleport SHERIFF to Entrance Stage Right
+door creak
+tense cinematic music
+BLACKHAT: Ah ah ah! (Enter stage right, holding the sheriff at gunpoint)
+Meanwhile SHERIFF: (Enter stage right, in front of the bad guy) Don't kill me!
+WHITEHAT: (Get ready to draw) Oh SHOOT!
+BLACKHAT: (Menacingly) Right. Nobody move a muscle, or the old man gets it!
+BLACKHAT: Well well well, if it ain't my ol' partner in crime, WOODY!
+WHITEHAT: I should've known you'd show up eventually, PINHEAD.
+BLACKHAT: (Angrily, aiming at the good guy) That is not my name!
+SHERIFF: WOODY! D-Don't you do anythin' stupid now!
+BLACKHAT: (Anxiously, aiming at the sheriff) Shut up!
+WHITEHAT: (Draw) You can't aim at two people at once, PINHEAD!
+BLACKHAT: (Aim at the good guy) Dude!
+WHITEHAT: If you put the gun down now and come quietly, everybody lives. If you SHOOT the old man, I'll SHOOT you.
+WHITEHAT: But if you SHOOT me, you'll never learn where the CARGO is. Either way, you'll never get what you want.
+BLACKHAT: CARGO? What CARGO?
+WHITEHAT: I'm surprised you don't remember - it was your plan. You were asleep when we used that WRENCH on the Grand Central Railroad's wagon.
+WHITEHAT: How embarrassing.
+SHERIFF: W-Wait... So you did do the robbery?!
+WHITEHAT: I sure did, old man.
+SHERIFF: Then why are you helpin' me?
+WHITEHAT: ...Call it a change of heart. I'm done with crime. Life's tough enough livin' with the law, (Point) let alone runnin' from it like a complete yellow-belly.
+BLACKHAT: Enough! (Let the old man go)
+Meanwhile SHERIFF: (Scramble back inside the saloon)
+western hero theme
+BLACKHAT: I guess it's just you and me now. The tables have turned. You ain't got no collateral now.
+WHITEHAT: You seem to be forgetting one thing, PINHEAD. I know where the CARGO is.
+BLACKHAT: (Angrily) That is not my name!
+WHITEHAT: If you SHOOT me, you'll never know. But let's be gentlemen. I'll tell you here and now, then you got motivation to SHOOT me.
+WHITEHAT: The old man's gone. We'll have ourselves a good old-fashioned quick draw. Winner takes all.
+BLACKHAT: (Flustered) All-All right. Where is it?
+WHITEHAT: It's in the abandoned MINESHAFT just outside town.
+music stops
+BLACKHAT: (Low chuckle, building into an evil laugh) Heheheh... Hahahahaha! BWAHAHAHAHA!
+BLACKHAT: It was all too easy! You actually thought I'd play your little game!
+BLACKHAT: (Raise your gun) Now, WOODY, you DIE!
+gunshot
+WHITEHAT: (Look down at your body, nonplussed) Hmph.
+Meanwhile BLACKHAT: (You missed) Huh?
+WHITEHAT: No, PINHEAD. (Raise your gun) I knew you'd play my little game.
+gunshot
+BLACKHAT: OW! OOOW! My leg! (Collapse to the floor)
+WHITEHAT: You always were a showoff, PINHEAD. Next time, try using your own gun. One that's not loaded with blanks.
+BLACKHAT: (Frustrated) Y-YOU-YEAAAARGH!
+western jingle 1
+SHERIFF: (Enter stage right) PINHEAD, you're under arrest for conspirin' to commit grand theft and attempted murder. You have the right to remain SILENT.
+SHERIFF: (Hold out your hand to the good guy) Put it there, partner!
+WHITEHAT: (Shake the sheriff's hand) Just how we'd planned it!
+western piano music 2
+BLACKHAT: Y-You son of a gun! This was a setup the whole time?!
+WHITEHAT: You seriously think I'd trust a drunk old guy with a loaded gun? You're an even bigger fool than I thought.
+WHITEHAT: Good actin' by the way, sheriff, ol' PINHEAD swallowed it hook, line and sinker!
+SHERIFF: Aww shucks, well at least it was a good case to retire on. And you were right, these ol' bones ain't what they used to be.
+SHERIFF: I'm passin' on the sheriff's badge to you, son. Just as soon as this guy's sorry ass is behind bars!
+BLACKHAT: (Frustrated) URGH! I knew I shoulda never trusted some guy in PINK boots to help me rob a train!
+WHITEHAT: You'll be makin' PINK boots for the rest of your days where you're goin'!
+
+======
+
+INFORMATION ===============================
 ID: 770
 TITLE: Mafi-Oh-So Wrong!
 AUTHOR: Midnight Spark
@@ -29616,6 +29741,114 @@ CHEF: (Waving) Bye!
 GUEST: Uh, so where's the free FOOD?
 CHEF: (Handing over a burnt piece of FOOD) Here you go! Fresh from the APPLIANCE!
 GUEST: (Looking at the burnt FOOD) Well, it's definitely... ADJECTIVE.
+
+======
+
+INFORMATION ===============================
+ID: 927
+TITLE: Nightmare Customer Service
+AUTHOR: DrumstickPony
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 25/06/24
+CHARACTERS ================================
+DRIVER: Delivery Driver:Backstage
+MANAGER: Store Manager:Backstage
+WORKER: The Minimum Wage Employee:Stage Left
+KAREN: The Angry Karen:Entrance Stage Right
+SUGGESTIONS =============================
+INSULT: Negative plural noun:Losers, Idiots, Scammers
+TOY: Any toy or game console:Legos, Nintendo Switch, Meta Quest 2, My Little Pony Toy
+EQUIPMENT: Any restaurant equipment:Ice cream machine, Grill, Deep fryer, Oven
+PERSON: Any name:John, Emily, Kevin, Amy
+DELIVERY: Any real/fictional food delivery service:Doordash, Uber Eats, Grubhub
+FAVFOOD: Favorite Food:Pizza, Chicken Nuggets, Burger
+NUMBER: Pick a number:69, 420, 1,440, 720
+ADJECTIVE: Negative Adjective:Awful, Worthless, Stupid, Pathetic
+FLAW: Something you don't want when getting food:Cold food, Absurdly long wait time, Rude employee
+TOPPING: Least Favorite Topping on a Sandwich:Tomatoes, Onions, Pickles, Lettuce
+RESTAURANT: Fast Food Restaurant:McDonald's, Burger King, Wendy's, Subway
+SCRIPT ==========================================
+KAREN: (Storm through stage right to confront employee) Excuse me!
+WORKER: Hi! Welcome to RESTAURANT! May I take your order?
+groose music
+KAREN: What is taking you so long?
+KAREN: I've been waiting for NUMBER minutes, and my children are still in the car waiting on their FAVFOOD!
+WORKER: Well, you see...
+WORKER: We are short-staffed and we are backed up on orders.
+WORKER: But we can get it out in 3 more minutes, give or take.
+KAREN: (Annoyed but understanding) Fine... Your food better be worth it! (Exit stage right)
+WORKER: Jeez...
+music stops
+WORKER: (Mutters under breath) I don't get paid enough to be the punching bag today...
+MANAGER: (return to stage annoyed) I heard that! (exit stage)
+TYPEWRITER: 3 Minutes Later
+silly music 1
+KAREN: (Enter stage right) You better have my order ready...
+WORKER: Here is your order. Thank you for choosing RESTAURANT.
+KAREN: Yeah, whatever. (Go to stage right while checking order)
+KAREN: (Stop at stage right) I thought I asked for no TOPPING.
+WORKER: Oh, I'm sorry. We can go back and make you another one if you like?
+KAREN: (Start to get angry) You mess up my order every time I come here!
+KAREN: God... You are so ADJECTIVE!
+KAREN: It's a simple order and none of you can do anything right!
+KAREN: I want a refund!
+WORKER: (Getting scared) But... It's on your card, we can't do refunds right now.
+WORKER: You would have to wait 24 to 48 hours for the refund to process.
+WORKER: I do apologize.
+KAREN: Spare me your damn apologies!
+KAREN: Get me your manager right now!
+vine boom
+WORKER: Okay, I'll get the manager. (Exit Stage Left)
+silly music 2
+MANAGER: (Enter Stage Left) What seems to be the problem?
+KAREN: (Changes to a different tone) Hi! I would like to talk about the service you're running.
+KAREN: You see, I had to wait NUMBER minutes just so my kids and I get our FAVFOOD.
+KAREN: I was about to leave the store, until I discovered TOPPING on my burger.
+KAREN: I hate TOPPING! And I want a refund for it.
+MANAGER: I'm sorry you didn't like the service today.
+MANAGER: Unfortunately, you would have to wait within 24 to 48 hours for the refund to process.
+MANAGER: And since you already taken a bite out of that burger, you can't get a refund at this time.
+KAREN: (Starts to get angry again) Why not?!
+MANAGER: It's against company policy. I'm sorry.
+KAREN: I didn't notice the TOPPING on my burger when I ate it!
+KAREN: Plus, I got hungry...
+MANAGER: I see...
+MANAGER: One moment please.
+DRIVER: (Enter stage right)
+MANAGER: Hi! Welcome to RESTAURANT! May I take your order?
+DRIVER: Yes! I have a DELIVERY order for PERSON.
+MANAGER: Of course! I will have it out in a sec. (Exit Stage Left)
+MANAGER: (Enter Stage Left) Here's the DELIVERY order for PERSON. (Hands the driver the order)
+DRIVER: Thank you!
+DRIVER: You have a good day! (Exit Stage Right)
+MANAGER: Same to you. Thank you for choosing RESTAURANT!
+music stops
+waterphone
+KAREN: (Act shocked) Are you kidding me!?
+MANAGER: What seems to be the problem?
+groose music
+KAREN: How come they get their order that quickly!?
+KAREN: Every time I come here, you always mess it up!
+KAREN: One day, your worker forgot to include a TOY in my children's kids menu,
+KAREN: The other day, I've been told your EQUIPMENT is broken,
+KAREN: Not to mention I always get a FLAW every time I come here.
+KAREN: And now, you INSULT put TOPPING on my burger,
+KAREN: Even though... I. Don't. Want it!!! (Throws burger in manager's general direction)
+music stops
+crashing debris
+MANAGER: You know what? I am gonna have to ask you to leave or I will call the cops.
+KAREN: Fine! You just lost a customer today!
+KAREN: I hope your restaurant goes out of business. You're all a bunch of INSULT!
+KAREN: (Storms out of RESTAURANT stage right)
+MANAGER: Phew... Glad that's over.
+MANAGER: Francis! Clock out for the night. I'll see you tomorrow.
+WORKER: (Enter Stage Left) I can't do this anymore. I quit!
+MANAGER: Come on, let's just talk about this in the morning.
+WORKER: Why? My 2 week notice is up. I'm out!
+WORKER: See ya! (Exit Stage Right)
+MANAGER: (Looks at audience with a confused look) What just happened?
 
 ======
 
