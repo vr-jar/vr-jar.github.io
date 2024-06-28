@@ -29852,3 +29852,104 @@ MANAGER: (Looks at audience with a confused look) What just happened?
 
 ======
 
+INFORMATION ===============================
+ID: 933
+TITLE: The Mole
+AUTHOR: ninjitsu1859
+VERIFIED: False
+TAGS: Skit
+SET: Conference Room
+DATE: 27/06/24
+CHARACTERS ================================
+BERNARD: The bosses assistant:Backstage
+LISA: The intern:Entrance Stage Left
+THEO: The intern:Entrance Stage Left
+THE BOSS: The boss of the company:Backstage
+SUGGESTIONS =============================
+HELICOPTER: Something you show people in private:Embarrassing photos, Guns, Pets
+LOVE: Something you say to someone before you die:I love you, I hate you, You’re ugly
+AMAZON: Any company:McDonald’s, zaxbys, Burger King 
+DELICIOUS: Word describing food:Tasty, Watery, Dry
+WORK: Something nice you can do for someone:Helped move their car, Paint their house, help move
+FOOD: Something people take seriously:Trauma, drinks, friends, snapchat streak
+PIZZA: Food people like:Pizza, Taquitos, Krispy Kreme
+FIRE: Something a boss does to an employee :Fire, promote, replace
+PHOTOS: Something you wouldn’t want to show anyone:Fart jar, gum collection, Boogers
+INCIDENT: Something bad that can happen:Fire, Explosion, Falling
+WEEK: Any number:1, 5, 10
+SCRIPT ==========================================
+Corporate guitar music
+Theo: I can’t believe the boss is throwing us a PIZZA party.
+Lisa: Yea but it’s kinda suspicious.
+Theo: How so?
+Lisa: I mean we’ve only been here for WEEK weeks.
+Theo: True that is a bit suspicious. Hopefully we do get PIZZA though I’ve been working as hard as I can.
+The Boss: (Enter stage entrance left) Hello interns so glad you could make it to the “PIZZA party”.
+The Boss: Go ahead and take a seat we need to talk before I give you your PIZZA.
+Lisa: Thank you so much for this. (Sit in chair)
+Theo: I think we definitely deserve it after that INCIDENT incident.
+The Boss: Yes you guys have done an excellent job. There’s just one thing I need to go over
+The Boss: BENARD GET IN HERE!
+The Boss: Benard has some photos to show you guys.
+Bernard: Heres the PHOTOS you wanted sir.
+The Boss: Benard I said I wanted the photos from yesterday.
+Bernard: You sure you didn’t say PHOTOS?
+Theo: Not tryna judge but that’s just weird to have in your office.
+Bernard: You haven’t seen half of it.
+Lisa: I mean I have one too.
+The Boss: Bernard if you weren’t so good at your job I would FIRE you right now.
+The Boss: Give me the photos from yesterday.
+Bernard: Sorry about that (Give The Boss the photos)
+The Boss: Thank you. (Take photos and show interns)
+The Boss: There’s a MOLE in our office!
+Mystery music 1
+Theo: Is it gonna eat our PIZZA?! We have to find it!
+Bernard: There is no PIZZA.
+Theo: (Sad) No PIZZA?
+Lisa: C'mon, you can’t play about people’s PIZZA, just like you shouldn’t play about people’s FOOD.
+The Boss: One of you is the mole. So spit it out. Who is it!
+Theo: (Crying) I just want my PIZZA.
+Lisa: Obviously it’s neither of us.
+Bernard: That’s impossible you have been the only two here for the past WEEK.
+Lisa: Well then maybe it’s you. You've also been here with us.
+Bernard: I’m the most loyal person to FRED. Just the other day I WORK.
+The Boss: That’s not the point, the point is one of you needs to come clean.
+Lisa: Well, obviously it's not me!
+Bernard: That's exactly what the mole would say! I find that very suspicious!
+The Boss: (Frustrated) Argh, who is the mole!?
+Theo: Stop it!!!
+Record scratch
+Theo: (Stand up crying) It was me! Jeez, I would’ve maybe came clean if you had given me some PIZZA.
+Theo: But no you lied to me (Pull out gun)
+Piano theme
+The Boss: Hey take it easy now.
+Lisa: Yea just take it easy.
+Theo: NO! Don’t tell me to take it easy.
+Theo: How dare you lie about such a DELICIOUS food such as PIZZA.
+Theo: I’ve been working for your rival company AMAZON.
+The Boss: You are so evil
+Theo: No you’re evil
+Bernard: Look maybe we can work something out!
+Theo: No! (Aim gun at Bernard)
+Gunshot
+Bernard: Aaah! (Fall onto floor in pain)
+The Boss: No... Bernard! Bernard!!! (Run over to Bernard)
+Lisa: Oh my gosh, Theo.
+Bernard: (In pain) I always wanted to tell you that… that...
+The Boss: What, What is it!
+Bernard: (Dying) I always wanted to tell you that… LOVE. (Dies)
+The Boss: NOOOOOOO!
+Theo: You’re next FRED.
+Lisa: Please you don’t have to do this.
+Theo: Lisa this is our job. You want to do it or not.
+The Boss: Lisa you’re in on it too?
+Lisa: I’m sorry but yes.
+The Boss: After all I’ve done for you? Even after I showed you my HELICOPTER.
+Lisa: I know and I’m sorry but I’m getting paid a lot.
+The Boss: You guys win. Just leave me here to cope.
+Theo: Don’t ever lie about PIZZA again. (Leave the scene)
+Lisa: I’m so sorry. (Leave the scene)
+The Boss: I can’t believe I showed her my HELICOPTER.
+
+======
+
