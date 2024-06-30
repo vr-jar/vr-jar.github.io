@@ -476,7 +476,6 @@ Silent Solitude
 ＋Sαlεʍ＋
 TakoaTime
 MIYΛПӨ
-Tempo_Hawk
 I'm Lorax
 ~VioletMoon~
 yoookie
@@ -1803,6 +1802,7 @@ Nanami1104
 ~ Skippy ~
 Sessiii
 ༒ElitaVA༒
+ArcTriforce
 modNick
 ruralists
 #TIER=1
