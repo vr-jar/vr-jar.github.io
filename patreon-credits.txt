@@ -1581,7 +1581,6 @@ Kiɳɠ Siɳϝυʅ
 Zhadnost
 YayFoxIsHere
 DefnedSnowbel
-Ashrou
 3xtInctIon
 Tropuis
 mayօi
@@ -2383,7 +2382,6 @@ Orcsworn
 Shira IronGut
 Rissarater
 TheBigFronch
-~ViTheGooFox~
 #TIER=2
 Goman90
 CODBO3RGM3
