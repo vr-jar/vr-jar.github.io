@@ -2481,6 +2481,7 @@ Cashmanigan
 Tz_Drake
 Orebranch
 Lanceolotl
+Hizumi Rei
 #TIER=3
 SidMarcus
 PinballReviewer
