@@ -26662,18 +26662,18 @@ TAGS: Skit
 SET: Restaurant
 DATE: 15/05/24
 CHARACTERS ================================
-WTR: The Waiter/Waitress:Backstage
-BF: The Oblivious Gentleman:Entrance Stage Right
 GF: The Lovely Girlfriend:Entrance Stage Right
+BF: The Oblivious Gentleman:Entrance Stage Right
+WTR: The Waiter/Waitress:Backstage
 SUGGESTIONS =============================
-RANDOM: Anything random to enliven the show!:chili dogs, discord kittens, anime mouse pads, pineapple on pizza, nuclear war, 45-50% of marriages end in divorce, supercalifragilisticexpialidocious
-OPMEAL: An absurd price for a singular meal:$222.23, $42.42, $109,560.89, $9.11, $4099.98, $42020.01
-DRINK: A beverage:Water, Diet Water, Mountain Dew, Sprite Cranberry, warm beer, spoiled milk, Liquid cheese, Pina Colada, Apple Juice, Raw egg in Orange Juice
-BAD: A unhealthy, greasy meal:Dave's Quadruple with extra cheese, A Double Decker Full Pounder with cheese-infused patties, Whomp Whomp Whopper, EggHic Heart Stopper, Ryomen Sukuna's finger
-GOOD: A well-balanced, healthy meal:Salmon Daikon, Sweet Potato Miso Soup, Lettuce Warp, Salted Grass on a Plate
+LOVE: An affectionate nickname between partners:babe, girlie, buttercup, muffin, sweetie pie, cutie, lovely, love, shnookums, honey bun biscuit, darling
+REST: An interesting restaurant choice:Hooters, Heart Attack Grill, Egg HicDonald's, The Soup Store
 NBR: A number:seven, thirteen, sixty-eight, seven hundred and twenty-seven
-REST: An interesting restaurant choice:Hooters, Heart Attack Grill, Egg Hic Donald's, The Soup Store
-LOVE: An affectionate nickname between partners:babe, girlie, muffin, sweetie pie, cutie, lovely, love, shnookums, honey bun biscuit, darling
+GOOD: A well-balanced, healthy meal:Salmon Daikon, Sweet Potato Miso Soup, Lettuce Wrap, Salted Grass on a Plate
+BAD: A unhealthy, greasy meal:Dave's Quadruple with extra cheese, A Double Decker Full Pounder with cheese-filled patties, Whomp Whomp Whopper, EggHic Heart Stopper, Ryomen Sukuna's finger
+DRINK: A beverage:Water, Diet Water, Mountain Dew, Sprite Cranberry, warm beer, spoiled milk, liquid cheese, Pina Colada, Apple Juice, raw egg in Orange Juice
+OPMEAL: An absurd price for a singular meal:$222.23, $42.42, $109,560.89, $9.11, $4,099.98, $42,020.01
+RANDOM: Anything random to enliven the show!:chili dogs, discord kittens, anime mouse pads, pineapple on pizza, 45-50% of marriages end in divorce, supercalifragilisticexpialidocious, Jimmy's mom
 SCRIPT ==========================================
 jazz music 2
 tire screech
@@ -26734,7 +26734,7 @@ vine boom
 BF: ooh, ooh, make sure it's deep-fried with extra batter and filled with steak grease, please!
 waterphone
 WTR: (writing on server book) M'kaaaay, and for drinks?
-BF: We'll both take a DRINK. It's our first date ever, and we both just looove DRINK!
+BF: We'll both take the DRINK. It's our first date ever, and we both just looove DRINK!
 aww
 WTR: (writing on server book) How romantic! Perfect, your orders will be ready in about NBR minutes. (Exit Stage Left)
 BF: Hey, what a coincidence! Isn't that fascinating, LOVE?
@@ -26755,13 +26755,13 @@ WTR: Enjoy, if you two need anything, let me know. (Exit Stage Left)
 BF: Holy moly guacamole! Wowzers! I'm starving, let's eat!
 GF: (disgusted) Whatever, at least my meal isn't going to give me a free ticket to death.
 vine boom
-BF: Hey! It's not that bad! Wanna try some? It's to die for!
+BF: (chewing) Hey! It's not that bad! Wanna try some? It's to die for!
 GF: Yeah, right! It is to "die" for! I'll pass!
 laughter
 TYPEWRITER: Thirty minutes later. . .
 double bass music
 BF: (bloated) Aw man, I can't move... I wonder why... (hiccup)
-GF: (disgusted) Please stop. First of all, your breath stinks.
+GF: (disgusted) Please stop. First of all, your breath reeks.
 GF: Second, that BAD was at least 10,000 calories and two pounds worth of smashed pig slop.
 vine boom
 WTR: (Enter Stage Left) Greetings. Congratulations on finishing your meals, I assume you two lovely people are ready to pay?
@@ -26771,7 +26771,7 @@ Meanwhile BF: (falls asleep)
 GF: (review receipt) HUH? His meal alone was OPMEAL..!?
 vine boom
 music stops
-GF: LOVE, are you seriously blowing OPMEAL on a moldy, greasy, sack of lard with sweaty meat-infused patties, covered in moist cheese?
+GF: LOVE, are you seriously blowing OPMEAL on a moldy, greasy, spoiled, sack of lard with sweaty meat-infused patties, covered in moist cheese?
 GF: You're unbelievable!
 Meanwhile BF: (snoring)
 silly music 2
@@ -26792,7 +26792,7 @@ WTR: (whisper) It was your imbecilic decision to willingly consume the BAD.
 BF: (muffling noises and constant breathing)
 lacrimosa music
 WTR: (whisper) Now, in the next five minutes, the consequences of consuming such a horrendous meal will start deteriorating your body.
-WTR: (whisper) You shall now work and represent this establishment for the rest of your life until someone else makes the same mistake you did.
+WTR: (whisper) You shall now work and represent this establishment for the rest of your life until someone else makes the same reckless mistake you did.
 WTR: (whisper) Thanks to you, however, I am now free. Now, I can see my wife and kids once again after NBR years.
 WTR: (whisper) Take my uniform and run this establishment as your very own. This is now your life.
 WTR: (whisper) Devote your new life to your new job.
