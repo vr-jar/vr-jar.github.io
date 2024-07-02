@@ -24760,6 +24760,124 @@ Laughter
 ======
 
 INFORMATION ===============================
+ID: 755
+TITLE: Wine, With a Side of Death
+AUTHOR: SenorconQueso
+VERIFIED: True
+TAGS: Skit
+SET: Dining Room
+DATE: 28/04/24
+CHARACTERS ================================
+PARAMEDIC: An EMT:Backstage
+EMMA: Alice's sister, :Chair 4
+DAVID: David - Claire's boyfriend:Chair 3
+CLAIRE: Claire - Alice's nervous best friend:Chair 2
+BOB: Bob - Alice's clueless "Entrepreneur" husband.:Chair 1
+ALICE: Alice - A cunning and sarcastic host.:Center Stage
+SUGGESTIONS =============================
+CAR: A Type of Vehicle:Car, Scooter, Jet Ski
+TERRIBLE: An adjective:Terrible, Horrendous, Brilliant
+TOXIC: An Intense Feeling:Toxic, Vile, Feisty
+MEAT: A type of meat:Beef, Pork, Venison
+WINE: A type of Beverage:Wine, Champagne, Vodka
+ABODE: A Type of Dwelling:Abode, Casa, Home
+CRIME: An Absurd Crime:Stealing a dog, Defrauding the National Bank, Tripping and Elderly Woman
+CHEMICAL: A Suspicious Substance:Cyanide, Fentanyl, Essential Oils
+STORE: Name for a Store:Linda's Liquors, Walmart, Primo Wines
+DRINK: A Special Kind of Drink:Fancy Wine, Baiju, Margarita
+RELATIVE: A type of relative:Aunt, Brother, Sister, 2nd Cousin Twice Removed
+FIRSTLOVE: Name of a man:Brad, Chet, Carl, Dan
+SCRIPT ==========================================
+dark classical music
+ALICE: (Pouring wine) Welcome, everyone, to my humble ABODE. I'm so glad you could make it.
+BOB: I hope y'all came with an appetite or an excuse to drink, I'm breaking out the good WINE tonight.
+CLAIRE: (Nervously) Um, you don't have to do that. We stopped by STORE on the way here and brought our favorite DRINK.
+DAVID: We couldn't just show up without contributing to the festivities.
+EMMA: (Sipping champagne) Good thing you did, it would have been embarrassing for you if you did.
+EMMA: Yeah, why with the sudden celebration? We haven't heard from you lately. I thought you isolated yourselves again.
+BOB: Now now Emma, I just happened to have some good MEAT and Alice thought it would be a good idea to share.
+CLAIRE: Is there...something I'm missing?
+DAVID: (Chuckles) Emma just being Emma, she's not afraid to call you out when you deserve it. .
+ALICE: Emma, perhaps you shouldn't ask questions you don't want the answers to.
+BOB: (Standing Between Alice and Emma) Hey, no need to be TOXIC. Why don't we just enjoy tonight?
+Music Stops
+EMMA: Oh I plan to (Walks to other side of room).
+ALICE: (Mysteriously) I hope you do.
+TYPEWRITER: Three hours and many glasses of WINE later.
+BOB: Then I asked him, what do you call a fake noodle? An impasta!
+laughter
+EMMA: It's probably the booze (Hiccup) but is Bob actually funny?
+DAVID: (chuckling) Oh definitely, that was TERRIBLE.
+ALICE: Yet I still keep him around.
+CLAIRE: (Chuckling tipsy) Alice, I do want to thank you for inviting us,
+DAVID: Yeah, I know we haven't been on the best terms as of late. We had to take a step back after....
+ALICE: It's fine. We totally get it. But how about one more to wrap up this soiree?
+DAVID: We really should be going.
+ALICE: Can I get everyone's attention?
+ALICE: I'd like to thank you for coming, it truly has been an...insightful night. However, I can't keep up this farce any longer.
+CLAIRE: Wait, what?
+EMMA: Oh, finally this night is getting interesting.
+ALICE: I've been eagerly waiting for the right time to do this. (pulls out a small vial of CHEMICAL from her pocket.)
+ALICE: You see, while you were all being chummy and enjoying everyone's company, I've been spiking the WINE with CHEMICAL.
+telenovela sting 1
+EMMA: What?!
+BOB: This WINE? (Holds up his glass)
+CLAIRE: Why would you do this?
+EMMA: We didn't do anything to you?
+ALICE: See Emma, that's where you're wrong.
+EMMA: ...What?
+ALICE: Remember FIRSTLOVE? He was my everything. We laughed, loved, and appreciated every moment with each other.
+ALICE: But you had to take FIRSTLOVE away from me!
+EMMA: But Alice, you ran over his RELATIVE with your CAR. You just got out of jail last year.
+ALICE: (Irrational) I loved him! So now you must reap what you sow.
+CLAIRE: Okay well Emma might deserve it, but David and I didn't do anything!
+ALICE: Well...to put it in simple terms so you understand. I don't like you Claire. I wish I could never see your face again.
+CLAIRE: (Gasps) Well I....
+ALICE: However, I needed David to sell this idea of a party. His vibes are immaculate. (Fist bumps David)
+DAVID: (Fist bumps Alice) Hell yeah.
+DAVID: (To Claire Shrugging) What?
+ALICE: Now I hope you had plenty to drink tonight...because now it's my turn to celebrate!
+ALICE: (drinks from her glass, then collapses onto the floor.)
+BOB: (Panicking) Alice! Why would you do this?!
+CLAIRE: (Sobbing) I knew this was a bad idea!
+DAVID: (Chuckling) This took a dark turn.
+EMMA: And I didn't even get to finish my champagne.
+BOB: (Slaps Alice) Wake up, Alice!
+CLAIRE: We need to call an ambulance!
+DAVID: I'll call 911! (dials 911)
+CLAIRE: Bob, she's going to be okay. She'll have to go to jail again.
+BOB: (Sobbing) It'll be her third strike...First CRIME, then FIRSTLOVE, now this?
+EMMA: I might as well get another drink, I know where the good stuff is.(casually pours herself another glass of champagne.)
+DAVID: (On the phone) Yes, we need an ambulance. Someone has collapsed!
+EMMA: Well, this party certainly isn't going as planned.
+CLAIRE: (Anxiously) Is she breathing?
+BOB: I don't know! Alice, please wake up!
+police car
+break down door
+PARAMEDIC: (Rushes in Stage Left) What happened here?
+DAVID: She drank the WINE, and then she collapsed!
+PARAMEDIC: Did she just drink too much WINE?
+DAVID: No! It's more complicated than that.
+PARAMEDIC: (Laughs) What, did she like, poison herself or something?
+CLAIRE: (clears throat) Well...
+PARAMEDIC: Seriously? This is more interesting than I thought.
+PARAMEDIC: (To Stage Left) Hey! Get the camera and feed ready, we've got a live one!
+PARAMEDIC: We need to get her to the hospital.
+CLAIRE: (Tearfully) I can't believe this happened.
+DAVID: I never thought dinner would end up like this.
+BOB: What is this about a feed?
+PARAMEDIC: Sir, this is the American healthcare system, we've got to make money any way we can.
+PARAMEDIC: We're taking her to the hospital now. (Picks up Alice) One of you should come with us
+PARAMEDIC: Also, if anyone else here ends up poisoned, call us back. Our audience loves a confusing story. (Exit Stage Left).
+BOB: I'll go. (Follows PARAMEDIC)
+CLAIRE: I'll stay here and clean up.
+DAVID: I'll call her family and let them know which jail to find her in.
+EMMA: At least tonight was interesting...who is up for another party once she's out?
+laughter
+
+======
+
+INFORMATION ===============================
 ID: 757
 TITLE: Karen Rap Battle
 AUTHOR: TheCatCatBoi
