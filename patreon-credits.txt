@@ -1776,7 +1776,6 @@ wasp_den
 RAVEN 〤
 Jay3409
 DyingBug101
-pixelated-idiot
 M O N T Y
 ¤ᴊᴜᴘɪᴛᴇʀ¤
 ღ~Phoenixpup~ღ
@@ -1784,6 +1783,7 @@ TraffiConeDiego
 DimWolf
 Bооthill
 gemminer04
+pixelated-idiot
 modNick
 ruralists
 #TIER=1
