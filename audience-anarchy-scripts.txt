@@ -30161,21 +30161,21 @@ TAGS: Skit
 SET: Living Room
 DATE: 02/07/24
 CHARACTERS ================================
-ADO: Rae, the game hoster:Couch
-CART: Carter, the scared kid:Couch
-KICK: Kick, the tech kid:Couch
 FOOL: Fools, the other kid :Couch
+KICK: Kick, the tech kid:Couch
+CART: Carter, the scared kid:Couch
+ADO: Rae, the game hoster:Couch
 SUGGESTIONS =============================
-GAME: A game name:Sburb, Skyrim, Titanfall
-CITY: A city name:New york city, Tokyo, Chicago
-COUNTRY: A country name:Egypt, America, Canada
-SOS: A natural disaster:Volcano Eruption, Earthquake, Torando
-WRECK: A way to destroy something:Blow up, Demolish, Burn down
-DOOM: A way to say the end of the world:Doomsday, Heat Death of the universe, Judgement day.
-END: Something that can end the world:Alien Invasion, Meteor Strike, Moon Collision 
-BOOM: Something that would destroy a house:Meteor, bomb, lighting strike
-NUM: A large number:A million, A hundred thousand, A billion
 BAM: A place you could destroy:A castle, A junkyard, A HQ
+NUM: A large number:A million, A hundred thousand, A billion
+BOOM: Something that would destroy a house:Meteor, bomb, lighting strike
+END: Something that can end the world:Alien Invasion, Meteor Strike, Moon Collision 
+DOOM: A way to say the end of the world:Doomsday, Heat Death of the universe, Judgement day.
+WRECK: A way to destroy something:Blow up, Demolish, Burn down
+SOS: A natural disaster:Volcano Eruption, Earthquake, Torando
+COUNTRY: A country name:Egypt, America, Canada
+CITY: A city name:New york city, Tokyo, Chicago
+GAME: A game name:Sburb, Skyrim, Titanfall
 SCRIPT ==========================================
 70s music
 ADO: I'm glad you all could make it to my house!
@@ -30249,6 +30249,162 @@ ADO: Its coming down guys! Look!
 ADO: (Look around) Guys?.... Where did you all go?
 ADO: (Look up) What is that?
 explosion
+ADO: Ahhh! (Die)
+
+======
+
+INFORMATION ===============================
+ID: 945
+TITLE: Missing Friend
+AUTHOR: SuperNova77
+VERIFIED: True
+TAGS: Skit
+SET: Dining Room
+DATE: 03/07/24
+CHARACTERS ================================
+MISS: Miss, the owner:Chair 4
+PET: Wolfe, The missing friend:Entrance Stage Right
+FRIEND: Landon:Entrance Stage Left
+SUGGESTIONS =============================
+BIG: A name for someone superior then you:King, Top Gangster, Master
+NUM: A number:ten, sixty-two, seventy eight
+PLACE: A location:the alleyways, the backrooms, the darkside
+YUM: A food:steamed eggs, cake and candy, fried ice cream
+BARK: A pet name:Ticklebutt, Mittens, Kitty Whisker
+SHADE: A way to describe a shady person:Suspicious, Sussy, Strange
+RIP: A way someone could die:car crash, murdered, mugged
+SCRIPT ==========================================
+MISS: (Hum) I can't wait to eat this YUM with us!
+knocking on door
+MISS: I wonder who that can be? (open door)
+FRIEND: (Enter Stage Left) Hello Miss, sorry to disturb you.
+MISS: It's no biggie! How can I help you?
+FRIEND: Well recently my friend has been missing for NUM days and we need as much information we need to find him.
+MISS: Im so sorry to hear that! What happened to your friend?
+FRIEND: Well my friend was reportedly last seen at PLACE before being taken
+MISS: Oh I've heard it's dangerous to be at PLACE at night.
+FRIEND: Witnesses said they last saw him talk to a SHADE looking person before walking off with them.
+MISS: Oh my! Thats terrible!
+FRIEND: We are hoping for the best, we really hope he didn't RIP somewhere so we are gathering information.
+MISS: Im sorry dear, but I haven't heard of anyone missing like that recently!
+FRIEND: It's okay Miss, but we would appreciate it if you could spread the word about our missing friend Wolfe.
+MISS: (shocked) Did you say Wolfe?
+FRIEND: Yes, Wolfe, Do you know him?
+MISS: You mean BARK?
+FRIEND: BARK? Who is BARK?
+MISS: Give me one second dear.
+MISS: BARK! Come out here! Your friend is here to visit!
+PET: (Enter Stage Right) WOOF! Woof Woof..
+PET: (Shocked) Landon?
+scary music
+FRIEND: What? Wolfe?
+PET: Funny seeing you here..
+MISS: Aww How cute! It's a little reunion!
+PET: Uh...Hey Landon.
+FRIEND: Wolfe? What the heck are you doing here? Why are you saying Woof?
+PET: Well I was hungry.. this lovely lady offered me a lot of YUM..
+PET: And she offered me more YUM if I stayed with her..
+FRIEND: That doesn't explain why you are pretending to be a dog!
+PET: That's a long story..
+PET: And also, my name is BARK.
+Music Stops
+FRIEND: No screw that! Do you realize how long we've been looking for you?
+FRIEND: Your friends were worried! Your family was worried! We thought you could have RIP in some alleyway!
+FRIEND: And who the hell even is this lady you're staying with?!
+PET: Well her name is...
+MISS: What did I say, PET?
+PET: Her name is BIG!
+vine boom
+FRIEND: Miss, can you get this guy neutered?
+
+======
+
+INFORMATION ===============================
+ID: 946
+TITLE: The story that never ends
+AUTHOR: kiro-sage
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 03/07/24
+CHARACTERS ================================
+PILOT: A lost pilot:Backstage
+MONK: A mountain monk:Backstage
+STORY: The storyteller (Narrator):Narrator Podium
+SUGGESTIONS =============================
+STEVEN: A random boring name:David, Bobby, Anderson, Boring, Luigi,
+ENGINE: An electronic device that is important:Engine, Flux capacitor, Hat dispenser, Cloacker
+NUMBER: Random number:1, 2, 4, 8, 16, 32, 64, 128, 365, Hoopla
+DIED: A dangerous action/stunt done in the past (ex. Jumped off a cliff):Cartwheeled around north america with out breathing, skydived without a parachute, beat up a karens 6 year old daughter
+TEST1: A simple test or challenge:Hold your breath for 4 hours, Pet a hedghog, watch all of one peice
+TEST2: A form of test or challenge:Retake your 5th grade math test, Create a VR Chat model, Stuff a child into a cartridge
+TEST3: A very hard and difficult test or challenge:Eat 6 taco bell burritos and not go to the bathroom for a week, Watch a 40 minute youtube essay by a liberal youtuber, play every single dark souls game without dying once
+ACTION: A form of action to be performed on someone:Shave your head, Do the macarena, Perform 50 squats, Sing Can you feel the love tonight
+SCRIPT ==========================================
+STORY: Hello, boys and girls, and welcome to the show. My name is Resotski Tarkov, and I am going to tell you a story.
+STORY: It is a nice story about triumph and hardship, about trials and errors. But anyway, let us begin.
+sad chug jug music
+STORY: Our story begins with a pilot named STEVEN. STEVEN was flying around northern Germany when something disastrous happened.
+STORY: STEVEN forgot to check the ENGINE. With a yank and an awful crank, his plane started malfunctioning.
+crashing debris
+explosion
+STORY: STEVEN's plane went tumbling down, crashing onto a mountain.
+STORY: STEVEN would have been a dead man if there had not been a building on top of the mountain.
+STORY: So, with all his might, STEVEN climbed to the building, which turned out to be a monastery.
+PILOT: (limping on stage right) D-dammit, my leg is torn apart, and my plane is completely busted.
+PILOT: (sighs) Well, it's a good thing this monastery is here. (shouting around) Hello... anyone here?
+STORY: From a room at the back of the monastery, a monk came out to welcome STEVEN.
+peaceful fantasy music
+MONK: (enters stage left in a welcoming manner) Welcome, young one. What is your name, and what brings you here?
+PILOT: My name is STEVEN, and I'm a pilot. My plane's ENGINE malfunctioned, and I crash-landed near your monastery.
+STORY: STEVEN and the monk talked for a while as the monk tended to STEVEN's wounds.
+STORY: Unfortunately, it would take around NUMBER months for help to reach the monastery, so STEVEN had plenty of time to get to know the monk.
+MONK: Alright, your leg should be okay for now. I need to grab some things from the back room. Whatever you do, do not enter that room unless you are a monk.
+STORY: STEVEN was puzzled by this statement, so he asked,
+PILOT: (confused) Why can't I enter that back room? Is there something I shouldn't see? Something dangerous?
+MONK: It is something only monks are allowed to see and know. (exits stage left)
+STORY: This confused STEVEN even more, but STEVEN obeyed. Curiosity, however, got the better of him. While he was stuck at the monastery, he made a decision.
+PILOT: (waiting for the monk to return) Hey, monk, can I become a monk like you?
+meanwhile MONK: (re-enters stage left)
+MONK: Hmm, that is possible, but it is a very painful and challenging process, young STEVEN.
+PILOT: Bah, it’s nothing I can't handle. Besides, I’ve DIED before. There's nothing I can't handle.
+STORY: STEVEN had never actually DIED before. He was too cowardly for that, but anyway...
+MONK: Interesting, very interesting. You definitely have what it takes to become a monk.
+MONK: To become a monk, you must complete three challenges that can span days, months, even years.
+PILOT: Ah, don't worry. Once again, I’ve DIED before, so there's nothing I can't handle.
+MONK: Alright, for your first test...
+MONK: You must TEST1.
+PILOT: Hah, that’s it? I'll get that done this evening, just you watch.
+STORY: And so STEVEN went off to complete the first test, TEST1.
+meanwhile PILOT: (moves to the front right of the stage and starts TEST1)
+STORY: It took STEVEN 17 hours to complete the first test.
+PILOT: Alright, monk, the first test is complete. (approaches the monk) Give me the next one.
+MONK: Okay, little young STEVEN. Your next test...
+MONK: You must TEST2.
+PILOT: Another easy test. Here, monk, I'll get that done in one hour, just you watch. (moves to stage right)
+STORY: It took poor STEVEN longer than just an hour; it took him NUMBER months to get it done.
+meanwhile PILOT: (completing [TEST2])
+STORY: But STEVEN eventually completed the task and went back to the monk.
+PILOT: (out of breath) Alright, monk, second test complete. (approaches the monk) Time for the third one.
+MONK: Indeed it is. It's time for the third and final test. Only then will you become a monk.
+MONK: You must TEST3.
+PILOT: Okay, that might be a little hard.
+STORY: It wasn’t just a little hard; it was a monumental task. But STEVEN was determined to get it done.
+STORY: For several months, STEVEN worked tirelessly to complete this third test.
+meanwhile PILOT: (moves to the front right of the stage and starts TEST3)
+STORY: STEVEN barely completed the test after two years, but finally, he had succeeded.
+PILOT: (exhausted) F-finally, I’ve finished the tests. Monk, am I good to become a monk now?
+MONK: That you are, poor little young STEVEN. But first, we must ACTION, then you will become a monk.
+STORY: And so STEVEN did, and after all this time, he became a monk.
+meanwhile PILOT: (performs ACTION)
+PILOT: So, am I a monk now? Am I allowed to see what’s inside that door?
+MONK: That you are, my adorable, poor little STEVEN. Come with me, and I shall show you what’s beyond this door. (exits stage left)
+meanwhile PILOT: (follows the monk)
+STORY: Now, kids, (walks to the middle of the stage) would you all like to know what’s behind that door?
+STORY: It is something very special and very important.
+STORY: The thing behind the door is...
+gong
+STORY: Oh, it seems like that’s all the time we have left. See you next time, kids!
 
 ======
 
