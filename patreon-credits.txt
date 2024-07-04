@@ -123,7 +123,6 @@ atg4ever
 Slim Tim
 Nakiri Daigo
 Poke04
-LordDlckinsonIV
 Lunar_Abyss567
 Neko Haiku
 Max_Shepherd
@@ -1800,6 +1799,7 @@ Kätzchen_
 Thighlnspector
 ღSęīñღ
 ༒Komical~K༒
+LordDlckinsonIV
 modNick
 ruralists
 #TIER=1
@@ -2384,6 +2384,7 @@ ruralist
 Cloudz--
 ;UwU
 Salex_Meza
+DARK_WARRIOR
 #TIER=2
 CODBO3RGM3
 ArkoNero
