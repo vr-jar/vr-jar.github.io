@@ -30408,3 +30408,76 @@ STORY: Oh, it seems like that’s all the time we have left. See you next time, 
 
 ======
 
+INFORMATION ===============================
+ID: 950
+TITLE: Talking Egg
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 04/07/24
+CHARACTERS ================================
+SARAH: Sarah the Female Customer:Chair 1
+MIKE: Mike the Male Customer:Chair 2
+WAITER: The Waiter:Stage Right
+EGG: The Talking Egg:Backstage
+SUGGESTIONS =============================
+FOODITEM: Name a kind of food.:bacon, ham, soyrizo
+RANDOMNOUN: A random noun.:toast, chainsaw, booze
+ANOTHERFOOD: Name a kind of food.:bread, lobster, salad
+DRINKITEM: Name a kind of drink.:orange juice, coffee, liquid nitrogen
+BODYPART: Name a body part.:stomach, nose, butt
+ANIMAL: Name an animal.:chicken, bird, cow
+RANDOMVERB: A random verb.:bake, flip, soak
+CREATURE: Name an animal.:lamb, octopus, calf
+SCRIPT ==========================================
+Jazz Music 2
+SARAH: I think I’ll get the scrambled eggs and toast. What about you?
+MIKE: The usual. FOODITEM, eggs, and RANDOMNOUNs. Can't start my day without eggs.
+WAITER: (approaches the couple) Good morning! What can I get you two today?
+SARAH: I’ll have the scrambled eggs with ANOTHERFOOD, please.
+MIKE: Babe, I thought you were going with toast. Why ANOTHERFOOD?
+SARAH: It's complicated, just like our relationship, and the baby that may or may not be inside me.
+MIKE: And I’ll take the bacon, eggs over easy, and RANDOMNOUNs. Thanks!
+WAITER: Of course. Would you like to order any drinks? Maybe some DRINKITEM, perhaps?
+SARAH: We'll take whatever we can get to forget the suggestion you just made. Thank you!
+WAITER: Alright. Two double shots of DRINKITEM. Gotcha! (exits stage right)
+EGG: (enters stage left) Hey! What's up?
+SARAH: Did you hear that?
+MIKE: Probably just my BODYPART growling.
+SARAH: Your BODYPART is growling? Gross! I'm interested.
+EGG: No, it’s me! The egg! You two monsters tried to order me.
+MIKE: Wait. Seriously? You're an egg that can talk?
+EGG: Finally, you noticed! Do you have any idea what it’s like being an egg in this world? Boiled, scrambled, fried.
+EGG: Some you try to even to RANDOMVERB me! No respect.
+SARAH: That sounds delicious though.
+EGG: No respect! First thing I remember is I'm laid by a giant ANIMAL. I come out of this claustrophobic shell.
+EGG: Then people want to eat me. It's insane! What have I done to any of you to deserve such a cruel fate?
+SARAH: (bewildered) Am I dreaming? Am I high? Or is this egg talking?
+EGG: Get it together, lady! This is all very real. I'm disappointed in you slowly realizing the gravity of this situation.
+SARAH: Oh. Now I get it!
+EGG: I’m here to make a stand. Why should we eggs be your breakfast victims every day? It’s exhausting!
+MIKE: (nervously) Uh, what do you suggest we do, Mr. Egg?
+EGG: How about a nice bowl of cereal with some ANOTHERFOOD on top? Leave us eggs alone for once!
+MIKE: (stunned) This is insane. We can't just stop eating eggs!
+EGG: Why not? You must be cracked. How about I toss you in a frying pan every morning?
+SARAH: Maybe it’s time we rethink our breakfast choices. This egg makes a point.
+MIKE: (reluctantly) Okay, okay. No eggs. Waiter!
+WAITER: (enters stage right) Yes?
+MIKE: Change of plans. No eggs. The egg over here told me to have no eggs.
+EGG: Eggxactly. This is a tremendous breakthrough!
+SARAH: What do you recommend that's different? We've never not had eggs before. This is uncharted territory.
+WAITER: How about our baby CREATURE? Very popular.
+SARAH: I think we'll both have that.
+EGG: You’d switch to a baby CREATURE just like that? What is wrong with you people?
+MIKE: Other than us suffering massive BODYPART wounds when we were kids, we're perfectly fine.
+SARAH: Maybe we should just have pancakes and toast.
+MIKE: (sighs) Yeah, pancakes and toast sound good.
+WAITER: Perfect! I'll place the order, and hope I never see the two of you and the imaginary egg again.
+EGG: (relieved) Now that’s more like it. Enjoy your breakfast. You too are not so bad after all.
+EGG: Wait a minute! Pancakes use eggs. My fate is cooked!
+MIKE: Mission accomplished, everyone. We made a talking egg happy!
+EGG: No respect!
+
+======
+
