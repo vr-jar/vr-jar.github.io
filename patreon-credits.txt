@@ -2514,6 +2514,7 @@ Tz_Drake
 Orebranch
 Lanceolotl
 Hizumi Rei
+Darkruler1738
 #TIER=3
 SidMarcus
 PinballReviewer
