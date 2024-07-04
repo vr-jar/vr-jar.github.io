@@ -299,7 +299,6 @@ Ducksonquack42
 claws13
 PyroRiptide
 RayneBlue
-Wolfman2297
 Wolfy999
 ༒MrFoxy༒
 PG3DDarkHope
@@ -2411,7 +2410,6 @@ Dacon
 Monty Ausgleich
 SonicFlori
 Berry ~
-Burnt Toaste
 Satoru_Hashi_
 9041_
 oregonzz
@@ -2518,6 +2516,7 @@ Orebranch
 Lanceolotl
 Hizumi Rei
 Darkruler1738
+-Toaste
 #TIER=3
 SidMarcus
 PinballReviewer
