@@ -2525,6 +2525,7 @@ Lanceolotl
 Hizumi Rei
 Darkruler1738
 -Toaste
+~The Puppeteer~
 #TIER=3
 SidMarcus
 PinballReviewer
