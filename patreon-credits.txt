@@ -1807,6 +1807,7 @@ reqs
 IAmTheMoonMoon
 Koolaidman the beast
 UbiZoZo
+ZumaTheAvali
 modNick
 ruralists
 #TIER=1
