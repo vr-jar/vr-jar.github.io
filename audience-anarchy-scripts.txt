@@ -30481,3 +30481,70 @@ EGG: No respect!
 
 ======
 
+INFORMATION ===============================
+ID: 956
+TITLE: Shopping With Mafia
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Hardware Store
+DATE: 08/07/24
+CHARACTERS ================================
+CASHIER: The Cashier:Behind Register
+TONY: Tony the Customer:Center Stage
+ROBERTO: Roberto the Customer:Stage Left
+SUGGESTIONS =============================
+NOUN: A random noun:sawdust, lime, honey
+VERB: A random verb:decorate, renovate, expand
+PLACE: Name a kind of house:house, mansion, shack
+CELEBRITY: Name a celebrity:Lindsay Lohan, Tom Brady, Paris Hilton
+OBJECT: A random object:hose, hamster, juice
+FLOWER: A kind of flower (plural):roses, carnations, perennials
+BODYPART: Name a body part:organ, toe, legs
+WOODWORK: Name something made of wood:birdhouse, planter, shelf
+ADJECTIVE: A random adjective:incredible, amazing, terrible
+LIQUID: Name a kind of liquid:gas, oil, water
+ITALIANNAME: An Italian-sounding last name:Corleone, Musoratti, Bugattini
+SCRIPT ==========================================
+Jazz music 1
+CASHIER: Welcome to Big Al's Convenience. Find everything you need tonight, gentlemen?
+TONY: Oh, absolutely, my good man. Just your regular late-night grocery run. You know how it is, right?
+CASHIER: This is a hardware store.
+ROBERTO: Yeah, yeah, just some normal things like NOUNs.
+CASHIER: NOUNs, huh? Alright, let's see what else we got here. Duct tape, plastic sheets, rope and a shovel. Definitely not suspicious.
+TONY: It's for a little home renovation project. Gonna renovate. Really VERB the PLACE. Nothing unusual.
+ROBERTO: Yeah, and the rope? That's for tying up loose ends, I mean things. Not people!
+TONY: Absolutely not people. Going to take our sweet time to VERB the PLACE.
+CASHIER: Pretty sure you're doing something other than what you're describing to me.
+ROBERTO: We love CELEBRITY! Don't we, Tony?
+TONY: Oh, yeah, who doesn't love CELEBRITY? Am I right? It's a real shame they went missing.
+CASHIER: Funny. I haven't seen anything about CELEBRITY on the news. You guys wouldn't know anything about that, would you?
+ROBERTO: No, no. Not at all. Hey, Tony, can you pass me the OBJECT?
+TONY: OBJECT! that’s for gardening. Gotta keep those plants fresh and clean. I love gardening! We love FLOWERS, don't we, Roberto?
+ROBERTO: Yeah, you know, gotta keep an eye on the garden.
+TONY: It's for the soil. Good for the BODYPART.
+CASHIER: For the BODYPART? I felt physical pain from you saying that.
+CASHIER: Okay, you know what? I see what's going on. Frankly, it's none of my business. No need to convince me.
+CASHIER: But hacksaw? Really?
+TONY: We’re building a WOODWORK. Nice and ADJECTIVE WORDWORK.
+ROBERTO: Yeah, yeah! We’re practically experts on WOODWORKs. You should see Tony’s collection. It's impressive.
+CASHIER: I'm sure it is. And the chloroform?
+ROBERTO: Pool. Definitely the pool.
+TONY: That's chlorine, you idiot.
+TONY: Um. We have a friend who really likes to clean stuff with a strong LIQUID. Gets out all the stains. Right, Roberto?
+ROBERTO: Super clean! No evidence. No stains at all.
+CASHIER: (frustrated) Guys! Guys! I know you're trying do something highly illegal. It's pretty obvious.
+TONY: (nervous) What? No! We're Just two innocent guys buying innocent stuff.
+CASHIER: Look, if you were planning something, you might need more professional assistance. You see, I happen to be a former crime boss.
+CASHIER: Ever heard of the ITALIANNAME family? Yeah. I'm part of it.
+ROBERTO: (shocked) Wow, really! I don't know whether to be frightened or impressed.
+TONY: (answers cell phone) Hello? Oh, they found CELEBRITY? Thank goodness! Yeah. We're buying everything the contractor asked for.
+TONY: We're running late because some weirdo at checkout thinks we're trying to hide a dead CREATURE. How crazy is that? Later, honey.
+ROBERTO: Wait. He thinks we're trying to bury a dead CREATURE? Nonsense!
+ROBERTO: We're just two honest-working Italians with an anxiety disorder.
+TONY: We'll pay for these and be on our way. Right, Roberto?
+ROBERTO: Yeah, yeah, just regular customers wanting to VERB the PLACE. Nothing to see here.
+CASHIER: Pleasure doing business with you. (yells to someone off stage) Yo Donny! Lock the doors. Don't let these bozos out.
+
+======
+
