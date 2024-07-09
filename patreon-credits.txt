@@ -1572,7 +1572,6 @@ A'eala
 Astrasata
 bowhq
 Poisoned-Cherry
-Z_ayato
 argentodawg
 ScrapieHobo
 TheTaxmanBlixy
@@ -1827,6 +1826,7 @@ U₦ƙ₦Ø₩₦_GλMEƦ
 Kachiko
 LightThatDied
 hakuskrub
+Z_ayato
 modNick
 ruralists
 #TIER=1
