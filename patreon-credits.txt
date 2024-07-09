@@ -1826,6 +1826,7 @@ LightThatDied
 hakuskrub
 Z_ayato
 ․Toasty
+Tyranny_
 modNick
 ruralists
 #TIER=1
