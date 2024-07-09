@@ -30548,3 +30548,71 @@ CASHIER: Pleasure doing business with you. (yells to someone off stage) Yo Donny
 
 ======
 
+INFORMATION ===============================
+ID: 960
+TITLE: Slay the Troll
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Forest Bridge
+DATE: 09/07/24
+CHARACTERS ================================
+PEPE: Pepe the Troll:In river
+GEORGE: George the Knight:Stage Right
+ARTHUR: Arthur the Knight:On bridge
+SUGGESTIONS =============================
+PLACE: A location:pub, castle, tower
+VING: A verb ending with -ing:plucking, drinking, howling
+NUMBER: A random number:3, 283, 4790
+OBJECT: A random object:grape, iron, candle
+CELEBRITY: Name of a celebrity:Barack Obama, Jennifer Lopez, Rick Astley
+BODYPART: A body part:ears, nose, lips
+RANDOMNOUN: A random noun:duck, pufferfish, yak
+VERB: A verb:laugh, talk, cry
+FUNNYNAME: A made up word:goober, floobenburd, nipnap
+ADJECTIVE: An adjective:crazy, stupid, idiotic
+SOCIALMEDIA: A social media platform:Facebook, Twitter, TikTok
+SCRIPT ==========================================
+Bard Music 2
+ARTHUR: Fear not, George! Today, we embark on a mighty quest to slay the vile troll who dared to insult me on SOCIALMEDIA!
+GEORGE: My King. No troll shall get away with calling you an ADJECTIVE FUNNYNAME.
+ARTHUR: Who VERBs like a RANDOMNOUN.
+GEORGE: That's not true, is it, Arthur?
+ARTHUR: No, it is not! I thought we went over this already.
+GEORGE: But you said it with such conviction, I thought there was the slightest chance it could be true.
+GEORGE: When I read anything on SOCIALMEDIA, I tend to believe it, and share with everyone I know.
+ARTHUR: Ah, but that is the troll's magic. Can't you see that? Don't believe your lying eyes and BODYPARTs.
+GEORGE: Why would my BODYPARTs lie to me?
+Footsteps on wood
+ARTHUR: (whispers) Quiet, you fool. Did you hear that?
+GEORGE: Not sure. Maybe my ears are lying too.
+PEPE: Well, well, well! If it isn't Sir Arthur and his loyal sidekick, Sir George! Or should I say, Sir Farts-a-lot and Sir Eats-a-ton?
+ARTHUR: Nay! Those nicknames are not an accurate reflection of our character!
+GEORGE: I do eat a lot, actually. I like food.
+ARTHUR: (to George) Not helping, my slow friend.
+ARTHUR: How dare you insult us! Face me, troll!
+PEPE: Oh, please. You're so ADJECTIVE, you make a RANDOMNOUN look like CELEBRITY!
+ARTHUR: That doesn't make any sense. Mid insult, bro. You're just jealous because I got all the cake and you're just a slice.
+PEPE: And George, you smell like an OBJECT-flavored Hot Pocket left out in the sun for days! Ever heard of a bath, mate?
+GEORGE: That's not true! I bathe every NUMBER days! And potency can be very valuable in battle.
+PEPE: (sarcastic) Sure, Georgie. That's why every town's OBJECT supply is mysteriously low.
+PEPE: Look how large you are! Did you eat all the porridge again, Georgie?
+Draw Sword
+ARTHUR: (drawing sword) Enough of your vile words, troll! We demand satisfaction!
+PEPE: Oh, satisfaction? Like the satisfaction you get from VING your RANDOMNOUN at the local PLACE?
+GEORGE: We had a lovely time.
+ARTHUR: Take that back, you ADJECTIVE troll!
+PEPE: Oh, what are you gonna do, VERB me? You couldn't scare a cat with your cucumber.
+ARTHUR: (steps toward troll) We shall not stand for this! Prepare yourself, troll!
+PEPE: You're like a ADJECTIVE meme – outdated and not even funny!
+PEPE: And George, you're so clumsy, you probably trip over RANDOMNOUN in your own castle.
+ARTHUR: Prepare for battle!
+Sword Fighting
+PEPE: Ow! Not my fedora! You nicked my fedora. What is wrong with you?
+GEORGE: He didn't mean to hurt you. Just scare you a little.
+PEPE: And he cut my neckbeard. All I wanted was clout and now I get sliced by two crazy knights with swords.
+GEORGE: I didn't actually unsheathe my sword.
+PEPE: (pulls out medieval smartphone and dials) Hey mom, can you pick me up?
+
+======
+
