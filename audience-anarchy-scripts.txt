@@ -29071,23 +29071,23 @@ TAGS: Skit
 SET: Doctor's Office
 DATE: 14/06/24
 CHARACTERS ================================
-DOC: Hammy doctor:Center Stage
-COW: Wimpy coward:Center Stage
-WAR: Rage-filled warrior:Backstage
 LEA: Powerful leader:Backstage
+WAR: Rage-filled warrior:Backstage
+COW: Wimpy coward:Center Stage
+DOC: Hammy doctor:Center Stage
 SUGGESTIONS =============================
-ILL: A fatal illness:The common cold, The lurgy, cancer of the groin, COVID, The plague
-LIMB: A large part of the human body:arm, leg, head, torso, groin
-LOCATION: A real world country:Uganda, America, Cybertron, Germany, Vrchat
-RANK: A rank of high power:president, god, commander, captain, general
-BODY: An external part of the body:Gyatt, thigh, armpit, left breast, cheeks, mouth
-NORM: A normal feminine name:Skyquake, Chrissy, Nibb-Nibb, Gertrude, Eris 
-PRIDE: Name of an honourable warrior:Dreadwing, Sir licks-a-lott, Walter White, Big Ian
-ACTION: a physical action:Knockout, twerk, gangnam style, thust
-FAMILY: a family relative :twin, step-bro, brother, sister, manbearpig, granny
-PLACE: A public place or building:The clouds, playground, public park, a dark ally, play pokemon go
-PART: An internal part of the human body:T-cog, heart, lung, liver, brain
 WIMP: A wimpy name or character:Starscream, Skywarp, Thundercracker, Ramjet, Sunspot
+PART: An internal part of the human body:T-cog, heart, lung, liver, brain
+PLACE: A public place or building:The clouds, playground, public park, a dark ally, play pokemon go
+FAMILY: a family relative :twin, step-bro, brother, sister, manbearpig, granny
+ACTION: a physical action:Knockout, twerk, gangnam style, thust
+PRIDE: Name of an honourable warrior:Dreadwing, Sir licks-a-lott, Walter White, Big Ian
+NORM: A normal feminine name:Skyquake, Chrissy, Nibb-Nibb, Gertrude, Eris 
+BODY: An external part of the body:Gyatt, thigh, armpit, left breast, cheeks, mouth
+RANK: A rank of high power:president, god, commander, captain, general
+LOCATION: A real world country:Uganda, America, Cybertron, Germany, Vrchat
+LIMB: A large part of the human body:arm, leg, head, torso, groin
+ILL: A fatal illness:The common cold, The lurgy, cancer of the groin, COVID, The plague
 SCRIPT ==========================================
 COW: (Lay on table and slowly wake up) Uooohh
 French music
@@ -29111,7 +29111,7 @@ laughter
 COW: PRIDE, what has gotten into you?
 WAR: (Approach slowly) You know what you did...
 COW: No, wait, this is about NORM isn't it? I thought we had put that behind us. (shrug)
-WAR: So had it! (swing and miss)
+WAR: So had I! (swing and miss)
 anime sword gleam 1
 COW: Casualties are an unfortunate consequence of war! (finger up)
 COW: But I assure you, your FAMILY met their end with great honour!
@@ -30613,6 +30613,111 @@ GEORGE: He didn't mean to hurt you. Just scare you a little.
 PEPE: And he cut my neckbeard. All I wanted was clout and now I get sliced by two crazy knights with swords.
 GEORGE: I didn't actually unsheathe my sword.
 PEPE: (pulls out medieval smartphone and dials) Hey mom, can you pick me up?
+
+======
+
+INFORMATION ===============================
+ID: 962
+TITLE: The dentist appointment 
+AUTHOR: ninjitsu1859
+VERIFIED: False
+TAGS: Skit
+SET: Doctor's Office
+DATE: 10/07/24
+CHARACTERS ================================
+LIL TIMMY: The Son:Examination Table
+MARTHA: The mother :Stool
+THE DENTIST: Dentist:Backstage
+SUGGESTIONS =============================
+TOOTH: A reason you need to see a dentist:Cavities, Gum infection, wisdom tooth
+WORD: Something you scream when in pain:Pop cycles, Dangit, Shoot
+NUMBER: Any number:3,6,9
+STREET: The name of a street:123 tickle me street, Sesame Street, Muffin man street
+CANDY: A sweet treat:Snickers, Ice cream, Lolipop
+TOOL: The name of a tool a dentist would use:Drill, Toothbrush, floss
+DEGREE: Something you major in:Law, Math, Computer science
+CERTIFICATION: Something you’re certified in:Cleaning, Washing, pooping
+MAJOR: Something you major in:Computer science, Veterinary, Yelling
+STRAPS: Something you that can restrain you:Ropes, Straps, Belt
+TIME: Any number:40,12,32
+AGE: Any age:5,13,21
+SCRIPT ==========================================
+Bluegrass music
+Lil Timmy: Mom why are we at the dentist?
+Martha: Because you have a TOOTH lil Timmy. We have to remove before it gets too bad.
+Lil Timmy: But my mouth feels fine mom.
+Martha: You’ve been Screaming WORD every time you eat for the past NUMBER weeks.
+Lil Timmy: I really like WORD that’s all. It’s not a crime to like WORD.
+Martha: It feels like a crime to keep that TOOTH in your mouth. Where is that doctor?
+Break down door
+The dentist: (Enter stage right) Hey there my fellow Americans!
+Jazz music 1
+Martha: Hi doctor. We have a problem.
+The dentist: Of course you do that’s why you came to my office of course.
+Lil Timmy: You guys should really relocate this place.
+The dentist: And why is that?
+Lil Timmy: I wouldn’t want to come to a place like this on a street called STREET.
+The dentist: This is the only building available here. Now what’s the problem?
+Martha: Well doctor my son has a TOOTH.
+The dentist: A TOOTH? That’s super rare to have my friend. (Walk over to cabinets and look through it)
+Martha: He’s been screaming WORD everyone he eats.
+Lil Timmy: I just really like WORD!
+The dentist: Yes I love WORD too but yelling it every time you eat is definitely a sign.
+The dentist: So when did you start feeling the TOOTH in your mouth buddy?
+Lil Timmy: About NUMBER weeks ago.
+The dentist: (Walk back to lil Timmy) And you didn’t say a single thing? Man you’re tough cause usually people say something the first day.
+The dentist: Now if you’re good and don’t scream and cry I’ll give you this CANDY.
+Martha: Why would he scream and cry doc?
+The dentist: Well since he left it there for so long it’s gonna be much worse pain then coming in the first day.
+Lil Timmy: It’s gonna hurt to remove it?
+The dentist: No no you’ll be fine. But this will sting a bit. The sting depends on how long you let it sit there though. (Pull out TOOL)
+Martha: What is that?
+The dentist: A new toy I’ve been waiting to use. It’s called the TOOL.
+Lil Timmy: That looks dangerous doc.
+The dentist: Highly dangerous. It was approved by 3/10 doctors. I was the 3rd one to approve.
+Martha: Isn’t it usually 9/10?
+The dentist: Not this time but somehow they allowed me to use it.
+Martha: I think we’ll just find someone else to care of his TOOTH problem.
+The dentist: You can trust me, my degree and certificate are on the wall right there.
+Martha: (Walk up to degree and certificates on wall) Your degree says you majored in “DEGREE” and your certificate says certified “CERTIFICATION”.
+The dentist: Yea they didn’t have a MAJOR degree.
+The dentist: Open wide friend!
+Lil timmy: I don’t know about this.
+The dentist: You'll be ok, just gonna feel a slight pinch on your gums.
+Martha: That won’t be necessary, we’ll find another dentist.
+The dentist: I can’t let you do that.
+Record scratch
+Martha: What do you mean?
+The dentist: I can’t let you guys leave. Activate STRAPS!
+Scifi contraption
+Scary music
+Lil Timmy: Hey let me go!
+Martha: Hey what are you doing!
+The dentist: (Shoot dart gun at Martha) Sleep my dear.
+Martha: What the? (Fall to the floor sleep)
+Lil Timmy: Mom no!
+The dentist: Now open wide
+Lil Timmy: No!
+The dentist: Computer open his mouth for me.
+Scifi contraption
+Lil Timmy: Aaaaah!
+The dentist: This won’t hurt a bit.
+Chainsaw
+The dentist: (Take out TOOTH) There ya go buddy.
+Happy music 1
+The dentist: Let him go computer.
+Lil Timmy: Wow that didn’t hurt at all.
+The dentist: Told you. Now you will feel that pinch on the way home and it’s gonna be the worse thing you’ve ever felt so put some ice on it.
+Lil Timmy: Thank you sir!
+The dentist: No problem buddy and here’s your CANDY. (Hand CANDY to lil Timmy)
+Lil Timmy: Thank you I never had a CANDY before.
+The dentist: Now your mom will wake up in about TIME minutes so you’ll probably have to drive home.
+Lil Timmy: But I’m only AGE.
+The dentist: Listen friend sometimes you gotta grow up so go drive the car you’ll be fine. Drag your mom outa here.
+The dentist: You’ll receive my bill in the mail.
+Lil Timmy: Ok sir. (Drag mom outa the room)
+Martha: Uggh (Get dragged outa the room)
+The dentist: (Turn to the audience) Now who’s next?
 
 ======
 
