@@ -18497,22 +18497,22 @@ TAGS: Skit
 SET: Living Room
 DATE: 28/04/24
 CHARACTERS ================================
+DOCTOR: Call in psychiatrist:Entrance Stage Right
+JESSE: Definitely Jessie Pinkman ;):Entrance Stage Right
 WALTER: Definitely Walter White ;):Couch
-JESSE: Definitely Jessie Pinkman ;):Front Door
-DOCTOR: Call in psychiatrist:Stage Right
 SUGGESTIONS =============================
-FOOD: Some kind of snack food (singular):bag of chips, brownie, pizza, meth
-NAME1: An embarrassing name:Fuffles Mc Doofus, Shurly, Dumb
-NAME2: Any name of a person:Keanu, Joe, Borfus
-STATE: Name a place or city and state:Albuquerque New Mexico, Columbus Ohio, Hell, The Town, Mc Donald's
-NUM: A reasonable number:4269, 420, 69, 1200
-STREET: A street name:Parkway Drive, Nowhere Lane, Road Road
-PHRASE: An action that you can do:cook, cease the means of production, take over the government
-SHOW: A parody name for Breaking Bad:Broken Fad, Borked Awful, That one meth show
-SMEDIA: A social media name (can be made up):Tiktok, Bookface, Memepage
-JAME1: A parody last name of Pinkman:Purpleman, Blueman, Punkman
-WAME2: A parody name of Walter White:Malter Fight, Woltor Wote, Walter Bright
 COMPANY: A name for a psychiatrist company:Among Us Psychiatry Inc., Why wouldn't you need therapy Co., Walk in for crazies Ltd
+WAME2: A parody name of Walter White:Malter Fight, Woltor Wote, Walter Bright
+JAME1: A parody last name of Pinkman:Purpleman, Blueman, Punkman
+SMEDIA: A social media name (can be made up):Tiktok, Bookface, Memepage
+SHOW: A parody name for Breaking Bad:Broken Fad, Borked Awful, That one meth show
+PHRASE: An action that you can do:cook, cease the means of production, take over the government
+STREET: A street name:Parkway Drive, Nowhere Lane, Road Road
+NUM: A reasonable number:4269, 420, 69, 1200
+STATE: Name a place or city and state:Albuquerque New Mexico, Columbus Ohio, Hell, The Town, Mc Donald's
+NAME2: Any name of a person:Keanu, Joe, Borfus
+NAME1: An embarrassing name:Fuffles Mc Doofus, Shurly, Dumb
+FOOD: Some kind of snack food (singular):bag of chips, brownie, pizza, meth
 SCRIPT ==========================================
 JESSE: Oh boy I do love me a FOOD while watching my favorite TV show.
 break down door
@@ -18526,7 +18526,7 @@ WALTER: Yes it is.
 JESSE: No, my name is NAME1 you know this...
 WALTER: No! You're Jesse JAME1!
 JESSE: Wait a minute... JAME1?.. That sounds oddly familiar.
-WALTER: My name is WAME2 I live at NUM STREET STATE this is my confesssion...
+WALTER: My name is WAME2 I live at NUM STREET STATE this is my confession...
 JESSE: Wait no, none of that is true, your name is NAME2.
 WALTER: I wasn't done with my confession!
 JESSE: Confession? Of what? Oh... I think I see what's going on... Have you been on SMEDA?
@@ -18537,7 +18537,7 @@ JESSE: Ok that's it I'm calling a call in psychiatrist.
 WALTER: We don't need a psychiatrist! We need to PHRASE!
 JESSE: (pull out a phone and dial a number) Hello! Is this COMPANY?
 DOCTOR: Why yes it is! What is your psychological issue on this fine evening?
-JESSE: Well you see my friend seems to be speaking nonsense, they say their name is FNAME2, and all sorts of other things.
+JESSE: Well you see my friend seems to be speaking nonsense, they say their name is WAME2, and all sorts of other things.
 DOCTOR: Ill be right over.
 doorbell
 JESSE: (get up and get the door) Wow... That was fast!
@@ -30718,6 +30718,132 @@ The dentist: You’ll receive my bill in the mail.
 Lil Timmy: Ok sir. (Drag mom outa the room)
 Martha: Uggh (Get dragged outa the room)
 The dentist: (Turn to the audience) Now who’s next?
+
+======
+
+INFORMATION ===============================
+ID: 966
+TITLE: Loud Neighbors
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 13/07/24
+CHARACTERS ================================
+PAUL: Paul the Husband:Center Stage
+KELLY: Kelly the Wife:Couch
+FRED: Fred the Angry Neighbor:Backstage
+SUGGESTIONS =============================
+ADJECTIVE: A random adjective:beautiful, disgusting, amazing
+VERBING: A verb ending an -ing:dancing, laughing, moving
+NUMBER: A random number:4, 12, 16
+DRINK: A kind of drink:La Croix, Trulys, beer
+RANDOMNAME: A random name:God, Drake, Lady Gaga
+MUSICIAN: A musician:Sarah McLachlan, Jewel, Meatloaf
+BODYPART: A body part.:heart, face, chest
+ANIMAL: A random animal:dog, cat, giraffe
+SCRIPT ==========================================
+Dark Classical Music
+PAUL: Oh, Kelly, this is just the most ADJECTIVE music I've ever heard! It really makes me want to dance.
+KELLY: I know, right? It's like our spirits are VERBING right out of our bodies! Cheers to depressing music!
+Knocking on door
+KELLY: I'll get it! (opens front door)
+FRED: (enters from backstage) Hey guys, it's about NUMBER in the morning, and you're being way too loud.
+PAUL: Is it only NUMBER in the morning? The night is still so young.
+FRED: It's actually morning.
+KELLY: We haven't touched our DRINK yet. Want some, Fred? It's warm and chunky, but refreshing.
+FRED: Why would you even drink that? Are you insane? It's late. I have work in the morning.
+FRED: So can you please, for the love of RANDOMNAME, can you turn down your music some?
+PAUL: You're only upset because you don't appreciate good music. You're not culturally refined.
+KELLY: Do you know who MUSICIAN is? They have so much depressing music.
+PAUL: They really brings out the alcoholism in us.
+FRED: This music is so depressing, and you’re blasting it like it’s a party anthem! Why?
+KELLY: Oh, poor Fred. It’s not about the volume, it’s about the soul! This music touches our part of the body.
+PAUL: Specifically the BODYPART. We just touch and touch. So much touching.
+KELLY: Fred, you’re just too uptight. Have you tried VERBING a little?
+FRED: Yes, I do. And maybe more than a little, but that's not the point.
+FRED: I just don't understand why you would play the kind of music that plays in sad ANIMAL shelter commercials.
+KELLY: It's about getting in touch with your feelings.
+FRED: (angry) Stop using the word "touch." Very unsettling.
+PAUL: (hiccup) You know what, Kelly? Maybe our imaginary neighbor is right. We should play something more uplifting.
+KELLY: Couldn't agree with you more, honey! After you do that, let's have another DRINK.
+FRED: Okay, first off: I'm not imaginary. Second, I didn't say anything about playing something more uplifting.
+FRED: And come to think of it, I'm actually terrified of what you consider "uplifting." Just please keep it down.
+KELLY: I can really go hard with this. It's making my BODYPART flutter! Who wrote this song?
+PAUL: I think MUSICIAN did this. They've been producing an awful lot of bangers lately.
+FRED: Awful is right. Starting to suspect both of you are playing me. What have I done to deserve this?
+KELLY: Paul, I think Led Zeppelin did this. What was the other song they did that I like? Stairway to Heaving?
+FRED: This is not them. And it's "Stairway to Heaven," not whatever cursed thing you just said.
+FRED: Don't want to be a Karen, but if you don't turn down the music right now, I will have to call the cops.
+PAUL: Geeze, Karen! You're no fun! Come on, honey. Let's go home. (exits front door)
+KELLY: Unbelievable. I hope you one day find music that touches your BODYPART. (exits front door)
+FRED: Wait a minute! This is your house!
+
+======
+
+INFORMATION ===============================
+ID: 967
+TITLE: Critical Decision
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 14/07/24
+CHARACTERS ================================
+PETER: Customer's Relative:Backstage
+STEVEN: Customer's Uncle:Backstage
+FRANK: The Customer:Center Stage
+CLARK: Exasperated Clerk:Behind Register
+SUGGESTIONS =============================
+FAMILYMEMBER: A family member:half-cousin, dog, grandfather, kid, sister and also wife
+SODA: An object people enjoy having:soda, birthday party, vaccine, custom avatar
+NUMBER: A random number:8, 24, 32
+BODYPART: A body part:nipples, eyes, butts
+ANIMAL: An animal:chicken, cow, bat
+VERB: A random verb:jump, cry, panic
+EXPENSIVE: Something expensive:car, house, unicorn
+OBJECT: A random object:orange juice, stapler, cocaine
+SHADOW REALM: Somewhere you might be banished to:shadow realm, the backrooms, the mcdonald's playplace, dad's secret basement, guantanamo bay
+SCRIPT ==========================================
+Guitar Music 1
+CLARK: Alright, just a few more minutes and I’m outta here!
+CLARK: (looks at Frank approaching him) Oh, great. Hi there, welcome to Sloppy Shoppy Mart. Did you find everything okay?
+FRANK: Oh yes, everything was just delightful! Really good, actually.
+CLARK: Wonderful. Let's get you checked out. Bread, milk, cereal, and some OBJECT.
+FRANK: Oh, uh, wait a second. The OBJECT. I’m not sure about that.
+CLARK: (exasperated, but trying to hide it) Not sure about the OBJECT?
+FRANK: Yeah, you see, I’m buying it for my great-grandmother and great-grandfather. This is a huge decision.
+CLARK: (sighing deeply) Okay, take your time. I’ll just stand here.
+FRANK: (pulls out phone, dialing dramatically) I’m gonna call them.
+FRANK: Great-grandma, great-grandpa, do you really want the OBJECT? No, no, not orange juice. OBJECT.
+FRANK: Yes, the kind with all the things you two like. Okay, let me get my uncle. He knows more about this.
+STEVEN: (enters entrance stage right) I hear we’re contemplating the OBJECT purchase?
+CLARK: Yes, we are. Anything I can help with?
+STEVEN: Do you offer financing options?
+CLARK: Financing? For OBJECT?
+STEVEN: Yes, we need to know if we can pay or maybe VERB in installments.
+CLARK: I'm sorry, what? We don’t have financing options for OBJECT. It’s just OBJECT.
+STEVEN: Okay, okay, we can handle that. But wait, let’s ask Peter. He’s good with warranties.
+CLARK: Please, no. Don't bring all your family in here.
+STEVEN: Frank, can you get our FAMILYMEMBER to come in?
+CLARK: FAMILYMEMBER? What the actual Hell?
+PETER: (enters entrance stage right) Heard you guys are deciding on OBJECT. Any warranties on this bad boy?
+CLARK: Warranties? For that?! I can understand asking for a warranty on EXPENSIVE, but this? No.
+CLARK: I know inflation is a problem right now, big and round, but this is getting ridiculous.
+PETER: This is in case OBJECT goes bad or doesn’t meet the taste standards.
+CLARK: It's just OBJECT! There is no legitimate need to deliberate this at all. None whatsoever.
+PETER: What are your payment options?
+CLARK: Finally! This is a normal question. We take cash, check or credit card at our store.
+PETER: How about we barter for an ANIMAL? It's got an extra set of BODYPARTs and has paid all their student loan debt!
+CLARK: Oh my bleeping God. I want to bleeping curse so badly, but I will be fired and banished to the SHADOW REALM if I do.
+FRANK: Alright, family meeting!
+CLARK: Just wanted to clock out. A simple request after a NUMBER hour-long shift.
+FRANK: Clark, we’ve made a decision.
+CLARK: Finally.
+FRANK: We’re gonna buy some SODA instead. Can we get a refund on this OBJECT?
+CLARK: (losing composure) You haven’t bought it yet. Good news, though! We have a sale on pain and suffering today!
+FRANK: Oh, cool. Well, thanks for your help!
+CLARK: I need a new job and a therapist.
 
 ======
 
