@@ -28818,6 +28818,83 @@ DK: Goodbye!
 ======
 
 INFORMATION ===============================
+ID: 881
+TITLE: Seeking Strange Advice
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Backyard
+DATE: 08/06/24
+CHARACTERS ================================
+ANDY: Andy the Nervous Friend:Center Stage
+PETER: Peter the Skeptical Friend:Grill
+SUGGESTIONS =============================
+EXCLAMATION: An exclamation:shizz, moley, cow
+FOOD: Name a kind of food:hot dog, cheeseburger, pizza
+VERB: A random verb:move, destroy, hide
+PLACE: A random location:house, castle, villa
+CELEBRITY: Name a celebrity:Tom Hanks, Katy Perry, Richard Nixon
+BODYPART: Name a body part:armpits, cheeks, nose
+INGREDIENT: Name an ingredient you find in food:flour, paprika, cumin
+OBJECT: A random object:spoon, hammer, nunchucks
+ADJECTIVE: A random adjective:crazy, spicy, sleepy
+WEAPON: Name a weapon:gun, brass knuckles, sword
+ACTIVITY: Name an activity:playing cards, skip rocks, jump rope
+SCRIPT ==========================================
+Happy Music 1
+PETER: Enjoying the FOOD? I made 'em nice and juicy just for you.
+ANDY: Yeah, man. Say Peter, an I ask you for some advice?
+PETER: Sure, man. What's up?
+ANDY: So, let’s say you’re, hypothetically, in a bit of trouble. Like, "Holy EXCLAMATION!" kind of trouble.
+PETER: Hypothetically, huh? Okay, shoot.
+ANDY: Right. So, let's say you need to VERB a lot of "stuff" from one PLACE to another.
+PETER: (curious) Stuff? What kind of stuff are we talking about?
+ANDY: You know, just packages. For a friend. CELEBRITY.
+PETER: CELEBRITY? Really? Okay. And what kind of packages are we talking here, Andy?
+ANDY: The kind of packages that make you really, really nervous if you get caught with them.
+ANDY: The kind that make you sweat around your BODYPART.
+PETER: Specifically your BODYPART?
+ANDY: Like around that area, not necessarily on it.
+PETER: Hold on. Are you talking about drugs?
+ANDY: Drugs? Who said drugs? I didn't say drugs. Let's just call it "expensive INGREDIENT."
+PETER: Uh-huh. And who’s looking for this "expensive INGREDIENT"? An angry chef?
+ANDY: A very persuasive group of individuals. The kind who might come at you with a OBJECT if you disappoint them.
+PETER: And they would use this OBJECT on you.
+ANDY: Repeatedly, I'm sure.
+PETER: Are these "individuals" covered in tattoos, possibly named things like "El ADJECTIVE Diablo"?
+ANDY: Swing and miss. Definitely not. Maybe, though. This is all just a big "what if," right.
+ANDY: We're just shooting the stuff. Guy talk. Things two dudes normally talk about in a backyard.
+PETER: Andy, are you telling me you stole drugs from a cartel?
+ANDY: What? No! I’m just asking for a friend. Let's call them CELEBRITY. And they'll need protection, obviously.
+PETER: You mean like a WEAPON?
+ANDY: Yes, obviously a WEAPON. CELEBRITY would need that to protect themselves.
+PETER: (leaning in, intense) Okay, let's sum this up. You are in possession of a large quantity of stolen drugs.
+PETER: The cartel is after you, and you're looking for advice on how to protect yourself?
+ANDY: What should they do, Peter?
+PETER: No. Stop with the hypothetical. I get it. You need help. Damn it, man!
+PETER: (calmly) First, you need to get out of PLACE immediately. Then change his name to something ridiculous.
+ANDY: Like CELEBRITY?
+PETER: That name is clearly taken. Shut up for a second. You need to find a good hiding spot, like a OBJECT at the bottom of a lake.
+PETER: Also, you might want to learn how to ACTIVITY because it could come in handy.
+ANDY: Random, but fine. That makes sense. But what if he wanted to turn things around.
+PETER: I know it's you, dude.
+ANDY: He should make a romantic gesture instead.
+PETER: A romantic gesture? To whom? The freakin' cartel?
+ANDY: Well, what if this "friend" of mine just wanted to impress someone special?
+PETER: By stealing drugs from a cartel and going on the run?
+ANDY: (laughs awkwardly) No, no. What? No! I'm just seeking regular romance advice.
+PETER: You're telling me that this other person over here is not in possession of stolen drugs.
+PETER: And for this entire time, this entire hypothetical is about romantic advice?
+PETER: (exasperated) Andy, I think your "friend" needs to get his priorities straight.
+ANDY: (smiling) Thanks, Peter. That’s exactly what I needed to hear. I feel so much better now.
+Gunshot
+ANDY: (grinning) Hey, Peter. I need some more advice.
+PETER: What now? What could your "friend," CELEBRITY hypothetically need at this very moment?
+ANDY: He might be wondering why he was shot.
+
+======
+
+INFORMATION ===============================
 ID: 888
 TITLE: A Hairy Date
 AUTHOR: LeoHardy
