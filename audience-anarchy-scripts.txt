@@ -18497,22 +18497,22 @@ TAGS: Skit
 SET: Living Room
 DATE: 28/04/24
 CHARACTERS ================================
+WALTER: Definitely Walter White ;):Entrance Stage Right
+JESSE: Definitely Jessie Pinkman ;):Couch
 DOCTOR: Call in psychiatrist:Entrance Stage Right
-JESSE: Definitely Jessie Pinkman ;):Entrance Stage Right
-WALTER: Definitely Walter White ;):Couch
 SUGGESTIONS =============================
-COMPANY: A name for a psychiatrist company:Among Us Psychiatry Inc., Why wouldn't you need therapy Co., Walk in for crazies Ltd
-WAME2: A parody name of Walter White:Malter Fight, Woltor Wote, Walter Bright
-JAME1: A parody last name of Pinkman:Purpleman, Blueman, Punkman
-SMEDIA: A social media name (can be made up):Tiktok, Bookface, Memepage
-SHOW: A parody name for Breaking Bad:Broken Fad, Borked Awful, That one meth show
-PHRASE: An action that you can do:cook, cease the means of production, take over the government
-STREET: A street name:Parkway Drive, Nowhere Lane, Road Road
-NUM: A reasonable number:4269, 420, 69, 1200
-STATE: Name a place or city and state:Albuquerque New Mexico, Columbus Ohio, Hell, The Town, Mc Donald's
-NAME2: Any name of a person:Keanu, Joe, Borfus
-NAME1: An embarrassing name:Fuffles Mc Doofus, Shurly, Dumb
 FOOD: Some kind of snack food (singular):bag of chips, brownie, pizza, meth
+NAME1: An embarrassing name:Fuffles Mc Doofus, Shurly, Dumb
+NAME2: Any name of a person:Keanu, Joe, Borfus
+STATE: Name a place or city and state:Albuquerque New Mexico, Columbus Ohio, Hell, The Town, Mc Donald's
+NUM: A reasonable number:4269, 420, 69, 1200
+STREET: A street name:Parkway Drive, Nowhere Lane, Road Road
+PHRASE: An action that you can do:cook, cease the means of production, take over the government
+SHOW: A parody name for Breaking Bad:Broken Fad, Borked Awful, That one meth show
+SMEDIA: A social media name (can be made up):Tiktok, Bookface, Memepage
+JAME1: A parody last name of Pinkman:Purpleman, Blueman, Punkman
+WAME2: A parody name of Walter White:Malter Fight, Woltor Wote, Walter Bright
+COMPANY: A name for a psychiatrist company:Among Us Psychiatry Inc., Why wouldn't you need therapy Co., Walk in for crazies Ltd
 SCRIPT ==========================================
 JESSE: Oh boy I do love me a FOOD while watching my favorite TV show.
 break down door
@@ -18529,7 +18529,7 @@ JESSE: Wait a minute... JAME1?.. That sounds oddly familiar.
 WALTER: My name is WAME2 I live at NUM STREET STATE this is my confession...
 JESSE: Wait no, none of that is true, your name is NAME2.
 WALTER: I wasn't done with my confession!
-JESSE: Confession? Of what? Oh... I think I see what's going on... Have you been on SMEDA?
+JESSE: Confession? Of what? Oh... I think I see what's going on... Have you been on SMEDIA?
 WALTER: That isn't important right now, Jesse, we need to PHRASE!
 JESSE: I might be wrong but I think this is all coming from memes about that one show... What was it called? SHOW?
 WALTER: Never heard of it, we need to PHRASE! Now Jesse!
@@ -30921,6 +30921,112 @@ FRANK: We’re gonna buy some SODA instead. Can we get a refund on this OBJECT?
 CLARK: (losing composure) You haven’t bought it yet. Good news, though! We have a sale on pain and suffering today!
 FRANK: Oh, cool. Well, thanks for your help!
 CLARK: I need a new job and a therapist.
+
+======
+
+INFORMATION ===============================
+ID: 983
+TITLE: Indomitable Human Spirit
+AUTHOR: kiro-sage
+VERIFIED: True
+TAGS: Skit
+SET: Doctor's Office
+DATE: 17/07/24
+CHARACTERS ================================
+LEAD: The Leader of the aliens:Desk
+FOOL: A Foolish Alien:Narrator Podium
+BOY: A Young boy:Backstage
+DAD: An Ex-Marine Father:Backstage
+SUGGESTIONS =============================
+HARRY: A freaky and weird name:Harry, Slugnoid, Zooble, ID-F36, Amethyst, Retsahmei
+TORTURE: A Brutal form of Torture:Crucify, Iron maiden, Stick you in the femur breaker, Twist your dick, Waterboard
+DEVICE: A alien/futuristic sounding piece of technology:Lazer net, Blahaj, Green man goop, Iron golem, Zelglora, humuhumunukumaquapanai,
+GLOB: A random made up word:Slugnoid, Zlincozord, Floobenstein, Microfaun
+CORE: An electronic device:Nuclear reactor, Vibrator, Theramin, Doggy,
+PUMPKIN: Something to call your child:pumpkin, Teddy bear, friend, Comrad, Freedom loving American
+SCAR: A permanent thing that can be put on your body:Scar, Tatoo, Buzzcut
+RAT: A pathetic animal or pokemon:Rat, squirrel, magikarp, Carnis, Siren, Butterfly
+STAR: A location like a country or planet:star, Sun, Land, Empire state building, Cathedral, 
+ACTION: Something you do:Cardio, Cooking, Singing, Your mom, star gazing, jumping jacks,
+SCRIPT ==========================================
+courtroom music
+LEAD: (speaking into computer radio) HARRY? Come in, HARRY? Do you read me?
+FOOL: (speaking into earpiece) Mothership, this is HARRY, I read you loud and clear.
+LEAD: Alright HARRY, you've made it to Earth. We need a live human for our experimentation. Do not mess this up.
+FOOL: (talking into earpiece) Bah, don't worry, boss. This will be a piece of cake.
+FOOL: Especially for the one, the only, the PUMPKIN -y HARRY Globernark!
+FOOL: You can count on me!
+LEAD: (angry) Shh, be quiet, HARRY! If you shout, the humans might hear you...
+LEAD: and then you will be the one being experimented on, you idiotic GLOB.
+FOOL: (Aloof) It'll be fine! Besides, what's the worst they can do to me?
+LEAD: Have ya ever heard of Area 51? If you are sent there, they will TORTURE you. They will GLOBing TORTURE you.
+footsteps on wood
+FOOL: Hold that thought. I hear someone coming.
+LEAD: Dammit HARRY, ugh.
+BOY: (walks to narrator podium) H-hello? Who is there?
+FOOL: Ah, an easy target. Get over here.
+BOY: (excited) WOAH! It's a little green man!
+LEAD: HARRY, were you compromised? Is that a human child I hear?
+FOOL: Don't worry, boss. It's just a small one. They are weaker, so this should be easy.
+fistfight
+FOOL: (Kidnapping child) Come here, you! (Get beat up) Ow that hurt, kid!
+Meanwhile BOY: (Beat up alien) Hey what are you doing, let me go!
+raygun shot
+FOOL: (Tired) Ok, maybe this kid isn't as weak as I thought. But I got it. Ugh, that GLOB hurt.
+BOY: Woah, cool gadget! May I try it?
+FOOL: What? No! (Pressing buttons on gadget) How are you not passing out from my DEVICE?
+FOOL: (Speaking into radio) HARRY to mothership... Returning right now with the boy.
+LEAD: (FRANTIC) Wait, HARRY, did you say the boy? (loudly) Did you capture a human child?
+alien teleport
+Teleport FOOL to Stage Right
+Teleport BOY to Stage Right
+FOOL: Here ya go, boss. A human like you asked. This smaller, weaker one was easy pickings.
+meanwhile BOY: (looking around astonished at the aliens)
+BOY: Hello, mister alien!
+LEAD: HARRY, I need you to think very clearly. Was there a taller one with it?
+FOOL: Well (thinking) yeah... but it was just some old man with some SCARs.
+LEAD: (furious) JUST and old man? Oh no...
+gameshow buzzer
+gameshow buzzer
+crashing debris
+LEAD: (grabs HARRY by the shoulders) Think HARRY, think.
+LEAD: Waaaay back to abduction 101! Earth does NOT just have old men. They have...? (lets go of HARRY)
+FOOL: Uuuhh, retired men?
+explosion
+LEAD: Yeah, and what kinds of retired men have SCARs?
+FOOL: Uhh... Marines? Ooohh.
+FOOL: (despair) Oh noooo...
+alien siren
+LEAD: Yeah, oh no. You just stole an ex-Marine's GLOBing child, HARRY. Congratulations.
+explosion
+lacrimosa music
+FOOL: W-what do we do?!
+LEAD: We pray, HARRY.
+FOOL: P-Pray? But I thought there was no God.
+super epic charge up
+LEAD: And he just destroyed the CORE. HARRY, it was not nice knowing you.
+FOOL: (panicking) Oh no, he will be here any second. (hides under desk)
+break down door
+DAD: (Enter) Where is my SON?!
+BOY: (excited) Daddy!
+DAD: (furious) This is for taking my son. (beats the alien to death)
+meanwhile LEAD: (falls to ground after being beaten to death)
+BOY: Hey dad, can I have that gadget they were using?
+DAD: The DEVICE? Sure, anything for my sweet little PUMPKIN.
+DAD: (frees his son) But first, I need to deal with this last GLOB RAT.
+DAD: (slowly walks around looking for alien) Did you really think that you RATs would survive?
+DAD: We are the ones who will inherit the STARs. (shouting) Not you, you disgusting RATs.
+DAD: (pauses for a second) I think it got away. Let's return home. We are going to be doing some ACTION.
+BOY: Ok, daddy. I wonder where he went. (leaves stage)
+meanwhile DAD: (leaves stage)
+FOOL: Oh my GLOB PUMPKIN. I lived. (sigh)
+BOY: (walks back on stage) Hey dad, I think I heard the last one...
+BOY: There the RAT is! Under the desk! (points to alien)
+meanwhile DAD: (stands behind son)
+FOOL: Oh no. (prays) Oh lord who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done.
+meanwhile DAD: (stands in front of alien cracking knuckles)
+DAD: Thought you lived, huh? (winds up a punch)
+FOOL: Oh no. Oh RAT. (screams)
 
 ======
 
