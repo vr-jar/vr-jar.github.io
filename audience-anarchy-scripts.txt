@@ -31030,3 +31030,168 @@ FOOL: Oh no. Oh RAT. (screams)
 
 ======
 
+INFORMATION ===============================
+ID: 987
+TITLE: VRChat Interruption
+AUTHOR: Ａｅｃｈ
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 17/07/24
+CHARACTERS ================================
+MOTHER: A mother:Backstage
+VRPLAYER: A VRChat player:Couch
+SUGGESTIONS =============================
+BAD: A VR game:POPULATION ONE, Blade And Sorcery, Gorilla Tag
+CONSOLE: A Console:Xbox 360, Playstation 5, Nintendo Switch
+GAME: A game:Super Mario Bros, Fortnite, Call Of Duty
+CHARACTER: Any Character:Mario, Sonic, Steve, Batman
+WORK: A fast food chain:McDonalds, Sonic, KFC, Wendy's
+SEASON: A Season:Summer, Fall, Winter
+BATPER: A battery percentage (without %):0, 5, 50, 69, 100
+VRWORLD: A VRChat World:Audience Anarchy, Murder 4, McDonalds, The Black Cat
+DISASTER: A natural disaster :Tornado, Tsunami
+SCRIPT ==========================================
+Jazz music 1
+VRPLAYER: Oh man! I love playing VRChat on a SEASON day!
+VRPLAYER: Nobody to distract me while I'm playing VRWORLD in VRChat!
+Teleport MOTHER to Stage Right
+break down door
+MOTHER: Son, I'm home!
+VRPLAYER: (Surprised) Mom? What are you doing here at this time?
+MOTHER: I got fired from my job at WORK. And aren't you supposed to be sleeping right now?
+VRPLAYER: I just couldn't sleep because I wanted to play VRWORLD in VRChat!
+MOTHER: What's VRChat?
+VRPLAYER: Oh, uh It's this cool game that lets you be anything you want, Like you could be CHARACTER!
+MOTHER: Well you should go ahead and get to bed, It's late and you can play your "VRChat" tomorrow.
+VRPLAYER: Mom please let me stay up! My battery is only at BATPER percent!
+MOTHER: Fine, but don't make those noises that woke everybody up like last time.
+VRPLAYER: Ok, thanks mom!
+MOTHER: Also make sure to clean up the house, it's a mess!
+vine boom
+MOTHER: (Exit Stage Left)
+VRPLAYER: Oh man! Time to get back to playing VRWORLD! (move your hands around randomly)
+thunder
+VRPLAYER: Oh not the WiFi going out now!
+Teleport MOTHER to Side Door
+MOTHER: (Enter Stage Left) Did the WiFi go out? I was playing GAME on my CONSOLE and it stopped working...
+VRPLAYER: Yeah I can't play VRWORLD anymore.
+MOTHER: Maybe instead of the WiFi going out we should worry about the DISASTER coming towards us
+thunder
+VRPLAYER: Oh my god, there's a disaster coming towards us?
+MOTHER: Yeah...
+VRPLAYER: At least it can't get worse than that one time I played BAD.
+MOTHER: How does that relate to the DISASTER?
+VRPLAYER: I literally do not know.
+TYPEWRITER: There's a hole in the roof
+VRPLAYER: There's a hole in the roof?
+MOTHER: I guess!
+thunder
+
+======
+
+INFORMATION ===============================
+ID: 988
+TITLE: Infomercial Nightmare
+AUTHOR: HypnoToadTrance
+VERIFIED: True
+TAGS: Infomercial
+SET: Infomercial Kitchen
+DATE: 18/07/24
+CHARACTERS ================================
+SALESMAN: The Salesman:Center Stage
+CUSTOMER: The Customer:Entrance Stage Left
+PRODUCT: The Product:Entrance Stage Right
+SUGGESTIONS =============================
+MAGIC: The magic words to a spell or incantation:Klaatu Barada Nikto, Abracadabra, Zip Zap Zop, Gaben hear my words, fizzlesnarb gobsmoggen, RizzenMog Mewhio Skibanum Tax
+NAME: Buzzword name for a household appliance:Turbo Chopper, Magic Mixer, Smart Slicer, Slam Dunkaroo, Rizzmaster 200, Vagiflex, Doink 3, Silly Stick, Plumpy, My Little Pony RealHorse 5
+FEATURE1: A special attribute for a product:self-cleaning, voice-activated, solar-powered, has gamer RGB lights, is programmed to loved you, can withstand 400 degree temperature, legally can't go to jail, is bald, self destructs, is nuclear powered, is over 18 years old, hates anime, is made in Japan, smells fresh
+FEATURE2: A service performed by a servant:clean laundry, purchase groceries, dance, perform CPR, lick your kitchen clean, uninstall vrchat, shoplift medicine
+MALFUNCTION: A funny way for a robot to malfunction:sprays water everywhere, starts dancing, speaks nonsense, dies of cringe, contracted terminal cancer, I've fallen and I can't get up, choke on hotdog
+EXCUSE: An excuse for a product malfunction:It's a feature not a bug, Just needs a software update, User error, skill issue, supposed to do that, It just doesn't like your face, is lonely, common factory defect, God intervened, it's a little stupid, it's just a prank bro
+ADJECTIVE: An adjective with a positive connotation:Talented, Impressive, Incredible, tasty, radical, heartwarming, unconventional yet awesome, attractive, thick
+OBJECT: Something unclean:Toilet, Sink, Oven, socks, dumpster, carpet, underwear, infected wound
+TERMS: The only way to break a curse.:Perform a sacrifice, Pray, Pass it on to another, ignore it completely, always maintain direct eye contact, perform an exorcism during the summer solstice, order pills from AliExpress, eat broken glass
+CURSE: Something that is unpleasant to do.:Sell products, Play Fortnite, Wear tight pants, handshake, look people in the eyes, drink Diet Pepsi, fall down the stairs, stare at the sun
+CONSEQUENCE: A punishment.:Being flogged, time-out, detention, go to a public Black Cat, listen to country music
+SCRIPT ==========================================
+corporate motivational music
+SALESMAN: (addressing the audience) Ladies and gentlemen, welcome to the future of household technology! Today I am excited to tell you all about our latest invention.
+CUSTOMER: (Entering from Stage Left, confused) Excuse me, who are you and what are you doing in my kitchen?
+record scratch
+Music Stops
+CUSTOMER: (Gesture toward audience) And why are all these people here?
+SALESMAN: Ah, no need for concern! I am here to present you with a once-in-a-lifetime opportunity. Let me introduce you to your new best friend in the household.
+corporate guitar music
+SALESMAN: (Gesture toward Stage Right) The NAME!
+Meanwhile PRODUCT: (Enters from Stage Right) Hello, I am NAME, your new best friend in the home.
+CUSTOMER: And what exactly does this NAME do?
+SALESMAN: Oh, it does everything! It FEATURE1, FEATURE2, and can even tuck your kids in at night!
+SALESMAN: It's the perfect solution for any household need.
+SALESMAN: (Gesture toward OBJECT) Here watch as NAME shows you how effortlessly it can clean your OBJECT!
+PRODUCT: (Start inspecting OBJECT) Certainly! I possess many ADJECTIVE functions.
+Music Stops
+scifi contraption
+PRODUCT: (MALFUNCTION) Error!
+silly music 1
+CUSTOMER: Uh, is it supposed to MALFUNCTION?
+SALESMAN: (nervously) Oh, yes! That. Uh. EXCUSE. Nothing to worry about!
+PRODUCT: (Attempt to clean OBJECT but freeze-up) Err... err... error!
+crashing debris
+CUSTOMER: (Skeptical) Are you sure this is safe?
+SALESMAN: (Desperate) Absolutely! It's perfectly safe. NAME just needs a little adjustment. (Tinker with PRODUCT)
+Meanwhile PRODUCT: (Make erratic robotic movements)
+spy machinery
+SALESMAN: There! That should do it!
+PRODUCT: (Attack kitchen countertop and appliances) Error! Error! Error!
+chainsaw
+CUSTOMER: (Panicking) This is a disaster! What are you trying to sell me?
+Music Stops
+SALESMAN: (Breaking down) Okay, I admit it. I'm not really a salesman.
+Meanwhile PRODUCT: (Stand quietly behind countertop)
+vine boom
+mystery music 1
+SALESMAN: When I found this product, I was cursed to CURSE.
+SALESMAN: The only way I can be free from this curse is if TERMS.
+PRODUCT: (Turn to SALESMAN) Your time is up. You must now face the consequences.
+PRODUCT: (Approach Salesman) Prepare for CONSEQUENCE.
+waterphone
+SALESMAN: (Terrified) No, please! I didn't mean for this to happen!
+tense cinematic music
+CUSTOMER: (Grab PRODUCT and hold it still) I'll help you break the curse. Let's get rid of this thing once and for all!
+Meanwhile PRODUCT: (Struggle against being restrained by CUSTOMER)
+PRODUCT: (Evil laugh) You can try, but you'll never succeed!
+SALESMAN: (Restraining PRODUCT) Let's do this!
+Meanwhile CUSTOMER: (Restraining PRODUCT) Let's do this!
+PRODUCT: (Struggling still) Warning. Mishandling NAME will void your warranty.
+CUSTOMER: (Losing grip) Does this thing have an off button?!
+Meanwhile PRODUCT: (Break one arm free)
+SALESMAN: (Losing grip) I-I don't know! I never read the manual!
+PRODUCT: (Break free) (Pointing to SALESMAN) Your inability to read the full terms and conditions shall be your undoing!
+vine boom
+CUSTOMER: (Back away slowly) Fiddlesticks! It's too strong!
+Meanwhile SALESMAN: (Back away slowly)
+SALESMAN: Wait! I think I remember something now!
+CUSTOMER: Well, if you're going to remember something, now's a good time to get out with it!
+SALESMAN: (Thinking to yourself) I remember there was a passphrase - a default password if you will - for disabling it!
+CUSTOMER: A password? What like a Wi-Fi Router?
+SALESMAN: (Clear throat) Something like that. Let's see.
+SALESMAN: (Dramatically) MAGIC
+Meanwhile CUSTOMER: (Hide behind counter)
+Teleport PRODUCT to Backstage
+magic sound
+Music Stops
+SALESMAN: (Relieved) Wow! That actually worked!
+CUSTOMER: (Peeking from behind counter) I-Is it gone?
+happy music 1
+SALESMAN: (Dusting hands off) Yep! I forgot I had read about that little spell in a book on Deus Ex Machinas.
+SALESMAN: Yes, I think it's finally over. Thank you for helping me break the curse.
+CUSTOMER: (Stand beside SALESMAN) No problem. Just don't try to sell me anything else, okay?
+SALESMAN: Deal.
+laughter
+CUSTOMER: (Laughing)
+Meanwhile SALESMAN: (Laughing Together)
+Infomercial disclaimer
+
+======
+
