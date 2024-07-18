@@ -1841,6 +1841,7 @@ RBD-BOSSMAN
 _Shadowy__
 Thetirednessguy
 Shadow シャドー
+CheshireChester
 modNick
 ruralists
 #TIER=1
