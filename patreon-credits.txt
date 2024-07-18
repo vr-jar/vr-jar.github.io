@@ -1840,6 +1840,7 @@ _-Nayuta-_
 RBD-BOSSMAN
 _Shadowy__
 Thetirednessguy
+Shadow シャドー
 modNick
 ruralists
 #TIER=1
