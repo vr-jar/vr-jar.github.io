@@ -31195,3 +31195,114 @@ Infomercial disclaimer
 
 ======
 
+INFORMATION ===============================
+ID: 991
+TITLE: Guess My Date
+AUTHOR: HypnoToadTrance
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+DATE: 19/07/24
+CHARACTERS ================================
+HOST: The Game Show Host:Host Podium
+ROMANTIC: The Hopeless Romantic:Contestant Podium 1
+BUSINESS: The Well-Doing Business Man:Contestant Podium 2
+GUEST: The Attractive Guest:Entrance Stage Right
+SUGGESTIONS =============================
+OCCUPATION: An occupation or job:teacher, doctor, engineer, artist, chef, firefighter, musician, librarian, scientist, journalist
+HOBBY: A hobby:gardening, painting, hiking, baking, photography, fishing, knitting, playing chess, bird watching, scrapbooking
+FAVORITE_FOOD: A favorite food:pizza, sushi, chocolate, tacos, ice cream, burgers, spaghetti, fried chicken, steak, cheesecake
+TALENT: A secret talent:whistling, breakdancing, beatboxing, magic tricks, knitting, origami, bird calling, ventriloquism, yodeling, handstands
+NAME1: A simple name:John, Jane, Tom, Mary, Joe, Anna, Paul, Emma, Mark, Kate
+DESIRE: Something you look for in a romantic partner:kindness, sense of humor, intelligence, ambition, empathy, loyalty, creativity, honesty, adventurous spirit, patience
+NAME2: An overly masculine name.:Hank, Butch, Brock, Thor, Duke, Rex, Chuck, Jax, Blade, Hunter
+NAME3: A fancy-sounding name.:Reginald, Percival, Montgomery, Archibald, Cornelius, Thaddeus, Bartholomew, Alistair, Ignatius, Maximilian
+BAD_JOB: A dead-end or unpleasant job.:dishwasher, telemarketer, janitor, fast food worker, data entry clerk, parking attendant, mall cop, call center agent, retail cashier, door-to-door salesperson
+NAME4: A beautiful name for a woman to have.:Aurora, Isabella, Seraphina, Anastasia, Juliette, Arabella, Genevieve, Evelina, Rosalind, Vivienne
+PART: A part of the human anatomy (preferably external):elbow, nostril, kneecap, earlobe, pinky toe, eyebrow, collarbone, shoulder blade, wrist, thigh
+PET: An exotic pet.:ferret, capybara, fennec fox, sugar glider, kinkajou, axolotl, tarantula, chinchilla, hedgehog, pygmy goat
+SCRIPT ==========================================
+gameshow intro
+HOST: (Energetically) Welcome, everyone, to the most exciting game show on television, "Guess My Date!"
+HOST: I'm your host, NAME1, and today we have two fantastic contestants ready to compete for a chance to win the date of their dreams. Let's meet our contestants!
+applause
+70s music
+ROMANTIC: (Waves) Hi, everyone! I'm NAME2, and I'm a hopeless romantic. I'm looking for someone who loves long walks on the beach and DESIRE.
+aww
+BUSINESS: (Nods) Hello, I'm NAME3, a successful business professional. I'm looking for someone who is intelligent and ambitious.
+HOST: (Grins) Wonderful! Now, let's bring out the person you're both competing for.
+HOST: (Gesture toward doorway) Please welcome our attractive young guest!
+Meanwhile GUEST: (Enter from Stage Right, waving at audience)
+crowd woo
+GUEST: Hi, everyone! I'm excited to be here.
+HOST: And we're happy to have you here tonight and what might your name be?
+GUEST: (Giggling) Oh well you know I can't give too much away now, but my name is NAME4.
+ROMANTIC: (Gawking) She's perfect. I mean just look at her PART
+BUSINESS: (Replying to ROMANTIC) I for one don't judge a book by its cover and look forward to getting to know NAME4 personally.
+HOST: (Excited) Whoa. Looks like our contestants are eager to get started!
+HOST: Alright, contestants, here's how the game works.
+HOST: You will take turns guessing things about our lovely guest here, and they will confirm or deny your guesses.
+HOST: The contestant with the most correct guesses will get to take NAME4 out on an all-expenses paid luxury date.
+HOST: Let's get started!
+Meanwhile GUEST: (Take Center Stage) I'm so excited!
+HOST: Let's start by attempting to guess NAME4's occupation.
+gameshow start
+HOST: (To ROMANTIC) NAME2, you go first. What's your guess?
+ROMANTIC: (Thinking) I bet you're a professional BAD_JOB!
+gameshow buzzer
+GUEST: (Laughs) No, that's not correct.
+HOST: (To BUSINESS) Your turn, NAME3. What's your guess?
+BUSINESS: (Confidently) I think you might be a OCCUPATION.
+gameshow ding
+GUEST: That's correct! I am a Professional OCCUPATION
+HOST: Great job, NAME3! That's one point for you.
+HOST: Next up, What do you think is NAME4's hobby? (To ROMANTIC) NAME2.
+ROMANTIC: (Nervously) Uh, well one of my favorite hobbies is HOBBY and I'm hoping you'd share my interest in that?
+gameshow buzzer
+GUEST: (Chuckles) No, I'm afraid not.
+HOST: (To BUSINESS) Your turn again.
+BUSINESS: (Deductive) I think you enjoy skydiving.
+gameshow ding
+GUEST: (Nods) Yes, I do!
+HOST: (Energetically) Two points for NAME3! Come on, NAME2, you can do this!
+HOST: Next category, NAME4, why don't you take this one away?
+GUEST: Okay, NAME1. (Addressing contestants) What is my favorite food?
+ROMANTIC: (Desperately) Your favorite food must be FAVORITE_FOOD!
+gameshow ding
+GUEST: Actually, yes, it is! I love FAVORITE_FOOD.
+HOST: (Encouragingly) Great job, NAME2! That's one point for you. Next question, NAME3.
+GUEST: I have a super secret talent that no one knows about. What is it?
+BUSINESS: (Thoughtfully) You must have a secret talent for unicycling.
+gameshow buzzer
+GUEST: (Laughs) No, that's not it.
+HOST: (To ROMANTIC) Your turn again NAME2.
+ROMANTIC: (Hopeful) Do you have a secret talent for TALENT?
+gameshow ding
+GUEST: (Surprised) Yes, I do!
+HOST: (Excitedly) And we have a tie! This is getting exciting! Let's go to the final round.
+gameshow bonus round
+HOST: (To both contestants) Now, each of you will have the chance to guess what kind of pet our mysterious guest here has.
+HOST: The contestant with the most creative and accurate guess will win. NAME2, you first.
+gameshow timer music
+ROMANTIC: (Nervously) Uh, do you have a pet unicorn?
+GUEST: (Laughs) No, I don't.
+HOST: (To BUSINESS) Your turn, NAME3.
+BUSINESS: I think you must have a pet PET.
+gameshow ding
+Music Stops
+GUEST: (Impressed) That's correct!
+HOST: (Energetically) And we have a winner!
+crowd woo
+happy music 1
+Meanwhile ROMANTIC: (Looking dejected) Aww...
+BUSINESS: (Approach GUEST) Oh boy!
+Meanwhile GUEST: (Hugging BUSINESS) I'm so excited!
+HOST: Congratulations, NAME3! You've won a date with NAME4! NAME2, thank you for playing. You've both been wonderful contestants.
+GUEST: (Exit Stage Right) Now you can tell all your friends you've dated a Professional OCCUPATION.
+Meanwhile BUSINESS: (Follow GUEST) I can't wait to meet your pet PET
+HOST: (To the audience) Thank you all for tuning in to "Guess My Date!" Join us next time for more fun and romance. Goodnight, everyone!
+gameshow outro
+ROMANTIC: Can anyone give me a ride home?
+
+======
+
