@@ -30799,6 +30799,108 @@ The dentist: (Turn to the audience) Now who’s next?
 ======
 
 INFORMATION ===============================
+ID: 964
+TITLE: License to walk and talk
+AUTHOR: MartinOiva
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+DATE: 12/07/24
+CHARACTERS ================================
+BOB: Bob (officer):Chair
+ED: Ed (patrolling officer):Backstage
+PETE: confused pedestrian (male):Backstage
+SUGGESTIONS =============================
+FURRY: furry avatar species:rex, avali, dutch angel dragon, novabeast, wickerbeast
+POINT: landmark building:cinema, kiosk, water tower, windmill
+NAME: name (an influential known person):Schwarzenegger, Trump, Merkel, Kim Jong Un
+SOLE: gentle adjective:soft, limp, smooth, careful
+METER: short unit of measurement:meter, step, 10 m, 20 centimeter
+VERB: verb:jump, step, sit, breath
+FINE: a significant but reasonable amount of money:350 euros, 200 US dollars, 170 pearls, 540 bitcoins
+RIDER: adjective that describes people:busy, demanding, awkward, lazy
+SMALL: any size:tiny, giant, small, 12 m long
+TARGET: somwhere you might go in the morning:workplace, school, fridge, restroom
+SHIRT: article of clothing:shirt, shoes, cowboy hat, pantaloons
+SCRIPT ==========================================
+jazz music 2
+knocking on door
+ED: (Enter with pedestrian) Alright, here we are. Go in.
+Meanwhile PETE: (Follow officer into the room)
+BOB: Well well well. What do we have here, Ed?
+ED: (To other officer) You were right, Bob. Looks like we got another one here.
+ED: Grabbed this troublemaker downtown, near POINT, across from the park.
+PETE: What? What did I do?
+ED: You know what you did. No registration papers.
+BOB: No registration? You've got some explaining to do, kid.
+PETE: I was just out for a walk. Alone. No car, no dog. Just a simple walk, what's wrong with that?
+BOB: Walking around the park without a pedestrian license, eh?
+Music Stops
+laughter
+PETE: Pedestrian license? What’s that?
+Jazz music 1
+ED: This gentleman clearly hasn't listened to the morning news...
+PETE: No I haven’t. What did I miss?
+ED: New law. Based on the initiative of mayor NAME and the State Council.
+ED: No walking without proper papers! It's against the law!
+BOB: People have wandered long enough without any papers.
+BOB: It wears out our streets.
+PETE: But... my feet are so SOLE!
+ED: Well, now those unregistered little SOLE feet of yours won't walk another METER.
+PETE: Walking is a basic human right.
+BOB: If you don’t have proper papers, your rights include keeping your mouth shut and VERBing.
+PETE: I have FURRY library card. Is is ok?
+BOB: Only in FURRY jurisdiction.
+ED: Let's start the inspection. (Pat down the pedestrian)
+Meanwhile PETE: (receives a pat-down inspection)
+PETE: What's the meaning of this inspection?
+BOB: Checking for rust damage. (Checks pedestrian's clothes)
+BOB: (Noticing something) Oh boy. Ed, it’s like I suspected...
+BOB: The SHIRT is completely rusted. (sniffs fingers)
+ED: (Sniffs pedestrian's SHIRT) Rust stains. (writes to notebook) Fine is FINE.
+PETE: My bank account is clean.
+Meanwhile BOB: (sniffs fingers again and shivers)
+BOB: Next, brake lights. (looks pedestrian's back)
+PETE: What brake lights?
+BOB: (looks pedestrian's upper back) They seem to work great.
+ED: Does it even have brake lights?
+BOB: Not actual ones. But this guy's neck is super red.
+laughter
+BOB: I'm gonna need you to walk around in circles.
+PETE: Oh... okay... (walk circles around the room)
+ED: (watching) Hmmm.. okay, enough. Clearly his springs aren't suitable for transporting RIDER people.
+BOB: Classic weak springs.
+BOB: So you can only carry SMALL amounts of RIDER people.
+dark classical music
+BOB: How did your morning start?
+PETE: I accidentally slept in too long... and I was late for TARGET!
+Music Stops
+Jazz music 2
+BOB: As I suspected. Were you attempting to travel to TARGET... sober?
+PETE: Well, of course.
+BOB: (laughs) Well there's your problem. Especially since it's so cold outside. 
+BOB: Take a sip of alcohol before you head out! That'll warm you right up.
+PETE: But last time I drank in the morning it took me three weeks to get to TARGET!
+laughter
+ED: I see your problem. (Writing in notebook talking to self) Poor... self... control
+ED: Right. Next let's see if the brakes work.
+BOB: Sir, we'll need you to perform a braking test. Standard procedure. Gotta make sure you can come to a complete stop.
+BOB: (Draw line on the ground) Go ahead and run full speed toward this line.
+ED: Pedal to the metal!
+PETE: Well, all right... I mean, I'm pretty sure my feet work just fine.
+PETE: (Get ready to run) Here goes nothing...
+PETE: Out of the way, here I come! (run nonstop through the door and exit)
+tire screech
+crashing debris
+ED: (Writing down on clipboard) Welp. I knew it. Looks like his brakes didn't work.
+BOB: If it passes through, it's a ghost, so no inspection is registered.
+BOB: Case closed. Finally. No more boring paperwork.
+ED: Coffee break time. Let’s VERB.
+laughter
+
+======
+
+INFORMATION ===============================
 ID: 966
 TITLE: Loud Neighbors
 AUTHOR: LeoHardy
@@ -31031,6 +31133,121 @@ FOOL: Oh no. Oh RAT. (screams)
 ======
 
 INFORMATION ===============================
+ID: 984
+TITLE: Family Matters 
+AUTHOR: mripatch_vrc
+VERIFIED: False
+TAGS: 
+SET: Living Room
+DATE: 17/07/24
+CHARACTERS ================================
+DAD:  Dad of the family :Kitchen
+MOM:  Mom of the family :Backstage
+ADAM :  Son of family:Couch
+MARIGOLD :  Daughter of family :Couch
+SUGGESTIONS =============================
+ARTIST : Any Music Artist:Blink-182, Drake, Kendrick Lamar 
+SPORT : Any Sport :Baseball, Soccer, American Football 
+FOOD: Any food:Pizza, Burgers, Steak
+NUMBER : Any type of number :6, 7, 9 
+SNACK: any kind of snack:cookies, candy, chips
+ADJECTIVE: An adjective:large, smelly, high, white, moist, stupid, muscular, slippery, square shaped
+DIE: A way you might die:get hit by a school bus, fall into a vat of acid, get the elctric chair, eat broken glass, get into trouble with the mafia
+DOINGBADTHING: A reason you might get fired:overfilling the coffee pot, embezzling 80 million dollars, leaking government secrets, killing a guy, crimes against animals, microwaving tuna fish
+WIFE_PHRASE: Something nice you might say to your husband:you bring great honor to this family, I like the way you boogie down, that day you hit me with your car was the best day of my life, if I die on the toilet I trust you to lie to the police, I ate my wedding ring so a part of you will always be inside me, when you fart I don't care, I like when you buy me shoes, let me look through your phone
+SCRIPT ==========================================
+70s music
+DAD: Hey kids Mom should be back soon what you guys doing?
+ADAM: Well I'm watching SPORT on TV. Now, I don't know about you, but I'm hungry!
+ADAM: And I ran out of my SNACK, so I need some FOOD.
+laughter
+MARIGOLD: I'm listening to ARTIST! I ain't tired of it yet! Today I listened to ARTIST about NUMBER times now and it never gets old.
+laughter
+MOM: (Enter stage right) Honey, I'm back! (Tired) Man, what a day!
+crowd woo
+ADAM: Hey mom! How was work?
+MOM: Ugh, it was so tiring. I got constant phone calls... mostly Karens. Ugh.
+laughter
+MOM: Oh, and I almost got fired for DOINGBADTHING.
+DAD: Talk about stressful!
+laughter
+MOM: Stressful can be. But I'll be fine now that I'm back home with my loving family! (Smooch DAD)
+aww
+applause
+DAD: Well you came home just in time. FOOD Is ready!
+ADAM: FOOD? Yummy!!!
+laughter
+MOM: Mmmm, sounds so good! But before I eat I'm going to wash up quick! (Exit stage left)
+DAD: Good idea kids. You do that too, go wash up before dinner. Then we'll eat while watching SPORT on TV!
+MARIGOLD: Ok bet! (exit stage left)
+ADAM: Bet... but this time, I pick the sport to watch! (Exit stage left)
+DAD: Now I gotta get the food on the plates. (Get some plates from the kitchen)
+music stops
+TYPEWRITER: Minutes later...
+happy music 1
+DAD: Finally. Food is ready, drinks are out... I hope they like this FOOD, it took me 4 hours to make!
+laughter
+MOM: (Enter stage left and sit on couch) Sorry that took so long, I got a little carried away and did some laundry! Oops!
+laughter
+ADAM: (Enter stage left and sit on couch) Ok I am cleaned and ready for dinner.
+MARIGOLD: (Enter stage left) (Talking to self worried) Oh no... how am I going to tell them I dropped out...?
+ADAM: What'd you say, sis?
+MARIGOLD: (Flustered) Erm, nothing! Let's eat! (Sit on couch)
+DAD: (Hand out plates of food to family) Ok family. Adam picked SPORT for us to watch hope it is a good game! Let's hope the right team wins tonight.
+DAD: (Watching SPORT and eating FOOD) mm.. oh so good... delicious... I swear I make some good food.
+MOM: (Eat FOOD and watching SPORT) Wow this food tastes amazing! Better then ordering out!
+ADAM: (Eating FOOD and watching SPORT) And this game is amazing as well! Nice back and forth action! Both teams giving it their all!
+music stops
+MARIGOLD: (Clearing throat) Ahem... guys, I dropped out of school.
+record scratch
+vine boom
+MOM: (Shocked) You dropped out of school?!
+MARIGOLD: Yeah. There's no point anymore.
+vine boom
+MARIGOLD: You never learn anything useful in school.
+vine boom
+MARIGOLD: And the science teacher thinks I'm ADJECTIVE.
+vine boom
+MOM: (Furious) Do you have any idea how much trouble you're in!? Go to your room!
+MOM: You're grounded for 3 months! No phone! No listening to ARTIST!
+MARIGOLD: Ugh, ok. (Puts dish in sink then exit stage left)
+happy music 1
+ADAM: (Watching TV) Oh my! What a play. Did you guys see that? I swear SPORT is the greatest thing mankind has ever created.
+laughter
+ADAM: And this food is good also. Thanks dad.
+DAD: Tell me about it! (Emotional) Why is it so good? Why is it so, so good? (eats FOOD) I've loved FOOD ever since I was a little boy.
+DAD: And now, for my kids to watch SPORT and eat FOOD with me... (start tearing up) it's a dream come true.
+ADAM: Dad? Are you crying?
+DAD: Only happy tears son, happy tears.
+aww
+applause
+MOM: (Finishes FOOD) Well I finished. Couldn't eat another bite of this FOOD.
+MOM: I'm going to put my dish in the sink like a good mom always does. (Put dish in sink)
+DAD: (Stop watching TV) The SPORT game is over. I swear SPORT is so good to watch and I am always interested.
+DAD: Ok Adam, clean up, then go to bed.
+MOM: You'll always be our special little boy, Adam.
+MOM: I'm so glad you're my favorite child. Unlike your worthless delinquent sister!
+laughter
+ADAM: Ok I will! (put plate in sink) Consider my plate... washed!
+Laughter
+ADAM: (Exit stage left) Goodnight!
+MOM: What a amazing night.
+DAD: Yes it was.
+MOM: Should we head to bed or?
+DAD: Yeah you got work, I got work... we should head to bed.
+MOM: WIFE_PHRASE (bow respectfully) (exit stage left)
+applause
+music stops
+emotional piano music
+DAD: (Speaking to audience) Ladies and Gentlemen, live life to the fullest and live it with your loved ones.
+DAD: You never know when you might DIE.
+DAD: (Calling to wife) Honey! Wait up! Save a spot in bed for me! (exit stage left)
+applause
+crowd woo
+
+======
+
+INFORMATION ===============================
 ID: 987
 TITLE: VRChat Interruption
 AUTHOR: Ａｅｃｈ
@@ -31213,23 +31430,23 @@ OCCUPATION: An occupation or job:teacher, doctor, engineer, artist, chef, firefi
 HOBBY: A hobby:gardening, painting, hiking, baking, photography, fishing, knitting, playing chess, bird watching, scrapbooking
 FAVORITE_FOOD: A favorite food:pizza, sushi, chocolate, tacos, ice cream, burgers, spaghetti, fried chicken, steak, cheesecake
 TALENT: A secret talent:whistling, breakdancing, beatboxing, magic tricks, knitting, origami, bird calling, ventriloquism, yodeling, handstands
-NAME1: A simple name:John, Jane, Tom, Mary, Joe, Anna, Paul, Emma, Mark, Kate
+LIKE: An activity you enjoy doing.:reading, swimming, dancing, traveling, cooking, playing video games, cycling, writing, meditating, practicing yoga
 DESIRE: Something you look for in a romantic partner:kindness, sense of humor, intelligence, ambition, empathy, loyalty, creativity, honesty, adventurous spirit, patience
 NAME2: An overly masculine name.:Hank, Butch, Brock, Thor, Duke, Rex, Chuck, Jax, Blade, Hunter
-NAME3: A fancy-sounding name.:Reginald, Percival, Montgomery, Archibald, Cornelius, Thaddeus, Bartholomew, Alistair, Ignatius, Maximilian
+WEIRD: A weird talent to have.:wiggling ears, touching nose with tongue, double-jointed fingers, imitating animal sounds, spinning plates, balancing objects on head, sneezing with eyes open, writing backward, talking like a ventriloquist, hyperflexibility
 BAD_JOB: A dead-end or unpleasant job.:dishwasher, telemarketer, janitor, fast food worker, data entry clerk, parking attendant, mall cop, call center agent, retail cashier, door-to-door salesperson
 NAME4: A beautiful name for a woman to have.:Aurora, Isabella, Seraphina, Anastasia, Juliette, Arabella, Genevieve, Evelina, Rosalind, Vivienne
-PART: A part of the human anatomy (preferably external):elbow, nostril, kneecap, earlobe, pinky toe, eyebrow, collarbone, shoulder blade, wrist, thigh
+PART: A part of the human anatomy:elbow, nostril, kneecap, earlobe, pinky toe, eyebrow, collarbone, shoulder blade, wrist, thigh
 PET: An exotic pet.:ferret, capybara, fennec fox, sugar glider, kinkajou, axolotl, tarantula, chinchilla, hedgehog, pygmy goat
 SCRIPT ==========================================
 gameshow intro
 HOST: (Energetically) Welcome, everyone, to the most exciting game show on television, "Guess My Date!"
-HOST: I'm your host, NAME1, and today we have two fantastic contestants ready to compete for a chance to win the date of their dreams. Let's meet our contestants!
+HOST: I'm your host, Paul, and today we have two fantastic contestants ready to compete for a chance to win the date of their dreams. Let's meet our contestants!
 applause
 70s music
 ROMANTIC: (Waves) Hi, everyone! I'm NAME2, and I'm a hopeless romantic. I'm looking for someone who loves long walks on the beach and DESIRE.
 aww
-BUSINESS: (Nods) Hello, I'm NAME3, a successful business professional. I'm looking for someone who is intelligent and ambitious.
+BUSINESS: (Nods) Hello, I'm Reginald, a successful business professional. I'm looking for someone who is intelligent and ambitious.
 HOST: (Grins) Wonderful! Now, let's bring out the person you're both competing for.
 HOST: (Gesture toward doorway) Please welcome our attractive young guest!
 Meanwhile GUEST: (Enter from Stage Right, waving at audience)
@@ -31251,28 +31468,28 @@ HOST: (To ROMANTIC) NAME2, you go first. What's your guess?
 ROMANTIC: (Thinking) I bet you're a professional BAD_JOB!
 gameshow buzzer
 GUEST: (Laughs) No, that's not correct.
-HOST: (To BUSINESS) Your turn, NAME3. What's your guess?
+HOST: (To BUSINESS) Your turn, Reginald. What's your guess?
 BUSINESS: (Confidently) I think you might be a OCCUPATION.
 gameshow ding
 GUEST: That's correct! I am a Professional OCCUPATION
-HOST: Great job, NAME3! That's one point for you.
+HOST: Great job, Reginald! That's one point for you.
 HOST: Next up, What do you think is NAME4's hobby? (To ROMANTIC) NAME2.
 ROMANTIC: (Nervously) Uh, well one of my favorite hobbies is HOBBY and I'm hoping you'd share my interest in that?
 gameshow buzzer
 GUEST: (Chuckles) No, I'm afraid not.
 HOST: (To BUSINESS) Your turn again.
-BUSINESS: (Deductive) I think you enjoy skydiving.
+BUSINESS: (Deductive) I think you enjoy LIKE.
 gameshow ding
 GUEST: (Nods) Yes, I do!
-HOST: (Energetically) Two points for NAME3! Come on, NAME2, you can do this!
+HOST: (Energetically) Two points for Reginald! Come on, NAME2, you can do this!
 HOST: Next category, NAME4, why don't you take this one away?
-GUEST: Okay, NAME1. (Addressing contestants) What is my favorite food?
+GUEST: Okay, Paul. (Addressing contestants) What is my favorite food?
 ROMANTIC: (Desperately) Your favorite food must be FAVORITE_FOOD!
 gameshow ding
 GUEST: Actually, yes, it is! I love FAVORITE_FOOD.
-HOST: (Encouragingly) Great job, NAME2! That's one point for you. Next question, NAME3.
+HOST: (Encouragingly) Great job, NAME2! That's one point for you. Next question, Reginald.
 GUEST: I have a super secret talent that no one knows about. What is it?
-BUSINESS: (Thoughtfully) You must have a secret talent for unicycling.
+BUSINESS: (Thoughtfully) You must have a secret talent for... WEIRD.
 gameshow buzzer
 GUEST: (Laughs) No, that's not it.
 HOST: (To ROMANTIC) Your turn again NAME2.
@@ -31286,7 +31503,7 @@ HOST: The contestant with the most creative and accurate guess will win. NAME2, 
 gameshow timer music
 ROMANTIC: (Nervously) Uh, do you have a pet unicorn?
 GUEST: (Laughs) No, I don't.
-HOST: (To BUSINESS) Your turn, NAME3.
+HOST: (To BUSINESS) Your turn, Reginald.
 BUSINESS: I think you must have a pet PET.
 gameshow ding
 Music Stops
@@ -31297,12 +31514,183 @@ happy music 1
 Meanwhile ROMANTIC: (Looking dejected) Aww...
 BUSINESS: (Approach GUEST) Oh boy!
 Meanwhile GUEST: (Hugging BUSINESS) I'm so excited!
-HOST: Congratulations, NAME3! You've won a date with NAME4! NAME2, thank you for playing. You've both been wonderful contestants.
+HOST: Congratulations, Reginald! You've won a date with NAME4! NAME2, thank you for playing. You've both been wonderful contestants.
 GUEST: (Exit Stage Right) Now you can tell all your friends you've dated a Professional OCCUPATION.
 Meanwhile BUSINESS: (Follow GUEST) I can't wait to meet your pet PET
 HOST: (To the audience) Thank you all for tuning in to "Guess My Date!" Join us next time for more fun and romance. Goodnight, everyone!
 gameshow outro
 ROMANTIC: Can anyone give me a ride home?
+
+======
+
+INFORMATION ===============================
+ID: 994
+TITLE: Whatchamacallit
+AUTHOR: kiro-sage
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 20/07/24
+CHARACTERS ================================
+GOBLIN: small Little aristocratic henchman :Backstage
+BEING: All-Powerful being:Backstage
+LOGIC: Logical and smart dude:Stage Right
+HIPPY: Hippy and energetic dude:Couch
+SUGGESTIONS =============================
+BAD: A very bad deed:Obliterate mars, Give walters an extra spine, Kill Ms. Jar the creator of audience anarchy,
+GOOD: A very good deed:Solve world hunger, Cure every illness, Save the world, Walk a grandma across the street
+WENDIGO: A name for a terrifying monster:Garbodor, Horriblin, Heretic, Skeletal Griffin, Pawn
+GOBBY: Goofy sounding name:Wendale, wally, walters, willie, Wilbur, walltie
+THINGY: Whacky machine name:Hobblin gop, Tear cartridge, Shark week manifester, Lobotomy smoothie maker 
+DIAMOND: Something very valuable:Tomb stone neckless, Guilded Rapier, Enchanted Diamond sword, Orb of Omniscience
+SHOW: A TV show name:Loony Toons, Hermitcraft, Retsahmei's music video, Kirby right back at ya
+SCRIPT ==========================================
+silly music 2
+HIPPY: So dude. (pointing at TV) what do you think it is?
+LOGIC: (Inspecting the TV) Looks like some sort of... device? Do you know where it came from?
+HIPPY: Nah man, that thing came out of nowhere. I was just chilling on this couch watching SHOW when BAM! Suddenly my TV changes into... what ever this is.
+LOGIC: Ok so its some unknown device that just appeared out of no where. Got ya. (Nervous) Let's wait for the authorities to check it out...
+meanwhile HIPPY: (Touch button on TV)
+scifi contraption
+LOGIC: You just hit the button didn't you?
+HIPPY: Sorry man. I had to...
+HIPPY: (Noticing a DIAMOND on the couch) Oh hey! Look! A DIAMOND!
+piano theme
+LOGIC: (Looking at couch baffled) Where the heck did that come from?
+HIPPY: Dunno. Must of came from the THINGY.
+LOGIC: (Confused) THINGY? What the heck is a THINGY?
+HIPPY: (Point at the TV) It's a THINGY.
+LOGIC: ... Why did you name it the THINGY?
+HIPPY: (Pointing) I dunno.
+LOGIC: (Angry) You better not hit that button again, you have no idea what could happen.
+HIPPY: I mean... now we have SOME idea what the button does. I'm gonna hit it again. (Push button on TV)
+spy machinery
+oldschool hiphop music
+teleport GOBLIN to center stage
+GOBLIN: (Formal and mature) Why hello. I GOBBY the WENDIGO thank you for freeing GOBBY from that WENDIGO prison.
+HIPPY: Sick dude! Hey GOBBY can you get me a beer from the kitchen? Thanks.
+GOBLIN: It will be GOBBYs honor to do so, sir. (Walk to kitchen)
+GOBLIN: (Struggling to reach countertop) Sir. It would seem GOBBY is unable to reach the counter top.
+HIPPY: Oh bummer. (To friend) Hey other dude, can ya help my little pal over there?
+LOGIC: (baffled) For goodness sake! Do none of you find this confusing?
+LOGIC: For all we know this THINGY could be a gateway to another dimension. It could hold the secrets of the universe. Heck, it could even contain a God.
+HIPPY: Nah. (hit the button again)
+thunder
+Teleport BEING to center stage
+BEING: Whomst'd've would summon me?!
+lacrimosa music
+LOGIC: Oh my flippen goodness we just summoned God.
+HIPPY: Hey there dude, mind helping my little buddy over there in the kitchen? (Point to kitchen)
+BEING: ... I am an Omni-potent being....
+BEING: If i wanted to I could GOOD. Or i could suddenly BAD. And you want me to simply lift GOBBY up 2 feet so it can get you a beer?
+HIPPY: Hey i didn't ask for you to give me your job title i just want you to help my little bro out.
+LOGIC: (Stressed waving hands between the two) Hey! Wait!
+LOGIC: (Embarassed, to God) What he means to say is please GOOD for us! Please GOOD!
+HIPPY: Nah, i just want a beer. If you aren't going to give me a beer then I want you to BAD.
+LOGIC: (Shush the hippy) Shut... up! What are you doing?!
+BEING: Then I shall make it so. Let there be BAD. (clap hands)
+thunder
+LOGIC: (Panicking) Holy cow... (turn to the hippy) Do you know what you just did? Millions, heck even BILLIONS of people are going to die now!
+meanwhile GOBLIN: (Preparing a beer in the kitchen)
+GOBLIN: (Walk over to hippy with beer) GOBBY delivers you your beer, sir. GOBBY made it special just for you with my special WENDIGO GOBBY flair.
+HIPPY: Hey, thanks little bro! Now come sit down and watch some SHOW with me. Heard there's going to be a WENDIGO on tonight.
+meanwhile GOBLIN: (walk over and sit on couch)
+LOGIC: (Slowly leaving) I.... I gotta use the bathroom bro. I gotta go to college or something. I gotta get out. I cant be with these idiots. (Exit)
+HIPPY: (To God) So... ... Wanna watch some TV being of the THINGY?
+BEING: Sure why not... also my name is Balthazar Oblitorious.
+HIPPY: Nice dude. My name is Rick.
+
+======
+
+INFORMATION ===============================
+ID: 995
+TITLE: Dinner Date
+AUTHOR: HypnoToadTrance
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 20/07/24
+CHARACTERS ================================
+WAITER: The waiter:Entrance Stage Left
+DATE1: Nervous Man:Chair 1
+DATE2: Clumsy Woman:Chair 2
+SUGGESTIONS =============================
+NICKNAME: A sweet nickname for a woman.:Honey, Sweetheart, Darling, Angel, Lovebug, Sunshine, Baby, Precious, Cupcake, Princess
+RESTAURANT: A restaurant (Fictional or Real):Chez Paris, The Golden Spoon, Olive Garden, McDonald's, The Magic Diner, Luigi's Pizzeria, The Spicy Dragon, The Cozy Corner, The Royal Table, The Noodle House
+OCCUPATION: An occupation.:teacher, doctor, engineer, artist, chef, firefighter, musician, librarian, scientist, journalist
+BEVERAGE: A beverage.:water, coffee, tea, lemonade, soda, wine, beer, orange juice, milkshake, hot chocolate
+FAVORITE_FOOD: Your favorite food.:pizza, sushi, chocolate, tacos, ice cream, burgers, spaghetti, fried chicken, steak, cheesecake
+DESIRE: Something you look for in a partner.:kindness, sense of humor, intelligence, ambition, empathy, loyalty, creativity, honesty, adventurous spirit, patience
+DESSERT: A delicious dessert.:chocolate cake, ice cream sundae, apple pie, tiramisu, cheesecake, brownies, macarons, pudding, custard, lemon tart
+PET_PEEVE: Something that annoys you.:loud chewing, lateness, bad drivers, interrupting, messiness, snoring, slow internet, poor grammar, talking during movies, leaving the toilet seat up
+FAVORITE_MOVIE: A movie (Fictional or Real):Titanic, Star Wars, The Godfather, Inception, Frozen, The Matrix, The Lion King, Pulp Fiction, Avengers, Casablanca
+SECRET: Your deepest darkest secret.:I still sleep with a teddy bear, I hate my job, I'm afraid of heights, I once cheated on a test, I have a secret tattoo, I'm in love with my best friend, I accidentally broke something valuable, I lied about my age, I snoop through people's things, I secretly love reality TV
+FUN_FACT: A fun fact about yourself.:I can juggle, I speak five languages, I've traveled to 30 countries, I have a black belt in karate, I once met a celebrity, I can play the piano, I collect rare coins, I have a photographic memory, I once won a contest, I love extreme sports
+SCRIPT ==========================================
+jazz music 1
+DATE1: (Nervously) Hi there, I'm John. It's nice to finally meet you in person.
+DATE1: Your name was Samantha, wasn't it?
+DATE2: Oh, yes, but you can just call me NICKNAME.
+DATE1: Well, NICKNAME, I'm so glad you decided to come tonight.
+DATE2: This place looks great? I've never had someone take me out to RESTAURANT before.
+DATE1: (Awkwardly) Yeah, it's really nice... So, what do you do for a living?
+DATE2: (Proudly) I'm a OCCUPATION. What about you?
+DATE1: Oh, I'm a OCCUPATION too! What are the chances?
+Meanwhile WAITER: (Enter from Stage Left)
+WAITER: (Approach the table and hand-out menus) Good evening, here are our menus, can I start you off with some drinks today?
+DATE1: (Nervously) Uh, I'll just have BEVERAGE, please.
+DATE2: I'll have the same, thank you.
+Meanwhile WAITER: (Taking Notes) Excellent choice.
+WAITER: (Exit Stage Left) I'll be right back with your BEVERAGE.
+DATE2: So, what do you like to do in your free time?
+DATE1: (Thinking) Well... I enjoy HOBBY. How about you?
+DATE2: (Excitedly) Me too! It's so relaxing, isn't it?
+Meanwhile WAITER: (Enter from Stage Left)
+WAITER: (Set beverages on table) Here is your BEVERAGE.
+WAITER: Have you decided on your orders?
+DATE1: (Looking at the menu) I'll have the FAVORITE_FOOD, please.
+DATE2: I'll have the same, thank you.
+Meanwhile WAITER: (Taking notes)
+WAITER: Excellent choice. (Exit Stage Left) Your food will be out shortly.
+DATE1: (Awkwardly) So, what are you looking for in a partner?
+DATE2: (Thoughtfully) I guess I look for DESIRE. What about you?
+DATE1: Same here. DESIRE is so important, isn't it?
+DATE2: Absolutely. It's really the foundation of any good relationship.
+Meanwhile WAITER: (returns with plates of food.)
+WAITER: (Set plates on table) Here you go, two orders of FAVORITE_FOOD.
+WAITER: And don't forget for dessert our special tonight is DESSERT.
+DATE1: (Nervously) Thank you.
+Meanwhile WAITER: (Exit Stage Left) Enjoy your meal!
+DATE2: (Starts eating) This is really good!
+DATE1: (Awkwardly knocks a fork on the ground) Oops, I'm so clumsy!
+DATE2: (Laughs) It's okay, it happens to the best of us.
+DATE2: (Handing date your fork) Here, you can have my fork. I like to eat FAVORITE_FOOD with my bare hands anyway.
+Meanwhile DATE1: (Take fork and start eating) Oh thanks! You're so sweet.
+DATE1: So, do you have any pet peeves?
+DATE2: (Thinking) Yes, I can't stand PET_PEEVE. It drives me crazy!
+DATE1: (Surprised) Really? I can't stand PET_PEEVE either!
+DATE2: (Laughs) We're a perfect match already!
+DATE2: So, what's your favorite movie?
+DATE1: (Enthusiastically) Oh, it has to be FAVORITE_MOVIE. I could watch it a million times!
+DATE2: No way! That's my favorite movie too!
+DATE1: This date is going so well.
+DATE1: So. Can I share a secret with you?
+Music Stops
+waterphone
+DATE2: (Curiously) Of course.
+DATE1: (Leaning in) SECRET.
+vine boom
+DATE2: (Giggling) Wow, that's quite a secret!
+DATE2: I don't know if I can top that, but here's something about me - FUN_FACT.
+vine boom
+DATE1: That's amazing! This date just keeps getting better.
+jazz music 1
+Meanwhile WAITER: (Enter Stage Left)
+WAITER: (Set check on table) Here is your check. How was everything tonight?
+DATE1: It was great, thank you! They're just perfect.
+DATE2: Yes, thank you. I couldn't have found a better match.
+DATE1: (Looking at date) So, would you like to do this again sometime?
+DATE2: I'd love to.
 
 ======
 
