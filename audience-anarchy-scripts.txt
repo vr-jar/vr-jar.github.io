@@ -8785,8 +8785,8 @@ AGENT: (Nauseous) I think I'm turning into a SNAKE...
 INFORMATION ===============================
 ID: 184
 TITLE: The Bakeoff
-AUTHOR: Jay3409
-VERIFIED: True
+AUTHOR: jay3409
+VERIFIED: False
 TAGS: Skit
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -31023,6 +31023,85 @@ FRANK: We’re gonna buy some SODA instead. Can we get a refund on this OBJECT?
 CLARK: (losing composure) You haven’t bought it yet. Good news, though! We have a sale on pain and suffering today!
 FRANK: Oh, cool. Well, thanks for your help!
 CLARK: I need a new job and a therapist.
+
+======
+
+INFORMATION ===============================
+ID: 978
+TITLE: Lawn Mowing
+AUTHOR: Ahmadsyar
+VERIFIED: True
+TAGS: Skit
+SET: Backyard
+DATE: 16/07/24
+CHARACTERS ================================
+GORDON: A normal man:Stage Right
+NEIGHBOR: Snobby neighbor:Backstage
+GAIA: Mother nature:Backstage
+SUGGESTIONS =============================
+PLANT: Something you can grow:Yggdrasil, Apple, Durian
+SCYTHE: Something that can cut:Scythe, trimmer, machete
+LAWNMOWER: A complex machine:Lawn mower, chainsaw, Zamboni
+MELATAH: Something you might say when scared:Son of a biscuit, Monday to Friday, Oh my lard
+TIME1: Any number:5, 3, 7
+TASTE: A way to describe food:Sweet like ice cream, Savory like taco, Juicy like durian
+DEBRIS: Something you don't want in your yard:Grass, leaves, dirt
+SCRIPT ==========================================
+BLUEGRASS MUSIC
+GORDON: Ah yes, nothing beats the good old-fashioned SCYTHE.
+GORDON: A simple and efficient tool to cut this stubborn grass (Cutting grass peacefully).
+NEIGHBOR: (Enter stage left). Hey! watch out for the DEBRIS!
+CHAINSAW
+GORDON: Ow! MELATAH Hey! (Wipes face)
+SILLY MUSIC 2
+NEIGHBOR: Oh, howdy neighbor! Sorry about that. I can hardly hear you over my trusty LAWNMOWER.
+GORDON: (sighing) Hey neighbor, messing up with the ecosystem as usual?
+NEIGHBOR: Come on now, we live in the 21st century. You need more than a SCYTHE to beautify the landscape. It’s also time saving you know.
+GORDON: Bah! You and your LAWNMOWER is overly complicated for such a simple task. It’s overkill.
+NEIGHBOR: It’s not so bad, you have to accept that the future is here.
+GORDON: Tools are supposed to help us with chores but not so much that we depend on it.
+GORDON: Grrrrr!!!
+Meanwhile NEIGHBOR: Grrrrr!!!
+THUNDER
+Teleport GAIA to GRILL
+EPIC FANTASY MUSIC 2
+GAIA: Enough!
+GORDON: Aaah MELATAH!
+NEIGHBOR: Whoa…!
+GAIA: I am Gaia, the mythical manifestation of the order of nature.
+GORDON: Are you like a God or something?
+GAIA: That is not important right now. What’s important is that you two should stop fighting.
+NEIGHBOR: Great! Now you will show to him that things will get done faster with LAWNMOWER.
+GORDON: No, she’s siding with me. A SCYTHE will not ruin nature.
+GAIA: Silence!!!
+THUNDER
+GAIA: Here, take these are PLANT seed. You two will plant this in your backyard and nurture it.
+GAIA: In TIME1 years, I will be back and evaluate the results
+Teleport GAIA to BACKSTAGE
+Music Stops
+GORDON: That was weird.
+NEIGHBOR: Well. See you in TIME1 years.
+TYPEWRITER: After TIME1 years.
+NEIGHBOR: Well, well, well, it looks like your PLANT tree has grown big. Not bad.
+GORDON: Yours too. Hmm. Gaia should be here any moment now.
+NEIGHBOR: Any second now….
+GORDON: Yup, still waiting….
+NEIGHBOR: Say, about the fruit on those PLANT tree, did Gaia ever said about forbidding us to try those?
+GORDON: I didn’t recall anything.
+NEIGHBOR: (Grabs the fruit and eat it)
+GORDON: Hey! What are you doing?
+NEIGHBOR: Wow! This is the best thing I’ve ever tasted.
+NEIGHBOR: It tastes TASTE, just like PLANT in my grandpa’s orchard.
+GORDON: Let me try some. (eats the fruit)
+GORDON: You’re right! It is TASTE!
+NEIGHBOR: Oh, I have an idea. What if we sell this these? We’ll get rich.
+GORDON: Well Gaia never said anything about selling them.
+PEACEFUL FANTASY MUSIC
+NEIGHBOR: You know, I can see it now. It’s not important if SCYTHE or LAWNMOWER is better.
+NEIGHBOR: What’s important is that we made the effort to achieve the result.
+NEIGHBOR: Friends?
+GORDON: Friends.
+TYPEWRITER: Gaia never appears and they got rich selling PLANT fruit.
 
 ======
 
