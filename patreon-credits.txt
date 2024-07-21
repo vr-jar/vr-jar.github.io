@@ -1846,7 +1846,6 @@ sypego
 TempestFur
 -＝Domino＝- 6ac7
 ᴵᵃᵐPUPPY
-ʀᴀɪɴɴ
 modNick
 ruralists
 #TIER=1
@@ -2268,6 +2267,7 @@ xGENTLEMANEx
 PotatoGun
 ネクネク
 Sky404
+StronkTank
 Fighter_Builder
 Spiritwolf2
 justBenzer
