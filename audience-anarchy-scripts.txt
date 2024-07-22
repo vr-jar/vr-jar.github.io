@@ -31035,17 +31035,17 @@ TAGS: Skit
 SET: Backyard
 DATE: 16/07/24
 CHARACTERS ================================
-GORDON: A normal man:Stage Right
-NEIGHBOR: Snobby neighbor:Backstage
 GAIA: Mother nature:Backstage
+NEIGHBOR: Snobby neighbor:Backstage
+GORDON: A normal man:Stage Right
 SUGGESTIONS =============================
-PLANT: Something you can grow:Yggdrasil, Apple, Durian
-SCYTHE: Something that can cut:Scythe, trimmer, machete
-LAWNMOWER: A complex machine:Lawn mower, chainsaw, Zamboni
-MELATAH: Something you might say when scared:Son of a biscuit, Monday to Friday, Oh my lard
-TIME1: Any number:5, 3, 7
-TASTE: A way to describe food:Sweet like ice cream, Savory like taco, Juicy like durian
 DEBRIS: Something you don't want in your yard:Grass, leaves, dirt
+TASTE: A way to describe food:Sweet like ice cream, Savory like taco, Juicy like durian
+TIME1: Any number:5, 3, 7
+MELATAH: Something you might say when scared:Son of a biscuit, Monday to Friday, Oh my lard
+LAWNMOWER: A complex machine:Lawn mower, chainsaw, Zamboni
+SCYTHE: Something that can cut:Scythe, trimmer, machete
+PLANT: Something you can grow:Yggdrasil, Apple, Durian
 SCRIPT ==========================================
 BLUEGRASS MUSIC
 GORDON: Ah yes, nothing beats the good old-fashioned SCYTHE.
@@ -31075,7 +31075,7 @@ NEIGHBOR: Great! Now you will show to him that things will get done faster with 
 GORDON: No, she’s siding with me. A SCYTHE will not ruin nature.
 GAIA: Silence!!!
 THUNDER
-GAIA: Here, take these are PLANT seed. You two will plant this in your backyard and nurture it.
+GAIA: Here, take these PLANT seed. You two will plant this in your backyard and nurture it.
 GAIA: In TIME1 years, I will be back and evaluate the results
 Teleport GAIA to BACKSTAGE
 Music Stops
@@ -31214,8 +31214,8 @@ FOOL: Oh no. Oh RAT. (screams)
 INFORMATION ===============================
 ID: 984
 TITLE: Family Matters 
-AUTHOR: mripatch_vrc
-VERIFIED: False
+AUTHOR: ELDER IPATCH
+VERIFIED: True
 TAGS: 
 SET: Living Room
 DATE: 17/07/24
@@ -31603,6 +31603,95 @@ ROMANTIC: Can anyone give me a ride home?
 ======
 
 INFORMATION ===============================
+ID: 992
+TITLE: Daddy's Secret
+AUTHOR: youareaboy
+VERIFIED: False
+TAGS: Skit
+SET: Living Room
+DATE: 19/07/24
+CHARACTERS ================================
+OFFICER: Police Officer:Backstage
+ROBERT: Robert the Father:Entrance Stage Right
+JUNE: June the Child:Stage Left
+SARAH: Sarah the Mother:Couch
+SUGGESTIONS =============================
+SECRET: Something evil you shouldn't do:Throw car batteries into the ocean, Breed super mosquitos, Burn down orphanages for fun, Eat Pizza with Pineapple, Run child sweat shops
+JOB: A job:Plumber, Janitor, Cook, Twitch Streamer, Mcdonalds Worker, Discord Mod
+NICKNAME: A nickname:Bumblebee, Squirrel, Tater Tot, Pogchamp, Chungus
+SHOW: A kid's TV show:Bluey, Spongebob, Steven Universe, Skibidi Toilet
+GAME: A video game:Minecraft, Fortnite, Vr Chat, Roblox
+COP: A name:Johnson, Phill, Fortnite
+NOUN: A noun:Money, Politics, Cheese
+NUMBER: A number:20, 15, 10, 2.5
+VERB: An action you can do to someone:Arrest, Kiss, Punch, Kill
+CELEBRITY: A famous person:Brad Pitt, Jimmy Kimmel, James Corden 
+SCRIPT ==========================================
+dark classical music
+June: Mommy it's getting late, Can I please go to my room?
+Sarah: (Frustrated) June for the last time, NO! I need you to be by my side when Robert your father comes home.
+June: Are you and Daddy fighting again?
+Sarah: (Scoffing) Oh no, he brought this upon himself.
+June: I don't like it when you two fight.
+Sarah: (Points at June) Just you wait, When Robert gets here you'll never want to see him again. That's why I need you here, to know the truth.
+June: Mommy please I don't like this. Can't I just go to my room and watch SHOW?
+Sarah: Absolutely not. I don't want you out of my sight, I promise you this will all make sense.
+Sarah: (Look out the window) He's here. June listen to me. I need you to stay by my side. This is very important do you understand?
+Robert: (Enter the house) Hey, How's my little NICKNAME?
+June: (Run over and hug Robert) Daddy! Mommy's acting strange. I'm scared.
+Robert: What uhh... Sarah, What's going on?
+Sarah: June step away from your father, Now!
+June: (Hesitate but step away from them both) Fine...
+Robert: Is there something wrong?
+Sarah: Robert I am going to be blunt about this. Me and June want you out of the house. Do not contact us. We never want to see you again.
+Robert: (Laugh nervously) Sarah what's going on? Is this about the pay cuts at my work? I told you that these are tough times, Especially working as a JOB.
+Sarah: No this isn't about money, This is about you and how you are a disgusting liar and a pig.
+Robert: Sarah what's going on? Where is all of this coming from?
+Sarah: You, I know your secret.
+Robert: (Sartled) Uh.. What secret?
+Sarah: Your Secret. How every single night you would sneak away and SECRET.
+vine boom
+June: What!
+Robert: Sarah, How do you know about that?
+Sarah: You left your computer on this morning after you spent all night playing GAME. I saw a file on your desktop and there it was.
+Robert: Sarah listen to me I do not do those kinds of things. I was just doing research.
+June: Daddy how could you be such a pig!
+Robert: I'm not! (Get on your knees in front of Sarah) Sarah, I'm telling you this is all a misunderstanding.
+Sarah: Get away from me jerk! I've already called the cops.
+Robert: What no! No, you can't do this to me.
+June: Mommy I'm getting scared.
+Robert: June I'm not a jerk, Please you have to let me explain.
+doorbell
+break down door
+Officer: (Enter the house) This is Officer COP! We received a call about a disturbance.
+Robert: Officer COP, please this is all a big misunderstanding. We were just arguing about NOUN.
+Sarah: No we're not. I need you to arrest my husband.
+Robert: Sarah, please! Are you gonna throw away NUMBER years of marriage over this?
+June: Shut up jerk! Officer COP VERB him, VERB him right now!
+Officer: Everybody shut up. Somebody tell me what Mr Robert did.
+June: Officer COP, My daddy is a jerk. He likes to go and SECRET all the time.
+Officer: (Shocked) We haven't had one of those since 2015 when we caught CELEBRITY doing the same thing. You are going to jail for a very long time.
+sad chug jug music
+Robert: No! I'm not a monster.
+Sarah: Robert just give up it's over.
+Robert: (Hysterical) You know what no, I confess yes I like to SECRET and no I'm not sorry about it. SECRET doesn't make me a bad person you all just don't understand.
+Officer: INSULT put your hands in the air.
+Robert: (Run and grab June) Never! I won't let you take me alive!
+June: (Gets grabbed by Robert) Ahh let me go
+Sarah: No let her go!
+Robert: No! I'm not going to rot in a cell
+Officer: (Point gun at Robert) Don't make me shoot!
+Robert: I'm not a jerk I am nothing like CELEBRITY. I'm a good man.
+June: (Slips away from Robert) Now shoot him!
+Officer: Opening fire! (Shoot Robert)
+gunshot
+Robert: (Big dramatic death) Ahhh, June Im your father why?
+June: I never wanted any of this I just wanted to watch SHOW.
+laughter
+
+======
+
+INFORMATION ===============================
 ID: 994
 TITLE: Whatchamacallit
 AUTHOR: kiro-sage
@@ -31770,6 +31859,92 @@ DATE1: It was great, thank you! They're just perfect.
 DATE2: Yes, thank you. I couldn't have found a better match.
 DATE1: (Looking at date) So, would you like to do this again sometime?
 DATE2: I'd love to.
+
+======
+
+INFORMATION ===============================
+ID: 1002
+TITLE: Security Nightshift
+AUTHOR: TheVirtualAK
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+DATE: 22/07/24
+CHARACTERS ================================
+MONSTER2: The huge scary monster:Backstage
+MONSTER1: The tiny not very scary monster:Backstage
+GUARD: The security guard:Chair
+SUGGESTIONS =============================
+VISITOR: Someone who might visit your home:Mailman, Girl Scouts, Pizza Delivery
+FOOD1: A name of a food:meatloaf, king crab, toast
+FOOD2: A name of a food:pizza, ice cream, spaghetti
+MONSTERNAME: A name for a monster:Boogeyman, Dracula, Nightmare
+OBJECT1: Something you can steal from someone:shoes, kidneys, money
+NAMETAG: A name:Ben Dover, Pinhead, Shawn Sucker
+JOB: A job:Plumber, Telemarketer, Taxi Driver
+SCRIPT ==========================================
+GUARD: Well, it's my first night here on the job...
+GUARD: Working the night shift is a lot more tiring than I thought...
+GUARD: (Look down at nametag on chest) What the hell is this? Why does my nametag say NAMETAG?! My name is Steve!
+cellphone vibrate
+GUARD: Oh! My phone! (pick up the phone in your pocket and put it up to your ear)
+GUARD: Yeah... Okay... Alright...
+GUARD: Wait, what?! No, that can't be! They're gonna move?!
+GUARD: But they've been there forever! They can't move!
+GUARD: Well, alright then... Yep... Uh-huh... I'll make sure to say goodbye to the neighbors.
+GUARD: Oh and yeah, I'll be there for FOOD1 tomorrow...
+GUARD: Okay, bye mom! (Put phone away)
+laughter
+GUARD: Oh man... How does working at a FOOD2ria get so tiring?
+GUARD: I think I'll just... (Fall asleep snoring)
+vine boom
+TYPEWRITER: 5 HOURS LATER
+GUARD: (Snoring) Honk shoo honk shoo...
+heavy door knocking
+GUARD: (Wake up startled) Woah! What in the heck was that?!
+Teleport MONSTER1 to Entrance Stage Right
+MONSTER1: (From behind door) Hello security guard... I am MONSTERNAME and I have come for your OBJECT1...
+waterphone
+GUARD: WHAT?! No, Not my OBJECT1! Stay out!
+MONSTER1: But you've left the door unlocked...
+GUARD: (Gasp) No, wait!
+door creak
+MONSTER1: (Enter) Hello.
+laughter
+GUARD: Oh... I thought you would be a lot bigger... and scarier looking...
+MONSTER1: What?! I strike fear into all who gaze upon me!
+GUARD: Aww, you're so tiny!
+MONSTER1: How dare you make fun of me, NAMETAG!
+GUARD: W-what?! That's not my name! My name is Steve!
+MONSTER1: Whatever you say, NAMETAG! You made fun of me now I'm gonna make fun of you!
+heavy door knocking
+MONSTER1: Ahh, perfect...
+GUARD: Huh?! Who's there?!
+Teleport MONSTER2 to Entrance Stage Right
+MONSTER2: (From behind door) Uh... It's me... VISITOR!
+GUARD: Oh! Come in!
+break down door
+tense cinematic music
+MONSTER2: (Enter, evil laughter) Ha ha! You fool!
+GUARD: Holy cow! You're huge!
+MONSTER2: Yes... and I've come to take what you value most...
+GUARD: No! Not my OBJECT1!
+Music Stops
+MONSTER2: What? No, I don't want that.
+MONSTER1: (Turn to the big monster) Huh?!
+GUARD: Then what do you want that's so valuable to me?
+MONSTER2: Well, Mr. NAMETAG...
+GUARD: MY NAME IS STEVE!
+MONSTER2: Whatever... I want what you value most... Your job!
+laughter
+GUARD: You think I want this job?! At this point I'd rather work as a JOB!
+MONSTER2: Oh... Well okay... Can I work here then?
+GUARD: Please!
+MONSTER1: (Turn to the security guard) Grr! No, no, no! That's it, I'm taking your OBJECT1! (Approach him)
+GUARD: WAIT NO!
+doorbell
+TYPEWRITER: 6 AM
+GUARD: I made it! Holy cow, what a horrible job... (Exit)
 
 ======
 
