@@ -31214,7 +31214,7 @@ FOOL: Oh no. Oh RAT. (screams)
 INFORMATION ===============================
 ID: 984
 TITLE: Family Matters 
-AUTHOR: ELDER IPATCH
+AUTHOR: MRIPATCH
 VERIFIED: True
 TAGS: 
 SET: Living Room
@@ -31794,6 +31794,7 @@ PET_PEEVE: Something that annoys you.:loud chewing, lateness, bad drivers, inter
 FAVORITE_MOVIE: A movie (Fictional or Real):Titanic, Star Wars, The Godfather, Inception, Frozen, The Matrix, The Lion King, Pulp Fiction, Avengers, Casablanca
 SECRET: Your deepest darkest secret.:I still sleep with a teddy bear, I hate my job, I'm afraid of heights, I once cheated on a test, I have a secret tattoo, I'm in love with my best friend, I accidentally broke something valuable, I lied about my age, I snoop through people's things, I secretly love reality TV
 FUN_FACT: A fun fact about yourself.:I can juggle, I speak five languages, I've traveled to 30 countries, I have a black belt in karate, I once met a celebrity, I can play the piano, I collect rare coins, I have a photographic memory, I once won a contest, I love extreme sports
+HOBBY: Something you enjoy doing in your spare time.:reading, swimming, dancing, traveling, cooking, playing video games, cycling, writing, meditating, practicing yoga, gardening, painting, hiking, baking, photography, fishing, knitting, playing chess, bird watching, scrapbooking
 SCRIPT ==========================================
 jazz music 1
 DATE1: (Nervously) Hi there, I'm John. It's nice to finally meet you in person.
@@ -31945,6 +31946,88 @@ GUARD: WAIT NO!
 doorbell
 TYPEWRITER: 6 AM
 GUARD: I made it! Holy cow, what a horrible job... (Exit)
+
+======
+
+INFORMATION ===============================
+ID: 1006
+TITLE: The Roaming Gourmet
+AUTHOR: LeDerp_64
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+DATE: 25/07/24
+CHARACTERS ================================
+CHEF: Roaming Chef:Stage Left
+TRAV1: Traveler #1:Entrance Stage Right
+TRAV2: Traveler #2:Entrance Stage Right
+SUGGESTIONS =============================
+FOOD: Unusual Food Item:Frozen tv dinner, Squid ink pasta, Durian
+SMELL: A Food's Smell:Aromatic, Pungent, Smoky, Earthy
+TASTE: A Food's Taste:Spicy, Nutty, Savory, Fruity
+NAME: A Fancy Name:Gabrielle, Isabella, Giovanni
+DAYS: A Small Number:20, 15, 2
+SNACK: A Snack :Beef Jerky, Trail Mix, Chips
+LOCATION: A location that has food:Freddy Fazbears Pizza, Mcdonalds, Maid Cafe
+HOURS: Number of hours:3, 6, 10
+INGREDIENT: An ingredient:Rosemary, Truffle, Bee Pollen
+COMPONENT: An ingredient:Black Garlic, Matcha, Crickets
+MOMDINNER: Something your mom would cook for you:Apple Pie, Pancakes, Spaghetti
+BYE: Another way to say goodbye:Au revoir, Auf Wiedersehen, Adiós
+SCRIPT ==========================================
+Jazz music 2
+TRAV1: (walks onto stage) How long have we been walking again?
+Meanwhile TRAV2: (walks onto stage)
+TRAV2: DAYS days, and counting.
+TRAV1: Do we have any of that SNACK left?
+TRAV2: No, you ate the last of it not too long ago.
+TRAV1: How long until we get to LOCATION again?
+TRAV2: No idea, my phone is dead, and I don't have a map.
+TRAV1: God I am starving.
+TRAV2: Wait who's that guy over there? (points at chef)
+TRAV1: Maybe he knows where we are (walks over to chef)
+Meanwhile TRAV2: (walks over to chef)
+CHEF: (not noticing the travelers) The aroma, the flavor, never in my lifetime would i expect to eat something this Delicious!
+TRAV1: Um, excuse me sir? do you know how to get to LOCATION from here?
+CHEF: (turns to travelers) Oh! Some Travelers.
+CHEF: (Bowing) I am the Roaming Gourmet NAME, pleased to meet you.
+CHEF: How may i help you this evening?
+TRAV1: Me and my friend here are headed to LOCATION, you wouldn't happen to know where that is.
+CHEF: Oh, let me think (turn around and ponder)
+TRAV2: (whispering to other traveler) Directions, really? He's a chef, he obviously has food on him.
+TRAV1: (whispering to other traveler) Alright I'll ask him.
+CHEF:(turns back around) I remember now, it's just HOURS hours away.
+CHEF: Will that be all?
+TRAV1: One more thing sir.
+CHEF: Oh, please call me NAME.
+TRAV1: Alright, one more thing NAME, you wouldn't happen to have any food on you?
+CHEF: I do happen to have some food on me.
+TRAV2: what is it?
+CHEF: A wonderful dish that smells SMELL
+CHEF: With the amazing TASTE taste, all made from within this very forest.
+CHEF: I present to you FOOD! (holding out a plate of FOOD)
+TRAV2: Um... you said that it's made in this forest? With what?
+CHEF: Only the finest ingredients.
+TRAV2: Care to be any more specific?
+CHEF: Oh, just a little bit of INGREDIENT here, a little COMPONENT there.
+TRAV1: INGREDIENT2? My mom used to put that in my MOMDINNER.
+TRAV2: Dude.
+TRAV1: What? It's very nostalgic for me.
+CHEF: So, want to give it a taste?
+TRAV1: I'm in!
+TRAV2: Sure, why not. It's better than starving out here.
+CHEF: Excellent! Here you two go. (hands out food)
+CHEF: Dig in!
+TRAV1: I can't wait! (eats FOOD)
+Meanwhile TRAV2: (eats FOOD)
+CHEF: So... what do you think?
+TRAV1: It's amazing!
+Meanwhile TRAV2: It's amazing!
+CHEF: I'm glad, I'm always happy to give food to those in need.
+TRAV1: Welp i guess we should head to LOCATION now.
+TRAV2: Goodbye NAME. (walk off stage)
+Meanwhile TRAV1: (walk off stage)
+CHEF: BYE my friends, BYE!
 
 ======
 
