@@ -31132,6 +31132,7 @@ ACTION: Something you do:Cardio, Cooking, Singing, Your mom, star gazing, jumpin
 SCRIPT ==========================================
 courtroom music
 LEAD: (speaking into computer radio) HARRY? Come in, HARRY? Do you read me?
+meanwhile FOOL: (Stay at narrator podium)
 FOOL: (speaking into earpiece) Mothership, this is HARRY, I read you loud and clear.
 LEAD: Alright HARRY, you've made it to Earth. We need a live human for our experimentation. Do not mess this up.
 FOOL: (talking into earpiece) Bah, don't worry, boss. This will be a piece of cake.
@@ -31169,25 +31170,27 @@ FOOL: Well (thinking) yeah... but it was just some old man with some SCARs.
 LEAD: (furious) JUST and old man? Oh no...
 gameshow buzzer
 gameshow buzzer
-crashing debris
+gameshow buzzer
 LEAD: (grabs HARRY by the shoulders) Think HARRY, think.
-LEAD: Waaaay back to abduction 101! Earth does NOT just have old men. They have...? (lets go of HARRY)
+LEAD: Waaaay back to abduction one-o GLOBing one! Earth does NOT just have old men. They have...? (lets go of HARRY)
 FOOL: Uuuhh, retired men?
 explosion
 LEAD: Yeah, and what kinds of retired men have SCARs?
 FOOL: Uhh... Marines? Ooohh.
+lacrimosa music
 FOOL: (despair) Oh noooo...
-alien siren
+crashing debris
 LEAD: Yeah, oh no. You just stole an ex-Marine's GLOBing child, HARRY. Congratulations.
 explosion
-lacrimosa music
 FOOL: W-what do we do?!
 LEAD: We pray, HARRY.
 FOOL: P-Pray? But I thought there was no God.
 super epic charge up
 LEAD: And he just destroyed the CORE. HARRY, it was not nice knowing you.
 FOOL: (panicking) Oh no, he will be here any second. (hides under desk)
+music stops
 break down door
+usa anthem music
 DAD: (Enter) Where is my SON?!
 BOY: (excited) Daddy!
 DAD: (furious) This is for taking my son. (beats the alien to death)
@@ -31200,7 +31203,7 @@ DAD: We are the ones who will inherit the STARs. (shouting) Not you, you disgust
 DAD: (pauses for a second) I think it got away. Let's return home. We are going to be doing some ACTION.
 BOY: Ok, daddy. I wonder where he went. (leaves stage)
 meanwhile DAD: (leaves stage)
-FOOL: Oh my GLOB PUMPKIN. I lived. (sigh)
+FOOL: Oh my GLOBing PUMPKIN. I lived. (sigh)
 BOY: (walks back on stage) Hey dad, I think I heard the last one...
 BOY: There the RAT is! Under the desk! (points to alien)
 meanwhile DAD: (stands behind son)
@@ -31675,7 +31678,7 @@ sad chug jug music
 Robert: No! I'm not a monster.
 Sarah: Robert just give up it's over.
 Robert: (Hysterical) You know what no, I confess yes I like to SECRET and no I'm not sorry about it. SECRET doesn't make me a bad person you all just don't understand.
-Officer: INSULT put your hands in the air.
+Officer: Put your hands in the air.
 Robert: (Run and grab June) Never! I won't let you take me alive!
 June: (Gets grabbed by Robert) Ahh let me go
 Sarah: No let her go!
@@ -31685,7 +31688,7 @@ Robert: I'm not a jerk I am nothing like CELEBRITY. I'm a good man.
 June: (Slips away from Robert) Now shoot him!
 Officer: Opening fire! (Shoot Robert)
 gunshot
-Robert: (Big dramatic death) Ahhh, June Im your father why?
+Robert: (Big dramatic death) Ahhh, June I'm your father why?
 June: I never wanted any of this I just wanted to watch SHOW.
 laughter
 
@@ -31756,10 +31759,11 @@ LOGIC: (Stressed waving hands between the two) Hey! Wait!
 LOGIC: (Embarassed, to God) What he means to say is please GOOD for us! Please GOOD!
 HIPPY: Nah, i just want a beer. If you aren't going to give me a beer then I want you to BAD.
 LOGIC: (Shush the hippy) Shut... up! What are you doing?!
-BEING: Then I shall make it so. Let there be BAD. (clap hands)
+BEING: (sigh) Then I shall make it so. (clap hands)
 thunder
 LOGIC: (Panicking) Holy cow... (turn to the hippy) Do you know what you just did? Millions, heck even BILLIONS of people are going to die now!
 meanwhile GOBLIN: (Preparing a beer in the kitchen)
+music stops
 GOBLIN: (Walk over to hippy with beer) GOBBY delivers you your beer, sir. GOBBY made it special just for you with my special WENDIGO GOBBY flair.
 HIPPY: Hey, thanks little bro! Now come sit down and watch some SHOW with me. Heard there's going to be a WENDIGO on tonight.
 meanwhile GOBLIN: (walk over and sit on couch)
@@ -32010,7 +32014,7 @@ TRAV2: Um... you said that it's made in this forest? With what?
 CHEF: Only the finest ingredients.
 TRAV2: Care to be any more specific?
 CHEF: Oh, just a little bit of INGREDIENT here, a little COMPONENT there.
-TRAV1: INGREDIENT2? My mom used to put that in my MOMDINNER.
+TRAV1: INGREDIENT? My mom used to put that in my MOMDINNER.
 TRAV2: Dude.
 TRAV1: What? It's very nostalgic for me.
 CHEF: So, want to give it a taste?
