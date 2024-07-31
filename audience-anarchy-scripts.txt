@@ -7443,7 +7443,7 @@ APPLICANT: Applicant:Office Chair 1
 EMPLOYEE: Employee:Boss Chair
 SUGGESTIONS =============================
 SAD: Something sad:Hungry orphans, the state of the Canadian housing market, a house fire totaling over $5,000
-NAME2: A person's last name:Johnson, Boberson, Smitherson
+NAME2: A person's name:Johnson, Boberson, Smitherson
 JOB1: A company:Amazon, VRChat, Electronic Arts, Pixar
 POSITION: An occupation:cleaner, FBI agent, real estate agent, Doctor of Neuroscience, art teacher
 CRIME1: Why did you get fired? (past tense):Stole office supplies, downloaded video games, sent an email of my ass
@@ -7464,7 +7464,7 @@ APPLICANT: Okay....
 BOSS: (Enter stage)
 BOSS: Perfect, you're here. Thank you for coming to this interview.
 BOSS: (Sit at table)
-APPLICANT: Thanks for having me Mr. NAME2
+APPLICANT: Thanks for having me Mr. Garrison
 BOSS: At JOB2 we interview a little differently.
 BOSS: This room is bugged with a wireless lie detector.
 BOSS: Here, check it out!
@@ -7544,8 +7544,10 @@ APPLICANT: I don't know!
 Gameshow buzzer
 APPLICANT: Your assistant!
 BOSS: (yell) Jerry, get in here!
-EMPLOYEE: Yes sir?
-BOSS: You're fired!
+EMPLOYEE: My name is NAME2
+BOSS: What ever Frank...
+EMPLOYEE: IT'S NAME2
+BOSS: Well Jim, You're fired!
 EMPLOYEE: What?!
 BOSS: Expect your final cheque in the mail.
 Gameshow buzzer
@@ -27352,8 +27354,8 @@ Blanc: Ugh, im out of here. (Exit the stage)
 INFORMATION ===============================
 ID: 841
 TITLE: A Terrible Accident
-AUTHOR: holidaywither
-VERIFIED: False
+AUTHOR: HolidayWither
+VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
 DATE: 23/05/24
@@ -27710,8 +27712,8 @@ HUSBAND: (looks down in toilet) I think we have another problem.
 INFORMATION ===============================
 ID: 857
 TITLE: Donate, Please
-AUTHOR: holidaywither
-VERIFIED: False
+AUTHOR: HolidayWither
+VERIFIED: True
 TAGS: Skit
 SET: Backyard
 DATE: 27/05/24
@@ -32032,6 +32034,76 @@ TRAV1: Welp i guess we should head to LOCATION now.
 TRAV2: Goodbye NAME. (walk off stage)
 Meanwhile TRAV1: (walk off stage)
 CHEF: BYE my friends, BYE!
+
+======
+
+INFORMATION ===============================
+ID: 1012
+TITLE: The Age-Old Question
+AUTHOR: HolidayWither
+VERIFIED: True
+TAGS: Skit
+SET: Political Debate USA
+DATE: 30/07/24
+CHARACTERS ================================
+MODERATOR: A Bored Debate Moderator:Center Stage
+DEBATER #1: A Popular Celebrity:Podium Stage Right
+DEBATER #2: An Unknown Individual:Podium Stage Left
+VIEWER: A Disgruntled Viewer:Entrance Stage Left
+SUGGESTIONS =============================
+CANINES: Any animal:Dingoes, Fennecs, Dholes, Raccoons
+FELINES: Any animal:Cougars, Lynxes, Caracals, Binturongs
+CELEBRITY: Name for a fictional celebrity:Joe Smungus, Rebecca Lumos, Ilden Stormridge, Carmine Sandyago
+NOBODY: Name for an unknown person:Eugene, Du-Ga, Carl, Lou, Candy, Forboza
+ACTION: Something a pet would do for you:Give you affection, Eat your homework, Commit Tax Fraud
+ACTIVITY: An activity that can be done outside:Skydiving, Aviation Navigation, Pyrotechnics, Deep-Sea Diving
+SOUND: A sound an animal could make:Purr, Bark, Moo, Howl, Whistle, Buzz, Roar, Click
+OCCUPATION: A job title or occupation:Therapist, Weather Prophet, Mixologist, Wizard, Chef
+MAMMAL: Creature that can be found in trees, singular:Tree Frog, Flying Snake, Gecko, Flying Squirrel
+ANIMAL: An animal or creature, singular:Quokka, Mudskipper, Smew, Prairie Dog
+SECRET: Something someone would try and do in secret:Throw a party, Give life to a zombie, Invent combustible lemons
+SCRIPT ==========================================
+World news intro
+MODERATOR: (Monotone) Welcome, ladies and gentlemen, to tonight's debate on the age-old question: CANINES or FELINES? In one corner, we have the ever-charming, CELEBRITY.
+DEBATER #1: Thank you, thank you. Dogs all the way, baby!
+MODERATOR: (Monotone) And in the other corner, we have...uh...an unknown individual who signed up last minute. Let's call them, uh, NOBODY.
+DEBATER #2: Cats rule!
+MODERATOR: (Yawns) Alright, let's make this quick. CELEBRITY, you have the floor.
+Badass music 1
+DEBATER #1: CANINES. They're loyal, always happy to see you, and they ACTION! What more could you want? They're basically fluffy bundles of joy and loyalty.
+DEBATER #2: Mind you, FELINES are also fluffy bundles of joy and loyalty.
+DEBATER #1: Even so, CANINES are always down for adventure-hiking, swimming, and ACTIVITY? They're like your own personal cheerleaders.
+DEBATER #2: They're more akin to slobbery chaos machines that eat your shoes and wreck your home, then they are cheerleaders.
+DEBATER #1: Factually untrue. What is true, is that you'll never be lonely with CANINES around, and that they're great listeners.
+DEBATER #2: So are FELINES. And guess what? They SOUND. It's like having a tiny, furry OCCUPATION on call.
+MODERATOR: (Checking watch) Fascinating. I'm enthralled, really.
+DEBATER #2: Also, you can be gone for a weekend, and they'll be fine. And have you seen FELINES jump? It's like watching a ninja in action. They're independent.
+DEBATER #1: Independent? More like indifferent. CANINES are always there for you, through thick and thin. They're your ride-or-die companions.
+DEBATER #2: Unless there's a MAMMAL. Then you're on your own. Also, FELINES don't need walks at 6 AM in the freezing cold.
+DEBATER #1: All part of the bonding experience. Plus, CANINES are great for your social life. Take one to the park, and you're suddenly the most popular person there.
+DEBATER #2: Yeah, if you enjoy getting slobbered on by all the CANINES in a 5-mile radius.
+MODERATOR: Ain't that the truth.
+DEBATER #1: Aren't you supposed to be indifferent here?
+MODERATOR: I'm not paid enough to care.
+DEBATER #1: Anyways, FELINES act like they're doing you a favor by existing.
+DEBATER #2: Not true!
+Music Stops
+Record scratch
+VIEWER: (Barging in) Hold on a second. Stop everything!
+MODERATOR: And what seems to be the problem?
+VIEWER: I'm here to say this whole debate is pointless! Everyone knows that the true superior pet is...a ANIMAL.
+Happy music 1
+DEBATER #1: A ANIMAL?
+Meanwhile DEBATER #2: A ANIMAL?
+VIEWER: Exactly! No hair, no loud noises, and no dead animals. Just pure, sweet bliss and serenity. They won't beg for food, or wake you up at 5 AM.
+DEBATER #1: Hold it, is this even allowed? They're not even a part of this debate!
+MODERATOR: (Interested) No, let them cook. They might be onto something...
+VIEWER: Thank you. And, if we need reminded, a ANIMAL won't destroy your house or SECRET when you aren't around.
+MODERATOR: Folks, I think we might have a winner here.
+VIEWER: Thank you for seeing the obvious answer. Now, can we all just go home?
+DEBATER #1: Aren't we allowed a closing remark first?
+MODERATOR: Nope! Debate adjourned!
+Crowd woo
 
 ======
 
