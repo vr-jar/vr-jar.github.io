@@ -32038,6 +32038,114 @@ CHEF: BYE my friends, BYE!
 ======
 
 INFORMATION ===============================
+ID: 1009
+TITLE: My new Religion
+AUTHOR: youareaboy
+VERIFIED: False
+TAGS: Skit
+SET: Dining Room
+DATE: 27/07/24
+CHARACTERS ================================
+LINDA: Linda the skeptical Mother:Chair 2
+JIM: Jim the converted Father:Chair 3
+JANE: Jane the curious Daughter:Chair 4
+TOM: Tom the sinful Son:Entrance Stage Right
+WELLS: Brother Wells the Missionary:Entrance Stage Left
+PRICE: Brother Price the Missionary:Entrance Stage Left
+SUGGESTIONS =============================
+ACTION: A thing you do:My taxes, Lifting weights, Playing Vr Chat
+ADJECTIVE: A word to describe someone:Hairy, Fat, Ugly, Handsome, Stupid
+FAITH: The Church of (Blank):VR CHAT, Big Chungus, goth anime girls, Jeremy Renner
+THREAT: A Threat:Roast your liver, Stub your toe, Slap you silly
+ACTIVITY: An activity you would do:Go swimming, eat 20 hot dogs, do Fortnite dances, spin fidget spinners
+FOOD: A food:Hamburger, Chicken Nugget, Taco
+SHOW: A tv show:Breaking bad, Seinfeld, Bluey
+NUMBER: a number between 1-100:50, 10, 99
+PURCHASE: Something you can buy:Funko Pops, 19 dollar fortnite card, Twitch subscriptions
+NOUN1: A person or thing:Bear, Canadian, Mcdonald's strawberry Milkshake
+RANDOM: A random Word:Keyboard, Skibidi, Kawaii
+SCRIPT ==========================================
+waltz music
+Linda: It's getting late, What time did you say they would arrive?
+Jim: 6, but it's fine, it's fine they'll get here.
+Jane: Tom isn't even here yet, he's still in his room.
+Jim: (Yell upstairs) Tom get your butt down here. We have some very important people coming.
+Linda: Jim I'm not sure about this, the way you talked about them they seem a bit culty.
+Jim: They are not a cult! They are spiritual messengers here to save us.
+Jane: Spiritual messengers?
+Jim: That's right Jane, I know this sounds crazy but these two may be the most ADJECTIVE people you ever meet.
+Linda: (Sarcastic) Right, because if there's anything we should be is more ADJECTIVE.
+heavy door knocking
+Jim: (excited) Ahh that's them, how do I look?
+Linda: You look ADJECTIVE now go answer the door.
+Jim: Okay I'm on it. (Open the door on stage left)
+Wells: Hi Jim, thank you for inviting us.
+Jim: Oh its my pleasure, please come in.
+Wells: (Enter the house) Thank you for having us! I'm Brother Wells and this is Brother Price.
+Price: (Enter house)
+Jane: Nice to meet you brothers. I have a brother too.
+Jim: Speaking of brothers (Yelling) Tom get down here before I THREAT.
+Tom: (Enter) I'm here, I'm here.
+Jane: Tom what were you doing up there for so long?
+Tom: (Sarcastic) ACTION you little Brat.
+Jane: (Yelling) Mom! Tom called me a Brat.
+Jim: Shut up both of you! we are in the presence of ADJECTIVE men.
+Price: Thank you Jim but were no ordinary ADJECTIVE men, we come here to preach the word of FAITH.
+Linda: FAITH? Jim, are you serious?
+Wells: We are very serious. We follow all of the rules and commands of the church of FAITH.
+Jane: What kind of rules do you follow?
+Price: Well for starters we cannot eat FOOD. It is strictly a sin!
+Tom: You can't eat FOOD? That's so stupid, FOOD is my all-time favorite food.
+record scratch
+dark classical music
+Wells: (Dramatic gasp) Heathen!
+Linda: Jim this is ridiculous. There's no way eating FOOD is a sin.
+Jim: Linda would you shut up! these two gentlemen know more than you about what is or isn't a sin
+Linda: Alright, Brother Wells what other sins are there?
+Wells: I'm glad you asked. Our scripture says watching something like SHOW will damn you to an eternity in hell.
+Tom: I watch SHOW every day and I'm fine.
+vine boom
+Price: (Dramatic gasp) Blasphemy!
+Wells: Brother Jim I have some big concerns about your son.
+Jim: (worried) No he's a good boy!
+Jane: What other rules are there?
+Price: Well the scripture asks us to donate NUMBER percent of our earnings to the Church to fund the FAITH statue.
+Tom: I can't afford that! I already spend NUMBER percent of my allowance on PURCHASE.
+vine boom
+Wells: (Dramatic gasp) That's two sins in one act!
+Jim: (Heartbroken) Tom I can't believe this.
+Linda: Jim it's normal for kids his age to spend NUMBER percent of their money on PURCHASE.
+Jane: (excited) Tell us more sins! Tell us more sins!
+Wells: Well our church strictly prohibits the marriage between Man and NOUN1.
+Jim: Tom please tell me that you don't intend to ever marry a NOUN1.
+Tom: I mean... I don't know I kinda think NOUN1 is hot.
+vine boom
+Jim: (yelling) What?
+Jane: Yeah Tom's computer is full of NOUN1 pics.
+vine boom
+lacrimosa music
+Tom: Shut up you little Brat!
+Jim: Oh my FAITH. My son is damned to go to hell.
+Price: Not exactly, he can still be forgiven! and he didn't do the unforgivable sin.
+Linda: What's the unforgivable sin?
+Price: It is the forbidden word, If you say it you will be punished by the wrath of FAITH.
+Jane: What's the word?
+Price: The word is RANDOM
+Tom: But didn't you just say it.
+Price: I did, but it was in order to teach you not to say it. I'm sure FAITH would understand.
+teleport PRICE to BACKSTAGE
+thunder
+mystery music 1
+Jim: AHH! Brother Price! he was smitten by the hand of FAITH!
+Wells: (Crying) No! you were like a brother to me Price, I was going to ask you to ACTIVITY with me.
+Tom: Does this mean I'm going to hell?
+Linda: (shocked) I... I guess so.
+Tom: (unbothered) Cool, Anyways I'm going to my room to look at pictures of NOUN. (Leave the room)
+vine boom
+
+======
+
+INFORMATION ===============================
 ID: 1012
 TITLE: The Age-Old Question
 AUTHOR: HolidayWither
@@ -32051,8 +32159,8 @@ DEBATER #1: A Popular Celebrity:Podium Stage Right
 DEBATER #2: An Unknown Individual:Podium Stage Left
 VIEWER: A Disgruntled Viewer:Entrance Stage Left
 SUGGESTIONS =============================
-CANINES: Any animal:Dingoes, Fennecs, Dholes, Raccoons
-FELINES: Any animal:Cougars, Lynxes, Caracals, Binturongs
+CANINES: Any animal or creature, plural:Dingoes, Fennecs, Dholes, Raccoons
+FELINES: Any animal or creature, plural:Cougars, Lynxes, Caracals, Binturongs
 CELEBRITY: Name for a fictional celebrity:Joe Smungus, Rebecca Lumos, Ilden Stormridge, Carmine Sandyago
 NOBODY: Name for an unknown person:Eugene, Du-Ga, Carl, Lou, Candy, Forboza
 ACTION: Something a pet would do for you:Give you affection, Eat your homework, Commit Tax Fraud
@@ -32060,14 +32168,14 @@ ACTIVITY: An activity that can be done outside:Skydiving, Aviation Navigation, P
 SOUND: A sound an animal could make:Purr, Bark, Moo, Howl, Whistle, Buzz, Roar, Click
 OCCUPATION: A job title or occupation:Therapist, Weather Prophet, Mixologist, Wizard, Chef
 MAMMAL: Creature that can be found in trees, singular:Tree Frog, Flying Snake, Gecko, Flying Squirrel
-ANIMAL: An animal or creature, singular:Quokka, Mudskipper, Smew, Prairie Dog
+ANIMAL: Any animal or creature, singular:Quokka, Mudskipper, Smew, Prairie Dog
 SECRET: Something someone would try and do in secret:Throw a party, Give life to a zombie, Invent combustible lemons
 SCRIPT ==========================================
 World news intro
 MODERATOR: (Monotone) Welcome, ladies and gentlemen, to tonight's debate on the age-old question: CANINES or FELINES? In one corner, we have the ever-charming, CELEBRITY.
-DEBATER #1: Thank you, thank you. Dogs all the way, baby!
+DEBATER #1: Thank you, thank you. CANINES all the way, baby!
 MODERATOR: (Monotone) And in the other corner, we have...uh...an unknown individual who signed up last minute. Let's call them, uh, NOBODY.
-DEBATER #2: Cats rule!
+DEBATER #2: FELINES rule!
 MODERATOR: (Yawns) Alright, let's make this quick. CELEBRITY, you have the floor.
 Badass music 1
 DEBATER #1: CANINES. They're loyal, always happy to see you, and they ACTION! What more could you want? They're basically fluffy bundles of joy and loyalty.
