@@ -2560,6 +2560,7 @@ Lexi_Cute
 ~Z A Z A~
 丂卄卂尺Ҝ
 Beastkiller_561
+LUCID_LORE
 #TIER=3
 SidMarcus
 PinballReviewer
