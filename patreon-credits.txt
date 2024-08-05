@@ -1862,7 +1862,6 @@ Yummу
 ライトノットパープル
 ღʜᴇʀ ᴄᴠᴍ ᴅᴇᴍᴏɴღ
 demonbunniz
-SleepyAshZzz
 modNick
 ruralists
 #TIER=1
@@ -2360,7 +2359,6 @@ DARK_WARRIOR
 Thelvaen
 blimper
 DiaraD
-Fadêd
 Vergiftet Engel
 Nekomi_chan_
 ღ Eira
@@ -2559,6 +2557,7 @@ LUCID_LORE
 G ｏｏｓｅ
 S͠t͠e͠w͠i͠e͠
 Zephyrus2
+SleepyAshZzz
 #TIER=3
 SidMarcus
 PinballReviewer
