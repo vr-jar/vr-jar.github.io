@@ -2559,6 +2559,7 @@ Beastkiller_561
 LUCID_LORE
 G ｏｏｓｅ
 S͠t͠e͠w͠i͠e͠
+Zephyrus2
 #TIER=3
 SidMarcus
 PinballReviewer
