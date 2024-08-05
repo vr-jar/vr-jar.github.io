@@ -17748,10 +17748,10 @@ WEST: Name for a friendly country:AMERICA, Landia, Anarchitus
 PARTY: A form of party:Democratic party, Cultist Palooza, uncle smile Hoe-down
 SCRIPT ==========================================
 epic cinematic music
-ES: (runs on stage hiding behind tree) Holy mother of Megatron, this war is crazy. (puts hand up to ear) Sir, this is Agent AGENT , I need an evac ASAP.
+ES: (runs on stage hiding behind tree) Holy mother of Megatron, I need to get out of here. (puts hand up to ear) Sir, this is Agent AGENT , I need an evac ASAP.
 HQ: Hear you loud and clear, AGENT . Just give us your location and we will send in a vertibird to pick you up.
-ES: Alright, I am, I believe, in LOCAL right now, right next to Skull Rock.
-HQ: Roger tha- (pauses) Did you just say LOCAL? Right next to Skull Rock?
+ES: Alright, I am, I believe, in LOCAL right now.
+HQ: Roger tha- (pauses) Did you just say LOCAL?
 ES: (questioning) Yeah? Is there anything wrong, sir?
 HQ: (panicking) You need to get out of there now. There is no time to explain.
 ES: (confused) Whoa, whoa, calm down. Why can't you explain?
@@ -17773,10 +17773,10 @@ ES: And so have I. I am Agent AGENT, the man who took back Jerusalem, Jericho, e
 US: So you're also a strong soldier. Good to know, but we better get this underway before your friends come.
 ES: I was thinking the same thing.
 epic fantasy music 2
-sword fighting
+fistfight
 meanwhile ES: (fights other soldier)
 US: (fights other soldier) You can try all you want, but like I said, I've survived explosions, poison gas, even a stampede of ANIMAL s. You can't take me down.
-ES: ANIMAL s? Really? You must have a crap ton of luck, but luck runs out, you Hevil scum.
+ES: ANIMAL s? Really? You must have a crap ton of luck, but luck runs out, you weevil scum.
 US: Luck? Nah, it's more like a combination of skill, charisma, and my OBJECT . You can't even scratch me.
 ES: You're a tough nut to crack, but every soldier has a weakness.
 US: (smiling) Weakness? I left that at home with my FAVORITE . Good luck finding it.
@@ -17789,10 +17789,10 @@ ES: Hold that thought.
 gunshot
 gunshot
 gunshot
-ES: (sigh of relief) Now he's dead. Okay, so what did you say about him being unkillable? (turns back to other soldier)
+ES: (sigh of relief) Now he's dead. Okay, so what did you say about him being unkillable? (turn around)
 meanwhile US: (falls on back)
 HQ: (bewildered) D-did you actually kill him?
-ES: It was easy as... oh shoot, what was that word? Cake? No. Cookie? No. Ah, it was easy as pie.
+ES: (keep back too soldier) it was easy as pie.
 HQ: No, I'm serious. Did you make sure he's dead?
 ES: How would he be alive? I shot him in the BODY PART.
 HQ: Because this exact thing has happened before. A soldier shot the Unkillable Soldier in the BODY PART and thought he was dead.
@@ -23169,17 +23169,17 @@ SCRIPT ==========================================
 groose music
 SON: (SAD, walks out on stage) Hello, Father, my stomach hurts. (fake cough)
 DAD: (SAD) My son, what ever could be the problem?
-SON: I believe I have... (looks down at "script") SICKNESS. (fake cough)
-DAD: SICKNESS?! Oh dear, that's a very... uhh, very dangerous disease. We must call the doctor.
-DAD: (runs to table and picks up phone) Hello, Doc, my son has SICKNESS.
-Meanwhile SON: (falls to the floor)
+SON: (SAD) I believe I have... (looks down at "script") SICKNESS. (fake cough)
+DAD: (SAD) SICKNESS?! Oh dear, that's a very... uhh, very dangerous disease. We must call the doctor.
+DAD: (SADly runs to table and picks up phone) Hello, Doc, my son has SICKNESS.
+Meanwhile SON: (SADly fall to the floor)
 DOC: (SAD) Got it... SICKNESS is very fatal. I will be there as soon as possible.
-DOC: (wee-woo to stage left door) Hello, I am the medic.
-DAD: (walks up to doc) Doc, my son, he's not doing well. Please help him.
-SON: Dad... (normal) Line?
+DOC: (SADlywee-woo to stage left door) Hello, I am the medic.
+DAD: (SADly walks up to doc) Doc, my son, he's not doing well. Please help him.
+SON: Dad... am I a shrimp?
 Music Stops
 DIRECT: (runs on stage) Cut, cut! What in tarnation was that?
-DIRECT: (sighs) Your line is "Dad, will I be ok?" but ignoring that, why were you all so SAD? (turn to doc) And mama mia you did not act what so ever.
+DIRECT: (sighs) Your line is "Dad, will I be ok?" but ignoring that, why were you all so SAD?
 DAD: (still SAD) Well, we all had a really rough day and are not feeling it today.
 DIRECT: That's not an excuse. (sighs) Just go over it again, but this time be less SAD, be more... EMOTIONLESS. (walk to exit)
 DIRECT: (to doc) And you act like MAN ok please. (head backstage)
@@ -23189,17 +23189,17 @@ silly music 1
 DAD: (EMOTIONLESS, WORKING) Oh, hey son, what you got there?
 Meanwhile SON: (walks on stage carrying THING)
 SON: (EMOTIONLESS) Oh, it's just a THING, what are you doing?
-DAD: You know, my daily session of WORKING.
-DAD: Wait, did you say that you found a THING?
-SON: (still EMOTIONLESS) Yeah, why? (begins coughing)
-DAD: (still EMOTIONLESS) Oh no. (stops WORKING) It would seem you've come down with a case of SICKNESS.
+DAD: (EMOTIONLESS) You know, my daily session of WORKING.
+DAD: (EMOTIONLESS) Wait, did you say that you found a THING?
+SON: (EMOTIONLESS) Yeah, why? (begins coughing)
+DAD: (EMOTIONLESS) Oh no. (stops WORKING) It would seem you've come down with a case of SICKNESS.
 thunder
-DAD: We need to call the doctor right away. (grabs THING and throws it, then runs to table and calls the doctor)
+DAD: (EMOTIONLESS) We need to call the doctor right away. (grabs THING and throws it, then runs to table and calls the doctor)
 Meanwhile SON: (falls to ground)
-SON: But Dad, what about your WORKING session?
-DAD: That can wait you are more important and all that I have left (pick up phone)
+SON: (EMOTIONLESS) But Dad, what about your WORKING session?
+DAD: (EMOTIONLESS) That can wait you are more important and all that I have left (pick up phone)
 DOC: (Acting like MAN and EMOTIONLESS) Hello there, this is COMPANY hospital, you sick 'em, we try to fix 'em. What seems to be nagging you today?
-DAD: Hello, Doc, my son has caught SICKNESS, please help.
+DAD: (EMOTIONLESS) Hello, Doc, my son has caught SICKNESS, please help.
 DOC: Got it, on my way. (EMOTIONLESS-ly wee-woo to left stage door)
 DAD: (opens door for doc) My son is over here. (turns to son, then gasps) Oh no, he's fallen unconscious. Doc, will he be alright?
 DOC: (EMOTIONLESS, checks on son) Don't worry, I have this TOOL so I should be able to fix him up. (hits the son with TOOL)
@@ -32055,12 +32055,12 @@ PRICE: Brother Price the Missionary:Entrance Stage Left
 SUGGESTIONS =============================
 ACTION: A thing you do:My taxes, Lifting weights, Playing Vr Chat
 ADJECTIVE: A word to describe someone:Hairy, Fat, Ugly, Handsome, Stupid
-FAITH: The Church of (Blank):VR CHAT, Big Chungus, goth anime girls, Jeremy Renner
+FAITH: The Church of ....?:VR CHAT, Big Chungus, goth anime girls, Jeremy Renner
 THREAT: A Threat:Roast your liver, Stub your toe, Slap you silly
 ACTIVITY: An activity you would do:Go swimming, eat 20 hot dogs, do Fortnite dances, spin fidget spinners
 FOOD: A food:Hamburger, Chicken Nugget, Taco
 SHOW: A tv show:Breaking bad, Seinfeld, Bluey
-NUMBER: a number between 1-100:50, 10, 99
+NUMBER: a number:50, 10, 99
 PURCHASE: Something you can buy:Funko Pops, 19 dollar fortnite card, Twitch subscriptions
 NOUN1: A person or thing:Bear, Canadian, Mcdonald's strawberry Milkshake
 RANDOM: A random Word:Keyboard, Skibidi, Kawaii
@@ -32212,6 +32212,101 @@ VIEWER: Thank you for seeing the obvious answer. Now, can we all just go home?
 DEBATER #1: Aren't we allowed a closing remark first?
 MODERATOR: Nope! Debate adjourned!
 Crowd woo
+
+======
+
+INFORMATION ===============================
+ID: 1016
+TITLE: Creature of the Content
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 03/08/24
+CHARACTERS ================================
+ONE: Knowledgeable person:Couch
+TWO: Curious person:Center Stage
+THING: Analog Creature:Backstage
+SUGGESTIONS =============================
+VIDEO: A type of online video:Naked yoga, Vtuber, Video essay, Try not to fart
+TIME: An amount of time:100 minutes, 10 minutes, 2 hours, 1 year
+BODY: Body part:Ass, breast, tongue, feet
+STATE: Ajdective for a person's body:Creamy, Crusty, Lumpy, Rock-Hard, Red-Raw
+FOOD: Something you can digest:Mayo, biscuit, waffle, salad
+FAMILY: A family member:step-bro, sister, mother, dead grandma
+CONT: A container:bottle, sack, bucket, decapitated head with the brain scooped out
+EMO: An emotion:Love, anger, poopy, scared
+MEME: A meme video:16 inches of Venom, mist or beast, GTA 6 leaked gameplay, Mini Lad
+ACTION: An action you can do to someone:kill, chainsaw, lick
+JOB: A job title:hand-holder, melon inspector, detective
+PART: An area of the body:groin, lips, mouth
+SCRIPT ==========================================
+groose music
+ONE: (watching tv) Man, I love VIDEO!
+ONE: (point to tv) I can’t believe they uploaded a TIME long compilation!
+TWO: (sit next to them) Yeah! Their videos are so well edited!
+TWO: (point to tv and laugh) Haha! Look at their BODY! Can your BODY do that?
+ONE: (hang head) No…
+laughter
+TWO: (shocked) Whoa! The channel changed! Did you do that?!
+ONE: I-I didn’t touch anything! Not even my BODY!
+ONE: (approach the tv) T-The STATE One? Ew!
+halloween music
+TWO: What even is that thing?! It definitely looks STATE..
+ONE: What’s it saying? I can’t hear it but it’s moving it’s mouth.
+TWO: (hide behind couch) Turn it off, it’s scary!
+ONE: It’s pointing to the kitchen…
+TWO: (look over to kitchen) Does it want some FOOD?
+ONE: (Look to kitchen) It’s not getting my FOOD.
+door creak
+teleport THING to front door
+THING: (enter through the front door) No FOOD. Need STATE.
+ONE: Ahh!!! (Hide behind friend)
+TWO: W-We’re not scared of you, monster!
+THING: (approach them slowly) STATE, STATE…. Need STATE..
+ONE: We don’t have STATE!!
+TWO: How would you even store that?!
+happy music 1
+ONE: Well actually, my FAMILY had that exact issue. (Sit on the middle of the couch)
+ONE: They had a surplus of STATE and no way to safely hide it from my dad.
+TWO: Oh? (Sit next to them)
+laughter
+ONE: Come sit with us The STATE One. (Pat empty couch spot)
+ONE: This info could prove useful to you too!
+THING: (sit next to them on couch) Need… STATE.
+laughter
+ONE: Yes, yes. I’m getting to it.
+ONE: (finger on chin) I think they used a CONT to hold all the STATE.
+TWO: What?! How is that even possible?
+THING: (nod head) Augh!!
+ONE: Oh, my FAMILY is a JOB.
+laughter
+TWO: That makes sense, right The STATE One?
+THING: (nod many times) STATE!!
+TWO: Do we have any CONT in here? (Go to the kitchen)
+ONE: (point) I think so. Check the sink.
+TWO: (pick up CONT from sink) Here we are! (hold CONT in front of friend)
+TWO: Put all your STATE in here for them!
+ONE: All my STATE?!
+THING: (flail) Augh!! STATE!!
+TWO: Hurry! It’s getting EMO!
+vine boom
+ONE: Fine!! (channel your STATE in the CONT)
+TWO: Here you go The STATE One! (give the CONT to them)
+THING: (take the CONT) Yaaaey..!
+THING: (devour STATE from CONT) STATE! (Leave scene)
+ONE: Phew.. I’m exhausted! (Sit)
+TWO: Well, you did just give up all of your precious STATE..
+ONE: (look at tv) Aw! The VIDEO is over!!
+TWO: Oh no! It’s been TIME already?
+aww
+ONE: Want to watch MEME?
+TWO: Go ACTION yourself.
+waterphone
+accordion sting
+TYPEWRITER: The STATE One is never satisfied. They're coming for you next. Protect your PART!
+doorbell
+chainsaw
 
 ======
 
