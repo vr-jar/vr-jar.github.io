@@ -558,7 +558,6 @@ Haru Tsukino
 Raevlyn
 AlyMakes
 DarkHorse05
-VR-Jerry-Smith
 ShmexyDianosawr
 LemurInThailand
 ColtWylde
@@ -1883,6 +1882,7 @@ fearslurked
 ~ ̷S ̷C ̷A ̷R ~
 Icy Winter
 KnightOdin
+VR-Alastor
 modNick
 ruralists
 #TIER=1
