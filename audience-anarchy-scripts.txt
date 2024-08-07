@@ -30924,6 +30924,75 @@ CLARK: I need a new job and a therapist.
 ======
 
 INFORMATION ===============================
+ID: 971
+TITLE: One Star Review
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 14/07/24
+CHARACTERS ================================
+CHRIS: Store Employee:Behind Register
+JAMIE: Strange Customer:Center Stage
+SUGGESTIONS =============================
+STADJECTIVE: An adjective.:fun, crazy, stupid
+STNOUN: A noun.:wagon, cow, banana
+STNUMBER: A number.:239, 8435, 23
+RELATIVE: A type of relative.:mother, cousin, uncle
+OBJECT: An object.:needle, fork, grape
+PLACE: A location:haystack, field, castle
+DIADJECTIVE: An adjective:wonderful, pleasant, kind
+BODYPART: A body part:heart, leg, torso
+GIFT: Something special you buy someone:chocolate, gift card, ring
+MONEY: A dollar amount:33, 3924, 9875
+CELEBRITY: Name of celebrity:Bill Gates, Bill Clinton, Bill Cosby
+VERB: A verb:dance, smoke, cry
+SCRIPT ==========================================
+70s music
+CHRIS: Welcome to STADJECTIVE STNOUN! How can I assist you today?
+JAMIE: Strange name for a store. You probably made that name up.
+CHRIS: We have STNUMBER locations across the country, so our name brand is pretty recognizable.
+JAMIE: Concerning. Anyway, I’m just looking for something special for my friend’s birthday.
+CHRIS: Absolutely! We’ve got some amazing new arrivals that even your RELATIVE would love!
+JAMIE: My RELATIVE has been dead for years.
+CHRIS: We certainly have deals to die for. Check this out! (points to object on counter)
+JAMIE: Wow, this is fantastic! Except for the jokes, this place here isn't so bad.
+CHRIS: I know, right? This thing has been flying off the shelves. It's like finding an OBJECT at a PLACE!
+JAMIE: I've had a hard time finding this thing. My RELATIVE would definitely love this.
+CHRIS: But you just said they were dead.
+JAMIE: Doesn't matter. What a great deal! By the way, I love how helpful everyone is here. You guys are always so DIADJECTIVE.
+CHRIS: Aww, thanks! We really appreciate that. Customer service is our BODYPART and soul.
+JAMIE: I don't think that's how the saying goes, but BODYPARTs are good, yes.
+JAMIE: Excuse me for a second, I just remembered I need to check something on my phone. (pulls out phone and looks)
+CHRIS: Looks like you're posting a review of our store? Hey, thanks man!
+JAMIE: Oh, uh, yeah, about that.
+Record scratch
+CHRIS: (pulls out phone and looks at screen) One star? You wrote this? But you just said we were ADJECTIVE!
+JAMIE: I know, I know. I just feel good trashing businesses online because I get an endorphin rush from tearing others down.
+CHRIS: But you just said, and I quote, "You guys are always so DIADJECTIVE."
+CHRIS: And according to the review you just posted, you say I overcharged you on an OBJECT you just purchased from us?
+JAMIE: Yeah, well, it seemed pretty expensive.
+CHRIS: I didn't even ring you up yet. And you're not buying an OBJECT. You're buying a GIFT.
+JAMIE: What difference does it make? It could be anything. I can put anything up there if I want to.
+CHRIS: Wait. What did you just say?
+JAMIE: Does it bear repeating? I'm just saying definitely looks expensive.
+CHRIS: What do you mean it looks expensive? It's just a GIFT. It's only MONEY dollars.
+JAMIE: Yeah, I know, but I thought you were coming onto me, and I didn't like that.
+CHRIS: I didn't come onto you. That's ridiculous. That's like saying CELEBRITY can't VERB!
+JAMIE: Not a picture I wanted in my head, but that's a valid point.
+JAMIE: Look, I’m really sorry. Can we just forget about it? I mean, I’m here now, and everything’s DIADJECTIVE, right?
+CHRIS: Forget about it? That review is like a OBJECT in the BODYPART! It sticks with you!
+JAMIE: Enough with the analogies. It's like poison coming out of your mouth.
+JAMIE: Tell you what, I’ll write a new review. Five stars. I'll even mention how you personally helped me find the perfect gift.
+CHRIS: You promise?
+JAMIE: Cross my BODYPART and hope to VERB.
+CHRIS: Alright, I’ll hold you to it. But if I see another one-star review, I’m calling CELEBRITY to deal with you personally!
+JAMIE: Deal! I'm going to write my five-star review right now and tell everyone I was coerced into it.
+CHRIS: I appreciate the honesty! Now go!
+
+======
+
+INFORMATION ===============================
 ID: 978
 TITLE: Lawn Mowing
 AUTHOR: Ahmadsyar
@@ -32202,6 +32271,226 @@ accordion sting
 TYPEWRITER: The STATE One is never satisfied. They're coming for you next. Protect your PART!
 doorbell
 chainsaw
+
+======
+
+INFORMATION ===============================
+ID: 1017
+TITLE: Last Regrets
+AUTHOR: ~°Mısanʇhrope°~
+VERIFIED: True
+TAGS: Skit
+SET: Western
+DATE: 04/08/24
+CHARACTERS ================================
+BILL: Outlaw 1:Stage Right
+JAMES: Outlaw 2:Center Stage
+WYATT: Outlaw 3:Entrance Stage Right
+SUGGESTIONS =============================
+LOCATION: A place on earth:Tombstone, Texas, Nevada, Arizona
+NICKNAME: A nickname an outlaw may have:Wild gun, longstache, deadeye, big iron
+VICTIM: A name:Jeff, Steve, Bob, Michael, Dutch, John
+FAMILY: A member of a family:Father, Cousin, Brother, Son
+REGRET: Something you might regret not doing:Go skydiving, go to the city, go horse racing, go on vacation
+DEBT: Something you might owe someone:Money, land, horse, a drink
+SCRIPT ==========================================
+TYPEWRITER: 16th July, 1877, LOCATION
+Bluegrass music
+JAMES: So then I said, You've yee'd your last haw partner.
+BILL: Then what?
+JAMES: gun exploded, and it sent debris flying all over the room.
+BILL: Wow wee, you sure do have some luck your side, NICKNAME
+western showdown music
+JAMES: What the- how did you know?
+BILL: It was easy, the cool one liners before the final blow, the single bullet sat in your chamber
+BILL: All traits of the one and only James NICKNAME Williamson.
+JAMES: You just made a big mistake Bill!
+Music stops
+telenovela sting 1
+JAMES: (pulls out gun and points it at Bill) Say goodbye Bill!
+Meanwhile BILL: (pulls out gun and points it at James) You don't have the guts you old snake!
+BILL: You see James, that person you shot, was actually my FAMILY VICTIM.
+telenovela sting 2
+JAMES: They deserved it
+BILL: And you deserve this bullet
+western showdown music
+JAMES: You wouldn't
+BILL: Oh I would
+BILL: Now, any last regrets?
+JAMES: Nope.
+BILL: All right then
+JAMES: Wait!
+Music stops
+record scratch
+JAMES: I never watched Star Wars!
+BILL: What! James, you utter buffoon!
+silly music 1
+BILL: That movie comes out in 100 years! How have you not seen it yet?
+JAMES: I just never got around to it you know (puts gun down)
+BILL: Yeah thats fair (puts gun down)
+western showdown music
+BILL: But im still gonna shoot you! (Points gun at James)
+JAMES: (puts hands up in the air) Wait a second!
+Music stops
+record scratch
+BILL: (lowers gun) for?
+JAMES: I never got the chance to REGRET
+silly music 2
+BILL: Okay buddy you have got to be pulling my leg here.
+BILL: You mean to tell me, you haven't watched Star wars, and you haven't had the chance to REGRET
+JAMES: Yep
+BILL: Man you are missing out dude, we should totally go sometime it will be so fun!
+JAMES: Oh dude that sounds so fun, when do you wanna do it?
+Music stops
+telenovela sting 1
+western showdown music
+BILL: Is what I would say, if I wasn't gonna shoot you, of course which I am (points gun at James)
+JAMES: (points gun at Bill) Not if I shoot you first!
+BILL: Time to die!
+JAMES: Yee haw!
+BILL: You have yee'd your last haw partner!
+JAMES: Wait! I have never-
+Music stops
+gunshot
+JAMES: You shot me! (dies)
+BILL: What? No I didn't!
+footsteps on wood
+WYATT: (enters the right stage door)
+WYATT: (pointing gun at Bill) Because I did.
+telenovela music 1
+BILL: (points gun at Wyatt) Who are you?
+WYATT: I am the man who killed NICKNAME
+BILL: But why?
+Music stops
+WYATT: Because I felt like it (lowers gun)
+BILL: (lowers gun) Yeah, yeah, I can't argue with that one feller
+WYATT: He just seemed annoying you know?
+BILL: Oh yeah totally man, a real bummer
+WYATT: Totally
+BILL: Yup
+telenovela sting 1
+western showdown music
+BILL: (points gun at Wyatt) But now I can't avenge my family member, my FAMILY who is called VICTIM
+WYATT: (points gun at Bill) He had it coming! Besides, your precious VICTIM owed me DEBT
+BILL: VICTIM would never!
+WYATT: Well he did, but now I guess its turned onto you, so hand it over. Buster.
+BILL: In your dreams pal!
+WYATT: Any last regrets?
+BILL: I never finished Evangelion!
+Happy music 1
+WYATT: Its one of the most inspirational shows of all time!
+BILL: I know I just never got around to finishing it
+WYATT: There is only 26 episodes!
+BILL: I have a short attention span!
+western hero theme
+WYATT: Enough of this!
+BILL: Prepare to die!
+WYATT: You first
+gunshot
+BILL: Oh my- this cannot be! Your coming down with me! (dies)
+gunshot
+WYATT: You little wretch! (dies)
+
+======
+
+INFORMATION ===============================
+ID: 1022
+TITLE: Revengers Assemble
+AUTHOR: Kymerah
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 06/08/24
+CHARACTERS ================================
+HAM: Hammy Hero:Center Stage
+NEW: New Hero:Entrance Stage Right
+VIL: Powerful Villain:Backstage
+SUGGESTIONS =============================
+PLACE: A country that isn’t America:China, India, Uganda, France
+COMMAND: A command you might order to troops:Assemble!, come here!, muster!, attention!
+ACTION: An action you can do to another person:Touch, poke, kiss, hug
+LIQUID: Any liquid:White sauce, blood, urine, bath-water
+PART: A part of the body you want to protect:Rump, left boob, wenis, groin, hole
+THING: An element or concept:Love, plasma, death, hedgehog
+SHOW: A tv show:Breaking Bad, Eastenders, The Boys, Kiss your dog on the lips
+FAMILY: An odd family member:Step-bro, daddy, mama, papa
+FINAL: Words of wisdom to impart before death:kiss your dad for me, I farted, I am Ironman, you are not loved
+NUMB: A two digit number:28, 11, 99, 74
+ACTOR: A famous person:Ryan Reynolds, Chris Evans, Pedro Pascal, The Rock
+GREET: A nice greeting:Hewwo, hi cuties, hiya darlings, you're looking plump today
+SCRIPT ==========================================
+epic cinematic music
+HAM: At long last.. after NUMB movies, the final battle is here!
+bird screech
+HAM: It’s time for me, Captain PLACE to rally the troops!
+HAM: (call out) Revengers! (Finger up) COMMAND!
+record scratch
+music stops
+NEW: (enter) Whoopie! I’m here Captain PLACE!
+NEW: And I’m ready to ACTION our enemy to smithereens!
+laughter
+HAM: Whoa, a little eager there.. Are you all that is left?
+NEW: Yup. (Nod)
+HAM: (Point) I don’t recall seeing you in the Revengers group chat..
+NEW: Oh, I’m a new hero in the KCU!
+NEW: They call me LIQUID Drinker! (Hold out hand for handshake)
+HAM: I see… Well, nice to have you aboard LIQUID Drinker! (Handshake)
+epic cinematic music
+HAM: Your help couldn’t of come at a more perfect time!
+HAM: Our long-time nemesis PART Squasher should be here soon!
+NEW: Oh no! I hope my PART isn’t squashed!
+NEW: (hang head) I don’t think my power will be of any help against that..
+HAM: (Puts hands on hips) What abilities do you have LIQUID Drinker?
+NEW: (point to own hand) I can shoot a highly concentrated beam of THING from my hand!
+NEW: Though I need to drink a lot of LIQUID to fuel it..
+HAM: Wow, that might actually work!
+HAM: How full are you currently?
+NEW: I’m quite low to be honest…
+explosion
+VIL: (bust through door) Aha!! GREET!
+VIL: It’s over, Captain PLACE! (Point) Your mouth-watering PART is mine for the squashing! (Evil laugh)
+vine boom
+HAM: Jokes on you PART Squasher! My PART is powered by the people of PLACE!
+HAM: (point to garbage) LIQUID Drinker, find some LIQUID in that garbage to consume!
+HAM: I will take on PART Squasher!
+NEW: (rummage garbage) Oh god!!
+fistfight
+VIL: (swipe at Captain and miss) Waaah!!
+HAM: (dodge) Ha! You are getting sluggish, PART Squasher! (Uppercut)
+NEW: (drink some LIQUID) Nearly full!!
+VIL: (get hit) Oof!! (grab Captains PART) Aha!!
+HAM: (your PART is grabbed) Ugh! My PART!
+VIL: (squash their PART) Yaaah!!!
+explosion
+lacrimosa music
+HAM: My...... PART!!!! (Fall, dying)
+NEW: Captain PLACE! (Kneel) I drank all the LIQUID…
+NEW: (look at their lack of PART) But your PART…
+HAM: (cough) That's it, I’m done for…
+HAM: (hand out) You… Are the last Revenger… FINAL (die)
+teleport HAM to backstage
+NEW: (fist in air) Noooo!
+VIL: People who live in PLACE must be pathetic..
+VIL: Their PART was the smallest I’ve ever squashed! (Evil laugh)
+vine boom
+epic cinematic music
+NEW: (stand) Don’t you dare talk about PLACE like that!
+NEW: I've never been there, but I'm sure they are a lovely people with cute dogs!
+NEW: (charge beam attack) THING…. Beam…..
+NEW: (unleash beam) Gooooo!!!!
+super epic charge up
+VIL: (get hit with the beam) I-it can’t be!! Such a high concentration of THING!!!
+NEW: (continue shooting beam) Bow before the everlasting hellfire of creation! Be utterly annihilated down to the very last scrap of DNA!
+VIL: (girly cry) Baaaaaaaaah….!!! My FAMILY..... Help…!!! (die)
+raygun shot
+teleport VIL to backstage
+happy music 1
+NEW: (bend over, exhausted) Ugh… The KCU is saved..
+NEW: (finger up) I guess I have to rebuild the Revengers now.
+NEW: And start production of some average shows like SHOW on our streaming service! (Walk off)
+superhero music
+TYPEWRITER: Watch the newest episode of SHOW! Now staring LIQUID Drinker, played by ACTOR!
+applause
 
 ======
 
