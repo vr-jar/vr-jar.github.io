@@ -1877,6 +1877,7 @@ Sleepyy_Cupid 9092
 MudHud
 Intensitygamer2
 Juliablue1970
+孤独な人
 modNick
 ruralists
 #TIER=1
