@@ -1876,6 +1876,7 @@ MudHud
 Intensitygamer2
 Juliablue1970
 MystryJellyBean
+Comrade Ducky
 modNick
 ruralists
 #TIER=1
