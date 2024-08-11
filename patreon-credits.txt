@@ -1866,6 +1866,7 @@ vrtualhers
 LBG_JaxyBanana
 Silverjdog1
 ProjektUnity
+~FireFang~
 modNick
 ruralists
 #TIER=1
@@ -2562,6 +2563,7 @@ Zephyrus2
 SleepyAshZzz
 Fw_Zen
 boogiemanmax
+Ҝinji Hakari
 #TIER=3
 SidMarcus
 PinballReviewer
