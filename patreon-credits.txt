@@ -1867,6 +1867,7 @@ VizDaBat
 CloakerGnome
 CuddleBear˸3
 琴平町_
+Moomster
 modNick
 ruralists
 #TIER=1
