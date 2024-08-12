@@ -2510,7 +2510,6 @@ BlurryFaceSys
 ChaoticQ
 Zyx1975
 kuromoriii
-Nicolas Road
 AnimeGirrl_007
 DoctorZoidberg
 IndigoVoidigo
@@ -2561,6 +2560,7 @@ Fw_Zen
 boogiemanmax
 Ҝinji Hakari
 orangeturtle8
+Nicolas Road
 #TIER=3
 SidMarcus
 PinballReviewer
