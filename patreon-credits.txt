@@ -312,7 +312,6 @@ NanoBunTV
 Squirrel
 ༒Flower༒
 kizzika
-DaniTheBitch
 A_Premu_Fox
 Projekt Kisu
 Corei7y-in-House
@@ -1864,6 +1863,7 @@ GenericRpGuy
 knoxnox
 Blueberry_Fux
 AWildShuri
+VizDaBat
 modNick
 ruralists
 #TIER=1
