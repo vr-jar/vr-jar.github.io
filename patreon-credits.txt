@@ -1868,6 +1868,7 @@ VizDaBat
 CloakerGnome
 CuddleBear˸3
 孤独な人
+琴平町_
 modNick
 ruralists
 #TIER=1
