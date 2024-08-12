@@ -1864,6 +1864,7 @@ knoxnox
 Blueberry_Fux
 AWildShuri
 VizDaBat
+CloakerGnome
 modNick
 ruralists
 #TIER=1
