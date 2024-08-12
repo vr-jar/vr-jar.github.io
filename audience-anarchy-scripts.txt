@@ -32494,3 +32494,264 @@ applause
 
 ======
 
+INFORMATION ===============================
+ID: 1029
+TITLE: Hunted
+AUTHOR: SuperNova77
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 08/08/24
+CHARACTERS ================================
+BOY: Arthur, the cowboy:Chair 1
+FAN: Wolfe, The Waiter:Entrance Stage Left
+HUNT: Nova, The Bounty Hunter.:Entrance Stage Right
+SUGGESTIONS =============================
+LIQUID: A drink:Slurp Juice, Wine, Nuke Cola
+JOB: An occupation :Freelancers, Breakdancers, CEO's
+TITLE: A title for someone :Fast, Sharp, Lazy, Too Cool
+NUM: A number:seven, seventeen, seventy, seven thousand
+QUIP: A cowboy catchphrase:No talk All action, by any means necessary
+BAD: Adjective:Despicable, Malicious, Terrible
+CASH: A price:one buck, a zillion, 5 million, ten thousand 
+SIN: A crime:drugs, robbing banks, stealing candy
+SCRIPT ==========================================
+Western piano music 1
+BOY: Oh boy I sure am exhausted.
+BOY: Hunting down all those JOB has left me pooped.
+BOY: I hope this pub has got a good drink down here.
+FAN: (Enter Stage Left) Hello! Welcome! What could I serve you today?
+FAN: Wait, Are you who I think it is??
+BOY: Heh, Who's askin?
+FAN: Oh my god, It is you! Arthur the TITLE Cowboy!
+FAN: My name is Wolfe, Im your biggest fan!
+BOY: Is that so, Wolfe?
+FAN: Yes! I have all your merch, I have NUM posters of you in my room!
+FAN: I read all those stories on how you evaded Nova, the BAD bounty hunter.
+FAN: I even know your famous catchphrase!
+FAN: (Strike a pose) QUIP!
+BOY: Listen here, Im grateful for the attention and all but im here to get something to drink.
+FAN: O-Oh yeah, Of course! What would you like?
+BOY: Do you boys got any of them LIQUID in the back?
+FAN: LIQUID? O-Oh no we don't...
+BOY: Well ain't that a damn shame...
+FAN: But you're a special exception! I can totally whip up a LIQUID for you!
+FAN: Be right back! (Exit Stage Left)
+BOY: Heh, kids these days.
+HUNT: (Enter Stage Right) Well aint it Arthur the TITLE cowboy
+Western showdown music
+BOY: (Shocked) What? Nova?
+HUNT: That's Nova the BAD bounty hunter to you.
+HUNT: But that doesn't matter, I've finally caught you where you have nowhere else to go.
+HUNT: You know they offering CASH for your head right?
+BOY: Now listen here...
+HUNT: There's nothing else for you to do, your life of doing SIN and killing JOB has come to an end!
+HUNT: Say your goodbyes!
+FAN: (Enter Stage Left) I got your LIQUID!
+FAN: (Shocked) What's going on here?
+HUNT: Get out of here kid! This doesn't involve you!
+FAN: Wait is that Nova the BAD bounty hunter?
+FAN: Arthur! Is he here to take you out?
+BOY: Uh..
+HUNT: Enough stalling! Goodbye, Arthur!
+FAN: (Jump in front of Arthur) Don't shoot Arthur!
+HUNT: (Shoot Wolfe) DIE!
+gunshot
+Meanwhile FAN: (Fall to the ground)
+BOY: WOLFE! (Kneel to Wolfe)
+sad chug jug music
+HUNT: Huh..
+FAN: (Dying) Don't worry about me...Im glad I could die doing the one thing I loved most...supporting you..
+FAN: You're a good man Arthur..a good man..as they say...QUIP (Die)
+BOY: Nooo!!
+HUNT: Oh no! This wasn't meant to happen!
+music stops
+BOY: See what this senseless violence has caused, Nova?
+BOY: An innocent kid has died here today because of all this pointless fighting! Does that PRICE really matter to you?
+HUNT: Yes, I can see you are right...
+BOY: We must team up and defeat the people who caused us to do this!
+HUNT: Yeah..You are right! Let's do this!
+FAN: (Gasp) WAIT!
+BOY: Huh, you're alive?
+FAN: And also...Let me read to you my Arthur X Nova fanfiction I wrote..
+vine boom
+BOY: What?
+FAN: Chapter 1...Alone..on the horses..
+BOY: (Look at Nova) Just do it.
+HUNT: Way ahead of you. (Shoot Wolfe)
+gunshot
+FAN: Blarg (Dies)
+
+======
+
+INFORMATION ===============================
+ID: 1030
+TITLE: The Missing Cake
+AUTHOR: SuperNova77
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 08/08/24
+CHARACTERS ================================
+WOLF: Wolfe the birthday boy:Front Door
+FOOL: Fools, a friend.:Stage Right
+CART: Carter, a friend.:Kitchen
+STAR: Nova, a friend.:Center Stage
+ADO: Rae, a friend.:Couch
+SUGGESTIONS =============================
+FLAVOR: A flavor:orange, cherry, toothpaste
+EW: A disgusting food:egg salad, poop, brussel sprouts
+SPOOK: Something to say when you're scared:GADZOOKS, EGAD, HOLY MOLY
+AGE: An age:seven, eight hundred, sixty-seven
+SHAPE: A shape:octagon, oval, sphere, square
+WASH: A cleaning tool:mop, broom, vacuum
+SAD: A type of meat:salami, beef, steak
+SCRIPT ==========================================
+Jazz music 1
+FOOL: Okay is everyone ready?
+FOOL: is the cake ready, Nova?
+STAR: Yep! I've baked a YUM flavored cake for this!
+FOOL: Great! How about you Rae?
+ADO: I set up all the decorations!
+FOOL: Good, Good, how about you Carter?
+CART: I've cleaned the place up!
+FOOL: Nice! So as all of you probably know. This is our dear friend Wolfe's AGE birthday!
+FOOL: He doesn't know that we are having a surprise party for him, so when he walks in here we will surprise him!
+FOOL: As you know last year we gave him EW and he hated it..So we are giving him his favorite, a cake!
+CART: I love cakes!
+FOOL: I hear him coming right now!
+STAR: Oh I can't wait for this!
+ADO: Get ready!
+WOLF: (Enter Stage Right) Oh man today was so boring..
+crowd woo
+FOOL: Happy Birthday!
+Meanwhile STAR: Happy Birthday Wolfe!
+ADO: Happy Birthday Bro!
+Meanwhile CART: Happy Birthday Man!
+WOLF: SPOOK!
+WOLF: Oh my god, All of you are here! What is this for?
+ADO: It's your surprise birthday party!
+WOLF: For me? You shouldn't have!
+CART: And miss your AGE birthday? No way!
+FOOL: And best of all we got you something great.
+STAR: I baked you a FLAVOR cake!
+WOLF: FLAVOR? That's my favorite!
+STAR: Yup! And it's ready for us to eat right here! (point at the kitchen)
+CART: Huh?
+ADO: Where is the cake?
+STAR: Huh?? I placed it there just a minute ago!
+WOLF: So my FLAVOR cake is missing??
+FOOL: Well boys, it seems we have a CAKE THIEF in here.
+noir music 4
+FOOL: One of you people standing here stole our friend Wolfe's FLAVOR cake
+WOLF: How could they?
+FOOL: Who?, When?, Why? All will be revealed soon..
+FOOL: Whoever has done this deserves to have a EW shoved in their face!
+FOOL: (Point at Rae) RAE! Why aren't you the cake thief?
+ADO: I was decorating the living room! I never got anywhere near the cake!
+ADO: The cake was in the kitchen right? You can see the kitchen doesn't have any decorations!
+WOLF: That is true...
+WOLF: (Point at Nova) NOVA! Why aren't you the cake thief?
+STAR: It can't be me! I baked the cake, right? I can make FLAVOR cakes for myself anytime!
+STAR: What about Carter? He was cleaning the kitchen!
+CART: Yeah because that's what you guys told me to do! I was tidying up the place with WASH!
+ADO: But weren't you hiding in the kitchen when we were gonna surprise Wolfe?
+CART: but where else could I hide??
+WOLF: The lights were dim and no one else could see you do the act!
+FOOL: CARTER! You are the cake thief aren't you?
+CART: Well Um..
+WOLF: This was for my birthday, Carter! Admit it!
+music stops
+CART: FINE! It was me! I ate the whole cake when we were about to surprise Wolfe!
+STAR: What? The one I baked for Wolfe!!
+WOLF: SPOOK! Why would you do this to me?
+CART: Because I was jealous okay! I never got all this for my birthday!
+CART: FLAVOR is also my favorite flavor! But my parents also just got me a slice of SAD for my birthdays!
+CART: In fact, I was even lucky if they showed up at all!
+ADO: Carter, you fatty! This day isn't about you! This is why people call you a SHAPE!
+STAR: I baked this cake for Wolfe because today is his day, fatty! If you wanted a cake you could of just asked!
+CART: Okay okay I'm sorry!
+FOOL: Now look what happened, fatty, What is Wolfe gonna eat for his birthday now?
+WOLF: I have an idea, since carter ate the FLAVOR cake
+WOLF: Why not we just eat Carter?
+vine boom
+FOOL: You're right! He will probably taste just like it!
+STAR: Genius Idea Wolfe!
+CART: Wait what?
+ADO: Come here Carter!
+CART: Guys??
+CART: Noooo!!!
+
+======
+
+INFORMATION ===============================
+ID: 1032
+TITLE: Bedroom Chat
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Living Room
+DATE: 09/08/24
+CHARACTERS ================================
+MARK: Son:Couch
+BOB: Dad:Stage Right
+LINDA: Mom:Center Stage
+SUGGESTIONS =============================
+NUMBER: A random number:938, 23, 3
+VERB: A verb:dance, jump, honk
+PADJECTIVE: An adjective:beautiful, lovely, wonderful
+PLACE: A location:town, cabin, city
+CELEBRITY: A celebrity:RuPaul, Angelina Jolie, Stephen Tyler
+SMOBJECT: A small object:toy car, pencil, hammer
+FSNAME: A foreign-sounding name:Gumbucha, Lilia, Barruka
+RNOUN: A random noun:fish, cherry, squirrel
+BODYPART: A body part:butt, cheek, back
+OCCUPATION: A job:priest, plumber, cattle rancher
+PORK: Verb you might do to your wife:date, romance, flirt, hug
+SCRIPT ==========================================
+French music
+MARK: You know, Mom, Dad, I really admire how you two have kept your marriage so strong all these years.
+MARK: I wish all the NUMBER relationships I had with my partners were as long-lasting as yours.
+BOB: Well, Mark, the key is communication and keeping the spark alive, right, Linda?
+LINDA: Absolutely, Bob. It’s all about staying connected, like when we VERB each other every Sunday morning.
+MARK: Uh, okay. That's nice.
+BOB: And don’t forget our secret to success. Always VERB before bed.
+MARK: Right, communication is important. Maybe we should, uh, change the subject?
+LINDA: Oh, and keeping things exciting! Remember our trip to that PADJECTIVE PLACE?
+MARK: Please, no need for details. I'm good.
+BOB: That’s where your mother did her best impression of CELEBRITY.
+LINDA: Naked too.
+MARK: (covering ears) La la la! I’m not listening!
+MARK: Look. Maybe I don’t need to know everything, you know?
+LINDA: And then there was that time with the SMOBJECT. Oh, the look on your father’s face!
+LINDA: He was petrified. Literally!
+MARK: (desperate) Seriously, we don’t need to talk about this.
+BOB: And remember, Linda, that night you roleplayed as Princess FSNAME?
+MARK: (horrified) Oh my God, stop! Some things can stay, you know, just between you two. Totally not my business.
+LINDA: And you were the brave knight with the RNOUN tattoo on his BODYPART.
+MARK: I can't. I literally can't.
+BOB: Mark, are you okay?
+MARK: No! Some things can stay, you know, just between you two. Totally not my business.
+LINDA: Sweetie, you look pale. Maybe you need to VERB a bit.
+MARK: I’m just going to sit here and rethink my entire existence.
+BOB: Do you think he’s okay, Linda?
+LINDA: Maybe we should tell him about our Tuesday night NOUN routine to cheer him up?
+MARK: I’m pretty sure there’s an ancient curse about children knowing too much about their parents’ bedroom life.
+MARK: I’m not trying to be hexed for eternity here! I’m going to need a OCCUPATION, some sage, and a week-long shower!
+BOB: You know what, Linda? I think Mark would appreciate it more if we just showed him how it went down!
+LINDA: Oh, great idea, Bob! Mark, honey, get ready for a little demonstration!
+MARK: The curse has begun. I’ll never un-hear this. My future children will be cursed with this knowledge.
+MARK: Generational trauma, here I come. Emotional damage!
+BOB: I’ll be right back. I just need to grab the SMOBJECT. You remember the one, Linda?
+LINDA: Oh, I remember! And I’ll get into character as Princess FSNAME!
+MARK: (frantically) This is a living nightmare! I’m too young to be scarred like this! Where are my car keys?
+BOB: Behold, fair Princess FSNAME! I, Sir PORKs-A-Lot of the BODYPART, have returned from battle to claim my reward!
+LINDA: Oh, Sir PORKs-A-Lot! You have fought bravely and now deserve your prize.
+LINDA: (whispers) This is the part where he VERBs me!
+MARK: I’m moving out. And I’m changing my name. And possibly my face. I’ll never be able to face society again.
+BOB: We love you, Mark!
+Meanwhile LINDA: We love you, Mark!
+MARK: Love you too from a distance. Like, a state away distance. Maybe even a continent.
+
+======
+
