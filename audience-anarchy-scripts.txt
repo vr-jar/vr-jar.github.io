@@ -11349,8 +11349,8 @@ Meanwhile YOUNGER BROTHER: (Walks in)
 MOTHER: (Looks at Younger brother) YOUNGER BROTHER: What are you doing up?
 YOUNGER BROTHER: I couldn't sleep.
 MOTHER: Why not?
-YOUNGER BROTHER: Because you never said I love you. aww
-YOUNGER BROTHER: Do you not love us anymore since Daddy's Died in a ACCIDENT?
+YOUNGER BROTHER: Because you never said I love you.
+YOUNGER BROTHER: Do you not love us anymore since Daddy died in the ACCIDENT?
 MOTHER: (walks to little brother and hugs him) OH, Oh my little LITTLE you and OLDER BROTHER are the best kids ever I would never stop loving you.
 YOUNGER BROTHER: Really?
 MOTHER: Of course
@@ -19379,9 +19379,9 @@ ALEX: I'm sorry, what?
 SAM: (Turn to audience) Okay, everyone! In order to summon the emotion fairy, I'm going to need all of your help! We have to say the magic words together!
 Meanwhile ALEX: What are you doing? Who the hell are you talking to?
 SAM: On the count of three, we all need to say MAGIC PHRASE!
-TYPEWRITER: MAGIC PHRASE!
 Meanwhile ALEX: Seriously, Sam. What are you doing-OH SWEET JESUS WHY IS THERE SUDDENLY BACKWARDS WRITING ON MY WALL!?
 SAM: One, Two, Three! MAGIC PHRASE!
+TYPEWRITER: MAGIC PHRASE!
 magic sound
 fantasy music 2
 Teleport EMOTION FAIRY to Center Stage
@@ -19405,9 +19405,9 @@ EMOTION FAIRY: Personal, but not too close.
 SAM: He gets it. BUT NOW I'M SO EMOTION!
 ALEX: ME TOO!
 EMOTION FAIRY: The contract is sealed. And now, I leave!
-Music Stops
 magic sound
 Teleport EMOTION FAIRY to Backstage
+Music Stops
 ALEX: Well, darn. Now what?
 
 ======
@@ -32480,7 +32480,7 @@ NEW: (charge beam attack) THING…. Beam…..
 NEW: (unleash beam) Gooooo!!!!
 super epic charge up
 VIL: (get hit with the beam) I-it can’t be!! Such a high concentration of THING!!!
-NEW: (continue shooting beam) Bow before the everlasting hellfire of creation! Be utterly annihilated down to the very last scrap of DNA!
+NEW: (continue shooting beam) Burn in the everlasting hellfire of creation! Be utterly annihilated down to the very last scrap of DNA!
 VIL: (girly cry) Baaaaaaaaah….!!! My FAMILY..... Help…!!! (die)
 raygun shot
 teleport VIL to backstage
@@ -32752,6 +32752,155 @@ MARK: I’m moving out. And I’m changing my name. And possibly my face. I’ll
 BOB: We love you, Mark!
 Meanwhile LINDA: We love you, Mark!
 MARK: Love you too from a distance. Like, a state away distance. Maybe even a continent.
+
+======
+
+INFORMATION ===============================
+ID: 1044
+TITLE: Rate a Quake
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: News
+DATE: 16/08/24
+CHARACTERS ================================
+CHAD: Chad Thunderstone:News Desk
+SANDY: Sandy Summers:Center Stage
+PHIL: Phil the Weatherman:Fake Street Backdrop
+SUGGESTIONS =============================
+RNOUN: A noun:donut, bicycle, chocolate
+SMOBJECT: A small object:cronut, wheel, candy
+AGENUMBER: A number:928, 23, 645
+MOVIE: Name a movie:Halloween, Addams Family, Beetlejuice
+CATNAME: Name of a cat:Fuzzybottoms, Purrsalot, Meowornever
+BODYPART: A body part:nose, leg, heart
+TOY: A kind of toy:rubber duck, action figure, tiny car
+DMOVE: A fictional dance move:Macarena, Tootsie, Rumble
+CLOTHING: An item of clothing:shoes, skirt, underwear
+LEVENT: A life event:marriage, divorce, birthday
+PLACE: A location:Eiffel Tower, orchanage, church
+SCRIPT ==========================================
+Corporate motivational music
+CHAD: Good evening, I’m Chad Thunderstone.
+SANDY: And I’m Sandy Summers!
+PHIL: And I’m Phil.
+CHAD: Phil is our weatherman, and he's not to introduce himself at the top of the segment.
+PHIL: I'm the sports guy. Definitely didn’t sign up for weather.
+SANDY: Your job prospects are certainly cloudy, Phil.
+CHAD: Tonight's top story: A new RNOUN shop in town is claiming to make the best SMOBJCT this side of town.
+Crashing debris
+CHAD: Well, that was a little unexpected, folks.
+SANDY: (excited) Whoa, that was thrilling! I’d give it a solid 7 out of 10!
+PHIL: Really, Sandy? A 7? I barely spilled my SMOBJECT. That was a 4 at best.
+CHAD: Alright, alright, let's be professionals here. We just experienced an earthquake, and the people need to know our ratings.
+SANDY: My AGENUMBER year old son told me we can go viral if we rate things that don't normally get rated.
+SANDY: So I’m gonna go with a 5.5. The shaking was decent, but I wasn’t, like, scared scared, you know?
+PHIL: Yeah, not like MOVIE scared, although some parts of that movie make me feel funny inside.
+SANDY: You know what? I might downgrade to a 6. It didn’t even knock over my picture of my cat, Mr. CATNAME.
+PHIL: Wait. Mr. CATNAME my cat.
+SANDY: Our feline child made a decision of who they wanted to live with.
+CHAD: My quake baseline is when I start regretting not making that will.
+CHAD: This didn’t even make me check if my BODYPART insurance was up to date.
+Crashing debris
+CHAD: Whoa! Aftershock!
+SANDY: (cheerful) Ooh, baby! 6.8! I felt a little more tingle with that one!
+CHAD: What kind of tingle? Tell me more.
+PHIL: Please, Sandy, that was barely a 3. Come on, it felt like someone dropped their TOY upstairs. Let’s be real here.
+CHAD: (serious) Now, let’s discuss. What would it take for a 10 out of 10 earthquake?
+SANDY: (excited) Okay, picture this: The quake happens, and you suddenly find yourself doing the DMOVE involuntarily.
+SANDY: And your CLOTHING pop off. That’s at least a 9.5, right?
+PHIL: Oh, that’s strong. It's like when the clothes of an Anime girl magically disappear after eating something tasty.
+CHAD: We're concerned about you, Phil.
+CHAD: But for me, a perfect 10 earthquake would have to include a spontaneous conga line.
+CHAD: No discussion. Just the force of the quake somehow making everyone conga.
+SANDY: Bonus points if the conga line leads to a bar! I don't like sobriety.
+PHIL: For me, it’s simple. If the quake can shake loose the emotional trauma of my last LEVENT, it’s a 10.
+PHIL: Or if the quake literally flips the studio upside down, but I’m still in my chair and on fire.
+PHIL: Yeah, fire would be a plus. Just burn the whole PLACE down.
+CHAD: Seriously, Phil? Did you skip medication day?
+Crashing debris
+CHAD: What the heck? Is this part of the quake?
+SANDY: (giggling) I think the earthquake just took us to Funky Town!
+PHIL: (resigned) It’s official. This is a 10.
+CHAD: Alright, everyone, we know what to do. Let’s get this conga line started!
+
+======
+
+INFORMATION ===============================
+ID: 1046
+TITLE: Retail Babysitter
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 17/08/24
+CHARACTERS ================================
+CLERK: Grocery Store Clerk:Behind Register
+CUSTOMER: Customer with Child:Stage Right
+BABY: Suspicious Baby:Center Stage
+SHOPPER: Customer #2:Backstage
+SUGGESTIONS =============================
+LIQUID: A kind of liquid:water, soda, beer
+SMACHINE: A small machine:register, espresso machine, computer
+FOOD: A kind of food:burger, meat, cheese
+VEGGIES: A kind of vegetable:lettuce, tomato, onion
+CREATURE: An animal:sasquatch, chicken, dog
+ACADEMIA: An academic class:Economics, Geometry, Physics
+RNOUN: A noun:duct tape, flower, chips
+BADJECTIVE: An adjective describing behavior:disturbing, concerning, hilarious
+RWORD: A random word:fart, shark, taxes
+SCRIPT ==========================================
+Double bass music
+CLERK: Ah, good afternoon! Lovely day, isn't it? We’ve got a special on "Diet LIQUID" today. Only slightly less watery than the regular kind!
+CLERK: More creamy. Made fresh.
+CUSTOMER: Oh, that sounded refreshing until you said "creamy" and "fresh" too closely together.
+CUSTOMER: You know, I think I’ll take a look around the store. You don't mind holding onto my little one for a minute, do you?
+CLERK: Sadly, I do mind, only because I need to run the store. I can't just keep my eyes on him.
+CUSTOMER: (walks toward shelf) He's fine. Bye-bye, sweetie!
+CLERK: I think you left your child over here?
+CUSTOMER: You’re the babysitter now. He’s yours. Good luck keeping an eye on him while you try to do your job!
+BABY: So, what’s the plan, chief? You gonna start changing diapers, or do you need me to show you how to run the SMACHINE?
+CLERK: Wait a second. You can talk? And just so you know, I know how to run a SMACHINE. But I sometimes get cramps.
+BABY: Yeah, shocking, right? And I’m potty trained too, just in case you were worried.
+CLERK: Pretty sure you were looking to be changed. Smells like old FOOD in here. Can't imagine why.
+BABY: So, what’s the deal with this place? You’ve got more types of VEGGIES than you have customers.
+CLERK: I shouldn't answer to an infant that's clearly possessed by an adult.
+SHOPPER: (enters stage right) Oh, what a precious little CREATURE! Is this your son?
+CLERK: What? No! No, he’s not mine. Some random customer just left him here!
+CLERK: By the way, not a CREATURE. Maybe a little hairy. Maybe CREATURE-adjacent.
+SHOPPER: How dare you! Abandoning your responsibilities! Honestly, the nerve of some people.
+SHOPPER: Just because he’s small doesn’t mean he’s not yours! Take some responsibility!
+CLERK: (frustrated) No, you don’t understand! He’s not mine!
+BABY: Denying responsibility? Typical left. They probably left me with you because I started talking about ACADEMIA too early.
+CLERK: How would you know anything about ACADEMIA? Actually, you know what? Never mind.
+SHOPPER: You should be impressed, sir! A baby's first words are usually "Mama," "Dada," or "RNOUN."
+SHOPPER: But your baby is special. Very special.
+CLERK: Special? I think the word you're looking for is BADJECTIVE.
+SHOPPER: Rude! I will never shop here again unless there's something I'll need later!
+CUSTOMER: (returns to checkout) Oh, look, he’s making friends already! Ready to take him back?
+CLERK: (desperate) Please take him back!
+CUSTOMER: Nah, I think he’s having fun. Besides, I’ve got more shopping to do. Keep the change. (exists stage right)
+CLERK: You're leaving this pint-size nightmare here? No, please. Where are you going?
+BABY: Sorry, mate, but I’ve got my own shopping to do.
+SHOPPER: You should be proud your son is independent. Bet you weren't like that at his age.
+CLERK: Back when I was his age, I could barely speak. I think the only word I knew was "RWORD."
+BABY: What depths of your depraved mind did you pull that word out of?
+CLERK: I need a vacation.
+BABY: Ring me up, big guy. And make it snappy, I’ve got a conference call in five.
+SHOPPER: You should really give him a raise.
+CLERK: I keep telling you. He's not my child.
+Emotional piano music
+BABY: (crying) Well you didn't have to wreck my feelings! I'm just a year old.
+CLERK: I don’t get paid enough for this.
+SHOPPER: (angry) How dare you!
+CLERK: Alright, alright. You win, kid. Tell you what. Let's go play a game.
+BABY: Finally. I was about to nap time, but I can call to reschedule.
+CLERK: See those big doors over there? Run as fast as you can, with your tiny feet, into the coolest car you see.
+BABY: Hold my beer! (exits stage right)
+CLERK: Next in line, please.
+Tire Screech
+Crashing Debris
+CLERK: Parenting.
 
 ======
 
