@@ -1881,6 +1881,7 @@ Pink®
 DigitalStar
 Ev0luti0n
 Zyhkk
+AMac1
 modNick
 ruralists
 #TIER=1
