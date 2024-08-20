@@ -32756,6 +32756,196 @@ MARK: Love you too from a distance. Like, a state away distance. Maybe even a co
 ======
 
 INFORMATION ===============================
+ID: 1036
+TITLE: Secret Polka King
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 13/08/24
+CHARACTERS ================================
+EMILY: Tom's Girlfriend:Stage Right
+TOM: Tom the Polka King:Center Stage
+PARTYGOER1: Partygoer #1:Stage Left
+PARTYGOER2: Partygoer #2:Kitchen
+DJBARRY: Party DJ:Narrator Podium
+HELGA: Helga, Tom's Rival:Front Door
+SUGGESTIONS =============================
+EMOTION: An adjective describing an emotion:shy, nervous, angry
+SNACK: A type of snack:chips, candy, cake
+BODYPART: A part of your body:toe, butt, nose
+DRINK: A type of drink:punch, beer, wine
+OBJECT: An object:hammer, stapler, toothpick
+SPORT: A fictional Olympic sport:ball vaulting, nose picking, hot dog making
+CELEBRITY: A celebrity:Liam Neeson, Harrison Ford, Tilda Swinton
+CVERB: A verb:crush, eat, destroy
+FNOUN: A funny noun:cat, trampoline, monster
+ADVERB: An adverb:angrily, happily, secretly
+SHY: Adjective for a person:shy, bodacious, obese, dominant, creepy, terminally ill
+SCRIPT ==========================================
+Guitar music 1
+DJBARRY: Welcome to the party! I'm your host, DJ Barry, and we're about to throw down some beats!
+DJBARRY: So hang back, grab a FNOUN, get loose, and let's boogie!
+EMILY: Are you sure you want to do this, Tom? I know you said you’re not big on parties.
+TOM: Yeah, you know me, Emily. I’m just so EMOTION. I don’t know anyone here.
+TOM: I'll probably just stand in the corner and eat SNACKs.
+EMILY: Well, that’s fine, I think. Just relax and enjoy yourself. I’ll ADVERB be right by your side.
+EMILY: Or at arm's length, depending on what you say next.
+TOM: Love you too, babe.
+PARTYGOER1: (enters from side door) Oh my gosh, it’s him! It's actually him! I can't believe this!
+TOM: Um, hi?
+PARTYGOER1: Can I get a selfie with you, please? My mom is obsessed with your “Triple BODYPART Tap Tango”!
+TOM: Wow. Thanks! Well, it's nothing really. I know a few folks who have better moves than that.
+PARTYGOER1: Oh, don't be so modest! You created the “EMOTION Shuffle.” It's literally your signature move!
+EMILY: Tom, what’s going on?
+TOM: I don’t know. Must be a case of mistaken identity. I’ll just, uh, go grab some DRINK.
+PARTYGOER2: Dude, you’re the guy who took down Helga "The Hammer" Schmidt in the World Polka Finals last year!
+PARTYGOER2: I’m surprised you're still walking after she threw that OBJECT at you.
+EMILY: (turning to Tom, bewildered) World Polka Finals? Tom, what is he talking about?
+TOM: It's just a hobby I do sometimes. It's nothing really.
+TOM: (to partygoer) Helga had a hard time with her big, stumpy legs. You know how that goes, right?
+PARTYGOER2: Oh, for sure! She has a future in OBJECT throwing. That could be an Olympic sport!
+TOM: If she doesn't qualify for SPORT, absolutely.
+Record scratch
+DJBARRY: (enters stage right) Ladies and gentlemen, can we give it up for the man, the myth, the legend.
+DJBARRY: Tom "The SHY Polka King" Johnson! You have been an inspiration for all of us.
+EMILY: Tom, you’re the SHY Polka King? You've been holding out on me!
+TOM: Everyone makes a big deal out of it. I haven't done it in a long time.
+EMILY: Well, that's ridiculous. You were literally in the World Polka Finals last year.
+EMILY: I can't believe I'm getting engaged to you. This is a big secret to keep from me.
+EMILY: This is going to change the paradigm of our relationship.
+Knocking on door
+HELGA: (dramatically enters) You. Me. Dance floor. Now.
+DJBARRY: Here comes a new challenger! Better grab a DRINK. Things are going to get wild!
+TOM: (whispering to Emily) Oh no, this is bad. Helga’s been after me ever since that OBJECT incident.
+EMILY: Looks like she's still pretty sore about it. You’re telling me the world’s best polka dancer is afraid of a rematch?
+TOM: No, I’m just afraid of Helga. She once polka’d CELEBRITY right into a hospital bed.
+EMILY: She did what to CELEBRITY?
+HELGA: Accept this challenge or I will CVERB you.
+EMILY: Tom is definitely into that.
+TOM: (to Emily) Babe, stop. (to Helga) Very well. We shall dance.
+Tense cinematic music
+HELGA: (dances) Your “Triple BODYPART Tap Tango” is no match for my Stomp Step!
+DJBARRY: This is the moment we didn't expect at all tonight, but somehow we've been waiting for it.
+DJBARRY: Better hold onto your FNOUNs. The fun is about to begin!
+PARTYGOER1: You can do it, Tom!
+PARTYGOER2: Go, Tom! If you don't survive, I call dibs on your girlfriend.
+TOM: (dances) You've left me no choice but to deploy the "EMOTION Shuffle."
+DJBARRY: Tom has ADVERB graced us with one of his signature moves. How will this play out?
+HELGA: Your moves are so elegant. So precise. Strange. I cannot compete.
+DJBARRY: It appears Helga's big, stumpy legs cannot move any longer. The winner is Tom!
+TOM: Thank you, everyone! I couldn't have done it without you.
+HELGA: (throws something at Tom) This is for you!
+DJBARRY: Who gave her that OBJECT?
+
+======
+
+INFORMATION ===============================
+ID: 1040
+TITLE: Rescue Mission
+AUTHOR: Ahmadsyar
+VERIFIED: True
+TAGS: Skit
+SET: Forest Bridge
+DATE: 14/08/24
+CHARACTERS ================================
+LOSTPERSON: A lost person:In river
+RESCUER1: Rescuer:Stage Right
+RESCUER2: Another rescuer:On bridge
+SUGGESTIONS =============================
+PLACE1: A place:Utah Desert, Cherokee Forest, Sonoma Mountains
+CLOTHE1: A type of shirt:T-shirt, hoodie, jeans jacket
+COLOR1: Any color:black, blue, grey
+HAT1: Something you put on your head:fedora, beret, traffic cone
+INJURY1: Visible injury:cut, bruise, blister
+CALLSIGN1: Callsign for radio:India Golf Niner, Bravo Seal, Sierra Tango Seven
+VEHICLE1: A mode of transport:car, Helicopter, Plane
+ANIMAL1: A suitable animal for a pet:dog, cat, wolf
+PETNAME1: A name for a pet:Scruffy, Tails, Cerberus
+SCRIPT ==========================================
+Mystery music 1
+RESCUER1: It’s been 2 hours. How does this lost person look like again?
+Meanwhile LOSTPERSON: (Sleeping in the river) zzzzzz ...
+RESCUER2: He’s wearing a CLOTHE1 and COLOR1 pants.
+Meanwhile LOSTPERSON: (Sleeping in the river) zzzzzz ...
+RESCUER1: He’s also wearing a HAT1 right?
+Meanwhile LOSTPERSON: (Sleeping in the river) zzzzzz ...
+RESCUER2: That is correct.
+Meanwhile LOSTPERSON: (Sleeping in the river) zzzzzz ...
+RESCUER1: Report says he was last seen at this place which is called PLACE1.
+Meanwhile LOSTPERSON: (Sleeping in the river) zzzzzz ...
+LOSTPERSON: (Snoring) ZZZzzzz.
+RESCUER1: Shhh! Hey, did you hear that?Mystery music 1
+RESCUER1: It’s been 2 hours. How does this lost person look like again?
+RESCUER2: He’s wearing a CLOTHE1 and COLOR1 pants.
+RESCUER1: He’s also wearing a HAT1 right?
+RESCUER2: That is correct.
+RESCUER1: Report says he was last seen at this place which is called PLACE1.
+Teleport LOSTPERSON to In River
+LOSTPERSON: (Snoring) ZZZzzzz.
+RESCUER1: Shhh! Hey, did you hear that?
+RESCUER2: Yeah, I hear it too.
+RESCUER1: There! Someone under the bridge!
+RESCUER2: Wait! There’s a ANIMAL1 besides him.
+RESCUER1: Don’t worry. I’ll take care of that.
+gunshot
+RESCUER2: Sir? Sir? Are you alright? Can you stand up?
+LOSTPERSON: (still asleep) Zzzzzz.
+RESCUER1: Let’s see. He’s wearing CLOTHE1, COLOR1 pants and HAT1. This is the missing guy!
+RESCUER2: Here let me check his vitals. No fever, no severe trauma but he has some signs of INJURY1.
+RESCUER1: We need to get him out of there first.
+RESCUER1: Alright everything is set. Call for pickup.
+RESCUER2: Calling HQ, this is CALLSIGN1 team, ready for pickup at PLACE1.
+Typewriter: After 2 hours in the VEHICLE1.
+LOSTPERSON: AAHHH! Where am I?
+RESCUER1: Sir, please relax. You are being rescued.
+RESCUER2: You are safe now. We are in a VEHICLE1 heading towards the nearest hospital to treat that INJURY1
+LOSTPERSON: Where’s my stuff? Who are you? What do you mean rescued?
+RESCUER2: Please, relax. You’re probably dehydrated and have lost your bearing. You’ll recover shortly.
+LOSTPERSON: Wait, what happened to my PETNAME1? My beloved ANIMAL1?
+RESCUER1: Oh, that’s your ANIMAL1? We took care of it.
+LOSTPERSON: NOOOO. WHAT HAVE YOU DONE!? Why did you kill my PETNAME1?
+RESCUER2: Hey, calm down! We just took them down with a tranquilizer. We didn’t kill them.
+LOSTPERSON: Phew. That’s a relief.
+RESCUER1: Alright, I’m sure you’ll be glad that we found you and are taking you home.
+LOSTPERSON: What? No. I’m not lost. I’m just homeless.
+Music Stops
+record scratch
+RESCUER1: Oh. Ok this is awkward.
+LOSTPERSON: Can you at least send me back after my INJURY1 is healed?
+RESCUER2: Yeah, I hear it too.
+RESCUER1: There! Someone under the bridge!
+RESCUER2: Wait! There’s a ANIMAL1 besides him.
+RESCUER1: Don’t worry. I’ll take care of that.
+gunshot
+RESCUER2: Sir? Sir? Are you alright? Can you stand up?
+LOSTPERSON: (still asleep) Zzzzzz.
+RESCUER1: Let’s see. He’s wearing CLOTHE1, COLOR1 pants and HAT1. This is the missing guy!
+RESCUER2: Here let me check his vitals. No fever, no severe trauma but he has some signs of INJURY1.
+RESCUER1: We need to get him out of there first.
+RESCUER1: Alright everything is set. Call for pickup.
+RESCUER2: Calling HQ, this is CALLSIGN1 team, ready for pickup at PLACE1.
+Typewriter: After 2 hours in the VEHICLE1.
+LOSTPERSON: AAHHH! Where am I?
+RESCUER1: Sir, please relax. You are being rescued.
+RESCUER2: You are safe now. We are in a VEHICLE1 heading towards the nearest hospital to treat that INJURY1
+LOSTPERSON: Where’s my stuff? Who are you? What do you mean rescued?
+RESCUER2: Please, relax. You’re probably dehydrated and have lost your bearing. You’ll recover shortly.
+LOSTPERSON: Wait, what happened to my PETNAME1? My beloved ANIMAL1?
+RESCUER1: Oh, that’s your ANIMAL1? We took care of it.
+LOSTPERSON: NOOOO. WHAT HAVE YOU DONE!? Why did you kill my PETNAME1?
+RESCUER2: Hey, calm down! We just took them down with a tranquilizer. We didn’t kill them.
+LOSTPERSON: Phew. That’s a relief.
+RESCUER1: Alright, I’m sure you’ll be glad that we found you and are taking you home.
+LOSTPERSON: What? No. I’m not lost. I’m just homeless.
+Music Stops
+record scratch
+RESCUER1: Oh. Ok this is awkward.
+LOSTPERSON: Can you at least send me back after my INJURY1 is healed?
+
+======
+
+INFORMATION ===============================
 ID: 1044
 TITLE: Rate a Quake
 AUTHOR: LeoHardy
@@ -32901,6 +33091,311 @@ CLERK: Next in line, please.
 Tire Screech
 Crashing Debris
 CLERK: Parenting.
+
+======
+
+INFORMATION ===============================
+ID: 1049
+TITLE: Cult of Pizza
+AUTHOR: Valhymm
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 18/08/24
+CHARACTERS ================================
+BOB: Chosen One, disguised as delivery boy:Backstage
+JAR: Jar, leader of the cult:Stage Left
+PAWN: Pawn, straight-talking cultist:Center Stage
+BIGGLES: Biggles, flamboyantly-dressed cultist:Stage Right
+ALEX: Alex, jobseeker who visits the wrong place:Entrance Stage Left
+SUGGESTIONS =============================
+JEDI: A fandom or part of a fandom:Jedi, Star Wars, Sith, furry, Star Trek, Doctor Who, Klingon, Harry Potter, Dungeons and Dragons
+GAG: A gag name:I C Wiener, Heywood Jablome, Amanda Huggenkiss, Mike Rotch, Seymour Butz, Hugh Janus, Yuri Nator
+GOBBLEDEGOOK: Literally anything:gobbledegook, my hovercraft is full of eels, supercalifragilisticexpialidocious, the biosphere is calling to you via meridians, the nexus is full of vibrations, we exist as morphogenetic fields, it is in refining that we are awakened
+OVERTIME: Something you wouldn't want to do at work:overtime, sweeping up, looking after pawns
+BRIEFCASE: Something you'd bring to a meeting:briefcase, box of doughnuts, hand grenade
+MAZE: Something you wouldn't want to get lost in:maze, theme park, TV Tropes article, morgue
+PEPPERONI: A pizza topping:pepperoni, sweaty sock, anchovy, bubblegum, stringy bogey, 
+TEST: A present-tense verb:test, press, high five, cringe, wind up, annoy, seduce, 
+KFC: An organisation, company or influencer group:KFC, the Sidemen, McDonald's, Meta, VRChat, Amazon, Wendy's, Google
+GARDENING: A wholesome activity:flower arranging, gardening, woodwork, gaming, baking, babysitting, nursing
+BANK: A present-tense verb:bank, print, chew, rustle, drive, battle, fish, farm,
+BRIBE: Something you'd bribe someone with:bribe, fifty pound note, bottle of whiskey, oddly-shaped toy
+SCRIPT ==========================================
+courtroom music
+JAR: Fellow cultists! I have gathered you here because I had a vision!
+PAWN: About the Chosen One?
+BIGGLES: The key to our salvation?
+JAR: Precisely! I have foreseen his approach!
+JAR: There are three signs that he is in our midst.
+JAR: Number one, he will knock at the door five times!
+JAR: Number two, he will be wearing a clever disguise!
+JAR: Number three, he will come bearing gifts!
+knocking on door
+ALEX: (Knocking on door) Hello, I'm here for the job interview?
+BIGGLES: (Pointing) Ah! Five knocks! 'Tis the first sign!
+JAR: Leave this to me! (Loudly) ENTER!
+silly music 2
+ALEX: (Enter) Sorry I'm late, I got lost, this city's an absolute MAZE!
+ALEX: Oh... is this a theme day? I would have brought my JEDI costume if I had known...
+PAWN: (Whispering to JAR) Could this be the second sign? He's not dressed like us!
+JAR: (Whispering to PAWN) So it would seem...
+BIGGLES: (Whispering to JAR) We should be careful, he may be TESTing us!
+JAR: (Whispering to PAWN) In that case, we should TEST him!
+JAR: Aha... We are very pleased to see you, please do not worry about being late.
+JAR: We'd just... like to ask you some questions. Please, take a seat.
+ALEX: Thank you. (Sit down) Would you mind if I left my BRIEFCASE on the table?
+shark tank discussion music 1
+PAWN: (Whispering to others) The third sign! "He will be bearing gifts!"
+JAR: We wouldn't mind at all. Please, make yourself comfortable.
+ALEX: Thank you very much. (Put BRIEFCASE on table)
+PAWN: (Whispering to JAR) All the signs are here! Why doesn't he reveal himself?
+JAR: (Whispering to PAWN) You're right, it is definitely a TEST. Let's bide our time.
+JAR: And who might we call our new ally?
+ALEX: Oh, of course, where are my manners? I am Alex. And you are?
+JAR: Our company has... done away with given names, we find them unnecessary in our greater purpose.
+JAR: But until that time, we make do with codenames. My faithful pawns call me Jar.
+ALEX: Oh, right, so it's all hush-hush? I like this company already!
+PAWN: You flatter us, Alex. May I ask you my question?
+knocking on door
+Teleport BOB to Entrance Stage Left
+BOB: (From behind doors) Man, this place is so hard to find, town's like a MAZE. Delivery!
+JAR: Ah, the food's here. Fetch it for me, would you Biggles?
+BIGGLES: Yes Jar. (Get up and open the double doors)
+groose music
+BOB: Pizza delivery for... (Read the box, sound annoyed) GAG?!
+JAR: Hahaha! Thank you Bob, just leave it in the usual place.
+BOB: (Put pizza on piano) You guys are weird.
+Meanwhile PAWN: (Go to the piano and take a slice of pizza)
+BOB: (To Alex) I'd get out of here while you can, dude. (Exit)
+Meanwhile BIGGLES: (Shut the doors behind Bob)
+PAWN: (Through a mouthful of pizza) Help yourself.
+ALEX: Uh... thank you (Take a slice) Mmm... PEPPERONI's my favourite!
+shark tank discussion music 1
+PAWN: Now for my question. What does the phrase, GOBBLEDEGOOK, mean to you?
+JAR: Ooh, good question!
+Meanwhile BIGGLES: Mmmm!
+ALEX: Oh... well, forgive me, but I thought that GOBBLEDEGOOK had no meaning?
+PAWN: (Gasp) (Whispering to others) That's not what the ancient texts say!
+PAWN: The Chosen One should know our cult's secret greeting!
+BIGGLES: (Whispering to PAWN) Don't worry, it's probably just a TEST. Go with it.
+PAWN: (Clear throat) C-Correct! That was a TEST! Bravo!
+BIGGLES: (Slap them) All right all right, don't spoil it!
+BIGGLES: Okay, here is my question.
+BIGGLES: What do you know of... the prophecy?
+ALEX: Uh... you mean the business plans of the rival company I was also looking at?
+BIGGLES: Ack! He is in league with our mortal enemies, KFC!
+Meanwhile PAWN: Treachery! Infamy!
+ALEX: N-no, no! I-I was going to join them, but then I found your company paid better!
+ALEX: I can tell you anything about them! Anything!
+PAWN: Pray tell, what know you of their nefarious plans?
+ALEX: Well, word is, they're gonna diversify into GARDENING.
+BIGGLES: NOOO! It can't be! They have truly become one with the dark side!
+Meanwhile PAWN: It's the end!
+PAWN: The end is nigh!
+ALEX: B-but I can help you get back up there with them!
+ALEX: I have a lot of transferable skills from my old job in BANKing!
+JAR: Such as?
+ALEX: I won an award for being the best BANKer in this whole MAZE of a town!
+JAR: (Whispering to PAWN) He is starting to sound more and more like the Chosen One.
+JAR: After all, the ancient texts do mention one who is good at BANKing.
+PAWN: (Whispering to JAR) Should we trust him?
+JAR: (Whispering to PAWN) He must be coming to the end of our TEST, so we should finish his.
+JAR: (To ALEX) And now... for your final question...
+JAR: Are you willing to make... the ultimate sacrifice?
+music stops
+waterphone
+ALEX: ...You don't mean... like unpaid OVERTIME, do you?
+JAR: Uhh... not quite, no...
+ALEX: Oh... then what like?
+shark tank serious music 1
+JAR: Like what's in your box here! (Open BRIEFCASE)
+vine boom
+JAR: (It's empty) Huh? You mean you didn't come bearing gifts?
+music stops
+ALEX: N-No... were you asking for a BRIBE?
+shark tank walking theme
+JAR: Aww CRAP! (Shoo Alex offstage) Go on! Shoo! Get out!
+Meanwhile ALEX: (Get shooed offstage)
+ALEX: B-But I have a diverse skillset and I'm a great team player!
+JAR: Oh, shut up! (Slam the door)
+JAR: Oh wait, (Reopen the door, go to table) you forgot your stupid BRIEFCASE! (Throw it out the door then slam the door)
+music stops
+BIGGLES: (Meekly) Does that mean he's not the Chosen One then?
+PAWN: Well Biggles... he didn't have anything in his box, so I think that's a no.
+JAR: (Head in hands) We'll never be able to outsmart KFC the way we're going.
+knocking on door
+Teleport BOB to Entrance Stage Left
+JAR: Ugh! What does he want now?
+JAR: (Open the doors) I thought I told you to... Oh, it's you Bob!
+groose music
+BOB: Pizza delivery for... GAG? Again?
+JAR: Ugh, look, just hurry up and put it on the piano, for heck's sake...
+shark tank serious music 1
+BOB: (Put pizza on piano and sit in armchair) Have you ever wondered why I've never taken payment all these years?
+PAWN: Wait... he will knock five times...
+BIGGLES: A clever disguise...
+JAR: He will bring gifts... You're not...?
+BOB: Yes! I am the Chosen One!
+PAWN: Whooooa!
+Meanwhile BIGGLES: Awesoooome!
+JAR: O Chosen One, we are saved! Truly, we are thankful!
+PAWN: But why the free PEPPERONI pizza?
+BIGGLES: And why put up with our terrible gag names?
+BOB: Heheh... because like this PEPPERONI pizza, they're just not cheesy enough!
+
+======
+
+INFORMATION ===============================
+ID: 1051
+TITLE: The Narcissistic Chef
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Infomercial
+SET: Infomercial Kitchen
+DATE: 19/08/24
+CHARACTERS ================================
+JOSHUA: Joshua the Chef:Center Stage
+SUGGESTIONS =============================
+FADJECTIVE: Adjective to describe food:crunchy, chewy, runny
+CELEBRITY: A celebrity:Gordon Ramsey, Jamie Oliver, Uncle Roger
+VADVB: An adverb:randomly, angrily, cheerfully
+VERB: A verb:whisk, moving, kneading
+SMOBJECT: A small object:salt shaker, stapler, spatula
+NUMBER: A number:36, 55, 89
+CREATURE: An animal:crow, rhino, hippo
+INGREDIENT: A kitchen ingredient:butter, salt, cayenne pepper
+BODYPART: A body part:hands, knees, nose
+KTOOL: A tool:rolling pin, blender, measuring cup
+PLACE: A fancy location:Paris, Berlin, Waffle House
+JUNKFOOD: A fast food item:cheeseburger, fries, shake
+SCRIPT ==========================================
+Corporate motivational music
+JOSHUA: Well, well, well, it’s me, Joshua Weissmore, back again to teach you mere mortals how to cook FADJECTIVE food.
+JOSHUA: Because let’s face it, if CELEBRITY is the king of the kitchen, then I am basically a kitchen deity.
+JOSHUA: Remember to smash the like and subscribe button if you like me VADVB yelling at you.
+JOSHUA: You see, the secret to making the perfect dish is to first understand you'll never be as good as papa.
+JOSHUA: But don’t worry, I’m here to help you get somewhat close. Let’s start by VERBing this dough.
+JOSHUA: It should have the consistency of a SMOBJECT, which is something you probably can’t manage without screwing it up.
+JOSHUA: But if you manage to VERB the dough enough to make it more consistent than a SMOBJECT, I'm still a genius.
+JOSHUA: Now, add exactly NUMBER grams of flour. Not 41, not 43.
+JOSHUA: If you deviate, you might as well be cooking CREATURE on a bonfire at a Renaissance fair. Peasant!
+JOSHUA: Use a scale for the dough. Don't have one? What are you doing with your life? Just eyeballing it? Please.
+JOSHUA: That’s a one-way ticket to mediocrity or a date with CELEBRITY. Don't do it. You don't know where they've been!
+JOSHUA: Now, it's time to add a generous dollop of INGREDIENT. You want to be liberal here. Don’t be shy. Get in there deep.
+JOSHUA: After all, no one likes their INGREDIENT underwhelming and under-performing. It only happened once.
+JOSHUA: Then, of course, you have to work the dough with your BODYPART, really give it a good squeeze. Get it nice and firm.
+JOSHUA: After all, you can’t have a good dough without some solid kneading action, if you know what I mean.
+JOSHUA: Right, now that we’ve absolutely manhandled this dough, we’re going to roll it out with a KTOOL.
+JOSHUA: Now, you want to apply just the right amount of pressure. Too little and, well, nobody’s satisfied.
+JOSHUA: Too much and, oops! You’ve gone and made a mess. It only happened once. Like and subscribe.
+JOSHUA: Wait. Did I just catch a whiff of inferiority? Are you using store-bought ingredients?
+JOSHUA: Listen, if your olive oil wasn’t harvested by monks in PLACE under the light of a full moon, is it even worth using?
+JOSHUA: Behold, bread. It’s not just bread. It’s an experience. It’s the culmination of NUMBER hours of artisanal labor.
+JOSHUA: You, of course, could never replicate. But, don’t worry, you’ll get there. Maybe. if you follow my instructions.
+JOSHUA: (tastes) Mmm. That is FADJECTIVE. But you know what? It’s not just the taste. It’s the fact that I made it.
+JOSHUA: Oh! And before I forget, you’ll definitely want to stay tuned for my upcoming videos.
+JOSHUA: I'll be reviewing some of the most popular fast food items like the JUNKFOOD.
+JOSHUA: Because, you know, sometimes it’s important to remind myself why I’m superior.
+JOSHUA: Spoiler alert: They’re not even in the same universe as what I just made here.
+JOSHUA: But hey, at least I’ll have a reason to be even more satisfied with my culinary genius.
+JOSHUA: And if this impresses CELEBRITY, I hope they give me another chance. It only happened once.
+
+======
+
+INFORMATION ===============================
+ID: 1057
+TITLE: Repair Workshop
+AUTHOR: MindlessGonzo
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Hardware Store
+DATE: 20/08/24
+CHARACTERS ================================
+BOB: Bob Diva, Host:Behind Register
+STEVE: Steve, Guest and Bob's Friend:Entrance Stage Left
+SUGGESTIONS =============================
+DEGRADING: Something to tell a person to make them sad:you're not trying, Santa's not real, Mommy won't love you,
+CRIME: A criminal act:speeding, drinking, tax evasion, jaywalking
+CRAZY: Violent verb:kill, kick, sacrifice, choke, push, shoot
+WOMAN: A woman's name:Sarah, Karen, Kiki, Amanda, Cheri
+COURT: A criminal act you have to go to court over:expired license plates, business fraud, identity theft, illegal parking
+PRICELESS: Something you want to keep that's precious to you:rare Pokémon card, pocket watch, CrockPot slow cooker, painting
+SUITCASE: A lockable container:suitcase, chastity belt, 2000 pound fireproof safe, Toyota Prius, glass jar, iPhone 15
+SCRIPT ==========================================
+western jingle 1
+crowd woo
+BOB: (Wave to audience) Hello, I'm Bob Diva, and welcome to our workshop, where our motto is "If it ain't broke, DEGRADING "
+BOB: Please welcome our first troubled guest, my friend Steve.
+double bass music
+STEVE: (enter and go to front of counter, waving) Hey Bob! Got a second?
+BOB: So Steve, what seems to be the trouble?
+STEVE: (Place SUITCASE on counter) I got this SUITCASE that I can't open because I lost a key.
+BOB: (confused) You don't look like the type to have a SUITCASE.
+STEVE: Trust me, it's mine.
+BOB: (Search through SUITCASE) Let's see here...
+music stops
+BOB: This doesn't have your name on the tag, it says WOMAN .
+STEVE: I know.
+waterphone
+BOB: (skeptical) You stole this, didn't you?
+STEVE: No! This was my ex's!
+vine boom
+double bass music
+BOB: (tinker with SUITCASE) You married WOMAN ?
+STEVE: Yeah, she was really insane. She tried to CRAZY me last night.
+BOB: Told you to not sleep with someone like that. Bad for your health.
+laughter
+STEVE: Why are you treating me like I'm a criminal on trial?
+BOB: I know you too well.
+BOB: In fact, last month, you were arrested for CRIME .
+STEVE: Oh, right...
+laughter
+BOB: (sigh)
+music stops
+noir music 1
+STEVE: Look, Bob, trust me on this, there's more to this than what you think.
+BOB: I'm thinking I'm gonna be an accessory to a crime.
+STEVE: Not this time, Bob. This is a whole different situation.
+STEVE: I swear.
+BOB: (pound SUITCASE, grunting)
+break down door
+BOB: There we go, it's open.
+music stops
+BOB: There's a PRICELESS in here.
+STEVE: I knew it!
+BOB: Knew what?
+STEVE: That mad woman tried to leave town with my PRICELESS and half of my stuff!
+STEVE: Signed a prenup and everything! Mainly because I'm constantly broke.
+STEVE: My mother gave me this PRICELESS like her daddy before her. It's a family heirloom!
+crowd woo
+BOB: Huh. What do you know?
+double bass music
+BOB: You basically tried to reclaim something stolen from you.
+BOB: This is rather unusual. Because usually it's other way around.
+BOB: People having to reclaim stuff you stole.
+STEVE: Hey! Borrowed and forgot to return.
+BOB: Right.
+STEVE: See? I told ya! Totally different situation than before!
+BOB: Well, ain't this a valuable lesson we learn here at the workshop.
+BOB: Always get the full story before you judge.
+BOB: And we wound up repairing something more than a thing.
+BOB: We repaired a family's heritage.
+music stops
+applause
+western jingle 1
+BOB: Welp, that's all the time we have here for the workshop!
+BOB: This has been Bob Diva. And remember, folks.
+STEVE: If it ain't broke, DEGRADING
+BOB: That's right, Steve.
+STEVE: Oh, Bob, real quick?
+BOB: Yes?
+STEVE: Can I get a ride to the courthouse?
+STEVE: It's about time I turn myself in for COURT.
+BOB: (chuckle) Oh, Steve
+STEVE: (chuckle) Old habits die hard.
+laughter
+applause
 
 ======
 
