@@ -22067,7 +22067,7 @@ MATCHBOX: Something smaller than a breadbox:matchbox, banana, loaf of bread, tea
 MICROWAVE: An electrical appliance:microwave, blender, electric whisk, coffee machine, espresso machine, refrigerator, slow cooker, washing machine
 CUCUMBER: Something you shouldn't bring to school:cucumber, banana, leek, knife, sausage, pencil, sword, phone, makeup bag, handbag
 TEN: Any reasonable number:seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen
-START: Another word or phrase for 'Start':Start, Play, Punch it, Go Baby Go, Light 'em up, Let 'Er Rip, You Ain't Seen Nothin' Yet
+START: Another word or phrase for 'Start':Start, Play, Punch it, Go Baby Go, Light 'em up, Let 'Er Rip, You Ain't Seen Nothin' Yet, Kick the baby
 SCRIPT ==========================================
 jazz music 1
 TEACH: Good afternoon class, welcome to Physics. Today we've got a very special lesson planned for you.
@@ -32875,44 +32875,7 @@ Meanwhile LOSTPERSON: (Sleeping in the river) zzzzzz ...
 RESCUER1: Report says he was last seen at this place which is called PLACE1.
 Meanwhile LOSTPERSON: (Sleeping in the river) zzzzzz ...
 LOSTPERSON: (Snoring) ZZZzzzz.
-RESCUER1: Shhh! Hey, did you hear that?Mystery music 1
-RESCUER1: It’s been 2 hours. How does this lost person look like again?
-RESCUER2: He’s wearing a CLOTHE1 and COLOR1 pants.
-RESCUER1: He’s also wearing a HAT1 right?
-RESCUER2: That is correct.
-RESCUER1: Report says he was last seen at this place which is called PLACE1.
-Teleport LOSTPERSON to In River
-LOSTPERSON: (Snoring) ZZZzzzz.
 RESCUER1: Shhh! Hey, did you hear that?
-RESCUER2: Yeah, I hear it too.
-RESCUER1: There! Someone under the bridge!
-RESCUER2: Wait! There’s a ANIMAL1 besides him.
-RESCUER1: Don’t worry. I’ll take care of that.
-gunshot
-RESCUER2: Sir? Sir? Are you alright? Can you stand up?
-LOSTPERSON: (still asleep) Zzzzzz.
-RESCUER1: Let’s see. He’s wearing CLOTHE1, COLOR1 pants and HAT1. This is the missing guy!
-RESCUER2: Here let me check his vitals. No fever, no severe trauma but he has some signs of INJURY1.
-RESCUER1: We need to get him out of there first.
-RESCUER1: Alright everything is set. Call for pickup.
-RESCUER2: Calling HQ, this is CALLSIGN1 team, ready for pickup at PLACE1.
-Typewriter: After 2 hours in the VEHICLE1.
-LOSTPERSON: AAHHH! Where am I?
-RESCUER1: Sir, please relax. You are being rescued.
-RESCUER2: You are safe now. We are in a VEHICLE1 heading towards the nearest hospital to treat that INJURY1
-LOSTPERSON: Where’s my stuff? Who are you? What do you mean rescued?
-RESCUER2: Please, relax. You’re probably dehydrated and have lost your bearing. You’ll recover shortly.
-LOSTPERSON: Wait, what happened to my PETNAME1? My beloved ANIMAL1?
-RESCUER1: Oh, that’s your ANIMAL1? We took care of it.
-LOSTPERSON: NOOOO. WHAT HAVE YOU DONE!? Why did you kill my PETNAME1?
-RESCUER2: Hey, calm down! We just took them down with a tranquilizer. We didn’t kill them.
-LOSTPERSON: Phew. That’s a relief.
-RESCUER1: Alright, I’m sure you’ll be glad that we found you and are taking you home.
-LOSTPERSON: What? No. I’m not lost. I’m just homeless.
-Music Stops
-record scratch
-RESCUER1: Oh. Ok this is awkward.
-LOSTPERSON: Can you at least send me back after my INJURY1 is healed?
 RESCUER2: Yeah, I hear it too.
 RESCUER1: There! Someone under the bridge!
 RESCUER2: Wait! There’s a ANIMAL1 besides him.
