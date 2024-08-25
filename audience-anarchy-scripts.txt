@@ -20764,7 +20764,7 @@ DIRECTOR: (waving arms to stop at the audience) Cut The Cameras!
 INFORMATION ===============================
 ID: 663
 TITLE: A Medical Disaster 
-AUTHOR: Alyssa?
+AUTHOR: Cyrus?
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -33359,6 +33359,93 @@ BOB: (chuckle) Oh, Steve
 STEVE: (chuckle) Old habits die hard.
 laughter
 applause
+
+======
+
+INFORMATION ===============================
+ID: 1060
+TITLE: Pizza Delivery Guy
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 22/08/24
+CHARACTERS ================================
+BOB: Bob the Customer:Stage Right
+JIMMY: Jimmy the Pizza Delivery Guy:Center Stage
+OFFICER: Police Officer:Backstage
+SUGGESTIONS =============================
+MEAT: A kind of meat:sausage, chorizo, ham
+PIZZACHAIN: Name of pizza chain:Pizza Hut, Dominos, Papa John's
+NUMBER: A number:45, 438, 235
+TOPPING: A strange topping to find on pizza:marshmallow peeps, crayons, hair
+FOREIGN: Foreign-sounding country:Ashlabag, Mentos, Tunish 
+VERBED: A verb in past tense:nibbled, tickled, pickled
+FADJECTIVE: An adjective describing food:burnt, chewy, sweet
+WINGREDIENT: A weird ingredient:shampoo, salsa, frog juice
+TRANSPORT: A ridiculous mode of transportation:horseback, airplane, skydiving
+OCCUPATION: An absurd occupation:cat whisperer, tooth observer, cow tipper
+CREATURE: A mammal:girl, camel, swordfish
+SCRIPT ==========================================
+Jazz music 1
+BOB: Finally! The pizza is here! (waves to character center stage)
+JIMMY: Hey, dude. I mean, sir. Oh, man. I forgot your pronouns. Sorry, person.
+BOB: (laughs) It's fine. As long as you have the pizza I ordered from Ye Olde Italian MEAT and Baguette Emporium.
+JIMMY: Yeah, totally. But we're PIZZACHAIN. Your total is NUMBER dollars.
+BOB: No, I ordered online. I'm all paid up. That's a lot of money, though.
+JIMMY: Thanks. Glad you think I'm worth that much in tips.
+BOB: (opens pizza box) What is this?
+JIMMY: That’s your pizza, man! There was, however, a minor adjustment.
+BOB: There's TOPPING on my pizza.
+JIMMY: Yeah, yeah, yeah. TOPPING. Sweet deal, huh? I know a lot of people in FOREIGN love it.
+BOB: No! It’s not a sweet deal! I ordered pepperoni! Not whatever this is, and there's so much of it.
+JIMMY: A real mouthful. Oh, yeah. About that.
+BOB: About what?
+JIMMY: So, I was on my way here, and I VERBED them.
+BOB: (horrified) Are you telling me you VERBED the pepperoni off my pizza?
+JIMMY: Munchies. They hit you like BAM! I VERBED them on my epic journey here.
+JIMMY: Well, I had herbal remedies, which my body craves.
+BOB: And your solution was to put TOPPING on it and deliver me a FADJECTIVE pizza instead?
+JIMMY: Oh, absolutely! It's genius. But I can tell you're upset.
+BOB: (sarcastic) No, really?
+JIMMY: Even though the pizza is healthier with fewer pepperonis and more WINGREDIENT!
+BOB: You put WINGREDIENT in my pizza too?
+JIMMY: Yeah! Genius, right? I figured, "I turned this pizza into a party."
+BOB: A party where everyone dies from TOPPING poisoning. (facepalms) I don’t believe this.
+JIMMY: Look, look. I'll make it right! I'll just, like, ride back to the restaurant and get you a fresh one. All the pepperonis intact!
+BOB: Ride back? Don’t you mean drive?
+JIMMY: Yeah, but I lost the company car.
+BOB: You lost the car?
+JIMMY: Traded, actually.
+BOB: Traded? For what?
+JIMMY: For some munchies! The pepperonis I got were so good. They gave me a pizza full of them.
+BOB: My pizza. So let me get this straight.
+JIMMY: Aw dang. I was starting to crush on you.
+BOB: You traded a car for pepperonis from my pizza? Wait a minute. How did you get here?
+JIMMY: TRANSPORT, bruh. I got better mileage, you see, from all the fuel.
+JIMMY: Best decision I've made since I decided to pursue a career in OCCUPATION!
+BOB: I don't know how you managed to make your way here. I'll have a stroke if I try to figure it out.
+JIMMY: I borrowed it from a really angry 7-year-old CREATURE. I told her I’d bring it back after the delivery.
+JIMMY: I think she was cool with it. She was crying, but that's fine.
+Police car
+OFFICER: (enters stage right) Excuse me, sir. (looks at Bob) Is this your TRANSPORT?
+OFFICER: We’ve had reports of a "highly suspicious" character stealing a CREATURE's bike and offering TOPPING in return.
+JIMMY: Oh hey, officer. Nah, that’s just me! Everything's chill. The CREATURE was fine with it.
+OFFICER: I see. (turns to Bob) And you’re the customer?
+BOB: Yeah. I just want my pizza. Is that too much to ask?
+OFFICER: You might be asking for more than you bargained for.
+BOB: (confused) What do you mean?
+OFFICER: The TOPPING on your pizza is evidence in an ongoing investigation.
+BOB: What investigation?
+OFFICER: There's a TOPPING cartel in this town. And we've just identified the kingpin.
+JIMMY: (gasp) Oh wow. That's crazy, man. Who was it?
+OFFICER: (points to Bob) Your customer been smuggling illegal TOPPING across state lines.
+OFFICER: And we believe your "pizza" was a drop point.
+BOB: Excuse me, officer, but I ordered pepperoni on the pizza, not TOPPING. I'm not a kingpin.
+OFFICER: (serious) I’m going to have to take you both in for questioning.
+JIMMY: That CREATURE is going to be crushed.
+BOB: Seriously? All I wanted was pepperoni!
+OFFICER: Well, I hope you like your pizza with a slice of justice. And besides, you'll have plenty of MEAT where you're going.
 
 ======
 
