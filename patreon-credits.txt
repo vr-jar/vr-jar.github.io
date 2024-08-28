@@ -2449,6 +2449,7 @@ Saquin
 The Bottom Bee
 SanctumTalon
 Mosespoe
+ManieTheBat
 #TIER=2
 CODBO3RGM3
 ArkoNero
