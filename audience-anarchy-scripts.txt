@@ -20516,7 +20516,7 @@ SNACK: A small thing to eat:Croissant, sausage roll, meatball, sandwich, melon
 ICONIC: An iconic villian:Megatron, Darth Vader, Walter White, Cancer-man
 GAME: A multiplayer game:Fall Guys, Destiny 2, Fortnite, Rocket League
 THREE: A silly villain name:Dung-eater, finger lad, Skin-Haver, Rizzler
-POSITION: A position in a race like “5th”:1st, 7th, 28th, 900th
+ACT: A violent action:Stab, kill, pulverise, fiddle
 WRITE: A liquid you can write with like “ink”:Spaghetti oil, blood, mayonnaise, white sauce
 NICE: Something you would help an elderly person with:Mow the lawn, bake cookies, cross the street, find their lost hankie
 FOOD: Something to feed an animal:Cheese, a Werthers Original, a smaller dog, Eggs for Bart
@@ -20526,32 +20526,34 @@ MEDS: Name of a medication:Alcohol, chocolate, soft hugs, thigh-highs
 SCRIPT ==========================================
 Guitar music 1
 HA: (looks at wrist) Well, I guess we’re starting without THREE today.
-HA: This begins our POSITION meeting with the goal of integrating you villains back into society.
+HA: This begins our 28th meeting with the goal of getting you villains back into society.
 HA: I trust that you’ve brought your diaries?
-V1: Oh yes! (Place diary on the desk in front of you) Everything I have done since my release has been documented, all written in WRITE! (Point down to diary)
+V1: Oh yes! (Place diary on the desk) Everything I have done since my release has been all written in WRITE! (Point down to diary)
 V1: From the time I helped that old lady NICE, to when I fed that dog FOOD.
 HA: Very good ONE. It’s those little acts of kindness that make the world brighter!
 HA: And what do you have to share with us TWO? Where’s your diary?
-V2: I ate it.
+V2: I ACTed it.
 vine boom
 scary music
-V2: Just like I ate that old lady that ONE helped NICE.
+V2: Just like I ACTed that old lady that ONE helped NICE.
 waterphone
-V1: W-what..?
+V1: You did what?!
 V2: Yeah, she was a loud one. She kept screaming “ONE, ONE! Help!” I didn’t think she would ever shut up!
-V1: (starts to cry) She was so young.. You monster!
+V1: (starts to cry) She was so nice.. How dare you ACT her!
 HA: (hang head in shame, sighing) Well…
 guitar music 1
-HA: You know that’s not a very nice thing to do TWO. Looks like we will have to up your dosage of MEDS post-haste. (writes things on invisible clipboard)
+HA: You know that’s not a very nice thing to do TWO. Looks like we will have to up your amount of MEDS post-haste. (writes things on invisible clipboard)
 break down door
 V3: (bust through door, out of breath) Sorry I’m late everyone! I got distracted playing GAME over at ICONIC’s house.
 laughter
 HA: It’s good to see you THREE. Take a seat.
-V3: (sit at the empty seat) I see that TWO and ONE are here this time.
-V1: Salutations.
-V2: Die.
+V3: (sit at the empty seat) I see that TWO and ONE are here already
+V1: Hewwo! (Wave cutely)
+V2: (thumbs up) I ACTed an old lady.
 vine boom
-HA: We were just sharing all your diary entries. THREE, whip out yours and give us a cheeky share.
+V3: … Ew.
+HA: We were just sharing our diary entries.
+HA: THREE, whip out yours and give us a cheeky share.
 V3: Alrighty! (Place diary on table)
 telenovela music 1
 V3: Today I wanted to eat a SNACK.
@@ -20560,32 +20562,33 @@ V3: And I brought a SNACK.
 V3: And I returned home, with the SNACK.
 V3: And then I ate…… The SNACK.
 HA: That was….. very nice THREE.
-V1: (sniffs and wipes away a tear)
 music stops
 V1: Truly the words of a reformed villain. Bravo.
-V2: I think I’m going to eat THREE like a SNACK tonight.
+V2: I think I’m going to ACT THREE like a SNACK tonight.
 waterphone
-HA: I feel like this program isn’t for you TWO.
-V2: (stand and point aggressively) I’ll eat you next!
+HA: I feel like this program isn’t for you TWO. You need some MEDS
+V2: (stand and point aggressively) I’ll ACT you next!
 vine boom
 HA: That’s it, I’m calling HERO. (Pull out phone from pocket)
-HA: (on phone) Yes, HERO. I need your help.
+HA: (on phone) Yes, HERO. I need your help. A TWO has gone ACT mad!
 epic fantasy music 2
 V2: HERO? Bah! Even ICONIC can best them in single combat. They stand no chance against yours truly!
 V2: ONE, THREE, you'll back me up, right?
-V1: Aren't we meant to better ourselves? Besides, isn't HERO one of the strongest heroes?
-V3: Y-yeah they are! They shoved FOOD down my neck last time they caught me with WRITE all over the place.
+V1: Aren't we meant to better ourselves? Besides, isn't HERO one of the scariest heroes?
+V3: Y-yeah they are! They shoved FOOD down my neck the last time they caught me with WRITE all over the place.
 V3: If HERO is really on their way, I'm out of here! (run out the door) THREE, away!
 crashing debris
 V1: HERO shows no mercy! Let me join you! (follow them out) ONE, farewell!
 aww
 HA: (look at watch) They should be here any moment to bring you to justice TWO..
-V2: Not fast enough to save you from becoming the latest SNACK for me to devour...
+V2: Not fast enough to save you from becoming the latest SNACK for me to ACT!
 vine boom
-HA: Uhm?
+HA: Uhm? That made no sense.
 super epic charge up
 V2: YAA! (attack them violently)
 gunshot
+HA: (fall down) Stop ACTing me!!!
+Laughter
 explosion
 
 ======
@@ -33183,6 +33186,7 @@ Meanwhile ALEX: (Get shooed offstage)
 ALEX: B-But I have a diverse skillset and I'm a great team player!
 JAR: Oh, shut up! (Slam the door)
 JAR: Oh wait, (Reopen the door, go to table) you forgot your stupid BRIEFCASE! (Throw it out the door then slam the door)
+crashing debris
 music stops
 BIGGLES: (Meekly) Does that mean he's not the Chosen One then?
 PAWN: Well Biggles... he didn't have anything in his box, so I think that's a no.
@@ -33450,6 +33454,146 @@ OFFICER: Well, I hope you like your pizza with a slice of justice. And besides, 
 ======
 
 INFORMATION ===============================
+ID: 1061
+TITLE: Legoshi Task Force
+AUTHOR: Brizzz
+VERIFIED: True
+TAGS: Skit
+SET: Forest Bridge
+DATE: 22/08/24
+CHARACTERS ================================
+CAPTAIN: Legoshi Team Captain:Entrance Stage Right
+SARGE: Comedic and loud soldier:Entrance Stage Right
+PRIVATE: Nervous Rookie:Entrance Stage Right
+HQ: Headquarters (Radio Operator):Narrator Podium
+VILLAIN: Kidnapping Villain:Entrance Stage Left
+HOSTAGE: Freaky Hostage from a Wealthy Family:Entrance Stage Left
+SUGGESTIONS =============================
+INFAMOUS GROUP: A GROUP OF PEOPLE:VTubers, E-Boys, League of Legend Players
+ANIMAL: A funny sounding animal name:sloppy walrus, burnt beever, goofy gopher, monkey monday, giraffe
+THREATEN: Violent/Nonviolent act:Punch, kick, burn, hug, karate chop, dropkick, blackmail
+TITLE: A prestigious/famous position or job:Hokage, Emporer, Chosen One, Dragonborn
+VRCHAT: A type of VRChat player, or avatar:protogen, mommagen, hyena, furry, e-boy, e-girl
+BODY PART: A part of the body :Head, leg, willie, jimmy, double chin, boobas
+VALUABLE: Something of worth or great importance:Gold, silver, V-Bucks, Goth Dommy Mommies
+TORTURE: A form of torture:Electrocution, tickling, face-punching
+LIQUID: A liquid or thing that can be melted and poured:Milk, coffee, chocolate, cheese
+NUMBER: A number :1, 2, 87, 1002, 9000,
+POPULAR PERSON: A popular/famous person or celebrity:Markiplier, Vivzie Pop, Ryan Reynolds, Dave Chappelle
+MONEY: Business type, product, service, or company:Offshore E-girl Fishing, Loli fighting, Gopher milking
+SCRIPT ==========================================
+Scary music
+VILLAIN: (Enter stage left) Looks like we finally lost them, clean getaway. Those INFAMOUS GROUP won't find us out here.
+VILLAIN: (Yells at Hostage) Bring your ANIMAL over her now! Don't make me THREATEN you. (Points Weapon at Hostage)
+HOSTAGE: (Enter stage left) Ok! Ok! I'm coming! Just please...
+VILLAIN: Shut up! You're lucky I still need you alive. Now sit down and be quiet. I better not get caught because of you.
+HOSTAGE: You won't get away with this. My mom is the TITLE of the country, you VRCHAT!
+HOSTAGE: Our security, the police, and even the INFAMOUS GROUP will be looking for me! You won't escape!
+VILLAIN: (Smack the Hostage) I said SHUT UP!
+HOSTAGE: (Scream and falls down) Ow! My BODY PART!
+VILLAIN: How does it feel? Being looked down on for once. (Points weapon at hostage).
+VILLAIN: Your family took everything from us. Our jobs, our land, and even our VALUABLE!
+HOSTAGE: This is kinda hot, but I didn't take anything! My family's MONEY business has nothing to do with me!
+VILLAIN: Wrong! It has everything to do with you! (Hits the hostage again)
+HOSTAGE: UwU! X3 (Falls to the ground again)
+VILLAIN: Your family stole our VALUABLE, so we're stealing you.
+VILLAIN: When they give us back our VALUABLE, we'll give you back to them.
+HOSTAGE: You'll...Give me back? You mean like, bring me back home? But...But...
+VILLAIN: Yes. once they return what is rightfully ours, we will ensure your safe return to your family.
+HOSTAGE: But...but...
+VILLAIN: Your family may be evil and corrupt, but they are weak.
+VILLAIN: A picture of a few bruises on your pretty face, and they'll quickly give in to our demands.
+HOSTAGE: But...But...Don't you want to...maybe... waterboard me a little bit?
+Music Stops
+VILLAIN: ....What?
+HOSTAGE: I mean...My family can be a little stubborn about things like this.
+HOSTAGE: So... don't you wanna...whip my ANIMAL?... Just in case?
+70s Music
+HOSTAGE: Or maybe do a little TORTURE just to make sure I...THEY learn their lesson?
+HOSTAGE: Or you could tie me up and pour hot LIQUID all over my...you know...
+VILLAIN: Shut your mouth before I punch you in it! (About to hit the Hostage again)
+HOSTAGE: WAIT!!!... Put on these brass knuckles first. (Hand over brass knuckles)
+VILLAIN: (Backs away from the Hostage, Frightened) Uh...Just...Just sit there and be quiet...please...
+Music Stops
+HOSTAGE: (Pouts) You're not even going to electrocute me? Worst. Kidnapper. Ever. (Turns her back and sits down.)
+Shark tank discussion music 1
+HQ: (Remains at Podium) Legoshi Task Force NUMBER, come in. Do you read me? What's your status?
+CAPTAIN: (Enter Stage Right) This is CAPTAIN Legoshi, I read you loud and clear.
+CAPTAIN: Approaching possible location of the TITLE's kidnapped family member.
+CAPTAIN: Do we have a positive ID on the enemy target?
+HQ: Target in the area is identified as POPULAR PERSON.
+HQ: Intel says they look like a VTuber, but with a decent ANIMAL behind them.
+HQ: Be careful in securing the Hostage, Team NUMBER.
+HQ: POPULAR PERSON is armed and extremely dangerous.
+SARGE: (Enter Stage Left) (Follows CAPTAIN) Oh yeah? So the heck are we! This is what we freaking do!
+SARGE: We'll be in and out in 2 seconds, which is 1 second longer than I gave to your mom last night, eh PRIVATE?
+PRIVATE: (Enter stage left) Not cool, SARGE. But... What if we're not just in and out?
+PRIVATE: What if they're listening, and know we're coming, and they already set up an ambush?
+PRIVATE: What if we get overwhelmed and...captured. I'll never see my mom again, or my cats...
+PRIVATE: What if they do some kind of weird TORTURE to us? Or tie us down and pour hot LIQUID all over our...y'know?
+CAPTAIN: Shut it Private! And show some respect SARGE, he's sensitive about his mom...
+SARGE: Sorry captain...
+CAPTAIN: I should know, she tells me every night when she brings her ANIMAL to my house.
+Laughter
+SARGE: Got em'.
+HQ: Got em'.
+VILLAIN: Got em'.
+PRIVATE: Not cool, guys. I'm going through a lot right now. My mom's been upset with me lately, and the other soldiers are always picking on me.
+PRIVATE: Calling me a VRCHAT and such. I've just been feeling real lonely lately. It's like nobody cares about me, or even listens to me when I talk.
+CAPTAIN: Understood HQ. Moving in to intercept Target. Over and out.
+PRIVATE: (Sadly looks down) Awwww...No one listens to me.
+Tense cinematic music
+CAPTAIN: On Me, move. (Slowly walk to the bridge with team)
+Meanwhile VILLAIN: (Slowly walk to the bridge with Hostage)
+VILLAIN: There they are! I knew I heard something! Good thing prepared an ambush!
+PRIVATE: I told you! No one ever listens to me.
+CAPTAIN: Shut it, PRIVATE!
+HQ: Yeah, shut it, Private!
+HQ: I'm on the phone with your mom right now!
+HQ: Yes ma'am, he's acting like a VRCHAT right now.
+Epic fantasy music 2
+SARGE: I got this! (Move closer to VILLAIN) You booped the wrong snoot today, POPULAR PERSON! Get Lego-ed, fartboy!
+VILLAIN: Screw you Legoshi Task Force! Take this! (Throw grenade at them)
+Explosion
+SARGE: (Feet and legs explode) My beans!!! I'm down! (Lay down)
+CAPTAIN: Sergeant! NOOOOOOOO!!
+VILLAIN: (Throw another grenade.)
+Explosion
+CAPTAIN: (Feet and legs explode) AHHHH!!! MY GRIPPERS! (Lay down)
+VILLAIN: Looks like those dogs won't be barking any time soon!
+Epic fantasy music 1
+CAPTAIN: (Look up at Private while lying down) It's up to you PRIVATE!
+CAPTAIN: I have absolutely no faith in you whatsoever because you suck at everything and I hate you. But, it's all up to you, now.
+CAPTAIN: Do us all proud, son. Legoshus Invictus... (Dies).
+PRIVATE: CAPTAIN, NO! I'm just a rookie I can't...I... (Look at VILLAIN) Why are you doing this?!
+VILLAIN: Why am I doing this? You fool. Why would I NOT do this?!
+PRIVATE: I don't understand.
+VILLAIN: (Sad) When I was just a boy, that brat's family took everything from me and my people.
+VILLAIN: Everything we worked so hard and fought for, generation after generation.
+VILLAIN: All of it, snatched from our tired, bruised, and bloody hands by those greedy, corrupt, cowards.
+VILLAIN: These people destroyed our base, our Nexus, so many times... In League of Legends.
+PRIVATE: Wait, you're raging over League of Legends?
+VILLAIN: The Feeders, the AFK-ers, the Chat...that terrible CHAT... Their family will pay for what they've done to my people's ranks in League of Legends.
+PRIVATE: I don't know much about League, but I know I can't die out here like this. I've got a bunch of cats at home that need me.
+PRIVATE: Plus, my momma told me if I ever died, she'd kill me. This one's for you momma!
+PRIVATE: (Stab VILLAIN)
+Meanwhile VILLAIN: (Get stabbed by PRIVATE)
+Knife wound
+VILLAIN: AHHHH! My BODY PART (Injured)
+VILLAIN: (Hobble to middle of Bridge and face Audience) Damn you, Legoshi Task Force...I'll be back...for that...ANIMAL.
+VILLAIN: (Fall down into river and float under bridge)
+Teleport VILLAIN backstage
+Music Stops
+HOSTAGE: (Walk over to PRIVATE) You rescued me! So... are YOU gonna pour hot LIQUID all over my...you know?
+PRIVATE: I dunno, I gotta ask my momma first. Are you allergic to cats?
+HOSTAGE: Are you allergic to TORTURE?
+HQ: Yes Ms. Booper-Claps, (lol chuckle). That's right.
+HQ: They did it. You should be proud of them.
+PRIVATE: Wait, you're actually talking to my mom? (Exit)
+
+======
+
+INFORMATION ===============================
 ID: 1062
 TITLE: The Unwilling Hero
 AUTHOR: NERΘ
@@ -33488,7 +33632,7 @@ QUILL: Umm, no, I did not hear that. Maybe you're just tired, let's take a break
 BILLYWICK: Uhh, you might be right. It is getting dark, let’s rest here and continue our journey in the morning.
 (epic fantasy music 2)
 NARRATOR: And so our heroes would continue their journey that morning through the REGION.
-NARRATOR: Inching their way forward; Fighting MONSTER Lords until they finally arrived at Velvo’s castle doors.
+NARRATOR: Inching their way forward; Fighting MONSTER hordes until they finally arrived at Velvo’s castle doors.
 BILLYWICK: (Look around confused)
 QUILL: We finally made it Billywick, soon we will defeat the Deamon king ending his rain of tyranny and bring peace to FANTASY WORLD.
 BILLYWICK: (Confused) Wait, Hold up Quill. Did you not hear that? Someone just described everything that we did Before, as, and after we did it.
@@ -33546,6 +33690,135 @@ BILLYWICK: (Stops fighting) Hold up don't do that. (has a heart attack)
 NARRATOR: Imma miss having someone to talk to. Guess I gotta restart the story.
 (epic fantasy music 2)
 NARRATOR: (Look at audience) For millenniums The Demon King...
+
+======
+
+INFORMATION ===============================
+ID: 1063
+TITLE: Vtuber's parental issues
+AUTHOR: JJWithNoSauce
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 24/08/24
+CHARACTERS ================================
+VTUBER: The Vtuber:Side Door
+MOM: The mother:Backstage
+DAD: The father:Backstage
+PIZZAGUY: The creepy pizza guy:Backstage
+SUGGESTIONS =============================
+FANS: Nickname for a streamer's viewers:fans, snackers, silly fella
+CONDITION: Medical condition:asthma, ligma, cancer
+ACTIVITY: Activity that you do while streaming:just chatting, playing League of legend, watching brainrot shorts on youtube
+USERNAME1: Influencer username:Bilian the vrtuber, Pao the whale, Goldenmouse
+USERNAME2: Online username:Coolguys321!, TotallyNotACreep! , Jar
+REALNAME: A name:Jeffrey, Mike, Benjamin, Quandale Dingle
+LATENIGHT: Late night activity:drinking at the bar, pole dancing with friends, playing Uno with your mom
+JOB: Occupation:Mcdonald's finest burger flipper, Costco's favorite floor wiper, 7-eleven's cashier
+DEVICE: Electronic device:Personal computer, ThinkpadT420, Chromebook, Samsung Galaxy S69
+GAME: Video game:League of legend, VRChat, Valorant
+FUNNY: Silly word:Freaky, Silly, Geeky, Teehee~
+SCRIPT ==========================================
+noir music 4
+VTUBER: (Enter stage) Ugh, finally. Everyone's sleeping. I can finally get back to streaming.
+VTUBER: (Put on VR) Let me just grab my vr headset and... erm... Is this thing on? Ok! It's Vtubing time!
+music stops
+gameshow ding
+groose music
+VTUBER: Hiya fellow FANS! USERNAME1 is here! I'm back, aw shuck! I miss you guys!
+VTUBER: Thing has been kinda rough for me lately, but it's fine now! Anyway I think we are going to be ACTIVITY now!
+gameshow ring
+VTUBER: Oh! USERNAME2! Thank you for the 5 subs! Oh boys, can't wait to see you ACTIVITY? Heck yeah! It's going to be so epic!
+Teleport DAD to Entance Stage Left
+extreme knocking
+VTUBER: Woah.. What's with all the knocking? Am I cooked chat? Nah it's probably nothing. Anyway!
+DAD: REALNAME! (Enter stage)
+break down door
+music stops
+VTUBER: Dad!? (Put away vr) It's not what it looks like! I can explain!
+DAD: REALNAME! It is past your bed time! Wait a minute, Are you ACTIVITY again?!
+VTUBER: Dad! Not in front of all my FANS!
+lacrimosa music
+DAD: Oh my god REALNAME. We have talked about this. This is unacceptable! I'm glad that your mother isn't here to see this.
+Teleport MOM to Entance Stage Right
+tire screech
+MOM: Honey, I'm back from LATENIGHT, OH MY GOD!? REALNAME Are you ACTIVITY again?!
+DAD: (Sigh) Here we go...
+VTUBER: (Frustrated) But mom! I'm just trying to catch up with all my FANS! I swear!
+MOM: I'm so disappointed in you REALNAME! Why can't you be like the others?
+MOM: I only wish you'd just do the bare minimum, even a job like JOB would suffice.
+gameshow ring
+DAD: What's that sound?
+VTUBER: I think one of my FANS just send me something. wait... (Panic) am I still live?
+DAD: What? Who's this FANS? Wait... IS THIS FANS OF YOURS WATCHING YOU ACTIVITY!?
+shark tank offer
+VTUBER: No dad! You see, I'm USERNAME1 online! The hot quirky anime girl with gigantic chest and FUNNY personality!
+music stops
+vine boom
+MOM: So, you are just larping with those FANS all night instead of getting a job?
+VTUBER: It's called "Vtubing" mom! I'm a Vtuber! I explained it to you many times!
+MOM: Honey, I think our child's CONDITION is getting worse and worse. Maybe we should consult someone about this.
+DAD: (Sigh) REALNAME.
+sad chug jug music
+VTUBER: But Mom! Dad! I'm trying my hardest! This vtubing stuff takes time! I know this is all confusing but just give me a chance!
+DAD: No more REALNAME. I've heard enough. From now on. No more GAME!
+vine boom
+VTUBER: (despair) What..?
+DAD: No more DEVICE! and No more larping with these FANS!
+vine boom
+VTUBER: But, They are all I have! Please don't do this dad! I will do anything!
+DAD: Quit it! You won't be vtubing anymore REALNAME! and your so called FANS can get lost!
+music stops
+doorbell
+Teleport PIZZAGUY to Entance Stage Left
+DAD: Ugh, who could that be? Hopefully it's not noise complaint from all the ACTIVITY REALNAME was doing.
+PIZZAGUY: (Open door) Hello there, I have a pizza delivery for REALNAME?
+MOM: Look REALNAME, It's 1 am and this guy is still out delivering pizza. Only if you could be like that instead of talking to those FANS.
+PIZZAGUY: FANS? Wait.. Are you USERNAME1? The real USERNAME1?!
+silly music 1
+VTUBER: Uhh... I don't know what you are talking about.
+DAD: Uh.. Look we apologize. Our child can be bit quirky but uh... Can you just cancel the order?
+PIZZAGUY: No way! If you are actually USERNAME1. I will literally pay for the pizza.
+MOM: Uhh...
+DAD: Erm... Yes! Our child is the USERNAME1! Why do you ask?
+music stops
+vine boom
+waltz music
+PIZZAGUY: Oh my god! Where do I even begin?
+PIZZAGUY: The smile and FUNNY personality. I'd not give them all away even for the world. Oh my precious USERNAME1.
+PIZZAGUY: Even with all the CONDITION, I USERNAME2! will be there in the most devastating time, comforting you.
+VTUBER: Wait.. you are the USERNAME2? The guy that has been gifting me subs?
+PIZZAGUY: YES!! , Yes.. My aura has been acknowledged by my queen.
+PIZZAGUY: Oh USERNAME1, Won't you collab ACTIVITY with me? Or maybe... We can go out on a date together?
+music stops
+waterphone
+PIZZAGUY: Just kidding, haha! Unless if you really want to!
+PIZZAGUY: I apologize if my request makes you ick, I'm normally the aura master. But our fated encounter caught me a bit off guard.
+silly music 2
+DAD: Ok whatever, If USERNAME1 collab with you, Will I get my free pizza?
+PIZZAGUY: I will even gift USERNAME1 15 tier 3 subs!
+MOM: What is this tier 3 subs? If you don't mind me asking.
+PIZZAGUY: Well my lady, it's just small monthly payment of 25 dollar to support our favorite Vtuber!
+vine boom
+DAD: 25 dollar.. that's um, 25 multiply by 15 is um, 375 dollar!? Ahem.
+DAD: Yes, USERNAME1 will collab ACTIVITY with you for 15 of whatever you just said and the free pizza.
+PIZZAGUY: YES! You shall not regret this my lord~! Wink Wink.
+DAD: Just! Give me the free pizza, Damn you! Begone!
+PIZZAGUY: I shall DM you about our collab my queen. Have a good stream, my lovely angel~ (Leave the stage)
+music stops
+Teleport PIZZAGUY to Backstage
+police car
+tire screech
+VTUBER: (Despaired) Dad, you just exposed me. I don't even know if my FANS will even like me anymore.
+gameshow ring
+VTUBER: What? (Look at tv) USERNAME2 gifted 20 tier 3 subs? Can't wait for our ACTIVITY collab? Wink Wink?
+VTUBER: This is the worst day of my life! I hate you! I hate you! (Leave the stage)
+MOM: Honey, I don't know... All that for a free pizza and a creepy guy to creep on our daughter?
+DAD: What? I just set her career for life here! This is good for REALNAME and for us! You'll see.
+MOM: Whatever honey, After all of that LATENIGHT, I couldn't care less. Good night. (leave stage)
+DAD: Well at least I got my free pizza!
+usa anthem music
+TYPEWRITER: Plaintiff - After that night, USERNAME1 almost dies of cringe;Dad would use USERNAME1 to print money and mom is still mom;
 
 ======
 
@@ -33711,6 +33984,258 @@ SASQUATCH: You better be or I'll eat you.
 BIGEARL: Plus, Sasquatch is one heck of a wingman for huntin’ season!
 SASQUATCH: Remember I'm non-binary.
 BIGEARL: Big ol' wingthing. And remember, Jeb! The “Party in the Back” special is always waitin' for ya.
+
+======
+
+INFORMATION ===============================
+ID: 1067
+TITLE: Unexpected Item In Bagging Area!
+AUTHOR: Valhymm
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 27/08/24
+CHARACTERS ================================
+TILLY: Tilly, the self checkout robot:Behind Register
+BEN: Ben, an experienced customer:Entrance Stage Right
+CHLOE: Chloe, a newbie customer:Entrance Stage Right
+JIMMY: Jimmy, a mysterious shop worker:Backstage
+SUGGESTIONS =============================
+PIZZA: Any food or drink:pizza, packet of crisps, bar of chocolate, bottle of water, bottle of cola, roast chicken
+MARKIPLIER: A celebrity:Markiplier, KSI, Jeremy Clarkson, Taylor Swift, Katie Price, Meghan Markle, Mariah Carey, Dwayne Johnson, John Cena, Hulk Hogan 
+BEER: Any item you would need ID for:pair of scissors, knife, tube of glue, lottery ticket, bottle of beer, bottle of wine, pack of cigarettes, popgun
+FURSUIT: Something you'd be embarrassed to be seen buying:pack of tampons, top shelf magazine, Justin Bieber CD, fursuit, STD medicine, anti-diarrhoea medicine, pack of adult nappies, tube of wart remover
+NUMBER: Some numerical digits:1337, 1234, 2580, 6969
+TURN: Something your GPS directions might tell you to do:turn left, turn right, make a U-turn, take the second exit, take the first exit, take the third exit, your destination is on the right, your destination is on the left
+GLADIATORS: A game show:Gladiators, Only Connect, The Price Is Right, The Crystal Maze, Pointless, The Chase, Jeopardy!, Blockbusters, Mastermind, The Cube, Family Fortunes, Who Wants to Be a Millionaire
+LIVERPOOL: A city:Liverpool, New York, Manchester, Cork, Glasgow, Los Angeles, Edinburgh, London, Seattle, Dublin, Toronto, Belfast, Cardiff, Swansea, Birmingham
+TESCO: A supermarket:Tesco, Asda, Sainsbury's, Morrisons, Best Buy, 7-Eleven, Walmart, Target
+SHOPKEEPER: A job within a supermarket:shelf stacker, till operator, shopkeeper, manager, door supervisor, cashier, bagger, butcher, fishmonger, customer assistant, delivery driver, store picker
+SCRIPT ==========================================
+jazz music 1
+BEN: (Enter stage right) Okay Chloe, let's get in and out quickly, GLADIATORS is on the telly soon and I don't wanna miss it.
+Meanwhile CHLOE: (Follow Ben onstage)
+CHLOE: (Picking some items off the shelf) Yeah, I heard they're getting MARKIPLIER on as a guest this week.
+Meanwhile BEN: (Zip around the shelves and pick up a few items)
+CHLOE: (Look around the checkout confused) Where's the tills?
+BEN: Ah, they replaced them all with these self-checkout robots.
+CHLOE: Self-checkout robots? In a corner shop? In LIVERPOOL?
+BEN: (Passing many items to Tilly) Yeah, saves on till operators' wages, and it speeds up your shopping.
+Meanwhile TILLY: (As Ben passes you items) BEEP! BEEP! BEEP!
+BEN: All the major supermarkets like TESCO use them, smaller shops are catching on.
+CHLOE: I dunno Ben, seems unethical. Don't they replace real people?
+BEN: (Wave your credit card in Tilly's face) Nah, they just get deployed elsewhere. Usually to the backrooms.
+Meanwhile TILLY: (As Ben waves his card) BEEEEEP!
+BEN: Okay, done. Your turn, Chloe.
+CHLOE: But I've never used the self-checkouts before!
+BEN: Go on, it's easy! You saw how quickly I did it!
+CHLOE: O-Okay...
+TILLY: (Upbeat) Welcome! My name is Tilly! Please scan your first item!
+CHLOE: (Pass the first item to Tilly) Okay, here's a PIZZA. (Take the item off Tilly again)
+Meanwhile TILLY: (As Chloe passes you the item) BEEP! (Give it back)
+TILLY: Please place the item in the bagging area!
+CHLOE: Right, so that's down here. (Place the item down)
+TILLY: Please place the item in the bagging area!
+CHLOE: I just did that!
+TILLY: Please place the item in the bagging area!
+CHLOE: It IS in the bagging area!
+BEN: Oh wait, this happens sometimes, you might need to call for assistance.
+Meanwhile TILLY: Please place the item in the bagging area!
+CHLOE: How?
+BEN: Just press the help button.
+CHLOE: (Boop Tilly) Help.
+TILLY: Please wait for assistance.
+CHLOE: Ah, great.
+TILLY: Please wait for assistance.
+BEN: (To Tilly) Is this going to take long? They're usually here by now.
+TILLY: Please wait for assistance.
+CHLOE: We have a show to watch!
+TILLY: Please wait for assistance.
+BEN: Come on you bucket of bolts!
+Meanwhile JIMMY: (Enter stage left)
+groose music
+JIMMY: (Politely) Do you require assistance?
+CHLOE: Yes, I placed my PIZZA in the bagging area and the machine hasn't recognized it.
+shark tank discussion music 1
+JIMMY: (Wave your hand in front of Tilly like a Jedi) You don't need to bag this item.
+TILLY: (Hypnotized) I don't need to bag this item.
+JIMMY: (Wave your hand again) Please scan your next item. (Exit stage left)
+Meanwhile CHLOE: (Watch Jimmy leave)
+jazz music 1
+TILLY: (Snap out of it) Please scan your next item!
+CHLOE: Weird. (Turn back to Tilly)
+BEN: What's your next item?
+CHLOE: It's this BEER. (Pass the item to Tilly, then take it back)
+Meanwhile TILLY: (Take the item off Chloe) BEEP! (Give it back)
+TILLY: Approval needed.
+CHLOE: Huh?!
+TILLY: Approval needed.
+BEN: It assumes you're a child. Come on, just press the help button again.
+CHLOE: (Boop Tilly) I would have been quicker just going to TESCO!
+groose music
+JIMMY: (Enter stage right) (Politely) Do you require assistance?
+CHLOE: Yes, now your machine won't sell this BEER to me.
+shark tank discussion music 1
+JIMMY: (Wave your hand in front of Tilly) You don't need to see her papers.
+TILLY: (Hypnotised) I don't need to see her papers.
+JIMMY: (Wave your hand) You can sell age-restricted products to her.
+TILLY: I can sell age-restricted products to her.
+JIMMY: (Wave your hand) Please scan your next item. (Exit stage left)
+jazz music 1
+TILLY: (Snap out of it) Please scan your next item!
+CHLOE: (Nervously) Uhh, Ben? Would you mind looking away for a moment?
+BEN: Why?
+CHLOE: It's... private.
+BEN: (Realising) Oh, yes, I understand. (Look away) But be quick, we've only got about five minutes!
+CHLOE: Okay Chloe, you've got this. Remember what the SHOPKEEPER's assistant said.
+CHLOE: Here goes. (Pass the item to Tilly, then take it back)
+Meanwhile TILLY: (Take the item off Chloe) BEEP! (Give it back)
+badass music 1
+TILLY: Approval needed! Does your mother know?!
+CHLOE: (Exasperated) Oh. My. God!
+Meanwhile BEN: (Stifled laughter)
+CHLOE: (Punch Tilly on the nose) For heck's sake!
+TILLY: (Spin around a few times) BZZZZT! Would you like some toast?
+CHLOE: No, I want to see the SHOPKEEPER's assistant!
+JIMMY: (Enter stage left) (Politely) Do you require assistance?
+CHLOE: I am so annoyed!
+CHLOE: All I wanted was to buy this FURSUIT without anyone knowing, and even the machine's judging me!
+JIMMY: Of course. And for the record, I am not a SHOPKEEPER's assistant. I am an assistant SHOPKEEPER.
+BEN: (Nonchalantly) Is there a difference?
+CHLOE: Just do your bloody Jedi mind trick already!
+shark tank discussion music 1
+JIMMY: (Wave your hand in front of Tilly) You don't need to judge the customers.
+TILLY: (Pause) Unexpected item in bagging area!
+JIMMY: (Punch Tilly on the nose) (Calmly) You don't need to judge the customers.
+Meanwhile TILLY: (Spin around a few times) BZZZZT!
+TILLY: (Hypnotised) I don't need to judge the customers.
+JIMMY: (Wave your hand) Please scan your next item. (Exit stage left)
+jazz music 1
+TILLY: (You now have a random neck twitch and buzz) BZZT! Please scan your next item!
+CHLOE: (Deep breath) Calm down Chloe. Okay, I don't have any more items.
+BEN: So press the finish button. Come on, GLADIATORS will be starting soon!
+CHLOE: (Boop Tilly) Finish.
+TILLY: Please insert your card! (Open your mouth or stick out your tongue)
+CHLOE: Okay. (Insert your card into Tilly's mouth)
+BEN: C'mon, couldn't you just use contactless?
+CHLOE: My card hasn't got it!
+BEN: (Scoff) What is this, 2015?
+TILLY: (Hold out your hands) Please enter your PIN number!
+CHLOE: Okay... (Flick four of Tilly's fingers at random)
+TILLY: You entered the digits NUMBER! Is this correct?
+CHLOE: Don't say it out loud!
+Meanwhile BEN: Oh, my, God!
+TILLY: Payment accepted. Please take your items!
+CHLOE: Ugh! Finally! (Take your items but don't leave) I hope I haven't missed the start of GLADIATORS!
+TILLY: Please take your items!
+BEN: Shut up! (Punch Tilly on the nose)
+tense cinematic music
+TILLY: (Spin round a few times) BZZZZT!
+JIMMY: (Enter stage left) (Politely) Do you require... oh my word, what have you done to Tilly?
+Meanwhile TILLY: (Buzz and twitch your neck randomly)
+BEN: I relent! Human checkouts are way faster than this hunka junk!
+JIMMY: Try telling my boss that.
+gameshow ding
+silly music 1
+TILLY: In three hundred yards, TURN!
+CHLOE: (Losing it) DOOOOORGH! (Exit stage right)
+Meanwhile BEN: (Losing it) For God's sake! (Follow Chloe offstage)
+70s music
+JIMMY: (Approach Tilly and start fixing her) Hm. Well, as long as customers keep breaking you, I've still got a job.
+TILLY: (Sounding pleased) Mmm... unexpected item in bagging area...
+
+======
+
+INFORMATION ===============================
+ID: 1068
+TITLE: Hotel Detective
+AUTHOR: boris_kolenkhov
+VERIFIED: True
+TAGS: Skit
+SET: Detective Noir
+DATE: 28/08/24
+CHARACTERS ================================
+THE DETECTIVE: Rick Dixon the Hotel Detective:Stage Right
+MEAN WOMAN: Mrs. Woman:Backstage
+DUMB MAN: Mr. Man:Backstage
+SUGGESTIONS =============================
+ADJECTIVE: flattering adjective:handsome, pretty, strong
+APOLOGY: a phrase of apology:I'm sorry, Forgive me
+FILLER: a word to address awkwardness:yikes, moving on, okay
+SHATTER: a sound effect for a cartoon action:crack, chip, crash
+GROUP: a collection word:bundle, stack, wad
+NUMBER: any number larger than one:2, 1,000,000, 6.9
+NOUN: any small object:dollar, marble, pen
+DISGUISE: a silly disguise:clown, former president
+BODYPART: any part of the body (singular):heart, leg, eyeball
+SCRIPT ==========================================
+noir music 3
+The Detective: (Removing mask) Can't believe I managed to swipe her purse! Score!
+extreme knocking
+door creak
+Dumb Man: (Enter) Hi! We were looking for someone who could help us!
+Mean Woman: (Enter) A man just stole my purse!
+noir music 4
+Dumb Man: We were hoping you could help us. Somebody's gotta catch that person who just stole my wife’s purse.
+The Detective: What did this guy look like? ADJECTIVE? CELEBRITY maybe?
+Mean Woman: We didn’t say it was a guy.
+The Detective: APOLOGY, I just assumed so because men can be so INSULT. (look at Woman)
+Mean Woman: (look into man's eyes and giggle)
+Dumb Man: (To detective) Who are you anyway?
+The Detective: Where are my manners? The name's Rick Dixon. Hotel Detective.
+gunshot
+Mean Woman: (Cover ears) What was that?
+The Detective: APOLOGY, that happens every time I say Hotel Detective.
+gunshot
+Dumb Man: Hotel Detective?
+gunshot
+Mean Woman: (cover ears) Stop!
+The Detective: (awkwardly) FILLER, music resume.
+noir music 4
+The Detective: I handle any mystery concerning the hotel and anyone inside it. Including me, Rick Dickson, Hotel...
+Dumb Man: I get it.
+Mean Woman: (Move closer to him) I can’t believe I haven’t visited you before, Mr. Dixon.
+The Detective: (Flirty) Well it’s a good thing you did because we need to get behind this purse mystery.
+The Detective: (sits and motions them closer) So, did you have anything important in the purse? Anything of value?
+Mean Woman: (Look around nervously) Is that of the highest concern right now? That’s also private information.
+The Detective: Well, it would help SHATTER this case.
+Mean Woman: Is that so?
+The Detective: And I would return the favor, with anything your BODYPART desires.
+Mean Woman: (Fan yourself) Well uh, yes I did have something of value, which is why I, desperately need it back.
+The Detective: (move closer to Woman) Tell me what it is, and I promise I’ll get it back for you.
+Mean Woman: Don’t tell my husband.
+Dumb Man: Did you want to be alone?
+Dumb Man: (Turn away, cover ears)
+The Detective: (Look at but ignore the husband) FILLER, I would never.
+Mean Woman: My purse has a GROUP of NUMBER NOUNs inside.
+The Detective: Gotcha! (Punch the woman)
+Meanwhile Mean Woman: (get punched)
+Teleport MEAN WOMAN to Stage Left
+Music Stops
+gong
+Dumb Man: (turn quickly, gasp) What just happened?
+The Detective: Your wife is a criminal.
+courtroom sting
+Mean Woman: How dare you? I would never! Honey don’t listen to him!
+Meanwhile Dumb Man: (tend to your wife)
+spy music 2
+The Detective: You checked in two days ago, yes? Exactly one day before a “DISGUISE” robbed the bank across the street?
+The Detective: I practically invented that disguise.
+The Detective: This is a pitstop while you travel back home from your ex-boyfriend’s wedding, right?
+The Detective: You obviously don’t love your husband and you planned on using these NOUNs (pulls out purse) to get far, far away from him.
+Dumb Man: But my honey bun would never!
+The Detective: (Run to the man) Pull yourself together man!
+Mean Woman: How do you know my husband’s name?
+The Detective: Shut up, woman!
+Dumb Man: How do you know my wife’s name?
+The Detective: (look to audience) How convenient.
+Mean Woman: (To Man) You idiot!
+The Detective: (pulls out phone) Hello, police station? I’ve found the bank robber.
+record scratch
+The Detective: My name? It’s Rick Dixon, Hotel Detective.
+gunshot
+happy music 1
+TYPEWRITER: Man and Woman went on to get a divorce.
 
 ======
 
