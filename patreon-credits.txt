@@ -2552,6 +2552,7 @@ handsome_jack dac9
 LoonaStrawberry
 Krmoni
 Shiningtitan?
+Berry_Puppy
 #TIER=3
 SidMarcus
 PinballReviewer
