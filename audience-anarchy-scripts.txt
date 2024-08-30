@@ -33367,6 +33367,132 @@ applause
 ======
 
 INFORMATION ===============================
+ID: 1059
+TITLE: Most Amazing Murder Mystery of All Mystery Murders
+AUTHOR: The_Dapper_Cat
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 21/08/24
+CHARACTERS ================================
+STRANGER: Random person (May Die):Backstage
+BUTLER: The house butler (Secretly the murderer):Entrance Stage Left
+OWNER: The overly cocky and rich owner of the mansion:Stage Left
+SUGGESTIONS =============================
+FANCY: Fancy name:Hammy Jr, James Rond, Queen Lizzy III
+ADJECTIVE1: Negative adjective:Lame, Dumb, Garbage
+ADJECTIVE2: Description of a person:Oversized, Unreliable, Pail
+TYPE: Adjective:Terrible, Extra Long, Stubby
+FOOD: Any food:Fried Apple Pie, Ham Sandwich, Tacos
+RELIEF: Something you might say when feeling relieved:Great Goodly Boogly, Good God, Lord have mercy
+REASON: Something you might do when no one is watching:Watch Youtube, Playing video games, watching a historic documentation
+EVIL: Evil sounding name:Lord BrownBuss the III, King Monty Jr, Sir. Dingle of Elegance
+VERB: Action you can to do someone:Smite, Eliminate, Eat
+SHOCK: Something you might say out of shock:Oh My Gravy, Oh Great Heavens, My Oh My
+WEAPON: Any weapon/object:Extra Long Hot Dog, Turkey leg, Chainsaw
+NICKNAME: A good or bad Nickname to call someone in one word:Dummy, Pookie, Cutie
+SCRIPT ==========================================
+dark classical music
+OWNER: Ahahh! I love being such a beautiful individual of high class.
+OWNER: Owning this mansion is such an amazing milestone I have accomplished.
+OWNER: I hope the IRS doesn't come after me for not paying any of my bills that is.
+OWNER: If they found out I haven't paid any bills, they would take my ADJECTIVE1 mansion in a heart beat.
+OWNER: Say, I am quite hungry and could use a beautiful refresher.
+OWNER: Where is that ADJECTIVE2 butler? (Sit down in a chair)
+OWNER: Hey butler! Can you come here for a minute please?
+BUTLER: Why yes of course Mr. FANCY
+OWNER: Ahhh yes, what a great NICKNAME you are. Might you be of good use and go fetch me a TYPE FOOD?
+BUTLER: Why yes of course Mr. FANCY. I shall get the TYPE FOOD as you have requested. (Leave the room)
+OWNER: RELIEF I love the butler but my lord...
+OWNER: They are so ADJECTIV2 at their job. When can I just get a better butler?
+Music stops
+Extreme knocking
+OWNER: SHOCK. What does one knock so heavily on my door at such a ADJECTIVE1 hour?
+Teleport STRANGER to Entrance Stage Right
+OWNER: (Get up and go open the door)
+STRANGER: Well hello.
+Dark Classical Music
+OWNER: Who might you be? What makes you come to my humble abode an such an ungodly hour?
+STRANGER: Oh please Mr. FANCY, you remember who I am?
+OWNER: I am terribly sorry, I have no recollection of who you may be.
+STRANGER: Well then. Allow to to introduce myself yet once more. I am EVIL.
+STRANGER: I believe I sent you an e-mail regarding your tax forms.
+OWNER: Tax forms? What on earth are you talking about?
+OWNER: I am a great law abiding citizen of high class who pays taxes.
+STRANGER: Well then Mr. FANCY. I hate to break it to you, but that my friend, is a lie.
+OWNER: Oh what would you know what I have and haven't done?
+OWNER: I am a very wealthy individual if I do say so myself.
+BUTLER: (Walk into the room) Sorry about the wait Mr. FANCY I got busy REASON.
+BUTLER: Here is the FOOD you requested. And might I say, I had no idea we where expecting guests.
+OWNER: We weren't, my ADJECTIVE1 Butler.
+OWNER: this is just a no good individual trying to VERB me and take my beloved mansion.
+STRANGER: Oh please, I would never VERB You and your ADJECTIVE1 mansion.
+STRANGER: So don't shoot the messenger.
+STRANGER: I am merely here to acquire the money you have refused to pay for while now.
+OWNER: SHOCK you wouldn't be apart of the IRS would you?
+BUTLER: I believe he may be Mr. FANCY
+OWNER: Shut up you ADJECTIVE2 butler, I wasn't talking to you.
+BUTLER: SHOCK Mr. FANCY please do watch your tone towards me. Have you forgotten you pay me to be here?
+STRANGER: Now now Mr. FANCY, that's not a way to treat your servants is it?
+OWNER: He is my butler! He does as I say.
+BUTLER: Mr. FANCY does have a point. However I hate to change the topic, but your FOOD is getting cold.
+OWNER: Ahhh Yes, thank you. (Eat the butlers food)
+OWNER: Delectable! Such beautiful flavor! The taste of this FOOD and my oh my, how TYPE it is... (Clears throat)
+OWNER: Now if you excuse me, I must go to the washroom.
+OWNER: (sigh) if only I could just have my butler do it for me.
+OWNER: Please excuse me. (Leave the room)
+STRANGER: I hope he knows there is no escaping the IRS. He will pay his taxes on way or another.
+BUTLER: So its true?
+STRANGER: What is?
+BUTLER: That you are from the IRS?
+STRANGER: Why yes, but this has no effect on you. You simply just work here.
+BUTLER: Tizz a shame. If only you weren't a part of the IRS, I would let you live longer.
+Music stops
+Record Scratch
+STRANGER: I-Im sorry. Did you just say, Let me live longer?
+scary music
+BUTLER: (small evil laugh) Why yes.
+BUTLER: I put laxatives in Mr. FANCY TYPE FOOD.
+BUTLER: That way, you and I can spend some nice quality time alone.
+STRANGER: I thought you weren't expecting any company?
+BUTLER: I was originally planning on murdering Mr. FANCY with my WEAPON.
+BUTLER: However, after Mr. FANCY complimented my TYPE FOOD, perhaps I shall let them live...this once.
+STRANGER: (Slowly back up to the door) I think I should get going now.
+BUTLER: Where do you think your going? Im about to murder you with my WEAPON.
+BUTLER: Leaving now wont be so fun.
+STRANGER: Wait wait! You dont have to do this!
+BUTLER: Oh please EVIL, I will VERB you with my ADJECTIVE1 WEAPON NICKNAME, And then laugh at what a ADJECTIVE2 person you are, while simultaneously REASON.
+STRANGER: NO PLEASE HAVE MERCY!
+BUTLER: Quit Yapping NICKNAME, now it is your time to perish. (Stab EVIL)
+Meanwhile STRANGER: (Get stabbed by the Butler)
+Knife wound
+STRANGER: Ahhh!
+Teleport STRANGER to Backstage
+music stops
+BUTLER: Ahh yes! The lust for blood is very exquisite if I do say so myself.
+BUTLER: Tsk tsk tsk, what a mess. I suppose I should clean up this blood bath before Mr. FANCY comes back.
+western showdown music
+BUTLER: (Look around confused) What the? Why did this ADJECTIVE1 Western music just start playing?
+Teleport OWNER to Entrance Stage Right
+OWNER: Ahhh Yes sorry about the wait, I am back....why is there ADJECTIVE2 Western music playing?
+BUTLER: My apology Mr. FANCY, I shall change it immediately.
+BUTLER: I shall be right back. (Leave the room)
+record scratch
+noir music 4
+BUTLER: (Re-enter the room) Is this better Mr. FANCY?
+OWNER: Yes, perfect. Now then, where did that EVIL IRS guy go?
+BUTLER: Oh he said he was hungry, so he went off to go get some ADJECTIVE2 FOOD or something.
+OWNER: Alas, I can finally say I escaped the IRS once more!
+OWNER: How is it that every single IRS agent that comes to my door always has to go get FOOD after I go to the bathroom?
+BUTLER: Yes yes, very odd. I wouldn't think too hard about it Mr. FANCY.
+OWNER: Well then. Butler, I suppose you are free to go. I believe the bed is calling my name. It is indeed very late. (Leave the room)
+BUTLER: Thank you Mr. FANCY
+BUTLER: (Evilly talk to yourself) I will plan the ultimate demise of Mr. FANCY at some point. He will soon feel the wrath of my WEAPON.
+BUTLER: (Evil Laugh) (start coughing uncontrollably as the curtains close)
+
+======
+
+INFORMATION ===============================
 ID: 1060
 TITLE: Pizza Delivery Guy
 AUTHOR: LeoHardy
@@ -33483,8 +33609,8 @@ POPULAR PERSON: A popular/famous person or celebrity:Markiplier, Vivzie Pop, Rya
 MONEY: Business type, product, service, or company:Offshore E-girl Fishing, Loli fighting, Gopher milking
 SCRIPT ==========================================
 Scary music
-VILLAIN: (Enter stage left) Looks like we finally lost them, clean getaway. Those INFAMOUS GROUP won't find us out here.
-VILLAIN: (Yells at Hostage) Bring your ANIMAL over her now! Don't make me THREATEN you. (Points Weapon at Hostage)
+VILLAIN: (Enter stage left) Looks like we finally lost them, a clean getaway. Those INFAMOUS GROUP won't find us out here.
+VILLAIN: (Yells at Hostage) Hey! Bring your ANIMAL over here now! Don't make me THREATEN you. (Points Weapon at Hostage)
 HOSTAGE: (Enter stage left) Ok! Ok! I'm coming! Just please...
 VILLAIN: Shut up! You're lucky I still need you alive. Now sit down and be quiet. I better not get caught because of you.
 HOSTAGE: You won't get away with this. My mom is the TITLE of the country, you VRCHAT!
@@ -33499,7 +33625,7 @@ HOSTAGE: UwU! X3 (Falls to the ground again)
 VILLAIN: Your family stole our VALUABLE, so we're stealing you.
 VILLAIN: When they give us back our VALUABLE, we'll give you back to them.
 HOSTAGE: You'll...Give me back? You mean like, bring me back home? But...But...
-VILLAIN: Yes. once they return what is rightfully ours, we will ensure your safe return to your family.
+VILLAIN: Yes. once they return what is rightfully ours, we will safely return you to your family.
 HOSTAGE: But...but...
 VILLAIN: Your family may be evil and corrupt, but they are weak.
 VILLAIN: A picture of a few bruises on your pretty face, and they'll quickly give in to our demands.
@@ -33545,12 +33671,12 @@ PRIVATE: (Sadly looks down) Awwww...No one listens to me.
 Tense cinematic music
 CAPTAIN: On Me, move. (Slowly walk to the bridge with team)
 Meanwhile VILLAIN: (Slowly walk to the bridge with Hostage)
-VILLAIN: There they are! I knew I heard something! Good thing prepared an ambush!
+VILLAIN: There they are! I knew I heard something! It's a good thing prepared an ambush!
 PRIVATE: I told you! No one ever listens to me.
 CAPTAIN: Shut it, PRIVATE!
 HQ: Yeah, shut it, Private!
 HQ: I'm on the phone with your mom right now!
-HQ: Yes ma'am, he's acting like a VRCHAT right now.
+HQ: Yes ma'am, they're acting like a VRCHAT right now.
 Epic fantasy music 2
 SARGE: I got this! (Move closer to VILLAIN) You booped the wrong snoot today, POPULAR PERSON! Get Lego-ed, fartboy!
 VILLAIN: Screw you Legoshi Task Force! Take this! (Throw grenade at them)
@@ -34010,7 +34136,7 @@ TURN: Something your GPS directions might tell you to do:turn left, turn right, 
 GLADIATORS: A game show:Gladiators, Only Connect, The Price Is Right, The Crystal Maze, Pointless, The Chase, Jeopardy!, Blockbusters, Mastermind, The Cube, Family Fortunes, Who Wants to Be a Millionaire
 LIVERPOOL: A city:Liverpool, New York, Manchester, Cork, Glasgow, Los Angeles, Edinburgh, London, Seattle, Dublin, Toronto, Belfast, Cardiff, Swansea, Birmingham
 TESCO: A supermarket:Tesco, Asda, Sainsbury's, Morrisons, Best Buy, 7-Eleven, Walmart, Target
-SHOPKEEPER: A job within a supermarket:shelf stacker, till operator, shopkeeper, manager, door supervisor, cashier, bagger, butcher, fishmonger, customer assistant, delivery driver, store picker
+SHOPKEEPER: A job:shelf stacker, till operator, shopkeeper, manager, door supervisor, cashier, bagger, butcher, fishmonger, customer assistant, delivery driver, store picker
 SCRIPT ==========================================
 jazz music 1
 BEN: (Enter stage right) Okay Chloe, let's get in and out quickly, GLADIATORS is on the telly soon and I don't wanna miss it.
