@@ -33506,7 +33506,7 @@ SUGGESTIONS =============================
 INFAMOUS GROUP: A GROUP OF PEOPLE:VTubers, E-Boys, League of Legend Players
 ANIMAL: A funny sounding animal name:sloppy walrus, burnt beever, goofy gopher, monkey monday, giraffe
 THREATEN: Violent/Nonviolent act:Punch, kick, burn, hug, karate chop, dropkick, blackmail
-TITLE: A prestigious/famous position or job:Hokage, Emporer, Chosen One, Dragonborn
+TITLE: A prestigious/famous position or job:Hokage, Emporer, Chosen One, Dragonborn, V-Tuber
 VRCHAT: A type of VRChat player, or avatar:Hyena-Chan, mommagen, hyena, furry, e-boy, e-girl
 BODY PART: A part of the body :Head, leg, willie, jimmy, double chin, boobas
 VALUABLE: Something of worth or great importance:VRChat Plus, zaza, V-Bucks, Goth Dommy Mommies
@@ -33556,7 +33556,7 @@ CAPTAIN: (Enter Stage Right) This is CAPTAIN Legoshi, I read you loud and clear.
 CAPTAIN: Approaching possible location of the TITLE's kidnapped family member.
 CAPTAIN: Do we have a positive ID on the enemy target?
 HQ: Target in the area is identified as POPULAR PERSON.
-HQ: Intel says they look like a VTuber, but with a decent ANIMAL behind them.
+HQ: Intel says they look like a VTuber, but they've got a nice ANIMAL on them.
 HQ: Be careful in securing the Hostage, Team NUMBER.
 HQ: POPULAR PERSON is armed and extremely dangerous.
 SARGE: (Enter Stage Left) (Follows CAPTAIN) Oh yeah? So the heck are we! This is what we freaking do!
@@ -34072,9 +34072,9 @@ TILLY: (Upbeat) Welcome! My name is Tilly! Please scan your first item!
 CHLOE: (Pass the first item to Tilly) Okay, here's a PIZZA. (Take the item off Tilly again)
 Meanwhile TILLY: (As Chloe passes you the item) BEEP! (Give it back)
 TILLY: Please place the item in the bagging area!
-CHLOE: Right, so that's down here. (Place the item down)
+CHLOE: Okay, down here. (Place the item down)
 TILLY: Please place the item in the bagging area!
-CHLOE: I just did that!
+CHLOE: (Point down) Uh, yeah?
 TILLY: Please place the item in the bagging area!
 CHLOE: It IS in the bagging area!
 BEN: Oh wait, this happens sometimes, you might need to call for assistance.
@@ -34082,9 +34082,9 @@ Meanwhile TILLY: Please place the item in the bagging area!
 CHLOE: How?
 BEN: Just press the help button.
 CHLOE: (Boop Tilly) Help.
-TILLY: Please wait for assistance. (Pause) Please wait for assistance.
+TILLY: Please wait for assistance.... Please wait for assistance.... Please wait for assistance....
 BEN: (To Tilly) Is this going to take long? They're usually here by now.
-TILLY: Please wait for assistance. (Pause) Please wait for assistance.
+TILLY: Please wait for assistance.
 Meanwhile CHLOE: We have a show to watch!
 BEN: Come on you bucket of bolts!
 Meanwhile JIMMY: (Enter stage left)
@@ -34104,11 +34104,11 @@ CHLOE: It's this BEER. (Pass the item to Tilly, then take it back)
 Meanwhile TILLY: (Take the item off Chloe) BEEP! (Give it back)
 TILLY: Approval needed. (Pause) Approval needed.
 Meanwhile CHLOE: Huh?!
-BEN: It assumes you're a child. Come on, just press the help button again.
+BEN: It thinks you're a kid.
 CHLOE: (Boop Tilly) I would have been quicker just going to TESCO!
 groose music
 JIMMY: (Enter stage right) (Politely) Do you require assistance?
-CHLOE: Yes, now your machine won't sell this BEER to me.
+CHLOE: Yes, now your machine's upset about this BEER.
 shark tank discussion music 1
 JIMMY: (Wave your hand in front of Tilly) You don't need to see her papers.
 TILLY: (Hypnotised) I don't need to see her papers.
@@ -34117,22 +34117,22 @@ TILLY: She can buy age-restricted products.
 JIMMY: (Wave your hand) Please scan your next item. (Exit stage left)
 jazz music 1
 TILLY: (Snap out of it) Please scan your next item!
-CHLOE: (Nervously) Uhh, Ben? Would you mind looking away for a moment?
+CHLOE: (Nervously) Uhh, Ben? Could you... look away?
 BEN: Why?
 CHLOE: It's... y'know... private.
 BEN: (Realising) Oh, yeah right. (Look away) But be quick, we've only got about five minutes!
-CHLOE: (Deep breath, mutter) Okay Chloe, you've got this.
-CHLOE: Here goes. (Pass the item to Tilly, then take it back)
-Meanwhile TILLY: (Take the item off Chloe) BEEP! (Give it back)
+CHLOE: (Deep breath, mutter) Okay Chloe, you've got this. (Pass the item to Tilly, then take it back)
+Meanwhile TILLY: (Wait to take the item off Chloe) BEEP! (Give it back)
 badass music 1
 TILLY: Approval needed! Does your mother know?!
 CHLOE: (Exasperated) OH MY GOD.
 Meanwhile BEN: (Stifled laughter)
 CHLOE: (Punch Tilly on the nose) For heck's sake!
-TILLY: (Spin around a few times) BZZZZT! Would you like some toast?
-CHLOE: No, I want to see the SHOPKEEPER's assistant!
+Meanwhile TILLY: (Spin around in a circle)
+TILLY: BZZZZT! Would you like some toast?
+CHLOE: (Snap) No! I want to see the SHOPKEEPER's assistant!
 JIMMY: (Enter stage left) (Politely) Do you require assistance?
-CHLOE: I'm so annoyed! All I wanted was to buy this FURSUIT without anyone knowing, and even the machine's judging me!
+CHLOE: (Angrily) I'm so annoyed! All I wanted was to buy this FURSUIT without anyone knowing, and even the machine's judging me!
 JIMMY: Of course. And for the record, I am not a SHOPKEEPER's assistant. I am an assistant SHOPKEEPER.
 BEN: (Nonchalantly) Is there a difference?
 CHLOE: Just do your bloody Jedi mind trick already!
@@ -34140,7 +34140,7 @@ shark tank discussion music 1
 JIMMY: (Wave your hand in front of Tilly) You don't need to judge the customers.
 TILLY: (Pause) Unexpected item in bagging area!
 JIMMY: (Punch Tilly on the nose) (Calmly) You don't need to judge the customers.
-Meanwhile TILLY: (You've been hit, spin around a few times) BZZZZT!
+Meanwhile TILLY: (Spin around) BZZZZT!
 TILLY: (Hypnotised) I don't need to judge the customers.
 JIMMY: (Wave your hand) Please scan your next item. (Exit stage left)
 jazz music 1
@@ -34156,14 +34156,14 @@ BEN: (Scoff) What is this, 2008?
 TILLY: (Hold out your hands) Please enter your PIN number!
 CHLOE: Okay... (Flick four of Tilly's fingers at random)
 TILLY: You entered the digits NUMBER! Is this correct?
-CHLOE: (Exasperated) DON'T VOICE IT!
+CHLOE: (Exasperated) DON'T SAY IT!
 Meanwhile BEN: OH MY GOD.
 TILLY: Payment accepted. Please take your items!
 CHLOE: Ugh! Finally! (Take your items and go to the door)
 TILLY: Please take your items!
 BEN: Shut up! (Punch Tilly on the nose)
 tense cinematic music
-TILLY: (Spin round a few times) BZZZZT!
+TILLY: (Spin round, shake) BZZZZT!
 JIMMY: (Enter stage left) (Politely) Do you require... oh my, what have you done to Tilly?
 Meanwhile TILLY: (Buzz and twitch your neck randomly)
 BEN: Screw this! Human checkouts are way faster than this hunka junk!
