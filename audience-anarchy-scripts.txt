@@ -34102,7 +34102,7 @@ CHLOE: Weird. (Turn back to Tilly)
 BEN: What's your next item?
 CHLOE: It's this BEER. (Pass the item to Tilly, then take it back)
 Meanwhile TILLY: (Take the item off Chloe) BEEP! (Give it back)
-TILLY: Approval needed. (Pause) Approval needed.
+TILLY: Approval needed... Approval needed.
 Meanwhile CHLOE: Huh?!
 BEN: It thinks you're a kid.
 CHLOE: (Boop Tilly) I would have been quicker just going to TESCO!
@@ -34172,7 +34172,7 @@ gameshow ding
 silly music 1
 TILLY: In three hundred yards, TURN!
 CHLOE: (Losing it) DOOOOORGH! (Exit stage right)
-Meanwhile BEN: (Losing it) For God's sake! (Follow Chloe offstage)
+Meanwhile BEN: (Under your breath) For God's sake! (Follow Chloe offstage)
 70s music
 JIMMY: (Approach Tilly and start fixing her) Hm. Well, as long as customers keep breaking you, I've still got a job.
 TILLY: (Sounding pleased) Mmm... unexpected item in bagging area...
@@ -34269,6 +34269,157 @@ The Detective: My name? It’s Rick Dixon, Hotel Detective.
 gunshot
 happy music 1
 TYPEWRITER: Man and Woman went on to get a divorce.
+
+======
+
+INFORMATION ===============================
+ID: 1074
+TITLE: Productivity Meeting
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 01/09/24
+CHARACTERS ================================
+RICH: Rich the Inventor:Boss Chair
+MARTIN: Martin the Concerned Employee:Office Chair 1
+SHANE: Shane the Cynical Employee:Office Chair 2
+JERRY: Jerry the Confused Employee:Office Chair 3
+SUGGESTIONS =============================
+AVERB: An action verb:increase, attack, improve
+SPACE: A large object found in space:planet, galaxy, solar system
+NUMBER: A random number:2837, 23, 928
+FAKEDRUG: A fictional drug:halo dust, snowman fingers, crump
+SMOBJECT: A small object:nut, stapler, banana
+INVENTION: A fictional invention:toemaker, gum sizer, lemon phone
+CREATURE: An animal:horse, kangaroo, shark
+SADJECTIVE: An adjective describing size:large, tiny, monumental
+RNOUN: A noun. Any noun:antimatter, face, fork
+BODYPART: A body part.:nose, mouth, armpit
+SCRIPT ==========================================
+Corporate guitar music
+RICH: Alright, listen up, dingbats! We’ve gotta AVERB our productivity before the entire SPACE collapses into a singularity of mediocrity!
+RICH: We’re behind by, like, NUMBER units of something, I don’t know.
+MARTIN: Rich, are you sure this meeting is really necessary?
+MARTIN: I mean, can’t we just, like, fix things by, I don’t know, not messing up in the first place?
+SHANE: Oh, please. This is all just a colossal waste of time. I could be out hunting for some FAKEDRUG right now.
+SHANE: But nooo, I’m stuck here listening to Rich rant about productivity like it’' gonna stop the next apocalypse.
+JERRY: I don’t even work here. Why am I in this meeting? And what exactly are we producing? Widgets? Cosmic chaos? Tacos?
+RICH: Shut up, Jerry. Your mere presence is statistically lowering the IQ of this room. Or maybe you make everyone seem smarter.
+RICH: Okay, everyone, focus. We need to AVERB productivity across NUMBER locations.
+RICH: If we don’t, we’re looking at a catastrophic collapse of the SMOBJECT market, and I am not dealing with that hangover again!
+MARTIN: We’ve tried everything! I mean, you even created that, uh, INVENTION thing last time.
+MARTIN: And all it did was, uh, implode the office and turn everyone into, like, gelatinous CREATUREs for a week!
+SHANE: Yeah, and I’ve got news for you, Rick. Most of us actually enjoyed being gelatinous CREATUREs. It was kinda chill.
+JERRY: Wait, is that why I’ve been feeling so squishy?
+RICH: Listen, Martin! You don’t get it, do you? We’re operating on a whole other level here!
+RICH: This is about maximizing efficiency on a SADJECTIVE scale! We need ideas, and we need them now! Or else.
+MARTIN: Fine, whatever! I’ve got just the thing! Behold, the INVENTION.
+RICH: I already invented that. You just slapped your name on it.
+MARTIN: This is a game-changing device that’ll take you from zero to infinite productivity in, like, NUMBER minutes.
+RICH: (sarcastically) Oh great, another jackass with a glowing doohickey. Just what we needed.
+RICH: You got any idea how many of these "game-changers" I’ve seen blow up in people’s faces?
+RICH: I bet you didn’t even test it in an RNOUN vacuum, did ya?
+SHANE: There is too much suction if he tested it in an RNOUN vacuum.
+SHANE: Ugh, this is gonna be another one of those "fix it with some SMOBJECT” deals, isn’t it?
+SHANE: Just tell me when it’s over so I can go do something actually fun, like stealing from a rich orphan.
+MARTIN: Rich, I don’t know if we should mess with the glowing doohickey.
+MARTIN: Remember the last time you borrowed a INVENTION from mom? It didn't end well.
+JERRY: Can I try it? Maybe it'll finally help me understand what’s going on here.
+RICH: Hands off, Jerry! You wanna trigger a war with one-eyed CREATUREs? Be my guest! Just do it far away from me, alright?
+RICH: Actually, I'm sure the INVENTION is totally safe. I’ve only used it, like, once before, and it only erased time and space.
+RICH: Now, who’s ready to crank up the productivity to, like, 11? Here it goes!
+Alien siren
+MARTIN: What the hell did you do this time?
+RICH: Nothing, Martin! Let this be an important lesson to all of you. We don't need INVENTION to increase productivity.
+MARTIN: But everyone outside the building is now a gelatinous CREATURE, and they're hideous!
+RICH: Productivity has been inside us this entire time, just like the trackers I put inside everyone's BODYPART.
+SHANE: I don't remember you doing that. That explains the itching.
+RICH: Exactly.
+SHANE: You know, I kinda like being productive. It's like doing nothing, but the FAKEDRUGS help me realize I can do something.
+JERRY: Is this real? Are we being productive? Somebody tell me if I'm being productive!
+RICH: Oh, it’s real, Jerry. Real as that empty void where your BODYPART's supposed to be.
+JERRY: That explains the numbness.
+RICH: Welcome to the nightmare of us accidentally triggering a sense of fertility, buddy. You happy now?
+MARTIN: Huh. This actually turned out better than I expected. I might use this INVENTION for our next meeting.
+RICH: Stick to PowerPoint next time.
+
+======
+
+INFORMATION ===============================
+ID: 1078
+TITLE: Case of the Curious Bromance
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Detective Noir
+DATE: 02/09/24
+CHARACTERS ================================
+SAMSHADY: Detective Sam:Detective Chair
+MITCH: Detective's Friend Mitch:Entrance Stage Left
+SUGGESTIONS =============================
+LOBJECT: A large object:car, door, house
+LESSON: A kind of class:yoga, biology, philosophy
+OCCUPATION: An occupation:cleaner, janitor, welder
+CITY: A fictional or non-fictional city:Cleveland, Los Angeles, Squeak
+BROADWAY: A fictional or non-fictional Broadway show:Cats, Dogs, Geese
+CELEBRITY: Name of male celebrity:Tom Hardy, Antonio Banderes, PewDePie
+RNOUN: A noun:lotion, Legos, drama
+BADMOVIE: Name of a bad movie:Morbius, The Crow, Borderlands
+COBJECT: A cocktail decoration:umbrella, glitter, lime slice
+FOOD: A kind of cuisine:tapas, Malaysian, French
+SCRIPT ==========================================
+Noir music 4
+SAMSHADY: The city was darker than a black cat in an unlit coal mine.
+SAMSHADY: Or perhaps darker than a goth kid's poetry journal after someone taught them how to smile.
+SAMSHADY: Darker than a Hollywood reboot produced by the makers of BADMOVIE.
+SAMSHADY: Tonight, trouble had a name. Mitch.
+Knocking on door
+SAMSHADY: Come in, if you're not selling extended LOBJECT warranties!
+MITCH: Sammy, my man! You called?
+SAMSHADY: Mitch. Thanks for coming in. Excuse the phrasing. Sit down. There's something I've gotta ask you.
+MITCH: Oh, sure. But I have to leave soon. I’ve got a LESSON class in thirty minutes.
+SAMSHADY: LESSON, huh? Strange. I never knew you took LESSON.
+MITCH: Yeah, it’s great for the core. Plus, the instructor's name is Bruno, and let me tell ya, that guy can bend like a pipe OCCUPATION.
+SAMSHADY: Pipe OCCUPATION, you say? That's quite the analogy.
+MITCH: I suppose so!
+SAMSHADY: But why pipes?
+MITCH: It's a word that came to mind.
+SAMSHADY: So his name is Bruno, you say? Sounds European.
+MITCH: No, he's from CITY.
+SAMSHADY: CITY is not a place where a lot of "pipe OCCUPATIONs" can be found.
+MITCH: I'll take your word for it.
+SAMSHADY: Mitch, we've been friends a long time. We've had some good times.
+SAMSHADY: Remember that time in Cabo when you told the bartender you preferred "fruity cocktails" and what was it?
+SAMSHADY: "COBJECT make everything better."
+MITCH: COBJECTs make the drink sparkle.
+SAMSHADY: You said "sparkle." Now you have my curiosity.
+MITCH: (laughs) It’s true! What’s a drink without a little flair?
+SAMSHADY: And remember last month, when you said, and I quote, “There’s nothing like a good musical to really get your blood pumping.”
+MITCH: Absolutely. You ever seen BROADWAY? Mind-blowing choreography.
+SAMSHADY: Most people hate BROADWAY, but a certain segment of our population likes the choreography.
+SAMSHADY: Interesting. Very interesting. Say, Mitch, what’s your take on CELEBRITY in a well-fitted suit?
+SAMSHADY: Hypothetically speaking, of course.
+MITCH: Hypothetically? A national treasure. That man’s a walking masterpiece of masculinity and tweed.
+SAMSHADY: Mitch, let’s say, just for argument’s sake, that you’re at a party. You see two doors.
+SAMSHADY: One leads to a room full of gorgeous women.
+SAMSHADY: The other is a room full of tastefully shirtless male fitness models, oil optional. Which door do you walk through?
+MITCH: Well, that depends. What’s the lighting like in the male model room?
+SAMSHADY: Aha! I knew it!
+MITCH: Sam, what’s going on? You’ve been acting weird lately. Are you trying to ask me something? If so, just spill it.
+SAMSHADY: Alright, Mitch, I’ll lay it on the line. I’ve been following you around, taking notes.
+SAMSHADY: You’re sending signals, buddy. Mixed ones. Like a radio stuck between two stations.
+SAMSHADY: I gotta know. Are you a fan of musicals, fruit salad and RNOUN?
+MITCH: Yeah. But RNOUN. Really? Sam, are you trying to figure out if I'm gay?
+MITCH: Sammy, come on! Just because I like yoga, fruity drinks, musicals, and CELEBRITY doesn’t mean I’m gay!
+MITCH: It just means I have good taste!
+SAMSHADY: So you’re not?
+MITCH: Oh Heavens to Betsy, no. But thanks for the concern. But I was wondering if you’d want to grab dinner with me Friday night?
+MITCH: There's a new FOOD place the girls and I have been dying to try.
+SAMSHADY: Sure, Mitch! It's a date! (realization) Wait a minute.
+MITCH: Case closed, Sammy. Case closed.
+SAMSHADY: It was a case I’ll never forget. In the end, it turns out Mitch wasn’t hiding anything, but maybe I was.
+SAMSHADY: Like the fact that I’m terrible at reading between the lines. Or that I kinda like musicals and RNOUN too.
 
 ======
 
