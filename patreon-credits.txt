@@ -1246,7 +1246,6 @@ Dawn_Blade
 Biblobloom
 TheHiddenOneVR
 Luigi -_-
-~Dr-StrawHat~
 TrustVVorthy
 HeyItsIan
 bobexistsǃ
@@ -1649,7 +1648,6 @@ GreyWolve
 Ｓｌｅｅｐｙ~
 Loodelin
 Jackal_VR
-Jay3409
 దƘƖԼԼЄƦƇԼƠƜƝద
 Plush Miner
 ProtoKiri
@@ -1873,6 +1871,8 @@ LunaXDemon
 §VrAngel§
 ღ Z͙i͙i͙m͙i͙ ღ
 Ten20Six 60ac
+Dr Punisher 罰者
+Jay3409
 modNick
 ruralists
 #TIER=1
