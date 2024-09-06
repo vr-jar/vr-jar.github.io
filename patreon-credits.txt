@@ -1649,7 +1649,6 @@ RetroRender
 SnacksMcGee
 Monsterror
 Greyღ
-Icy Winter
 KnightOdin
 VR-Alastor
 GreyWolve
@@ -2533,7 +2532,6 @@ jassi701
 shadowblade0
 Lucifer0TTV
 olivia_drse
-BlurryFaceSys
 ChaoticQ
 Zyx1975
 kuromoriii
