@@ -2498,7 +2498,6 @@ CaptainCuttler
 DEADEYE36635
 BlackOutJoker
 WuffleBiscuit
-Dusk_Vega
 ~GECKO~
 MidoriEquals緑
 Nova Viera
@@ -2575,6 +2574,7 @@ Kuluki Heiwajima
 Jacob OffO
 MoneySoDolo
 dewayneha
+Dusk_Vega
 #TIER=3
 SidMarcus
 PinballReviewer
