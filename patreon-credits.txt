@@ -1871,6 +1871,7 @@ Dr Stampede 台風
 spycash 1e7c
 givenfrostbite
 wolflin
+wolfltd
 modNick
 ruralists
 #TIER=1
