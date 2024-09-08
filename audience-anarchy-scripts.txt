@@ -8137,78 +8137,6 @@ BILLY: Order your PRODUCT-Wow now!
 ======
 
 INFORMATION ===============================
-ID: 167
-TITLE: Betrayer in the Shadows
-AUTHOR: MrCreepyPasta
-VERIFIED: True
-TAGS: Skit
-SET: Grocery Store
-DATE: 28/04/24
-CHARACTERS ================================
-LILY : Lily, Final Girl:Stage Right
-JASON : Jason, First to Die:Stage Right
-EMMA: Emma, Second to Die:Stage Right
-MIKE : Mike, Self Sacrificing Jock:Stage Right
-SARAH : Sarah, girl with some feelings for Chris:Stage Right
-CHRIS: Chris, boy who changes into a monster later:Stage Right
-SUGGESTIONS =============================
-MONSTER1: a Type of Monster:Vampire, Werewolf, Demon
-WEAPON1: a Type of Weapon, Melee:Bat, Knife, Chainsaw
-EMOTION1: an emotion:Love, Hate, Cherish
-EVENT1: some event:Christmas, My Birthday, Sleeping with my wife
-SCRIPT ==========================================
-Halloween Music
-LILY: (Pointing at door) We can't stay out there! That "thing" is closing in and it'll get us!
-MIKE: Stay close, and keep your eyes peeled!
-MIKE: Everyone spread out. Find something to barricade the door...
-JASON: (searching aisle) What was that thing? 
-EMMA: (searching along side JASON) Some kind of MONSTER1 from our Nightmares
-SARAH: (glancing around) Wait do you hear that? 
-CHRIS: Hear what? It's dead quiet out there?
-SARAH: Exactly... want's it following us? (runs to the door to check) I don't see it...
-Noir music 1
-CHRIS: (Follows SARAH) No that's impossible. I saw it... didnt I? It was almost touching us. 
-MIKE: Get back with the group! Stick together. Something is wrong
-LILY: (getting frantic and searching the store) Maybe.. maybe there's another way in? Could it be in here with us?
-SARAH:(searching behind the aisle) wait! I think there's an emergency exit back here!
-JASON: Ok if it got in that way, then that's out way out...
-MIKE: Be quiet... if it's back here I don't want it to-
-CHRIS: (starts to evil laugh) Don't want it to what?
-LILY: Chris...? Chris what are you doing?
-MIKE: Holy hell man! Are you seeing this? Chris is a MONSTER1
-CHRIS: (changes into a monster) (Roars)
-Thunder
-Epic Fantasy music 3
-SARAH: We're trapped!
-LILY: No! This way, everyone! (Leads the group to center stage)
-MIKE: (desperate) Look for a WEAPON1 to Defend yourselves!
-JASON: Chris How could you do this! (Runs at CHRIS to attack)
-CHRIS: Don't you remember EVENT1 ?! (Kills Jason)
-Anime sword gleam 2
-Meanwhile JASON: (Dies)
-EMMA: We trusted you! (rushes at CHRIS to attack)
-CHRIS: (evil roar) Trust was Your Mistake! (Kills Emma)
-Anime sword gleam 2
-Meanwhile EMMA: (dies)
-SARAH: (Running to the entrance. fighting back tears) We need to leave guys! NOW! 
-LILY: We'll never make it! He's going to kill us!
-MIKE: No! I'll grab him and you two go for the emergency exit!
-LILY: Mike NO!
-SARAH: He'll kill you!
-MIKE: There's no other way! You two need to live! (Grabs and grapples with CHRIS. Pulling/Leading him out the front door)
-Meanwhile CHRIS: (Grapples with MIKE and is pulled out the front door)
-MIKE: Go! Run now!
-CHRIS: NO! (roar)
-Anime sword gleam 2
-MIKE: (Off stage: Scream of death)
-Lacrimosa Music
-SARAH: Mike... no....
-LILY: We have to keep moving...We can make it out (leaves through the opposite door)
-SARAH: But at what cost?... MIKE I will always EMOTION1 You ...(Leaves through the same door as LILY)
-
-======
-
-INFORMATION ===============================
 ID: 173
 TITLE: Something Extra
 AUTHOR: IvoryFluff
@@ -8276,76 +8204,6 @@ DOCTOR: Alright, just lay back and let me do my job. (Move over to the patient a
 PATIENT: Nah, sorry, I'm not dealing with this! (Jump off the table and run out the door)
 SIBLING: Wait, don't leave without me! (Chase the patient out the door)
 Meanwhile DOCTOR: Don't forget to leave me a 5 star review on APP!
-
-======
-
-INFORMATION ===============================
-ID: 175
-TITLE: Cheap Gameshow
-AUTHOR: Dangerzone50
-VERIFIED: True
-TAGS: Game Show,Contains Adult Innuendo
-SET: Game Show
-DATE: 28/04/24
-CHARACTERS ================================
-PLAYER2: The new challenger:Contestant Podium 2
-PLAYER1: The returning champ:Contestant Podium 1
-ANNOUNCER: The Announcer:Narrator Podium
-HOST: The Host:Host Podium
-SUGGESTIONS =============================
-GRANDPRIZE: A utterly worthless grand prize:$15 fortnite card, $1.35 in nickels from the green room sofa, Magazines stolen from the Audience Anarchy lobby 
-WEAPON: A weapon or dangerous object:Nuke, CZ75 full auto, Murder 5 Knife
-LOCATION: Where does our contestant live?:Hoboken, Denver, Your Mom's house
-PRIZE1: A cheap, boring everyday object (toaster, stapler, ball, etc.):Desk fan, Ballpoint pen, Rubber band
-ACTIVITY: An everyday fun activity:Horizontal Polka, "Stretching", Full contact Yoga
-1NAME: Name our returning champion!:Mommies little POGchamp, JanieUWU, The man. The myth. But not the legend.
-HNAME: Name our host!:Tommy "loose lips" capachelli, Billy "She said she was 18" Spencer, Nicky "Gimme a cigarette" Stix
-SNAME: Name our pricing show!:Rock bottom, Pricing with the fishes, This space available
-2NAME: Name our new contestant!:Double parked, Craig, Wolfie_pawz
-CURRENCY: A ridiclous gameshow currency name:Snazzlebucks, useless credits, Crunch tokens
-SCRIPT ==========================================
-ANNOUNCER: (excited announcer voice) Will the owner of a 2006 Toyota Carolla with Utah plate NE1-4ABJ please move your car!
-Gameshow intro
-ANNOUNCER: (Excited) Then come on down! Because you are the next contestant on SNAME!
-ANNOUNCER: (excited) -and here is your host! HNAME!
-HOST: Welcome to SNAME! 
-HOST: The show where every prize is from the alley out back!
-ANNOUNCER: Lets meet our contestants! 
-HOST: Facing off for the chance to win a GRANDPRIZE
-HOST: Back with us is our returning champ 1NAME!
-PLAYER1: Still waiting on my PRIZE1
-HOST: Yeah, sure. It's in the mail
-HOST: Joining us this week is-
-PLAYER2: Can we make this quick, I'm double parked
-HOST: Let's show em' the first item up for bid!
-ANNOUNCER: It's a PRIZE1!
-ANNOUNCER: This shiny new PRIZE1 from the PRIZE1 company, And it can be yours on SNAME!
-Gameshow start
-HOST: Thanks Ron, Isn't that fantastic! We will start the bidding with 1NAME
-PLAYER1: You still owe me a damn PRIZE1 from last week!
-Gameshow time expire
-HOST: No one cares- 2NAME How much for the PRIZE1!?
-PLAYER2: Uh, Uhh... (Look at audience for help) Three. No, seven. No. Yes, 5 dollars HNAME!
-Gameshow buzzer
-PLAYER1: Seven and a half CURRENCYs
-Gameshow ding
-HOST: Thank you 1NAME! At least someone knows how to play
-HOST: So tell us a little about yourself 2NAME!
-HOST: Your dreams, wants, where you from... Social security number and mothers maiden name
-PLAYER2: I'm from LOCATION. I like to ACTIVITY pretty much every day.
-HOST: Fascinating! Tell us what's next Ron!
-ANNOUNCER: IT'S A VACATION!
-ANNOUNCER: An all expense paid vacation to scenic LOCATION!
-ANNOUNCER: Travel by panel van to the heart of scenic LOCATION!
-ANNOUNCER: For a week of ACTIVITY at the world-famous ACTIVITY place!
-PLAYER2: That's a picture of a parking lot... And I already live there!
-Gameshow time expire
-HOST: YOU LOOSE! We all know what that means!
-ANNOUNCER: It's WEAPON time!
-HOST: That means 1 NAME remains our champ!
-PLAYER1: Hey, where is my GRANDPRIZE!?
-ANNOUNCER: Tune in next time for another Low-budget episode of SNAME!
-Gameshow outro
 
 ======
 
@@ -12835,103 +12693,6 @@ Grandma: I’m getting my DEADLY WEAPON!
 Steven: (runs out screaming)
 Samantha: Anyways, when is dinner?
 laughter
-
-======
-
-INFORMATION ===============================
-ID: 421
-TITLE: Lost in Translation
-AUTHOR: Kymerah
-VERIFIED: True
-TAGS: Skit
-SET: Interrogation Room
-DATE: 28/04/24
-CHARACTERS ================================
-COP: Interrogating the suspect :Behind Door
-ANIMAL: Translating what the suspect says:Backstage
-SUSPECT: Speaks in food only:Chair
-TAMER: Translating what the animal says:Backstage
-SUGGESTIONS =============================
-BODY: A sensitive part of a human body:lips, mouth, crack, lower cheeks, eyeball, feet, groin, hole, belly button
-POKEMON: An iconic Pokémon that says its own name:Pikachu, Bulbasaur, Squirtle, Charmander  
-CONDIMENT: A food condiment :ketchup, mayonnaise, mustard, white sauce, sweet and sour 
-SCARY: A scary animal noise:RAWR, REEEEEEEEE, AHGAHGAH, meeep
-CANDY: A candy:gummy bears, smarties, ring-pop, creme egg
-FARM: An farm animal noise:neigh, baaa, moo, ooo-arr
-BRITISH: A British food:ham sandwich, sausage and mash, steak and kidney pie, full English breakfast
-BIRD: A bird noise:quack, kooh, tweet twoo, cluck, GWAAAAK
-PET: A pet noise:woof, meow, hisss, bark
-JAPAN: A Japanese food:Salmon, tuna, rice, bento box, sushi, egg roll
-NAME: A stupid villain/criminal name:Christ-licker, Digimonimon, cat cruster, femboy-man, granny gumjobs
-CUTE: A word to describe an attractive person:Sexy, hot, humpable, special, lovely, delicious, chaturbate-worthy 
-SCRIPT ==========================================
-spy music 1
-COP: (walk through door then close it, looking at paperwork) Okey-doke. Suspect 2984: NAME.
-COP: (Look at them) That's what your fans call you right?
-SUSPECT: (look back at them but remain silent) ...
-vine boom
-COP: Ah. You're one of "those people" I see.
-COP: (reopen the door and shout down the hallway) Ay! We need a translator over here!
-COP: (Close door and sigh)
-COP: So sorry about this NAME. You'd think we'd be more professional around here given the current year.
-TAMER: (Enter room, leave door open) Hello everyone, your translator has arrived!
-tada
-COP: (Looking-over the translator) Oh ho! They sent in a CUTE one today! Damn!
-TAMER: oh, I'm not your translator today.
-TAMER: Your translator is over there. (point to open door)
-ANIMAL: (Stand still in doorway) ...
-TAMER: I translate what they translate from the suspect.
-laughter
-TAMER: (point at self) I am their translator. (nod)
-COP: E-excuse me?
-TAMER: Lets get started! (stand next to the suspect, leaving room for the animal between you)
-ANIMAL: (Shut door and stand between the suspect and your tamer)
-COP: (Collects self and shrug) Alright then.
-COP: NAME. What reason do you have for committing such a heartless, violent crime?
-SUSPECT: JAPAN.
-ANIMAL: PET.
-TAMER: I have none. I'm a sad and lonely individual and have no friends or family.
-COP: This is too confusing..
-ANIMAL: BIRD!
-TAMER: (look over at animal then back at cop) Hurry up. My diaper is almost full.
-COP: (points) That's quite kinky.
-waterphone
-TAMER: Not me! The animal!
-SUSPECT: (Waves) BRITISH.
-ANIMAL: FARM.
-TAMER: End my suffering please, I'll do anything.
-COP: (Points to tamer in confusion then over to the suspect)
-COP: Only if you go along with our demands!
-SUSPECT: (Shrugs) CANDY.
-ANIMAL: SCARY.
-TAMER: Yes, anything. Anything to get away from this horrid room.
-laughter
-COP: (In the suspects face) Did you or did you not commit the crime?
-SUSPECT: CONDIMENT.
-ANIMAL: POKEMON.
-TAMER: Okay, I did it.
-TAMER: I spat all over that old lady's BODY.
-TAMER: And you know what?
-TAMER: She loved every last second of it!
-TAMER: She's just framing me because we were lovers!
-COP: That's all I needed to hear. (arrest the tamer)
-vine boom
-TAMER: (In handcuffs now) W-whaaa?!
-COP: Seems like you've just admitted to a crime on an open recording.
-COP: That's a life sentence. (open door then point out of the door)
-COP: Come on you granny BODY enjoying fiend..
-TAMER: I hate my job. (Slowly walk out of room.)
-aww
-COP: Don't we all. (Follow the tamer and shut the door behind you)
-happy music 1
-SUSPECT: Nice one, Jasmine! (Hold hand up for a high-five)
-ANIMAL: Another pesky translator behind bars, Phillip! (high five)
-laughter
-SUSPECT: (Sniff sniff) ... We really need to change your diaper.
-laughter
-ANIMAL: (Big long sniff) You don't like the smell?
-ANIMAL: ...... I do.
-applause
 
 ======
 
@@ -24935,77 +24696,6 @@ Gameshow Outro
 ======
 
 INFORMATION ===============================
-ID: 764
-TITLE: Bulletproof
-AUTHOR: PigeonVa
-VERIFIED: True
-TAGS: Skit
-SET: Murder
-DATE: 28/04/24
-CHARACTERS ================================
-BOSS: Chief of police :Stage Left
-OFFICER: Confident Officer:Entrance Stage Right
-EVIL: Baby:Backstage
-STORY: Narrator :Narrator Podium
-SUGGESTIONS =============================
-NAME: A name you call a baby:Biboo, cop jr, darkness
-DAY: A type of weather or time :Day, night, afternoon, morning
-PLUMP: Another word for fat:Chubby, whale of a, tubby, round, rotund, thicc
-FOOD: A type of food:Biscuit, singular fry, burger, sandwich, piece of lettuce
-LANGUAGE: A type of language:German, French, Yappenese, Spanish, the queens I’m English 
-ANIMAL: A type of animal:Ape, gorilla, monkey, platypus, goblin shark, elf girl
-PART: A part of the body:Leg, toe, tummy, ear, kidney, left nut 
-BLANK: How something tastes:Creamy, dry, moist, crispy, crusty
-NUMBER: An amount:0, 1, 2, 3, 7, 4, 5
-ORGAN: A organ:Liver, heart, kidney, pancreas, intestines 
-ILLNESS: A illness:Covid, diabetes, diarrhea of the mouth , common cold, old age
-SCRIPT ==========================================
-70s music
-STORY: It is a stormy Tuesday DAY, and an officer and the chief were having a casual conversation
-OFFICER: Man my significant other has been a pain in the extra ORGAN as of recently.
-aww
-BOSS: I really don’t care, I’ve got more important things to care about.
-OFFICER: Like what?
-BOSS: My job like you should be doing!
-STORY: Suddenly there were large knocks on the door.
-Heavy door knocking
-BOSS: Go answer that I don’t wanna.
-OFFICER: Ok. ( go open the door )
-OFFICER: Hey chief there is a strange PLUMP baby on the doorstep.
-BOSS: What are you waiting for, a FOOD? Bring it in already!
-OFFICER: Well a FOOD would be nice, but yeah I’ll bring it in for interrogation.
-STORY: The officer had not eaten anything and was hungry, so the idea of FOOD sounded wonderful to them because it stimulated their extra ORGAN
-BOSS: Mm looks like my FAMILY, kinda strange cause they died.
-OFFICER: What should we name them chief?
-BOSS: How about NAME?
-EVIL: Get your hands off me you ANIMAL!
-BOSS: Wow it talks! Can it speak LANGUAGE?
-EVIL: Si senior.
-STORY: The baby in fact could not speak LANGUAGE.
-BOSS: Hey that’s not LANGUAGE! you lying fiend take it away for interrogation!
-OFFICER: That’s what I was doing chief, also Stop talking to a baby you sound insane.
-BOSS: You didn’t hear the baby?
-OFFICER: Of course I heard the baby, I’m not deaf I just don’t care enough.
-BOSS: Ok ok enough talk, get that baby out of here.
-EVIL: (Eat Boss) Om nom nom
-BOSS: AHHHH my PART
-teleport BOSS backstage
-OFFICER: WHAT DID YOU DO YOU- YOU MONSTER!?
-EVIL: I ate him isn’t it obvious? He tasted BLANK
-OFFICER: (pull gun) DIE (shoot)
-EVIL: You fool I’m bullet proof (bullet bounces off)
-OFFICER: So am I! (Bullet bounces off officer and back to the baby)
-EVIL: WHAT?! NOOOO
-Explosion
-Teleport EVIL backstage
-OFFICER:am I gonna be the new chief now?
-STORY: He never did become the chief nevertheless he was actually fired for property damage because of the explosion.
-STORY: The officer saved NUMBER persons that day, including a old grandma who had ILLNESS
-TYPEWRITER: Everybody died of the new ILLNESS strand after that
-
-======
-
-INFORMATION ===============================
 ID: 766
 TITLE: Welcome To The Family
 AUTHOR: OzbendPrime
@@ -26097,70 +25787,6 @@ PRES: Come on Vice President you can come watch me practice TALENT. (Exit)
 VICE: Oohh, and we can pick up some FOOD on the way. (Exit)
 LEAD: Umm...did I just get fired?
 superhero music
-
-======
-
-INFORMATION ===============================
-ID: 802
-TITLE: Average Warm Topic Experience
-AUTHOR: PolarisWoof
-VERIFIED: True
-TAGS: Skit
-SET: Grocery Store
-DATE: 09/05/24
-CHARACTERS ================================
-VOXEL: Voxel, Jay's manager:Backstage
-ANDY: Andy, window-shopper:Backstage
-FLYNN: Flynn, skeptical customer:Entrance Stage Right
-JAY: Jay, the gung-ho employee:Behind Shelf
-SUGGESTIONS =============================
-BODY: Body part below the waist:Leg, ankle, knee, hips
-SOUL: Part of the body:Soul, Mind, Left Leg, arm, nose
-WHATEVER: Literally anything:Trainwreck, Rainbow, Jesus, Nintendo DS
-EDGE: Adjective:Alt, Moody, Spikey, Sharp, Crispy
-SOMETHING: Literally anything:Bonzi Buddy, My Little Pony, ABBA, Linkin Park
-ANYTHING: Literally anything:Among Us, Donuts, Socks, Bowtie
-MAINSTREAM: A group of society:mainstream, boomer, zoomer
-ACCESSORY: An Accessory:spiky jewelry, kitty collar
-MOOD: A mood:angst, deep n' brooding, bottled up emotions
-CLOTHING: An article of clothing:band tee, ultra-tight crop top, pre-torn tank-top
-ADJECTIVE: Adjective:DEPRESSING, Dark n' edgy, Overpriced and the wrong size
-SCRIPT ==========================================
-guitar music 1
-JAY: (humming) Do do dooo...
-FLYNN: (ENTER STAGE RIGHT)
-JAY: (cheerful) Welcome, welcome to Warm Topic! Your one-stop shop for all things ADJECTIVE!
-FLYNN: (uninterested) Uh... hi. Just looking. Thanks. (walk past JAY to the shelves, look at merchandise.)
-JAY: Looking for the perfect CLOTHING to express your inner MOOD?
-JAY: Or maybe some ACCESSORY to pierce through the veil of MAINSTREAM mediocrity?
-FLYNN: (mumble) Maybe just a pair of socks...
-JAY: (gesture to shelf) Check out this killer design!
-JAY: This band is like, the darkest thing since sliced ANYTHING.
-FLYNN: (lean in and look at the shirt) They... have a song called "Sparkly Unicorn Rainbow?"
-JAY: ... uh... artistic license?
-ANDY: (walk in STAGE RIGHT) Woah, is that a SOMETHING shirt?
-JAY: (excitedly) Enter, friend! Embrace the EDGE side!
-ANDY: Uh, sure. I've never been in a Warm Topic before.
-JAY: Your life is about to change! Prepare for a WHATEVER of style!
-FLYNN: (sigh) ANDY: A WHATEVER? Are you sure?
-JAY: Yes! This store is like a concert for your SOUL! Every purchase is a rebellion against the machine!
-ANDY: (gesture to shelf) So... these ripped jeans are a statement?
-JAY: Yes! A statement that says, "I don't need complete BODY coverage to be awesome!"
-VOXEL: (enter STAGE LEFT) JAY, can you please tone down the theatrics a little? We're not selling tickets to a MAINSTREAM concert out here.
-JAY: Yes sir! But just because we're not a concert doesn't mean we can't rock out, right?!
-VOXEL: Look. If you can't dial it back a notch, I'm putting you on sock duty for the rest of the week.
-JAY: Socks! But Voxel - socks are such a drag... no drama, no pizazz!
-FLYNN: (snort from the back of the store)
-VOXEL: Don't encourage him. ...JAY, just try to make a normal sale, okay?
-JAY: A normal sale? Normal isn't ADJECTIVE WHATEVER... normal is boring!
-VOXEL: (throw hands up in exasperation, exit STAGE LEFT) JAY: (look down at floor dejected)
-ANDY: (to JAY) Hey. I think your enthusiasm is pretty cool.
-JAY: Really..? You do?
-ANDY: Sure! It's refreshing, actually. I'll get that unicorn shirt!
-JAY: (thrilled) The unicorn shirt?! Excellent choice! It's like a rebellious SOMETHING mixed with SOUL!
-JAY: (lead ANDY to the register) I'll ring you right up~!
-FLYNN: (grab an item from the shelf) Hey. ...I'll take the socks.
-JAY: YAY!
 
 ======
 
@@ -32752,6 +32378,132 @@ DJBARRY: Who gave her that OBJECT?
 ======
 
 INFORMATION ===============================
+ID: 1038
+TITLE: Enabler and the Catfish
+AUTHOR: SmithDaStick
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 13/08/24
+CHARACTERS ================================
+GA: Gamer, dating the catfish:Couch
+DA: Addict, friend of the Gamer :Entrance Stage Left
+GF: Catfish girl friend:Kitchen
+SUGGESTIONS =============================
+DRINK: Drink:Purp Surp, lean machine, Fago, agua de coco
+VIDEO GAME: Online video game:Final Fantasy 14, World of Warcraft, Roblox, VRChat, 
+FOOD: Type of food you'd cook:pineapple pizza, corn beef, pigs in a blanket
+GNAME: Gamer name:Carl, Francis, Asmon 
+ANAME: Name of a dude:Herodotus, Bob, Willie, Ziggy, Puff
+ATTRACTIVE: Describe someone's appearance:Attractive, stunning, gorgeous, promiscuous
+WWE: Name of a fighting show:WWE, UFC, Sumo wrestling
+MED: Name of medication or drug:Adderall, Oxy, Fentanyl, Benzodiazepines, Xylazine, Nicotine
+XM: Amount of money:50 bucks, $32.45, $40
+ENDEARING: Cutesy name:pookie wookie snookie bear, dumpling, sweet-ums
+TRASH: Something to put trash in:Garbage shoot, trash can, dump truck 
+SLIME: Gross sounding word:slime, Lugubrious, Curd, Mucus
+SCRIPT ==========================================
+(silly music 2)
+DA: (prepare FOOD on the counter)
+GA: (sit down) DUDE I'm starving, how much longer until dinner is ready?
+DA: about 30 min, don’t worry bro, I’m cooking FOOD. (put FOOD in the oven)
+GA: SWEEEET I love FOOD! Could you grab me a glass of DRINK?
+DA: For sure GNAME (hand GNAME a glass of DRINK and sit down)
+GA: Thanks ANAME; I’ve got a favor to ask you dude.
+DA: Anything for you bro, I can’t thank you enough for letting me crash at your place.
+GA: Well remember how I told you about that girl I met while playing VIDEO GAME?
+DA: Yeah you’re never not in a discord call with her.
+DA: How could I forget when you’re always calling her ENDEARING every time you finish a sentence?
+GA: (chuckle) yeah dude that’s fair. Anyways she's coming over today
+DA: Wait, like you’re meeting the first time, irl here at your place?
+GA: Of course dude, you know I hate leaving the house.
+DA: (chuckle) True but isn’t that a bad idea?
+GA: No, she’s my ENDEARING! So our love is too strong for anything bad to happen.
+DA: right, hopefully she’s not some crazy stalker or you’re screwed by sending your address.
+GA: (nervous chuckle) yeah she already knows where I am 24/7 so no worries.
+DA: What? How?
+GA: Well she said she’s scared of someone kidnapping her because she’s so ATTRACTIVE. So she wanted me to be able to save her if that happens.
+DA: I doubt she’s that ATTRACTIVE for that to be a serious concern bro.
+GA: (pull out phone and hold it for GNAME to see) dude check out this pic of her! She might as well be Miss America.
+DA: Wow she really is that ATTRACTIVE!
+GA: Yeah plus we share our locations 24/7 regardless. It was a main benefit of me becoming her ENDEARING.
+GA: Plus I have major trust issues after my ex cheated on me for 4 months.
+DA: (tap your friends shoulder and sarcastically say) sounds like a great benefit.
+GA: Yeah so basically I’d like for you to head out for a bit, we plan on having some WWE action if you know what I mean.
+DA: (look down sad) but WWE is our thing.
+GA: I know dude but we can always hit up a re-run.
+DA: I guess so bro, but before I go (scratch neck) could you give me some money so I could get some more MEDs.
+GA: (stand up and hand ANAME money) here you go dude, hope XM is enough, just make sure you’re gone for as long as the WWE episode.
+DA: (Take money and exit stage right) No worries man, you always help me out with MED so whatever you say goes. (shut the door behind you)
+GA: Really hope he stays gone long enough for me and my girl to partake in WWE.
+(discord notification)
+GF: (stand at the door of stage right) Open up GNAME!
+GA: Thank you GOD she’s here! (run over to stage right and open the door) (gong)
+(groose music)
+GF: ENDEARING I cant believe we’re finally meeting after two weeks of dating!
+GA: Um who are you? (be ready to be pushed aside by gf coming in)
+GF: (laugh hysterically and push your way inside) you are so silly ENDEARING! It’s me your Girlfriend!
+GA: (nervous chuckle) I must need my eyes checked or something.
+GF: don't be a prude! It’s just the lighting here isn’t as good as my place, that’s all. (head toward couch)
+GF: (sit on couch) Oof such a lovely couch. (waff the air and sniff) Why does it smell like that?
+GA: Well that’s ANAME bed for the time being, he’s crashing at my place since he just got out of rehab and is getting back on his feet.
+(noir music 2)
+GF: You’re so nice but you shouldn’t let him stay here, especially since I’m now yours.
+GF: Come take a seat and lets make our dating official by partaking in WWE.
+GA: True let me dim the lights real real low and turn on WWE (change channel on tv then sit down)
+(70s music)
+GA: I’ve been looking forward to this for a long time!
+TYPEWRITER: ;they watched WWE;
+GF: Oh that was fantastic a fantastic WWE!
+GF: I want to move in with you after that GNAME.
+GA: I’d love for that ENDEARING.
+(aww)
+(emotional piano music)
+GF: There’s something that has to happen first ENDEARING.
+GA: Anything for you my ENDEARING
+GF: ANAME has to move out, tomorrow.
+GA: Really? Can’t he have a little more time? I told him I’d watch a re run with him.
+GF: ENDEARING don’t you love me? If you do, you’ll get rid of him.
+teleport DA to Front Door
+GA: I mean it’s just so sudden to make a big decision so fast.
+DA: (barge in the door) sup bro I’m home!
+GF: Tell him ENDEARING.
+DA: Hey nice to meet you I’m ANAME, GNAME ‘s roommate.
+GF: (ignore ANAME and sternly tell GNAME) Tell him ENDEARING!
+GA: Hey ANAME welcome back, (stand up and stutter) I’ve got some bad news dude.
+DA: Go on then, out with it
+(mystery music 1)
+GA: Me and (look at your gf scared) my ENDEARING had a talk and we decided.
+GF: (stand upand stare at GNAME) TELL HIM!
+GA: It’s time for you to move out.
+DA: No way man, you can’t be serious!
+GF: He is serious you SLIME low life! (stand behind GNAME)
+DA: No one is talking to you TRASH.
+GF: That’s no way to speak to a woman! You have to leave all you do is sit around and use GNAME for his kindness.
+DA: That is not true! GNAME get this liar out of here!
+GF: (offended) I am not!
+DA: Yes you are look at you, you’re a catfish!
+GF: (start to cry) I am beautiful, I am no such thing!
+GA: Dude you’re making her cry!
+DA: Yeah, that's what pathetic liars do.
+GA: Dude just go.
+DA: You’re really going to betray your childhood friend for this catfish?
+GA: Get out dude, you’re being a jerk.
+DA: Nah man, I'm not going anywhere. You aren’t my friend; I see that now (draw a knife).
+DA: You are just an enabler helping me get my MEDs!
+GF: oh my, ENDEARING we're going to die! (back away behind the couch)
+GA: (back away behind the couch) woah dude take it easy, like you said I’m your childhood friend
+DA: That was before, this is now
+(fire alarm)
+DA: (look toward the kitchen and scream) no i forgot about the FOOD!
+(badass music 1)
+DA: (run towards cabinet) Got to get my MED stash before it burns!
+GA: Now's the time ENDEARING make a run for it! (run out after your gf)
+GF: (scream in terror and run out stage right)
+
+======
+
+INFORMATION ===============================
 ID: 1040
 TITLE: Rescue Mission
 AUTHOR: Ahmadsyar
@@ -33529,7 +33281,8 @@ VILLAIN: How does it feel? Being looked down on for once. (Points weapon at host
 VILLAIN: Your family took everything from us. Our jobs, our land, and even our VALUABLE!
 HOSTAGE: This is kinda hot, but I didn't take anything! My family's MONEY business has nothing to do with me!
 VILLAIN: Wrong! It has everything to do with you! (Hits the hostage again)
-HOSTAGE: UwU! X3 (Falls to the ground again)
+Meanwhile HOSTAGE: (Get Hit, fall down)
+HOSTAGE: UwU! X3
 VILLAIN: Your family stole our VALUABLE, so we're stealing you.
 VILLAIN: When they give us back our VALUABLE, we'll give you back to them.
 HOSTAGE: You'll...Give me back? You mean like, bring me back home? But...But...
@@ -33559,9 +33312,9 @@ HQ: Target in the area is identified as POPULAR PERSON.
 HQ: Intel says they look like a VTuber, but they've got a nice ANIMAL on them.
 HQ: Be careful in securing the Hostage, Team NUMBER.
 HQ: POPULAR PERSON is armed and extremely dangerous.
-SARGE: (Enter Stage Left) (Follows CAPTAIN) Oh yeah? So the heck are we! This is what we freaking do!
+SARGE: (Enter Stage Right) (Follows CAPTAIN) Oh yeah? So the heck are we! This is what we freaking do!
 SARGE: We'll be in and out in 2 seconds, which is 1 second longer than I gave to your mom last night, eh PRIVATE?
-PRIVATE: (Enter stage left) Not cool, SARGE. But... What if we're not just in and out?
+PRIVATE: (Enter stage right) Not cool, SARGE. But... What if we're not just in and out?
 PRIVATE: What if they're listening, and know we're coming, and they already set up an ambush?
 PRIVATE: What if we get overwhelmed and...captured. I'll never see my mom again, or my cats...
 PRIVATE: What if they do some kind of weird TORTURE to us? Or tie us down and pour hot LIQUID all over our...y'know?
