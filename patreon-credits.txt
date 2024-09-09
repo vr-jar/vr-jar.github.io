@@ -330,7 +330,6 @@ rwkplay
 Xsynchro
 Onix001
 SadDark
-KimTheGoddess
 Exclavenient
 Super SonicoVR
 LiliTheSmolBean
@@ -1635,7 +1634,6 @@ ProtoKiri
 Zed․
 - GrandJaxx -
 এPasteliCandyএ
-GloomyGl0ria
 Switch '-_-'
 TheDizzyRabbit
 MudHud
@@ -1880,7 +1878,6 @@ Steelhide
 LefTonbo
 Fireblast123
 Wolfy_Dusk
-SlashVR
 DrPineapple
 Spookytomb02
 dont_jinxit
