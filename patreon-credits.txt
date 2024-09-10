@@ -1647,7 +1647,6 @@ vrtualhers
 LBG_JaxyBanana
 Silverjdog1
 ProjektUnity
-~FireFang~
 GenericRpGuy
 『ᴄᴜᴛᴇᴅᴜᴄᴋʏʏ』
 knoxnox
@@ -1879,6 +1878,7 @@ Mizuki Towa
 Otisdog
 DrSpineThief
 ღHoneyBoiღ
+Penguin_WINS
 modNick
 ruralists
 #TIER=1
