@@ -968,7 +968,6 @@ UISFHTAM
 DreadBody
 Lockoo
 XxFaTaLSLaYeRxX
-OnyxAxomander
 Kai The Floof
 Valhymm
 ModxVoldHunter
@@ -1878,6 +1877,7 @@ Alyosha453
 Yeenoghu
 Mizuki Towa
 Otisdog
+DrSpineThief
 modNick
 ruralists
 #TIER=1
