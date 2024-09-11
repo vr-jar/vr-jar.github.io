@@ -616,7 +616,6 @@ idelm
 desiredstolas
 ｔｗｏｍａｄ
 Blụsh
-Seraph_Saints
 SymbiontUV
 ɢᴜɪᴅɪɴɢ ʟɪɢʜᴛ
 O-Malley
@@ -2080,6 +2079,7 @@ Noms1
 Artizea___
 Jade Furry
 Melloniac
+Seraph_Saints
 Sol Sterling
 azure_stat
 -filian
