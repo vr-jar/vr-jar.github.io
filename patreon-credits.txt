@@ -294,7 +294,6 @@ Qerkn
 momothemonster
 CozyCoral
 Lark_
-NanoBunTV
 Squirrel
 ༒Flower༒
 kizzika
@@ -1882,6 +1881,7 @@ MouseIsMei
 Starstruckdiva
 ఌgore_addictఌ
 Killerwave510
+NanoBunTV
 modNick
 ruralists
 #TIER=1
