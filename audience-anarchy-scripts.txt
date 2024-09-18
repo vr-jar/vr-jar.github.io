@@ -20358,7 +20358,7 @@ GUARD: What a handsome and great young fellow. (Start to pack-up)
 INFORMATION ===============================
 ID: 658
 TITLE: Cowboy Duel
-AUTHOR: Im_15Spiderman
+AUTHOR: ༒Ｓｐｉｄｅｒ－Ｍａｎ༒
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -32387,13 +32387,13 @@ SET: Living Room
 DATE: 13/08/24
 CHARACTERS ================================
 GA: Gamer, dating the catfish:Couch
-DA: Addict, friend of the Gamer :Entrance Stage Left
-GF: Catfish girl friend:Kitchen
+DA: Addict, friend of the Gamer :Kitchen
+GF: Catfish girl friend:Backstage
 SUGGESTIONS =============================
 DRINK: Drink:Purp Surp, lean machine, Fago, agua de coco
 VIDEO GAME: Online video game:Final Fantasy 14, World of Warcraft, Roblox, VRChat, 
 FOOD: Type of food you'd cook:pineapple pizza, corn beef, pigs in a blanket
-GNAME: Gamer name:Carl, Francis, Asmon 
+GNAME: Name for a nerd:Carl, Francis, Asmon 
 ANAME: Name of a dude:Herodotus, Bob, Willie, Ziggy, Puff
 ATTRACTIVE: Describe someone's appearance:Attractive, stunning, gorgeous, promiscuous
 WWE: Name of a fighting show:WWE, UFC, Sumo wrestling
@@ -32412,10 +32412,10 @@ DA: For sure GNAME (hand GNAME a glass of DRINK and sit down)
 GA: Thanks ANAME; I’ve got a favor to ask you dude.
 DA: Anything for you bro, I can’t thank you enough for letting me crash at your place.
 GA: Well remember how I told you about that girl I met while playing VIDEO GAME?
-DA: Yeah you’re never not in a discord call with her.
+DA: Yeah you’re always in a discord call with her.
 DA: How could I forget when you’re always calling her ENDEARING every time you finish a sentence?
 GA: (chuckle) yeah dude that’s fair. Anyways she's coming over today
-DA: Wait, like you’re meeting the first time, irl here at your place?
+DA: Wait, like you’re meeting the first time, irl here, at your place?
 GA: Of course dude, you know I hate leaving the house.
 DA: (chuckle) True but isn’t that a bad idea?
 GA: No, she’s my ENDEARING! So our love is too strong for anything bad to happen.
@@ -32424,7 +32424,7 @@ GA: (nervous chuckle) yeah she already knows where I am 24/7 so no worries.
 DA: What? How?
 GA: Well she said she’s scared of someone kidnapping her because she’s so ATTRACTIVE. So she wanted me to be able to save her if that happens.
 DA: I doubt she’s that ATTRACTIVE for that to be a serious concern bro.
-GA: (pull out phone and hold it for GNAME to see) dude check out this pic of her! She might as well be Miss America.
+GA: (pull out phone and hold it for ANAME to see) dude check out this pic of her! She might as well be Miss America.
 DA: Wow she really is that ATTRACTIVE!
 GA: Yeah plus we share our locations 24/7 regardless. It was a main benefit of me becoming her ENDEARING.
 GA: Plus I have major trust issues after my ex cheated on me for 4 months.
@@ -32432,7 +32432,7 @@ DA: (tap your friends shoulder and sarcastically say) sounds like a great benefi
 GA: Yeah so basically I’d like for you to head out for a bit, we plan on having some WWE action if you know what I mean.
 DA: (look down sad) but WWE is our thing.
 GA: I know dude but we can always hit up a re-run.
-DA: I guess so bro, but before I go (scratch neck) could you give me some money so I could get some more MEDs.
+DA: I guess so bro, but before I go (scratch neck) could you give me some money so I could get some more MED.
 GA: (stand up and hand ANAME money) here you go dude, hope XM is enough, just make sure you’re gone for as long as the WWE episode.
 DA: (Take money and exit stage right) No worries man, you always help me out with MED so whatever you say goes. (shut the door behind you)
 GA: Really hope he stays gone long enough for me and my girl to partake in WWE.
@@ -32454,7 +32454,7 @@ GA: True let me dim the lights real real low and turn on WWE (change channel on 
 (70s music)
 GA: I’ve been looking forward to this for a long time!
 TYPEWRITER: ;they watched WWE;
-GF: Oh that was fantastic a fantastic WWE!
+GF: Oh that was fantastic WWE!
 GF: I want to move in with you after that GNAME.
 GA: I’d love for that ENDEARING.
 (aww)
@@ -32474,12 +32474,12 @@ GA: Hey ANAME welcome back, (stand up and stutter) I’ve got some bad news dude
 DA: Go on then, out with it
 (mystery music 1)
 GA: Me and (look at your gf scared) my ENDEARING had a talk and we decided.
-GF: (stand upand stare at GNAME) TELL HIM!
+GF: (stand up and stare at GNAME) TELL HIM!
 GA: It’s time for you to move out.
 DA: No way man, you can’t be serious!
 GF: He is serious you SLIME low life! (stand behind GNAME)
 DA: No one is talking to you TRASH.
-GF: That’s no way to speak to a woman! You have to leave all you do is sit around and use GNAME for his kindness.
+GF: That’s no way to speak to a woman! You have to leave! All you do is sit around and use GNAME for his kindness.
 DA: That is not true! GNAME get this liar out of here!
 GF: (offended) I am not!
 DA: Yes you are look at you, you’re a catfish!
@@ -32490,14 +32490,15 @@ GA: Dude just go.
 DA: You’re really going to betray your childhood friend for this catfish?
 GA: Get out dude, you’re being a jerk.
 DA: Nah man, I'm not going anywhere. You aren’t my friend; I see that now (draw a knife).
-DA: You are just an enabler helping me get my MEDs!
-GF: oh my, ENDEARING we're going to die! (back away behind the couch)
+(draw sword)
+DA: You are just an enabler helping me get my MED!
+GF: oh my, don't kill me! (back away behind the couch)
 GA: (back away behind the couch) woah dude take it easy, like you said I’m your childhood friend
 DA: That was before, this is now
 (fire alarm)
-DA: (look toward the kitchen and scream) no i forgot about the FOOD!
+DA: (look toward the kitchen and scream) no I forgot about the FOOD!
 (badass music 1)
-DA: (run towards cabinet) Got to get my MED stash before it burns!
+DA: (run towards cabinet, in the kitchen) Got to get my MED stash before it burns!
 GA: Now's the time ENDEARING make a run for it! (run out after your gf)
 GF: (scream in terror and run out stage right)
 
@@ -33305,16 +33306,16 @@ Music Stops
 HOSTAGE: (Pouts) You're not even going to electrocute me? Worst. Kidnapper. Ever. (Turn around and sit.)
 Shark tank discussion music 1
 HQ: (Remains at Podium) Legoshi Task Force NUMBER, come in. Do you read me? What's your status?
-CAPTAIN: (Enter Stage Right) This is CAPTAIN Legoshi, I read you loud and clear.
-CAPTAIN: Approaching possible location of the TITLE's kidnapped family member.
-CAPTAIN: Do we have a positive ID on the enemy target?
+CAPTAIN: (Enter Stage Right) Team, on me. HQ, This is CAPTAIN Legoshi, I read you loud and clear.
+CAPTAIN: Approaching location of the hostage.
+CAPTAIN: Do we have a positive ID on the enemy?
 HQ: Target in the area is identified as POPULAR PERSON.
 HQ: Intel says they look like a VTuber, but they've got a nice ANIMAL on them.
 HQ: Be careful in securing the Hostage, Team NUMBER.
 HQ: POPULAR PERSON is armed and extremely dangerous.
-SARGE: (Enter Stage Right) (Follows CAPTAIN) Oh yeah? So the heck are we! This is what we freaking do!
+SARGE: (Enter Stage Right) (Stay near CAPTAIN) Oh yeah? So the heck are we! This is what we freaking do!
 SARGE: We'll be in and out in 2 seconds, which is 1 second longer than I gave to your mom last night, eh PRIVATE?
-PRIVATE: (Enter stage right) Not cool, SARGE. But... What if we're not just in and out?
+PRIVATE: (Enter stage right) (Stay near Captain) Not cool, SARGE. But... What if we're not just in and out?
 PRIVATE: What if they're listening, and know we're coming, and they already set up an ambush?
 PRIVATE: What if we get overwhelmed and...captured. I'll never see my mom again, or my cats...
 PRIVATE: What if they do some kind of weird TORTURE to us? Or tie us down and pour hot LIQUID all over our...y'know?
@@ -33330,9 +33331,9 @@ PRIVATE: Calling me a VRCHAT and such. I've just been feeling real lonely lately
 CAPTAIN: Understood HQ. Moving in to intercept Target. Over and out.
 PRIVATE: (Sadly looks down) Awwww...No one listens to me.
 Tense cinematic music
-CAPTAIN: On Me, move. (Slowly walk to the bridge with team)
+CAPTAIN: On Me, move. (Slowly walk towards bridge with team)
 Meanwhile VILLAIN: (Slowly walk to the bridge with Hostage)
-VILLAIN: There they are! I knew I heard something! It's a good thing prepared an ambush!
+VILLAIN: (Spot Legoshi Task Force) There they are! I knew I heard something! It's a good thing prepared an ambush!
 PRIVATE: I told you! No one ever listens to me.
 CAPTAIN: Shut it, PRIVATE!
 HQ: Yeah, shut it, Private!
@@ -33342,10 +33343,10 @@ Epic fantasy music 2
 SARGE: I got this! (Move closer to VILLAIN) You booped the wrong snoot today, POPULAR PERSON! Get Lego-ed, fartboy!
 VILLAIN: Screw you Legoshi Task Force! Take this! (Throw grenade at them)
 Explosion
-SARGE: (Feet explode) My legs! They blew up my beans!!! I'm down! (Lay down)
+SARGE: (Feet explode) My legs! POPULAR PERSON blew up my beans!!! I'm down! (Lay down)
 CAPTAIN: SARGE! NOOOOOOOO!!
 Teleport SARGE Backstage
-VILLAIN: (Throw another grenade.)
+VILLAIN: Your turn VRCHAT (Throw another grenade.)
 Explosion
 CAPTAIN: (Feet and legs explode) AHHHH!!! MY FEET! THEY GOT MY GRIPPERS! (Lay down)
 VILLAIN: Looks like those dogs won't be barking any time soon!
@@ -34026,6 +34027,94 @@ TYPEWRITER: Man and Woman went on to get a divorce.
 ======
 
 INFORMATION ===============================
+ID: 1069
+TITLE: Tiny Shoes
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Living Room
+DATE: 28/08/24
+CHARACTERS ================================
+HUSBAND: The Husband:Couch
+WIFE: The Wife:Center Stage
+EMPLOYEE: Hotel Employee:Backstage
+SUGGESTIONS =============================
+NATURE: A place found in nature:forest, mountains, desert
+CONTAINER: Something you would put an object in:dumpster, trashcan, box
+WEBSITE: A website, fictional or not:CornHub, CNN, Cracker Barrel 
+COUNTRY: A foreign-sounding country:Krumplefjordia, Jambia, Boocrane
+SMANIMAL: A small animal:hamster, Pikachu, insect
+BODYPART: A body part:toe, finger, ear
+FNOUN: A tyle of feeling:respect, anger, sadness
+MCONDITION: A fictional medical condition:Happy Worms, Milkdud Syndrome, Bread Disease
+MDEVICE: A medical device:wheelchair, syringe, stretcher
+EFOLD: Something that is easily folded:origami, paper, cardboard
+RNOUN: A random noun:fortune, destiny, luck
+CELEBRITY: Name of celebrity:Jerry Seinfeld, Jennifer Lopez, Matt Damon
+SCRIPT ==========================================
+Groose music
+WIFE: Oh, Harold, isn’t this place just darling? Look at that view! The mountains, the mist. Oh, look at that!
+HUSBAND: That's just a photo framed on the wall of our hotel room.
+WIFE: Oh okay.
+HUSBAND: But what's with all the wood in here? It’s like they chopped down the whole NATURE just for this room.
+HUSBAND: And what’s that smell? Pine? Cedar? Are we living in a Christmas tree?
+WIFE: That's the cologne you found in a CONTAINER.
+HUSBAND: (spots something on floor by front door) What are those? Did someone leave doll clothes here?
+WIFE: (gasping) Harold, you uncultured swine! It's shoes.
+HUSBAND: Not for us, right?
+WIFE: I suspect it’s some kind of local custom. You know, like a hospitality thing. Maybe we’re supposed to wear them?
+HUSBAND: Wear them? Are you kidding me? These things couldn't fit on my pinky BODYPART!
+HUSBAND: Who's wearing these? A SMANIMAL?
+WIFE: Come on, Harold, it’s probably a sign of FNOUN or something.
+WIFE: You’re always saying we should be more open to new experiences.
+HUSBAND: I said new experiences, not foot-binding.
+WIFE: (checks phone) I'm reading about these things online on WEBSITE dot com.
+WIFE: Tiny shoes, big respect. It’s a sign of humility to the gods of COUNTRY.
+HUSBAND: COUNTRY. Say that three times fast.
+WIFE: No! You know how I develop MCONDITION from excessive tongue-twisters.
+HUSBAND: These tiny shoes, though. They look like they belong on a Christmas ornament.
+WIFE: Or a SMANIMAL that has some bragging rights. It’s symbolic.
+WIFE: Just try them on. What’s the worst that could happen?
+HUSBAND: Oh, I don’t know, maybe I lose circulation in my BODYPART, fall over, crack my head open.
+HUSBAND: Real fun vacation watching me suffer like someone who might secretly like pain.
+HUSBAND: These can't be for adults. There’s no way. They must’ve gotten the wrong size. This is insane!
+WIFE: Just put them on, Harold!
+HUSBAND: (puts on shoes) Oh, yeah. This is great. Real comfortable. I’m loving this.
+WIFE: You look ridiculous, Larry.
+HUSBAND: Oh, do I? Because I feel ridiculous too. My toes are folded up like EFOLD in here.
+HUSBAND: Yeah, this is a great idea, honey. Really embracing the local culture here.
+HUSBAND: I'm embracing it so much I might need a MDEVICE for the rest of the trip.
+EMPLOYEE: (enters through front door) Ah, Mr. Harold, welcome to COUNTRY! I see you have found the traditional shoes.
+HUSBAND: (sarcastic) I see knocking is not a formality in our country.
+WIFE: Yes, Harold's wearing the tiny shoes right now. We thought it was a local custom.
+HUSBAND: Yeah, apparently it's a custom to torture your guests. Not the good kind of torture.
+EMPLOYEE: (laughing) Oh no, no! The shoes are just for decoration! They are to bring good luck to your stay.
+EMPLOYEE: No one wears them. They are very sacred and very small!
+WIFE: They're decorative?
+EMPLOYEE: Yes, they are meant to stay outside the door.
+EMPLOYEE: They symbolize the small steps of good RNOUN coming into your life.
+HUSBAND: Small steps? My feet are taking no steps! They’re crammed into these death traps you call shoes!
+WIFE: Oh my God, Harold, you have no good RNOUN at all! Take them off right now!
+HUSBAND: I'm trying! They’re like Chinese finger traps!
+WIFE: That's racist, honey.
+HUSBAND: I love you, but I can't even right now.
+EMPLOYEE: You know, you’re not the first one to make this mistake.
+EMPLOYEE: Last year, CELEBRITY tried to wear them as a fashion statement. We had to cut off their feet.
+HUSBAND: What did you just say?
+EMPLOYEE: We had to cut them off their feet. They still contracted MCONDITION, though.
+HUSBAND: (horrified) Cut them off? What kind of twisted tradition is this?
+EMPLOYEE: Do not worry, Mr. Harold. You have brought much laughter to COUNTRY. We will remember you fondly.
+HUSBAND: Oh, fantastic. I’m a laughingstock in a foreign country. This trip just keeps getting better and better.
+EMPLOYEE: You have made your mark on COUNTRY! We will feature you in our next tourism billboard.
+HUSBAND: (sarcastic) Oh, wonderful. Just what I needed!
+EMPLOYEE: Don’t worry! We will send you a free pair of tiny shoes as a souvenir. In your size next time!
+WIFE: You know, Harold, maybe next time, we should just stick to postcards.
+HUSBAND: Or at least read the fine print on the customs before I end up on a billboard in a foreign language.
+WIFE: With the tiny shoes. And maybe anything else you have that might be tiny.
+
+======
+
+INFORMATION ===============================
 ID: 1074
 TITLE: Productivity Meeting
 AUTHOR: LeoHardy
@@ -34173,6 +34262,162 @@ SAMSHADY: Sure, Mitch! It's a date! (realization) Wait a minute.
 MITCH: Case closed, Sammy. Case closed.
 SAMSHADY: It was a case I’ll never forget. In the end, it turns out Mitch wasn’t hiding anything, but maybe I was.
 SAMSHADY: Like the fact that I’m terrible at reading between the lines. Or that I kinda like musicals and RNOUN too.
+
+======
+
+INFORMATION ===============================
+ID: 1086
+TITLE: Customer is Never Right
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Hardware Store
+DATE: 09/09/24
+CHARACTERS ================================
+CLERK: Store Clerk:Behind Register
+CUSTOMER: Confused Customer:Center Stage
+SUGGESTIONS =============================
+DRUG: A fictional or nonfictional drug:marijuana, shrooms, popsicles
+APPLIANCE: An appliance or household electronics:washer, vacuum, toaster
+SMOBJECT: A small object:bird, box, cracker
+ACTVERB: An action verb:break, smash, crank
+NUMBER: Any number:373, 856, 23943
+COMPUTER: A kind of computer or console:PC, Playstation, Game Boy
+CREATURE: An animal:duck, cow, rat
+LGNOUN: A noun:sponge, platypus, alien
+SILLYWORD: A silly word:kaddywampus, bazinga, yooge
+SCRIPT ==========================================
+70s music
+CLERK: At this point in my shift, I don't even need to take DRUG to hallucinate. It's already happening.
+CLERK: The good news is that I'm closing in a minute and nobody will possibly walk into the store.
+Thunder
+CLERK: There is absolutely no chance. There is even a tornado, a flood and a few other natural disasters outside.
+CLERK: No way anyone would come in here.
+CUSTOMER: (enters from stage right) Can anyone help me, please? Anyone at all?
+CLERK: (sarcastic) Fantastic. Let me just restock my murderous intent on the shelf over here.
+CLERK: (to customer) Welcome! How may I assist you today?
+CUSTOMER: Why yes. I pressed a bunch of buttons on my APPLIANCE and it made funny noise.
+CUSTOMER: It do things and it not working anymore. Please help. I need service. I need refund.
+CLERK: Okay, so what I'm gathering is you did things to your APPLIANCE and now it's not working.
+CUSTOMER: Yes. I have the paperwork right here.
+CLERK: There is nothing written on it. It's completely blank.
+CLERK: Well, when I flip the paper to the other side, I see a drawing of a SMOBJECT. Why?
+CUSTOMER: It's what I put in it, and then light go blink-blink before it stop.
+CLERK: Why would you put a SMOBJECT in there?
+CUSTOMER: To spice things up, I guess.
+CLERK: That's probably what caused your unit to stop working.
+CUSTOMER: Um. Maybe.
+CLERK: Can you explain to me what you did specifically before the APPLIANCE stopped working?
+CUSTOMER: It's worked until I press a button and it say, "I don't like you touching me like that."
+CLERK: You heard the APPLIANCE speak to you and say those exact words?
+CUSTOMER: I don't know. Maybe it liked being touched.
+CLERK: (exasperated) Okay, how about this? Do you have a receipt or an invoice so I can check your warranty status?
+CLERK: I mean we can absolutely come out there for a service call and check out what's wrong.
+CUSTOMER: I know the issue.
+CLERK: Okay?
+CUSTOMER: I ACTVERB it and it make shaky-shake. It needed smoke later.
+CLERK: So, I'm going to ignore what you just said and look up your invoice on my COMPUTER here.
+CUSTOMER: Oh. You keep paperwork on there? I like that. How do you get paper out?
+CLERK: Magic. Dark magic. Presto! Change-o! SILLYWORD!
+CUSTOMER: Don't say that. I feel cursed now.
+CLERK: Oof. Looks like the warranty expired NUMBER years ago. Our warranty is for one year.
+CUSTOMER: No, I bought it here at store.
+CLERK: That's been established.
+CUSTOMER: Oh, okay. So I can have money now?
+CLERK: You don't qualify for a refund or a subout since you purchased your unit over a year ago.
+CUSTOMER: But you sold me machine that make whirring, buzzing, like click-click-click. Then a big bang.
+CLERK: After you ACTVERB it?
+CUSTOMER: No, but after that, they want to see other people. Now it make a noise like CREATURE.
+CLERK: Can you make that noise for me?
+CUSTOMER: Error 404 Not Found.
+CLERK: So you think a CREATURE would chirp, "Error 404 Not Found"?
+CUSTOMER: Yes. I wrote it down on the paperwork.
+CLERK: It's still a blank piece of paper with an SMOBJECT on it. Have you tried unplugging it?
+CUSTOMER: When I do that, it stops working.
+CLERK: When you unplug something, that’s like, the ultimate "off." That’s the nuclear option of turning off.
+CLERK: If it stops making noises when you unplug it, that means it was functioning correctly.
+CUSTOMER: I don't believe you. I think you hide something.
+CLERK: What could you possibly think that I would be hiding from you?
+CUSTOMER: That thing on your shelf.
+CLERK: My murderous intent?
+CUSTOMER: No. The LGNOUN next to it.
+CLERK: That could be used for murdering annoying customers.
+CUSTOMER: That may help fix the problem.
+CLERK: Or it could fix my problem right here.
+CUSTOMER: Oh. Okay. I bought a new APPLIANCE yesterday and it working now. Thank you.
+CLERK: (frustrated) Then why did we have any of this conversation? Why are you still here? Why do you exist?
+
+======
+
+INFORMATION ===============================
+ID: 1090
+TITLE: The Great Leader
+AUTHOR: ༒Ｓｐｉｄｅｒ－Ｍａｎ༒
+VERIFIED: True
+TAGS: Skit
+SET: Detective Noir
+DATE: 16/09/24
+CHARACTERS ================================
+LEAD: Country Leader:Detective Chair
+ADVISE: Loyal Advisor:Entrance Stage Left
+REBEL: Rebellious Citizen:Backstage
+SUGGESTIONS =============================
+LAND: Country(fictional or real):Germania,France,Jarsland
+IDEA: Ideology:Vrchatism,Jarism, Democracy
+IDEOLO: Ideology:Nihilism, Communism,Metaism
+NICKN: Name for a leader:Grand leader,Führer,Emperor
+PLACE: A holding place:War Camps, Dungeon,Void
+DIE: A way to die:Smashed, Sniped,Eaten
+YEAR: A year:1945,1888,1999
+SCRIPT ==========================================
+TYPEWRITER: LAND, YEAR
+jazz music 2
+LEAD: (looks at newspaper) Ugh, I can't believe this is happening. Every day it seems like my own people are turning against me.
+LEAD: (sighs deeply) ADVISOR!
+Music Stops
+ADVISE: (enters room) Yes, my NICKN? What troubles you today?
+LEAD: (shows the newspaper) Look at what is happening. My people, the people of LAND, are going against their great leader. Me!
+ADVISE: (takes the newspaper, scanning the headlines) That's terrible, my NICKN! It's unsettling to see unrest brewing among our citizens.
+LEAD: It feels like chaos is lurking just around the corner. What do they want? Why can't they see that IDEA is the future?
+ADVISE: Let me see so I can assess the situation. (studies the newspaper further)
+LEAD: (anxious) They speak of change as if it's something they can grasp without consequence. They don't understand the bigger picture!
+ADVISE: (nods) It seems they believe that IDEA is ruining LAND. They clamor for something new, something they think will save them.
+shark tank discussion music 1
+LEAD: A change? We don't need a change! They just don't see the bigger picture!
+LEAD: IDEA is exactly what this country needs and I'm not letting my people fight against me!
+LEAD: (under breath) Let's just hope a civil war doesn't start...
+ADVISE: (pacing slightly) A war wouldn't serve anyone. We must find a way to quell this unrest before it escalates.
+LEAD: (thoughtful) Perhaps dialogue is the key, but are they even willing to listen?
+LEAD: Advisor, I have a mission for you, bring me one of these rebels and we'll talk.
+ADVISE: Yes, my NICKN. (Exits room)
+Music Stops
+ADVISE: (enters room, with REBEL) Get in here, you rebel. The leader wants to speak with you.
+Meanwhile REBEL: (Escorted into the room)
+REBEL: (Defiantly) What's this all about?!
+shark tank serious music 1
+LEAD: Well, supposedly, you support a change in LAND, don't you?
+REBEL: Yes! Your IDEA ideas will never work in this country! Not now, not ever!
+LEAD: Oh, is that so? Well, tell me, what do you suggest we do?
+REBEL: I say that IDEOLO is a better system than the useless IDEA you've put into place!
+LEAD: (leaning forward, intrigued) I can see where you are coming from, but you want to know something?
+Music Stops
+LEAD: Your opinion doesn't matter.
+thunder
+REBEL: See! That's what I'm talking about. This system is corrupt! IDEA is corrupt, you all are corrupt!
+epic fantasy music 2
+ADVISE: HEY! Watch your tone there, BOY, remember who you are talking to. We are the strongest people in LAND, perhaps even the entire continent.
+REBEL: I won't listen to your nasty words. LAND will have a change, a REVOLUTION!
+LEAD: Get this man out of my face and into the PLACE!
+REBEL: This isn't the end. You will hear of me again! (Gets dragged out of room)
+Meanwhile ADVISE: (Drag REBEL off stage) You're gonna rot in the PLACE!
+Music Stops
+LEAD: (sighs loudly) What has this country come to...
+ADVISE: (Enter the room) Don't worry, my NICKN, we will regain control as soon as everything calms down.
+LEAD: I just hope I don't get DIE.
+ADVISE: (softly) We will protect you, my NICKN. We will find a way to restore peace.
+LEAD: (nods, still troubled) It's not just about me, it's about the future of LAND. We must find a way to bridge these divides.
+ADVISE: (determined) Together, we'll find a solution. We always have.
+LEAD: (looks out the window, hopeful yet wary) For the sake of all of us, let's hope you're right.
 
 ======
 
