@@ -10312,7 +10312,7 @@ CUTOFMEAT3: A cut of meat:Shoulder
 ORGAN: An animal's organ:Brain, Liver, Lung
 VEGET: A Vegetable Food:Salad, Broccoli, Kale,
 VEGCOL: Color for a vegetable:Green
-DRINK: A Beverage:Beer, Drink, Milkshake
+DRINK: A Beverage:Beer, Milkshake, Coffee, Tea
 SCRIPT ==========================================
 Noir music 4
 DATER: (Enter Stage Right) Wow this place is unreal.
@@ -10324,7 +10324,7 @@ WAITER: (Look about empty restaurant, taking time.) Yes... busy night.
 DATER: What a night.
 DATEE: Indeed, I mean after that DISASTER.
 DATER: (chuckling nervously) Oh yes. the DISASTER.
-WAITER: This way. (Lead couple to table in center.
+WAITER: Ah, seems a table is opening up, one moment.
 MEANWHILE DATEE: (Interrupting the waiter) I mean, wow. The DISASTER was so intense.
 DATER: Hey, did you get that amazing thing of your whole life flashing before you?
 DATEE: Yeah, you got that too did you? Your whole life?
@@ -20765,7 +20765,7 @@ BEN: Crap, those were the three things I had for lunch!
 BEN: (Get up and run to the door) GANGWAY!
 BEN: (Exit the stage while making a UVULA-related noise)
 crashing debris
-JIMMY: (Walk to door and call outside) You okay mate?
+JIMMY: (Walk to door and call outside) You okay buddy?
 church bell
 TEACH: Ooh... Nasty...
 jazz music 1
@@ -22345,10 +22345,11 @@ SUGGESTIONS =============================
 ACT: An activity.:grinding in Fortnite, watching Youtube Shorts, contemplating the meaning of life
 PRICE: An amount of money.:About tree fiddy, $50, $2000
 BAD: An insult.:poopyhead, dingus, dweeb, cotton-headed ninny muggins
-PLACE: A location.:Tilted Towers, skate park, bank
-ITEM: A thing you could build or put together.:a tower, a statue, the Death Star
+PLACE: A location.:Tilted Towers, the skate park, the bank
 A2CT: Another activity.:get lunch, play some games, mess with powers beyond our comprehension
-ART: A way to describe art.:belongs in the trash, great work, art
+ART: A way to describe art.:it belongs in the trash, great work, art
+ANTIQUE: An antique or vintage item.:typewriter, pocket watch, vinyl record
+SIZE: A number.:20, 40, -5
 SCRIPT ==========================================
 western jingle 1
 FRANK: (spray painting) Alright, just about done...
@@ -22360,48 +22361,43 @@ FRANK: Wazzaaaaap!
 meanwhile ALEX: Wazzaaaaap!
 ALEX: Not much though, just finished ACT
 laughter
-FRANK: Oh really? I was gonna paint something about ACT, but I don't think the world's ready to see my take on it.
-ALEX: Listen, in my opinion...
-music stops
-ALEX: ...The ground wouldn't have much to say anyway.
-laughter
-oldschool hiphop music
+FRANK: Oh really? I was actually gonna paint something about ACT next.
+ALEX: I mean, that wall's looking pretty full.
+FRANK: Yeah, I saw somewhere near PLACE that'd be perfect for it.
 FRANK: So what else have you been up to?
 ALEX: Oh you know, the usual.
 ALEX: More ACT.
 laughter
-ALEX: Anyway, nice catching up with you.
-FRANK: You too, man
+ALEX: Anyway, I should probably get back to it. Nice catching up with you.
+FRANK: You too, man.
 break down door
 music stops, record scratch
 FRANK: What was that?!
 crashing debris
-ALEX: My guess is as good as yours, dude.
-JESSE: (come on stage with a bag and start running away) I gotta get out of here fast!
+ALEX: My guess is as good as yours.
+JESSE: (enter stage left and run away) I gotta get out of here fast!
 FRANK: Wait a minute, Jess?
 JESSE: (stop) Yeah?
 silly music 1
 FRANK: Wazzaaaaap!
-JESSE: Wazzaaaaap!
+JESSE: W-wazzaaaaap!
 laughter
 Frank: What'cha got there?
 JESSE: Uhhh, fancy garbage?
 laughter
-ALEX: Sure got a lot of it too.
-ALEX: How much was it, dude? I haven't had the chance to check that place out yet.
-JESSE: Well... You see, umm...
-FRANK: Jesse, you did pay for it right?
-JESSE: O-oh yeah, totally. It was PRICE
-FRANK: Huh, sounds about right for that place.
-ALEX: How'd you get the money?
-laughter
-music stops
-JESSE: Yeah well uh ...I better get going!
+FRANK: Cool, cool. Though I'm surprised you have the money.
+ALEX: Yeah, I heard that place is pretty pricey.
+ALEX: A friend of mine got an old ANTIQUE there for PRICE
+JESSE: Yeah, I-I got a promotion recently! That's what happened.
+FRANK: By the way, what happened in there? We heard stuff getting knocked around.
+JESSE: Oh, it was nothing. S-someone just knocked over an ANTIQUE.
+music stops, police car
+JESSE: Anyway, I gotta get going now!
 JESSE: (run offstage) See you two later!
 FRANK: Huh, wonder what they're gonna do with all of that.
-ALEX: Maybe they could make ITEM out of it.
+ALEX: Hell if I know, apartments here are like SIZE square feet.
 laughter
-ROB: (enter stage left and look at alex and francis) Oh, hey you two.
+ROB: (enter stage left and look at Alex and Francis) Oh, hey you two.
 silly music 2
 FRANK: Wazzaaaaap!
 Meanwhile ALEX: Wazzaaaaap!
@@ -22413,8 +22409,8 @@ FRANK: Nope, sorry man.
 ALEX: Actually, I think I saw them headed down the street to PLACE.
 ROB: Alright, I'll let the police know. So, what are you fellas up to?
 FRANK: Just admiring my new masterpiece. What do you think?
-ROB: It's definetely interesting. I would even say ART.
-ROB: Anyway, I may as well close for the day.
+ROB: It's definetely interesting. Dare I even say ART.
+ROB: Welp, I may as well close for the day.
 ROB: You guys wanna do something after I deal with all this?
 ALEX: Yeah, why don't we A2CT?
 laughter
@@ -30530,6 +30526,133 @@ CHRIS: I appreciate the honesty! Now go!
 ======
 
 INFORMATION ===============================
+ID: 975
+TITLE: The "Best" Detective
+AUTHOR: ~Taffy_LuLu~
+VERIFIED: True
+TAGS: Skit
+SET: Detective Noir
+DATE: 15/07/24
+CHARACTERS ================================
+BRITISH: The posh British Detective:Detective Chair
+SPANISH: The mysterious Spanish Detective:Entrance Stage Left
+WESTERN: The arrogant western detective :Entrance Stage Left
+FRENCH: The flirtatious french detective:Entrance Stage Left
+SUGGESTIONS =============================
+LITERALLY ANYTHING: Literally anything:shark tooth, marinara sauce, monkey tennis
+COWBOY NAME: Funny cowboy name:Lasso Larry, Scuzz Twittly, Bucktooth Billy
+FRENCH NAME: A french name:Colette, Camille von Beauclair, Guinevere 
+HORRIBLE ACTION: something horrible to do to me:slap you, fart on you, kill you
+NUMBER: quantity higher than hundreds:thousands, billions, millions
+SPANISH NAME: A spanish name:alehandro, carlos, fernando
+MEXICAN FOOD: a sort of mexican food:tamales, taco, nachos
+CELEBRITY: a famous celebrity:Taylor Swift, Markiplier, Ryan Reynolds
+STRANGE DEVICE: strange device to spy on people:binoculars, swim goggles, radar
+WEAPON: a type of weapon:gun, bazooka, machete
+SCRIPT ==========================================
+(noir music 1)
+TYPEWRITER: Downtown in the Tea & Crumpets Detective agency......
+BRITISH: Finally... after almost 5 years of searching around for the culprit behind the "LITERALLY ANYTHING" incident....
+BRITISH: I finally have a few leads on their whereabouts.
+BRITISH: (about to open file)And it's aaalllll in this file rigghhtt here.
+(break down door)
+(bluegrass music)
+WESTERN: (slams door open) YEEEEEEEEHAWWW!
+Meanwhile BRITISH: JESUS CHRIST!
+BRITISH: What the heck-
+WESTERN: (walks into the room and starts searching everywhere) Pleasure ta' meet ya', pardner. Carry on, don't mind me.
+BRITISH: (stammering) I-I.. who the heck are you and why are you just casually going through my things?!
+WESTERN: Sorry for bustin' down the door there, sir.
+WESTERN: (closes door) Might as well introduce myself while i'm at it. Name's COWBOY NAME. I'm the best detective from the whole wide west.
+BRITISH: Really? That's your name?
+BRITISH: Whatever. Why have you come all the way down here just to turn my office upside down?!
+WESTERN: Oh don't worry there, sir. I didnt come all the way here to trash your space. I'm lookin' for something obviously.
+BRITISH: What are you looking for anyway?
+WESTERN: Well, a lil' birdy told me that some detective in England had leads on a specific bandit i've been tryna catch.
+WESTERN: That detective being you I assume. (looks at the file in his hands) And that being the leads.
+BRITISH: Well...um... I..... (tries to hide the file behind his back)
+WESTERN: (approaches him slowly) You don't mind if I take that do ya'?
+BRITISH: Stay back, I worked hard to get this!
+(music stops)
+(break down door)
+(telenovela sting 1)
+SPANISH: (slams door open and walks in quietly)
+BRITISH: And who are you?!
+(telenovela music 1)
+SPANISH: My name is not important. I'm here to retrieve some information for a case that I have been assigned to solve.
+BRITISH: Wait.... you're a detective too?
+SPANISH: How did you know who I am?
+BRITISH: I don't know who you are. All I know is that you aren't getting anything out of me.
+SPANISH: Listen here, you pipsqueak. I am the best detective in all of Spain.
+SPANISH: So I suggest you hand over the information that you have gathered to me or I will not hesitate to HORRIBLE ACTION to get it out of you myself.
+WESTERN: I sure as heck am glad that I ain't in your shoes right now.
+BRITISH: I.......
+(french music)
+FRENCH: (walks in)
+BRITISH: Ah, hello there young lady, is there anything I can help you with?
+(break down door)
+FRENCH: (slams the door closed)
+BRITISH: What is with all of you and door slamming?....My poor door....
+FRENCH: Bonjour monsieur. I am Lady FRENCH NAME.
+BRITISH: Let me guess, the best detective in all of Paris or something?
+FRENCH: No. I am the best detective in all of France.
+BRITISH: (sigh) Of course you are.
+FRENCH: I heard you have information on the "LITERALLY ANYTHING" case. So if you would just hand it over to me that would be highly appreciated.
+(music stops)
+(telenovela sting 1)
+SPANISH: Enough of all of this. I have solved hundreds, if not NUMBER of cases more than the three of you combined.
+SPANISH: So it is only logical to hand me that file.
+WESTERN: Ya' know I've finally realized who you are. I've seen you around before.
+(silly music 2)
+WESTERN: Yer' that hernandez fella aren't ya? Yeah, that SPANISH NAME hernandez.
+WESTERN: The guy who was caught using a STRANGE DEVICE to spy on people and gather information to solve most if not all of his cases.
+SPANISH: I.... I only used it for a few of my cases. Not all of them!
+BRITISH: So much for the best detective of spain.
+FRENCH: Well monsieur hernandez is obviously not suited for the task. Which means I am the best.
+BRITISH: And why is that?
+FRENCH:(approach the british detective) I am a master seductress. I get people to talk no matter how hard-headed they are.
+FRENCH: I have connections with people across the world. Even celebrities like CELEBRITY.
+FRENCH: If you give me that file, I am bound to be able to track them down and make him confess for his crime.
+BRITISH: I-I see....
+(tense cinematic music)
+WESTERN: Now hold your horses lil' lady. First off I don't think being a world-class cougar is a skill to be proud of.
+WESTERN: Unlike me, I've got the skill of being able to tell what specific type of WEAPON was being used based on the markings they leave.
+WESTERN: And second of all, I was here before you two were. So clearly I was faster at tracking people down than the two of you ever could.
+WESTERN: So i'll be the one here takin' that file, thank ya' very much.
+FRENCH: How dare you call me such terrible things, who do you think you are.
+SPANISH: I agree with the silly cowboy. Your talent isn't as lavish as you make it out to be.
+WESTERN: Woah there, who ya callin' silly buddy? You tryna' provoke me or somethin'?
+FRENCH: You two are horrible detectives. I do not understand how anyone would pay you two to solve anything.
+WESTERN: Quite the mouth you got lil' lady. Might wanna watch it.
+SPANISH: You have a sharp tongue as well, if you're going to be able to give it, you have to be able to take it.
+WESTERN: You wanna go, "mister MEXICAN FOOD?"
+(music stops)
+BRITISH: By jove, Enough!
+(waltz music)
+BRITISH: Look at the three of you. Fighting like children over candy. Completely unprofessional if you ask me.
+BRITISH: Each of you claiming to be the best detective, despite acting the way you are. Shameful.
+BRITISH: But in a way all three of you are right. You three are the best detectives. Because you're the best at what you do best.
+BRITISH: And if we all work together, we can catch this guy in no time.
+BRITISH: COWBOY NAME. You're good with WEAPON identifying right?
+WESTERN: Yeah...why?
+BRITISH: Here's the pictures of the WEAPON markings on the crime scenes all over town. If you're willing to help, find out which WEAPON was used.
+WESTERN: You can count on me, pardner. (Leaves the room)
+BRITISH: Hernandez, you're good with spying aren't you?
+SPANISH: That's right...
+BRITISH: Here's the map with special markings on what I suspect is the culprit's next targeted crime scenes.
+BRITISH: Try to keep an eye out on any suspicious individuals in those places. And if anything happens tell me.
+SPANISH: ....thank you. I will not let you down. (Leaves the room)
+BRITISH: Lady FRENCH NAME. Here is the list of people who have done business with our culprit.
+BRITISH: If you are able to, maybe you can talk to them and get even more intel on his whereabouts.
+FRENCH: (kisses his cheek) Merci, monsieur. Your trust in me will not be in vain. (Leaves the room)
+BRITISH: (walks to the center of the room) It's getting quite late outside, I should probably get back to the crime scene.
+BRITISH: It's been quite a day today, this whole situation was really unexpected. But then again, it wasn't really a problem.
+BRITISH: (walks towards the door and turns to audience) After all, the best detective can handle anything can't they? (leaves the room)
+(applause)
+
+======
+
+INFORMATION ===============================
 ID: 978
 TITLE: Lawn Mowing
 AUTHOR: Ahmadsyar
@@ -32573,6 +32696,91 @@ LOSTPERSON: Can you at least send me back after my INJURY1 is healed?
 ======
 
 INFORMATION ===============================
+ID: 1042
+TITLE: Disgraced Attorney
+AUTHOR: RinRuster16
+VERIFIED: True
+TAGS: Skit
+SET: Courtroom
+DATE: 16/08/24
+CHARACTERS ================================
+JUDGE: The Judge:Judge Chair
+EISNER: Mr. Eisner:Defendant Table
+WHRIGHT: Phoenix Wright:Plaintiff Table
+MILES: Miles Edgeworth:Defendant Table
+SUGGESTIONS =============================
+CRIME1: an outrageous crime:tax fraud, murder, theft
+EMOTE1: an emotion:happy, sad, mad
+OUT: something out of order:ice-cream machine, dispenser, car
+WHOOPEE: a noun:river, house, John
+CUSHION: an object:ball, shoe, string
+JIM: a nickname:jimmy boy, bobby boy, comrade 
+LIMB: a body part that can be used for tricks:hand, finger, thumb
+PRANK1: an item used for a prank:whoopie cushion, whipped cream, thumb tack
+SCHOOL: a type of school:elementary school, middle school ,high school 
+SCRIPT ==========================================
+(courtroom music)
+JUDGE: Will the defendant please rise.
+JUDGE: Mr. Eisner, you stand before this court of law accused of the crime very clearly caught on the security camera moments ago.
+WHRIGHT: do you mind telling us what he did, for the record..
+JUDGE: he put a PRANK1 on my chair during an important case, and it made a mockery of me.
+(vine boom)
+EISNER: Oh, this is just for that?
+EISNER: I thought this had something to do with the CRIME1.
+MILES: (clears throat) Shut the hell up.
+WHRIGHT: OBJECTION!
+JUDGE: Nothing's happened yet.
+WHRIGHT: Sorry, I- I got EMOTE1.
+WHRIGHT: It's just this is the most clear-cut, cut and dry, open and shut, copy and paste case I ever did see.
+WHRIGHT: I don't even know why the defendant and Mr. Edgeworth even bothered showing up,
+WHRIGHT: other than to make a mockery of this courtroom.
+MILES: Now that's just out of order!
+WHRIGHT: Wrong!
+(vine boom)
+WHRIGHT: If it were out of order, it'd be OUT.
+JUDGE: WRIGHT! Stop, sh- shut up.
+JUDGE: Make your opening arguments to the jury.
+WHRIGHT: Alright! ... uh, where the hell IS the jury?
+MILES: Making jury duty.
+(vine boom)
+WHRIGHT: Whatever. I'd like to call my first witness to the stand - Ms. Gale Tornado
+WHRIGHT: Uh...where is she?
+JUDGE: she had a WHOOPEE CUSHION accident with a stolen PRANK1.
+MILES: I've got a bad case of clussy-fever, and I wanted to make WHOOPEE with her CUSHION.
+JUDGE:Order, Mr. Edgeworth!
+WHRIGHT: well before the case she did specify someone stealing her PRANK1. (walk to Eisner)
+WHRIGHT: So Mr. Eisner, you maintain your innocence? (snickers)
+WHRIGHT: Well, I spoke to an old teacher of yours and she said you were quite the troublemaker in the classroom,
+WHRIGHT: always playing pranks.
+(vine boom)
+EISNER: That's not entirely true...
+(vine boom)
+MILES: Ooh! Too bad!
+MILES: Looks like Phoenix Wright was Phoenix STUPID!
+WHRIGHT: OBJECTION! He made fun of me.
+EISNER: I was a bit of a class clown back in SCHOOL, but I left that behavior behind me.
+WHRIGHT: Well I don't know about that, JIM !
+WHRIGHT: I thought that gag with CRIME1 was pretty funny! I guess you're still a bit of a prankster after all...
+(vine boom)
+WHRIGHT: I got you now you sussy baka.
+JUDGE: (Sarcastic) Any arguments, Mr. Edgeworth? HMM??
+MILES: Uh- j-just give me a second-
+WHRIGHT: Oooh, what's wrong, Miles? It seems like you're starting to lose your edge...worth.
+MILES: Cut the crap, Wright! Don't give me any more of your crap.
+WHRIGHT: Fair enough. (pisses himself)
+WHRIGHT: Heh. You didn't say anything about pee.
+(vine boom)
+MILES: The prosecutor may have fancy tricks up his sleeve like going potty on himself, but can he do this? (does LIMB related magic trick)
+WHRIGHT: Looks like the defendant has gotten out of control and started dismembering his own lawyer, LIMB by LIMB...
+(vine boom)
+MILES: i- HE'S RIGHT.
+JUDGE: i here by convict him guilty of hurting my feelings
+(aww)
+WHRIGHT: WELL! That's that one figured out!
+
+======
+
+INFORMATION ===============================
 ID: 1044
 TITLE: Rate a Quake
 AUTHOR: LeoHardy
@@ -33277,20 +33485,16 @@ VILLAIN: Shut up! You're lucky I still need you alive. Now sit down and be quiet
 HOSTAGE: You won't get away with this. My mom is the TITLE of the country, you VRCHAT!
 HOSTAGE: Our security, the police, and even the INFAMOUS GROUP will be looking for me! You won't escape!
 VILLAIN: (Smack the Hostage) I said SHUT UP!
-HOSTAGE: (Scream and falls down) Ow! My BODY PART!
+Meanwhile HOSTAGE: (Scream and falls down) Ow! My BODY PART!
 VILLAIN: How does it feel? Being looked down on for once. (Points weapon at hostage).
 VILLAIN: Your family took everything from us. Our jobs, our land, and even our VALUABLE!
 HOSTAGE: This is kinda hot, but I didn't take anything! My family's MONEY business has nothing to do with me!
-VILLAIN: Wrong! It has everything to do with you! (Hits the hostage again)
-Meanwhile HOSTAGE: (Get Hit, fall down)
-HOSTAGE: UwU! X3
+VILLAIN: Wrong! (Hit the hostage) It has everything to do with you!
+Meanwhile HOSTAGE: (Get Hit, fall down) UwU! X3
 VILLAIN: Your family stole our VALUABLE, so we're stealing you.
 VILLAIN: When they give us back our VALUABLE, we'll give you back to them.
 HOSTAGE: You'll...Give me back? You mean like, bring me back home? But...But...
 VILLAIN: Yes. once they return what is rightfully ours, we will safely return you to your family.
-HOSTAGE: But...but...
-VILLAIN: Your family may be evil and corrupt, but they are weak.
-VILLAIN: A picture of a few bruises on your pretty face, and they'll quickly give in to our demands.
 HOSTAGE: But...But...Don't you want to...maybe... waterboard me a little bit?
 Music Stops
 VILLAIN: ....What?
@@ -33361,7 +33565,6 @@ PRIVATE: I don't understand.
 HOSTAGE: Ah crap, here comes another monologue.
 VILLAIN: (Sad) When I was just a boy, that brat's family took everything from me and my people.
 VILLAIN: Everything we worked so hard and fought for, generation after generation.
-VILLAIN: All of it, snatched from our tired, bruised, and bloody hands by those greedy, corrupt, cowards.
 VILLAIN: These people destroyed our base, our Nexus, so many times... In League of Legends.
 Music Stops
 PRIVATE: Wait, you're raging over League of Legends?
@@ -34189,6 +34392,99 @@ RICH: Stick to PowerPoint next time.
 ======
 
 INFORMATION ===============================
+ID: 1077
+TITLE: Dumb Ways To Die
+AUTHOR: Super_Joel_Dood
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+DATE: 02/09/24
+CHARACTERS ================================
+HOST: The Dumb Host:Host Podium
+DUMBO: Stupid Contestant:Contestant Podium 1
+NERD: Smarty Pants Contestant:Contestant Podium 2
+SURPRISE: Surprise Guest:Entrance Stage Right
+SUGGESTIONS =============================
+DIE: A dumb way to die:jumping off a cliff, drinking strange potions, Among Us IRL
+NAME1: A word that doesn't exist:Boberson, Jillingo, Hotsoloncho
+NAME2: A normal name:Jimothy, Bob, Tommy
+NAME3: A food noun:Toast, Pizza, Cake, Taco
+ACTION: A movement:Jump, Twirl, Flip, Break Your BONES
+PRIZE: A random object (can include living things):Knife, Lamp, dog, psycho killer
+PHRASE: A really long phrase:Bananas are long and yellow, This show is awesomely awesome so that you might donate, If someone jumped then gravity shifts slightly for that one person so that they float up the tinyest bit
+ROOM: A room in a house:bathroom, kitchen, bedroom, garage
+JOB: A thing people do for a long time:draw, use the bathroom, eat
+SCRIPT ==========================================
+gameshow intro
+HOST: Welcome everyone to another exciting episode of The Dumb Ways To Die Show!
+HOST: Today our contestants will be NAME1 and NAME2, looking ready than ever!
+DUMBO: Hi... (look around) um, is this the ROOM?
+NERD: No, NAME1, this isn't the ROOM, its that Gameshow that you love to watch.
+DUMBO: Oh, that's nice...
+HOST: Well... Let's get this show on the road!
+HOST: The prize for winning tonight's show is, you guessed it, PRIZE!
+HOST: Of coarse, this wouldn't be the Dumb Ways To Die Show without the Loss Penalty!
+HOST: Tonight's Loss Penalty is... ACTIONing on live TV! Now, lets not keep the audience waiting!
+DUMBO: Oh boy, i can't wait to do some ACTIONing!
+NERD: Erm, the Host literally said that was the penalty
+DUMBO: Oh... yay!
+NERD: (facepalm) Ugh, why am i friends with you
+NERD: Wait, isn't the Host supposed to say their name?
+HOST: Oh, um... Right! Heheh, my name is, uhhh... Mr. NAME3!
+DUMBO: Mr. NAME3? That's a cool name, mine's NAME1...
+NERD: Yea, i know...
+gameshow start
+HOST: Our first question is, what is the best dumb way to die? One: Jumping off a plane, Two: Drowning, or Three: DIE?
+gameshow timer music
+NERD: Well, i never learned any of this in the six years of college I took...
+gameshow crowd shouting numbers
+DUMBO: Well, you know what they say, PHRASE.
+HOST: Wow, that's a really good phrase...
+NERD: Come one, no one says that!
+Music stops
+gameshow time expire
+HOST: Oof, looks like you ran out of time!
+HOST: The correct answer was... What was it again? Right, Number Three!
+NERD: Ask some logical questions next time!
+DUMBO: (Shushing motion) Shhh, quiet down, NAME2, your so loud!
+NERD: ... What? (Loudly) I'm not being loud!!!
+DUMBO: Plus, we need to hurry up, i have to work at the JOBing Factory!
+NERD: You work at the JOBing Factory?
+HOST: (Interrupting) NAME1, NAME2, please settle down.
+heavy door knocking
+NERD: Erm... What was that?
+HOST: (Rushing to the door, locking it) Nothing!
+DUMBO: Hmm... I don't know, actually, I don't know a lot of things, but this smells kind of fishy...
+NERD: Yea, what's going on here?
+break down door
+Teleport SURPRISE to Entrance Stage Right
+SURPRISE: Mr. NAME3? Are you here?
+HOST: Um... no?
+SURPRISE: Well, dude, that little ACTION you pulled off during the stunt show wasn't cool, bro.
+DUMBO: Heh, this is funny.
+NERD: Wait, is that... Billson J. Watson!?!
+SURPRISE: Yup, it's me, bro, I was just looking for the ROOM, but then i found Mr. NAME3, so i thought I'd say "hi".
+HOST: Um... The show's over! The winner is no one! Heheh...
+NERD: What!?!
+DUMBO: I did this for nothing? Ugh, PHRASE.
+NERD: I don't understand you sometimes...
+SURPRISE: Looks like you lost the trust of your contestants.
+HOST: Uhhh (sweating) Time for me to leave!
+gameshow buzzer
+HOST: Oop-
+DUMBO: (Excited) Yay! Epic Boss Fight time!
+NERD: Im Gonna just take that PRIZE (takes PRIZE).
+SURPRISE: It's time for you to DIE!
+NERD: AUUUUGGHH!!! (Jumps at Mr. NAME3)
+DUMBO: Justice! (Follows behind NAME2, punching Mr. NAME3)
+Meanwhile SURPRISE: YAAA! (Beats up Mr. NAME3)
+fistfight
+TYPEWRITER: We'll be back in a moment!
+gameshow outro
+
+======
+
+INFORMATION ===============================
 ID: 1078
 TITLE: Case of the Curious Bromance
 AUTHOR: LeoHardy
@@ -34418,6 +34714,96 @@ ADVISE: (softly) We will protect you, my NICKN. We will find a way to restore pe
 LEAD: (nods, still troubled) It's not just about me, it's about the future of LAND. We must find a way to bridge these divides.
 ADVISE: (determined) Together, we'll find a solution. We always have.
 LEAD: (looks out the window, hopeful yet wary) For the sake of all of us, let's hope you're right.
+
+======
+
+INFORMATION ===============================
+ID: 1099
+TITLE: Karen's Family Dinner
+AUTHOR: houseerikson
+VERIFIED: False
+TAGS: Skit
+SET: Dining Room
+DATE: 22/09/24
+CHARACTERS ================================
+LESLIE: Leslie, Karen's sister:Stage Left
+JOEY: Joey, Leslie's son:Entrance Stage Right
+KAREN: Karen, Leslie's sister:Entrance Stage Left
+BOYFRIEND: Karen's Boyfriend:Entrance Stage Left
+SUGGESTIONS =============================
+MEAT: Some kind of meat:turkey, ham, steak, lamb chops
+SOMETHING ILLEGAL: Something that's illegal to do while driving:drinking, smoking, texting, doing makeup
+NAME: A name:Frank, Thomas, Jerry, Peter
+MONEY: An amount of money:One Million, Twenty, Two, Seven
+SPORT: Some type of sport:Football, Ping Pong, Fencing, Boxing
+FAST FOOD: Some kind of fast food chain:McDonalds, Burger King, Popeyes, Five Guys
+SOMETHING EMBARRASSING: Something you would be embarrassed to be caught doing:Making Out, Doing TikTok Dances
+COUNTRY: A country:Germany, Canada, Russia, France, Australia
+SCRIPT ==========================================
+(guitar music 1)
+LESLIE: (Look down at phone) Ugh! Pick up already!
+JOEY: (ENTER STAGE RIGHT) Hey, Mom? When Auntie Karen getting here?
+LESLIE: I'm trying to figure that out myself, sweetheart. She's not answering my calls.
+LESLIE: Hey, how about you set the table and take the MEAT out of the oven, okay?
+JOEY: Oh, okay....(EXIT STAGE RIGHT)
+LESLIE: (Dial number on phone) Of course she's late again...
+(crashing debris)
+LESLIE: (Startled) WHAT THE-?!
+(break down door)
+(silly music 2)
+KAREN: (ENTER STAGE LEFT): (Groan) Jeez, that's the last time I try that....
+LESLIE: Karen? What was that noise???
+KAREN: Huh? Oh, don't worry about it, Leslie.
+LESLIE: Oh my god...you've been SOMETHING ILLEGAL and driving again, haven't you???
+KAREN: (Shocked) What?? Noooo. I haven't done that in weeks-I mean....years.
+BOYFRIEND: (ENTER STAGE LEFT): (Groan) My head hurts...
+LESLIE: Who's this?
+KAREN: (in an affectionate tone) This is my new boyfriend, NAME! Go on and say hi, honey!
+BOYFRIEND: So, do I get my MONEY dollars now or later?
+KAREN: (shushing) Hey, shut up about that!
+LESLIE: Well, welcome to our lovely home. Come on and sit down, dinner will be ready soon.
+LESLIE: (sit down at the dinner table)
+KAREN: (sit down at the dinner table)
+BOYFRIEND: (Sit down at the dinner table)
+JOEY: (ENTER STAGE LEFT) (carry MEAT on plates) Dinner's ready!
+KAREN: Oh, MEAT! My favorite!
+JOEY: (sets MEAT down at the dinner table)
+JOEY: (takes a seat)
+LESLIE: So, Karen, is there anything you want to ask Joey?
+KAREN: (Eat food) I dunno. What are you up to these days, pipsqueak?
+JOEY: I joined the SPORT team at my school.
+KAREN: Y'know, I played SPORT when I was young too!
+LESLIE: Yeah, and you sent multiple people to the hospital while doing so.
+KAREN: (annoyed) Hey, it's not my fault they couldn't handle a little roughness, okay?
+LESLIE: (sigh) They were spectators, Karen...
+LESLIE: (To boyfriend) Anyways, NAME, how long have you been with my sister?
+BOYFRIEND: Hmm? Oh, we started dating about a month ago, she met me at my workplace and we really seemed to hit it off.
+LESLIE: Oh? Where do you work?
+BOYFRIEND: FAST FOOD. It's a decent job.
+JOEY: Hey, Auntie Karen? Didn't you work at FAST FOOD once?
+KAREN: Sure did, but they fired me after they caught me SOMETHING EMBARRASSING in the bathroom.
+LESLIE: (gasp) Karen! That's not appropriate to tell a child!
+KAREN: What? I was just answering the kid's question!
+LESLIE: Still, think before you say something like that!
+KAREN: Sheesh, you're so sensitive, sis! I bet your man would be fine with me telling that story.
+LESLIE: No, he wouldn't.
+KAREN: Speaking of which, where is your husband anyways?
+LESLIE: He's on a business trip in COUNTRY.
+KAREN: Really? Are you sure about that?
+LESLIE: What do you mean?
+KAREN: I mean, you sure it's a business trip he's on?
+LESLIE: (stand up) You idiot!
+LESLIE: (yelling) Are you insinuating he's cheating on me?!
+KAREN: Hey, you said it, not me.
+LESLIE: (yelling) I'm so done with you! Every year, I try to have a nice dinner with you as a family, and every year YOU screw it up!
+KAREN: (stand up) I screw it up? You're the one who can't take a joke!
+LESLIE: You know what? Get out!
+KAREN: But-
+LESLIE: (yelling) GET OUT!
+KAREN: (sigh) Fine! I didn't even wanna come here in the first place!
+KAREN: (stand near stage left exit) Your food tastes terrible, anyways! I'm gonna go eat at FAST FOOD!
+KAREN: (EXIT STAGE LEFT)
+BOYFRIEND: Can I get my MONEY now?
 
 ======
 
