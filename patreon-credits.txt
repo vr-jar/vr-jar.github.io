@@ -1603,7 +1603,6 @@ AWildShuri
 VizDaBat
 CloakerGnome
 CuddleBear˸3
-琴平町_
 Moomster
 themintriver
 NobulaZT
@@ -1931,6 +1930,7 @@ Banana Pancakes
 Misxki
 YamiTheOmen
 elitegamer2024
+WizardessOfOz
 modNick
 ruralists
 #TIER=1
