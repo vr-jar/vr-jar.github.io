@@ -1930,6 +1930,7 @@ MTF Lieutenant
 __satan__
 Kinabru
 Chip 09
+Hyper․Blur
 modNick
 ruralists
 #TIER=1
