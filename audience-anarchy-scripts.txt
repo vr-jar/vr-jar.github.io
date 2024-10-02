@@ -30555,8 +30555,8 @@ TYPEWRITER: Downtown in the Tea & Crumpets Detective agency......
 BRITISH: Finally... after almost 5 years of searching around for the culprit behind the "LITERALLY ANYTHING" incident....
 BRITISH: I finally have a few leads on their whereabouts.
 BRITISH: (about to open file)And it's aaalllll in this file rigghhtt here.
-(break down door)
 (bluegrass music)
+(break down door)
 WESTERN: (slams door open) YEEEEEEEEHAWWW!
 Meanwhile BRITISH: JESUS CHRIST!
 BRITISH: What the heck-
@@ -30574,8 +30574,8 @@ BRITISH: Well...um... I..... (tries to hide the file behind his back)
 WESTERN: (approaches him slowly) You don't mind if I take that do ya'?
 BRITISH: Stay back, I worked hard to get this!
 (music stops)
-(break down door)
 (telenovela sting 1)
+(break down door)
 SPANISH: (slams door open and walks in quietly)
 BRITISH: And who are you?!
 (telenovela music 1)
@@ -33510,16 +33510,19 @@ Music Stops
 HOSTAGE: (Pouts) You're not even going to electrocute me? Worst. Kidnapper. Ever. (Turn around and sit.)
 Shark tank discussion music 1
 HQ: (Remains at Podium) Legoshi Task Force NUMBER, come in. Do you read me? What's your status?
-CAPTAIN: (Enter Stage Right) Team, on me. HQ, This is CAPTAIN Legoshi, I read you loud and clear.
-CAPTAIN: Approaching location of the hostage.
+Teleport CAPTAIN Stage Right
+CAPTAIN: Team, on me. HQ, This is CAPTAIN Legoshi, I read you loud and clear.
+CAPTAIN: No sign of the hostage.
 CAPTAIN: Do we have a positive ID on the enemy?
 HQ: Target in the area is identified as POPULAR PERSON.
 HQ: Intel says they look like a VTuber, but they've got a nice ANIMAL on them.
 HQ: Be careful in securing the Hostage, Team NUMBER.
 HQ: POPULAR PERSON is armed and extremely dangerous.
-SARGE: (Enter Stage Right) (Stay near CAPTAIN) Oh yeah? So the heck are we! This is what we freaking do!
+Teleport SARGE Stage Right
+SARGE: Oh yeah? So the heck are we! This is what we freaking do!
 SARGE: We'll be in and out in 2 seconds, which is 1 second longer than I gave to your mom last night, eh PRIVATE?
-PRIVATE: (Enter stage right) (Stay near Captain) Not cool, SARGE. But... What if we're not just in and out?
+Teleport PRIVATE Stage Right
+PRIVATE: Not cool, SARGE. But... What if we're not just in and out?
 PRIVATE: What if they're listening, and know we're coming, and they already set up an ambush?
 PRIVATE: What if we get overwhelmed and...captured. I'll never see my mom again, or my cats...
 PRIVATE: What if they do some kind of weird TORTURE to us? Or tie us down and pour hot LIQUID all over our...y'know?
@@ -33564,7 +33567,7 @@ VILLAIN: Why am I doing this? You VRCHAT. Why would I NOT do this?!
 PRIVATE: I don't understand.
 HOSTAGE: Ah crap, here comes another monologue.
 VILLAIN: (Sad) When I was just a boy, that brat's family took everything from me and my people.
-VILLAIN: Everything we worked so hard and fought for, generation after generation.
+VILLAIN: Everything we worked so hard and fought for, generation after generation, GONE!
 VILLAIN: These people destroyed our base, our Nexus, so many times... In League of Legends.
 Music Stops
 PRIVATE: Wait, you're raging over League of Legends?
@@ -34718,6 +34721,116 @@ LEAD: (looks out the window, hopeful yet wary) For the sake of all of us, let's 
 ======
 
 INFORMATION ===============================
+ID: 1092
+TITLE: Unforgiven 
+AUTHOR: SmithDaStick
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 18/09/24
+CHARACTERS ================================
+MOM: Mother:Center Stage
+SALLY: Sally the sister:Stage Right
+NICK: Big brother Nick:Entrance Stage Left
+GRAY: Little brother Grayland:Backstage
+SUGGESTIONS =============================
+MONSTER: Name of a monster:King Kong, Godzilla, 
+BINVESTMENT: Bad Investment:crypto zoo, dink-donk, beanie babies, blockbuster, Kmart, FTX
+YOUTUBER: Youtuber:Graham Stephan, Logan Paul, Jake Paul, Ricegum
+CLASS: Group event:platies class, yoga, bible study, underwater basket-weaving class
+RED: Red noun:lava, fire truck, mars, ruby emerald, cock's comb, lobster, cherry
+ARC: place people use cash:Arcade, casino,  world's biggest claw machine
+NOUN: Noun:airhead, goose, log, chimp
+QUICK MONEY: Fast way to make cash:selling lemonade, pan handling, delivering uber eats on my bike, taking part in focus groups
+SPEC: special event:wedding night, prom, the day I met your father
+FOOD: dinner:a hearty cholent, a big couscous royale, meat-stuffed kibbeh, crispy falafel
+SHILL: something promoted online:Crypto, Jojo Siwa merch, Pokémon cards
+SCRIPT ==========================================
+(accordion sting)
+MOM: Hey sally, how have your piano lessons been coming along?
+SALLY: Quite well mother, would you like for me to play something for you?
+MOM: I would love that, you know me and your father have spent so much money for those lessons
+SALLY: I am truly grateful, I'll play the newest piece I’ve been learning for you. (sit down at the piano and play)
+(piano theme)
+MOM: Sounds as lovely as SPEC, great job sweetie.
+(thunder)
+SALLY: That storm is raging, would hate to be out in that weather.
+(dark classical music)
+NICK: (walk onto stage) Hello family, I'm home!
+MOM: Welcome back my dearest son, how was work?
+NICK: It was fantastic, besides all the rain, I got a promotion today!
+SALLY: (Still playing piano) Good maybe now you can afford to pay mom your share for rent this month.
+MOM: Don’t waste your breath sweetie, just keep playing to keep me calm so I don’t turn into MONSTER and go crazy on your brother. (look to son)
+MOM: Where is the money you owe me?
+NICK: (nervously) I put all that I owed in SHILL, should be tripled in value next month.
+MOM: (slap nick) SHILL! You can’t be serious!
+NICK: Ouch mom! I'm sorry, YOUTUBER said it would be a great investment
+MOM: You owe me over $10,000, and you have the audacity to waste your money on SHILL!
+MOM: I don’t care if YOUTUBER said it was a good idea! You listen to them every month!
+MOM: Last time it was BINVESTMENT, how did that pan out?
+MOM: I’m going to talk to your father about kicking you out, maybe then you’ll understand how grateful you should be, to be under my roof!
+NICK: (Get down on your hands and knees) I’m so sorry mother, I’m trying to do good, I want to make you proud, just give me more time, please!
+MOM: (sigh) Look I’m glad you’re trying, in fact promise me you’ll go to a financial adviser and I’ll absolve your debt.
+NICK: I promise! I will!
+MOM: Good, anyways (turn to sally) great job playing the piano sweetie, keep it up, you kids have a good day, I’m off to my CLASS (exit stage)
+(music stops)
+SALLY: Whelp time to play something actually fun
+(piano theme)
+NICK: (get up) play that one sad chug jug thing, can’t believe mom hit me, my face is redder than RED
+(sad chug jug music)
+SALLY: Sure thing, a special song, for the special forgiven son!
+NICK: Lose that disrespectful tone, you jerk. Why do you always sound so condescending?
+SALLY: I'm doing what you asked aren't I?
+(honking)
+GRAY: Thanks for the ride! (enter stage right) Hey family!
+SALLY: Welcome home gray!
+NICK: Hey Grayland, welcome back, you find that money you owe me?
+(mystery music 1)
+GRAY: (nervous) Um about that, went to the ARC with Timmy so I kind of spent it all there by accident.
+NICK: You irresponsible NOUN!
+(scary music)
+NICK: (slap gray) You better find a way to make some money quick! I need that money!
+GRAY: (get down on your knees) Please forgive me brother, I promise I'll make it up to you!
+NICK: Forgive? (Laugh) no way NOUN! (choke gray)
+GRAY: (struggling to speak) okay, le le let go!
+NICK: You better find that $100 and quick! (let go of Gray)
+GRAY: (gasping out of air) Geez dude, I’ll get your money.
+NICK: How do you plan on doing that?
+GRAY: By QUICK MONEY
+NICK: Get to it then!
+GRAY: (leave stage left) okay big bro, I’m going
+(thunder)
+SALLY: You’re really going to make him go out in that rain? (keep playing piano)
+NICK: Shut up brat! (exit stage right)
+Typewriter: 1 hour later
+(waltz music)
+GRAY: (Enter) Thanks for the ride mom, I promise I'll be better with my money.
+MOM: (Enter) Welcome home sweetie, head to your room to dry off and don’t worry about your brother, mommy is gonna take care of him.
+GRAY: (either exit off stage right) Yes ma’am
+MOM: (scream) Nick get your butt in the living room now! (walk to center stage)
+NICK: Welcome home mom, how did your CLASS go?
+MOM: Oh it was fantastic besides the part where I was on my way home and I saw your little brother QUICK MONEY out in this terrible storm!
+NICK: Sacrifices have to be made, he owes me money
+SALLY: Oh the irony!
+(scary music)
+MOM: Oh the irony is right sally! (slap nick) my sweet gray told me all about what you did to him!
+MOM: I forgive and absolve your debt of $10,000 if you complete a simple task and you’re so wicked!
+MOM: To have the gall to not forgive your own little brother of $100?!
+NICK: I’m sorry
+MOM: You sure will be, get out of my house!
+NICK: No way, it’s raining
+MOM: (slap nick) GET OUT OF MY HOUSE!
+NICK: (walking to stage right) Okay okay no need to result to violence (get pushed out by your mom)
+(thunder)
+MOM: (pushing son out) Don’t you dare come back till you have what you owe me! (slam door)
+(break down door)
+(thunder)
+(accordion sting)
+MOM: Time to make a lovely dinner of FOOD
+
+======
+
+INFORMATION ===============================
 ID: 1099
 TITLE: Karen's Family Dinner
 AUTHOR: houseerikson
@@ -34804,6 +34917,383 @@ KAREN: (sigh) Fine! I didn't even wanna come here in the first place!
 KAREN: (stand near stage left exit) Your food tastes terrible, anyways! I'm gonna go eat at FAST FOOD!
 KAREN: (EXIT STAGE LEFT)
 BOYFRIEND: Can I get my MONEY now?
+
+======
+
+INFORMATION ===============================
+ID: 1101
+TITLE: Love Conquers All
+AUTHOR: ~Taffy_LuLu~
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 25/09/24
+CHARACTERS ================================
+MOTHER: The strict and cold-hearted widowed mother:Center Stage
+DAUGHTER: Elizabeth, the blindly-in-love daughter:Stage Right
+LOVER: The daughter's love interest:Backstage
+SUGGESTIONS =============================
+JEWELLERY: A piece of jewellery:ruby earrings, pearl necklace, jade bracelet
+NAME1: A fancy male last name:bartholomew the 3rd, Princeton, Radcliff
+CELEBRATION: a type of festive celebration:christmas, spring, coronation
+ITEMS: a plural of any type of item :sapphire hairpins, red roses, pizza bagels
+NAME2: A fancy female last name:Danbury, Whistledown, Lucifela Von Sweets
+JOB: A type of job/profession:plumber, lawyer, secret agent
+PLACE: A place to secretly meet up at:secret garden, clock tower, balcony
+NAME3: A fancy female last name:Francessca, Guinevere, Carmilla
+ROCK: A rare mineral for a ring stone:Amethyst, topaz, diamond
+NICKNAME: something sweet to call your lover:sweetheart, dearest, pookie bear
+SCRIPT ==========================================
+(waltz music)
+DAUGHTER: (pacing back on forth searching the room) Ah, where is it? Oh dear, where have I misplaced it this time?!
+MOTHER: Looking for something are you, Elizabeth?
+DAUGHTER: I'm just looking for my JEWELLERY, mother. Have you seen it anywhere? I can't seem to find it at all.
+MOTHER: Is this what you're looking for? (holds up the jewellery)
+DAUGHTER: Ah yes! That's exactly the one! Thank you, mother. (takes it from her)
+MOTHER: Planning on going somewhere, Elizabeth?
+DAUGHTER: (happy tone) Yes, mother. I've been invited to attend Lady Isabelle's tea party this evening. I'll be back before 9 pm.
+MOTHER: I see....
+DAUGHTER: (walk towards the door) I best leave now, mother. Lady Isabelle would be quite displeased if I were to be late.
+MOTHER: Are you sure you're going to be attending Lady Isabelle's tea party?
+(music stops)
+MOTHER: Or were you leaving to meet someone else?
+(piano theme)
+(mystery music 1)
+DAUGHTER: (turns around) I-I don't know what you speak of, mother. Where else would i have gone to?
+MOTHER: It's not where else you would've gone to, but more so who else you would've gone to.
+DAUGHTER: I don't know what you're implying, mother.
+MOTHER: Oh, don't play the dim girl with me, Elizabeth.
+MOTHER: You only wear that JEWELLERY, for the utmost important occasions or....
+MOTHER: When there is someone you're trying to impress.
+DAUGHTER: I.....
+MOTHER: And i'm quite sure something so simple like a mediocre tea party has by far the littlest importance to you.
+MOTHER: So out with it, who were you really eager to meet at this time?
+DAUGHTER: (mumbles) sir.....
+MOTHER: Hm, what was that? Speak up, now.
+DAUGHTER:.... sir NAME1.
+MOTHER: .....Are you kidding me? Really. Sir NAME1? And why would he ask you to sneak around and about at this hour?
+DAUGHTER: He approached me two weeks ago. He wanted to speak with me...regarding a proposal.
+MOTHER: I should've known.
+DAUGHTER: Mother, I....
+MOTHER: I've seen the way you look at him. The way your eyes followed him at last year's CELEBRATION ball.
+DAUGHTER: I do not understand why you detest him so.
+MOTHER: Really now. Was it not him who nearly drove his family into poverty due to his enormous purchase of ITEMS?
+DAUGHTER: Mother....
+MOTHER: And was it not him who tarnished my best friend lady NAME2's reputation so much that it drove her to reside in the countryside?!
+DAUGHTER: (reaches out) Mother I.....
+MOTHER: And was he not the one who was caught doing a shady transaction with that suspicious JOB just last week?!
+DAUGHTER: (walks towards mother and raises voice) Mother, I LOVE HIM!
+(music stops)
+(church bell)
+MOTHER:...You what?
+DAUGHTER: I....love him, mother. Even if we haven't spoken much yet.
+(lacrimosa music)
+MOTHER: Elizabeth. He is nothing but a troublemaker. Cavorting about with him will only bring your status and reputation down.
+MOTHER: So this whole meet-up and talk about love is absolutely out of the question.
+MOTHER: I forbid you from meeting him.
+DAUGHTER: But, mother!
+MOTHER: You are not to speak to him, not to look at him, let alone even think about him.
+DAUGHTER: You can't do this to me! It is not fair! Why do I have to suffer just because father passed?!
+MOTHER: (raises voice) I am your mother. Elizabeth. This has nothing to do with your father, I am merely trying to protect you.
+DAUGHTER: But...
+MOTHER: I do not want to talk about this matter any further. If you go against my word, you will face serious consequences.
+DAUGHTER: This is so unfair!
+(music stops)
+(doorbell)
+(waltz music)
+DAUGHTER: (opens door) Sir NAME1! W-why are you here?
+LOVER: I was waiting at the PLACE, but when you didn't show, I just had to come here myself.
+LOVER: I couldn't wait any longer. I really, really needed to ask you this.
+LOVER: Elizabeth, will you....
+DAUGHTER: YES! Yes! A thousand times yes!
+LOVER: R-Really? That's so good to hear!
+LOVER: I can't believe i'm finally going to be able to do this. I've waited for so long...
+DAUGHTER: I have too! I...
+LOVER: (walks past her and walks towards her mother) Lady NAME3.
+LOVER: (holds out his hand) Will you marry me?
+(music stops)
+(record scratch)
+DAUGHTER: ....WHAT?!
+Meanwhile MOTHER: ....WHAT?!
+(sad chug jug music)
+DAUGHTER: B-But I don't understand sir NAME1! You wanted to ask me about a proposal!
+LOVER: (turns and looks at the daughter) Precisely. I wanted to ask a proposal to you...to allow me to court your mother.
+DAUGHTER: B-but...
+MOTHER: This was...unexpected. However, i'm afraid I can't return the feelings that you feel for me.
+LOVER: My lady...why is that?
+MOTHER: You nearly sent your family into debt, you destroyed my best friend's reputation...
+MOTHER: Not to mention you were just caught making a shady deal with that suspicious JOB just a fortnight ago!
+MOTHER: You are nothing but a troublemaker.
+(emotional piano music)
+LOVER: My lady.... the reason I bought all those ITEMS.....was so I could send them to you.
+LOVER: I found out that they were your favourite, so I tried to buy every single one I could.
+LOVER: As for Lady NAME2...I found out she was speaking ill of you to several other ladies.
+LOVER: And I could not sit back and watch as she tried to tarnish the reputation of the woman who I love.
+LOVER: So I just did the same to her.
+MOTHER: B-But that doesn't explain that transaction you made!
+LOVER: (gentle chuckle) hahaha... you see my lady, the reason I made a deal with that suspicious JOB... was for this.
+LOVER: (gets down on one knee and pulls out a ring) I had this specially made just for you. Made from pure ROCK which was hard to get.
+LOVER: So yes, I went through all that trouble. But for the woman I love.....I would do it over and over again.
+(aww)
+DAUGHTER: ....I-I'm sorry, sir NAME1. But my mother would never love a man like you. She detests you beyond oblivion.
+MOTHER: Now hold on, Elizabeth.
+MOTHER: Sir NAME1. It is true that I detested you. After hearing all of your absurd deeds, I was sure you were a man who cared for no one but himself.
+MOTHER: But.....I was wrong.
+MOTHER: After my previous husband passed....I was certain I couldn't find love nor would anyone love me again. But everything's changed now...
+MOTHER:...nobody has done what you have for me. It has moved me...
+MOTHER: (gentle and happy tone) But I can say for certain now....I love you, sir NAME1. And yes, I will marry you.
+DAUGHTER: W-What?! This is ridiculous! (runs out of the room)
+LOVER: Well, after you my lady...or should I say...my NICKNAME?
+MOTHER: (gentle chuckle) Thank you....my love. (exits through the front door)
+LOVER: hahaha...the pleasure is all mine. (exits through front door as well)
+TYPEWRITER: And so....the ice around Lady NAME3's heart melted. The two soon got married after much to Elizabeth's dismay.
+TYPEWRITER: Much to no surprise, elizabeth's faith in love died after that entire debacle.
+TYPEWRITER: Nevertheless....
+TYPEWRITER: Love truly conquers all, doesn't it?.....
+(applause)
+
+======
+
+INFORMATION ===============================
+ID: 1103
+TITLE: The Navy Vs. Canada
+AUTHOR: MindlessGonzo
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+DATE: 26/09/24
+CHARACTERS ================================
+CAPTAIN: Captain of a Navy Ship:Entrance Stage Right
+RADIO: Radio Man:Chair
+SUGGESTIONS =============================
+LAST NAME: A last name:Smith, Sparrow, Kirk, Haddock, Falcon
+NUMBER: Number between 10 and 270:15, 42, 69, 180, 96 
+GOD: A god, goddess, or powerful entity:Jehovah, Aqua, Belldandy, Buddah, Satan
+SHIP NAME: Something you name a US Navy ship as (USS _):Abraham Lincoln, Lobsterfest, NASCAR, Goth Girl, Dragonborn
+LOCATION: A location or building:New York City, Lucas Oil Stadium, a city block, your mom's house, Luxembourg
+PUNISHMENT: A type of punishment:being forced to listen to kids music, one thousand years dungeon, death by firing squad, solitary confinement, being tickled continuously
+PRESIDENT: A US President, fake or real (President _):Lincoln, Trump, Bartlet, Marshall, Clinton
+CRUEL: A cruel and unusual punishment:scrubbing the floors of Hyrule, cleaning up toilets, handling urine samples for the infirmary, forced to listen to Rebecca Black's "Friday"
+WEBSITE: A website where a rumor might pop up:Twitter, Youtube, 4chan, Facebook, craigslist
+SCRIPT ==========================================
+yankee doodle music
+TYPEWRITER: North Atlantic;October 1995
+CAPTAIN: (enters and salutes)
+Meanwhile RADIO: (salutes)
+CAPTAIN: At ease, officer.
+CAPTAIN: Came to see if things are smooth in the radio communications room. I prefer my ship to be in tip-top shape.
+RADIO: Captain LAST NAME You're just in time. I received a transmission over our frequency.
+CAPTAIN: Oh? What was the message?
+RADIO: It came from someone claiming to be a Canadian official. They ask "Please divert NUMBER degrees to the North to avoid a collision."
+Music Stops
+shark tank discussion music 1
+CAPTAIN: Divert?
+RADIO: Yes sir. NUMBER degrees North.
+CAPTAIN: OK, why should we divert?
+RADIO: Collision avoidance, sir.
+CAPTAIN: Sorry, officer, that was rhetorical.
+laughter
+CAPTAIN: I mean, why should we divert? We're the US Navy, for GOD 's sake.
+CAPTAIN: They should divert instead. Send back a transmission.
+RADIO: Unable. Recommend you divert your course NUMBER degrees south to avoid collision.
+spy machinery
+RADIO: They just said "No, you".
+CAPTAIN: What? Tell them this is on behalf of the captain of the U.S.S. SHIP NAME
+RADIO: Unable. This is on behalf of the captain of the U.S.S. SHIP NAME
+RADIO: Please divert your course NUMBER degrees south.
+spy machinery
+Music Stops
+RADIO: No luck. They said they're unable and insist that we should.
+CAPTAIN: For GOD 's sake. (grabs the radio)
+tense cinematic music
+CAPTAIN: (Shouting) This is Captain LAST NAME of the U.S.S. SHIP NAME
+CAPTAIN: The second largest ship of the United States Naval Fleet!
+CAPTAIN: We have in tow three destroyers, three cruisers, numerous support vessels...
+CAPTAIN: and enough ordinance to level LOCATION !
+CAPTAIN: This is no longer a recommendation, this is a demand!
+CAPTAIN: Change course NUMBER degrees north immediately!
+CAPTAIN: Failure to do so will result in countermeasures being taken, like PUNISHMENT !
+CAPTAIN: And that will result in an act of war!
+CAPTAIN: Do you understand? (throws the radio back)
+Music Stops
+CAPTAIN: That'll show them. Stupid Canadians.
+explosion
+CAPTAIN: What was that? Damage Report!
+spy machinery
+RADIO: It's the Canadian official, sir.
+CAPTAIN: Now what?
+RADIO: We just ran into their lighthouse.
+vine boom
+silly music 2
+spy machinery
+RADIO: And now our fellow ships are laughing at us.
+CAPTAIN: (dread) Oh, no. We screwed up, now. President PRESIDENT will never let me down over this.
+RADIO: Was it worth it, sir?
+CAPTAIN: Another word, and you'll be CRUEL for a month.
+RADIO: Sorry, sir.
+TYPEWRITER: This reenactment was based on totally true events.
+TYPEWRITER: Trust me, bro. I saw it on WEBSITE
+
+======
+
+INFORMATION ===============================
+ID: 1104
+TITLE: Bring me to your leader!
+AUTHOR: AxolotlError
+VERIFIED: True
+TAGS: Skit
+SET: Political Debate USA
+DATE: 26/09/24
+CHARACTERS ================================
+MOD: Debate Moderator:Moderator Table
+CAN R: First Candidate:Podium Stage Right
+CAN L: Second Candidate:Podium Stage Left
+UFO: Alien Invader:Backstage
+SUGGESTIONS =============================
+HOME: Name of a country.:The USA, The USSR, Wakanda, The Imperium of Man
+POL: Name of a political party.:Disco Party, Birthday Party, Slumber Party, Mario Party
+OOPS: Name of a scandal.:Oopsie Woopsie, Banna Murder, Steel Chair, Uno
+GLORPIN: A sound an alien would make.:Gleep Glorp, Wabby Wabbo, Meep Morp, Poopa Stinka
+PLANET: The name of a planet.:Mars, Uranus, X-145, Mobius
+LARGE: Something very big.:Star, Uranus, your mom, my mom
+SUB: A substance you wouldn't want to be turned into.:Stone, Ice, Booger, Cheese
+STARS: Name for an alien race.:Martians, Mobians, Namekians, Saiyans
+USER: You or someone else who is in the audience.:everyone in the audience
+RELATION: Something you would call someone you grew a close relationship with.:Lover, Pookie, Kitten, Nakama
+FUN: Something fun you can do with someone.:play basketball, play hide and go seek, speed at 100 mph in a school zone, play League of Legends
+SCRIPT ==========================================
+(usa anthem music)
+MOD: Hello to everyone here in the audience and at home in front of their television, and welcome to this election year's presidential debate!
+MOD: I'll be the moderator for this debate, making sure everything goes smoothly for our two candidates in the running.
+MOD: Speaking of which, I'd like to introduce you to our first candidate, Will Moby!
+(crowd woo)
+CAN R: Hello everyone, it's great to be here living in this wonderful nation...
+(Music Stops)
+CAN R: This wonderful country known as HOME!
+(groose music)
+CAN R: And I for one can't wait to pave the way for an even brighter future!
+CAN R: As a proud member of the political party you all love called POL,
+CAN R: I can't wait to make HOME a better place for all of our citizens when I become president!
+CAN L: Don't you mean IF you become president? Last I checked, there were some POL members that recently got into hot water.
+CAN R: Oh that's rich coming from you, Smith Star. Last I CHECKED, you were the one that was behind the "OOPS" last month!
+Meanwhile MOD: (Under breath) Here we go again...
+CAN L: (Gasp) That is slander!
+CAN L: A proud Star would never be involved with such a thing, so to even suggest it is disrespectful to my family name!
+CAN R: Well YOU disrespected my POL friends like you always do you buffoon!
+Meanwhile MOD: Can you both please settle down?
+CAN L: Because they're a bunch of idiots, like you were to me back then!
+Meanwhile MOD: For the sake of the debate, please...
+CAN R: Back then?
+CAN R: We had a good thing going back then, but no! You just had to blow up on me...
+Meanwhile MOD: (Growling in anger)
+CAN R: You, and your pride and your ego. You just had to be the man!
+Meanwhile CAN L:  La la la la
+MOD: BOTH OF YOU SHUT UP!
+(Music Stops)
+MOD: You're both acting childish!
+MOD: My job is to over see a presidential debate, and not two old men who act like children!
+MOD: I would do anything to have some alien come down, then blast you two into orbit right now!
+(discord notification)
+MOD: Wait... Did you two hear that?
+CAN R: Nope.
+Meanwhile CAN L: Nope.
+MOD: (Look up) But I did, and it sounded otherworldly...
+(tense cinematic music)
+MOD: Almost like AN ALIEN!
+(explosion)
+UFO: (enter stage from above) GLORPIN to the people of the planet "berth", and citizens of HOME.
+UFO: I hail from the planet PLANET, and I demand you take me to your leader!
+MOD: (Scared) That's actually a tricky request to grant!
+MOD: We were still in the middle of deciding that before you invaded!
+CAN L: Who cares about that? It might as well be me.
+Meanwhile CAN R: Who cares about that? It might as well be me.
+CAN R: No, I said it might as well be you idiot!
+Meanwhile CAN L: No, I said it might as well be you idiot!
+CAN L: Stop copying me Willy!
+Meanwhile CAN R: Stop copying me Smithy!
+UFO: It seems I have a dilemma of sorts on my hands.
+UFO: You both claim to be the leader, yet try to discredit the other.
+UFO: Thanks to my hyper intelligent brain that's the size of LARGE, I can deduct that you both aren't the leaders.
+(Music Stops)
+UFO: One of you is lying to me, and the other is HOME's true leader.
+UFO: If none of you speak up, then I'll be forced to use my SUB-Ray!
+(scary music)
+MOD: Your SUB-Ray?
+UFO: Yes, my SUB-RAY.
+UFO: It fires a highly concentrated beam of SUB, instantly rearranging the cellular structure of whatever it hits.
+MOD: You use it to turn people into SUB? You're a monster! Don't you have heart?
+UFO: Of course not.
+UFO: We STARS lack it it our biology, for our superior LARGE-sized brains let us survive through pure GLORPIN alone.
+CAN L: Don't worry everyone, this alien is most definitely bluffing!
+(Music Stops)
+(USA anthem music)
+CAN L: Our proud home HOME has nothing to fear!
+CAN R: For once I have to agree with you, Smithy. HOME will stand strong against this threat!
+MOD: What are you two trying to do? SURRENDER!
+UFO: If you wish for proof, then a demonstration you shall receive.
+(Music Stops)
+(record scratch)
+UFO: (Aim SUB-Ray at USER.) Target acquired.
+Meanwhile MOD: USER, look out!
+(alien siren)
+UFO: GLORPIN and goodbye citizen of HOME. (Fire SUB-RAY)
+(raygun shot)
+(explosion)
+MOD: NOOOOOOOO!
+(sad chug jug music)
+CAN L: Woah, they just exploded into SUB!
+CAN R: That was so rad!
+CAN L: I know, right Willy?
+MOD: (Angry) No it isn't "rad"! USER was the one who funded our damn debate building!
+CAN L: So none of us get to become president now?
+Meanwhile CAN R: Aw GLORPIN!
+(Music Stops)
+(record scratch)
+UFO: Wait. Both of you aren't the leader of HOME?
+MOD: (Sad) I told you earlier we were still deciding that!
+MOD: You must have not heard me when I said it earlier...
+CAN R: Man, this is awkward...
+CAN R: Looks like we really messed up this time. Huh Smithy?
+CAN L: Worse than when we broke up from being eachother's RELATION.
+(vine boom)
+(groose music)
+MOD: (Shocked) You two were WHAT?!
+CAN R: Of course we were!
+Meanwhile CAN L: Of course we were!
+CAN L: Why do you think I was calling him Willy instead of Will?
+Meanwhile CAN R: Why do you think I was calling him Smithy instead of Smith?
+UFO: This revelation of you being RELATIONs is of little concern to me.
+UFO: Since both of you INSULTs are not HOME's leader, I'll have to settle with the person who is the most intelligent in this room.
+MOD: And who would that be?
+UFO: By process of elimination, you moderator.
+MOD: (Scared) F-Flattered to be considered the leader, but what are you going to do to me?
+(alien siren)
+UFO: (Point SUB-Ray at Debate Moderator) Turn you into SUB.
+MOD: Anything but SUB!
+UFO: (fire SUB-Ray) Target acquired.
+(raygun shot)
+(Teleport MOD to Backstage)
+(explosion)
+UFO: Finally.
+(guitar music 1)
+UFO: I've completed my mission for STARS kind and eliminated the leader of HOME.
+UFO: All of my LARGE-brained friends will be very pleased when I return to PLANET.
+CAN L: Wait, before you go GLORPIN alien!
+CAN L: Why go through all the effort to kill our leader, only to then suddenly leave?
+CAN R: Yeah, it doesn't make any sense.
+CAN R: Just like a dude who thinks they can lift a LARGE with just their tounge!
+CAN L: I could, but please continue.
+CAN L: Tell us why!
+(Music Stops)
+UFO: For the glory of the POL!
+(Teleport UFO to Backstage)
+(discord notification)
+CAN R: Oh...
+CAN L: They're gone now...
+CAN L: So you wanna be my RELATION again and FUN?
+CAN R: FUN with my RELATION OOPS?
+(tada)
+CAN R: YIPPEE!!!
 
 ======
 
