@@ -2608,6 +2608,7 @@ LUCID_STRESSES
 1pacman234
 Dani cali
 Hazelbeb
+soleloopy jr
 #TIER=3
 SidMarcus
 PinballReviewer
