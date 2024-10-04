@@ -2426,7 +2426,6 @@ Saquin
 The King Bee
 SanctumTalon
 Mosespoe
-ManieTheBat
 Siren8207
 Prøvįnce
 D͓̽u͓̽c͓̽k͓̽
@@ -2517,6 +2516,7 @@ jetsunleashed
 Loona_Eclipse
 wintersshadow
 WIVTVR
+ManieTheBat
 #TIER=2
 ArkoNero
 saika mujuuk
