@@ -1920,6 +1920,7 @@ Acid Lucien
 SpeakVr
 MTF Lieutenant
 ʚ ᴅᴇᴠɪʟ ɞ
+Løcal
 modNick
 ruralists
 #TIER=1
