@@ -33587,7 +33587,7 @@ HOSTAGE: (Walk over to PRIVATE) You rescued me! So... are YOU gonna pour hot LIQ
 PRIVATE: I dunno, I gotta ask my momma first. Are you allergic to cats?
 HOSTAGE: Are you allergic to TORTURE?
 HQ: Yes Ma'am, Just now. I saw the whole thing.
-HQ: Your kid did it, You should be proud of them... Ms. Booper-Claps. (lol chuckle).
+HQ: Your kid did it, You should be proud of them... Ms. Donkey-Flappers.
 PRIVATE: Wait! HQ, you're actually talking to my mom right now?! (Exit)
 
 ======
@@ -34776,13 +34776,15 @@ MOM: Good, anyways (turn to sally) great job playing the piano sweetie, keep it 
 (music stops)
 SALLY: Whelp time to play something actually fun
 (piano theme)
-NICK: (get up) play that one sad chug jug thing, can’t believe mom hit me, my face is redder than RED
+NICK: (get up) I can’t believe mom hit me, my face is redder than RED
+NICK: Can you play that sad chug song? It'll match my mood.
 (sad chug jug music)
 SALLY: Sure thing, a special song, for the special forgiven son!
+SALLY: I don't know why you're sad, mom is forgiving your debt.
 NICK: Lose that disrespectful tone, you jerk. Why do you always sound so condescending?
 SALLY: I'm doing what you asked aren't I?
 (honking)
-GRAY: Thanks for the ride! (enter stage right) Hey family!
+GRAY: Thanks for the ride! (enter stage left) Hey family!
 SALLY: Welcome home gray!
 NICK: Hey Grayland, welcome back, you find that money you owe me?
 (mystery music 1)
@@ -35167,18 +35169,19 @@ MOD: Hello to everyone here in the audience and at home in front of their televi
 MOD: I'll be the moderator for this debate, making sure everything goes smoothly for our two candidates in the running.
 MOD: Speaking of which, I'd like to introduce you to our first candidate, Will Moby!
 (crowd woo)
-CAN R: Hello everyone, it's great to be here living in this wonderful nation...
+CAN R: Hello everyone, I am Will Moby, and it's great to be here living in this wonderful nation...
 (Music Stops)
 CAN R: This wonderful country known as HOME!
 (groose music)
 CAN R: And I for one can't wait to pave the way for an even brighter future!
-CAN R: As a proud member of the political party you all love called POL,
+CAN R: As a proud member of the political party you all love called the POL,
 CAN R: I can't wait to make HOME a better place for all of our citizens when I become president!
 CAN L: Don't you mean IF you become president? Last I checked, there were some POL members that recently got into hot water.
-CAN R: Oh that's rich coming from you, Smith Star. Last I CHECKED, you were the one that was behind the "OOPS" last month!
+CAN R: Oh that's rich coming from you, Smith Star. Last I CHECKED, you were the one that was behind the whole "OOPS" incident last month!
 Meanwhile MOD: (Under breath) Here we go again...
 CAN L: (Gasp) That is slander!
-CAN L: A proud Star would never be involved with such a thing, so to even suggest it is disrespectful to my family name!
+CAN L: A proud Star would never be involved with such a thing!
+CAN L: So to say I, Smith Star, am involved with the OOPS scandal is disrespectful to my family name!
 CAN R: Well YOU disrespected my POL friends like you always do you buffoon!
 Meanwhile MOD: Can you both please settle down?
 CAN L: Because they're a bunch of idiots, like you were to me back then!
@@ -35187,7 +35190,7 @@ CAN R: Back then?
 CAN R: We had a good thing going back then, but no! You just had to blow up on me...
 Meanwhile MOD: (Growling in anger)
 CAN R: You, and your pride and your ego. You just had to be the man!
-Meanwhile CAN L:  La la la la
+Meanwhile CAN L: La la la la
 MOD: BOTH OF YOU SHUT UP!
 (Music Stops)
 MOD: You're both acting childish!
@@ -35202,18 +35205,18 @@ MOD: (Look up) But I did, and it sounded otherworldly...
 MOD: Almost like AN ALIEN!
 (explosion)
 UFO: (enter stage from above) GLORPIN to the people of the planet "berth", and citizens of HOME.
-UFO: I hail from the planet PLANET, and I demand you take me to your leader!
-MOD: (Scared) That's actually a tricky request to grant!
+UFO: I hail from the planet PLANET, home of the STARS, and I demand you take me to your leader!
+MOD: (Scared) That's actually a tricky request to grant STARS sir.
 MOD: We were still in the middle of deciding that before you invaded!
 CAN L: Who cares about that? It might as well be me.
 Meanwhile CAN R: Who cares about that? It might as well be me.
-CAN R: No, I said it might as well be you idiot!
-Meanwhile CAN L: No, I said it might as well be you idiot!
+CAN R: No, I said it might as well be me first idiot!
+Meanwhile CAN L: No, I said it might as well be me first idiot!
 CAN L: Stop copying me Willy!
 Meanwhile CAN R: Stop copying me Smithy!
 UFO: It seems I have a dilemma of sorts on my hands.
 UFO: You both claim to be the leader, yet try to discredit the other.
-UFO: Thanks to my hyper intelligent brain that's the size of LARGE, I can deduct that you both aren't the leaders.
+UFO: Thanks to my hyper intelligent brain that's the size of LARGE, I can deduct that you both can't be the leader.
 (Music Stops)
 UFO: One of you is lying to me, and the other is HOME's true leader.
 UFO: If none of you speak up, then I'll be forced to use my SUB-Ray!
@@ -35223,29 +35226,32 @@ UFO: Yes, my SUB-RAY.
 UFO: It fires a highly concentrated beam of SUB, instantly rearranging the cellular structure of whatever it hits.
 MOD: You use it to turn people into SUB? You're a monster! Don't you have heart?
 UFO: Of course not.
-UFO: We STARS lack it it our biology, for our superior LARGE-sized brains let us survive through pure GLORPIN alone.
+UFO: We STARS lack it it our biology, for our superior LARGE-sized brains let us survive through pure GLORPIN energy alone.
 CAN L: Don't worry everyone, this alien is most definitely bluffing!
 (Music Stops)
 (USA anthem music)
 CAN L: Our proud home HOME has nothing to fear!
+CAN L: Despite all of the things this nation has faced, including the recent OPPS disaster, we'll pull through!
 CAN R: For once I have to agree with you, Smithy. HOME will stand strong against this threat!
+CAN R: With the might of the biggest of LARGE, HOME will stand!
 MOD: What are you two trying to do? SURRENDER!
 UFO: If you wish for proof, then a demonstration you shall receive.
 (Music Stops)
 (record scratch)
-UFO: (Aim SUB-Ray at USER.) Target acquired.
+UFO: (Aim SUB-Ray at USER.) Locking SUB-ray onto USER.
 Meanwhile MOD: USER, look out!
 (alien siren)
-UFO: GLORPIN and goodbye citizen of HOME. (Fire SUB-RAY)
+UFO: GLORPIN and goodbye citizen of HOME.
+UFO: Prepare to be turned into SUB USER. (Fire SUB-RAY)
 (raygun shot)
 (explosion)
 MOD: NOOOOOOOO!
 (sad chug jug music)
-CAN L: Woah, they just exploded into SUB!
+CAN L: Woah, that USER fella just exploded into SUB!
 CAN R: That was so rad!
 CAN L: I know, right Willy?
 MOD: (Angry) No it isn't "rad"! USER was the one who funded our damn debate building!
-CAN L: So none of us get to become president now?
+CAN L: So none of us get to become president of HOME now?
 Meanwhile CAN R: Aw GLORPIN!
 (Music Stops)
 (record scratch)
@@ -35263,7 +35269,7 @@ Meanwhile CAN L: Of course we were!
 CAN L: Why do you think I was calling him Willy instead of Will?
 Meanwhile CAN R: Why do you think I was calling him Smithy instead of Smith?
 UFO: This revelation of you being RELATIONs is of little concern to me.
-UFO: Since both of you INSULTs are not HOME's leader, I'll have to settle with the person who is the most intelligent in this room.
+UFO: Since both of you GLORPIN's are not HOME's leader, I'll have to settle with the person who is the most intelligent in this room.
 MOD: And who would that be?
 UFO: By process of elimination, you moderator.
 MOD: (Scared) F-Flattered to be considered the leader, but what are you going to do to me?
@@ -35276,7 +35282,7 @@ UFO: (fire SUB-Ray) Target acquired.
 (explosion)
 UFO: Finally.
 (guitar music 1)
-UFO: I've completed my mission for STARS kind and eliminated the leader of HOME.
+UFO: I've completed my mission for STARS kind and eliminated the closest thing to a leader for HOME.
 UFO: All of my LARGE-brained friends will be very pleased when I return to PLANET.
 CAN L: Wait, before you go GLORPIN alien!
 CAN L: Why go through all the effort to kill our leader, only to then suddenly leave?
@@ -35291,7 +35297,7 @@ UFO: For the glory of the POL!
 CAN R: Oh...
 CAN L: They're gone now...
 CAN L: So you wanna be my RELATION again and FUN?
-CAN R: FUN with my RELATION OOPS?
+CAN R: FUN with my RELATION?
 (tada)
 CAN R: YIPPEE!!!
 
