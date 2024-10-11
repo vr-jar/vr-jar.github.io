@@ -2660,6 +2660,7 @@ IonizedChain
 AlwayzTired 
 GL_Fredrick
 DEADEYE36635
+TheWard11
 #TIER=3
 SidMarcus
 PinballReviewer
