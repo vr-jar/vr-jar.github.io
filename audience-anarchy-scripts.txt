@@ -8645,8 +8645,8 @@ AGENT: (Nauseous) I think I'm turning into a SNAKE...
 INFORMATION ===============================
 ID: 184
 TITLE: The Bakeoff
-AUTHOR: Jay3409
-VERIFIED: True
+AUTHOR: jay3409
+VERIFIED: False
 TAGS: Skit
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -10417,6 +10417,110 @@ GUNSHOT
 ======
 
 INFORMATION ===============================
+ID: 309
+TITLE: My House!
+AUTHOR: Myrddyn
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 28/04/24
+CHARACTERS ================================
+ROBERT: Robert, a middle aged man:Center Stage
+POOLE: Mr Poole, A construction foreman.:Entrance Stage Right
+RICHARD: Richard, Robert's friend from afar.:Backstage
+SUGGESTIONS =============================
+ANIMAL: A dangerous creature:Tiger, Leopard, Crocodile
+BUILD: Large construction project:Bypass, Skyscraper, Mall
+H.ACTIVITY: Activity done around the house:Clean, Wash, Vacuum
+H.ACT.OBJ: Household object:Windows, Dishes, Carpet
+TIME: A short period of past time:Yesterday, Five minutes ago
+FEE: An amount of money:Five dollars, Ten cents
+OFFICE: An office department:Human Resources, Planning Department, Shipping, Receiving
+NOTE: A type of message, like a sign or warning:Notice, Warning, Alert, Spam
+LASTNAME: An unusual last name:Haynes, Tozer, BoobenFarten
+STRDRINK: An Alcoholic Drink:Beer, Wine, Vodka
+STRFOOD: A snack food:Peanuts, Chips, Popcorn
+SCRIPT ==========================================
+DOORBELL
+ROBERT: (answering door) Hello, Yes?
+POOLE: (surprised someone is home) Oh, Hello. (Checking clipboard) Mr.... LASTNAME?
+ROBERT: That's me.
+POOLE: Did you get the NOTE?
+ROBERT: (annoyed) Which NOTE? The one yesterday about the upcoming flea market?
+POOLE: N..No... not that NOTE.
+ROBERT: Then the NOTE about the free eggs?
+POOLE: (flustered) no...
+ROBERT: Then you must mean the NOTE about my house.
+POOLE: Ah.. yes... that's the NOTE.
+ROBERT: And?
+POOLE: (Point to audience) Ah, yes.. well.. it's time.
+ROBERT: Ah.. right. Well, There we have an issue.
+RICHARD: (Enter stage right) Robert, You home?
+POOLE: (Annoyed) Now listen, Mr. LASTNAME, You have been notified.
+ROBERT: (Move closer to the foreman) I don't care. This is my house, and I don't care about your. What was it, a BUILD.
+POOLE: But you must realize that you can't stay here indefinitely.
+ROBERT: I'm game, we'll see who gives in first.
+RICHARD: (looking up) Robert? What's going on.
+POOLE: I'm afraid you're going to have to accept it. This BUILD has got to be built and it's going to be built. Nothing you can say or do ...
+ROBERT: Why's the BUILD got to be built?
+POOLE: What you mean, why's the BUILD got to be built? It's a BUILD, you've got to build them.
+RICHARD: Did anyone consider the alternatives?
+POOLE: There aren't any alternatives.
+RICHARD: (looking through books) There's always an option.
+POOLE: Look you were entitled to make any suggestions or protests at the appropriate time.
+ROBERT: Appropriate time? The first I knew about it was when a workman arrived at the door TIME.
+ROBERT: I asked him if he'd come to H.ACTIVITY the H.ACT.OBJ and he said he'd come to demolish the house.
+ROBERT: He didn't tell me straight away of course.
+ROBERT: No, first he H.ACTIVITY a couple of H.ACT.OBJ and charged me a FEE. Then he told me.
+POOLE: But Mr. LASTNAME, The plans have been available in the OFFICE for the last nine months.
+ROBERT: Yes. I went round to find them TIME afternoon. You hadn't exactly gone out of your way to call much attention to them had you?
+ROBERT: (sarcastically annoyed) I mean, like actually telling anybody or anything.
+RICHARD: (Look at your device, and then scan the audience) Robert there isn't time for this.
+POOLE: That depends where you were looking.
+ROBERT: (increasingly upset) I eventually had to go down to the basement ...
+POOLE: That's the display department.
+ROBERT: (intensely) with a torch.
+POOLE: (slightly nervous) Ah, the lights had probably gone.
+ROBERT: So had the stairs.
+RICHARD: (Nervously excited) Seriously Robert... There's not...
+POOLE: (ignoring them) But you found the notice didn't you?
+ROBERT: (hostile) Yes. It was on display in the bottom of a locked filing cabinet stuck in a disused lavatory,
+ROBERT: with a sign on the door saying "Beware of the ANIMAL".
+ROBERT: (normal voice) Ever thought of going into advertising?
+RICHARD: (matter of fact) It's not as if it's a particularly nice house anyway.
+ROBERT: I happen rather to like it.
+POOLE: (very annoyed) Mr. LASTNAME!
+RICHARD: Look... there's not much time. (Look up at sky)
+ALIEN SIREN
+RICHARD: Uh oh..
+POOLE: (looking towards audience) What the hell's that?
+RICHARD: What I've been trying to warn you about.
+RICHARD: It's not just your house, but the entire planet!
+ROBERT: (confused, rubbing head as if having a hangover) Well, they're large, yellow, and I don't see wings or engines or anything.
+RICHARD: (thrust a STRDRINK into Robert's hands) Here.. Drink this STRDRINK.
+ROBERT: (take STRDRINK) Really a STRDRINK?
+RICHARD: (thrust a packet of STRFOOD too) And eat this STRFOOD.
+ROBERT: (take STRFOOD) And STRFOOD? What's this for? (start eating)
+POOLE: (stammering) What do we do?
+RICHARD: (To Mr. Poole) Do what you like. Put a bag over your head.
+POOLE: (nervous) Will it help?
+RICHARD: (To Mr. Poole) Nope.. Nothing you can do.
+RICHARD: Drink the STRDRINK, eat the STRFOOD.. you'll need it.
+ROBERT: This all feels strangely familiar. (continue eating and drinking)
+RICHARD: That's just normal paranoia.. Drink the STRDRINK. (Check phone again)
+POOLE: (run screaming out the door)
+ROBERT: Well at least he's gone.
+RICHARD: Will be soon. Here hold onto me.
+ROBERT: (Finishing STRDRINK and STRFOOD) Uh... Richhard.. I don't swing that way.
+RICHARD: Just take hold of me, so we can get out of here.
+ROBERT: How? (hold Richard's)
+CELLPHONE VIBRATE
+RICHARD: Just in time.
+EXPLOSION
+
+======
+
+INFORMATION ===============================
 ID: 319
 TITLE: AI Generated Wife
 AUTHOR: Cloaked Schemer
@@ -10425,21 +10529,22 @@ TAGS: Skit
 SET: Conference Room
 DATE: 28/04/24
 CHARACTERS ================================
-CUSTOMER: Customer in need of a Waifu:Office Chair 1
-AIGF: Waifu (Will change avatars mid-script):Backstage
 SALE: Tech company salesperson:Boss Chair
+AIGF: Waifu (Will change avatars mid-script):Backstage
+CUSTOMER: Customer in need of a Waifu:Office Chair 1
 SUGGESTIONS =============================
-LAST: A last name:Morbius, Shake, Pibb
-COMP: A company name (real or fake):Walmart, ChatGPT, Bass Pro Shop
-BODY: A body part you find interesting:broad shoulders, rump, face
-MONEY: How much will this cost?:Tree fiddy, too dolla, fiddy dolla
-CHARACTER: The name of literally any character or person:Sailor Moon, Naruto, Jimmy Neutron
-FAVORITE: Something you really love:Cheetos, Subway Coupons, Bouncing ball
-TAG: Adjective describing the ideal cartoon character:Masterpiece, Waifu, Dragon-girl
-BOD2: A body part:Leg, Hands, elbow
-LABEL: Something you look for in a partner:Smelly, Really well paying job, thighigh socks, gamer
-TAB: A popular character trait that you don't personally like:Muscles on Muscles, Tall, Green Skin
 HATE: Something you really hate:Discord Pings, Spam invites, The Black Cat
+TAB: A popular character trait that you don't personally like:Muscles on Muscles, Tall, Green Skin
+LABEL: Something you look for in a partner:Smelly, Really well paying job, thighigh socks, gamer
+BOD2: A body part:Leg, Hands, elbow
+TAG: Adjective describing the ideal cartoon character:Masterpiece, Waifu, Dragon-girl
+FAVORITE: Something you really love:Cheetos, Subway Coupons, Bouncing ball
+CHARACTER: The name of literally any character or person:Sailor Moon, Naruto, Jimmy Neutron
+MONEY: How much will this cost?:Tree fiddy, too dolla, fiddy dolla
+BODY: A body part you find interesting:broad shoulders, rump, face
+COMP: A company name (real or fake):Walmart, ChatGPT, Bass Pro Shop
+LAST: A last name:Morbius, Shake, Pibb
+ATTRACTIVE: A word to compliment someone:Sexy, Gyatt, skibbidi
 SCRIPT ==========================================
 happy music 1
 SALE: So Mr. LAST we are proud that you chose COMP Ai Generation™
@@ -10453,7 +10558,7 @@ CUSTOMER: Wait! Why?
 SALE: Any who! Let's get started! Tell me what you're looking for!
 CUSTOMER: Well... What I really want is someone who looks cute...
 SALE: Say no more! (Typing on a keyboard) I'm sure you're going to love this!
-Meanwhile Teleport AIGF to Entrance Stage Left
+Meanwhile AIGF: (Stand in front of door and wait)
 gameshow ding
 SALE: And here you are Mr. LAST! Your true love... (Approach and open door)
 tada
@@ -10474,7 +10579,7 @@ CUSTOMER: ohhh! And Can she look like CHARACTER
 SALE: Ohh! CHARACTER with a really big BODY
 CUSTOMER: And also I'd like if she shared my interest in FAVORITE!
 SALE: Alright Mr. LAST adding FAVORITE in and....
-Meanwhile Teleport AIGF to Entrance Stage Left
+Meanwhile AIGF: (Stand in front of door and wait)
 gameshow ding
 SALE: She's ready! Mr. LAST... I present your dream wife... (Approach and open the door)
 AIGF: Hello Mr. LAST. I really love FAVORITE!
@@ -10510,7 +10615,7 @@ Meanwhile AIGF: (Exit the stage and change into a different avatar)
 CUSTOMER: All that and add TAG just to be double sure she comes out perfect!
 SALE: THINK and hates HATE... With the tags TAG, LABEL, and TAB...
 SALE: Just a few more seconds and she is....
-Meanwhile Teleport AIGF to Entrance Stage Left
+Meanwhile AIGF: (Stand in front of door and wait)
 Music stops, gameshow ding
 SALE: Done! Get ready Mr. LAST to meet your future wife! (Approach and open door)
 tada, 70s music
@@ -20358,8 +20463,8 @@ GUARD: What a handsome and great young fellow. (Start to pack-up)
 INFORMATION ===============================
 ID: 658
 TITLE: Cowboy Duel
-AUTHOR: ༒Ｓｐｉｄｅｒ－Ｍａｎ༒
-VERIFIED: True
+AUTHOR: spiderz_.
+VERIFIED: False
 TAGS: Skit
 SET: Western
 DATE: 28/04/24
@@ -32622,7 +32727,7 @@ DA: That was before, this is now
 DA: (look toward the kitchen and scream) no I forgot about the FOOD!
 (badass music 1)
 DA: (run towards cabinet, in the kitchen) Got to get my MED stash before it burns!
-GA: Now's the time ENDEARING make a run for it! (run out after your gf)
+GA: Now's the time ENDEARING make a run for it!
 GF: (scream in terror and run out stage right)
 
 ======
@@ -33501,11 +33606,11 @@ VILLAIN: ....What?
 HOSTAGE: I mean...My family can be a little stubborn about things like this.
 HOSTAGE: So... don't you wanna...whip my ANIMAL?... Just in case?
 70s Music
-HOSTAGE: Or maybe do a little TORTURE just to make sure I...THEY learn their lesson?
+HOSTAGE: Or maybe do a little TORTURE just to make sure I learn...I mean THEY learn their lesson?
 HOSTAGE: Or you could tie me up and pour hot LIQUID all over my...you know...
 VILLAIN: Shut your mouth before I punch you in it! (About to hit the Hostage again)
 HOSTAGE: WAIT!!!... Put on these brass knuckles first. (Hand over brass knuckles)
-VILLAIN: (Backs away from the Hostage, Frightened) Uh...Just...Just sit there and be quiet...please...
+VILLAIN: (Back away from the Hostage, Frightened) Uh...Just...Just sit there and be quiet...please...
 Music Stops
 HOSTAGE: (Pouts) You're not even going to electrocute me? Worst. Kidnapper. Ever. (Turn around and sit.)
 Shark tank discussion music 1
@@ -33515,7 +33620,7 @@ CAPTAIN: Team, on me. HQ, This is CAPTAIN Legoshi, I read you loud and clear.
 CAPTAIN: No sign of the hostage.
 CAPTAIN: Do we have a positive ID on the enemy?
 HQ: Target in the area is identified as POPULAR PERSON.
-HQ: Intel says they look like a VTuber, but they've got a nice ANIMAL on them.
+HQ: Intel says they look like a VTuber, but they've got a real nice ANIMAL on them.
 HQ: Be careful in securing the Hostage, Team NUMBER.
 HQ: POPULAR PERSON is armed and extremely dangerous.
 Teleport SARGE Stage Right
@@ -33574,20 +33679,22 @@ PRIVATE: Wait, you're raging over League of Legends?
 Epic fantasy music 1
 VILLAIN: The Feeders, the AFK-ers, the Chat...that terrible CHAT... Their family will pay for what they've done to my people's ranks in League of Legends.
 PRIVATE: I don't know much about League, but I know I can't die out here like a VRCHAT. I've got a bunch of cats at home that need me.
-PRIVATE: Plus, my momma told me if I ever died, she'd kill me. This one's for you momma!
+PRIVATE: Plus, my momma told me if I ever died, she'd kill me. 
+PRIVATE: This one's for you momma!
 PRIVATE: (Stab VILLAIN)
 Meanwhile VILLAIN: (Get stabbed by PRIVATE)
 Knife wound
-VILLAIN: AHHHH! My BODY PART (Injured)
+VILLAIN: AHHHH! My BODY PART
 VILLAIN: (Hobble to middle of Bridge and face Audience) Damn you, Legoshi Task Force...
-VILLAIN: I'll be back...for that...ANIMAL. (Fall into river and float under bridge)
+VILLAIN: I'll be back...for that...ANIMAL. Remember to like and subscribe! (Fall into river)
 Teleport VILLAIN backstage
 Music Stops
 HOSTAGE: (Walk over to PRIVATE) You rescued me! So... are YOU gonna pour hot LIQUID all over my...you know?
 PRIVATE: I dunno, I gotta ask my momma first. Are you allergic to cats?
 HOSTAGE: Are you allergic to TORTURE?
 HQ: Yes Ma'am, Just now. I saw the whole thing.
-HQ: Your kid did it, You should be proud of them... Ms. Donkey-Flappers.
+HQ: Your kid did it, You should be proud of them...
+HQ: Ms. Donkey-Flappers.
 PRIVATE: Wait! HQ, you're actually talking to my mom right now?! (Exit)
 
 ======
@@ -34651,8 +34758,8 @@ CLERK: (frustrated) Then why did we have any of this conversation? Why are you s
 INFORMATION ===============================
 ID: 1090
 TITLE: The Great Leader
-AUTHOR: ༒Ｓｐｉｄｅｒ－Ｍａｎ༒
-VERIFIED: True
+AUTHOR: spiderz_.
+VERIFIED: False
 TAGS: Skit
 SET: Detective Noir
 DATE: 16/09/24
@@ -35300,6 +35407,139 @@ CAN L: So you wanna be my RELATION again and FUN?
 CAN R: FUN with my RELATION?
 (tada)
 CAN R: YIPPEE!!!
+
+======
+
+INFORMATION ===============================
+ID: 1119
+TITLE: Wasted in the Wasteland
+AUTHOR: LoppearLink
+VERIFIED: True
+TAGS: Skit
+SET: Campsite
+DATE: 11/10/24
+CHARACTERS ================================
+SSURVIVOR: Sober Survivor:Rock chair
+DSURVIVOR: Drunk Survivor:Behind bushes
+SUGGESTIONS =============================
+EMBARRASSING: An embarassing thing you wouldn't want someone to find:Toenail collection, dirty magazines, internet browser history
+COCKTAIL: Name of a cocktail or mixed drink:Rum & Coke, Old Fashioned, Margarita
+BAD FOOD: Name of a food item nobody likes:Brussel sprouts, broccoli, Bounty
+BEVERAGE: Name of a drink:Water, Mountain Dew Red Alert, Pibb
+RODENT: Name of a rodent:Rat, Squirrel, Beaver
+CANNED FOOD: Type of food you ususally find canned:corn, sardines, Wendy's chili
+DESIRABLES: Anything that people would really want:Rare comics, portable TV, dirty magazines
+SCRIPT ==========================================
+(Dark Classical Music)
+SSURVIVOR: (Emerge from bushes) Okay, I've been foraging for the last 4 hours, I found some water, some food, and a shocking amount of EMBARRASSING.
+DSURVIVOR: (Swaying while sitting, speech slurred) Oh that's great! That's (pause) great!
+SSURVIVOR: Yeah, this should be enough to keep us alive for a few more days if we ration it all properly. Did you find anything?
+DSURVIVOR: (Pause) Huh? Oh! Yeah, I found an old bar in the next town over.
+SSURVIVOR: That's great! Did you manage to find anything salvageable?!
+DSURVIVOR: Oh yeah! Whiskey, beer, tequila, rum, I even whipped myself up a nice COCKTAIL!
+SSURVIVOR: Okay...? What about perishables? Food? Water? Hell I'll even take spoiled BAD FOOD!
+DSURVIVOR: Now why would we need a thing like that?! I'm- (hiccup) here for a good time, not a long time!
+SSURVIVOR: I'M trying to be here for a long time! Did you seriously find a place that could've had fresh food and drinking water and you got drunk?!
+DSURVIVOR: ...What can I say that'd make you not be mad?
+(Music Stops)
+SSURVIVOR: (Stand up and point angrily) You goddamn alcoholic IDIOT!
+DSURVIVOR: (Stand up and point back) Hey, hey, I may be an alcoholic and an idiot but...what was third thing you said?
+(Tense Cinematic Music)
+SSURVIVOR: I've been finding things we need to survive every day! Nice shelter, canned food, even that months-worth of BEVERAGE we stole from those other survivors!
+DSURVIVOR: That was some pretty good BEVERAGE...
+SSURVIVOR: And I've been sharing it all with a drunk moron!
+DSURVIVOR: Don't act like I haven't done anything for us! Remember those nice kebabs I cooked for us last week?
+SSURVIVOR: You mean when you grilled that RODENT and shoved it on the spears I made to catch us fish?!
+DSURVIVOR: (pause) That's beside the point!
+SSURVIVOR: Right, the point is, you're drunk!
+DSURVIVOR: You're drunk! I'm wasted!
+SSURVIVOR: That's it! I'm grabbing the stuff I just salvaged, and if you try to touch any of it, you're dead!
+DSURVIVOR: Fine! I don't want any of your crappy salvaged stuff! It's probably just canned beets and CANNED FOOD!
+SSURVIVOR: Sure, it could be that...or it could be...nah, I'd rather not say.
+(Music Stops)
+(Double Bass Music)
+DSURVIVOR: (Intrigued) No, what is it?
+SSURVIVOR: Oh, you wouldn't care! It's just a create full of DESIRABLES.
+DSURVIVOR: (Excited) DESIRABLES?! I love DESIRABLES!
+SSURVIVOR: (Excited) Really?! I didn't know that!
+DSURVIVOR: Can I have some?
+SSURVIVOR: No!
+DSURVIVOR: (Dejected) Aww, come on dude! That's not cool!
+SSURVIVOR: You know what else isn't cool? Drinking a bunch of booze when you should be finding stuff to survive!
+DSURVIVOR: Okay! Fine! I won't drink anymore, I promise! Now can you give me the DESIRABLES?!
+SSURVIVOR: Well...to be honest, I did find a bunch of DESIRABLES, but I traded them for some CANNED FOOD...which I already ate.
+DSURVIVOR: You jerk! How could you lie to me like that?!
+SSURVIVOR: Well, it got you to stop drinking, so some good came from it!
+DSURVIVOR: (groan) How could this get any worse?!
+(explosion)
+SSURVIVOR: ...Should we get back in the bunker?
+DSURVIVOR: Good idea! I already cooked us some more RODENT kebabs!
+
+======
+
+INFORMATION ===============================
+ID: 1122
+TITLE: Tortilla Pizza
+AUTHOR: Lazy Sunshine
+VERIFIED: True
+TAGS: Skit
+SET: Infomercial Kitchen
+DATE: 12/10/24
+CHARACTERS ================================
+HOST: The Cooking Show Host:Stage Left
+CHEF 1: Famous Chef 1:Stage Right
+CHEF 2: Famous Chef 2:Center Stage
+SUGGESTIONS =============================
+PERSON: A Person or Kind of Person:Morgan Freeman, A Postal Worker, Aunt Hilda
+PLACE: A Location:Italy, Mars, Downtown Coolsville
+NUMBER: A Number:10, 100, 1000
+EDIBLE: Something Edible:Donuts, Bacon, Broccoli
+SOLID: A Spreadable Solid:Butter, Play-Doh, Manure
+LIQUID: A Liquid:Water, Mercury, Nail Polish Remover
+COLOR: A Color:Red, Aquamarine, Salmon
+VACATION: A Vacation Spot:Vegas, Brazil, The Moon
+TOOL : A Tool or Utensil:Spoon, Chainsaw, Thermal Paste Applicator
+SCRIPT ==========================================
+Guitar Music 1
+Applause
+HOST: Welcome back, everyone, to "Cooking for PERSON."
+HOST: I'm Mr. Host, and here with me are a duo of Michelin Star chefs, who have come all the way from PLACE.
+HOST: Tonight, they'll be showing us their famous Tortilla Pizza recipe!
+CHEF 1: (To host) Thank you for having us.
+CHEF 1: (To audience) Now, we want to start off by preheating the oven to an ideal NUMBER degrees.
+CHEF 2: While that's heating, we'll gather our ingredients.
+CHEF 2: Here, we have tortilla shells, mozzarella cheese, EDIBLE, hearty marinara sauce...
+CHEF 2: ...Italian seasoning, and of course, SOLID.
+HOST: What a unique blend of flavors. I've never seen mozzarella and SOLID used in the same recipe before.
+CHEF 1: We both take much pride in the culture of our home in PLACE.
+CHEF 1: We feel it's a necessity to share our history with the world through our cooking.
+CHEF 2: We'll have to cook this EDIBLE on the stovetop first.
+CHEF 2: We're going to prepare the pan by pouring some LIQUID right in the center, and just let it spread around.
+HOST: Goodness, the smell is wonderful! May I add the EDIBLE?
+CHEF 2: Of course! Just be careful. The LIQUID simmers quickly, and it may spatter.
+CHEF 1: Meanwhile, I'm going to lay this tortilla out, and we're going to use a TOOL to evenly spread the ingredients. Sauce, cheese...
+HOST: Looks like the EDIBLE is done cooking!
+CHEF 2: (Rushed) Yup yup, add that on top while it's still hot.
+CHEF 1: Sprinkle the seasoning, and then we spread SOLID on TOP of it! (Place in oven).
+HOST: To make it melt through! Clever! How long do we keep it in the oven now?
+CHEF 1: Until the tortilla crisps and turns COLOR.
+CHEF 2: There's that COLOR! Let's take it out of the oven now... (Take out of oven).
+HOST: Wow, that looks sensational. I feel it's only fair for the chefs to take the first bite.
+CHEF 1: No no, we insist. You are about to enjoy a delicacy of PLACE.
+HOST: (Take a bite). Oh, heaven, it's delicious! You can really taste the kick of that EDIBLE, and the texture of that melted SOLID.
+( Emotional Piano Music )
+CHEF 1: It's this kind of cooking that brings us together. (Crying) ...I need a hug from my fellow chef.
+CHEF 2: (Crying) Bring it in! Chefs for life! (Hug your fellow chef).
+Applause
+HOST: I'd cry too, but I'm too addicted to this tortilla pizza!
+HOST: For bringing such wonderful cooking to my show, both of you have just earned a trip to VACATION!
+Guitar Music 1
+Crowd Woo
+CHEF 1: VACATION? That's been my dream vacation since I was a child! Thank you!
+CHEF 2: It truly is an honor, thank you so much!
+HOST: And thank you two for being here!
+HOST: That concludes this episode of "Cooking for PERSON!" Goodnight, everybody! (Wave to audience)
+Applause
 
 ======
 
