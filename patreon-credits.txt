@@ -1929,6 +1929,7 @@ Vangorix
 皇 サクヤ 「Sakuya」
 ろえぴ。
 Kentaku
+Scottish_person
 modNick
 ruralists
 #TIER=1
