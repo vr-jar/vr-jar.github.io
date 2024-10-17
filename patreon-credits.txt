@@ -1821,7 +1821,6 @@ AxolotlError
 Msmothvr
 《Cursed Stoner》
 SweetCherryTree
-ঞRoseঞGhostঞ
 Acid Lucien
 SpeakVr
 MTF Lieutenant
@@ -1931,6 +1930,7 @@ Vangorix
 Kentaku
 Scottish_person
 LuniLuka
+ლMaybellfoxლ
 modNick
 ruralists
 #TIER=1
