@@ -2530,7 +2530,6 @@ thunderwolf_
 Dave_TheTechGuy
 HaydenPrime
 EchoeVR2
-BlameitonHackzZ
 VanishSynax
 NickHateReality
 Patthewizard
@@ -2664,6 +2663,7 @@ VexIsHere
 'suno
 Darknessxwalker
 CometaSola
+BlameitonHackzZ
 #TIER=3
 SidMarcus
 PinballReviewer
