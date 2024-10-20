@@ -2340,7 +2340,6 @@ PuppyLivy
 ruralist
 Cloudz--
 DARK_WARRIOR
-Thelvaen
 blimper
 DiaraD
 Nekomi_chan_
@@ -2541,6 +2540,7 @@ FandomDrifter
 Lappy_error404
 ୨୧ ＫＥＮＺＯ ୨୧
 Skyler_Skylight
+Thelvaen
 #TIER=2
 ArkoNero
 saika mujuuk
