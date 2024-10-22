@@ -1246,7 +1246,6 @@ Timosurous Rex
 RustyPenguinGod
 fullmoonhunter
 XxREDACTED
-GildedWolf
 Novabyte98
 Violet_Wishes
 Luka~
@@ -1964,6 +1963,7 @@ SystemBias
 sco11y18
 E0N_zzzz
 Aster Lux
+GildedWolf
 modNick
 ruralists
 #TIER=1
