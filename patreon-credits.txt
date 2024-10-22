@@ -1692,7 +1692,6 @@ Lichenthemoth
 Bubble_Tae
 ·Sniper_Hijack·
 Braindamage131
-bugboyintofrogs
 Winter Monoe
 乇ㄥㄥ丨乇
 hali?
@@ -1930,6 +1929,7 @@ MafiaDemon
 Samdecat22
 oddson
 catlover2872
+bugboyintofrogs
 modNick
 ruralists
 #TIER=1
