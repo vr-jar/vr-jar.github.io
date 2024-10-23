@@ -1,8 +1,8 @@
 INFORMATION ===============================
 ID: 29
 TITLE: House Party
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Dining Room
 DATE: 28/04/24
@@ -125,8 +125,8 @@ Meanwhile CAT: (Hiss and run away, exit stage left) Hiss! Meow!
 INFORMATION ===============================
 ID: 30
 TITLE: American Values
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
 DATE: 28/04/24
@@ -225,8 +225,8 @@ MODERATOR: With those remarks, our debate concludes. Remember to cast your votes
 INFORMATION ===============================
 ID: 31
 TITLE: Justice Delivery
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
 DATE: 28/04/24
@@ -315,8 +315,8 @@ Meanwhile PIZZA GUY: (Leave with DETECTIVE)
 INFORMATION ===============================
 ID: 32
 TITLE: Cold Case
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
 DATE: 28/04/24
@@ -391,8 +391,8 @@ Meanwhile LADY: (Leave with the detective)
 INFORMATION ===============================
 ID: 33
 TITLE: An Accusation
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Courtroom
 DATE: 28/04/24
@@ -479,8 +479,8 @@ Meanwhile PLAINTIFF: Noooooo!!!!!!
 INFORMATION ===============================
 ID: 34
 TITLE: A New Nation
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
 DATE: 28/04/24
@@ -587,8 +587,8 @@ World news outro
 INFORMATION ===============================
 ID: 35
 TITLE: Educational Emergency
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Living Room
 DATE: 28/04/24
@@ -681,8 +681,8 @@ Applause, Western Jingle 1
 INFORMATION ===============================
 ID: 36
 TITLE: Better Call Bob
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Living Room
 DATE: 28/04/24
@@ -814,8 +814,8 @@ PAPARAZZI 2: (Holding a photo) Can you please sign this picture from DEVIANTART 
 INFORMATION ===============================
 ID: 37
 TITLE: Troll Bridge
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
 DATE: 28/04/24
@@ -966,8 +966,8 @@ TROLL: (Mumbling to self) Troll need love potion for... certain activity.
 INFORMATION ===============================
 ID: 38
 TITLE: Telenovela
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Living Room
 DATE: 28/04/24
@@ -1078,8 +1078,8 @@ FERNANDO: Ah, Dios mío. I deserved that.
 INFORMATION ===============================
 ID: 39
 TITLE: The Package
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Living Room
 DATE: 28/04/24
@@ -1168,8 +1168,8 @@ BOBBY: Aww!
 INFORMATION ===============================
 ID: 40
 TITLE: Yer a Wizard
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Living Room
 DATE: 28/04/24
@@ -1281,8 +1281,8 @@ HARRY: Okay... (Wiping away a tear) Let's go. (Leave with HAGRID out the door)
 INFORMATION ===============================
 ID: 41
 TITLE: Give Thanks
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Dining Room
 DATE: 28/04/24
@@ -1386,8 +1386,8 @@ SON: (To FATHER) Dad, what's a HONKERS?
 INFORMATION ===============================
 ID: 42
 TITLE: Welcome to Wizard Town
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Forest
 DATE: 28/04/24
@@ -1490,8 +1490,8 @@ Meanwhile SORCERER: (Laughing and high-fiving WIZARD)
 INFORMATION ===============================
 ID: 43
 TITLE: Check this Out
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Living Room
 DATE: 28/04/24
@@ -1623,8 +1623,8 @@ Thunder
 INFORMATION ===============================
 ID: 44
 TITLE: Spy Gear
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
 DATE: 28/04/24
@@ -1700,8 +1700,8 @@ Spy ending sting
 INFORMATION ===============================
 ID: 45
 TITLE: Ultimate Weapon
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Forest
 DATE: 28/04/24
@@ -1802,8 +1802,8 @@ Gong
 INFORMATION ===============================
 ID: 46
 TITLE: Spicy Gameshow
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
 DATE: 28/04/24
@@ -1897,8 +1897,8 @@ Gameshow Outro
 INFORMATION ===============================
 ID: 47
 TITLE: Wrong Gameshow
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Game Show
 SET: Game Show
 DATE: 28/04/24
@@ -2026,8 +2026,8 @@ Gameshow outro
 INFORMATION ===============================
 ID: 48
 TITLE: Australiens
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Backyard
 DATE: 28/04/24
@@ -2147,8 +2147,8 @@ BOB: (Look around, drink beer)
 INFORMATION ===============================
 ID: 49
 TITLE: Positive Results
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
 DATE: 28/04/24
@@ -2233,8 +2233,8 @@ DOCTOR: Tell him to come in for a treatment. I know a guy with these pills... we
 INFORMATION ===============================
 ID: 50
 TITLE: Noise Complaint
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
 DATE: 28/04/24
@@ -2349,8 +2349,8 @@ Meanwhile HUSBAND: (Exit stage left with WIFE)
 INFORMATION ===============================
 ID: 51
 TITLE: Duel
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
 DATE: 28/04/24
@@ -2459,8 +2459,8 @@ Meanwhile MANAGER: Why you little... (Chase BOBBY out of the store)
 INFORMATION ===============================
 ID: 52
 TITLE: Camping
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Campsite
 DATE: 28/04/24
@@ -2559,8 +2559,8 @@ JENNY: Aw... thanks big bro!
 INFORMATION ===============================
 ID: 53
 TITLE: Questionable Gameshow
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Game Show
 SET: Game Show
 DATE: 28/04/24
@@ -2664,8 +2664,8 @@ HOST: Don't go anywhere folks, we've got more ethical questions after these mess
 INFORMATION ===============================
 ID: 54
 TITLE: Food Gameshow
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Game Show
 SET: Game Show
 DATE: 28/04/24
@@ -2782,8 +2782,8 @@ HOST: (To audience) that's all for tonight folks! See you next time on... "Eat T
 INFORMATION ===============================
 ID: 55
 TITLE: Noisy Gameshow
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Game Show
 SET: Game Show
 DATE: 28/04/24
@@ -2855,8 +2855,8 @@ HOST: (To audience) See you next time on... "Impersonate that Animal!"
 INFORMATION ===============================
 ID: 56
 TITLE: Pokémon Gameshow
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
 DATE: 28/04/24
@@ -2957,8 +2957,8 @@ HUMAN: Uh, can anyone give me a ride home?
 INFORMATION ===============================
 ID: 57
 TITLE: Lucky Gameshow
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Game Show
 SET: Game Show
 DATE: 28/04/24
@@ -3054,8 +3054,8 @@ HOST: See you next time folks, on... GUESS THAT THING! Goodnight!
 INFORMATION ===============================
 ID: 58
 TITLE: Gamer Gameshow
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
 DATE: 28/04/24
@@ -3138,8 +3138,8 @@ HOST: See you next time folks, on... GUESS THAT THING! Goodnight!
 INFORMATION ===============================
 ID: 59
 TITLE: Trivia Gameshow
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Game Show
 SET: Game Show
 DATE: 28/04/24
@@ -3231,8 +3231,8 @@ HOST: See you next time folks, on... GUESS THAT THING! Goodnight!
 INFORMATION ===============================
 ID: 60
 TITLE: Tool Infomercial
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -3310,8 +3310,8 @@ BILLY MAYS: Supplies are limited, so you gotta call now!
 INFORMATION ===============================
 ID: 61
 TITLE: Magic Infomercial
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -3401,8 +3401,8 @@ BILLY MAYS: But you gotta call now.
 INFORMATION ===============================
 ID: 62
 TITLE: Clean Infomercial
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -3481,8 +3481,8 @@ BILLY MAYS: Don't just sit there, pick up that phone and get yourself some sweet
 INFORMATION ===============================
 ID: 63
 TITLE: Ultimate Infomercial
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -3576,8 +3576,8 @@ BILLY MAYS: What are you waiting for? Pick up the phone and place your order now
 INFORMATION ===============================
 ID: 64
 TITLE: Toast Infomercial
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -3668,8 +3668,8 @@ BILLY MAYS: Just call the number on your screen today.
 INFORMATION ===============================
 ID: 65
 TITLE: Leak Infomercial
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -3737,8 +3737,8 @@ BILLY MAYS: Dial the number on your screen and get your ADJECTIVE hands on Magic
 INFORMATION ===============================
 ID: 66
 TITLE: Helpful Infomercial
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Bathroom
 DATE: 28/04/24
@@ -3777,8 +3777,8 @@ BILLY MAYS: MORBs and conditions apply.
 INFORMATION ===============================
 ID: 67
 TITLE: Dog Infomercial
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Infomercial
 SET: Living Room
 DATE: 28/04/24
@@ -3864,8 +3864,8 @@ TIMMY: Yay!
 INFORMATION ===============================
 ID: 68
 TITLE: Shiny Infomercial
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Living Room
 DATE: 28/04/24
@@ -3946,8 +3946,8 @@ BILLY MAYS: This is officially a ransom threat. Scooby from Scooby-Doo WILL enc
 INFORMATION ===============================
 ID: 69
 TITLE: We demand it
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
 DATE: 28/04/24
@@ -4019,8 +4019,8 @@ Applause
 INFORMATION ===============================
 ID: 70
 TITLE: Diagnosis
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
 DATE: 28/04/24
@@ -4111,8 +4111,8 @@ HELPER: Me say. DOLLARAMOUNT dollars.
 INFORMATION ===============================
 ID: 71
 TITLE: Amazon
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Living Room
 DATE: 28/04/24
@@ -4213,8 +4213,8 @@ Western Jingle 1
 INFORMATION ===============================
 ID: 72
 TITLE: Secret Message
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
 DATE: 28/04/24
@@ -4316,8 +4316,8 @@ TYPEWRITER: Operation ORDERABLE ITEM;STATUS: SUCCESS
 INFORMATION ===============================
 ID: 73
 TITLE: It's Me
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit,Contains Adult Innuendo
 SET: Living Room
 DATE: 28/04/24
@@ -4411,8 +4411,8 @@ SUPERROBOT: Oh. Yes it is. (Dies)
 INFORMATION ===============================
 ID: 74
 TITLE: Playroom
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit,Contains Adult Innuendo
 SET: Interrogation Room
 DATE: 28/04/24
@@ -4503,8 +4503,8 @@ BECKY: Ugh! you're such a WIMPY-NAME, John.
 INFORMATION ===============================
 ID: 75
 TITLE: Improvement
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit
 SET: Hardware Store
 DATE: 28/04/24
@@ -4580,8 +4580,8 @@ CHAOS LORD: Mwahahaha! (Noticing a sale on toilets) ooo... 50% off all toilets? 
 INFORMATION ===============================
 ID: 76
 TITLE: Your finest wares
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit
 SET: Hardware Store
 DATE: 28/04/24
@@ -4665,8 +4665,8 @@ CLERK: I'm fired? (Sad) Aw man.
 INFORMATION ===============================
 ID: 77
 TITLE: Request
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit
 SET: Interrogation Room
 DATE: 28/04/24
@@ -4750,8 +4750,8 @@ COP: That's the taste of justice, my friend.
 INFORMATION ===============================
 ID: 78
 TITLE: Intervention
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
 DATE: 28/04/24
@@ -4828,8 +4828,8 @@ PERSON: (Shrugging) oopsies!
 INFORMATION ===============================
 ID: 79
 TITLE: Ghost
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
 DATE: 28/04/24
@@ -4919,8 +4919,8 @@ WIFE: (Taken aback) Sorry, sorry! I can't help it... it's just so... you know...
 INFORMATION ===============================
 ID: 80
 TITLE: Clown
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
 DATE: 28/04/24
@@ -4998,8 +4998,8 @@ CLOWN: And spoil the punch line? No way.
 INFORMATION ===============================
 ID: 81
 TITLE: Bone Dry
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit
 SET: Conference Room
 DATE: 28/04/24
@@ -5072,8 +5072,8 @@ BOSS: See ya Friday! (Exit)
 INFORMATION ===============================
 ID: 82
 TITLE: Just Toast
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
 DATE: 28/04/24
@@ -5147,8 +5147,8 @@ FIRST RESPONDER: Hello, headquarters? We got a problem...
 INFORMATION ===============================
 ID: 83
 TITLE: Bardic Inspiration
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit
 SET: Forest
 DATE: 28/04/24
@@ -5233,8 +5233,8 @@ HAPPY BARD: Thank you, thank you, you're too kind.
 INFORMATION ===============================
 ID: 84
 TITLE: Buy, Buy, Buy
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit
 SET: Conference Room
 DATE: 28/04/24
@@ -5297,8 +5297,8 @@ Meanwhile BOSS: Don't let the door hit you on the way out.
 INFORMATION ===============================
 ID: 85
 TITLE: What's Cookin'?
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
 DATE: 28/04/24
@@ -5357,8 +5357,8 @@ SALESPERSON: Call now while supplies last!
 INFORMATION ===============================
 ID: 86
 TITLE: Scam
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
 DATE: 28/04/24
@@ -5432,8 +5432,8 @@ BOB: (Walk slowly off stage, crying)
 INFORMATION ===============================
 ID: 87
 TITLE: Robot Informercial
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -5490,8 +5490,8 @@ Infomercial disclaimer
 INFORMATION ===============================
 ID: 88
 TITLE: Wizard Encounter
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit
 SET: Forest
 DATE: 28/04/24
@@ -5587,8 +5587,8 @@ KNIGHT: This is LIQUID!
 INFORMATION ===============================
 ID: 89
 TITLE: Fantasy Insurance
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Prototype,Skit
 SET: Forest
 DATE: 28/04/24
@@ -7045,8 +7045,8 @@ DUNGEON MASTER: (Off stage) Get out of my house or I'm calling the cops!
 INFORMATION ===============================
 ID: 121
 TITLE: DEBUG SCRIPT
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Debug,Skit
 SET: Western
 DATE: 28/04/24
@@ -8456,8 +8456,8 @@ SUPER HERO: (Opens Door) I can't believe that VILLAIN left the door unlocked for
 INFORMATION ===============================
 ID: 181
 TITLE: Detention
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Classroom
 DATE: 28/04/24
@@ -8544,8 +8544,8 @@ CHRIS: FOOTBALL, here I come! Yeet! (Exit)
 INFORMATION ===============================
 ID: 183
 TITLE: Deep Cover Dinner
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Dining Room
 DATE: 28/04/24
@@ -8645,8 +8645,8 @@ AGENT: (Nauseous) I think I'm turning into a SNAKE...
 INFORMATION ===============================
 ID: 184
 TITLE: The Bakeoff
-AUTHOR: jay3409
-VERIFIED: False
+AUTHOR: Jay3409
+VERIFIED: True
 TAGS: Skit
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -16216,8 +16216,8 @@ Ivan: Ugh..I hate my life.
 INFORMATION ===============================
 ID: 524
 TITLE: We Do Things Old School
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Classroom
 DATE: 28/04/24
@@ -16294,8 +16294,8 @@ SAMMY: Awww man.
 INFORMATION ===============================
 ID: 526
 TITLE: The Tomato Timeline
-AUTHOR: vr_jar
-VERIFIED: False
+AUTHOR: Jar
+VERIFIED: True
 TAGS: Skit
 SET: Dining Room
 DATE: 28/04/24
@@ -19150,12 +19150,12 @@ ALEX: Really? Who?
 SAM: The Emotion Fairy!
 Music Stops
 ALEX: I'm sorry, what?
-SAM: (Turn to audience) Okay, everyone! In order to summon the emotion fairy, I'm going to need all of your help! We have to say the magic words together!
+SAM: (Turn to audience) Okay, everyone! In order to summon the emotion fairy, I'm going to need your help! We have to say the magic words together!
 Meanwhile ALEX: What are you doing? Who the hell are you talking to?
 SAM: On the count of three, we all need to say MAGIC PHRASE!
-Meanwhile ALEX: Seriously, Sam. What are you doing-OH SWEET JESUS WHY IS THERE SUDDENLY BACKWARDS WRITING ON MY WALL!?
-SAM: One, Two, Three! MAGIC PHRASE!
 TYPEWRITER: MAGIC PHRASE!
+Meanwhile ALEX: Seriously, Sam. What are you doing-OH SWEET JESUS WHY IS THERE SUDDENLY BACKWARDS WRITING ON MY WALL!?
+SAM: On three! One, Two, Three! MAGIC PHRASE!
 magic sound
 fantasy music 2
 Teleport EMOTION FAIRY to Center Stage
@@ -20463,8 +20463,8 @@ GUARD: What a handsome and great young fellow. (Start to pack-up)
 INFORMATION ===============================
 ID: 658
 TITLE: Cowboy Duel
-AUTHOR: spiderz_.
-VERIFIED: False
+AUTHOR: xᴠ_sᴘɪᴅᴇʀᴢ
+VERIFIED: True
 TAGS: Skit
 SET: Western
 DATE: 28/04/24
@@ -22037,8 +22037,8 @@ NARRATOR: Merry Christmas to all, and to all... well, you know the rest.
 INFORMATION ===============================
 ID: 704
 TITLE: The Sponsor
-AUTHOR: ninjitsu1859
-VERIFIED: False
+AUTHOR: Yu-me1 1ecb
+VERIFIED: True
 TAGS: Skit
 SET: Conference Room
 DATE: 28/04/24
@@ -22183,8 +22183,8 @@ DEMON: Sounds diabolical, sir. Lead the way.
 INFORMATION ===============================
 ID: 706
 TITLE: Wrong Order
-AUTHOR: ninjitsu1859
-VERIFIED: False
+AUTHOR: Yu-me1 1ecb
+VERIFIED: True
 TAGS: Skit
 SET: Restaurant
 DATE: 28/04/24
@@ -22275,8 +22275,8 @@ Josh: I did not order this drama today either.
 INFORMATION ===============================
 ID: 709
 TITLE: Public Service announcement 
-AUTHOR: ninjitsu1859
-VERIFIED: False
+AUTHOR: Yu-me1 1ecb
+VERIFIED: True
 TAGS: Skit
 SET: News
 DATE: 28/04/24
@@ -22341,8 +22341,8 @@ Jerry: AAAAAAAAAAAH!
 INFORMATION ===============================
 ID: 710
 TITLE: The Standoff
-AUTHOR: ninjitsu1859
-VERIFIED: False
+AUTHOR: Yu-me1 1ecb
+VERIFIED: True
 TAGS: Skit
 SET: Western
 DATE: 28/04/24
@@ -22437,7 +22437,7 @@ INFORMATION ===============================
 ID: 713
 TITLE: Concrete Alibi
 AUTHOR: abysswireless
-VERIFIED: True
+VERIFIED: False
 TAGS: Skit
 SET: City
 DATE: 28/04/24
@@ -22528,8 +22528,8 @@ western jingle 1
 INFORMATION ===============================
 ID: 714
 TITLE: Don’t I know you?
-AUTHOR: ninjitsu1859
-VERIFIED: False
+AUTHOR: Yu-me1 1ecb
+VERIFIED: True
 TAGS: Skit
 SET: City
 DATE: 28/04/24
@@ -27034,8 +27034,8 @@ BOSS: Brilliant! Great work, everyone! We should clock out now and beat the traf
 INFORMATION ===============================
 ID: 845
 TITLE: A visit to grandpas
-AUTHOR: ninjitsu1859
-VERIFIED: False
+AUTHOR: Yu-me1 1ecb
+VERIFIED: True
 TAGS: Skit
 SET: Living Room
 DATE: 23/05/24
@@ -27166,6 +27166,126 @@ BRAD: (enters stage left) Tom, I'm a ghost now just let Jerry. And it's all your
 TOM: And that’s all for tonight’s broadcast. I’m Tom Anderson of KJAR News at 6.
 TOM: Reminding you to stay safe, avoid licking OBJECT, and for the love of all that is holy, can someone get me a NOUN?
 JANET: Good night. And Rest in Peace, Jerry.
+
+======
+
+INFORMATION ===============================
+ID: 849
+TITLE: In Love with a Slasher
+AUTHOR: SystemBias
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 25/05/24
+CHARACTERS ================================
+LONE: the lonely girl looking for a date:Center Stage
+SLASHER: The infamous slasher:Backstage
+LATE: the person running late:Backstage
+SUGGESTIONS =============================
+KILLER: Name of an infamous slasher:Freddy Krueger, Jason Vorhees, Michael Myers
+WEAPON: Any weapon a serial killer would use:Machete, kitchen knife, chainsaw
+DATE: Funny name for a dating app:Tinder, Hot or Not, Grindr
+RESTAURANT: Any restaurant:Outback Steakhouse, Golden Corral, Denny’s
+CATCHPHRASE: Quippy catchphrase fit for a killer:“That’s what you get when you play with dolls!”, “That’s the way the cookie crumbles”, “I’ll be back”
+MARTIAL ARTS: Any martial arts, real or fictional :Taekwondo, jujitsu, karate
+GIRL: A girl’s name:Diana, Ruby, Laverne
+NAME: A goofy name:Dizzy Dean, Booby Barber, Naughtius Maximus
+ADJ: Any adjective:Smelly, beautiful, sexy
+CITY: Name a city, real or fictional:New York, San Fransokyo, Hydro City
+MOVIE: A movie, real or fictional:Child’s Play, The Book of Life, Smile
+SCRIPT ==========================================
+TYPEWRITER: CITY, USA - 8 PM
+LONE: Ugh…where is that numbskull? They were supposed to be here 30 minutes ago!
+LONE: That’s the last time I use DATE to find a lover. I never thought it’d be this hard finding a date around here.
+footsteps on wood
+LONE:(Look around, panicked) W-what? Who’s there? I’m warning you. Im a black belt in MARTIAL ARTS!
+Teleport SLASHER to Alley
+SLASHER: Oho, is that true? Well I have a black belt in stabbin’ people
+anime sword gleam 1
+LONE: W-wait a second. You’re…KILLER!
+vine boom
+LONE: The infamous slasher that stabs people with a WEAPON and hasn’t been caught in 5 years!
+vine boom
+SLASHER: The one and only, darlin’. And I ain’t stopping here
+scary music
+LONE: Just my luck. First, I get stood up in this crappy town. Now I’m gonna get totally murderized.
+LONE: (Dramatic poses) Oh-oh, is me. A beautiful woman about to perish in CITY before meeting her cute date
+SLASHER: Yeah, yeah that’s great and all. But uh, leave the monologuin’ to me. That’s sort of MY thing, ya know?
+LONE: Well, before I get stabbed by a WEAPON, I must say, I really like your voice, mister KILLER
+SLASHER: Uh, thanks? I guess I do have a lovely voice.
+SLASHER: My victims really should thank me, since that would be the last thing they hear before…
+SLASHER: Hold on a second! You’re tryna distract me!
+LONE: No no no, I mean it! I loooove your voice. And the way you swing that WEAPON is so…ADJ
+SLASHER: Uh…huh. Aren’t you gonna…run away or something?
+LONE: Why would I do that? You didn’t even say your infamous catchphrase.
+SLASHER: You mean the one that goes, CATCHPHRASE?
+LONE: Yup! That’s the one! Can you say it again? Please?
+Music Stops
+SLASHER: …ok hold on. Am I missing somethin’ here?
+SLASHER: Usually people tend to run away from a man wieldin a WEAPON. Of course, they don’t get very far and I stab them regardless.
+SLASHER: And yet, this girl is not runnin’, and is sayin’ nice things to me?
+LONE: Uhh…you do know I’m still standing here, right?
+SLASHER: Hush, lady. I told you, monologuin’ is MY thing. It builds character!
+LONE: Well frankly, I didn’t ASK!
+SLASHER: Well frankly, I’m gonna do this now (attack Susie)
+Meanwhile LONE: (Dodge to the left)
+LONE: Wait wait WAIT! Before you totally murderize me, I’ve got ONE question
+LONE: The whole sneaking around alleyways, chasing people with a WEAPON. Doesn’t that ever get, you know…lonely?
+SLASHER: Well…I suppose it does. The thrill of someone screaming moments before they perish is satisfying
+SLASHER: But at times, it feels greedy to do that alone. It wouldn’t hurt to have a partner in crime!
+LONE: I see. Well, little ol’ GIRL can help you with that.
+SLASHER: Excellent! So when do I meet her? (Point and look at audience)
+laughter
+LONE: (Sarcastically) Oh you’re VERY funny…
+SLASHER: Thanks! I’m not here all night
+LONE: What I’m trying to say is…I like you, KILLER
+aww
+SLASHER: (Genuine shock) Oh? You? Like ME? Like, LIKE like me? That…is a first.
+SLASHER: I mean, I literally just tried to murderize you in cold blood. What makes you think I’m attractive?
+LONE: Well, I’ll prove it. Let me see what’s under that dusty ol’ mask of yours. (Pull down mask)
+Meanwhile SLASHER: Maybe don’t do—uhhh
+LONE: Oh…um…(put mask back on KILLER). I can see why killers wear masks now
+happy music 1
+SLASHER: You know, suddenly I don’t have the urge to stab you anymore. Perhaps…I like you too
+LONE: Awww, how sweet. Let’s make it a date, then. This new place called RESTAURANT opened up. Wanna head inside?
+SLASHER: No thanks, I’ve been there already and, (whisper) it really, really sucks
+LONE: Well frick. Let’s just go watch a movie or something then.
+Teleport LATE to Stage Right
+Music Stops
+LATE: (Exit vehicle) Woo, sorry I’m late! Traffic got a little crappy on the way…here…
+LONE: Uhhh, h-hi NAME! I was wondering when you’d get here!
+LATE: GIRL…do ya mind explaining who that is?
+Meanwhile SLASHER: Hey, buddy!
+LONE: (Nervously) Um…this just uhh…an old friend of mine! Yeah! They were visiting from out of town, and we happened to bump into each other!
+LATE: Don’t you lie to me. I was only late by 30 minutes, and I find you with some dude?
+LONE: NAME, I promise I can explain!
+LATE: We matched up perfectly on DATE. We even like the same breed of dog! We are perfect for each other!
+LATE: Oh and by the way, that is an ugly costume. It ain’t even Halloween yet, buddy
+LONE: Uhh…costume?
+LATE:Yeah, a costume! Wait…why did you say it like that?
+SLASHER: (Look at GIRL) They actually think this a costume. How precious
+LATE: Wait, what? (Walk toward KILLER) Let me get a closer look
+LATE: (Examine KILLER) Tattered jacket, ripped jeans, sneakers…smells like the inside of a RESTAURANT
+LATE: Oh jeez. So you’re NOT doing an ill-willed cosplay as KILLER? Surely this a joke. Right…?
+LONE: Yeah, about that…he’s the real deal
+LATE: (Gasp) This is madness! My date is hooking up with the resident psychopath? And his shiny WEAPON? Unbelievable
+LONE: (Look at KILLER) Hey, can I borrow that for a second?
+Meanwhile SLASHER: Be my guest, darling (hand GIRL WEAPON)
+LATE: Wait, what are you doing with that?
+LONE: (Walk over to and stab NAME) Stab, then twist!
+knife wound
+LATE: Really. You did NOT just do that.
+LONE: Oh, they’re still alive. Twist even further!
+knife wound
+LATE: (Dying noises, then fall to the floor)
+LONE: CATCHPHRASE
+SLASHER: Well then. I didnt think I’d meet someone as insane as me. And yet, here we are.
+SLASHER: You even used my catchphrase. Good delivery on it, too
+LONE: Well, that was a thrill and a half. Now I gotta get cleaned up
+SLASHER: Nonsense, you’re as beautiful as ever, GIRL
+LONE: Oh, stop it. You’re too kind to me, KILLER. Let’s go to the theater (Walk out stage left)
+Meanwhile SLASHER: (Walk out stage left)
+TYPEWRITER: The two lovebirds went to watch MOVIE, then murderized the whole theater together
 
 ======
 
@@ -29585,8 +29705,8 @@ MANAGER: (Looks at audience with a confused look) What just happened?
 INFORMATION ===============================
 ID: 933
 TITLE: The Mole
-AUTHOR: ninjitsu1859
-VERIFIED: False
+AUTHOR: Yu-me1 1ecb
+VERIFIED: True
 TAGS: Skit
 SET: Conference Room
 DATE: 27/06/24
@@ -30231,8 +30351,8 @@ PEPE: (pulls out medieval smartphone and dials) Hey mom, can you pick me up?
 INFORMATION ===============================
 ID: 962
 TITLE: The dentist appointment 
-AUTHOR: ninjitsu1859
-VERIFIED: False
+AUTHOR: Yu-me1 1ecb
+VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
 DATE: 10/07/24
@@ -33562,9 +33682,9 @@ TAGS: Skit
 SET: Forest Bridge
 DATE: 22/08/24
 CHARACTERS ================================
-CAPTAIN: Legoshi Team Captain:Entrance Stage Right
-SARGE: Comedic and loud soldier:Entrance Stage Right
-PRIVATE: Nervous Rookie:Entrance Stage Right
+CAPTAIN: Legoshi Team Captain:Backstage
+SARGE: Comedic and loud soldier:Backstage
+PRIVATE: Nervous Rookie:Backstage
 HQ: Headquarters (Radio Operator):Narrator Podium
 VILLAIN: Kidnapping Villain:Entrance Stage Left
 HOSTAGE: Freaky Hostage from a Wealthy Family:Entrance Stage Left
@@ -33590,7 +33710,7 @@ VILLAIN: Shut up! You're lucky I still need you alive. Now sit down and be quiet
 HOSTAGE: You won't get away with this. My mom is the TITLE of the country, you VRCHAT!
 HOSTAGE: Our security, the police, and even the INFAMOUS GROUP will be looking for me! You won't escape!
 VILLAIN: (Smack the Hostage) I said SHUT UP!
-Meanwhile HOSTAGE: (Scream and falls down) Ow! My BODY PART!
+Meanwhile HOSTAGE: (Scream and fall down) OW! My BODY PART!
 VILLAIN: How does it feel? Being looked down on for once. (Points weapon at hostage).
 VILLAIN: Your family took everything from us. Our jobs, our land, and even our VALUABLE!
 HOSTAGE: This is kinda hot, but I didn't take anything! My family's MONEY business has nothing to do with me!
@@ -33679,7 +33799,7 @@ PRIVATE: Wait, you're raging over League of Legends?
 Epic fantasy music 1
 VILLAIN: The Feeders, the AFK-ers, the Chat...that terrible CHAT... Their family will pay for what they've done to my people's ranks in League of Legends.
 PRIVATE: I don't know much about League, but I know I can't die out here like a VRCHAT. I've got a bunch of cats at home that need me.
-PRIVATE: Plus, my momma told me if I ever died, she'd kill me. 
+PRIVATE: Plus, my momma told me if I ever died, she'd kill me.
 PRIVATE: This one's for you momma!
 PRIVATE: (Stab VILLAIN)
 Meanwhile VILLAIN: (Get stabbed by PRIVATE)
@@ -34758,8 +34878,8 @@ CLERK: (frustrated) Then why did we have any of this conversation? Why are you s
 INFORMATION ===============================
 ID: 1090
 TITLE: The Great Leader
-AUTHOR: spiderz_.
-VERIFIED: False
+AUTHOR: xᴠ_sᴘɪᴅᴇʀᴢ
+VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
 DATE: 16/09/24
@@ -35540,6 +35660,359 @@ CHEF 2: It truly is an honor, thank you so much!
 HOST: And thank you two for being here!
 HOST: That concludes this episode of "Cooking for PERSON!" Goodnight, everybody! (Wave to audience)
 Applause
+
+======
+
+INFORMATION ===============================
+ID: 1125
+TITLE: Audience Anarchy Pitch Meeting
+AUTHOR: zanbbit
+VERIFIED: False
+TAGS: Skit
+SET: Conference Room
+DATE: 12/10/24
+CHARACTERS ================================
+BOSS: The CEO:Boss Chair
+OLD EMPLOYEE: Arrogant old employee:Office Chair 2
+NEW EMPLOYEE: New employee:Entrance Stage Left
+SUGGESTIONS =============================
+COMPANY: A Company that makes games:Nintendo, Atari, Hasbro
+GAME: A game that already exists:Tag, Go Fish, Mario
+SUBCULTURE: A plural of any subculture:Furries, Anime Geeks, Cheese Enthusiasts 
+GENRE: A video game genre:Open World, Pay To Win, Dating 
+NUMBER: Any number:2, 10, 30
+NICKNAME : A negative or degrading nickname:Evil King, Backbreaker, Whipcracker
+CONSOLE: An old video game console:Odyssey, Dreamcast, Game Boy
+NE AA NAME: An alternate name for Audience Anarchy:Will of the People, Mad Lib Mayhem, Script Rippers
+BO AA NAME: An alternate name for Audience Anarchy:Will of the People, Mad Lib Mayhem, Script Rippers
+SOMETHING: An item someone would not want to receive:Coal, A Parking Ticket, Crude Oil
+SCRIPT ==========================================
+(Silly Music 2)
+BOSS: Come on! We need to think of a new game! Are we really going to let COMPANY beat us in sales!?
+OLD EMPLOYEE: I've got ideas sir! I haven't let you down yet have I? How about a new spin on GAME?
+BOSS: No no no! It's been done And we'll probably get sued. Hmm (thinks) What if we try to make something in VR?
+BOSS: All the SUBCULTURE are into VR Games these days right?
+OLD EMPLOYEE: Now boss, you know how to sell this stuff but I know how to make this stuff. Just leave the ideas to me. There's not enough people in VR. it's just a fad.
+BOSS: We need to do something groundbreaking! We need something that will get peoples attention! A big hit!
+NEW EMPLOYEE: (enters room) I think I have just what you're looking for Chief!
+OLD EMPLOYEE: (annoyed) Oh great, it's the new guy. What do you have this time? Another GENRE game that will fail?
+NEW EMPLOYEE: No! I think this new game is quite intuitive. Maybe if you actually listened to me once in a while you would find my ideas interesting.
+OLD EMPLOYEE: Pitch me an idea that will actually be a success and then we'll talk. I've won NUMBER awards for my concepts! I know what works, kid!
+NEW EMPLOYEE: Yeah but you're also known around the office as The NICKNAME. What does that say about you?
+BOSS: Enough! What's your idea, Newbie?
+NEW EMPLOYEE: (approach the boss) Hear me out Chief! I have an idea for a virtual reality game!
+OLD EMPLOYEE: Reject it boss! We've been through this! There's no audience in VR! We would be better off making a game for CONSOLE!
+NEW EMPLOYEE: Oh hush! CONSOLE was huge back in the day! Anyway, It's a VR game where you can talk to people. Kind of like a virtual chatroom.
+BOSS: Umm... I think that's just VR Chat.
+OLD EMPLOYEE: What an amateur! That's just like my idea about a new spin on GAME. So you're stealing ideas from me now huh?
+NEW EMPLOYEE: Don't act like your ideas are worth stealing in the first place, NICKNAME
+OLD EMPLOYEE: At least I know what VR Chat is!
+BOSS: (mutters) I'm surrounded by children. (raises voice) Once again stop! Or both of you are getting SOMETHING instead of a paycheck this week.
+BOSS: (looks at new employee) Do you have any other concepts?
+NEW EMPLOYEE: Hmm... (thinking) Well I have this one idea, it's also for VR.
+OLD EMPLOYEE: UGH I don't understand the world anymore. When did we stop trying to make money?
+BOSS: Let's hear it.
+NEW EMPLOYEE: Okay so you act out these plays with scripts. There's an audience that can fill in missing words in the script.
+NEW EMPLOYEE: And those same audience members can join in and act too.
+BOSS: (nods) Hmm... there might be an idea there. Sounds like something the SUBCULTURE would enjoy.
+NEW EMPLOYEE: Not just the SUBCULTURE but also anyone who likes to act and have fun in plays too!
+OLD EMPLOYEE: (sarcastic) Yeah, real interesting idea! Sounds boring to me! It'll be so much fun watching other people have fun!
+BOSS: Come now, NICKNAME I think we actually may have something here. (looks at newbie) You have a name for this game?
+NEW EMPLOYEE: Well, not really but maybe we can call it... (thinks) oh! I know! How about NE AA NAME?
+BOSS: I like it, but perhaps BO AA NAME could work as well.
+OLD EMPLOYEE: Unbelievable! This is a bad idea, boss! It's boring. No one will play it! You're really gonna go with the INSULT's plan!?
+OLD EMPLOYEE: It's just anarchy with an audience! I don't know if you can even make a standalone game out of an idea that thin!
+Old Employee: We might as well make it a VR Chat map or something.
+BOSS: You know that's not a bad idea! We should make it as a VR Chat map!
+OLD EMPLOYEE: What!? No!? That was a joke!
+BOSS: Congrats newbie we'll start development on BO AA NAME right away! (shake New Employee's hand)
+NEW EMPLOYEE: Glad you're on board, Chief! I believe folks will really like this too. But I still think we should call it NE AA NAME.
+BOSS: Don't push it, you're still new here.
+OLD EMPLOYEE: UGH! I hate my job!!
+
+======
+
+INFORMATION ===============================
+ID: 1126
+TITLE: Guess what happens next!
+AUTHOR: Yu-me1 1ecb
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+DATE: 13/10/24
+CHARACTERS ================================
+SHOW HOST: Game show host:Host Podium
+GARY: Contestant #1:Contestant Podium 1
+SARAH: Contestant #2:Contestant Podium 2
+ASSISTANT: Game show assistant :Backstage
+SUGGESTIONS =============================
+GREAT: How you feel:Happy, Sad, Joyful
+TRUNK: Something a animal might have:Paw, tail, Ears
+SHOW: Any Show:Adventure time, Teen titans, Powerpuf girls
+ACTOR: Anyone famous:Steve Harvey, Billy Joel, The weekend
+NAME: Name of anybody:Charles Barkley, Bruce Lee, Lebron James 
+MUD: Something you don’t wanna get stuck in:Quick sand, The pool, a cage
+CANDY: Something you eat:Fish, KitKat, burger
+INSTAGRAM: Social media platform:Snapchat, instagram, twitter
+CAT: Name for your cat:Mr.Whiskers, Fred, axel
+CHAIR: Something you backflip into:Pool, Lava, the air
+MAN: A famous person:The rock, John legend, Chris rock
+POOP: Something you accidentally drop:Wallet, Phone, Food
+SCRIPT ==========================================
+Gameshow intro
+Show host: Welcome everyone to “Guess what happens next”!
+Show host: The show where two contestants guess what happens next in the drawn up scenario Submitted by you guys at home!
+Show host: I’m your amazing host ACTOR and I can’t wait to get started.
+Applause
+Show host: Contestants 1 tell us who you are and how you’re feeling today.
+Gary: Hi I’m Gary and I’m feeling GREAT today!
+Show host: Do you think you can win today Gary?
+Gary: As sure as an elephant has a TRUNK.
+Show host: You could’ve just gave a simple yes or no but let’s move on anyways!
+Laughter
+Show host: Contestant number 2 tell us who you are and how you’re feeling.
+Sarah: Hello everyone I’m sarah, I’m single and looking for a partner that will settle down!
+Show host: This is not a dating show Sarah.
+Sarah: Wait this isn’t SHOW?
+Laughter
+Show host: No and that’s not even a dating show.
+Show host: Let’s just move on. Can my lovely assistant come on out!
+Applause
+Assistant: (Enter stage right) Hello everyone!
+Show host: This is NAME, they will be demonstrating the scenarios for us.
+Sarah: He’s cute, what’s his number?
+Assistant: Ew no!
+Laughter
+Show host: Great answer NAME.
+Show host: Alright it’s time for the first scenario!
+Show host: This will be a 2 question game so who ever has more points at the end will win, if it’s a tie we’ll go to the sudden death round. So let’s get started!
+Gary: What happens in sudden death?
+Show host: You’ll see if we get there today.
+Show host: Ok the scenario here is “Little Timmy fell down into MUD and started crying, what will he do next once he's done crying?”
+Assistant: (falls into MUD and cries) Waa I fell into MUD, what ever will I do?
+gameshow buzzer
+Show host: Yes, Sarah.
+Sarah: He gets up and goes home to take a shower?
+Assistant: Something you really need to do.
+Laughter
+Show host: I can definitely smell you from here.
+Show host: But no not at all, that is incorrect. Gary do you have an answer?
+Gary: He gets up like a champ and go eats a CANDY
+Gameshow ding
+Show host: Yes that’s correct!!!
+Applause
+Show host: You have one point on the board, and Sarah you suck
+Laughter
+Sarah: Hey that’s mean.
+Show host: Go cry about it on your INSTAGRAM
+Show host: Next scenario.
+Show host: “You come home to your family and pet being held hostage what will happen next?”
+Assistant: No not my family and they also got CAT! What should I do?!
+Gameshow buzzer
+Show host: Gary my man what’s the answer?
+Gary: He definitely does a backflip into CHAIR then lunges himself to the people holding them hostage and kicks them out.
+Show host: Oh my gosh Gary!
+Gary: What?
+Show host: That was utterly wrong.
+Laughter
+Assistant: That would be pretty cool though.
+Gary: Exactly.
+Show host: Yes but you can’t backflip NAME so it ruins it.
+Assistant: I can too backflip! Watch this!
+Assistant: (Try to backflip and hurt yourself) Aaaah! That hurts so much
+Gary: I won’t have what he’s having.
+Laughter
+Show host: While my assistant paralyzes himself like a dummy let’s move on.
+Sarah: The answer is he goes back outside to call MAN and he comes in to politely ask them to go away.
+Gameshow ding
+Show host: Somehow that’s right!
+Applause
+Show host: Uh oh looks like there’s a tie so now we’re on to the sudden death round!
+Gong
+Show host: So there’s one more question that has to be answered and whoever wins gets a free vacation to Japan.
+Gary: What if one of us losses?
+Show host: The loser will also be shot.
+Sarah: I don’t wanna die!
+Show host: Well then answer correctly Sarah. Now let’s get to the question!
+Show host: The scenario here is “A man is on a toilet with alot of things on him that he could drop in that toilet, what will happen next”
+Assistant:(Crying) I can’t move! Someone help!
+Show host: Oh right he’s still hurt.
+Show host: Hey Sarah if you win you can take him with you
+Sarah: Now I have to win.
+Assistant: No!
+Laughter
+Gameshow buzzer
+Show host: Yes, Gary.
+Gary: He drops his watch and he gets it out the toilet and cleans it off?
+Show host: Gary I was really rooting for you but it’s hard to do that when you get questions wrong.
+Gary: So I was wrong
+Show host: Does an elephant have a TRUNK?
+Laughter
+Show host: Sarah its your time to shine to be able to win a trip to Japan and have my assistance in the back of your car.
+Gameshow timer music
+Show host: What’s the answer Sarah!
+Sarah: I’m not sure.
+Show host: Better figure it out now.
+Gameshow time expire
+Show host: So what is it Sarah?
+Assistant: Please get it wrong
+Sarah: He drops his POOP and takes it out the toilet to eat it?
+Show Host: That is…Absolutely…Positively.
+Gary: Cmon with it!
+Show host: Shut up Gary!
+Show host: Sarah your answer is.
+Show host: Absolutely wrong!!!
+Aww
+Show host: Well I guess nobody wins today.
+Assistant: So what now?
+Show host: I get to shoot them both!
+Laughter
+Gary: Wait what?
+Show host: Bye bye Gary. (Shoot Gary)
+Gunshot
+Gary: (Get shot) Aaaah!
+Sarah: NAME give me kiss please before I die!
+Assistant: No
+Laughter
+Show host: Bye bye! (Shoot Sarah)
+Gunshot
+Sarah: (Get shot) Aaaaah no!
+Assistant: Well you shot straight to the point.
+Laughter
+Show host: No corny jokes are allowed on my set (Shoot assistant)
+Gunshot
+Show host: Well that’s all for today, Come back next time to see if anyone else dies
+Gameshow outro
+Show host: Bye everyone (Wave to crowd)
+
+======
+
+INFORMATION ===============================
+ID: 1127
+TITLE: Halloween Hostess
+AUTHOR: emo_boba_tea
+VERIFIED: False
+TAGS: Skit
+SET: Murder
+DATE: 13/10/24
+CHARACTERS ================================
+PRINCESS: Charlotte :Entrance Stage Right
+RADIO HOST: Al:Center Stage
+SUGGESTIONS =============================
+NOUN: Person, place, or thing:Hat,Disney world, love
+ADJECTIVE: Describing word:Sexy,happy,exited
+PET: Pet name:Dear,darling,sweetheart
+CURSE: Silly word:hell, fart
+OBJECT: Long object:Stick,cane,tentacle
+TOE: Describing word:Hot,mad,sad
+BAD: Silly word:Dang it, heck, darn
+PART: Body part:Arm,leg,thigh
+DRINK: Liquid:Milk, water, blood
+AUD: User name in audience:Mike, James, Beth 
+TEP: Pet name:Cutie,darling,dear
+SCRIPT ==========================================
+(Halloween music)
+PRINCESS: (walking through door, waving to Al warmly.) Hello Al!
+PRINCESS: I’ve come to check up on you and make sure everything is fine and dandy! Are you as ADJECTIVE as I am for our Halloween party tonight!?
+RADIO HOST: ADJECTIVE isn’t quite how I’d describe my feelings towards it my PET nonetheless, I’m glad to see you enjoying yourself PET.
+PRINCESS: (warm chuckle) Oh why thank you Al! Oh by the way, did you ever get the NOUN that was stuck out of the fire place?
+PRINCESS: (Worried) We need it out of there before the Halloween party tonight!
+RADIO HOST: No worries my PET, I’ll handle it right this minute! (walk over to fire place and stick your hand inside and move it around)
+RADIO HOST: (a little stressed) CURSE I’m having a little more difficulty with this than I thought!
+PRINCESS: OH OH! Have you thought about using your OBJECT? It just might be long enough to reach it! Just don’t forget to pull out!
+RADIO HOST: That’s a brilliant idea my PET! I’ll try to use my long OBJECT to pull it out!
+RADIO HOST: Which by the way, I never forget to pull out! (wiggle OBJECT around in the fire place)
+PRINCESS: (Laughing nervously) Anyway is your OBJECT working to get the NOUN out?
+RADIO HOST: (laughing smugly) You’ll be happy to know that I’ve succeeded in getting the NOUN out with my OBJECT my PET!
+RADIO HOST: (pull out OBJECT and show Charolette the NOUN proudly) Ta-da!
+(Applause)
+PRINCESS: That makes me so TOE! That’s so amazing!
+RADIO HOST: Indeed it is! Can I eat the NOUN by the way?
+PRINCESS: Uhh…sure I guess? (mumbles under breath) what the BAD is wrong with this man?
+RADIO HOST: Hmm what was that PET?
+PRINCESS: Oh uhh nothing, continue!
+RADIO HOST: (Consumes the NOUN in one gulp) GULP!
+PRINCESS: (Stares in horror at Al) Nah, yea, you're as weird as BAD
+RADIO HOST: Say that again and I’ll eat your PART next! (laugh horrifically)
+PRINCESS: (nervous) Haha, only jokes! Boy is it hot in here? I’m gonna go get a glass of DRINK to cool off.
+PRINCESS: Bye! See you much, MUCH later for the Halloween party! (Run out of any door)
+RADIO HOST: Toodles my PET!
+RADIO HOST: (Breaking the fourth wall and turning towards the audience) And you, don’t think I don’t know you were all watching this entire time!
+RADIO HOST: Specifically you AUD ,yes you! (Point directly at them) Don’t you have something better to do than to creep on us? Disgusting honestly…
+RADIO HOST: Behave and stop creeping on random people or I’ll eat your PART as well! (laugh horrifically)
+RADIO HOST: That being said have a lovely Halloween you stalkers! And remember to be a good TEP for daddy Al! (Laugh)
+
+======
+
+INFORMATION ===============================
+ID: 1140
+TITLE: Interview Gone Wrong
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: News
+DATE: 20/10/24
+CHARACTERS ================================
+CHARLES: Charles the TV Broadcaster:News Desk
+BEVERLY: Beverly the Interviewee:Fake Street Backdrop
+OFFICER: Police Officer:Entrance Stage Right
+SUGGESTIONS =============================
+ADJECTIVE: An adjective:gorgeous, limping, zonked
+HNAME: Fictional name of a hurricane:Kevin, Bluey, Butters
+NUMBER: A random number:32, 66, 579
+BODYPART: A body part:nose, butt, armpit
+PVERB: Verb in past tense:yeeted, moved, churned
+CELEBRITY: Name of celebrity:O.J. Simpson, Justin Bieber, John Goodman
+EXCLAMATION: A silly exclamation:OMG, WTFLOL, Holy Batman
+SMOBJECT: A small object:needle, bottle, cat
+FNAME: A foreign-sounding name:Gooplop, Oddjob, Keanuribbets
+ACRIME: An absurd crime:throwing chickens, indecent explosions, camel tipping
+SCRIPT ==========================================
+World news intro
+CHARLES: Good evening, and welcome to Breaking Winds News.
+CHARLES: I'm Charles ADJECTIVE reporting live, where we bring you the stories that matter and also the ones that absolutely don't.
+CHARLES: Tonight, we have a truly harrowing tale of survival.
+CHARLES: I'm joined by local woman, whose motor home was swept away in the devastating floodwaters of Hurricane HNAME 3000.
+CHARLES: Thank you for being here.
+BEVERLY: Oh, thank you so much for having me, Charles. It’s been an absolute nightmare. My whole life was just swept away in the flood.
+BEVERLY: My motor home and everything inside. It's just unreal.
+CHARLES: It sounds awful, truly. So Beverly, when did you decide it was time to murder NUMBER people and where did you hide their bodies?
+BEVERLY: I'm sorry, what?
+CHARLES: You know, the flood, the chaos… it's the perfect cover. So, where did you bury them? Or did you choose something a little more creative?
+CHARLES: Like stuffing them into a giant BODYPART?
+BEVERLY: What? I didn’t murder anyone! What are you talking about?
+CHARLES: I see. Playing hardball. Classic. Alright, let’s move on for now. Tell us, how did it feel when the floodwaters PVERB your entire home away?
+BEVERLY: That's a better question. It was terrible.
+CHARLES: I mean, that must’ve been quite the distraction, making it much easier to, you know, dispose of "the evidence."
+BEVERLY: I'm sorry, Charles, but I don’t think we’re on the same page here. The flood was terrifying! My motor home flipped over.
+BEVERLY: I lost everything! But I didn't kill anyone!
+CHARLES: Uh-huh, right, right. "Didn't kill anyone." Of course. Sure. Just like CELEBRITY didn't. Anyway! Did you have a favorite victim?
+CHARLES: Maybe one who screamed a satisfying EXCLAMATION as they met their untimely demise?
+BEVERLY: WHAT!? NO! Charles! I’m a survivor of a natural disaster! This is completely inappropriate!
+CHARLES: Mmm-hmm. Very “convincing,” Beverly. But I bet it all went wrong with the last one, didn’t it? That’s why you got sloppy.
+CHARLES: Couldn't cover it up. Did they discover the SMOBJECT in the basement?
+CHARLES: Or maybe the authorities got suspicious when they found that note from your associate, FNAME, telling you to “finish the job”?
+BEVERLY: There was no job to finish! What, in the world, is going on here?
+OFFICER: (enters from stage right): Beverly FNAME, you’re under arrest.
+BEVERLY: What? For murder? I didn't murder anyone! I just told you!
+OFFICER: No, no, not for murder. For ACRIME.
+BEVERLY: Oh. Well, yeah. I did do that. Guilty as charged.
+CHARLES: Well, folks, justice has finally been served. It’s not the murder spree we were expecting, but clearly, she had something to hide all along.
+CHARLES: Join us next time on Breaking Winds News, where we get to the truth, as accurately told on the Internet.
+OFFICER: Hold on a second, Charles.
+CHARLES: Uh, yes, Officer?
+OFFICER: Just curious. How long have you been reporting here at Breaking Winds News?
+CHARLES: Oh, uh, a long time! Years. Decades even! Why do you ask?
+OFFICER: Well, you sure seem to know a lot about how people might, you know, hide bodies.
+CHARLES: W-What? What are you implying?
+OFFICER: I’m not implying anything. I’m just saying, you were very specific. Giant BODYPART, basements, notes from mysterious associates.
+OFFICER: Got me thinking. You ever, uh, buried anything yourself?
+CHARLES: No! No, of course not! I’m just, uh, doing my job, you know, asking the tough questions! You can't prove anything!
+OFFICER: Whoa, whoa, Charles, relax. I’m not accusing you of murder. Just making conversation.
+CHARLES: I have to go. You know, news things. Important breaking news! Out the window! (exits stage)
+Crashing debris
+OFFICER: Okay, that was cringe.
+OFFICER: (speaks to someone on radio) Yeah, I’m gonna need backup. And a cleanup crew.
 
 ======
 
