@@ -2587,6 +2587,7 @@ GummieX3
 SoulCircle
 yun seul_
 KawakamiZe
+Panda ~
 #TIER=2
 ArkoNero
 saika mujuuk
