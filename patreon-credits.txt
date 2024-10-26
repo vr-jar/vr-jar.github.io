@@ -2294,7 +2294,6 @@ Violet Washi
 彡༒ECL1PS1S༒彡
 ٠Rook٠
 Wolfy_Jae
-MrRaspberry_Jam
 GentleSona
 Nevula
 -Ｅｃｌｉｐｓｅ-
@@ -2573,6 +2572,7 @@ KawakamiZe
 Panda ~
 Rylan Songheart
 beandippster
+Requis_The_3rd
 #TIER=2
 saika mujuuk
 Psych_Foxtrot
