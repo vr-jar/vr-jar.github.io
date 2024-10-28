@@ -8645,8 +8645,8 @@ AGENT: (Nauseous) I think I'm turning into a SNAKE...
 INFORMATION ===============================
 ID: 184
 TITLE: The Bakeoff
-AUTHOR: Jay3409
-VERIFIED: True
+AUTHOR: jay3409
+VERIFIED: False
 TAGS: Skit
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -11783,7 +11783,7 @@ BABY: (Awkward silence, sniff) So uhh... Karen. Did you get your INFECTION sorte
 INFORMATION ===============================
 ID: 388
 TITLE: Redemption
-AUTHOR: CaptainJackk
+AUTHOR: Lazer Xiao Long
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -12965,7 +12965,7 @@ APPRENTICE: its time for me to get the spot light, Everyone be ready for I shall
 INFORMATION ===============================
 ID: 427
 TITLE: Resurrection
-AUTHOR: CaptainJackk
+AUTHOR: Lazer Xiao Long
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
@@ -19908,7 +19908,7 @@ ANCHOR: I'm Jane Smith. Signing off. Goodnight, everyone.
 INFORMATION ===============================
 ID: 643
 TITLE: Repugnantation
-AUTHOR: CaptainJackk
+AUTHOR: Lazer Xiao Long
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -35945,6 +35945,82 @@ RADIO HOST: That being said have a lovely Halloween you stalkers! And remember t
 ======
 
 INFORMATION ===============================
+ID: 1137
+TITLE: Jenny The Duck
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Restaurant
+DATE: 18/10/24
+CHARACTERS ================================
+JENNY: Jenny the Paranoid Duck:Chair 1
+MARK: Mark the Friend:Chair 2
+SARAH: Sarah the Friend:Stage Right
+DAVE: Dave the Friend:Stage Left
+SUGGESTIONS =============================
+RCAREER: A fictional or nonfictional career field:law, nosehair trimmer, geology
+ANIMAL: An animal:dog, cat, mongoose
+FOOD: A type of food:oatmeal, corn, jellybeans 
+VBING: A verb ending in -ing:drinking, hitting, rocking
+LIQUID: A type of liquid:beer, fireball, lemonade
+LVEHICLE: A kind of vehicle:semi, truck, helicopter
+FPLACE: A fictional or nonfictional business chain:Applebees, Curseco, Booger King
+HOLIDAY: A holiday:Christmas, Hannukah, Kwanzaa
+SCRIPT ==========================================
+Jazz music 1
+MARK: So, Jenny, how’s the new position? Still at that RCAREER firm?
+JENNY: Wow. Wow, Mark. Really?
+MARK: (confused) What?
+JENNY: You think I don’t see what you’re doing? Asking about my position?
+JENNY: This guy wants me to be in a position, but he ain't getting me in one tonight.
+MARK: I'm sorry. I'm not following.
+SARAH: She's totally messing with you, Mark. Jenny’s got this thing where she jokes around like this. Right, Jenny?
+JENNY: He wants me get on all fours and bark like an ANIMAL.
+MARK: No, I’m just asking how work’s going!
+JENNY: Sure, Mark. He's been planning this all night, hasn't he? Flirting with me, but I ain't playin'.
+SARAH: No, seriously, she’s kidding! She’s totally kidding, right, Jenny?
+DAVE: Mark, Dude, just eat your FOOD and don't make eye contact.
+MARK: So, my boss didn't show up at work yesterday because he fell asleep after VBING a bottle of LIQUID.
+JENNY: Yeah, you want that, wouldn't you?
+MARK: What does that even mean?
+JENNY: I bet you swing so many ways. I see your bedroom eyes from across the table.
+SARAH: I'm sorry, guys. Jenny has a weird sense of humor. It started after the accident.
+MARK: What accident?
+SARAH: It's a sensitive subject.
+MARK: Fair enough. So anyway.
+SARAH: She was hit by a LVEHICLE while she was crossing the parking lot to get to FPLACE.
+MARK: Oh my God!
+SARAH: She was in a coma for about NUMBER months. One day, she woke up. It was a HOLIDAY miracle!
+SARAH: But then she started being paranoid and quacking like a duck. And I was like, "Girl, go to sleep!"
+JENNY: And I don't remember any of it.
+SARAH: Because you were in a damn coma! Now I feel like drinking some of that LIQUID.
+MARK: Jenny, I hope you recover some day.
+JENNY: "Recover"? From what? Did you Cosby my drink when I wasn't looking?
+DAVE: He didn't do anything, Jenny. Mark may be single and desperate, but not like that.
+MARK: I've been dating the same ANIMAL for NUMBER years.
+DAVE: Wouldn't have guessed.
+JENNY: Quack! Quack!
+MARK: Uh, did you just quack?
+JENNY: (suddenly louder) QUACK! QUACK!
+DAVE: This is amazing. It really is.
+MARK: Oh my God! Jenny’s quacking like a duck!
+DAVE: Jenny!
+JENNY: QUACK QUACK QUACK! Excuse me for asking the waiter if he has any breadcrumbs that I can order.
+DAVE: (wheezing) I can't. Why is this killing me? The quacking!
+SARAH: This isn't funny. One out of NUMBER people each year become ducks in their lifetime.
+SARAH: Jenny, stop quacking! Look at everyone here. They're concerned about you.
+MARK: (laughing) This is the best dinner I've ever had.
+JENNY: (furious) You think this is funny? You think this is all a joke? Quack quack quack!
+DAVE: Oh man, I think we’ve lost her.
+SARAH: You should all be ashamed of yourselves. Ducktitus is a serious medical condition.
+DAVE: Ducktitus sounds a lot like something else.
+SARAH: And we are her friends. We should band together and be there for her during this difficult time.
+JENNY: QUACK! QUACK! QUACK!
+SARAH: (laughing) Girl, I'm sorry. I cannot.
+
+======
+
+INFORMATION ===============================
 ID: 1140
 TITLE: Interview Gone Wrong
 AUTHOR: LeoHardy
@@ -36013,6 +36089,79 @@ CHARLES: I have to go. You know, news things. Important breaking news! Out the w
 Crashing debris
 OFFICER: Okay, that was cringe.
 OFFICER: (speaks to someone on radio) Yeah, I’m gonna need backup. And a cleanup crew.
+
+======
+
+INFORMATION ===============================
+ID: 1142
+TITLE: Yaoi Interrogation 
+AUTHOR: SuperNova77
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Interrogation Room
+DATE: 22/10/24
+CHARACTERS ================================
+RAE: Sunny, The Ace Detective:Entrance Stage Right
+GAYER: Carter, The Wanted Criminal:Chair
+SUGGESTIONS =============================
+BAD: A crime:thief, murder, littering
+NUM: A number:1, 7, 3, 8
+SAS: A title for a criminal:Big Bad, Infamous, Notorious 
+RAH: A punishment fit for a criminal:hanged, executed, spanked
+GUEST: Someone in the audience:Adalyn, Landon, Markiplier
+VAL: A valuable item:Diamond, Ruby, Gold
+PLACE: A location:Cananda, Mcdonalds, Santas Workshop
+TEAM: A criminal organization:Phantom Thieves, Mafia, Yakuza
+SCRIPT ==========================================
+noir music 2
+GAYER: Ugh...
+GAYER: Where am I??
+GAYER: Oh no...They must of caught me finally.
+GAYER: I should have knew my crimes of BAD would catch up to me eventually.
+RAE: Well Well Well..
+GAYER: (Look at door) That voice!
+RAE: If it isn't Carter...the SAS criminal.
+RAE: And the leader of TEAM..
+GAYER: Its you! Sunny the Ace Detective
+break down door
+RAE: (Enter Stage Right) I've been waiting years for this day!
+GAYER: Out of all people, I should of knew you would be the one to be here
+RAE: Cut the crap Carter! We've finally got you right where we want you!
+RAE: We've been hunting you down for NUM years! Don't think you will get away with BAD!
+RAE: You can probably expect to be faced with a punishment of RAH, but you aren't leaving until you answer these questions.
+GAYER: RAH?? C'mon Sunny, you out of all people wouldn't give me that, would you?
+RAE: Don't play games with me.
+RAE: First off, Who did you work with to commit the crimes you did?
+GAYER: Hmm, maybe a little birdie, maybe my friend GUEST?
+RAE: GUEST? that makes no sense? Give me truthful answers!
+GAYER: Or maybe you if you would just take my offer to join us.
+RAE: Join you? Don't be fooled, I am justice!
+RAE: (sigh) Second question, everyone is aware of your thief of a VAL.
+GAYER: The VAL? That was a good heist, thats when they started calling me the SAS criminal
+RAE: How did you do the heist? Although you sent a calling card, you were not in any cameras.
+RAE: The VAL just disappeared from thin air!
+GAYER: Well I cant exactly remember..I stole many things with many different methods.
+noir music 3
+GAYER: I do remember stealing your heart though.
+RAE: What?? You shut your mouth Carter! Although we used to be Boyfriends, I still uphold the law!
+GAYER: C'mon! I know you miss me Sunny!
+RAE: That isn't important, you are nothing but a lowly criminal and I fight for Justice!
+GAYER: That's what you always say, why don't you come to our hideout in PLACE and we can get you on our team.
+RAE: That is absurd! I would never join TEAM! That is not what I stand for!
+GAYER: Don't lie to me, I'm smart like you, I know the only reason you are a detective was to find me.
+RAE: I became a detective so I could hunt down SAS criminals like you! This interrogation is done!
+RAE: Expect to be receiving RAH very soon.
+GAYER: I can share my profits from the VAL with you! We can be finally public like you wanted!
+RAE: ( Pull out a gun) we will never become public!
+vine boom
+GAYER: Is that a gun?? Woah, this is what we both want Sunny!
+RAE: I am an Ace Detective, Carter, my little 'Yaoi' secret with you can never become public!
+RAE: Although I did miss you, the mass public can never know of this!
+GAYER: This is our next step Sunny, When I walk out of here the whole world will know of our Yaoi!
+GAYER: You will join TEAM and we will be an unstoppable duo!
+RAE: No..This can't happen, I'll make sure you don't walk out of here then! (Shoot carter)
+gunshot
+GAYER: (Collapse)
 
 ======
 
