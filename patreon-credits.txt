@@ -1981,7 +1981,6 @@ Stoichiom
 Pandabear23
 Zac Zelive
 RenanMoon
-Koboldd
 modNick
 ruralists
 #TIER=1
@@ -2601,6 +2600,7 @@ Evilmidnight
 Lil_puddin
 Amarokgod
 LightFaster
+Koboldd
 #TIER=2
 saika mujuuk
 Psych_Foxtrot
