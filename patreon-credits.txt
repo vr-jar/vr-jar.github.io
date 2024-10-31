@@ -2552,7 +2552,6 @@ thunderwolf_
 ~-Cosmo-~
 Dave_TheTechGuy
 HaydenPrime
-EchoeVR2
 VanishSynax
 NickHateReality
 Patthewizard
@@ -2603,6 +2602,7 @@ Lil_puddin
 Amarokgod
 LightFaster
 Koboldd
+EchoeVR2
 #TIER=2
 saika mujuuk
 Psych_Foxtrot
