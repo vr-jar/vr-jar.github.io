@@ -2564,6 +2564,7 @@ LightFaster
 Koboldd
 EchoeVR2
 Black Hamster
+KiryuDragoon
 #TIER=2
 saika mujuuk
 Psych_Foxtrot
