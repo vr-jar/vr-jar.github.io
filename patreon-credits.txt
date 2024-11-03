@@ -1973,7 +1973,6 @@ SleepyBone
 Moonsuu
 ༒Łu̷n̷a̷r̷༒
 Ｍｉｌｌｋｙ
-Xotic_Sniper
 modNick
 ruralists
 #TIER=1
@@ -2599,6 +2598,7 @@ TBonenom
 Lexter21
 Jess_luvs_U
 Inuzu
+Xotic_Sniper
 #TIER=2
 saika mujuuk
 Psych_Foxtrot
