@@ -1,7 +1,7 @@
 INFORMATION ===============================
 ID: 29
 TITLE: House Party
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -125,7 +125,7 @@ Meanwhile CAT: (Hiss and run away, exit stage left) Hiss! Meow!
 INFORMATION ===============================
 ID: 30
 TITLE: American Values
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -225,7 +225,7 @@ MODERATOR: With those remarks, our debate concludes. Remember to cast your votes
 INFORMATION ===============================
 ID: 31
 TITLE: Justice Delivery
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -315,7 +315,7 @@ Meanwhile PIZZA GUY: (Leave with DETECTIVE)
 INFORMATION ===============================
 ID: 32
 TITLE: Cold Case
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -391,7 +391,7 @@ Meanwhile LADY: (Leave with the detective)
 INFORMATION ===============================
 ID: 33
 TITLE: An Accusation
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
@@ -479,7 +479,7 @@ Meanwhile PLAINTIFF: Noooooo!!!!!!
 INFORMATION ===============================
 ID: 34
 TITLE: A New Nation
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -587,7 +587,7 @@ World news outro
 INFORMATION ===============================
 ID: 35
 TITLE: Educational Emergency
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -681,7 +681,7 @@ Applause, Western Jingle 1
 INFORMATION ===============================
 ID: 36
 TITLE: Better Call Bob
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -814,7 +814,7 @@ PAPARAZZI 2: (Holding a photo) Can you please sign this picture from DEVIANTART 
 INFORMATION ===============================
 ID: 37
 TITLE: Troll Bridge
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
@@ -966,7 +966,7 @@ TROLL: (Mumbling to self) Troll need love potion for... certain activity.
 INFORMATION ===============================
 ID: 38
 TITLE: Telenovela
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1078,7 +1078,7 @@ FERNANDO: Ah, Dios mío. I deserved that.
 INFORMATION ===============================
 ID: 39
 TITLE: The Package
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1168,7 +1168,7 @@ BOBBY: Aww!
 INFORMATION ===============================
 ID: 40
 TITLE: Yer a Wizard
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1281,7 +1281,7 @@ HARRY: Okay... (Wiping away a tear) Let's go. (Leave with HAGRID out the door)
 INFORMATION ===============================
 ID: 41
 TITLE: Give Thanks
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -1386,7 +1386,7 @@ SON: (To FATHER) Dad, what's a HONKERS?
 INFORMATION ===============================
 ID: 42
 TITLE: Welcome to Wizard Town
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -1490,7 +1490,7 @@ Meanwhile SORCERER: (Laughing and high-fiving WIZARD)
 INFORMATION ===============================
 ID: 43
 TITLE: Check this Out
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1623,7 +1623,7 @@ Thunder
 INFORMATION ===============================
 ID: 44
 TITLE: Spy Gear
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -1700,7 +1700,7 @@ Spy ending sting
 INFORMATION ===============================
 ID: 45
 TITLE: Ultimate Weapon
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -1802,7 +1802,7 @@ Gong
 INFORMATION ===============================
 ID: 46
 TITLE: Spicy Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
@@ -1897,7 +1897,7 @@ Gameshow Outro
 INFORMATION ===============================
 ID: 47
 TITLE: Wrong Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2026,7 +2026,7 @@ Gameshow outro
 INFORMATION ===============================
 ID: 48
 TITLE: Australiens
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
@@ -2147,7 +2147,7 @@ BOB: (Look around, drink beer)
 INFORMATION ===============================
 ID: 49
 TITLE: Positive Results
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -2233,7 +2233,7 @@ DOCTOR: Tell him to come in for a treatment. I know a guy with these pills... we
 INFORMATION ===============================
 ID: 50
 TITLE: Noise Complaint
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
@@ -2349,7 +2349,7 @@ Meanwhile HUSBAND: (Exit stage left with WIFE)
 INFORMATION ===============================
 ID: 51
 TITLE: Duel
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -2459,7 +2459,7 @@ Meanwhile MANAGER: Why you little... (Chase BOBBY out of the store)
 INFORMATION ===============================
 ID: 52
 TITLE: Camping
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -2559,7 +2559,7 @@ JENNY: Aw... thanks big bro!
 INFORMATION ===============================
 ID: 53
 TITLE: Questionable Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2664,7 +2664,7 @@ HOST: Don't go anywhere folks, we've got more ethical questions after these mess
 INFORMATION ===============================
 ID: 54
 TITLE: Food Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2782,7 +2782,7 @@ HOST: (To audience) that's all for tonight folks! See you next time on... "Eat T
 INFORMATION ===============================
 ID: 55
 TITLE: Noisy Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2855,7 +2855,7 @@ HOST: (To audience) See you next time on... "Impersonate that Animal!"
 INFORMATION ===============================
 ID: 56
 TITLE: Pokémon Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
@@ -2957,7 +2957,7 @@ HUMAN: Uh, can anyone give me a ride home?
 INFORMATION ===============================
 ID: 57
 TITLE: Lucky Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -3054,7 +3054,7 @@ HOST: See you next time folks, on... GUESS THAT THING! Goodnight!
 INFORMATION ===============================
 ID: 58
 TITLE: Gamer Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
@@ -3138,7 +3138,7 @@ HOST: See you next time folks, on... GUESS THAT THING! Goodnight!
 INFORMATION ===============================
 ID: 59
 TITLE: Trivia Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -3231,7 +3231,7 @@ HOST: See you next time folks, on... GUESS THAT THING! Goodnight!
 INFORMATION ===============================
 ID: 60
 TITLE: Tool Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
@@ -3310,7 +3310,7 @@ BILLY MAYS: Supplies are limited, so you gotta call now!
 INFORMATION ===============================
 ID: 61
 TITLE: Magic Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -3401,7 +3401,7 @@ BILLY MAYS: But you gotta call now.
 INFORMATION ===============================
 ID: 62
 TITLE: Clean Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
@@ -3481,7 +3481,7 @@ BILLY MAYS: Don't just sit there, pick up that phone and get yourself some sweet
 INFORMATION ===============================
 ID: 63
 TITLE: Ultimate Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -3576,7 +3576,7 @@ BILLY MAYS: What are you waiting for? Pick up the phone and place your order now
 INFORMATION ===============================
 ID: 64
 TITLE: Toast Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -3668,7 +3668,7 @@ BILLY MAYS: Just call the number on your screen today.
 INFORMATION ===============================
 ID: 65
 TITLE: Leak Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
@@ -3737,7 +3737,7 @@ BILLY MAYS: Dial the number on your screen and get your ADJECTIVE hands on Magic
 INFORMATION ===============================
 ID: 66
 TITLE: Helpful Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Bathroom
@@ -3777,7 +3777,7 @@ BILLY MAYS: MORBs and conditions apply.
 INFORMATION ===============================
 ID: 67
 TITLE: Dog Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial
 SET: Living Room
@@ -3864,7 +3864,7 @@ TIMMY: Yay!
 INFORMATION ===============================
 ID: 68
 TITLE: Shiny Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Living Room
@@ -3946,7 +3946,7 @@ BILLY MAYS: This is officially a ransom threat. Scooby from Scooby-Doo WILL enc
 INFORMATION ===============================
 ID: 69
 TITLE: We demand it
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -4019,7 +4019,7 @@ Applause
 INFORMATION ===============================
 ID: 70
 TITLE: Diagnosis
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -4111,7 +4111,7 @@ HELPER: Me say. DOLLARAMOUNT dollars.
 INFORMATION ===============================
 ID: 71
 TITLE: Amazon
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -4213,7 +4213,7 @@ Western Jingle 1
 INFORMATION ===============================
 ID: 72
 TITLE: Secret Message
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4316,7 +4316,7 @@ TYPEWRITER: Operation ORDERABLE ITEM;STATUS: SUCCESS
 INFORMATION ===============================
 ID: 73
 TITLE: It's Me
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit,Contains Adult Innuendo
 SET: Living Room
@@ -4411,7 +4411,7 @@ SUPERROBOT: Oh. Yes it is. (Dies)
 INFORMATION ===============================
 ID: 74
 TITLE: Playroom
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit,Contains Adult Innuendo
 SET: Interrogation Room
@@ -4503,7 +4503,7 @@ BECKY: Ugh! you're such a WIMPY-NAME, John.
 INFORMATION ===============================
 ID: 75
 TITLE: Improvement
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Hardware Store
@@ -4580,7 +4580,7 @@ CHAOS LORD: Mwahahaha! (Noticing a sale on toilets) ooo... 50% off all toilets? 
 INFORMATION ===============================
 ID: 76
 TITLE: Your finest wares
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Hardware Store
@@ -4665,7 +4665,7 @@ CLERK: I'm fired? (Sad) Aw man.
 INFORMATION ===============================
 ID: 77
 TITLE: Request
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Interrogation Room
@@ -4750,7 +4750,7 @@ COP: That's the taste of justice, my friend.
 INFORMATION ===============================
 ID: 78
 TITLE: Intervention
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4828,7 +4828,7 @@ PERSON: (Shrugging) oopsies!
 INFORMATION ===============================
 ID: 79
 TITLE: Ghost
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4919,7 +4919,7 @@ WIFE: (Taken aback) Sorry, sorry! I can't help it... it's just so... you know...
 INFORMATION ===============================
 ID: 80
 TITLE: Clown
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4998,7 +4998,7 @@ CLOWN: And spoil the punch line? No way.
 INFORMATION ===============================
 ID: 81
 TITLE: Bone Dry
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Conference Room
@@ -5072,7 +5072,7 @@ BOSS: See ya Friday! (Exit)
 INFORMATION ===============================
 ID: 82
 TITLE: Just Toast
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -5147,7 +5147,7 @@ FIRST RESPONDER: Hello, headquarters? We got a problem...
 INFORMATION ===============================
 ID: 83
 TITLE: Bardic Inspiration
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Forest
@@ -5233,7 +5233,7 @@ HAPPY BARD: Thank you, thank you, you're too kind.
 INFORMATION ===============================
 ID: 84
 TITLE: Buy, Buy, Buy
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Conference Room
@@ -5297,7 +5297,7 @@ Meanwhile BOSS: Don't let the door hit you on the way out.
 INFORMATION ===============================
 ID: 85
 TITLE: What's Cookin'?
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -5357,7 +5357,7 @@ SALESPERSON: Call now while supplies last!
 INFORMATION ===============================
 ID: 86
 TITLE: Scam
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -5432,7 +5432,7 @@ BOB: (Walk slowly off stage, crying)
 INFORMATION ===============================
 ID: 87
 TITLE: Robot Informercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -5490,7 +5490,7 @@ Infomercial disclaimer
 INFORMATION ===============================
 ID: 88
 TITLE: Wizard Encounter
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Forest
@@ -5587,7 +5587,7 @@ KNIGHT: This is LIQUID!
 INFORMATION ===============================
 ID: 89
 TITLE: Fantasy Insurance
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Forest
@@ -7045,7 +7045,7 @@ DUNGEON MASTER: (Off stage) Get out of my house or I'm calling the cops!
 INFORMATION ===============================
 ID: 121
 TITLE: DEBUG SCRIPT
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Debug,Skit
 SET: Western
@@ -8456,7 +8456,7 @@ SUPER HERO: (Opens Door) I can't believe that VILLAIN left the door unlocked for
 INFORMATION ===============================
 ID: 181
 TITLE: Detention
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -8544,7 +8544,7 @@ CHRIS: FOOTBALL, here I come! Yeet! (Exit)
 INFORMATION ===============================
 ID: 183
 TITLE: Deep Cover Dinner
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -8645,8 +8645,8 @@ AGENT: (Nauseous) I think I'm turning into a SNAKE...
 INFORMATION ===============================
 ID: 184
 TITLE: The Bakeoff
-AUTHOR: jay3409
-VERIFIED: False
+AUTHOR: Jay3409
+VERIFIED: True
 TAGS: Skit
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -10640,7 +10640,7 @@ SALE: Another job well done here at COMP Ai Generation™
 INFORMATION ===============================
 ID: 333
 TITLE: Cold Rivals
-AUTHOR: DuckingGoose
+AUTHOR: RandomTF2
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -16216,7 +16216,7 @@ Ivan: Ugh..I hate my life.
 INFORMATION ===============================
 ID: 524
 TITLE: We Do Things Old School
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -16294,7 +16294,7 @@ SAMMY: Awww man.
 INFORMATION ===============================
 ID: 526
 TITLE: The Tomato Timeline
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -35033,6 +35033,8 @@ SALLY: You’re really going to make him go out in that rain? (keep playing pian
 NICK: Shut up brat! (exit stage right)
 Typewriter: 1 hour later
 (waltz music)
+teleport MOM to ENTRANCE STAGE LEFT
+teleport GRAY to ENTRANCE STAGE LEFT
 GRAY: (Enter) Thanks for the ride mom, I promise I'll be better with my money.
 MOM: (Enter) Welcome home sweetie, head to your room to dry off and don’t worry about your brother, mommy is gonna take care of him.
 GRAY: (either exit off stage right) Yes ma’am
@@ -35043,8 +35045,8 @@ NICK: Sacrifices have to be made, he owes me money
 SALLY: Oh the irony!
 (scary music)
 MOM: Oh the irony is right sally! (slap nick) my sweet gray told me all about what you did to him!
-MOM: I forgive and absolve your debt of $10,000 if you complete a simple task and you’re so wicked!
-MOM: To have the gall to not forgive your own little brother of $100?!
+MOM: I forgive and absolve your debt of $10,000 if you complete a simple task but you’re so wicked!
+MOM: To not forgive your own little brother of $100?!
 NICK: I’m sorry
 MOM: You sure will be, get out of my house!
 NICK: No way, it’s raining
@@ -35531,6 +35533,79 @@ CAN R: YIPPEE!!!
 ======
 
 INFORMATION ===============================
+ID: 1117
+TITLE: The boy who rizzed (brain rot warning)
+AUTHOR: apsi8609
+VERIFIED: False
+TAGS: Skit
+SET: Murder
+DATE: 08/10/24
+CHARACTERS ================================
+HARRY: Harry pogger :Center Stage
+RON: Ron, Harry's friend:Stage Left
+SNAPE: Snape, The teacher :Backstage
+HAGRIT: The half giant:Stage Right
+SUGGESTIONS =============================
+VERB: Any verb:Mew, jump, draw
+ITEM: Any item :Wand, cup, pillow
+POWER: Literally any power:rizzing, mogging, edging
+APPEARANCE : Something you can look like:Grimace, ugly, fat
+MAGIC: any magic spell:Fire, explosion, avada cemara,
+NICKNAME: any brain rot nickname:gooner, edger, alpha
+LORD: any word that can come after Lord:skibidi, gonmaxer, rizzler
+MAXING : something you can max out:mewingm, rizzing, mogging
+SCRIPT ==========================================
+epic fantasy music 1
+HAGRIT: Yo, you a rizzler, Harry!
+HAGRIT: You been chosen to mew!
+HARRY: I gotta be the most sigma NICKNAME in all of Mogwarts!
+music stops
+HARRY: But all I can edge about is her...
+vine boom
+SNAPE: Hermione’s just a bob, Harry.
+epic fantasy music 2
+SNAPE: A real sigma would rizz up a Gyatmaxon with level 10 or less.
+SNAPE: If you don't hit level 100 MAXING in Rizzology this semester, you’re cooked, fam!
+HARRY: Urgh! Bro VERBs too much!
+HARRY: I can't edge to this!
+RON: Don’t listen to him, Harry. He’s just anger-maxing 'cause he couldn’t rizz up your mom!
+RON: Wow! I can tell you’ve been maxing your ITEM!
+HARRY: W's in the chat!
+SNAPE: What’s it gonna be, Pogger? Goon or POWER?
+HAGRIT: Hold up now, Snape! The boy’s got rizz—he just needs more POWER-maxing!
+HAGRIT: You think I didn’t see that edge streak when he out-rizzed Malfoy last week? The boy’s got potential, just wait!
+RON: Right, mate! If the Ministry of Mogging wanna phantom-tax us for being together, just gritty on 'em!
+HARRY: I’m a W-NICKNAME, freaking Sigma with an Ohio Skippy-to-Gyat.
+SNAPE: Oh, please. You’re just some Goon lite, fam. You’re nothing compared to a real POWER-lord like me.
+HARRY: Nah, fam. You just got L-ITEM, unk.
+HAGRIT: Erm, what the Sigma?
+HAGRIT: Don’t be listening to Snape, Harry. He’s been in the L-Lobby for years. Couldn’t rizz up a Doxie if it flew into his cauldron!
+RON: Mate, you don't gotta take that from him! You’ve been MAXING-maxing your whole life!
+HAGRIT: Aye, and remember when you mogged up Quirrell? That wasn’t luck, that was pure Sigma energy, Harry! You got what it takes to beat anyone!
+HAGRIT: And now, Lord LORD has returned to the lobby to end your edge streak!
+HARRY: I ain't scared of him!
+HARRY: He looks like a APPEARANCE Shaker that didn't doom-scroll the Aki way!
+SNAPE: That’s 'cause he’s Sigma-maxed beyond your comprehension, Potter!
+RON: Mate, you gotta spend less time ITEM-maxing!
+RON: And more time POWER-maxing! We’re gonna need full rizz power to beat Skibbobo!
+HARRY: If we wanna beat him, we gotta edge all together! No solo-gooning this time!
+HAGRIT: Together? That's a whole new type of rizz synergy, lad!
+RON: But it’s dangerous!
+HARRY: It's the only way, bro.
+HAGRIT: Aye, Harry’s right! You boys stick together, rizz it up, and show 'em how a proper goon squad handles business!
+anime sword gleam 1
+HARRY: MAGIC! (shot Snape)
+music stops
+SNAPE: (falls dramatically) You've...gooned...too...hard...
+applause
+RON: W-POWER for real, Harry!
+HAGRIT: That’s what I'm talking about! Sigma status—confirmed!
+RON: Now let’s go gritty on Skibbobo before he respawns!
+HAGRIT: And don’t forget, Harry—no one ever out-rizzes a Gryffindor! Give Skibbobo the old Sigma treatment!
+
+======
+
+INFORMATION ===============================
 ID: 1119
 TITLE: Wasted in the Wasteland
 AUTHOR: LoppearLink
@@ -35665,7 +35740,7 @@ Applause
 
 INFORMATION ===============================
 ID: 1125
-TITLE: Audience Anarchy Pitch Meeting
+TITLE: Audience Anarchy Pitch
 AUTHOR: zanbbit
 VERIFIED: False
 TAGS: Skit
@@ -35686,6 +35761,7 @@ CONSOLE: An old video game console:Odyssey, Dreamcast, Game Boy
 NE AA NAME: An alternate name for Audience Anarchy:Will of the People, Mad Lib Mayhem, Script Rippers
 BO AA NAME: An alternate name for Audience Anarchy:Will of the People, Mad Lib Mayhem, Script Rippers
 SOMETHING: An item someone would not want to receive:Coal, A Parking Ticket, Crude Oil
+ADJECTIVE: A word to describe something weird or bad:Cuckoo, Looney, Horrible
 SCRIPT ==========================================
 (Silly Music 2)
 BOSS: Come on! We need to think of a new game! Are we really going to let COMPANY beat us in sales!?
@@ -35712,7 +35788,7 @@ BOSS: (looks at new employee) Do you have any other concepts?
 NEW EMPLOYEE: Hmm... (thinking) Well I have this one idea, it's also for VR.
 OLD EMPLOYEE: UGH I don't understand the world anymore. When did we stop trying to make money?
 BOSS: Let's hear it.
-NEW EMPLOYEE: Okay so you act out these plays with scripts. There's an audience that can fill in missing words in the script.
+NEW EMPLOYEE: Okay so you act out these plays with scripts. There's an audience that can fill in missing words in the scripts. Kind of like madlibs.
 NEW EMPLOYEE: And those same audience members can join in and act too.
 BOSS: (nods) Hmm... there might be an idea there. Sounds like something the SUBCULTURE would enjoy.
 NEW EMPLOYEE: Not just the SUBCULTURE but also anyone who likes to act and have fun in plays too!
@@ -35720,14 +35796,17 @@ OLD EMPLOYEE: (sarcastic) Yeah, real interesting idea! Sounds boring to me! It'l
 BOSS: Come now, NICKNAME I think we actually may have something here. (looks at newbie) You have a name for this game?
 NEW EMPLOYEE: Well, not really but maybe we can call it... (thinks) oh! I know! How about NE AA NAME?
 BOSS: I like it, but perhaps BO AA NAME could work as well.
-OLD EMPLOYEE: Unbelievable! This is a bad idea, boss! It's boring. No one will play it! You're really gonna go with the INSULT's plan!?
+OLD EMPLOYEE: Unbelievable! This is a bad idea, boss! It's boring. No one will play it! 
+OLD EMPLOYEE: You're really gonna go with this... this... ADJECTIVE concept!?
 OLD EMPLOYEE: It's just anarchy with an audience! I don't know if you can even make a standalone game out of an idea that thin!
-Old Employee: We might as well make it a VR Chat map or something.
+OLD EMPLOYEE: We might as well make it a VR Chat map or something.
 BOSS: You know that's not a bad idea! We should make it as a VR Chat map!
 OLD EMPLOYEE: What!? No!? That was a joke!
 BOSS: Congrats newbie we'll start development on BO AA NAME right away! (shake New Employee's hand)
 NEW EMPLOYEE: Glad you're on board, Chief! I believe folks will really like this too. But I still think we should call it NE AA NAME.
 BOSS: Don't push it, you're still new here.
+NEW EMPLOYEE: Fine (look at old employee) Since you seem to know about VR Chat I guess you'll be making the map? 
+BOSS: It was their idea to make it a VR Chat map so they will be building it. Get to work NICKNAME!
 OLD EMPLOYEE: UGH! I hate my job!!
 
 ======
@@ -36162,6 +36241,383 @@ GAYER: You will join TEAM and we will be an unstoppable duo!
 RAE: No..This can't happen, I'll make sure you don't walk out of here then! (Shoot carter)
 gunshot
 GAYER: (Collapse)
+
+======
+
+INFORMATION ===============================
+ID: 1151
+TITLE: Wise King
+AUTHOR: SmithDaStick
+VERIFIED: True
+TAGS: Skit
+SET: Courtroom
+DATE: 29/10/24
+CHARACTERS ================================
+KING: King:Plaintiff Door
+KNIGHT: Knight:Bailiff Corner
+RMOM: Mother:Plaintiff Table
+LMOM: Mother:Defendant Table
+SUGGESTIONS =============================
+NOBLE NAME: Noble Name :Solomon, Saran, Gandalf the Grey
+SHADY JOB: A Job:Pipe Grinder, Snake Milker, Sensory Scientist, streetwalker
+SOUND: Calming Sound:jungle, ocean waves, waterfall, Never Gonna Give You Up, Darude's Sandstorm, scatman ski-ba-bop-ba-dop-bop
+KILLED: Accidental way to die:Suffocation, dropped on his head
+GOD: Name for a God:GOD, Buddha, Dio, Odin, Jesus
+DIED: Crappy way to die:eaten by wolves, taken to live with monkeys, starve to death
+SCRIPT ==========================================
+(courtroom music)
+KNIGHT: (holding a baby) All rise for the Wise King NOBLE NAME!
+(courtroom music)
+KNIGHT: (holding a baby) All rise for the Wise King NOBLE NAME!
+KING: (sit down behind the stand and hit gavel once) You may be seated.
+KNIGHT: Your lord ship this is the case of "who’s baby", but with a twist.
+KING: A twist?
+KNIGHT: Yes my lord, both of these SHADY JOBs claim this baby in my arms belongs to them.
+KING: I see, misses to my right you may go first.
+RMOM: (Stand and bow) Oh, my lord! This woman and I live in the same house, and we both gave birth three days apart.
+RMOM: This woman’s son died in the night, because she KILLED him!
+LMOM: Lies!
+RMOM: It’s true my lord
+LMOM: how dare you lie before the wise king NOBLE NAME!
+KING: (bang gavel) Order! Silence! (look to guard) tell them about the rules.
+KNIGHT: (shouting) You shall only speak when spoken to by the lord!
+KING: (Motion to the woman on the right) Continue woman.
+RMOM: While I slept peacefully with my son at our SOUND noise maker.
+RMOM: When I arose to nurse my child, (point to other women) she swapped her dead son for my living child!
+KING: Is this the truth? (look to the woman on left) you may speak now.
+LMOM: (stand and bow) Lies my lord, the living child is mine, and the dead child is hers!
+LMOM: She has made up an elaborate hoax to confuse you but I and all your servants know you have been blessed with wisdom from GOD.
+LMOM: She is upset because her child suddenly DIED two days after it was born.
+RMOM: No! The dead child is yours, and the living child is mine!
+KING: (Bang the gavel) Silence you SHADY JOBs! You both claim the living child is yours, and the dead is the others. I’ve heard enough!
+KING: Knight put the baby on the ground in the middle.
+KNIGHT: (Walk center stage and lay the baby at your feet.) Yes my lord!
+KING: Pull out your sword and cut the baby in two, give half to one and half to the other.
+KNIGHT: As you command my lord (pull out your sword and raise it in the air)
+RMOM: Oh my lord! (run and lay over where the baby was placed)
+RMOM: (hysterical) Spare the child! Please my lord, give it to her! Just don’t kill him!
+LMOM: Splendid wisdom! He shall be neither mine nor yours, divide him!
+KING: (Bang gavel) Sheathe your sword knight, do not kill him.
+KING: Give the living child to the SHADY JOB shielding him, for she is his mother.
+KNIGHT: (sheathe your sword and help the woman up) you may take your child and go.
+RMOM: (Stand holding the baby) thank you my lord praise GOD for your wisdom. (run off stage)
+LMOM: No she is taking my child!
+KNIGHT: Silence you fool!
+KING: Guard take this wretched liar away from my sight and punish her justly for her forgery.
+(courtroom sting)
+
+======
+
+INFORMATION ===============================
+ID: 1152
+TITLE: Do you know your fiends?
+AUTHOR: revolver_axe
+VERIFIED: False
+TAGS: Game Show
+SET: Game Show
+DATE: 30/10/24
+CHARACTERS ================================
+HOST: Eva, the Hostess:Narrator Podium
+JOHN: John, Contestant:Contestant Podium 1
+ADAM: Adam, Contestant:Contestant Podium 2
+SUGGESTIONS =============================
+HELLO: Something you would say to greet someone:Hello, What’s Up, hey there!, Yeah whatever bro
+WEIRDSITUATION: A strange situation someone can find themselves in:Unicorn in a china shop, in the backrooms, extremely naked for no reason, face to face with Gordon Ramsey, drinking lean
+HEYTHERE: Something someone would say to greet an audience :Hello everyone!, Hello there people of- (fart) oops my bad- Hello there people of America, When do I get paid, You all look like little ants from over here, I am the greatest contestant to ever exist
+CALL THE POLICE: Something somebody would do in a panic:Call the police, have a little accident, call ghostbusters, scream obscenities, have another one of my little episodes
+RUN AWAY: A cowardly response to a bad situation :Cry, Run away, throw up
+WEAR A DISGUISE: A silly way to rob a bank :wear a clown disguise, pretend to be a horse
+GOLD WATCH: Something unique and of value:Golden Pocket Watch, signed portrait
+GOOFY: Adjective used to describe someone:Goofy, Stupid, rotund, radical, grizzled, sigma, tasty
+IM GONNA BEAT YOU UP: A threat :I’ll punch you, I’ll beat you up, I'm gonna turn you inside out
+POW: Exclamation:Fight!, POW!, Poggers
+SCRIPT ==========================================
+gameshow intro
+HOST: Welcome to “Do you know your friends?” Where we ask you, how well do you know your homies?
+applause
+HOST: Today we have best friends for life, Adam and John!
+crowd woo
+ADAM: HELLO, I'm Adam!
+JOHN: HEYTHERE, I'm John!
+HOST:How it works: we gave each contestant a series of scenarios. The goal is to guess how the other thinks that they would respond to said scenario.
+HOST: Let’s get right into this, shall we?
+gameshow start
+HOST: Adam, if John was WEIRDSITUATION, what would he do?
+ADAM: oh, well he would CALL THE POLICE!
+laughter
+JOHN: I would not!
+ADAM: You would too! You even CALL THE POLICE when we were watching that scary movie last week!
+gameshow buzzer
+HOST: John, Read out your response!
+JOHN: (looks down shyly.) I would RUN AWAY
+HOST: Ooh, looks like the answer was not close enough! Let’s move on to the next round!
+gameshow ding
+HOST: John, if Adam were to try to rob a bank, how would he do it?
+JOHN: oh, he would totally WEAR A DISGUISE
+laughter
+ADAM: ha!
+HOST: Adam, please read your response!
+ADAM: I would WEAR A DISGUISE
+JOHN: I just knew you would WEAR A DISGUISE… just like the good old days…
+ADAM: Yeah! Remember when we stole that GOLD WATCH from that guy?
+JOHN: GOLD WATCH… oh yeah! Wasn’t he like a game show host or something?
+record scratch
+HOST: (trembling) … an GOLD WATCH?
+ADAM: yeah! It was the rarest GOLD WATCH I’ve ever seen! So unique! I looked it up, and apparently only one was made!
+JOHN: that guy we took it from was so GOOFY… we used the oldest trick in the book, WEAR A DISGUISE!
+vine boom
+HOST: (shaking fist) that was my GOLD WATCH! You give it back!
+ADAM: Or what?
+JOHN: you gonna CALL THE POLICE?
+HOST: no, IM GONNA BEAT YOU UP!
+ADAM: Try it!
+HOST: Rah! (Punch ADAM)
+JOHN: POW!
+Meanwhile HOST: (Fighting ADAM)
+fistfight
+TYPEWRITER: This is was the final episode of “Do you know your friends"
+TYPEWRITER: The GOLD WATCH was never recovered.
+
+======
+
+INFORMATION ===============================
+ID: 1155
+TITLE: Fast Food Frustrations
+AUTHOR: Juliablue1970
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 02/11/24
+CHARACTERS ================================
+WORKER: The Overworked Employee:Entrance Stage Left
+KAREN1: The First Karen:Chair 1
+KAREN2: The Second Karen:Backstage
+SUGGESTIONS =============================
+RESTAURANT_NAME: The name of the restaurant:Burger Bonanza, Fry Paradise, Quick N' Tasty
+FOOD_ORDER:  A bizarre food order:extra pickles, no cheese, fried pickles with a side of unicorn sauce
+COMPLAINT1: A ridiculous complaint:my fries are too salty, there’s too much ketchup, the ice cream machine is too cold
+MANAGEMENT_RESPONSE: A response from management:I’m sorry for the inconvenience, That’s against company policy, Please leave the premises
+NOISE_COMPLAINT: A noise-related complaint: the fryer is too loud, I can’t hear myself think, there’s too much background music
+RAIN_CHECK: A request for a strange rain check:a lifetime supply of fries, a personal fry cook, extra sauce for a year
+CUSTOMER_SERVICE: A customer service phrase:Thank you for your patience,We value your feedback, Your satisfaction is our priority
+NOSTALGIA_ITEM: A nostalgic fast food item: toy from the kids' meal, vintage menu, a classic soda
+SCRIPT ==========================================
+(happy music 1)
+WORKER: (Cheerfully) Welcome to RESTAURANT_NAME! How can I help you today?
+KAREN1: (Irritated) Yes, I’d like a burger with no lettuce, no tomato, no pickles, and... (dramatic pause) FOOD_ORDER!
+WORKER: (Nods) Got it! That’s one burger with no lettuce... no tomato........
+KAREN1: (Interrupting) Wait! I also need my fries to be extra crispy and served in a special box!
+WORKER: (Trying to stay calm) Okay, one extra crispy fries in a special box. Anything else?
+KAREN1: (Scoffing) Yes! My drink must be... (pausing for effect) room temperature!
+(scribbling)
+WORKER: (Jotting notes) Room temperature drink, coming right up!
+WORKER: (Handing over the order) Here you go! One burger with no lettuce, no tomato, no pickles,
+WORKER: FOOD_ORDER; extra crispy fries in a special box; and a room temperature drink!
+KAREN1: (Inspecting) Hmph. The fries look too golden. I specifically asked for extra crispy!
+(waterphone)
+WORKER: (Sighs) I’m sorry, ma’am! Let me take care of that for you.
+(gameshow ding)
+WORKER: (In a hurried tone) How about I give you some burnt fries instead?
+(vine boom)
+KAREN1: (Holding her head) This is ridiculous!
+WORKER: (Holding out burnt fries) Well they are extra crispy, just like you wanted!
+(vine boom)
+(epic cinematic music)
+KAREN1: (Fuming) This is unacceptable! I can’t believe you think this is good enough for paying customers!
+WORKER: (Trying to be polite) I understand you’re frustrated....
+KAREN1: (Interrupting) No, you don’t! My experience is being ruined! What if I posted about this online? You'd be in real trouble!
+WORKER: (Grimacing) Ma’am, if I could just explain...
+KAREN1: (Interrupting again) Just what? Serve me more lukewarm drinks? I demand better!
+WORKER: (Taking a deep breath) I’m doing everything I can here. If it’s not satisfactory, perhaps you’d prefer to take your order to go?
+KAREN1: (Pointing) You think you can just kick me out? This is an outrage; and NOISE_COMPLAINT!
+(record scratch)
+WORKER: (Firmly) If you continue to be this rude, I will have to ask you to leave.
+WORKER: Sorry Karen but MANAGEMENT_RESPONSE.
+Meanwhile KAREN1: (Exit stage right)
+(break down door)
+(happy music 1)
+WORKER: Finally I can get some peace.
+(door creak)
+KAREN2: (Walking in, looking around) Excuse me! I need to speak to the manager right now!
+(record scratch)
+WORKER: (Sighs heavily) Not again...
+KAREN2: (Waving her hands) This place is unacceptable! COMPLAINT1!
+WORKER: (Trying to maintain composure) I’m sorry for the inconvenience, but that’s how it works.
+KAREN2: (Fuming) Well, I want a RAIN_CHECK!
+(waterphone)
+(shark tank discussion music 1)
+WORKER: (Deadpan) I’m afraid that’s against company policy.
+KAREN2: (Exasperated) I’ll be posting my complaints online!
+(vine boom)
+WORKER: (Muttering) Please don’t.
+KAREN2: (Pointing) And don’t think I’m leaving without speaking to someone in management! This is absolutely unacceptable!
+(vine boom)
+WORKER: (Tired) Ma’am, I assure you, I’m doing my best to serve you.
+KAREN2: (Scoffing) Your best is not good enough! I’ll be writing a letter to corporate!
+(vine boom)
+WORKER: (Desperately) Please, CUSTOMER_SERVICE...
+KAREN2: (Interrupting) No more excuses! I want action!
+(vine boom)
+(sad chug jug music)
+WORKER: (Defeated) If you could just fill out this comment card…
+KAREN2: (Grabbing it) This better get my complaints heard!
+(scribbling)
+KAREN2: Mwa-Ha-Ha-Ha-Ha (exit stage right)
+TYPEWRITER: He then went on to deal with 20 Karens that day;and one week later was transferred to an insane asylum.
+TYPEWRITER: There he would spend the rest of his days repeating the word "manager" over and over again.
+TYPEWRITER: The only joy he would find was in a NOSTALGIA_ITEM found in a dusty corner of the restaurant.
+(scary music)
+WORKER: (Muttering) Manager... manager...
+
+======
+
+INFORMATION ===============================
+ID: 1156
+TITLE: Realest Norm
+AUTHOR: soursugarYT
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 02/11/24
+CHARACTERS ================================
+NORM: Norm:Couch
+CHAZ: Chaz:Front Door
+CHLOE: Chloe:Center Stage
+SUGGESTIONS =============================
+STREAMER1: Livestreamer:Kai Cenat, Caseoh, IShowSpeed
+BR1: Brainrot Youtube Content:Skibidi Toilet, YT Shorts, FNF+, 
+BR2: Brainrot Youtube Character:Grimace, MrBeast, MaxDesignPro, Kai Cenat, Caseoh
+BRT1: Brainrot Term (ex; rizz, gyatt, skibidi):Rizz, Gyatt, Skibidi, Sigma, Alpha, Fanum Tax, Mew
+BRTT: Brainrot Term Title:Sigma, Alpha, Rizzler, Fanum Taxxer, YT Shorts Mogger
+STREAMER2: A different livestreamer:Aiden Ross, Ninja, Dr. Disrespect, MoistCritical
+SCRIPT ==========================================
+NORM: Hi. My name is Norm, and I live in Ohio. (Walk to front door.)
+CHLOE: That's minus fifty aura.
+NORM: Ugh, why do you need to keep track of my aura? That's literally beta.
+CHLOE: Because you have L Rizz, you don't watch STREAMER1 streams...
+NORM: Well, I edge to BR1, and, I go gyatt-for-gyatt with BR2 !
+Meanwhile CHLOE: RIZZ!!
+NORM: So it's not my fault there's an issue.
+CHLOE: (Walk over to norm.) BR2 is *so* last year. The new thing in is soursugar.
+CHLOE: (Snarky) So that's why my aura's higher than yours, DAD!
+(knocking on door)
+NORM: Huh? Who's that?
+CHLOE: Oh my BRT1 ! It must be- (Opens door)
+(vine boom)
+CHLOE: Hey, Chaz!
+NORM: (looking at chloe) THAT thing has a name?
+CHAZ: Minus twenty aura. That's not very BRT1 of you.
+NORM: (Sigh) Whatever.
+CHAZ: Actually, it's not 'whatever' (mockingly). I'm a BRTT.
+CHAZ: I watch Youtube Shorts, *never* TikTok, & I like BR1.
+CHLOE: (scream) WAIT!
+(tada)
+CHLOE: (stand front of chaz)
+CHLOE: You're... a sigma?
+NORM: (interrupting) Alright, alright. That's enough rizz, you BRTT 's.
+CHAZ: Minus two-hundred aura.
+Meanwhile NORM: (heartbroken gasp)
+(church bell)
+CHLOE: You better get used to Chaz being here, since you'll be acquaintances for a while.
+NORM: What? Why?
+CHAZ: The government sent me to make sure you watch soursugar.
+NORM: (panicked) OH NO! I CAN'T LET A BETA LIVE IN MY HOUSE! Chloe, tell Chaz bye.
+CHAZ: It's obvious you need more STREAMER1 in your life, bro...
+CHLOE: Cmon Chaz, come in. Have a seat on the couch!
+CHAZ: Sure. (walk to couch & sit down)
+Meanwhile NORM: (walk to kitchen)
+CHLOE: You wanna watch a new STREAMER1 stream? I think a new one's live.
+CHAZ: I'm down... did you hear about the BR2 allegations?
+Meanwhile CHLOE: (search for the stream on tv)
+CHLOE: Yeahh... BR2 kinda fell off after STREAMER2 's "exposed" video about em'. I don't care. Mid anyways.
+Meanwhile NORM: (get a bud from the cabinet)
+NORM: Hey pronoun! This bud's for you!
+Meanwhile CHAZ: (look at norm) What?!
+NORM: (mime tossing it)
+Meanwhile CHAZ: (dont catch)
+(crashing debris)
+CHAZ: WAIT!!! I can't! I'm gonna ruin my mew streak!
+CHLOE: Chaz, you FAKER! (get up, mad)
+CHLOE: You just spoke so you ruined your mew streak already, plus you arent subscribed to soursugar!
+(waterphone)
+CHAZ: Wait! I can explain Chloe!
+CHLOE: I'm going to my room! (exit to side door)
+(door creak)
+NORM: (walk to Chloe's old seat, skip when sat down/)
+CHAZ: So just like that, huh...? (heartbroken)
+CHAZ: Me and Chloe are done?
+NORM: So real.
+(fortnite)
+
+======
+
+INFORMATION ===============================
+ID: 1163
+TITLE: Doctor's Visit
+AUTHOR: cirnobaka9
+VERIFIED: False
+TAGS: 
+SET: Doctor's Office
+DATE: 02/11/24
+CHARACTERS ================================
+DOC: The doctor:Desk
+PAT: The patient:Entrance Stage Right
+SUGGESTIONS =============================
+PART: Body part:Nose, foot, head, ear, eye
+NAME: Doctor's last name:Doctorson, Frankenstein
+DURATION: A period of time:Two days, one week, ten years
+FOOD: Food:Pizza, sushi, burger, doritos, bananas
+ORGAN: Internal organ:Heart, liver, brain
+NETWORK: Social network name:Tiktok, Twitter, Facebook
+PROF: A doctor's specialization:Dentist, physchiatrist, surgeon
+SUBSTANCE: Something you can rub onto skin:Snake oil, ointment, grease
+ACTIVITY: An activity or hobby:Swimming, running, watching TV
+CHEMICAL: A substance or chemical:Potassium, salt, penicilin, uranium
+SYNDROME: A name of a rare condition or syndrome:Black Plague, Alopecia, Furry Syndrome
+MEMBER: A family member:Wife, mother, sister, son
+SCRIPT ==========================================
+heavy door knocking
+DOC: Come in!
+door creak
+Jazz music 2
+PAT: (Enters the office and walks to the stool) Hello, doctor NAME.
+DOC: Hello. Please take a seat and tell me what brings you here.
+Meanwhile PAT: (Sits down on the stool)
+PAT: Uhm... doctor, I've recently started to feel burning pain in my PART.
+DOC: In your PART? That's curious. How long has that been going on?
+PAT: It's been almost DURATION now.
+DOC: I see. Has anything unusual happened to your PART during that time?
+PAT: Well, not really. In fact I barely even touched my PART during that DURATION.
+DOC: What about food? Have you changed your diet recently?
+PAT: Yes, actually, I've embraced a new lifestyle. Me and my MEMBER, we're only eating FOOD now.
+DOC: Really? Just FOOD?
+PAT: Yes. I've read on NETWORK that eating only FOOD is really good for your ORGAN.
+DOC: Well, apparently it wasn't good for your PART. And what about your MEMBER? Do they have problems with their PART too?
+PAT: No, it's just me.
+DOC: Alright, let's take a look at it. Please, sit over there. (Points at the examination table)
+PAT: Uhm... Doctor NAME... I'm not very comfortable with showing people my PART.
+DOC: Don't worry, I'm a professional. I've seen so much PART that it's just work for me at this point.
+PAT: Okay... (Sits on the examination table, shows PART)
+DOC: Oh my, I've never seen a PART this swollen in my entire career as a PROF. You have a rare case of SYNDROME.
+PAT: Really? Oh god, doctor NAME, what should I do?
+DOC: Well, I'm not gonna lie, that's not gonna be a quick and painless recovery, but if you rub SUBSTANCE into your PART twice a day you will get better.
+PAT: SUBSTANCE? How am I supposed to go to work with SUBSTANCE on my PART?
+DOC: I'm sure you'll think of something. Unfortunately for you it's either this or no PART at all.
+PAT: I understand, doctor NAME... I'll do whatever it takes to save my PART. I might even have to take a break from ACTIVITY for a while.
+DOC: Yes, I would also advise you to stop eating FOOD and see if it helps.
+PAT: Hmm, can I at least rub FOOD into my PART? Do you think it will help?
+DOC: Oh, I doubt that. Just stick to SUBSTANCE for now. It contains lots of CHEMICAL which your PART desperately needs right now.
+PAT: I heard that FOOD is also a good source of CHEMICAL.
+DOC: I think you should also stop reading NETWORK for now. There's a lot of misinformation there.
+PAT: (Sighs) Okay, if you say so... You are the best PROF I know, so I trust your judgement.
+DOC: Good. You can put your PART away now. (Turns back to the desk) Here is a SUBSTANCE receipt for you, and that's gonna be it for today.
+PAT: You're a lifesaver! (Takes the receipt and walks towards the door)
+PAT: I guess, I'll go home and tell my MEMBER that I have SYNDROME now and that ACTIVITY will have to wait...
+PAT: And no more FOOD in the house...
+DOC: Yes. Come back for a check up in one week and we'll take another look at your PART. Take care!
+PAT: Thanks, doctor NAME! (Exits the office)
+DOC: (Sits down at the desk) Ah, another great day as a PROF!
+DOC: (Turns to the computer) Well, I still have 10 minutes until the next patient... Time to browse SYNDROME PART pics on NETWORK!
 
 ======
 
