@@ -1149,7 +1149,6 @@ Sho'sCoffin
 FabledFoxVA
 WickerBeast-
 Suavecitо
-Xotic_Sniper
 mwahkaitlyn
 Azzmurr
 NolanTheNanachi
@@ -1974,6 +1973,7 @@ SleepyBone
 Moonsuu
 ༒Łu̷n̷a̷r̷༒
 Ｍｉｌｌｋｙ
+Xotic_Sniper
 modNick
 ruralists
 #TIER=1
