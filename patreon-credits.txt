@@ -1970,6 +1970,7 @@ EobardThawne
 Packbxtch
 ƑƛƬӇЄƦ
 ヮRedヮ
+SleepyBone
 modNick
 ruralists
 #TIER=1
@@ -2594,6 +2595,7 @@ TBonenom
 ʀᴀᴠᴇɴᴏɪʀ
 Lexter21
 Jess_luvs_U
+Inuzu
 #TIER=2
 saika mujuuk
 Psych_Foxtrot
