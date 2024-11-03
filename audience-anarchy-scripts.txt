@@ -36245,6 +36245,94 @@ GAYER: (Collapse)
 ======
 
 INFORMATION ===============================
+ID: 1147
+TITLE: Bad Guy Break-In
+AUTHOR: Null_And_Void
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 27/10/24
+CHARACTERS ================================
+VILLAIN: Casual Villain:Couch
+SIDEKICK: Villain's Sidekick:Side Door
+HERO: Obnoxious Hero:Backstage
+SUGGESTIONS =============================
+SHOW: Name of a Show:Guess That Thing, The Office, Steamboat Willie
+BADNAME: Name for a Villain:Vivisectus, Primeus, Does Bad Things Guy
+TORTURE: A Torture Device:scalper, pot of boiling lava, giant whack-a-mole game
+FOOD: A food that. can be delivered:pizza, fast food, Chinese food
+GOODNAME: Name for a Hero:Astra, Gideon, Archibald
+VILLAGE: Name for a Village or Town:Sun Town, Zeeble Land, Sandover Village
+WEAPON: A weapon of mass destruction:Godslayer, Dead Man's Mace, Epic Wand of Power
+MCGUFFIN: An item of great importance:Golden Coin, Wand of Truth, precious thing
+SCRIPT ==========================================
+Silly music 1
+VILLAIN: Ah, y'know, being a villain is fun and all, but even I know breaks are important.
+VILLAIN: And what better way to have one then watching my favorite TV Show, SHOW!
+SIDEKICK: (Enter through Stage Left) Uh, pardon me, Sir BADNAME, I know you're supposed to be on break, but I have a very important question.
+VILLAIN: Make it quick, loyak sidekick of mine, SHOW just went on commercial, and I don't wanna miss this episode!
+SIDEKICK: It's about your blueprint for the TORTURE. (Hold blueprint up to VILLAIN) Are you sure this is even possible to make?
+Meanwhile VILLAIN: (Examine the TORTURE blueprint)
+VILLAIN: Ah, you're overthinking it, trust me, with a bit of luck, we'll have this made in no time flat!
+SIDEKICK: Hmm...if you say so.
+Meanwhile HERO: (Approach the door on Stage Right, but don't enter yet)
+Music Stops
+Knocking on door
+SIDEKICK: Hm? Who could that be?
+VILLAIN: Oh, that must be the FOOD I ordered!
+SIDEKICK: You ordered FOOD and had it delivered to our base?
+Heavy door knocking
+SIDEKICK: Plus, that seems rather harsh knocking for a delivery driver-
+Badass music 1
+Break down door
+HERO: (Enter through Stage Right) Ahah! I've got you now Sir BADNAME!
+VILLAIN: GOODNAME?!
+Meanwhile SIDEKICK: GOODNAME?
+VILLAIN: What are you doing here?
+HERO: Why do you think? I, as the hero of VILLAGE, I can't just sit lying by and let you succeed!
+VILLAIN: So you break in my house?!
+VILLAIN: (Whisper to SIDEKICK) Go get the WEAPON.
+SIDEKICK: On it. (Exit through Stage Left)
+Silly music 2
+HERO: Your house? Wait, so you mean to tell me that this is your base of operation?!
+VILLAIN: Yes! And you are intruding! So if you be as so kind as to leave, that'd be appreciated!
+HERO: And let you steal the MCGUFFIN? Of course not!
+VILLAIN: That's what this is about?!
+HERO: Of course it is! Wait a minute...
+HERO: Are you watching SHOW right now?
+VILLAIN: Yes, I am. I"m on break y'know! Another reason you should leave!
+HERO: Wait, you're on break?
+VILLAIN: Yes! I'm evil, not an idiot!
+HERO: So, does that imply that your entirely defenseless?
+Music stops
+Record scratch
+VILLAIN: What kind of question-wait...where are you getting at?
+HERO: Well, y'know, in that case, what's stopping me from...taking you down right here, and now?
+Scary music
+VILLAIN: (Slowly backing away) What? No...no...you wouldn't dare!
+HERO: Hmm, yes! That's an amazing idea! The people VILLAGE will simply love me!
+VILLAIN: No, stay back! I'm warning you!
+HERO: Sorry, BADNAME, you're not getting the MCGUFFIN, not when I'm through with you! You're dead meat.
+Meanwhile SIDEKICK: (Sneak up behind GOODNAME)
+Music stops
+SIDEKICK: Actually, I think you're the on who's dead meat.
+HERO: Wait, what?!
+Super epic charge up
+Epic cinematic music
+HERO: (Fall to the ground, slowly and painfully dying) Ack! What the?! What is this...POWER?!
+SIDEKICK: Only that of the WEAPON, GOODNAME.
+HERO: (Coughing) The WEAPON?! I thought that was a myth! Curse you, BADNAME! I'll be back, heros never die! (Dies)
+Happy music 1
+VILLAIN: Phew, nice work with the WEAPON, I didn't know you could work it that well!
+SIDEKICK: Of course, I'm not just gonna let my boss die! Anyways, with GOODNAME out of the way, what now?
+VILLAIN: Well, I'm still on break so, if you excuse me, I'm gonna continue watching-
+Music stops
+Record scratch
+VILLAIN: Oh, come on! GOODNAME made me miss my favorite episode of SHOW!
+
+======
+
+INFORMATION ===============================
 ID: 1151
 TITLE: Wise King
 AUTHOR: SmithDaStick
