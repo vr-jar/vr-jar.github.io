@@ -1,7 +1,7 @@
 INFORMATION ===============================
 ID: 29
 TITLE: House Party
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -125,7 +125,7 @@ Meanwhile CAT: (Hiss and run away, exit stage left) Hiss! Meow!
 INFORMATION ===============================
 ID: 30
 TITLE: American Values
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -225,7 +225,7 @@ MODERATOR: With those remarks, our debate concludes. Remember to cast your votes
 INFORMATION ===============================
 ID: 31
 TITLE: Justice Delivery
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -315,7 +315,7 @@ Meanwhile PIZZA GUY: (Leave with DETECTIVE)
 INFORMATION ===============================
 ID: 32
 TITLE: Cold Case
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -391,7 +391,7 @@ Meanwhile LADY: (Leave with the detective)
 INFORMATION ===============================
 ID: 33
 TITLE: An Accusation
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
@@ -479,7 +479,7 @@ Meanwhile PLAINTIFF: Noooooo!!!!!!
 INFORMATION ===============================
 ID: 34
 TITLE: A New Nation
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -587,7 +587,7 @@ World news outro
 INFORMATION ===============================
 ID: 35
 TITLE: Educational Emergency
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -681,7 +681,7 @@ Applause, Western Jingle 1
 INFORMATION ===============================
 ID: 36
 TITLE: Better Call Bob
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -814,7 +814,7 @@ PAPARAZZI 2: (Holding a photo) Can you please sign this picture from DEVIANTART 
 INFORMATION ===============================
 ID: 37
 TITLE: Troll Bridge
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
@@ -966,7 +966,7 @@ TROLL: (Mumbling to self) Troll need love potion for... certain activity.
 INFORMATION ===============================
 ID: 38
 TITLE: Telenovela
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1078,7 +1078,7 @@ FERNANDO: Ah, Dios mío. I deserved that.
 INFORMATION ===============================
 ID: 39
 TITLE: The Package
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1168,7 +1168,7 @@ BOBBY: Aww!
 INFORMATION ===============================
 ID: 40
 TITLE: Yer a Wizard
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1281,7 +1281,7 @@ HARRY: Okay... (Wiping away a tear) Let's go. (Leave with HAGRID out the door)
 INFORMATION ===============================
 ID: 41
 TITLE: Give Thanks
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -1386,7 +1386,7 @@ SON: (To FATHER) Dad, what's a HONKERS?
 INFORMATION ===============================
 ID: 42
 TITLE: Welcome to Wizard Town
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -1490,7 +1490,7 @@ Meanwhile SORCERER: (Laughing and high-fiving WIZARD)
 INFORMATION ===============================
 ID: 43
 TITLE: Check this Out
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1623,7 +1623,7 @@ Thunder
 INFORMATION ===============================
 ID: 44
 TITLE: Spy Gear
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -1700,7 +1700,7 @@ Spy ending sting
 INFORMATION ===============================
 ID: 45
 TITLE: Ultimate Weapon
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -1802,7 +1802,7 @@ Gong
 INFORMATION ===============================
 ID: 46
 TITLE: Spicy Gameshow
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
@@ -1897,7 +1897,7 @@ Gameshow Outro
 INFORMATION ===============================
 ID: 47
 TITLE: Wrong Gameshow
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2026,7 +2026,7 @@ Gameshow outro
 INFORMATION ===============================
 ID: 48
 TITLE: Australiens
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
@@ -2147,7 +2147,7 @@ BOB: (Look around, drink beer)
 INFORMATION ===============================
 ID: 49
 TITLE: Positive Results
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -2233,7 +2233,7 @@ DOCTOR: Tell him to come in for a treatment. I know a guy with these pills... we
 INFORMATION ===============================
 ID: 50
 TITLE: Noise Complaint
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
@@ -2349,7 +2349,7 @@ Meanwhile HUSBAND: (Exit stage left with WIFE)
 INFORMATION ===============================
 ID: 51
 TITLE: Duel
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -2459,7 +2459,7 @@ Meanwhile MANAGER: Why you little... (Chase BOBBY out of the store)
 INFORMATION ===============================
 ID: 52
 TITLE: Camping
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -2559,7 +2559,7 @@ JENNY: Aw... thanks big bro!
 INFORMATION ===============================
 ID: 53
 TITLE: Questionable Gameshow
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2664,7 +2664,7 @@ HOST: Don't go anywhere folks, we've got more ethical questions after these mess
 INFORMATION ===============================
 ID: 54
 TITLE: Food Gameshow
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2782,7 +2782,7 @@ HOST: (To audience) that's all for tonight folks! See you next time on... "Eat T
 INFORMATION ===============================
 ID: 55
 TITLE: Noisy Gameshow
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2855,7 +2855,7 @@ HOST: (To audience) See you next time on... "Impersonate that Animal!"
 INFORMATION ===============================
 ID: 56
 TITLE: Pokémon Gameshow
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
@@ -2957,7 +2957,7 @@ HUMAN: Uh, can anyone give me a ride home?
 INFORMATION ===============================
 ID: 57
 TITLE: Lucky Gameshow
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -3054,7 +3054,7 @@ HOST: See you next time folks, on... GUESS THAT THING! Goodnight!
 INFORMATION ===============================
 ID: 58
 TITLE: Gamer Gameshow
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
@@ -3138,7 +3138,7 @@ HOST: See you next time folks, on... GUESS THAT THING! Goodnight!
 INFORMATION ===============================
 ID: 59
 TITLE: Trivia Gameshow
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -3231,7 +3231,7 @@ HOST: See you next time folks, on... GUESS THAT THING! Goodnight!
 INFORMATION ===============================
 ID: 60
 TITLE: Tool Infomercial
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
@@ -3310,7 +3310,7 @@ BILLY MAYS: Supplies are limited, so you gotta call now!
 INFORMATION ===============================
 ID: 61
 TITLE: Magic Infomercial
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -3401,7 +3401,7 @@ BILLY MAYS: But you gotta call now.
 INFORMATION ===============================
 ID: 62
 TITLE: Clean Infomercial
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
@@ -3481,7 +3481,7 @@ BILLY MAYS: Don't just sit there, pick up that phone and get yourself some sweet
 INFORMATION ===============================
 ID: 63
 TITLE: Ultimate Infomercial
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -3576,7 +3576,7 @@ BILLY MAYS: What are you waiting for? Pick up the phone and place your order now
 INFORMATION ===============================
 ID: 64
 TITLE: Toast Infomercial
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -3668,7 +3668,7 @@ BILLY MAYS: Just call the number on your screen today.
 INFORMATION ===============================
 ID: 65
 TITLE: Leak Infomercial
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
@@ -3737,7 +3737,7 @@ BILLY MAYS: Dial the number on your screen and get your ADJECTIVE hands on Magic
 INFORMATION ===============================
 ID: 66
 TITLE: Helpful Infomercial
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Bathroom
@@ -3777,7 +3777,7 @@ BILLY MAYS: MORBs and conditions apply.
 INFORMATION ===============================
 ID: 67
 TITLE: Dog Infomercial
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial
 SET: Living Room
@@ -3864,7 +3864,7 @@ TIMMY: Yay!
 INFORMATION ===============================
 ID: 68
 TITLE: Shiny Infomercial
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Living Room
@@ -3946,7 +3946,7 @@ BILLY MAYS: This is officially a ransom threat. Scooby from Scooby-Doo WILL enc
 INFORMATION ===============================
 ID: 69
 TITLE: We demand it
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -4019,7 +4019,7 @@ Applause
 INFORMATION ===============================
 ID: 70
 TITLE: Diagnosis
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -4111,7 +4111,7 @@ HELPER: Me say. DOLLARAMOUNT dollars.
 INFORMATION ===============================
 ID: 71
 TITLE: Amazon
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -4213,7 +4213,7 @@ Western Jingle 1
 INFORMATION ===============================
 ID: 72
 TITLE: Secret Message
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4316,7 +4316,7 @@ TYPEWRITER: Operation ORDERABLE ITEM;STATUS: SUCCESS
 INFORMATION ===============================
 ID: 73
 TITLE: It's Me
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit,Contains Adult Innuendo
 SET: Living Room
@@ -4411,7 +4411,7 @@ SUPERROBOT: Oh. Yes it is. (Dies)
 INFORMATION ===============================
 ID: 74
 TITLE: Playroom
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit,Contains Adult Innuendo
 SET: Interrogation Room
@@ -4503,7 +4503,7 @@ BECKY: Ugh! you're such a WIMPY-NAME, John.
 INFORMATION ===============================
 ID: 75
 TITLE: Improvement
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Hardware Store
@@ -4580,7 +4580,7 @@ CHAOS LORD: Mwahahaha! (Noticing a sale on toilets) ooo... 50% off all toilets? 
 INFORMATION ===============================
 ID: 76
 TITLE: Your finest wares
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Hardware Store
@@ -4665,7 +4665,7 @@ CLERK: I'm fired? (Sad) Aw man.
 INFORMATION ===============================
 ID: 77
 TITLE: Request
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Interrogation Room
@@ -4750,7 +4750,7 @@ COP: That's the taste of justice, my friend.
 INFORMATION ===============================
 ID: 78
 TITLE: Intervention
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4828,7 +4828,7 @@ PERSON: (Shrugging) oopsies!
 INFORMATION ===============================
 ID: 79
 TITLE: Ghost
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4919,7 +4919,7 @@ WIFE: (Taken aback) Sorry, sorry! I can't help it... it's just so... you know...
 INFORMATION ===============================
 ID: 80
 TITLE: Clown
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4998,7 +4998,7 @@ CLOWN: And spoil the punch line? No way.
 INFORMATION ===============================
 ID: 81
 TITLE: Bone Dry
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Conference Room
@@ -5072,7 +5072,7 @@ BOSS: See ya Friday! (Exit)
 INFORMATION ===============================
 ID: 82
 TITLE: Just Toast
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -5147,7 +5147,7 @@ FIRST RESPONDER: Hello, headquarters? We got a problem...
 INFORMATION ===============================
 ID: 83
 TITLE: Bardic Inspiration
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Forest
@@ -5233,7 +5233,7 @@ HAPPY BARD: Thank you, thank you, you're too kind.
 INFORMATION ===============================
 ID: 84
 TITLE: Buy, Buy, Buy
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Conference Room
@@ -5297,7 +5297,7 @@ Meanwhile BOSS: Don't let the door hit you on the way out.
 INFORMATION ===============================
 ID: 85
 TITLE: What's Cookin'?
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -5357,7 +5357,7 @@ SALESPERSON: Call now while supplies last!
 INFORMATION ===============================
 ID: 86
 TITLE: Scam
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -5432,7 +5432,7 @@ BOB: (Walk slowly off stage, crying)
 INFORMATION ===============================
 ID: 87
 TITLE: Robot Informercial
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -5490,7 +5490,7 @@ Infomercial disclaimer
 INFORMATION ===============================
 ID: 88
 TITLE: Wizard Encounter
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Forest
@@ -5587,7 +5587,7 @@ KNIGHT: This is LIQUID!
 INFORMATION ===============================
 ID: 89
 TITLE: Fantasy Insurance
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Forest
@@ -7045,7 +7045,7 @@ DUNGEON MASTER: (Off stage) Get out of my house or I'm calling the cops!
 INFORMATION ===============================
 ID: 121
 TITLE: DEBUG SCRIPT
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Debug,Skit
 SET: Western
@@ -8456,7 +8456,7 @@ SUPER HERO: (Opens Door) I can't believe that VILLAIN left the door unlocked for
 INFORMATION ===============================
 ID: 181
 TITLE: Detention
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -8544,7 +8544,7 @@ CHRIS: FOOTBALL, here I come! Yeet! (Exit)
 INFORMATION ===============================
 ID: 183
 TITLE: Deep Cover Dinner
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -16216,7 +16216,7 @@ Ivan: Ugh..I hate my life.
 INFORMATION ===============================
 ID: 524
 TITLE: We Do Things Old School
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -16294,7 +16294,7 @@ SAMMY: Awww man.
 INFORMATION ===============================
 ID: 526
 TITLE: The Tomato Timeline
-AUTHOR: Jar2
+AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
