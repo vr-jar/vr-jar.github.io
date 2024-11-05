@@ -1978,6 +1978,7 @@ DarkestMinion09
 -Ryujin-
 `~Umbra~
 Cerdivae
+'Kako'
 modNick
 ruralists
 #TIER=1
