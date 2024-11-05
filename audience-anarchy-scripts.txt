@@ -35535,8 +35535,8 @@ CAN R: YIPPEE!!!
 INFORMATION ===============================
 ID: 1117
 TITLE: The boy who rizzed (brain rot warning)
-AUTHOR: apsi8609
-VERIFIED: False
+AUTHOR: APSI-wizard
+VERIFIED: True
 TAGS: Skit
 SET: Murder
 DATE: 08/10/24
@@ -36706,6 +36706,335 @@ DOC: Yes. Come back for a check up in one week and we'll take another look at yo
 PAT: Thanks, doctor NAME! (Exits the office)
 DOC: (Sits down at the desk) Ah, another great day as a PROF!
 DOC: (Turns to the computer) Well, I still have 10 minutes until the next patient... Time to browse SYNDROME PART pics on NETWORK!
+
+======
+
+INFORMATION ===============================
+ID: 1170
+TITLE: Alpha Boss
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 04/11/24
+CHARACTERS ================================
+STEVE: Steve, the Masculine Boss:Boss Chair
+DAVE: Dave, Co-Worker #1:Office Chair 1
+SARAH: Sarah, Co-Worker #2:Office Chair 2
+SUGGESTIONS =============================
+AVERB: A verb:smash, drop, touch
+QOBJECT: A quirky object:wooden alligator, wool, mastodon tusk
+NPERSON: A noun describing personality:bigshot, aggressor, eccentric
+TFOOD: A trendy food item:Turducken, Haggis, Spotted Dick
+INOUN: An intense noun:fire, thunder, storm
+TPLACE: A place associated with toughness: weight room, arena, dojo
+PTYPE: A personality type:turbo guru, zen gladiator, brohemian prince
+LITEM: A luxury accessory:diamond pocket watch, velvet ascot, golden fanny pack
+RNUMBER: A random number:192, 2930, 23498
+MDRINK: An unnecessarily macho drink:spicy bone broth, kale espresso shot, jerky whiskey
+VEGET: A vegetable:kale, carrots, lettuce
+BODYPART: A body part:nose, eyes, mouth
+SCRIPT ==========================================
+Double bass music
+STEVE: Alright, team! Let’s get to work! I wanna see results today. Power, passion, performance!
+STEVE: And if you can’t handle that, maybe you're in the wrong place. I’m not here to AVERB your QOBJECT.
+SARAH: Wow. Rude. (turns to Dave) Is it just me, or does he sound like a NPERSON motivational fridge magnet?
+DAVE: Yeah, if that magnet spent three hours at the gym and then shouted at people in a TFOOD aisle.
+SARAH: I don't think that's a real aisle, though.
+DAVE: But he's the type that probably shops at stores with a TFOOD aisle.
+STEVE: You know what they say. If you can't handle the INOUN, then get out of my TPLACE!
+SARAH: Okay. But who says that?
+STEVE: (flustered) People. You wouldn't get it.
+DAVE: Oh, we get it. Like imaginary people.
+SARAH: You're all about being -- what’s the word -- a PTYPE.
+STEVE: Not sure if that's a compliment or an insult, sure. But since I'm paying you, I'll go with the former.
+DAVE: Yeah, Steve, you’re like, the manliest man. Just oozing pure confidence.
+DAVE: I mean, I bet you’re the kind of guy who'd wear a custom LITEM in some obscure color just to make a point.
+STEVE: Hey, obscure is fashionable! And what if I did? You know, sometimes a man just wants to add a bit of flair. The womens love that.
+SARAH: Oh, for sure. "The womens." They totally do.
+STEVE: They like classy and sassy, you know? Sometimes you just want a LITEM that says, "I’m fierce, but approachable." Is that so wrong?
+DAVE: Not at all, Steve. In fact, you should totally embrace that vibe. Walk around like you own the place.
+STEVE: Oh, you think I won’t? Honey, please. I invented the power walk. (walks around stage)
+SARAH: That's definitely a real "alpha" move.
+STEVE: I am beginning to think you're being sarcastic.
+DAVE: I don't think Sarah is being sarcastic at all.
+STEVE: Really? Oh my god, stop! You’re all being so sweet. I'm just a man who knows what a woman wants, alright?
+SARAH: But if you really want to know what a woman wants, you can ask me. I am one!
+STEVE: Neat. (pauses) You know, a guy like me doesn’t get to where he is by accident. It takes a certain intensity. Ladies respect that.
+STEVE: Want to know the secret?
+DAVE: No, actually.
+SARAH: Oh, please, do enlighten us. I love meaningless conversation on company time.
+STEVE: You see, women love a man who’s got his act together. So every morning, I get up at 4:00 a.m., AVERB for a solid two hours.
+STEVE: Then I take a cold shower, wolf down RNUMBER raw eggs, and finish it off with a shot of MDRINK.
+DAVE: That doesn't sound so pleasant to taste. But I take it they’re impressed by your morning beverage choices?
+STEVE: It's not just that, man. It’s the whole package. I want them to see me in my LITEM, feel my manly scent lingering in the air.
+STEVE: Women crave that alpha energy, you know?
+SARAH: Right. So you strut in, smelling like a lumberyard that's on fire? And that's what women want?
+STEVE: Exactly. It’s primal. Makes them feel safe. Women respect a man who can handle danger.
+STEVE: Just last weekend, I spent RNUMBER minutes ordering one bunch of VEGET on eBay. No bag.
+DAVE: Wow. You went on eBay to order kale without a bag. I mean, how did the women there even handle it?
+STEVE: Oh, they noticed. Then they walk away and laugh because they're so impressed.
+SARAH: Riveting. So I feel like maybe, just maybe they're not impressed.
+DAVE: So women aren't impressed by raw eggs, cold showers and VEGET purchased in an online auction?
+SARAH: I can practically guarantee they're not.
+STEVE: Says who?
+SARAH: Says pretty much any woman who doesn't reside in Portland.
+STEVE: Even though I also wash my hands with artisanal, VEGET-infused soap?
+SARAH: Didn't even know something like that existed. Wish I didn't know, but now I do. But no.
+DAVE: I don’t think the women are impressed so much as mildly terrified.
+STEVE: That's your opinion! I just thought I’d share some tips I got from this incredible podcast by Joe Rogan.
+DAVE: Wait a second. You said Joe Rogan, like THE Joe Rogan? He's amazing.
+DAVE: I loved his episode where he talks about expanding consciousness through intermittent farts.
+SARAH: And unlocking your inner apex predator by ingesting bleach through your BODYPART. I love that guy!
+STEVE: You two are getting a promotion!
+
+======
+
+INFORMATION ===============================
+ID: 1171
+TITLE: Shopping List Chaos
+AUTHOR: bluecat_friend
+VERIFIED: False
+TAGS: Skit
+SET: Living Room
+DATE: 04/11/24
+CHARACTERS ================================
+ALEX: Alex:Stage Right
+JAMIE: Jamie:Stage Left
+SUGGESTIONS =============================
+FOOD1: A type of fruit:Figs, Grapefruit, Kiwi, Orange, Pear, Peach, Plum, Soursop
+ADJECTIVE1: An adjective for a person:Ambitious, Carefree, Humble, Mysterious, Playful, Resilient, Skeptical, Tenacious
+ADJECTIVE2: An adjective for snacks:Crunchy, Savory, Sweet, Zesty, Chewy, Spicy, Creamy, Crispy
+FOOD2: A type of snack:Popcorn, Pretzels, Trail Mix, Granola Bars, Potato Chips, Cheese Sticks, Fruit Slices, Rice Crackers
+ADJECTIVE3: An adjective for a snack:Salty, Buttery, Tangy, Fluffy, Nutty, Fruity, Sticky, Smoky
+PLURALNOUN: A plural noun:Mountains, Candles, Oceans, Dreams, Keys, Villages, Clouds, Lanterns
+FOOD3: A type of food:Sushi, Tacos, Lasagna, Curry, Dumplings, Pancakes, Salad, Paella
+SCRIPT ==========================================
+ALEX: (sitting on couch) Alright, Jamie, let’s keep it simple. We just need a few basics: milk, bread, maybe some FOOD1.
+JAMIE: (leaning in, eyes wide) Ohh, FOOD1! The forbidden fruit.
+ALEX: (sighs) Not this again.
+(noir music 1)
+JAMIE: (to the audience) And so, the great debate began. Alex, the ADJECTIVE1 skeptic, versus me, the connoisseur of ADJECTIVE2 snacks.
+(Music stops)
+ALEX: Jamie, are you narrating again?
+JAMIE: (covering) No, no, just… inner monologue! Very normal.
+ALEX: (smirking) Well, maybe that “inner monologue” could help me figure out what else we need?
+JAMIE: We need…FOOD2. A mountain of them.
+ALEX: FOOD2 are not on the list.
+(Noir music 1)
+JAMIE: (to audience, dramatically) Once again, Alex fails to see the value in life’s true necessities.
+(Music stops)
+JAMIE: (whispering to Alex) Imagine it. FOOD2—small yet powerful. Crunchy yet ADJECTIVE3. The perfect paradox.
+ALEX: It’s literally just junk.
+(Noir music 1)
+JAMIE: (looks at audience) And yet, I ask you: Who here hasn’t been changed by FOOD2?
+ALEX: (rolls eyes) Are you narrating to them again?
+JAMIE: (gesturing to audience) The people get me.
+(Music stops)
+ALEX: Fine. FOOD2. But we’re getting something healthy too, like apples.
+JAMIE: Apples?! What are we, ADJECTIVE4?
+ALEX: It’s yummy, Jamie.
+(Noir music 1)
+JAMIE: (to audience, leaning in) That’s what they all think…
+ALEX: (playing along) Right! Because this is actually...
+JAMIE: A top-secret meeting room where the fate of PLURALNOUN is decided!
+(Music stops)
+ALEX: Okay, we’ve got FOOD1, FOOD2, milk, and bread. Happy?
+JAMIE: (nodding dramatically) But there’s one last thing.
+ALEX: Really? What now?
+JAMIE: (whispers) …FOOD3.
+ALEX: FOOD3? Since when do you even like those?
+(Noir music 1)
+JAMIE: (to audience) FOOD3 are misunderstood. Just like me.
+ALEX: Jamie, you are nothing like FOOD3.
+JAMIE: I’ll have you know I’m just as complex. (to audience) Isn’t that right, guys?
+(Music stops)
+ALEX: (sighing) You need some help.
+
+======
+
+INFORMATION ===============================
+ID: 1172
+TITLE: Lunchly
+AUTHOR: SmithDaStick
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 05/11/24
+CHARACTERS ================================
+KID: Kid:Couch
+BEAST: Mr. Beast:Narrator Podium
+MOM: Mom:Backstage
+SUGGESTIONS =============================
+GOD: Name of a god:God, Buddha, Bob Odenkirk, Jesus 
+EPIC: Ingredient:EPIC, Love, money making sodium
+FOOD: Snack:Fiesta Nachos, The Pizza, Turkey Stack 'Ems
+FRUIT: Fruit Flavor:Strawberry Blaster, Cherry Popper, Watermelon Smasher
+FLAVOR: Type of Chocolate:Cookies & Crème, Almond, Dark chocolate, peanut butter crunch
+DEED: Good Deed:Gives to the homeless, Gives free houses to people, Helped a 1,000 people hear for the first time
+WALMART: Store:Walmart, K Mart, Target, Jojo Siwa's Emporium
+SPEED: Fast Phrase:Lickety-split, the drop of a hat, Flash or Dash
+SECRET: Secret Society:Freemasons, The Knights Templar, The Illuminati
+STREAMER: Twitch Streamer:Asmongold, Kai Cenat, Moist Cr1TiKaL
+EXCUSE: Excuse:Finish editing my script for jar, watch twitch streams, finish knitting a sweater 
+SCRIPT ==========================================
+(cellphone vibrate)
+KID: (checking phone reading out loud) A message from Timmy. Wait, really? Can it be true? Please GOD let it be true!
+KID: KSI, Logan Paul AND Mr Beast are doing a collab?
+KID: (Turn TV on and sit on couch) Woah i gotta check this out!
+(corporate motivational music)
+BEAST: Do you like your cheese drippy?
+BEAST: Are you addicted to FRUIT Prime and FLAVOR Feastables?
+BEAST: You’ll be happy to know they come bundled with our new FOOD Lunchly
+BEAST: Lunchly is our better for you product with EPIC ingredients!
+BEAST: It’s the perfect low calorie, high in sodium, and excess electrolytes meal for your lunch!
+BEAST: Get yours delivered today or nag your parents next time they’re shopping at WALMART!
+(alien teleport)
+Teleport BEAST to BACKSTAGE
+KID: Wow! Sounds like the ultimate lunch meal; I’ve got to get one of those in my belly! (shout looking stage left) Hey mom!
+MOM: (Enter to stage) Yes Honey?
+(crowd woo)
+(happy music 1)
+KID: Could we get some Lunchlys for my school lunch?
+MOM: No sweetie, I rather make your lunch than get you one of those unhealthy lunchables
+(aww)
+KID: No, it's Lunchly!
+MOM: What’s the difference?
+(laughter)
+KID: It’s a super healthy premade lunch by KSI, Logan Paul, and Mr. Beast!
+MOM: Mr. Beast? That fella who paid for 1,000 people's eye surgeries?
+KID: Yeah the one who DEED and wants to save the ocean!
+MOM: Sure he seems like a great guy. Take my credit card honey, get whatever healthy lunch you like
+(aww)
+KID: Thanks, I'm going to order them with the WALMART plus app! (pull out phone and mess with it)
+MOM: Sure thing sweetie, I’m headed back to my room to EXCUSE. (exit stage left)
+KID: Okay mom, good luck! (Put phone away) should be here faster than SPEED.
+(doorbell)
+KID: (run to door and pick up a big box) sweet my 20 FOOD Lunchlys are here!
+KID: Better put some in the fridge and try one now!
+(badass music 1)
+KID: (start tearing into it and eating it) This cheese is so drippy! Tastes just like a Lunchable but it’s got healthier ingredients! (finish eating)
+KID: Let me wash it down with the FRUIT Prime. (Drink)
+KID: That was good but I'm still hungry, let me eat another.
+KID: (Eating another) Time to, “Feast like a Beast” on this FLAVOR Feastables bar! (eat then drink)
+(waterphone)
+KID: (bloated) I don’t feel so good, better take a nap on the couch (stumble then fall on the floor)
+(scary music)
+MOM: (off stage) Honey you will never believe this, apparently Mr. Beast didn’t pay for the eye surgeries in Mexico. (enter stage left, ignore your son)
+MOM: What is that smell? (notice your son)
+MOM: Oh my GOD! My sweet child!
+MOM: He’s got this drippy cheese all over his clothes, is that? That’s mold!
+MOM: (pull out your phone) I’m going to make a TikTok so that everyone can see there’s mold all over this, after I call the cops.
+TYPEWRITER: ;She calls 911 and makes her TikTok exposing the mold;
+Teleport BEAST to FRONT DOOR
+(extreme knocking)
+MOM: Coming! (open door)
+(lacrimosa music)
+BEAST: Hello, I have heard you have an issue with my FOOD Lunchly
+MOM: Yes! You killed my son!
+BEAST: No I didn’t.
+MOM: Yes you did and the cops and paramedics are on their way here now, you’ll see. (step out of Mr. Beast way after you jump)
+BEAST: No they aren’t, SECRET saw your TikTok and decided to send me to intervene. (enter the house)
+BEAST: We have a proposition to make to you. If you sign this NDA, and delete your TikTok I will put your son in my next video.
+BEAST: Raising 1,000 kids from the dead!
+MOM: There’s no way you can do that, plus STREAMER just exposed you for not paying for the eye surgeries in Mexico!
+BEAST: It was a simple accounting error my dear, It’s been taken care of. Just sign here and I promise, this will all be taken care of.
+MOM: Seems unfair for me to not let the parents of the world know how dangerous this moldy cheese is.
+BEAST: Tell you what, I’ll sweeten the deal, after all I own the world's finest chocolate.
+MOM: I do love chocolate.
+BEAST: All women do, sign and you’ll be able “feast like a beast” with a lifetime supply of Feastables bars.
+MOM: A lifetime supply?
+BEAST: Yes the best part is they're infinitely healthier than Hershys. (hold out contract)
+MOM: Okay I’ll sign (sign)
+BEAST: Okay boys get the kid out of here.
+(magic sound)
+Teleport KID to BACKSTAGE
+(happy music 1)
+BEAST: (head toward exit) Remember delete that TikTok and “Feast like a beast”
+MOM: I love chocolate.
+(laughter)
+
+======
+
+INFORMATION ===============================
+ID: 1173
+TITLE: IPhone Price Negotiations
+AUTHOR: Russel❤
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 05/11/24
+CHARACTERS ================================
+CLERK: Apple Store Clerk:Behind Register
+CUSTOMER: Person Buying New Iphone:Entrance Stage Right
+SUGGESTIONS =============================
+NUMBER: Number from 16 to 30:18, 30
+HIGH: a high number:2000, 3000,
+FAMILYMEMBER: a type of family member:Cousin, Son, Daughter
+LOW: a number from 50 to 100:50, 75, 100
+FAMOUSACTOR: a famous actor:Will Smith, Sean Connery
+FAMOUSMUSICIAN: a famous musician:Chris Brown, Drake
+NICKNAME: A nickname for a loved one:Pookie, Daddy, Baby, Sweetie
+COUNTRY: a country (anything but America):China, Egypt, Mexico
+FOOD: a food:Pizza, Rice, Potatos
+FUNCTION:  An Useless technology:Sneeze Detector
+SCRIPT ==========================================
+happy music 1
+CUSTOMER: (Walk into the store)
+CLERK: Welcome to the Apple store, how can I help?
+CUSTOMER: I want the new iPhone NUMBER
+CLERK: Okay i give you brand new iphone NUMBER, great condition
+CUSTOMER: Okay sounds good,tell me, what can this new Iphone do that the old one can't?
+CLERK: The brand new IPhone NUMBER has the capabilities of being able to FUNCTION
+CUSTOMER: Woah! just what i need, how much do i need to pay?
+music stops
+CLERK: HIGH dollars
+(vine boom)
+CUSTOMER: HIGH dollars?!?!
+CUSTOMER: Do you think im stupid?!
+courtroom music
+CLERK: This iphone NUMBER is made in America
+CUSTOMER: No it was made in COUNTRY, your own FAMILYMEMBER made it!
+CLERK: How the hell you know that
+CUSTOMER: Cause my own FAMILYMEMBER has worked on it too
+CLERK: Okay okay fine then, how much you want to pay then
+music stops
+CUSTOMER: LOW dollars
+(vine boom)
+CLERK: LOW dollars?!?!
+CLERK: Are you crazy?!
+CUSTOMER: No i am from COUNTRY
+CLERK: Okay okay, i give you the special discount with LOW % off
+CUSTOMER: LOW dollars
+CLERK: I will slap you like FAMOUSACTOR
+CUSTOMER: I will beat you like FAMOUSMUSICIAN
+CLERK: I will cancel you on X, formerly known as Twitter!
+CUSTOMER: I will leak your browser history!
+CLERK: Okay okay 200 dollars
+CUSTOMER: LOW dollars
+CLERK: I will get my FAMILYMEMBER to beat you up!
+CUSTOMER: My FAMILYMEMBER will beat your FAMILYMEMBER !
+CLERK: My FAMILYMEMBER works for Apple!
+CUSTOMER: Okay and Apple works for my FAMILYMEMBER
+CLERK: My FAMILY MEMBER got hired by Steve Jobs!
+CUSTOMER: Well Steve Jobs goes to my FAMILYMEMBER and says ‘’NICKNAME,(short pause) NICKNAME, this company is yours NICKNAME’’
+(record scratch)
+CLERK: What the hell
+CUSTOMER: I guess you dont want my money, i will be leaving now, Good luck selling your ‘’made in COUNTRY’’ Iphone
+CLERK: WAIT!! Give me time to think about the LOW dollars
+CUSTOMER: No you took too long, it is now NUMBER
+CLERK: NUMBER dollars??!!
+CUSTOMER: NUMBER dollars.
+CLERK: Please!!
+CLERK: I need to afford FOOD for this month for my family!
+CUSTOMER: (sigh) fine LOW plus 1 dollar
+CLERK: LOW plus 2 dollars
+CUSTOMER: Okay deal
+CLERK: (give iphone to customer)
+CUSTOMER:Thank you so much, (Exit stage right)
+CLERK: Thank you come again
+CLERK: Yessssss, i am so smart, another great bargain
+(applause)
 
 ======
 
