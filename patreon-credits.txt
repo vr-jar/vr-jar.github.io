@@ -1,7 +1,6 @@
 #TIER=0
 Crabb06
 GlitchedStorm
-IkodoMoonstrife
 YuuClark
 itsNuke
 Noovee
@@ -772,7 +771,6 @@ MysticLuna
 Meepalicous
 ༒LOYALTY༒
 OpsTheDumbass
-Chaimera
 TRUSquidKing
 kiwamiKRESSKODY
 SanityD
@@ -1739,10 +1737,8 @@ ShinobuKocho_
 UNRELENTINGWOLF
 acerrunner
 -UnleashedV-2
-Terror1618
 SammyOsamu
 HoldMeQt
-碳酸（50元全国可飞）
 Purrsom
 PHOENIX2145
 knoxnox
@@ -2306,7 +2302,6 @@ sᴍɪʟᴇʏ0ʙɪʀᴅ
 ψCryoψ
 YellowTurtle117
 Jaco_The_Mano
-u m a m i
 NathanTheRikkor
 xGENTLEMANEx
 PotatoGun
