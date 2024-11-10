@@ -22037,7 +22037,7 @@ NARRATOR: Merry Christmas to all, and to all... well, you know the rest.
 INFORMATION ===============================
 ID: 704
 TITLE: The Sponsor
-AUTHOR: Yu-me1 1ecb
+AUTHOR: 4123615101072960 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -22183,7 +22183,7 @@ DEMON: Sounds diabolical, sir. Lead the way.
 INFORMATION ===============================
 ID: 706
 TITLE: Wrong Order
-AUTHOR: Yu-me1 1ecb
+AUTHOR: 4123615101072960 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -22275,7 +22275,7 @@ Josh: I did not order this drama today either.
 INFORMATION ===============================
 ID: 709
 TITLE: Public Service announcement 
-AUTHOR: Yu-me1 1ecb
+AUTHOR: 4123615101072960 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -22341,7 +22341,7 @@ Jerry: AAAAAAAAAAAH!
 INFORMATION ===============================
 ID: 710
 TITLE: The Standoff
-AUTHOR: Yu-me1 1ecb
+AUTHOR: 4123615101072960 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -22528,7 +22528,7 @@ western jingle 1
 INFORMATION ===============================
 ID: 714
 TITLE: Don’t I know you?
-AUTHOR: Yu-me1 1ecb
+AUTHOR: 4123615101072960 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -27034,7 +27034,7 @@ BOSS: Brilliant! Great work, everyone! We should clock out now and beat the traf
 INFORMATION ===============================
 ID: 845
 TITLE: A visit to grandpas
-AUTHOR: Yu-me1 1ecb
+AUTHOR: 4123615101072960 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -29705,7 +29705,7 @@ MANAGER: (Looks at audience with a confused look) What just happened?
 INFORMATION ===============================
 ID: 933
 TITLE: The Mole
-AUTHOR: Yu-me1 1ecb
+AUTHOR: 4123615101072960 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -30351,7 +30351,7 @@ PEPE: (pulls out medieval smartphone and dials) Hey mom, can you pick me up?
 INFORMATION ===============================
 ID: 962
 TITLE: The dentist appointment 
-AUTHOR: Yu-me1 1ecb
+AUTHOR: 4123615101072960 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -32495,7 +32495,7 @@ SCRIPT ==========================================
 Jazz music 1
 FOOL: Okay is everyone ready?
 FOOL: is the cake ready, Nova?
-STAR: Yep! I've baked a YUM flavored cake for this!
+STAR: Yep! I've baked a FLAVOR flavored cake for this!
 FOOL: Great! How about you Rae?
 ADO: I set up all the decorations!
 FOOL: Good, Good, how about you Carter?
@@ -35533,79 +35533,6 @@ CAN R: YIPPEE!!!
 ======
 
 INFORMATION ===============================
-ID: 1117
-TITLE: The boy who rizzed (brain rot warning)
-AUTHOR: APSI-wizard
-VERIFIED: True
-TAGS: Skit
-SET: Murder
-DATE: 08/10/24
-CHARACTERS ================================
-HARRY: Harry pogger :Center Stage
-RON: Ron, Harry's friend:Stage Left
-SNAPE: Snape, The teacher :Backstage
-HAGRIT: The half giant:Stage Right
-SUGGESTIONS =============================
-VERB: Any verb:Mew, jump, draw
-ITEM: Any item :Wand, cup, pillow
-POWER: Literally any power:rizzing, mogging, edging
-APPEARANCE : Something you can look like:Grimace, ugly, fat
-MAGIC: any magic spell:Fire, explosion, avada cemara,
-NICKNAME: any brain rot nickname:gooner, edger, alpha
-LORD: any word that can come after Lord:skibidi, gonmaxer, rizzler
-MAXING : something you can max out:mewingm, rizzing, mogging
-SCRIPT ==========================================
-epic fantasy music 1
-HAGRIT: Yo, you a rizzler, Harry!
-HAGRIT: You been chosen to mew!
-HARRY: I gotta be the most sigma NICKNAME in all of Mogwarts!
-music stops
-HARRY: But all I can edge about is her...
-vine boom
-SNAPE: Hermione’s just a bob, Harry.
-epic fantasy music 2
-SNAPE: A real sigma would rizz up a Gyatmaxon with level 10 or less.
-SNAPE: If you don't hit level 100 MAXING in Rizzology this semester, you’re cooked, fam!
-HARRY: Urgh! Bro VERBs too much!
-HARRY: I can't edge to this!
-RON: Don’t listen to him, Harry. He’s just anger-maxing 'cause he couldn’t rizz up your mom!
-RON: Wow! I can tell you’ve been maxing your ITEM!
-HARRY: W's in the chat!
-SNAPE: What’s it gonna be, Pogger? Goon or POWER?
-HAGRIT: Hold up now, Snape! The boy’s got rizz—he just needs more POWER-maxing!
-HAGRIT: You think I didn’t see that edge streak when he out-rizzed Malfoy last week? The boy’s got potential, just wait!
-RON: Right, mate! If the Ministry of Mogging wanna phantom-tax us for being together, just gritty on 'em!
-HARRY: I’m a W-NICKNAME, freaking Sigma with an Ohio Skippy-to-Gyat.
-SNAPE: Oh, please. You’re just some Goon lite, fam. You’re nothing compared to a real POWER-lord like me.
-HARRY: Nah, fam. You just got L-ITEM, unk.
-HAGRIT: Erm, what the Sigma?
-HAGRIT: Don’t be listening to Snape, Harry. He’s been in the L-Lobby for years. Couldn’t rizz up a Doxie if it flew into his cauldron!
-RON: Mate, you don't gotta take that from him! You’ve been MAXING-maxing your whole life!
-HAGRIT: Aye, and remember when you mogged up Quirrell? That wasn’t luck, that was pure Sigma energy, Harry! You got what it takes to beat anyone!
-HAGRIT: And now, Lord LORD has returned to the lobby to end your edge streak!
-HARRY: I ain't scared of him!
-HARRY: He looks like a APPEARANCE Shaker that didn't doom-scroll the Aki way!
-SNAPE: That’s 'cause he’s Sigma-maxed beyond your comprehension, Potter!
-RON: Mate, you gotta spend less time ITEM-maxing!
-RON: And more time POWER-maxing! We’re gonna need full rizz power to beat Skibbobo!
-HARRY: If we wanna beat him, we gotta edge all together! No solo-gooning this time!
-HAGRIT: Together? That's a whole new type of rizz synergy, lad!
-RON: But it’s dangerous!
-HARRY: It's the only way, bro.
-HAGRIT: Aye, Harry’s right! You boys stick together, rizz it up, and show 'em how a proper goon squad handles business!
-anime sword gleam 1
-HARRY: MAGIC! (shot Snape)
-music stops
-SNAPE: (falls dramatically) You've...gooned...too...hard...
-applause
-RON: W-POWER for real, Harry!
-HAGRIT: That’s what I'm talking about! Sigma status—confirmed!
-RON: Now let’s go gritty on Skibbobo before he respawns!
-HAGRIT: And don’t forget, Harry—no one ever out-rizzes a Gryffindor! Give Skibbobo the old Sigma treatment!
-
-======
-
-INFORMATION ===============================
 ID: 1119
 TITLE: Wasted in the Wasteland
 AUTHOR: LoppearLink
@@ -35814,7 +35741,7 @@ OLD EMPLOYEE: UGH! I hate my job!!
 INFORMATION ===============================
 ID: 1126
 TITLE: Guess what happens next!
-AUTHOR: Yu-me1 1ecb
+AUTHOR: 4123615101072960 1ecb
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -36300,7 +36227,7 @@ HERO: And let you steal the MCGUFFIN? Of course not!
 VILLAIN: That's what this is about?!
 HERO: Of course it is! Wait a minute...
 HERO: Are you watching SHOW right now?
-VILLAIN: Yes, I am. I"m on break y'know! Another reason you should leave!
+VILLAIN: Yes, I am. I'm on break y'know! Another reason you should leave!
 HERO: Wait, you're on break?
 VILLAIN: Yes! I'm evil, not an idiot!
 HERO: So, does that imply that your entirely defenseless?
@@ -36310,18 +36237,19 @@ VILLAIN: What kind of question-wait...where are you getting at?
 HERO: Well, y'know, in that case, what's stopping me from...taking you down right here, and now?
 Scary music
 VILLAIN: (Slowly backing away) What? No...no...you wouldn't dare!
-HERO: Hmm, yes! That's an amazing idea! The people VILLAGE will simply love me!
+HERO: Hmm, yes! That's an amazing idea! The people of VILLAGE will simply love me!
 VILLAIN: No, stay back! I'm warning you!
 HERO: Sorry, BADNAME, you're not getting the MCGUFFIN, not when I'm through with you! You're dead meat.
 Meanwhile SIDEKICK: (Sneak up behind GOODNAME)
 Music stops
-SIDEKICK: Actually, I think you're the on who's dead meat.
+SIDEKICK: Actually, I think you're the one who's dead meat.
 HERO: Wait, what?!
 Super epic charge up
 Epic cinematic music
-HERO: (Fall to the ground, slowly and painfully dying) Ack! What the?! What is this...POWER?!
+HERO: (Fall to the ground, slowly and painfully dying) Ack! What the?! What is this...power?!
 SIDEKICK: Only that of the WEAPON, GOODNAME.
 HERO: (Coughing) The WEAPON?! I thought that was a myth! Curse you, BADNAME! I'll be back, heros never die! (Dies)
+Teleport HERO to Backstage
 Happy music 1
 VILLAIN: Phew, nice work with the WEAPON, I didn't know you could work it that well!
 SIDEKICK: Of course, I'm not just gonna let my boss die! Anyways, with GOODNAME out of the way, what now?
@@ -36353,8 +36281,6 @@ KILLED: Accidental way to die:Suffocation, dropped on his head
 GOD: Name for a God:GOD, Buddha, Dio, Odin, Jesus
 DIED: Crappy way to die:eaten by wolves, taken to live with monkeys, starve to death
 SCRIPT ==========================================
-(courtroom music)
-KNIGHT: (holding a baby) All rise for the Wise King NOBLE NAME!
 (courtroom music)
 KNIGHT: (holding a baby) All rise for the Wise King NOBLE NAME!
 KING: (sit down behind the stand and hit gavel once) You may be seated.
@@ -36502,6 +36428,7 @@ WORKER: (Jotting notes) Room temperature drink, coming right up!
 WORKER: (Handing over the order) Here you go! One burger with no lettuce, no tomato, no pickles,
 WORKER: FOOD_ORDER; extra crispy fries in a special box; and a room temperature drink!
 KAREN1: (Inspecting) Hmph. The fries look too golden. I specifically asked for extra crispy!
+Music Stops
 (waterphone)
 WORKER: (Sighs) I’m sorry, ma’am! Let me take care of that for you.
 (gameshow ding)
@@ -36518,6 +36445,7 @@ WORKER: (Grimacing) Ma’am, if I could just explain...
 KAREN1: (Interrupting again) Just what? Serve me more lukewarm drinks? I demand better!
 WORKER: (Taking a deep breath) I’m doing everything I can here. If it’s not satisfactory, perhaps you’d prefer to take your order to go?
 KAREN1: (Pointing) You think you can just kick me out? This is an outrage; and NOISE_COMPLAINT!
+Music Stops
 (record scratch)
 WORKER: (Firmly) If you continue to be this rude, I will have to ask you to leave.
 WORKER: Sorry Karen but MANAGEMENT_RESPONSE.
@@ -36527,6 +36455,7 @@ Meanwhile KAREN1: (Exit stage right)
 WORKER: Finally I can get some peace.
 (door creak)
 KAREN2: (Walking in, looking around) Excuse me! I need to speak to the manager right now!
+Music Stops
 (record scratch)
 WORKER: (Sighs heavily) Not again...
 KAREN2: (Waving her hands) This place is unacceptable! COMPLAINT1!
@@ -36536,6 +36465,7 @@ KAREN2: (Fuming) Well, I want a RAIN_CHECK!
 (shark tank discussion music 1)
 WORKER: (Deadpan) I’m afraid that’s against company policy.
 KAREN2: (Exasperated) I’ll be posting my complaints online!
+Music Stops
 (vine boom)
 WORKER: (Muttering) Please don’t.
 KAREN2: (Pointing) And don’t think I’m leaving without speaking to someone in management! This is absolutely unacceptable!
@@ -36791,69 +36721,6 @@ STEVE: You two are getting a promotion!
 ======
 
 INFORMATION ===============================
-ID: 1171
-TITLE: Shopping List Chaos
-AUTHOR: bluecat_friend
-VERIFIED: False
-TAGS: Skit
-SET: Living Room
-DATE: 04/11/24
-CHARACTERS ================================
-ALEX: Alex:Stage Right
-JAMIE: Jamie:Stage Left
-SUGGESTIONS =============================
-FOOD1: A type of fruit:Figs, Grapefruit, Kiwi, Orange, Pear, Peach, Plum, Soursop
-ADJECTIVE1: An adjective for a person:Ambitious, Carefree, Humble, Mysterious, Playful, Resilient, Skeptical, Tenacious
-ADJECTIVE2: An adjective for snacks:Crunchy, Savory, Sweet, Zesty, Chewy, Spicy, Creamy, Crispy
-FOOD2: A type of snack:Popcorn, Pretzels, Trail Mix, Granola Bars, Potato Chips, Cheese Sticks, Fruit Slices, Rice Crackers
-ADJECTIVE3: An adjective for a snack:Salty, Buttery, Tangy, Fluffy, Nutty, Fruity, Sticky, Smoky
-PLURALNOUN: A plural noun:Mountains, Candles, Oceans, Dreams, Keys, Villages, Clouds, Lanterns
-FOOD3: A type of food:Sushi, Tacos, Lasagna, Curry, Dumplings, Pancakes, Salad, Paella
-SCRIPT ==========================================
-ALEX: (sitting on couch) Alright, Jamie, let’s keep it simple. We just need a few basics: milk, bread, maybe some FOOD1.
-JAMIE: (leaning in, eyes wide) Ohh, FOOD1! The forbidden fruit.
-ALEX: (sighs) Not this again.
-(noir music 1)
-JAMIE: (to the audience) And so, the great debate began. Alex, the ADJECTIVE1 skeptic, versus me, the connoisseur of ADJECTIVE2 snacks.
-(Music stops)
-ALEX: Jamie, are you narrating again?
-JAMIE: (covering) No, no, just… inner monologue! Very normal.
-ALEX: (smirking) Well, maybe that “inner monologue” could help me figure out what else we need?
-JAMIE: We need…FOOD2. A mountain of them.
-ALEX: FOOD2 are not on the list.
-(Noir music 1)
-JAMIE: (to audience, dramatically) Once again, Alex fails to see the value in life’s true necessities.
-(Music stops)
-JAMIE: (whispering to Alex) Imagine it. FOOD2—small yet powerful. Crunchy yet ADJECTIVE3. The perfect paradox.
-ALEX: It’s literally just junk.
-(Noir music 1)
-JAMIE: (looks at audience) And yet, I ask you: Who here hasn’t been changed by FOOD2?
-ALEX: (rolls eyes) Are you narrating to them again?
-JAMIE: (gesturing to audience) The people get me.
-(Music stops)
-ALEX: Fine. FOOD2. But we’re getting something healthy too, like apples.
-JAMIE: Apples?! What are we, ADJECTIVE4?
-ALEX: It’s yummy, Jamie.
-(Noir music 1)
-JAMIE: (to audience, leaning in) That’s what they all think…
-ALEX: (playing along) Right! Because this is actually...
-JAMIE: A top-secret meeting room where the fate of PLURALNOUN is decided!
-(Music stops)
-ALEX: Okay, we’ve got FOOD1, FOOD2, milk, and bread. Happy?
-JAMIE: (nodding dramatically) But there’s one last thing.
-ALEX: Really? What now?
-JAMIE: (whispers) …FOOD3.
-ALEX: FOOD3? Since when do you even like those?
-(Noir music 1)
-JAMIE: (to audience) FOOD3 are misunderstood. Just like me.
-ALEX: Jamie, you are nothing like FOOD3.
-JAMIE: I’ll have you know I’m just as complex. (to audience) Isn’t that right, guys?
-(Music stops)
-ALEX: (sighing) You need some help.
-
-======
-
-INFORMATION ===============================
 ID: 1172
 TITLE: Lunchly
 AUTHOR: SmithDaStick
@@ -36871,7 +36738,7 @@ EPIC: Ingredient:EPIC, Love, money making sodium
 FOOD: Snack:Fiesta Nachos, The Pizza, Turkey Stack 'Ems
 FRUIT: Fruit Flavor:Strawberry Blaster, Cherry Popper, Watermelon Smasher
 FLAVOR: Type of Chocolate:Cookies & Crème, Almond, Dark chocolate, peanut butter crunch
-DEED: Good Deed:Gives to the homeless, Gives free houses to people, Helped a 1,000 people hear for the first time
+DEED: Good Deed:Gives to the homeless, Gives free houses to people, Helped a 1000 people hear for the first time
 WALMART: Store:Walmart, K Mart, Target, Jojo Siwa's Emporium
 SPEED: Fast Phrase:Lickety-split, the drop of a hat, Flash or Dash
 SECRET: Secret Society:Freemasons, The Knights Templar, The Illuminati
@@ -36968,15 +36835,15 @@ CHARACTERS ================================
 CLERK: Apple Store Clerk:Behind Register
 CUSTOMER: Person Buying New Iphone:Entrance Stage Right
 SUGGESTIONS =============================
-NUMBER: Number from 16 to 30:18, 30
-HIGH: a high number:2000, 3000,
-FAMILYMEMBER: a type of family member:Cousin, Son, Daughter
-LOW: a number from 50 to 100:50, 75, 100
-FAMOUSACTOR: a famous actor:Will Smith, Sean Connery
-FAMOUSMUSICIAN: a famous musician:Chris Brown, Drake
+NUMBER: A number from 16 to 30:18, 30
+HIGH: A number from 1000 to 3000:1000, 2000, 3000,
+FAMILYMEMBER: A type of family member:Cousin, Son, Daughter
+LOW: A number from 50 to 100:50, 75, 100
+FAMOUSACTOR: A famous actor:Will Smith, Sean Connery
+FAMOUSMUSICIAN: A famous musician:Chris Brown, Drake
 NICKNAME: A nickname for a loved one:Pookie, Daddy, Baby, Sweetie
-COUNTRY: a country (anything but America):China, Egypt, Mexico
-FOOD: a food:Pizza, Rice, Potatos
+COUNTRY: A country (anything but America):China, Egypt, Mexico
+FOOD: A food:Pizza, Rice, Potatos
 FUNCTION:  An Useless technology:Sneeze Detector
 SCRIPT ==========================================
 happy music 1
@@ -37016,9 +36883,9 @@ CLERK: I will get my FAMILYMEMBER to beat you up!
 CUSTOMER: My FAMILYMEMBER will beat your FAMILYMEMBER !
 CLERK: My FAMILYMEMBER works for Apple!
 CUSTOMER: Okay and Apple works for my FAMILYMEMBER
-CLERK: My FAMILY MEMBER got hired by Steve Jobs!
+CLERK: My FAMILYMEMBER got hired by Steve Jobs!
 CUSTOMER: Well Steve Jobs goes to my FAMILYMEMBER and says ‘’NICKNAME,(short pause) NICKNAME, this company is yours NICKNAME’’
-(record scratch)
+(waterphone)
 CLERK: What the hell
 CUSTOMER: I guess you dont want my money, i will be leaving now, Good luck selling your ‘’made in COUNTRY’’ Iphone
 CLERK: WAIT!! Give me time to think about the LOW dollars
@@ -37030,11 +36897,96 @@ CLERK: I need to afford FOOD for this month for my family!
 CUSTOMER: (sigh) fine LOW plus 1 dollar
 CLERK: LOW plus 2 dollars
 CUSTOMER: Okay deal
-CLERK: (give iphone to customer)
-CUSTOMER:Thank you so much, (Exit stage right)
+CLERK: (give iphone to customer) Here you go
+CUSTOMER: Thank you so much, (Exit stage right)
 CLERK: Thank you come again
 CLERK: Yessssss, i am so smart, another great bargain
 (applause)
+
+======
+
+INFORMATION ===============================
+ID: 1179
+TITLE: Tea And Soda
+AUTHOR: AzumaMaria
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Dining Room
+DATE: 07/11/24
+CHARACTERS ================================
+MASTER: Rich British Person:Center Stage
+FRIEND: Clueless Flordian:Backstage
+BUTLER: Butler:Center Stage
+MAID: Maid:Backstage
+SUGGESTIONS =============================
+NAME1: Name of a person:Jessica, John, Lucas
+NAME2: Name of a person:Max,Maxine,Maxwell
+FOOD: A type of food:steak, mushrooms, apples
+DRINK: Type of beverage:soda, water, pepsi
+WEAPON: A type of weapon:warhammer, sword, axe
+JEWEL: A type of gem:diamond, chaos emerald, ruby
+TIME: A time:6 am, 7 30 pm, 8 pm
+ITEM: Any item:statue, the pyramids, crown
+ANIMAL: Any kind of animal:Racoon, possum, cat
+JOB: A type of career:Model, Fast Food worker, Actor
+SCRIPT ==========================================
+(happy music 1)
+MASTER: They should be here any second now, Butler! What is the time? Hurry it up!
+BUTLER: It is TIME master. Should I go get the tea ready?
+MASTER: yes yes and get DRINK for NAME2.
+BUTLER: (bow) Of course master, I will go get it now(Leave Stage Right)
+MASTER: NAME2 should be here any second(check phone) they need to hurry it up!
+TYPEWRITER: 5 Minutes later
+(music stops)
+(doorbell)
+Meanwhile BUTLER:(enter stage Right)
+BUTLER: Sir.
+MEANWHILE MAID:(enter Stage Right)
+MASTER: Ah! Their finally here!! Butler! Maid! Get the door!
+BUTLER: Of course Master. (gets the door)
+Meanwhile MAID:(confused on why they should get too)
+FRIEND:(outside the door) Hey NAME1! What's up? You still into ITEM?
+MASTER:(groans) Don't say that out loud please, I told you that in private for a reason.
+FRIEND: Oh right, heh forgot about that.
+(laughter)
+(happy music 1)
+BUTLER: It's good to see you Sir NAME2.
+Meanwhile MAID: Greetings Sir NAME2.
+FRIEND: I forgot you had servants NAME1. Thats cool man.
+MAID: Allow me to take your coat. (Takes FRIEND coat and hangs on coat rack)
+MASTER:Yes yes, now please have a seat.
+FRIEND: Alright bet!(sits on a chair)
+Meanwhile MASTER:(sits in chair)
+BUTLER: I shall go get the food from the hallway. ( Bow and leave stage right)
+FRIEND: So heard you got the JEWEL that has been all over social media lately.
+MASTER: Yes yes, it is. Now then, are you still a JOB?
+FRIEND: Yeah, I just got promoted to county manager, but man you got a nice house!
+Meanwhile MAID:(cleaning around)
+MASTER: Thank you I appreciate it.
+BUTLER:(Enter stage right and set drinks and food on the table) Here is the FOOD and for you master tea and you Sir NAME2 some DRINK.
+FRIEND: Finally! This is my favorite (drinks)
+MASTER: I remember yes, but please maybe drink it a bit quieter?(sips tea)
+FRIEND: Oh right! I gotcha. This food looks delicious!(eats)
+MASTER:(shudders) Yes......I have a five star cook working for me after all......Maid?
+MAID: Of course Master.(cleaning the table of crumbs) so many crumbs.
+FRIEND: Thats strange man. Hey you hear that?
+(music stops)
+(record scratch)
+MASTER: oh its probably just am ANIMAL. Give me a second and I'll take care of it. Butler retrieve my WEAPON.
+Meanwhile MAID: (leaves stage right)
+FRIEND: Wait what now? A WEAPON?
+BUTLER:(gives WEAPON to MASTER) Here you are sir. Your WEAPON.
+FRIEND:(quickly gets up)maybe this is a good time to go.
+(lacrimosa music)
+MASTER: What do you mean NAME2? It's only a WEAPON, I'm sure you've seen these before.(Walk over to friend)
+FRIEND: yeah heh.....I think my wife is calling me(Backing towards door)
+MASTER: I'm sure its nothing, I just need to take care of the ANIMAL outside so if you could just sit back down
+FRIEND: NOPE NO THANK YOU!(runs out stage left screaming)
+MASTER: oh dear....(grabs the coat from coat rack and runs after them) YOU FORGOT YOUR COAT NAME2!
+(Music stops)
+(70s music)
+MAID:(reenter stage and stand by butler watching the two) So want to make out?
+BUTLER:(turn towards MAID)wait what now?
 
 ======
 
