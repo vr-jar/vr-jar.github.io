@@ -37154,8 +37154,91 @@ BUTLER:(turn towards MAID)wait what now?
 ======
 
 INFORMATION ===============================
+ID: 1205
+TITLE: Consciousness 
+AUTHOR: kiro-sage
+VERIFIED: True
+TAGS: 
+SET: Murder
+DATE: 09/11/24
+CHARACTERS ================================
+BABY: 3 Year old Baby:Center Stage
+WIFE: Self-Entitled Karen wife:Entrance Stage Right
+DAD: Kind hearted loving Father:Stage Left
+CON: The Babys Consciousness :Backstage
+SUGGESTIONS =============================
+MORTY: First name:Rhaymen, Walters, Jesus, Job, Theodore
+FEED: Something you can do:Feed the Couch, Take grandpa for a walk, Appease Balthozar,  
+BRAIN: Part of the Brain:Cortazept, Zenomorph, Lank-strand, Sea of memories
+FROG: An animal:Frog, Squirrel, Dragon, Dog
+DIE: Something drastic you can do:Turn off the AC, Replace God, Shut down Audience Anarchy
+DEATH: Word or phrase starting with "D":Dick, Disestablishmentarianism, Diabolical,  There one was a ship that put to sea,
+BREAK: An action:Braid Grandpas hair, Break open grandpas couch, Steal the neighbors dog, Remake VR-Chat
+CHUKYS: A fun place:The gates of Heaven, Build-A-Bear workshop, Bath and Body works
+SCRIPT ==========================================
+christmas music 2
+DAD: (Getting ready, turns to baby) Alright, MORTY Jr., today is your big day. You're turning 3 years old!
+Meanwhile BABY: (Sitting on the floor, playing with toys)
+DAD: (Walks over to baby) Aren't you excited? You're going to have so much fun!
+BABY: (Babbles and laughs)
+DAD: Aww, that's my MORTY Jr. (Pats baby on head)
+WIFE: (Shouting from backstage) Hey, MORTY! Get over here and FEED
+WIFE: My gosh, do I have to do everything around this house?!
+DAD: Ah, sounds like Mom's calling me. You stay put, little dude. (Walks off stage right)
+BABY: (Happy babbling)
+Music Stops
+Teleport CON to Narrator Podium
+spy machinery
+CON: Hello there, MORTY Jr.
+mystery music 1
+BABY: Wu-buh. Wo... whuh?
+CON: Hmm, it seems your BRAIN isn't developed yet. Just give it a sec...
+Music Stops
+tada
+BABY: (Voice now clear) Huh, whuh... Who are you?
+CON: I am your inner thoughts, or as you humans have called me—the consciousness.
+CON: Three years ago, you popped out of your mother's womb. And now, your brain has developed enough to begin to have conscious thoughts.
+BABY: I-I'm sorry? I still don't understand...
+CON: Look, it's not that hard to understand.
+Meanwhile WIFE: (Walks on stage right, angry) Gah, this day is going to be ruined!
+scary music
+WIFE: My perfect day is going to be ruined because you can't simply FEED!
+Meanwhile DAD: (Walks on stage right, worried) Hey, calm down.
+DAD: Hun, it's going to be fine. I just had some trouble, that's all. Everything will go smoothly.
+WIFE: (Smacks the dad) You shut your mouth, you FROG! If you don't fix this right now, I will DIE
+Meanwhile DAD: (Recoils from being smacked)
+DAD: (Pleading) Please don't DIE. I'll take care of my mess and make sure everything goes well.
+WIFE: You better. (Storms off stage right)
+Music Stops
+DAD: (Sighs and sits next to the baby) Sometimes that woman is just too... uptight to be understanding.
+DAD: But hey, at least I have you.
+BABY: (Baby voice) Whuh... Dah-
+DAD: (Surprised) Wait, what was that, MORTY Jr.? (Turns to baby) Were you going to say Dada?
+BABY: DEATH!
+DAD: (Speechless) I, uhh... I guess DEATH works?
+WIFE: (From stage right entrance) MORTY! Get over here and BREAK!
+DAD: (Getting up) Coming, hun. Don't worry, I'll be back very soon, and then we'll head to CHUKYS for your birthday. (Exits stage right)
+CON: (Pauses for a sec) Finally, I am able to speak to you. Now, where were we... Ah, yes.
+CON: I am your consciousness. I am every single logical thought you will have for the rest of your life.
+BABY: (Voice clear) Oh, okay... I still don't understand.
+CON: Ah, well, I tried to explain it to you before your canon event, but I guess that won't be happening.
+BABY: (Confused) Wait, what do you mean by canon event?
+gunshot
+BABY: (Scared) What was that?
+CON: You will see soon.
+gunshot
+gunshot
+DAD: (Trembling) O-ok, uhm... (Turns to baby) Hey, MORTY Jr., Mom's gone and taken a nap. She said we're okay to leave without her.
+DAD: You ready to go to CHUKYS?
+crowd woo
+BABY: (Excited) Yay!
+CON: (Excited) Yay... (Turns to audience) Yes, I am able to have fun too.
+
+======
+
+INFORMATION ===============================
 ID: 1209
-TITLE: Clapback Coach: Mom
+TITLE: Coach Clapback
 AUTHOR: _ Aech _
 VERIFIED: True
 TAGS: Skit
