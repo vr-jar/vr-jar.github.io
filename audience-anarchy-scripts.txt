@@ -20463,7 +20463,7 @@ GUARD: What a handsome and great young fellow. (Start to pack-up)
 INFORMATION ===============================
 ID: 658
 TITLE: Cowboy Duel
-AUTHOR: xᴠ_sᴘɪᴅᴇʀᴢ
+AUTHOR: ༒Ｓｐｉｄｅｒ－Ｍａｎ༒
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -22037,7 +22037,7 @@ NARRATOR: Merry Christmas to all, and to all... well, you know the rest.
 INFORMATION ===============================
 ID: 704
 TITLE: The Sponsor
-AUTHOR: 4123615101072960 1ecb
+AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -22183,7 +22183,7 @@ DEMON: Sounds diabolical, sir. Lead the way.
 INFORMATION ===============================
 ID: 706
 TITLE: Wrong Order
-AUTHOR: 4123615101072960 1ecb
+AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -22275,7 +22275,7 @@ Josh: I did not order this drama today either.
 INFORMATION ===============================
 ID: 709
 TITLE: Public Service announcement 
-AUTHOR: 4123615101072960 1ecb
+AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -22341,7 +22341,7 @@ Jerry: AAAAAAAAAAAH!
 INFORMATION ===============================
 ID: 710
 TITLE: The Standoff
-AUTHOR: 4123615101072960 1ecb
+AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -22528,7 +22528,7 @@ western jingle 1
 INFORMATION ===============================
 ID: 714
 TITLE: Don’t I know you?
-AUTHOR: 4123615101072960 1ecb
+AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -27034,7 +27034,7 @@ BOSS: Brilliant! Great work, everyone! We should clock out now and beat the traf
 INFORMATION ===============================
 ID: 845
 TITLE: A visit to grandpas
-AUTHOR: 4123615101072960 1ecb
+AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -29705,7 +29705,7 @@ MANAGER: (Looks at audience with a confused look) What just happened?
 INFORMATION ===============================
 ID: 933
 TITLE: The Mole
-AUTHOR: 4123615101072960 1ecb
+AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -30351,7 +30351,7 @@ PEPE: (pulls out medieval smartphone and dials) Hey mom, can you pick me up?
 INFORMATION ===============================
 ID: 962
 TITLE: The dentist appointment 
-AUTHOR: 4123615101072960 1ecb
+AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -31183,7 +31183,7 @@ crowd woo
 INFORMATION ===============================
 ID: 987
 TITLE: VRChat Interruption
-AUTHOR: Ａｅｃｈ
+AUTHOR: _ Aech _
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -34622,6 +34622,97 @@ RICH: Stick to PowerPoint next time.
 ======
 
 INFORMATION ===============================
+ID: 1075
+TITLE: Trainee Detective
+AUTHOR: Valhymm
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+DATE: 01/09/24
+CHARACTERS ================================
+MICK: Mick Sturbs, trainee:Stage Right
+ANGUS: Angus McCoatup, detective:Entrance Stage Right
+DEREK: Derek, con artist:Chair
+SUGGESTIONS =============================
+MONEY: Something you'd steal:money, jewels, car, phones, watches, cigarettes, microwaves, DVDs
+TRADER: An occupation:town market trader, car salesman, stock market trader, plumber, electrician, mechanic
+TEN: A number:4, 8, 15, 16, 23, 42, 10
+YEAR: A unit of time:second, minute, hour, day, week, month, year, decade, century, millennium
+TALK: A verb:talk, squeal, squirm, fess up, strip, slip up, make a mistake, spill it
+KNEECAPS: A body part:kneecaps, little fingers, intestines, eyeballs, voicebox, eardrums, cheeks, earlobes
+CROOKED: An adjective:crooked, spiteful, wayward, nasty, naughty, unspeakable, rotten 
+SCRIPT ==========================================
+courtroom music
+MICK: (To audience) It was my final exam before promotion to detective.
+MICK: I was nervous, but my wife and I needed the extra money.
+MICK: I had to get a confession out of a real suspect, his name was Derek. He and my boss went way back.
+MICK: I'd screwed up the first part of the exam when I had to resort to the interrogation manual.
+MICK: In frustration, my boss went out looking for the TALK-atron 5000, a machine that can make anyone confess.
+MICK: He told me that if I could get a confession before he got back, I'd pass.
+MICK: My name is Mick Sturbs, and this is what happened.
+MICK: (To DEREK) I'm sorry about the detective, he really does overreact sometimes.
+DEREK: Yeah, well, he's got it in for me ever since what happened TEN YEARs ago between me and him.
+MICK: What happened?
+emotional piano music
+DEREK: I might have punched him in his KNEECAPS and made off with his MONEY, just as a joke, like.
+MICK: Goodness, that doesn't sound very nice.
+DEREK: Yeah, well, we were all just kids mucking around weren't we?
+MICK: Yes, I suppose so. I have children myself and as they say, boys will be boys.
+DEREK: So you're doing some sort of exam are you? What's it for, promotion?
+MICK: Yes, currently I do most of the paperwork in the police station. I'm hoping to be a detective.
+MICK: I don't like confrontation, but my wife and I need the extra TEN pounds, my boys are starting school soon.
+shark tank discussion music 1
+DEREK: Well maybe I can help you out. Look, I'm just a simple TRADER. I wouldn't commit a crime these days, I've got a wife and kids myself.
+MICK: You do?
+DEREK: Yeah, and I know the second I tell the detective who did steal the MONEY, he'll have me on all the other CROOKED things I've done to him over the YEARS.
+DEREK: My kids can't grow up without a dad, and my wife can't bring up two boys on her own.
+MICK: Yes, that would be unfair on them, I agree.
+DEREK: So how about we make a deal? If you write me a note saying I'm immune from all prosecution, I'll tell you who stole the MONEY.
+DEREK: You pass your detective's exam, you get your TEN pound pay rise, the detective gets his lead, and we can all forget this ever happened.
+shark tank offer
+MICK: An immunity from prosecution? Goodness, I don't know about that...
+DEREK: Nobody has to know. And we both know old Detective Angus's CROOKED enough not to tell anyone anyway.
+DEREK: Come on, have a deal with me! (Hold out your hand)
+MICK: It does go against my better judgement...
+DEREK: (Encouragingly) Go on...
+MICK: (Shake Derek's hand) Fine, deal! I'll get the paperwork typed up.
+Meanwhile DEREK: (Shake Mick's hand)
+music stops
+shark tank deal
+DEREK: Thanks! You know it makes sense.
+courtroom music
+TYPEWRITER: TEN minutes later...
+ANGUS: (Enter stage right, holding a machine) Found it! Say hello to my little friend, the TALK-atron 5000! And say goodbye to your KNEECAPS, Derek!
+MICK: No sir, wait, Derek has agreed to TALK.
+ANGUS: (Confused) Huh? (Realization) ...Hah! I told you this would make him TALK! (Drop the machine)
+crashing debris
+ANGUS: Mick, you've passed your exam!
+Meanwhile MICK: (He dropped it on your KNEECAPS) OOH! OW!
+MICK: A-Aaargh! Th-Thank you, sir!
+laughter
+ANGUS: (Leaning over the table) Now, tell me, who stole the MONEY?!
+Meanwhile MICK: (Still moaning)
+MICK: (Still in pain) No wait sir, he only agreed to tell us if he had immunity from all prosecutions.
+DEREK: It was... particularly valuable MONEY, wasn't it Angus?
+MICK: (You've recovered) The pardon just needs your signature here. (Nervously hold up the paper)
+ANGUS: What's this? (Reading the paper in Hans' hands) Oh, this is fantastic! (To Derek) This means now, you're my little snitch aren't you?
+DEREK: D'oh! (Facepalm) I never thought of that!
+ANGUS: Oh, Derek! I've been waiting TEN YEARs for this moment! How the tables have turned!
+DEREK: (Knowing look to the audience) Yeah, you could say that.
+ANGUS: (Signing the paper) Signed... Angus... McCoatup. There! Well come on then, Derek! Keep us in suspense no longer!
+ANGUS: (Hand the paper to Derek) Who stole the MONEY?
+Meanwhile DEREK: (Take the paper off Helmut)
+DEREK: (Triumphantly) I did! (Wave the paper in Helmut's face)
+laughter
+courtroom sting
+Meanwhile MICK: (Gasp)
+ANGUS: Derek, you CROOKED little... (Storm offstage) DOORGH!
+Meanwhile DEREK: (As he leaves) Goodbye, Angus!
+MICK: (Call out the door) Have I still passed, sir?
+
+======
+
+INFORMATION ===============================
 ID: 1077
 TITLE: Dumb Ways To Die
 AUTHOR: Super_Joel_Dood
@@ -34878,7 +34969,7 @@ CLERK: (frustrated) Then why did we have any of this conversation? Why are you s
 INFORMATION ===============================
 ID: 1090
 TITLE: The Great Leader
-AUTHOR: xᴠ_sᴘɪᴅᴇʀᴢ
+AUTHOR: ༒Ｓｐｉｄｅｒ－Ｍａｎ༒
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -35741,7 +35832,7 @@ OLD EMPLOYEE: UGH! I hate my job!!
 INFORMATION ===============================
 ID: 1126
 TITLE: Guess what happens next!
-AUTHOR: 4123615101072960 1ecb
+AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -36906,6 +36997,78 @@ CLERK: Yessssss, i am so smart, another great bargain
 ======
 
 INFORMATION ===============================
+ID: 1176
+TITLE: The young divorce
+AUTHOR: Smg4M3meKryst4l
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 06/11/24
+CHARACTERS ================================
+SOPHIE: The lunatic wife (Boy):Kitchen
+EVAN: The stubborn husband (Boy):Front Door
+SUGGESTIONS =============================
+HOUR : A time of the clock:6 pm, 8 am, 14664 am
+CASH: How much you want to spend on a gamr:40 dollars, 100 dollars, 1M dollars
+YEARS: A specific random number:10, 20, 3000, 268865
+GAME: A famous game:Fortnite, Brawl Stars, Roblox
+USELESS THING: Something you really don't need to spend money on:Self-help book #35, vape, divorce insurance, essential oil, lottery tickets, attractive men
+HONEY: A pet name for your love interest:honey, personal ATM, mystery meat, overlord, pookie wookie, my lil guy, pumpkin, sweetie pie, pinkie pie
+CHAD: A super masculine name:Brick Dadbod, Bruce beefcake, Brock Tarzan, Macho McThighs
+SCRIPT ==========================================
+Happy music 1
+SOPHIE: (Wash hands) la-la-la! I love washing my hands! La-La-La
+knocking on door
+Vine boom
+SOPHIE: (shake hands) Hum, I wonder who is knocking at HOUR!
+SOPHIE: (look at window) Is pretty late out there... (walks to door and opens it)
+SOPHIE: oh, hello Evan, darling!
+EVAN: Um... Hello, Sophie, my HONEY. Heh heh…(fidget fingers nervously)
+SOPHIE: Um, Why do you look nervous?
+groose music
+EVAN: (walk inside) Well, umh, haha..I have to tell you something…
+SOPHIE: (look at Evan) Hum?? What is it? You know you can tell me..we knew watch other for YEARS…
+EVAN: Yeah I know…but..is a bit awkward…
+SOPHIE: Okay..umh..sit on the couch and tell me then..(sit on couch)
+EVAN: Great idea..(sit on couch, next to Sophie)
+SOPHIE: So tell me, what’s wrong..
+EVAN: Umh..Well..I’m sorry, but…
+MUSIC STOPS
+SOPHIE: But what?
+EVAN: (Sigh) ... I spent CASH dollars on my game, GAME…
+vine boom
+SOPHIE: (Angry and surprised) You...you did what?!
+EVAN: Yes... I spent CASH dollars on GAME... with your credit card.
+SOPHIE: With MY credit card?
+EVAN: I maxed out my own credit card buying USELESS THING.
+lacrimosa music
+EVAN: (Stuttering) Look, I’m sorry, okay...
+SOPHIE: I am so sick of you. (Stand up) I'm sick of you and all the money you spend on useless games!
+EVAN: But I...
+SOPHIE: No "buts"! I don't care what you have to say-- I am divorcing you!
+vine boom
+EVAN: H-heh..hehe…You…You what..?
+SOPHIE: I said… (Take out a megaphone and yell) I am divorcing you!
+thunder
+emotional piano music
+EVAN: (Shocked) Umh..no..no..you’re...
+EVAN: You’re joking..right.. HONEY..?
+SOPHIE: No, Evan. Is over. (Look away and cross your arms in a huff)
+EVAN: (overthink) No…(sob)..please..Sophie...
+SOPHIE: I said (look at Evan) IS OVER!!
+EVAN: (heavy breathing) How could this happen to me? To us? (start crying)
+SOPHIE: Now get out of my house. Now. And crying won't help you! I don't care about your tears!
+EVAN: (Crying, exit through the door)
+Music stops
+SOPHIE: Ahh, finally, some rest!
+cellphone vibrate
+SOPHIE: Huh?? (Take out phone)
+SOPHIE: Oh! Is my lover, CHAD~ (answer the call)
+SOPHIE: (talking on phone) Hi sweetie, how is it going? Whatcha wearing?
+
+======
+
+INFORMATION ===============================
 ID: 1179
 TITLE: Tea And Soda
 AUTHOR: AzumaMaria
@@ -36987,6 +37150,155 @@ MASTER: oh dear....(grabs the coat from coat rack and runs after them) YOU FORGO
 (70s music)
 MAID:(reenter stage and stand by butler watching the two) So want to make out?
 BUTLER:(turn towards MAID)wait what now?
+
+======
+
+INFORMATION ===============================
+ID: 1209
+TITLE: Clapback Coach: Mom
+AUTHOR: _ Aech _
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 11/11/24
+CHARACTERS ================================
+KID: Bill, the bullied kid:Front Door
+MOM: A hip mother:Kitchen
+SUGGESTIONS =============================
+GAME: A video game:Fortnite, Call of Duty, Little Big Planet
+TIME: A measurement of time (with a s):Nanoseconds, Hours, Centuries
+ODD: A embarrassing thing someone would do:Ran around without pants on, Did the splits, Shoved a gummy bear up your nose
+COLLECT: Something you could collect:Pokemon Cards, Anime Figures, Computers
+NUMBER: A number:734, 420, 1
+DISASTER: A disaster:Earthquake, Flood, Tornado
+INSULT: A insult word:coward, brat, nobrain
+FOOD: A food:Chicken Nuggets, Mozzarella Sticks, Green eggs and ham
+SCRIPT ==========================================
+silly music 2
+KID: (open door) Mom, I'm home from school!
+MOM: Oh, that was fast! How was your day today at school bill?
+KID: Not good... My bully made fun of games I play, especially GAME.
+MOM: I heard GAME was good, is it not?
+KID: It is! He's just delusional.
+MOM: That's sad to hear. Dinner will be ready in 3 TIME.
+KID: Okay!
+KID: (Go to the couch) Time for some peace and quiet...
+Music Stops
+message receive
+KID: A notification? (Pull out phone) From my bully?
+groose music
+MOM: What does it say? (Walk over to Bill)
+KID: It says that "Your entire collection of COLLECT sucks crap bro, get better COLLECT for real"
+MOM: I bet his COLLECT are worse than yours!
+MOM: Oh wait, I got a idea! What's the most embarrassing thing he's done?
+KID: ODD.
+MOM: Ok, so how about you text him back saying "My COLLECT collection is better than when you ODD!"
+KID: Meh. That's not really that good.
+MOM: Come on! have some faith in your birth giver!
+KID: Fine. Let me send it real quick. (Type it on your phone)
+message send
+KID: I sent it.
+MOM: Good, let's see if he replies back quickly.
+KID: Oh, he's typing...
+message receive
+KID: He said " How did you learn about that??? I thought that was private!!!"
+KID: He also sent "I'm going to beat you up as soon as you get to school, punk!"
+MOM: That's not good... Is he big?
+KID: Like fat?
+MOM: Yes.
+KID: He is. I heard he weighs NUMBER pounds!
+MOM: Ok then, try saying "You're so big that when you punch me, your fat rolls vibrate and cause a DISASTER to happen!"
+KID: Ok, let me try that. (Type it on your phone)
+message send
+KID: And sent.
+KID: Oh, he's typing already.
+MOM: That was fast!
+message receive
+KID: He said "How dare you!!! You are so rude! I'm telling the principle!"
+MOM: What's the principle gonna do?
+KID: Nothing... He's a lazy INSULT.
+MOM: Wait, say that again?
+KID: He's a lazy INSULT?
+MOM: THAT! Say to your bully "Atleast the principle isn't as much as a INSULT as you are".
+KID: Ok! (Type it on your phone)
+Music Stops
+message send
+happy music 1
+KID: Done!
+MOM: See? Look how easy I roasted that little INSULT!
+KID: He said "Alright, I'm sorry man just don't ever talk to me again"
+MOM: Perfect! Your mom's had some history shooting back insults in my days.
+KID: Thanks mom!
+Music Stops
+KID: Wait, weren't you preparing dinner?
+fire alarm
+MOM: Oh shoot, not the FOOD!!! (Run over to the kitchen and panic)
+KID: Aww man, I wanted FOOD!
+
+======
+
+INFORMATION ===============================
+ID: 1231
+TITLE: Dumb Criminal
+AUTHOR: Lazy Sunshine
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 13/11/24
+CHARACTERS ================================
+NARRATOR: Our Narrator.:Stage Right
+SHOP OWNER: Angry Shop Owner.:Stage Left
+OFFICER: A Police Officer.:Center Stage
+SUGGESTIONS =============================
+CITY: A City:Detroit, Vice City, Townsville
+CRIME: A Crime:Trespassing, Arson, Tax Evasion
+AUDIENCE: Someone in the Audience:Steve Harvey, Tupper VRChat, popular streamer xqc
+OBJECT: An Object:Crowbar, Banana, Phone Book
+NUMBER A: A 5 Digit Number:12345, 10110, 88888
+MEDICAL: A Disease or Diagnosis:Cancer, Broken Femur, Lice
+ATTACHMENT: Something Attached to Someone:Weapon, Limb, Piece of Clothing
+THROW: An Object You Can Throw:Ball, Controller, Boomerang
+NUMBER B: A Number Less Than 4 Digits:2, 74, 458
+FAMOUS: Any Famous Person:George Washington, Harry Styles, Greg Heffley
+SCRIPT ==========================================
+(Double Bass Music)
+NARRATOR: Welcome to Dumb Criminals. I'm your narrator, and today, we'll be looking at a crazy case.
+NARRATOR: On February 9th, 2022, in the sweet city of CITY, officers were dispatched to an intersection following a 911 call.
+NARRATOR: A shop owner reported witnessing one of their customers committing one of the worst crimes imaginable: CRIME.
+NARRATOR: Let's take a look at the bodycam footage.
+OFFICER: (Look at Shop Owner) Hello. Could you tell me who you are?
+SHOP OWNER: Yes. My name is AUDIENCE.
+OFFICER: Okay, AUDIENCE, thank you. So...what happened?
+SHOP OWNER: I was inside, operating the register of my restaurant, when all of a sudden...
+SHOP OWNER: ...I saw this customer stand up and...oh, it was horrific!
+OFFICER: Now the crime of CRIME is a Class A offense, a serious accusation. Do you have any evidence ready?
+NARRATOR: There would be several witnesses and high quality surveillance video, which would create a clear description of the perpetrator.
+NARRATOR: They were shown escaping through the window using a big OBJECT, which was fortunately left behind. How dumb could this criminal be?
+OFFICER: What an idiot. We can use the serial number on this OBJECT to get their info. I assume you want to press charges?
+SHOP OWNER: To the fullest extent of the law! No one gets away with CRIME in my shop!
+OFFICER: Dispatch. Run serial number NUMBER A on this OBJECT.
+NARRATOR: The serial number would identify the owner, whose license image matched that of the surveillance footage.
+NARRATOR: Now, it was a matter of finding our devious perpetrator.
+SHOP OWNER: (Look at Narrator) Wait...I see them! That's the one, standing right over there!
+OFFICER: (Walk to Narrator) Hey buddy? Why don't you turn around and place your hands behind your back?
+NARRATOR: I would feign innocence by replying "I didn't do anything," and refuse to comply.
+SHOP OWNER: You know exactly what you did! Poor FAMOUS suffered because of you!
+SHOP OWNER: Now they have MEDICAL! Are you proud of yourself?
+OFFICER: Failure to comply will get your a resisting arrest charge. Hands behind your back now! I'm not playing games.
+NARRATOR: Little did they know I had a shocking plan.
+NARRATOR: I would reach for the officer's ATTACHMENT, steal it, and make a run for it (run to alley).
+OFFICER: Hey, my ATTACHMENT! Ten one, I need assistance right away! Suspect is armed and dangerous!
+SHOP OWNER: I've got this! Watch me throw this THROW at them!
+SHOP OWNER: This is for FAMOUS! Take this! Hyah!
+OFFICER: Suspect's down! I'll get them cuffed. Stay right where you are!
+Meanwhile NARRATOR: (Stay down and comply with officer's orders).
+NARRATOR: Oof, what a hit! Looks like my getaway plan was doomed to fail.
+SHOP OWNER: Serves you right! CRIME! Ugh! Absolutely despicable.
+OFFICER: Walk with me to the car. We're going to search you. Got anything that'll poke me, stick me, stab me?
+NARRATOR: I was charged with resisting arrest with violence, eluding and fleeing a crime scene, theft, and of course, CRIME.
+Meanwhile OFFICER: (Search the suspect respectfully).
+NARRATOR: I would be sentenced to NUMBER B years in prison.
+OFFICER: Just shut up. Who are you even talking to?
 
 ======
 
