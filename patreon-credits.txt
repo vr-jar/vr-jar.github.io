@@ -2033,7 +2033,6 @@ CN-愚蠢的小旋
 scarboss
 Lawbrojr
 〜Horde〜
-Nighteye54
 Emperor Zurg
 Butterflyvixin
 El Kunai
@@ -2636,6 +2635,7 @@ GTXCrusader
 lan626
 IHaveaHeadache
 SaintWaffles
+ Madam Blackhole
 #TIER=2
 ArkoNero
 saika mujuuk
