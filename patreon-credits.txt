@@ -1996,6 +1996,7 @@ Spyro The Bat
 Cool Eric
 Dantphellios
 Xerthevia
+ArsonStyle
 modNick
 ruralists
 #TIER=1
