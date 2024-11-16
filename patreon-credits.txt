@@ -2746,6 +2746,7 @@ uncle_cull
 Mr_dna
 ForgottenEms
 DatBulldozer
+Haxiz
 #TIER=3
 SidMarcus
 PinballReviewer
