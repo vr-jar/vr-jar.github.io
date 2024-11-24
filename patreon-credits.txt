@@ -2612,6 +2612,7 @@ lost_ssouls_
 Swordpolicy
 ~Ashes~Fall~
 Ａｒｔ３ｍｉｓ
+SparkyNightWolf
 #TIER=2
 ArkoNero
 saika mujuuk
