@@ -2613,6 +2613,7 @@ Swordpolicy
 ~Ashes~Fall~
 Ａｒｔ３ｍｉｓ
 SparkyNightWolf
+_Gene_
 #TIER=2
 ArkoNero
 saika mujuuk
