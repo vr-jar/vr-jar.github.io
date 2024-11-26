@@ -37524,3 +37524,162 @@ Infomercial disclaimer
 
 ======
 
+INFORMATION ===============================
+ID: 1259
+TITLE: Quadrillionares
+AUTHOR: Temple475
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+DATE: 25/11/24
+CHARACTERS ================================
+GAME HOST : Game host:Host Podium
+CONT1: Contestant:Contestant Podium 1
+QM: Question machine:Narrator Podium
+SUGGESTIONS =============================
+PLACE: Place:street, garbage dump, alleyway 
+NAME: Any name:Dave Miller, Veronica, bob 
+SHOW: Any show(real or not):Family Guy, Spiderman(1978), get real the movie the show
+CHAME: Character name:Gregory, Saul Goodman, John
+DATE: any date:30 AD, January 30th, November 11th 1987
+EVENT: Any event(real or not):The bite of 87, the incident, 
+ADJ: Negative adjective :Foolish, clumsy, wicked
+DIRTY: Word to describe something dirty:filthy, garbage, stinky
+SCRIPT ==========================================
+gameshow intro
+GAME HOST: Ladies and gentlemen, welcome to Quadrillionares!
+GAME HOST: A show where we ask a variety of question to a random person we picked from the PLACE to give them a chance to win a totally legitimate amount of money
+GAME HOST: Why don't you introduce yourself to our lovely audience contestant?
+CONT1: (you just woke up) H-huh? Oh my name is NAME. Where am I again?
+GAME HOST: You're on a game show silly
+CONT1: O-okay, I'm ready then mr. Host sir
+gameshow start
+GAME HOST: You'll be asked questions by our wonderful and beautiful question machine
+QM: Hello there sir. The first question of the day is...
+QM: What's the name of the main character in SHOW?
+CONT1: Uhhh, is it CHAME?
+gameshow buzzer
+GAME HOST: Well looks like you got it wrong. Normally we'd end it here but we'll let you have one more try
+GAME HOST: Oh and I forgot to tell you
+GAME HOST: If you're unsure about any of the questions you have a one time ability to call one person of your choice
+GAME HOST: Now darling Question Machine onto the second question
+QM: Affirmitive sir. Question number 2
+QM:what happened on DATE?
+CONT1: Was it EVENT?
+gameshow ding
+GAME HOST: Congratulations NAME! you got it
+GAME HOST: Onto the next question
+GAME HOST: Questie, you know what to do sweetheart
+QM: Of course sir. Question number 3 is...
+QM: How's your marriage?
+vine boom
+mystery music 1
+CONT1: (Nervous) Well, obviously it's doing great I mean I can call my wife if you don't believe me (call your wife)
+cellphone vibrate
+QM: (Pick up your phone, use a different voice) Yes honey?
+CONT1: (Nervous) Our marriage is doing great right?
+QM: Obviously, why are you asking sweetheart?
+CONT1: W-well the gameshow question asked how's my marriage so...
+QM: Well, it's silly of you to ask, of course it's doing well. Now go answer the question (Hang Up)
+CONT1: (Relieved) Thank you, well you can see and hear that my marriage couldn't be any better
+gameshow buzzer
+CONT1: (Nervously) Wait what?!
+lacrimosa music
+GAME HOST: You ADJ crook, this whole show was a set up!
+CONT1: By who?
+explosion
+QM: (Enter stage) By me, your dear wife. Or should I say ex-wife
+GAME HOST: I'm not actually a game host, I'm just a random cop
+QM: I know what you did on DATE
+CONT1: But how?
+QM: When I was cleaning your DIRTY room I found your plans to commit EVENT on DATE
+CONT1: You'll never catch me!(Exit stage)
+Meanwhile GAME HOST: You can't escape justice crook!(follow contestant)
+QM: Well, guess I can finally marry the true love of my life - CHAME
+aww
+
+======
+
+INFORMATION ===============================
+ID: 1266
+TITLE: The Night Of Evil Santa
+AUTHOR: crayoneaterhq e4c4
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 26/11/24
+CHARACTERS ================================
+MOM: Jennie, The Brave Mother.:Couch
+SON: Jimmy, The Curious Child:Couch
+NARRATOR: The Narrator:Narrator Podium
+EVIL SANTA: The Evil Santa:Backstage
+SUGGESTIONS =============================
+MOUSE: A silent object/thing:mouse, spy, whisper
+JOY: An emotion:joy, happiness, glee
+FIGHT: A retaliating act:fight, attack, defend
+FUN: An emotion:fun, laughter, joy
+SWEETIE: Something you’d call your child:Sweetie, Darling, honey
+LITTLE ONE: Something you’d call a child.:Little one, my boy, buddy
+SCRIPT ==========================================
+[happy music 1]
+NARRATOR:‘ Twas the night before Christmas, and all through the house, not a creature was stirring, not even a mouse… or so they thought.
+SON: Do you think he’ll really come?
+MOM: (sleepy) Of course, SWEETIE. Santa always comes. Now go to bed, or he might skip over us.
+SON: But what if I just wait here quietly? I won’t make a sound. I want to see him!
+MOM: Okay, but only if you’re quiet as a MOUSE
+NARRATOR: But this wasn’t just any Christmas Eve. And the Santa this boy was waiting for wasn’t the one from his dreams…
+NARRATOR: There are many Santas, but not all are jolly.
+Music stops
+EVIL SANTA: (Go up the backstage ladder and jump onto stage.) Hello all!
+[christmas music 1]
+SON: Mom! He’s here!
+MOM: Huh? What?
+SON: (excited) Santa!
+EVIL SANTA: Ho, ho, ho! Merry Christmas, LITTLE ONE .
+MOM: (unsure) Santa? You…you look different than I expected.
+EVIL SANTA: It’s been a long night, dear. Long night. But I’m here to deliver some JOY !
+NARRATOR: He looked the part, sounded the part. But something about this Santa wasn’t quite right.
+SON: (run over to santa) I’ve been waiting all night! Do you really have presents for me?
+EVIL SANTA: Oh, I’ve got something for you, alright.
+MOM: What’s in the bag, Santa?
+EVIL SANTA: Oh, just some… special surprises.
+MOM: (step closer to santa) You’re not… you’re not the real Santa, are you?
+EVIL SANTA: (serious) Oh, I’m as real as it gets, sweetheart.
+SON: (back away) You’re not Santa. Santa wouldn’t be scary like you.
+Music stops
+EVIL SANTA: You know, kid, not all Santas are good. Some of us have… different plans for Christmas.
+[scary music]
+MOM: Get out of my house. Now.
+EVIL SANTA: (ignoring her) Oh, come now. I’m just here to have a little FUN. It’s tradition, after all! (step closer)
+NARRATOR: The night had taken a dark turn, and the magic of Christmas was nowhere to be found.
+MOM: Stay back!
+EVIL SANTA: What’s this? Violence? Not very Christmassy of you, is it?
+SON: You’re not Santa! You’re evil!
+EVIL SANTA: Bingo, kid. But I’m here now, and you can’t do a thing about it.
+MOM: (swinging hands at santa) Leave us alone!
+EVIL SANTA: I think I’ll stay a little longer.
+SON: (bravely) Leave my mom alone!
+EVIL SANTA: GET OFF ME !
+NARRATOR: In the face of evil, even the smallest acts of courage can shine like the North Star.
+EVIL SANTA: You’ll regret that. Both of you.
+MOM: (To son) Stay behind me.
+EVIL SANTA: I’ll get you!
+SON: What are we gonna do, Mom?
+MOM: We’re gonna FIGHT .
+[fistfight]
+NARRATOR: Christmas wasn’t about gifts or lights tonight. It was about survival.
+NARRATOR: Sometimes, it takes a little ingenuity to outwit even the darkest foes.
+MOM: (attacking evil santa) Stay down!
+Meanwhile EVIL SANTA: (get to the floor as mom attacks you)
+EVIL SANTA: You think this is over? You can’t get rid of me that easily.
+Music stops
+[christmas music 3]
+EVIL SANTA: No… it can’t be.
+SON: Santa!
+[magic sound]
+Teleport EVIL SANTA to BACKSTAGE
+NARRATOR: And just like that, the nightmare was over.
+NARRATOR: The true magic of Christmas isn’t in presents or decorations—it’s in the light that shines even in the darkest of nights.
+
+======
+
