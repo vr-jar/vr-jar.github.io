@@ -10351,7 +10351,7 @@ WAITER: Sir?
 DATER: Did you say something about DRINK?
 WAITER: Certainly, sir. If the lady and gentlemen would care to take DRINK before dinner. . .
 DATER: Yeah, great.
-WAITER: And the world will eend later for your pleasure.
+WAITER: And the world will end later for your pleasure.
 DATEE: Hey, what?
 DATER: Wow, what sort of DRINK do you serve here?
 WAITER: (Laughing) Ah, I think sir has perhaps misunderstood me.
@@ -10362,18 +10362,18 @@ WAITER: ENDOFIT sir? No, sir.
 DATER: (Skeptical) And we're not dead?
 WAITER: Aha, ha, no sir. Sir is most evidently alive, otherwise I would not attempt to serve sir.
 DATER: Then where are we?
-DATEE: (Suddenly) Hey, I've sussed it. This must be PLACE!
+DATEE: (Suddenly) Hey, I've figured it out. This must be PLACE!
 DATER: PLACE!
 WAITER: Yes, this is PLACE, the Restaurant at the end of the World.
 DATEE: End of what?
 WAITER: The World.
 DATEE: When did that end?
-WAITER: In just a few minutes, sir. Now, if you would care to order DRINK I'll show you to your table.
+WAITER: In just a few minutes, sir. Now, let me get your DRINK. 
 TYPEWRITER: A couple DRINK later...
-WAITER: (Enter Stage Left, Approach the table) Would you like to see the menu? or would you like meet the Dish of the Day?
+WAITER: (Approach the table) Would you like to see the menu? or would you like meet the Dish of the Day?
 DATEE: Huh?
 MEANWHILE DATER: Huh?
-WAITER: (clearaing throat) I said, would you like a menu or to meet the dish of the day?
+WAITER: (Clearing throat) I said, would you like a menu or to meet the dish of the day?
 DATEE: Meet the meat?
 WAITER: Exactly, meet the meat.
 DATER: (confused) Uh, sure, I guess we'll meet the meat.
@@ -10393,7 +10393,7 @@ MEAT: Or a casserole of me perhaps?
 DATEE: You mean this animal actually wants us to eat it?
 WAITER: Of course!
 DATEE: That's absolutely horrible, the most revolting thing I've ever heard.
-DATER: Oh, I dunno, it kind of makes sense. (examining the animal's enormous rump) Very tender.
+DATER: Oh, I don't know, it kind of makes sense. (examining the animal's enormous rump) Very tender.
 DATEE: I just don't want to eat an animal that's standing there inviting me to, It's heartless.
 WAITER: Better than eating an animal that doesn't want to be eaten.
 DATEE: That's not the point (pause thinking) Alright, maybe it is the point. I don't care, I'm not going to think about it now. I'll just...
@@ -10413,110 +10413,6 @@ MEAT: (shift to the table) A very wise choice, sir, if I may say so. Very good, 
 MEAT: (start to exit stage left, pause and turn back)
 MEAT: Don't worry, sir, I'll be very humane. (exit stage left)
 GUNSHOT
-
-======
-
-INFORMATION ===============================
-ID: 309
-TITLE: My House!
-AUTHOR: Myrddyn
-VERIFIED: True
-TAGS: Skit
-SET: Murder
-DATE: 28/04/24
-CHARACTERS ================================
-ROBERT: Robert, a middle aged man:Center Stage
-POOLE: Mr Poole, A construction foreman.:Entrance Stage Right
-RICHARD: Richard, Robert's friend from afar.:Backstage
-SUGGESTIONS =============================
-ANIMAL: A dangerous creature:Tiger, Leopard, Crocodile
-BUILD: Large construction project:Bypass, Skyscraper, Mall
-H.ACTIVITY: Activity done around the house:Clean, Wash, Vacuum
-H.ACT.OBJ: Household object:Windows, Dishes, Carpet
-TIME: A short period of past time:Yesterday, Five minutes ago
-FEE: An amount of money:Five dollars, Ten cents
-OFFICE: An office department:Human Resources, Planning Department, Shipping, Receiving
-NOTE: A type of message, like a sign or warning:Notice, Warning, Alert, Spam
-LASTNAME: An unusual last name:Haynes, Tozer, BoobenFarten
-STRDRINK: An Alcoholic Drink:Beer, Wine, Vodka
-STRFOOD: A snack food:Peanuts, Chips, Popcorn
-SCRIPT ==========================================
-DOORBELL
-ROBERT: (answering door) Hello, Yes?
-POOLE: (surprised someone is home) Oh, Hello. (Checking clipboard) Mr.... LASTNAME?
-ROBERT: That's me.
-POOLE: Did you get the NOTE?
-ROBERT: (annoyed) Which NOTE? The one yesterday about the upcoming flea market?
-POOLE: N..No... not that NOTE.
-ROBERT: Then the NOTE about the free eggs?
-POOLE: (flustered) no...
-ROBERT: Then you must mean the NOTE about my house.
-POOLE: Ah.. yes... that's the NOTE.
-ROBERT: And?
-POOLE: (Point to audience) Ah, yes.. well.. it's time.
-ROBERT: Ah.. right. Well, There we have an issue.
-RICHARD: (Enter stage right) Robert, You home?
-POOLE: (Annoyed) Now listen, Mr. LASTNAME, You have been notified.
-ROBERT: (Move closer to the foreman) I don't care. This is my house, and I don't care about your. What was it, a BUILD.
-POOLE: But you must realize that you can't stay here indefinitely.
-ROBERT: I'm game, we'll see who gives in first.
-RICHARD: (looking up) Robert? What's going on.
-POOLE: I'm afraid you're going to have to accept it. This BUILD has got to be built and it's going to be built. Nothing you can say or do ...
-ROBERT: Why's the BUILD got to be built?
-POOLE: What you mean, why's the BUILD got to be built? It's a BUILD, you've got to build them.
-RICHARD: Did anyone consider the alternatives?
-POOLE: There aren't any alternatives.
-RICHARD: (looking through books) There's always an option.
-POOLE: Look you were entitled to make any suggestions or protests at the appropriate time.
-ROBERT: Appropriate time? The first I knew about it was when a workman arrived at the door TIME.
-ROBERT: I asked him if he'd come to H.ACTIVITY the H.ACT.OBJ and he said he'd come to demolish the house.
-ROBERT: He didn't tell me straight away of course.
-ROBERT: No, first he H.ACTIVITY a couple of H.ACT.OBJ and charged me a FEE. Then he told me.
-POOLE: But Mr. LASTNAME, The plans have been available in the OFFICE for the last nine months.
-ROBERT: Yes. I went round to find them TIME afternoon. You hadn't exactly gone out of your way to call much attention to them had you?
-ROBERT: (sarcastically annoyed) I mean, like actually telling anybody or anything.
-RICHARD: (Look at your device, and then scan the audience) Robert there isn't time for this.
-POOLE: That depends where you were looking.
-ROBERT: (increasingly upset) I eventually had to go down to the basement ...
-POOLE: That's the display department.
-ROBERT: (intensely) with a torch.
-POOLE: (slightly nervous) Ah, the lights had probably gone.
-ROBERT: So had the stairs.
-RICHARD: (Nervously excited) Seriously Robert... There's not...
-POOLE: (ignoring them) But you found the notice didn't you?
-ROBERT: (hostile) Yes. It was on display in the bottom of a locked filing cabinet stuck in a disused lavatory,
-ROBERT: with a sign on the door saying "Beware of the ANIMAL".
-ROBERT: (normal voice) Ever thought of going into advertising?
-RICHARD: (matter of fact) It's not as if it's a particularly nice house anyway.
-ROBERT: I happen rather to like it.
-POOLE: (very annoyed) Mr. LASTNAME!
-RICHARD: Look... there's not much time. (Look up at sky)
-ALIEN SIREN
-RICHARD: Uh oh..
-POOLE: (looking towards audience) What the hell's that?
-RICHARD: What I've been trying to warn you about.
-RICHARD: It's not just your house, but the entire planet!
-ROBERT: (confused, rubbing head as if having a hangover) Well, they're large, yellow, and I don't see wings or engines or anything.
-RICHARD: (thrust a STRDRINK into Robert's hands) Here.. Drink this STRDRINK.
-ROBERT: (take STRDRINK) Really a STRDRINK?
-RICHARD: (thrust a packet of STRFOOD too) And eat this STRFOOD.
-ROBERT: (take STRFOOD) And STRFOOD? What's this for? (start eating)
-POOLE: (stammering) What do we do?
-RICHARD: (To Mr. Poole) Do what you like. Put a bag over your head.
-POOLE: (nervous) Will it help?
-RICHARD: (To Mr. Poole) Nope.. Nothing you can do.
-RICHARD: Drink the STRDRINK, eat the STRFOOD.. you'll need it.
-ROBERT: This all feels strangely familiar. (continue eating and drinking)
-RICHARD: That's just normal paranoia.. Drink the STRDRINK. (Check phone again)
-POOLE: (run screaming out the door)
-ROBERT: Well at least he's gone.
-RICHARD: Will be soon. Here hold onto me.
-ROBERT: (Finishing STRDRINK and STRFOOD) Uh... Richhard.. I don't swing that way.
-RICHARD: Just take hold of me, so we can get out of here.
-ROBERT: How? (hold Richard's)
-CELLPHONE VIBRATE
-RICHARD: Just in time.
-EXPLOSION
 
 ======
 
@@ -14192,7 +14088,7 @@ SON: Hey I do that!
 BEAR: Heck yeah little NAME FOR A KID
 SON: What are you up too now?
 BEAR: I'm heading off to see my wife
-FATHER: Your wife? That's cool, mine life NUMBER years ago
+FATHER: Your wife? That's cool, mine left NUMBER years ago
 BEAR: I think you guys might have already met her, you did just come from that direction
 FATHER: We didn't see her, the only thing in that direction was a rock that looked like STREAMER
 BEAR: That is my wife, we've been married for six years
@@ -28786,7 +28682,7 @@ JUDGE: As I was saying, this is true evidence about what happened. That explains
 PLAINTIFF: Yes. The defendant has no rizz.
 vine boom
 JUDGE: Does the defense have any closing statements?
-DEFENDANT: I am so sigma.
+DEFENDANT: That stupid plaintiff is skibidi as hell.
 vine boom
 JUDGE: Anyways, the court finds the defendant... VERDICT!
 courtroom sting
@@ -32849,74 +32745,6 @@ DA: (look toward the kitchen and scream) no I forgot about the FOOD!
 DA: (run towards cabinet, in the kitchen) Got to get my MED stash before it burns!
 GA: Now's the time ENDEARING make a run for it!
 GF: (scream in terror and run out stage right)
-
-======
-
-INFORMATION ===============================
-ID: 1040
-TITLE: Rescue Mission
-AUTHOR: Ahmadsyar
-VERIFIED: True
-TAGS: Skit
-SET: Forest Bridge
-DATE: 14/08/24
-CHARACTERS ================================
-LOSTPERSON: A lost person:In river
-RESCUER1: Rescuer:Stage Right
-RESCUER2: Another rescuer:On bridge
-SUGGESTIONS =============================
-PLACE1: A place:Utah Desert, Cherokee Forest, Sonoma Mountains
-CLOTHE1: A type of shirt:T-shirt, hoodie, jeans jacket
-COLOR1: Any color:black, blue, grey
-HAT1: Something you put on your head:fedora, beret, traffic cone
-INJURY1: Visible injury:cut, bruise, blister
-CALLSIGN1: Callsign for radio:India Golf Niner, Bravo Seal, Sierra Tango Seven
-VEHICLE1: A mode of transport:car, Helicopter, Plane
-ANIMAL1: A suitable animal for a pet:dog, cat, wolf
-PETNAME1: A name for a pet:Scruffy, Tails, Cerberus
-SCRIPT ==========================================
-Mystery music 1
-RESCUER1: It’s been 2 hours. How does this lost person look like again?
-Meanwhile LOSTPERSON: (Sleeping in the river) zzzzzz ...
-RESCUER2: He’s wearing a CLOTHE1 and COLOR1 pants.
-Meanwhile LOSTPERSON: (Sleeping in the river) zzzzzz ...
-RESCUER1: He’s also wearing a HAT1 right?
-Meanwhile LOSTPERSON: (Sleeping in the river) zzzzzz ...
-RESCUER2: That is correct.
-Meanwhile LOSTPERSON: (Sleeping in the river) zzzzzz ...
-RESCUER1: Report says he was last seen at this place which is called PLACE1.
-Meanwhile LOSTPERSON: (Sleeping in the river) zzzzzz ...
-LOSTPERSON: (Snoring) ZZZzzzz.
-RESCUER1: Shhh! Hey, did you hear that?
-RESCUER2: Yeah, I hear it too.
-RESCUER1: There! Someone under the bridge!
-RESCUER2: Wait! There’s a ANIMAL1 besides him.
-RESCUER1: Don’t worry. I’ll take care of that.
-gunshot
-RESCUER2: Sir? Sir? Are you alright? Can you stand up?
-LOSTPERSON: (still asleep) Zzzzzz.
-RESCUER1: Let’s see. He’s wearing CLOTHE1, COLOR1 pants and HAT1. This is the missing guy!
-RESCUER2: Here let me check his vitals. No fever, no severe trauma but he has some signs of INJURY1.
-RESCUER1: We need to get him out of there first.
-RESCUER1: Alright everything is set. Call for pickup.
-RESCUER2: Calling HQ, this is CALLSIGN1 team, ready for pickup at PLACE1.
-Typewriter: After 2 hours in the VEHICLE1.
-LOSTPERSON: AAHHH! Where am I?
-RESCUER1: Sir, please relax. You are being rescued.
-RESCUER2: You are safe now. We are in a VEHICLE1 heading towards the nearest hospital to treat that INJURY1
-LOSTPERSON: Where’s my stuff? Who are you? What do you mean rescued?
-RESCUER2: Please, relax. You’re probably dehydrated and have lost your bearing. You’ll recover shortly.
-LOSTPERSON: Wait, what happened to my PETNAME1? My beloved ANIMAL1?
-RESCUER1: Oh, that’s your ANIMAL1? We took care of it.
-LOSTPERSON: NOOOO. WHAT HAVE YOU DONE!? Why did you kill my PETNAME1?
-RESCUER2: Hey, calm down! We just took them down with a tranquilizer. We didn’t kill them.
-LOSTPERSON: Phew. That’s a relief.
-RESCUER1: Alright, I’m sure you’ll be glad that we found you and are taking you home.
-LOSTPERSON: What? No. I’m not lost. I’m just homeless.
-Music Stops
-record scratch
-RESCUER1: Oh. Ok this is awkward.
-LOSTPERSON: Can you at least send me back after my INJURY1 is healed?
 
 ======
 
@@ -36997,6 +36825,77 @@ CLERK: Yessssss, i am so smart, another great bargain
 ======
 
 INFORMATION ===============================
+ID: 1175
+TITLE: Bad Liar
+AUTHOR: Shamura_
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 06/11/24
+CHARACTERS ================================
+BRADLEY: Bradley:Backstage
+FRIEND1: Skeptical Friend:Stage Right
+FRIEND2: Relaxed Friend:Stage Right
+FRIEND3: Naive Friend:Stage Right
+SUGGESTIONS =============================
+FAMILY: A Family Member:Sister, Dad, Uncle, Grandpa
+GAME: A VideoGame:Clash of Clans, Fortnite, Apex Legends
+CARTOON: A Cartoon Character:Gumball, Leonardo, Zim, The Ice King
+AGE: A Age:7, 67, 4,86, 5
+COMPETITION: A Contest:Apple Bobbing Contest, Arm Wrestling Contest, Pie Eating Contest, Rap-Battle
+FAMOUS2: A Celebrity:Chris Helmsworth, Travis Scott, Elon Musk, Tom Holland
+BODY: A Body Part:Skull, Thigh, Neck, Finger
+MOUTH: Something You Can do with Your Mouth:Kiss, Lick, Bite, Chew
+JUMP: A Violent Act:Jump, Beat, Pound, Injure, Squash
+SCRIPT ==========================================
+double bass music
+FRIEND1: Look, I bet I have a higher level in GAME than all of you.
+FRIEND2: Okay. What level are you?
+FRIEND1: (Confidently) Level 8.
+FRIEND2: (Laughs) Dude you're that Low? You’re nowhere near me!
+FRIEND1: (Skeptical) What Level are you then?
+FRIEND2: I’m level-
+silly music 2
+Meanwhile BRADLEY: (Rushes Into Stage Left Excited) GUYS! You won't believe what just happened!
+FRIEND3: Hey Bradley!
+FRIEND1: (annoyed Sigh) what is it this time?
+BRADLEY: (Wheezes) It was insane guys, I just beat FAMOUS2 in a COMPETITION!
+FRIEND3: Really?! That's amazing!
+FRIEND1: (To Naive Friend) Don't listen to him man! He couldn't tell the truth if the world depended on it.
+BRADLEY: No it really happened, I swear!
+FRIEND2: Bro you need to stop with the lying You’re so horrible at it.
+BRADLEY: (To Relaxed Friend) It wasn't a lie man! That wasn't even the best thing that happened to me today!
+FRIEND1: (Sarcastically) Okay Bradley, what else happened to you today?
+FRIEND3: Yeah what else!
+BRADLEY: (Confidently) I was able to beat CARTOON in a game of GAME!
+FRIEND3: (Excited) That's really impressive!
+FRIEND1: (Annoyed) Oh come on Bradley! That’s not even possible!
+FRIEND2: (Laughing) That's something only a AGE year-old can believe Bradley. I told you, you’re not a good liar.
+BRADLEY: (Angrily) It’s not a lie! You’re just jealous of me!
+FRIEND1: No ones jealous of you Bradley.
+BRADLEY: Well if I’m such a bad liar, I won't tell you about the even better part of my day that's totally true!
+FRIEND2: (Sighs) No one wants another lie Bradley. Stop trying to entice us.
+FRIEND3: (nervously) Wait! I want to know.
+FRIEND1: (Surprised) There's no way you want to know.
+FRIEND3: Pleeeeease?
+FRIEND1: (Groans) Fine Bradley, what was soo special about today?
+BRADLEY: (Excited) Okay, okay. What happened today was…
+Music Stops
+BRADLEY: My FAMILY gave me a MOUTH on my BODY!
+scary music
+FRIEND1: (Stunned) You’ve got to be joking.
+FRIEND2: (Stunned) Why would you even say that?
+FRIEND3: (Amazed) Wow..
+BRADLEY: It really Happened!
+FRIEND1: (Given Up) You know what Bradley, just go.
+BRADLEY: (Confrontationally) Or what?
+FRIEND1: Or we’ll JUMP you till the point you won't be able to lie, let alone talk.
+BRADLEY: (Cowardly) okay, okay, I’ll go. Jeez (Walks out Stage Left)
+FRIEND1: I swear I hate that guy.
+
+======
+
+INFORMATION ===============================
 ID: 1176
 TITLE: The young divorce
 AUTHOR: Smg4M3meKryst4l
@@ -37382,6 +37281,246 @@ NARRATOR: I was charged with resisting arrest with violence, eluding and fleeing
 Meanwhile OFFICER: (Search the suspect respectfully).
 NARRATOR: I would be sentenced to NUMBER B years in prison.
 OFFICER: Just shut up. Who are you even talking to?
+
+======
+
+INFORMATION ===============================
+ID: 1235
+TITLE: The Parent-Teacher Association
+AUTHOR: MindlessGonzo
+VERIFIED: True
+TAGS: Skit
+SET: Classroom
+DATE: 15/11/24
+CHARACTERS ================================
+STELLA: Stella, a struggling widow:Entrance Stage Right
+SECRETARY: The PTA's Secretary:Center Stage
+PRESIDENT: The PTA's President:Teacher Desk
+VICE: The PTA's Vice President:Center Stage
+SUGGESTIONS =============================
+NAME: A Full Name (Can Be Anyone):John Doe, Jane Doe, Victor Von Frankenstein, Rachel Gardner
+CLOTHES: An Article of Clothing:sundress, wife-beater shirt, short skirt, pair of ripped jeans
+SHADY: A Place of Business:Tesla, Hooters, Mar-a-Largo, the local drug den
+STREET: Name of a Street, Road, or Highway:Interstate 465, Main Street, Martin Luther King Boulevard, Nickel Plate Road
+PRODUCT: A Product Or Service You Sell:window washing, Girl Scout Cookies, life insurance, Hoover Vacuum Cleaners
+JOB: A Occupation:postal worker, fire fighter, waiter, Amazon Warehouse worker
+DRINK: A Drink (Either Alcoholic or Not):Miller Lite, rum and Coke, GamerSupps, Red Bull
+TABLOID: A Drama Publication, Show, or Channel:National Enquirer, The Daily Mail, Inside Edition, TMZ, Drama Alert
+SCRIPT ==========================================
+shark tank discussion music 1
+TYPEWRITER: Harper Valley Junior High School;Open House Night
+PRESIDENT: Alright, you two. Front of the desk, all prim and proper.
+PRESIDENT: Stella's about to come here. I made sure it's 8 on the dot in that letter, tonight, in this very classroom.
+VICE: I'm ready, president.
+SECRETARY: Same here.
+PRESIDENT: Right, any second now...
+knocking on door
+Music Stops
+PRESIDENT: Enter.
+noir music 1
+STELLA: (Enter, suspicious) You wanted to see me?
+STELLA: Must be important to pull me specifically away from Open House Night at the school.
+PRESIDENT: Yes. I'm the president of the Harper Valley Parent Teachers Association, NAME
+PRESIDENT: I brought along my vice president and secretary of the association to address concerns about you, specifically.
+STELLA: Concerns? I haven't broken any laws or rules.
+VICE: We've noticed you keep wearing a rather scandalous CLOTHES out in public.
+STELLA: That's it? Sounds harmless.
+SECRETARY: Trust us, it's not. You look like you work at SHADY
+STELLA: (get offended) What?
+PRESIDENT: We also notice you like to frequent the bar on STREET
+STELLA: I work there!
+SECRETARY: And you go door-to-door quite a bit.
+STELLA: To sell PRODUCT so my child doesn't starve!
+VICE: How unbecoming of a parent. What would your husband think?
+STELLA: (nearly crying) You heartless human being, my husband died years ago from a car accident!
+PRESIDENT: Enough excuses, missy!
+PRESIDENT: No kid should have to deal with such a floozy of a mother.
+PRESIDENT: Such is unbecoming of our quaint little Harper Valley community.
+PRESIDENT: Either you get your act together or we'll pull your kid right out of high school.
+STELLA: You wouldn't...
+PRESIDENT: If I have to, I shall.
+PRESIDENT: Kids are the future, after all.
+PRESIDENT: What would the others think of their kid's mother being such a loose woman?
+Music Stops
+STELLA: (realize, then chuckle)
+VICE: What's so funny?
+STELLA: I just had a funny thought. That's all.
+VICE: What?
+Meanwhile SECRETARY: What?
+STELLA: If that's the case, then what would the others think of your spouse hitting on others, President NAME ?
+telenovela sting 1
+PRESIDENT: (angry) What?! Where'd that come from?!
+noir music 4
+STELLA: Did you forget? I work the bar on STREET.
+STELLA: They always come nightly, probably to get away from such a control freak like you.
+STELLA: Lost count on how many times they even hit on me.
+PRESIDENT: You, devil woman!
+STELLA: And Vice President?
+VICE: Yes?
+STELLA: I wonder what others would think about how yours is cheating on you with the JOB every time you're out of town?
+vine boom
+STELLA: Been the talk of the housewives for quite some time. They're jealous.
+VICE: Oh no...
+STELLA: And finally the secretary.
+SECRETARY: Now, what?
+STELLA: I can smell it all the way here. Did you had a DRINK before tonight to tolerate the screaming kids?
+vine boom
+SECRETARY: (smells breath) It was only one drink.
+PRESIDENT: (to SECRETARY) Quiet, you!
+STELLA: (mad) What Harper Valley hypocrites.
+STELLA: Talking a lot of smack about me trying to make ends meet so my kid can get the life I never got.
+STELLA: While you lot have skeletons in your closet worthy of TABLOID
+Music Stops
+PRESIDENT: Fine! Enough! We'll leave you alone.
+PRESIDENT: Just don't let the whole town know!
+STELLA: (smugly) Pleasure doing business with you.
+STELLA: Hey, maybe come down by the bar after this Open House event is done.
+STELLA: I got a great DRINK and one of the regulars might help you out on your marriages.
+SECRETARY: Fine, I guess...
+VICE: I'll pass for now.
+PRESIDENT: Guess I'll take you up on that offer.
+STELLA: So glad we worked this out.
+STELLA: Man, this would make a great country song!
+telenovela sting 2
+TYPEWRITER: And that was the day my momma socked it to the Harper Valley PTA.
+TYPEWRITER: The End!
+
+======
+
+INFORMATION ===============================
+ID: 1249
+TITLE: A Man Has Fallen Into The River!
+AUTHOR: houseerikson
+VERIFIED: False
+TAGS: Skit
+SET: Interrogation Room
+DATE: 20/11/24
+CHARACTERS ================================
+CHIEF: The Paramedic Chief:Corner Right 
+ROOKIE: The Rookie Paramedic:Corner Left
+OFFICER: The Apathetic Paramedic:Chair
+SUGGESTIONS =============================
+CITY: Any City (Real Or Fictional):Florida, Toronto, Berlin, Paris
+TIME: A Time Of Day:1200, 420, 730, 950
+HOBBY: Something You Would Do In Your Spare Time:Gaming, Streaming, Knitting, Reading
+FOOD: The Name Of A Fast Food Restaurant:McDonalds, Burger King, Wendy's, KFC
+SLIP: Something You Could Slip On:Banana Peel, Puddle, Ice, 
+VEHICLE: A type of vehicle:Helicopter, Bus, Plane, Motorbike
+SCRIPT ==========================================
+(Courtroom Music)
+TYPEWRITER: CITY City, TIME AM
+CHIEF: Alright, you two! Listen up!
+ROOKIE: Uhm...why did you call us in, chief?
+OFFICER: Yeah, I was busy. You interrupted my HOBBY session.
+CHIEF: Forget your HOBBY session! We have an emergency!
+ROOKIE: Oh no...what happened?
+CHIEF: A man has fallen into the river in CITY City!
+(Vine Boom)
+(Tense Cinematic Music)
+ROOKIE: (GASP) Oh no!!!
+OFFICER: (Unconcerned) oh no....
+ROOKIE: What happened???
+CHIEF: Eyewitnesses say that the man was walking near the river, and suddenly slipped on a SLIP!
+ROOKIE: How horrible! Somebody should call 9-11!
+OFFICER: We are 9-11, idiot.
+CHIEF: Enough, you two! We need to focus! Each second we waste here, that man gets close to drowning!
+ROOKIE: Understood sir! (Salute)
+OFFICER: Ugh...Can't you two handle this? It's TIME in the morning and I have to get back to my HOBBY.
+CHIEF: Nope. We're going to need all hands on deck for this one!
+OFFICER: (sigh) Fiiiinnee...
+CHIEF: Alright, you two! Go on and start the new rescue VEHICLE!
+ROOKIE: Okay! We'll start the new...rescue...VEHICLE....
+OFFICER: Uh oh....
+CHIEF: What do you mean "Uh oh"?
+ROOKIE: We....kinda forgot to build it...
+(Record Scratch)
+CHIEF: WHAT???
+(Groose Music)
+CHIEF: You two haven't built it yet?!
+ROOKIE: I told you he'd be upset!
+OFFICER: Look, chief! We had a good reason! FOOD was having a buy one, get one free deal!
+CHIEF: You neglected to build our VEHICLE to get a FOOD offer???
+OFFICER: Well, when you put it like that, it sounds awful...
+CHIEF: You idiots! A man's life hangs in the balance!
+ROOKIE: We're so sorry Chief!
+OFFICER: I'm not.
+CHIEF: (sigh) Alright...we've got no choice....rookie, get to building it! Now!
+ROOKIE: Wha..??? But, sir, I don't know how to build a VEHICLE!
+CHIEF: I don't remember asking if you knew, just build it!
+OFFICER: Hah! Sucks to be you!
+CHIEF: Don't think you're getting out of helping him either!
+OFFICER: WHAT?! But...but my HOBBY session!
+CHIEF: I couldn't give a crap about your HOBBY! There is a man drowning in the river right now, and we need to-
+(Cellphone Vibrate)
+CHIEF: Oh, sorry, hold on...
+CHIEF: Yes? What is it...wait...what? Really? Oh...well, okay then...bye...
+CHIEF: Soooo.....it turns out the man's gonna be okay.
+ROOKIE: Wait, what? Did someone else save him?
+CHIEF: No, he just knew how to swim and was able to get out himself...
+OFFICER: Oh...that's anti-climactic...
+CHIEF: Well then, I guess we don't need the rescue VEHICLE after all.
+ROOKIE: Guess not.
+OFFICER: Can I get back to my HOBBY session now?
+CHIEF: No.
+
+======
+
+INFORMATION ===============================
+ID: 1254
+TITLE: A Career-Saving Product
+AUTHOR: lemonscupoftea
+VERIFIED: True
+TAGS: Skit,Infomercial
+SET: Conference Room
+DATE: 23/11/24
+CHARACTERS ================================
+EMPLOYEE: A tired and overworked employee:Office Chair 3
+BOSS: A boss trying to keep the company afloat:Boss Chair
+BILLY: Billy Mays, salesperson:Backstage
+SUGGESTIONS =============================
+SCANDAL: Something a company would do to become hated:Selling faulty printers, harassing customers into buying more
+GOOD DECISION: A good decision you could make for yourself:not selling babies on the internet, paying your landlord the rent on time
+HAHA UNEMPLOYED ACTION: A hobby that will get you no where in life:Making the cereal in your mouth every time, being able to open windows fast
+WEAPON: A threatening weapon:AK-47, Glock-17, medieval flail, butter knife
+REASON TO LIVE: A good reason to live starting with I:I left the oven on, I have a wife and kids
+SCRIPT ==========================================
+Jazz music 1
+BOSS: As you know, our company is currently struggling because of the economy, and totally not the discovery that we have been SCANDAL
+EMPLOYEE: Yes, I'm quite aware this. What does this have to do with me being brought into a one-on-one meeting today?
+BOSS: You've been quite loyal to this company for years, and we appreciate that greatly. We understand you had to hold off on GOOD DECISION
+EMPLOYEE: I'm just glad I'm finally being appreciate for my hard work.
+BOSS: Oh, absolutely! Which is why I'd like to you to keep that in mind when I tell you...
+EMPLOYEE: Yes, a promotion! Finally!
+Music stops
+Crashing debris
+BOSS: You're getting a paycut.
+EMPLOYEE: What.
+Gameshow intro
+BILLY: (Enter stage left)
+Music stops
+Corporate guitar music
+BILLY: Has this ever been you? Stuck at an office job that doesn't pay well because Mom never told you HAHA UNEMPLOYED ACTION won't work on your resume?
+EMPLOYEE: (Dramatically sigh) If only someone told me HAHA UNEMPLOYED ACTION wouldn't get me far in life...
+BILLY: (Point to audience) It's not too late for you, though!
+Music stops
+Gameshow start
+Draw sword
+BILLY: Introducing the "WEAPON"!
+BILLY: Truly a new product with technology that's never been used before.
+BILLY: With the WEAPON, just pointing it near someone makes them wish they never met you! They'll follow every demand of yours, no matter how big!
+EMPLOYEE: (Rocking back and forth in their seat and their head in their hands) I can't do this anymore. I can't work for this company where I'll never move up.
+BOSS: Sorry? What was that?
+EMPLOYEE: (Still rocking back and forth) I held off on GOOD DECISION, just to be treated like this...?
+BILLY: Here's a quick demonstration of the product in action!
+Music stops
+Draw sword
+Lacrimosa music
+EMPLOYEE: (Rise from seat and draw WEAPON from pocket)
+BOSS: (Surrender and cower in fear) I surrender!
+EMPLOYEE: I want a raise.
+BOSS: I'll give you anything, please! Just don't attack! REASON TO LIVE!
+BILLY: I am not responsible for any injuries or fatalities caused by the WEAPON.
+Infomercial disclaimer
 
 ======
 
