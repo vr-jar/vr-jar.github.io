@@ -2612,7 +2612,6 @@ onionstick
 lost_ssouls_
 °༒N༒°
 Swordpolicy
-~Ashes~Fall~
 Ａｒｔ３ｍｉｓ
 SparkyNightWolf
 _Gene_
@@ -2751,6 +2750,7 @@ Zerofourk
 T0XIC_BUBBLEGUM
 FluffyLucky
 CONEHEAD1230
+~Ashes~Fall~
 #TIER=3
 SidMarcus
 PinballReviewer
