@@ -1087,7 +1087,6 @@ The_Spacemower
 ︻デM̷u̷f̷f̷i̷n̷一
 Dehmg x3
 JamieLaLora
-Diablo8421
 Gexzy
 ESO_ZAMASU
 SirupyCord
@@ -2010,6 +2009,7 @@ Edel_The_Knight
 Noahchi
 Nick0903
 ~Принц теней~
+A nightfury
 modNick
 ruralists
 #TIER=1
