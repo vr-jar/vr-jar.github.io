@@ -37683,3 +37683,87 @@ NARRATOR: The true magic of Christmas isn’t in presents or decorations—it’
 
 ======
 
+INFORMATION ===============================
+ID: 1267
+TITLE: The Legend Of Dumb Dumb Kid
+AUTHOR: randomnpcq12
+VERIFIED: False
+TAGS: Skit
+SET: City
+DATE: 26/11/24
+CHARACTERS ================================
+Dumb Dumb Kid: A dumb kid:Alley
+Scammer: A scammer :Backstage
+Dave: Another scammer :Backstage
+SUGGESTIONS =============================
+SOMETHING A KID WOULD WANT: Something a kid would want:Playing card, Ball, Lego, RC car, New game
+A BIG NUMBER: A big number:100, 50, 200, 150
+WEAPON: A type of weapon :Gun, Sword, Spear, Dagger
+A VERY BIG NUMBER: A very big number :200, 500, 700, 900
+SOMETHING VALUABLE: Something that a kid should not have :Moms credit card, Diamonds, Necklace
+FACIAL FEATURE: Part of someone's face.:Nose, Eyes, Mouth, Ears
+A NECESSITY TO LIVE: Something you need to survive.:Food, Water, Shelter, Clothing
+ACTION: A violent action:bonk, stab, jiggle, slap, choke
+SCRIPT ==========================================
+Double Bass Music
+Dumb Dumb Kid: Oh no I need a SOMETHING A KID WOULD WANT but I don’t have one.
+Scammer: (Enter stage right) Hey there kid, want a SOMETHING A KID WOULD WANT?
+Dumb Dumb Kid: Oh gee willikers stranger would you give me one?
+Scammer: No need for that stranger word kid, you can call me Scammer.
+Dumb Dumb Kid: Ok Scammer! Do you really have a SOMETHING A KID WOULD WANT that you’re willing to give me?
+Scammer: Sure, for the low low price of A BIG NUMBER dollars.
+Dumb Dumb Kid: Wowie what a steal!
+Scammer: You have no idea.
+Dumb Dumb Kid: (Buy the item from Scammer) Thank you so much!
+Scammer: Good choice kid, all sales are final bye! (Run out to stage right)
+Dumb Dumb Kid: Now let's see how it looks...
+Dumb Dumb Kid: Wait a minute... This isn’t right… I think I’ve been scammed!
+Dumb Dumb Kid: That Scammer fellow! Because of him I lost all my money and don’t have enough for A NECESSITY TO LIVE!
+Dumb Dumb Kid: And worst of all…I still don’t have my SOMETHING A KID WOULD WANT!
+Dumb Dumb Kid: I can’t believe that Scammer fellow scammed me! I never could have seen it coming!
+Dumb Dumb Kid: If I ever see his face again, I’m gonna give him a knuckle sandwich!
+Dave: (Enter stage right) Hey there kid, I overheard that you don’t like Scammer.
+Dumb Dumb Kid: That’s right stranger! I hate him and his dumb FACIAL FEATURE!
+Dave: Hey there kid, no need to use the "S" word. You can call me Definitely Not Scammer.
+Dumb Dumb Kid: You got it Definitely Not Scammer. I really hate Scammer.
+Dave: Well then, have I got the perfect thing for you!
+Dumb Dumb Kid: Do you?
+Dave: I do.
+Dumb Dumb Kid: What is it?
+Dave: It’s called a WEAPON.
+Mystery Music 1
+Dumb Dumb Kid: What’s that?
+Dave: Don’t worry about it. All you gotta do is point it at him, ACTION him with it, and boom, he’s gone for good!
+Dumb Dumb Kid: That sounds amazing! How much do you want for it?
+Dave: Just for you kid. A VERY BIG NUMBER dollars.
+Dumb Dumb Kid: I don’t have that much…
+Dave: I also accept SOMETHING VALUABLE.
+Dumb Dumb Kid: That’s perfect! I conveniently have that with me right now! (Hand over the item)
+Dave: Good choice kid, all sales are final bye! (Run out stage right)
+Dumb Dumb Kid: Oh ho ho! Next time I see that Scammer again… heh heh… he’ll never know what hit him!
+Tense Cinematic Music
+Dumb Dumb Kid: If it weren’t for that Scammer and his lies I would have had my very own SOMETHING A KID WOULD WANT by now.
+Dumb Dumb Kid: But now the time has come…
+Dumb Dumb Kid: For me to get my revenge on that baddie three socks!
+Dumb Dumb Kid: Thanks to that Definitely Not Scammer, who gave me this weird device I've never seen before.
+Dumb Dumb Kid: I think he called it a WEAPON or something.
+Dumb Dumb Kid: Now I just need to wait for that dunderhead to show his face around here again!
+Scammer: (Enter again from stage right) Hey there kid, want a SOMETHING A KID WOULD WANT?
+Dumb Dumb Kid: Gee! A SOMETHING A KID WOULD WANT! Sure!
+Dumb Dumb Kid: ---Wait! I’m not falling for that again, Scammer!
+Scammer: Oh come on kid. I’m just offering SOMETHING A KID WOULD WANT to the less fortunate.
+Dumb Dumb Kid: And yet the one you gave me was a phony!
+Scammer: ... Oh damn… That was you…
+Dumb Dumb Kid: It was! But now I have this! (Point the weapon at Scammer)
+Scammer: Woah there kid! No need to get hasty now!
+Dumb Dumb Kid: A very trustworthy fellow in the other alley gave this to me! And he said to use it on you!
+Scammer: OF COURSE! It was him! My brother! Definitely Not Scammer!
+Scammer: That son of a-!
+Music Stops
+Gunshot
+Scammer: Ow... (Drop to the floor)
+Dumb Dumb Kid: (Walk over to Scammer and pick up something from them) What's this?
+Dumb Dumb Kid: (Stand there for a moment in silence) Wowie! A real SOMETHING A KID WOULD WANT! What a steal!
+
+======
+
