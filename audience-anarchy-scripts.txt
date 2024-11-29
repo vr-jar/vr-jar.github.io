@@ -37388,6 +37388,116 @@ TYPEWRITER: The End!
 ======
 
 INFORMATION ===============================
+ID: 1243
+TITLE: Larry the Loser
+AUTHOR: EvaThatOneGuy
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 17/11/24
+CHARACTERS ================================
+LARRY: Dad:Couch
+CHILD: Young child:Backstage
+THE WIFE: Wife:Kitchen
+GARY: Gary, cool uncle:Backstage
+MARGE: Marge, lawyer:Backstage
+SUGGESTIONS =============================
+CATCHPHRASE: Amazing catchphrase:Bogus, Excellent, Boomerang 
+ITEM: Something you might own:3 foot cheese wheel, Spongebob Statues, a house
+NAME: First name:Donna, Logan, Popeye
+SPORT: A sport:Tennis, Football, Soccer
+ANYTHING: Literally anything:Goose, Jim Carrey, Ham
+MIDDLE: Middle name:Lee, Goblin, Kelp 
+LAST: Last name:Washington, Hickey, Logan
+NOUN: A noun:Jack Black, New york, Lead pipe
+NUMBER: Any number:1, 25, 701
+SCRIPT ==========================================
+guitar music 1
+Typewriter:Meet Larry, a loser. this was 20 years ago...
+THE WIFE:Larry.
+LARRY:Yes wife?
+THE WIFE:Why are you a loser?
+Typewriter:Now 12 years ago...
+LARRY:I'm off to work honey!
+THE WIFE:Just don't be such a loser the first day you get fired, mkay hun?
+LARRY:Yes honey.(exit front door go backstage)
+Typewriter:Two hours later...
+LARRY:(enter stage right)I'm back.
+THE WIFE:That fast,must be a short work day?
+LARRY:No i got-(sigh),I go-,(gulp), I got fired.
+Typewriter:Now 7 years ago...
+LARRY:(go to the child) He is going to say his first word!
+CHILD:da- da- DAD IS A LOSER!
+THE WIFE:He said four words!
+Typewriter:Finally Today...
+CHILD:(sit on couch)
+meanwhile LARRY:(sits on couch)
+LARRY:Today is it! If I'm not going to get out of my brother shadow I'll never be not a loser!
+CHILD:what makes you think that? isn't your brother the only cool thing about you?
+LARRY:That's a good point, but i don't care!
+GARY:(Walk through stage right door)
+break down door
+GARY:Sup my excellent-dude-bro!
+Typewriter:Look kids, it's Uncle Gary!
+crowd woo
+70s music
+CHILD:Uncle Gary! I wish you were my dad!
+LARRY:Ohh NOUN.It's Gary
+GARY:How's it going Larry
+LARRY:I want a divorce!
+GARY:What the CATCHPHRASE!
+LARRY:you heard me! I don't wanna be brothers anymore
+THE WIFE:(walk to Larry)Larry,can you sign hear on this paper?
+LARRY:Sure thing hun.(sign paper)
+THE WIFE:Thanks but don't call me hun anymore,and stay 25 feet away from me a all times.
+LARRY:What?
+THE WIFE:Oh, yeah.This a divorce and restraining order form. And I'm Taking the house, car, plants, and ITEM with me.
+vine boom
+emotional piano music
+LARRY:What? What about NAME?
+THE WIFE: I put him up for adoption but no one would take him because his dad is a loser.
+CHILD:Uncle Gary will you adopted me?
+GARY:Hell no, your dad is loser. Loser is in your blood.
+THE WIFE:Can you sign hear Gary?
+GARY:Sure(sign the paper) what did I sign?
+THE WIFE:Marriage papers, we're married now hun!
+happy music 1
+GARY:CATCHPHRASE! I'm not a loser!
+LARRY:I'm calling the brother lawyer.
+LARRY:(Hold hand up to ear)Yes, brother lawyer, no, yes, yes i'm that loser guy on the news! See you soon.
+Meanwhile MARGE:(Go to front door)
+doorbell
+THE WIFE:I'll get it!
+MARGE:(walk on stage)Are you to gentlemen the ones getting divorced?
+courtroom sting
+LARRY:Yes ma'am.
+Meanwhile Gary:Yes-way dude!
+MARGE:Sign hear
+LARRY:Okay.(sign paper)
+Meanwhile GARY:CATCHPHRASE!(sign paper)
+MARGE:You to are now not brother's
+LARRY:Yes(celebrate)
+GARY:Bogus, now I have no brother.
+MARGE:Hey Gary, sign this paper please.
+GARY:Okay(sign paper) what did I sign?
+MARGE:Marriage papers, we're married now!
+GARY:Wow, two wifes! Excellent! That's better than the NUMBER of wife's I had before
+GARY:Well I better get going Larry, I have a My ANYTHING farm to work on, and practice SPORT because I'm not a loser (laughing), CATCHPHRASE!
+GARY:Come on ladies,let's get outta here.(Exit through entrance door)
+THE WIFE:(Exit through entrance door) Mmmkay hun.
+MARGE:See ya loser(Exit through entrance door)
+Typewriter:What a loser
+LARRY:Why is my life like this.
+CHILD:I'm going to find a non-loser father, Bye Larry MIDDLE LAST .(Exit through entrance door)
+LARRY:What have I done with my life.
+emotional piano music
+LARRY: I have no wife, no kid, the coolest thing about me was my brother, he had a successful ANYTHING farm, and really good at SPORT, but I threw it all away.
+Typewriter: Remember kids, if your feeling like you're a loser, don't throw away the people in your life, spend time with them. be happy.
+Typewriter:Larry on the other hand will always be a loser because his pain and suffering is funny.
+
+======
+
+INFORMATION ===============================
 ID: 1249
 TITLE: A Man Has Fallen Into The River!
 AUTHOR: houseerikson
@@ -37525,6 +37635,88 @@ Infomercial disclaimer
 ======
 
 INFORMATION ===============================
+ID: 1256
+TITLE: Iron Fist: Tyson vs. The Ape Uprising
+AUTHOR: Naquill3 31cb
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 24/11/24
+CHARACTERS ================================
+CESAR: Caesar, monkey:Center Stage
+HARAMBE: Harambe, gorilla:Alley
+MAURICE: Maurice, orangutan:Stage Left
+MIKE TYSON: Mike Tyson:Entrance Stage Right
+JEFF: Jeff, monkey ):Stage Right
+SUGGESTIONS =============================
+PLACE: a location:the city of madagascar, alaska, america
+FOOD: a type of food:banana, apple, orange
+TRIGGER WORD: a word that you say when u get hurt:Dingle, Ow, Monkey Jesus
+NICKNAME: a nickname:bub, buddy, pal, sport, mate
+KINGDOM: a name of a kingdom:Ape kingdom, ape palace, ape jungle team
+FEELING: a feeling:hungry, happy, angry, sad
+PHYSICAL: a physical action:fight, swim, climb
+NOISE: a noise when u do something physical:haiyaa, hah, oowaa
+SCRIPT ==========================================
+epic fantasy music 2
+Cesar: Monkeys, today we will take PLACE! All of the FOOD is ours to claim!
+Jeff: Yes! Bananas, tacos, all of their delicious FOOD!
+Jeff: We will take every last bite of it! (Laughs loudly)
+Maurice: Since we are taking over PLACE, we can become the new rulers of the KINGDOM!
+Maurice: We are even smarter than the humans! They won’t stand a chance!
+Cesar: Indeed, my fellow ape. Once we take over PLACE, we might as well take over the entire planet! The world will be ours!
+Jeff: Just think of all the food we could have! We’ll never go FEELING again!
+Cesar: And we’ll show the humans who’s really in charge!
+Maurice: We’ll be the next great civilization! Better than the humans ever were!
+music stops
+Mike Tyson: (Enter stage right) Hold up, hold up—what do we have here? What are you monkeys up to?
+epic fantasy music 1
+Cesar: Silence, human! We are going to take over your entire city, and maybe even the entire planet!
+Mike Tyson: Oh, you’re gonna take over the city? You’re not even strong enough to take over a kitchen!
+vine boom
+Harambe: (Offended) You dare mock us, human? Our intellect is far superior to yours!
+Harambe: We’ve outsmarted you already! You humans don’t even know how to PHYSICAL!
+Mike Tyson: (Chuckles) Oh, I beg to differ, big guy.
+Cesar: Ha! You think you can stop us? You’re just one human!
+Jeff: He’s all talk! We’ll handle him with ease!
+Jeff: Honestly, we could take him down with one hand tied behind our backs!
+Maurice: (Laughs) Yes, the humans are weak. They can't even fight our kind!
+Cesar: We’ll crush you without a second thought!
+Mike Tyson: Oh yeah? And how exactly are you gonna do that?
+Mike Tyson: You guys can’t even handle a simple toaster! How do you expect to take over a city?
+Vine Boom
+Mike Tyson: (raises fists) Let's go NICKNAME, show me what you got. NOISE (Punches Jeff)
+Fistfight
+Jeff: (Stumbles, shocked) What—what just happened?
+Mike Tyson: That’s what happens when you mess with me, kid.
+Jeff: (Collapsing) TRIGGER WORD... I... can’t... ( loses consciousness )
+Maurice: (Shocked) Holy...
+Maurice: Jeff just... got knocked out! What is going on here?!
+Vine Boom
+Mike Tyson: You guys really thought you could take me down? You’re not so tough after all.
+Cesar: (Nervously) Who... who are you, really?
+waterphone
+Mike Tyson: (Smirks) I’m Mike Tyson. And I don’t play games.
+record scratch
+Cesar: Mike Tyson... I’ve heard of you. You’re the one who... made a name for yourself in the ring, right?
+Maurice: (Eyes wide) Wait, that Mike Tyson? The one who never loses?
+Harambe: (Backs away) Oh no... this is bad.
+Cesar: Oh
+Maurice: My...
+Harambe: God... we’re done for.
+Mike Tyson: (Cracks knuckles) So, who’s next? You want a piece of this?
+epic fantasy music 2
+Cesar: (Panicking) RETREAT! We can’t win this battle! (Exit stage left, screaming)
+Maurice: (Backing away) I just remembered I’ve got something to take care of... (Exit stage left, screaming)
+Harambe: (Sighs in defeat) Even I can’t take down the legendary Iron Fist Tyson. I... I need to rethink my life. (Exit stage left, screaming)
+music stops
+tada
+Mike Tyson: (Laughs) Man, that was fun. I should do this more often.
+Mike Tyson: Wait a second... I forgot to bite one of their ears off. Guess I’ll save that for next time!
+
+======
+
+INFORMATION ===============================
 ID: 1259
 TITLE: Quadrillionares
 AUTHOR: Temple475
@@ -37601,9 +37793,94 @@ aww
 ======
 
 INFORMATION ===============================
+ID: 1263
+TITLE: Romantical Clone War
+AUTHOR: wolffreak
+VERIFIED: False
+TAGS: 
+SET: Restaurant
+DATE: 26/11/24
+CHARACTERS ================================
+THE GUY: The Original Guy:Entrance Stage Right
+THE GIRL: The Romantical Date:Chair 2
+CLONE 1: First Clone:Backstage
+CLONE 2: Second Clone:Backstage
+CLONE 3: Third Clone:Backstage
+CLONE 4: Final Clone:Backstage
+SUGGESTIONS =============================
+NAME1: The name of a terrible/weird person:Waluigi, Jake from State Farm, Bill Gates
+NAME2: A cutesy gamertag:CinnApple21, P1nkBunny, Kissygirl4000
+NAME3: A typical VRchat username:WillySmith, Bozo2345, SkibidiEater69
+FOOD: Something edible:spaghetti, roast beef, steak and potatoes
+TRICK: An action or skill ending in -ing:lockpicking, kicking, punching
+ANIMAL: A type of animal:dog, squirrel, skunk
+WEIRD: An adjective for an undesirable trait:kinky, small, weird
+JUNK: Weird item:magazine, card, toy
+SCRIPT ==========================================
+THE GIRL: Man my date is ten minutes late...I hope he's not ghosting me. My luck is always so awful.
+THE GIRL: Last time my date ended up being NAME1...I hope this person matches their profile.
+THE GUY: (Enter from Stage Right) Ah, sorry I'm late! Bad...traffic haha! (laugh awkwardly)
+THE GUY: (Sit down at the table) So uh...you're NAME2, right?
+THE GIRL: Yep. And you must be NAME3...you actually do look a lot like your profile picture. So far so good.
+THE GUY: And you're even prettier in person! Don't worry, you can order whatever you want! I'll pay!
+THE GIRL: Really? You're too sweet! (Look at menu)
+THE GIRL: Um, I think I'll take the FOOD. Is that okay?
+THE GUY: Of course! I think I'll have that too!
+THE GIRL: Great, well now we just have to get our waiter's attention.
+THE GUY: Oh, don't worry, I'll wave them down-
+CLONE 1: (Burst in from Stage Right) NAME3! What do you think you're doing?!
+THE GUY: (Stand up and turn around) Hey! I thought I told you to stay back home!
+CLONE 1: And miss out on an opportunity like this?! Don't you know yourself better than that?
+THE GIRL: (Act confused) Who is this? Do you have a twin brother?
+THE GUY: (TRY NOT TO PANIC) Ohhh, yeah, this is totally my twin haha...
+CLONE 1: Actually my name is also NAME3, I'm their clone. And they told me it was MY turn to go out, right NAME3?
+THE GUY: A date is different! I'm the original, I get romance! That's how it works!
+THE GIRL: So your claims of being a mad scientist weren't just roleplay then after all...
+CLONE 1: (Act frustrated) Ugh, you ALWAYS use that excuse! You make me do the laundry, the dishes, sweep the floor...all while you do stuff like this! It's not fair!
+CLONE 2: (Come in from Stage Left) Yeah! Not fair!
+THE GUY: Oh great...another one.
+THE GIRL: Still not the weirdest thing I've seen, not gonna lie.
+CLONE 1: That's right, we're standing up to you this time! We won't be pushed around any longer!
+CLONE 2: Yeah! No pushing!
+THE GUY: (Turn to your date) I'm so sorry about all this, maybe we should try again another time-
+CLONE 3: (Enter from stage right) OH NO YOU DON'T! THIS IS OUR NIGHT! IT'S ALL OR NOTHING, BABY!
+THE GUY: (Cover your face with your hands) This is a complete disaster. I should've locked the basement...
+CLONE 3: Pfft, you think a little lock would've stopped us? Your trained in TRICK, remember?
+CLONE 1: Hey, where's the other NAME3?
+CLONE 4: (enter in slowly from stage right, act out of breath) Sorry had to...hah...run from an ANIMAL, those things are crazy!
+THE GIRL: They sure are, aren't they? Anyways...can you guys do this later? I'm really hungry.
+THE GUY: (turn towards date) Sorry, maybe we could go somewhere else? Or reschedule? I don't think I can reign them in.
+CLONE 1: NO WAY! We're not letting you go ANYWHERE!
+CLONE 1: (point at one of the clones) You! Block the door!
+CLONE 3: I'll do it. (Walk in front of the stage right door)
+CLONE 1: Great. Now, NAME3, you either let me take this date or we'll take YOU out.
+CLONE 4: Nice one!
+CLONE 2: Yeah, nice one!
+CLONE 3: Wait wait, why do YOU get to go on the date? What about the rest of us?
+CLONE 1: Well-
+THE GIRL: Ugh, come on already guys! Hasn't it occurred to you that you could just ALL date me?
+THE GUY: What??
+Meanwhile CLONE 1: What??
+THE GIRL: Yeah, it would be like a weird harem! I wouldn't mind!
+CLONE 1: No, no, no, no, that's not how it works! You have to choose one of us! And that one is going to be me.
+CLONE 3: Why YOU? I swear you always think you're the big cheese just because you're the first clone.
+CLONE 1: That's not true!
+CLONE 2: Yeah! Not true!
+CLONE 1: (turn to clone who just talked) Would you shut up already?
+CLONE 3: (step away from the door) The nice lady is offering to try to date ALL of us, that's a pretty good offer I'd say.
+THE GUY: Absolutely NOT. She wouldn't be able to handle all of us. We're too WEIRD. Adding more of us will just make it worse.
+THE GIRL: Wow that's a self-report.
+CLONE 1: Why would you say that?!
+CLONE 4: Well he has a point. If they found our JUNK collection, I doubt they'd think very highly of us.
+THE GIRL: Okay...now I'm starting to think I don't want to date ANY of you...
+CLONE 1: You guys are so terrible at this, that's why I should be the one on the date!
+
+======
+
+INFORMATION ===============================
 ID: 1266
 TITLE: The Night Of Evil Santa
-AUTHOR: crayoneaterhq e4c4
+AUTHOR: yummytepotatoes
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -37832,6 +38109,91 @@ Pizza Bandit: At least I still tipped them right?!
 Victim: My pizza didn't have PIZZA TOPPING 1 on it!
 Pizza Bandit: Yeah, the pizza runner should've said something like, "No, that's not yours!" Pay more attention!
 Pizza Bandit: You could've just picked the PIZZA TOPPING 2 off the pizza!!
+
+======
+
+INFORMATION ===============================
+ID: 1269
+TITLE: A questionable Thanksgiving
+AUTHOR: Voco1
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 28/11/24
+CHARACTERS ================================
+KID: The Kid:Side Door
+MOM: The Mom:Kitchen
+DAD: The Dad:Front Door
+TURKEY: The Turkey:Front Door
+NEIGHBOR: The neighbor:Backstage
+SUGGESTIONS =============================
+RID: A name:Timmy, Tom, Billy
+GAME: A game name:Roblox, Fortnite, Valoriant
+LOCATION: Location name:London, Grocery store, Club
+TIME: A time period:5 years, 2 seconds, 1 century
+EDUCATION: Subject in school:Math, English, Science
+EXPLAIN: What would a kid learn in school?:using your fingers to count, reading, cutting a frog open
+FAMGUY: Write a cutaway:that I went to Germany for a beer but got drunk in Britain, that time I went to a dog park with a cat, that time when I went to the bar with a cow
+NOUN: A noun:Pet, Dad, Sibling
+OBJECT: Name an object:Homework, Paper, Computer
+FOOD: Name of a food:Meatloaf, Corn bread, Ice cream
+SCRIPT ==========================================
+(Happy music 1)
+MOM: Oh RID! come down!
+KID: Yeah mom! I was too busy doing GAME.
+MOM: Your dad said he's almost home, can you go help him carry the groceries?
+KID: Where did dad go?
+MOM: He went to LOCATION to pick up some groceries.
+KID: Oh alright.
+(doorbell)
+MOM: Speaking of the devil
+Meanwhile KID: (Opens the door)
+(Happy music 1)
+DAD: I'm home!
+Meanwhile TURKEY: (stay with the dad)
+DAD: It took me TIME to get this last turkey!
+KID: Yay! Turkey!
+DAD: (Give turkey to the mom) Can you cook this?
+Meanwhile TURKEY: (Go with mom)
+MOM: Alright honey (Kiss cheek and go into kitchen)
+DAD: (Sit down) So, RID what did you do in school today?
+KID: well, I learned in EDUCATION class that EXPLAIN helps a lot with numbers!
+DAD: OBJECT?
+Meanwhile TURKEY: (Screaming in agony)
+KID: Uhhhhhh....
+Meanwhile TURKEY: (Gets out of the oven and runs around)
+MOM: The turkey is alive!!!!!
+(tense cinematic music)
+DAD: It wasn't alive TIME ago.
+MOM: Did you make sure?
+DAD: No.
+Meanwhile KID: good thing I got away with OBJECT
+MOM: Well?
+TURKEY: What the hell! Where am I? (Look around)
+DAD: Its like that one time that FAMGUY.
+TURKEY: Where's my skin?! (Freaking out)
+(doorbell)
+(groose music)
+KID: (Open the door) Hi uncle!
+NEIGHBOR: Hey there kiddo- what the hell is going on?
+DAD: Get back in the oven!
+TURKEY: But why?
+NEIGHBOR: (Yelling) Tell me what the hell is going on!
+DAD: Oh, hi. Yeah uhh... this turkey was alive. (Pull out a gun)
+TURKEY: Wait! Wait!
+KID: Don't do it! I want it to be a NOUN! (Hug the turkey)
+DAD: What?
+MOM: What?
+Neighbor: what?
+KID: Pwease?
+DAD: Fine...
+KID: Yay! wanna go upstairs and play GAME?
+TURKEY: sure.
+DAD: Ugh... what can we eat now?
+Mom: I have Gravy.
+NEIGHBOR: I have FOOD.
+DAD: Ew
+Meanwhile MOM: Ew
 
 ======
 
