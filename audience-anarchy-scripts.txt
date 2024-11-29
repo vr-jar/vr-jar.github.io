@@ -37767,3 +37767,71 @@ Dumb Dumb Kid: (Stand there for a moment in silence) Wowie! A real SOMETHING A K
 
 ======
 
+INFORMATION ===============================
+ID: 1268
+TITLE: Mistaken Pizza
+AUTHOR: OxifiedVR
+VERIFIED: True
+TAGS: 
+SET: Restaurant
+DATE: 27/11/24
+CHARACTERS ================================
+PIZZA BANDIT: Pizza Stealing friend:Stage Right
+VICTIM: Friend:Stage Right
+WAITER: Staff Member:Stage Left
+SUGGESTIONS =============================
+DINE IN THEATRE: name for a dine in theatre:AMC, Roadhouse, FatCats, Regal
+MOVIE: any movie:Star Trek, Halo Forward unto Dawn, Titanic
+PIZZA TOPPING 1: any pizza topping:pepperoni, cheese, salami
+PIZZA TOPPING 2: irregular pizza topping:pineapple, anchovies, peppers
+NUMBER: Any Number:12, 69, 24, 420
+CHEAP REWARD: a gift or reward that's not very good:five dollars, headpats, punch in the face, thoughts and prayers
+SOFT OBJECT: Something soft :feathers, cotton, Linen, Wool, Leather
+SCRIPT ==========================================
+Victim: Thank God, dude, we made it in time, just before the movie began.
+Pizza Bandit: I told you I would get us here in time!
+Victim: I know. (Heads inside)
+Pizza Bandit: (Follow Friend) You got to have some faith in me.
+Waiter: (Walks up to guest) Hello and welcome to DINE IN THEATRE! What movie would you like to see?
+Victim: We are here to see MOVIE!
+Waiter: Good choice, MOVIE is a really good one! (Leads them to the center table)
+Victim: Lead the way, mister waiter. I sure am hungry, too. (Follows Waiter to table and sits down)
+PIZZA BANDIT: (Follows friend to table and sits down) Wow, these seats are comfortable. Do you think they're made of SOFT OBJECT?
+Waiter: (Hands menus to both) Alright, here are your menus. Please take a look, and I'll be back with you. (Exits stage left)
+(epic fantasy music 3)
+Victim: (Watches movie) God, I love the opening of this movie.
+Pizza Bandit: So you've told me. It's only like the NUMBERth time you've told me.
+Waiter: (Returns from stage left and approaches their table) You all ready to order?
+Victim: I'll have a PIZZA TOPPING 2.
+Waiter: (Writes down order) Alright, and for you?
+Pizza Bandit: I'll have PIZZA TOPPING 1.
+Waiter: (Writes down order) Alright, I'll have your pizzas in a moment. (Leaves stage left)
+(epic fantasy music 1)
+Waiter: (Returns stage left and puts pizza in front of Victim) Enjoy! (Leaves stage left)
+Pizza Bandit: Mine! (Takes pizza from your friend)
+Pizza Bandit: (Eats pizza) Hmm. This doesn't takes like what I ordered but... oh well!
+Waiter: (Returns stage left and goes to person not eating pizza) And here's your pizza.
+Pizza Bandit: (Quietly) Oh boy...
+Victim: (To Waiter) No, it's not my pizza.
+Pizza Bandit: (Talks while eating) It's not his pizza.
+Waiter: That's not your pizza? (Looks at Pizza Bandit)
+Pizza Bandit: It's not my pizza.
+Waiter: (Really annoyed, shows order ticket to Pizza Bandit) You wrote what you wanted.
+Pizza Bandit: I didn't write that. (Looks at your friend) Did you write that? I didn't write that!
+Pizza Bandit: And can you move? I'm trying to watch MOVIE.
+Waiter: (Looks at person whose pizza was stolen, annoyed, pointing at the pizza in front of the pizza thief) Are you waiting for that pizza?
+Victim: (Confused) Yes?
+Waiter: They're eating your pizza... I'm gonna get you another one. (Storms off angrily, exits stage left)
+Pizza Bandit: They seem pretty upset.
+Victim: I really hope you leave them a good tip.
+Pizza Bandit: Eh, I might just tip them... CHEAP REWARD for messing up.
+Victim: CHEAP REWARD?! That's it?
+Pizza Bandit: Whose fault is that?
+Victim: It's your fault! It's your fault!
+Pizza Bandit: At least I still tipped them right?!
+Victim: My pizza didn't have PIZZA TOPPING 1 on it!
+Pizza Bandit: Yeah, the pizza runner should've said something like, "No, that's not yours!" Pay more attention!
+Pizza Bandit: You could've just picked the PIZZA TOPPING 2 off the pizza!!
+
+======
+
