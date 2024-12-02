@@ -37419,22 +37419,22 @@ LARRY:Yes wife?
 THE WIFE:Why are you a loser?
 Typewriter:Now 12 years ago...
 LARRY:I'm off to work honey!
-THE WIFE:Just don't be such a loser the first day you get fired, mkay hun?
+THE WIFE:Okay, Just don't be such a loser the first day you get fired, mkay hun?
 LARRY:Yes honey.(exit front door go backstage)
 Typewriter:Two hours later...
 LARRY:(enter stage right)I'm back.
 THE WIFE:That fast,must be a short work day?
-LARRY:No i got-(sigh),I go-,(gulp), I got fired.
+LARRY:No I got-(sigh),I got fired
 Typewriter:Now 7 years ago...
 LARRY:(go to the child) He is going to say his first word!
-CHILD:da- da- DAD IS A LOSER!
+CHILD:da- da- dad is a loser!
 THE WIFE:He said four words!
 Typewriter:Finally Today...
 CHILD:(sit on couch)
 meanwhile LARRY:(sits on couch)
 LARRY:Today is it! If I'm not going to get out of my brother shadow I'll never be not a loser!
 CHILD:what makes you think that? isn't your brother the only cool thing about you?
-LARRY:That's a good point, but i don't care!
+LARRY:That's a good point, but I don't care!
 GARY:(Walk through stage right door)
 break down door
 GARY:Sup my excellent-dude-bro!
@@ -37444,10 +37444,10 @@ crowd woo
 CHILD:Uncle Gary! I wish you were my dad!
 LARRY:Ohh NOUN.It's Gary
 GARY:How's it going Larry
-LARRY:I want a divorce!
+LARRY:I want a divorce Garry!
 GARY:What the CATCHPHRASE!
-LARRY:you heard me! I don't wanna be brothers anymore
-THE WIFE:(walk to Larry)Larry,can you sign hear on this paper?
+LARRY:you heard me! I don't wanna be brothers anymore.
+THE WIFE:(walk to Larry)Larry,can you sign here on this paper?
 LARRY:Sure thing hun.(sign paper)
 THE WIFE:Thanks but don't call me hun anymore,and stay 25 feet away from me a all times.
 LARRY:What?
@@ -37472,14 +37472,14 @@ MARGE:(walk on stage)Are you to gentlemen the ones getting divorced?
 courtroom sting
 LARRY:Yes ma'am.
 Meanwhile Gary:Yes-way dude!
-MARGE:Sign hear
+MARGE:Sign here
 LARRY:Okay.(sign paper)
 Meanwhile GARY:CATCHPHRASE!(sign paper)
 MARGE:You to are now not brother's
 LARRY:Yes(celebrate)
-GARY:Bogus, now I have no brother.
+GARY:Dang dude.
 MARGE:Hey Gary, sign this paper please.
-GARY:Okay(sign paper) what did I sign?
+GARY:Okay(sign paper) What did I sign?
 MARGE:Marriage papers, we're married now!
 GARY:Wow, two wifes! Excellent! That's better than the NUMBER of wife's I had before
 GARY:Well I better get going Larry, I have a My ANYTHING farm to work on, and practice SPORT because I'm not a loser (laughing), CATCHPHRASE!
@@ -37492,7 +37492,7 @@ CHILD:I'm going to find a non-loser father, Bye Larry MIDDLE LAST .(Exit through
 LARRY:What have I done with my life.
 emotional piano music
 LARRY: I have no wife, no kid, the coolest thing about me was my brother, he had a successful ANYTHING farm, and really good at SPORT, but I threw it all away.
-Typewriter: Remember kids, if your feeling like you're a loser, don't throw away the people in your life, spend time with them. be happy.
+Typewriter: Remember kids, if your feeling like you're a loser, don't throw away the people in your life, spend time with them.
 Typewriter:Larry on the other hand will always be a loser because his pain and suffering is funny.
 
 ======
@@ -38202,6 +38202,89 @@ Mom: I have Gravy.
 NEIGHBOR: I have FOOD.
 DAD: Ew
 Meanwhile MOM: Ew
+
+======
+
+INFORMATION ===============================
+ID: 1274
+TITLE: Wannabe hero
+AUTHOR: Temple475
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 29/11/24
+CHARACTERS ================================
+HRO: The hero:Backstage
+BGG: Bad guy's goon:Center Stage
+CIV: shapeshifter(have at least 2 avatars):Alley
+ABG: A bad guy:Backstage
+SUGGESTIONS =============================
+HN: Made up hero name:Big Driver, Ratman, The guy
+VLN: Made up villain name:The uncle, shockler, Badshot
+GOON: Name for a goon:Shockie, goon, Vilebots
+ONE: One liner:Count your days, Time for you to join the fishies, Have fun down under
+DAY: Day of the week:Friday, Monday, Sunday
+TIME: Time of the day:12 AM, Evening, 7PM
+ERG: Name or acronym of a evil organisation:Organisation X , The grinders, Evil CO, The Hexagon
+ATK: Name of a powerful attack:Big rocket, Crack slash, Grand wave
+EVA: Adjective describing a villain:Sinster, dark, wicked
+SHP: Name of a shapeshifter:John, The Morpher, The Queen
+COU: Any country(real or not):USA, France, Zimbabwe 
+SCRIPT ==========================================
+dark classical music
+BGG:(look at civilian) Now, looks like someone arrived at a wrong place on a DAY at TIME not knowing that's when ERG is the most active
+CIV: Please someone help me!
+HRO: (enter stage up) Do not worry!
+HRO:I shall be the one to save you! It is I HN
+CIV: Oh... it's HN...
+Meanwhile BGG: Oh no it's HN
+HRO: Yes GOON! Thought you'd get away with your evil deeds? Well you thought wrong! ONE
+BGG: (Exit stage right) Not this time, just you wait until VLN finds out!
+HRO: Are you okay citizen? Are you hurt?
+CIV: Yes, I'm absolutely okay. Now please get out of my sight
+HRO: Very well then stay safe citizen!
+HRO: (Exit stage right) Don't think you can escape GOON
+Meanwhile CIV: (change avatar)
+ABG: (Enter stage left) Well done SHP
+ABG: That GOON should have them distracted long enough for us to initiate our plan
+CIV: Indeed your EVAness
+CIV: No one will be able to stop us, not even HN's ATK
+ABG: (Evil Laugh) Indeed SHP we're soon be able to control the world
+ABG: And by the world I mean COU
+ABG: Now let us actually start talking about the plan-
+BGG: (Enter stage right) Please have mercy!
+Meanwhile HRO:(Enter stage right)
+HRO: No mercy shall be given to such EVA people like you take this ATK
+gunshot
+BGG: Damn you... (Fall on the ground)
+ABG: Well looks like we might have a little change of plan
+HRO: You must be the VLN that this GOON was talking about?
+ABG: It is indeed I, VLN the EVA overlord
+CIV: Should I take care of them?
+ABG: No need to, I'll make a quick work of this fraud who believes himself to be a hero
+HRO: A fraud!? I've saved countless lives from your GOONs!
+HRO: Doesn't matter I'll take you out all the same! ATK!!
+gunshot
+ABG: (block the attack) Impressive for a amateur! EVA ATK
+scifi contraption
+HRO: (Fall on the ground) Damn you VLN
+lacrimosa music
+ABG: (Laugh maniacally) You'll never take me down on your own
+HRO: Hmm, perhaps not but I still have a ace up my sleeve
+ABG: Hmph, you think someone will come to help you? Pathetic!
+HRO: (Stand up) Not just someone
+HRO: (Look at the audience) Everyone! Please give me strength!
+alien teleport
+epic cinematic music
+HRO: (Look back at VLN) ONE! Hero and Audience ATK
+raygun shot
+ABG: (fall on the ground) Guess I was bested after all
+CIV: VLN no! You can't fall like this
+ABG: Heh, don't worry about this. At least it was my son who took me out
+HRO: Wait you're my dad?! Is this really you?
+ABG: I lived a double life... To provide for you but now... You've grown to be such a wonderful hero... (Dies)
+CIV: You... You'll pay for this! (exit stage left)
+HRO: Well, at least I saved the world today... I suppose...
 
 ======
 
