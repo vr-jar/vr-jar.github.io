@@ -36909,7 +36909,7 @@ EVAN: The stubborn husband (Boy):Front Door
 SUGGESTIONS =============================
 HOUR : A time of the clock:6 pm, 8 am, 14664 am
 CASH: How much you want to spend on a gamr:40 dollars, 100 dollars, 1M dollars
-YEARS: A specific random number:10, 20, 3000, 268865
+NUMBER: A specific random number:10, 20, 3000, 268865
 GAME: A famous game:Fortnite, Brawl Stars, Roblox
 USELESS THING: Something you really don't need to spend money on:Self-help book #35, vape, divorce insurance, essential oil, lottery tickets, attractive men
 HONEY: A pet name for your love interest:honey, personal ATM, mystery meat, overlord, pookie wookie, my lil guy, pumpkin, sweetie pie, pinkie pie
@@ -36926,7 +36926,7 @@ EVAN: Um... Hello, Sophie, my HONEY. Heh heh…(fidget fingers nervously)
 SOPHIE: Um, Why do you look nervous?
 groose music
 EVAN: (walk inside) Well, umh, haha..I have to tell you something…
-SOPHIE: (look at Evan) Hum?? What is it? You know you can tell me..we knew watch other for YEARS…
+SOPHIE: (look at Evan) Hum?? What is it? You know you can tell me..we knew watch other for NUMBER years…
 EVAN: Yeah I know…but..is a bit awkward…
 SOPHIE: Okay..umh..sit on the couch and tell me then..(sit on couch)
 EVAN: Great idea..(sit on couch, next to Sophie)
@@ -38312,8 +38312,8 @@ TAG: A name:Opel, Uriah, Karen
 NOUN: A noun:cheese, grapes, boomerangs
 ADJECTIVE : A adjective:wet, solid, slimy
 CURRENCY : A type of currency :Rupees, U.S dollar, Euros
-BODY: A body part:Heart, Hand, Foot
 NUMBER: A small number:-1, 2, 12
+BODY: A body part:Foot, Hand, Head
 SCRIPT ==========================================
 badass music 1
 BOSS:Okay Team, We have a new product to sell.
@@ -38357,7 +38357,7 @@ BOSS:It's genius because we are working with a big company, and people well buy 
 BOSS:So if we put up the price from $ NUMBER to $500 CURRENCY, than we can make bank!
 EMPLOYEE:But boss, I wasn't being serious.
 BOSS:Shut up, don't ruin this for yourself.
-BOSS:Alright team, this was great now all we have to do is hit up COMPANY, and let them know of our product.
+BOSS:Alright team, this was great, now all we have to do is hit up COMPANY, and let them know of our product.
 BOSS:(Hold hand up to head) Hello? Yes, absolutely. So our idea is for the COMPANY ITEM to have multiple NOUNS on it-
 BOSS:(Still holding hand to head) Make it really ADJECTIVE, and make it cost $500 CURRENCY.
 BOSS:(Still holding hand to head) Yes, I know. Oh, yes I see. Bye. (put hand down)
