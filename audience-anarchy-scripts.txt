@@ -38288,3 +38288,87 @@ HRO: Well, at least I saved the world today... I suppose...
 
 ======
 
+INFORMATION ===============================
+ID: 1279
+TITLE: How to sell 101
+AUTHOR: EvaThatOneGuy
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 02/12/24
+CHARACTERS ================================
+BOSS: The Boss:Boss Chair
+INTERN: Favorite intern :Office Chair 1
+WORKER: Basic intern:Office Chair 2
+EMPLOYEE: Annoying intern :Office Chair 3
+SUGGESTIONS =============================
+ITEM: A everyday item:Microwave, Fork, Broom
+NAME: A name:Allen, Kaleb, Andy
+COMPANY: A company that has expensive product's.:Apple, Supreme, Meta
+TITLE: A name:Daisey, Kyle, Abby
+CORPORATION : A made up company name:Tim and Son's, FloorMart, Arrow
+LAST: A last Name:Longworth, Jackson, Bailey
+TAG: A name:Opel, Uriah, Karen
+NOUN: A noun:cheese, grapes, boomerangs
+ADJECTIVE : A adjective:wet, solid, slimy
+CURRENCY : A type of currency :Rupees, U.S dollar, Euros
+BODY: A body part:Heart, Hand, Foot
+NUMBER: A small number:-1, 2, 12
+SCRIPT ==========================================
+badass music 1
+BOSS:Okay Team, We have a new product to sell.
+WORKER:Okay, what is It?
+BOSS:The ITEM.
+INTERN:But NAME, hundreds of other Companies are already selling ITEM!
+WORKER:Yeah boss. Companies like Walmart, Costco, AT&T, are already selling ITEM! Why will anyone buy our product, If there are hundreds of others
+BOSS:Oh, I'll tell you why.
+INTERN:Well, why.
+BOSS:Because we collaborated with COMPANY!
+EMPLOYEE:So.
+vine boom
+BOSS:What do you mean "So"? Do you not understand how big this is for us?
+EMPLOYEE:No.
+vine boom
+jazz music 1
+BOSS: TAG, please explain why collaborating with COMPANY is really important to our company.
+INTERN:Yes boss. (walk to white board)
+INTERN:So basically for our small company, CORPORATION, to collaborate with a big company, COMPANY, is really important because it could bring more customers.
+INTERN:And more customers mean more money. And bigger paychecks baby!
+BOSS:Alright Thank you Mr.LAST.
+BOSS:So TITLE, do you understand now?
+EMPLOYEE:Sure.
+INTERN:We understand!
+meanwhile WORKER:We understand!
+BOSS:That's great.
+BOSS:Okay, now since we all understand why this is important for us we should start brainstorming what this product could be and look like.
+EMPLOYEE:I thought you said our ITEM was going to be like every other ITEM.
+BOSS:Well yes, but actually no.
+BOSS:You see we want it to be similar to the other ITEMS, but also different. So anyways, does anyone have any ideas?
+WORKER:I have an idea. What if we put multiple NOUN on it.
+BOSS:Good, now it needs to feel differently from other ITEMS.
+INTERN:Oh, and let's make it really ADJECTIVE!
+BOSS:Amazing! Now one more thing.
+EMPLOYEE:(sarcastically)How about we make the price $500 CURRENCY, because everyone will buy our "great" product for $500 CURRENCY.
+BOSS:Oh my God. That's, hand down,that's the best, and I mean this, The best idea I've heard all day.
+EMPLOYEE:You're joking, right?
+BOSS: Not joking. I'm as serious as my terminal BODY condition.
+happy music 1
+BOSS:It's genius because we are working with a big company, and people well buy anything that has that's companies brand-
+BOSS:So if we put up the price from $ NUMBER to $500 CURRENCY, than we can make bank!
+EMPLOYEE:But boss, I wasn't being serious.
+BOSS:Shut up, don't ruin this for yourself.
+BOSS:Alright team, this was great now all we have to do is hit up COMPANY, and let them know of our product.
+BOSS:(Hold hand up to head) Hello? Yes, absolutely. So our idea is for the COMPANY ITEM to have multiple NOUNS on it-
+BOSS:(Still holding hand to head) Make it really ADJECTIVE, and make it cost $500 CURRENCY.
+BOSS:(Still holding hand to head) Yes, I know. Oh, yes I see. Bye. (put hand down)
+WORKER:What did they say boss?
+emotional piano music
+BOSS:They said(sigh), that what I just said was the stupidest idea they ever heard.
+WORKER:Dammit, I thought that was a good idea.
+INTERN:Me too.
+EMPLOYEE:I didn't.
+vine boom
+typewriter:2 weeks later CORPORATION went out of business. The end.
+
+======
+
