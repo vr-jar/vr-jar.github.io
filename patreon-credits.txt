@@ -2620,6 +2620,7 @@ DiscipleShadow
 ~Aphrodite12~
 ねこunknownねこ
 LemonBatt
+นาโน
 #TIER=2
 ArkoNero
 saika mujuuk
