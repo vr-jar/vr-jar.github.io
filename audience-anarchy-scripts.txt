@@ -34065,6 +34065,7 @@ GLADIATORS: A game show:Gladiators, Only Connect, The Price Is Right, The Crysta
 LIVERPOOL: A city:Liverpool, New York, Manchester, Cork, Glasgow, Los Angeles, Edinburgh, London, Seattle, Dublin, Toronto, Belfast, Cardiff, Swansea, Birmingham
 TESCO: A supermarket:Tesco, Asda, Sainsbury's, Morrisons, Best Buy, 7-Eleven, Walmart, Target
 SHOPKEEPER: A job:shelf stacker, till operator, shopkeeper, manager, door supervisor, cashier, bagger, butcher, fishmonger, customer assistant, delivery driver, store picker
+TOAST: A bread product:toast, bagel, crumpet, potato cake, muffin, teacake, bun, baguette, croissant, pancake, hot cross bun, flapjack, waffle
 SCRIPT ==========================================
 jazz music 1
 BEN: (Enter stage right) Okay Chloe, let's get in and out quickly, GLADIATORS is on the telly soon and I don't wanna miss it.
@@ -34084,8 +34085,8 @@ BEN: Okay, done. Your turn, Chloe.
 CHLOE: But I've never used the self-checkouts before!
 BEN: Go on, it's easy! You saw how quickly I did it!
 TILLY: (Upbeat) Welcome! My name is Tilly! Please scan your first item!
-CHLOE: (Pass the first item to Tilly) Okay, here's a PIZZA. (Take the item off Tilly again)
-Meanwhile TILLY: (As Chloe passes you the item) BEEP! (Give it back)
+CHLOE: (Pass the first item to Tilly) Okay, here's a PIZZA.
+Meanwhile TILLY: (As Chloe passes you the item) BEEP!
 TILLY: Please place the item in the bagging area!
 CHLOE: Okay, down here. (Place the item down)
 TILLY: Please place the item in the bagging area!
@@ -34097,10 +34098,11 @@ Meanwhile TILLY: Please place the item in the bagging area!
 CHLOE: How?
 BEN: Just press the help button.
 CHLOE: (Boop Tilly) Help.
-TILLY: Please wait for assistance.... Please wait for assistance.... Please wait for assistance....
-BEN: (To Tilly) Is this going to take long? They're usually here by now.
 TILLY: Please wait for assistance.
-Meanwhile CHLOE: We have a show to watch!
+BEN: (To Tilly) Is this going to take long? They're usually here by now.
+Meanwhile TILLY: Please wait for assistance.
+CHLOE: We have a show to watch!
+Meanwhile TILLY: Please wait for assistance.
 BEN: Come on you bucket of bolts!
 Meanwhile JIMMY: (Enter stage left)
 groose music
@@ -34110,14 +34112,13 @@ shark tank discussion music 1
 JIMMY: (Wave your hand in front of Tilly like a Jedi) You don't need to bag this item.
 TILLY: (Hypnotized) I don't need to bag this item.
 JIMMY: (Wave your hand again) Please scan your next item. (Exit stage left)
-Meanwhile CHLOE: (Watch Jimmy leave)
 jazz music 1
 TILLY: (Snap out of it) Please scan your next item!
-CHLOE: Weird. (Turn back to Tilly)
+CHLOE: Weird.
 BEN: What's your next item?
-CHLOE: It's this BEER. (Pass the item to Tilly, then take it back)
-Meanwhile TILLY: (Take the item off Chloe) BEEP! (Give it back)
-TILLY: Approval needed... Approval needed.
+CHLOE: It's this BEER. (Pass the item to Tilly)
+Meanwhile TILLY: (Take the item off Chloe) BEEP!
+TILLY: Approval needed.
 Meanwhile CHLOE: Huh?!
 BEN: It thinks you're a kid.
 CHLOE: (Boop Tilly) I would have been quicker just going to TESCO!
@@ -34127,24 +34128,22 @@ CHLOE: Yes, now your machine's upset about this BEER.
 shark tank discussion music 1
 JIMMY: (Wave your hand in front of Tilly) You don't need to see her papers.
 TILLY: (Hypnotised) I don't need to see her papers.
-JIMMY: (Wave your hand) She can buy age-restricted products.
-TILLY: She can buy age-restricted products.
+JIMMY: (Wave your hand) You can sell her age-restricted products.
+TILLY: I can sell her age-restricted products.
 JIMMY: (Wave your hand) Please scan your next item. (Exit stage left)
 jazz music 1
 TILLY: (Snap out of it) Please scan your next item!
-CHLOE: (Nervously) Uhh, Ben? Could you... look away?
-BEN: Why?
-CHLOE: It's... y'know... private.
+CHLOE: (Nervously) Uhh, Ben? Could you... look away for a sec?
 BEN: (Realising) Oh, yeah right. (Look away) But be quick, we've only got about five minutes!
-CHLOE: (Deep breath, mutter) Okay Chloe, you've got this. (Pass the item to Tilly, then take it back)
-Meanwhile TILLY: (Wait to take the item off Chloe) BEEP! (Give it back)
+CHLOE: (Deep breath, mutter) Okay Chloe, you've got this. (Pass the FURSUIT to Tilly)
+Meanwhile TILLY: (Wait to take the FURSUIT off Chloe) BEEP!
 badass music 1
 TILLY: Approval needed! Does your mother know?!
 CHLOE: (Exasperated) OH MY GOD.
-Meanwhile BEN: (Stifled laughter)
+Meanwhile BEN: (Giggle)
 CHLOE: (Punch Tilly on the nose) For heck's sake!
 Meanwhile TILLY: (Spin around in a circle)
-TILLY: BZZZZT! Would you like some toast?
+TILLY: BZZZZT! Would you like a TOAST?
 CHLOE: (Snap) No! I want to see the SHOPKEEPER's assistant!
 JIMMY: (Enter stage left) (Politely) Do you require assistance?
 CHLOE: (Angrily) I'm so annoyed! All I wanted was to buy this FURSUIT without anyone knowing, and even the machine's judging me!
@@ -34153,7 +34152,7 @@ BEN: (Nonchalantly) Is there a difference?
 CHLOE: Just do your bloody Jedi mind trick already!
 shark tank discussion music 1
 JIMMY: (Wave your hand in front of Tilly) You don't need to judge the customers.
-TILLY: (Pause) Unexpected item in bagging area!
+TILLY: Unexpected item in bagging area!
 JIMMY: (Punch Tilly on the nose) (Calmly) You don't need to judge the customers.
 Meanwhile TILLY: (Spin around) BZZZZT!
 TILLY: (Hypnotised) I don't need to judge the customers.
@@ -34166,8 +34165,7 @@ CHLOE: (Boop Tilly) Finish.
 TILLY: Please insert your card! (Open your mouth or stick out your tongue)
 CHLOE: Okay. (Insert your card into Tilly's mouth)
 BEN: C'mon, couldn't you just use contactless?
-CHLOE: My card hasn't got it!
-BEN: (Scoff) What is this, 2008?
+CHLOE: Gimme a break, it broke!
 TILLY: (Hold out your hands) Please enter your PIN number!
 CHLOE: Okay... (Flick four of Tilly's fingers at random)
 TILLY: You entered the digits NUMBER! Is this correct?
@@ -38290,7 +38288,7 @@ HRO: Well, at least I saved the world today... I suppose...
 
 INFORMATION ===============================
 ID: 1279
-TITLE: How to sell 101
+TITLE: How to Sell 101
 AUTHOR: EvaThatOneGuy
 VERIFIED: True
 TAGS: Skit
@@ -38369,6 +38367,399 @@ INTERN:Me too.
 EMPLOYEE:I didn't.
 vine boom
 typewriter:2 weeks later CORPORATION went out of business. The end.
+
+======
+
+INFORMATION ===============================
+ID: 1283
+TITLE: Noir's Unforgettable 4th Wall Break
+AUTHOR: Rod-ロッド
+VERIFIED: True
+TAGS: Skit
+SET: Detective Noir
+DATE: 05/12/24
+CHARACTERS ================================
+DETECTIVE NOIR: The Detective:Detective Chair
+GOOFY MCGEE: The Nonchalant One:Entrance Stage Left
+MARTHA: The Sassy Secretary:Entrance Stage Left
+ESCAPED INMATE: The Escaped Inmate:Entrance Stage Left
+SUGGESTIONS =============================
+GUYSNAME: Name of the guy:Rod, Skooter, God, Justin
+CHAIRITEM: The Item:a sandwich, a taser, a gun
+SECRETARYNAME: Name of the secretary:Loona, Frenny, Beelza
+DEADLYITEM: Something that kills:gun, brick, rpg
+STOLENITEM: Stolen Thing:a book, a wrench, a sandwich
+DETECTIVENAME: Name of the detective:Noir, Ace, Gray
+RANDOMITEM: Random item:crowbar, shovel, gun
+SCRIPT ==========================================
+Noir music 1
+DETECTIVE NOIR: (Gazing out the window, in a serious voice) They say trouble comes knocking when you least expect it—
+break down door
+GOOFY MCGEE: —but it actually bursts through the door with bad breath and no manners!
+Music Stops
+GOOFY MCGEE: Hi, folks.
+crowd woo
+GOOFY MCGEE: Yeah, he’s talking about me.
+GOOFY MCGEE: I’m the trouble. And spoiler alert: in about five minutes, that guy behind the window?
+GOOFY MCGEE: DEADLYITEM to the head.
+gameshow time expire
+GOOFY MCGEE: Watch for it.
+groose music
+DETECTIVE NOIR: What in tarnation? Who are you?
+GOOFY MCGEE: (wave) GUYSNAME, narrator of your doom and the only guy who actually knows what’s going on around here.
+GOOFY MCGEE: It's nice to meetcha.
+GOOFY MCGEE: (to the audience) By the way, SECRETARYNAME’s about to come in and accidentally sit on ITEM. Watch for it.
+MARTHA: (enter) Detective! Detective! You’ve got another lead on the escaped inmate!
+GOOFY MCGEE: (To audience) There it is! CHAIRITEM incoming in three… two…
+lacrimosa music
+MARTHA: (Sit on chair) Oh, for crying out loud, who leaves CHAIRITEM on a chair?!
+Music Stops
+MARTHA: (leave)
+GOOFY MCGEE: (To audience) Classic slapstick, folks.
+gameshow ding
+GOOFY MCGEE: You can’t make this stuff up. (close door)
+DETECTIVE NOIR: (annoyed) Listen, pal, you’ve got five seconds to explain why you’re here before I throw you out.
+GOOFY MCGEE: Five seconds...
+GOOFY MCGEE: That’s how long it’ll take for the escaped inmate to burst in here
+GOOFY MCGEE: and make this whole conversation moot.
+GOOFY MCGEE: Oh, and he’s got a grudge, by the way.
+GOOFY MCGEE: DETECTIVENAME here put him behind bars ten years ago for stealing…
+groose music
+GOOFY MCGEE: Wait for it…....... STOLENITEM.
+laughter
+Music Stops
+DETECTIVE NOIR: (confused) What are you even talking about?
+tire screech
+break down door
+ESCAPED INMATE: (Crashing in, brandishing a RANDOMITEM) DETECTIVENAME!
+ESCAPED INMATE: Time to pay for what you did to me!
+waterphone
+GOOFY MCGEE: (To audience) Told ya. RANDOMITEM. Classic choice...
+groose music
+GOOFY MCGEE: By the way, don’t worry—he’s not gonna actually use it...
+GOOFY MCGEE: DETECTIVENAME’s gonna disarm him with a coffee mug in about…
+GOOFY MCGEE: …ten seconds.
+DETECTIVE NOIR: (throw a coffee mug) Time to cool off, buddy.
+gong
+ESCAPED INMATE: (get hit in the head) Ow! You’ll pay for that!
+Music Stops
+record scratch
+GOOFY MCGEE: (To audience) Spoiler alert: no, he won’t. (close door)
+GOOFY MCGEE: This guy’s about to trip on his own RANDOMITEM... Watch closely.
+ESCAPED INMATE: (Step backward) WAAAH! (fall)
+sad chug jug music
+ESCAPED INMATE: Owwww
+Music Stops
+break down door
+MARTHA: (enter) What is going on in here?!
+GOOFY MCGEE: (whisper to audience) SECRETARYNAME’s gonna slip on the coffee that DETECTIVENAME threw next. Any second now…
+MARTHA: (fall over) Agh, who left coffee on the floor?!
+groose music
+DETECTIVE NOIR: Argh!! I can’t work like this! Who ARE you?!
+GOOFY MCGEE: The fourth-wall breaking extraordinaire.
+crowd woo
+Music Stops
+GOOFY MCGEE: And that’s the curtain call, folks. The moral of the story..?
+western hero theme
+GOOFY MCGEE: Always check your chairs for ITEMs...
+GOOFY MCGEE: And never trust a guy with a RANDOMITEM.
+piano theme
+GOOFY MCGEE: See ya!
+
+======
+
+INFORMATION ===============================
+ID: 1287
+TITLE: How to Steal 101
+AUTHOR: EvaThatOneGuy
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 07/12/24
+CHARACTERS ================================
+ROBBER: The confused thief:Backstage
+SHOPPER: Ordinary shopper:Backstage
+CLERK: The store clerk :Behind Register
+POLICE: A policeman:Backstage
+NARRATOR: The helper:Narrator Podium
+SUGGESTIONS =============================
+NAME: A name:Tressa, Paul, Mark
+MALE: A name:Uriah, Kinsley, Bentley
+WEAPON: A weapon:Cheese grater, kife with smaller knifes, rocket launcher 
+BODY: A body part:liver, foot, arm
+ITEM: An item:spoon, cheese, beans
+TIME: A amount of time:week, month, year
+GREETING: A greeting:hi, howdy, sup'
+JOB: A job:factory worker, fast-food worker, game coder
+CRIME: A crime:Stealing a donkey, arson, murder
+TITLE: A name:Roger, Tyler, Trey
+THING: A inconvenience:my dog got out of the house, my child stole my car, a bunny killed my child
+SCRIPT ==========================================
+guitar music 1
+SHOPPER:(walk through entrance of stage right)
+CLERK:Oh, this is great it's NAME.
+SHOPPER:(look around. Then spot store clerk) Oh my goodness, hi MALE!
+CLERK:Hi Mrs. NAME, how you doing?
+SHOPPER:Oh I'm doing fine, but last night THING, and-(look out door)
+record scratch
+mystery music 1
+CLERK:Why did you stop?
+SHOPPER:Looks like there is some guy with a ski mask, and with a WEAPON?(back up a little bit)
+ROBBER:Everyone! Put your hands in the air like you just don't care!
+record scratch
+CLERK:What?
+groose music
+meanwhile SHOPPER:What?
+NARRATOR: No! you idiot, have you never robbed a store?
+ROBBER:Who was that?
+CLERK:It wasn't me.
+SHOPPER:God is that you?
+NARRATOR:What? No! I'm the thief's conscious.
+CLERK:Then, why can we here you?
+NARRATOR:Okay, no more questions. Any ways you're going to say "Everyone put your hands up!" Okay?
+ROBBER:Oh, Okay.
+ROBBER:Okay everyone! (point WEAPON at store clerk) Put your BODY up!
+NARRATOR:No! not BODY, hands!
+ROBBER:Hands, I said hands!
+NARRATOR:I'm not going to argue with you!
+ROBBER: You're just like my mom!
+ROBBER:Anyways, give me all your ITEM!
+CLERK:ITEM, we don't even sell ITEM.
+SHOPPER:Sure you do, I just bought ITEM here last TIME.
+CLERK:I'm going to punch you, in the PART!
+NARRATOR:Oh my god. You're supposed to say "give me all your money!" Gosh you moron!
+ROBBER:Oh, sorry, my bad.
+ROBBER:Give me all your money!
+CLERK:Too late.
+record scratch
+ROBBER:Wait, what.
+CLERK:You took so long talking to your conscious that I had time to call the police.
+police car
+POLICE:(walk through stage right entrance door)GREETINGS, What seems to be the problem.
+NARRATOR:Hurry, get outta there!
+POLICE:Who said that?
+CLERK:His conscious.
+meanwhile SHOPPER:His conscious
+POLICE:Okay then, now what's the problem.
+CLERK:He's trying to rob us.
+ROBBER:Um no I'm not, um (point WEAPON at cop).
+gunshot
+POLICE:(Falls to ground) ... I can see the light (dies)
+mystery music 1
+NARRATOR:Finally, you did something right for once!
+SHOPPER:Oh my gosh, you killed him!
+ROBBER:No I didn't, he's um. He's sleeping.
+ROBBER:I think I should find a real job, like JOB.(walk out stage right entrance door)
+CLERK:So, what are we going to do with the dead body?
+SHOPPER:I was never hear. I better go to witness protection.
+POLICE:(get up) Oh, that stings.
+NARRATOR:Wait, you're alive?
+POLICE:Yeah(walk to narrator stand), and you're going to jail for persuading a person to harm the innocent, and CRIME.
+NARRATOR:But I didn't commit CRIME.
+POLICE:I don't really care.
+POLICE:Come with me(Go to backstage)
+meanwhile NARRATOR:(Follow policeman)
+CLERK:I'm going to take my break now. (Go to backstage through left door)
+Typewriter:TITLE 's conscious was trialled in court, and was found guilty of attempted murder of a government worker, and CRIME.
+Typewriter:TITLE is brain dead now, because his lack of a conscious. The end.
+
+======
+
+INFORMATION ===============================
+ID: 1295
+TITLE: Out of your friends, which are you?
+AUTHOR: kiro-sage
+VERIFIED: True
+TAGS: 
+SET: Dining Room
+DATE: 09/12/24
+CHARACTERS ================================
+FRIEND: The "Friend" (Entity/Scary):Backstage
+TRUCK: Truck Freak (Eccentric/Idiotic):Backstage
+ASS: Crazy Ass (Hippy/Goofy):Chair 3
+FIGHT: The Fighter (Very Texan/Redneck):Entrance Stage Right
+LOGIC: The one with common sense (Smart/Logical):Entrance Stage Left
+SUGGESTIONS =============================
+BEANS: Type of Food:High Emperors Macaroni, Communion Bread, Blue Dragon soup, Proto-gen Ram
+CHICKEN: Type of Food:Communion Wine, Tater-kater-tots, Spaghoot, Roasted Owl
+SAUCE: Any Liquid:Booger snot, Off-Brand Gas, Goat blood, Shattered masks
+BUDDY: Wild way to say friend:Bro-chacho, Chilly pal, Confidant, Partner in Crime
+FREAK: Name for a type of eldritch Abomination:Bingo-Bongo, Ghoulish, Weardno, Gnarper
+BEAST: Something a scary thing would be called:Discord mod, Reddit Gold-User, Dream SMP Simp, Litwick
+BREAK: A painful action you can do to someone:eviscerate, Tear, Wreck, Mutilate
+SCRIPT ==========================================
+Jazz music 1
+ASS: (Setting up table) Welp, that should do it. Got the BEANS and CHICKEN all set up.
+ASS: Shouldn't be long till everyone gets here.
+fire alarm
+FIGHT: (Walks on stage right, coughing) My goodness. Why were there fireworks inside the oven?
+ASS: (Questioning) Well, how else am I supposed to keep them warm?
+FIGHT: I'm sorry, but you don't need to keep fireworks warm... I think? Eh, who cares.
+doorbell
+ASS: (Excited) Aye, that should be Tim. (Walks to left stage and opens door.)
+ASS: (Greeting) Aye, welcome, Tim. Glad you could make it.
+Meanwhile LOGIC: (walking on stage left and waving.)
+LOGIC: Uh, yeah, thanks for inviting me. Where are these aforementioned friends of yours?
+FIGHT: (Walks up to LOGIC) Welcome, BUDDY. The name's Fighter. (Shakes hand) Pleasure to meet ya.
+Meanwhile LOGIC: (shakes Fighter's hand.)
+LOGIC: Yeah, you too, and thanks for allowing me to come over and meet you.
+ASS: The last one should be here any second.
+honking
+tire screech
+explosion
+ASS: In fact, I believe that is Truck Freak.
+Meanwhile TRUCK: (climbs up a ladder, screaming.)
+TRUCK: Welp. That was a bust. Note to self: do not fill your gas tank with SAUCE.
+FIGHT: Bah, it will probably work next time BUDDY.
+LOGIC: (Questioning) ...Why did you put SAUCE in your truck?
+ASS: Well, before we get started, I need to run a quick errand. (Walks off stage left.)
+TRUCK: Yep, and I gotta carry in my SAUCE... or what's left of it. (Walks off stage left.)
+TRUCK: (Puts hand on LOGIC's shoulder) Sorry that you're being left alone BUDDY, but I gotta go put out some fires...
+thunder
+TRUCK: In fact, I think they've almost spread to half the house. You chill here. (Runs off stage right, guns blazing.)
+LOGIC: Well, alright. I guess I'll get comfy. (Walks to stage left table and looks around.)
+LOGIC: Man, Rick has some... weird things? (Looks through stuff.)
+footsteps on wood
+LOGIC: The hell? There isn't anyone else here though... Right?
+Heavy door knocking
+LOGIC: (Pauses) Who is it?
+Meanwhile FRIEND: (stands behind stage left door)
+FRIEND: (Slowly) It... A... Friend.
+LOGIC: I'm sorry? I can't hear you.
+FRIEND: Let... Me in... (Shouting) Now.
+LOGIC: (Walks stage right) Oh fluff no. I am not doing that.
+FRIEND: (Furiously) Open door... Now!
+extreme knocking
+FIGHT: (Pokes head out of stage right) Hey there, BUDDY. What's goin' on?
+LOGIC: Fighter, there is some beast or thing at the door. It's trying to get in.
+FIGHT: A what? Here, lemme see.
+FRIEND: (Crying) Fight... Er. Let. Friend... In.
+FIGHT: Whatever you say, BUDDY. (Turns to LOGIC) It's just Friend the FREAK.
+LOGIC: Whoa, whoa, whoa, what are you doing? You're just gonna let something called a FREAK in?
+FIGHT: Of course. Why wouldn't I? (Opens door.)
+Meanwhile LOGIC: (hides behind the table.)
+door creak
+FRIEND: (Walks on stage left) Thank... You... Where... Is... Him?
+FIGHT: (Looks around) Huh, I ain't got no clue. But hey, how 'bout you help me put out some fires?
+FRIEND: Oh... Kay. (Walks out stage right.)
+Meanwhile FIGHT: (walks out stage right.)
+LOGIC: Holy crap, that thing is inside now. I need to get out. (Gets out of hiding spot and walks stage left.)
+Meanwhile TRUCK: (walks to stage left entrance.)
+TRUCK: (Bumps into LOGIC) Whoa, hey there, pal I almost dropped by SAUCE. How ya doin'? Something the matter?
+LOGIC: Truck guy, there's a BEAST inside the kitchen. It hypnotized Fighter or something.
+TRUCK: A BEAST? Well, shoot, why didn't ya just say so? (Pulls out weapon) I'll blow that thing to smithereens.
+bird screech
+TRUCK: For glory! (Runs to stage right.)
+Meanwhile FRIEND: (walks on stage right.)
+FRIEND: Truck... Guy.
+TRUCK: Oh hey, Friend. You haven't seen a BEAST, have you?
+FRIEND: BEAST?... (Angry) I will... BREAK... It.
+Meanwhile LOGIC: (slowly walks to stage left exit.)
+ASS: (Walks on stage left) Oh hey, Tim. How ya doing?
+LOGIC: Ya know, I think I'll just go drink a gallon of rat poison. I'll leave now. Bye! (Runs off stage left.)
+ASS: (Pauses) Oki-doki. Oh hey there, Friend.
+FRIEND: Friend hear... There is BEAST... Friend... Will BREAK... It.
+ASS: Oh, ok. Welp, let's go find it.
+
+======
+
+INFORMATION ===============================
+ID: 1296
+TITLE: Furry Convention Plans
+AUTHOR: zanbbit
+VERIFIED: False
+TAGS: Skit
+SET: City
+DATE: 09/12/24
+CHARACTERS ================================
+NEWT: A first time congoer:Stage Right
+CONNIE: An experienced congoer:Center Stage
+DEEJAY: A music lover:Alley
+HUNTER: A vendor hall shopaholic:Entrance Stage Left
+PAMALA: Someone who loves panels:Stage Left
+SUGGESTIONS =============================
+CITY: A name for a city:New York City, Anyplace, Townsville
+HOTEL: A name for a hotel:You're In Inn, Sweet Suites, Hilton
+CONVENTION: A name a furry con would have:Southwest Fur Fest, Furcon #1234, Another Furry Con 
+ITEM: Literally anything you can buy:Fursuits, Hoodies, Key Charms
+NUMBER: Any number:2, 7, 13
+PERFORMER: Name of a musician or DJ:DJ Beatz, Bee Plus, Mystery Skulls
+GENRE: A genre of music:Drum n' Bass, Vaporwave, Country
+TOPIC: A topic someone may do a panel on:Writing 18+ Stories, Olive Garden, Nothing
+BIG: Any number:1000, 8000, 13,000
+ACTIVITY: An activity that may take place at a party:Drinking, Smoking, Snuggling
+FREAK: A bizarre or taboo thing to be interested in:Paw, Collar, Muzzle
+SPECIES: A type of animal:Cat, Fox, Dragon
+SCRIPT ==========================================
+(jazz music 1)
+NEWT: This is it. I finally made it to CITY now to find the HOTEL then get my badge for CONVENTION.
+NEWT: My first furry con... hope no one will think I'm weird. No, most furries are weirdos... crap! Is that a weird thing to say or think?
+DEEJAY: What's taking him so long?
+PAMALA: You know Hunter. He needs to check every inch of the shop to see if they have any good ITEMs.
+DEEJAY: (groans) Yeah and they never do! He gets all annoyed and it's just a waste of our time.
+CONNIE: (sighs) He never learns, does he?
+NEWT: Uhh hey. Do any of you know where I can find the HOTEL?
+CONNIE: Sure, it's three blocks down the street. Are you here to attend CONVENTION?
+NEWT: Yes. I MEAN NO! What is this CONVENTION you speak of? I've never heard of it! I'm not some weirdo!
+CONNIE: (laughs) Let me guess, first furry con? Feeling nervous?
+NEWT: H-How did you know?
+DEEJAY: Connie has seen it all, they've been attending furry cons for NUMBER years.
+PAMALA: Connie is like a con master they know a newbie when they see one.
+CONNIE: We're in town for the con too. So it's your first time hunh? Is there something you're most excited for?
+NEWT: Well I guess a little bit of everything. I want to experience everything CONVENTION has to offer!
+CONNIE: Be careful, if you try to do everything you'll just end up running yourself ragged and having a stressful weekend.
+NEWT: Well you three seem to know your stuff. Got any suggestions for me?
+DEEJAY: You gotta check out the concerts! PERFORMER is gonna be performing this year!
+DEEJAY: No one plays GENRE like them, it's gonna be SICK!
+PAMALA: UGH, It's all about the concerts with you DeeJay! You're gonna lose your hearing if you keep going to those.
+PAMALA: Besides PERFORMER is overrated and GENRE is boring and repetitive! There! I said it!
+DEEJAY: You take that back!
+PAMALA: No! (look at Newt) You should check out the panels!
+PAMALA: There's a really fun one on TOPIC I went to it last year and it was awesome! They have it again this year!
+DEEJAY: (sarcastic) Yeah sitting down in one place and listening to someone talk about TOPIC for an hour, sounds really fun.
+DEEJAY: That's the definition of a wasted con if you ask me.
+HUNTER: (walks out on stage) They don't have any ITEM in there! What a let down!
+DEEJAY: (sarcastic) What!? No ITEM!? Whatever shall we do!?
+DEEJAY: I think you'll survive one more night. Then you'll find plenty in the Dealers Den tomorrow.
+HUNTER: Whatever, DeeJay. (Points at Newt) Who are they?
+CONNIE: This is Newt, it's his first con. We were giving him suggestions on what to do.
+HUNTER: Oh I got this! You need to go to the Dealers Den! I'm big on ITEM right now, I want to get as many as I can!
+NEWT: Not really sure If I'll have the money for that.
+HUNTER: It's not that expensive. If you go on the last day you get all the discounts.
+PAMALA: Yeah because all the good stuff is gone so the vendors are trying rid of the rest.
+CONNIE: And how much did you spend last year on ITEM, Hunter?
+HUNTER: Just $BIG not that much in the grand scheme of things.
+NEWT: WHAT!? That's not a lot to you!?
+CONNIE: (laughs) We don't know where he gets his money from either.
+NEWT: Well what about you, Connie? What's your suggestion? You've been pretty quiet.
+CONNIE: Well when you've been attending these as long as I have, you've pretty much seen it all. But I like the room parties.
+NEWT: Oh tell me more! I want to know about the room parties!
+DEEJAY: Oh boy, the newbie wants to see the room parties.
+HUNTER: This one is all yours, Connie.
+CONNIE: Are you sure? Those can get pretty wild. One of the most common activities is ACTIVITY.
+NEWT: Oh heck yeah! I am all about that! Tell me more! Tell me all about the ACTIVITY! I wanna do it!
+CONNIE: (pause for a moment) Really? For your first con?
+NEWT: Yeah! I wanna go wild! I wanna do something CRAZY! I'm also into FREAK's!
+PAMALA: FREAK's!?
+CONNIE: You're into FREAK's!?
+NEWT: Heck yeah I am! I'm actually insane if you get to know me!
+NEWT: My friend told me there are actually FREAK parties! Know where I can find one at the con?
+CONNIE: (uncomfortable) Uhh, let's move away from that, what's species is your fursona?
+NEWT: Oh me? I'm a SPECIES.
+PAMALA: That's the same type as all of us.
+DEEJAY: Maybe we should show this new guy the ropes SPECIES's have to stick together after all.
+HUNTER: I mean not me exactly I'm a hybrid half SPECIES half anteater. Anteaters are so cool.
+PAMALA: No one cares, Hunter!
+CONNIE: You know what, why don't you hang with us? You seem pretty cool any SPECIES is a friend of ours! right gang?
+PAMALA: Absolutely! SPECIES gang!
+HUNTER: It's always cool to hang with more friends at these. More people to ask for money.
+CONNIE: Stick with us Newt, we'll show you the ropes. Maybe even find you one of those FREAK parties.
+CONNIE: If you really are dead set on going to one that is.
+Newt: Oh heck yeah! Let's do it! Watch out CONVENTION!
+TYPEWRITER: Newt got to the HOTEL got registered for CONVENTION, and met the rest of the SPECIES gang.
+TYPEWRITER: He even got into one of the elusive FREAK parties.
+(police car)
+TYPEWRITER: But he was arrested for getting a little too wild, even for them. He is now in CITY jail.
 
 ======
 
