@@ -2608,7 +2608,6 @@ Nummycore
 ＲｅｎＶＲ
 Bruhfunni10
 #TIER=2
-ForestTheFox
 ArkoNero
 saika mujuuk
 Psych_Foxtrot
@@ -2727,6 +2726,7 @@ IsThatAKnife?
 BasilLeaves6969
 FanFurryTastic
 PostMaloneLover
+Local-pothead
 #TIER=3
 SidMarcus
 PinballReviewer
