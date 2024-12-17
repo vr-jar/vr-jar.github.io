@@ -2002,7 +2002,6 @@ _SNOLLYGOSTER_
 Ianmaco21
 ケイヨシ
 The_wimpy_moth
-CottnCandyPanda
 ༒Mood༒
 ろえぴ。
 kryv
@@ -2010,6 +2009,7 @@ Slockk
 ༒MissGhostface༒
 0B53RV3R
 ThePiedRat
+CottnCandyPanda
 modNick
 ruralists
 #TIER=1
