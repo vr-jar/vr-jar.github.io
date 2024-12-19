@@ -13634,8 +13634,8 @@ TOLEDO: Anything that goes with "Holy ____, Batman!":Toledo, Spaghetti, Sussy, S
 NAME: What will be the Son's Name?:Paul, Jack, Pee Wee, Batman
 SCRIPT ==========================================
 Japanese Music 1
-THE DEMON: (Goes into the sink)
-THE MOTHER: Ah, what a good day to be cooking FOOD.
+THE DEMON: (Goes into the sink) I am the sink demon, I reside in the sink.
+THE MOTHER: (Walks into the Kitchen) Ah, what a good day to be cooking FOOD.
 Meanwhile THE SON: (Changes the TV channel)
 THE MOTHER: (to THE SON) Hey there, NAME, what are you watching?
 THE SON: Oh Mom, you know what I watch.
@@ -13644,7 +13644,6 @@ THE MOTHER: How did you know?
 Meanwhile THE SON: Daddy!
 THE MOTHER: Well, You two can watch the SHOW while I cook up some Dinner, Ok?
 THE SON: Yes, Mommy, can't wait for FOOD!
-THE MOTHER: (Walks into the Kitchen)
 Meanwhile THE FATHER: Well, NAME, you really are into this, aren't you?
 THE SON: Well, it is the Season Finale, don't wanna Miss that!
 Meanwhile THE MOTHER: (Gets a Pan from the Cabinet)
@@ -13691,10 +13690,7 @@ THE FATHER: (Chases THE DEMON with SPIRIT WEAPON) Get back here, you little evil
 Meanwhile THE DEMON: (Gets out of the sink and runs away from THE FATHER) No, Stay away from Me! Aaaaaah!
 sword fighting
 THE MOTHER: I don't wanna be Involved anymore! (Hides behind the couch)
-THE SON: (Enters the Front door holding TREASURE)
-THE SON: (Yells out loud) Stoooop~!
-THE FATHER: (Stops in place)
-THE DEMON: (Looks at THE SON, Frightened)
+THE SON: (Enters the Front door holding TREASURE)(Yells out loud) Stoooop~!
 THE SON: (Walks toward THE DEMON) Is this what you are looking for?
 THE DEMON: The TREASURE? Are you joking?
 THE SON: Nuh uh. I never wanted it anyways; you can have it! (hands THE DEMON the TREASURE)
@@ -18017,7 +18013,7 @@ DOLL: (Stabs the Teacher) DIE! DIE DIE! Hahahahaha!
 TEACHER: Ugh! (Falls Down)
 BOY: Mr. SUFFIX! No! (Run to the Teacher)
 Meanwhile DOLL: (Walks to the other end of the room)
-BOY: (Couches down to the teacher) Not Mr. SUFFIX! You were the best Teacher I'd ever had! No!
+BOY: (Crouches down to the teacher) Not Mr. SUFFIX! You were the best Teacher I'd ever had! No!
 BOY: (Cries)
 DOLL: Oh, Boo hoo! Someone is Sad. What a waste of emotion!
 TEACHER: (Injured) I am ok, Just, please, do the assignment!
@@ -19457,82 +19453,6 @@ SCHMUKUS: Yup.
 CHUCK: And what about that time you broke into the local STORE
 SCHMUKUS: No more questions please folks. I'm getting kinda hungry (looks at the campers and rubs big belly)
 CHUCK: Run!! (Exit stage)
-
-======
-
-INFORMATION ===============================
-ID: 632
-TITLE: Faces of Evil
-AUTHOR: majinjigglypuff
-VERIFIED: False
-TAGS: Skit
-SET: Forest
-DATE: 28/04/24
-CHARACTERS ================================
-LNK: The Heroic Adventurer:Center Stage
-KNG: The Leaderful King:Stage Right
-GWN: The Informative Messager:Entrance Stage Right
-ZLD: The Fair Princess:Stage Left
-SUGGESTIONS =============================
-LNKNAME: Name of the heroic adventurer.:Pawn, Hero, Prince
-GANNAME: Name of an evil villain.:The Dark Lord, The Evil Being, The Dragon King
-ENEMYTYPE: Name of a dangerous fantasy creature.:Goblins, Trolls, Orcs
-ISLANDKNG: Name of a king from another island.:Arthur, Charles, George, William
-ISLANDNAME: Name of a fantasy island.:Camelot, Bahamas, Koridai
-PROFPAGE: Name of an object used to tell prophecy.:Scroll, Book, Template
-WEAPNAME: Name of a object used as a weapon.:Sword, Crossbow, Axe, Hammer
-ZLDNAME: Name of the fair princess.:Aurora, Samantha, Crystal
-REWARDNAME: Name of a reward for the hero.:A kiss, A diamond jewel, Some respect
-CATCHPHRASE: A random thing to yell before travelling.:ONWARD!, FORWARD!, TO BATTLE!
-MAPNAME: Name of a device useful for directions.:Map, Compass, GPS
-SCRIPT ==========================================
-(peaceful fantasy music)
-LNK: Geez, It's sure boring around here. Nothing to do but just stand around and do nothing.
-KNG: LNKNAME My Boi, This peace is what all true warriors strive for.
-KNG: Why must you be so stubborn for an adventure?
-LNK: I want to know what GANNAME is up to so I can go out and slays some ENEMYTYPE.
-KNG: There's more than just slaying ENEMYTYPE at every waking moment.
-KNG: You must learn to smell the roses and breath in the clean air.
-ZLD: Yeah, Fathers know best.
-(Music Stops)
-(forest footstep)
-GWN: (Enter stage right) Your majesty! I'm afraid to inform you that King ISLANDKNG of ISLANDNAME is under attack!
-(epic fantasy music 2)
-KNG: Really, how so?
-GWN: From what I been told, This is the evil work of GANNAME!
-(shark tank offer)
-ZLD: Oh no! But I was hoping to vacation at ISLANDNAME at some point!
-KNG: How can we stop GANNAME!?!
-KNG: Surely there must be something in the PROFPAGE of Prophecy!
-GWN: As it is written in the PROFPAGE of Prophecy, Only LNKNAME can defeat GANNAME.
-GWN: Only then would he be the hero of ISLANDNAME.
-LNK: Great! This is just what I need for an adventure.
-KNG: If that what it's be, Then you're our only hope in saving ISLANDNAME, LNKNAME.
-LNK: I'll go grab my stuff real quick!
-GWN: There isn't much time LNKNAME! Your WEAPNAME is enough!
-ZLD: Please, Allow me to come with you.
-LNK: No can do ZLDNAME, But how about REWARDNAME for luck instead?
-ZLD: Ugh, You got to be kidding. I rather die than to give you REWARDNAME.
-LNK: Oh well. Suit yourself.
-KNG: Good luck on your adventure LNKNAME!
-KNG: Save ISLANDKNG from the evil forces of GANNAME!
-LNK: I will my king. I won't let you down! I will save ISLANDKNG in no time.
-KNG: I know you will. (Exit stage left with princess)
-Meanwhile ZLD: (follow king to stage left)
-(Music Stops)
-(fantasy music 2)
-GWN: Come along now! CATCHPHRASE!!! We're off!!!
-LNK: (Point to the audience.) Wow, What are all those heads out there?
-GWN: Those are the Faces of Evil. You must conquer each and every one of them.
-LNK: Seems fair, I best get started now. But where to go first?
-GWN: Here is the MAPNAME, Just point to where you wish to go from there. (Exit stage right)
-Meanwhile LNK: (follow messager to stage right)
-(Music Stops)
-KNG: (Return to stage with princess) Well, they're finally gone now. Now what?
-Meanwhile ZLD: (Follow king back to stage)
-ZLD: How about we grab something to eat?
-KNG: Great, I wonder what's for dinner?
-(laughter)
 
 ======
 
@@ -33613,7 +33533,7 @@ VILLAIN: Looks like those dogs won't be barking any time soon!
 Epic fantasy music 1
 CAPTAIN: (Look up at Private while lying down) It's up to you now, PRIVATE!
 CAPTAIN: I have absolutely no faith in you whatsoever because you suck at everything and I hate you. But, it's all up to you, now.
-CAPTAIN: Do us all proud, kid. Legoshus Invictus... (Die).
+CAPTAIN: Do us all proud, kid... Charlie Morningstar's feet, here I come. (Die).
 PRIVATE: CAPTAIN, NO! I'm just a rookie I can't...I... (Look at VILLAIN) Why are you doing this?!
 Teleport CAPTAIN backstage
 VILLAIN: Why am I doing this? You VRCHAT. Why would I NOT do this?!
@@ -33642,7 +33562,7 @@ PRIVATE: I dunno, I gotta ask my momma first. Are you allergic to cats?
 HOSTAGE: Are you allergic to TORTURE?
 HQ: Yes Ma'am, Just now. I saw the whole thing.
 HQ: Your kid did it, You should be proud of them...
-HQ: Ms. Donkey-Flappers.
+HQ: Ms. Sloppy-Toppy Turtle-Pounder.
 PRIVATE: Wait! HQ, you're actually talking to my mom right now?! (Exit)
 
 ======
@@ -34865,6 +34785,98 @@ LEAD: (looks out the window, hopeful yet wary) For the sake of all of us, let's 
 ======
 
 INFORMATION ===============================
+ID: 1091
+TITLE: Short service
+AUTHOR: RoboRailroad
+VERIFIED: True
+TAGS: 
+SET: Restaurant
+DATE: 17/09/24
+CHARACTERS ================================
+FELIX: Short, short-tempered celebrity:Entrance Stage Right
+SAMANTHA: Celebrity's mistress:Entrance Stage Right
+WAITER: Part-time waiter:Stage Right
+OWNER: Restaurant manager:Entrance Stage Left
+SUGGESTIONS =============================
+SHORT NAME: something you would call your short friend:smurf, oompalumpa, plankton
+CHILD ACT: something that a kid would do:play with cars, nerf war, coloring 
+COOL SEAT: Name of a cool chair:Skypod, Haven bench, Thunder Throne
+TALL NAME: something you can call your tall friends:slenderman, Iron Giant, Goliath
+FOOD: something you can eat:classic spaghetti, Buttered lobster, Pepperoni pizza
+RESTAURANT: name of a place where you can eat:Vrchat cafe, Pawn's pizza's, Fusion Feast
+CELEBRITY/ACTOR: someone famous:Chris Hanson, Steve Harvey, PaRappa the Rapper
+BAND: A name for a group of musician:Midnight riders, Neon Reverie, Harmonic Riot
+AGE: Age:34, 1987, 20
+MEAL: something you can eat:Deep fried bananas, Onion slices, "special" brownies
+DRINK: Something to drink:Nuka cola, BONK!, Jar's Java
+SIDE: Something to else to eat:Frog thighs, Chocolate, nuggets 
+SCRIPT ==========================================
+(Jazz music 1)
+WAITER: (sighs) Another day, another boring day at RESTAURANT.
+FELIX: (enters from right stage) After you, my TALL NAME.
+SAMANTHA: Thank you, my little SHORT NAME.
+FELIX: (walks up to the waiter) Table for two, please.
+WAITER: Okay, sir, follow me. (brings them to the main table)
+WAITER: Just a reminder that children under 10 eat for free.
+SAMANTHA: Oh no, he's not my kid, he's my date.
+(Music Stops)
+(record scratch)
+WAITER: You're kidding. He looks like he should be CHILD ACT.
+SAMANTHA: I guarantee you that he is not my child and indeed my date, aren't you, my SHORT NAME?
+FELIX: Yes, I'm actually AGE.
+(Jazz music 1)
+WAITER: Okay then, what would you like to start off with?
+FELIX: I'll get FOOD with your finest DRINK.
+WAITER: Okay, and for you, ma'am?
+SAMANTHA: I'll just get MEAL with SIDE.
+WAITER: Okay, I'll be back with your meals in a moment. (exits stage left)
+FELIX: Hey babe...
+SAMANTHA: Yes, my little SHORT NAME?
+FELIX: My seat is too low. I need a highchair.
+SAMANTHA: Okay, then ask the waiter when he comes back.
+FELIX: (calling out) Hey, waiter!
+WAITER: (enters stage left) Yes, what can I help you with?
+FELIX: I require a highchair, please.
+WAITER: Okay, wait one moment. (exits left stage)
+(crashing debris)
+WAITER: (enters left stage) I am awfully sorry, but we don't have any highchairs.
+(Music Stops)
+(record scratch)
+FELIX: I'm sorry, come again?
+WAITER: I said we are out of highchairs.
+FELIX: But I need a highchair.
+WAITER: Like I said, I'm sorry, but we don't have any highchairs available.
+(courtroom music)
+FELIX: What do you mean you don't have highchairs? What kind of establishment is this?!
+WAITER: This is a RESTAURANT, and watch your tone before I get security to kick you out!
+SAMANTHA: Hey, we demand to speak to the manager!
+FELIX: YEAH!
+WAITER: Alright, I'll get the manager.
+WAITER: Karens... (exits left stage)
+OWNER: (enters left stage) Okay, okay, what's the racket!?
+WAITER: (enters left stage) It's those two that are the problem, sir. (points to Felix and Samantha)
+OWNER: Okay, what seems to be the problem, little man? Why are you fighting with my loyal employee of the month?
+FELIX: First off, I'm not "little," and second, your employee isn't willing to cooperate with my request.
+OWNER: Okay, and what was the request?
+SAMANTHA: He didn't give my SHORT NAME a highchair.
+OWNER: Okay, okay, calm down. I'll refund your FOOD and MEAL; it's on the house, Mr...?
+FELIX: Mr. CELEBRITY/ACTOR.
+(Music Stops)
+(record scratch)
+OWNER: You said Mr. what?
+FELIX: You heard me, Mr. CELEBRITY/ACTOR.
+OWNER: You're Mr. CELEBRITY/ACTOR?
+FELIX: Yes, that's me.
+OWNER: THE Mr. CELEBRITY/ACTOR from BAND?!
+OWNER: We are so sorry, Mr. CELEBRITY/ACTOR; something like this will never happen again.
+OWNER: (looks at WAITER) What are you still doing here? Go get the emergency RESTAURANT COOL SEAT!
+WAITER: Right away, sir. (runs out left stage)
+OWNER: By the way, Mr. CELEBRITY/ACTOR, can I have your autograph? I'm a huge BAND fan!
+Typewriter: Based on a true event
+
+======
+
+INFORMATION ===============================
 ID: 1092
 TITLE: Unforgiven 
 AUTHOR: SmithDaStick
@@ -35450,6 +35462,95 @@ CAN R: YIPPEE!!!
 ======
 
 INFORMATION ===============================
+ID: 1105
+TITLE: The Oregon Fail
+AUTHOR: LorrelEclipse
+VERIFIED: True
+TAGS: Skit
+SET: Western
+DATE: 27/09/24
+CHARACTERS ================================
+STEVE: Steve, Charismatic General Store Guy:Entrance Stage Left
+PAUL: Paul, Clueless Husband (Wagon Leader):Center Stage
+LUCY: Lucy, Overprotective Wife:Backstage
+STACY: Stacy, Teenage Daughter:Backstage
+BOB: Bob, Oblivious Eight-Year-Old Son:Backstage
+EARL: Earl, Wise Grandpa:Stage Right
+SUGGESTIONS =============================
+NAME1: A nickname for an older relative:Granpa, Pops, Papi, Granpops, Buck, Hag
+LIQUID: A liquid:Water, Whiskey, Wine, Beer, Dish soap, Chocolate Milk, Milk, Bleach
+VEHICHLE: Mode of transportation:Horse, Boat, Bike, Scooter, Motorbike, Carriage
+NAME2: A nickname for a daughter:Pumpkin, Darling, Sweets, Sweet cheeks, Muffin, Cupcake
+ANIMAL: An (impractical) pet:Snake, Chicken, Goose, Frog, Lizard, Worm
+PACK: A nickname for a group of animals. (like Pack of Geese):Pack of Geese, Flock of Birds, Herd of Horses, Squabble of Geese, Hive of Bees, Herd of Bulls
+SCRIPT ==========================================
+TYPEWRITER: March 13th, 1843, Independence, Missouri. The Morgans are about to go down the Oregon Trail but first, they need supplies.
+(Bluegrass Music)
+PAUL: Here we are, NAME1, Independence Missouri. The first stop on the trail.
+EARL: It's too damn hot out here!
+PAUL: Get used it, Earl, it's gonna be hot for the next few months.
+EARL: Forget that, I'm going into the Saloon for a bottle o' LIQUID (Exit through Saloon door)
+STEVE: (Enter Stage Left) Well howdy, partner! I just happen to see you from inside my general store. You look like you're in need of some supplies!
+PAUL: Why yes I am, partner! I'm about to head down the Oregon Trail and I'm in need of a wagon.
+(Music Stops)
+STEVE: Ooh, yeah I'm not so sure 'bout that...
+PAUL: Erm, What you mean?
+STEVE: You see... I kinda just gave away my last wagon...
+(Silly Music 2)
+LUCY: (Enter Stage Right) You did what now!?
+Meanwhile BOB: (Enter Stage Right)
+STEVE: I sold my last wagon. I ain't got none left. But if it's of interest, I can fix you up with a VEHICHLE instead?
+LUCY: How the hell do you expect a family of five to travel miles and miles on a single VEHICHLE?..
+EARL: (Enter Stage Right) Well, that's simple NAME2!
+Meanwhile STACY: (Enter Stage Right)
+EARL: We all strap ourselves to the VEHICHLE.
+STACY: But NAME1, How are we supposed to do that without a rope of sorts?
+STEVE: I've got plenty o' ropes if you need 'em.
+PAUL: No one asked you, General Store guy.
+BOB: That's a bit mean papa...
+Meanwhile STEVE: (Exit Stage Left)
+PAUL: I'm just tryin' look out for our family, son!
+STACY: And not get us killed at the same time...
+(Music Stops)
+PAUL: Now, now, family. I'm sure we can compromise. Maybe the general store guy has something else we can use!
+LUCY: Something that isn't a VEHICHLE
+BOB: I want a pet ANIMAL!
+(Groose music)
+STACY: We're not getting a pet ANIMAL...
+BOB: You're not my ma!
+STACY: You're not my pa!
+BOB: (Argue with Stacy) Mama can give me a pet ANIMAL if I want one! You don't make choices for me!
+Meanwhile STACY: (Argue with Bob) Ma's not gonna listen to you, Bob! You're eight years old!
+EARL: Quiet!
+(Music Stops)
+EARL: You're all acting like a PACK! I'm sure we can make the VEHICHLE work.
+(Silly Music 1)
+PAUL: (Unenthusiastically) You're 85 NAME1...
+EARL: And I'm still yer father-in-law.
+LUCY: Pa... Have you been drinkin' LIQUID again...?
+EARL: Bob made me do it.
+PAUL: (Cover BOB's ears) EARL!
+Meanwhile BOB: (Let Paul cover your ears)
+PAUL: How could you say such a darn thing!
+LUCY: My son would never!
+STACY: Yeah, he'd never!
+(Music Stops)
+(Bluegrass Music)
+STEVE: (Enter Stage Left) Well would y'lookie here! I did find a wagon!
+Meanwhile PAUL: (Uncover sons ears)
+PAUL: See that family?! There's hope for us after all!
+STEVE: There's only one problem...
+LUCY: Of course there is...
+BOB: What's wrong general store guy?
+STEVE: I seem to have run out of oxen to pull the wagon...
+STACY: Oh come on...
+LUCY: (Put hands on hips) Bob, you can have that ANIMAL you wanted...
+BOB: YAY! (Laugh at STACY)
+Meanwhile STACY: (Fold arms and shake head at BOB)
+
+======
+
+INFORMATION ===============================
 ID: 1119
 TITLE: Wasted in the Wasteland
 AUTHOR: LoppearLink
@@ -35864,6 +35965,132 @@ RADIO HOST: (Breaking the fourth wall and turning towards the audience) And you,
 RADIO HOST: Specifically you AUD ,yes you! (Point directly at them) Don’t you have something better to do than to creep on us? Disgusting honestly…
 RADIO HOST: Behave and stop creeping on random people or I’ll eat your PART as well! (laugh horrifically)
 RADIO HOST: That being said have a lovely Halloween you stalkers! And remember to be a good TEP for daddy Al! (Laugh)
+
+======
+
+INFORMATION ===============================
+ID: 1136
+TITLE: The Case Of The Great Kidnapper 
+AUTHOR: Max Wolfberg
+VERIFIED: True
+TAGS: 
+SET: Detective Noir
+DATE: 16/10/24
+CHARACTERS ================================
+DETECTIVE: The greatest detective of all time :Center Stage
+PARTNER: The partner of the detective :Entrance Stage Left
+KIDNAPPER : The great notorious kidnapper:Backstage
+SUGGESTIONS =============================
+NOUN1: Name for a detective:Jasper Stone, Max Donovan, Olivia Knight, Scarlett Lang
+NOUN2: Name for a sidekick:Finn Montgomery, Caleb Mason, Grace Winters, Tessa Grey
+NOUN3: Name for a kidnapper :Victor Kane, Dexter Thorne, Serena Voss, Ivy Drake
+NOUN4: A clue you can find:crumpled drawing or note,A missing shoe,A hair ribbon, a missing button from a jacket
+NOUN5 : Any city :Shadow Falls,Harborview,Stonebridge,Ravenport
+ADJECTIVE: Negative personality trait:Ruthless,Manipulative,Deceptive,Cold-hearted
+NUMBER: Any number:90,56,40,88
+NOUN6: Any store:The Corner Nook,Oak & Ivy Market,City Square Emporium,The Market Loft
+NOUN7: Any drink:Lemonade,Iced Coffee,Green Tea,Sparkling Water
+NOUN8:  Any name for a child:Ethan,Noah,Grace,lily
+SCRIPT ==========================================
+(noir music 1)
+Detective: (Looks at the audience) It was a Friday night and I have been spending six months…
+Detective: Trying to find the notorious great kidnapper but alas,I have no idea.
+Detective: (Looks at the case board) Who is it and where is this kidnapper hiding?
+Detective: (Facepalms) Every lead I've ever had has gone to a dead end.
+Detective: (Sits down) They have kidnapped NUMBER children so far, maybe even more.
+Detective: (Frustrated) I need answers, it should be right in front of my face!
+Detective: Luckily, I sent my partner out to dig up some dirt.
+Detective: He should be back soon with it and hopefully with my NOUN7.
+Partner: (Enter the room and walk up to the detective) I'm back and I am sorry it took so long.
+(music stops)
+(noir music 2)
+Partner: Here's your NOUN7, NOUN1.
+Detective: Thank you NOUN2, my good partner. Got any leads?
+Partner: Well I did see a person with a ADJECTIVE look on their face.
+Partner: They were at NOUN6 earlier today.
+Detective: Good work my partner, with a little luck we’ll see if they’re who we’re looking for.
+Detective: (Stands up and looks out the window) After all, I've been hunting down the kidnapper ever since the day I moved from Los Angeles to NOUN5.
+Detective: (Sits down and slams fist on desk) We're gonna find them even if it kills me!
+Detective: I need you to go out and find me more clues NOUN2.
+Detective: Maybe some sort of clue like NOUN4 could help us.
+Detective: Or maybe NOUN8 dropped something while being kidnapped
+(music stops)
+(mystery music 1)
+Detective: (Angry) This kidnapping bastard really grinds my gears!
+Detective: But now after six long months we finally got one small potential lead.
+Detective: Alright, partner. Head back on out and see what you can find.
+Partner: I will sir, I hope we can get even closer to solving this. (Walks out the door and leaves it open)
+(music stops)
+(noir music 3)
+Detective: Now that I have the office to myself, I should try and reference the description my partner found.
+Detective: There’s got to be something I’m missing, but what?
+(music stops)
+(dark classical music)
+Kidnapper: (Enters stage left) Ahem.
+(thunder)
+Detective: (Gasps in shock) Wait a minute who are you? And How'd you get into my office!?
+Kidnapper: Well as you can see, the door was left wide open.
+Detective: (Angrily) Of course they did! I’ve told my partner many times to lock the damn door.
+Kidnapper: Ah yes, That must be the person I passed on my way here.
+Kidnapper: Between the two of you, your partner certainly doesn’t seem to be the brighter one.
+Partner: (Walks into the office and is in shock) Uhh, my bad, I left the door open, I completely forgot.
+Detective: (Annoyed) Well, too late for that now!
+Detective: Because somebody just walked in and I have no idea who!
+Kidnapper: Sorry for wandering on into here, I got lost and decided to check out the open door.
+Detective: That’s great and all but I’m gonna have to ask that you leave.
+Detective: I have a very important case to solve.
+Kidnapper: Well, maybe I can help. What are you trying to solve?
+Detective: (Looks seriously at the stranger) It's a kidnapping case.
+Kidnapper: Got any evidence or leads so far?
+Detective: All the evidence I've collected over the six months.
+Partner: The evidence that I uncovered for my boss to analyze.
+Detective: That all led to dead ends! Hopefully your recent contribution will shed some light…
+Kidnapper: Oh, well I might have a few insights.
+Detective: Do tell.
+Kidnapper: For one, maybe those kids really did need a nap. They've been staying up too late and getting cranky.
+Detective: (Laughs) Yes, yes… real funny. But this is serious!
+Detective: (Shows the stranger the pictures) NOUN8 was playing at a nearby playground.
+Kidnapper: Ah the playground, certainly a joyous time for all parties involved.
+Kidnapper: Truly a shame that it was apparently ruined.
+Detective: Indeed… but as you can see right here, we got a good shot of the likely suspect.
+Detective: And I had an expert get a nice closeup and enhancement of the face…
+Detective: That oh so familiar ADJECTIVE face…
+Detective: (Point at the kidnapper) Your Face!
+Meanwhile Kidnapper: (Gasp)
+Kidnapper: Did you know it was me the whole time? Guess the jig is up
+Kidnapper: Okay fine, it was I that kidnapped all those children.
+Detective: (Points at the kidnapper) (Smirks) I knew it!
+Detective: As a great detective the answer is always right in front of me.
+Detective: As you can see I looked over the picture that my partner took outside of NOUN6.
+Kidnapper: Well… I mean I have to admit it was a good angle for me in those shots.
+Detective: Uh… okay? Anyway It was all too simple to recognize that ADJECTIVE look on your face.
+Detective: (laugh triumphantly) And deduce it was you who kidnapped NUMBER children to your secret home!
+Detective: So my dubious kidnapper, what is your name?
+Kidnapper: My name is NOUN3, but don’t sound too confident just because you found me out!
+(music stops)
+(happy music 1)
+Kidnapper: (Punch the detective in the face once) Take that!
+Meanwhile DETECTIVE: (Take no damage from the attack)
+Kidnapper: (Shocked) How are you still standing?
+Detective: It’s elementary my dear kidnapper… I work out.
+Detective: Seeing as I am a Great detective, I'm always prepared for anything!
+Detective: Even if a criminal foolishly decides to fight back.
+Kidnapper: Go to hell you stupid detective!
+Kidnapper: You may be smart enough to solve cases, but you can’t be that strong!
+Detective: And seeing that you just screwed up trying to pull a punch on me, You’re gonna regret it!
+Detective: (Punch’s the kidnapper in the gut) You better learn to never try that again!
+Meanwhile Kidnapper: (Hunch over from punch and start shaking in fear)
+Kidnapper: Ok, I never knew detectives could be so strong.
+Detective: With this, the case is now closed.
+Detective: My partner, I need you to turn NOUN3 to the police.
+Partner: Yes NOUN1, i’ll make sure NOUN3 gets in their custody.
+Kidnapper: I can’t believe you caught me! But I will escape one day and kidnap more children when I do!
+Partner: You're coming with me, so move it before I smack you!
+Partner: (Grabs the kidnapper and drags him out the door)
+Meanwhile Kidnapper: (Screams in anger) (Get dragged off stage)
+Detective: (Sighs with relief) After six months,I finally caught them!
+Detective: (Stands up and looks out the window) I wonder what may the next case be that awaits me?
+Detective: For I am the world’s greatest detective that can solve anything!
 
 ======
 
@@ -36752,24 +36979,24 @@ CHARACTERS ================================
 CLERK: Apple Store Clerk:Behind Register
 CUSTOMER: Person Buying New Iphone:Entrance Stage Right
 SUGGESTIONS =============================
-NUMBER: A number from 16 to 30:18, 30
+NUMBER: A number from 16 to 30:16,18, 25,30
 HIGH: A number from 1000 to 3000:1000, 2000, 3000,
-FAMILYMEMBER: A type of family member:Cousin, Son, Daughter
+FAMILYMEMBER: A type of family member:Cousin, Son, Daughter, Dad
 LOW: A number from 50 to 100:50, 75, 100
 FAMOUSACTOR: A famous actor:Will Smith, Sean Connery
 FAMOUSMUSICIAN: A famous musician:Chris Brown, Drake
 NICKNAME: A nickname for a loved one:Pookie, Daddy, Baby, Sweetie
 COUNTRY: A country (anything but America):China, Egypt, Mexico
 FOOD: A food:Pizza, Rice, Potatos
-FUNCTION:  An Useless technology:Sneeze Detector
+FUNCTION: A useless function for a phone:Sneeze Detector, Extra camera,
 SCRIPT ==========================================
 happy music 1
 CUSTOMER: (Walk into the store)
 CLERK: Welcome to the Apple store, how can I help?
 CUSTOMER: I want the new iPhone NUMBER
 CLERK: Okay i give you brand new iphone NUMBER, great condition
-CUSTOMER: Okay sounds good,tell me, what can this new Iphone do that the old one can't?
-CLERK: The brand new IPhone NUMBER has the capabilities of being able to FUNCTION
+CUSTOMER: Okay sounds good, tell me, what can this new Iphone do that the old one can't?
+CLERK: The brand new iPhone NUMBER has a FUNCTION
 CUSTOMER: Woah! just what i need, how much do i need to pay?
 music stops
 CLERK: HIGH dollars
@@ -36808,12 +37035,13 @@ CUSTOMER: I guess you dont want my money, i will be leaving now, Good luck selli
 CLERK: WAIT!! Give me time to think about the LOW dollars
 CUSTOMER: No you took too long, it is now NUMBER
 CLERK: NUMBER dollars??!!
-CUSTOMER: NUMBER dollars.
+CUSTOMER: Yes, NUMBER dollars.
 CLERK: Please!!
-CLERK: I need to afford FOOD for this month for my family!
+CLERK: I need the money to afford FOOD for my family!
 CUSTOMER: (sigh) fine LOW plus 1 dollar
 CLERK: LOW plus 2 dollars
-CUSTOMER: Okay deal
+CUSTOMER: Okay fiiiiine
+CLERK: Thank you so much!
 CLERK: (give iphone to customer) Here you go
 CUSTOMER: Thank you so much, (Exit stage right)
 CLERK: Thank you come again
@@ -37214,6 +37442,151 @@ KID: Wait, weren't you preparing dinner?
 fire alarm
 MOM: Oh shoot, not the FOOD!!! (Run over to the kitchen and panic)
 KID: Aww man, I wanted FOOD!
+
+======
+
+INFORMATION ===============================
+ID: 1212
+TITLE: broken down camping
+AUTHOR: CRYPTPUG
+VERIFIED: True
+TAGS: Skit
+SET: Campsite
+DATE: 13/11/24
+CHARACTERS ================================
+WORKER: The Driver/Cop:Center Stage
+FRIEND: The Friend that looks like food:Center Stage
+BOSS: The Boss:Entrance Stage Right
+NEIGHBOR: The Neighbor:Backstage
+COP: A Police Officer:Backstage
+SUGGESTIONS =============================
+PRODUCT: A random item:Mouth wash, spoons, forks, alcohol
+DRIVER: A random name:John, Noah, Olivia
+CELEB: A random famous name:Jeff, Ryan Reynolds, Keanu Reeves
+FRIEND: A Random Youtuber/Streamer:PewDiePie, XQC, MindlessGonzo
+CRIME: A random crime:Murder, Theft, Assault
+MONEY: A random number:69, 1000, 500
+SNACKS: a random food:snacks, pizza, trail mix
+KNIFE AND FORK: random item to eat food:Fork, Knife and Fork. Chopsticks
+MOTHER: A random family member/animal:Dog, Cat, Father. Mother
+BRAIN: A random body part:Brain, Arm, Leg
+SCRIPT ==========================================
+tire screech
+crashing debris
+silly music 2
+WORKER: Phew! Glad I packed the camping gear earlier this week! I can't believe we crashed!
+FRIEND: No thanks to him!
+BOSS: (Exit tent) What? I am innocent!
+BOSS: It was DRIVER who crashed it!
+FRIEND: That's because you were shoving the PRODUCT in his face while screaming “This way is the future!”
+BOSS: Sure... (go into tent)
+Meanwhile FRIEND: (Look around)
+BOSS: (exit tent) Well, we are all out of food. (look at FRIEND)
+FRIEND: Gee, I wonder why?
+BOSS: We're stuck here for three days with barely enough supplies...
+BOSS: And with no way to give the PRODUCT to the people in PLACE ...
+BOSS: All because DRIVER was drunk!
+WORKER: What are we gonna eat now? Thanks a lot, boss!
+FRIEND: (look at WORKER) You were drunk?! You told me you were sober!
+BOSS: Okay, enough! There's only one thing left to do.
+FRIEND: What's that?
+Music Stops
+BOSS: (Stare at FRIEND with hungry look) We both have to eat each other...
+scary music
+WORKER: Woah! Stop looking at NAME that way!
+WORKER: They are not food!
+FRIEND: Yeah, I did not sign up to be dinner!
+FRIEND: What is wrong with you?!
+BOSS: Yes, you did! I have the contracts!
+BOSS: (present papers) Right here, with your signatures!
+FRIEND: Whoa, whoa, whoa! No, I didn't! You must have forged mine!
+WORKER: I still blame you for eating all of our SNACKS, Boss!
+BOSS: Now, now. You signed it while you were half asleep at the office party.
+BOSS: I even laminated it afterwards so you can't destroy it.
+BOSS: I also had DRIVER sign theirs for a different reason, so they will only be paid MONEY just to cover the gas for our trip.
+WORKER: So, you got a tired employee to sign a paper knowing they won't remember at all?
+BOSS: I might've slipped something in your drinks to help persuade you.
+FRIEND: What?! Oh, god! First, my boss drugged me! Then, they ate all the SNACKS!
+FRIEND: And now, I'm blackmailed all the way out here, lost in the woods!
+FRIEND: And we're about to eat each other!
+FRIEND: What is this world coming to?!
+WORKER: Check your backpack, NAME
+BOSS: We're gonna starve to death if we don't do something!
+BOSS: Just think of it as sacrificing yourself for a greater cause.
+BOSS: Besides, you look yummy right now.
+FRIEND: (panic) I think your brain has lost its mind!
+BOSS: Mmm, BRAINs...
+Meanwhile FRIEND: Digging! (dig through backpack)
+WORKER: No! Bad Boss! No thinking of eating BRAINs right now!
+BOSS: Okay, hold on just one moment!
+FRIEND: Good, stop 'em from trying to eat me just long enough...
+BOSS: DRIVER , haven't you at least thought about it yourself? I can see you drooling.
+WORKER: I am not! You're just crazy!
+FRIEND: (talking to self) I think I brought extra SNACKS in case our idiot boss did anything...
+BOSS: Crazy? I was crazy once. Still am.
+FRIEND: (Shout) No!
+Meanwhile WORKER: (Shout) No!
+BOSS: Fine, time and a place. We need something to eat.
+FRIEND: Just let me check! (Look in backpack)
+Music Stops
+FRIEND: (Look at the others) I got bad news.
+tense cinematic music
+BOSS: Got the KNIFE AND FORK Ready!
+WORKER: (Shouting) No! Stop that!
+BOSS: No, I will not. I'm starving!
+FRIEND: You get any closer, I'm breaking your kneecaps!
+BOSS: (looks at WORKER) You must have ate the emergency SNACKS while you were drunk.
+FRIEND: (Glare and point at BOSS) But I seen you near my bag earlier!
+WORKER: Don't shove blame onto me!
+FRIEND: Yikes, what a jerk.
+Teleport NEIGHBOR to STAGE LEFT
+NEIGHBOR: Shut up, all of you! (Run backstage)
+BOSS: Hey, you were the one with the drinking problem DRIVER .
+BOSS: I'm innocent here.
+WORKER: What the heck do you mean? You've just admitted that you're nuts!
+BOSS: You crashed the car.
+FRIEND: And someone touched my backpack.
+BOSS: And your MOTHER.
+FRIEND: Wait, what?
+FRIEND: Don't you bring my MOTHER into this, Jerk!
+BOSS: Alright, that's it! Get into the fire, it's dinner time now! (grab FRIEND, try to drag into campfire)
+FRIEND: (while happening) Get off me, Jerk!!!
+BOSS: Get in my belly!
+music stops
+Teleport NEIGHBOR to STAGE LEFT
+(Forest footstep)
+silly music 1
+NEIGHBOR: (enter stage) Hey, who are you and what are doing in my garden?!
+FRIEND: Garden!?
+WORKER: CELEB, is that you?
+NEIGHBOR: Yes, this is my garden! Now get off my land or I'm calling the cops!
+FRIEND: Wait a minute! We were in a garden the whole time?!
+BOSS: The cops?! Hide!!! (hide in tent)
+WORKER: Sorry, sir! We didn't know this was your property! (Exit stage left)
+FRIEND: (mad) Monday morning! I'm gonna have your kneecaps for this! (Follow WORKER)
+teleport COP to STAGE LEFT
+NEIGHBOR: (pull phone out and call) C'mon, please pick up.
+COP: Police department. What seems to be the problem?
+NEIGHBOR: Hello, this is CELEB, I would like to report some people trespassing in my garden.
+NEIGHBOR: It's my next-door neighbor DRIVER and two other randoms.
+NEIGHBOR: I think they're still here.
+COP: Okay, can you give us an address? We're sending someone over.
+TYPEWRITER: A long while later...
+COP: (enter stage) So where's these intruders?
+NEIGHBOR: I think there's one in that tent.
+BOSS: Crap! (run out of tent toward Stage left) You'll never catch me alive!!!!
+COP: Get back here! (exit Stage Left after BOSS)
+NEIGHBOR: Good luck... (scroll on phone)
+TYPEWRITER: While the cops was able to grab and arrest the company boss...
+TYPEWRITER: DRIVER and FRIEND never made it to PLACE to pitch PRODUCT
+TYPEWRITER: But several days later...
+WORKER: (enters from Stage left) Hey, sorry about all that.
+NEIGHBOR: You're fine, you're fine.
+WORKER: But I haven't heard from the boss for a while. I'm worried.
+NEIGHBOR: I have! (chuckle)
+NEIGHBOR: (Hold phone to WORKER) He got put in jail. Apparently, wanted for CRIME
+WORKER: What?
+TYPEWRITER: The End!
 
 ======
 
@@ -38371,6 +38744,106 @@ typewriter:2 weeks later CORPORATION went out of business. The end.
 ======
 
 INFORMATION ===============================
+ID: 1282
+TITLE: The Not So Quiet Spy
+AUTHOR: shadowking23
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+DATE: 05/12/24
+CHARACTERS ================================
+SCOTT: The clumsy spy:Backstage
+HECTOR: mafia boss :Corner Right 
+ASSISTANT 1: right hand man/girl:Backstage
+ASSISTANT 2: goon:Backstage
+JHON: intel from van:Narrator Podium
+SUGGESTIONS =============================
+ITEM: item valuable for a spy to steal :money, info, art
+NUMBER: any number:5, 10, 200, 6000000
+WEAPON : a weapon:Gun, Knife, Sword
+JOB: a job title:goon, butler, someone you would hire
+COLOR: a color for a code:green, yellow, blue
+PASSWORD: a solid password to recite:blazing, 4654, Fish, Ballack's 
+TOOL: a second weapon but far sillier:balloon, fish, stick
+SCRIPT ==========================================
+Australian Music 1
+HECTOR: (to goons) Hey fellas, step into my office.
+ASSISTANT 1: (walks in first) Sure thing, boss.
+ASSISTANT 2: (follows) Yeah, whatever.
+HECTOR: Hey, don't take that tone with me, ya dig.
+HECTOR: Now, we have some business to attend to. (pulls out ITEM)
+ASSISTANT 1: Wow, where did you find that?
+HECTOR: Found it on one of my afternoon strolls.
+ASSISTANT 2: (quietly) Mob bosses don't take strolls.
+HECTOR: Of course they do I have seen it myself.
+ASSISTANT 2: (sarcastic) Right I'm sure you have.
+ASSISTANT 1: Its true. I've gone with the boss to make sure they were not harmed.
+HECTOR: And I thank you for keeping a close eye while I'm out and about.
+ASSISTANT 2: So what exactly have you called us in here for?
+HECTOR: Well funny you should ask, I was just about to tell you.
+(music stops)
+(spy music 1)
+SCOTT: (climbs backstage ladder) (stay by file cabinet stage left) Alright, I'm in.
+JHON: Alright, remember you're looking for the ITEM and nothing else. Just grab it and get out before you get caught.
+SCOTT: Right, retrieve the ITEM and get out alive.
+JHON: Correct. We DON'T want a repeat of last time.
+(music stops)
+HECTOR: (points to Assistant 1) Do you remember the password to the safe?
+ASSISTANT 1: Yup, it's PASSWORD. Just as you told me.
+SCOTT: Yes! I got the password. Now it should be smooth sailing from here.
+JHON: Nice, great job.
+SCOTT: Why, thank you.
+JHON: Focus.
+SCOTT: Right, sorry.
+ASSISTANT 2: Wasn't there a color associated with the password as well?
+HECTOR: You buffoon, of course there was a color with the password. Right hand, recite the color if you will.
+ASSISTANT 1: Right, it was COLOR.
+HECTOR: And that's why you're my right hand.
+SCOTT: Weird. I guess you need a color too, huh?(start trying to unlock the file cabinet)
+HECTOR: Alright, goons (turn around toward stage left and spot the spy) What the!
+SCOTT: (standing quickly) Uh hi!
+(crashing debris)
+HECTOR: Who are you
+SCOTT: I'm your new JOB
+HECTOR: Wait a minute, I don't have a JOB in my crew.
+SCOTT: Well I just transferred here and you know how people don't inform people about new employees.
+HECTOR: Funny I wasn't expecting any new employees today. Was I right hand?
+ASSISTANT 1: Lemme check.(flips a pad of paper)
+ASSISTANT 2: I don't think we were boss. We don't have the funding for new people
+SCOTT: Crap.
+JHON: Crap, Uh try playing it off.
+HECTOR: So who are you really? If your not a new employee than you must be a spy!
+SCOTT: (try playing it off) What? No, I'm not a spy. Haha, those don't exist.
+ASSISTANT 1: Sure they do. I'm looking at one right now. (points to Scott)
+ASSISTANT 2: Shall I grab the WEAPON, sir?
+HECTOR: Eh, why not? I was looking for a fight anyway.
+ASSISTANT 2: (runs offstage to grab WEAPON and hands it to Hector) Here ya go, boss.
+HECTOR: Thanks. (whispers) For nothing. Draw your weapon, for I want a fair fight.
+SCOTT: Uh, okay fine, you asked for this. Jhon my TOOL please!
+JHON: Uh you sure. I thought this was for emergencies only!
+SCOTT: This kind of is an emergency!
+JHON: Ugh okay fine
+(alien teleport)
+SCOTT: Thanks Jhon.
+JHON: No prob Boss.
+HECTOR: (tries not to laugh) Hehe, hahahaha. Oh my goodness, you expect to win with that useless thing?
+SCOTT: It's not useless!
+HECTOR: Enough talk. Let's fight! En garde!
+(sword fighting)
+SCOTT: Ah ha, I've got you now!
+HECTOR: Ugh, fine, you have won. Assistant, how many times have I lost this week?
+ASSISTANT 1: NUMBER.
+HECTOR: Really, that many times?
+ASSISTANT 1: Yeah, it's quite unfortunate.
+ASSISTANT 2: Yeah, just get good, hahaha. (pokes at Assistant 1)
+HECTOR: You're fired.
+ASSISTANT 2: Dang.
+ASSISTANT 1: Told you to not run your mouth around the boss
+ASSISTANT 2: Yeah yeah whatever
+
+======
+
+INFORMATION ===============================
 ID: 1283
 TITLE: Noir's Unforgettable 4th Wall Break
 AUTHOR: Rod-ロッド
@@ -38408,7 +38881,7 @@ groose music
 DETECTIVE NOIR: What in tarnation? Who are you?
 GOOFY MCGEE: (wave) GUYSNAME, narrator of your doom and the only guy who actually knows what’s going on around here.
 GOOFY MCGEE: It's nice to meetcha.
-GOOFY MCGEE: (to the audience) By the way, SECRETARYNAME’s about to come in and accidentally sit on ITEM. Watch for it.
+GOOFY MCGEE: (to the audience) By the way, SECRETARYNAME’s about to come in and accidentally sit on CHAIRITEM. Watch for it.
 MARTHA: (enter) Detective! Detective! You’ve got another lead on the escaped inmate!
 GOOFY MCGEE: (To audience) There it is! CHAIRITEM incoming in three… two…
 lacrimosa music
@@ -38425,7 +38898,7 @@ GOOFY MCGEE: and make this whole conversation moot.
 GOOFY MCGEE: Oh, and he’s got a grudge, by the way.
 GOOFY MCGEE: DETECTIVENAME here put him behind bars ten years ago for stealing…
 groose music
-GOOFY MCGEE: Wait for it…....... STOLENITEM.
+GOOFY MCGEE: Wait for it….. STOLENITEM.
 laughter
 Music Stops
 DETECTIVE NOIR: (confused) What are you even talking about?
@@ -38544,7 +39017,7 @@ POLICE:Okay then, now what's the problem.
 CLERK:He's trying to rob us.
 ROBBER:Um no I'm not, um (point WEAPON at cop).
 gunshot
-POLICE:(Falls to ground) ... I can see the light (dies)
+POLICE:(Falls to ground) ... Ow! you shot me, and now my shirt has a big blood stain! Do you know how long it takes to get blood stains out! (dies)
 mystery music 1
 NARRATOR:Finally, you did something right for once!
 SHOPPER:Oh my gosh, you killed him!
@@ -38588,7 +39061,7 @@ FREAK: Name for a type of eldritch Abomination:Bingo-Bongo, Ghoulish, Weardno, G
 BEAST: Something a scary thing would be called:Discord mod, Reddit Gold-User, Dream SMP Simp, Litwick
 BREAK: A painful action you can do to someone:eviscerate, Tear, Wreck, Mutilate
 SCRIPT ==========================================
-Jazz music 1
+bluegrass music
 ASS: (Setting up table) Welp, that should do it. Got the BEANS and CHICKEN all set up.
 ASS: Shouldn't be long till everyone gets here.
 fire alarm
@@ -38616,11 +39089,13 @@ ASS: Well, before we get started, I need to run a quick errand. (Walks off stage
 TRUCK: Yep, and I gotta carry in my SAUCE... or what's left of it. (Walks off stage left.)
 TRUCK: (Puts hand on LOGIC's shoulder) Sorry that you're being left alone BUDDY, but I gotta go put out some fires...
 thunder
-TRUCK: In fact, I think they've almost spread to half the house. You chill here. (Runs off stage right, guns blazing.)
+TRUCK: In fact, I think they've almost spread to the BEANS. You chill here. (Runs off stage right, guns blazing.)
+music stops
 LOGIC: Well, alright. I guess I'll get comfy. (Walks to stage left table and looks around.)
 LOGIC: Man, Rick has some... weird things? (Looks through stuff.)
 footsteps on wood
 LOGIC: The hell? There isn't anyone else here though... Right?
+noir music 1
 Heavy door knocking
 LOGIC: (Pauses) Who is it?
 Meanwhile FRIEND: (stands behind stage left door)
@@ -38630,7 +39105,7 @@ FRIEND: Let... Me in... (Shouting) Now.
 LOGIC: (Walks stage right) Oh fluff no. I am not doing that.
 FRIEND: (Furiously) Open door... Now!
 extreme knocking
-FIGHT: (Pokes head out of stage right) Hey there, BUDDY. What's goin' on?
+FIGHT: (Pokes head out of stage right) Hey there, BUDDY. I was able to save
 LOGIC: Fighter, there is some beast or thing at the door. It's trying to get in.
 FIGHT: A what? Here, lemme see.
 FRIEND: (Crying) Fight... Er. Let. Friend... In.
@@ -38638,9 +39113,10 @@ FIGHT: Whatever you say, BUDDY. (Turns to LOGIC) It's just Friend the FREAK.
 LOGIC: Whoa, whoa, whoa, what are you doing? You're just gonna let something called a FREAK in?
 FIGHT: Of course. Why wouldn't I? (Opens door.)
 Meanwhile LOGIC: (hides behind the table.)
+music stops
 door creak
 FRIEND: (Walks on stage left) Thank... You... Where... Is... Him?
-FIGHT: (Looks around) Huh, I ain't got no clue. But hey, how 'bout you help me put out some fires?
+FIGHT: (Looks around) Huh, I ain't got no clue. But hey, how 'bout you help me save some BEANS?
 FRIEND: Oh... Kay. (Walks out stage right.)
 Meanwhile FIGHT: (walks out stage right.)
 LOGIC: Holy crap, that thing is inside now. I need to get out. (Gets out of hiding spot and walks stage left.)
@@ -38649,6 +39125,7 @@ TRUCK: (Bumps into LOGIC) Whoa, hey there, pal I almost dropped by SAUCE. How ya
 LOGIC: Truck guy, there's a BEAST inside the kitchen. It hypnotized Fighter or something.
 TRUCK: A BEAST? Well, shoot, why didn't ya just say so? (Pulls out weapon) I'll blow that thing to smithereens.
 bird screech
+yankee doodle music
 TRUCK: For glory! (Runs to stage right.)
 Meanwhile FRIEND: (walks on stage right.)
 FRIEND: Truck... Guy.
@@ -38708,13 +39185,17 @@ PAMALA: Connie is like a con master they know a newbie when they see one.
 CONNIE: We're in town for the con too. So it's your first time hunh? Is there something you're most excited for?
 NEWT: Well I guess a little bit of everything. I want to experience everything CONVENTION has to offer!
 CONNIE: Be careful, if you try to do everything you'll just end up running yourself ragged and having a stressful weekend.
-NEWT: Well you three seem to know your stuff. Got any suggestions for me?
+NEWT: Hmm... You have a point, I didn't think about it that way.
+CONNIE: What's your name? If you don't mind me asking.
+NEWT: I'm Newt. Sorry if I seem awkward, I'm not very used to this yet.
+CONNIE: You're fine. I'm Connie by the way, my friends and I have been to a few of these, would you like some suggestions?
+NEWT: Sure, I suppose it couldn't hurt.
 DEEJAY: You gotta check out the concerts! PERFORMER is gonna be performing this year!
 DEEJAY: No one plays GENRE like them, it's gonna be SICK!
 PAMALA: UGH, It's all about the concerts with you DeeJay! You're gonna lose your hearing if you keep going to those.
 PAMALA: Besides PERFORMER is overrated and GENRE is boring and repetitive! There! I said it!
 DEEJAY: You take that back!
-PAMALA: No! (look at Newt) You should check out the panels!
+PAMALA: You're only mad because I'm right. (look at Newt) You should go to the panels!
 PAMALA: There's a really fun one on TOPIC I went to it last year and it was awesome! They have it again this year!
 DEEJAY: (sarcastic) Yeah sitting down in one place and listening to someone talk about TOPIC for an hour, sounds really fun.
 DEEJAY: That's the definition of a wasted con if you ask me.
@@ -38726,12 +39207,12 @@ CONNIE: This is Newt, it's his first con. We were giving him suggestions on what
 HUNTER: Oh I got this! You need to go to the Dealers Den! I'm big on ITEM right now, I want to get as many as I can!
 NEWT: Not really sure If I'll have the money for that.
 HUNTER: It's not that expensive. If you go on the last day you get all the discounts.
-PAMALA: Yeah because all the good stuff is gone so the vendors are trying rid of the rest.
-CONNIE: And how much did you spend last year on ITEM, Hunter?
+PAMALA: Yeah because all the good stuff is gone so the vendors are trying to get rid of all the other stuff that didn't sell.
+CONNIE: And even with those discounts, how much did you spend last year on ITEM, Hunter?
 HUNTER: Just $BIG not that much in the grand scheme of things.
-NEWT: WHAT!? That's not a lot to you!?
+NEWT: WHAT!? How is THAT not a lot to you!?
 CONNIE: (laughs) We don't know where he gets his money from either.
-NEWT: Well what about you, Connie? What's your suggestion? You've been pretty quiet.
+NEWT: Well what about you, Connie? What's your suggestion?
 CONNIE: Well when you've been attending these as long as I have, you've pretty much seen it all. But I like the room parties.
 NEWT: Oh tell me more! I want to know about the room parties!
 DEEJAY: Oh boy, the newbie wants to see the room parties.
@@ -38743,23 +39224,472 @@ NEWT: Yeah! I wanna go wild! I wanna do something CRAZY! I'm also into FREAK's!
 PAMALA: FREAK's!?
 CONNIE: You're into FREAK's!?
 NEWT: Heck yeah I am! I'm actually insane if you get to know me!
-NEWT: My friend told me there are actually FREAK parties! Know where I can find one at the con?
+NEWT: My friend told me there are actually FREAK parties! Do you know where I can find one at the con?
 CONNIE: (uncomfortable) Uhh, let's move away from that, what's species is your fursona?
 NEWT: Oh me? I'm a SPECIES.
 PAMALA: That's the same type as all of us.
 DEEJAY: Maybe we should show this new guy the ropes SPECIES's have to stick together after all.
-HUNTER: I mean not me exactly I'm a hybrid half SPECIES half anteater. Anteaters are so cool.
+HUNTER: I mean, I'm not the exact same. I'm a hybrid half SPECIES half anteater. Anteaters are so cool.
 PAMALA: No one cares, Hunter!
 CONNIE: You know what, why don't you hang with us? You seem pretty cool any SPECIES is a friend of ours! right gang?
+DEEJAY: Yeah sure, the more the better.
 PAMALA: Absolutely! SPECIES gang!
 HUNTER: It's always cool to hang with more friends at these. More people to ask for money.
 CONNIE: Stick with us Newt, we'll show you the ropes. Maybe even find you one of those FREAK parties.
 CONNIE: If you really are dead set on going to one that is.
-Newt: Oh heck yeah! Let's do it! Watch out CONVENTION!
+NEWT: Oh heck yeah! Let's do it! Watch out CONVENTION!
 TYPEWRITER: Newt got to the HOTEL got registered for CONVENTION, and met the rest of the SPECIES gang.
 TYPEWRITER: He even got into one of the elusive FREAK parties.
 (police car)
 TYPEWRITER: But he was arrested for getting a little too wild, even for them. He is now in CITY jail.
+
+======
+
+INFORMATION ===============================
+ID: 1300
+TITLE: The Meowfia
+AUTHOR: CookieBee6
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 11/12/24
+CHARACTERS ================================
+LIN: Linda, The cat owner:Couch
+CAT: Cheddar, the Meowfia cat:Center Stage
+NAR: Narrator:Narrator Podium
+SUGGESTIONS =============================
+ADJ1: An adjective:weird, clever, determined, entertaining, enthusiastic, eager, sensible, thoughtful, mature, witty, skillful, rational
+FOOD: Something a cat would eat:Wet food, dry food, tuna, fish, beef, chicken, turkey
+NICKNAME: A nickname you’d give a cat:Nugget, Speedy, Mister Whiskers, Bug, Biscuit, Fuzzy, Jelly Bean, Fluffernutter 
+OBJ: An object you’d keep on a table:Candle, lamp, vase, urn, sculpture
+ADJ2: A negative adjective:Arrogant, cruel, abrasive, bad, intolerant, malicious, nasty, absurd, cowardly
+NUM: A small number:1, 2, 3, 0.1, 0.11, 0.00001
+CAGE: Somewhere you’d put your naughty cat:cage, air jail, bedroom, bathroom
+TIME: A late time of the night (after 12am):1 am, 2 am, 3 am, 4 am
+SHOW: A TV show:Simpsons, South Park, Breaking Bad, The Office, Friends, Family Guy
+SCRIPT ==========================================
+(Noir music 4)
+NAR: It's a late night at the Johnsons' household.
+NAR: Linda has been spending her night watching her favorite SHOW.
+NAR: While Cheddar sits beside her, planning his next moves.
+CAT: Huh (looks around confused). Who said that?
+NAR: So you see, Cheddar is in the Meowfia.
+CAT: Shut up! You're gonna blow my cover!
+LIN: (Looks over at the cat.) Did you say something, Cheddar?
+CAT: Meow Meow.
+LIN: Aww, so cute. (Goes back to watching the TV)
+NAR: Worry not, Cheddar. Only you can hear me... somehow.
+CAT: (sign of relief)
+NAR: Now where was I... Ah yes. He needs to find a way outside so he can be there for the Catnip trade. But how will he do it? Cheddar moves to the kitchen.
+CAT: Are you telling me what to do? Listen here, you ADJ1 voice, you're not the boss of me.
+NAR: Just do what I say, and I'll get you out of here.
+CAT: Fine, fine. (Walks to the kitchen) Now what?
+NAR: Linda notices and checks to see if Cheddar is hungry.
+LIN: Oh, Cheddar, are you hungry? (Walks into the kitchen)
+CAT: What??? I'm not hungry!?
+NAR: Go along with it. I'm on your side, remember?
+CAT: Fine.
+LIN: (Prepares food for the cat) Here you go, your favorite FOOD.
+NAR: Eat the FOOD.
+CAT: But I don't want to.
+LIN: What's wrong, Cheddar?
+NAR: Eat.
+CAT: Ok, ok. (Hesitantly eats the food).
+NAR: Cheddar finishes the food.
+CAT: What the hell was the point in that??
+NAR: You're closer to the package, the catnip.
+CAT: The Catnip's in here?
+NAR: Yes! On the top shelf! Do you see it?
+CAT: I do! But how can I get it without Linda seeing me?
+NAR: A distraction. Go to the living room.
+CAT: But we're so close to the package!
+NAR: Go.
+CAT: (mutters under his breath) Ok, ok.
+CAT: (Walks back to the living room.)
+LIN: Where are you going now, NICKNAME?
+NAR: Now get on the table and knock the OBJ over.
+CAT: What!?? No! Are you insane??? She loves that OBJ. If I break it, I'll never be getting out tonight.
+NAR: Don't worry, the fall isn't big enough to break it. It will just cause a mess, a mess she has to clean. That will be your chance to get the catnip.
+CAT: If you say so... (Jumps onto the table and knocks off the OBJ)
+(Crashing debris)
+(Emotional piano music)
+LIN: Cheddar, no!! My OBJ... it's shattered! Cheddar, you ADJ2 ADJ2 boy! (Linda rushes over to clean it up.)
+CAT: You said it wasn't going to break!
+NAR: I didn't think it would... it's only a NUM foot drop... how did it break??
+NAR: That's not the point! Now you have a distraction. Quick, go get the Catnip before Linda notices!
+CAT: (Quickly runs over to grab the catnip and grabs it.)
+LIN: Cheddar! (Runs to the kitchen after him)
+(Music stops)
+LIN: You've been such a naughty boy today! That's it, you're going in the CAGE tonight. (Grab cat and put him in a cage)
+Meanwhile CAT: (You are carried into a cage)
+NAR: Well... that didn't go over very well.
+CAT: Actually, it went great! I got the package!
+(Noir music 4)
+NAR: You brilliantly sly cat! Great work! Now you just have to get out of the CAGE quickly, it's almost TIME.
+CAT: How am I supposed to do that?
+NAR: I have one idea, but you're going to have to really go along with it.
+CAT: What is it...?
+NAR: You're going to need to... act cute.
+CAT: No... please anything but that!
+NAR: It's the only way... Quick, you don't have much time left!
+CAT: (Mutters) Fine, fine. (Rubs up against the cage and meows cutely)
+LIN: (Looks at Cheddar) Aw. I can't stay mad at you, Cheddar. (Linda goes over and opens the cage.)
+CAT: (Rubs up against Linda's legs and purrs.) Purr purr
+NAR: Great work, Cheddar! You're a natural!
+CAT: I hate you.
+NAR: Love you too. Now all you have to do is ask to go outside. Pretend you have to use the bathroom; she'll surely let you out.
+CAT: Ok. (Walks up to the door and paws it)
+LIN: Do you wanna go outside? (looks at the clock) It's quite late... only for a few minutes. (Opens the door.)
+CAT: Thanks, voice in my head. Bye, Linda.
+NAR: And with that, Cheddar can still keep his secret Meowfia life a secret.
+LIN: Huh, who said that?
+NAR: Dang it.
+
+======
+
+INFORMATION ===============================
+ID: 1305
+TITLE: Buying WHAT?!
+AUTHOR: Yuv x
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 13/12/24
+CHARACTERS ================================
+GARY: Kid disguised as businessman:Entrance Stage Right
+SAM: Kid disguised as mechanic:Entrance Stage Right
+CASHIER: Adult cashier:Behind Register
+COP: Kid disguised as cap:Entrance Stage Right
+THIEF: Kid disguised as robber:Entrance Stage Right
+SUGGESTIONS =============================
+BEER: Something that kids shouldn't buy:Beer, Cigarettes, Condoms"
+AGE: Ridiculous age for a person:69, 666, 100
+STORE: A weird name for a store:TheStore, MacKing, DrippyBuy
+NUMBER: a number:5, 10, 6
+WHAT: Something weird to do in your workplace:play Minecraft, make sushi, get griddy with the skibidi gyatt ohio
+NAME: a weird name for a kid:Killer, LilMeterDefeter, S'groink, Thickums, Barge Largeson
+FBI: some kind of crime-fighting organization:FBI, police, justice league
+SCRIPT ==========================================
+(Corporate guitar music)
+CASHIER: Another day here at STORE , Boring as always! Oh well, At least I still have a job.
+GARY: (Enter store) Phew! What a hard day! At work!
+SAM: (follows Gary into the store) Yeah! How's it been in the office?
+GARY: My office? Oh yeah! My work place which I have been there for NUMBER Years!
+SAM: Woah dude! so you've been there since you were 11 right? Which totally makes sense!
+GARY: That's right Sam! Ever since I was 11, So that means I'm AGE now!
+SAM: Like yeah bro! And I'm older than you by one year, So I'm totally 25!
+(Music Stops)
+CASHIER: Hey, are you gonna buy something, or just be annoying?!
+vine boom
+SAM: Oh yeah! Almost forgot why we went here in the first place. (grabs BEER)
+GARY: Lit! (grabs BEER and walks up to the cashier to pay) Yeah well, Just this BEER please!
+CASHIER: Sure, It's 9.99$ and I need to see some ID.
+(groose music)
+SAM: (Giggles nervously) You bet! (Checks pockets) Oh no! I just remembered something, I was in the factory this morning, Which I work in!
+SAM: And.. I WHAT with my ID So yeah! Sorry ,I left it there!
+CASHIER: Uh okay , Well it's no problem as long as one of you has an ID. (Looking at the other guy)
+GARY: Oh yeah, That would be me (giggling nervously as checking pockets) Oh hold on just a second.
+GARY: I actually just got this new pretty blue wallet... (checking pockets again) And now it's gone.. Ha!
+GARY: I bet one of my kids took it! Let's see now, I think it was Alex..
+SAM: You know what I bet it was NAME! He's always so weird haha!
+GARY: Hey you know he's only five! Not like the other 6 kids that I have!
+SAM: Oh yeah, I forgot that you had so many kids! Because your old!
+Music Stops
+CASHIER: Look, You guys are pretty weird, I don't like where this is going.
+(jazz music 2)
+COP: (gets into the store, clapping his hands in approval) Good work buddy! You passed the test!
+CASHIER: Huh? What are you talking about?
+COP: I'm agent Billy with the FBI, (getting between Gary and Sam) Here with agent Rob and agent Bobby. (points at them)
+COP: We all work for the FBI, Trying to catch store clerks selling BEER to underaged kids!
+CASHIER: Yeah well, I'm just doing my job.
+COP: You wouldn't believe how many clerks don't even check for ID's now days!
+COP: That's why here at the FBI we want to thank you for the good work! (hand your hand to the clerk to shake)
+CASHIER: (Shakes hand) Oh wow yeah..
+GARY: Anyways….. We should get going! (taking the BEER) I’ll just take this BEER and we’ll leave!
+SAM: (Checks time) Heeyy, Look it's 5pm right now, You guys down for a couple BEER?
+COP: I mean I am off duty, BEER sounds nice for sure after this long day!
+COP: So uh, How much for that BEER?
+CASHIER: Its 9.99$.
+SAM: (Checks pockets and takes out money) Here I got… Two bucks.
+GARY: (Checks pockets and takes out money) Oh and I have 99 cents right here..
+COP: (Checks pockets and takes out money) What a coincidence! I have 7$!
+CASHIER: Yeah okay. (takes money) Now I just need to see some ID.
+THIEF: (Break down the door and get in with a gun) Nobody move! Or I'll shoot you with my gun!
+break down door
+THIEF: Okay, Now this, This is a rubbery.
+SAM: (sarcastic) Ohhh no!!!
+GARY: (Sarcastic) A rubbery!
+COP: Please don’t take out money and ID’s!
+THIEF: Well too bad! This is what I’m gonna do! Gimme your wallets! With all your money and IDs! (takes the other kid's wallets)
+Meanwhile COP: (Surrender your wallet to the robber)
+THIEF: Oh wow! Your 24! You look younger! What a VALID ID! (points to the cop)
+THIEF: Oh well, Thanks again for this VALID ID. (leaves the store)
+SAM: Wow, That was close.
+COP: Damn, I wish this rubber wouldn't steal my wallet, You know, Because it had my ID in there.
+GARY: What a shame.
+COP: Well now you know I’m 24, So… I’ll just take that BEER..
+CASHIER: Yeah no, I still need to see some ID.
+GARY: hey uh, (takes a 5$ bill from pocket) How about this crisp 5$ bill for an ID?
+CASHIER: Sold! See you guys next time! (takes the money and gives them the BEER)
+
+======
+
+INFORMATION ===============================
+ID: 1309
+TITLE: A Breath of Fresh Fire
+AUTHOR: Valhymm
+VERIFIED: True
+TAGS: 
+SET: Forest
+DATE: 14/12/24
+CHARACTERS ================================
+DRAGON: Dragon mage:Center Stage
+FOX: Fox bard:Entrance Stage Right
+SUGGESTIONS =============================
+REPTILE: Scaly animal, real or fictional:reptile, snake, armadillo, lizard, chameleon, crocodile, alligator
+MONASTERY: Building you might leave an orphan at:castle, monastery, temple, church, mad aunt's house, town hall
+EYE: Body part(s) you wouldn't want kicked:eyes, ass, butt, tail, head, shins, elbows, horns, ribs
+KOBOLD: Fantasy humanoid:kobold, gnoll, troll, orc, goblin, ghoul
+POTION: Magic item you wouldn't want stolen:potion, bow, dagger, knife, saw, sword, armour, lute, component pouch
+STAFF: Something you would cast a spell with:staff, orb, wand, sceptre, rod, crystal, mind
+FLIRTY: A way of describing someone in love:flirty, lovey-dovey, doe-eyed, heart-eyed
+THREE: A number:3, 7, 11, 4, 8, 15, 16, 23, 42
+SCRIPT ==========================================
+sad chug jug music
+DRAGON: (Tearful, to audience) I've been wandering these woods ever since I found out I was adopted.
+DRAGON: A dragonborn, left on the steps of a MONASTERY, an egg in a basket, with only a handwritten letter to go by.
+DRAGON: (Sit and look down at the floor) The only one of my kind there. Why didn't anyone tell me sooner?
+music stops, forest footstep
+DRAGON: (Alarmed) What? Who's there? Show yourself!
+DRAGON: (Stand, look to stage left) Oh no! It's a bunch of KOBOLDs!
+draw sword
+epic fantasy music 2
+DRAGON: (Strike a combat pose) It may be my first battle, but I'm not afraid! Have at you!
+FOX: (Enter right, run across, exit left) YAAAAAARGH!
+Meanwhile DRAGON: (Confused) Huh?
+DRAGON: A kitsune? A fox-folk?
+sword fighting
+bard music 2
+FOX: (Enter stage left, dusting off your hands) Those KOBOLDs are always causing trouble. Are you okay?
+DRAGON: (Annoyed) Okay? I could have easily dealt with that!
+FOX: (Wag your finger) Nuh uh, you were about to get your EYE kicked!
+FOX: Those KOBOLDs have been super powerful ever since they stole my magic POTION.
+FOX: As a bard, I am the only one able to stop them!
+DRAGON: And I am a mage! My magic STAFF is more than capable of defending me!
+FOX: How do you know if you've never battled before?
+DRAGON: (Flustered) Well... I... um...
+FOX: You wanna try it on, REPTILE?
+music stops, waterphone
+DRAGON: (Anger rising) What... did you call me?!
+FOX: (Proudly) REPTILE! You heard me!
+DRAGON: (Menacing stare) Nobody...
+FOX: Oh crap...
+Meanwhile DRAGON: Calls me...
+DRAGON: (Point your STAFF at FOX, angrily) REPTILE!
+thunder
+epic fantasy music 3
+FOX: (Clutch your head in pain) AAAARGH! AAAARGH!
+DRAGON: Who's getting their EYE kicked now?!
+FOX: (Sink to your knees in pain) Don't kill me! Please! I'm sorry!
+DRAGON: Vow never to call me REPTILE again!
+FOX: (Slowly losing consciousness) I'll never... call... you... (Faint)
+DRAGON: (Anxious) NO NO NO NO!
+DRAGON: (Kneel by FOX) I didn't mean to... stay with me!
+DRAGON: Fire breath! (Give FOX mouth-to-mouth breaths) Come on foxy, wake up! Please!
+FOX: (You're getting mouth-to-mouth breaths) Mmm...
+DRAGON: It's working! (Give FOX mouth-to-mouth again)
+Meanwhile FOX: (Coming round) Mmmmm...
+music stops
+DRAGON: (Relieved) You're alive! Thank gods!
+FOX: Yeah... thanks... but why did you stop...
+70s music
+DRAGON: (Mortified, backing away) Oh no! No, no, no! We are NOT doing that!
+Meanwhile FOX: (Crawl after DRAGON)
+FOX: (Sounding pleased) Dragon fire is a real pick-me-up! Don't tell me you didn't enjoy that too?
+DRAGON: A FLIRTY bard is not what I had bargained for!
+DRAGON: And I did not enjoy it! I only did it to save your life!
+magic sound
+FOX: (Get in DRAGON's face) Stop kidding yourself, dergy, I know when people are lying. I can see it in your EYE.
+emotional piano music
+FOX: (Relent) But yeah, that was pretty nasty of me, calling you a REPTILE. I'm sorry.
+DRAGON: (Deep breath) It's okay. I'm sorry for almost killing you with my STAFF.
+DRAGON: (Sit down) I've just been so on edge ever since I found out I was adopted. Look at this letter. (Hold out your hand)
+Meanwhile FOX: (Sit next to DRAGON)
+FOX: (Read DRAGON's letter) How long have you been wandering round here?
+DRAGON: About THREE days. I ran away from the MONASTERY, I was so upset.
+FOX: Aww, come here. (Put your arm around DRAGON) Well, at least yours may still be alive. I've had to bring myself up.
+DRAGON: (Put your arm around FOX) That's awful, I'm so sorry...
+FOX: It's okay, it hasn't done me any harm so far.
+DRAGON: (Solemnly) Apart from just now.
+FOX: (Gently) Heheh... forget about it, dergy. I forgot as soon as you saved me. Because that's what we do.
+DRAGON: Well, I think you've been looking for someone too. You've lived here on your own your whole life?
+FOX: Yeah... someone to be FLIRTY with would be nice...
+DRAGON: Heheh, well, I think you've found someone.
+aww
+FOX: After all we've been through?
+DRAGON: (Gently) Forget about it, foxy. That's what we do.
+FOX: (Hold hands) I can never have my parents back, but I swear, I'll help you find yours.
+Meanwhile DRAGON: (Hold hands)
+DRAGON: (Hold FOX closer) Thank you. I'll stay with you, no matter what. I... I think I love you.
+FOX: (Look into DRAGON's eyes) My powers don't work on "I love you."
+DRAGON: (Look into FOX's eyes) Then you'll just have to trust me.
+FOX: (Hug DRAGON) I... I love you, too.
+Meanwhile DRAGON: (Hug FOX)
+aww
+DRAGON: How powerful is that POTION?
+FOX: You wouldn't believe it.
+DRAGON: No wonder those KOBOLDs wanted it.
+
+======
+
+INFORMATION ===============================
+ID: 1312
+TITLE: Cult You Next Thursday
+AUTHOR: TheToxicAvenger
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+DATE: 15/12/24
+CHARACTERS ================================
+LEADER: Cult Leader:Stage Right
+FOLLOWER 1: Cult Member 1:Stage Left
+FOLLOWER 2: Cult Member 2:Stage Left
+SKEPTIC: Skeptic:Center Stage
+SUGGESTIONS =============================
+CULT ITEM: Mystical Object:Dagger, Orb of mystery, enchanted gems
+CULT RITUAL: A routine or procedure:jumping up and down, 10 pushups, grape peeling
+CULT PROPHECY: an unfavorable fate:locusts, plague, wealth
+CULT CHANT: something you would chant:yes, the night time is the right time, trees can hear
+NOUN: a plural noun:squirrels, tigers, monkies, tables
+LOCATION: a location:realm, town, city
+SCRIPT ==========================================
+(mystery music 1)
+LEADER: Welcome, my devoted followers, to the first meeting of our sacred gathering! Today, we officially honor the CULT ITEM, as foretold in the prophecy.
+FOLLOWER 1: All hail the CULT ITEM! It will bring balance to LOCATION!
+FOLLOWER 2: Uh… wait, how does it work again?
+LEADER: Silence! Its power is beyond your comprehension.
+SKEPTIC: Yeah, sure. Worship a CULT ITEM. That makes total sense.
+LEADER: The non-believer speaks! SKEPTIC, open your eyes to the truth. Perform the CULT RITUAL with us, and you shall understand.
+FOLLOWER 1: (Already performing the CULT RITUAL) Yes, SKEPTIC! Join us! It's life-changing!
+FOLLOWER 2: (Clumsily attempting the CULT RITUAL) Wait, am I doing this right? Does my arm go here or—?
+SKEPTIC: Hard pass.
+LEADER: Enough! Recite the CULT CHANT to show unity!
+LEADER: CULT CHANT
+FOLLOWER 1: CULT CHANT
+FOLLOWER 2: CULT CHANT
+LEADER: Still skeptical, I see. Perhaps the prophecy will convince you: We are destined to CULT PROPHECY!
+FOLLOWER 1: It’s true! I read it in my dreams!
+FOLLOWER 2: Wait… I thought it was about NOUN.
+SKEPTIC: Oh yeah, this sounds totally legit. Here’s an idea: Why don’t we ditch the CULT ITEM and just… I don’t know, worship me instead?
+LEADER: Worship you? Ha! What could you possibly offer that’s better than the sacred CULT ITEM?
+SKEPTIC: For starters, I’m not asking people to bow to a CULT ITEM.
+FOLLOWER 1: I mean… it is just a CULT ITEM.
+LEADER: (Pointing dramatically at FOLLOWER 1) Blasphemy! The CULT ITEM represents strength and wisdom!
+SKEPTIC: Sure, strength and wisdom. Let me guess, do you also talk to it at night?
+FOLLOWER 2: Wait, do you actually talk to it?
+LEADER: No! I listen to it. It whispers its wisdom through the wind!
+SKEPTIC: Oh great, now we’re taking life advice from a CULT ITEM. What’s next? Letting it plan your taxes?
+FOLLOWER 1: Yeah, that does sound kind of dumb when you say it like that.
+LEADER: Dumb?! Without the CULT ITEM, we’re nothing!
+SKEPTIC: Without it, you’re free. You can stop bowing to a nut and start doing whatever you want. Like… NOUN.
+FOLLOWER 2: Did you say NOUN?
+LEADER: No! No NOUN! The sacred prophecy forbids NOUN! CULT PROPHECY!
+FOLLOWER 1: That’s it. I’m out.
+FOLLOWER 2: Same. NOUN sounds better than CULT ITEM.
+LEADER: You can’t just abandon the CULT ITEM!
+SKEPTIC: They’re not abandoning it. They’re upgrading… to me.
+FOLLOWER 1: All hail The New Guy!
+FOLLOWER 2: Long live the NOUN king!
+LEADER: Nooooo! The prophecy! The CULT ITEM! What about the CULT PROPHECY?!
+SKEPTIC: Rewrite it. New prophecy: NOUN on Thursdays, everyone’s welcome. NO CULT ITEM's!
+FOLLOWER 1: (In unison) NOUN on Thursdays!
+FOLLOWER 2: (In unison) NOUN on Thursdays!
+SKEPTIC: Yes, my children yes!
+FOLLOWER 1: Actually… that’s not the worst idea.
+FOLLOWER 2: Yeah, they make more sense than this CULT PROPHECY stuff.
+LEADER: No! This is blasphemy!
+SKEPTIC: Alright, new rule: We meet only on Thursdays, and NOUN's are mandatory.
+FOLLOWER 1: No CULT ITEMs?! I’m in!
+FOLLOWER 2: Long live The New Guy!
+LEADER: Noooooo!
+SKEPTIC: Time to collect those membership fees!
+(Music Stops)
+
+======
+
+INFORMATION ===============================
+ID: 1316
+TITLE: The Wedding Guest
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 17/12/24
+CHARACTERS ================================
+GUEST: Cynical Guest:Stage Right
+BRIDE: The Bride:Stage Right
+GROOM: The Groom:Center Stage
+SUGGESTIONS =============================
+ANIMAL: Name an animal:dog, cat, platypus
+FNOUN: A funny noun (plural):bananas, socks, Legos
+BODYPART: A body part:face, nose, lips
+FADJT: A funny adjective:moist, fluffy, moody
+SPLACE: A strange location:Waffle House, Disneyland, church
+MEME: A funny meme:skibidi toilet, Slenderman, Drake
+FOODT: A food type:sushi roll, cheeseburger, burrito
+APET: Name a kind of pet:cat, dog, chinchilla
+RSTORE: Name of a retail chain:Target, Cracker Barrel, Macy's
+SMOBJECT: A small object:stapler, doorknob, tissue
+SCRIPT ==========================================
+Happy music 1
+BRIDE: Oh my gosh! You came! You actually came!
+GUEST: Not too early, I hope.
+GROOM: Oh, Brad, you sly ANIMAL. Glad you can make it!
+GUEST: (flat) I wouldn’t miss it. Weddings are like motivational posters.
+GROOM: A motivational poster?
+GUEST: Yeah. Inspiring. But mostly photoshopped, with some extra MEME content. It's complicated.
+GUEST: Anyway, marriage. It's a brave thing, committing forever. God bless.
+BRIDE: (confused) There's nothing brave about this. Brad and I love each other very much.
+GUEST: Yeah. Exciting. Terrifying.
+GROOM: I guess marriage can be terrifying for some.
+GUEST: But seriously, enough. The both of you are glowing, like two overcooked FNOUN in the microwave.
+BRIDE: Overcooked FNOUN in the microwave? Strange analogy. Are you're saying we're overdone?
+GUEST: More like warm and gooey. You know, happiness.
+GROOM: (sarcastically) Oh great, gooey. Just what I wanted to hear about my marriage.
+GUEST: How about this? Your marriage is fresh. Like a gas station FOODT.
+BRIDE: (horrified) Gas station FOODT? Excuse me?
+GROOM: Are you trying to say our marriage is about to make people sick?
+GUEST: No. I’m saying it's a bold choice. It could be fine. It could ruin everything. Coin toss.
+BRIDE: (to Groom) Is he joking? I feel like he's joking.
+GROOM: I don't know. I think his BODYPART broke a long time ago.
+BRIDE:  So, you are happy for us, right?
+GUEST: (flatly) Absolutely. Marriage is beautiful. Like FADJT drywall.
+GROOM: Did you say FADJT drywall?
+GUEST: Yeah. It holds up for a while, until someone leans too hard on it.
+GROOM: Like why would you compare anything to that?
+BRIDE: (exploding) OH MY GOD, did you just say our marriage is gonna fall apart?
+GUEST: No. I said it’s like drywall. It depends on the foundation.
+GROOM: Oh, so NOW we have a bad foundation? Is that what you're saying?
+GUEST: I didn't say that. But you are the ones who picked a SPLACE for your honeymoon.
+BRIDE: What’s wrong with SPLACE?
+GUEST: (shrugging) Nothing. Some people are into that. I'm not judging. Okay, maybe a little.
+BRIDE: (to Groom) Is he serious? This feels like a full-blown attack.
+GROOM: Why are you even here, man? Are you TRYING to ruin our day? (sighs) Deep breaths. Okay, you know what?
+GROOM: Maybe it's his problem, not ours. He’s the guy who looks at love and sees a hairless APET.
+GUEST: Hairless APETs are loyal. They’re just uncomfortable to look at.
+BRIDE: OH MY GOD!
+GROOM: Are we uncomfortable to look at? I need to know!
+BRIDE: Maybe we ARE! Maybe we’re like a broken shopping cart rolling through RSTORE!
+GROOM: Oh my god, I hate those carts!
+GUEST: Broken wheels happen. Sometimes you have to lean to one side.
+BRIDE: You know what? Maybe we shouldn’t have gotten married!
+GROOM: Oh, NOW you’re saying that?
+GROOM: Well, maybe I shouldn't have let you talk me into getting us that giant inflatable SMOBJECT for the ceremony!
+BRIDE: It was festive!
+GROOM: It looked like your mother, but twice the alcoholism.
+BRIDE: Well, maybe you're like competitive ANIMAL watching -- boring and pointless! (exits front door)
+GROOM: (gasping) That’s LOW (exits side door)
+GUEST: Cool. I got the reaction I wanted.
 
 ======
 
