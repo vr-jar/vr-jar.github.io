@@ -37454,22 +37454,22 @@ TAGS: Skit
 SET: Campsite
 DATE: 13/11/24
 CHARACTERS ================================
-WORKER: The Driver/Cop:Center Stage
+WORKER: The Driver:Center Stage
 FRIEND: The Friend that looks like food:Center Stage
 BOSS: The Boss:Entrance Stage Right
 NEIGHBOR: The Neighbor:Backstage
 COP: A Police Officer:Backstage
 SUGGESTIONS =============================
-PRODUCT: A random item:Mouth wash, spoons, forks, alcohol
-DRIVER: A random name:John, Noah, Olivia
-CELEB: A random famous name:Jeff, Ryan Reynolds, Keanu Reeves
-FRIEND: A Random Youtuber/Streamer:PewDiePie, XQC, MindlessGonzo
-CRIME: A random crime:Murder, Theft, Assault
-MONEY: A random number:69, 1000, 500
-SNACKS: a random food:snacks, pizza, trail mix
-KNIFE AND FORK: random item to eat food:Fork, Knife and Fork. Chopsticks
-MOTHER: A random family member/animal:Dog, Cat, Father. Mother
-BRAIN: A random body part:Brain, Arm, Leg
+PRODUCT: an item:Mouth wash, spoons, forks, alcohol
+DRIVER: a name:John, Noah, Olivia
+CELEB: a famous name:Jeff, Ryan Reynolds, Keanu Reeves
+FRIEND: a Youtuber/Streamer:PewDiePie, XQC, MindlessGonzo
+CRIME: a crime:Murder, Theft, Assault
+MONEY: a number:69, 1000, 500
+SNACKS: a food:snacks, pizza, trail mix
+KNIFE AND FORK: Utensil:Fork, Knife and Fork, Chopsticks
+MOTHER: a random family member/animal:Dog, Cat, Father. Mother
+BRAIN: a random body part:Brain, Arm, Leg
 SCRIPT ==========================================
 tire screech
 crashing debris
@@ -37484,7 +37484,7 @@ Meanwhile FRIEND: (Look around)
 BOSS: (exit tent) Well, we are all out of food. (look at FRIEND)
 FRIEND: Gee, I wonder why?
 BOSS: We're stuck here for three days with barely enough supplies...
-BOSS: And with no way to give the PRODUCT to the people in PLACE ...
+BOSS: And with no way to give the PRODUCT to the people in LOCATION...
 BOSS: All because DRIVER was drunk!
 WORKER: What are we gonna eat now? Thanks a lot, boss!
 FRIEND: (look at WORKER) You were drunk?! You told me you were sober!
@@ -37493,7 +37493,7 @@ FRIEND: What's that?
 Music Stops
 BOSS: (Stare at FRIEND with hungry look) We both have to eat each other...
 scary music
-WORKER: Woah! Stop looking at NAME that way!
+WORKER: Woah! Stop looking at FRIEND that way!
 WORKER: They are not food!
 FRIEND: Yeah, I did not sign up to be dinner!
 FRIEND: What is wrong with you?!
@@ -37510,7 +37510,7 @@ FRIEND: What?! Oh, god! First, my boss drugged me! Then, they ate all the SNACKS
 FRIEND: And now, I'm blackmailed all the way out here, lost in the woods!
 FRIEND: And we're about to eat each other!
 FRIEND: What is this world coming to?!
-WORKER: Check your backpack, NAME
+WORKER: Check your backpack, FRIEND
 BOSS: We're gonna starve to death if we don't do something!
 BOSS: Just think of it as sacrificing yourself for a greater cause.
 BOSS: Besides, you look yummy right now.
@@ -37537,10 +37537,10 @@ BOSS: No, I will not. I'm starving!
 FRIEND: You get any closer, I'm breaking your kneecaps!
 BOSS: (looks at WORKER) You must have ate the emergency SNACKS while you were drunk.
 FRIEND: (Glare and point at BOSS) But I seen you near my bag earlier!
-WORKER: Don't shove blame onto me!
+WORKER: Don't shove the blame onto me!
 FRIEND: Yikes, what a jerk.
 Teleport NEIGHBOR to STAGE LEFT
-NEIGHBOR: Shut up, all of you! (Run backstage)
+NEIGHBOR: (in stage left) Shut up, all of you! (Run backstage)
 BOSS: Hey, you were the one with the drinking problem DRIVER .
 BOSS: I'm innocent here.
 WORKER: What the heck do you mean? You've just admitted that you're nuts!
@@ -37578,7 +37578,7 @@ BOSS: Crap! (run out of tent toward Stage left) You'll never catch me alive!!!!
 COP: Get back here! (exit Stage Left after BOSS)
 NEIGHBOR: Good luck... (scroll on phone)
 TYPEWRITER: While the cops was able to grab and arrest the company boss...
-TYPEWRITER: DRIVER and FRIEND never made it to PLACE to pitch PRODUCT
+TYPEWRITER: DRIVER and FRIEND never made it to LOCATION to pitch PRODUCT
 TYPEWRITER: But several days later...
 WORKER: (enters from Stage left) Hey, sorry about all that.
 NEIGHBOR: You're fine, you're fine.
@@ -39087,9 +39087,9 @@ FIGHT: Bah, it will probably work next time BUDDY.
 LOGIC: (Questioning) ...Why did you put SAUCE in your truck?
 ASS: Well, before we get started, I need to run a quick errand. (Walks off stage left.)
 TRUCK: Yep, and I gotta carry in my SAUCE... or what's left of it. (Walks off stage left.)
-TRUCK: (Puts hand on LOGIC's shoulder) Sorry that you're being left alone BUDDY, but I gotta go put out some fires...
+FIGHT: (Puts hand on LOGIC's shoulder) Sorry that you're being left alone BUDDY, but I gotta go put out some fires...
 thunder
-TRUCK: In fact, I think they've almost spread to the BEANS. You chill here. (Runs off stage right, guns blazing.)
+FIGHT: In fact, I think they've almost spread to the BEANS. You chill here. (Runs off stage right, guns blazing.)
 music stops
 LOGIC: Well, alright. I guess I'll get comfy. (Walks to stage left table and looks around.)
 LOGIC: Man, Rick has some... weird things? (Looks through stuff.)
@@ -39105,7 +39105,7 @@ FRIEND: Let... Me in... (Shouting) Now.
 LOGIC: (Walks stage right) Oh fluff no. I am not doing that.
 FRIEND: (Furiously) Open door... Now!
 extreme knocking
-FIGHT: (Pokes head out of stage right) Hey there, BUDDY. I was able to save
+FIGHT: (Pokes head out of stage right) Hey there, BUDDY. I was able to save the CHICKEN but not the BEANS
 LOGIC: Fighter, there is some beast or thing at the door. It's trying to get in.
 FIGHT: A what? Here, lemme see.
 FRIEND: (Crying) Fight... Er. Let. Friend... In.
@@ -39121,7 +39121,7 @@ FRIEND: Oh... Kay. (Walks out stage right.)
 Meanwhile FIGHT: (walks out stage right.)
 LOGIC: Holy crap, that thing is inside now. I need to get out. (Gets out of hiding spot and walks stage left.)
 Meanwhile TRUCK: (walks to stage left entrance.)
-TRUCK: (Bumps into LOGIC) Whoa, hey there, pal I almost dropped by SAUCE. How ya doin'? Something the matter?
+TRUCK: (Bumps into LOGIC) Whoa, hey there, pal I almost dropped by SAUCE. How ya doin?
 LOGIC: Truck guy, there's a BEAST inside the kitchen. It hypnotized Fighter or something.
 TRUCK: A BEAST? Well, shoot, why didn't ya just say so? (Pulls out weapon) I'll blow that thing to smithereens.
 bird screech
@@ -39359,7 +39359,7 @@ CHARACTERS ================================
 GARY: Kid disguised as businessman:Entrance Stage Right
 SAM: Kid disguised as mechanic:Entrance Stage Right
 CASHIER: Adult cashier:Behind Register
-COP: Kid disguised as cap:Entrance Stage Right
+COP: Kid disguised as cop:Entrance Stage Right
 THIEF: Kid disguised as robber:Entrance Stage Right
 SUGGESTIONS =============================
 BEER: Something that kids shouldn't buy:Beer, Cigarettes, Condoms"
@@ -39690,6 +39690,118 @@ GROOM: It looked like your mother, but twice the alcoholism.
 BRIDE: Well, maybe you're like competitive ANIMAL watching -- boring and pointless! (exits front door)
 GROOM: (gasping) That’s LOW (exits side door)
 GUEST: Cool. I got the reaction I wanted.
+
+======
+
+INFORMATION ===============================
+ID: 1320
+TITLE: And... Its Broken
+AUTHOR: LeDerp_64
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 20/12/24
+CHARACTERS ================================
+STUB: The Stubborn Older Man:Couch
+FRUS: The Frustrated Man/Woman:Center Stage
+TECH: TECH Support:Narrator Podium
+SUGGESTIONS =============================
+BROKEN: Something you would call tech support to fix:TV, Computer, Xbox
+HITTING IT: Your TV is broken, how do you fix it?:Hitting it, Throwing it, Kicking it, downloading a virus, dancing seductively, call 911
+OLDTHANG: Something an Old man would have trouble with:Kids, Wife, Dog
+NUMBER: A Number of years:36, 70, 2
+OLDNAME: A Name for an old man:Baldwin, George, Henry
+HUMBUG: A exclamation or phrase expressing annoyance:Bah Humbug, Harrumph, Aww Phooey
+NAMEC: Common Name:Dave, Lucy, Bob, Amy
+BADIDEA: A thing you should not do to an electronic:spilled water, threw a remote, left it on for too long
+COMPANY: A name for a Tech Company:Fixnet, CyberAid, TechTronic Care
+SWEAR: Something someone would yell in frustration:Fudge, Crabcakes, Darn
+MONEY: An amount of money:$10, $15, $5
+HOLIDAY: An Obscure Holiday:Extraterrestrial Abductions Day, Morse Code Day, Leif Erikson Day
+SCRIPT ==========================================
+double bass music
+FRUS: (fiddles with the tv) Yep, the BROKEN is broken.
+STUB: Are you sure?
+FRUS: I'm sure.
+STUB: Maybe you just turned it on the wrong way.
+FRUS: How would I manage to do that?
+STUB: Try HITTING IT, that used to always work for me.
+FRUS: (Go to the TV and HITTING IT) There, happy?
+STUB: Just give it a second.
+tada
+FRUS: Hey its working!
+STUB: See? Works like a charm.
+FRUS: Wait, nope, it broken again.
+STUB: What? That always works whenever I do that to my OLDTHANG.
+FRUS: And how did that turn out?
+STUB: Eh shut your trap, you need to respect your elders you know
+FRUS: You're only NUMBER years older than me OLDNAME
+STUB: HUMBUG!
+FRUS: I'm just going to call tech support.
+STUB: NAMEC i swear if you call tech support.
+FRUS: What's Wrong with tech support?
+STUB: It's a conspiracy, they come in "Fix" your BROKEN, charge you an obscene amount of money, and the next day your BROKEN is broken again.
+FRUS: Thats not real.
+STUB: I've seen it happen.
+FRUS: Where, on tv?
+STUB: (looks away) No....
+FRUS: Alright Let me try (fiddles with tv) There, now it's working again.
+STUB: Finally. Took you long enough.
+FRUS: Wait, nope, its broken again.
+STUB: For the love of... Here let me take a look at it (slowly walks over to tv and fiddles with it)
+STUB: How did this thing even break in the first place?
+FRUS: You BADIDEA it, remember?
+STUB: Doesn't sound like me.
+STUB: There. Fixed. (Goes to sit down)
+STUB: Now I can get back to business
+FRUS: Good luck with that (start to leave but don't leave the room)
+STUB: SWEAR! NAMEC, its broken again!
+vine boom
+FRUS: Thats it I'm calling tech support (starts dialing number on phone)
+message send
+TECH: Thank you for calling COMPANY how can I help you today?
+FRUS: Yeah, my BROKEN is broken, someone BADIDEA it.
+TECH: Oh that sounds like a very serious problem, have you tried HITTING IT yet?
+FRUS: Yes, we did that.
+TECH: Try turning it off and on.
+FRUS: One moment (turn the tv off and on again)
+TECH: Did that work?
+FRUS: I think so?
+TECH: Alrighty thank you for calling COMPANY, I hope you have a nice day.
+FRUS: Wait, nope, its broken again.
+TECH: Would you like us to send over someone to fix it?
+FRUS: Yes please.
+TECH: Alrighty I'll send someone right away.
+FRUS: thank you. (hang up phone)
+message receive
+STUB: I'm telling you, this guy is not going to fix this thing.
+FRUS: Just can it.
+knocking on door
+TECH: (Go behind front door) Hello, Tech support.
+FRUS: The door's open.
+TECH: (walk inside) Hello thank you for calling COMPANY, where is the BROKEN?
+FRUS: Are you the same guy i was talking to on the phone?
+TECH: (nervously) No?
+FRUS: Alright then, the BROKEN is right there.
+TECH: Alrighty give me a few minutes (start fiddling with the tv)
+STUB: Hey, you better not put some kind of virus or something that will break it after you charge us!
+TECH: I can assure you that at COMPANY we put pride into our services.
+STUB: I'll be watching you.
+FRUS: Lay off his back will you old man?
+STUB: HUMBUG!
+TECH: Alrighty I should be just about done here.
+FRUS: Thank you so much, how much do I owe you?
+TECH: That will be MONEY please.
+FRUS: Here you go. (hands over money)
+TECH: Have a very nice day, and happy HOLIDAY! (leaves to backstage)
+FRUS: HOLIDAY? What's that?
+STUB: Probably some hippie mumbo jumbo.
+FRUS: Welp at least the BROKEN is finally fixed.
+STUB: Took long enough!
+STUB: You know back in my day...
+FRUS: Nope, wait, its broken again...
+vine boom
+STUB: I told you!
 
 ======
 
