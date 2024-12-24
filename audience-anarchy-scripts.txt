@@ -37468,8 +37468,9 @@ CRIME: a crime:Murder, Theft, Assault
 MONEY: a number:69, 1000, 500
 SNACKS: a food:snacks, pizza, trail mix
 KNIFE AND FORK: Utensil:Fork, Knife and Fork, Chopsticks
-MOTHER: a random family member/animal:Dog, Cat, Father. Mother
-BRAIN: a random body part:Brain, Arm, Leg
+MOTHER: a family member/animal:Dog, Cat, Father. Mother
+BRAIN: a body part:Brain, Arm, Leg
+LOCATION: A location:Norway, London, Silent Hill
 SCRIPT ==========================================
 tire screech
 crashing debris
@@ -37566,7 +37567,7 @@ WORKER: Sorry, sir! We didn't know this was your property! (Exit stage left)
 FRIEND: (mad) Monday morning! I'm gonna have your kneecaps for this! (Follow WORKER)
 teleport COP to STAGE LEFT
 NEIGHBOR: (pull phone out and call) C'mon, please pick up.
-COP: Police department. What seems to be the problem?
+COP: (in stage left) Police department. What seems to be the problem?
 NEIGHBOR: Hello, this is CELEB, I would like to report some people trespassing in my garden.
 NEIGHBOR: It's my next-door neighbor DRIVER and two other randoms.
 NEIGHBOR: I think they're still here.
@@ -39694,6 +39695,89 @@ GUEST: Cool. I got the reaction I wanted.
 ======
 
 INFORMATION ===============================
+ID: 1319
+TITLE: The Impossible Order
+AUTHOR: GameAdvent2
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 20/12/24
+CHARACTERS ================================
+WAIT: Waiter:Chair 1
+CUST1: Customer 1:Entrance Stage Right
+CUST2: Customer 2:Entrance Stage Right
+MAN: Manager:Entrance Stage Left
+CHEF: Chef:Entrance Stage Left
+SUGGESTIONS =============================
+GAME: video game or challenge:Pac-Man, Call of Duty, Mario
+REST: restaurant name:Burger Barn, The Spicy Fork, Olive Garden
+DRINK: beverage:Lemonade, Root Beer, dog water
+WEBSITE: website:Twitter, Facebook, vrchat.com
+ORDER1: complicated meal order:Mega Lava Burger, Cosmic Pizza, krabby patty
+ORDER2: unrealistic meal order:Inferno Nachos, Titan Tower, zesty garbage pizza
+ITEM: strange ingredient:Rainbow Sprinkles, Stardust, human meat
+I2EM: absurd ingredient:Dragon fruit, Glowing Ketchup, invisible fish
+EVENT: literally anything that somebody can do tomorrow:Quit the next day, Overcook everything, get fired the next day, make rhinos go extinct
+FOOD: a difficult meal to prepare:12-foot lasagna, non dairy cheesecake, lamb sauce
+SCRIPT ==========================================
+WAIT: (Cleaning a table) First day on the job, I hope I can impress the boss.
+CUST1: (Enters with CUST2, chatting) and that is how you beat GAME.
+CUST2: That sounds too easy.
+WAIT: (Approaches) Welcome to REST! We have a table ready for you. Right this way.
+CUST1: (Follow Waiter and sit at the table.)
+Meanwhile CUST2: (Follow Waiter and sit at the table.)
+WAIT: What can I get you to drink?
+CUST1: We'll just have DRINK, thanks.
+WAIT: Perfect. I'll be right back! (Walks to the kitchen.)
+CUST2: So, what are you thinking of ordering?
+CUST1: I saw a trend on WEBSITE where people order massive, ridiculous meals and pretend it's normal.
+CUST2: Oh, this is going to be fun!
+WAIT: (Returns with drinks) Here you go! What can I get for you?
+CUST1: I'll have ORDER1.
+CUST2: And I'll take ORDER2.
+WAIT: Uh... sure. Coming right up. (Hurries to the kitchen.) Chef, we need ORDER1 and ORDER2.
+CHEF: What kind of nonsense orders are these?
+WAIT: It’s what they want.
+CHEF: (Grumbles) Fine. I’ll make it work somehow.
+TYPEWRITER: 30 Minutes Later
+WAIT: (Serves the meals) Here you go. The Chef worked really hard on these.
+CUST1: Wait, mine is missing ITEM.
+CUST2: And mine doesn’t have I2EM!
+WAIT: Let me fix that right away. (Takes plates back to the kitchen.)
+CHEF: Missing what now? ITEM and I2EM? You’ve got to be kidding me.
+WAIT: They said it’s not right.
+CHEF: (Storms out) Listen, I spent ages on these ridiculous orders, and now you’re complaining?
+CUST1: It’s your job to get it right.
+CUST2: The customer is always right.
+CHEF: Oh, is that so? (Turns to the kitchen, shouting) Manager, deal with this.
+MAN: (Enters, irritated) Alright, what’s happening now?
+CUST1: Your chef messed up our orders and yelled at us!
+CUST2: We just want what we ordered—and a discount for the trouble.
+MAN: (Turns to CHEF) What exactly is going on in here?
+CHEF: These orders are impossible. I’m not a wizard!
+MAN: (Crosses arms) Impossible? You said the same thing about that one time with the FOOD! You still made it happen.
+CHEF: (Throws hands in the air) This is worse!
+MAN: (Turns to Waiter) Waiter, why didn’t you double-check the order before bringing it to the kitchen?
+WAIT: I… I thought it was fine!
+MAN: Clearly not. (To Customers) My sincerest apologies. We’ll fix the orders immediately and offer a 50% discount. That’s my final offer.
+CUST2: 50%?
+CUST1: We wanted 80%!
+MAN: Listen, you’re asking for meals that don’t exist on this planet. The fact that we’re even trying to make them should count for something.
+CUST2: (Reluctantly) Fine, but the food better be perfect this time.
+MAN: It will be. (Turns back to the kitchen) Chef, you have one last chance.
+CHEF: (Snaps) That’s it! I quit! (Throws apron down and storms off.)
+MAN: (Watches CHEF leave, then sighs) Well, that’s just great. Waiter!
+WAIT: (Approaches nervously) Yes?
+MAN: Congratulations—you’re the new Chef. And still the Waiter.
+WAIT: What?!
+MAN: (Hands over the Chef’s hat) Start cooking. I’ll be in my office if you need me. But don’t need me. (Walks off.)
+CUST2: (Smirking) So… ready for round two?
+WAIT: (Panicked) Excuse me?!
+TYPEWRITER: The Waiter would then go on to EVENT
+
+======
+
+INFORMATION ===============================
 ID: 1320
 TITLE: And... Its Broken
 AUTHOR: LeDerp_64
@@ -39802,6 +39886,154 @@ STUB: You know back in my day...
 FRUS: Nope, wait, its broken again...
 vine boom
 STUB: I told you!
+
+======
+
+INFORMATION ===============================
+ID: 1324
+TITLE: Movie Pitch Meeting
+AUTHOR: TheToxicAvenger
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 21/12/24
+CHARACTERS ================================
+EXECUTIVE: Studio Executive:Boss Chair
+HORROR : Horror Writer:Office Chair 1
+ROMANCE: Romance Writer:Office Chair 2
+ACTION : Action Writer:Office Chair 3
+SUGGESTIONS =============================
+CELEBRITY 1: A male Celebrity :Mr Beast, Diddy, Eminem
+CELEBRITY 2: a female celebrity:Kim Kardashian, Taylor Swift, Cardi B
+ANIMAL: an Animal:fox, dog, cat, monkey
+HORRORMOVIETITLE: Title for a fake Horror Film:Zombies!, Braineaters, The Haunted Village
+ROMANCEMOVIETITLE: Title for a fake Romance Film:Lovestruck, Spin The Bottle, Kisses for Cutie
+ACTIONMOVIETITLE: Title for a fake Action Film:Speedsters, Bombs Away, Lights Camera Action
+WEAKNESS 1: Sponsored by  :vegetables, pepsi cola, Baja Blast Mountain Dew
+OCCUPATION 1: any occupation:gardner, beekeeper, janitor
+OCCUPATION 2: any occupation:nurse, secretary, hacker
+BUDGET1: amount of currency:$2000, $20, $200000000
+BUDGET2: amount of currency:$130000, $25000000, $1 Billion
+BUDGET3: amount of currency:Several Million, $750k, $2.5million
+SCRIPT ==========================================
+jazz music 1
+EXECUTIVE: Alright, listen up. We’ve got a problem. CELEBRITY 1, CELEBRITY 2, and the ANIMAL are all under contract, and we need to get them into a movie ASAP.
+ROMANCE: Why the rush?
+EXECUTIVE: Didn't you see their last box-office flops? Complete stinkers!
+HORROR: I thought the concepts were… unique.
+EXECUTIVE: Unique don’t pay the bills! Now we’ve got the sponsors breathing down our necks.
+EXECUTIVE: Speaking of which, don’t forget: WEAKNESS 1 is our biggest sponsor. It needs to be front and center in every pitch.
+EXECUTIVE: I don’t care how you work it in—make it happen.
+ACTION: So, let me get this straight. We’re pitching movies for CELEBRITY 1, CELEBRITY 2, and an ANIMAL
+ROMANCE: all while shoehorning in WEAKNESS 1 because the sponsor says so?
+EXECUTIVE: That’s right. And it better be good, or you’re all fired. Now, let’s get to it. HORROR WRITER, you’re up first.
+HORROR: My movie is called HORRORMOVIETITLE.
+EXECUTIVE: Sounds sinister. What’s the pitch?
+HORROR: CELEBRITY 1 is psychic OCCUPATION 1 who is haunted by the ghost of a child.
+HORROR: They meet CELEBRITY 2, a suspicious local OCCUPATION 2, and together they solve the mystery.
+EXECUTIVE: And the ANIMAL?
+HORROR: The ANIMAL is part of an ancient ritual. The townsfolk believe it carries the soul of the child.
+EXECUTIVE: I'm on board so far, but where is the WEAKNESS 1?
+HORROR: WEAKNESS 1. Uh... It disrupts the ritual, freeing the trapped soul and revealing the village’s twisted secrets.
+EXECUTIVE: That’s dark. What’s the budget?
+HORROR: BUDGET1. Most of it goes to creating the eerie village and the terrifying transformation sequences for the ANIMAL.
+EXECUTIVE: Intriguing. This might just give people nightmares. ROMANCE WRITER, what have you got?
+ROMANCE: My movie is called ROMANCEMOVIETITLE. It’s a heartfelt story about love, loss, and second chances.
+EXECUTIVE: Sounds sweet. What’s the pitch?
+ROMANCE: CELEBRITY 1 and CELEBRITY 2 are rival OCCUPATION 1s forced to care for the same injured ANIMAL after a freak accident.
+EXECUTIVE: And the ANIMAL?
+ROMANCE: It’s the symbol of their love. They bond while nursing it back to health, discovering that their shared hatred was hiding a deeper connection.
+EXECUTIVE: Does the ANIMAL play a role in the climax?
+ROMANCE: Absolutely. The two have a romantic moment when they use WEAKNESS1 on ANIMAL and bring it back to life.
+EXECUTIVE: A zombie ANIMAL in a Romance Movie... Okay. What’s the budget?
+ROMANCE: Only BUDGET3. It’s mostly for romantic montages, sunsets, soundtrack and catering.
+EXECUTIVE: A blend of genres, I see the potential. ACTION WRITER, let’s hear your pitch.
+ACTION: My movie is called ACTIONMOVIETITLE, and it’s pure adrenaline.
+EXECUTIVE: Alright, let’s hear it.
+ACTION: CELEBRITY 1 is an ex-special forces OCCUPATION 1, forced out of retirement when their former partner, CELEBRITY 2, turns rogue.
+ACTION: The ANIMAL? It’s their ultimate weapon.
+EXECUTIVE: What kind of weapon?
+ACTION: A genetically enhanced ANIMAL, trained for combat. It’s got strength, speed, and instincts no human can match.
+EXECUTIVE: Well, how do they stop the rogue agent with the super ANIMAL?
+ACTION: WEAKNESS 1. It completely incapacitates the ANIMAL, giving CELEBRITY 1 the opening they need to neutralize the rogue agent.
+EXECUTIVE: Of course, it’s WEAKNESS 1! Our sponsor is going to eat this up! How much will this cost us?
+ACTION: About BUDGET2, but we could spend more on pyro and stunts.
+HORROR: It’s dark!
+ROMANCE: It’s poetic!
+ACTION: It’s explosive!
+EXECUTIVE: IT'S EXPENSIVE! All of you are driving me insane. You want a blockbuster? Here it is:
+EXECUTIVE: We make a movie about this meeting.
+ROMANCE: Wait… a movie about us pitching movies?
+EXECUTIVE: No! A "virtual reality Play". CELEBRITY 1 plays me, the genius EXECUTIVE. CELEBRITY 2 plays all of you.
+EXECUTIVE: The ANIMAL? It will star as itself, of course. Except it will have Danny DeVito's voice.
+HORROR: And the title?
+EXECUTIVE: "AUDIENCE ANARCHY!" It writes itself, and we'll save a ton of cash!
+TYPEWRITER: "Audience Anarchy opened to scathing reviews, scoring a dismal 23% on Rotten Tomatoes."
+
+======
+
+INFORMATION ===============================
+ID: 1326
+TITLE: Special Medicine
+AUTHOR: Rift3d
+VERIFIED: True
+TAGS: Infomercial
+SET: Infomercial Bathroom
+DATE: 21/12/24
+CHARACTERS ================================
+JEREMY: Jeremy the Infomercial Spokesman:Center Stage
+ALIEN: The Alien Subject To Taking Medicine:Backstage
+SUGGESTIONS =============================
+MEDICINE: The Name Of A Newly Developed Medicine:Instant No-Depression, The Free Food Medicine, The Be Rich Medicine
+COMPANY: The Name Of A Medicine Company:Jeremy Medicine Co., Jeremy's Pharmacy, The Jeremy Health Organization
+COUNTRY: A Country:England, France, Spain, Portugal, India, United States, Russia
+ILLNESS: An Illness:The Flu, Depression, Burger King Foot Fungus
+NUMBER: A Number:One, Twenty-Seven, Three Thousand Two Hundred Sixty Three
+PLACE: A Place Inside A House:kitchen, bedroom, basement, living room
+CURRENCY: A Currency:The Jeremy Dollar, Potato Euro, Cobalt Coins
+TIME: An Amount Of Time:five minutes, ten days, three years
+PERCENT: A Number From 50-100:50, 75, 100
+NEGATIVE: A Bad Thing That Can Happen To Someone:Died, Threw Up On The Floor, Got Beaten Up
+FOOD: An Object An Alien Might Like To Eat:Nuts & Bolts, Glue, Paint
+SCRIPT ==========================================
+(70s music)
+JEREMY: (Point at audience) Are you sick and tired of dealing with ILLNESS?
+JEREMY: Suffering from ILLNESS has tormented the people of the world for centuries, but through the power of MEDICINE, you shall fear no more!
+JEREMY: From my extensive research in the PLACE of a special laboratory located in the COUNTRY, we've developed a medicine to clear all effects of ILLNESS!
+JEREMY: And after only PERCENT% of test subjects... I mean "volunteers".... NEGATIVE. Uh I mean...
+(waterphone)
+JEREMY: (Enthusiastic) But after taking MEDICINE, the adverse symptoms of ILLNESS fade away completely in just a short, short time of TIME.
+JEREMY: Now I know what you may be thinking, "How should we believe someone who hasn't even shown the true potential of their product?"
+JEREMY: That's why I brought my trusty friend from another land to demonstrate the effect of taking MEDICINE!
+ALIEN: (Enter stage right) I only agreed to this because I was promised FOOD.
+JEREMY: Oddly enough, our friend here somehow got a serious case of ILLNESS, so we're going to administer some MEDICINE to him!
+JEREMY: (Handing bottle of medicine to Alien) Here you go! Now don't forget to take only the recommended number of pills!
+Meanwhile ALIEN: (Take an unhealthy amount of the medicine)
+ALIEN: Yea, I got it. You wanted me to take NUMBER, right?
+(music stops)
+(record scratch)
+JEREMY: (Speaking slowly) N....no you that's eleven times more than the recommended amount.
+(vine boom)
+JEREMY: Anyways, allow our alien friend here to demonstrate the effects of MEDICINE! The stage is all yours.
+ALIEN: I don't feel so good...
+(super epic charge up)
+Meanwhile ALIEN: (prepare to throw up in the toilet)
+ALIEN: (Throwing up in the toilet) AAAUUUUGH!!!
+JEREMY: (Speaking to Alien) Oh my word! Are you alright?
+JEREMY: (Speaking to audience) For the record, this has never happened to anyone who has taken this, I promise!
+ALIEN: (Continuing to throw up) WHO FUNDED YOU TO MAKE THESE THINGS!
+JEREMY: Why COMPANY offered me $50,000 in CURRENCY to make these, and I'd argue I executed well with my work!
+ALIEN: (Still throwing up) EXECUTED WELL, LOOK AT ME!
+JEREMY: Hey, I only agreed to give you FOOD if you responded to MEDICINE well.
+Meanwhile ALIEN: (Stop throwing up suddenly)
+ALIEN: (Feeling woozy) In that case, I'm feeling no signs of ILLNESS at all! The MEDICINE really proved useful in treating... (Pass out)
+(vine boom)
+(70s music)
+JEREMY: (Pointing at Alien) Well you heard it from him folks! We currently have a great deal: Three MEDICINEs for the price of one!
+Meanwhile ALIEN: (Unconscious)
+JEREMY: Try MEDICINE today! (Exit stage)
+Meanwhile ALIEN: (Unconscious)
+(infomercial disclaimer)
 
 ======
 
