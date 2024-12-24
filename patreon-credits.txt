@@ -2006,6 +2006,7 @@ Savage2201_
 Blink Ryba
 Cozy_Liea
 Nirvix
+Corpto
 modNick
 ruralists
 #TIER=1
