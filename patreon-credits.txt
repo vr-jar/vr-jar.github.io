@@ -2014,6 +2014,7 @@ TicTacModz
 Savage2201_
 Blink Ryba
 Cozy_Liea
+Nirvix
 modNick
 ruralists
 #TIER=1
