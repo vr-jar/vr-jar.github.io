@@ -1640,7 +1640,6 @@ Midnight-V
 Kir0_Grimmson
 PNGames
 Falsifier
-AvaZGamer
 ItzJustLogicZ
 Rukhal
 Neateen
@@ -2050,6 +2049,7 @@ Shadomancer2000
 ChewwyDT
 Absconditus
 bαgels
+AvaZGamerr
 modNick
 ruralists
 #TIER=1
