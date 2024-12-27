@@ -39944,7 +39944,7 @@ ROMANCE: CELEBRITY 1 and CELEBRITY 2 are rival OCCUPATION 1s forced to care for 
 EXECUTIVE: And the ANIMAL?
 ROMANCE: It’s the symbol of their love. They bond while nursing it back to health, discovering that their shared hatred was hiding a deeper connection.
 EXECUTIVE: Does the ANIMAL play a role in the climax?
-ROMANCE: Absolutely. The two have a romantic moment when they use WEAKNESS1 on ANIMAL and bring it back to life.
+ROMANCE: Absolutely. The two have a romantic moment when they use WEAKNESS 1 on ANIMAL and bring it back to life.
 EXECUTIVE: A zombie ANIMAL in a Romance Movie... Okay. What’s the budget?
 ROMANCE: Only BUDGET3. It’s mostly for romantic montages, sunsets, soundtrack and catering.
 EXECUTIVE: A blend of genres, I see the potential. ACTION WRITER, let’s hear your pitch.
@@ -40034,6 +40034,88 @@ Meanwhile ALIEN: (Unconscious)
 JEREMY: Try MEDICINE today! (Exit stage)
 Meanwhile ALIEN: (Unconscious)
 (infomercial disclaimer)
+
+======
+
+INFORMATION ===============================
+ID: 1329
+TITLE: Suspiciously Stoned
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 22/12/24
+CHARACTERS ================================
+CUSTOMER: Customer:Chair 1
+EMPLOYEE: High Employee:Stage Left
+SUGGESTIONS =============================
+BODYPART: Name a body part:heart, nose, ear
+SMOBJECT: Name a small object:stress ball, doll, comic book
+ADJTASTE: An adjective describing taste:juicy, tasty, acidic
+SINGRED: Name a strange ingredient:animal hair, insects, gelatin
+PLANT: Name a plant:cactus, duck orchid, venus flytrap
+FSNAME: A foreign-sounding name:Mariam, Fatema, Argentina
+MNAME: Name of a mountain:Everest, Kokomo, Andes
+AVERB: An action verb:scream, grow, cry
+TDRINK: A type of drink:water, juice, coffee
+SCRIPT ==========================================
+French music
+CUSTOMER: Excuse me, uh, are you open?
+EMPLOYEE: Open? Man, that’s a deep question. Like, what’s really open? Like a door? Or a BODYPART?
+CUSTOMER: It's not really deep. I mean, my BODYPART isn't deep. But I'm talking about your business being open.
+EMPLOYEE: Yeah, man.
+CUSTOMER: Uh… I just want a smoothie.
+EMPLOYEE: Right on. Smoothies are like, my whole thing. Let’s get you to a state of blended bliss.
+CUSTOMER: (hesitant) Cool, uh, do you have a menu?
+EMPLOYEE: (pulls out a small object) This is kinda like a menu. If you think about it.
+CUSTOMER: That's just a SMOBJECT.
+EMPLOYEE: Whoa. You're right. SMOBJECT. Menu. It’s all connected (hands menu) Here you go.
+CUSTOMER: Thanks. Okay, what’s in the "Mango Bliss"?
+EMPLOYEE: Oh man, that’s a killer choice. It’s got mangoes, ADJTASTE-tasting coconut, and a sprinkle of cosmic wonder.
+Gong
+CUSTOMER: Cosmic wonder?
+EMPLOYEE: Yeah, you know, like good stuff. SINGRED, mostly.
+CUSTOMER: Yeah. No. SINGRED? That's not what I thought "cosmic wonder" would be.
+EMPLOYEE: Anything can taste like anything if you don't care what something tastes like.
+CUSTOMER: Okay. Fine. Does it have dairy? I'm allergic.
+EMPLOYEE: Oh snap. We're talking lactose intolerance? That's heavy. I got you, though. I’ll blend it with milk.
+CUSTOMER: No, that's literally what I don't want.
+EMPLOYEE: It's almond milk. Or oat. Or we got, like, cashew? Ever tasted milk from a PLANT?
+CUSTOMER: No, and I hope I never do.
+EMPLOYEE: I'll vibe-check the blender and see what it feels like today.
+CUSTOMER: Almond is fine. Can you just make it?
+EMPLOYEE: Totally.
+CUSTOMER: Uh… you're just standing there. Aren't you supposed to go back to the kitchen?
+EMPLOYEE: I was thinking about asking the blender's consent.
+CUSTOMER: What the hell are you talking about?
+EMPLOYEE: You can't rush enlightenment, man. Smoothies are a spiritual journey.
+EMPLOYEE: Like when a FSNAME bird migrates across the world, carrying the hopes of the ecosystem.
+CUSTOMER: I just want fruit in a cup. One cup.
+EMPLOYEE: Then you should have two girls make this.
+Laughter
+CUSTOMER: Wait. Where did the laughter come from?
+EMPLOYEE: See what I did there? I made a funny.
+CUSTOMER: Just fruit in a cup. Put fruit in the blender, blend, and place into a cup.
+EMPLOYEE: See? That’s what you think you want. But the universe is trying to tell you, like, maybe you need something deeper. Smoothier.
+CUSTOMER: Are you high right now?
+EMPLOYEE: What? No. I mean, define “high.”
+CUSTOMER: Define it?
+EMPLOYEE: Yeah, like, are we talking “high” as in the sky, or like Mount MNAME? Or maybe "high" like an elevated state of mind.
+CUSTOMER: None of the above.
+EMPLOYEE: Oh, like where you’re vibin' on a different frequency, man.
+CUSTOMER: Not quite.
+EMPLOYEE: Or what if we're both high right now? Like, not on substances, but on existence.
+CUSTOMER: (deadpan) On existence.
+EMPLOYEE: Totally! Like, what if this whole moment is us just trippin’ on the fact that we exist in this specific space and time?
+EMPLOYEE: Like what if we’re already dead and staring down at ourselves from some higher plane of existence?
+CUSTOMER: That's almost profound.
+EMPLOYEE: BOOM! Mind blown, right? That’s why they call us “Juice Oracle,” bro. This place opens doors in your mind.
+CUSTOMER: I just wanted a smoothie, man.
+EMPLOYEE: And I’m gonna make it. But first, tell me: have you ever actually seen a mango AVERB? Because that's crazy.
+CUSTOMER: Nope. I'm out. I’m just gonna go grab bottled TDRINK.
+EMPLOYEE: Don’t you want me to sprinkle some BODYPART shavings on top? It's like our secret ingredient.
+CUSTOMER: No! Just no. Bottled TDRINK will suit me just fine. (exits stage right)
+EMPLOYEE: That it does. Stay hydrated, man! And remember, a smoothie isn't a drink, it’s a state of mind. I'm glad we had this conversation!
 
 ======
 
