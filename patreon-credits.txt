@@ -2803,7 +2803,6 @@ MortalManiac
 QuasarKat
 filtererror
 DarkŴing
-EchoTheFur
 #TIER=3
 SidMarcus
 PinballReviewer
@@ -2935,3 +2934,4 @@ ak47um
 hppedeaf
 
 mamaspider
+EchoTheFur
