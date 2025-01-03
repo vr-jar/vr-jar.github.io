@@ -1920,7 +1920,7 @@ Trinas Chosen
 Sp00kyF3mboi
 ༒Riley ༒
 Cosmo the proto
-H A Z Σ
+H_ZELNUT
 SassyGoat
 Yunshiro
 dayonekai
@@ -2790,6 +2790,7 @@ MortalManiac
 ༒Rainy༒
 QuasarKat
 filtererror
+DarkŴing
 #TIER=3
 SidMarcus
 PinballReviewer
