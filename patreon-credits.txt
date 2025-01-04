@@ -1242,6 +1242,7 @@ SkyeAurora
 Pher0m0sa
 LiteralRock
 ~Nero-Glaz~
+RangedDragoon6
 x0_d0ll
 HyperAzura
 Aquafyy
@@ -2421,6 +2422,7 @@ Moofstera
 LeoHardy
 Corvus_Ebonclae
 _Glxtch_
+Marvin Wilfred
 GodSaveYouHenry
 QuinnyGaming
 Colibrirainwing
