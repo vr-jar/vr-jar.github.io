@@ -2803,6 +2803,7 @@ MortalManiac
 QuasarKat
 filtererror
 DarkŴing
+Eyebolt64
 #TIER=3
 SidMarcus
 PinballReviewer
