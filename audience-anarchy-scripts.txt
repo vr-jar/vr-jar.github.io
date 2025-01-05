@@ -32099,6 +32099,169 @@ applause
 ======
 
 INFORMATION ===============================
+ID: 1025
+TITLE: Can't Touch the Color
+AUTHOR: Twintacle PTT
+VERIFIED: True
+TAGS: Game Show
+SET: Backyard
+DATE: 07/08/24
+CHARACTERS ================================
+HOST: The Host of the Game Show:Entrance Stage Right
+TIM: Tim, the littlest kid on the game show.:Backstage
+MOM: Molly, the mother of Tim.:Backstage
+DAD: Charles, the father of Tim.:Backstage
+GRANDPA: Grandpa Jones, proud Granddad of Tim.:Backstage
+EMO: A Random Emo kid:Backstage
+SUGGESTIONS =============================
+NAME: The name of the host:Steve Harvey, Stevie T, Mario, Alastor
+LAST: The last name of the family:Taylor, Sanders, Rosen, Monster, Normal
+COLOR: Any color other than Green or Black.:Red, Orange, Yellow, Blue, Purple, Pink, White
+PRIZE: What is the Grand Prize?:A brand-new car, 1 million dollars, Limited edition merch, A luxury vacation
+OBJECT: Any object you can find in the sandbox:Shovel, Bucket, Ball, Sandcastle Mold
+SILVER: Any silverware:Fork, Spoon, Knife
+MAD: Anything you say when you are frustrated:Dang it, Crap, Toaster Strudels
+KIND: Any kind of piano:Grand, Mini, One Dollar, Foot
+MILL: Millitary Branch:Army, Navy, Marines, Air Force
+SCRIPT ==========================================
+gameshow intro
+TYPEWRITER: Welcome to Can't Touch the Color! Here is your host, NAME!
+HOST: (enters the stage) Thank you, thank you! Welcome to the show!
+HOST: Welcome everyone to Can't Touch the Color! The show where certain colors are off limits.
+HOST: And that could be a challenge to even the smartest of the people.
+HOST: It is time to bring up our contestants up onto the area, it's the LAST Family!
+applause
+MOM: (enters stage left) Wooo!
+Meanwhile DAD: (enters stage left) Yeaaaaah!
+GRANDPA: (enters stage left) So this is a gameshow?
+TIM: (enters stage left) Yaaaay!
+TIM: (looks at the audience) Look at all those people!
+HOST: Welcome LAST family to Can't Touch the Color!
+DAD: Great to be here NAME, great time to be here. I got my wife, my son, and my father with me today.
+MOM: I am certainly loving the look of this place, super nice. Look at that grass, it feels real!
+HOST: Well, it is in a real yard, that's why!
+HOST: It is time to play... (puts both Hands toward Charles and Tim)
+TIM: Can't Touch the Color!
+Meanwhile DAD: Can't Touch the Color!
+crowd woo
+HOST: That is the spirit fellas! Okay, here is how you play.
+shark tank positive music
+HOST: You will each get your own color, you cannot touch that color no matter what happens in the round.
+HOST: Touch it, and you will be eliminated. Got it?
+GRANDPA: Yes sir!
+HOST: Now, if you manage to survive strange challenges regarding colorful nonsense, then you win the grand prize! Which is, PRIZE!
+applause
+Music Stops
+HOST: Okay! Now it is time to play! I will now pass out your colors, keep them deep in your memory. (Hand the contestants their own card)
+HOST: Just so you know, because of the large grass yard setting, Green is off limits to players.
+DAD: Looks like I got Black...
+GRANDPA: Excuse me, I have gotten grey despite having grey hair myself...
+HOST: Not to worry, clothes and hair do not count.
+MOM: Darn it! I got COLOR! Such a shame, it is always a pretty color.
+TIM: Mommy! Mommy! I got the same color as you, COLOR! COLOR!
+MOM: Easy now Tim, we only just got started.
+HOST: Okay! Now that you had your time to discuss color related things, let's see who gets to go first!
+HOST: 3, 2, 1, Spin the wheel! (Spins a wheel) Gah!
+gameshow timer music
+gameshow crowd shouting numbers
+TIM: Pick me! Pick me! Pick me!
+Meanwhile DAD: Come on, come on!
+MOM: Come to mama, come to mama!
+GRANDPA: What the heck? Why is there so much intensity?
+TYPEWRITER: Charles!
+Music Stops
+DAD: Hooray!
+Meanwhile TIM: (dissapointed) Awww...
+HOST: Congratulations Charles, you have been chosen, come up here please!
+applause
+GRANDPA: Young people always have a priority.
+HOST: So, Chares, what color have you got?
+DAD: Uh, I got Black as my color. Seems to me there is no black around here, so this should be easy. Right, NAME?
+HOST: We'll see about that, how about one of our finest challenges?
+DAD: Mpph, to easy! I have served 4 years in the MILL. And I have all the agility knowledge you need.
+HOST: Alright. Since we have nothing related to the scenery that is black, we came up with something new.
+HOST: (pulls out a keyboard) I would like you to play something on the KIND piano.
+DAD: You're tricking me, right?
+HOST: Nope, it will not be any of the sharps. (points to a specific note) hit this note for me please.
+DAD: Uh, strange request, but okay. Molly, wish me good luck.
+MOM: Charles, sweet sugar angel apple dumpling, I need to warn you if you press that note, you will summon a-
+DAD: (Imitates a G note on a piano)
+MOM: Oh MAD no.
+TIM: What?
+EMO: (Bursts into the stage) G note alert G note alert when I was a young boy-
+HOST: The chase scene starts now 3 2 1 go!
+tense cinematic music
+DAD: Oh god! (Runs away from the Emo)
+EMO: Come back here you are joining The Black Parade whether you like it or not! (Chases Charles)
+GRANDPA: What is up with young people these days?
+TIM: Go Dad, Go! You can do it! Yaaaaaaaaaaaay!
+DAD: (Bumps into the Emo) Oompf-
+gameshow buzzer
+Music Stops
+HOST: Charles has touched the Emo that was wearing black, which means Charles has been eliminated!
+DAD: Are you kidding me?
+Meanwhile EMO: Yess.....
+TIM: Oh no!
+MOM: Not my sweet honey.
+HOST: Let us give one last round of applause to Charles, please.
+applause
+DAD: (walks off the stage) MAD. That was harder than I thought...
+Meanwhile EMO: I am just gonna watch. (Sits down somewhere)
+HOST: For our next challenge, we are going to be digging through the sandbox. We ask everyone else to come on up!
+EMO: A Sandbox? Really? So childish...
+MOM: (Moves over to the sandbox)
+Meanwhile TIM: (Follows his mom to the sandbox)
+GRANDPA: How much digging do we have to do, ay? (slowly walks over to the sandbox)
+HOST: For our next challenge, you all must dig up objects. Watch out, there are some that are your color.
+Meanwhile GRANDPA: (Digging into the sandbox to find something)
+HOST: (Looks at grandpa) Looks like old gramps is already getting it.
+GRANDPA: (holds out a SILVER) Like this perhaps?
+gameshow buzzer
+MOM: Father!
+GRANDPA: What?
+HOST: You have picked up a grey SILVER, you have been eliminated!
+GRANDPA: Fiddlesticks! MAD! (Leaves the stage)
+EMO: Old gramps has just been stupid.
+HOST: That brings us to our last two contestants! Congrats if you made it this far!
+applause
+HOST: Now, it all comes down to this. All you need to do, is dig into the sandbox.
+HOST: You already saw what happened to your old Grandpa, so you know what to avoid.
+MOM: Hmm, alright! (starts digging in the sandbox) Come on Timmy! You played with this before.
+Meanwhile TIM: (Digging like crazy)
+70s music
+TIM: I love playing in the sandbox!
+HOST: Keep an eye out Tim LAST, you might encounter a COLOR object in there.
+TIM: (Digs up and throws objects behind himself) Treasure is for me! I love this game!
+HOST: Wow! All of those objects are not even COLOR! How? You nearly made the sandbox just sand.
+EMO: Whatever, that kid will be fooled eventually.
+MOM: Holy crap Tim LAST, you managed to dig up all that? I only got to 3 or 4 some without touching COLOR.
+MOM: Hang on, I seem to be getting something... (Digs up a COLOR OBJECT)
+MOM: It's a OBJECT! Wait a minute...
+Music Stops
+gameshow buzzer
+HOST: That was a COLOR OBJECT, so Molly has been eliminated! Which means, our winner is... Tim LAST!
+badass music 1
+TIM: (Stands up) I won? I won! (cheers)
+MOM: Well done, Timmy! I am very proud of you!
+EMO: Lucky kid, lucky.
+TIM: What do I win? What do I win? Tell me tell me tell me!
+HOST: It's PRIZE!
+MOM: How can a kid really enjoy the prize if he wins it on his own?
+TIM: Hey host, can PRIZE be shared? I want my family to enjoy it.
+HOST: Yeah, sure. You can do that. Congratulations once again!
+MOM: Awww, that is very sweet of you Timmy.
+HOST: (to the audience) Well, that is all the time we have on our show for today.
+HOST: I'm NAME, we will see you next time on...
+MOM: Can't touch the color!
+Meanwhile TIM: Can't touch the color!
+EMO: Can't, touch, the color. MAD.
+HOST: Goodbye everyone!
+applause
+Meanwhile TIM: (To the audience) Bye Bye!
+
+======
+
+INFORMATION ===============================
 ID: 1029
 TITLE: Hunted
 AUTHOR: SuperNova77
@@ -33012,6 +33175,114 @@ JOSHUA: Because, you know, sometimes it’s important to remind myself why I’m
 JOSHUA: Spoiler alert: They’re not even in the same universe as what I just made here.
 JOSHUA: But hey, at least I’ll have a reason to be even more satisfied with my culinary genius.
 JOSHUA: And if this impresses CELEBRITY, I hope they give me another chance. It only happened once.
+
+======
+
+INFORMATION ===============================
+ID: 1052
+TITLE: The Atrocious Investigators
+AUTHOR: stonercollie
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 19/08/24
+CHARACTERS ================================
+BECKY: Becky, the victim:Couch
+TALAYLAY: Talaylay, the best friend:Couch
+BRIE: Brie, the culprit:Couch
+INVESTIGATOR1: Investigator 1:Backstage
+INVESTIGATOR2: Investigator 2:Backstage
+SUGGESTIONS =============================
+CEREAL: Type of cereal.:smores, raisin, cinnamon squares
+EVIDENCE: Piece of evidence.:hair, fingernail
+MOVIE: Name of a fictional horror movie.:The Thingy, Horror 2 Electric Boogaloo, Tuesday the 19th
+WEAPON: Anything that can be used as a weapon.:ruler, knife, hatchet
+NUMBER: Any number.:9001, 2, 100
+PLANET: Name a real or fictional planet.:Earth, Venus, Pluto
+PRZ: Name a subpar prize.:golden trophy, pile of dust, skeleton key
+SCRIPT ==========================================
+silly music 1
+TALAYLAY: So tell me, why did you want to watch MOVIE again?
+BRIE: Yeah, Becky, this movie didn't even scare me when I was in preschool!
+BECKY: Maybe because your brain couldn't process what was even going on back then, smart one!
+Music Stops
+vine boom
+BRIE: Whatever, I am going to the store for some more CEREAL. (Exit stage right)
+TALAYLAY: Wow, struck a nerve!
+BECKY: Whatever, sis, let's just watch the movie.
+mystery music 1
+TALAYLAY: (Eating popcorn) Why did she even go to the store when we already have NUMBER flavors of popcorn!
+Music Stops
+explosion
+TALAYLAY: (Scream) What was that?!
+BECKY: I don't know, sis, I better go check it out. (Exit stage right)
+TALAYLAY: Be careful, sis! (Continue eating popcorn)
+BECKY: (At front door screaming) Help! Somebody help!
+knife wound
+TALAYLAY: What on PLANET is going on?! (Open front door and immediately close it.)
+TALAYLAY: (Scream) Becky!!!
+Teleport INVESTIGATOR1 to Center Stage
+Teleport INVESTIGATOR2 to Center Stage
+TALAYLAY: (Look over at the investigators) Who are you?!
+groose music
+INVESTIGATOR1: We are the Atrocious Investigators.
+Meanwhile INVESTIGATOR2: We are the Atrocious Investigators.
+INVESTIGATOR1: We have heard about the loss of your good friend Becky.
+INVESTIGATOR2: We decided to come check out the scene.
+INVESTIGATOR1: Tell us exactly, what happened?
+TALAYLAY: Well, I don't know! Our friend Brie went to the store for some more snacks so we could watch MOVIE
+TALAYLAY: And then Becky went...
+INVESTIGATOR2: Shut up! We asked you to tell us what happened, not to tell us a story!
+TALAYLAY: Isn't that the whole point, though?
+INVESTIGATOR1: Mouthy aren't you? We definitely have to take note of that. (Take notes on a notepad)
+TALAYLAY: What?!
+INVESTIGATOR2: You heard my partner exactly. Now shut up!
+Music Stops
+waterphone
+TALAYLAY: (Grunt)
+Meanwhile INVESTIGATOR1: (Take more notes)
+INVESTIGATOR1: Now, tell us, how close were you to Becky?
+TALAYLAY: We were so close, we were best friends forever! She wasn't supposed to die before me!
+INVESTIGATOR1: Yes... Go on.
+TALAYLAY: We would hang out every day and watch terrible movies!
+TALAYLAY: Come to think of it... Becky only liked terrible movies.
+INVESTIGATOR2: Okay, I think that is all the information we need as far as that goes.
+INVESTIGATOR2: Anyone else who was here?
+TALAYLAY: In here? Nobody. Just me.
+vine boom
+INVESTIGATOR1: Nobody? Just you?
+TALAYLAY: Well, like I was trying to say, our friend Brie...
+INVESTIGATOR1: (Shout) Quiet!
+INVESTIGATOR2: I think we have all the information we need. (bring Talaylay outside)
+INVESTIGATOR1: You are coming with us outside. (bring Talaylay outside)
+TALAYLAY: What?! No! (gets dragged outside by the investigators)
+INVESTIGATOR1: (At the doorway) This is what you get, punk! (Exit stage right)
+Meanwhile INVESTIGATOR2: (At the doorway) This is what you get you punk! (Exit stage right)
+fistfight
+BRIE: (Enter stage right, go to the kitchen) Just gotta rid myself of this EVIDENCE and wash my WEAPON
+break down door
+INVESTIGATOR1: (Enter stage right) Hold it!
+Meanwhile INVESTIGATOR2: (Enter stage right) Stop right there!
+BRIE: (Look over at the investigators) Who are you two?
+INVESTIGATOR1: We are the Atrocious Investigators.
+Meanwhile INVESTIGATOR2: We are the Atrocious Investigators.
+groose music
+INVESTIGATOR1: We have heard about the loss of your good friend Becky.
+INVESTIGATOR2: We decided to come give you our condolences.
+INVESTIGATOR1: You seem like a really nice person.
+BRIE: (Nod) Yeah... Becky was my best friend for life, we were really really close.
+INVESTIGATOR2: We wish you the best in finding a less repulsive friend, like the other lady we just dealt with.
+BRIE: Who?
+INVESTIGATOR1: (Laugh) Y'know, the one who likes to lie to us about the person she killed!
+BRIE: Talaylay! I knew she was a backstabber, literally!
+INVESTIGATOR1: Uhuh... Well, here, let me give you a little something for your cooperation. (Gives a PRZ)
+BRIE: (Grabs the PRZ) Oh, a PRZ... I mean wow! Thank you, I guess.
+INVESTIGATOR2: Well, I guess there's not much else to gather here. Let's go, partner!
+Meanwhile INVESTIGATOR1: (Inspecting kitchen, finding the EVIDENCE and WEAPON) Oh look! EVIDENCE and WEAPON.
+INVESTIGATOR1: (Think to self) Eh, whatever. Not much else to see here! Let's go. (Exit stage right)
+Meanwhile INVESTIGATOR2: (Exit stage right)
+BRIE: (Eat cereal) Mmm... CEREAL
+Music Stops
 
 ======
 
@@ -35454,6 +35725,103 @@ Meanwhile STACY: (Fold arms and shake head at BOB)
 ======
 
 INFORMATION ===============================
+ID: 1112
+TITLE: Swedish Dinner Time
+AUTHOR: OliverTheDragon
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 01/10/24
+CHARACTERS ================================
+JESSICA: Jessica:Chair 1
+JASON: Jason:Chair 2
+WAITRESS: Waitress with Swedish accent:Stage Left
+CHEF: Chef with Swedish accent:Backstage
+SUGGESTIONS =============================
+RESTAURANT: name for a Swedish restaurant:viking tavern, swedish masterfood, the chefs paradise, EYE-KEA
+DISH: name for a Swedish dish:swedish meatballs, pyttipanna, surstromming
+COUNTRY: a made up country:new-densylvania, cauldronia, pantona, los-rockia
+DRINK: a random drink:soda, orange juice, dietwater,
+HOURS: an amount of hours:2 hours, 30 hours, 69 hours
+MONEY: an amount of dollars:50, 100, 20, 40
+WEAPON: a melee weapon:sword, baseball bat, battleaxe, mjolnir
+ATTACK: a attack move:ultra uppercut, ultra fist bump, supersonic headbutt
+SCRIPT ==========================================
+corporate guitar music
+JESSICA: I'm excited to be here at RESTAURANT!
+JASON: yeah same, i heard that they hired a Swedish chef too so its gonna be nice to try some real Swedish food.
+JASON: By the way Jessica i can pay for your food too!
+JESSICA: Awww thank you bestie!
+WAITRESS: (With a Swedish accent) Hello and welcome to RESTAURANT what can i get for you?
+JESSICA: Yes i'll have a DISH and a DRINK
+JASON: I'll have same as my friend here.
+WAITRESS:  I will let the chef know right away. (walks off entrance left stage)
+JESSICA: This is gonna be so delicious.
+JASON: Yeah and the waitress are Swedish too. i thought it was just the chef that were Swedish.
+TYPEWRITER: HOURS later...
+WAITRESS: (Enter stage) Here you go, two DISH and two DRINK enjoy! (Exit stage)
+JESSICA: Thank you!
+JASON: Alright Jessica let's dig in!
+TYPEWRITER: HOURS later...
+WAITRESS: (enter) Are you ready to pay the bill?
+JASON: Yes, yes i am indeed!
+WAITRESS:  Okay that will be MONEY dollars!
+music stops
+JASON: Uh I cannot afford this.
+WAITRESS: Do you know what that means?
+tense cinematic music
+JASON: (scared) Please don't call the cops there must be some way we can solve this!
+CHEF: (Enter) Hello there.
+WAITRESS: Don't worry my dear we won't call the cops BUT if you don't pay you become the food for the next customers.
+JESSICA: wait what!?!? this has to be a joke!
+CHEF:  Does it look like we are joking?
+JASON: You two are insane.
+CHEF: Oh and there is one thing you should know.
+JESSICA: And whats that?
+WAITRESS: We are not Swedish.
+vine boom
+JESSICA: (scared) What do you mean?
+CHEF: We are actually from COUNTRY and we are just pretending to be Swedish.
+vine boom
+JESSICA: (scared) Why are you pretending to be Swedish?
+WAITRESS: Uh, we actually forgot the reason why we do that, oopsie.
+JESSICA: (confused) And why are you still speaking with a Swedish accent?
+CHEF: Because we don't wanna blow our cover.
+JASON: But you already admitted that you two were from COUNTRY!
+WAITRESS: Shut up!
+WAITRESS: Now where were we. Oh yeah chef you know what to do.
+CHEF: (pulls out gun) I cannot leave any witnesses.
+JASON: WAIT NO!!!
+gunshot
+JESSICA: Nooo Jason!!!
+JASON: (falls to the floor) Run Jessica... NOW!!! (dies)
+JESSICA: You just killed my friend!
+CHEF: Yes i did indeed, and you're next darling!
+CHEF: (points gun at Jessica) Oh fiddlesticks i forgot i only had one bullet, my bad...
+WAITRESS: You idiot i told you not to play Russian roulette with a fully loaded revolver with your friends!
+CHEF: Sorry...
+JESSICA: I'm not going down without a fight!
+badass music 1
+WAITRESS: (speaks in a swedish accent) sure thing darling, chef stand back i got this.
+CHEF: (hide behind waitress)
+JESSICA: Behold (draws WEAPON)
+draw sword
+JESSICA: (charge towards waitress) RAAAAAH!!!
+Meanwhile WAITRESS: (Charge towards Jessica) RAAAAAH!!!
+sword fighting
+JESSICA: Time for my ATTACK TAKE THIS!!!
+anime sword gleam 3
+explosion
+TELEPORT JESSICA BACKSTAGE
+TELEPORT WAITRESS BACKSTAGE
+music stops
+CHEF: What the heck just happened?
+TYPEWRITER: Jessica's ATTACK created a portal to the multiverse sending her and the Waitress to a parallel universe...
+TYPEWRITER: THE END...
+
+======
+
+INFORMATION ===============================
 ID: 1119
 TITLE: Wasted in the Wasteland
 AUTHOR: LoppearLink
@@ -36882,10 +37250,7 @@ CHARACTERS ================================
 CLERK: Apple Store Clerk:Behind Register
 CUSTOMER: Person Buying New Iphone:Entrance Stage Right
 SUGGESTIONS =============================
-NUMBER: A number from 16 to 30:16,18, 25,30
-HIGH: A number from 1000 to 3000:1000, 2000, 3000,
 FAMILYMEMBER: A type of family member:Cousin, Son, Daughter, Dad
-LOW: A number from 50 to 100:50, 75, 100
 FAMOUSACTOR: A famous actor:Will Smith, Sean Connery
 FAMOUSMUSICIAN: A famous musician:Chris Brown, Drake
 NICKNAME: A nickname for a loved one:Pookie, Daddy, Baby, Sweetie
@@ -36896,36 +37261,36 @@ SCRIPT ==========================================
 happy music 1
 CUSTOMER: (Walk into the store)
 CLERK: Welcome to the Apple store, how can I help?
-CUSTOMER: I want the new iPhone NUMBER
-CLERK: Okay i give you brand new iphone NUMBER, great condition
+CUSTOMER: I want the new iPhone 36
+CLERK: Okay i give you brand new iphone 36, great condition
 CUSTOMER: Okay sounds good, tell me, what can this new Iphone do that the old one can't?
-CLERK: The brand new iPhone NUMBER has a FUNCTION
+CLERK: The brand new iPhone 36 has a FUNCTION
 CUSTOMER: Woah! just what i need, how much do i need to pay?
 music stops
-CLERK: HIGH dollars
+CLERK: 1000 dollars
 (vine boom)
-CUSTOMER: HIGH dollars?!?!
+CUSTOMER: 1000 dollars?!?!
 CUSTOMER: Do you think im stupid?!
 courtroom music
-CLERK: This iphone NUMBER is made in America
+CLERK: This iphone 36 is made in America
 CUSTOMER: No it was made in COUNTRY, your own FAMILYMEMBER made it!
 CLERK: How the hell you know that
 CUSTOMER: Cause my own FAMILYMEMBER has worked on it too
 CLERK: Okay okay fine then, how much you want to pay then
 music stops
-CUSTOMER: LOW dollars
+CUSTOMER: 50 dollars
 (vine boom)
-CLERK: LOW dollars?!?!
+CLERK: 50 dollars?!?!
 CLERK: Are you crazy?!
 CUSTOMER: No i am from COUNTRY
-CLERK: Okay okay, i give you the special discount with LOW % off
-CUSTOMER: LOW dollars
+CLERK: Okay okay, i give you the special discount with 20 % off
+CUSTOMER: 50 dollars
 CLERK: I will slap you like FAMOUSACTOR
 CUSTOMER: I will beat you like FAMOUSMUSICIAN
 CLERK: I will cancel you on X, formerly known as Twitter!
 CUSTOMER: I will leak your browser history!
 CLERK: Okay okay 200 dollars
-CUSTOMER: LOW dollars
+CUSTOMER: 50 dollars
 CLERK: I will get my FAMILYMEMBER to beat you up!
 CUSTOMER: My FAMILYMEMBER will beat your FAMILYMEMBER !
 CLERK: My FAMILYMEMBER works for Apple!
@@ -36935,14 +37300,14 @@ CUSTOMER: Well Steve Jobs goes to my FAMILYMEMBER and says ‘’NICKNAME,(short
 (waterphone)
 CLERK: What the hell
 CUSTOMER: I guess you dont want my money, i will be leaving now, Good luck selling your ‘’made in COUNTRY’’ Iphone
-CLERK: WAIT!! Give me time to think about the LOW dollars
-CUSTOMER: No you took too long, it is now NUMBER
-CLERK: NUMBER dollars??!!
-CUSTOMER: Yes, NUMBER dollars.
+CLERK: WAIT!! Give me time to think about the 50 dollars
+CUSTOMER: No you took too long, it is now 20
+CLERK: 20 dollars??!!
+CUSTOMER: Yes, 20 dollars.
 CLERK: Please!!
 CLERK: I need the money to afford FOOD for my family!
-CUSTOMER: (sigh) fine LOW plus 1 dollar
-CLERK: LOW plus 2 dollars
+CUSTOMER: (sigh) fine 21
+CLERK: 22 dollars
 CUSTOMER: Okay fiiiiine
 CLERK: Thank you so much!
 CLERK: (give iphone to customer) Here you go
@@ -38728,7 +39093,7 @@ JHON: Uh you sure. I thought this was for emergencies only!
 SCOTT: This kind of is an emergency!
 JHON: Ugh okay fine
 (alien teleport)
-SCOTT: Thanks Jhon.
+SCOTT: Thanks John.
 JHON: No prob Boss.
 HECTOR: (tries not to laugh) Hehe, hahahaha. Oh my goodness, you expect to win with that useless thing?
 SCOTT: It's not useless!
@@ -38893,7 +39258,7 @@ CLERK:It wasn't me.
 SHOPPER:God is that you?
 NARRATOR:What? No! I'm the thief's conscious.
 CLERK:Then, why can we here you?
-NARRATOR:Okay, no more questions. Any ways you're going to say "Everyone put your hands up!" Okay?
+NARRATOR:Okay, no more questions. Anyways you're going to say "Everyone put your hands up!" Okay?
 ROBBER:Oh, Okay.
 ROBBER:Okay everyone! (point WEAPON at store clerk) Put your BODY up!
 NARRATOR:No! not BODY, hands!
@@ -38939,6 +39304,96 @@ meanwhile NARRATOR:(Follow policeman)
 CLERK:I'm going to take my break now. (Go to backstage through left door)
 Typewriter:TITLE 's conscious was trialled in court, and was found guilty of attempted murder of a government worker, and CRIME.
 Typewriter:TITLE is brain dead now, because his lack of a conscious. The end.
+
+======
+
+INFORMATION ===============================
+ID: 1293
+TITLE: How to Doctor 101
+AUTHOR: EvaThatOneGuy
+VERIFIED: True
+TAGS: Skit
+SET: Doctor's Office
+DATE: 08/12/24
+CHARACTERS ================================
+DOCTOR: Not a real doctor:Backstage
+PATIENT: The patient:Examination Table
+MEDIC: Regular doctor:Desk
+SUGGESTIONS =============================
+NAME: A name:Mackenzie, Hopkins, Paddington
+DOCTOR: A name of a doctor:Dr.Nick, Dr.Mario, Dr.Eggman
+MEDIC: A name of a doctor:Dr.Wilson, Dr.Wooden, Dr.Bailey 
+BODY: A body part:Liver, foot, arm
+GREETINGS: A greeting:Hi, Hello, howdy
+ITEM: A random household item:form, vacuum, mouse trap
+SAYING: What you might call a friend:bro, dude, guy, man
+FAMOUS: A famous person:Chris Pratt, Jack Black, The Rock
+SEARCH: A search engine:Google, Bing, Yahoo
+USER: A username:XxA_Tree_frfrxX, ImThatOneGuy, Explosive_lemons
+NUMBER: A number:500, 23,000, 12
+YEARS: A number:23, 2, 56
+SCRIPT ==========================================
+happy music 1
+PATIENT:So MEDIC, how is everything?
+MEDIC:Everything looks to be good but you do have a broken BODY.
+PATIENT:What? How have I never known?
+MEDIC:Impossible to say, but we'll get it fix today, if you don't mind.
+PATIENT:Oh no, I don't mind at all MEDIC.
+MEDIC:Okay then(type on computer), they'll be in here in just a minute.
+PATIENT:Wait, you're not treating me.
+MEDIC:No.
+PATIENT:Why aren't you?
+MEDIC:Because I don't want to, and you're one of my least favorite patients.
+MEDIC:We'll see you later. (walk out the room to backstage)
+PATIENT:I really need to find a new doctor.
+knocking on door
+groose music
+DOCTOR: (Walk through stage right door)GREETINGS!
+PATIENT:Oh, hello Dr....
+DOCTOR:Oh please, call me DOCTOR, and you are?
+PATIENT:My name is NAME.
+DOCTOR:Alright then Mr. NAME, what seems to be the problem?
+PATIENT:MEDIC said I have a broken BODY
+DOCTOR:Alright then, will have you fixed up in a jiffy.
+PATIENT:Thanks DOCTOR.
+DOCTOR:(go to desk, pick up ITEM) this should work...
+PATIENT:Um, DOCTOR, what are you doing with that ITEM?
+DOCTOR:This is going to fix your broken BODY.
+PATIENT:But DOCTOR, that's a ITEM, and ITEM is not a medical tool!
+DOCTOR:No, I think i'm right.
+PATIENT:Aren't you supposed to know if you're right?
+DOCTOR:Yeah whatever. Now hold still(walk up to NAME. Start hitting name with ITEM)
+DOCTOR:Does that feel better?
+PATIENT:No actually, it feels worst.
+DOCTOR: It feels worse, SAYING, sucks to suck.
+PATIENT:What no, you're the doctor, aren't you supposed to help me?
+DOCTOR:Well to be honest, I don't know how to help you, but you know you does?
+PATIENT:FAMOUS
+DOCTOR:What? No, are you stupid?
+PATIENT:Well I had no other guess's.
+DOCTOR:I'm just going to search it up, on SEARCH.
+vine boom
+PATIENT:Aren't you supposed to know these things? Wait... you're not a real doctor are you!
+DOCTOR:I'm not even going to answer that.
+DOCTOR:Well the article I found by USER is really long, and I don't wanna read all of this.
+PATIENT:Well are you still going to help me?
+break down door
+MEDIC:(walk in)So, is everything okay?
+DOCTOR:Yeah. Why?
+MEDIC:Well you used up all your time, that means we're paying you over time and we can't do that.
+DOCTOR:Well can I finish up with the patient real quick?
+MEDIC:Fine.
+DOCTOR:That will be $ NUMBER.
+vine boom
+PATIENT:What, i'm not paying that! The only thing you did was make my BODY hurt more!
+DOCTOR:Do you like your human rights?
+vine boom
+PATIENT:Yes.
+DOCTOR:Then pay!
+PATIENT:Okay, (go up to DOCTOR) here, take all my money(run out of room).
+MEDIC:Good job scaring that customer.
+DOCTOR:Good job gaslighting them into thinking their BODY was broken.
+Typewriter:DOCTOR and MEDIC would go on the scam customers for another YEARS years, never getting caught. The end.
 
 ======
 
@@ -39462,7 +39917,7 @@ SKEPTIC: Skeptic:Center Stage
 SUGGESTIONS =============================
 CULT ITEM: Mystical Object:Dagger, Orb of mystery, enchanted gems
 CULT RITUAL: A routine or procedure:jumping up and down, 10 pushups, grape peeling
-CULT PROPHECY: an unfavorable fate:locusts, plague, wealth
+CULT PROPHECY: an unfavorable fate:Walking Death, Sleep Demons Eating our dreams, Wetting the Bed 
 CULT CHANT: something you would chant:yes, the night time is the right time, trees can hear
 NOUN: a plural noun:squirrels, tigers, monkies, tables
 LOCATION: a location:realm, town, city
@@ -39498,7 +39953,7 @@ LEADER: Dumb?! Without the CULT ITEM, we’re nothing!
 SKEPTIC: Without it, you’re free. You can stop bowing to a nut and start doing whatever you want. Like… NOUN.
 FOLLOWER 2: Did you say NOUN?
 LEADER: No! No NOUN! The sacred prophecy forbids NOUN! CULT PROPHECY!
-FOLLOWER 1: That’s it. I’m out.
+FOLLOWER 1: I don't know how I feel anymore.
 FOLLOWER 2: Same. NOUN sounds better than CULT ITEM.
 LEADER: You can’t just abandon the CULT ITEM!
 SKEPTIC: They’re not abandoning it. They’re upgrading… to me.
@@ -39594,6 +40049,78 @@ GROOM: It looked like your mother, but twice the alcoholism.
 BRIDE: Well, maybe you're like competitive ANIMAL watching -- boring and pointless! (exits front door)
 GROOM: (gasping) That’s LOW (exits side door)
 GUEST: Cool. I got the reaction I wanted.
+
+======
+
+INFORMATION ===============================
+ID: 1318
+TITLE: For Gamers, By Gamers
+AUTHOR: GameAdvent2
+VERIFIED: True
+TAGS: Infomercial
+SET: Living Room
+DATE: 19/12/24
+CHARACTERS ================================
+GUY1: Timmy Maze:Stage Left
+GUY2: Ryan Sparks:Couch
+AIL: FALCON AI:Center Stage
+SUGGESTIONS =============================
+GAMER_CONCERNS: A common issue gamers face while playing:lagged, disconnected, offline
+LOOT_PROBLEMS: A problem related to in-game loot:takes all the items, never shares loot, steals gear, doesn't pick up anything
+ADJECTIVE: A descriptive word to emphasize how bad something is:useless, annoying, boring, frustrating
+PERSONAL_NAME: A name for a person:Sam, Chris, Jordan, Taylor
+PLAYSTYLE: A gaming role or approach to play:rusher, support, sniper, healer
+COMBAT_SITUATION: A situation involving combat in the game:gunfight, melee battle, boss fight, ambush
+INVENTORY_ITEM: An item in the player’s inventory.:health pack, grenade, ammo, medkit
+LOADOUT_TYPE: A type of loadout the player might use:assault rifle, stealth setup, sniper kit, tank build
+CHARACTER_TRAIT: A character trait:reliable, chill, tactical, friendly
+VOICE_PACK: A type of voice or voice actor:pirate, robot, sports announcer, celebrity voice
+GAMER_SLANG: A gaming phrase or slang term:noob, pwned, clutch, gg ez
+BREAK_ACTIVITY: An activity to do:stretch, grab a drink, check your phone, talk to friends
+SCRIPT ==========================================
+(corporate motivational music)
+GUY1: Gamers, are you tired of soloing it because your friends are GAMER_CONCERNS,
+GUY1: your Wi-Fi's down, or your potato computer can't handle the heat?
+GUY1: Maybe your squad is all tied up, leaving you to face the last boss alone.
+GUY2: Or you're stuck with that one guy who LOOT_PROBLEMS,
+GUY2: rages when things go wrong, and never communicates?
+GUY2: It's like playing with a ADJECTIVE brick wall.
+GUY1: Well worry no more, because FALCON AI is here to change the game.
+GUY1: Hi, I'm PERSONAL_NAME, and today, I'm introducing you to the ultimate co-op companion
+GUY1: you never knew you needed.
+GUY2: That's right, FALCON AI isn't just any bot, its a virtual teammate that can adapt to your playstyle.
+GUY2: Whether you are charging in as the PLAYSTYLE
+GUY2: Or picking off enemies from afar, FALCON AI is there every step of the way.
+GUY1: FALCON AI is more than just smart though, it's adaptive.
+GUY1: It learns how you play and anticipates your every move.
+GUY2: Want to jump into a COMBAT_SITUATION?
+GUY2: FALCON AI has your back with the perfect strategy.
+GUY1: Not in the mood to fight?
+GUY1: FALCON AI can suggest the best ways to sneak around to complete the objectives.
+AIL: Enemy sniper spotted at 3 o'clock. Flanking left for a better angle would be the best move.
+GUY2: Whoa, FALCON. That saved my life. It's like have a personal coach in the middle of the action.
+GUY1: And it's not just for combat. FALCON AI can even sort through your loot, organize your gear,
+GUY1: and ensure you've got exactly what you need for the next mission.
+AIL: Your inventory is cluttered with redundant items. Sorting gear and prioritizing the best INVENTORY_ITEM for you now.
+GUY2: Whoa, check it out. My LOADOUT_TYPE is optimized and ready to go.
+GUY2: I didn't even have to life a finger.
+GUY1: But wait, that's not all.
+GUY1: FALCON AI is also a personal assistant, working behind the scenes to make sure you're ready for anything.
+GUY1: And when things get tough? FALCON AI is there for you, like a true friend.
+AIL: You have been grinding hard for hours. How about a quick break to BREAK_ACTIVITY?
+AIL: Maybe a little chat to clear your mind?
+GUY2: That would be helpful, thanks FALCON.
+GUY1: And unlike the people that spam GAMER_SLANG every time they get a kill.
+GUY1: FALCON is always there to help you level up without the drama. It's CHARACTER_TRAIT
+AIL: Nice job. It looks like your close to leveling up. Keep it up.
+GUY2: Thanks FALCON.
+GUY1: So what are you waiting for?
+GUY1: Level up your gameplay with FALCON AI and experience gaming like never before.
+GUY2: And if you order now, you can get an exclusive VOICE_PACK voice pack designed by your favorite streamers.
+GUY1: FALCON AI, the Co-Op partner you've always needed.
+GUY2: Because even solo players deserve company in the gaming world.
+GUY1: Call Now
+(infomercial disclaimer)
 
 ======
 
@@ -40019,6 +40546,873 @@ CUSTOMER: Nope. I'm out. I’m just gonna go grab bottled TDRINK.
 EMPLOYEE: Don’t you want me to sprinkle some BODYPART shavings on top? It's like our secret ingredient.
 CUSTOMER: No! Just no. Bottled TDRINK will suit me just fine. (exits stage right)
 EMPLOYEE: That it does. Stay hydrated, man! And remember, a smoothie isn't a drink, it’s a state of mind. I'm glad we had this conversation!
+
+======
+
+INFORMATION ===============================
+ID: 1338
+TITLE: They're Coming After Me
+AUTHOR: Twintacle PTT
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 25/12/24
+CHARACTERS ================================
+TARA: A spider boss who knows his fate:Backstage
+VILL: The super villain:Center Stage
+HERO: The main hero:Backstage
+SIDE: The hero's sidekick:Backstage
+WAR: A warrior the heroes summon:Backstage
+SUGGESTIONS =============================
+TOWN: Any city:Honolulu, New York City, Toronto, Beijing
+GROUP: A name for a group of superheros:Avengers, Teenage Mutant Ninja Turtles, Mario Brothers
+BADGUY: Any name for a supervillain:Thanos, Shredder, Dr. Doofenshmirtz
+NUM: Any number that's not too big:Ten, Seven, Four, Eleven
+NAME: Any name for a spider:Shamura, Charlette, Mr. Skinny Legs
+BED: A place where you can sleep:Bed, Crib, Tent
+DOING: Anything you can do with your minions:training, partying, chatting
+FRICK: Fill in the blank, "Holy _________!":Bologna Sandwiches, Frick, Heck, Crap
+OBJECT: Any object that can summon someone:card, ball, wand
+DESCRIBE: Any kind of aesthetic:Grunge, Bohemian, Emo
+SCRIPT ==========================================
+courtroom music
+TYPEWRITER: BADGUY's base, ?????? Street, TOWN.
+VILL: (Angry) Ugh! I cannot believe it! All but one of my NUM of boss minions have been defeated!
+VILL: At least NAME, my precious spider, is still alive. They can surely take those stupid GROUP down.
+TARA: (rushes in) BADGUY! BADGUY! Master, BADGUY!
+VILL: Oh, why I spoke right when they're in! What seems to be the talk, NAME?
+TARA: Listen, BADGUY, I think you might have heard, but if not, I have bad news.
+TARA: TigerStrike, your big bad kitty, has been slain! Which means I am the last of your NUM bosses!
+TARA: I hope you have understood, the GROUP is now going to turn their eyes to me and kill me!
+VILL: Which is why I have got you a little mission, I want you to go out there and kill those GROUP.
+TARA: Look, I think now that TigerStrike has been slain, now is the time for me to tell you the truth.
+noir music 1
+TARA: BADGUY, master. I have once received a vision in one of my dreams.
+VILL: Oh?
+TARA: Before the killing, when I was asleep in my BED covered in silkiest of spider webs. I had a dream, contained with a vision.
+TARA: In such dream, I was DOING with my minions, when there was a burst in the door. The GROUP busted in and killed my arachnid army.
+TARA: After seeing the dead bodies of the soldiers and yourself and your boss minions, the GROUP all turned their eyes on me.
+TARA: A strange voice counted to eight, the number of legs on a spider. And suddenly, a strange shadow being appeared from the GROUP...
+TARA: And it killed me. BADGUY, this is a vision of truth. I hate it myself, but it means we are going to be defeated.
+VILL: Impossible! That could have been a lie! GROUP is too weak for me, I mean us.
+TARA: Look, the GROUP have slain all of your precious bosses but me. I tried warning everyone.
+TARA: (points to the villain) But thanks to your denial, you will have to pay. I am not trying to betray you, as I am a strong link in our chain.
+TARA: (sigh) After I die, the GROUP will go onto you, as you are their core target. Take my potential last words, for you will realize, and you will learn.
+VILL: NAME. All I want is for the GROUP to be destroyed! The vision may have been misleading, was it?
+extreme knocking
+HERO: (goes to the door but does not enter) We are the GROUP! We are here looking for NAME, the spider!
+SIDE: We shall ambush them and take them down!
+VILL: Oh FRICK, it's the GROUP!
+HERO: BADGUY!
+TARA: My fate has arrived, you should go, BADGUY. Master, I will handle them. Though I know what will happen.
+VILL: That's my spider, I must be off! Go on, kill those GROUP! Defend my HQ, stop them from taking back TOWN! (exits)
+TARA: I shall. (sigh)
+break down door
+fantasy music 2
+HERO: (runs in) There you are! NAME! Last chance to surrender!
+SIDE: We are here for your precious gem on your choker. We need it to defeat BADGUY.
+TARA: So, you must be those GROUP. (sigh) I have been expecting you. BADGUY was so in denial.
+HERO: What do you mean?
+TARA: It's personal. Anyways, I am the last chain of webs between you and BADGUY. It proudly stands as a core defense.
+TARA: Unfortunately, you are here to break it. After all, the walls one dominating my domain must come down...
+TARA: I know what is going to happen... GROUP... GROUP...
+TARA: I shall now fight as a last attempt to change my fate for the better. Prepare to fight me, I may try and stop you from becoming the monsters you all are.
+epic fantasy music 2
+TARA: (powers up) GROUP... Monsters...
+TARA: (charges at the heroes) Aaaaaaaah!
+Meanwhile HERO: Here we go! (Charges at the spider boss)
+sword fighting
+TARA: (fights the Hero) Creep up, ambush! Attack! Kill the GROUP!
+Meanwhile HERO: Hi-yah! Take that! Give us the gem!
+SIDE: (charges in) Do not worry, I got this!
+TARA: (Pushes both the heroes back) Back off you are-about-to-kill-me bastards!
+HERO: (falls down) Guh!
+Meanwhile SIDE: (goes down with his partner) Aaaah!
+TARA: You know, I might have a chance to kill you guys after all. So, I will not be dying like in my vision.
+HERO: I am down! Buddy, do you have something?
+SIDE: I got this summoning OBJECT; I'll summon someone to help us! (uses the OBJECT) Yah!
+Teleport WAR to Center Stage
+WAR: What now?
+TARA: You. Weren't you the one who appeared in my vision of my slaying?
+HERO: Summoned one, we command you to finish this spider off!
+TARA: I shall not go down without a fight. (charges toward the summoned warrior) I am afraid this might be over...
+TARA: (fights the warrior) Ugh! I... Must... Live... Live...
+Meanwhile WAR: (fights the spider) Let them finish their quest! Yah!
+TARA: (falls down) Guh!
+Meanwhile TYPEWRITER: Critical hit!
+HERO: The spider's down! (gets up) Finish her!
+Meanwhile SIDE: Yeah! Woohoo!
+WAR: (Stabs the spider) Gah!
+TARA: (dying) Ugh, it's over... I am certainly going to die... The other bosses, I shall join with them...
+TARA: Mercy, DESCRIBE, mercy... (dies)
+VILL: (runs in) NAME! I heard the fighting from outside!
+Meanwhile HERO: Wait a minute, they were both DESCRIBE types!?
+VILL: (grieving) No, NAME! Whyyyy!?
+VILL: (angry at the heroes) You, you killed my precious NAME! You bastards!
+VILL: You GROUP... GROUP... Bastards... I shall meet you in my lair! I will kill each and every one of you! (exits)
+HERO: (grabs the gem from the dead spider) Got it! We get spider powers now!
+WAR: A DESCRIBE type killing a DESCRIBE type. Very sad indeed.
+WAR: I shall be off then...
+Teleport WAR to Backstage
+SIDE: Now that NAME is out of the way... NUM down, one to go! Let us be off! We shall defeat BADGUY! (exit)
+HERO: Yeah! (follows his sidekick out of the stage)
+TYPEWRITER: The heroes then went on to defeat BADGUY at his lair. With NAME's death sealing his fate. RIP.
+
+======
+
+INFORMATION ===============================
+ID: 1347
+TITLE: Musical Monstrosity
+AUTHOR: FamilyFrags
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 28/12/24
+CHARACTERS ================================
+JOSI: Confused detective:Stage Right
+KEI: Music Man:Backstage
+JACOB: Narrator:Backstage
+LILA: Kei's "apprentice", not a very good one though:Narrator Podium
+SUGGESTIONS =============================
+ADJECTIVE: Something a day could be:Jolly, awful, nice
+CRIME (1): A crime:Arson, burglary, 3rd degree murder
+CRIME (2): A crime:Arson, burglary, 1st degree murder
+HIDE: Something suspicious to hide:Body, knife, keys, gun
+ACTION: An action thats illegal to commit:Murder, jay-walking, public drinking
+BODY: A part of the body :Arm, hand, face
+TIME: A period of time:Seconds, minutes, hours
+FRIEND: A nickname for a friend:Buster, lackey, apprentice, peer
+NUMBER: A random number:57, 1,279, 4
+SCRIPT ==========================================
+Guitar Music 1
+Josi: (Grumbling) Can't even get this damn case finished for the life of me.
+Josi: NUMBER long TIME and I still can't figure out who this Music Man is, and their not slowing down either.
+Josi: (sigh) Time and time again, I get so close and yet, they seem so far. 
+Josi: (Sigh) Everyday is so uneventful. (Breaking down) Why can't I just have an interesting life?
+Kei: (Loudly) Did somebody ask for... drumroll please.
+Music stops
+Break down door
+Kei: (Enters stage left, grinning and excited) An interesting life?
+Meanwhile Lila: (enters stage left)
+Jacob: He in fact didn't, ask for whatever monstrosity this (sarcastic) musical man and his FRIEND would bring.
+Meanwhile Josi: (move towards ALLEY)
+Josi: (breaks the fourth wall) Did he just say "Musical Monstrosity..?"
+Meanwhile Kei: (stares at audience)
+Jacob: I did in fact say, "Musical Monstrosity."
+Meanwhile Lila: (stares at audience)
+Josi: (stares back at group) What're you guys here for exactly?
+Kei: (Snapping back to reality) We're here to make your life ADJECTIVE
+Meanwhile Lila: (look back at the group)
+Lila: That's right, we're here to make your life ADJECTIVE
+Josi: (Nervously) I'm not sure I want that...
+Kei: (Excitedly) I heard "I want that!" I have VERY selective hearing!
+Lila: I too heard "I want that!" Excellent!
+Yankee Doodle Music
+Kei: (singing) Whenever life gets you down, with a big goofy frown, all you have to try is CRIME (1)
+Lila: (butting in) All you've gotta try in life is CRIME (1), whether committing a CRIME (2)
+Kei: (taking control back) or visiting a friends, what you don't want to do is commit a CRIME (2), but instead hide a HIDE
+Record scratch
+Josi: (Suspiciously) Wait, are you guys trying to make me commit crimes... musically?
+Kei: (Nervously) What??? Nooooo... That's ridiculous. We're trying to make you commit ACTION musically. There's a MASSIVE difference.
+Lila: (butting in) You know what else is massive?
+Jacob: (turn towards audience) The
+Meanwhile Kei: (turn towards audience)
+Kei: (Montone) Low.
+Meanwhile Lila: (turn towards audience)
+Lila: (monotone) Taper.
+Meanwhile Josi: (turn towards audience)
+Josi: (monotone) Fade.
+Jacob: (coming back to reality) Ahem. At last, they finally got back on track to the real story here.
+Oldschool Hiphop music
+Kei: (rapping now) If you ever need to hide a HIDE
+Lila: (Joining in) Just come to us for help! If you ever need to hide a HIDE
+Music stops
+Kei: (monotone) Nobody will hear your screams.
+Meanwhile Josi: (sneaking up behind Kei)
+Kei: AH!
+Josi: (pulls out gun) put your hands behind your BODY
+Meanwhile Kei: (put hands behind BODY)
+Josi: I've finally found you! I've been looking for you for NUMBER TIME and you've finally tried to take me down with your musical madness?
+Meanwhile Lila: (putting handcuffs on Kei)
+Kei: It almost worked though! And who said this was the last trick I had up my sleeve?
+Kei: (exclaims) WOOOOO-LOOOOO-LOOOOO
+Teleport KEI to Stage Right
+Kei: (Embarrased) WHOOPS! (runs off stage right)
+Josi: (Runs after him but stops right before the door) DAMNIT!
+Lila: (Curious) Does that actually work?
+Lila: (Exclaims) WOOOOO-LOOOOO-LOOOOO
+Teleport LILA to Backstage
+Josi: (shocked) WHAT THE?!?
+Jacob: (curious) Hm... WOOOOO-LOOOOO-LOOOOO
+Teleport JACOB to Backstage
+Josi: (dejected) Guess this is what the monstrosity has turned into. WOOOOO-LOOOOO-LOOOOO
+Teleport JOSI to Backstage
+
+======
+
+INFORMATION ===============================
+ID: 1348
+TITLE: The Ultimate Life Form
+AUTHOR: LeDerp_64
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+DATE: 28/12/24
+CHARACTERS ================================
+LIFE: The Ultimate Life Form:Backstage
+SCI: Crazy Old Scientist :Entrance Stage Right
+ASSIST: Devoted Assistant:Entrance Stage Right
+COPONE: Experienced Law enforcement :Backstage
+COPTWO: Rookie Law enforcement:Backstage
+SUGGESTIONS =============================
+ULTNAME: The Ultimate Name:Omnithrax, Syntarion, Evolis
+LAW: A title of a job that enforces law:Police, Sherrif, Discord Mod
+NAMEASS: A Simple Name:David, Mary, Stanly
+NAMESCI: A Crazy Name:Octavian, Zephyr, Clytemnestra
+ITEMTWO: Something someone edgy/emo would own:Mascara, Ripped Jeans, Hair Dye
+ITEMONE: An thing found in the forest:Eggplant, Log, Bird
+ESSENCE: Something someone emo/edgy would enjoy:Hot Topic, My Chemical Romance, Scene Haircuts 
+TRAIT: A Human Trait:Empathy, Resilience, Emotion
+CRIME: A punishable crime:Robbing the donut store, Loitering, Pirating a movie
+JAIL: A Place you would not want to be:Solitary confinement, Prison, The Mines
+COPNAME: A pathetic name:Jerry, Craig, Sam
+WEAPON: A powerful weapon:Giant Blade, Sledgehammer, Gauntlet
+SCRIPT ==========================================
+epic fantasy music 1
+SCI: (Runs into center stage) NAMEASS hurry! we can't let them catch us!
+ASSIST: (Runs into center stage exhausted) Coming NAMESCI!
+ASSIST: (panting in place) Why even are the LAW after us?
+SCI: Because, I'm going to create the ultimate life form! (laughs manically)
+ASSIST: But how are we going to do that with the LAW on our tail?
+SCI: You make a good point NAMEAS. (Pondering)
+SCI: We'll just have to do it now while we have some distance.
+ASSIST: Don't you need your lab equipment?
+SCI: There's no need I have all the materials I need here.
+ASSIST: What do you need from me?
+SCI: I need you to go into the forest and find me an ITEMONE, and an ITEMTWO
+ASSIST: I'm on it sir (salutes then runs off stage left)
+SCI: Luckly, I have the other ingredients in my lab coat, Let's see.
+SCI: (poring bottles on the center stage) Essence of ESSENCE, and just a hint of TRAIT
+ASSIST: (runs back onstage) I'm back, I got the ITEMONE and ITEMTWO.
+SCI: Very good NAMEASS, hand them to me (takes items)
+SCI: Now very delicately add the ITEMONE. (put object centerstage)
+SCI: And the final touch, the ITEMTWO (toss the object in the pile)
+Music Stops
+explosion
+TELEPORT LIFE to CENTER STAGE
+epic cinematic music
+LIFE: Where am I? What am I?
+SCI: You are the ultimate life form, from here on your name will be ULTNAME!
+LIFE: ULTNAME, I like it.
+LIFE: (Point to assistant) Are you the one who made me?
+ASSIST: Oh no that was NAMESCI, he is your creator.
+SCI: Indeed ULTNAME, now I need you to handle a problem for me.
+LIFE: (bow) Whatever you need.
+SCI: The LAW is after us, when they get here, I'm going to need you to take care of them.
+LIFE: With pleasure.
+COPTWO: (just behind entrance stage right) I found them! They're over here!
+COPTWO: (walks onstage holding a weapon) Freeze!
+SCI: So, you finally caught up.
+COPTWO: You are under arrest for CRIME!
+COPTWO: And tampering with the natural order!
+SCI: A necessary step toward evolution.
+COPTWO: I'm going to send you back to JAIL!
+SCI: Oh, that won't be happening today my friend.
+SCI: ULTNAME, Deal with this individual.
+LIFE: Of course. (walks up slowly to LAW)
+COPTWO: (shaking nervously) I'm going to have to ask you to stand down!
+LIFE: Take this! (Punches LAW once)
+COPTWO: (falls over) So much power.
+LIFE: Too easy.
+Meanwhile COPTWO: (passes out)
+COPONE: (offstage) COPNAME?
+COPONE: (walks on stage slowly) COPNAME? What happened to you.
+SCI: Another LAW? ULTNAME take this one out as well.
+COPONE: He was just a rookie, he didn't deserve this.
+COPONE: I'm going to get you for this! (rushes toward the ultimate life form)
+ASSIST: Watch out for his WEAPON!
+COPONE: Take this! (hits the ultimate life form with WEAPON)
+knife wound
+LIFE: (do not react) That's all? How pathetic.
+COPONE: No way....
+LIFE: Perish (Attacks LAW)
+Meanwhile COPONE: (Falls to ground)
+COPONE: you won't get away with this NAMESCI, someone is going to stop you.
+SCI: I'd like to see someone try.
+SCI: With ULTNAME on my side, I am unstoppable. (laughs manically)
+SCI: Finish him ULTNAME.
+LIFE: Weakling. (attacks LAW)
+Meanwhile COPONE: (passes out)
+ASSIST: What now Doctor?
+SCI: Now?
+SCI: Now we take over the world.
+SCI: Come ULTNAME, let us leave.
+SCI: Oh, and get rid of NAMEASS too.
+scary music
+ASSIST: What? why me?
+SCI: I have no need for weaklings.
+ASSIST: No! Please!
+LIFE: Farewell (walks up and attacks assistant)
+ASSIST: (falls over passing out) I thought we would rule together.
+SCI: ULTNAME, let's leave before any more LAW come around.
+SCI: I don't want to get too messy.
+LIFE: Of Course, Doctor. (walks offstage)
+Meanwhile SCI: (walks offstage)
+
+======
+
+INFORMATION ===============================
+ID: 1352
+TITLE: Lucky day
+AUTHOR: Yu-me1 1ecb
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 30/12/24
+CHARACTERS ================================
+LUCKY PERSON: Lucky person:Couch
+FRIEND: Friend:Side Door
+AWARD MESSENGER: Message delivery person:Backstage
+FAMOUS PERSON: Famous Celebrity:Backstage
+SUGGESTIONS =============================
+STUFF: Something you may win in a contest:Money, video game, phone
+POPS: Something you go door to door to receive :Signature's, High fives, knives
+NUMBER: Any number:12,35,23
+GUY: Any name:Josh, Garry, larry
+MONEY: A large sum of money:10000,25777,30000
+SOMETHING: Any word:Grow,Tall,orangutan
+DING: Anything you might lose:Toy, wallet, phone
+PLACE: Restaurant or fast food place :Olive Garden, McDonalds, chilis
+CASH: Any number:3,7,10
+FAMILY: Any family member:Sister, brother, cousin
+DOLLAR: Any number:6,27,490
+GAME: Something you save money up for:Car, house, Video game
+SCRIPT ==========================================
+Happy music 1
+Lucky person: I’m so glad I signed up for that contest for a free STUFF, At least I can say I got outa the house for once.
+Friend: (Enter stage left) Hey bro, what you up to!
+Lucky person: Nothing much just waiting to see if I won that contest I signed up for.
+Friend: What was the contest?
+Lucky person: It was to see who could go door to door and get the most POPS.
+Friend: How many did you get?
+Lucky person: I think about NUMBER.
+Friend: Jeez that’s a lot.
+Lucky person: Well hopefully it was enough to win.
+Cellphone vibrate
+Lucky person: (Check phone) Hey it says here that I won!
+Friend: Congrats!!!
+Lucky person: Says they should be here any minute.
+Extreme knocking
+Friend: Or any second actually.
+Award messenger: Hello is anyone there? I have a package for Mr.GUY!
+Lucky person: I’ll get that. (Open door)
+Award messenger: Hey there. Here’s your free STUFF!
+Lucky person: Thank you!
+Emotional Piano music
+Award messenger: Hey before you close the door could I get some extra cash? I’m in debt for a mob boss and I gotta pay him back.
+Lucky person: Sure how much you need?
+Award messenger: A good amount of MONEY
+Record scratch
+Friend: MONEY???
+Friend:That’s entirely too much you can’t give him that
+Lucky person: Hey what comes goes around comes around.
+Lucky person: Here lemme transfer my money to you. What’s your Cashapp?
+Award messenger: It’s cccw.SOMETHING1
+Lucky person: There ya go I just sent it.
+Award messenger: Oh my gosh thank you so much!!! (Leave stage)
+Lucky person: See, no harm in helping people out.
+Friend: That’s a lot of harm. That money could’ve been used for anything else. (Close door)
+Extreme knocking
+Famous person: (Enter stage right) Hey there. Is anyone home!
+Friend: Now who is it. (Open door)
+Famous person: Hello there friend.
+Applause
+Friend: No way is that FAMOUS!
+Oldschool hiphop music
+Famous person: In the flesh. Now do you know where Mr.GUY is?
+Lucky person: That’s me!
+Famous person: Hey I saw what you did for that kid that came over here.
+Lucky person: Really?
+Famous person: Yes and I thought it would be a good idea to double what you gave him and give it to you my friend!
+Friend: Are you kidding me.
+Lucky person: Wow thank you so much FAMOUS!
+Famous person: No problem, now what’s your cashapp?
+Lucky person: It underscore GUY321
+Famous person: Sent it to you. Have an amazing day.
+Friend: There’s no way this just happened, you are really lucky today.
+Famous person: Like I always say, what goes around comes around. (Exit stage)
+Friend: I’ve never heard him say that. (Close door)
+Lucky person: Hey maybe you’ll get lucky too.
+Friend: Yea in a million years dude. Haven’t had any luck at all this week
+Friend: Just yesterday I lost my DING, and the day before that I crashed my car into a PLACE.
+Lucky person: That’s crazy. Maybe everything will get better today. So far I’ve been super lucky.
+Friend: We’ll just have to see.
+Cellphone vibrate
+Friend: (Check phone) Hey a Nigerian prince needs my help and wants to send me CASH dollars if I just give him my name, address and my bank account information!
+Lucky person: I don’t think that’s real.
+Friend: Shusssh! This is my chance to finally be lucky for once.
+Lucky person: I think that’s a scam bro.
+Friend: Nonsense he says he’s my long lost FAMILY, so why would he scam me.
+Message send
+Friend: Just sent it to him, now we wait for the money to be transferred to me.
+Cellphone vibrate
+Lucky person: What they say?
+Friend: My bank account notified me of all my money being transferred out. I think you were right.
+Lucky person: I tried to tell you.
+Friend: All that money I saved is now gone.
+Lucky person: How much was in there?
+Friend: DOLLAR dollars.
+Lucky person: Jeez dude, what were you saving that money for?
+Friend: A new GAME.
+Lucky person: Well it’s all gone now.
+Friend: What goes around comes around huh.
+Lucky person: Yea just not for you I guess.
+
+======
+
+INFORMATION ===============================
+ID: 1355
+TITLE: The Toxic Genie
+AUTHOR: FamilyFrags
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 30/12/24
+CHARACTERS ================================
+JESSE: The Wish Receiver:Entrance Stage Right
+PENNY: The Wish Granter:Backstage
+NARRATOR: Keeps the story from going off the rails:Narrator Podium
+SUGGESTIONS =============================
+RELATIVE: A relative:Mom, grandpa, Uncle
+MONEY: A form of currency:Dollar, cent, penny
+EMOTION: A feeling somebody could have after waking up:Angry, happy, sad
+OBJECT: An object:Fridge, fence, door handle
+BODY: A body part:Arm, leg, head
+NUMBER: Any number between 1-50:49, 12, 37
+TIME: A measure of time:Seconds, minutes, hours
+WEAPON: A weapon:Gun, knife, sword
+SCRIPT ==========================================
+Dark Classical Music
+Jesse: (Somberly walks into stage) Life is so unfair... My RELATIVE just died and I didn't even get anything in the will!
+Jesse: (Walks to Stage Right) Could this day get any worse???
+Jesse: Oh no, I dropped my MONEY!
+Jesse: (sadly) That was the last piece of money I had...
+Narrator: And so for apparently no reason at all, Jesse decided to walk into the alley, hoping to find something to sell to replace his lost MONEY.
+Meanwhile Jesse: (walks to alley)
+Jesse: (inspecting the ground and crouches down) Hey, whats this shiny thing?
+Jesse: (stands up) Hm, it's a bit dirty, let me just rub it-
+Teleport PENNY to Alley
+Thunder
+Penny: (upset) WHO DARES AWAKEN ME FROM MY NUMBER TIME NAP. CAN A GENIE GET NO SLEEP AROUND HERE?!?
+Jesse: (Apologetically) I'm so sorry! I didn't know, I just saw something shiny on the floor, please don't hurt me!
+Penny: (Yawning) Nah, it's fine. I just wake up kinda EMOTION
+Jesse: (Curious) So uhm, what ARE you exactly? I mean I rubbed some dirt of this OBJECT and you just appeared.
+Penny: I'm a genie, and I'm worth a lot, (scoffs) hence the name "Penny".
+Narrator: Jesse would regret this encounter though, as it would leave him "wishing" for something else.
+Jesse: (Confidently) My first wish is to send a WEAPON into the BODY of my worst enemy!
+Penny: (Happily) Your wish is mine to control.
+Jesse: (In pain) AH! WHY DOES MY BODY HURT?!?
+Penny: (Laughing) Your worst enemy is yourself, you idiot!
+Narrator: His worst enemy was standing right in front of him, well, floating I should say.
+Narrator: Unfortunately, Jesse was not safe from this unfortunate "gift" of a genie.
+Jesse: (still in pain) I wish for this WEAPON out of my BODY!
+Penny: (shrugs) As you wish
+Narrator: (screams and puts hand over BODY)
+Narrator: (in pain) OW! WHEN WAS I A PART OF THIS STORY?!?!
+Penny: (turns to Narrator) Ever since I said you were, now shut up!
+Penny: Now Jesse, with your last wish, what do you wish for?
+Jesse: (In pain) I'll wait until I feel the need for one.
+Penny: If you say so
+Teleport PENNY to Backstage
+Jesse: (still in pain) Gotta get to a hospital. (exit stage left)
+Narrator: And so, Jesse kept the genie around until one day, NUMBER TIME, he finally called for her once again.
+Western Piano Music 1
+Jesse: (yodeling) Ohhhhhh Pennnnyyyyy.
+Thunder
+Penny: (yawning) What's up Jesse?
+Jesse: I finally figured out what I want the last wish to be.
+Penny: (curious) And what's that?
+Jesse: (excitedly) I wish for infinite wishes!
+Penny: (smug) If you wish...
+Teleport JESSE to Backstage
+Narrator: And with that, the phrasing of Jesse's poor wish got him trapped inside the genie's lamp, as Penny exists gracefully.
+Meanwhile Penny: (exit stage left, whistling)
+Narrator: And this is a PSA on how phrasing really does matter.
+TYPEWRITER: HELP. HELP MEEEEE. HELP PLEASE.
+
+======
+
+INFORMATION ===============================
+ID: 1360
+TITLE: Beat the Boss
+AUTHOR: Twintacle PTT
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 31/12/24
+CHARACTERS ================================
+ALEX: Alex, the young son who is the leader.:Entrance Stage Right
+MOM: The Mother of Alex:Stage Right
+SIS: Alex's sister, Wendy:Stage Right
+BOSS: The boss battle (has a deep voice):Backstage
+TOON: A random cartoon character:Backstage
+ENEM: A small enemy:Backstage
+SUGGESTIONS =============================
+WEAPON: Any kind of weapon:sword, gun, tank, potion collection
+KIND: Synonyms for legendary:overpowered, super rare, mythical
+HOLIDAY: Holiday about giving:Christmas, Easter, Valentine's day
+BADGUY: Any name for a supervillain or evil boss:Bowser, King Dedede, Sir Ender Dragon, The Devil
+LAND: Any place, real or fictional:Miracle City, Bikini Bottom, Toronto, New York City
+TINYBAD: Any video game enemy:Hammer Bro, Octotrooper, Small Scary Spider
+BRAND: Any kind of cartoon:NickToon, Cartoon Network cartoon, Disney Animation 
+TREASURE: Anything that is treasure:gold, tickets for vacations, jewelry, old antiques
+SCRIPT ==========================================
+superhero music
+MOM: (adjusting headset) Alright, has everyone got their headset on?
+ALEX: Yep, I sure did.
+Meanwhile SIS: Alright, there. I got it.
+MOM: Now I do not understand, despite the fact I am the only parent here, Alex is the host and leader. That means he gets access to the kicks and stuff.
+ALEX: Come on mom, you know I love this game. It is something I got last HOLIDAY.
+ALEX: (excited) And since then, I have been so anxious to play it!
+SIS: Alright, (looks at the road ahead) So the object of this game is to defeat the boss. Seems easy.
+Music Stops
+TYPEWRITER: Loading...
+MOM: Hang on, it's loading something.
+courtroom music
+BOSS: (enters stage left with a deep voice) Well, well, well. What do we have here?
+ALEX: (gasp) The boss!
+BOSS: I have been waiting for you mortals. Your quest shall not prevail on. I rule this world.
+SIS: Who even are you?
+BOSS: (deep voice) The name's BADGUY. I have recently invaded and took over LAND. And I see that you are a threat to my rule.
+BOSS: (deep voice) In this case, I shall take you guys down and kill you one by one! Worst of luck to you! Hahahahahahaha!
+Teleport BOSS to Backstage
+ALEX: Alright, so BADGUY is the boss, and we need to stop him before LAND is doomed.
+SIS: Hey look (points to the sky) I see some block! Glowing blocks!
+MOM: Hmm. (Goes to center stage) I wonder if this has anything useful inside it...
+MOM: (Hits the glowing block) Yah!
+magic sound
+MOM: Oh wow! I got a cool dagger! Everyone hit the blocks, we need weapons!
+SIS: Alright! (Hits a glowing block) I got a bow and arrow!
+ALEX: (goes to center stage) Okay then. (Hits a glowing block) Darn it. A Common bat.
+ALEX: I am looking for something else, my goal is to get that KIND WEAPON. Epic stuff.
+ALEX: But this is better than nothing. Onward everyone! We need to defeat BADGUY!
+SIS: Yes!
+Meanwhile MOM: Woooo!
+Teleport ENEM to Stage Left
+ENEM: Stop right there!
+ALEX: (points to the enemy) Oh no! It's a TINYBAD!
+ENEM: You shall tread more, this is BADGUY's territory! And I shall fight for him!
+MOM: We have to defeat this cute little guy before the boss? Piece of cake!
+SIS: Enough talk, kill that SMALLBAD! (Aims bow and arrow
+Meanwhile ALEX: (Holds up his bat)
+pokemon battle start
+MOM: (Charges) Yaaaaah!
+pokemon battle music
+MOM: (Fights the small enemy) Take that! And that! And this! Woooo!
+Meanwhile ENEM: (fights back) Not on my watch!
+fistfight
+SIS: (Fires bow and arrow) Stay away from mommy!
+Meanwhile ALEX: (Hits the small enemy with a bat) Take them down!
+ENEM: (Does an epic burst) Back off you bastards!
+raygun shot
+MOM: (backs away) Aaaaaaah!
+Meanwhile ALEX: (backs up and falls down) Shoot, low health!
+ALEX: (looks at a card on the ground) Hey, what is this?
+ALEX: (picks the card up from the ground) A Summoning card, I wonder what it does...
+magic sound
+TYPEWRITER: Summoning BRAND...
+Teleport TOON to Center Stage
+TOON: Where even am I?
+ALEX: Check it out! A BRAND just came into the video game! Hey, we need your help. There is this enemy over there. (Points to the enemy)
+TOON: Everyone stand back; I got this. (Defeats the Enemy)
+ENEM: Oh no! Aaaaaah! (Dies)
+Music Stops
+Teleport ENEM to Backstage
+MOM: (Stands up) Oh wow, thanks, whoever you are.
+Teleport BOSS to Stage Left
+BOSS: (deep voice) You have come this far... Impressive...
+ALEX: Hey, the TINYBAD has dropped what I needed! (Head over to the boss)
+BOSS: (deep voice) That weapon is mine! (Pushes Alex back)
+magic sound
+BOSS: (deep voice) Ah crap. Hitboxes.
+ALEX: I have got my KIND WEAPON! This is over, BADGUY!
+BOSS: (deep voice) Looks like I will have to kill you all myself! (Charges at the players)
+epic fantasy music 2
+SIS: This is it! Everyone! Let's go! (Charges at the Boss)
+MOM: (Charges at the Boss) Yaaaaaaaaaaaaaaaaaaaaaaaaaaaaah! 
+Meanwhile TOON: (Charges at the Boss) Say goodbye, BADGUY!
+BOSS: (fighting back) You shall not prevail! I shall rule LAND! Nobody will stop me!
+Meanwhile MOM: (Stabbing Boss) We must fight! No matter what! Hi-Yah! Woo! Take this!
+ALEX: (Charges) I, must, finish this! (Strikes the boss with WEAPON)
+knife wound
+BOSS: (deep voice) Noooooo! (Falls down)
+BOSS: (deep voice) Impossible, I cannot lose LAND in such a horrible way. Why? Whyyyyyyyyyyyyyyy!? (Dies)
+Teleport BOSS to Backstage
+superhero fanfare
+TOON: Woohoo! We did it! LAND is saved from BADGUY!
+Meanwhile SIS: Hoooray! We did it! Wooooooo!
+MOM: Hey look, the boss has dropped some TREASURE!
+ALEX: TREASURE?
+TOON: That would be perfect for my world.
+SIS: (Takes some of the TREASURE and passes it to the rest of the members) I think we had quite an adventure today.
+corporate guitar music
+TOON: Very well, now with the TREASURE, I must be off! Goodbye everyone! (Exit)
+ALEX: Well, now what? BADGUY is gone.
+SIS: Why not we explore throughout LAND? I am sure it has some sights to see.
+MOM: Great idea, we still have plenty of time before dinner and Dad getting home.
+TYPEWRITER: And so, we LAND saved from BADGUY, our group of heroes went to explore the rest of LAND. Now knowing it is safe from harm. The End.
+
+======
+
+INFORMATION ===============================
+ID: 1364
+TITLE: Rudolph's Demise
+AUTHOR: Shawty․Zozo
+VERIFIED: True
+TAGS: Skit
+SET: Infomercial Kitchen
+DATE: 01/01/25
+CHARACTERS ================================
+SANTA: Santa the boss:Entrance Stage Right
+NERVOUS ELF: Anxious worker elf:Stage Right
+SARCASTIC ELF: Nonchalant worker elf:Stage Left
+RUDOLPH: Narcissistic reindeer:Backstage
+SUGGESTIONS =============================
+GROSS FOOD: A food you do not wanna eat:pineapple pizza, dirt, moldy bread, sardines
+YUMMY FOOD: A food you would love to eat:ice cream, burger, french fries
+ACTIONS: Actions a very famous person would do:tours, performances, award shows, parties
+BAKED GOODS: Yummy treats you would bake in the oven:cookies, cupcakes, macarons, muffins
+FEELING: A pleasant feeling:happiness, joy, Christmas spirit, excitement
+TOYS: Things you should not give to children:knives, cigarettes', guns
+PUNISHMENT: A punishment you give when someone is bad:time-out, detention, chores
+MEAN WORD: A mean word you call someone you don't like:stupid, annoying, idiot
+GIFT: A fun gift:nunchucks, pogo stick, skateboard
+BAD PLACE: A place you do not wanna go:dungeon, scorpion tank, snake pit
+TREAT: A yummy treat:cookies, gingerbread, cupcakes
+SCRIPT ==========================================
+Christmas music 1
+SANTA: Ho ho ho! Merry Christmas. How are my unpaid laborers doing today? (Walks over to elves)
+SANTA: Are my eyes deceiving me? You’ve only made 200 million presents?? Christmas is in 5 days! I didn’t kidnap you to sit around and do nothing!
+NERVOUS ELF: Mr. Claus, we’re doing our best, but to be honest we’re all exhausted!
+SARCASTIC ELF: Yeah! We’re working 20 hours a day and all we get to eat is GROSS FOOD
+SANTA: Well when you live in an arctic wasteland, sometimes GROSS FOOD is all you can get!
+SANTA: Now get back to work before I send you both to the BAD PLACE (exits stage right)
+NERVOUS ELF: I remember the good old days, when we used to get YUMMY FOOD for lunch, and if we were good, Mrs. Claus would even give us TREAT for dessert!
+SARCASTIC ELF: Yeah, I could kill for YUMMY FOOD or a nice medium rare steak…
+NERVOUS ELF: Too bad there’s no meat in the North Pole after global warming killed all the bears and stuff
+RUDOLPH: (enters) Hello fellow North Polians, how’s the working going? Me? Oh I’m just enjoying the new GIFT Mrs. Claus got me.
+SARCASTIC ELF: (aside to ELF 1) ugh, not this guy again
+NERVOUS ELF: (unenthusiastically) hey Rudolph, how’s it going?
+RUDOLPH: Oh it’s going great! I’ve just been soooo busy.
+RUDOLPH: So many press interviews, PR meetings, ACTIONS.
+RUDOLPH: Ugh, it’s just so hard being famous and loved by literally everyone!
+SARCASTIC ELF: Oh yeah. We totally get being busy, you know with all the illegal unpaid labor and all.
+SARCASTIC ELF: You know, we wouldn’t mind having a helping hoove from time to time…
+RUDOLPH: Ahh shucks. Would love to help but I gotta rest up for the big night. You know, guiding a slay for THE Santa Claus is pretty important
+SARCASTIC ELF: (aside to ELF 1) maybe if you don’t know what headlights are
+RUDOLPH: Well, gotta go! Good luck making all those toys. Also, be sure to check out which red nosed reindeer got employee of the month, 248 years in a row!
+RUDOLPH: Guess making 700 million presents isn’t THAT impressive after all (exits)
+NERVOUS ELF: God, what a jerk. Sometimes I wish he’d lose his powers of flight while being 1000 feet in the air
+SARCASTIC ELF: Yeah, maybe then we’d actually been able to eat some real meat… unless-
+SARCASTIC ELF: (yelling while approaching door) hey Rudolph! Would you mind helping us poor little elf workers.
+SARCASTIC ELF: Mrs. Claus is baking some BAKED GOODS in the oven and the oven light won’t turn on!
+NERVOUS ELF: Uh what are you talking about?
+SARCASTIC ELF: (to Nervous Elf) Shhh!
+RUDOLPH: (enters) well, I’m trying to save my light power and all, but gosh I do loooove BAKED GOODS!
+RUDOLPH: (looking in oven) Huh? There’s nothing in here! What the- (falls into oven) AHHH!
+Teleport RUDOLPH to Backstage
+crashing debris
+NERVOUS ELF: (shocked) YOU JUST KILLED RUDOLPH!!
+SARCASTIC ELF: Uhh yeah, you’re welcome
+NERVOUS ELF: Dude, Santa is gonna be pissed! What are we gonna tell him you idiot?
+SARCASTIC ELF: Well I didn’t think it through that far
+tense cinematic music
+SANTA: (enters) Ho Ho Ho! What’s going on in here? I thought I heard some yelling? You know talking is forbidden during work hours!
+SANTA: You even woke up Mrs. Claus from her 6th nap of the day! You need your beauty rest when you’re 1,752 years old
+NERVOUS ELF: (nervous) oh! Uhhh. Hi Santa! We were just uhhhh…
+SARCASTIC ELF: We were talking about the big day! How were so excited for Christmas and all. Gosh, whenever I think about it it just fills me with FEELING!
+SANTA: (sigh) Well, alright. But you two need to get back to work! Those TOYS aren’t gonna make themselves for all the little boys and girls around the world!
+SANTA: By the way, have you seen Rudolph?
+Music Stops
+SARCASTIC ELF: Oh yeah I threw him in the oven
+vine boom
+SANTA: (very angry) YOU DIMWITTED FOOLS! HE WAS THE BEST REINDEER OF THEM ALL. HOW DO YOU THINK I’VE AVOIDED CAUSING ANOTHER PLANE CRASH FOR THE PAST 248 YEARS!
+SARCASTIC ELF: Uh headlights?
+SANTA: (furious) YOU BOTH ARE IN BIG TROUBLE! MS. CLAUS IS GONNA GIVE YOU THE WORST PUNISHMENT OF YOUR LIFE!
+SANTA: (suddenly, intrigued) Wait, what is that heavenly smell?
+NERVOUS ELF: Um, well he should be medium rare by now
+ussr anthem music
+SANTA: (kneeling by oven) My golly, that smells delicious!! I haven’t smelled steak like that in centuries! Screw that MEAN WORD reindeer!
+SANTA: Headlights work way better anyway! Also he was hella annoying
+NERVOUS ELF: So does that mean, no PUNISHMENT?
+SANTA: Not only that, but work is done for the day! Reindeer steak dinner for everyone!
+NERVOUS ELF: Horray!!
+Meanwhile SARCASTIC ELF: Yay!!
+
+======
+
+INFORMATION ===============================
+ID: 1366
+TITLE: The Intergalactic Trade Agreement
+AUTHOR: HolidayWither
+VERIFIED: True
+TAGS: 
+SET: News
+DATE: 03/01/25
+CHARACTERS ================================
+ANCHOR 1: News Show Host:News Desk
+ANCHOR 2: On-Site News Reporter:Fake Street Backdrop
+SUGGESTIONS =============================
+HOST: An energetic news host name:Tim Nut, Bob Bong, Greg Gag Reflex
+REPORTER: A name for a news reporter:Big Bertha, Mommy, Naruto Uzumaki
+PLACE: A location, or famous landmark:The Eifel Tower, The Waffle House, Detroit, Orlando Florida, The White House
+FOOD: A food item, plural:Pancakes, Hot Dogs, Cakes, Muffins, Hamburgers
+TECHNOLOGY: A made-up technological item:Fluff-o-Matic 3000, Neon Laser Blaster Vacuum, Teleporting Coffee Mug, Quantum Banana Peeler
+TERM: A common word used by gamers:Rizz, Gyatt, Fortnite, Grindset
+MOVIE: A title of a movie:Pokemon The Movie, Titanic, Frozen, Star Wars, The Lion King, Harry Potter
+PERSON: A character from a movie or TV show:Ash Ketchum, Saul Goodman, Kermit, Walter, Elsa
+ADVENTURE: Something someone learns on an adventure:Friendship, Love, Companionship, Chaos, Vigilance
+ANIMAL: An animal, fantasy or real:Seal, Axolotl, Dog, Pony, Lizard, Dragon, Starbunckle
+SCRIPT ==========================================
+World News Intro
+ANCHOR 1: Good evening, I’m HOST, bringing you tonight’s top story.
+ANCHOR 1: Aliens have arrived on Earth, and they want to negotiate. For more, we go to REPORTER, live at the green screen.
+70s Music
+ANCHOR 2: (waves) Thanks, HOST. Here at PLACE, an alien spaceship has landed, taking the world by storm.
+ANCHOR 1: Fascinating. Do we know what the aliens are asking for?
+ANCHOR 2: They’ve demanded a trade.
+ANCHOR 1: A trade?
+ANCHOR 2: That's right. They want Earth’s finest FOOD in exchange for a TECHNOLOGY.
+ANCHOR 1: A TECHNOLOGY? Sounds promising. What’s the catch?
+ANCHOR 2: The catch is they want us to prove our intelligence by answering a very simple question: "What is the most popular word of today?"
+ANCHOR 1: That's so simple! You’re up for this, right?
+ANCHOR 2: Oh, absolutely. The most popular word, used by many people, kids especially, is TERM.
+Alien Siren
+ANCHOR 1: Well, sounds like the aliens are impressed. I bet they’re taking notes.
+ANCHOR 2: That’s a relief.
+ANCHOR 1: But wait! An update from the teleprompt! Now they want to hear you describe MOVIE in under ten seconds.
+ANCHOR 2: I can't do that. I have a hard enough time remembering what day it is!
+ANCHOR 1: Don’t worry, I’ll time you. Go!
+ANCHOR 2: Uh, okay. MOVIE is about PERSON who learns the meaning of ADVENTURE while fighting a ANIMAL to save their FOOD.
+ANCHOR 1: I don't think that's how that movie went.
+Alien Teleport
+ANCHOR 1: But it doesn't matter! The aliens approve of your description of MOVIE.
+ANCHOR 2: That's a relief.
+ANCHOR 1: Don't let your guard down. According to the teleprompt, they want you to explain why humans are so fascinated by ANIMAL.
+ANCHOR 2: What is this, alien kindergarten?
+ANCHOR 1: (deadpan) Just do it.
+ANCHOR 2: Okay, okay. Well, listen up, ANIMAL friends. A ANIMAL is so huggable and friend-shaped. Who wouldn't want a ANIMAL?
+ANCHOR 1: Simple yet concise. The aliens are nodding in approval...I hope.
+ANCHOR 2: Either that or they’re plotting something.
+Scifi Contraption
+ANCHOR 1: Would you look at that REPORTER!
+ANCHOR 2: What is it?
+ANCHOR 1: They sent us what they promised! It's their gift: their most prized TECHNOLOGY. I never thought I'd see such a creation.
+ANCHOR 2: Is it safe?
+ANCHOR 1: Safe enough as a TECHNOLOGY can be. After all, what’s the worst that could happen?
+ANCHOR 2: Famous last words.
+ANCHOR 1: (to camera) And there you have it, folks. Earth has survived another day.
+ANCHOR 1: If you’re watching this, grab your FOOD and prepare for the next alien encounter. Good night.
+Music Stops
+ANCHOR 2: And good luck.
+World News Outro
+
+======
+
+INFORMATION ===============================
+ID: 1369
+TITLE: Do you even lift?
+AUTHOR: Carl on Duty
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 04/01/25
+CHARACTERS ================================
+NEWGUY: The new guy at the gym:Entrance Stage Left
+SPOTBRO: The biggest guy at the gym:Entrance Stage Left
+DESKGIRL: The cute front desk girl:Behind Register
+CKAREN: Karen (Small Role):Backstage
+SKINNYBF: Skinny Ugly Boyfriend (Small Role):Backstage
+SUGGESTIONS =============================
+NGUY: Name for an average guy:Kyle, Johnny, Sam
+GRAT: Name for a big bodybuilder:Gregor, Brutus, Thor
+WONAME: Name for a workout move at the gym:Reverse Kickers, Flying Twisters, Zercher Squats
+BPN: Body part you train at the gym:Glutes, Thighs, Calves
+RBU: reason you broke up with your BF:Had pointy elbows, Stole my money, Stopped taking the meds, Cheated on me
+PED: Performance-Enhancing Drug:Steroids, Caffeine, Musk, Drugs
+STFEE: Bogus fee/charge on a bill:Annual, Insurance, Safety
+WDF: New wacky energy drink flavor:Sour Orange, Rawwberry, Shocklate
+CPT: A charming trait in a relationship partner:Quirky and Wholesome, Goofy, Funny, Low-Key, Skibidi Rizz
+SCRIPT ==========================================
+(happy music 1)
+TYPEWRITER: ;THE NEW GUY AT THE GYM AND HIS NEW FRIEND, THE BIGGEST GUY IN THE GYM, HEAD TOWARDS THE EXIT AFTER A TOUGH WORKOUT.;
+(crowd woo)
+NEWGUY: (Enter stage left) Whew, That was a tough workout! Thanks for all your help GRAT!
+Meanwhile SPOTBRO: (Enter stage left)
+SPOTBRO: No problem NGUY, When I first saw you in the gym, I saw you struggling on those WONAME. I had to step in and save you, before you snapped your BPN.
+NEWGUY: I know… I know… but with the proper form you taught me, and my renewed confidence, I feel the burn in my BPN!!
+NEWGUY: And nothing can stop me from reaching the mountain top!
+(music stops)
+SPOTBRO: Hey NGUY, I know you’re just starting out, but at some point, you really need to start thinking about taking some PED.
+(laughter)
+SPOTBRO: It will really push you to the next level.
+NEWGUY: No Way Jose! When I started this fitness journey, I made a vow to always be an honest natty lean.
+SPOTBRO: Woah dude, check out the new front desk girl, she’s pretty cute.
+NEWGUY: Woah, I’ve never seen her here before.
+NEWGUY: (Talking to GRAT) I’ve been single since I broke up with my ex. She RBU. The break-up is why I started going to the gym in the first place.
+SPOTBRO: Heh, not gonna lie, I was a smooth Casanova. back in my day, but those days are over. Now I’m committed to my Instagram Girlfriend I met last year.
+SPOTBRO: If you’re single NGUY, you should go talk to her. Just be friendly and CPT, women love that, you got this. Now Go! Break! (Push NGUY toward front desk)
+Meanwhile NEWGUY: (React to push)
+DESKGIRL: HI! Welcome to the front desk counter, How can I help you?
+Meanwhile NEWGUY: (Talking to GRAT) Hey don’t push me!
+NEWGUY: (Turn to desk girl and wave awkwardly) HI!!! I’m new to the gym… and you’re new to the gym! Wow! We have so much in common.
+DESKGIRL: Um… What?
+CKAREN:(Enter stage right EXCUSE ME!!! Excuse me! Out of my way! (push over NGUY)
+Meanwhile NEWGUY: (React to push)
+(laughter)
+CKAREN: Lady!!! I was charged an extra $50 dollars on this month’s bill. What is the meaning of this?
+DESKGIRL: Oh sorry about that… Let me just look at your bill here… Ah, Yes, that was the STFEE Fee, It only occurs once a year.
+CKAREN: The STFEE Fee?!? What kind of fool do you think I am?!? This is completely unacceptable. I need to speak to your manager immediately!
+NEWGUY: (TALK TO GRAT) Dude, I got totally roadblocked.
+SPOTBRO: No Bro! You still got this… (Thinking to yourself) I got it!… Go up to her and buy an energy drink from the counter.
+SPOTBRO: That will give you some time for small talk. Now Go !.... And don’t forget to be CPT!
+DESKGIRL: OK Karen the manager will see you now.
+Meanwhile CKAREN: (Exit stage left)
+DESKGIRL: (talking to NGUY) Sorry about that! You know how crazy Karens are!
+Meanwhile NEWGUY: (Walk to front desk)
+NEWGUY: HA HA, yeah…
+NEWGUY: (Awkwardly) … Oh… Uh… can I buy an energy drink?
+DESKGIRL: Oh sure, we just got this new flavor, it’s called WDF.
+NEWGUY: Oh wow… that’s so CPT, Yeah I’ll get the WDF drink.
+DESKGIRL: Here you go! Enjoy the drink!
+NEWGUY: Y-You too. (Awkwardly open drink and take a loud slurp)
+DESKGIRL: So… Anything else I can help you with?
+NEWGUY: Oh um…. Do you do WONAME? I can tell, because you have great BPN.
+Meanwhile SPOTBRO: (Facepalm in disappointment)
+DESKGIRL: Oh… yeah, I do WONAME with my boyfriend all the time.
+(record scratch)
+NEWGUY: Y-Your What?
+SKINNYBF:(Enter stage right) Hey Kitten, Daddy’s here. You ready to leave?
+(crowd woo)
+DESKGIRL: Hey Pookie Wookie! Yea, I’m just about to leave right now,
+NEWGUY: Wait…wait… THIS guy is your boyfriend? He looks like he doesn’t even lift!
+DESKGIRL: Yeah he is my Instagram Boyfriend I met last year. We like to workout, but we don’t make it our whole personality.
+SKINNYBF: Yeah, nice 200 pound WONAME bro! She let me hit cause I’m CPT.
+(laughter)
+DESKGIRL: Ok, I’m off the clock, let's get out of here.
+NEWGUY: W-Wait, I want another one of those WDF drinks.
+DESKGIRL: Oh… I’m off the clock now, so I don’t have to talk to you anymore. Bye!
+SKINNYBF: I’ll give you some WDF when we get home, if you know what I mean… heh heh heh.
+(laughter)
+DESKGIRL: Oh Stop!... you’re so CPT. (Exit stage right with boyfriend)
+Meanwhile SKINNYBF: (Exit stage right with desk girl)
+(aww)
+CKAREN: (ENTER STAGE LEFT) That stupid manager did not drop the STFEE fee. If I ever catch him in public, I WILL BREAK HIS BPN!...
+CKAREN: Oh well! At least I got some of those new WDF drinks at home. What a CPT name. (Exit stage right).
+(laughter)
+SPOTBRO: Oof, that was harsh…. Well NGUY, that happens to the best of us heh heh… You’ll get the next one.
+NEWGUY: Hey GRAT, I think I’m ready to start taking PED.
+(laughter)
 
 ======
 
