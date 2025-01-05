@@ -32175,7 +32175,7 @@ Meanwhile TIM: (dissapointed) Awww...
 HOST: Congratulations Charles, you have been chosen, come up here please!
 applause
 GRANDPA: Young people always have a priority.
-HOST: So, Chares, what color have you got?
+HOST: So, Charles, what color have you got?
 DAD: Uh, I got Black as my color. Seems to me there is no black around here, so this should be easy. Right, NAME?
 HOST: We'll see about that, how about one of our finest challenges?
 DAD: Mpph, to easy! I have served 4 years in the MILL. And I have all the agility knowledge you need.
@@ -41101,7 +41101,7 @@ Meanwhile MOM: Woooo!
 Teleport ENEM to Stage Left
 ENEM: Stop right there!
 ALEX: (points to the enemy) Oh no! It's a TINYBAD!
-ENEM: You shall tread more, this is BADGUY's territory! And I shall fight for him!
+ENEM: You shall not tread more, this is BADGUY's territory! And I shall fight for him!
 MOM: We have to defeat this cute little guy before the boss? Piece of cake!
 SIS: Enough talk, kill that SMALLBAD! (Aims bow and arrow
 Meanwhile ALEX: (Holds up his bat)
@@ -41139,7 +41139,7 @@ ALEX: I have got my KIND WEAPON! This is over, BADGUY!
 BOSS: (deep voice) Looks like I will have to kill you all myself! (Charges at the players)
 epic fantasy music 2
 SIS: This is it! Everyone! Let's go! (Charges at the Boss)
-MOM: (Charges at the Boss) Yaaaaaaaaaaaaaaaaaaaaaaaaaaaaah! 
+MOM: (Charges at the Boss) Yaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!
 Meanwhile TOON: (Charges at the Boss) Say goodbye, BADGUY!
 BOSS: (fighting back) You shall not prevail! I shall rule LAND! Nobody will stop me!
 Meanwhile MOM: (Stabbing Boss) We must fight! No matter what! Hi-Yah! Woo! Take this!
