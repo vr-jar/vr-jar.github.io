@@ -1844,7 +1844,6 @@ Maera֍
 SuperMegaGaster
 SoulBurner65
 SleepySheep3020
-MTF Lieutenant
 Spex2000
 ᴠᴇsᴛɪᴠɪᴀ_
 Britdust
@@ -2061,6 +2060,7 @@ Sinful Gluttony
 Dq1234dp
 ~⼕ㄚ乃㠪尺~
 Cody moonwrathe
+MTF Lieutenant
 modNick
 ruralists
 #TIER=1
