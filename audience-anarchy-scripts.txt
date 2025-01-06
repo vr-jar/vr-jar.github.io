@@ -40669,10 +40669,10 @@ TAGS: Skit
 SET: City
 DATE: 28/12/24
 CHARACTERS ================================
-JOSI: Confused detective:Stage Right
-KEI: Music Man:Backstage
-JACOB: Narrator:Backstage
-LILA: Kei's "apprentice", not a very good one though:Narrator Podium
+JOSI: Josi, The Confused detective:Stage Right
+KEI: Kei, The Music Man:Backstage
+JACOB: Jacob, The Narrator:Backstage
+LILA: Lila, Kei's "apprentice":Narrator Podium
 SUGGESTIONS =============================
 ADJECTIVE: Something a day could be:Jolly, awful, nice
 CRIME (1): A crime:Arson, burglary, 3rd degree murder
@@ -40687,7 +40687,7 @@ SCRIPT ==========================================
 Guitar Music 1
 Josi: (Grumbling) Can't even get this damn case finished for the life of me.
 Josi: NUMBER long TIME and I still can't figure out who this Music Man is, and their not slowing down either.
-Josi: (sigh) Time and time again, I get so close and yet, they seem so far. 
+Josi: (sigh) Time and time again, I get so close and yet, they seem so far.
 Josi: (Sigh) Everyday is so uneventful. (Breaking down) Why can't I just have an interesting life?
 Kei: (Loudly) Did somebody ask for... drumroll please.
 Music stops
@@ -40712,6 +40712,7 @@ Kei: (singing) Whenever life gets you down, with a big goofy frown, all you have
 Lila: (butting in) All you've gotta try in life is CRIME (1), whether committing a CRIME (2)
 Kei: (taking control back) or visiting a friends, what you don't want to do is commit a CRIME (2), but instead hide a HIDE
 Record scratch
+Music Stops
 Josi: (Suspiciously) Wait, are you guys trying to make me commit crimes... musically?
 Kei: (Nervously) What??? Nooooo... That's ridiculous. We're trying to make you commit ACTION musically. There's a MASSIVE difference.
 Lila: (butting in) You know what else is massive?
@@ -41320,6 +41321,91 @@ World News Outro
 ======
 
 INFORMATION ===============================
+ID: 1367
+TITLE: Desperate Game Mascot
+AUTHOR: Sapphire_random
+VERIFIED: True
+TAGS: 
+SET: Conference Room
+DATE: 04/01/25
+CHARACTERS ================================
+MASCOT: the desperate mascot:Stage Right
+DEV1: game developer 1:Entrance Stage Left
+DEV2: game developer two:Entrance Stage Left
+SUGGESTIONS =============================
+NEW GAME: any non-existent sequel or remaster of a game series:wario land 5, slime rancher 3, Half-Life 3,
+OTHER GAME: any existing game:Pokemon red, deep rock galactic, lethal company,
+CHARACTER: any mascot/game character:wario, sonic, Steve Minecraft
+COMPANY: any existing or made up company:nintendo, PlayStation, sony,
+PLACE: somewhere you get sent to for doing something bad:jail, a pit, the mines
+DOING SOMETHING: something you're doing in your free time:sleeping, playing games, nothing,
+GIMMICK1: any type of video game gimmick:ground pound, gigaslap, double jump
+GIMMICK2: any type of video game feature:ground pound, gigaslap, double jump
+GIMMICK3: any type of video game feature:ground pound, gigaslap, double jump
+SCRIPT ==========================================
+jazz music 2
+mascot: Alright i'm getting sick and tired of being forgotten constantly. today I'll make my stand!
+mascot: Any minute now my paid game developers should come in and we'll brainstorm ideas for my next game!
+mascot: I just hope they're original enough to be good.
+Dev1: (walks in) Alright this is the place, now where is this guy that paid us?
+dev2: (walk in with dev1) Yeah i had to stop DOING SOMETHING to be here.
+mascot: Oh good you guys made it! Please take a seat. (sits on the boss chair)
+dev1: (sits on one of the chairs) So you're the guy that called us about developing some game?
+mascot: Precisely! I need your guys's help to bring back my reputation as a video game mascot.
+dev2: Bring back your reputation? I don't even know who you are?
+waterphone
+mascot: oh right of course you don't know me. I tend to forget about that. The names CHARACTER, now let's get to brainstorming!
+mascot: So i need help on my newest game NEW GAME and I believe you guys are skilled enough to help me.
+dev1: Alright we can help after all you did pay us well.
+dev2: Yeah I guess I'll let the payout slide for interrupting my DOING SOMETHING.
+dev1: So… what do you got?
+waterphone
+mascot: W what do i got?
+dev2: Yeah man we can't make a game without ideas.
+mascot: Oh yeah.
+mascot: Ahem well I do have a few ideas for NEW GAME.
+mascot: (pulls out a small list of ideas) Lets see here. how about a GIMMICK1 it's perfect!
+dev1: Sorry to tell you this but the GIMMICK1 already exists in another game.
+dev2: Yeah bro. including that into NEW GAME can bring out a copyright claim.
+mascot: R right. ok then how about… ah! a GIMMICK2.
+record scratch
+dev1: no no NO! sorry to burst your bubble man but GIMMICK2 already exists in another game.
+dev2: yeah and if I remember correctly it's pretty controversial, causing some games to get deleted because of it.
+mascot: Crap uhm ok h how about uhh. (frantically looking at list) oh oh here we go GIMMICK3 it's perfect!
+shark tank discussion music 1
+dev1: (looks at dev2) Uhm how do we tell him?
+dev2: (looking at dev1) I don't know uh
+dev2: (looks back at mascot) Look I hate to tell you this but COMPANY would sue you and that game with something like that.
+dev1: (looking back at mascot) Yeah man I don't want to sound offensive or anything but it's almost like you're just stealing ideas?
+dev1: Like what's the deal are you desperate or something?
+mascot: (holding back tears) D desperate m me? n no I thought they were g good ideas for NEW GAME
+dev2: Are you sure man? because GIMMICK1, GIMMICK2, and GIMMICK3, are all from other games and some are pretty controversial too.
+mascot: I. I. I. (breaks down and yells at both of the devs) FINE I GIVE!!
+vine boom
+lacrimosa music
+mascot: Yes I did take those ideas from other games, I'm just desperate to be popular again!
+mascot: I'm constantly tired of being forgotten or being told I look like some other crappy character!
+mascot: I was hoping you guys wouldn't notice but I was wrong, now I look like an idiot. *sigh*
+sad chug jug music
+dev1: Wow um ok then…
+dev2: (whispering to dev1) We should probably just leave.
+dev1: Now hold on this man paid us and I'll make sure the money is used right!
+dev1: (towards mascot) Hey CHARACTER look I get that you're desperate and all but taking other ideas isn't going to help...
+mascot: I know I learned that real quick.. just leave me alone, you can keep the money.
+dev1: Hmm tell you what I can make your game with those ideas!
+vine boom
+dev2: Dude are you insane!? Are you begging to go to PLACE for eternity!?
+mascot: Y yeah didn't you say all three of my ideas were already from other games?
+dev1: Yes but I have an idea! we can change them around to a point where they are indistinguishable from the original counterpart!
+dev1: People won't even know the difference!
+happy music 1
+dev2: Well you have a point there. I've seen OTHER GAME do it before.
+mascot: R really? you do that for me?
+dev1: Yep now come on we got a game to cook up!
+
+======
+
+INFORMATION ===============================
 ID: 1369
 TITLE: Do you even lift?
 AUTHOR: Carl on Duty
@@ -41336,45 +41422,49 @@ SKINNYBF: Skinny Ugly Boyfriend (Small Role):Backstage
 SUGGESTIONS =============================
 NGUY: Name for an average guy:Kyle, Johnny, Sam
 GRAT: Name for a big bodybuilder:Gregor, Brutus, Thor
-WONAME: Name for a workout move at the gym:Reverse Kickers, Flying Twisters, Zercher Squats
+WONAME: Name for a workout move at the gym:Squat, Deadlift, Pullover
 BPN: Body part you train at the gym:Glutes, Thighs, Calves
-RBU: reason you broke up with your BF:Had pointy elbows, Stole my money, Stopped taking the meds, Cheated on me
-PED: Performance-Enhancing Drug:Steroids, Caffeine, Musk, Drugs
+RBU: reason you broke up with your GF:Stole my money, Stopped taking the meds, Cheated on me
+PED: Performance-Enhancing Drug:Steroids, Caffeine, Bath salts
 STFEE: Bogus fee/charge on a bill:Annual, Insurance, Safety
 WDF: New wacky energy drink flavor:Sour Orange, Rawwberry, Shocklate
-CPT: A charming trait in a relationship partner:Quirky and Wholesome, Goofy, Funny, Low-Key, Skibidi Rizz
+CPT: A charming trait in a relationship partner:Quirky and Wholesome, Goofy, Funny, Low-Key Rizz
 SCRIPT ==========================================
 (happy music 1)
-TYPEWRITER: ;THE NEW GUY AT THE GYM AND HIS NEW FRIEND, THE BIGGEST GUY IN THE GYM, HEAD TOWARDS THE EXIT AFTER A TOUGH WORKOUT.;
+TYPEWRITER: ;THE NEW GUY AT THE GYM IS NOW BEST FRIENDS WITH THE BIGGEST GUY IN THE GYM.;
+TYPEWRITER: ; THEY HEAD TOWARDS THE GYM EXIT AFTER A TOUGH WORKOUT.;
 (crowd woo)
+(music stops)
 NEWGUY: (Enter stage left) Whew, That was a tough workout! Thanks for all your help GRAT!
 Meanwhile SPOTBRO: (Enter stage left)
-SPOTBRO: No problem NGUY, When I first saw you in the gym, I saw you struggling on those WONAME. I had to step in and save you, before you snapped your BPN.
+SPOTBRO: No problem NGUY, When I first saw you in the gym, I saw you struggling on those WONAME.
+SPOTBRO: I had to step in and save you, before you snapped your BPN.
 NEWGUY: I know… I know… but with the proper form you taught me, and my renewed confidence, I feel the burn in my BPN!!
 NEWGUY: And nothing can stop me from reaching the mountain top!
-(music stops)
-SPOTBRO: Hey NGUY, I know you’re just starting out, but at some point, you really need to start thinking about taking some PED.
+SPOTBRO: Hey NGUY, I know you’re just starting out. but you really need to start thinking about taking some PED.
 (laughter)
-SPOTBRO: It will really push you to the next level.
-NEWGUY: No Way Jose! When I started this fitness journey, I made a vow to always be an honest natty lean.
+SPOTBRO: It will really push your lifting to the next level.
+NEWGUY: No way José! When I started this fitness journey, I made a vow to always be an honest natty lean.
 SPOTBRO: Woah dude, check out the new front desk girl, she’s pretty cute.
 NEWGUY: Woah, I’ve never seen her here before.
-NEWGUY: (Talking to GRAT) I’ve been single since I broke up with my ex. She RBU. The break-up is why I started going to the gym in the first place.
-SPOTBRO: Heh, not gonna lie, I was a smooth Casanova. back in my day, but those days are over. Now I’m committed to my Instagram Girlfriend I met last year.
-SPOTBRO: If you’re single NGUY, you should go talk to her. Just be friendly and CPT, women love that, you got this. Now Go! Break! (Push NGUY toward front desk)
+NEWGUY: (Talking to GRAT) I’ve been single since I broke up with my ex. She RBU. The break-up is why I started going to the gym.
+SPOTBRO: Heh, not gonna lie, I was a smooth Casanova back in my day. But those days are over, now I’m committed to my Instagram Girlfriend.
+SPOTBRO: If you’re single NGUY, you should go talk to her. Just be friendly and CPT, women love that.
+SPOTBRO: You got this man. Now Go! (Push NGUY toward front desk)
 Meanwhile NEWGUY: (React to push)
 DESKGIRL: HI! Welcome to the front desk counter, How can I help you?
 Meanwhile NEWGUY: (Talking to GRAT) Hey don’t push me!
 NEWGUY: (Turn to desk girl and wave awkwardly) HI!!! I’m new to the gym… and you’re new to the gym! Wow! We have so much in common.
 DESKGIRL: Um… What?
-CKAREN:(Enter stage right EXCUSE ME!!! Excuse me! Out of my way! (push over NGUY)
+CKAREN:(Enter stage right) EXCUSE ME!!! Excuse me! Out of my way! (push over NGUY)
 Meanwhile NEWGUY: (React to push)
 (laughter)
 CKAREN: Lady!!! I was charged an extra $50 dollars on this month’s bill. What is the meaning of this?
 DESKGIRL: Oh sorry about that… Let me just look at your bill here… Ah, Yes, that was the STFEE Fee, It only occurs once a year.
-CKAREN: The STFEE Fee?!? What kind of fool do you think I am?!? This is completely unacceptable. I need to speak to your manager immediately!
-NEWGUY: (TALK TO GRAT) Dude, I got totally roadblocked.
-SPOTBRO: No Bro! You still got this… (Thinking to yourself) I got it!… Go up to her and buy an energy drink from the counter.
+CKAREN: The STFEE Fee?!? What kind of fool do you think I am? This is completely unacceptable. I need to speak to your manager immediately!
+NEWGUY: (Talk to GRAT) Dude, I got totally roadblocked.
+SPOTBRO: No Bro! You still got this…
+SPOTBRO: (Thinking to yourself) I got it!… Go up to her and buy an energy drink from the counter.
 SPOTBRO: That will give you some time for small talk. Now Go !.... And don’t forget to be CPT!
 DESKGIRL: OK Karen the manager will see you now.
 Meanwhile CKAREN: (Exit stage left)
@@ -41396,7 +41486,7 @@ SKINNYBF:(Enter stage right) Hey Kitten, Daddy’s here. You ready to leave?
 (crowd woo)
 DESKGIRL: Hey Pookie Wookie! Yea, I’m just about to leave right now,
 NEWGUY: Wait…wait… THIS guy is your boyfriend? He looks like he doesn’t even lift!
-DESKGIRL: Yeah he is my Instagram Boyfriend I met last year. We like to workout, but we don’t make it our whole personality.
+DESKGIRL: Yeah he is my Instagram Boyfriend. We like to workout, but we don’t make it our whole personality.
 SKINNYBF: Yeah, nice 200 pound WONAME bro! She let me hit cause I’m CPT.
 (laughter)
 DESKGIRL: Ok, I’m off the clock, let's get out of here.
@@ -41410,7 +41500,8 @@ Meanwhile SKINNYBF: (Exit stage right with desk girl)
 CKAREN: (ENTER STAGE LEFT) That stupid manager did not drop the STFEE fee. If I ever catch him in public, I WILL BREAK HIS BPN!...
 CKAREN: Oh well! At least I got some of those new WDF drinks at home. What a CPT name. (Exit stage right).
 (laughter)
-SPOTBRO: Oof, that was harsh…. Well NGUY, that happens to the best of us heh heh… You’ll get the next one.
+SPOTBRO: Oof, that was harsh…. heh heh
+SPOTBRO: Well NGUY, that happens to the best of us… You’ll get the next one.
 NEWGUY: Hey GRAT, I think I’m ready to start taking PED.
 (laughter)
 
