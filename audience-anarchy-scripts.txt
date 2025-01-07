@@ -10368,7 +10368,7 @@ WAITER: Yes, this is PLACE, the Restaurant at the end of the World.
 DATEE: End of what?
 WAITER: The World.
 DATEE: When did that end?
-WAITER: In just a few minutes, sir. Now, let me get your DRINK. 
+WAITER: In just a few minutes, sir. Now, let me get your DRINK.
 TYPEWRITER: A couple DRINK later...
 WAITER: (Approach the table) Would you like to see the menu? or would you like meet the Dish of the Day?
 DATEE: Huh?
@@ -10409,10 +10409,7 @@ MEAT: and breed an animal that actually wanted to be eaten and was capable of sa
 DATEE: (nervous) A glass of water please
 DATER: Look, we want to eat, we don't want to make a meal of the issues.
 DATER: (sitting back down, and to the waiter) Four rare CUTOFMEAT1 please, and hurry.
-MEAT: (shift to the table) A very wise choice, sir, if I may say so. Very good, I'll just nip off and shoot myself.
-MEAT: (start to exit stage left, pause and turn back)
-MEAT: Don't worry, sir, I'll be very humane. (exit stage left)
-GUNSHOT
+MEAT: (shift to the table) A very wise choice, sir, if I may say so.
 
 ======
 
@@ -23450,7 +23447,6 @@ CHARACTERS ================================
 COP: Police Officer:Backstage
 SANTA: Santa :Chair
 SUGGESTIONS =============================
-THING: Something you shouldn’t call someone else:loser, wazzock, pimple, Vtuber enjoyer, American, human, wimp
 PET: A kind of animal:Wale, giraffe, gorilla, pikachu, sonic, doge, kitty-cat, snail
 EVIL: Something you should never do (past tense):Ate one wet cookie, Farted, Did nothing, ERP’d in Vrchat
 BAD: An evil persons name:Adolf, Darth Vader, The joker, satan, the kid from up
@@ -23510,7 +23506,7 @@ COP: I can't jeopardize my minimum wage job to cover up the fact that I EVIL.
 SANTA: Do you want your beloved pet PET to find out?
 COP: N-No..... I love my pet PET.
 aww
-SANTA: Then let me by, you rancid THING.
+SANTA: Then let me by, you rancid wimp.
 COP: No need to get personal...
 COP: (stand aside, open door for them) You promise not to tell my pet PET?
 SANTA: (walk by to the doorway) I'm Saint Nicholas. I never break a promise.
@@ -36300,8 +36296,8 @@ Detective: There’s got to be something I’m missing, but what?
 Kidnapper: (Enters stage left) Ahem.
 (thunder)
 Detective: (Gasps in shock) Wait a minute who are you? And How'd you get into my office!?
-Kidnapper: Well as you can see, the door was left wide open.
-Detective: (Angrily) Of course they did! I’ve told my partner many times to lock the damn door.
+Kidnapper: Well as you can see, the door was left wide open assuming the person passed me did that.
+Detective: (Angrily) That person is my partner and I’ve told my partner many times to lock the damn door!
 Kidnapper: Ah yes, That must be the person I passed on my way here.
 Kidnapper: Between the two of you, your partner certainly doesn’t seem to be the brighter one.
 Partner: (Walks into the office and is in shock) Uhh, my bad, I left the door open, I completely forgot.
@@ -36321,7 +36317,7 @@ Detective: Do tell.
 Kidnapper: For one, maybe those kids really did need a nap. They've been staying up too late and getting cranky.
 Detective: (Laughs) Yes, yes… real funny. But this is serious!
 Detective: (Shows the stranger the pictures) NOUN8 was playing at a nearby playground.
-Kidnapper: Ah the playground, certainly a joyous time for all parties involved.
+Kidnapper: Ah the playground, certainly a joyous place for that kid to have fun.
 Kidnapper: Truly a shame that it was apparently ruined.
 Detective: Indeed… but as you can see right here, we got a good shot of the likely suspect.
 Detective: And I had an expert get a nice closeup and enhancement of the face…
@@ -36343,9 +36339,9 @@ Kidnapper: My name is NOUN3, but don’t sound too confident just because you fo
 Kidnapper: (Punch the detective in the face once) Take that!
 Meanwhile DETECTIVE: (Take no damage from the attack)
 Kidnapper: (Shocked) How are you still standing?
-Detective: It’s elementary my dear kidnapper… I work out.
-Detective: Seeing as I am a Great detective, I'm always prepared for anything!
-Detective: Even if a criminal foolishly decides to fight back.
+Detective: Thanks for the massage, but next time, use a little more pressure.
+Detective: As I am a great detective, I'm always prepared for anything!
+Detective: Even if a criminal foolishly enough to fight back.
 Kidnapper: Go to hell you stupid detective!
 Kidnapper: You may be smart enough to solve cases, but you can’t be that strong!
 Detective: And seeing that you just screwed up trying to pull a punch on me, You’re gonna regret it!
@@ -36361,7 +36357,7 @@ Partner: (Grabs the kidnapper and drags him out the door)
 Meanwhile Kidnapper: (Screams in anger) (Get dragged off stage)
 Detective: (Sighs with relief) After six months,I finally caught them!
 Detective: (Stands up and looks out the window) I wonder what may the next case be that awaits me?
-Detective: For I am the world’s greatest detective that can solve anything!
+Detective: They can run, they can hide, but the truth always catches up.
 
 ======
 
