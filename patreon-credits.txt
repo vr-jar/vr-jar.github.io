@@ -1197,7 +1197,6 @@ Alex Murakami
 《~Asht0n~》
 Orpheus_Picaro
 RedShift_101
-004_vrc
 _Mikki
 Lukasthefloof
 Local58
@@ -2085,6 +2084,7 @@ Vee-ssom
 Zeno Fluff
 MonicaCurtis
 waff1ezz
+004_vrc
 modNick
 ruralists
 #TIER=1
