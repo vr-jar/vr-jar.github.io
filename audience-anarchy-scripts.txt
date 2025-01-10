@@ -33177,7 +33177,7 @@ JOSHUA: And if this impresses CELEBRITY, I hope they give me another chance. It 
 INFORMATION ===============================
 ID: 1052
 TITLE: The Atrocious Investigators
-AUTHOR: stonercollie
+AUTHOR: droolmeister
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -36232,6 +36232,156 @@ RADIO HOST: (Breaking the fourth wall and turning towards the audience) And you,
 RADIO HOST: Specifically you AUD ,yes you! (Point directly at them) Don’t you have something better to do than to creep on us? Disgusting honestly…
 RADIO HOST: Behave and stop creeping on random people or I’ll eat your PART as well! (laugh horrifically)
 RADIO HOST: That being said have a lovely Halloween you stalkers! And remember to be a good TEP for daddy Al! (Laugh)
+
+======
+
+INFORMATION ===============================
+ID: 1130
+TITLE: Truth or dare game show
+AUTHOR: RoboRailroad
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+DATE: 15/10/24
+CHARACTERS ================================
+HOST: Host:Host Podium
+JASON: Jason:Contestant Podium 1
+SARAH: Sarah:Contestant Podium 2
+EX-WIFE: Ex-wife:Backstage
+SUGGESTIONS =============================
+NUMBER1: literally any number:17, 69, 100
+FAMOUS: someone famous:Christ Hansen, Kanye West, Jackie Chan
+WIFE: Name for a wife:Susan, Victoria, Lora
+KID1: Name for a child:Michael, Amanda, Trevor
+NUMBER2: Any number:16, 27, 56
+EX: Name of any ex:Tara, Ava, Lana 
+DEVICE: Name for a lie detector:Secret revealer, Truth seeker 3000, detect-o-tron 420
+DAY: Any day:February 14, April 1, October 31
+FOOD: Something you can feed to your pet:Fine wine, glass sandwich, metal bar
+PLACE: Any place in the world:Eiffel tower, Taj mahal, Great pyramids of Giza
+PET: Any creature/animal:Furry, Stalnoks, Gorilla
+SCRIPT ==========================================
+(gameshow intro)
+HOST: Ladies and gentlemen welcome to this years NUMBER1 annual truth or dare game show!
+HOST: You know him you love him it's your favorite talk show host FAMOUS.
+HOST: Now let's get to know our contenders tonight (walk to contestant 1).
+HOST: What's your name my good man?
+JASON: My name is Jason, I am a father and husband to a beautiful wife.
+HOST: Ooh, a family man I see. Mind telling us about your family?
+JASON: Sure there's me, my loving wife WIFE, and my beautiful kid KID1.
+HOST: Wonderful! Now let's move to our next contestant. (walk to contestant 2)
+HOST: What about you miss? What's your name?
+SARAH: It's Sarah sir.
+HOST: Good to hear! Now can we get a little background on you, miss?
+SARAH: Sure, I'm a PET groomer and I own a cute baby PET.
+(aww)
+HOST: That's so cute! Anyways, let's get started into our first truth or dare!
+(gameshow start)
+HOST: Now Jason, truth or dare?
+JASON: You know what FAMOUS, I feel lucky I'll go with dare.
+HOST: I dare you to send a "Please take me back" message to your ex and see what happens.
+JASON: Alright, which one?
+(record scratch)
+HOST: What do you mean which one?
+JASON: I have many exes. Just give me a number.
+HOST: Ok number NUMBER2!
+JASON: Alright. The text will be sent to EX.
+HOST: Oh yeah also to make things more interesting read the texts out loud for us please.
+JASON: Alright .
+JASON: (clears throat) "Dear EX I've been single and lonely for a while..."
+JASON: "and i think that no one in the world could possibly replace your place in my heart"
+JASON: "...so please baby take me back."
+(message send)
+JASON: And now we wait.
+(gameshow ding)
+HOST: And that's a point for Jason!
+HOST: And for now, while we're waiting for EX to respond, let's move on to you Sarah! Truth or Dare?
+SARAH: I'll play it safe and say truth.
+HOST: Now audience, you might be wondering, how will we know if she tells the truth?
+HOST: (Holding a device) Introducing DEVICE! The brand new and advanced lie detector of this generation.
+HOST: Now, Sarah. Your question is: Have you feed FOOD to your PET before?
+SARAH: Yes and it was a train wreck.
+HOST: Now let's give this baby a spin (point device at Sarah).
+(raygun shot)
+HOST: ... The DEVICE says "true"! One point for Sarah!
+(gameshow ding)
+HOST: Now Jason has EX replied yet?
+(discord notification)
+JASON: Yes she just did....
+JASON: And she said (clear throat): "Dear Jason, i miss you too and i would love to meet up with you again maybe DAY?"
+(crowd woo)
+HOST: Wow! I honestly didn't expect that kind of reaction.
+HOST: She seems like my ex-wife: Clingy, and easy to make up for lost times.
+(laughter)
+SARAH: You were married before, Mr. FAMOUS?
+HOST: Yeah, and I haven't seen her since.
+(emotional piano music)
+JASON: Do you miss her sometimes?
+HOST: Yeah, sometimes. (sniffle)
+(aww)
+SARAH: Don't be sad, remember your famous and rich you can buy anything you want.
+(Music Stops)
+HOST: You're right (wipe tears).
+HOST: Anyways let's get back to the show!
+(crowd woo)
+HOST: Who were we at again?
+JASON: Me FAMOUS.
+(gameshow ring)
+HOST: Alright Jason truth or dare?
+JASON: You know what I'll go dare again.
+HOST: Ooh a real "dare" devil, huh Jason?
+(Laughter)
+JASON: What can I say? I like a little challenge.
+HOST: Ok Jason your dare is go to a dinner date with my ex-wife.
+(record scratch)
+JASON: Excuse me what?!
+HOST: You heard me impersonate me at a dinner date with my ex-wife.
+HOST: She's already getting ready better hurry up.
+JASON: Oh boy (run of set)
+TYPEWRITER: 1 dinner date later
+JASON: (Hufffing) Man that woman was crazy.
+HOST: Wow I didn't expect you to actually do that are you alright?
+JASON: Yeah just a glass bottle smashed on my head.
+HOST: (Suspicious) You weren't followed, right?
+JASON: Most likely not.
+HOST: Alright, go back to your podium.
+HOST: I guess you get a point.
+(gameshow ding)
+HOST: Now Sarah your turn is next truth or dare...
+(crashing debris)
+HOST: (Confused by sound effect) What was that?
+SARAH: I don't know. Anyone want to go check?
+JASON: Fine... I'll go... (slowly walk off set)
+HOST: While he's investigating.... Sarah, truth or dare?
+SARAH: I think I'll pick dare.
+HOST: Alright your dare is...
+(Chainsaw)
+SARAH: Was that a chainsaw?
+HOST: I think so do you think he's alright?
+SARAH: Maybe?
+JASON: (run back) Crazy lady... chainsaw...
+HOST: Calm down what are you saying?!
+JASON: Crazy lady with chainsaw chasing me.
+HOST: Oh no i know that attitude.
+EX-WIFE: (walk on stage) Oh Bartholomew...
+HOST: What's wrong with you? why do you have a chainsaw? How did you know where i was?
+SARAH: Wait your name is Bartholomew?
+(laughter)
+HOST: Does it really matter right now?
+EX-WIFE: How dare you try to fool me with that phony (point at Jason).
+JASON: Hey you know i treated you better then him.
+EX-WIFE: I mean yeah but right anyways.
+HOST: Wait what do you mean "he treated you better then me what does that mean"
+EX-WIFE: Oh you know surprise trip to PLACE, 5 star meals, you know the good stuff.
+EX-WIFE: Now time to take your heads and place them like trophies in my bone throne room.
+HOST: Before you take my head there's one last thing i need to tell you.
+EX-WIFE: Oh yeah and what can that be?
+HOST: (points at distraction) Look! a PET!
+EX-WIFE: (Looks away distracted) Where? I want one!
+HOST: Ha! Sucker (run of stage).
+JASON: Hey! Wait for me! (run of stage)
+EX-WIFE: Hey! Get back here! (run after HOST)
+SARAH: So... who won?
 
 ======
 
@@ -41500,6 +41650,78 @@ SPOTBRO: Oof, that was harsh…. heh heh
 SPOTBRO: Well NGUY, that happens to the best of us… You’ll get the next one.
 NEWGUY: Hey GRAT, I think I’m ready to start taking PED.
 (laughter)
+
+======
+
+INFORMATION ===============================
+ID: 1378
+TITLE: Past & Future
+AUTHOR: houseerikson
+VERIFIED: False
+TAGS: Skit
+SET: Forest
+DATE: 07/01/25
+CHARACTERS ================================
+ODY: Odysseus, The Voyager:Entrance Stage Left
+TIRE: Tiresias, The Prophet:Stage Right
+SUGGESTIONS =============================
+PURGATORY: A type of afterlife:Heaven, Hell, The Underworld, Valhalla
+NUMBER: Any number:600, 47, 69, 2
+MARRY: A Place you would get married:a church, a garden, a McDonalds
+SON: A name you would give a son:Billy, Jack, Tom, Timmy
+ADJ: An past tense adjective describing an action:Destroyed, Killed, Stomped, Slaughtered
+GOD: Any kind of god:Zeus, Thor, Odin, Ares
+YEARS: A number of years:5, 7, 20, 100
+NAME: Any name:Mike, Greg, Steve, Bob
+SCRIPT ==========================================
+(Epic Fantasy Music 2)
+ODY: (Enter Stage Left) At last, I've made it to PURGATORY
+TIRE: Welcome, King Of Ithaca...
+ODY: (Point at Tiresias) You...are you the prophet I've been seeking?
+TIRE: Indeed...I am Tiresias, precog of PURGATORY...
+ODY: Y'know, PURGATORY has a lot more trees than I thought it would.
+TIRE: I've been doing some gardening. It might be PURGATORY, but it's also my home.
+ODY: Alright, enough. I've come seeking your wisdom, prophet.
+ODY:I have been traveling for YEARS years alongside my NUMBER men, and we are trying to find our way home.
+TIRE: And what makes you think I'll help you, Odysseus?
+ODY: I've heard you can see into the past and future. Please, you have to tell us how to get home.
+TIRE: Maybe in a different world, but in this one, I'd rather not...
+ODY: What? Why? Were the rumors of your precognitive abilities nothing but a lie?!
+TIRE: You dare doubt my powers? I'll show you!
+ODY: Okay then, prove it! Where did me and my wife throw our wedding party?
+TIRE: (Scoffs) This is too easy. I can see your past all too well. You were married in MARRY.
+ODY: No I wasn't.
+TIRE: Wait, what?
+ODY: It was a trick question. Me and my wife didn't throw a wedding party.
+TIRE: Well, you see, uhh.....I was actually reading a different person's mind!
+ODY: Okay then...what's my son's name?
+TIRE: It's...it's uhh...uhmmm...
+ODY: Go on. What is it?
+TIRE: JUST GIMMIE A SEC, OKAY???? It's SON!
+ODY: Nope. Wrong again.
+TIRE: Aw crap...look, i-it's an off day for me! Third time's the charm!
+ODY: (Sigh) Fine...why can't me and my NUMBER men get home?
+TIRE: HAH! That's easy! The god Poseidon blocked your path and ADJ your men!
+ODY: Okay, you got one right...
+TIRE: Boom! Told you I was the master prophet!
+ODY:...but that still doesn't prove you can see the future.
+TIRE: You want me to see your future? Fine, you asked for it.
+ODY: Oh please, it can't be that bad...
+TIRE: You sacrifice your crew to the god GOD in order to see your wife again....
+ODY:....huh...?
+TIRE: You get trapped on an island for YEARS years with a lovestruck crazy lady...
+ODY: Ok, slow down, what are you going on about?
+TIRE: And after all of that, the person that returns home isn't you...
+ODY: What?!
+TIRE: YES...it is NAME, from accounting!
+ODY: Who is NAME???
+TIRE: Oh, my bad. I was reading another dude again.
+ODY: What was that, man?! That didn't help me at all!
+TIRE: Hey, you asked me to read your future. I never promised it would be anything good for you.
+ODY: You know what, forget it. I don't need you to get home. I can find it myself!
+TIRE: With that attitude, I'll be seeing you back here any day now...
+ODY:...go to hell, man. (Exit Stage Left)
+TIRE: I'm already there, idiot!
 
 ======
 
