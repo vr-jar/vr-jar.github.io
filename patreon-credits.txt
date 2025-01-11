@@ -2098,6 +2098,7 @@ AjinLV
 HoldMeQt
 droolmeister
 Nebula_Nyx
+FriezaMonkyH8er
 modNick
 ruralists
 #TIER=1
