@@ -33703,7 +33703,7 @@ VILLAIN: Looks like those dogs won't be barking any time soon!
 Epic fantasy music 1
 CAPTAIN: (Look up at Private while lying down) It's up to you now, PRIVATE!
 CAPTAIN: I have absolutely no faith in you whatsoever because you suck at everything and I hate you. But, it's all up to you, now.
-CAPTAIN: Do us all proud, kid... Charlie Morningstar's feet, here I come. (Die).
+CAPTAIN: Do us all proud, kid. Remember, these hoes ain't loyal. (Die).
 PRIVATE: CAPTAIN, NO! I'm just a rookie I can't...I... (Look at VILLAIN) Why are you doing this?!
 Teleport CAPTAIN backstage
 VILLAIN: Why am I doing this? You VRCHAT. Why would I NOT do this?!
@@ -33732,7 +33732,7 @@ PRIVATE: I dunno, I gotta ask my momma first. Are you allergic to cats?
 HOSTAGE: Are you allergic to TORTURE?
 HQ: Yes Ma'am, Just now. I saw the whole thing.
 HQ: Your kid did it, You should be proud of them...
-HQ: Ms. Sloppy-Toppy Turtle-Pounder.
+HQ: Ms. Mindless Gonzo.
 PRIVATE: Wait! HQ, you're actually talking to my mom right now?! (Exit)
 
 ======
@@ -39539,7 +39539,7 @@ DOCTOR:Then pay!
 PATIENT:Okay, (go up to DOCTOR) here, take all my money(run out of room).
 MEDIC:Good job scaring that customer.
 DOCTOR:Good job gaslighting them into thinking their BODY was broken.
-Typewriter:DOCTOR and MEDIC would go on the scam customers for another YEARS years, never getting caught. The end.
+Typewriter:DOCTOR and MEDIC would go on scam customers for another YEARS years, never getting caught. The end.
 
 ======
 
@@ -41128,7 +41128,7 @@ DATE: 30/12/24
 CHARACTERS ================================
 JESSE: The Wish Receiver:Entrance Stage Right
 PENNY: The Wish Granter:Backstage
-NARRATOR: Keeps the story from going off the rails:Narrator Podium
+NARRATOR: Narrator:Narrator Podium
 SUGGESTIONS =============================
 RELATIVE: A relative:Mom, grandpa, Uncle
 MONEY: A form of currency:Dollar, cent, penny
@@ -41332,7 +41332,6 @@ BAKED GOODS: Yummy treats you would bake in the oven:cookies, cupcakes, macarons
 FEELING: A pleasant feeling:happiness, joy, Christmas spirit, excitement
 TOYS: Things you should not give to children:knives, cigarettes', guns
 PUNISHMENT: A punishment you give when someone is bad:time-out, detention, chores
-MEAN WORD: A mean word you call someone you don't like:stupid, annoying, idiot
 GIFT: A fun gift:nunchucks, pogo stick, skateboard
 BAD PLACE: A place you do not wanna go:dungeon, scorpion tank, snake pit
 TREAT: A yummy treat:cookies, gingerbread, cupcakes
@@ -41389,7 +41388,7 @@ SANTA: (furious) YOU BOTH ARE IN BIG TROUBLE! MS. CLAUS IS GONNA GIVE YOU THE WO
 SANTA: (suddenly, intrigued) Wait, what is that heavenly smell?
 NERVOUS ELF: Um, well he should be medium rare by now
 ussr anthem music
-SANTA: (kneeling by oven) My golly, that smells delicious!! I haven’t smelled steak like that in centuries! Screw that MEAN WORD reindeer!
+SANTA: (kneeling by oven) My golly, that smells delicious!! I haven’t smelled steak like that in centuries! Screw that stupid reindeer!
 SANTA: Headlights work way better anyway! Also he was hella annoying
 NERVOUS ELF: So does that mean, no PUNISHMENT?
 SANTA: Not only that, but work is done for the day! Reindeer steak dinner for everyone!
@@ -41682,7 +41681,7 @@ TIRE: Indeed...I am Tiresias, precog of PURGATORY...
 ODY: Y'know, PURGATORY has a lot more trees than I thought it would.
 TIRE: I've been doing some gardening. It might be PURGATORY, but it's also my home.
 ODY: Alright, enough. I've come seeking your wisdom, prophet.
-ODY:I have been traveling for YEARS years alongside my NUMBER men, and we are trying to find our way home.
+ODY:I have been travelling for YEARS years alongside my NUMBER men, and we are trying to find our way home.
 TIRE: And what makes you think I'll help you, Odysseus?
 ODY: I've heard you can see into the past and future. Please, you have to tell us how to get home.
 TIRE: Maybe in a different world, but in this one, I'd rather not...
@@ -41720,7 +41719,7 @@ ODY: What was that, man?! That didn't help me at all!
 TIRE: Hey, you asked me to read your future. I never promised it would be anything good for you.
 ODY: You know what, forget it. I don't need you to get home. I can find it myself!
 TIRE: With that attitude, I'll be seeing you back here any day now...
-ODY:...go to hell, man. (Exit Stage Left)
+ODY:...go to PURGATORY, man. (Exit Stage Left)
 TIRE: I'm already there, idiot!
 
 ======
