@@ -2089,6 +2089,7 @@ Erlang Shen
 St0nedgremlin
 Camarokinkade
 xLeonEclipse
+Qibli_90
 modNick
 ruralists
 #TIER=1
@@ -2829,6 +2830,7 @@ DinoChick77
 〨Set〨
 YeetleMcDeetle
 Nebbia_952
+killerhog699
 #TIER=3
 SidMarcus
 PinballReviewer
