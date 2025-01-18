@@ -1,7 +1,7 @@
 INFORMATION ===============================
 ID: 29
 TITLE: House Party
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -125,7 +125,7 @@ Meanwhile CAT: (Hiss and run away, exit stage left) Hiss! Meow!
 INFORMATION ===============================
 ID: 30
 TITLE: American Values
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -225,7 +225,7 @@ MODERATOR: With those remarks, our debate concludes. Remember to cast your votes
 INFORMATION ===============================
 ID: 31
 TITLE: Justice Delivery
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -315,7 +315,7 @@ Meanwhile PIZZA GUY: (Leave with DETECTIVE)
 INFORMATION ===============================
 ID: 32
 TITLE: Cold Case
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -391,7 +391,7 @@ Meanwhile LADY: (Leave with the detective)
 INFORMATION ===============================
 ID: 33
 TITLE: An Accusation
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
@@ -479,7 +479,7 @@ Meanwhile PLAINTIFF: Noooooo!!!!!!
 INFORMATION ===============================
 ID: 34
 TITLE: A New Nation
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -587,7 +587,7 @@ World news outro
 INFORMATION ===============================
 ID: 35
 TITLE: Educational Emergency
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -681,7 +681,7 @@ Applause, Western Jingle 1
 INFORMATION ===============================
 ID: 36
 TITLE: Better Call Bob
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -814,7 +814,7 @@ PAPARAZZI 2: (Holding a photo) Can you please sign this picture from DEVIANTART 
 INFORMATION ===============================
 ID: 37
 TITLE: Troll Bridge
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
@@ -966,7 +966,7 @@ TROLL: (Mumbling to self) Troll need love potion for... certain activity.
 INFORMATION ===============================
 ID: 38
 TITLE: Telenovela
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1078,7 +1078,7 @@ FERNANDO: Ah, Dios mío. I deserved that.
 INFORMATION ===============================
 ID: 39
 TITLE: The Package
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1168,7 +1168,7 @@ BOBBY: Aww!
 INFORMATION ===============================
 ID: 40
 TITLE: Yer a Wizard
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1281,7 +1281,7 @@ HARRY: Okay... (Wiping away a tear) Let's go. (Leave with HAGRID out the door)
 INFORMATION ===============================
 ID: 41
 TITLE: Give Thanks
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -1386,7 +1386,7 @@ SON: (To FATHER) Dad, what's a HONKERS?
 INFORMATION ===============================
 ID: 42
 TITLE: Welcome to Wizard Town
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -1490,7 +1490,7 @@ Meanwhile SORCERER: (Laughing and high-fiving WIZARD)
 INFORMATION ===============================
 ID: 43
 TITLE: Check this Out
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1623,7 +1623,7 @@ Thunder
 INFORMATION ===============================
 ID: 44
 TITLE: Spy Gear
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -1700,7 +1700,7 @@ Spy ending sting
 INFORMATION ===============================
 ID: 45
 TITLE: Ultimate Weapon
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -1802,7 +1802,7 @@ Gong
 INFORMATION ===============================
 ID: 46
 TITLE: Spicy Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
@@ -1897,7 +1897,7 @@ Gameshow Outro
 INFORMATION ===============================
 ID: 47
 TITLE: Wrong Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2026,7 +2026,7 @@ Gameshow outro
 INFORMATION ===============================
 ID: 48
 TITLE: Australiens
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
@@ -2147,7 +2147,7 @@ BOB: (Look around, drink beer)
 INFORMATION ===============================
 ID: 49
 TITLE: Positive Results
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -2233,7 +2233,7 @@ DOCTOR: Tell him to come in for a treatment. I know a guy with these pills... we
 INFORMATION ===============================
 ID: 50
 TITLE: Noise Complaint
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
@@ -2349,7 +2349,7 @@ Meanwhile HUSBAND: (Exit stage left with WIFE)
 INFORMATION ===============================
 ID: 51
 TITLE: Duel
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -2459,7 +2459,7 @@ Meanwhile MANAGER: Why you little... (Chase BOBBY out of the store)
 INFORMATION ===============================
 ID: 52
 TITLE: Camping
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -2559,7 +2559,7 @@ JENNY: Aw... thanks big bro!
 INFORMATION ===============================
 ID: 53
 TITLE: Questionable Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2664,7 +2664,7 @@ HOST: Don't go anywhere folks, we've got more ethical questions after these mess
 INFORMATION ===============================
 ID: 54
 TITLE: Food Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2782,7 +2782,7 @@ HOST: (To audience) that's all for tonight folks! See you next time on... "Eat T
 INFORMATION ===============================
 ID: 55
 TITLE: Noisy Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2855,7 +2855,7 @@ HOST: (To audience) See you next time on... "Impersonate that Animal!"
 INFORMATION ===============================
 ID: 56
 TITLE: Pokémon Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
@@ -2957,7 +2957,7 @@ HUMAN: Uh, can anyone give me a ride home?
 INFORMATION ===============================
 ID: 57
 TITLE: Lucky Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -3054,7 +3054,7 @@ HOST: See you next time folks, on... GUESS THAT THING! Goodnight!
 INFORMATION ===============================
 ID: 58
 TITLE: Gamer Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
@@ -3138,7 +3138,7 @@ HOST: See you next time folks, on... GUESS THAT THING! Goodnight!
 INFORMATION ===============================
 ID: 59
 TITLE: Trivia Gameshow
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -3231,7 +3231,7 @@ HOST: See you next time folks, on... GUESS THAT THING! Goodnight!
 INFORMATION ===============================
 ID: 60
 TITLE: Tool Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
@@ -3310,7 +3310,7 @@ BILLY MAYS: Supplies are limited, so you gotta call now!
 INFORMATION ===============================
 ID: 61
 TITLE: Magic Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -3401,7 +3401,7 @@ BILLY MAYS: But you gotta call now.
 INFORMATION ===============================
 ID: 62
 TITLE: Clean Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
@@ -3481,7 +3481,7 @@ BILLY MAYS: Don't just sit there, pick up that phone and get yourself some sweet
 INFORMATION ===============================
 ID: 63
 TITLE: Ultimate Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -3576,7 +3576,7 @@ BILLY MAYS: What are you waiting for? Pick up the phone and place your order now
 INFORMATION ===============================
 ID: 64
 TITLE: Toast Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -3668,7 +3668,7 @@ BILLY MAYS: Just call the number on your screen today.
 INFORMATION ===============================
 ID: 65
 TITLE: Leak Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
@@ -3737,7 +3737,7 @@ BILLY MAYS: Dial the number on your screen and get your ADJECTIVE hands on Magic
 INFORMATION ===============================
 ID: 66
 TITLE: Helpful Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Bathroom
@@ -3777,7 +3777,7 @@ BILLY MAYS: MORBs and conditions apply.
 INFORMATION ===============================
 ID: 67
 TITLE: Dog Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial
 SET: Living Room
@@ -3864,7 +3864,7 @@ TIMMY: Yay!
 INFORMATION ===============================
 ID: 68
 TITLE: Shiny Infomercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Living Room
@@ -3946,7 +3946,7 @@ BILLY MAYS: This is officially a ransom threat. Scooby from Scooby-Doo WILL enc
 INFORMATION ===============================
 ID: 69
 TITLE: We demand it
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -4019,7 +4019,7 @@ Applause
 INFORMATION ===============================
 ID: 70
 TITLE: Diagnosis
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -4111,7 +4111,7 @@ HELPER: Me say. DOLLARAMOUNT dollars.
 INFORMATION ===============================
 ID: 71
 TITLE: Amazon
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -4213,7 +4213,7 @@ Western Jingle 1
 INFORMATION ===============================
 ID: 72
 TITLE: Secret Message
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4316,7 +4316,7 @@ TYPEWRITER: Operation ORDERABLE ITEM;STATUS: SUCCESS
 INFORMATION ===============================
 ID: 73
 TITLE: It's Me
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit,Contains Adult Innuendo
 SET: Living Room
@@ -4411,7 +4411,7 @@ SUPERROBOT: Oh. Yes it is. (Dies)
 INFORMATION ===============================
 ID: 74
 TITLE: Playroom
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit,Contains Adult Innuendo
 SET: Interrogation Room
@@ -4503,7 +4503,7 @@ BECKY: Ugh! you're such a WIMPY-NAME, John.
 INFORMATION ===============================
 ID: 75
 TITLE: Improvement
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Hardware Store
@@ -4580,7 +4580,7 @@ CHAOS LORD: Mwahahaha! (Noticing a sale on toilets) ooo... 50% off all toilets? 
 INFORMATION ===============================
 ID: 76
 TITLE: Your finest wares
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Hardware Store
@@ -4665,7 +4665,7 @@ CLERK: I'm fired? (Sad) Aw man.
 INFORMATION ===============================
 ID: 77
 TITLE: Request
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Interrogation Room
@@ -4750,7 +4750,7 @@ COP: That's the taste of justice, my friend.
 INFORMATION ===============================
 ID: 78
 TITLE: Intervention
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4828,7 +4828,7 @@ PERSON: (Shrugging) oopsies!
 INFORMATION ===============================
 ID: 79
 TITLE: Ghost
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4919,7 +4919,7 @@ WIFE: (Taken aback) Sorry, sorry! I can't help it... it's just so... you know...
 INFORMATION ===============================
 ID: 80
 TITLE: Clown
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4998,7 +4998,7 @@ CLOWN: And spoil the punch line? No way.
 INFORMATION ===============================
 ID: 81
 TITLE: Bone Dry
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Conference Room
@@ -5072,7 +5072,7 @@ BOSS: See ya Friday! (Exit)
 INFORMATION ===============================
 ID: 82
 TITLE: Just Toast
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -5147,7 +5147,7 @@ FIRST RESPONDER: Hello, headquarters? We got a problem...
 INFORMATION ===============================
 ID: 83
 TITLE: Bardic Inspiration
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Forest
@@ -5233,7 +5233,7 @@ HAPPY BARD: Thank you, thank you, you're too kind.
 INFORMATION ===============================
 ID: 84
 TITLE: Buy, Buy, Buy
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Conference Room
@@ -5297,7 +5297,7 @@ Meanwhile BOSS: Don't let the door hit you on the way out.
 INFORMATION ===============================
 ID: 85
 TITLE: What's Cookin'?
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -5357,7 +5357,7 @@ SALESPERSON: Call now while supplies last!
 INFORMATION ===============================
 ID: 86
 TITLE: Scam
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -5432,7 +5432,7 @@ BOB: (Walk slowly off stage, crying)
 INFORMATION ===============================
 ID: 87
 TITLE: Robot Informercial
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -5490,7 +5490,7 @@ Infomercial disclaimer
 INFORMATION ===============================
 ID: 88
 TITLE: Wizard Encounter
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Forest
@@ -5587,7 +5587,7 @@ KNIGHT: This is LIQUID!
 INFORMATION ===============================
 ID: 89
 TITLE: Fantasy Insurance
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Forest
@@ -7045,7 +7045,7 @@ DUNGEON MASTER: (Off stage) Get out of my house or I'm calling the cops!
 INFORMATION ===============================
 ID: 121
 TITLE: DEBUG SCRIPT
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Debug,Skit
 SET: Western
@@ -8456,7 +8456,7 @@ SUPER HERO: (Opens Door) I can't believe that VILLAIN left the door unlocked for
 INFORMATION ===============================
 ID: 181
 TITLE: Detention
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -8544,7 +8544,7 @@ CHRIS: FOOTBALL, here I come! Yeet! (Exit)
 INFORMATION ===============================
 ID: 183
 TITLE: Deep Cover Dinner
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -16008,7 +16008,7 @@ Ivan: Ugh..I hate my life.
 INFORMATION ===============================
 ID: 524
 TITLE: We Do Things Old School
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -16086,7 +16086,7 @@ SAMMY: Awww man.
 INFORMATION ===============================
 ID: 526
 TITLE: The Tomato Timeline
-AUTHOR: Jar
+AUTHOR: Jar2
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -41653,6 +41653,201 @@ NEWGUY: Hey GRAT, I think I’m ready to start taking PED.
 ======
 
 INFORMATION ===============================
+ID: 1371
+TITLE: Kooky Enchanted Lady Next Door
+AUTHOR: Holliella
+VERIFIED: True
+TAGS: Skit
+SET: Backyard
+DATE: 05/01/25
+CHARACTERS ================================
+AGGIYA: Miss Aggiya:Stage Left
+MRSP: Missus Pigeon:Grill
+ZOEI: Babygirl Zoei:Sandbox
+DADAP: Daddy Pigeon:Entrance Stage Right
+STEVEN: Steven the Neighbor:Backstage
+SUGGESTIONS =============================
+STENCHY: Description of someone weird:messy, smelly, coocoo
+UNIQUE: An elegant recoil:feisty, luxurious, evangelical
+STRONG: Description of daddy:honest, strong, unmatched
+PEEK: Personality description:random, funny, incredible
+NICE: Baby noises:maka maka, uwu, ahhhhh....
+CUTE: Description of someone cute:scrumptious, cutie, adorable 
+ALOHA: A great way to say hi or hello:hey there, hello, how's it going
+COOL: Cool term the youth are saying nowadays:rad, epic, cray cray
+TOWN: The town's name:cooksville, ellensquare, tenderland
+DARK: Description of a witch:creepy, insane, twisted
+MUNDANELY: A strange normal adjective to say:spontaneous, really, horribly
+COOKIES: Phrase said by a baby:beezu, ladalada la, heehooheehoo
+SCRIPT ==========================================
+jazz music 2
+AGGIYA: (Tends to crops, pulls out weeds) I gotta get these weeds out of my garden.
+forest footstep
+AGGIYA: Do-do-do-dooo.... lalalala laaa...
+ZOEI: (Playing in the sandpit) mmm NICE
+MRSP: Zoeiiiii, I hope you're having fun!
+ZOEI: (Playing) hehehee...
+DADAP: (Walks out the house and goes to cook on the grill) Time to get grilling!
+MRSP: Oh look, it's dada!
+ZOEI: Dadddyyyy!!!!
+DADAP: (Goes to hug Zoei) Hello little Zoei!
+DADAP: (Kisses Missus Pigeon on her left cheek)
+Meanwhile MRSP: (Pleasantly hums)
+aww
+DADAP: Who is that new neighbor we've got?
+MRSP: I believe that is the new one, Miss Aggiya, or so I've heard...
+DADAP: She seems a little... uhh... STENCHY.
+MRSP: (Dreamily) Oh well... I think she seems UNIQUE.
+DADAP: (Making the food) Oh yes... that's nice honey...
+laughter
+MRSP: I think we should go to introduce ourselves...
+AGGIYA: (Waving) Awh howdy neighbor!!
+MRSP: Hello there! Miss Aggiya, is it?
+AGGIYA: (Nods gratefully) Yes, that's me!
+MRSP: Very nice to meet you! I am Missus Pigeon and this is my husband Daddy Pigeon. (points to Daddy Pigeon)
+AGGIYA: (Happily) Very nice to meet you, Mister and Missus Pigeon.
+aww
+DADAP: (Walks up to them) Nice to meet you, Missy.
+AGGIYA: (Beamingly) Well you as well.
+AGGIYA: (Walks to Zoei and bends down) And who's this little pumpkin?
+AGGIYA: She is so CUTE!
+ZOEI: BABA!
+MRSP: That is our little girl, Zoei!
+crowd woo
+AGGIYA: Awww, she's CUTE!! (squeezes her right cheek with fingers)
+DADAP: (Takes baby, nervously) Well, you know, kids could be pretty CUTE.
+Meanwhile ZOEI: (Daddy takes you)
+MRSP: (Bashfully) Yes, our babygirl is very CUTE.
+AGGIYA: Well, I can see...
+AGGIYA: Well, aren't you STRONG!
+DADAP: (Poses confidently) Well I guess I am a pretty cool dad..
+music stops
+jazz music 1
+STEVEN: (Enter) ALOHA neighbors!
+MRSP: Oh hello, Steven!
+Meanwhile DADAP: Oh hello, Steven!
+STEVEN: Hey, it sure looks like it's looking pretty COOL today! !!
+laughter
+MRSP: (Laughs)
+meanwhile DADAP: (Laughs)
+DADAP: Aha.. (Goes back to the barbecue)
+Meanwhile STEVEN: (Looks at and sees the new neighbor) I believe we haven't met.
+STEVEN: I'm Steven, one of the neighbors in the neighborhood. My home is over there! (points at house in the distance)
+AGGIYA: Hello there Steven, I'm Miss Aggiya.
+AGGIYA: Quite a PEEK guy you are, if I do say so myself! (chuckles)
+STEVEN: (Chuckling more and more awkwardly) Ha, ha... yeah...
+DADAP: Heya Zoei.. (Play with Zoei in the sandbox)
+meanwhile ZOEI: (Playing by sandbox) Aha..
+MRSP: Hello.. (Plays with Zoei and Daddy in the sandbox, without noticing others)
+music stops
+mystery music 1
+STEVEN: (Suspicious, talking in a low voice to Aggiya) Who... what are you?-
+AGGIYA: Maybe this will explain it. Behold my transforming outfit! (Spin around magically transforming your clothes)
+AGGIYA: I'm the sharpest most wonderful lady in TOWN! (Dramatic pose)
+crowd woo
+STEVEN: You... y-you're a DARK witch! (Gulps, scared)
+waterphone
+AGGIYA: Shhhh. (Casts enchanting spell on him)
+magic sound
+STEVEN: (Enchanted by spell) Haha ha, haa.... (Walk around goofily)
+music stops
+DADAP: (Notices STEVEN acting strange) ...Hm?
+AGGIYA: (Playfully) Oh, don't worry, he's just a little MUNDANELY drunk ..
+MRSP: (Shocked to see Aggiya now dressed in a pretty dark gown) And what's-
+record scratch
+DADAP: How did she do that-??
+scary music
+MRSP: Oh no..
+STEVEN: (Giggling, wobbles away offstage)
+AGGIYA: (Gleefully and calmly walks towards the family) Hehe...
+piano theme
+DADAP: (Hides behind Missus Pigeon) M-mm..
+AGGIYA: (Walks close to Missus Pigeon) Would you like to see a magic trick?
+ZOEI: (Steps in front of mama Pigeon, facing Aggiya)
+meanwhile AGGIYA: (Steps back as Zoei steps in front)
+music stops
+ZOEI: Baba-ha-COOKIES!!
+AGGIYA: Oo, it looks like baby Zoei wants a pretty dress like me!
+AGGIYA: Ready? (strokes magic hand)
+magic sound
+ZOEI: Huh? (Looks down to see a CUTE pretty dress on)
+tada
+ZOEI: (Giggling) Magic magic! (dances in circles)
+MRSP: Wow! You gave her a CUTE pretty dress!
+DADAP: Wow- you gave our girl a really pretty dress!
+MRSP: (Laughs, dances, and giggles with the baby)
+meanwhile DADAP: (Laughs, dances, and giggles with the family)
+bluegrass music
+AGGIYA: (Walks center stage and looks towards the audience) Still got it!
+AGGIYA: (Super exaggerated wink) Wink!!
+AGGIYA: (Begins to dance with everyone else, not stopping) Aha, yeah!
+MRSP: WoooOooo!!
+DADAP: Wowwwwiee!!!
+
+======
+
+INFORMATION ===============================
+ID: 1376
+TITLE: R.I.P MAD
+AUTHOR: APSI-wizard
+VERIFIED: True
+TAGS: 
+SET: Classroom
+DATE: 06/01/25
+CHARACTERS ================================
+BEN: BEN DOVER:Desk 1
+MIKE: MIKE HAWK:Desk 2
+SUGGESTIONS =============================
+INVENTION: A machine that you wish existed:candy for horses, NVIDIA GeForce RTX 9000, a car but chunkier
+ADJECTIVEY:  A personality-describing word:easily spooked, upsetti spaghetti, stronk, insatiable (for cocoa puffs)
+CLOTHING: Any article of clothing:crispy sock, banana hammock, lobster blanket, hat for kids
+MONUMENT: A monument or other important structure:bronycon ball pit, The Black Cat, Egyptian pyramids, Shrek church
+LITERALLY ANYTHING: Literally anything:krispy kreme donuts, Among Us
+CELEBRITY: A celebrity-type person:Snoop Dogg, Jeff Bezos, Ariana Grande
+NICKNAME: Any nickname:goffy ah, lars, fortnite ballz wascher 69
+SCRIPT ==========================================
+70s music
+BEN: Ugh, where’s the teacher? We’re gonna be here forever at this rate!
+MIKE: At least we’ve got time to kill. What should we do?
+BEN: Let’s play a game. I’m thinking we should use the INVENTION I’ve been working on!
+MIKE: (Laughs) I’m not playing with that thing. But I’m up for something else. Let’s do something ridiculous, like throw this CLOTHING across the room.
+BEN: (Grin) Oh, that’s too easy! We’ll throw it to see who can hit the teacher’s desk first.
+MIKE: You’re so weird, but fine, I’m in. I bet you can’t even get it past my ADJECTIVEY dodge skills.
+BEN: (Throw the clothing) There! You didn’t expect that, did you?
+MIKE: (Dodge) Okay, that was pretty good. But my skills are superior. I can beat you at this any day!
+BEN: You really think you can beat my LITERALLY ANYTHING skills? Let’s see about that!
+MIKE: (Chuckles) I’ll be the judge of that. You know, I’ll bet you can’t even get it to land on the MONUMENT.
+BEN: (Grin) Watch and learn! This will land perfectly on the MONUMENT.
+MIKE: (Laughs) You’re insane. But I’ll give you credit if you pull this off.
+BEN: (Throw the object) Yes! Nailed it! And now we’re officially the most creative students in the room.
+MIKE: Okay, okay, you win. But only because I was distracted by your CELEBRITY status.
+BEN: What can I say? I’ve got the charm. But enough distractions, let’s race across the room in our chairs.
+MIKE: A chair race? That’s the best you’ve got?
+BEN: Yep! I’m ready. But first, I need to make sure I have the right CLOTHING for this.
+MIKE: You seriously brought extra clothes for this?
+BEN: (Grin) Always prepared. You never know when a race will break out, especially when there’s a MONUMENT at the end.
+MIKE: Alright, alright. I’ll take your word for it. But I’m still gonna win.
+BEN: We’ll see about that! Ready... set... go!
+MIKE: (Pushes off, racing toward the door) You’re not gonna catch me!
+BEN: (Shouts) I’m gonna win! I’m so fast, I should be a CELEBRITY!
+MIKE: (Laughs) Keep dreaming, Ben! I’ve got this!
+BEN: (Zoom past Mike) Not today, buddy. I’m in the lead now!
+MIKE: (Push harder) Not if I can help it!
+BEN: (Beat Mike to the door) Yes! I win! You owe me lunch!
+MIKE: (Panting) Fine, you win. But I’ll get you next time, you smug NICKNAME.
+BEN: (Grin) You’re gonna owe me lunch for a week.
+MIKE: We’ll see about that. But for now, let’s pretend we were working on something useful.
+BEN: (Throw a paper airplane) We’ve been reviewing the MONUMENT for a solid hour, for sure!
+MIKE: Yeah, totally. I mean, look at this INVENTION I just created. It’s perfect for class.
+BEN: (Pretend to be serious) We are the model students. Who needs a teacher anyway?
+MIKE: (Laughs) Yeah, right. We’ll make it look like we’ve been super productive.
+BEN: (Pick up a random paper) Here, I’ll leave this on the teacher’s desk. It’s a solid LITERALLY ANYTHING assignment.
+MIKE: (Nods) Definitely a masterpiece. The teacher will never know we were playing around.
+BEN: (Grin) Exactly. We’re just too good at this.
+
+======
+
+INFORMATION ===============================
 ID: 1378
 TITLE: Past & Future
 AUTHOR: houseerikson
@@ -41721,6 +41916,380 @@ ODY: You know what, forget it. I don't need you to get home. I can find it mysel
 TIRE: With that attitude, I'll be seeing you back here any day now...
 ODY:...go to PURGATORY, man. (Exit Stage Left)
 TIRE: I'm already there, idiot!
+
+======
+
+INFORMATION ===============================
+ID: 1379
+TITLE: Hear me out!
+AUTHOR: kiro-sage
+VERIFIED: True
+TAGS: 
+SET: Living Room
+DATE: 08/01/25
+CHARACTERS ================================
+TIM: Tim the Smart one:Entrance Stage Left
+RICK: Rick the hippy:Couch
+FLIRT: The Loving Date:Backstage
+SUGGESTIONS =============================
+WENDYS: Name for a Resturant:Walters Skeletal meal, Killas Short-Cake, Fortnite fish fried fish
+TINDER: Name for an interesting Dating app:Love-Muffin, Date yoinker, Stalker tracker, Yip-Yip UwU Kissy cutie Smoocher
+EVIL: A nefarious human trait:Good at kidnapping, Short and Malicious, Straight, Addicted to love
+CUTIE: A loving and cute nickname:Cutie-Patootie, markimoo, loo-loo bunny,
+CARTOON: name a cartoon:You taking quack?, falling gravity, venoms whacky thursday
+TRAIT: A personality trait:Loving, Fishy, Freaky, Venomous
+SCRIPT ==========================================
+jazz music 1
+TIM: (enters stage) Hey there, Rick. What’re you up to?
+Meanwhile RICK: (sitting on the couch)
+RICK: (a little anxious) Oh, you know, just watching CARTOON. Nothing too special.
+meanwhile FLIRT: (you are a TRAIT and flirty date)
+TIM: (suspicious) Uh-huh... Right. Then why are you so antsy?
+RICK: Oh, it’s nothing. Just good ol’ perfectly fine Rick over here. Heh-heh.
+TIM: Got it... Well, I was thinking of getting some WENDYS for dinner.
+RICK: Uh yeah, cool, dude. Uhm, just gimme like a couple of minutes... Or maybe an hour.
+Music stops
+TIM: Alright, there is no way you’re okay. I mean, your watching CARTOON. Why are you so anxious?
+RICK: Alright, it’s just... Ya know how I’ve been looking for love?
+TIM: Rick, you’ve been looking for love for seven years. I thought you gave up.
+RICK: Well, I finally met someone.
+telenovela music 3
+RICK: I was playing TINDER Tim when I found her. The love of my life Tim
+TIM: Whoa, whoa, whoa. You found her through TINDER?
+RICK: Yeah, dude. She’s perfect.
+TIM: Didn’t one of your friends get taken by some monster he met on TINDER?
+RICK: Well, yeah, but there’s no way she would do that.
+RICK: She’s kind, she’s TRAIT, she’s... incredibly EVIL. Come on just hear me out.
+TIM: (sighs) Fine. I’m going to hear you out. (pulls out weapon)
+RICK: (stands up, scared) Whoa, hey, Tim! What’s with the weapon...?
+TIM: Well, my generous agreement to listen to you comes at a price.
+RICK: Dude, it’s not going to be like that. It’s fine. You can trust me.
+Meanwhile FLIRT: (stands behind right stage door)
+Music stops
+doorbell
+RICK: Heh-heh, that should be her. (backs up and opens the door)
+waltz music
+FLIRT: (enters stage TRAIT) Hey there, Rick, you CUTIE. Get over here. (hugs Rick)
+FLIRT: (TRAIT) Aaww were you watching CARTOON? That's so kawaii!
+FLIRT: (TRAIT) Oh, and who’s your little friend over here? Is he a friend or a brother?
+RICK: Oh, heh. That dude is just Tim. He’s just my roommate uhh. Come on lets head to WENDYS... Like right now.
+FLIRT: (TRAIT) Aaawww. So you’re my CUTIE’s roommate. Heh-heh. You look so handsome and nerdy.
+FLIRT: (TRAIT) Alright lets get going. I want to show you how EVIL I am
+Music stops
+TIM: (takes a deep breath) Hey, uh miss.
+TIM: May you please excuse me and Rick for a moment?
+FLIRT: Sure thing. Just don’t take my CUTIE too long. I can’t wait forever. He-he. (walks backstage)
+RICK: (panicking) Hey, Tim, we can talk about this.
+Meanwhile TIM: (turns to Rick)
+waterphone
+RICK: Come on, dude. Just hear me out. She is an absolute 10.
+TIM: (sighs) No. I don’t think I’m going to hear you out anymore. (readies weapon)
+RICK: (runs backstage left) Crap, crap, crap, crap!
+TIM: (chases after Rick) Get back here, you sorry excuse for a man!
+
+======
+
+INFORMATION ===============================
+ID: 1384
+TITLE: Hero Sitcom
+AUTHOR: ItsAtlas23e2
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 10/01/25
+CHARACTERS ================================
+HERO: The hero:Stage Left
+EVIL: The villain:Entrance Stage Left
+DATE: The hero's date:Center Stage
+SUGGESTIONS =============================
+NAME1: The name of a superhero:Guardian Prime, Shadowstrike, Solarflare, Thunderbolt, Iron Sentinel, Mystic Shade, Starforge, Crimson Vortex, Phantom Blade, Zephyrwing, Nightshade, Apex Sentinel, Radiant Nova, Frostbite, Blazeheart, Titanforge, Luminous Arrow, Voidwalker, Spectral Warden, Stormbreaker
+NAME2: The name of a supervillain:Dreadshade, Dark Nexus, Bloodspire, Shadowlord, Venomous Fang, Chaos Warden, Infernal Wrath, Steel Viper, Midnight Reaper, Crimson Monarch, Void Tyrant, Maliceforge, Black Inferno, Frost Revenant, Obsidian Overlord, Venomclaw, Sinister Geist, Nightmare Warden, Tempest Fury, Eclipse Phantom
+NAME3: A name:Alex Harper, Emma Brooks, Ryan Cooper, Lily Monroe, Jason Blake, Sophie Reed, Tyler Bennett, Ava Collins, Ethan Carter, Mia Sanders, Connor Hughes, Emily Dawson, Dylan Parker, Chloe Hayes, Noah Sullivan, Grace Miller, Lucas Adams, Olivia Foster, Nathan Mitchell, Sarah Turner
+MOVIE: The name of a movie:The Dark Horizon, Galactic Revolt, Shattered Dreams, The Eternal Quest, Phantom Shadows, Echoes of Destiny, Rise of the Fallen, Infinity's Edge, Crimson Skies, Lost in Time, The Last Ember, Shadow of the Moon, The Silent Reckoning, Steelheart Warriors, Beyond the Veil, Flame of the Ancients, Under the Starry Veil, The Forgotten City, Throne of the Gods.
+RESTAURANT: The name of a restaurant:The Golden Spoon, Olive Grove, Sunset Bistro, Crimson Fork, Ocean Breeze Grill, Sapphire Table, Velvet Olive, Copper Lantern, The Rustic Plate, Ember Flame Steakhouse, The Cozy Nook, Pineapple Palace, Starlight Café, Harvest Moon Diner, Bluebell Bistro, Urban Feast, The Maple Leaf, Iron Skillet, Serene Garden, Crescent Moon Eatery
+CLOTHING: An article of any clothing:T-shirt, jacket, sweater, jeans, hoodie, skirt, shorts, blouse, dress, vest, leggings, scarf, beanie, socks, boots, sneakers, belt, cardigan, overcoat, polo shirt
+CATCHPHRASE: A catchphrase:Slap me with a spaghetti noodle, I'm on a rollercoaster of chaos, Don’t touch my rubber chicken, I’m out here living in a waffle, Flip the pancake, it’s time to party, Grab the toaster, we’re going to space, Who needs a map when you have spaghetti, The llama is my spirit animal, Let’s throw glitter at the sun, I just rode a tornado on a unicycle, Taco trucks for everyone
+MYCATCH: A catchphrase:Flap my pancakes and call me Bob, I’m on a rollercoaster of spaghetti, don’t pet the iguana, bananas are my spirit animal, who let the jellyfish drive, I’m a cactus in a snowstorm, put the rubber chicken in the blender, waffles for president, don't step on the taco, the toaster is my best friend, I’ve got 12 cupcakes and a kazoo, let’s ride the toaster into oblivion, I’m a ninja penguin on a sugar high, slap the pickle and let’s roll, it’s raining waffles and I forgot my umbrella
+FOOD: Food:Pizza, burger, sushi, pasta, tacos, pancakes, salad, ice cream, fries, lasagna, steak, burrito, donut, sandwich, chicken wings, pancakes, omelette, cupcakes, spaghetti, nachos
+MIRACULOUS: Villainous adjective:Menacing, Diabolical, Ruthless, Sinister, Malevolent, Tyrannical, Vicious, Cunning, Cruel, Corrupt, Malicious, Wicked, Savage, Treacherous, Fearsome, Devious, Terrifying, Nefarious, Merciless, Destructive
+SCRIPT ==========================================
+(dark classical music)
+HERO: Alright, NAME3, are you ready? We're heading out in a bit.
+DATE: Almost ready, NAME1, I'm just putting on my CLOTHING.
+HERO: We might miss our screening of MOVIE, hurry up!
+DATE: CATCHPHRASE
+(laughter)
+HERO: MYCATCH
+(laughter)
+DATE: Well, we better get going. We don't want to miss our reservations at RESTAURANT! I've been craving FOOD.
+HERO: You crave everything.
+(laughter)
+DATE: That's rich, coming from you.
+(laughter)
+HERO: MYCATCH
+(laughter)
+(doorbell)
+HERO: Who could that be at this time? I'm not expecting anyone. MYCATCH!
+(laughter)
+EVIL: (Enter Stage LEFT) Tis' I, the MIRACULOUS NAME2!
+(crowd woo)
+(double bass music)
+HERO: Are you serious!? Right now!? I was going to go on a date with NAME3!
+HERO: We were going to go to RESTAURANT and then watch MOVIE at the cinema!
+HERO: Have you no decency to send me a text or maybe even an email!?
+(laughter)
+HERO: Do you know how annoying it is when I make plans and then you show your pasty face,
+HERO: announcing that you're going to take over the world or do some evil thing
+HERO: I couldn't give less of a crap about anymore at the same time that I have plans to maybe,
+HERO: I don't know, have some me time!?
+EVIL: Oh. I... I'm sorry?
+HERO: You better be, NAME2! Now I'm pretty sure NAME3 and I have missed our reservations at RESTAURANT! I wonder how seeing MOVIE will go!
+DATE: I can't believe you, NAME1. It's always on date night when you fight NAME2. I'm tired, NAME1. I can't take this anymore.
+HERO: No, NAME3, wait!
+DATE: It's over, NAME1. I need someone who can treat me like the princess I am. (Exit Stage LEFT)
+(laughter)
+EVIL: Haha, she left your ass.
+(laughter)
+(epic fantasy music 3)
+HERO: That's enough, NAME2! I'll have my revenge for what you did for me!
+EVIL: Wait, we can still catch the movie!
+(laughter)
+(happy music 1)
+HERO: Wait, you want to go with me?
+EVIL: Sure, I mean I did just turn you single.
+HERO: MYCATCH
+(laughter)
+EVIL: CATCHPHRASE
+(laughter)
+
+======
+
+INFORMATION ===============================
+ID: 1393
+TITLE: The Real Enemy
+AUTHOR: zanbbit
+VERIFIED: False
+TAGS: Skit
+SET: Courtroom
+DATE: 13/01/25
+CHARACTERS ================================
+JUDGE HORI: The Completely Normal Judge:Judge Chair
+ATTORNEY: The lawyer:Defendant Table
+PROSECUTOR: The prosecutor:Plaintiff Table
+DEFENDANT: The defendant:Defendant Table
+SUGGESTIONS =============================
+DEFNAME: A first and last name:Seymore Butz, Hugh Jass, John Smith
+ATTNAME: A name an attorney might have:Ino Cent, Gimmi Munz, Phoenix Wright
+PRONAME: A name a prosecutor might have:Gil Tee, Pierre Posh, Miles Edgeworth
+MINCRIME: A minor crime:Jaywalking, Littering, Shoplifting
+MAJCRIME: A major crime:Murder, Assault, Saying "UwU" In Public 
+CRZCRIME: A crazy or wacky crime:Sleeping with the lights on, Pissing off the Yakuza, Public Nudity
+GROUP: A group of people or a place:Minecraft Let's Players, Grannies, Home Depot
+TIME: Any amount of time:7 Days, 20 Minutes, 3 Years
+PUNISHMENT: An unpleasant task given as punishment:Clean the Dishes, Stand In The Corner, Be the Stenographer
+NUMBER: Any number higher than 1:21, 321, 123
+THINGS: Something someone would want:Drugs & Money, Fursuits, Crude Oil
+JOB: A high paying or high profile job:Tech CEO, Government Worker, IT Technician
+SCRIPT ==========================================
+(courtroom music)
+PROSECUTOR: So, taking into account all the evidence and testimony we have seen over the last TIME
+PROSECUTOR: I believe I have provided sufficient proof that DEFNAME is guilty of MINCRIME.
+JUDGE HORI: Hmm... A compelling case from PRONAME. ATTNAME, your response?
+ATTORNEY: Your honor, all PRONAME has done over these TIME is try to slander my clients good name.
+PROSECUTOR: Objection! That's not true! I am trying to bring them to justice! Enough with your tall tales, ATTNAME!
+ATTORNEY: Objection! Don't interrupt me while I am giving my closing arguments... that's rude.
+JUDGE HORI: Sustained, that was quite rude of you, PRONAME.
+ATTORNEY: As I was saying, I believe the evidence I have shown proves why my client had to resort to MINCRIME.
+ATTORNEY: DEFNAME is innocent and what they did was justified.
+JUDGE HORI: Hmm, another decent argument (Look at defendant) How do you plead, DEFNAME?
+DEFENDANT: Not guilty your honor. I did what I did to get back at the GROUP. They had it coming.
+JUDGE HORI: Hmm, yes, the GROUP can be quite troublesome.
+JUDGE HORI: You know I like you, DEFNAME. You remind me of me in my youth, a bit of a loose cannon but a good man at heart.
+JUDGE HORI: We all screw up sometimes. I know I've certainly had my fair share of adventures.
+DEFENDANT: Hunh, never though of you as that type, Judge.
+JUDGE HORI: Oh yes, there is much you don't know, but all that is irrelevant.
+JUDGE HORI: MINCRIME is still a crime, but given the circumstances, I think I'll go easy on you.
+JUDGE HORI: With that, I am ready to hand down my verdict. I declare DEFNAME
+ATTORNEY: Hold on, your honor. How do you know about the GROUP?
+PROSECUTOR: And what do you mean when you say "my fair share of adventures"? Are you hiding something?
+ATTORNEY: What are you suggesting, PRONAME?
+PROSECUTOR: He seems sympatric to the defendants plight. What if he's committed MINCRIME in the past?
+(courtroom sting)
+ATTORNEY: (gasps and looks at judge) Your Honor! Surely it's not true!
+JUDGE HORI: (Nervous) N-No why would I do something like that? I'm an upstanding judge!
+DEFENDANT: I don't know. The judge is looking pretty sus right now. I mean... (mutters) It takes one to know one.
+PROSECUTOR: Admit it Judge Hori! You are guilty of MINCRIME and have no right to proceed with your judgement!
+JUDGE HORI: You're out of order, PRONAME! Cease this line of questioning at once!
+JUDGE HORI: Or I will will sentence you to PUNISHMENT!
+ATTORNEY: Now I'm suspicious too. We should put you on trial for MINCRIME!
+PROSECUTOR: I agree with ATTNAME. We'll find the truth! Even if it takes TIME.
+JUDGE HORI: This is Absurd! I Object!
+DEFENDANT: (points at the judge) OVERULED! Sorry I've always wanted to say that.
+ATTORNEY: We're the judges now, Judge Hori!
+(shark tank discussion music 1)
+PROSECUTOR: And my first witness is you (point at Judge Hori) Have you been guilty of MINCRIME?
+JUDGE HORI: (Growls) Okay Fine! Yes I admit it! I've indulged in MINCRIME once or maybe NUMBER times.
+ATTORNEY: NUMBER Times!?
+PROSECUTOR: You're a Monster!
+DEFENDANT: Not even the GROUP deserves that.
+JUDGE HORI: It was years ago! And I got away with it every time too! Until you meddling lawyers and your stupid defendant came along!
+JUDGE HORI: What's the big deal!? It's Just MINCRIME!
+JUDGE HORI: At least I'm not doing anything really bad like MAJCRIME if I did that, then I would be in trouble.
+DEFENDANT: Hold on now, that seems like a really specific offense, why would you just randomly bring it up like that?
+DEFENDANT: Could it be that you're guilty of that too?
+PROSECUTOR: Hmm... DEFNAME may have a point.
+ATTORNEY: Judge Hori, have you also committed MAJCRIME?
+JUDGE HORI: (Very nervous) N-N-No! Never I... I Object! AGAIN! This is a violation of uhh... something!
+PROSECUTOR: You seem pretty shaken Judge Hori, why not just confess? Or do you want this to last TIME?
+JUDGE HORI: Fine! I shouldn't have said anything! But yes! I did it! I am guilty of MAJCRIME too!
+(tense cinematic music)
+ATTORNEY: Seriously!? How Did you get away with that!?
+PROSECUTOR: I'm starting to wonder how you became a judge!
+DEFENDANT: Wow, you're actually worse than me.
+JUDGE HORI: It's not my fault! The GROUP made me do it! I had no choice. It was years ago!
+JUDGE HORI: They were gonna make me PUNHISMENT if I didn't do what they said.
+ATTORNEY: Save it for the Judge, Judge!
+PROSECUTOR: So not only are you guilty of MINCRIME, you're also guilty of MAJCRIME
+PROSECUTOR: What else have you done, Judge Hori? If that even IS your real name!
+JUDGE HORI: There is nothing else. You've already exposed me as an evil criminal lunatic!
+JUDGE HORI: The only thing I haven't revealed is that time I got away with CRZCRIME.
+(silly music 2)
+JUDGE HORI: WAIT! I mean I almost did that but I decided to be a good law abiding citizen!
+DEFENDANT: How am I the one on trial with maniacs like this! (points at judge) Doing stuff like CRZCRIME!?
+PROSECUTOR: You truly are disgusting. How do you keep getting away with it?
+ATTORNEY: And how did you become a Judge witch such a bad track record?
+JUDGE HORI: (sighs) I have rich parents. My dad is a JOB.
+ATTORNEY: Yep, That'll do it.
+PROSECUTOR: That explains a lot.
+DEFENDANT: It's always the ones with JOB parents.
+ATTORNEY: So what's your excuse for CRZCRIME? Did the GROUP make you do that one too?
+JUDGE HORI: (defeated voice) No. That one was all me. I did it for THINGS.
+PROSECUTOR: All for THINGS, hunh? Was it worth it?
+JUDGE HORI: Well considering I never actually got any THINGS, no not really.
+ATTORNEY: What a sad way for the son of a JOB to go.
+JUDGE HORI: But now you actually know everything
+JUDGE HORI: Congratulations DEFNAME, ATTNAME and PRONAME.
+JUDGE HORI: You have exposed me for the villain I truly am. So... how long I am going away for?
+PROSECUTOR: Well considering your crimes of MINCRIME
+ATTORNEY: and MAJCRIME
+DEFENDANT: and even CRZCRIME
+PROSECUTOR: My math sees you spending about... NUMBER years in jail.
+JUDGE HORI: I see... Well in that case... YOU'LL NEVER TAKE ME ALIVE! (run off stage)
+PROSECUTOR: Bailiff! Go after that madman!
+DEFENDANT: So uhh... Am I off the hook. I did help catch that guy with you... kind of.
+PROSECUTOR: No. We'll just move your hearing to another date with a different judge.
+ATTORNEY: Yeah, it's very important you have a fair trial for MINCRIME
+DEFENDANT: COME ON! Are you serious!?
+TYPEWRITER: Judge Hori was never found. Some say he's still at large today.
+
+======
+
+INFORMATION ===============================
+ID: 1394
+TITLE: Cards, Wizards and Court Cases
+AUTHOR: Dogshark120
+VERIFIED: True
+TAGS: Skit
+SET: Courtroom
+DATE: 16/01/25
+CHARACTERS ================================
+WIZARD: Wizard :Plaintiff Table
+NERD: Card Game Nerd:Defendant Table
+LAWYER: Nerds Lawyer:Bailiff Corner
+JUDGE: Judge:Judge Chair
+SUGGESTIONS =============================
+FINAL SPELL: A powerful spell:Hyperdeath, Ultimate Decay, The Big One
+LNAME: A name for a person:Dave, Bob, Judy, Steve, Augustus, Albert, Weird Dave, Cool Dave, Funny Dave, Super cool Dave, Builder Dave,  Drunk Dave, That one Dave who nobody likes Dave, Super Duper cool Dave, Richie
+POTION: A potion to make someone smarter:Crebrolixer, Mind Expansion, Big Brain,
+GROSS: Something gross:Rats, Slime, Nails,
+ANIMALS: Multiple animals:Frogs, Lions, Seals, Gators, Monkeys, Goats, Reindeer, Frogs, Cats, Dogs, Eagles, Hawks 
+COUNTER CARD: Name of a counter spell:Diflectos, Revertem, Nuh Uh
+LAST WORDS: Someone's last words:Remember me, Guess I'm going to die now hehe, shit I'm dead now, Hope they have beer in the after life,
+GOD: The name of a god:Cthulhu, Zeus, Bill Cipher, Are lord and savor Mr. Bean, 
+SCRIPT ==========================================
+noir music 4
+JUDGE: (Hits the gavel) All rise for the case of The Wizard against Tommy McGuffin.
+JUDGE: Before we start, I'd like to ask The Wizard a few questions.
+WIZARD: Ask away, your honor.
+JUDGE: It was my understanding that you were being represented by a lawyer.
+JUDGE: Where are they?
+WIZARD: Just like one of you mortals to not understand the machinations of my mind.
+WIZARD: I don't need a lawyer—I drank my POTION Potion before getting here.
+JUDGE: Ok then...
+JUDGE: And Tommy, you are being represented by...?
+NERD: Yes... Uh, I'm being represented by my lawyer, LNAME.
+LAWYER: Good morning, your honor.
+JUDGE: Very good. Now that we have introductions out of the way, we may begin.
+JUDGE: Wizard! What are your claims against Tommy?
+courtroom music
+WIZARD: Yes, your honor, I would be happy to tell you my side of this case.
+WIZARD: This little bag of GROSS stole my Tarot Cards, thinking it was a super rare collectible from some childish game he indulges in!
+NERD: You told me it was a powerful card that could deflect Divine attacks and reflect them on your enemy.
+WIZARD: Yes, in real life, you smooth-brained toad.
+LAWYER: (Whispering to Tommy) Look, kid, I don't think it's a good idea to provoke him like that.
+JUDGE: (Hits the gavel) Order! Order in the court.
+JUDGE: Now we want this to be a calm and fair case. That means NO MORE FIGHTING in my court. Do you understand?
+NERD: Yes, your honor.
+Meanwhile WIZARD: (Reluctantly) Yes, your honor.
+JUDGE: Now, Tommy and LNAME, I'd like you to CALMLY state your case.
+LAWYER: Thank you, your honor. Now let’s go through the events from my client's side of the story.
+LAWYER: It starts at 2:00 p.m. on January 10th. My client was looking for some new cards for his collection.
+LAWYER: He came across a listing for some cards that The Wizard was selling and decided to buy them.
+LAWYER: The Wizard unknowingly had the "Divine Reflection" card in there as well and sold it to my client.
+WIZARD: Objection! I had my card safe in my vault as always when this happened.
+JUDGE: Objection overruled. Please continue, LNAME.
+LAWYER: Thank you, your honor.
+LAWYER: As I was saying, my client bought the cards and was then harassed for the next week as The Wizard turned his friends into ANIMALS.
+JUDGE: Do either of you have any proof for your claims?
+LAWYER: No he turned the witnesses into ANIMALS
+Meanwhile WIZARD: Uhh... no...
+JUDGE: Well, if there isn’t any proof for either claim, there’s only one thing to do.
+Music Stops
+LAWYER: Oh no...
+pokemon battle start
+JUDGE: It's time for a death match.
+pokemon battle music
+NERD: (Scared) Wha... wuh... what am I supposed to do?!
+LAWYER: It's ok, kid. We can get through this. Just do what I say.
+NERD: Are you sure?
+LAWYER: Yes, I do. You’ve got some real Gumption, kid.
+NERD: Ok... I got this.
+WIZARD: Enough babbling, fools. It's time for you to die!
+WIZARD: I cast Magic Missile!
+magic sound
+LAWYER: Quick, use your block card!
+NERD: Oh god, I’m going to die.
+NERD: I play Shield of Chaos.
+gameshow ding
+NERD: ...That worked?
+WIZARD: Using my own cards against me? Well, let’s see how you like this.
+WIZARD: I cast Lightning Bolt.
+LAWYER: Cast a counter spell, then attack him while he’s down!
+NERD: I play COUNTER CARD.
+WIZARD: I don’t cast it on him. I cast it on LNAME!
+Thunder
+NERD: NOOOOO!!! (Runs to LNAME)
+Meanwhile LAWYER: (Lays down and coughs)
+emotional piano music
+LAWYER: It’s ok, Tommy.
+NERD: No, it’s not! You’re going to die!
+LAWYER: Don’t worry about me. I’ve been around a long time. Just play your cards right, kid.
+NERD: LNAME, NO!
+LAWYER: LAST WORDS (dying noises)
+NERD: How dare you, Wizard!
+epic cinematic music
+WIZARD: Aww, what a shame he had to go. But now there’s nothing stopping me from killing you.
+WIZARD: It's time for my most powerful spell.
+WIZARD: In the name of the god GOD, I cast FINAL SPELL.
+NERD: You cast a spell in the name of a god, making the spell Divine! Allowing me to play my best card!
+NERD: I play Divine Reflection!
+WIZARD: NOOOOOO!
+Explosion
+Music Stops
+teleport WIZARD to Backstage
+NERD: I guess LNAME was right... I do have Gumption.
+JUDGE: You’re free to go now, son.
+gameshow outro
 
 ======
 
