@@ -42065,6 +42065,96 @@ EVIL: CATCHPHRASE
 ======
 
 INFORMATION ===============================
+ID: 1385
+TITLE: The Wizard's Master Plan
+AUTHOR: Deadly~Lex
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+DATE: 11/01/25
+CHARACTERS ================================
+VIL: The Evil Wizard:Stage Right
+MIN: The Wizard's Minion:Stage Right
+KNI: The Brave Knight:Entrance Stage Left
+SIDE: The Knight's Sidekick:Entrance Stage Left
+SUGGESTIONS =============================
+ADJ: A word used to describe someone.:annoying, hot, weird
+CLOTH: A type of clothing.:socks, hat, pants
+NUM: A random number:3, 5, 36
+PERISH: Name a tragic fate.:die, fall over, get sat on
+TV: Any tv show:spongebob, grey's anatomy, squid games
+FOOD: Any food:chips, chicken sandwiches, popeyes
+AAHH: Something you would say if you got hurt:ow, ouchies
+SPLEEN: A vital organ:heart, ankle, spleen
+SCRIPT ==========================================
+bard music 2
+VIL: (Evil laugh) This plan is too perfect! There's no way that Knight and his ADJ sidekick will be able to stop me this time.
+MIN: So what's this plan that you've decided not to share with me boss?
+VIL: You'll find out soon enough minion! My plan will surely knock the CLOTH off that sword wielding buffoon...
+VIL: AND his ADJ companion!
+forest footstep
+VIL: (gasp) Quick minion! Shield me from them! I'm not ready to initiate my plan yet!
+MIN: Ugh... (get between the villain and the knight)
+KNI: (walk onto stage with sidekick while breathing heavily)
+Meanwhile SIDE: (walk onto stage with the knight while breathing heavily)
+Music Stops
+SIDE: (Point at the Villain) There they are!
+epic fantasy music 2
+KNI: (still breathing heavily) Finally... after NUM days... we finally found you evildoer!
+VIL: Indeed you have brave knight... long time no see...
+KNI: (Sarcastically) Sorry I couldn't write you a letter.
+VIL: (Sarcastically) That's courteous of you Knight. But you two seem to be getting in the way of my master plan!
+VIL: And for that... you must get out of my way or PERISH!
+Music Stops
+KNI: Well little do you know... You will be the one that will PERISH
+KNI: I've stopped your plan before you've even started it!
+epic fantasy music 3
+VIL: (Gasp) There's... there's no way! I've been setting this plan up for months!
+MIN: Maybe instead of watching TV and eating FOOD you could have actually made a well thought out plan.
+SIDE: Yeah I agree with them.
+KNI: So do I.
+VIL: (pause for a moment) Well... if you are all done calling me lazy, you'll realize that the time I spent on this plan didn't go to waste!
+VIL: (Look at minion) And I'll have you know that binging TV while eating FOOD is great.
+VIL: Anyways... what was I saying...
+KNI: Something about not wasting your time?
+VIL: Oh right!
+VIL: Little do you know knight... I've used part of that time to prepare for this exact situation!
+VIL: I've stopped you from stopping me with only a few precautions in my plan!
+KNI: Well little do YOU know wizard... I've also prepared for this exact situation!
+KNI: My ADJ sidekick, as you would say, thought this would happen!
+KNI: So we decided to outsmart you twice!
+SIDE: That's right! We've stopped you by knowing that you would try to stop us from stopping you!
+MIN: A lot of thought must have gone into your plans...
+VIL: But not enough thought! As I have one more trick up my sleeve!
+KNI: No... it's not possible...
+SIDE: You don't mean...
+MIN: (Sigh) Here we go...
+VIL: That's right... as much as you have planned...
+VIL: I've planned even more!
+VIL: (Evil Laugh) In the end... I've stopped you from stopping me from stopping you from stopping me!
+MIN: This is getting confusing...
+KNI: You're minion is right. Let's finish this! (reveal a weapon)
+draw sword
+KNI: Whatever you're planning... It ends here and now!
+VIL: Protect me minion!
+KNI: Your master plan stops here villain! (charge towards the villain)
+Meanwhile MIN: (get out of the knights way) I'm just gonna scoot over...
+VIL: (Get hit lol) AAHH my SPLEEN! WHY DID YOU MOVE MINION!
+SIDE: Haha! Right in the SPLEEN!
+VIL: (Fall over) Urgh... this went so much better in my plans...
+VIL: (Cough) Curse you knight!
+VIL: AND your very ADJ sidekick too!
+KNI: I know they're ADJ... that's why they're my sidekick!
+VIL: (Die lol) ARGHH!
+Teleport VIL to BACKSTAGE
+KNI: And now to deal with you... (Look towards the minion)
+MIN: Hey... I just work here (walk off stage)
+SIDE: Hey! Get back here! We need to ask you some questions! (Run offstage towards the minion)
+KNI: (Follow them) And maybe we can watch TV and eat FOOD after!
+
+======
+
+INFORMATION ===============================
 ID: 1393
 TITLE: The Real Enemy
 AUTHOR: zanbbit
@@ -42290,6 +42380,108 @@ teleport WIZARD to Backstage
 NERD: I guess LNAME was right... I do have Gumption.
 JUDGE: You’re free to go now, son.
 gameshow outro
+
+======
+
+INFORMATION ===============================
+ID: 1411
+TITLE: The Royal Pain
+AUTHOR: Glag
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+DATE: 21/01/25
+CHARACTERS ================================
+ROYAL: A Naïve Royal:Center Stage
+SERVANT: Drained Servant of Royal:Stage Right
+VENDOR: Suspicious Vendor:Backstage
+SUGGESTIONS =============================
+KINGDOMNAME: Name for a Kingdom:SwagTopia, Breat Gritain, MediocreLand, Sablestone, Bloomhaven, Petoria
+EVILFOREST: Name for an Evil Forest:MoldyOak, ShadySlims, You’ll Die Here Forest, Wychwood
+TRINKET: A nonsensical and useless Item:propeller hat, comically large spoon, kazoo, rubber duck
+CREATURE: A woodland Creature:squirrel, crocodile, ghost, pigeon, bear, deer, clown, goblin
+MEAL: A Meal or Food:sandwich, pancakes, soup, drywall, PopTart, Graham Cracker
+FRUIT: A Fruit or Vegetable:apple, banana, pineapple, egg, pear, eggplant, cucumber, carrot, pea, coconut
+DOEVIL: An Evil or Weird Action:kick puppies, throw rocks at people, burn insects with a magnifying glass, steal candy from babies, tie people to railroad tracks, commit tax fraud, kill people
+ADJECTIVE: An adjective:absurd, clumsy, repulsive, grumpy, helpless, irritable, insolent, feeble-minded, no good, soggy, naïve
+NOUN: Any noun:toad, slime, coward, grub, worm, filth, towel, Casino, afterthought
+SCRIPT ==========================================
+peaceful fantasy music
+ROYAL: Alright! Our journey to save KINGDOMNAME is nearly complete, faithful servant!
+SERVANT: (distraught) Sire, that's what you’ve been saying for the past 3 DAYS NOW.
+ROYAL: True… BUT! This time around, it’ll be DIFFERENT! I can feel it!
+SERVANT: You’ve ALSO said THAT the other times as well!
+ROYAL: Relax, man! Once we find the guy we’re looking for, It’ll be smooth sailing from this point onwards.
+SERVANT: (scornfully) I still can’t believe you spent ALL of your gold on some crummy TRINKET at that store we went to yesterday!
+ROYAL: (defensively) Hey! In my defense, that store clerk told me this TRINKET would bring me great luck, and it would aid us on our quest to save KINGDOMNAME.
+SERVANT: I could understand if it was, lets say, a MAGICAL TRINKET, perhaps. But it’s quite literally just a regular old TRINKET, sire!
+SERVANT: (angrily) Plus, we’ve had nothing BUT bad luck ever since you got that useless thing!
+ROYAL: Those wild CREATUREs really can pack a punch! I’m surprised we made it out of there alive!
+SERVANT: (sigh) Barely… they ate all of our MEAL(s)!
+ROYAL: Now, getting back to the task at hand. We gotta find some guy in the woods who will give us what we need to save KINGDOMNAME.
+ROYAL: What did those directions say to do again?
+SERVANT: Let me reach into my pocket and find them… (pulling out directions from pocket) Aha! Let’s see…
+SERVANT: (reading aloud) “The Vendor of EVILFOREST can be found within the heart of the woods.”
+Meanwhile VENDOR: (Get ready to enter)
+SERVANT: “For those brave or ADJECTIVE enough to find him, ask ONLY about his wares.” Huh… how very ominous. This guy sounds like trouble, sire.
+Meanwhile VENDOR: (Get ready to enter!)
+Music Stops
+forest footstep
+VENDOR: (Enter with MANIACAL LAUGHTER and stare down travelers for a moment)
+Meanwhile ROYAL: (Be startled by the laughter and hide behind Servant)
+VENDOR: (Cheerily) GREETINGS, you ADJECTIVE NOUNs!
+halloween music
+VENDOR: I couldn’t help but overhear your insolent YAPPING from the other side of the EVILFOREST.
+VENDOR: I heard from some little CREATUREs that you ADJECTIVE NOUNs seek… (dramatically) the VENDOR of EVILFOREST, CORRECT?
+ROYAL: (Amazed) Woahhhh. Spot on! How’d you know?
+VENDOR: Word gets around KINGDOMNAME VERY quickly. (ominously) Plus, I’ve got eyes and ears all around the forest. (MANIACAL LAUGHTER)
+ROYAL: That sounds very convenient! (To Servant) Hey, Servant! Maybe this guy knows where we can find this vendor!
+SERVANT: (hesitantly) I don’t think we should talk to this person, sire. Something about them doesn’t sit right with me.
+ROYAL: (earnestly) How so?
+SERVANT: Well, for starters he called us “ADJECTIVE NOUNs”.
+ROYAL: So? “ADJECTIVE NOUN” was my nickname back in school!
+SERVANT: Yeah that tracks. You’ve been quite the ADJECTIVE NOUN thus far.
+ROYAL: Hmm… (inspecting the vendor) He just looks so… normal though. I trust him!
+VENDOR: I’m definitely not a demon or some CREATUREs in a clever disguise. That would be RIDICULOUS!
+SERVANT: (To Royal) Sire, just listen to what they’re saying!
+VENDOR: When I’m not roaming around in EVILFOREST, I like to DOEVIL!
+Vine boom
+SERVANT: See! They’re clearly evil.
+ROYAL: Let’s not jump to conclusions so fast!
+ROYAL: Maybe… they’re just a lonely person, living in the woods with the CREATUREs, who likes to DOEVIL in their spare time!
+SERVANT: (befuddled at Royal) …what?
+ROYAL: I’m sure tons of people like to DOEVIL! They just don’t know it yet!
+VENDOR: My personal hobbies aside, you two ADJECTIVE NOUNs are looking for the Vendor of EVILFOREST, yes?
+VENDOR: Well… Look NO further, for you have found them!
+thunder
+ROYAL: (unaware) Awesome! Where are they?
+VENDOR: (Angrily pointing) I AM the vendor, you ADJECTIVE NOUN!
+ROYAL: (realizing) Servant… I think this guy’s the Vendor we’ve been searching for!
+SERVANT: (facepalm) Oh boy…
+ROYAL: (dramatically) Oh, mystical Vendor of EVILFOREST! We come seeking your wares on our quest to save KINGDOMNAME!
+ROYAL: (casually) You got any TRINKETs?
+VENDOR: NO. When in life would you EVER need a TRINKET? They’re useless!
+SERVANT: That’s what I told him!
+ROYAL: Well… what about a MEAL? Some CREATUREs stole all our food on the way here.
+SERVANT: (agreeing) I could go for a MEAL right about now…
+VENDOR: I don’t have a MEAL, however, I DO have this TOTALLY SAFE FRUIT I can sell you.
+ROYAL: Delicious! Wait… where’d you get that FRUIT from?
+VENDOR: (dismissively) uhhhhh… locally grown, here in EVILFOREST of course! My personal number one seller!
+VENDOR: (nudging Royal) Reviews say my FRUIT is to DIE for! Really ‘da BOMB’! EXPLODING with flavour!
+vine boom
+ROYAL: Sounds good! We’ll take two FRUITs please!
+VENDOR: Coming right up! (Grab FRUITs from pockets and hand them to Royal) Here you go, Your Royal NOUNness.
+Meanwhile ROYAL: (put hands out take the FRUITs, and give one to Servant)
+SERVANT: (sniffing the FRUIT) Hmm… something about this FRUIT smells off, sire.
+ROYAL: (sniffing your FRUIT) smells fine to me! Stop worrying so much, dude.
+ROYAL: How much do we owe you?
+VENDOR: Since you’re of royal blood… I'll give it to you for FREE!
+SERVANT: This whole thing is awfully suspicious, I’m not eating this FRUIT.
+ROYAL: Well I am! I trust that this lovely vendor has only the best of intentions!
+VENDOR: Yes! Dismiss your servant! Bite into the FRUIT! Do it!
+ROYAL: (bite into FRUIT) Mmmm. Yummers! Tastes kinda like a MEAL!
+explosion
+Teleport ROYAL to BACKSTAGE
 
 ======
 
