@@ -8645,8 +8645,8 @@ AGENT: (Nauseous) I think I'm turning into a SNAKE...
 INFORMATION ===============================
 ID: 184
 TITLE: The Bakeoff
-AUTHOR: Jay3409
-VERIFIED: True
+AUTHOR: jay3409
+VERIFIED: False
 TAGS: Skit
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -35161,6 +35161,121 @@ MOM: Time to make a lovely dinner of FOOD
 ======
 
 INFORMATION ===============================
+ID: 1097
+TITLE: Unwanted gift
+AUTHOR: RoboRailroad
+VERIFIED: True
+TAGS: 
+SET: Living Room
+DATE: 20/09/24
+CHARACTERS ================================
+KID: Overexcited kid :Couch
+MOTHER: Sweet and loving mom:Side Door
+FATHER: always tired dad:Backstage
+UNCLE: weird uncle from dad's side:Backstage
+SUGGESTIONS =============================
+NICKNAME: Nickname a mom would give their child:Honey bug, sweetie, darling
+FOOD: Breakfast item:Waffles, pancakes, pizza
+SHOW: Something you can watch:White chicks, all brawl, lady fingers
+SON: Name of a kid:Jimmy, Louis, Johnny
+DAD: Name a kid would give to their dad:Pops, papa, father
+OLD: Name of a uncle:Ruckus, Samuel, Pierce
+DRINK: Something you can drink:juice, beer, smoothy
+NUMBER: Any number:34, 62, 95
+PRESENT: A present a kid would love:Toys, socks, coal
+CONSOLE: Name for a video game console:X-station 45, flip stich, market hall-it
+GAME: Name for any video game:Pawn's adventure, Vrchat, Challenges of Jar
+BADGIFT: Something a kid is too young to own:Gun, Debt, magazines 
+SCRIPT ==========================================
+(Christmas music 3)
+MOTHER: (Walks onto the stage) Ah, good morning, my NICKNAME. How are you this Christmas morning?
+KID: Morning, mommy. I'm doing great, and I can't wait to open my presents. I'm so excited!
+MOTHER: Ok let's wait for your stepdad to get out of bed so we can watch you open the gifts ok?
+KID: Aww but I want to open them now.
+MOTHER: I know but it's much better when the whole family is here.
+MOTHER: Tell you what I'll make my famous FOOD so you have something to do while your father wakes up.
+KID: Ok Mommy but can I watch SHOW while I eat my FOOD?
+MOTHER: Okay, wait on the couch, and I'll bring it to you, okay? (Walk to the kitchen).
+KID: Ok Mommy (go sit on the couch).
+TYPEWRITER: 15 minutes later)
+(Music Stops)
+(Christmas music 1)
+FATHER: (enter side door) Good morning family what are you guys doing?
+MOTHER: Oh honey we were just waiting for you to get up so we can watch SON open his present.
+MOTHER: You want a FOOD?
+FATHER: Yes please honey.
+KID: Oh good morning DAD.
+FATHER: Morning SON what are you watching?
+KID: I'm watching SHOW.
+FATHER: Oh I remember SHOW I was friends with one of the actors.
+KID: Not this again.
+(Music Stops)
+(Christmas music 1)
+TYPEWRITER: Another 15 minutes later)
+FATHER: And that's how I became friends with one of the actors from SHOW.
+KID: Good grief.
+(doorbell)
+MOTHER: Who could that be (open front door)
+Teleport UNCLE to Front Door
+UNCLE: Merry Christmas everyone (walks onto to stage)
+KID: Uncle OLD!
+UNCLE: My favorite grandchild how are you this Christmas morning?
+KID: I'm doing great now that you're here Uncle OLD.
+UNCLE: That's great to hear.
+UNCLE: Hey Tommy can you get me a DRINK I'm thirsty.
+FATHER: Ok wait there (walks to wife).
+FATHER: (whisper) Honey what's he doing here?
+MOTHER: (whisper) I don't know either how does he know the address?
+FATHER: It will be ok he's probably going to pass by to give his present to SON then leave.
+UNCLE: Oh yeah my NUMBER wife kicked me out so I'll need a place to stay mind if I can stay here?
+KID: (GASP) Can he stay over it will be like a sleepover!
+FATHER: I mean I don't know ask your mother.
+MOTHER: Sure he can stay it's been a while since we had visitors here.
+UNCLE: Sweet HEY TOMMY WHERE'S MY DRINK I'm still waiting on that I'm thirsty here.
+TYPEWRITER: 5 Minutes later
+(Music Stops)
+(Christmas music 2)
+MOTHER: Come on sweetie it's time to open presents.
+KID: Ooo I wonder what time can be (Open the present)?
+KID: No way the brand new PRESENT!
+FATHER: Yep that one is from me what do you say?
+KID: Thank you thank you thank you (Hug Dad).
+FATHER: No problem kiddo.
+MOTHER: Here is my gift sweetie (give present).
+KID: What can this one be?
+KID: No way...
+MOTHER: Yes that game thingy you've wanted for so long
+KID: The CONSOLE with GAME how did you get this?
+MOTHER: You know moms have their ways.
+KID: Thank you so much Mommy (Hug Mom)!
+UNCLE: And now your gift from your favorite uncle OLD here you go kid (Give present).
+KID: what can it be what can it be (open present)?
+KID: Um what's this?
+UNCLE: oh that's a BADGIFT.
+(record scratch)
+(Music Stops)
+FATHER: You gave him a BADGIFT.
+UNCLE: Yeah what's wrong with that?
+FATHER: He's too young for that what were you thinking!?
+UNCLE: I thought it was a good gift for him.
+FATHER: YEAH FOR WHEN HE'S OLDER!
+KID: Um Dad what is this?
+MOTHER: Oh give it here darling I'll put Uncle OLD's gift somewhere safe (grab an object and run off stage)
+(tense cinematic music)
+FATHER: You know what I have had enough of your shenanigans.
+FATHER: (push UNCLE out the front door)
+UNCLE: I'll be back you know that!
+FATHER: Yeah yeah get out and never come back!
+(tire screech)
+(explosion)
+KID: What was that about dad?
+FATHER: Oh it was nothing you wanna play GAME on your new CONSOLE?
+KID: OK but your player 2.
+TYPEWRITER: The uncle died 3 days later
+
+======
+
+INFORMATION ===============================
 ID: 1099
 TITLE: Karen's Family Dinner
 AUTHOR: houseerikson
@@ -41250,7 +41365,7 @@ ENEM: Stop right there!
 ALEX: (points to the enemy) Oh no! It's a TINYBAD!
 ENEM: You shall not tread more, this is BADGUY's territory! And I shall fight for him!
 MOM: We have to defeat this cute little guy before the boss? Piece of cake!
-SIS: Enough talk, kill that SMALLBAD! (Aims bow and arrow
+SIS: Enough talk, kill that SMALLBAD! (Aims bow and arrow)
 Meanwhile ALEX: (Holds up his bat)
 pokemon battle start
 MOM: (Charges) Yaaaaah!
@@ -42155,6 +42270,102 @@ KNI: (Follow them) And maybe we can watch TV and eat FOOD after!
 ======
 
 INFORMATION ===============================
+ID: 1387
+TITLE: Matt & Wilson Go to the Store
+AUTHOR: megashoeex3
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 12/01/25
+CHARACTERS ================================
+MATT: Matt the Human:Entrance Stage Right
+WILSON: Wilson the Human:Entrance Stage Right
+GROCER: Grocery Store Employee:Behind Register
+CREEP: Creepy Old Man:Behind Shelf
+SUGGESTIONS =============================
+ITEM: Item sold in a grocery store:Lay's Potato Chips, 2 liter bottle of Pepsi, Jack Links beef jerky 
+COUNTRY: A country, either real or fictional:Snacktopia, Smissus, Pogonia
+CONSP: people running the country (conspiracy theory):lizard people, aliens, robots
+JUNK: Junk items sold in stores:tabloids, cheap "As seen on TV products", small bags of food
+HAUNT: adjective:haunted, cursed, possessed
+JOB: field of work:retail, automotive, food service
+COST: cost of an item:$7.85, $10.40, $4.60
+CHANGE: leftover change:$1.43, $3.14, $0.75
+CATCHPHRASE: silly exclamation:Gadzooks, Gee Willikers, Oh Fiddlesticks
+SCRIPT ==========================================
+happy music 1
+MATT: (Walks into the store) So anyways Matt, that's why the government of COUNTRY is run by CONSP!
+Meanwhile WILSON: (Walks into the store)
+WILSON: Matt, what the heck are you talking about?
+MATT: I'm talking about how the government of COUNTRY is run by CONSP!
+GROCER: (Looks at Matt & Wilson) Hello! Is there anything you're looking for today?
+WILSON: (Looks to the Grocer) We're looking for ITEM.
+waterphone
+GROCER: (Sounding concerned) A-Are you sure you want ITEM?
+MATT: (semi-annoyed) Yes, we want ITEM. No, we don't want the JUNK you're going to try to sell us.
+WILSON: Matt, you don't have to be so rude.
+MATT: I don't care, we came here for ITEM, not JUNK.
+GROCER: Okay... it's over there (Points to shelf where the Creep is hiding)
+WILSON: Thanks. (Walks over to the shelf)
+Meanwhile MATT: (Also walks over to the shelf)
+CREEP: (Creepily walks out from behind the shelf while cackling)
+record scratch
+CREEP: (cackles maniacally) You two don't want to get ITEM... It's HAUNT!
+scary music
+WILSON: Wh-What do you mean HAUNT?!
+CREEP: Long long ago, an evil wizard placed a curse on the factory where ITEM is made...
+GROCER: Oh, so that's why nobody wanted to buy ITEM, it was HAUNT...
+CREEP: And so, every ITEM to come out of that factory is HAUNT. But there is a way break the spell...
+music stops
+MATT: I do not care. It is my COUNTRY right that I can purchase ITEM and I damn well will exercise it!
+bird screech
+usa anthem music
+MATT: Now if you don't mind, I'm just going to grab ITEM and check out. (walk over to shelf and grab ITEM)
+WILSON: Matt! Shouldn't we listen to this story? It could save our lives!
+CREEP: Yes... It could save your lives... Listen to my story...
+MATT: Like I said, I don't care.
+GROCER: I know I shouldn't really care, but you might want to listen to what that creepy guy has to say...
+CREEP: That ITEM is HAUNT! Listen to my story!
+WILSON: See Matt! Now put it back and let's listen to that guys story!
+CREEP: (cackles a little bit) Yes... You should listen to your friend and that underpaid retail worker!
+GROCER: Dude, you don't gotta call out my paycheck like that.
+WILSON: Yeah man, you didn't have to call out that guys pay grade.
+MATT: I said this once, and I'll say it a million times, I do not care. (walk over to the checkout)
+music stops
+tense cinematic music
+GROCER: Are you sure you want to buy ITEM sir?
+MATT: Yes. Now how much is it?
+GROCER: (scans the item) That'll be COST. Are you sure you wouldn't like any JUNK?
+MATT: Nope, now here's COST.
+CREEP: Quick! You must stop him!
+WILSON: (run over to checkout) Noooooo!!!!
+music stops
+GROCER: Alright, here's your ITEM. And CHANGE is your change. (Hand ITEM and CHANGE to Matt)
+MATT: Thank you very much. (Take ITEM and CHANGE before turning to Wilson) See Wilson? Nothing happened!
+GROCER: That's odd, I thought that old guy would've told the truth...
+WILSON: Yeah... guess that old guy was just being weird...
+MATT: Exactly, now let's get out of here...
+record scratch
+CREEP: Oh now you've done it. Now you've opened a portal to the FORTNITE DIMENSION!!!
+sad chug jug music
+WILSON: What?!
+MATT: You never told us that this stuff opened a portal to the Fortnite dimension!
+CREEP: I would have if you had listened to my story, you utter imbecile!
+WILSON: We can't go to the Fortnite dimension! Not again!
+CREEP: I'm sorry, but it's too late for you two...
+WILSON: (exit stage left walking backwards) Nooooooooo!!!!
+meanwhile MATT: (also exit stage left walking backwards) Noooooooo!!!
+explosion
+music stops
+CREEP: Those poor souls...
+GROCER: Why do we even sell those?
+CREEP: Don't ask me, I'm just the guy who warns unsuspecting customers... Anyways I'm out of here!!!
+CREEP: CATCHPHRASE! (Run out stage left)
+GROCER: I need to look for a new job. Maybe I can get hired in JOB...
+
+======
+
+INFORMATION ===============================
 ID: 1393
 TITLE: The Real Enemy
 AUTHOR: zanbbit
@@ -42413,7 +42624,7 @@ ROYAL: True… BUT! This time around, it’ll be DIFFERENT! I can feel it!
 SERVANT: You’ve ALSO said THAT the other times as well!
 ROYAL: Relax, man! Once we find the guy we’re looking for, It’ll be smooth sailing from this point onwards.
 SERVANT: (scornfully) I still can’t believe you spent ALL of your gold on some crummy TRINKET at that store we went to yesterday!
-ROYAL: (defensively) Hey! In my defense, that store clerk told me this TRINKET would bring me great luck, and it would aid us on our quest to save KINGDOMNAME.
+ROYAL: (defensively) Hey! The store clerk told me that TRINKET would bring me great luck, and it would aid us on our quest to save KINGDOMNAME.
 SERVANT: I could understand if it was, lets say, a MAGICAL TRINKET, perhaps. But it’s quite literally just a regular old TRINKET, sire!
 SERVANT: (angrily) Plus, we’ve had nothing BUT bad luck ever since you got that useless thing!
 ROYAL: Those wild CREATUREs really can pack a punch! I’m surprised we made it out of there alive!
@@ -42423,7 +42634,7 @@ ROYAL: What did those directions say to do again?
 SERVANT: Let me reach into my pocket and find them… (pulling out directions from pocket) Aha! Let’s see…
 SERVANT: (reading aloud) “The Vendor of EVILFOREST can be found within the heart of the woods.”
 Meanwhile VENDOR: (Get ready to enter)
-SERVANT: “For those brave or ADJECTIVE enough to find him, ask ONLY about his wares.” Huh… how very ominous. This guy sounds like trouble, sire.
+SERVANT: “For those brave or ADJECTIVE enough to find him, ask ONLY about his wares.” Huh… how very ominous.
 Meanwhile VENDOR: (Get ready to enter!)
 Music Stops
 forest footstep
@@ -42432,15 +42643,15 @@ Meanwhile ROYAL: (Be startled by the laughter and hide behind Servant)
 VENDOR: (Cheerily) GREETINGS, you ADJECTIVE NOUNs!
 halloween music
 VENDOR: I couldn’t help but overhear your insolent YAPPING from the other side of the EVILFOREST.
-VENDOR: I heard from some little CREATUREs that you ADJECTIVE NOUNs seek… (dramatically) the VENDOR of EVILFOREST, CORRECT?
+VENDOR: Some CREATUREs told me that you ADJECTIVE NOUNs seek… (dramatically) the Vendor of EVILFOREST, CORRECT?
 ROYAL: (Amazed) Woahhhh. Spot on! How’d you know?
 VENDOR: Word gets around KINGDOMNAME VERY quickly. (ominously) Plus, I’ve got eyes and ears all around the forest. (MANIACAL LAUGHTER)
-ROYAL: That sounds very convenient! (To Servant) Hey, Servant! Maybe this guy knows where we can find this vendor!
+ROYAL: That sounds very convenient! (To Servant) Hey! Maybe this guy knows where we can find this vendor!
 SERVANT: (hesitantly) I don’t think we should talk to this person, sire. Something about them doesn’t sit right with me.
 ROYAL: (earnestly) How so?
 SERVANT: Well, for starters he called us “ADJECTIVE NOUNs”.
 ROYAL: So? “ADJECTIVE NOUN” was my nickname back in school!
-SERVANT: Yeah that tracks. You’ve been quite the ADJECTIVE NOUN thus far.
+SERVANT: You’ve been quite the ADJECTIVE NOUN thus far on our journey.
 ROYAL: Hmm… (inspecting the vendor) He just looks so… normal though. I trust him!
 VENDOR: I’m definitely not a demon or some CREATUREs in a clever disguise. That would be RIDICULOUS!
 SERVANT: (To Royal) Sire, just listen to what they’re saying!
@@ -42459,6 +42670,7 @@ VENDOR: (Angrily pointing) I AM the vendor, you ADJECTIVE NOUN!
 ROYAL: (realizing) Servant… I think this guy’s the Vendor we’ve been searching for!
 SERVANT: (facepalm) Oh boy…
 ROYAL: (dramatically) Oh, mystical Vendor of EVILFOREST! We come seeking your wares on our quest to save KINGDOMNAME!
+VENDOR: How may I assist you?
 ROYAL: (casually) You got any TRINKETs?
 VENDOR: NO. When in life would you EVER need a TRINKET? They’re useless!
 SERVANT: That’s what I told him!
@@ -42482,6 +42694,127 @@ VENDOR: Yes! Dismiss your servant! Bite into the FRUIT! Do it!
 ROYAL: (bite into FRUIT) Mmmm. Yummers! Tastes kinda like a MEAL!
 explosion
 Teleport ROYAL to BACKSTAGE
+VENDOR: (Triumphantly) YES!!!!! I'VE DONE IT! AFTER ALL THESE YEARS!
+epic fantasy music 3
+SERVANT: I knew it! You’re evil!
+VENDOR: Now that the last of the royals has been dealt with, I can claim the throne!
+SERVANT: You’ll never get away with this!
+VENDOR: KINGDOMNAME is as good as mine! (Maniacal Laughter!)
+gunshot
+Music Stops
+VENDOR: No! Impossible! (fall dead on ground)
+vine boom
+Teleport VENDOR to BACKSTAGE
+ROYAL: (enter stage) E-yikes! That was a close one!
+tada
+SERVANT: SIRE!? But… But HOW!?
+happy music 1
+ROYAL: It seems the FRUIT’s explosion had only temporarily knocked me out!
+SERVANT: Wow. That thick skull of yours was finally useful!
+ROYAL: Not bad for a ADJECTIVE NOUN, huh?
+ROYAL: Also, remember that TRINKET?
+SERVANT: Yeah? What about it?
+ROYAL: Turns out that TRINKET wasn’t a TRINKET at all!
+ROYAL: It was a gun, SHAPED like a TRINKET! Crazy, right!?
+SERVANT: Yeah. Well, I’m glad you’re alright, sire, but what about KINGDOMNAME!?
+ROYAL: Oh right! I’m sure it’ll work out in the end.
+ROYAL: (Very Cheesily) Man, that guy was quite “The Royal Pain” ™.
+SERVANT: (slowly turn to royal) …ARE YOU FOR REAL RIGHT NOW!?
+laughter
+TYPEWRITER: THE END.
+Applause
+
+======
+
+INFORMATION ===============================
+ID: 1415
+TITLE: What did you eat?!
+AUTHOR: kiro-sage
+VERIFIED: True
+TAGS: 
+SET: Doctor's Office
+DATE: 21/01/25
+CHARACTERS ================================
+TIM: Tim the Doctor:Desk
+RICK: Rick the Doctors hippy friend:Center Stage
+PAT: Pat the distressed patient:Entrance Stage Right
+SUGGESTIONS =============================
+SLEEP: Something you do in your free time:Catch up on Dragon piece academia, Steal the declaration of independence, Eat some grapes
+DYING: A symptom or experience (Example Glowing, Melting, Falling apart like glass):Turning into a tree, Glowing like a glowstick, Higher than the moon
+FOOD: "Normal" edible food:Cow brains, Spaghoot, Coppertop mushrooms,
+SWORD: Any object:Warhammer, Baseball bat, Lego deathstar
+FALCON: Any Large Object:Millennium falcon, Statue of liberty, Empire state building
+FAITH: an abstract human concept:Demonic Influence, Bisexuality, Pride, dignity, Faith, Love
+SCRIPT ==========================================
+jazz music 2
+TIM: (Sitting at desk, sighs) It’s been four hours, and we haven’t gotten a single patient.
+RICK: Bah, don’t let it get to ya, dude. It’s not all bad.
+RICK: I mean, with all this free time, dude, you could SLEEP.
+TIM: Unfortunately, I can’t, 'cause I’ve got to work… Or at least pretend not to be "lazy."
+TIM: By the way, how and when did you get in here?
+RICK: Oh, I just said I had an emergency and had to see Tim.
+TIM: (Sighs) That’s why I haven’t gotten any patients.
+TIM: Hey, Rick, could you just real quick say, “I am satisfied with my care”?
+RICK: Why do you need me to say, “I am satisfied with my care”?
+Music stops
+gameshow ding
+TIM: Good. Now I can get some actual work done, and you can head home and SLEEP or whatever.
+RICK: Aw, man, dude, c’mon, I just wanna hang out with you.
+break down door
+PAT: (Runs on stage in distress) I need a doctor right now! I am DYING!
+tense cinematic music
+TIM: Oh crap! Okay, Rick, calm him down while I get everything ready. (Turns to computer)
+RICK: Oki doki, Dr. Tim. (Turns to patient) Hey, how’s it going? You doin’ okay?
+meanwhile PAT: (Falls to knees) NO! I am DYING!
+RICK: Okay, uh, here, come over to the… therapist chair and tell me how this all started. (Helps patient up)
+meanwhile PAT: (Being helped to sit on examination chair)
+PAT: Well… I was eating some FOOD when everything—and I mean EVERYTHING—started DYING.
+RICK: Okay, everything will be fine. (Turns to Tim, whispering) Hey, dude, you done yet?!
+TIM: Yep, everything’s booted up. Sir, what is your name, and what exactly is going on?
+Music stops
+PAT: My name is Pat, and I was enjoying my FOOD when everything started DYING.
+TIM: Okay, that doesn’t make sense, so I’m going to need to perform a CT scan. Rick, if you may?
+RICK: Yeah, dude, I got you. (Walks off stage right)
+TIM: Okay, on the count of three, hit the button, Rick.
+anime sword gleam 2
+TIM: (Shocked) Goodness gracious, my eyes!
+RICK: Okay, you ready, Tim?
+TIM: Not anymore! Just get in here.
+meanwhile RICK: (Walks back on stage)
+PAT: Ughh, Doc, I don’t feel too good… (Passes out)
+RICK: (Pauses for a second) HOLY COW, HE DIED!!!
+TIM: He’s not dead, Rick; he just passed out. That makes things easier, actually.
+TIM: (Turns to computer) …The hell is that?
+RICK: What? What is it, Tim? (Walks over to computer)
+TIM: There’s some form of blob in his stomach.
+Courtroom music
+TIM: We need to operate immediately. Rick, get the patient ready.
+RICK: Wha—excuse me, you want me to what?
+TIM: Get his shirt off so I can start operating.
+RICK: (Reluctant) Fine. (Removes patient’s shirt)
+TIM: (Walks over to patient) Okay, let’s get this started.
+RICK: Here, let me help. (Grabs knife and begins stabbing)
+knife wound
+knife wound
+TIM: Rick, the hell are you doing? You’re going to kill him!
+RICK: (Stares into patient’s stomach) …Hey, Tim, is that a SWORD?
+Music stops
+TIM: Is that a what? (Looks down) …That is in deed a SWORD.
+TIM: (Pulls out SWORD) Why did he eat a SWORD?
+TIM: (Looks back in stomach) Oh my goodness, that’s the FALCON.
+RICK: That’s the... what? (Sticks hands in stomach and pulls out FALCON)
+RICK: How the heck did he fit this in here? (Looks back down)
+RICK: There’s the FOOD he was talking about, right next to his FAITH.
+TIM: We can probably remove that. (Pulls out FAITH)
+TIM: Okay, let’s bring this guy back. (Hits button on machine)
+thunder
+RICK: Did that work?
+meanwhile PAT: (Gasps back to life)
+PAT: W-what happened…? (Falls back dead)
+church bell
+RICK: (Shocked) HOLY COW, HE’S DEAD!
+TIM: Yep, but how? We got everything out…
+RICK: Wait. (Looks back in stomach, grabs FOOD, and tastes it) Yep, his FOOD was laced with cyanide.
 
 ======
 
