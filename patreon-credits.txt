@@ -909,7 +909,6 @@ Reddicide
 EkoTheSorrowful
 MoxiesKorner
 ~~Ven~~
-RoseGemstone
 DuckySlug
 Harubid
 ｛Ruby≺3｝
@@ -2382,6 +2381,7 @@ Frankie The Dog
 Little Aqua
 Zettas
 randok2i
+RoseGemstone
 CursedImageJeff
 Roisu Dragneel
 ψCryoψ
