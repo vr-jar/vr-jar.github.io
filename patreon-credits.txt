@@ -2119,6 +2119,7 @@ H A Z Σ
 ʙåɴåɴʏåʜ
 MR_DRAGONdoctor
 Miifi
+AjErrorBot
 modNick
 ruralists
 #TIER=1
