@@ -2118,6 +2118,7 @@ MR_DRAGONdoctor
 Miifi
 AjErrorBot
 Jay_alpha18
+Rinzen98
 modNick
 ruralists
 #TIER=1
