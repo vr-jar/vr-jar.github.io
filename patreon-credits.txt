@@ -2876,6 +2876,7 @@ Gentle Misty
 fun_floofs
 LadyHanime24
 Haxiz
+EngineerIsaac
 #TIER=3
 SidMarcus
 PinballReviewer
