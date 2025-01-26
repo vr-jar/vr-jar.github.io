@@ -37591,7 +37591,6 @@ CHARACTERS ================================
 BRADLEY: Bradley:Backstage
 FRIEND1: Skeptical Friend:Stage Right
 FRIEND2: Relaxed Friend:Stage Right
-FRIEND3: Naive Friend:Stage Right
 SUGGESTIONS =============================
 FAMILY: A Family Member:Sister, Dad, Uncle, Grandpa
 GAME: A VideoGame:Clash of Clans, Fortnite, Apex Legends
@@ -37611,40 +37610,35 @@ FRIEND2: (Laughs) Dude you're that Low? You’re nowhere near me!
 FRIEND1: (Skeptical) What Level are you then?
 FRIEND2: I’m level-
 silly music 2
-BRADLEY: (Rushes Into Stage Left Excited) GUYS! You won't believe what just happened!
-FRIEND3: Hey Bradley!
-FRIEND1: (annoyed Sigh) what is it this time?
+Meanwhile BRADLEY: (Rushes Into Stage Left Excited) GUYS! You won't believe what just happened!
+FRIEND1: (annoyed Sigh) Hey Bradley. what is it this time?
 BRADLEY: (Wheezes) It was insane guys, I just beat FAMOUS2 in a COMPETITION!
-FRIEND3: Really?! That's amazing!
-FRIEND1: (To Naive Friend) Don't listen to him man! He couldn't tell the truth if the world depended on it.
+FRIEND1: C’mon Bradly, you don't expect us to believe that.
 BRADLEY: No it really happened, I swear!
 FRIEND2: Bro you need to stop with the lying You’re so horrible at it.
 BRADLEY: (To Relaxed Friend) It wasn't a lie man! That wasn't even the best thing that happened to me today!
 FRIEND1: (Sarcastically) Okay Bradley, what else happened to you today?
-FRIEND3: Yeah what else!
 BRADLEY: (Confidently) I was able to beat CARTOON in a game of GAME!
-FRIEND3: (Excited) That's really impressive!
-FRIEND1: (Annoyed) Oh come on Bradley! That’s not even possible!
+FRIEND1: (Annoyed) Oh come on Bradley! You don't got near enough skill to beat anyone at a GAME game!
 FRIEND2: (Laughing) That's something only a AGE year-old can believe Bradley. I told you, you’re not a good liar.
 BRADLEY: (Angrily) It’s not a lie! You’re just jealous of me!
 FRIEND1: No ones jealous of you Bradley.
 BRADLEY: Well if I’m such a bad liar, I won't tell you about the even better part of my day that's totally true!
 FRIEND2: (Sighs) No one wants another lie Bradley. Stop trying to entice us.
-FRIEND3: (nervously) Wait! I want to know.
-FRIEND1: (Surprised) There's no way you want to know.
-FRIEND3: Pleeeeease?
-FRIEND1: (Groans) Fine Bradley, what was soo special about today?
-BRADLEY: (Excited) Okay, okay. What happened today was…
+BRADLEY: No C’mon guys! I swear this isn't a lie, I promise!
+FRIEND1: Your sure it isn't?
+BRADLEY: Yes I promise you it isn't a lie!
+FRIEND1: (Groans) Fine Bradley, we’ll hear you out, but if it is just another one of your stupid lies, we're gonna JUMP you, understand?
+BRADLEY: (Excited) Okay, okay, I understand. What happened today was…
 Music Stops
-BRADLEY: My FAMILY gave me a MOUTH on my BODY!
+BRADLEY:  My FAMILY gave me a MOUTH on my BODY!
 scary music
 FRIEND1: (Stunned) You’ve got to be joking.
 FRIEND2: (Stunned) Why would you even say that?
-FRIEND3: (Amazed) Wow..
 BRADLEY: It really Happened!
 FRIEND1: (Given Up) You know what Bradley, just go.
 BRADLEY: (Confrontationally) Or what?
-FRIEND1: Or we’ll JUMP you till the point you won't be able to lie, let alone talk.
+FRIEND1: Just go before we JUMP you till the point you won't be able to lie, let alone talk.
 BRADLEY: (Cowardly) okay, okay, I’ll go. Jeez (Walks out Stage Left)
 FRIEND1: I swear I hate that guy.
 
@@ -42105,6 +42099,108 @@ TIM: (chases after Rick) Get back here, you sorry excuse for a man!
 ======
 
 INFORMATION ===============================
+ID: 1381
+TITLE: Sock Theft
+AUTHOR: Twintacle PTT
+VERIFIED: True
+TAGS: Skit
+SET: Detective Noir
+DATE: 08/01/25
+CHARACTERS ================================
+APP: Detective:Center Stage
+KID: Kid:Backstage
+MON: Monster:Backstage
+TV: A random TV character:Backstage
+SUGGESTIONS =============================
+SHAPE: Any shape, or thing:Zig-Zag, Polka dot, Pizza slice
+SHOW: TV show character:Mickey Mouse, Lisa Simpson, Eric Cartman
+COLOR: Color of the rainbow:red, blue, green, yellow, purple
+STATE: State of the USA:Pennsylvania, Hawaii, Colorado
+ICECREAM: Kind of ice cream:popsicle, snow cone, banana split
+ROOM: Room of the household:Bathroom, Kitchen, Living Room
+APPLEJUICE: Your favorite thing:apple juice, Sonic 3, adderall, egirls, dirt, dog
+SCRIPT ==========================================
+noir music 4
+TYPEWRITER: A literal detective playset, Kiddie City, somewhere in STATE
+APP: The name's agent APPLEJUICE. They call me that, well, I love APPLEJUICE.
+APP: (sits on detective chair) My mission? To track down and solve cases of sock theft.
+APP: Let us say that you have a missing sock amongst all your piles of laundry.
+APP: Who does it? Sock stealing monsters. Or maybe even your mistaken sibling or parent.
+APP: Socks are meant to be in pairs, that's the law. I solve plenty of these cases, and I am certainly expecting more of this nonsense.
+knocking on door
+APP: Ah, another case, it's winter and it's cold outside. Whoever you are, you may come in.
+KID: (Opens the door) Brrr. Hello, APPLEJUICE! Uh, my wonderful winter socks, one of them is missing!
+APP: Ah, I see, how is it going on this fine January evening? How urgent is this case?
+KID: My sock has been missing very recently. I also brought a friend of mine. May he come with me?
+Meanwhile MON: (follow the kid to the door) Brrrrrrr....
+MON: (shivering) It is cold out there! I even have a coat on, and I still feel myself freezing like a ICECREAM!
+APP: Very well, come in and sit down. We shall investigate this case...
+KID: Thank you so much APPLEJUICE! (Goes to sit down)
+Meanwhile MON: (closes the door and follows the other kid)
+APP: Can you please state your names?
+KID: I am Jake
+MON: And I'm his imaginary friend! A friendly monster!
+APP: Let us first discuss the sock itself. Do you exactly know what the sock looked like before the pair got split?
+KID: Well, I definitely know the sock was COLOR. COLOR is easy to distinguish from the scenery in my room.
+scribbling
+APP: (taking notes) Uh huh, and where did you last see it?
+MON: I think the last time I saw it; it was in his room. I was moving around a couple things, and, yeah.
+KID: (To the monster) Imaginary friend, look, I think it was in the ROOM. You shouldn't tell the detective any lies like that.
+MON: Sorry.
+APP: It is alright, any extra details on the sock that was stolen?
+KID: Not that I could think of...
+APP: Well then, this information is better than nothing. Who do you accuse of stealing your precious sock?
+KID: (thinking) Hmmm... I think it was, SHOW!
+MON: That is a pretty far-fetched guess there, buddy!
+APP: Uhhh, SHOW? Hmmph! Impossible! SHOW is only confined to the TV dimensions. There is no way it can be...
+TV: (enters) Has anybody seen the COLOR sock I was looking for?
+mystery music 1
+APP: Real... How did SHOW even get here?!
+KID: (points to the TV character) There he is! He stole my sock!
+TV: No, I didn't!
+MON: Yes, you did!
+APP: Everyone, settle down now. Enough pointing fingers.
+KID: But- but SHOW has stolen my COLOR sock! Arrest him!
+MON: I swear he is just trying to hide it from the rest of us...
+Meanwhile TV: (angry) You are all telling lies, lies, I say, lies!
+APP: (angry) I said settle down! Order in the court! Please!
+Music Stops
+MON: This is not a court session but thank you.
+APP: Look, is there any way we can distinguish between the two socks?
+KID: Oh wait, now I remember! How stupid I am. My sock has little pictures of SHAPEs on it!
+TV: Mine was just a plain COLOR sock. Oh, how I fooled myself.
+APP: Well then, case closed on that. So, if it's not SHOW, then, who did it?
+MON: (nervously) Not me, no, why would I do that?
+Meanwhile TV: Not me!
+MON: (gasp) An unsolved mystery!
+shark tank serious music 1
+APP: I am afraid it came down to this. I will set out some suspects and a bounty hunt tomorrow morning.
+KID: My friends always trust me with socks, please do not go after them!
+APP: I am afraid we may have to if we do not find the sock stealer soon.
+MON: Well then, I better be out the door, come on buddy, we need to get a new pair of winter socks. (slowly heads toward the door)
+MON: (scratches his back) Oof, so itchy!
+Music Stops
+TV: Wait a minute (points to the ground) Why is there a sock on the floor...?
+record scratch
+KID: (notices) Wait, are those?
+courtroom music
+APP: 2319! We have a 2319! (charges at the Monster)
+Meanwhile TV: 2319! (charges at the Monster)
+APP: Sock stealer! You are under arrest! (Arrests the monster)
+Meanwhile TV: Stay down! (pushes the monster down)
+MON: Uh oh, I am busted!
+TV: Heck yeah you are!
+APP: Alright, monster, you are under arrest for sock theft. You have the right to remain silent.
+APP: Come with me to the kiddie STATE prison! (take the monster to the exit)
+MON: (Gets taken to the exit) I would have gotten away with it too, if it was not for my itch!
+police car
+Music Stops
+KID: Well, that was unexpected. My partner turns out to be that COLOR SHAPE-patterned sock thief.
+TV: Well crimes are full of big surprises kid. I have seen larger twists than this one.
+
+======
+
+INFORMATION ===============================
 ID: 1384
 TITLE: Hero Sitcom
 AUTHOR: ItsAtlas23e2
@@ -42366,6 +42462,96 @@ GROCER: I need to look for a new job. Maybe I can get hired in JOB...
 ======
 
 INFORMATION ===============================
+ID: 1389
+TITLE: Mystery Solved?
+AUTHOR: Bao-Bao
+VERIFIED: True
+TAGS: 
+SET: Murder
+DATE: 12/01/25
+CHARACTERS ================================
+DETECTIVE: The Detective:Center Stage
+VICTIM: The Young Victim, Frank:Stage Right
+KILLER: The Murderer:Center Stage
+MOTHER: The Grieving Mother, Jeanine:Stage Left
+BROTHER: The Victim's Snobbish Brother, Austin:Backstage
+SUGGESTIONS =============================
+EMPLOYEE: A household occupation:janitor, butler, maid, cook, nanny, gardener, driver
+SAFE: A location:store, bank, retirement home, jail
+LASTNAME: A popular last name:Jenkins, McGee, Johnson, Phillips
+NOUN: a noun:person, creature, furry, store, jail, sauna
+WEAPON: a type of weapon:sword, gun, bardiche, machete, axe
+NUMBERS: a 6 digit combination:012345, 123456, 027916, 789456
+TIME: an amount of time:2 days, a month, a year, 12 seconds, 14 minutes, 8 weeks, 7 hours
+GREETING: a greeting:hello, charmed, greetings, bonjour, hola, hi
+THING: a container:purse, bag, satchel, drawers, closet, bottle
+SCRIPT ==========================================
+(dark classical music)
+TYPEWRITER: After a celebration at the LASTNAME estate, the body of Frank LASTNAME was found.
+Meanwhile VICTIM: (lay on the piano)
+TYPEWRITER: Mere hours later, the Killer - the estate's EMPLOYEE - was detained.
+Meanwhile DETECTIVE: (put handcuffs on The Murderer)
+DETECTIVE: (point at The Murderer) You stay right there.
+Meanwhile KILLER: (sit on the sofa, handcuffed)
+DETECTIVE: (to the Grieving Mother) I'm terribly sorry for your loss, ma'am. Your son, and your EMPLOYEE in one fell swoop.
+Meanwhile MOTHER: (respond to a text message, then put your phone away)
+MOTHER: (Tearfully) Thank you, Detective, but I'll be alright. My EMPLOYEE was always sketchy to me, but my son was sure we could trust them.
+MOTHER: To his demise, I suppose. (Sob loudly. Like... very loudly. Like deafeningly loud.)
+DETECTIVE: Do you have anywhere you can stay for the night, ma'am? SAFE, perhaps?
+MOTHER: Oh, no, I'm not allowed near SAFE anymore.
+MOTHER: Don't worry about me, Detective, my son is rushing over to pick me up as we speak.
+DETECTIVE: Alright, ma'am. This should all be taken care of in about TIME or so.
+DETECTIVE: (To The Murderer) State Police are on their way to take you in.
+MOTHER: Oh... I'm so relieved that this heartless NOUN will finally see the hard hand of justice.
+KILLER: Bit harsh...
+Teleport BROTHER to Entrance Stage Left
+(knocking on door)
+BROTHER: (Enter through the door) Mother?
+MOTHER: Oh, Austin, you're here. Thank goodness, I can't stand to look at this wretched sight any longer.
+DETECTIVE: GREETING. I'm Detective Shoal. I assume you're Austin LASTNAME? (shake Austin's hand)
+Meanwhile BROTHER: (reach out to shake the detective's hand)
+BROTHER: GREETING. I'll be taking my mother now. Please, get this NOUN out of her home. (gesture to The Murderer)
+DETECTIVE: Of course. Everything should be sorted in TIME or so. My condolences.
+Meanwhile BROTHER: (lead Mother out the front door)
+BROTHER: Come, Mother.
+Meanwhile MOTHER: (follow Austin outside, sobbing)
+DETECTIVE: (To the Murderer) Stay where you are. (Exit Stage Right)
+(mystery music 1)
+KILLER: (After a beat, stand up and run over to the Victim) Frank! Frank, they're gone!
+VICTIM: (sitting up) Geez, I didn't think laying down for so long would be so painful...
+VICTIM: Wait.. why are you in handcuffs?
+KILLER: (Holding hands up) They caught me almost instantly, Frank! I forgot to throw the WEAPON in the furnace. It's still in my pocket.
+VICTIM: (Standing up) You NOUN, what are we gonna do now?
+KILLER: Why does everyone call me that...?
+VICTIM: I can't just pretend to be dead forever, I don't want to be locked in a morgue!
+KILLER: We can still do the rest of the plan, just get me out of these handcuffs and we can get the money and run.
+VICTIM: (pull a hairpin out of your hair and start picking the handcuff lock) Did you get the safe code?
+KILLER: I found it in your mother's THING of all places. It's NUMBERS.
+VICTIM: Perfect. (Finish picking the handcuff lock) The safe is behind that clock.
+(Music Stops)
+BROTHER: (Enter through the door) I'll grab your purse, mother, don't worry. (Stare at Frank and The Murderer in shock)
+Meanwhile KILLER: (stare at Austin in shock)
+VICTIM: (Attack Austin) He knows! Get him!
+Meanwhile BROTHER: (get attacked by Frank)
+(fistfight)
+KILLER: (hit Austin with WEAPON) I got him!
+(knife wound)
+Meanwhile BROTHER: (fall to the ground, dead)
+VICTIM: Wh- You killed him!
+KILLER: I thought that's what you were doing!
+VICTIM: NOUN!
+(tense cinematic music)
+KILLER: We need to get out of here, NOW!
+VICTIM: Get the money from the safe, and run.
+KILLER: (take money from behind the clock, and run out the front door with Frank) Oh geez, I'm actually a murderer now!
+Meanwhile VICTIM: (run out the front door with The Murderer)
+DETECTIVE: (Enter Stage Right) Paperwork's done, and- OH MY GOODNESS. (run to kneel beside Austin's body)
+TYPEWRITER: The criminal duo became known as Frank and NOUN
+TYPEWRITER: Until they were caught 2 days later, for depositing $12K at a nearby credit union.
+
+======
+
+INFORMATION ===============================
 ID: 1393
 TITLE: The Real Enemy
 AUTHOR: zanbbit
@@ -42591,6 +42777,111 @@ teleport WIZARD to Backstage
 NERD: I guess LNAME was right... I do have Gumption.
 JUDGE: You’re free to go now, son.
 gameshow outro
+
+======
+
+INFORMATION ===============================
+ID: 1397
+TITLE: You! Back me up here!
+AUTHOR: Wendibro
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 18/01/25
+CHARACTERS ================================
+LEADER: Event Leader:Stage Left
+HOSTILE: Hostile Participant:Center Stage
+PERSON: New guy:Entrance Stage Left
+SUGGESTIONS =============================
+NAME: Last name:Mike, Dean, Hammock
+ORGANIZER: Name:Elizabeth, Cameron, Anthony Banthony
+ACTIVITY: A Thrilling Activity:Dancing, Singing, DJ-ing
+AUTHORITY: Someone with Authority:President, Tax Collector, Police officer
+ARENA: A Location, Building or place:Colosseum, Fighting Pit, Battlefield
+HOMELESS: Something bad that can happen in your life:Homeless, Disease Outbreak, Overly long road trip
+HEALTH: Something needed to survive:Water, Spirits, Natural Daylight
+SCRIPT ==========================================
+(jazz music 2)
+TYPEWRITER: Midnight; Two people are discussing ideas for the establishment
+HOSTILE: -All I'm saying is, We'd definitely attract more customers if there was a spot to cut loose.
+HOSTILE: Don't get me wrong, I love the aesthetic we have, but it's so dreary!
+LEADER: An interesting proposal that I would entertain!
+LEADER: If not for the fact that I know what your concept of "Cutting loose" is..
+LEADER: ..It's very hard to get blood out of the carpet, you know.
+Door creak
+PERSON: (Walks onto the stage) *Quietly Humming a tune*
+LEADER: Ah! NAME! Welcome, Have a seat. Would you care for a Snickerdoodle?
+record scratch
+(Music stops)
+HOSTILE: (Points at NAME) You. Back me up here.
+HOSTILE: This place would be infinitely more appealing if there was space for activities more stimulating than meditation or dull chatter.
+HOSTILE: Somethin' to get the blood pumpin'.
+HOSTILE: Like a ARENA!
+PERSON: I prefer my blood to pump inside of my body. I'll take my Snickerdoodle to go, thanks.
+HOSTILE: Nope, Nope, Nuh-uh-uh-uh, No way. You ain't leaving that easily. Back me up, already.
+PERSON: (sigh).. If the floor is sand, you don't need to worry about the blood on the..
+PERSON: ..Actually, no.. Alright, listen. Hear me out here.
+PERSON: ACTIVITY. All of the thrill, None of the murder!
+LEADER: Oooh...
+HOSTILE: (Stay silent for a bit) No.
+LEADER: I don't know, I find the idea quite charming!
+(jazz music 2)
+PERSON: Why, thank you.
+LEADER: And there would be no need to build an additional venue to facilitate it! We have ample room in here!
+LEADER: I could have ORGANIZER whip us up a lovely banner.. Hand out some pamphlets...
+HOSTILE: I cannot believe you are taking this seriously.
+LEADER: (Thinking) Hmmm...
+PERSON: Oh! I know! How about, like, a one-night-a-month event where we pick random songs and maybe try to do like a dance-off?
+heavy door knocking
+HOSTILE: (SLAM HEAD ON TABLE) Urrgh..
+Music stops
+HOSTILE: I'm going to die.
+HOSTILE: You're going to find me one day under a table with a little message etched into the blade of the WEAPON you won't let me use
+HOSTILE: and all It will say is "Here lies the only Rational one. Died of Boredom"
+LEADER: (Short laugh) ...I'm sorry, But I'm afraid I will have to continue to veto the idea of a ARENA.
+LEADER: For one thing, all ethical concerns aside, Trying to get planning permission for that sort of thing would be an unending nightmare.
+LEADER: Plus, For the other concern, I can't help but feel like you would end up... Killing all of our customers.
+LEADER: Am I wrong?
+HOSTILE: ...No
+LEADER: I didn't think so. I know it's a drag, but you'll have to find some other way to entertain yourself.
+HOSTILE: ...Fine.
+HOSTILE: (Walks off stage) I'll figure something out.
+LEADER: (Looks at PERSON) So!
+(noir music 1)
+LEADER: (Sit down on a nearby chair) Now that we have a minute, How are you settling in?
+LEADER: We have very little idea of how to provide creature comforts,
+LEADER: But I'm told the establishment has a cozy quality these days!
+PERSON: It's uh... Yeah, Cozy's one word for it, Did you guys set up all the scrap metal walls and stuff in the hallways?
+LEADER: No, that was not our handiwork. The last group before you, actually. Lovely bunch! Certainly raised a few eyebrows, though.
+LEADER: I mean, It's not often you see a-
+LEADER: Well. Hm. I'm not sure this is my story to tell, honestly.
+PERSON: C'mon, man. You can't just drop that and not follow through, you're leaving me hanging over here!
+LEADER: Like I said, not my story to tell.
+PERSON: Really. I'm not, like AUTHORITY, Even if those guys did weird things, Who's gonna stop them now?
+LEADER: It's not anything particularly scandalous, Just a silly thing, No AUTHORITY will really care.
+LEADER: But I feel kind of.. petty talking about it behind their backs.
+LEADER: Honestly? I don't think I've ever met such a cheery, energetic bunch. They clearly loved spending time with each other.
+LEADER: They didn't even really seem fazed by the fact that they randomly just started living here for factors outside of their own control.
+PERSON: How do you mean? HOMELESS? Job, Like, Co-workers? Forced relocation?
+LEADER: None of the above, More like a "I must have taken the wrong turn, But I like the view" kind of deal.
+Meanwhile HOSTILE: (Get ready behind the door)
+PERSON: Hey, I'm sure you guys did what you could in terms of assistance, you know - with the resources, food and HEALTH.
+LEADER: Oh, and another thing. Can you do me a favour and check on the "Sane one"?
+PERSON: You got it. (Slowly get up from seat)
+record scratch
+Music stops
+crashing debris
+HOSTILE: (Running into room) Hey guys?! Uhhh..!
+PERSON: What's going on?
+Meanwhile LEADER: Huh?
+HOSTILE: So, Brad may or may not have just..
+HOSTILE: broken open the case with the WEAPON in it and is trying to recreate one of those Garry's mod breakable maps in our own establishment...!
+fire alarm
+PERSON: Check on the "Sane one", done..
+LEADER: I'LL BE RIGHT THERE! (Run through the now opened door)
+HOSTILE: Well, Better follow him, NAME. Go, help us!
+PERSON: (Runs through door) On it!
+HOSTILE: (Wait till they're gone) Welp, Time to steal all the snickerdoodles while those two idiots are away. Heheheh... Like candy from a baby..
 
 ======
 
