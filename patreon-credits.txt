@@ -1834,7 +1834,6 @@ DefinetlyNotR
 power_puffx
 PathBTW
 OctupleHaddock
-XoF_eLtTiL
 kamilek304
 TheLazyArtest
 GreenTeamAva
@@ -2097,6 +2096,7 @@ gh0st1393
 WanderingWairua
 Imoriginal
 Kawaiigato
+XoF_eLtTiL
 modNick
 ruralists
 #TIER=1
