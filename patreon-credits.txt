@@ -2095,6 +2095,7 @@ Kanji_UwU
 its_tman
 BloodyBanana
 gh0st1393
+WanderingWairua
 modNick
 ruralists
 #TIER=1
