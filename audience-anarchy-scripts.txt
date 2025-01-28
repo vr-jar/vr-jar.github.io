@@ -42560,7 +42560,7 @@ TAGS: Skit
 SET: Courtroom
 DATE: 13/01/25
 CHARACTERS ================================
-JUDGE HORI: The Completely Normal Judge:Judge Chair
+JUDGE TERRI: The completely normal judge:Judge Chair
 ATTORNEY: The lawyer:Defendant Table
 PROSECUTOR: The prosecutor:Plaintiff Table
 DEFENDANT: The defendant:Defendant Table
@@ -42581,93 +42581,93 @@ SCRIPT ==========================================
 (courtroom music)
 PROSECUTOR: So, taking into account all the evidence and testimony we have seen over the last TIME
 PROSECUTOR: I believe I have provided sufficient proof that DEFNAME is guilty of MINCRIME.
-JUDGE HORI: Hmm... A compelling case from PRONAME. ATTNAME, your response?
+JUDGE TERRI: Hmm... A compelling case from PRONAME. ATTNAME, your response?
 ATTORNEY: Your honor, all PRONAME has done over these TIME is try to slander my clients good name.
 PROSECUTOR: Objection! That's not true! I am trying to bring them to justice! Enough with your tall tales, ATTNAME!
 ATTORNEY: Objection! Don't interrupt me while I am giving my closing arguments... that's rude.
-JUDGE HORI: Sustained, that was quite rude of you, PRONAME.
-ATTORNEY: As I was saying, I believe the evidence I have shown proves why my client had to resort to MINCRIME.
+JUDGE TERRI: Sustained, that was quite rude of you, PRONAME.
+ATTORNEY: As I was saying, I believe the evidence I have shown proves why my client had no choice but to resort to MINCRIME.
 ATTORNEY: DEFNAME is innocent and what they did was justified.
-JUDGE HORI: Hmm, another decent argument (Look at defendant) How do you plead, DEFNAME?
+JUDGE TERRI: Hmm, another decent argument (Look at defendant) How do you plead, DEFNAME?
 DEFENDANT: Not guilty your honor. I did what I did to get back at the GROUP. They had it coming.
-JUDGE HORI: Hmm, yes, the GROUP can be quite troublesome.
-JUDGE HORI: You know I like you, DEFNAME. You remind me of me in my youth, a bit of a loose cannon but a good man at heart.
-JUDGE HORI: We all screw up sometimes. I know I've certainly had my fair share of adventures.
+JUDGE TERRI: Hmm, yes, the GROUP can be quite troublesome.
+JUDGE TERRI: You know I like you, DEFNAME. You remind me of me in my youth, a bit of a loose cannon but a good man at heart.
+JUDGE TERRI: We all screw up sometimes. I know I've certainly had my fair share of adventures.
 DEFENDANT: Hunh, never though of you as that type, Judge.
-JUDGE HORI: Oh yes, there is much you don't know, but all that is irrelevant.
-JUDGE HORI: MINCRIME is still a crime, but given the circumstances, I think I'll go easy on you.
-JUDGE HORI: With that, I am ready to hand down my verdict. I declare DEFNAME
-ATTORNEY: Hold on, your honor. How do you know about the GROUP?
-PROSECUTOR: And what do you mean when you say "my fair share of adventures"? Are you hiding something?
+JUDGE TERRI: Oh yes, there is much you don't know, but all that is irrelevant.
+JUDGE TERRI: MINCRIME is still a crime, but given the circumstances, I think I'll go easy on you.
+JUDGE TERRI: With that, I am ready to hand down my verdict. I declare DEFNAME
+ATTORNEY: Hold on, your honor, how do you know about the GROUP?
+PROSECUTOR: And what do you mean when you say 'my fair share of adventures'? Are you hiding something?
 ATTORNEY: What are you suggesting, PRONAME?
-PROSECUTOR: He seems sympatric to the defendants plight. What if he's committed MINCRIME in the past?
+PROSECUTOR: The judge seems sympatric to the defendants plight. What if he's committed MINCRIME in the past?
 (courtroom sting)
 ATTORNEY: (gasps and looks at judge) Your Honor! Surely it's not true!
-JUDGE HORI: (Nervous) N-No why would I do something like that? I'm an upstanding judge!
+JUDGE TERRI: (Nervous) N-No why would I do something like that? I'm an upstanding judge!
 DEFENDANT: I don't know. The judge is looking pretty sus right now. I mean... (mutters) It takes one to know one.
-PROSECUTOR: Admit it Judge Hori! You are guilty of MINCRIME and have no right to proceed with your judgement!
-JUDGE HORI: You're out of order, PRONAME! Cease this line of questioning at once!
-JUDGE HORI: Or I will will sentence you to PUNISHMENT!
+PROSECUTOR: Admit it Judge Terri! You are guilty of MINCRIME and have no right to proceed with your judgement!
+JUDGE TERRI: You're out of order, PRONAME! Cease this line of questioning at once!
+JUDGE TERRI: Or I will will sentence you to PUNISHMENT!
 ATTORNEY: Now I'm suspicious too. We should put you on trial for MINCRIME!
 PROSECUTOR: I agree with ATTNAME. We'll find the truth! Even if it takes TIME.
-JUDGE HORI: This is Absurd! I Object!
+JUDGE TERRI: This is Absurd! I Object!
 DEFENDANT: (points at the judge) OVERULED! Sorry I've always wanted to say that.
-ATTORNEY: We're the judges now, Judge Hori!
+ATTORNEY: We're the judges now, Judge Terri!
 (shark tank discussion music 1)
-PROSECUTOR: And my first witness is you (point at Judge Hori) Have you been guilty of MINCRIME?
-JUDGE HORI: (Growls) Okay Fine! Yes I admit it! I've indulged in MINCRIME once or maybe NUMBER times.
+PROSECUTOR: And my first witness is you (point at Judge Terri) Have you been guilty of MINCRIME?
+JUDGE TERRI: (Growls) Okay Fine! Yes I admit it! I've indulged in MINCRIME once or maybe NUMBER times.
 ATTORNEY: NUMBER Times!?
 PROSECUTOR: You're a Monster!
 DEFENDANT: Not even the GROUP deserves that.
-JUDGE HORI: It was years ago! And I got away with it every time too! Until you meddling lawyers and your stupid defendant came along!
-JUDGE HORI: What's the big deal!? It's Just MINCRIME!
-JUDGE HORI: At least I'm not doing anything really bad like MAJCRIME if I did that, then I would be in trouble.
+JUDGE TERRI: It was years ago! And I got away with it every time too! Until you meddling lawyers and your stupid defendant came along!
+JUDGE TERRI: What's the big deal!? It's Just MINCRIME!
+JUDGE TERRI: At least I'm not doing anything really bad like MAJCRIME if I did that, then I would be in trouble.
 DEFENDANT: Hold on now, that seems like a really specific offense, why would you just randomly bring it up like that?
 DEFENDANT: Could it be that you're guilty of that too?
 PROSECUTOR: Hmm... DEFNAME may have a point.
-ATTORNEY: Judge Hori, have you also committed MAJCRIME?
-JUDGE HORI: (Very nervous) N-N-No! Never I... I Object! AGAIN! This is a violation of uhh... something!
-PROSECUTOR: You seem pretty shaken Judge Hori, why not just confess? Or do you want this to last TIME?
-JUDGE HORI: Fine! I shouldn't have said anything! But yes! I did it! I am guilty of MAJCRIME too!
+ATTORNEY: Have you also committed MAJCRIME, Judge Terri?
+JUDGE TERRI: (Very nervous) N-N-No! Never I... I Object! AGAIN! This is a violation of uhh... something!
+PROSECUTOR: You seem pretty shaken Judge Terri, why not just confess? Or do you want this to last TIME?
+JUDGE TERRI: Fine! I shouldn't have said anything! But yes! I did it! I am guilty of MAJCRIME too!
 (tense cinematic music)
 ATTORNEY: Seriously!? How Did you get away with that!?
 PROSECUTOR: I'm starting to wonder how you became a judge!
 DEFENDANT: Wow, you're actually worse than me.
-JUDGE HORI: It's not my fault! The GROUP made me do it! I had no choice. It was years ago!
-JUDGE HORI: They were gonna make me PUNHISMENT if I didn't do what they said.
-ATTORNEY: Save it for the Judge, Judge!
+JUDGE TERRI: It's not my fault! The GROUP made me do it! I had no choice. It was years ago!
+JUDGE TERRI: They were gonna make me PUNHISMENT if I didn't do what they said.
+ATTORNEY: Save it for the judge, Judge!
 PROSECUTOR: So not only are you guilty of MINCRIME, you're also guilty of MAJCRIME
-PROSECUTOR: What else have you done, Judge Hori? If that even IS your real name!
-JUDGE HORI: There is nothing else. You've already exposed me as an evil criminal lunatic!
-JUDGE HORI: The only thing I haven't revealed is that time I got away with CRZCRIME.
+PROSECUTOR: What else have you done, Judge Terri? If that even IS your real name!
+JUDGE TERRI: There is nothing else. You've already exposed me as an evil criminal lunatic!
+JUDGE TERRI: The only thing I haven't revealed is that time I got away with CRZCRIME.
 (silly music 2)
-JUDGE HORI: WAIT! I mean I almost did that but I decided to be a good law abiding citizen!
+JUDGE TERRI: WAIT! I mean I almost did that but I decided to be a good law abiding citizen!
 DEFENDANT: How am I the one on trial with maniacs like this! (points at judge) Doing stuff like CRZCRIME!?
 PROSECUTOR: You truly are disgusting. How do you keep getting away with it?
-ATTORNEY: And how did you become a Judge witch such a bad track record?
-JUDGE HORI: (sighs) I have rich parents. My dad is a JOB.
+ATTORNEY: And how did you become a judge witch such a bad track record?
+JUDGE TERRI: (sighs) I have rich parents. My dad is a JOB.
 ATTORNEY: Yep, That'll do it.
 PROSECUTOR: That explains a lot.
 DEFENDANT: It's always the ones with JOB parents.
 ATTORNEY: So what's your excuse for CRZCRIME? Did the GROUP make you do that one too?
-JUDGE HORI: (defeated voice) No. That one was all me. I did it for THINGS.
+JUDGE TERRI: (defeated voice) No. That one was all me. I did it for THINGS.
 PROSECUTOR: All for THINGS, hunh? Was it worth it?
-JUDGE HORI: Well considering I never actually got any THINGS, no not really.
+JUDGE TERRI: Well considering I never actually got any THINGS, no not really.
 ATTORNEY: What a sad way for the son of a JOB to go.
-JUDGE HORI: But now you actually know everything
-JUDGE HORI: Congratulations DEFNAME, ATTNAME and PRONAME.
-JUDGE HORI: You have exposed me for the villain I truly am. So... how long I am going away for?
+JUDGE TERRI: But now you actually know everything
+JUDGE TERRI: Congratulations DEFNAME, ATTNAME and PRONAME.
+JUDGE TERRI: You have exposed me for the villain I truly am. So... how long I am going away for?
 PROSECUTOR: Well considering your crimes of MINCRIME
 ATTORNEY: and MAJCRIME
 DEFENDANT: and even CRZCRIME
 PROSECUTOR: My math sees you spending about... NUMBER years in jail.
-JUDGE HORI: I see... Well in that case... YOU'LL NEVER TAKE ME ALIVE! (run off stage)
+JUDGE TERRI: I see... Well in that case... YOU'LL NEVER TAKE ME ALIVE! (run off stage)
 PROSECUTOR: Bailiff! Go after that madman!
 DEFENDANT: So uhh... Am I off the hook. I did help catch that guy with you... kind of.
 PROSECUTOR: No. We'll just move your hearing to another date with a different judge.
 ATTORNEY: Yeah, it's very important you have a fair trial for MINCRIME
 DEFENDANT: COME ON! Are you serious!?
-TYPEWRITER: Judge Hori was never found. Some say he's still at large today.
+TYPEWRITER: Judge Terri was never found. Some say he's still at large today.
 
 ======
 
