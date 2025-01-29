@@ -35161,6 +35161,71 @@ MOM: Time to make a lovely dinner of FOOD
 ======
 
 INFORMATION ===============================
+ID: 1096
+TITLE: From the Future
+AUTHOR: RoboRailroad
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+DATE: 19/09/24
+CHARACTERS ================================
+ROBOT: A robot who timed travel to the past:Chair
+TECH: Some random scientist who was dragged to look at the robot:Corner Left
+OFFICER: An alien disguised as a detective:Corner Right 
+SUGGESTIONS =============================
+NAME: Name for a robot:Novabot, model-20, Gi-15
+COMPANY: Name of a company:Tech Nova, Pick's prevention, Farto magika
+CREATURE: any species of creature:Golbilo, Solomolocus, robot
+COP: Nickname for a detective:Gumshoe, Man in a coat, Big eye
+PERSON: Any human being:Coworker, Friend, stranger
+NUMBER: Any number:56, 118, 43
+SCRIPT ==========================================
+(courtroom music)
+OFFICER: Alright power this thing on.
+TECH: Ok sir (flip the switch on the robot).
+(spy machinery)
+ROBOT: NAME SYSTEMS ACTIVE STATE MY PURPOSE.
+OFFICER: Well I'll be damned.
+TECH: Well first mind telling us who made you and how you got here?
+ROBOT: I was programmed by COMPANY to exterminate an entity.
+TECH: Mind telling us a little bit about this "entity".
+ROBOT: Negative, the only thing I'm allowed to provide is its name.
+OFFICER: WOAH WOAH why are you only allowed to tell its name?
+OFFICER: ARE YOU HIDING SOMETHING FROM US!?
+TECH: Calm down detective COP maybe its data isn't fully restored.
+OFFICER: Ok what you say so but if he's planning world domination or something it's all on you.
+(cellphone vibrate)
+TECH: Oh it's PERSON I need to take this I'll be right back.(exit the room)
+(Scary music)
+OFFICER: (laughs manically) Finally after NUMBER years of running from this hunk of metal...
+OFFICER: I finally have a chance to destroy it. (Starts hitting the robot)
+(Music Stops)
+ROBOT: Entity detected, commencing termination process.
+(chainsaw)
+OFFICER: That's bad (Shapeshift back).
+ROBOT: I know you are the officer CREATURE.
+TECH: Alright I'm back it was a PERSON wanting to know how was the interrogation going and what was happening.
+OFFICER: This thing just said something in like code or a different unreal language then tried to kill me!
+TECH: What did this language sound like I need to know for science of course.
+OFFICER: Maybe stop this thing from killing me then I'll try to explain.
+TECH: Ok I'll try to stop it.
+TECH: uh stop, power off, down.
+ROBOT: Negative the so-called "officer' is the CREATURE I was sent to destroy.
+TECH: What that's prosperous he's human, flesh and bones.
+ROBOT: Negative now move out of the way before I am forced to terminate you.
+TECH: Alright I'll stay out of your way.
+OFFICER: You doomed me human!
+(alien teleport)
+OFFICER: Never mind human thank you for stalling him long enough for me to recharge my time travel device so long!
+(alien siren)
+Teleport OFFICER to BACKSTAGE
+ROBOT: Not again CREATURE you will not escape termination.
+Teleport ROBOT to BACKSTAGE
+TECH: What the hell just happened I need to call PERSON.
+
+======
+
+INFORMATION ===============================
 ID: 1097
 TITLE: Unwanted gift
 AUTHOR: RoboRailroad
@@ -40723,6 +40788,78 @@ Meanwhile ALIEN: (Unconscious)
 ======
 
 INFORMATION ===============================
+ID: 1328
+TITLE: The Greatest Joke
+AUTHOR: Kayori_lol
+VERIFIED: True
+TAGS: Skit
+SET: Forest Bridge
+DATE: 21/12/24
+CHARACTERS ================================
+JOSE: Jose the Joke Hunter:Stage Right
+JANE: Jane the Assistant:Stage Right
+WIZARD: The Great Almighty Joke Wizard:Backstage
+SUGGESTIONS =============================
+NUMBER: any number:11, 69, 27 and a half
+NAME: a name for a joke wizard:Harry, Jokealdore, The Jokester
+UGLY: something that looks weird:Spider Crab, Your mom, Roadkill
+BODY: a body part:Soul, Mind, Heart
+ERM: Something you'd say after something uneventful :That's it?, What was that, boring
+WORD: a word for greatest:Good, best, cool
+APPEAR: Something you'd say when entering/appearing:Hazah!, Boo!, Appear!
+BYE: Something you'd say when leaving:Bye, Toodle do, cya
+SCRIPT ==========================================
+(groose music)
+JOSE: Alright Jane, this is it. This is the last sighting of NAME the Joke Wizard. It was only NUMBER miles away from home.
+JANE: Jose this is a lost cause, we already know every Joke ever, why do we need the WORD joke of all time?
+JOSE: Not the "WORD" joke, Jane...
+JOSE: (look up at the sky and raise arms) The Greatest Joke of All Time!!!
+(bird screech)
+JANE: Jose what's the point?
+JOSE: Jane focus... this joke might be the end of my Joke Hunting journey...
+JOSE: NAME the Joke wizard should be around here somewhere...
+WIZARD: (emerge from bushes) APPEAR It is I... NAME The Joke Wizard!
+JOSE: Jane look it's The Joke Wizard!
+JANE: He looks like UGLY
+JOSE: Jane stop being rude.
+WIZARD: Yeah seriously that was rude.
+WIZARD: That's an issue I've been trying to fix. Looking like UGLY.
+JANE: Oh I'm sorry man.
+WIZARD: It's fine... Anyway.
+WIZARD: I have been overhearing your troubles, you're in search of the greatest joke of all time?
+JOSE: Yes! I'll do anything to know the joke!
+WIZARD: In order for you to understand and know this joke...
+WIZARD: You must sell a BODY!
+JOSE: Sorry Jane your BODY is done for.
+JANE: Well that's not nice!
+WIZARD: Your BODY is now mine!
+JANE: Sigh.. (walk over next to the wizard) This sucks...
+JOSE: So what's the joke?
+WIZARD: (clear throat) Hey guess what.
+JOSE: What?
+WIZARD: Chicken butt.
+(laughter)
+JANE: ERM
+WIZARD: ...Yeah.
+JOSE: Oh... My... Godness...
+JOSE: Thank you NAME The Joke Wizard... You have enlightened me.
+JANE: Jose! What the crap!
+JOSE: Sorry Jane, but it was worth it.
+WIZARD: I must go now... BYE! (walk off stage)
+JANE: Well Jose... I guess this is goodbye.
+JOSE: Wait!
+JANE: ...Yeah?
+JOSE: Guess what..
+JANE: What?
+(peaceful fantasy music)
+JOSE: Chicken butt...
+JANE: Yeah I'm out. (walk off stage)
+(emotional piano music)
+JOSE: Well now.. I know every joke that is known to man kind... NUMBER jokes in my possession. The chicken butt is all-mighty..
+
+======
+
+INFORMATION ===============================
 ID: 1329
 TITLE: Suspiciously Stoned
 AUTHOR: LeoHardy
@@ -40801,6 +40938,111 @@ CUSTOMER: Nope. I'm out. I’m just gonna go grab bottled TDRINK.
 EMPLOYEE: Don’t you want me to sprinkle some BODYPART shavings on top? It's like our secret ingredient.
 CUSTOMER: No! Just no. Bottled TDRINK will suit me just fine. (exits stage right)
 EMPLOYEE: That it does. Stay hydrated, man! And remember, a smoothie isn't a drink, it’s a state of mind. I'm glad we had this conversation!
+
+======
+
+INFORMATION ===============================
+ID: 1333
+TITLE: The Duckling With A Funny Voice
+AUTHOR: OliverTheDragon
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+DATE: 24/12/24
+CHARACTERS ================================
+NARRATOR: Narrator:Narrator Podium
+DUCKLING: Duckling with a funny voice:Entrance Stage Right
+BROTHER: Ducklings brother:Entrance Stage Left
+SUGGESTIONS =============================
+CATCHPHRASE: A duck related catchphrase:Its quack or nothing, Quacky dooby doo
+BIRD: Large bird species:Goose, Chicken, Eagle, Seagull, Swan
+WEAPON: Blunt weapon:Baseball bat, Cricket bat, Hammer
+NAME: Name of the narrator:Steve, Jessica, Jennifer, Oscar, Stephen, Mary, Lucy Jerry
+LAST: A last name:Johnsson, Smith, Rogen, Wallberg, Swansson
+BODY: A part of the body:stomach, head, leg
+OLD: Older brothers name:Ronald, Jesse, Jared, Chris
+YOUNG: Ducklings name:Oscar, Carter, Marty, Morgan, Robert
+FOOD: something ducks eat:Bread, grains
+SCRIPT ==========================================
+peaceful fantasy music
+NARRATOR: Greetings ladies and gentlemen my name is NAME LAST what you are about to watch is a story about a little duckling.
+NARRATOR: But not just any duckling, a duckling with a funny voice and his name is YOUNG...
+DUCKLING: (enter stage right)
+DUCKLING: I hate my life all the other ducks are bullying me and im tired of it!
+DUCKLING: And whats worse is that my older idiot of a brother doesn't defend me!
+DUCKLING: He and his friends are bullying me too, All because i have a funny voice!
+NARRATOR: The duckling had run away from home because other ducks are bullying him including his own brother!
+DUCKLING: The only one who atually cared about me was my mom!
+DUCKLING: But She's been acting different since she started dating that darn BIRD!
+NARRATOR: All of a sudden a noise startles the duckling...
+music stops
+forest footstep
+DUCKLING: (Startled) Who's there? show yourself you coward!
+BROTHER: There you are YOUNG!
+silly music 2
+NARRATOR: It was the ducklings older brother OLD...
+BROTHER: Mom told me you ran away and she told me to get you back!
+BROTHER: Come on you little wimp its time for you to come with me home!
+DUCKLING: I refuse!
+BROTHER: (angered) you will come with me now YOUNG!
+DUCKLING: Or what?
+BROTHER: Or i it will be CATCHPHRASE!
+NARRATOR: Oh yeah i forgot, The ducklings brother OLD have a silly catchphrase...
+DUCKLING: Please stop it with the catchphrase thing it's just embarrasing!
+DUCKLING: Seriously you are a fully grown duck and you behave like a newborn duckling!
+BROTHER: (Angered) What did you say to me you little wimp!?
+DUCKLING: You heard me!
+BROTHER: (Angered)You will regret this!
+DUCKLING: (Angered) You know what OLD, Im tired of you bullying me!
+DUCKLING: I already have it difficult as it is at the farm. You don't have to make it worse for me!
+epic fantasy music 2
+BROTHER: (Draws WEAPON) Thats it, you did this to yourself!
+DUCKLING: (Draws WEAPON) Im not scared of you anymore OLD!
+epic fantasy music 3
+BROTHER: (Angered) CATCHPHRASE CATCHPHRASE CATCHPHRASE!!!
+BROTHER: (Charge towards the duckling) RAAAAAAAH!!!
+Meanwhile DUCKLING: (Charge towards the brother) YAAAAAAAH!!!
+fistfight
+BROTHER: (Yell) Take this you little wimp!
+DUCKLING: (Yell) I will not let you bully me anymore!
+music stops
+BROTHER: (Falls to the ground) Ouch you hit me right in my BODY... Please stop it i give up!
+DUCKLING: (Angered) why should i show you mercy?
+BROTHER: The reason why im bullying you is because... i am jealous...
+DUCKLING: What do you mean?
+emotional piano music
+BROTHER: Ever since you hatched from your egg i was jealous of your voice.
+BROTHER: there is also one thing you should know!
+DUCKLING: What is it? what should know?
+BROTHER: Mom never told you where you really are from!
+DUCKLING: She told me enough! She told me she is my real mom!
+BROTHER: YOUNG... You are adopted...
+vine boom
+DUCKLING: No... no... thats not true. thats impossible!
+NARRATOR: The duckling was devastated by what he just heard...
+BROTHER: Search your feelings you know it to be true!
+DUCKLING: NOOOO!!!
+BROTHER: (Emotional) Before you hatched your mother and father fled from the forest due to hunting season...
+BROTHER: (Emotional) Sadly your father did not make it...
+DUCKLING: (Sobbing) They hunt farmducks in the forest?
+BROTHER: No, they hunt mallards. your'e a mallard YOUNG...
+BROTHER: Your mother got sick and couldn't take care of you and thats when she met my mother...
+BROTHER: (Emotional) You were just a egg when this happened...
+DUCKLING: (Sobbing) is my mother dead?
+BROTHER: (Emotional) We don't know if she's dead or alive because she left without a trace...
+BROTHER: (Emotional) And even if mom is dating that darn BIRD she still loves you very much...
+DUCKLING: (Sobbing) I, i don't know what to say...
+BROTHER: (Emotional) And even if you aren't my real brother i still see you as a one...
+BROTHER: (Emotional) i also wanna say im sorry for treating you like garbage...
+NARRATOR: The duckling couldn't believe his ears. OLD apologized to him for the first time ever.....
+DUCKLING: I forgive you OLD...
+happy music 1
+BROTHER: Thank you YOUNG. Now let's go home we don't want mom to worry about us both...
+BROTHER: By the way, the farmer is gonna give us FOOD for dinner.
+NARRATOR: What a beautiful ending ladies and gentlemen.
+NARRATOR: If you have any friends or relatives thats going through difficult times make sure to be there for them...
+NARRATOR: And remember, Treat people the way you wanna be treated...
+TYPEWRITER: THE END...
 
 ======
 
@@ -42634,7 +42876,7 @@ ATTORNEY: Seriously!? How Did you get away with that!?
 PROSECUTOR: I'm starting to wonder how you became a judge!
 DEFENDANT: Wow, you're actually worse than me.
 JUDGE TERRI: It's not my fault! The GROUP made me do it! I had no choice. It was years ago!
-JUDGE TERRI: They were gonna make me PUNHISMENT if I didn't do what they said.
+JUDGE TERRI: They were gonna make me PUNISHMENT if I didn't do what they said.
 ATTORNEY: Save it for the judge, Judge!
 PROSECUTOR: So not only are you guilty of MINCRIME, you're also guilty of MAJCRIME
 PROSECUTOR: What else have you done, Judge Terri? If that even IS your real name!
@@ -42644,7 +42886,7 @@ JUDGE TERRI: The only thing I haven't revealed is that time I got away with CRZC
 JUDGE TERRI: WAIT! I mean I almost did that but I decided to be a good law abiding citizen!
 DEFENDANT: How am I the one on trial with maniacs like this! (points at judge) Doing stuff like CRZCRIME!?
 PROSECUTOR: You truly are disgusting. How do you keep getting away with it?
-ATTORNEY: And how did you become a judge witch such a bad track record?
+ATTORNEY: And how did you become a judge with such a bad track record?
 JUDGE TERRI: (sighs) I have rich parents. My dad is a JOB.
 ATTORNEY: Yep, That'll do it.
 PROSECUTOR: That explains a lot.
@@ -43106,6 +43348,157 @@ church bell
 RICK: (Shocked) HOLY COW, HE’S DEAD!
 TIM: Yep, but how? We got everything out…
 RICK: Wait. (Looks back in stomach, grabs FOOD, and tastes it) Yep, his FOOD was laced with cyanide.
+
+======
+
+INFORMATION ===============================
+ID: 1418
+TITLE: Detective Comfrey
+AUTHOR: tophatbunny
+VERIFIED: False
+TAGS: Skit
+SET: Detective Noir
+DATE: 26/01/25
+CHARACTERS ================================
+DETECTIVE COMFREY : A southern detective:Detective Chair
+BILLY: Detective's british son:Visitor Chair
+GENERAL MUNCHKIN: Southern General:Backstage
+SUGGESTIONS =============================
+SCHOOL: A name for a preschool:Barkwood, Mosstree, Fried Chicken
+MESS: Something you would make somebody clean up:Spillt Spaghetti, Unassuming Liquids, Toilets
+ACTION: Something you would do:Cookin, Eatin, Burnin,
+A PROBLEM: A reason you might dislike somebody:"Stolen my car," "ate my food," "snatched my fridge"
+SOMETHING : Something you can do:Boogie, Break, Draw
+ANIMAL : A random animal:Hamster, Chinchilla, Ferret
+KIDSLANG: Anything the kids are saying these days:Alpha, Ohio Rizz, Get Dunked On 
+FUNNYWORD: A silly word:Capybara, Hockeywash, Pineapples 
+NUMBER: A number :35, 67, 72
+ITEM: A random item :Gluesticks, Iron Nails, Rustic Bikes
+SCARYTHING: Something scary:Ghosts, Cucumbers, Your mom
+SCRIPT ==========================================
+(jazz music 1)
+DETECTIVE COMFREY: It was a gloomy afternoon. It was cold like the time I forgot my pants picking up my son at SCHOOL preschool.
+DETECTIVE COMFREY: I was banned for life... he has to now walk mile to get to the car. All because of pants.
+BILLY: Daddie I want sandbox, bring me to sandbox Daddie.
+(tense cinematic music)
+DETECTIVE COMFREY: (slams fist on table) We can't go back BILLY!
+DETECTIVE COMFREY: You pissed in the sandbox!
+DETECTIVE COMFREY: Why the gosh darn sandbox!
+(jazz music 1)
+BILLY: Daddie can I buy roblox... it's witerary a dollar.
+(tense cinematic music)
+DETECTIVE COMFREY: Roblox is free!
+BILLY: not the robux ones daddie.
+(tense cinematic music)
+DETECTIVE COMFREY: The divorce is your fault, forget what the therapist said.
+(jazz music 1)
+BILLY: Daddie thats not fair! Please don't make me clean up the bathroom MESS.
+BILLY: (looks at audience) Daddie was really angwey mommie left with her Italian lover.
+BILLY: Daddie sometimes say I ACTION on daddie's work. That could also be why daddie no likey me.
+DETECTIVE COMFREY: I apologize BILLY. Not really that much, but you know, enough to make up
+BILLY: Can I SOMETHING on the floor?
+DETECTIVE COMFREY: No BILLY! We have to move the plot along!
+General Munchkin: barges in
+(thunder)
+(western hero theme)
+GENERAL MUNCHKIN: Who pissed my pants. Those dang red coats keep pissin my pants.
+GENERAL MUNCHKIN: There's an issue brewin and it's not the brits!
+GENERAL MUNCHKIN: Your issue. You A PROBLEM!
+DETECTIVE COMFREY: A PROBLEM! How boutchu sleepin with the misses!
+GENERAL MUNCHKIN: (looks at audience) How'd he know bout the misses!
+GENERAL MUNCHKIN: I've been ACTION (ing) on his work since november for A PROBLEM.
+GENERAL MUNCHKIN: also I've been pissin my pants! (Looks back at scene)
+BILLY: (mutters) Mommie, italian lover, why you leave me with Daddie and his southern general.
+(badass music 1)
+GENERAL MUNCHKIN: Why this alien lookin ANIMAL speakin the devil's language.
+GENERAL MUNCHKIN: get em one of them roblox. All them kids playin it. What are they saying these days? KIDSLANG.
+GENERAL MUNCHKIN: or you could put on a muzzle on em.
+BILLY: Daddie he called me doggie.
+DETECTIVE COMFREY: Billy no, he called you ANIMAL. Which is basically the same thing. New age and all that.
+DETECTIVE COMFREY: Now lets forget that and ask the real question. BILLY why are you British?
+GENERAL MUNCHKIN: Who said alright to that?
+BILLY: Well according to the script writer. If I'm british, it's a bit of a laugh innit. It's a bit naff isn't?
+BILLY: They 100% googled british slang for this.
+GENERAL MUNCHKIN: FUNNYWORD
+BILLY: Daddie how old is the General mate anyway
+DETECTIVE COMFREY: based on my detective skills... I would say about... psst how old are you?
+GENERAL MUNCHKIN: old enough to read like a big boy... 73 probably. Still deciding.
+DETECTIVE COMFREY: based on his disgusting uncleaned fingernails about NUMBER.
+GENERAL MUNCHKIN: Yall are lucky I can't count, or I would scramble you like an egg on the Fourth of July.
+BILLY: Daddie I heard he eats ITEM.
+DETECTIVE COMFREY: that sounds about right.
+BILLY: Daddie i'm scared. ITEM is scary.
+DETECTIVE COMFREY: BILLY thats not the real horror. The horror is SCARYTHING.
+GENERAL MUNCHKIN: SCARYTHING! where! First A PROBLEM now this. I'm outta here. (Exits)
+(bird screech)
+DETECTIVE COMFREY: Is it werid that I have no idea who that guy is? I friens with him, yet I don't know his name.
+(spy ending sting)
+
+======
+
+INFORMATION ===============================
+ID: 1422
+TITLE: Drunk Aussie Alien
+AUTHOR: Naquill3 31cb
+VERIFIED: True
+TAGS: Skit
+SET: Campsite
+DATE: 27/01/25
+CHARACTERS ================================
+MATT: Matt ( Australian ):Camping chair
+JACK: Jack ( Australian ):Log chair
+ZORP NORP: Zorp Norp the Drunk alien:Entrance Stage Left
+SUGGESTIONS =============================
+DRINK: an adult beverage:beer, margarita, wine
+SIPSS: a number:1000, 222, 500, 900
+PLACE: a place:campfire, new york, city
+PHYSICAL: a physical action:burn, hit, kick
+STORE: an incident that happen at the store:someone burnt a leg, a guy fell on his back
+GAME: a video game:call of duty, fortnite, roblox
+SCRIPT ==========================================
+matt: thanks for inviting me to your camping trip mate, this sure is a pretty sweet place to hang
+jack: no worries mate, its about i go outside more than just playing GAME all night.
+explosion
+matt: What the hell was that?
+jack: Not sure, mate. Let’s go have a look.
+australian music 1
+zorp norp: G'day, Earthlings! Zorp Norp here! That was a bloody wild ride, huh?
+matt: Wait... are you... an alien?
+jack: And a drunk one at that! You okay, mate?
+zorp norp: Oi, you got DRINK in there? I’m dying for a drink!
+matt: You just crashed your spaceship into the Outback and now you want our beer?
+zorp norp: Yeah, I’ve been traveling for ages. A man—well, alien—needs a DRINK, right? Just one little sip... come on.
+jack: Mate, you’re a walking disaster. I bet your spaceship’s still burning out there.
+zorp norp: It’ll be fine! I’ll fix it later. Just need to have a DRINK, settle the nerves, y’know?
+matt: You’re not getting a DRINK.
+zorp norp: Oh, come on, fellas! Just SIPSS more sips mate. Look at it! It’s all icy and... oh yeah. (grabs a DRINK and opens it with his teeth) Perfect.
+matt: You’re already hammered! You can’t just keep drinking!
+zorp norp: Ahhh, that’s the stuff! This is the best beer I’ve had since I... uh, I don’t know, crashed into a moon last week. But this... this is next level.
+jack: This is insane. We’re out here in the middle of PLACE, and you’re just making yourself at home.
+zorp norp: Oi, I’m not just making myself at home. I’m fixing things up! (stumbles toward the fire) Look at this little campfire. I’ll make it better!
+matt: Wait, no—don’t mess with that!
+vine boom
+Zorp Norp: Oops! (knocks over the campfire while trying to "fix" it. The fire spills out.)
+jack: Oi, you idiot! You just knocked it over!
+zorp norp: No worries, mate! I’m an expert! I’ve been to Mars, Venus... you name it! This fire’s nothing. I’ll fix it in a sec. Just need another DRINK!
+matt: You’re gonna PHYSICAL the whole bloody place down!
+zorp norp: It’ll be fine! It’s all part of the process. (stumbles back to the cooler)
+jack: Mate, you’ve officially turned this into a nightmare. You can’t just keep drinking our stuff!
+zorp norp: What? I’m helping! Look at me go! This is a classic zorp norp move.
+matt: That’s what you need to fix, not the fire. Your ship’s still on fire, mate!
+zorp norp: Nah, nah, I’ll get to it later. Just need... a few more DRINK first. I’m seriously under-fueled.
+jack: You’re under everything, mate. But if you want to pass out here and leave us to deal with this, go for it.
+zorp norp: You got any more DRINK, though? ‘Cause... this would be a good time for that.
+matt: Oh, great. Now you want more DRINK. No way. You’ve already raided the DRINK.
+zorp norp: Oh come on, I promise I’ll leave you some... just a sip. I’ll be on my way... eventually.
+jack: You’ve got a one-way ticket to sleepville in about five minutes, mate. You’re done.
+zorp norp: Fine... just one more... (passes out)
+vine boom
+music stops
+matt: Well, he’s done. What now?
+jack: I guess we wait for him to wake up... or just leave him here and pretend we didn’t meet him.
+matt: I’m never drinking DRINK again.
+jack: Just wait 'til you hear the story about the STORE incident
 
 ======
 
