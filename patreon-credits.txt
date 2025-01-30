@@ -2845,6 +2845,7 @@ Asuroh
 Haxiz
 EngineerIsaac
 aloneproduct99
+LavenderTheLost
 #TIER=3
 SidMarcus
 PinballReviewer
