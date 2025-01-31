@@ -2098,6 +2098,7 @@ Tempted19xx
 FidgetBatticorn
 UnknownFr1end
 ShyFoxBoy
+CobraSteelShot
 modNick
 ruralists
 #TIER=1
