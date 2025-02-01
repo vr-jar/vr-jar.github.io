@@ -2092,6 +2092,7 @@ PetiteLover
 StraightUpDeath
 ~Reaver~
 Dead'sCrypt77
+Lahgolz
 modNick
 ruralists
 #TIER=1
