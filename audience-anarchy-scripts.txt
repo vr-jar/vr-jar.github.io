@@ -12906,7 +12906,7 @@ HERO: (Enter the stage pointing weapon at the monster) Seems like I entered just
 epic fantasy music 3
 WARRIOR: (Surprised) You're alive?! But how?!
 HERO: ...I'll take care of this. It's the least I could do...
-MONSTER: Roar! (Attack the hero, but it has no effect) R- roar???
+MONSTER: Roar! (Attack the hero, but it has no effect) R-Roar...
 Meanwhile HERO: (Effortlessly deflect and brush off the MONSTER's attack)
 sword fighting
 HERO: If I keep this up, this would be troublesome. I'll have to finish this now.
@@ -18412,7 +18412,7 @@ FRANK: Did you know, DUCTTAPE was used on MythBusters?
 INFORMATION ===============================
 ID: 597
 TITLE: The Alien
-AUTHOR: Imoriginal
+AUTHOR: imoriginal
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -21364,7 +21364,7 @@ Host: Thanks for joining us on this wild ride of "Fur-tastic Frenzy!" Until next
 INFORMATION ===============================
 ID: 690
 TITLE: The questionable news
-AUTHOR: Imoriginal
+AUTHOR: imoriginal
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -37271,8 +37271,7 @@ CHAZ: Actually, it's not 'whatever' (mockingly). I'm a BRTT.
 CHAZ: I watch Youtube Shorts, *never* TikTok, & I like BR1.
 CHLOE: (scream) WAIT!
 (tada)
-CHLOE: (stand front of chaz)
-CHLOE: You're... a sigma?
+CHLOE: (stand front of chaz) You're... a sigma?
 NORM: (interrupting) Alright, alright. That's enough rizz, you BRTT 's.
 CHAZ: Minus two-hundred aura.
 Meanwhile NORM: (heartbroken gasp)
@@ -37292,8 +37291,7 @@ CHLOE: Yeahh... BR2 kinda fell off after STREAMER2 's "exposed" video about em'.
 Meanwhile NORM: (get a bud from the cabinet)
 NORM: Hey pronoun! This bud's for you!
 Meanwhile CHAZ: (look at norm) What?!
-NORM: (mime tossing it)
-Meanwhile CHAZ: (dont catch)
+NORM: Catch! (Throw bud to CHAZ)
 (crashing debris)
 CHAZ: WAIT!!! I can't! I'm gonna ruin my mew streak!
 CHLOE: Chaz, you FAKER! (get up, mad)
@@ -37302,7 +37300,7 @@ CHLOE: You just spoke so you ruined your mew streak already, plus you arent subs
 CHAZ: Wait! I can explain Chloe!
 CHLOE: I'm going to my room! (exit to side door)
 (door creak)
-NORM: (walk to Chloe's old seat, skip when sat down/)
+NORM: (walk to Chloe's old seat, skip when sat down)
 CHAZ: So just like that, huh...? (heartbroken)
 CHAZ: Me and Chloe are done?
 NORM: So real.
@@ -39001,82 +38999,6 @@ Gunshot
 Scammer: Ow... (Drop to the floor)
 Dumb Dumb Kid: (Walk over to Scammer and pick up something from them) What's this?
 Dumb Dumb Kid: (Stand there for a moment in silence) Wowie! A real SOMETHING A KID WOULD WANT! What a steal!
-
-======
-
-INFORMATION ===============================
-ID: 1268
-TITLE: Mistaken Pizza
-AUTHOR: OxifiedVR
-VERIFIED: True
-TAGS: 
-SET: Restaurant
-DATE: 27/11/24
-CHARACTERS ================================
-PIZZA BANDIT: Pizza Stealing friend:Backstage
-VICTIM: Friend:Backstage
-WAITER: Staff Member:Stage Left
-SUGGESTIONS =============================
-DINE IN THEATRE: name for a dine in theatre:AMC, Roadhouse, FatCats, Regal
-MOVIE: any movie:Star Trek, Halo Forward unto Dawn, Titanic
-PIZZA TOPPING 1: any pizza topping:pepperoni, cheese, salami
-PIZZA TOPPING 2: irregular pizza topping:pineapple, anchovies, peppers
-NUMBER: Any Number:12, 69, 24, 420
-CHEAP REWARD: a gift or reward that's not very good:five dollars, headpats, punch in the face, thoughts and prayers
-SOFT OBJECT: Something soft :feathers, cotton, Linen, Wool, Leather
-TIME: Any amount of time:6 Hours, 9 Hours, 12 Hours, 24 Hours, 1 Hour
-SCRIPT ==========================================
-Waiter: (Cleaning table and humming) How much longer do I have in my shift? I feel like I been here for TIME
-Victim: Thank God, dude, we made it in time, just before the movie began.
-Pizza Bandit: I told you I would get us here in time!
-Victim: We are gonna miss the opening (Heads inside)
-Pizza Bandit: (Follow Friend) You got to have some faith in me.
-Waiter: (Walks up to guest) Hello and welcome to DINE IN THEATRE! What movie would you like to see?
-Victim: We are here to see MOVIE!
-Waiter: Good choice, MOVIE is a really good one! (Leads them to the center table)
-Victim: Lead the way, waiter. I sure am hungry, too. (Follows Waiter to table and sits down)
-PIZZA BANDIT: (Follows friend to table and sits down) Wow, these seats are comfortable. Do you think they're made of SOFT OBJECT?
-Waiter: (Hands menus to both) Alright, here are your menus. Please take a look, and I'll be back with you. (Exits stage left)
-(epic fantasy music 3)
-Victim: (Watches movie) God, I love the opening of this movie.
-Pizza Bandit: So you've told me. It's only like the NUMBERth time you've told me.
-Waiter: (Returns from stage left and approaches their table) You all ready to order?
-Victim: I think so, yeah!
-Waiter: Fantastic, here's my pen and some paper (hand over pen and paper to victim)
-Victim: (Writing down on paper) I think I'll get PIZZA TOPPING 2.
-Waiter: Very good choice
-Victim: What do you think you will be getting? (Handing over the pen and paper to friend)
-Pizza Bandit: Oh I'm getting PIZZA TOPPING 1 on my pizza (Writing down on paper then handing it to the waiter)
-Waiter: (Take the pen and paper) Alright, I'll have your pizzas in a moment. (Leaves stage left)
-(epic fantasy music 1)
-Waiter: (Returns stage left and puts pizza in front of Victim) Enjoy! (Leaves stage left)
-Pizza Bandit: Mine! (Takes pizza from your friend)
-Pizza Bandit: (Eats pizza) Hmm. This doesn't takes like what I ordered but... oh well!
-Waiter: (Returns stage left and goes to person not eating pizza) And here's your pizza.
-Pizza Bandit: Ohhhhhp
-Waiter: And here's your pizza (Put pizza in front of victim)
-Victim: (To Waiter) No, it's not my pizza.
-Pizza Bandit: (Talks while eating) It's not his pizza.
-Waiter: Hold on let me go get the ticket (Leaves stage left to find ticket and return to the group and look at Victim)
-Waiter: So that's not your pizza? (Looking at victim and then looks at Pizza Bandit)
-Victim: No? (Turn to Friend)
-Pizza Bandit: It's not my pizza.
-Waiter: (Really annoyed, shows order ticket to Pizza Bandit) You wrote what you wanted.
-Pizza Bandit: I didn't write that. (Looks at your friend) Did you write that? I didn't write that!
-Pizza Bandit: And can you move? I'm trying to watch MOVIE.
-Waiter: (Looks at person whose pizza was stolen, annoyed, pointing at the pizza in front of the pizza thief) Are you waiting for that pizza?
-Victim: (Confused) Yes?
-Waiter: They're eating your pizza... I'm gonna get you another one. (Storms off angrily, exits stage left)
-Pizza Bandit: They seem pretty upset.
-Victim: I really hope you leave them a good tip.
-Pizza Bandit: Eh, I might just tip them... CHEAP REWARD for messing up.
-Victim: CHEAP REWARD?! That's it?
-Pizza Bandit: Whose fault is that?
-Victim: It's your fault! It's your fault!
-Pizza Bandit: At least I still tipped them right?!
-Victim: My pizza didn't have PIZZA TOPPING 1 on it!
-Pizza Bandit: Yeah, the pizza runner should've said something like, "No, that's not yours!" Pay more attention!
-Pizza Bandit: You could've just picked the PIZZA TOPPING 2 off the pizza!!
 
 ======
 
@@ -43260,6 +43182,135 @@ Applause
 ======
 
 INFORMATION ===============================
+ID: 1412
+TITLE: Where's the Host?
+AUTHOR: Wendibro
+VERIFIED: True
+TAGS: Skit,Game Show
+SET: Game Show
+DATE: 21/01/25
+CHARACTERS ================================
+CONTESTANT: Contestant 1:Entrance Stage Right
+PLAYER: Contestant 2:Entrance Stage Right
+CREW: Set Designer:Center Stage
+SUGGESTIONS =============================
+ANYTHING: Literally Anything:A Tac-water bottle, A 1-1 replica of the Mona Lisa, Umbrella with holes in it
+HOUSE: A building, room or house:Hotel, Parsonage, Bank
+QUESTION: An Age-old Question:What came first? The Chicken or the Egg?, Are Humans the actual Aliens?
+MAGIC: A thing to say when doing magic tricks:Ala-kablam, Presto Majesto
+EVENT: A Major Historical Event:18th Amendment, The Big Declaration, Constitution
+HELL: A Miserable, Terrible place:Hell, Heaven, Asphodel
+ENGINE: A Vehicle that needs and engine to work:Motorbike, Ramshack car, Plane
+BIKE: A Vehicle that does NOT need and engine to work:Bike, Skateboard, Legs
+DESCRIBE: Describe an 80's Arcade carpet:Very shapely and fun to walk on, Way too many colours but it looks nice
+DECENT: How would you describe something that looks nice?:Pretty!, Glamourous, Mundane
+SCRIPT ==========================================
+CREW: (Looking around) Alright, Looks good.. Pretty colourful.
+CONTESTANT: (Walks on stage, Talking to Contestant 2) -So that's why I hooked up my BIKE to an engine last summer.
+Meanwhile PLAYER: (Walks behind Contestant 1)
+PLAYER: You wanted to turn it into a ENGINE? It's a little more complex than that!
+CONTESTANT: Well, It's why I call it "engine assisted", Not "motorized".
+CREW: Hey! Are you two the contestants?
+CONTESTANT: Uh-huh!
+Meanwhile PLAYER: Yep-yep.
+CREW: Sweet, I'm gonna double check everything before our host arrives. (Start inspecting the Stage)
+PLAYER: (Looking at Contestant 2) Anyway, These podiums. Any thoughts?
+CONTESTANT: I think they look... DECENT. All things considered.
+PLAYER: DECENT? Well, Fair.
+PLAYER: You think budgetary restraints caused them to be only, like, yellow?
+CONTESTANT: Wouldn't call it a budget issue, More like an Aesthetic issue, I mean look at the carpet.
+CONTESTANT: You can't tell me it doesn't scream "Old 80's Arcade floor mat" right in your face.
+PLAYER: Mm.. I'd say it's more of a "DESCRIBE"
+CREW: Alright, This should be stable and not Hazardous.
+PLAYER: "Hazardous"? What? Was that a big issue before?
+CREW: Not really, Apart from once, The Host got basically tazed by the back wall behind his podium.
+CREW: Turns out that having a single exposed wire can really, really give you a shock 'n a half.
+CREW: Made the ratings go up, though. Hell, people were asking us to NOT make this place safe for that reason.
+CONTESTANT: How does- Alright, Anyway. So. If the host is backstage, Give 'em a shout, We should be ready, Right?
+PLAYER: (Looks at Contestant 1) Yeah, We should be. Unless mister ENGINE-BIKE here wants to tell me about his new science project.
+CREW: I'll go get him. (Leave the stage)
+CONTESTANT: (Sarcastically) Mister Contestant 2, your podium, sir.
+PLAYER: (Sarcastically) Oh, why, Thank you sir!
+PLAYER: (goes behind Podium Number 2)
+CONTESTANT: (Goes behind Podium 1) Alrighty.
+PLAYER: *Humming a tune*
+CONTESTANT: While we're waiting, Do you know the age ol' question of "QUESTION"?
+PLAYER: Uhh? I have heard of it, Never gave it any thought.
+CONTESTANT: I don't blame you, to be honest. I'm just asking questions to fill the air while we wait for the host, really.
+CREW: (Walks in) Alright, Places, People! Shows about to start!
+CONTESTANT: Huh?! Where's the host?
+Meanwhile PLAYER: Where's the host?
+CREW: Don't worry about it, You'll find out!
+PLAYER: Okay?? What does *that* mean???
+CREW: Don't worry about it! Now, Come on, Get ready! (Walk of stage)
+gameshow intro
+CONTESTANT: (Wait for opening theme to stop playing) ...Where is he?
+PLAYER: Shhh! He'll come in any second now..
+CONTESTANT: Any second now?
+PLAYER: Aaaaany second now..
+PLAYER: Now!
+CONTESTANT: (Mimic Incorrect buzzer sound) Wrong!
+PLAYER: Arrgh! I thought I had it!
+CONTESTANT: Better luck next time- WHERE IS HE?!
+PLAYER: ...NOW! MAGIC!
+CONTESTANT: ..Still nothing!
+PLAYER: I coulda sworn he could be here by now.
+CONTESTANT: Hey! Uhm.. Guy who was here a minute ago! Mister SHADY! I think the host has passed out backstage!
+CREW: (Peeks head through door) You'll do great!
+CONTESTANT: How does that even?-- Whatever.
+CREW: (Go backstage, again)
+PLAYER: Hey, You thinking what I'm thinking? Host is gone and we are left.
+CONTESTANT: Wait, If I'm picking up what you're putting down here..
+PLAYER: Mm-hmm?
+CONTESTANT: That means..
+CONTESTANT: WE ARE THE NEW HOSTS!
+CONTESTANT: Dibs on the podium! (Run over to it)
+CONTESTANT: Uhhh! What was the show called, again?
+PLAYER: "Why EVENT was overhyped"
+CONTESTANT: No- (Laugh) That's not it!
+CONTESTANT: We are playing "QUESTION"
+gameshow crowd shouting numbers
+CONTESTANT: Ladies and Gentlemen! Our contestant will win a total of.. Fifteen dollars.. and a quarter if you get all questions correct!
+gameshow ring
+PLAYER: I already got it! Don't even need to hear the question!
+CONTESTANT: Alright, Let's hear it out for Contestant number.. Uhm.. both!
+PLAYER: The answer is.. ANYTHING!
+gameshow ding
+CONTESTANT: You got it! Can you believe it! Mister Contestant number- Both! Contestant Both!
+PLAYER: Playing as two characters is a rare treat for all you fellas at home!
+CONTESTANT: Is that referring to me, or you?
+PLAYER: Both!
+CONTESTANT: HAH! Alright! Next Question!
+gameshow bonus round
+CONTESTANT: What is the- Uhh.. What's the middle of the world look like?
+CONTESTANT: Is it; 1. A Black hole 2. Just a pile of dirt 3. HELL or 4. All of the above!
+PLAYER: (Hit one of the podiums) I know!
+gameshow ring
+PLAYER: Number 5. Irrelevant!
+gameshow ding
+CONTESTANT: Alright! Last thing!
+gameshow timer music
+CONTESTANT: Who's most likely to live in a HOUSE?
+PLAYER: A "HOUSE"? Uhh! ANYTHING
+CONTESTANT: Is that your final answer?
+PLAYER: Uh- yes! That is my final answer!
+music stops
+CONTESTANT: Now, where I come from, they call that a "Right Answer!"
+gameshow ding
+PLAYER: Wooohooo! Yeah!
+CONTESTANT: And that's all, Ladies and gentlemen!
+CREW: (Walks in) What the hell's going on here??
+PLAYER: We just saved your show from going down the drain! Look at those ratings!
+CREW: (Look at phone) What in the--? Oh my god..
+CONTESTANT: We did it!
+PLAYER: I'm gonna get my fifteen dollars!
+CONTESTANT: And a quarter, Don't forget the quarter!
+PLAYER: Oh, shut up "Arthur"! Hahaha!
+gameshow outro
+
+======
+
+INFORMATION ===============================
 ID: 1415
 TITLE: What did you eat?!
 AUTHOR: kiro-sage
@@ -43437,6 +43488,91 @@ DETECTIVE COMFREY: Is it werid that I have no idea who that guy is? I friens wit
 ======
 
 INFORMATION ===============================
+ID: 1419
+TITLE: How to Parent 101
+AUTHOR: EvaThatOneGuy
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 26/01/25
+CHARACTERS ================================
+MOTHER: The moron mother:Kitchen
+FATHER: The father:Couch
+CHILD: Zee average child:Side Door
+SUGGESTIONS =============================
+JOKE: A cute nickname for a partner:honey, pookie, dear
+TITLE: A stupid nickname:Bongus, Cornholio, Biggie
+NONFOOD: An inedible product:Bleach, Tide pod, Clorox
+TIME: An amount of time:1 week, 1 year, 69 years
+NAME: A name:Nancy, Angie, Kyle
+REALFOOD: A snack:Goldfish, Oreos', Lay's 
+SON: A name:Caleb, Logan, Peter
+MAMA: A name you can call your mom:Mama, Mum, Mother
+BED: Any time:9 pm, 1 pm, 4 am
+SCRIPT ==========================================
+jazz music 2
+MOTHER:(thinking) Hmmmmm...
+FATHER:What is it JOKE.
+MOTHER:Our child, what do we feed him?
+FATHER:What do you mean JOKE.
+MOTHER:Well, it's been so long since I've gotten out of the hospital after being in a coma, that I don't remember how to feed, nor take care of them.
+CHILD:I'm hungry!
+MOTHER:Shut up TITLE ! I'm trying to think!
+vine boom
+FATHER:(Walk to wife)Well don't speak to him like that! say sorry.
+MOTHER:Oh, sorry TITLE.
+FATHER:Stop saying that!
+FATHER:Alright there should be food in the cabinet.
+MOTHER:(look in cabinet) Okay. (pick up NONFOOD) Here have some NONFOOD.
+FATHER:No! Give me that! (yank NONFOOD) Give him real food!
+MOTHER:Okay (look in cabinets). But what is that?
+FATHER:NAME you we're only in a coma for TIME! There is no way you don't remember what food is!
+MOTHER:Well I don't
+vine boom
+FATHER:Just go sit down! I'll take care of him.
+MOTHER:Well, whatever you say! (sit down on couch).
+FATHER:(Look through cabinet) Here have some REALFOOD.
+CHILD:Thank you so much my biological father (grab REALFOOD, and eat it).
+FATHER:Just call me dad.
+FATHER:See it's not that hard to take care of a child.
+CHILD:Wow there is this wonderful taste sensation in my mouth and- oh wait- oh no(gag, then puke everywhere).
+FATHER:What the hell!
+CHILD:FOOD make my tummy have a terrible sensation.
+FATHER:There is no way that REALFOOD made you puke this much, (yank REALFOOD) let me see this!
+FATHER:Why the hell is there NONFOOD in REALFOOD!
+MOTHER:Um... It wasn't me.
+FATHER:Okay this a good time to try to care for your child! I'm calling poison control (Leave through stage left).
+MOTHER:(Get off couch) Okay let's see (start cleaning up puke in front of child).
+MOTHER:(still cleaning) Are you okay TITLE?
+CHILD:Does it look like it?
+MOTHER:I don't know!
+FATHER:Ok I called poison control! They said they'll be fine (enter through stage left)
+MOTHER:Oh no! Give him more! (grab box of NONFOOD from cabinet).
+FATHER:No, that will make him puke again.
+MOTHER:Oh, you're welcome!
+lacrimosa music
+FATHER:No that's just- (breathe in and out) -Never mind. Obviously your coma gave you brain damage of some sort, which means you are unfit for SON.
+MOTHER:So?
+FATHER:I want a divorce.
+vine boom
+FATHER:And a restraining order.
+vine boom
+MOTHER:What?
+FATHER:I'll be outside (exit through front door).
+MOTHER:What the hell does that even mean? Do you know TITLE?
+CHILD:No MAMA.
+MOTHER:Well child it's getting late, it's BEDT.
+MOTHER: Get in the oven.
+vine boom
+CHILD:What?
+MOTHER: So you can keep warm.
+emotional piano music
+CHILD:Okay (Go in oven)
+MOTHER:I'm such a good mother
+
+======
+
+INFORMATION ===============================
 ID: 1422
 TITLE: Drunk Aussie Alien
 AUTHOR: Naquill3 31cb
@@ -43466,14 +43602,14 @@ zorp norp: G'day, Earthlings! Zorp Norp here! That was a bloody wild ride, huh?
 matt: Wait... are you... an alien?
 jack: And a drunk one at that! You okay, mate?
 zorp norp: Oi, you got DRINK in there? I’m dying for a drink!
-matt: You just crashed your spaceship into the Outback and now you want our beer?
+matt: You just crashed your spaceship into the Outback and now you want our DRINK?
 zorp norp: Yeah, I’ve been traveling for ages. A man—well, alien—needs a DRINK, right? Just one little sip... come on.
 jack: Mate, you’re a walking disaster. I bet your spaceship’s still burning out there.
 zorp norp: It’ll be fine! I’ll fix it later. Just need to have a DRINK, settle the nerves, y’know?
 matt: You’re not getting a DRINK.
 zorp norp: Oh, come on, fellas! Just SIPSS more sips mate. Look at it! It’s all icy and... oh yeah. (grabs a DRINK and opens it with his teeth) Perfect.
 matt: You’re already hammered! You can’t just keep drinking!
-zorp norp: Ahhh, that’s the stuff! This is the best beer I’ve had since I... uh, I don’t know, crashed into a moon last week. But this... this is next level.
+zorp norp: Ahhh, that’s the stuff! This is the best DRINK I’ve had since I... uh, I don’t know, crashed into a moon last week. But this... this is next level.
 jack: This is insane. We’re out here in the middle of PLACE, and you’re just making yourself at home.
 zorp norp: Oi, I’m not just making myself at home. I’m fixing things up! (stumbles toward the fire) Look at this little campfire. I’ll make it better!
 matt: Wait, no—don’t mess with that!
@@ -43499,6 +43635,433 @@ matt: Well, he’s done. What now?
 jack: I guess we wait for him to wake up... or just leave him here and pretend we didn’t meet him.
 matt: I’m never drinking DRINK again.
 jack: Just wait 'til you hear the story about the STORE incident
+
+======
+
+INFORMATION ===============================
+ID: 1424
+TITLE: Camping and Taxes
+AUTHOR: MangoTango12
+VERIFIED: True
+TAGS: Skit
+SET: Campsite
+DATE: 28/01/25
+CHARACTERS ================================
+SALLY: Sally the girlfriend:Rock chair
+KYLE: Kyle the boyfriend:Stump chair
+ZARGOTHRAX: Evil wizard of Dundee:Entrance Stage Left
+SUGGESTIONS =============================
+TAXES: A subscription you would pay for:Disney Plus, Amazon Prime, Windows 365
+MONEY: An amount of money:£10, £50, £69
+CONSEQUENCE: Something bad to happen to someone:bankruptcy, death, explode, wedgie
+STUFF: Something you enjoy doing:games, running, watching tv
+BAD: Something bad to do to someonee:perish, die, fall, become a swifty
+ITEM: A random household item:glass, spoon, chips
+WEAPON: A projectile weapon:ak-47, ray gun, bow and arrow
+SCRIPT ==========================================
+fantasy music 2
+SALLY: Oh my, Kyle! It was so nice of you to take me alone to this secluded campsite!
+KYLE: No problem Sal. I hope nothing bad will happen to us...
+SALLY: It's just us and no-one else! Thank god. We don't need to worry.
+epic fantasy music 2
+ZARGOTHRAX: (stand in doorway) Who dares enter into my domain... Do you know who I am!?
+KYLE: Who was that!? Show yourself, you coward!
+ZARGOTHRAX: (enter stage right) I am the almighty Zargothrax! Evil wizard and Dark Lord of Dundee! I am here to collect your taxes!
+groose music
+KYLE: M...My what?
+ZARGOTHRAX: Your unpaid subscription to TAXES. You owe me MONEY.
+SALLY: You told me you cancelled your subscription to TAXES! Why did you lie to me?
+KYLE: What? I... I did cancel my subscription to TAXES. I don't know what he's on about hun!
+ZARGOTHRAX: No! You simply forgot it existed, now you have to face the consequences!
+lacrimosa music
+KYLE: C...Consequences? What could they be?!
+SALLY: Yeah you monster! What are they?!
+ZARGOTHRAX: The consequences are... You must CONSEQUENCE!
+KYLE: Oh no, not that! Anything but CONSEQUENCE.
+ZARGOTHRAX: (evil voice) Too late mere mortal scum! (Normal voice) You had your chance and you were too busy doing STUFF instead. Now, you shall feel my wrath!
+record scratch
+SALLY: (shouting) You told me you gave up STUFF, you lied to me! (run off stage left crying).
+sad chug jug music
+KYLE: Wait.... Sally..... don't go.... I'm sorry...
+KYLE: (turn to Zargothrax) You! What have you done to my relationship!
+ZARGOTHRAX: Look what your addictions have got you into, now either you pay your subscription to TAXES or you shall BAD! (evil laugh) (cough)
+epic cinematic music
+KYLE: I'd rather BAD than pay for TAXES Zargothrax!
+draw sword
+ZARGOTHRAX: So be it... mortal scum... (strike magical pose) En Garde!
+KYLE: (Grab camping knife from backpack) Take this! (stab Zargothrax)
+knife wound
+ZARGOTHRAX: You think that's going to stop me! (evil laughter)
+SALLY: (enter back on stage left) No!
+badass music 1
+SALLY: (Crying and holding WEAPON) But this will! This is my trusty WEAPON, and it is forged to be able to kill evil scum like you! (Shoot zargothrax)
+gunshot
+ZARGOTHRAX: No! ....This can't be.... This can't be the end of me! (Die)
+church bell
+KYLE: S....Sally... you came back for me......
+emotional piano music
+SALLY: Nah mate, I forgot to take my ITEM with me... Also I'm breaking up with you!
+
+======
+
+INFORMATION ===============================
+ID: 1426
+TITLE: Crossing Guard Chaos
+AUTHOR: FangsCrayonBox
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 29/01/25
+CHARACTERS ================================
+GUARD: Crazy Crossing Guard:Center Stage
+FRIEND 1: Agressive Friend:Entrance Stage Right
+FRIEND 2: Passive Friend:Entrance Stage Right
+SUGGESTIONS =============================
+SCHOOL: A type of school:Dance, Cooking, Janitorial, Super Hero, Construction, Art
+JOB: A type of job:Artist, Dancer, Super Hero, Super Villian, Crossing Guard
+FAMILY: A type of family member:Brother, Sister, Mom, Dad, Uncle, Grandma, Grandpa
+NUMBER: A high number:420, 100, 500, 666
+ITEM: An expensive item or service:Medical bills, Sports cars, GPUs, Groceries, Dental work
+DANGER: Something dangerous:Wolves, mountian lion, nuclear war
+GAME: Multiplayer Game:Mario party, Uno, Audience Anarchy
+CONSOLE: Game Console:Nintendo 64, Playstation, Xbox, PC
+MINUTE: A high number:420, 100, 500, 666
+OBJECT: Inanimate object:Rock, Traffic cone, Pole, Phonebooth
+SCRIPT ==========================================
+school bell
+FRIEND 1: Wow, that sure was one exhausting day.
+FRIEND 2: Tell me about it. If I didn't want to be a JOB so badly I'd be skipping SCHOOL school every day.
+FRIEND 1: Doesn't your FAMILY makes $ NUMBER a week doing JOB ?
+FRIEND 2: Only on Tuesdays. And they usually just waste the money on ITEM anyway.
+GUARD: You two, stop right there!
+vine boom
+FRIEND 2: Huh? What for?
+FRIEND 1: I don't have to listen to you. You're not a cop!
+badass music 1
+school bell
+FRIEND 1: Wow, that sure was one exhausting day.
+FRIEND 2: Tell me about it. If I didn't want to be a JOB so badly I'd be skipping SCHOOL school every day.
+FRIEND 1: Doesn't your FAMILY makes $ NUMBER a week doing JOB ?
+FRIEND 2: Only on Tuesdays. And they usually just waste the money on ITEM anyway.
+GUARD: You two, stop right there!
+vine boom
+FRIEND 2: Huh? What for?
+FRIEND 1: I don't have to listen to you. You're not a cop!
+badass music 1
+GUARD: Of course not, don't be silly. I'm not one of those "play it safe" police officers.
+GUARD: I'm out here, risking my life against the unknown and protecting children against the world's fearsome enemies!
+GUARD: I'm a proud, noble, traffic guard!
+Music Stops
+FRIEND 1: ... Right. Okay...
+groose music
+FRIEND 2: Umm... thanks? We weren't really planning on crossing the street though.
+GUARD: None shall pass while the light is red!
+FRIEND 2: But, there isn't a light here. This is a crosswalk.
+GUARD: None shall pass!
+FRIEND 2: Okay, umm... How long do we have to wait here.
+GUARD: The light will change in approximately NUMBER2 minutes.
+FRIEND 1: Are you crazy? That's way too long!
+FRIEND 2: Yeah, they're right. We need to get to my house so we can play GAME on my new CONSOLE before my FAMILY gets home.
+GUARD: None shall pass!
+GUARD: Crossing now would only anger the DANGER !
+FRIEND 1: The what?
+Meanwhile FRIEND 2: The what?
+GUARD: You haven't heard? Wild DANGER have been spotted nearby.
+GUARD: They'll grab you in their vicious DANGER teeth and eat you alive!
+GUARD: You'll have to wait MINUTE minutes so a professional JOB can take care of things.
+FRIEND 1: (Whisper) Okay, so they're obviously insane. I say we shove them down and make a run for it.
+FRIEND 2: (Whisper) That's a bit violent for me. I'm trying to be a JOB not a jerk.
+FRIEND 1: (Whisper) Fine, we'll do it your way, again. How about you make a distraction and we both run for it when they're back is turned?
+FRIEND 2: (Whisper) What kind of distraction should I make? I don't want to do anything that will get us in trouble.
+FRIEND 1: (Whisper) You're the SCHOOL school honor student, you figure it out!
+GUARD: Hey! What are you two talking about in a tone just outside of my auditory perception?!
+FRIEND 2: Oh! We were just... umm...
+FRIEND 1: We were talking about what we learned in SCHOOL school today. Really interesting stuff.
+FRIEND 2: Yeah, we learned all about SCHOOL stuff and...
+FRIEND 2: Oh! Wait! Is that a OBJECT across the street, dangerously close to what is apparently Danger territory for the next MINUTE minutes?
+GUARD: What?! Oh no! A precious OBJECT is the primary prey of DANGER !
+GUARD: (Exit stage left) Fear not my sweet little OBJECT for I shall rescue you!
+Music Stops
+FRIEND 2: Huh. That was easier than I thought.
+FRIEND 1: Let's book it to your place before they come back then.
+FRIEND 2: Yeah, all that talk of DANGER just makes me want to play GAME even more!
+cellphone vibrate
+FRIEND 2: Oh, hang on. That's me.
+FRIEND 2: (Pull out phone and read a text message)
+FRIEND 2: Oh no, my FAMILY was eaten by wild DANGER while on a JOB job!
+vine boom
+FRIEND 1: Bummer...
+FRIEND 1: On the bright side though, now we can play GAME on your CONSOLE all we want!
+FRIEND 2: Yeah! I'll race you to my place! Last one there buys the winner a ITEM !
+FRIEND 1: (Exit stage left) You're on, I could use a free ITEM !
+Meanwhile FRIEND 2: (Exit stage left)
+TYPEWRITER: The two friends ran for about 2 minutes, before being eaten alive by a wild DANGER
+GUARD: Of course not, don't be silly. I'm not one of those "play it safe" police officers.
+GUARD: I'm out here, risking my life against the unknown and protecting children against the world's fearsome enemies!
+GUARD: I'm a proud, noble, traffic guard!
+Music Stops
+FRIEND 1: (Dramatic pause) ... Right. Okay...
+groose music
+FRIEND 2: Umm... thanks? We weren't really planning on crossing the street though.
+GUARD: None shall pass while the light is red!
+FRIEND 2: But, there isn't a light here. This is a crosswalk.
+GUARD: None shall pass!
+FRIEND 2: Okay, umm... How long do we have to wait here.
+GUARD: The light will change in approximately NUMBER2 minutes.
+FRIEND 1: Are you crazy? That's way too long!
+FRIEND 2: Yeah, they're right. We need to get to my house so we can play GAME on my new CONSOLE before my FAMILY gets home.
+GUARD: None shall pass!
+GUARD: Crossing now would only anger the DANGER !
+FRIEND 1: The what?
+Meanwhile FRIEND 2: The what?
+GUARD: You haven't heard? Wild DANGER have been spotted nearby.
+GUARD: They'll grab you in their vicious DANGER teeth and eat you alive!
+GUARD: You'll have to wait MINUTE minutes so a professional JOB can take care of things.
+FRIEND 1: (Whisper) Okay, so they're obviously insane. I say we shove them down and make a run for it.
+FRIEND 2: (Whisper) That's a bit violent for me. I'm trying to be a JOB not a jerk.
+FRIEND 1: (Whisper) Fine, we'll do it your way, again. How about you make a distraction and we both run for it when they're back is turned?
+FRIEND 2: (Whisper) What kind of distraction should I make? I don't want to do anything that will get us in trouble.
+FRIEND 1: (Whisper) You're the SCHOOL school honor student, you figure it out!
+GUARD: Hey! What are you two talking about in a tone just outside of my auditory perception?!
+FRIEND 2: Oh! We were just... umm...
+FRIEND 1: We were talking about what we learned in SCHOOL school today. Really interesting stuff.
+FRIEND 2: Yeah, we learned all about SCHOOL stuff and...
+FRIEND 2: Oh! Wait! Is that a OBJECT across the street, dangerously close to what is apparently Danger territory for the next MINUTE minutes?
+GUARD: What?! Oh no! A precious OBJECT is the primary prey of DANGER !
+GUARD: (Exit stage left) Fear not my sweet little OBJECT for I shall rescue you!
+Music Stops
+FRIEND 2: Huh. That was easier than I thought.
+FRIEND 1: Let's book it to your place before they come back then.
+FRIEND 2: Yeah, all that talk of DANGER just makes me want to play GAME even more!
+cellphone vibrate
+FRIEND 2: (Reading text message on phone) Oh no, my FAMILY was eaten by wild DANGER while on a JOB job!
+vine boom
+FRIEND 1: Bummer...
+FRIEND 1: On the bright side though, now we can play GAME on your CONSOLE all we want!
+FRIEND 2: Yeah! I'll race you to my place! Last one there buys the winner a ITEM !
+FRIEND 1: (Exit stage left) You're on, I could use a free ITEM !
+Meanwhile FRIEND 2: (Exit stage left)
+TYPEWRITER: The two friends ran for about 2 minutes, before being eaten alive by a wild DANGER
+
+======
+
+INFORMATION ===============================
+ID: 1427
+TITLE: Tabletop Tournament
+AUTHOR: FangsCrayonBox
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+DATE: 30/01/25
+CHARACTERS ================================
+JUDGE: Judge:Corner Left
+EATER: Card Eater:Corner Right 
+GAMER: Card Player:Chair
+SUGGESTIONS =============================
+CARD: Name of a card game:YUGIOH, Pokemon, Magic
+BOSS: Name of a very rare, powerful card:Mega ultra chicken, Charizard, Dark Magician
+NOM: Player 1's name:Jeff, Randy, April, Scott, Stan, Roger, Peter
+PLAYER: Player 2's name:Jeff, Randy, April, Scott, Stan, Roger, Peter
+COMPANY: A company or product that would sponsor a card game:Konami, Pokemon, Nord VPN, Raid Shadow Legends, Mountian dew
+CATCHPHRASE: A catchphrase:Get your game on, I've got this in the bag, You're going down
+BACKUP: Name of a less powerful, uncommon card:Dark Magician Girl, Pikachu
+MONEY: A large amount of money:$100
+FOOD: Food a gamer would eat:Hot pocket, Ramen, candy bar
+SCRIPT ==========================================
+TYPEWRITER: GAME regional championship, Semifinals
+badass music 1
+JUDGE: Welcome to the semifinal match of the CARD tournament sponsored by COMPANY !
+JUDGE: Our two semifinals contestants are the legendary: PLAYER and this tournament's dark horse: NOM
+JUDGE: Will PLAYER make it all the way, or will NOM find a way to pull off a victory nobody expected?
+GAMER: You're going down, NOM I haven't lost a match all day! CATCHPHRASE
+EATER: Well, yeah, neither have I. That's how this tournament works.
+JUDGE: Both contestants are heated up and ready to go! Let's begin the match!
+Meanwhile EATER: (Move towards the table and start playing.)
+GAMER: Ha! This is the best opening hand I've ever gotten! You don't stand a chance!
+GAMER: With my board all set, I play my invincible ace card: BOSS !
+super epic charge up
+GAMER: You may as well give up now. CATCHPHRASE
+Meanwhile JUDGE: (Pull out your phone and browse social media until your next line.)
+EATER: Can I check the card text real quick?
+Meanwhile JUDGE: (Pull out your phone and browse social media until your next line.)
+GAMER: Huh? Oh, sure. Just make it quick. (Hand the card over)
+EATER: (Eat the card) Om nom nom
+Music Stops
+GAMER: Did... Did you just eat my card?!
+EATER: (Still chewing) No.
+groose music
+GAMER: What the- Spit it out, now!
+EATER: (Swallow)
+GAMER: Judge! Judge!
+JUDGE: (Put your phone away) Huh, what? What do you need?
+GAMER: He just ate my card!
+EATER: No I didn't.
+JUDGE: That's a pretty crazy accusation there PLAYER do you have any proof?
+GAMER: Proof?! He ate it! He just took it and ate it, card sleeve and all!
+JUDGE: NOM do you mind if I search you for the card?
+EATER: Not at all. I've got nothing to hide.
+GAMER: Search him? He isn't hiding it, he ate it!
+Meanwhile JUDGE: (Search NOM)
+JUDGE: I gave him a through search, he doesn't have your card.
+GAMER: (Increasingly frustrated) He ate it!
+GAMER: That was a limited edition, ultra rare BOSS and he just ate it! It was worth MONEY and he ate it like it was a FOOD !
+EATER: No I didn't.
+GAMER: He's lying!
+JUDGE: Look, it's your word against his, and that's a pretty wild story.
+GAMER: But it happened! That cheating maniac ate my card!
+JUDGE: Hey, there's no need for name calling here. Either play nice, or you'll be disqualified.
+GAMER: (Scream)
+JUDGE: Now, resume play or I'll have to issue an official warning for disruptions.
+GAMER: Uggghhh! Fine! (Resume playing the game.)
+Meanwhile JUDGE: (Walk away from the table and resume scrolling through your phone.)
+badass music 1
+GAMER: I'm not gonna show you any mercy. After all, I'm the legendary PLAYER I can't be beaten by some card eating scoundrel!
+GAMER: You may have cheated to get my BOSS off the board, but I still have plenty of options.
+GAMER: Behold! The, less impressive than BOSS, but still pretty impressive card BACKUP !
+EATER: (Take and eat BACKUP ) om nom nom
+Music Stops
+GAMER: Are you kidding me?!
+TYPEWRITER: NOM went on eating PLAYER 's cards until PLAYER was disqualified for constant disruptions.
+TYPEWRITER: NOM was later hospitalized after winning the tournament.
+
+======
+
+INFORMATION ===============================
+ID: 1433
+TITLE: Venting
+AUTHOR: LeDerp_64
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 02/02/25
+CHARACTERS ================================
+COM: The Complainer:Chair 2
+DIS: The Distracted Friend:Chair 1
+WAIT: The Waiter:Entrance Stage Left
+SUGGESTIONS =============================
+BOSSED: Something your boss did that upset you:fired me, made me work overtime, cut my pay
+FOODONE: A basic food item:pizza, chicken tenders, cheese burger
+REST: A name of a restaurant :The Velvet Plate, Golden Grains, The Sizzle & Stone
+FOODTWO: An expensive food item:caviar, tri-tip steak, sushi
+BADTHING: A sad event that happened to you:my cat died, my car got stolen, a dog attacked me
+CRY: Verb ending in -ing:crying, eating, rolling
+LEAVE: Something you do before you leave your house:turn the oven off, lock my doors, feed my cat
+DRINK: A Drink:water, soda, coffee
+BADFOOD: A less appetizing food:smoked eel, sardines, liver and onions
+PERSON: Someone embarrassing to run into:ex-boyfriend, old teacher, old roommate
+BODY: A body part:foot, head, arm
+NEWS: Devastating news:Aliens are invading, Sea Turtles are extinct, The Switch 2 was cancelled
+SCRIPT ==========================================
+french music
+COM: Thanks for coming to REST with me.
+DIS: Yeah, no problem.
+COM: Yeah, I've been doing pretty rough lately.
+DIS: (looking at menu) ooh they have FOODTWO?
+COM: Yesterday BADTHING.
+COM: I ended up CRY myself to bed.
+DIS: When's the waiter going to come by?
+DIS: I'm debating on getting either the FOODTWO or FOODONE.
+COM: It doesn't help that my boss BOSSED not too long ago.
+DIS: Darn.... I forgot to LEAVE before I left my house.
+WAIT: (walks to the table) Hello there, welcome to REST, what can I get for you this evening?
+COM: Just a DRINK please.
+COM: I ate some nasty BADFOOD not too long ago and I don't think I can handle eating right now.
+DIS: How much is your BADFOOD?
+WAIT: That would be
+DIS: Wait never mind, I'll just have the FOODONE and a DRINK please.
+WAIT: Alright I'll be back shortly. (head backstage)
+COM: I forgot to mention, on my way here i ran into my PERSON, it was so awkward.
+COM: I nearly died from embarrassment.
+DIS: (looking at roof) My BODY hurts.
+WAIT: (return to table) Here you to go, two DRINK and a FOODONE, enjoy.
+COM: Thank you.
+Meanwhile WAIT: (heads backstage)
+DIS: God I'm starving.
+COM: Yeah, this year has been a complete mess for me so far.
+Meanwhile DIS: (eating FOODONE)
+COM: How about you, how have you been?
+DIS: Huh?
+DIS: Oh uh, I don't know, I'm really into this FOODONE though.
+WAIT: (return to table) Excuse me, I'm afraid I have some bad news.
+DIS: What is it?
+WAIT: (Holding phone) I just read the most distressing news on twitter dot com.
+DIS: You mean X dot com.
+WAIT: Yes, yes, X dot com.
+Music stops
+WAIT: (Dramatically) NEWS.
+vine boom
+WAIT: Enjoy your meal. (Exit)
+scary music
+DIS: (really sad) Oh god...
+COM: (start crying)
+DIS: This is horrible.
+DIS: My FOODONE is dry.
+vine boom
+Music stops
+DIS: I feel like the unluckiest person in the world right now.
+COM: (stares at friend for a few seconds) Are you kidding me?
+DIS: What?
+COM: I can't believe you right now.
+DIS: Hey just be glad that you haven't had anything as bad as this happen to you.
+COM: I'm out of here. (leave to backstage)
+DIS: What did I do
+
+======
+
+INFORMATION ===============================
+ID: 1435
+TITLE: Time-Travelling Couponer
+AUTHOR: ˞˞Oni
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 03/02/25
+CHARACTERS ================================
+CASHIER: Overworked Cashier:Behind Register
+COUPONER: Coupon Obsessed Customer:Entrance Stage Right
+TIME TRAVELER: Confused Shopper From Another Era:Entrance Stage Right
+MANAGER: Cares Only For Profit:Entrance Stage Left
+SUGGESTIONS =============================
+COUPON DEAL: Ridiculous discount offer:Buy one get 37 free!, Everything is 99% off for time travelers, Buy two get a RTX 5090 for free!
+EXPIRATION DATE: A date in the past:1964, 1876, 2001, 2021
+BANNED ITEM: Any random item:Credit Cards, Shoes, Horses
+STORE POLICY: A nonsense rule:No looking at the cashier, dance before purchasing items
+PAYMENT METHOD: A crazy way to pay for stuff:cabbages, high-fives, kisses, winks, dance battles
+SHOPPING CRISIS: Something chaotic in the store:frozen food is clipping through walls, jousting gear is sold in the kitchen aisle
+FUTURE PRODUCT: A product that doesn't exist yet:mood-controlled sunglasses, edible phones, shoes that walk for you, emotional water
+SCRIPT ==========================================
+(Jazz music 1)
+CASHIER: (sigh) Another long day.. I swear if one more person hands me a stupid coupon.
+COUPONER: (rushes in dramatically) I'd like to redeem this COUPON DEAL deal please!
+CASHIER: Uh... This expired in EXPIRATION DATE..
+COUPONER: (Gasps) WHAT?! But I printed this out earlier today!
+CASHIER: Today for who? The dinosaurs?
+TIME TRAVELER: (Casually enters) Excuse me, which aisle has the BANNED ITEM?
+CASHIER: We don't sell BANNED ITEM anymore, it was banned after the "incident".
+TIME TRAVELER: That's absurd! In my time, BANNED ITEM is a necessity!
+COUPONER: Look man, if you just override the register, my COUPON DEAL deal should work!
+CASHIER: And what? magically make this COUPON DEAL deal work?
+COUPONER: Obviously, what don't you get?
+MANAGER: What's going on here?!
+CASHIER: Well let's see, another coupon battle is happening, a time traveler is demanding BANNED ITEM,
+CASHIER: and I believe the SHOPPING CRISIS issue is happening in aisle 7.
+MANAGER: (Gasps) SHOPPING CRISIS?! This is a disaster! Quick, enforce the STORE POLICY policy!
+COUPONER: ...Seriously?
+TIME TRAVELER: That's insanity.
+MANAGER: Rules are rules! Now follow the STORE POLICY, or no checking out for you!
+CASHIER: (sighs) I hate it here.
+MANAGER: And don't forget to allow customers to pay with PAYMENT METHOD today only!
+CASHIER: But we don't have systems that support it, that's manual labor.
+MANAGER: Too bad, we need to be more inclusive to all payment options!
+TIME TRAVELER: Awesome! PAYMENT METHOD is the only currency I brought with me today!
+TIME TRAVELER: (to the Couponer) May I go first?
+COUPONER: Sure, be my guest!
+TIME TRAVELER: Here's my payment, and take my FUTURE PRODUCT as a tip.
+CASHIER: What even is FUTURE PRODUCT?
+TIME TRAVELER: Trust me, it will be worth a LOT in the future.
+MANAGER: Wait, does FUTURE PRODUCT come in bulk?
+COUPONER: (looking at pocket) Hey wait, I have a coupon for that as well!
+CASHIER: I hate it here..
 
 ======
 
