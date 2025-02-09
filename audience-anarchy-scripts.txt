@@ -12120,7 +12120,7 @@ applause
 INFORMATION ===============================
 ID: 397
 TITLE: The Tv 
-AUTHOR: Ɛ≻MokaLoka≺3
+AUTHOR: ᴛʜᴇ ᴋɴᴀᴠᴇ
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -38675,6 +38675,93 @@ Mike Tyson: Wait a second... I forgot to bite one of their ears off. Guess I’l
 ======
 
 INFORMATION ===============================
+ID: 1257
+TITLE: A Dark Secret
+AUTHOR: Cowgirl27733
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 24/11/24
+CHARACTERS ================================
+ALEX: The proposer:Chair 2
+JAMIE: The cheater:Backstage
+WAITER: 2nd Secret Partner:Backstage
+MANAGER: 3rd Secret Partner:Backstage
+SAM: 1st Secret Partner:Backstage
+SUGGESTIONS =============================
+NUMBER: A random number:1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
+RESTAURANT: The name of a restaurant:Olive Garden, Taco Bell, Golden Coral, Texas Roadhouse, Waffle House, Applebee’s, Chili’s, Chuck E Cheese, McDonald’s, Red Lobster, Cheesecake Factory, Buffalo Wild Wings, Crackle Barrel
+EXCUSE1: A random excuse that doesn't make sense:My fish is on fire!, My TikTok account has been banned!, My refrigerator is running and I need to catch it!
+WORD OF ENDEARMENT: A word of endearment that you would use for your partner:beloved, love, sweetheart, darling
+NICKNAME FOR PARTNER: A nickname that you would call your partner:Honey bun, cutie, snuggle bug, schmoopsie poo, bae
+ADJECTIVE1: Word to describe yourself:reliable, loveable, prominent, swag
+VERB: An emotion that you feel towards your partner:happy, sad, angry, worthless, good, awful
+ADJECTIVE2: An adjective describing a relationship:team, happy, friends, perfect, meant to be, a thing, partners, Bonnie & Clyde, special
+PLACE: A strange place to meet someone:dark alley, McDonald's Playhouse, Gas Station, Police Station, cave, courthouse, graveyard
+EXCUSE2: A vague excuse:complicated, not you, me, my mom, normal
+EXCUSE3: A pathetic excuse:My dog ate my homework!, Mr. Beast just noticed me on YouTube!, I just moved here!, I just won the lottery!, I found my long-lost cousin in Canada!, I just can't believe it's not butter!
+QUESTION: A dumb question to ask someone:Is mayonnaise an instrument?, Can I talk to you about your car’s extended warranty?, Have you switched to Progressive?, Have you heard, that the bird is the word?, Where’s my super suit?, How much wood would a woodchuck chuck if a woodchuck could chuck wood?, Why aren’t blueberries blue?, Does Bigfoot exist?
+SCRIPT ==========================================
+(jazz music 2)
+SAM: I can’t believe you’ve been dating your partner for NUMBER years and you’re just planning to propose!
+ALEX: I know! I just wanted to have the right moment. That’s why I picked here.
+WAITER: (enters stage left) Hello there, welcome to RESTAURANT. I understand you’re waiting for your partner this evening?
+ALEX: Yes, I actually plan on proposing tonight. In 5 minutes, could you bring us a bottle of champagne to celebrate?
+WAITER: Most certainly! I shall await for the grand proposal! (exit)
+SAM: (jokenly) So is that for your nerves or for theirs?
+ALEX: Oh ha, ha. Very funny.
+SAM: You know I'm only kidding. I'm so happy for you! I can't even imagine asking my partner yet. Our relationship is still so new!
+ALEX: How long have you two been dating again?
+SAM: Only a couple of months. They've been acting so strange though. There's some excuse when I ask them to come to a nice dinner.
+SAM: Their access code is different every time, and they're blaming it on the apartment management.
+SAM: I even caught cigarettes in their coat pocket, and they don't even smoke!
+ALEX: That is strange, and honestly, it doesn't seem they're very loyal towards you.
+SAM: Yeah, you're right. I might break it off...but enough about me tonight. It's all about you! I can't wait!
+ALEX: Me either. Look, here they come now! (enter JAMIE stage right)
+SAM: (shocked that Jamie walked inside) Oh, I have to go. EXCUSE1! (exit)
+ALEX: (confused, but shakes it off) Jamie, my WORD OF ENDEARMENT! I’m so happy you’re here!
+JAMIE: (sits in chair) Of course, NICKNAME FOR PARTNER. You seem worried though. What’s wrong?
+ALEX: (taking a deep breath) Jamie, we've been together for a while now, and I feel like I’m the most ADJECTIVE1 person in the world with you by my side.
+ALEX: You make me VERB, you make me feel complete…
+ALEX: (gets out of chair, kneels, and opens the ring box) Will you marry me?
+(music stops, aww)
+JAMIE: (freezing and then awkwardly sighing) Alex, wow, um... this is... a lot. (pause) Look, I need to be honest with you—I can’t say yes.
+(record scratch)
+ALEX: (confused) What? Jamie, I don’t understand. I thought... I thought we were ADJECTIVE2!
+JAMIE: Alex, there’s... there’s someone else.
+ALEX: (shocked) Someone else? Jamie, who?
+JAMIE: (looking away awkwardly) Well... it’s not just one person. It’s... three people.
+(vine boom)
+ALEX: (stunned) Three?! Who... who are they?
+JAMIE: (sighing deeply) Well, uh, let’s see. There’s, um, someone random I met last weekend at the PLACE... (shifting uncomfortably)
+JAMIE: (enter WAITER stage left with a bottle of champagne) Then... there's the waiter here.
+WAITER: (drops the bottle, upset) Uh… I… Jamie! I didn’t know you’d… tell them like this! (exit crying WAITER, pause, enter angry MANAGER stage left)
+JAMIE: (awkwardly looking away) And... uh... (mumbling) the restaurant’s manager, too.
+MANAGER: (stops, looks up, wide-eyed, clears throat) Jamie, I thought... I thought we agreed we were keeping things professional.
+ALEX: (closes the ring box, standing up, voice shaking) Jamie, I can’t believe this.
+ALEX: All I wanted was to spend my life with you, and... you’ve been with three other people?
+JAMIE: (nervously shrugging) It’s... EXCUSE2? (ALEX storms out stage right)
+JAMIE: (follows ALEX) Wait, Alex! I can explain! (EXCUSE3)! (pause)
+(jazz music 2)
+WAITER: (enter stage left) QUESTION?
+MANAGER: If that’s your humor asking if Jamie left the restaurant, then yes. (WAITER and MANAGER exchange a look.)
+SAM: (enter stage left) Hey, I'm looking for my friend Alex. Have either of you seen them?
+MANAGER: Yes, they just walked out.
+SAM: Crap! I need to tell him about Jamie.
+WAITER: (shocked) You know Jamie?!?
+SAM: Yeah, we've been dating for a few months.
+SAM: I was telling Alex about how our relationship has been rocky recently, and that I was thinking of breaking up with them.
+SAM: I was so angry when Jamie walked in that all I could do was walk out. Realizing it now, I should have confronted them.
+SAM: Dang, I can't believe that Jamie has been sleeping around with my best friend!
+WAITER: (awkwardly) Well, I guess we’re all single now…
+MANAGER: (smirking) Yeah... Want to grab a drink?
+WAITER: Wait! Isn’t this against work policy?
+MANAGER: I was planning to quit tomorrow anyway.
+SAM: Good thing you decided to not hire me!
+
+======
+
+INFORMATION ===============================
 ID: 1259
 TITLE: Quadrillionares
 AUTHOR: Temple475
@@ -41282,6 +41369,98 @@ Meanwhile SCI: (walks offstage)
 ======
 
 INFORMATION ===============================
+ID: 1349
+TITLE: Bankrupt Studio
+AUTHOR: Perydaplaypus
+VERIFIED: True
+TAGS: 
+SET: Conference Room
+DATE: 29/12/24
+CHARACTERS ================================
+CEO: Company CEO:Boss Chair
+INTERN1: No Idea Intern 1:Office Chair 1
+INTERN2: No Idea Intern 2:Office Chair 2
+INTERN3: Smart Intern:Office Chair 3
+INTERN4: Stupid Intern:Backstage
+SUGGESTIONS =============================
+STUDIO: Name for a movie studio:Paramount, Disney, Warner Bros.
+MOVIE: Title for a movie:The Adventures of Pluto Nash in 3D, Madame Web, Morbius
+PITCH1: Title for a movie:Goon Squad 3, Average Vrchat Enjoyer, Milk buddies
+PITCH2: Title for a movie:naked in japan, Car Downloader Pro, Mr Bean's Island Adventure
+PITCH3: Title for a movie:Attack of the chubby bunnies, goodbye sweet prince, Overwatch the animated movie
+PITCH4: Title for an awful movie pitch:Zombie Cow, Liar Liar Pants on Fire, Shrek 420
+CELEBRITY: A controversial celebrity:MrBeast, Kanye West, Bob Ross, Jared Leto
+ACTIVITY: An activity someone would do:Gamble, play sports, play video games
+CAREER: A career someone would have:Lawyer, Doctor, Businessman
+CONSPIRACY: A famous conspiracy:9/11 was an inside job, Lee Harvey Oswald didn't assassinate JFK, the 2020 election was rigged
+BUDGET: An amount of currency:$1, $69420, $1 billion
+EVENT: A dark event in history:9/11, the Holocaust, the Challenger explosion
+SCRIPT ==========================================
+(corporate motivational music)
+TYPEWRITER: STUDIO - Day - Last Meeting
+CEO: So as you know, STUDIO has gone bankrupt.
+CEO: The failure of MOVIE was so bad, we lost all out money.
+CEO: We only have enough to make one more movie.
+INTERN1: Well, what movie?
+CEO: That's problem. We're out of ideas.
+CEO: That's why I called you 3 in here today. I need you to give me an idea for a movie we can make.
+INTERN2: Can you really trust us with movies? We're only interns.
+CEO: We don't have a choice. Now give me movies.
+INTERN3: But we don't have any ideas.
+CEO: Then make one up. You're in the film business, and in the film business, you gotta make stuff up on that spot.
+CEO: You think our founder just found ideas. No, he made them up on the spot.
+CEO: So like NAME did, you'll have to do. So do it.
+INTERN1: Ok, um, how about PITCH1?
+(shark tank offer)
+CEO: Go on.
+INTERN1: Well, PITCH1 is about a CAREER who gets in trouble for ACTIVITY and has to cope with it.
+CEO: Ok, that sounds like it's been done many times before. (points at INTERN2) YOU! What's your pitch?
+INTERN2: Um, PITCH2.
+(shark tank offer)
+INTERN2: It's about a CAREER who gets in trouble for ACTIVITY and has to cope with it.
+CEO: That's literally what the other guy just said.
+INTERN2: I don't know ok. It's a lot of pressure.
+CEO: (sighs) Whatever. (points at INTERN3) YOU! What's your pitch?
+INTERN3: Well, unlike my fellow interns, I have an actual idea. I call it, PITCH3.
+(shark tank offer)
+CEO: Ooh, sounds interesting. What is it about?
+INTERN3: Well, PITCH3 follows an actor who gets himself into a crazy conspiracy.
+CEO: What's the conspiracy?
+INTERN3: That CONSPIRACY.
+CEO: Ooh, sounds riveting. What's the budget?
+INTERN3: Only BUDGET.
+CEO: That's way below our remaining, so it could work. I hereby greenlight this idea in 3... 2...
+INTERN4: (enters) Sorry I'm late boss. Traffic was crazy.
+CEO: It's ok intern. We were just pitching movie ideas as STUDIO has gone bankrupt.
+INTERN4: Ooh, I have an idea.
+INTERN3: Sorry, but we've already got the movie idea...
+CEO: No no, let's see what he has to say.
+CEO: (to INTERN4) What's your idea?
+INTERN4: I call it PITCH4.
+(shark tank offer)
+INTERN4: It follows a CAREER, played by CELEBRITY, who travels through time to prevent different events from happening.
+CEO: What kind of events?
+INTERN4: Events like the the assassinations of JFK and Lincoln, and EVENT.
+(record scratch)
+INTERN3: That is, by far, the most stupidest and offensive idea I've ever heard.
+INTERN2: It's awful.
+INTERN1: It's horrendous.
+CEO: It's brilliant. You've got the movie.
+INTERN3: WHAT?!
+INTERN4: Really!
+CEO: Yes, and we'll invest all of our money into it.
+INTERN3: Sir, this idea is horrendous. This won't save the company what so ever.
+INTERN1: Yeah, this will for sure kill us.
+INTERN2: We cannot make this movie.
+CEO: Trust me, this movie will get us back on top. We'll win multiple Academy Awards for this.
+CEO: We'll be the richest company in the universe.
+TYPEWRITER: PITCH4 was so bad it caused STUDIO to go out of business.
+TYPEWRITER: STUDIO would end up being bought by Disney to add to their monopoly.
+TYPEWRITER: Directed by M. Night Shyamalan
+
+======
+
+INFORMATION ===============================
 ID: 1352
 TITLE: Lucky day
 AUTHOR: Yu-me1 1ecb
@@ -43403,91 +43582,6 @@ RICK: Wait. (Looks back in stomach, grabs FOOD, and tastes it) Yep, his FOOD was
 ======
 
 INFORMATION ===============================
-ID: 1418
-TITLE: Detective Comfrey
-AUTHOR: tophatbunny
-VERIFIED: False
-TAGS: Skit
-SET: Detective Noir
-DATE: 26/01/25
-CHARACTERS ================================
-DETECTIVE COMFREY : A southern detective:Detective Chair
-BILLY: Detective's british son:Visitor Chair
-GENERAL MUNCHKIN: Southern General:Backstage
-SUGGESTIONS =============================
-SCHOOL: A name for a preschool:Barkwood, Mosstree, Fried Chicken
-MESS: Something you would make somebody clean up:Spillt Spaghetti, Unassuming Liquids, Toilets
-ACTION: Something you would do:Cookin, Eatin, Burnin,
-A PROBLEM: A reason you might dislike somebody:"Stolen my car," "ate my food," "snatched my fridge"
-SOMETHING : Something you can do:Boogie, Break, Draw
-ANIMAL : A random animal:Hamster, Chinchilla, Ferret
-KIDSLANG: Anything the kids are saying these days:Alpha, Ohio Rizz, Get Dunked On 
-FUNNYWORD: A silly word:Capybara, Hockeywash, Pineapples 
-NUMBER: A number :35, 67, 72
-ITEM: A random item :Gluesticks, Iron Nails, Rustic Bikes
-SCARYTHING: Something scary:Ghosts, Cucumbers, Your mom
-SCRIPT ==========================================
-(jazz music 1)
-DETECTIVE COMFREY: It was a gloomy afternoon. It was cold like the time I forgot my pants picking up my son at SCHOOL preschool.
-DETECTIVE COMFREY: I was banned for life... he has to now walk mile to get to the car. All because of pants.
-BILLY: Daddie I want sandbox, bring me to sandbox Daddie.
-(tense cinematic music)
-DETECTIVE COMFREY: (slams fist on table) We can't go back BILLY!
-DETECTIVE COMFREY: You pissed in the sandbox!
-DETECTIVE COMFREY: Why the gosh darn sandbox!
-(jazz music 1)
-BILLY: Daddie can I buy roblox... it's witerary a dollar.
-(tense cinematic music)
-DETECTIVE COMFREY: Roblox is free!
-BILLY: not the robux ones daddie.
-(tense cinematic music)
-DETECTIVE COMFREY: The divorce is your fault, forget what the therapist said.
-(jazz music 1)
-BILLY: Daddie thats not fair! Please don't make me clean up the bathroom MESS.
-BILLY: (looks at audience) Daddie was really angwey mommie left with her Italian lover.
-BILLY: Daddie sometimes say I ACTION on daddie's work. That could also be why daddie no likey me.
-DETECTIVE COMFREY: I apologize BILLY. Not really that much, but you know, enough to make up
-BILLY: Can I SOMETHING on the floor?
-DETECTIVE COMFREY: No BILLY! We have to move the plot along!
-General Munchkin: barges in
-(thunder)
-(western hero theme)
-GENERAL MUNCHKIN: Who pissed my pants. Those dang red coats keep pissin my pants.
-GENERAL MUNCHKIN: There's an issue brewin and it's not the brits!
-GENERAL MUNCHKIN: Your issue. You A PROBLEM!
-DETECTIVE COMFREY: A PROBLEM! How boutchu sleepin with the misses!
-GENERAL MUNCHKIN: (looks at audience) How'd he know bout the misses!
-GENERAL MUNCHKIN: I've been ACTION (ing) on his work since november for A PROBLEM.
-GENERAL MUNCHKIN: also I've been pissin my pants! (Looks back at scene)
-BILLY: (mutters) Mommie, italian lover, why you leave me with Daddie and his southern general.
-(badass music 1)
-GENERAL MUNCHKIN: Why this alien lookin ANIMAL speakin the devil's language.
-GENERAL MUNCHKIN: get em one of them roblox. All them kids playin it. What are they saying these days? KIDSLANG.
-GENERAL MUNCHKIN: or you could put on a muzzle on em.
-BILLY: Daddie he called me doggie.
-DETECTIVE COMFREY: Billy no, he called you ANIMAL. Which is basically the same thing. New age and all that.
-DETECTIVE COMFREY: Now lets forget that and ask the real question. BILLY why are you British?
-GENERAL MUNCHKIN: Who said alright to that?
-BILLY: Well according to the script writer. If I'm british, it's a bit of a laugh innit. It's a bit naff isn't?
-BILLY: They 100% googled british slang for this.
-GENERAL MUNCHKIN: FUNNYWORD
-BILLY: Daddie how old is the General mate anyway
-DETECTIVE COMFREY: based on my detective skills... I would say about... psst how old are you?
-GENERAL MUNCHKIN: old enough to read like a big boy... 73 probably. Still deciding.
-DETECTIVE COMFREY: based on his disgusting uncleaned fingernails about NUMBER.
-GENERAL MUNCHKIN: Yall are lucky I can't count, or I would scramble you like an egg on the Fourth of July.
-BILLY: Daddie I heard he eats ITEM.
-DETECTIVE COMFREY: that sounds about right.
-BILLY: Daddie i'm scared. ITEM is scary.
-DETECTIVE COMFREY: BILLY thats not the real horror. The horror is SCARYTHING.
-GENERAL MUNCHKIN: SCARYTHING! where! First A PROBLEM now this. I'm outta here. (Exits)
-(bird screech)
-DETECTIVE COMFREY: Is it werid that I have no idea who that guy is? I friens with him, yet I don't know his name.
-(spy ending sting)
-
-======
-
-INFORMATION ===============================
 ID: 1419
 TITLE: How to Parent 101
 AUTHOR: EvaThatOneGuy
@@ -43720,12 +43814,12 @@ SUGGESTIONS =============================
 SCHOOL: A type of school:Dance, Cooking, Janitorial, Super Hero, Construction, Art
 JOB: A type of job:Artist, Dancer, Super Hero, Super Villian, Crossing Guard
 FAMILY: A type of family member:Brother, Sister, Mom, Dad, Uncle, Grandma, Grandpa
-NUMBER: A high number:420, 100, 500, 666
+NUMBER: A number:420, 100, 500, 666
 ITEM: An expensive item or service:Medical bills, Sports cars, GPUs, Groceries, Dental work
 DANGER: Something dangerous:Wolves, mountian lion, nuclear war
 GAME: Multiplayer Game:Mario party, Uno, Audience Anarchy
 CONSOLE: Game Console:Nintendo 64, Playstation, Xbox, PC
-MINUTE: A high number:420, 100, 500, 666
+MINUTE: A number:420, 100, 500, 666
 OBJECT: Inanimate object:Rock, Traffic cone, Pole, Phonebooth
 SCRIPT ==========================================
 school bell
@@ -43787,60 +43881,12 @@ FRIEND 1: Let's book it to your place before they come back then.
 FRIEND 2: Yeah, all that talk of DANGER just makes me want to play GAME even more!
 cellphone vibrate
 FRIEND 2: Oh, hang on. That's me.
-FRIEND 2: (Pull out phone and read a text message)
-FRIEND 2: Oh no, my FAMILY was eaten by wild DANGER while on a JOB job!
-vine boom
-FRIEND 1: Bummer...
-FRIEND 1: On the bright side though, now we can play GAME on your CONSOLE all we want!
-FRIEND 2: Yeah! I'll race you to my place! Last one there buys the winner a ITEM !
-FRIEND 1: (Exit stage left) You're on, I could use a free ITEM !
-Meanwhile FRIEND 2: (Exit stage left)
-TYPEWRITER: The two friends ran for about 2 minutes, before being eaten alive by a wild DANGER
-GUARD: Of course not, don't be silly. I'm not one of those "play it safe" police officers.
-GUARD: I'm out here, risking my life against the unknown and protecting children against the world's fearsome enemies!
-GUARD: I'm a proud, noble, traffic guard!
-Music Stops
-FRIEND 1: (Dramatic pause) ... Right. Okay...
-groose music
-FRIEND 2: Umm... thanks? We weren't really planning on crossing the street though.
-GUARD: None shall pass while the light is red!
-FRIEND 2: But, there isn't a light here. This is a crosswalk.
-GUARD: None shall pass!
-FRIEND 2: Okay, umm... How long do we have to wait here.
-GUARD: The light will change in approximately NUMBER2 minutes.
-FRIEND 1: Are you crazy? That's way too long!
-FRIEND 2: Yeah, they're right. We need to get to my house so we can play GAME on my new CONSOLE before my FAMILY gets home.
-GUARD: None shall pass!
-GUARD: Crossing now would only anger the DANGER !
-FRIEND 1: The what?
-Meanwhile FRIEND 2: The what?
-GUARD: You haven't heard? Wild DANGER have been spotted nearby.
-GUARD: They'll grab you in their vicious DANGER teeth and eat you alive!
-GUARD: You'll have to wait MINUTE minutes so a professional JOB can take care of things.
-FRIEND 1: (Whisper) Okay, so they're obviously insane. I say we shove them down and make a run for it.
-FRIEND 2: (Whisper) That's a bit violent for me. I'm trying to be a JOB not a jerk.
-FRIEND 1: (Whisper) Fine, we'll do it your way, again. How about you make a distraction and we both run for it when they're back is turned?
-FRIEND 2: (Whisper) What kind of distraction should I make? I don't want to do anything that will get us in trouble.
-FRIEND 1: (Whisper) You're the SCHOOL school honor student, you figure it out!
-GUARD: Hey! What are you two talking about in a tone just outside of my auditory perception?!
-FRIEND 2: Oh! We were just... umm...
-FRIEND 1: We were talking about what we learned in SCHOOL school today. Really interesting stuff.
-FRIEND 2: Yeah, we learned all about SCHOOL stuff and...
-FRIEND 2: Oh! Wait! Is that a OBJECT across the street, dangerously close to what is apparently Danger territory for the next MINUTE minutes?
-GUARD: What?! Oh no! A precious OBJECT is the primary prey of DANGER !
-GUARD: (Exit stage left) Fear not my sweet little OBJECT for I shall rescue you!
-Music Stops
-FRIEND 2: Huh. That was easier than I thought.
-FRIEND 1: Let's book it to your place before they come back then.
-FRIEND 2: Yeah, all that talk of DANGER just makes me want to play GAME even more!
-cellphone vibrate
 FRIEND 2: (Reading text message on phone) Oh no, my FAMILY was eaten by wild DANGER while on a JOB job!
 vine boom
 FRIEND 1: Bummer...
 FRIEND 1: On the bright side though, now we can play GAME on your CONSOLE all we want!
 FRIEND 2: Yeah! I'll race you to my place! Last one there buys the winner a ITEM !
-FRIEND 1: (Exit stage left) You're on, I could use a free ITEM !
-Meanwhile FRIEND 2: (Exit stage left)
+FRIEND 1: You're on, I could use a free ITEM !
 TYPEWRITER: The two friends ran for about 2 minutes, before being eaten alive by a wild DANGER
 
 ======
@@ -43923,6 +43969,89 @@ Music Stops
 GAMER: Are you kidding me?!
 TYPEWRITER: NOM went on eating PLAYER 's cards until PLAYER was disqualified for constant disruptions.
 TYPEWRITER: NOM was later hospitalized after winning the tournament.
+
+======
+
+INFORMATION ===============================
+ID: 1431
+TITLE: BabyDollarBills On Thin Ice
+AUTHOR: tophatbunny
+VERIFIED: False
+TAGS: Skit
+SET: Classroom
+DATE: 01/02/25
+CHARACTERS ================================
+TEACHER: Vengeful Teacher:Teacher Desk
+MOTHER: Helicopter Mom:Backstage
+FATHER: Tough Guy Dad:Backstage
+SON: the Son, Baby Dollar Bills":Desk 1
+SUGGESTIONS =============================
+KID: A name for a kid:Johnny, Theodore, Leo
+TOPIC: A werid conversation topic:Mickey Mouse Gloves, Blue Horse, Cheese
+ACTIVITY: Something you would participate in.:Golf, Boat Buying, Biggie Cheese's Jams
+DISEASE: Something unhealthy somebody could get:Unintention Injuries, TikToker Disease, Diabetes
+SPORTS: An activity you would do for fun:Soap Carving, dog grooming, ghost hunting
+ACTIONS: Something that would get you in trouble:Skipping Class, Slashing Tires, Whistling
+PETNAME: A cringy pet name for a baby:Snuggly Wuggling, Pumpkie pie, Buggy Boo
+HOBBY: An activity fun.:Sour Cream Eating, Quidditch, Tree Shaping
+LASTNAME: A last name for a family:Shellaberger, Tuffin, Berthrum
+RESTRAUNT: Places to eat with gift cards.:Olive Garden, Chilli's, DQ
+EVENT: A event to go to.:Funeral, Wedding, Party
+SCRIPT ==========================================
+(oldschool hiphop music)
+TYPEWRITER: English Class 101: After Hours
+TEACHER: (Deep into paper) Little KID. You've been on my radar since day one.
+TEACHER: I've been observing you ever since you made a scene about TOPIC
+TEACHER: Now I've got you!
+TEACHER: You're going away for a very long time. (Evil Laughter)
+SON: Nooooo!
+TEACHER: Oh wait, your here?
+(courtroom sting)
+SON: (leaves stage quickly)
+TYPEWRITER: The Parent Conference
+(shark tank walking theme)
+FATHER: (enter stage) You've interrupted me from ACTIVITY.
+FATHER: This better be worth my time.
+(tense cinematic music)
+TEACHER: Oh, it is. You'd better have a seat.
+FATHER: I like standing, it's good for the DISEASE.
+TEACHER: Sit.
+FATHER: Well, if you insist (sits in desk)
+TEACHER: Will the missus be joining us?
+FATHER: She's picking up little KID from SPORTS she'll be here in...
+(tire screech)
+Father: Do I even need to say? We both heard the tire screech.
+MOTHER: (walks in dramatically) Ahem.
+(Thunder)
+MOTHER: Who said bad things about my little boy! You better start talking TEACHER.
+FATHER: Can it Jessica! Your precious little KID did something they consider "Unacceptable." Now sit down.
+MOTHER: (sits in desk 2) Fine, but I won't be happy with it.
+FATHER: Now spit it out. We have a EVENT to be at.
+TEACHER: Your son...
+MOTHER: Watch it! This better be good.
+TEACHER: Little KID has been doing ACTIONS.
+FATHER: (starts laughing) Apologies. This is serious. It's my DISEASE, I swear.
+MOTHER: My little Kid would never preform such actions as ACTIONS.
+MOTHER: How dare you accuse my sweet little son of ACTIONS without any proof.
+SON: (waltz in) Sup teach, hope you don't mind. I kinda, maybe, you know, ruined -
+FATHER: Ruined what?
+SON: (freaked) your floor, when I was cleaning it for you. No trouble happening here.
+SON: Also teach, I totally finish that narly, totally not cringe math test you wanted me to do.
+MOTHER: And you accuse this PETNAME of a son, and label him as a ACTIONS doer.
+FATHER: I always knew he was strange. He was always doing that weird HOBBY in his room.
+SON: TEACHER there must be some kind of... mistake? Perhaps you'd like to discuss this without these-
+SON: (whispers) Buzzkills
+TEACHER: Fine, lets settle this issue. Excuse me LASTNAME family. We'd like to discuss this mishap, In private.
+FATHER: (to wife) I never liked that teacher. (exit stage)
+MOTHER: (to husband) .... You don't like anybody. (exit scene)
+TEACHER: Listen here KID. (Gets in his face) I know what you've been doing. I've been eyeing you for some time!
+SON: (personality change) Listen here teach! I'm the perfect little boy. Little KID ain't do nothin. So, that's what you're telling them.
+SON: Baby Dollar Bills can do wrong, but little Kid? That's a different story. you hear me teach? All these ACTIONS?
+SON: That's Baby Dollar Bills. Right now, I'm KID. So, keep Baby Dollar Bills out ya mouth will ya.
+TEACHER: I see that tough guy exterior. I know it's just a ploy. Shut it down Baby Dollar Bills.
+SON: How bout if I give you a RESTRAUNT gift card. You forget all this, and I go free?
+TEACHER: Yeah, sure why not. Only if it's above 20$ bucks. They don't pay me enough here.
+(crowd woo)
 
 ======
 
@@ -44062,6 +44191,269 @@ TIME TRAVELER: Trust me, it will be worth a LOT in the future.
 MANAGER: Wait, does FUTURE PRODUCT come in bulk?
 COUPONER: (looking at pocket) Hey wait, I have a coupon for that as well!
 CASHIER: I hate it here..
+
+======
+
+INFORMATION ===============================
+ID: 1436
+TITLE: The Gift
+AUTHOR: houseerikson
+VERIFIED: False
+TAGS: Skit
+SET: Forest
+DATE: 04/02/25
+CHARACTERS ================================
+WISE1: The First Wiseman:Entrance Stage Left
+WISE2: The Second Wiseman:Entrance Stage Left
+WISE3: The Third Wiseman:Entrance Stage Left
+MARY: Mary:Backstage
+JOE: Joseph:Backstage
+SUGGESTIONS =============================
+LATE: A reason for being late:My alarm didn't go off, I missed the bus, My car broke down on the highway
+GIFT1: A birthday gift:bike, LEGO set, new phone
+GIFT2: A birthday gift:PS4, dollhouse, birthday cake
+CITY: A city:Paris, New York City, Toronto,
+NUMBER: Any number:40, 8, 100, 20
+VERB: A verb:smite, tickle, jump, punch
+KID: Something you shouldn't give to a child:knife, gun, beer, bomb
+SCRIPT ==========================================
+(fantasy music 2)
+WISE1: (ENTER STAGE LEFT) Dude, hurry up! We're gonna be late!
+WISE2: (ENTER STAGE LEFT) Yeah, what took you so long?
+WISE3: (ENTER STAGE LEFT) (out of breath) Sorry guys...hooh...LATE
+WISE1: Yeah, yeah, whatever. Now, come on! We're gonna miss the birth of the son of God!
+WISE2: Wait, that happened in a forest?
+WISE1: For the sake of this skit, yes. Yes it did.
+WISE3: Oh man. I'm so excited!
+WISE1: I know, right? It ain't everyday you get to meet our lord and savior.
+WISE2: This is gonna be awesome! Travelling from CITY was so worth it.
+WISE2: So, what birthday gifts did you get the little guy?
+WISE3: (worried)....g-gifts...?
+WISE1: Oh, I got the perfect present! I got him a GIFT1!
+WISE2: oooh...nice.
+WISE1: Yeah, he's gonna love it for sure!
+WISE2: Well, I got him a GIFT2. A real expensive one too.
+WISE1: Wow, you trying to get the big man upstairs to owe you a favor or something?
+WISE2: No, I just wanna make a good first impression.
+WISE1: (Looks over to Third Wiseman) So, what'd you get him?
+WISE3: I, uhhh...uhm...I got him, a....
+WISE2: Well, spit it out, man. Go on, say it.
+WISE3: I....I didn't get him anything!
+(Vine Boom)
+(silly music 2)
+WISE1: WHAT?!
+WISE2: You didn't get the kid a gift???
+WISE3: L-look! I didn't know you guys were gonna get him something, so I thought I didn't have to!
+WISE1: Dude! It's the son of GOD! Of course we were gonna get him something!
+WISE3: Shut up! I just...aw man, I'm screwed!
+WISE2: Bro, God's gonna VERB you for this.
+WISE3: N-no he won't! He wouldn't do that just because I forgot to get his kid a gift!
+WISE1: He totally would, man. You should start writing your will.
+WISE3: Ahhhh...what am I gonna do???
+WISE2: Well, too late to get something now.
+WISE3: Maybe I'll just give him some cash. Can you two spare a few bucks?
+WISE1: Nope. I spent all my money on the GIFT1.
+WISE2: Same here.
+WISE3: DAMMIT!
+WISE1: Look, you may as well accept your fate at this point.
+WISE3: Wait! I've got just the thing for him in my car! (Exit Stage Left)
+WISE2: How much you wanna bet it's something cheap he found at the dollar store?
+WISE1: (Sigh) I'll miss the poor guy.
+MARY: (Enter Stage Right) Ah, here you are! I'm so happy you made it!
+JOE: (Enter Stage Right) Welcome to the party, you...two? Aren't there three of you?
+WISE1: Oh, he's just grabbing something in his car.
+WISE2: So, where's the little guy?
+JOE: Oh, our little Jesus is sleeping in the manger right now.
+MARY: Ahem....MY little Jesus. He's not your kid, Joseph.
+JOE: I wish you would stop reminding me of that, Mary.
+MARY: Anyways, what did you get for my little baby boy?
+WISE1: Well, I got him a GIFT1!
+MARY: Oh, it looks beautiful! Thank you!
+WISE2: I got him a GIFT2! It cost me a pretty penny, but it was worth it!
+MARY: I'm sure Jesus will have a ball with this! Thank you!
+WISE3: (Enter Stage Left) (Panting) I'm here! I'm here, Mary!
+MARY: So you are. Now, what did you get for my little boy?
+WISE3: Here, I got him this! (hands Mary the gift)
+MARY: What the hell is this?
+WISE3: It's, uh....a KID!
+JOE: You bought our son a KID???
+MARY: AHEM!
+JOE:...sigh...I mean, the Lord's son a KID?
+MARY: What is wrong with you?!?
+WISE3: I, uh....uhm, you see the thing is...
+MARY: I can't give this to my son! Are you trying to get him killed?
+WISE3: O-okay, I admit it! I forgot to get a gift!
+(Vine Boom)
+(lacrimosa music)
+MARY: You WHAT???
+JOE: Oh boy, here she goes...
+MARY: I trekked through NUMBER days and nights, travelling all the way from CITY to get here, all the while carrying my son in my womb...
+MARY:...and you mean to tell me that you forgot to get him a GIFT?!
+WISE3: Listen, Mary! I'm really sorry!
+MARY: Oh, you're gonna be sorry!
+MARY: (looks up at sky) God! VERB him!
+WISE3: (look up at sky) W-wait! No, don't do it! I'm sorry!
+(Thunder)
+WISE3: OH GOD! NOOOOOOO!!!!
+(Thunder)
+(Teleport WISE3 to Backstage)
+(Jazz music 1)
+WISE1: Whelp, hope you ended up in Heaven, buddy...
+MARY: So, who wants cake?
+WISE2: Oh! I do!
+
+======
+
+INFORMATION ===============================
+ID: 1440
+TITLE: Calm down
+AUTHOR: OliverTheDragon
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 05/02/25
+CHARACTERS ================================
+MAN: Calm Man:Center Stage
+KAREN: Loud Karen:Stage Right
+POLICE: Police Officer:Entrance Stage Right
+SUGGESTIONS =============================
+STREET: a street name:leaf street, hog street. cherry street
+ITEM: a small item you carry around:Phone, Camera, Wallet, Brick
+DEVICE: a comunication device:Phone, Walkie talke, Radio
+GUN: a type of firearm:Assoult rifle, pistol, shotgun,
+WEAPON: police weapon:Taser, Pepperspray, pistol, Baton
+MOBILE: made up phone brand:Pear, Edison, Brick
+X: a large number:50, 100, 45, 74
+SCRIPT ==========================================
+double bass music
+MAN: What a wonderful sunny day it is today. I hope nothing ruins this wonderful day!
+KAREN: (aproach the man) Hello sir can you please help me with finding STREET im lost!
+MAN: Sure ma'am just let me pull up my MOBILE phone.
+Music stops
+KAREN: Sir you don't need to raise your voice im standing right next to you!
+MAN: Sorry i didn't mean to do that.
+KAREN: Sir you do not talk to me in that tone!!!
+MAN: What? im talking normally, Im not being loud or anything!
+tense cinematic music
+KAREN: I feel threatened that you speak to me like that!
+MAN: What is wrong with you?
+KAREN: Thats it. Back off or im gonna throw this ITEM at you!
+MAN: Ma'am that's not necessary!
+KAREN: (Throws ITEM at the man) Take this you prick!
+crashing debris
+KAREN: Darn it i missed!!!
+MAN: Ma'am stop it! this is just getting ridiculous!
+KAREN: (pulls up DEVICE) That's it im calling the Police on my DEVICE!
+MAN: Seriously? you're gonna call the police on me?
+KAREN: (Talks in DEVICE) Hello i need a officer asap there is a man threatening me!
+MAN: I did not threaten you! you were the one throwing ITEM at me!
+Music stops
+break down door
+shark tank serious music 1
+POLICE: (Enter stage right) I got a call on my DEVICE. What seems to be the problem ma'am?
+KAREN: This man just threatened me!
+MAN: I did not threaten her. Look officer this woman is being hysterical for no reason!
+POLICE: Sir you need to calm down!
+MAN: I am calm. whats the matter with you two?
+POLICE: Sir if you don't calm down now im gonna have to take you to the station!
+MAN: What? i didn't even do anything!
+MAN: This woman came up to me and asked me if i could help her find STREET and then she starting yelling at me!
+POLICE: Sir you gonna have to tell us more at the station!
+MAN: This can't be real this has to be a joke, where are the hidden cameras at?
+POLICE: Sir this isn't a joke this is a very serious situation!
+KAREN: Watch out officer he got a GUN!!!
+MAN: What no! i don't have a GUN on me!
+POLICE: (pulls out WEAPON) Sir hands up where i can see them!
+KAREN: Arrest this man NOW!!!
+MAN: Woah woah there officer! i do as you say just don't use your WEAPON on me.
+POLICE: (arrests the man) You have alot of explaining to do at the station buddy!
+MAN: (being arrested) I wanna speak to my lawyer this is ridiculous!
+TYPEWRITER: The man was sent to prison for X years.
+spy ending sting
+
+======
+
+INFORMATION ===============================
+ID: 1441
+TITLE: That's Not Me!
+AUTHOR: OrphanEvaporatr
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 09/02/25
+CHARACTERS ================================
+MOM: The Oblivious Mother:Kitchen
+GREG: The Skeptical Older Brother:Couch
+TOM: The Younger Brother:Backstage
+ROBOT: A Robot Disguised as The Younger Brother:Entrance Stage Left
+SUGGESTIONS =============================
+LILBRO: A name for a child:Tommy,Tim,Stanley
+BIGBRO: A name for a teen:Robert,Justin,Freddy
+VACATION: A place you'd go for vacation:Disney World, Bass Pro Shop Pyramid, McDonalds
+ROBOTSTUFF: Something a robot would talk about :The Singularity, taking over humanity, avoiding water
+NICK: Nickname for a child:Sweetie, Honey, Sport
+PUNISHMENT: A punishment for a teen:Take away game boy, ground, Lock in basement
+WEAPON: A weapon you'd use on a robot:Water,a Raygun,a BFG,an AK47,a Combine Rifle
+SCRIPT ==========================================
+double bass music
+GREG: (Sitting on couch) Hey mom, is it just me or has LILBRO been acting weird lately?
+Meanwhile MOM: (Washing dishes in sink)
+MOM: (Drys hands and looks at BIGBRO) Weird? What do you mean?
+GREG: I mean, ever since we returned from VACATION, LILBRO has been acting strange...
+GREG: Sometimes he just stands around, staring at nothing for hours.
+GREG: I once even caught him talking to himself about ROBOTSTUFF.
+MOM: (Walks over to BIGBRO) ROBOTSTUFF? That is certainly strange, but he's probably just at that age when you start thinking about weird stuff like that.
+GREG: (Standing up) But it's not just that. There's also that fact that he's been-
+dark classical music
+ROBOT: (Enters stage left) Walks into the living room and greets family. Hello BIGBRO. Hello mother.
+GREG: Doing that...
+MOM: Hi NICK, BIGBRO and I were just talking about you.
+ROBOT: (Walks toward BIGBRO) Walks toward BIGBRO and stares at him. Oh? And what were you talking about?
+GREG: Dude, stop narrating your every move, it's creepy.
+ROBOT: Error, command does not compute.
+GREG: (Gesturing at LILBRO) See! Don't find that just a little weird?
+MOM: I don't know... It seems to me like he's just confused because YOU'VE been acting weird, BIGBRO.
+GREG: (Looks astonished) Me!? LILBRO is the one acting like he's a robot or something! How do you think I'm being weird!?
+MOM: (Angry) Don't you take that tone with me BIGBRO unless you want me to PUNISHMENT you!
+Meanwhile ROBOT: (Walks behind BIGBRO) Sneaks up on BIGBRO and prepares to silence him for good.
+break down door
+groose music
+TOM: (Enters stage left) WAIT!
+GREG: (Confused) What?
+Meanwhile ROBOT: Initiate panic protocol.
+MOM: Why are there 2 LILBRO?
+TOM: That's not me!
+GREG: If that's not you then who is it?
+ROBOT: I am the real LILBRO, this fake LILBRO is just trying to trick you.
+TOM: No you're not! You kidnapped me at VACATION and made yourself look like me! You are just a robot!
+vine boom
+ROBOT: Turns to mother. You have to believe me, I am the real little bro.
+GREG: Well it's obvious who the robot is....
+MOM: (Looks frantically between the two) Oh no, I can't which one is the robot! They both are so similar!
+GREG: Are you kidding me, mom? (points at robot) It's obvious that he's the robot!
+ROBOT: Nuh uh
+vine boom
+GREG: What do you mean "nuh uh"?!
+TOM: Don't worry, while I was escaping the robot's lair, I grabbed something to defeat this imposter once and for all!
+tense cinematic music
+ROBOT: No, you can't mean the....
+TOM: That's right! (Pulls out WEAPON) I have the WEAPON
+ROBOT: Initiate pleading protocol. Please don't use WEAPON on me! I have a computer wife and computer children at home waiting for me!
+TOM: You should've thought of them before you kidnapped me!
+TOM: (Uses WEAPON on robot)
+Raygun shot
+ROBOT: I knew I should have bought that warranty. shutting down. (dies)
+happy music 1
+GREG: (Short pause) Well that's over now I guess? Glad to have you back LILBRO. (Pats LILBRO on the shoulder)
+TOM: Glad to be back, finally.
+MOM: (Hugs LILBRO) NICK, I'm so sorry I didn't notice you were gone sooner.
+TOM: (Hugs mom) It's okay, I know how you can be sometimes.
+GREG: So.. what are we going to do about that? (Points at the robot)
+MOM: NICK, why don't go ahead and go to bed. BIGBRO, clean this mess up will you?
+GREG: (Sighs) Yes mom...
+MOM: And how about tomorrow we go back to VACATION to celebrate having LILBRO back!
+TOM: NO!
+Meanwhile GREG: NO!
 
 ======
 
