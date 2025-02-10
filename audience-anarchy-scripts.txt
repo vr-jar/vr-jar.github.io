@@ -44457,3 +44457,64 @@ Meanwhile GREG: NO!
 
 ======
 
+INFORMATION ===============================
+ID: 1444
+TITLE: The Babysitter
+AUTHOR: FangsCrayonBox
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 10/02/25
+CHARACTERS ================================
+SITTER: Baby Sitter:Entrance Stage Right
+BABY: Overgrown Child:Entrance Stage Left
+SUGGESTIONS =============================
+TASK: Something you'd ask a baby sitter to do:Bottle feed, Supervise playtime, Put them down for a nap
+BAG: Something you carry supplies in:Purse, Backpack
+NAME: A person's name:Jake, Jeff, Peter, Randy, Kahny, Joe
+HANDLE: An online username:NoobKiller420
+LEVEL: A number:40, 69, 99, 120
+GAME: A video game:Fortnite, Among Us, Monster Hunter, Tetris, Snake, RuneScape
+FOOD: A snack:Hot Pockets, Ramen, Cheese Balls
+BRAND: A company/brand:Mountian Dew, Raid Shadow Legends
+DINNER: A meal:Spaghetti, Mac and Cheese
+SCRIPT ==========================================
+silly music 2
+SITTER: (Enter Stage Right) Hello? Is anyone still home? I'm here for that babysitting job.
+SITTER: Huh, guess they already left. Kinda irresponsible if you ask me...
+SITTER: Good thing they texted me a list of things to do. (Take out phone)
+SITTER: Let's see... I've got to make sure the kid eats dinner, do the dishes, TASK ...
+SITTER: Shouldn't be too hard, I've got all the supplies I need for TASK in my trusty BAG
+SITTER: Now, where is little NAME ?
+footsteps on wood
+BABY: (Enter Stage Left) Ugghh, what's all that noise?
+SITTER: Huh? Who are you? I thought nobody was home.
+BABY: Oh, your probably the stupid sitter my stupid parents hired.
+BABY: Can you keep it down? I'm almost on level LEVEL of GAME
+SITTER: Wait... are you NAME ?
+BABY: Uggghhh! Don't call me that! I go by HANDLE now!
+BABY: NAME is such a lame name for a pro GAME gamer like myself.
+SITTER: Umm... how old are you exactly?
+BABY: I'm currently level 40, but I'll be level 41 next month.
+SITTER: And what's that... smell...
+BABY: That, my dear noob, is the smell of success!
+SITTER: (Under your breath) That explains why "get him to take a bath" was on the list.
+BABY: (Run towards the sitter) What was that?! You throwing shade at me?
+SITTER: (Gag from the smell) Nothing, just, umm... thinking out loud.
+SITTER: But now that you're away from your game, maybe you should take a shower or something?
+BABY: Don't be stupid, showers are an exp waste.
+SITTER: I see... what about dinner then?
+BABY: FOOD is all I need.
+SITTER: Okay... Starting to see why I was called.
+SITTER: What if I told you that, umm, BRAND was doing a collaboration right now where you get GAME exp for eating a proper dinner?
+BABY: BRAND ? Those scrubs?
+SITTER: Yep, BRAND has a promotion going on right now where if you eat a whole DINNER dinner you get a free epic loot box on each level.
+BABY: Seriously?! I'm level LEVEL so I'd be rich! Those noobs would die of jealousy!
+SITTER: (Hold out a bar of soap) And you get double the loot if you shower with their special BRAND branded soap before eating.
+BABY: (Take the soap) Suckers! HANDLE is gonna be the baddest player in all of GAME !
+BABY: (Run off stage) I am unstoppable!
+SITTER: That was a little too easy... Better get started on that DINNER dinner.
+SITTER: At least I didn't have to TASK ... I hope.
+
+======
+
