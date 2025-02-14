@@ -41409,7 +41409,7 @@ CEO: We don't have a choice. Now give me movies.
 INTERN3: But we don't have any ideas.
 CEO: Then make one up. You're in the film business, and in the film business, you gotta make stuff up on that spot.
 CEO: You think our founder just found ideas. No, he made them up on the spot.
-CEO: So like NAME did, you'll have to do. So do it.
+CEO: So like he did, you'll have to do. So do it.
 INTERN1: Ok, um, how about PITCH1?
 (shark tank offer)
 CEO: Go on.
@@ -41457,6 +41457,110 @@ CEO: We'll be the richest company in the universe.
 TYPEWRITER: PITCH4 was so bad it caused STUDIO to go out of business.
 TYPEWRITER: STUDIO would end up being bought by Disney to add to their monopoly.
 TYPEWRITER: Directed by M. Night Shyamalan
+
+======
+
+INFORMATION ===============================
+ID: 1351
+TITLE: The Deadlee Family
+AUTHOR: Twintacle PTT
+VERIFIED: True
+TAGS: 
+SET: Murder
+DATE: 30/12/24
+CHARACTERS ================================
+DAD: Father:Entrance Stage Right
+MOM: Mother:Stage Left
+PIZZA: Pizza Guy:Stage Left
+SIS: Daughter:Stage Left
+SON: Young son:Center Stage
+SUGGESTIONS =============================
+PLACE: Pizza place:Dominoes, Little Caeser's, Pizza Hut, Papa John's
+PET: Deadly animal:Blue-Ringed Octopus, King Cobra, Venomous Scorpion
+CHEMICAL: Deadly chemical or element:Cyanide, Mercury, Lead
+TOPPING: Good topping for a pizza:Pepperoni, Sausage, Cheese, Olives
+LIMB: Any kind of limb:Leg, Head, Tail, Hand
+DEVICE: Electronic device:iPad, Personal Computer, Phone, Tablet
+NAME: Name for a cousin:Todd, Diego, Antonio
+WEAPON: Weapon used in war:Rifle, Tank, Grenade, Sword
+WAR: Any war in history:World War 1, Korean War, Vietnam War
+DRINK: Drink/Beverage:Pepsi, Apple Juice, Milk, Fanta
+SCRIPT ==========================================
+halloween music
+DAD: (sits down on couch) So I cannot believe that you were actually a lost cousin of them.
+PIZZA: (sits down on chair) I thought it was a regular PLACE delivery before you look at me better.
+MOM: (to the pizza guy) Would you like any drink, NAME?
+PIZZA: Uh, a DRINK will do just fine. Thanks!
+MOM: Coming right up! (exit)
+SON: (to the pizza guy) Hey cousin NAME! Check out this new toy I got! (shows out his toy)
+PIZZA: (a little scared) Oh wow! Lovely!
+Meanwhile SIS: (scrolling on DEVICE) Hmm. Let's see...
+PIZZA: Hey Carella Creepz, how is that PET coming along?
+SIS: Why, he was a hungry fellow. I had to give the last slice of the TOPPING pizza to it.
+SIS: We ran out of LIMBs, so uh. Yeah. We had to substitute something else with it.
+DAD: Oh, I am sure the PET will be just fine. WAR was much worse.
+DAD: Speaking of WAR, I have a WEAPON exactly from that time period, precious thing.
+PIZZA: Oh, uh, Bobby, please. You do not need to show it directly in my face now. I am on my lunch break.
+MOM: (enters) Here is the DRINK you requested. (gives the DRINK to NAME the pizza guy)
+PIZZA: Thank you, Melissa! (Drinks the DRINK) So uh, what separated us for so long?
+DAD: (laughs) Oh ho ho ho! You want us to talk about the origin story, huh?
+SON: Story time!
+Meanwhile SIS: Story tiiiiime!
+PIZZA: Oh please, your old friend NAME wants to know more. Let me at it with the knowledge.
+MOM: A story time? Oh, how fun!
+mystery music 1
+DAD: Now, long ago, there was just us Deadlees. We were the biggest killers in all of PLACE.
+DAD: We were eternally happy separating the LIMBs of our victims. The police were futile in trying to arrest us.
+SON: Happy times... Happy times...
+SIS: Sadly, none of that could last forever.
+DAD: One day, one of our kind, who the name has long been forgotten, married and loved a Livelee. Our adversaries.
+MOM: The betrayal was heartbreaking. We never thought one of us can be traitorous like that.
+PIZZA: Oh my...
+DAD: My father ordered actions to be taken against this contamination of our bloodline.
+SON: The traitor was found guilty, and we all executed him. Never to be seen again.
+MOM: But by the oath of my precious CHEMICAL, they left tons of children. We cannot take it.
+SIS: And so today, we made a bounty to all those who are a Livelee, and ordered deaths to all of them.
+SIS: I have all the wanted on my DEVICE, want to see?
+PIZZA: Sure, I guess...
+SON: As you see, we have loads of the wanted. I, Alaxander, have gotten three bounties this week alone.
+MOM: That's my proudest son.
+Music Stops
+PIZZA: (horrified at the DEVICE) Good God! That is my girlfriend! My lovely soon to be wife! Please, spare her!
+vine boom
+DAD: Wait...
+SIS: She was...
+SON: Your girlfriend?
+PIZZA: Uh oh.
+epic fantasy music 2
+DAD: You, damned Livelee, NAME, you are not a lost cousin to my children!
+SIS: What a disgrace! Get out of our lives!
+Meanwhile MOM: Oh my god.
+PIZZA: (runs toward the door) Oh god! Oh no! I am sorry!
+SON: Wait wait wait, pause the betrayal music
+record scratch
+Music Stops
+SON: Everyone, remember, we are the Deadlee family. We do not cast them out like other scripts do.
+MOM: Alaxander, please stop breaking the fourth wall and get to the point.
+SON: Since we are the Deadlee family, we must kill NAME!
+DAD: Hell yeah!
+Meanwhile SIS: Yes!
+PIZZA: Noooooooooo!
+epic fantasy music 2
+DAD: (pulls out WEAPON) Time to die, NAME! Your blood is contaminated! We have no choice.
+Meanwhile SIS: Come here, PET! (Brings out PET)
+MOM: CHEMICAL poisoning time!
+PIZZA: Please I don't wanna die! Don't kill me!
+SON: Any last words?
+PIZZA: Tell my girlfriend I love her.
+DAD: (Strikes the pizza guy with WEAPON) Time's up! Gyah!
+Meanwhile MOM: (Injects CHEMICAL into the pizza guy) Die!
+PIZZA: Aaaaaaaaaaaaaaaaaaaaaaah! (dies)
+Meanwhile SIS: Bit him, PET! (lets go of PET)
+Music Stops
+SON: Make that four, this week, or will it be three?
+MOM: I am so proud of you. Son, you took out a lover.
+police car
+DAD: Shoot, the police. Everyone, separate the LIMB, and run!
 
 ======
 
@@ -41702,7 +41806,7 @@ ENEM: Stop right there!
 ALEX: (points to the enemy) Oh no! It's a TINYBAD!
 ENEM: You shall not tread more, this is BADGUY's territory! And I shall fight for him!
 MOM: We have to defeat this cute little guy before the boss? Piece of cake!
-SIS: Enough talk, kill that SMALLBAD! (Aims bow and arrow)
+SIS: Enough talk, kill that TINYBAD! (Aims bow and arrow)
 Meanwhile ALEX: (Holds up his bat)
 pokemon battle start
 MOM: (Charges) Yaaaaah!
@@ -43914,7 +44018,7 @@ BACKUP: Name of a less powerful, uncommon card:Dark Magician Girl, Pikachu
 MONEY: A large amount of money:$100
 FOOD: Food a gamer would eat:Hot pocket, Ramen, candy bar
 SCRIPT ==========================================
-TYPEWRITER: GAME regional championship, Semifinals
+TYPEWRITER: CARD regional championship, Semifinals
 badass music 1
 JUDGE: Welcome to the semifinal match of the CARD tournament sponsored by COMPANY !
 JUDGE: Our two semifinals contestants are the legendary: PLAYER and this tournament's dark horse: NOM
@@ -43955,13 +44059,12 @@ EATER: No I didn't.
 GAMER: He's lying!
 JUDGE: Look, it's your word against his, and that's a pretty wild story.
 GAMER: But it happened! That cheating maniac ate my card!
-JUDGE: Hey, there's no need for name calling here. Either play nice, or you'll be disqualified.
-GAMER: (Scream)
-JUDGE: Now, resume play or I'll have to issue an official warning for disruptions.
+JUDGE: Hey, there's no need for name calling here. This is the CARD tournament sponsored by COMPANY not some shady back alley.
+JUDGE: I suggest you check your attitude and resume play or I'll have to issue an official warning for disruptions.
 GAMER: Uggghhh! Fine! (Resume playing the game.)
 Meanwhile JUDGE: (Walk away from the table and resume scrolling through your phone.)
 badass music 1
-GAMER: I'm not gonna show you any mercy. After all, I'm the legendary PLAYER I can't be beaten by some card eating scoundrel!
+GAMER: I swear by the power of CATCHPHRASE that I'm not gonna show you any mercy! I'm the legendary PLAYER I can't be beaten by some card eating scoundrel!
 GAMER: You may have cheated to get my BOSS off the board, but I still have plenty of options.
 GAMER: Behold! The, less impressive than BOSS, but still pretty impressive card BACKUP !
 EATER: (Take and eat BACKUP ) om nom nom
@@ -44305,6 +44408,89 @@ WISE2: Oh! I do!
 ======
 
 INFORMATION ===============================
+ID: 1437
+TITLE: Dr Quack's Comedy Clinic
+AUTHOR: Valhymm
+VERIFIED: True
+TAGS: Skit
+SET: Doctor's Office
+DATE: 04/02/25
+CHARACTERS ================================
+WRITER: Comedy writer and patient:Examination Table
+QUACK: Clown doctor:Stool
+DOCTOR: Real doctor:Backstage
+DEBBIE: Clown assistant with a limp:Entrance Stage Right
+SUGGESTIONS =============================
+CHIROPRACTOR: Alternative medical professional:chiropractor, homeopath, acupuncturist
+COCCYX: A funny sounding body part:coccyx, epidermis, arrector pili, uvula, tarsus, glottis
+JAR: An audience member:Jar, Pawn, Monty Mole
+PAPERWORK: Literally anything:paperwork, afternoon tea, frying pan, surfboard, sleeping bag, rubber duck, baby oil
+HOWARD: A famous duck:Donald Duck, Howard the Duck, Daffy Duck, Scrooge McDuck, Psyduck, Farfetch'd
+FURRY: A kind of avatar:furry, eboy, egirl, novabeast, boykisser, nardoragon, avali, 
+HAIRCUT: Embarrassing accessory:tattoo, haircut, t-shirt, piercing, necklace, pair of goggles, beard, moustache, handbag
+HAT: Item of clothing or jewellery:hat, pegleg, glove, earring, ring, watch, pocket watch
+PAWN: An audience member:Jar, Pawn, Shrimpy
+SCRIPT ==========================================
+70s music
+WRITER: (Getting a massage) Ah! Oh yeah, right there! Ohhh!
+Meanwhile QUACK: (Massage WRITER)
+QUACK: So PAWN, you're a writer for Audience Anarchy, are you? That sounds like fun.
+WRITER: Um, yes, I suppose it is.
+QUACK: Actually, there are a couple of funny things happen in a CHIROPRACTOR's, you could probably use them in your next sketch.
+WRITER: (Sit up enthusiastically) Seriously?!
+QUACK: (Sheepishly) Well... you probably have people suggesting things all the time.
+WRITER: (Taking out a notepad and pen) Oh, I wish! I'm really stuck for ideas, what've you got?
+QUACK: Ah! Well, there's funny words, like COCCYX, which sounds a bit like... well I don't need to tell you, you're the writer.
+WRITER: COCCYX! Of course, yes! Sounds like COCCYX! There's a laugh in that.
+QUACK: Super!
+WRITER: Anything else? Because like I said, I am desperate! Any wacky incidents or zany people?
+QUACK: Well, there's my assistant Debbie, she's a character!
+WRITER: Brilliant, a character! So... how's she a character?
+QUACK: Well, sometimes she wears a HAT?
+WRITER: A HAT, that could be funny. This is great, COCCYX, a HAT, we could certainly use both of those. Anything else?
+QUACK: No, that's it I'm afraid, those are the two funny things about being a CHIROPRACTOR.
+WRITER: (Lying back down) Oh, well that's a shame, because like I said I really am completely out of ideas.
+Meanwhile QUACK: (Go back to massaging WRITER)
+WRITER: And if you can't think of anything, we'll probably just do this.
+QUACK: What, this conversation?
+WRITER: Yeah.
+QUACK: Wow, that's exciting! So what, you play me?
+WRITER: No, I play myself.
+QUACK: What, I play me then?
+WRITER: No, we get JAR to do it!
+QUACK: Well, do they look like me?
+WRITER: (Unsure) Yeah?
+QUACK: Uhh... I dunno, you're not gonna try and make me look like a FURRY with a ridiculous HAIRCUT just to get a cheap laugh?
+QUACK: Or give me some kind of gratuitous speech impediment?
+WRITER: (Taken aback) Nooo! No, of course not!
+QUACK: Uhh, I'm worried that you're just gonna try and humiliate me on the Internet.
+WRITER: (Sitting up) No, no not at all. I suppose... we might exaggerate a bit for comic effect.
+DEBBIE: (Limp onstage carrying a PAPERWORK) Nyeah heh heh heh!
+Meanwhile QUACK: Hello Debbie!
+DEBBIE: (Gruff) Here's your PAPERWORK for your HAIRCUT, sir!
+DOCTOR: (From behind door) Excuse me?!
+music stops, record scratch
+DOCTOR: (Enter) Sorry, I'm really sorry to interrupt, I was in the audience watching just now, but...
+DOCTOR: (To audience) I'm PAWN's real CHIROPRACTOR?
+laughter
+DOCTOR: And I'm actually quite upset, because this isn't how our appointment went at all!
+DOCTOR: For a start, I don't sound anything like that!
+QUACK: Sorry...
+DOCTOR: And secondly, while I was easing off his COCCYX, I told PAWN some genuinely amusing CHIROPRACTOR stories!
+DOCTOR: Like the time I was treating HOWARD, and they said to me, if anyone's the real quack around here, it's you!
+laughter
+DOCTOR: Which was hilarious!
+Meanwhile WRITER: (Take out your pen and paper again) Brilliant!
+WRITER: (Writing) That was good, yeah.
+DOCTOR: I don't know what else to say, really! If being a CHIROPRACTOR's such a joke, I may as well just give it up. (Exit)
+DEBBIE: (Follow DOCTOR offstage) Wait, sir! You forgot your PAPERWORK!
+WRITER: (To QUACK) JAR, are you sure you didn't hire his actual assistant?
+QUACK: (Normal voice, annoyed) Oh, COCCYX.
+laughter
+
+======
+
+INFORMATION ===============================
 ID: 1440
 TITLE: Calm down
 AUTHOR: OliverTheDragon
@@ -44394,6 +44580,7 @@ ROBOTSTUFF: Something a robot would talk about :The Singularity, taking over hum
 NICK: Nickname for a child:Sweetie, Honey, Sport
 PUNISHMENT: A punishment for a teen:Take away game boy, ground, Lock in basement
 WEAPON: A weapon you'd use on a robot:Water,a Raygun,a BFG,an AK47,a Combine Rifle
+PLACE: a place:France,Italy,Chicago,Florida
 SCRIPT ==========================================
 double bass music
 GREG: (Sitting on couch) Hey mom, is it just me or has LILBRO been acting weird lately?
@@ -44402,7 +44589,7 @@ MOM: (Drys hands and looks at BIGBRO) Weird? What do you mean?
 GREG: I mean, ever since we returned from VACATION, LILBRO has been acting strange...
 GREG: Sometimes he just stands around, staring at nothing for hours.
 GREG: I once even caught him talking to himself about ROBOTSTUFF.
-MOM: (Walks over to BIGBRO) ROBOTSTUFF? That is certainly strange, but he's probably just at that age when you start thinking about weird stuff like that.
+MOM: (Walks over to BIGBRO) ROBOTSTUFF? That is certainly strange, but he's probably just at that age when he starts thinking about weird stuff like that.
 GREG: (Standing up) But it's not just that. There's also that fact that he's been-
 dark classical music
 ROBOT: (Enters stage left) Walks into the living room and greets family. Hello BIGBRO. Hello mother.
@@ -44427,7 +44614,8 @@ GREG: If that's not you then who is it?
 ROBOT: I am the real LILBRO, this fake LILBRO is just trying to trick you.
 TOM: No you're not! You kidnapped me at VACATION and made yourself look like me! You are just a robot!
 vine boom
-ROBOT: Turns to mother. You have to believe me, I am the real little bro.
+TOM: (Looks at mom) He took me to some sort of secret lair beneath PLACE. I only escaped because he forgot to lock the door.
+ROBOT: Turns to mother. You have to believe me, I am the real LILBRO.
 GREG: Well it's obvious who the robot is....
 MOM: (Looks frantically between the two) Oh no, I can't which one is the robot! They both are so similar!
 GREG: Are you kidding me, mom? (points at robot) It's obvious that he's the robot!
@@ -44442,7 +44630,7 @@ ROBOT: Initiate pleading protocol. Please don't use WEAPON on me! I have a compu
 TOM: You should've thought of them before you kidnapped me!
 TOM: (Uses WEAPON on robot)
 Raygun shot
-ROBOT: I knew I should have bought that warranty. shutting down. (dies)
+ROBOT: You haven't seen the last of me! (dies)
 happy music 1
 GREG: (Short pause) Well that's over now I guess? Glad to have you back LILBRO. (Pats LILBRO on the shoulder)
 TOM: Glad to be back, finally.
@@ -44515,6 +44703,143 @@ BABY: (Take the soap) Suckers! HANDLE is gonna be the baddest player in all of G
 BABY: (Run off stage) I am unstoppable!
 SITTER: That was a little too easy... Better get started on that DINNER dinner.
 SITTER: At least I didn't have to TASK ... I hope.
+
+======
+
+INFORMATION ===============================
+ID: 1447
+TITLE: A Wizard's Announcement
+AUTHOR: LeDerp_64
+VERIFIED: True
+TAGS: Skit
+SET: News
+DATE: 11/02/25
+CHARACTERS ================================
+EGG: The Wizard:News Desk
+SUGGESTIONS =============================
+SHADOW: A full name:John Doe, Michal Jordan, Robert Downey Jr
+ACTION: Verb past-tense:Burned, Hit, Ate
+SPECIES: A Species:Hedgehog, Dwarf, Orc
+TWITTER: A social media platform:Twitter, Instagram, Facebook
+FOOD: A small food:wallnut, grape, peanut
+FIGURE: Name of a person with power:Obama, Merlin, Gandalf
+NUMBER: A Number:23, 30, 5
+WAND: A Tool to use spells with:Wand, Scepter, Spellbook
+SPELL: A magic spell:Fireball, Magic Missile, Lightning bolt
+STARS: Something in space:Stars, Planets, Aliens 
+VERB: A verb:burn, hit, eat
+SCRIPT ==========================================
+tense cinematic music
+EGG: I've come to make an announcement.
+EGG: SHADOW the SPECIES is a terrible Spellcaster.
+EGG: He ACTION my enchanted library.
+EGG: That's right.
+EGG: He took his SPECIES little WAND out.
+EGG: And he ACTION my enchanted library.
+EGG: And he said his WAND was this powerful.
+EGG: So I'm making a callout post on my TWITTER.com.
+EGG: SHADOW the Sorcerer.
+EGG: You got a small WAND.
+EGG: It's the size of this FOOD.
+EGG: Except way smaller.
+EGG: And guess what?
+EGG: Here's what my WAND looks like!
+gong
+EGG: That's right baby.
+EGG: Potent magic.
+EGG: No tricks.
+EGG: No Illusions.
+EGG: Look at that, its got the might of the STARS themselves!
+EGG: He ACTION my library, so guess what?
+EGG: I'm going to VERB this realm!
+EGG: That's right this is what you get!
+EGG: My super SPELL!
+EGG: Except I'm not gonna SPELL this realm.
+EGG: I'm going to aim higher.
+EGG: I'm going to SPELL the moon!
+explosion
+EGG: How do you like that FIGURE?
+EGG: I've enchanted the heavens themselves you idiot!
+vine boom
+EGG: You have NUMBER hours before my spell reaches every corner of this realm.
+EGG: Now get out of my sight, before i SPELL you too!
+
+======
+
+INFORMATION ===============================
+ID: 1450
+TITLE: I'm not a furry!
+AUTHOR: KylieKittyCat
+VERIFIED: True
+TAGS: Skit
+SET: Courtroom
+DATE: 12/02/25
+CHARACTERS ================================
+SOURFEATHERS: Not a furry:Defendant Table
+JUDGE: Judge (animal avatar change):Judge Chair
+PLAINTIFF: Underpaid attorney :Plaintiff Table
+WITNESS: Furry:Backstage
+SUGGESTIONS =============================
+PLACE: A place: Park, convention, bar, Worst Buy
+DATE: A specific date:March 9th, February 30th, December 24th, Wednesday 
+FURSONA: A fantasy name:Softpaw, Toughfur, Littlewing, Skibidi Toilet
+COLOR: A fun color:Purple, Silver, Gold, Rainbow
+ROOM: A room or place in a building:Bathroom, Bar, Ballroom, Lounge
+ADJECTIVE: An adjective:Mean, Cute, Shy, Brave, Annoying, Handsome 
+ANIMAL: Type of animal:Unicorn, Lizard, Bear, Calico cat, Bunny
+ONE: Type of animal:Unicorn, Lizard, Bear, Calico cat, Bunny
+NAME: Any name:Garfield, Sweetscales, Marxy, Paffycat, Kylie Cat
+TWO: A strange pet name:Fluff, Muffin, Skibidi Toilet, Hillbilly Billy Bill
+RAWR: Something you'd say in frustration:Rawr!, Heck, Why me??, Nooooo, Not again!
+AMOUNT: An amount of money:1 dollar, a lot of money, 2000 euros
+SCRIPT ==========================================
+Church bell
+JUDGE: The trial will now begin.
+Courtroom music
+TYPEWRITER: Defendant Sourfeathers is being accused of being a furry and will be facing evidence against him.
+JUDGE: Feathers Sour, who will be representing you today?
+SOURFEATHERS: Myself, your honor.
+JUDGE: How will you plead?
+SOURFEATHERS: Not guilty
+JUDGE: You may present your case
+SOURFEATHERS: (stand) My name is Sourfeathers and I was accused of being a furry after a misunderstanding that took place at PLACE .
+JUDGE: You may sit. Plantiff, please provide your evidence.
+PLAINTIFF: The accused was caught on DATE at the Furry PLACE , a known furry hangout.
+PLAINTIFF: But what the accused did NOT tell you, is what they were doing that night. I call my first witness, FURSONA .
+Teleport WITNESS to Witness stand
+WITNESS: Hewwo, I am FURSONA and I am a fuwwy who saw Sourfeathers at the PLACE on DATE .
+Aww
+PLAINTIFF: And how did you meet Sourfeathers?
+WITNESS: Oh that's easy!! I saw him at PLACE and we hit it off immediately at the fuwwy ROOM and he showed me his fuwsona, a ADJECTIVE COLOR ANIMAL named NAME .
+PLAINTIFF: There we have it, a furry at a known furry hangout showing his fursona.
+SOURFEATHERS: Judge, if I may speak?
+JUDGE: You may..
+SOURFEATHERS: This is all ridiculous!! I was only at PLACE because I got lost!
+PLAINTIFF: And the NAME drawing?
+SOURFEATHERS: It's not a furry! It's just an anthropomorphic animal that represents me as an animal.
+PLAINTIFF: but...
+Record scratch
+Music Stops
+JUDGE: I have to agree with the accused. This does not make his ADJECTIVE COLOR ANIMAL named NAME original character a furry.
+JUDGE: I charge the plaintiff a fine of AMOUNT for wasting my time.
+PLAINTIFF: what-
+JUDGE: ORDER.
+Sad chug jug music
+JUDGE: I myself once had a character of myself called TWO and he was a ONE .
+JUDGE: Everyone bullied me for being a furry...But the truth is...It's just an anthropomorphic animal that represented who I really was. As an animal.
+JUDGE: I declare Feathers Sour not guilty! (turn into animal and run off stage)
+Music Stops
+Courtroom sting
+Jazz music 2
+WITNESS: Wowie! That judge is in some serious denial!
+PLAINTIFF: RAWR
+SOURFEATHERS: Hah! I win!! But now that I think about it....what would the punishment for furry denying even be?
+PLAINTIFF: Accepting yourself as the furry you are.
+SOURFEATHERS: My character is just an anthropomorphic animals that represent me as a-
+PLAINTIFF: oh shut up, I cant take this anymore RAWR ! (run off stage)
+WITNESS: Soo....Sourfeathers....same time and place next week?
+SOURFEATHERS: You know it! uwu!
+TYPEWRITER: Sourfeathers went on to become the biggest furry of all time
 
 ======
 
