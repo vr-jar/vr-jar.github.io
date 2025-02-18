@@ -1831,7 +1831,6 @@ LeviUno
 MrBlackTail
 _-Nayuta-_
 PhoenixKingXIII
-SERATOVA
 004_vrc
 Woof264
 Lead_the_furry
@@ -2102,6 +2101,7 @@ Brеаԁ
 Kyle_mango
 『zσεу｡αιιοу༄』
 《~Tanj1ro~》
+SERATOVA
 modNick
 ruralists
 #TIER=1
