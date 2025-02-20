@@ -44843,3 +44843,540 @@ TYPEWRITER: Sourfeathers went on to become the biggest furry of all time
 
 ======
 
+INFORMATION ===============================
+ID: 1460
+TITLE: Dragon Entity
+AUTHOR: Twintacle PTT
+VERIFIED: True
+TAGS: 
+SET: Campsite
+DATE: 15/02/25
+CHARACTERS ================================
+AGENT46: Agent 46:Narrator Podium
+DRAG: A very scary dragon:Entrance Stage Left
+GUY: A random person:Camping chair
+BIG: Another agent:Backstage
+SUGGESTIONS =============================
+ELEMENT: An element that a dragon can breathe:fire, water, slime, air
+SCROLL: Object that has paper in it:book, scroll, paper boat, origami crane
+ROPE: A material that acts like a chain:rope, tape, expensive fabric, forcefeild
+NUM: Big number:123456, 999999, 101010, 696969
+PLACE: Place that can have a temple in it:Tokyo, a jungle, another dimension, North Pole
+ORG: Name for an orginization:SWAT, SCP, Nightkeepers, K.N.I.G.H.T.S.
+DRINK: drink/beverage:sparkling water, bloody mary, mystery potion
+SCRIPT ==========================================
+TYPEWRITER: ORG Campus #17, Undisclosed Location
+TYPEWRITER: Time: 8 P.M. (EST)
+GUY: Well, I made it to a safe space, man oh man, that thing with wings always scares me.
+DRAG: (enters) There you are! I was looking for you all over the woods, I have something to say to you.
+GUY: (scared) Aaaaaaaaaah! What do you want?
+DRAG: I just wanna say that I got work of your ability to make the best kind of DRINK ever in the universe.
+GUY: Uh, thanks, I guess?
+DRAG: I just want to ask you, do you take requests?
+GUY: Uh, sure, what kind of DRINK do you want?
+DRAG: Oh, the same kind you have been making, but with a twist!
+GUY: What is it?
+DRAG: (evil) The blood from one of the ORG.
+vine boom
+lacrimosa music
+GUY: What!? I can't do that! Sick vampire!
+break down door
+AGENT46: (yelling) This is one of the ORG speaking through the loudspeakers, please stand clear.
+BIG: (runs in) Go Go Go! Dragon Entity incoming!
+DRAG: (gasp) Well this task is easier than I thought.
+BIG: (yelling) Last chance to surrender, hostile entity. Give up, or we will use force!
+DRAG: (angriy roars) Roaaaaaaaaaaar!
+BIG: Ok then! Time to use the ROPE! (casts ROPE on the Dragon)
+DRAG: Get your ROPE off of me! (breathes ELEMENT)
+fire alarm
+GUY: The dragon can breathe ELEMENT!?
+BIG: Frick, we forgot to get the ELEMENT-proof ROPE. We're screwed.
+DRAG: (roars) Roaaaaar! (escapes)
+Music Stops
+BIG: (imitates walkie talkie) This is agent NUM. The dragon entity escaped.
+AGENT46: Agent NUM, get that random person next to you to talk with me.
+BIG: Fair enough, hey, uh, whoever you are, an agent with a number less than 50 wants to talk. (hands the random guy the walkie talkie)
+GUY: Uh ok. (imitates walkie talkie) Hello, uh, who is speaking?
+AGENT46: (imitates walkie talkie) I am agent 46. I need your help to capture that dragon.
+GUY: (imitates walkie talkie) But it's too dangerous! It breathes ELEMENT! What can I do?
+AGENT46: There is a SCROLL with a chaining spell located in PLACE. When the spell is whispered, the dragons goes in chains.
+magic sound
+AGENT46: Here, I opened a portal to PLACE for you. Go through it and get the SCROLL. I will meet you after you retrieve it.
+GUY: (imitates walkie talkie) Sure thing, over. (exits)
+DRAG: (enters) Where did that bastard of a person go?
+BIG: Stay back! Dragon! Stay back!
+Meanwhile GUY: (enters back with SCROLL) I have the SCROLL! Where is Agent 46?
+AGENT46: (goes onto the stage) Hand the SCROLL over to me. I will handle this.
+BIG: Are you sure?
+AGENT46: Ahem, the less the number, the more...
+BIG: Powerful. Ok, ok. Take care of that stupid ELEMENT breathing entity.
+Meanwhile GUY: Gulp.
+epic fantasy music 2
+AGENT46: (takes a deep breath) Here we go...
+AGENT46: (whispering) Shackle thee up, put thy in chains...
+Meanwhile DRAG: (angrily roars) Roaaaaaaaaaaar!
+AGENT46: (puts his hand out and whispers) Get the evil out and give thee pain!
+DRAG: (gets chained) Nooooooooo!
+GUY: Holy crap! Agent 46 actually did it!
+BIG: Hooray! The dragon is chained!
+DRAG: (struggling) Ugh! Someone get these chains off me!
+AGENT46: Heh, once in a while magic would work. Take him to the captured entity section. The mission is done.
+
+======
+
+INFORMATION ===============================
+ID: 1461
+TITLE: The Misunderstood Monster
+AUTHOR: Twintacle PTT
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 16/02/25
+CHARACTERS ================================
+MON: A misunderstood monster:Backstage
+BABY: The cute little baby boy:Couch
+DAVE: David, the house cleaner:Kitchen
+POP: The owner of the house, and also a father:Stage Right
+MOMMA: The house owner's beloved wife:Couch
+SUGGESTIONS =============================
+SPECIES: species of monster:vampire, leviathan, dragon, spotted doghead
+ROOM: sketchy room of the house:basement, attic, bathroom, bedroom
+COLOR: any color:magenta, purple, gothic black, gold
+BLINKI: something a baby would love:binkie, milk bottle, a plastic foot, teddy bear
+DISASTER: natural disaster other than an earthquake:famine, tornado, tsunami, wildfire
+NUM: any big number:300, 1000, 1 million, googol
+DEBRIS: type of debris:sand, wood, glass, soft torn plushies
+MOCKING: ________ Bird:Mocking, Parrot, Mythical, Glowing
+SCRIPT ==========================================
+applause
+MOMMA: (holding the baby) That's my cute little baby boy. Such a cute little son.
+BABY: Goo goo gaa gaa!
+aww
+POP: I know, isn't he cute?
+POP: Hey, David, how is cleaning that kitchen going along?
+Meanwhile DAVE: (washing dishes) La de da de da...
+DAVE: Oh, right on time. I just got done with it.
+POP: Very well. You have did almost everything we have requested.
+MOMMA: Lovely work he did.
+POP: But, I ask you, could you please dust up the ROOM? It is quite dirty in there. Such an old poo poo of a room.
+BABY: Poo poo? Heeee heeee heee!
+laughter
+DAVE: Oh, uh, ok... I will get right to work! (Exits)
+POP: Nobody has cleaned that ROOM in ages. Practically unusable!
+MOMMA: Alrighty little baby, naptime! Let me tuck you in round with the COLOR blanket.
+BABY: No!
+MOMMA: Where is that BLINKI?
+DAVE: (runs right back on stage) Aaaaaaaaah! A SPECIES is in the ROOM!
+POP: Excuse me now?
+Meanwhile MOMMA: Wait, what!?
+DAVE: I am not kidding, there is a SPECIES monster located inside the old ROOM right when I walked in.
+BABY: Goo goo?
+POP: Leave this to me. (stands up)
+POP: Look, this monster thing is not real. We humans know this. Your old wives tales have nothing on us.
+DAVE: But, the SPECIES monster is real! I saw it with my own two eyes!
+MOMMA: What even is the SPECIES monster anyway? I am sure the baby won't mind that slip through his ears.
+DAVE: Long ago, NUM BC., there was a SPECIES monster ravaging across Japan. Everyone was scared of its presence.
+DAVE: After a brief encounter with a samurai, it retreated to the shadows, taking the young warrior with him.
+DAVE: And now, whenever you see this, it is an oracle of an upcoming DISASTER. Or another impendent sign of doom!
+POP: Alright, I have heard enough. Look, that is something with no proof in history. And that was bastardly stupid.
+DAVE: Listen, if you keep this up, that SPECIES monster is going to start a disaster on you.
+POP: (angry) I DO NOT CARE! Now, either you shut up, and clean that old ROOM, or so help me-
+fire alarm
+POP: Uuuh, what was that?
+MOMMA: The fire alarm! There is a fire in the highest gourmet kitchen! We need to evacuate! (exit)
+POP: Dear god! Curse you, Dave! (exit)
+DAVE: Hey wait, what about your baby?
+crashing debris
+BABY: Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!
+DAVE: Oh god no! The baby has fallen DEBRIS on him! He's a lost cause! We might have to leave him! (exit)
+MON: (enters) Ugh, bloody hell. What happened? (notices the baby) Aww, poor thing.
+MON: (puts out the fire) They all say I am the villain in this story, huh?
+MON: (sits down with the baby) Hang on, let me get the DEBRIS off of you. Calm down young one.
+BABY: Where mommy? Where daddy?
+MON: Hmm, I guess we need a lullaby. (singing) Rockabye baby don't say a word, momma's gonna buy you a MOCKING bird.
+BABY: Yawn! (falls asleep)
+MON: There. (wraps baby in blanket) Get a little cozy in your COLOR blanket. And don't forget your BLINKI.
+MON: Goodnight, my sweetheart. (Stands up)
+MON: (to the audience) Shhh.... (exit)
+
+======
+
+INFORMATION ===============================
+ID: 1466
+TITLE: Seeing Eye "Dog"
+AUTHOR: LeDerp_64
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 17/02/25
+CHARACTERS ================================
+MAN: The Blind Old Man:Entrance Stage Right
+DOG: Man pretending to be a dog:Entrance Stage Right
+CASH: The minimum wage cashier:Behind Register
+SUGGESTIONS =============================
+NAME: A name for a dog:Buster, Butterball, Spike
+BREED: A Breed of dog:Great Dane, Basset Hound, Dachshund
+OCCUPATION: A deadly job:Soldier, Fire Fighter, Secret Agent
+ANIMAL: An animal that's not a dog:Raccoon, Bear, Wolf
+STORE: Name for a store:Sprout Market, Wholesome Greens, FreshHaven
+ITEM: An item in a grocery store:Milk, Bread, Watermelon
+TIME: An amount of time:a week, a month, a year
+BRIBE: Something to give as a bribe:20 dollars, a snickers, some McDonald's 
+FOOD: A Fast food restaurant:McDonalds, Taco Bell, Wendy's
+PRICE: Price of an item:20 bucks, 5.99, 33.75
+SCRIPT ==========================================
+groose music
+CASH: Another boring day at STORE.
+CASH: I just want to go home.
+MAN: (walks into store) Come on NAME, i got to get some ITEM,
+Meanwhile DOG: (walks into store)
+MAN: Lead me to the milk buddy.
+DOG: woof woof, this way, woof (walks to shelves)
+CASH: Umm, sir?
+MAN: Oh, don't mind NAME, he's my seeing eye dog. 
+MAN: Don't worry, he's certified.
+CASH: Dog?
+MAN: Yes, he's a BREED.
+DOG: Woof.
+CASH: Is this some sort of joke or something?
+MAN: I assure you this is not a joke.
+MAN: You see after my time as a OCCUPATION, I've lost most of my vison.
+MAN: So ol' NAME here is how I get around these days.
+CASH: You do know that that's not a dog?
+MAN: I see the confusion, you see he's a BREED ANIMAL mix.
+MAN: He often gets mistaken for an ANIMAL.
+DOG: Thats right I'm 100% ANIMAL.
+DOG: I mean woof woof.
+MAN: Now if you'll excuse me I need to get some ITEM.
+CASH: Right.
+CASH: That should be in the back over there.
+MAN: Thank you, NAME lead me to it please.
+DOG: Aye Aye! (walks to shelfs)
+Meanwhile MAN: (Follows "dog")
+CASH: (talking to self) Should i call my boss? The police maybe?
+CASH: (sigh) I don't get paid enough to deal with this
+MAN: (walks to register) Here we go, just this please.
+Meanwhile DOG: (walks to register)
+MAN: By the way do you happen to have a restroom i could use?
+CASH: In the back there.
+MAN: Great I'll be right back, NAME lead me there please.
+DOG: woof woof (walks backstage left)
+Meanwhile MAN: (walks backstage left)
+noir music 1
+CASH: Alright I'm calling my manager.
+DOG: (walks to cashier) Hey!
+CASH: Oh um, something wrong?
+DOG: I'm going to need you to keep quiet.
+CASH: Excuse me?
+DOG: I've been doing this for TIME, and i have no intention of stopping anytime soon.
+CASH: But you're not a dog, why are you doing this?
+DOG: Because without this i have nothing.
+DOG: I have no job.
+vine boom
+DOG: No Home.
+vine boom
+DOG: No friends or family.
+vine boom
+DOG: This is all i have.
+CASH: But there's no way this is legal, i should call the authorities.
+DOG: I'll give you BRIBE if you keep quiet.
+CASH: Deal.
+DOG: Good (walks backstage)
+groose music
+MAN: (walks back onstage) Hoo boy, sorry about the wait.
+Meanwhile DOG: (walks back onstage)
+MAN: Had some nasty FOOD earlier.
+CASH: No worries, alright that will be PRICE.
+MAN: Here you go, keep the change.
+CASH: Thank you, i hope you and... NAME have a nice day.
+CASH: Thanks for shopping at STORE.
+MAN: Have a nice day, come on NAME, let's go.
+DOG: Rodger.
+DOG: I mean woof. (walk out stage right)
+Meanwhile MAN: (walk out stage right)
+CASH: (stand in disbelief) What a day.
+
+======
+
+INFORMATION ===============================
+ID: 1468
+TITLE: The Love Note
+AUTHOR: NERΘ
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 18/02/25
+CHARACTERS ================================
+MAY: May:Couch
+LUVIA: Luvia, The Love Demon:Backstage
+PERSON: May's lover:Backstage
+MOM: May's Mom:Entrance Stage Right
+DAD: May's Dad:Entrance Stage Right
+SUGGESTIONS =============================
+ANYONE: The name of any person:Mothman, Snoop dogg, Will I Am
+DUMB ACTION: Something someone does that is viewed as dumb :Fuel the car with vegetable oil, Fart on food, Think blinker fluid is real
+DONT KNOW: Something someone should be expected to know how to do:Kiss, Cook, Drive
+REASON FOR DIVORCE: Any reason a person would file for divorce:Cheating, Playing too much, Supporting the Kansas City Chiefs
+MOTHER NAME: Name for a Mom:Kim, lil Tay, Bulma
+FATHER NAME: Name for a Dad:Elon, Goku, Tyrone
+HUSBAND PET NAME: A pet name for your boyfriend:Pookie, Shnookums, Cutie
+WIFE PET NAME: A pet name for your girlfriend:Mommy, Baby, My side piece
+ACTIVITY: Any activity couples do together :Cuddle, Play Fortnite Duos, Murder
+ITEM: An Item someone would have a collection of:Anime girl figs, Coins, Funko pops
+HARD OBJECT: An object that is hard or tough:Rock, Stone wall, Darcksouls
+SOMETHING EDIBLE: Anything you can eat:Potato chip, Watermelon, Onion
+SCRIPT ==========================================
+MAY: (sitting on the couch) There’s nothing to do, Life is so boring, I wish something interesting would happen.
+MAY: Guess I'll just do my homework. Now where’s my backpack? (look around)
+MAY: There it is. (Grab a bag and look through it). Wait, this isn't my bag. What is this stuff? huh? (Take out notebook)
+MAY: The love note, what's this? (Reading the first page) Any two people whose names are written in this notebook will fall in love within 30 seconds.
+MAY: What the heck? Who’s is this?
+MAY: Ain't no way this is real. What sad sack of simps made this.
+(Telenovela music 1)
+MOM: (Enter stage right Angry) I'm tired of you, You are such a dumb loser.
+DAD: (Enter stage right Angry) Oh I'm dumb, at least I don't DUMB ACTION.
+MOM: I only DUMB ACTION cuz you don't know how to DONT KNOW
+MAY: (Stand up and look at mom) Wait, Mom, Dad what's going on why are you screaming at each other?
+DAD: (Look at May) Because your mom be REASON FOR DIVORCE. You know what! (look at mom) I want a divorce.
+MOM: Oh no you don't, I want the divorce. I'm calling my lawyer now (Exit stage right)
+DAD: No I'm calling my lawyer and I'm taking everything (Exit stage right)
+(shark tank serious music 1)
+MAY: (sit on the couch) If those two get divorced I might not be able to get away with murdering Quill in a different script.
+MAY: Hmm, The Love Note, I can't believe I'm about to try this. What's my parent's name again? Oh yeah, MOTHER NAME and FATHER NAME. (Write on the notebook)
+DAD: (Enter stage right with mom kissing) mmm mwah mwah
+Meanwhile MOM: (Enter stage right with dad kissing)
+(telenovela music 3)
+DAD: I love you so much MOTHER NAME, you are my WIFE PET NAME
+MOM: No, I love you more, my HUSBAND PET NAME. Let's go to our room.
+DAD: (Keep kissing mom while exiting stage left) Gimme some sugar WIFE PET NAME... mmm yeah...
+Meanwhile MOM: (Keep kissing dad while exiting stage left)
+(silly music 2)
+MAY: What the hell? There's no way this worked. I need to test it on more people but who?
+MAY: Wait I can make anyone fall in love. That means I can make anyone fall in love with me.
+MAY: (Excited) Finally, someone will love me. Iv been so lonely. So who do I want to date?
+MAY: Ah, ANYONE, prepare to love me. (writes the name down)
+(doorbell)
+MAY: Please god let that be them (opens door)
+PERSON: (Romantic) May, how I longed for the day that I’d finally meet you, (walk in and close door) I must tell you that I-I, I love you.
+(telenovela sting 2)
+MAY: ACTIVITY with me.
+PERSON: Why do you think I came? I want to please you in any way possible even if it involves DONT KNOW.
+MAY: This is a dream come true, with this notebook I have infinite power.
+(epic fantasy music 3)
+MAY: I could end WORLD CRISSES. (egotistic/crazy) I can be a god, I am a god, I am love itself.
+MAY: Biden and Trump, Mordecai and Twilight, Shadow and Eggman's wife
+MAY: No one can stop me, (Enthusiastic) I'll take a SOMETHING EDIBLE and eat it!! (EVIL LAUGH)
+MAY: But first some alone time with You (point at ANYONE) come here HUSBAND PET NAME.
+PERSON: Anything for my WIFE PET NAME.
+(doorbell)
+MAY: Ignore the doorbell and kiss me.
+(doorbell)
+(extreme knocking)
+PERSON: Do we keep ignoring it?
+(doorbell)
+MOM: (Enter stage left) May can you get that (Exit stage left)
+MAY: Why do I have to, Im trying to have alone time with ANYONE!
+DAD: (Enter Stage left) Because May, Me, and your mother want to ACTIVITY. (Exit stage left)
+MAY: Uhh, fine. Wait here, ANYONE. (Open the door and remain looking outside)
+(Teleport LUVIA to Stage Right)
+(mystery music 1)
+MAY: (Answering empty door) Hello? … Uhh, ding dong ditchers, annoying.
+LUVIA: (To MAY) Hey, you have something of mine.
+MAY: (look at Luvia and scream)
+LUVIA: (Sream with may) . . . Why are we screaming?
+MAY: (Scaeard) Who are you? What are you? What do you want?
+LUVIA: Im Luvia the love demon and I believe you have my notebook.
+MAY: (Nervous) ANYONE help!
+PERSON: (confused) huh? With what, what's happening?
+LUVIA: Foolish girl only those who have touched the notebook can see me.
+MAY: (sassy) How am I foolish for not knowing that? How was I even supposed to know that!?
+(silly music 2)
+PERSON: May, why are you talking to yourself?
+MAY: Shut up ANYONE and sit on the couch can't you see im dealing with something
+PERSON: Yes Mommy (sit on the couch)
+LUVIA: (laughs)
+MAY: And what are you laughing at
+LUVIA: Will technically he can't see what you're dealing with if I'm what you're dealing with.
+MAY: Uh, What do you even want
+LUVIA: Wow, you lesson less than a deaf person. I'm here for my notebook.
+MAY: Will no, I need it to rule the world so get a new one.
+(lacrimosa music)
+LUVIA: (Intimidating) I don't think I was asking, now give me the notebook before I start killing.
+MAY: (Intimidated) Ahh, ANYONE catch (throw notebook to ANYONE)
+PERSON: (catch notebook, look at Luvia) Ahhhh! what is that thing.
+MAY: A demon! Do something!
+PERSON: (Neutral tone) May . . . That is a demonic being not of this world.
+(silly music 2)
+PERSON: (Panicked) What do you think I could do to it?
+MAY: Just punch it or I'll kill you myself.
+PERSON: Yes Mommy (runs at Luvia and punch her)
+(vine boom)
+(silly music 1)
+PERSON: (Hold your hand in pain) Ah, it's like I hit a HARD OBJECT
+LUVIA: (Unfazed) What was that supposed to do, hurt? (sigh and hit ANYONE)
+(break down door)
+PERSON: (in pain) Aaaaaa!
+LUVIA: I'll be taking back my book now. (grab the book from ANYONE ‘s body) Don't worry he’s not dead . . . somehow.
+MAY: (Scared) What are you going to do now?
+LUVIA: I'm going home but first I'm erasing what you did (erase names from the book and walk out the door) I hope Vevlo ain’t mad at me for losing this.
+MAY: Wait my hard work is gone.
+DAD: (Enter stage left) That's the last time I ever ACTIVITY with you
+MOM: (Enter stage left) Good cause you suck at it.
+DAD: That divorce is happening and there's no more stopping it.
+MOM: Good, you didn't sign the prenup so im taking you for everything including your collection of ITEM (Exit stage left)
+DAD: (YELL and exit stage right)
+MAY: This day sucks
+PERSON: (Wake up and get up) Hello ugly girl where am I and how do I get home?
+MAY: (cry) My evil plan is ruined.
+PERSON: I'm just gonna walk through that door and call a taxi (exit stage right)
+
+======
+
+INFORMATION ===============================
+ID: 1471
+TITLE: Stolas Love Trap
+AUTHOR: Skyfire_Wolf
+VERIFIED: True
+TAGS: Skit
+SET: Forest Bridge
+DATE: 19/02/25
+CHARACTERS ================================
+STRIKER: Striker:Backstage
+STOLAS: Stolas :On bridge
+BLITZY: Blitzy :Entrance Stage Right
+LUNA: Luna :Backstage
+MOXXIE: Moxxie :Backstage
+MILLIE: Millie:Backstage
+SUGGESTIONS =============================
+SCRIPT ==========================================
+emotional piano music
+TYPEWRITER: We open with Stolas standing in the middle of the bridge dramatically staring into the horizon
+Blitzy: (Dramatically, Enter The Right Stage) "Ah, Stolas, my dear, sweet, and utterly fabulous prince! The light of my hellish existence! Come to me!"
+Stolas: (Looking over at Blitzy) "Blitzy... what are you doing here? I’m just admiring the view."
+Blitzy: (Smiling smugly) "Admiring? Pfft, no no no, darling. I’m here to rescue you from this dreadful loneliness. Who could resist this?" (Flexes dramatically)
+Stolas: "I'm not lonely."
+Blitzy: "Are you sure? Have you seen yourself lately? You're like... a demon ice cream sundae that everyone wants a taste of. And I want to be the first to scoop!"
+Blitzy: (Blitzy strikes a pose)
+Luna: (Enter Stage Left.)
+Luna: (Rolling your eyes) "Really? You again, Blitzy? Stolas, you need someone who can actually, you know... not be a complete trainwreck."
+Blitzy: "Excuse me? Who's the one here with a flare for the dramatic, huh?" (Fluffs up his hair.)
+Luna: (Snarls) "I’m not here for drama, Blitzy, I’m here for Stolas. You know, the real deal? The one who appreciates a badass hellhound like me."
+Luna: (growl playfully, showing off your fangs.)
+Stolas: "I really don’t need... either of you, actually."
+Blitzy: (Blitzy and Luna lock eyes and start bickering back and forth.)
+Meanwhile Luna: (Blitzy and Luna lock eyes and start bickering back and forth.)
+Moxxie: (Enter Stage Right)
+Moxxie: (Awkwardly) "Uh, we... we heard the yelling. Is everything alright?"
+Millie: (Enter Stage Left)
+Millie: (Beaming) "I’m here for the action!"
+Blitzy: "Oh great, more people... Stolas deserves a real show of affection, not whatever Moxxie and Millie have going on."
+Moxxie: "I just wanted to tell Stolas I appreciate his, uh, intellectual prowess. You know, the way he... does his... royal duties..." (Sweating nervously.)
+Millie: (Interrupting, grinning) "He’s a prince! I mean, look at him! He’s got that big royal energy, and I just wanna throw down some epic love with him!"
+Millie: (giggles) "This is gonna be fun!"
+Luna: (Sighing) "See, this is why I don’t trust any of you with love."
+TYPEWRITER: Blitzy, Luna, Moxxie, and Millie continue arguing.
+Stolas: (Meanwhile, Stolas watches them all in confusion, starting to feel overwhelmed.)
+Stolas: "Okay, okay! Enough! This is... too much. I just wanted a peaceful moment on the bridge! Why is everyone fighting for me?"
+Blitzy: "Because, darling, you’re a catch! Who wouldn’t want the stunning, mysterious Stolas?" (Does a twirl.)
+Luna: (Snickers) "You should just choose me, Stolas. I’m loyal. I don’t need to throw around glitter and crap like Blitzy."
+Millie: (Overenthusiastically) "We could be a deadly duo, Stolas! I’ll teach you all about real love!" (Flashes her knives.)
+Moxxie: "What Millie means is... I’m a great listener. I can offer you some... intellectual stimulation, and, uh, a peaceful life!"
+Stolas: (Frustrated) "I don’t want any of this! I want to be alone for a minute!"
+TYPEWRITER: Just as the argument reaches its peak, a dark figure steps onto the bridge
+TYPEWRITER: smooth and calculated—Striker
+Teleport STRIKER to On bridge
+Striker: (slowly walks up behind Stolas, his voice dripping with charm.)
+Striker: (Smirking) "Well, well, well... looks like there’s been a bit of a... love fest going on here."
+Luna: "Oh great. Here comes Mr. Smooth-talker."
+Blitzy: (Rolling his eyes) "Please. Not this guy."
+Striker: (Ignoring everyone, he steps up to Stolas with a slick smile.)
+Striker: "You know, Stolas, all this nonsense from your so-called friends... it’s nothing but distractions."
+Striker: (He gently grabs Stolas’s hand.)
+Stolas: (Blinking, confused) "Striker, what are you doing here?"
+Striker: (Leaning in close, whispering)
+Striker: "I came for you. Because, darling, there’s only one thing that matters in this world..."
+Striker: (He stares into Stolas's eyes with intensity.)
+Striker: "...and that’s true love. You and I could rule Hell together, you just have to trust me."
+Typewriter: Everyone stares, stunned
+Stolas: (look like your starting to melt under Striker’s charm.)
+Moxxie: (Whispering to Millie) "Well, that’s... effective."
+Millie: (Wide-eyed) "He’s good. I gotta give him that!"
+Blitzy: (Throwing his hands up) "Oh, come on! This is so unfair!"
+Luna: (Growling, but grinning) "Well, that was actually kind of impressive."
+Stolas: (Blushing, looking torn) "I… I don’t know what to say... Striker, I think you're... the most compelling offer I’ve had all day."
+Typewriter: As Striker smirks, the others start bickering among themselves again
+Striker: (Turning to the group, grinning) "I’m sorry, did I just win? Perfect." (He dramatically sweeps Stolas into his arms.)
+Blitzy: (Acting disbelief) "Hey, that’s not fair!"
+Luna: (Acting disbelief) "No way!"
+Moxxie: (Acting disbelief) "Isn’t this... kidnapping?"
+Millie: (Acting disbelief) "This isn’t over!"
+Stolas: (Let Striker hold your hand and walk off with you in love)
+MEANWHILE Striker: (Walk Off With Stolas holding hands)
+Typewriter: As Striker walks off with Stolas, in love the others stay disbelief and alone
+Typewriter: The End
+
+======
+
+INFORMATION ===============================
+ID: 1473
+TITLE: Is it plugged in?
+AUTHOR: FangsCrayonBox
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 19/02/25
+CHARACTERS ================================
+TECH: Tech support worker:Narrator Podium
+CLUE: Upset Customer:Center Stage
+SUGGESTIONS =============================
+ITEM: A electrical appliance:toaster, washing machine, computer, phone
+COMPANY: The name of a company:Apple, Microsoft, Comcast, Twitch
+NAME: A person's name:Allen, Jake, Zack, Shelly, Pam, Jean
+USE: A household task:cooking dinner, doing laundry, procrastinating
+STEP: A common troubleshooting step:turn it off and on again, hit it with a hammer, calling tech support
+DATE: A date:1923, december 2nd 2004, Friday
+PERSONAL: a type of personal information:SSN, finger print, blood type, credit card number
+SCRIPT ==========================================
+corporate guitar music
+TECH: Thank you for calling COMPANY support, my name is NAME how can I help you?
+CLUE: Yes, my ITEM isn't working. I need to send it back for a refund.
+TECH: Well, we can help you with that, but Ill need to troubleshoot first before I can start a return.
+CLUE: I've already done all the troubleshooting you possibly could on a ITEM. I need to send it back!
+TECH: I'm sorry but it doesn't work that way. I have to guide you through the troubleshooting before we proceed.
+CLUE: (annoyed) Fine! I'll sit here and waste both of our days then!
+TECH: Great! First: have you tried STEP?
+CLUE: Of course I've tried STEP! What kind of idiot do you think I am?
+TECH: Please calm down. As I said before: I have to run through all the troubleshooting with you.
+TECH: Now, are you certain your ITEM is plugged in?
+CLUE: (Yelling) Plugged in? Of course it's plugged in! It was working 10 minutes ago!
+TECH: There's no need to yell. I'm just doing my job here.
+CLUE: Right, sorry. I'm not mad at you, I'm mad at COMPANY and my broken ITEM. I just want to return it.
+TECH: We'll get there, I promise.
+TECH: What is it you generally use your ITEM for?
+CLUE: Obviously I use it for USE. Does a ITEM have any other purpose?
+TECH: Oh, I'm terribly sorry, but using your ITEM for USE voids the warranty. I'm afraid we cannot accept a return on that product.
+vine boom
+CLUE: Are you kidding?! Who uses a ITEM for anything other than USE?
+CLUE: Since when does that keep me from returning it?
+TECH: DATE.
+CLUE: I don't believe this. I never should have bought from COMPANY.
+TECH: We can still continue troubleshooting if you want?
+CLUE: Better than throwing my ITEM off a bridge I guess.
+TECH: That's the spirit!
+TECH: Now, have you signed up for an account at COMPANY.net?
+CLUE: No, I haven't. Because I shouldn't need an account to USE.
+TECH: But if you make a COMPANY account we can monitor all your devices in real time.
+TECH: I could even remote access your ITEM and run a diagnostic from here.
+CLUE: Alright, fine. What do I do?
+TECH: It's simple: go to your computer and make an account by giving us your PERSONAL.
+CLUE: I can't use my computer right now.
+TECH: Why is that?
+CLUE: My power is out.
+Music Stops
+waterphone
+TECH: So, did you need help with anything else?
+CLUE: No, thank you.
+TECH: Thank you for calling COMPANY tech support. The cost of this session will be billed to your ITEM.
+
+======
+
