@@ -37379,6 +37379,102 @@ DOC: (Turns to the computer) Well, I still have 10 minutes until the next patien
 ======
 
 INFORMATION ===============================
+ID: 1168
+TITLE: The Teaification Process
+AUTHOR: Whįsper
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 04/11/24
+CHARACTERS ================================
+C1: Fred, The Uncle:Entrance Stage Left
+C2: James, The Younger Brother:Couch
+C3: Henry, The Smart Friend:Couch
+C4: Desmond, The Older Brother:Entrance Stage Right
+C5: Larry, The Father:Backstage
+SUGGESTIONS =============================
+QP: Complex subject of debate:Politics, Quantum Physics, Which came first
+NAME: Name that sounds dumb:BOB, Greg, Billy
+DRINK: Some kind of drink:Water, Soda, Tea
+LIQUID: A Liquid:Water, Lava, Mud
+TIME3: A long passage of time:Year, Decade, Eons
+TIME1: A short passage of time:Second, Blip, Minute
+TIME2: A passage of time:Week, Hour, Day
+COOK: Something to cook with:Stove, Firepit, Microwave
+CUP: A measurement for cooking:Liter, Gallon, Spoons
+CONTAINER: Type of container:Box, Metal, Wood Cup
+UTENSIL: Cooking utensil:Kettle, Pan, Waffle-Maker
+JOB: An extremely tedious job/title:Chef, Clerk, Plumber
+SCRIPT ==========================================
+dark classical music
+C2: (Sitting on couch)
+Meanwhile C3: (Sitting on couch)
+C2: And that’s why, my friends, I simply think QP is a myth made up by the government!
+C3: Man, you make me look smart sometimes…
+C4: I mean, he’s got a point.
+C2: Who?!
+Meanwhile C3: Who?!
+C4: I really don’t get paid enough for this.
+C1: (Walk in stage left) Pardon me, but uh…
+Music stops
+C1: Which one of you was going to tell me that DRINK tastes different if you put it in hot LIQUID?
+groose music
+C2: Wait, wait wait... You’re putting it in cold LIQUID?!
+C3: (Stand up) Yeah man, Answer the question, NAME!
+C1: Yeah? I thought for like, TIME3 that people just put it into hot LIQUID to speed up the… DRINK-ification Process.
+C4: Oh boy, here we go again...
+Meanwhile C3: (Shocked, Sighing)
+C1: Didn’t know there was an actual reason behind it…
+C4: Ughh… You’re joking, right? Please tell me this is some silly little joke of yours.
+C2: So, what you're saying is you don’t have the patience to microwave a CUP of LIQUID for TIME1?!
+C3: Hm... First You are saying QP is not a real thing, and now...
+C3: You use... a Microwave... to boil... a CUP of LIQUID?!
+C4: Answers your question earlier...
+Meanwhile C2: (Grumble in annoyance)!
+C5: (Enter Stage Right) Hey guys, I'm home... Wait, what's going on here?
+C2: Henry is making fun of me for boiling LIQUID in the microwave!
+C4: I suggest not paying any attention to it.
+C5: I get off from a long shift doing my job as a JOB to come back and see this?
+C1: Man, I was just trying to ask a simple question, I didn't expect it to explode like this!
+C2: Yeah, yeah... Like being a JOB is very important...
+C3: Why are you dodging the question, answer me!
+C5: Is this just for one of them weird "You tubes" or something?
+C3: What? No! I'm trying to get a genuine answer out of him!
+C5: Oh boy... I'll get dinner started. (Walk over to kitchen.)
+C4: Mind if I tag in? (Follow into kitchen)
+C3: Now that they're out of the way...
+C1: (Say weakly) I'm still here, you know...
+C3: Just please, tell me why are you Putting LIQUID in the Microwave to boil it, then I'll leave you alone!
+C2: Ugh, do you really think I have the patience to boil a CUP of LIQUID on a COOK?!
+C3: I told you earlier, it literally takes less than a TIME1!!
+C2: (Look confused) Dude, wait, is your COOK powered by the literal sun?!?
+C1: If it is, can I use it? I got some things that I need to cook on a solar powered COOK.
+C2: What would you even need to cook that fast?!
+C1: ...Uhhhhh... Pizza?
+C3: That'd be one extremely burnt pizza.
+C4: Ohp, we're out of butter, give me a second... (Walk off stage)
+C5: Oh, remember that the fridge is in the attic!
+C4: (Offstage) Got it!
+C3: Why is our fridge in the... Whatever, regardless, how long does it take you to boil a CONTAINER of LIQUID on the COOK?
+Meanwhile C5: (Return to cooking, mumbling)
+C2: Like, TIME2!
+C3: Just stick a CONTAINER filled with LIQUID on the COOK, on medium heat… And it boils, in like, TIME1.
+C3: Less then a CUP, and you use a saucepan…
+C5: Wait, Hold on... You put a whole CONTAINER on a COOK? On medium heat?!
+C5: Your COOK is enchanted…
+C5: You should bring it over to replace our old COOK, even if you have to... "Borrow" it.
+C1: (Deep sigh) Everyone here is a lunatic, I swear…
+Music stops
+break down door
+C4: (Fall from ceiling) Ow... Can't tell what hurts more, my head, my back, or... My ears from your ramblings...
+C1: Oh, are you okay?
+C4: (Growl) Oh for the love of--
+C4: Do none of you own a bloody UTENSIL?!!
+TYPEWRITER: Two weeks later, everyone was found dead from too much DRINK.
+
+======
+
+INFORMATION ===============================
 ID: 1170
 TITLE: Alpha Boss
 AUTHOR: LeoHardy
@@ -45314,6 +45410,92 @@ Stolas: (Let Striker hold your hand and walk off with you in love)
 MEANWHILE Striker: (Walk Off With Stolas holding hands)
 Typewriter: As Striker walks off with Stolas, in love the others stay disbelief and alone
 Typewriter: The End
+
+======
+
+INFORMATION ===============================
+ID: 1472
+TITLE: The gamer-home invaders
+AUTHOR: art_costa01
+VERIFIED: False
+TAGS: 
+SET: Living Room
+DATE: 19/02/25
+CHARACTERS ================================
+JENNIFER: Nervous Girl:Couch
+JOHNNY: Ringleader:Entrance Stage Right
+ANDY: Hillbilly Guy:Entrance Stage Right
+STANLEY: Dumbo Guy:Entrance Stage Right
+MATTHEW: Nervous Boy:Entrance Stage Right
+SUGGESTIONS =============================
+VIDEOGAME: A video game:Fortnight, Battlefield, CoD
+TIMEAMOUNT: An amount of time:5 Hours, 10 Minutes, 15 Seconds
+NEWACTION: an action:Eating, Sleeping, Dancing
+GREETING: a greeting you can say:Hey, Sup, Wassup, Yo
+ACCOUNTNAME: an online username:TheCoolMan, Bro123, Onliner216
+VALUEABLE: Something valueable:Gaming PC, Console, Watch
+ORIGINLOCATION: A location.:Montana, California, Paris
+FOOD: Something you can eat:Banana, Apple, Pie, Chery
+GROUPNAME: A title for a group of people:Guys, People, Folks
+RUDENAME: Something rude.:Idiot, Noob, Kiddy
+ATTACK: An action that hurts:Slap, Punch, Headbutt
+SCRIPT ==========================================
+(badass music 1)
+JENNIFER: (Excited, playing Fortnight) Oh god VIDEOGAME is starting to get boring after TIMEAMOUNT of playing.. Maybe I should be NEWACTION instead.
+(music stops)
+(break down door)
+(teleport JOHNNY Front Door)
+(teleport ANDY Front Door)
+(teleport MATTHEW Front Door)
+(teleport STANLEY Front Door)
+ANDY: (Weirdly calm) Howdy, ma'am.
+JOHNNY: GREETING
+STANLEY: (Holding a camera) Aloha.
+MATTHEW: (Nervously, awkward) H-h-hey.
+JENNIFER: (Scared, nervously) W-WHAT THE HELL ARE YOU DOING IN HERE? GET OUT!
+JOHNNY: See, I told you boys, we'd find ACCOUNTNAME.
+STANLEY: Thought you were getting away with spawnkilling us in VIDEOGAME, huh?
+ANDY: She darn' sure doesn't look like a ACCOUNTNAME.
+JOHNNY: (Mockingly) Oh damn, I guess we were interrupting her NEWACTION.
+JENNIFER: What do you guys want? Do you want my VALUEABLE, or what is this about?
+ANDY: Well, we were here to talk about your behaviour in VIDEOGAME, ACCOUNTNAME.
+MATTHEW: (Nerdy, still nervous) Erm, actually, we could really need that VALUEABLE.
+JENNIFER: (Angry, confused) So.. You actually invaded my home because of VIDEOGAME?
+ANDY: Damn right ACCOUNTNAME, and we need you to give us a sincere apology.
+JOHNNY: We came all the way here from ORIGINLOCATION.
+STANLEY: (Mockingly) Hey, why don't you get us a FOOD, like a good little ACCOUNTNAME.
+JENNIFER: (Sarcastically) You want some FOOD, huh?
+JENNIFER: Well, since you came all the way here from ORIGINLOCATION, I suppose you deserve to get a FOOD.
+JOHNNY: Damn right we do!
+ANDY: Effin' A.
+STANLEY: And be quick, aight punk, or else I will ATTACK you.
+JENNIFER: (Searching the fridge) I think I got just what you need..
+JENNIFER: (Placing it on the table) Here you go boys, a FOOD, just like you wanted..
+JOHNNY: (Annoyed) Took you long enough, punk.
+ANDY: I've been starvin', thanks ACCOUNTNAME, you're a true punk.
+STANLEY: On god, my stomach is screamin' for a FOOD!
+MATTHEW: (Sniffing the food) Erm, actually, I think something might be wrong with this FOOD.
+MATTHEW: (In a nerdy voice) You might not wanna eat this, GROUPNAME
+JENNIFER: (Amused) Oh nah, GROUPNAME, that's totally normal, on god.
+ANDY: (Chewing) Well, if you say so ACCOUNTNAME.
+STANLEY: (Stuffing food in his mouth) Oh boy, this sure was the best trip we've ever made, GROUPNAME
+JOHNNY: (Burping, exhausted) Oh boy.. I don't feel to good!
+ANDY: (Exhausted, tired) I think something might've been wrong with this FOOD.
+STANLEY: (Tired, almost throwing up) ACCOUNTNAME, what have you put in the FOOD?
+JENNIFER: (Amused, teasing) Oh, you dumb (RUDENAME), I gave you what you asked for.
+JENNIFER: (Passive, aggressive) You thought you all could just invade my home, huh?
+JENNIFER: You all got mad about (VIDEOGAME)?
+JENNIFER: Decided to take a trip from (ORIGINLOCATION) to my home?
+JENNIFER: Well, you shouldn't have messed with ACCOUNTNAME.
+JENNIFER: I've put some soap in the FOOD.
+JOHNNY: (Falling asleep) You stupid RUDENAME...
+JENNIFER: (Amused) Well, ya'll tried to ATTACK me..
+JENNIFER: I wouldn't like that very much.
+JENNIFER: Now it's my turn to ATTACK you, punk.
+MATTHEW: (Nervously) Wait, ACCOUNTNAME, we can settle this, aight?
+MATTHEW: How about we just play VIDEOGAME together?
+JENNIFER: Aight.. Sounds good, we'll use splitscreen tho.
+(fortnite)
 
 ======
 
