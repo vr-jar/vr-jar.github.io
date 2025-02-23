@@ -36482,7 +36482,7 @@ Detective: (Facepalms) Every lead I've ever had has gone to a dead end.
 Detective: (Sits down) They have kidnapped NUMBER children so far, maybe even more.
 Detective: (Frustrated) I need answers, it should be right in front of my face!
 Detective: Luckily, I sent my partner out to dig up some dirt.
-Detective: He should be back soon with it and hopefully with my NOUN7.
+Detective: My partner should be back soon with it and hopefully with my NOUN7.
 Partner: (Enter the room and walk up to the detective) I'm back and I am sorry it took so long.
 (music stops)
 (noir music 2)
@@ -36495,7 +36495,7 @@ Detective: (Stands up and looks out the window) After all, I've been hunting dow
 Detective: (Sits down and slams fist on desk) We're gonna find them even if it kills me!
 Detective: I need you to go out and find me more clues NOUN2.
 Detective: Maybe some sort of clue like NOUN4 could help us.
-Detective: Or maybe NOUN8 dropped something while being kidnapped
+Detective: Or maybe NOUN8 dropped something while being kidnapped.
 (music stops)
 (mystery music 1)
 Detective: (Angry) This kidnapping bastard really grinds my gears!
@@ -38698,8 +38698,9 @@ SAM: Their access code is different every time, and they're blaming it on the ap
 SAM: I even caught cigarettes in their coat pocket, and they don't even smoke!
 ALEX: That is strange, and honestly, it doesn't seem they're very loyal towards you.
 SAM: Yeah, you're right. I might break it off...but enough about me tonight. It's all about you! I can't wait!
-ALEX: Me either. Look, here they come now! (enter JAMIE stage right)
-SAM: (shocked that Jamie walked inside) Oh, I have to go. EXCUSE1! (exit)
+ALEX: Me either. Look, here they come now!
+JAMIE: (enter JAMIE stage right)
+SAM: (shocked that Jamie walked inside) Oh, I have to go. EXCUSE1! (exit stage right)
 ALEX: (confused, but shakes it off) Jamie, my WORD OF ENDEARMENT! I’m so happy you’re here!
 JAMIE: (sits in chair) Of course, NICKNAME FOR PARTNER. You seem worried though. What’s wrong?
 ALEX: (taking a deep breath) Jamie, we've been together for a while now, and I feel like I’m the most ADJECTIVE1 person in the world with you by my side.
@@ -38715,30 +38716,33 @@ JAMIE: (looking away awkwardly) Well... it’s not just one person. It’s... th
 (vine boom)
 ALEX: (stunned) Three?! Who... who are they?
 JAMIE: (sighing deeply) Well, uh, let’s see. There’s, um, someone random I met last weekend at the PLACE... (shifting uncomfortably)
-JAMIE: (enter WAITER stage left with a bottle of champagne) Then... there's the waiter here.
-WAITER: (drops the bottle, upset) Uh… I… Jamie! I didn’t know you’d… tell them like this! (exit crying WAITER, pause, enter angry MANAGER stage left)
+WAITER: (enter with a bottle of champagne) I have come with your champagne.
+JAMIE: Then... there's the waiter here.
+WAITER: (drops the bottle, upset) Uh… I… Jamie! I didn’t know you’d… tell them like this! (exit crying WAITER)
+MANAGER: (enter angry MANAGER stage left)
 JAMIE: (awkwardly looking away) And... uh... (mumbling) the restaurant’s manager, too.
 MANAGER: (stops, looks up, wide-eyed, clears throat) Jamie, I thought... I thought we agreed we were keeping things professional.
 ALEX: (closes the ring box, standing up, voice shaking) Jamie, I can’t believe this.
 ALEX: All I wanted was to spend my life with you, and... you’ve been with three other people?
-JAMIE: (nervously shrugging) It’s... EXCUSE2? (ALEX storms out stage right)
-JAMIE: (follows ALEX) Wait, Alex! I can explain! (EXCUSE3)! (pause)
+JAMIE: (nervously shrugging) It’s... EXCUSE2?
+ALEX: (ALEX storms out stage right)
+JAMIE: (follows ALEX) Wait, Alex! I can explain! (EXCUSE3)!
 (jazz music 2)
 WAITER: (enter stage left) QUESTION?
 MANAGER: If that’s your humor asking if Jamie left the restaurant, then yes. (WAITER and MANAGER exchange a look.)
-SAM: (enter stage left) Hey, I'm looking for my friend Alex. Have either of you seen them?
+SAM: (enter stage right) Hey, I'm looking for my friend Alex. Have either of you seen them?
 MANAGER: Yes, they just walked out.
 SAM: Crap! I need to tell him about Jamie.
 WAITER: (shocked) You know Jamie?!?
 SAM: Yeah, we've been dating for a few months.
 SAM: I was telling Alex about how our relationship has been rocky recently, and that I was thinking of breaking up with them.
 SAM: I was so angry when Jamie walked in that all I could do was walk out. Realizing it now, I should have confronted them.
-SAM: Dang, I can't believe that Jamie has been sleeping around with my best friend!
+SAM: I can't believe Jamie has been sleeping with my best friend!
 WAITER: (awkwardly) Well, I guess we’re all single now…
 MANAGER: (smirking) Yeah... Want to grab a drink?
 WAITER: Wait! Isn’t this against work policy?
 MANAGER: I was planning to quit tomorrow anyway.
-SAM: Good thing you decided to not hire me!
+SAM: Good thing you decided not to hire me!
 
 ======
 
@@ -41272,7 +41276,7 @@ ASSIST: (Runs into center stage exhausted) Coming NAMESCI!
 ASSIST: (panting in place) Why even are the LAW after us?
 SCI: Because, I'm going to create the ultimate life form! (laughs manically)
 ASSIST: But how are we going to do that with the LAW on our tail?
-SCI: You make a good point NAMEAS. (Pondering)
+SCI: You make a good point NAMEASS. (Pondering)
 SCI: We'll just have to do it now while we have some distance.
 ASSIST: Don't you need your lab equipment?
 SCI: There's no need I have all the materials I need here.
@@ -43885,7 +43889,7 @@ SALLY: Nah mate, I forgot to take my ITEM with me... Also I'm breaking up with y
 
 INFORMATION ===============================
 ID: 1426
-TITLE: Crossing Guard Chaos
+TITLE: Crazy Crossing Guard
 AUTHOR: FangsCrayonBox
 VERIFIED: True
 TAGS: Skit
@@ -43897,9 +43901,9 @@ FRIEND 1: Agressive Friend:Entrance Stage Right
 FRIEND 2: Passive Friend:Entrance Stage Right
 SUGGESTIONS =============================
 SCHOOL: A type of school:Dance, Cooking, Janitorial, Super Hero, Construction, Art
-JOB: A type of job:Artist, Dancer, Super Hero, Super Villian, Crossing Guard
+JOB: A type of job:Artist, Dancer, Super Hero, Super Villian, Stay at home mom
 FAMILY: A type of family member:Brother, Sister, Mom, Dad, Uncle, Grandma, Grandpa
-NUMBER: A number:420, 100, 500, 666
+NUMBER: A large number:420, 100, 500, 666
 ITEM: An expensive item or service:Medical bills, Sports cars, GPUs, Groceries, Dental work
 DANGER: Something dangerous:Wolves, mountian lion, nuclear war
 GAME: Multiplayer Game:Mario party, Uno, Audience Anarchy
@@ -43910,17 +43914,7 @@ SCRIPT ==========================================
 school bell
 FRIEND 1: Wow, that sure was one exhausting day.
 FRIEND 2: Tell me about it. If I didn't want to be a JOB so badly I'd be skipping SCHOOL school every day.
-FRIEND 1: Doesn't your FAMILY makes $ NUMBER a week doing JOB ?
-FRIEND 2: Only on Tuesdays. And they usually just waste the money on ITEM anyway.
-GUARD: You two, stop right there!
-vine boom
-FRIEND 2: Huh? What for?
-FRIEND 1: I don't have to listen to you. You're not a cop!
-badass music 1
-school bell
-FRIEND 1: Wow, that sure was one exhausting day.
-FRIEND 2: Tell me about it. If I didn't want to be a JOB so badly I'd be skipping SCHOOL school every day.
-FRIEND 1: Doesn't your FAMILY makes $ NUMBER a week doing JOB ?
+FRIEND 1: Doesn't your FAMILY make $ NUMBER a week doing JOB ?
 FRIEND 2: Only on Tuesdays. And they usually just waste the money on ITEM anyway.
 GUARD: You two, stop right there!
 vine boom
@@ -43928,7 +43922,7 @@ FRIEND 2: Huh? What for?
 FRIEND 1: I don't have to listen to you. You're not a cop!
 badass music 1
 GUARD: Of course not, don't be silly. I'm not one of those "play it safe" police officers.
-GUARD: I'm out here, risking my life against the unknown and protecting children against the world's fearsome enemies!
+GUARD: I'm out here, risking my life against the unknown and protecting children against the world's most fearsome enemies!
 GUARD: I'm a proud, noble, traffic guard!
 Music Stops
 FRIEND 1: ... Right. Okay...
@@ -43938,7 +43932,7 @@ GUARD: None shall pass while the light is red!
 FRIEND 2: But, there isn't a light here. This is a crosswalk.
 GUARD: None shall pass!
 FRIEND 2: Okay, umm... How long do we have to wait here.
-GUARD: The light will change in approximately NUMBER2 minutes.
+GUARD: The light will change in approximately MINUTE minutes.
 FRIEND 1: Are you crazy? That's way too long!
 FRIEND 2: Yeah, they're right. We need to get to my house so we can play GAME on my new CONSOLE before my FAMILY gets home.
 GUARD: None shall pass!
@@ -43957,7 +43951,7 @@ GUARD: Hey! What are you two talking about in a tone just outside of my auditory
 FRIEND 2: Oh! We were just... umm...
 FRIEND 1: We were talking about what we learned in SCHOOL school today. Really interesting stuff.
 FRIEND 2: Yeah, we learned all about SCHOOL stuff and...
-FRIEND 2: Oh! Wait! Is that a OBJECT across the street, dangerously close to what is apparently Danger territory for the next MINUTE minutes?
+FRIEND 2: Oh! Wait! Is that a OBJECT across the street, dangerously close to what is apparently DANGER territory for the next MINUTE minutes?
 GUARD: What?! Oh no! A precious OBJECT is the primary prey of DANGER !
 GUARD: (Exit stage left) Fear not my sweet little OBJECT for I shall rescue you!
 Music Stops
@@ -43972,13 +43966,13 @@ FRIEND 1: Bummer...
 FRIEND 1: On the bright side though, now we can play GAME on your CONSOLE all we want!
 FRIEND 2: Yeah! I'll race you to my place! Last one there buys the winner a ITEM !
 FRIEND 1: You're on, I could use a free ITEM !
-TYPEWRITER: The two friends ran for about 2 minutes, before being eaten alive by a wild DANGER
+TYPEWRITER: The two friends ran for a few minutes, before being eaten alive by a wild DANGER
 
 ======
 
 INFORMATION ===============================
 ID: 1427
-TITLE: Tabletop Tournament
+TITLE: Card Cheater
 AUTHOR: FangsCrayonBox
 VERIFIED: True
 TAGS: Skit
@@ -45116,7 +45110,7 @@ MAY: Ain't no way this is real. What sad sack of simps made this.
 (Telenovela music 1)
 MOM: (Enter stage right Angry) I'm tired of you, You are such a dumb loser.
 DAD: (Enter stage right Angry) Oh I'm dumb, at least I don't DUMB ACTION.
-MOM: I only DUMB ACTION cuz you don't know how to DONT KNOW
+MOM: I only DUMB ACTION cause you don't know how to DONT KNOW
 MAY: (Stand up and look at mom) Wait, Mom, Dad what's going on why are you screaming at each other?
 DAD: (Look at May) Because your mom be REASON FOR DIVORCE. You know what! (look at mom) I want a divorce.
 MOM: Oh no you don't, I want the divorce. I'm calling my lawyer now (Exit stage right)
@@ -45149,6 +45143,7 @@ MAY: Biden and Trump, Mordecai and Twilight, Shadow and Eggman's wife
 MAY: No one can stop me, (Enthusiastic) I'll take a SOMETHING EDIBLE and eat it!! (EVIL LAUGH)
 MAY: But first some alone time with You (point at ANYONE) come here HUSBAND PET NAME.
 PERSON: Anything for my WIFE PET NAME.
+(silly music 2)
 (doorbell)
 MAY: Ignore the doorbell and kiss me.
 (doorbell)
@@ -45164,9 +45159,9 @@ MAY: Uhh, fine. Wait here, ANYONE. (Open the door and remain looking outside)
 MAY: (Answering empty door) Hello? … Uhh, ding dong ditchers, annoying.
 LUVIA: (To MAY) Hey, you have something of mine.
 MAY: (look at Luvia and scream)
-LUVIA: (Sream with may) . . . Why are we screaming?
-MAY: (Scaeard) Who are you? What are you? What do you want?
-LUVIA: Im Luvia the love demon and I believe you have my notebook.
+LUVIA: (Scream with may) . . . Why are we screaming?
+MAY: (Scared) Who are you? What are you? What do you want?
+LUVIA: I'm Luvia the love demon and I believe you have my notebook.
 MAY: (Nervous) ANYONE help!
 PERSON: (confused) huh? With what, what's happening?
 LUVIA: Foolish girl only those who have touched the notebook can see me.
@@ -45179,12 +45174,12 @@ LUVIA: (laughs)
 MAY: And what are you laughing at
 LUVIA: Will technically he can't see what you're dealing with if I'm what you're dealing with.
 MAY: Uh, What do you even want
-LUVIA: Wow, you lesson less than a deaf person. I'm here for my notebook.
+LUVIA: Wow, you listen less than a deaf person. I'm here for my notebook.
 MAY: Will no, I need it to rule the world so get a new one.
 (lacrimosa music)
 LUVIA: (Intimidating) I don't think I was asking, now give me the notebook before I start killing.
 MAY: (Intimidated) Ahh, ANYONE catch (throw notebook to ANYONE)
-PERSON: (catch notebook, look at Luvia) Ahhhh! what is that thing.
+PERSON: (catch notebook, look at Luvia) Ahhhh! what is that thing?
 MAY: A demon! Do something!
 PERSON: (Neutral tone) May . . . That is a demonic being not of this world.
 (silly music 2)
@@ -45199,7 +45194,7 @@ LUVIA: (Unfazed) What was that supposed to do, hurt? (sigh and hit ANYONE)
 PERSON: (in pain) Aaaaaa!
 LUVIA: I'll be taking back my book now. (grab the book from ANYONE ‘s body) Don't worry he’s not dead . . . somehow.
 MAY: (Scared) What are you going to do now?
-LUVIA: I'm going home but first I'm erasing what you did (erase names from the book and walk out the door) I hope Vevlo ain’t mad at me for losing this.
+LUVIA: I'm going home but first I'm erasing what you did (erase names from the book and walk out the door) I hope Velvo ain’t mad at me for losing this.
 MAY: Wait my hard work is gone.
 DAD: (Enter stage left) That's the last time I ever ACTIVITY with you
 MOM: (Enter stage left) Good cause you suck at it.
