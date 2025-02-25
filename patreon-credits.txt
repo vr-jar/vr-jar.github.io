@@ -791,7 +791,6 @@ Baptism of Fire
 Lozcario
 ENDღ
 Oh Daisy Dukes
-MrFungie
 Nolfinkol
 Just Jiggity
 Courier67
@@ -2123,6 +2122,7 @@ Lilith.liz
 ~-Nova-~
 IσɳιȥҽԃCԋαιɳ
 «HoneyBee»
+ToeFungie
 modNick
 ruralists
 #TIER=1
