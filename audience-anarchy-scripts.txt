@@ -25002,10 +25002,10 @@ Meanwhile THEA: WHAT?!
 mystery music 1
 AMY: He was lying lifeless on the bed…blood everywhere…(start breaking down into tears)
 SHANNON: I’ll call the police.
-THEA: No, MEMBER Shannon! Let’s get a detective here first! I know just who. (leave through Stage Right Door)
+THEA: No, MEMBER Shannon! Let’s get a detective here first! I know just who. (go near Stage Right Door)
 AMY: (sobbing) His throat…a gaping slit in his throat…
-RALPH: How do you know he was murdered?
-Meanwhile THEA: Hello, operator? Have Detective Davison come to our LOCATION.
+THEA: Hello, operator? Have Detective Davison come to our LOCATION.
+Meanwhile RALPH: How do you know he was murdered?
 SHANNON: Not the time to ask that question, Ralph.
 THEA: (reenter from Stage Right Door) Just don’t panic everyone, the Detective should be here any moment--
 tire screech
@@ -25040,8 +25040,8 @@ DETECTIVE DAVISON: It would appear so; he was holding a stained knife in his han
 THEA: (sigh of relief) Thank goodness.
 footsteps on wood
 BILLY: (enter from Stage Right Door) Aunt Thea! I saw something- (gasp) RALPHIE!
-DETECTIVE DAVISON: Who are you?
-Meanwhile THEA: Don’t get close to him, Billy! He’ll think you’re involved with Ralph’s antics!
+THEA: Don’t get close to him, Billy! He’ll think you’re involved with Ralph’s antics!
+Meanwhile DETECTIVE DAVISON: Who are you?
 BILLY: What antics? What did Ralph do? Did he cheat at GAME again?
 DETECTIVE DAVISON: This suspect murdered Cameron, wife of Amy.
 BILLY: What?! Ralphie would never do such a thing! Before I went upstairs, he said he was going to get something to eat!
@@ -25053,9 +25053,10 @@ THEA: Are you now realizing that you just killed my son without hesitation?
 DETECTIVE DAVISON: Uh…oops.
 THEA: You absolute moron! (take gun from Davison) You lost your privilege to use this!
 DETECTIVE DAVISON: Hey, wait!
-Meanwhile THEA: I bet a million dollars it could be you!
+THEA: I bet a million dollars it could be you!
 BILLY: (interrupting) ...Guys! I saw Amy kill Shannon!
 thunder
+Music Stops
 piano theme
 DETECTIVE DAVISON: What?
 Meanwhile THEA: You did?
@@ -25070,7 +25071,7 @@ AMY: (snarly tone) Cameron never appreciated me…he always wanted to do what wa
 thunder
 AMY: Shannon never liked me either! And Billy always got the best in life while I was thrown to the wolves!
 DETECTIVE DAVISON: So, you resorted to killing them!
-AMY: Same went for the man who broke the Clue DVD he borrowed from me and the student driver who ran over my APPENDAGE last month!
+AMY: Same went for the man who broke the Clue DVD he borrowed from me and the student driver who ran over my APPENDAGE earlier this TIME!
 DETECTIVE DAVISON: You killed them, too…I should have known it was you all along!
 THEA: Amy, please… calm down...
 Meanwhile DETECTIVE DAVISON: (reach behind back for shotgun)
@@ -37266,7 +37267,7 @@ DOC: (Turns to the computer) Well, I still have 10 minutes until the next patien
 INFORMATION ===============================
 ID: 1168
 TITLE: The Teaification Process
-AUTHOR: Whįsper
+AUTHOR: Sołver
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
