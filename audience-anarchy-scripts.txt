@@ -45358,3 +45358,627 @@ TECH: Thank you for calling COMPANY tech support. The cost of this session will 
 
 ======
 
+INFORMATION ===============================
+ID: 1478
+TITLE: This town is big enough for the two of us
+AUTHOR: LeDerp_64
+VERIFIED: True
+TAGS: Skit
+SET: Western
+DATE: 22/02/25
+CHARACTERS ================================
+BILL: Goofy Sounding Sheriff:Entrance Stage Left
+BOB: Serious Sounding Sheriff:Entrance Stage Right
+SUGGESTIONS =============================
+COWNAME: A Name for a Cowboy:Waffle Johnson, Tater Tot O’Malley, Pudding Whiskers
+TOWN: Name of a town:Soggy Bottom, Sneeze Creek, Pickle Patch
+GANG: Name of a gang:Deadlock, Dust Devil, Red Rider
+MANTALK: Something an old man would call you:Feller, Mister, Partner
+TERM: Quirky term for a person:Sourpuss, Cornball, 
+VALUE: A Valuable item for a cowboy:Badge, Lasso, Stetson
+BACKSTORY: Tragic Backstory:My parents were killed by wolves, I was raised by ocelots, neither of my parents showed up to my birth
+PASSED: Something Passed down a family:Necklace, Ring, Amulet 
+HOLYCOW: An Exclamation:Holy cow, Shoot, Jeez
+HUG: Sign of affection:Hug, High five, Handshake
+SCRIPT ==========================================
+bluegrass music
+BOB: (walks on stage) Ahh, so this is the town of TOWN.
+BOB: It ain't much, but it's coming along.
+BOB: This'll be a fine town to be a sheriff in.
+BOB: GANG better be ready for the toughest sheriff around.
+BILL: (walk onto stage) So this is TOWN.
+BILL: Seems mighty fine, I'll fit in just right it seems.
+BOB: And who might you be?
+BILL: Why you're lookin' at TOWN's newest sheriff.
+BILL: The name's COWNAME, at your service.
+BOB: Now wait right there MANTALK.
+BOB: I'm COWNAME, the newest sheriff of TOWN.
+BOB: You tryna' fool this town or what MANTALK?
+BILL: Aw shucks, I don't mean to be a TERM here but I'm not lying sir.
+BILL: My name is in fact COWNAME, and i was assigned to be a sheriff here.
+BOB: If you are supposed to be a sheriff then where's your VALUE?
+BOB: A good sheriff never goes without his VALUE.
+BILL: Well i was picking my VALUE up from that store over there, but they told me it's not ready yet.
+BILL: They are adding the finishing touches as we speak.
+BOB: I'll have to check that later
+BOB: Another thing, why do you talk funny like that?
+BOB: Sheriffs are supposed to be serious and have tragic backstories.
+sad chug jug music
+BILL: Well i try to sound cherry cause BACKSTORY.
+BILL: I smile to hide my pain from back then.
+BOB: You're kidding me.
+BOB: BACKSTORY as well!
+western showdown music
+BOB: Now i know for a fact you're up to no good.
+BILL: No wait i can prove it.
+BILL: I have this PASSED that my ma left me. (pulls out PASSED)
+BILL: It's a little broken but surely this will help you believe me.
+BOB: Now wait just a darn second.
+BOB: That looks just like the PASSED my father left me. (pulls out PASSED)
+BILL: HOLYCOW! you're right.
+BILL: But its a bit different?
+BOB: Seems like they fit together.
+BOB: You know what that means?
+BILL: I do believe so.
+music stops
+BOB: You're my long lost twin brother!
+Meanwhile BILL: Both our parents bought from the same store!
+BILL: Oh wait no that make more sense.
+bluegrass music
+BOB: HOLYCOW come here brother, give me a HUG!
+BILL: Well i won't say no to that (HUG brother)
+Meanwhile BOB: (HUG brother)
+BOB: So what are we going to do about this sheriff business?
+BOB: This town ain't big enough for the two of us.
+BILL: It'll be fine, we can share it, i mean you're my brother anyway.
+BOB: I guess it should be fine.
+BOB: Who wouldn't want two sheriffs protecting their town?
+BILL: The GANG gang won't come by here ever again, once they find out who runs this town.
+BOB: From this day forward TOWN is under the protection of COWNAME, and COWNAME.
+western jingle 1
+
+======
+
+INFORMATION ===============================
+ID: 1479
+TITLE: Meet The Sp-A.I.
+AUTHOR: houseerikson
+VERIFIED: False
+TAGS: Skit
+SET: Interrogation Room
+DATE: 22/02/25
+CHARACTERS ================================
+SPY: The secret spy:Entrance Stage Right
+GEN: The military general:Narrator Podium
+VIL: The scheming villain:Backstage
+MAT1: Maintenance Worker 1:Backstage
+MAT2: Maintenance Worker 2:Backstage
+SUGGESTIONS =============================
+CODE: A codename for a secret agent:007, 47, Snake, Raiden
+COUNTRY: Any country:USA, Canada, Russia, Germany
+SCHOOL: Any type of school supplies:Scissors, Pencils, Rulers
+DIGIT: Any double digit number:61,70,11,99
+USER: A username of anybody in the audience:Jar, The Pawns
+EVIL: A villainous sounding name:Dr Evil, Dick Dastardly
+BODY: Any body part:kneecaps, arm, stomach, ribs
+COLOR: Any color:Purple, blue, red, yellow
+SCRIPT ==========================================
+TYPEWRITER: Mission Start
+(Shark Tank Serious Music 1)
+SPY: (ENTER STAGE RIGHT) General, I've entered into the base...
+GEN: Well done, Agent CODE. Glad to see you got inside in one piece.
+GEN: Now, we need to find out where EVIL is and find out what he's up to.
+SPY: Don't worry, sir. Leave it to me...
+VIL: (Behind Stage Right Entrance) Ah, but you SHOULD worry, CODE!
+SPY: Wha-?
+VIL: (ENTER STAGE RIGHT) Behold, it is I! EVIL!
+(Scary music)
+SPY: Hold it right there!
+VIL: (Close door) Heh, heh....it's useless to resist, agent. All the exits have been sealed off.
+VIL: It's just the two of us in here. You're trapped.
+SPY: (Check comms) General?
+GEN: CODE! Do you read me?
+SPY: It was a trap, general! I'm trapped!
+GEN: Doesn't matter! The mission still stands! Stop EVIL at all costs!
+SPY: Understood, sir!
+VIL: Now, my poor, poor agent...what shall I do with you? (Evil laughter)
+SPY: What are you planning, EVIL?
+VIL: Wouldn't you like to know!
+SPY: Uh, yeah. I would.
+VIL: Well, I suppose I'll explain...since there's no chance of you stopping me!
+VIL: At this very moment, I have DIGIT nuclear missiles pointed directly at COUNTRY.
+VIL: And in about 3 hours, they'll be launched, destroying the entire land!!!
+SPY: (Gasp) You monster!
+SPY: Why would you do this???
+VIL: Because....I'm Evil!!!
+SPY: (Check comms) General! He's planning to launch missiles towards COUNTRY!
+GEN: What??? CODE, you have to stop him NOW!
+SPY: Don't worry! I got this!
+VIL: Oh, poor CODE...what can you do now...?
+SPY: How about THIS! (Fight EVIL)
+(fistfight)
+Meanwhile VIL: What? Hey! (Fight SPY)
+VIL: Agh! (Fall to the floor)
+SPY: It's over! You lost!
+VIL: Not yet...(Get up) the missiles are still scheduled for launch, and only I have the code to stop them!
+SPY: (Check comms) General, what do I do?
+GEN: Get him to talk, no matter what!
+SPY: Ok, EVIL...let's have a little chat...
+GEN: Punch him in the BODY!
+Meanwhile SPY: (Punches EVIL in the BODY)
+VIL: O-ow!
+GEN: Again! Don't stop until he gives up the code!
+VIL: A-ahhh!
+SPY: Had enough yet?
+GEN: Now, kiss his BODY!
+(Record scratch)
+SPY:...what?
+GEN: You heard me! Kiss him!
+SPY: Sir, uhm...are you sure?
+VIL:....
+VIL: Ah, but you should worry, CODE!
+SPY: Huh?
+VIL: Behold, it is I! EVIL!
+(mystery music 1)
+SPY: Uhhh...you said that already...
+GEN: Well done, CODE! Age hasn't slowed you down one bit!
+SPY: Sir, I didn't do anything...
+VIL: Alright, alright! I'll give you the code!
+SPY: Wait, you will?
+GEN: Don't listen to him, CODE! He's lying!
+SPY: But, sir...
+VIL: Actually, I won't give it to you!
+SPY: What??? What is going on?
+GEN: CODE! Turn your headset off right now!
+SPY: What did you say?
+GEN: The mission is a failure! Cut the power right now!
+SPY: What are you talking about?!
+VIL: You heard the man! Turn your headset off!
+SPY: Wait, how can YOU hear him???
+GEN: I sure hope USER is enjoying the show right now...
+VIL: I'm sure they're having a wonderful time.
+SPY: Who????
+GEN: CODE! He's planning to launch missiles towards COUNTRY!
+VIL: What??? General, you have to stop him NOW!!!
+GEN: We may as well recycle this script now...no way Jar will let us do this one.
+SPY: Script...? Sir, what are you talking about??? What is going on?!?
+GEN: I hear it's amazing when the famous COLOR stuffed worm in flap-jaw space with the tuning fork-
+GEN:-does a raw blink on Hari-Kari rock! I need SCHOOL! DIGIT!
+VIL: Oh my god...you've been drinking and driving again, haven't you???
+GEN: What? Nooooo. I haven't done that in weeks-I mean...years.
+SPY: I don't understand what's happening...somebody help me!
+MAT1: (ENTER STAGE RIGHT) Ah, crap...the simulation's breaking again!
+MAT2: Hold on, let me fix this...
+(scifi contraption)
+(Teleport GEN to Backstage)
+(Teleport VIL to Backstage)
+(Teleport SPY to Backstage)
+(Groose music)
+MAT1: (Sigh) This is the fourth time this month the A.I. is bugged...
+MAT2: We're gonna have to repair it again, aren't we?
+MAT1: Yep...
+MAT2: (Groan) I don't understand why we have to use Artificial Intelligence for training sims...
+MAT1: Eh, cuts down on labor costs...
+Typewriter: Fission Mailure
+
+======
+
+INFORMATION ===============================
+ID: 1486
+TITLE: Super Spreader
+AUTHOR: Valhymm
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 24/02/25
+CHARACTERS ================================
+BEN: Ben, has the disease:Couch
+DOCTOR: Doctor:Center Stage
+CHLOE: Chloe:Backstage
+JIMMY: Jimmy:Backstage
+SUGGESTIONS =============================
+DIABEETUS: A disease or infection:the dreaded lurgy, diabeetus, man-flu, wiffy pits, garlic breath, bone-itis, the suds, Pokérus
+BOO: A vocalisation of surprise or shock:yack-a-boo, boo, uwu, owo, senpai, Arsenal
+LOLLIPOP: Something you'd put in your mouth:lollipop, spoon, toothbrush, stick, floss, hamburger, ice cream
+EAR: A body part:ear, mouth, eye, nose, belly button, fingernail, toenail
+MIDNIGHT: A time of day:midnight, noon, breakfast time, lunchtime, teatime, bedtime
+THREE: A number:two, three, four, five, six, seven
+CREAM: A substance you'd apply to your skin:cream, ointment, spray, powder, lotion
+WATER: A liquid you can drink:water, beer, wine, juice, smoothie, rum, vinegar, whiskey, milk
+DND: A game:Dungeons and Dragons, VRChat, Pokémon, Settlers of Catan, Call of Fifa
+SCRIPT ==========================================
+double bass music
+DOCTOR: (Stand next to couch) Now then Ben, what can I do for you?
+Meanwhile BEN: (Lie down on the couch)
+BEN: Doctor, I've come down with something, but I've never felt like this before, BOO!
+BEN: I didn't wanna go out in case I gave it to anyone else, BOO!
+DOCTOR: I see. I will have to do some examinations. Don't get up.
+DOCTOR: (Rummaging in your bag) First, I'm just going to stick my LOLLIPOP in your mouth. Say aaah.
+BEN: Aaah! BOO!
+Meanwhile DOCTOR: (Put your LOLLIPOP in BEN's mouth)
+DOCTOR: Hmm, nothing unusual there. Okay, I'm going to take your temperature.
+DOCTOR: (Rummaging in your bag) This is a special thermometer which goes in your EAR. Hold still.
+BEN: Ooh! Aah! BOO! Be gentle, doc!
+Meanwhile DOCTOR: (Insert the thermometer in BEN's EAR)
+DOCTOR: Oh dear, your temperature is a bit high.
+DOCTOR: How long have you been saying BOO for?
+BEN: (Sitting up on the couch) Since about MIDNIGHT THREE days ago. BOO!
+DOCTOR: I see. And how long has your EAR had that rash on it?
+BEN: Uh, only since Tuesday. BOO!
+DOCTOR: Okay. I'm afraid all your symptoms point to that new fever that's going round, DIABEETUS.
+waterphone
+BEN: DIABEETUS?! BOO?!
+DOCTOR: Yes, I'm afraid it is. You were right not to come to the surgery to see me. DIABEETUS is a very contagious infection.
+DOCTOR: Of course, I've been vaccinated against DIABEETUS so I'm perfectly fine.
+BEN: What should I do, Doc? BOO!
+DOCTOR: Three things. First, I'll give you this CREAM to put on your EAR. (hand it over)
+Meanwhile BEN: (Take the CREAM)
+DOCTOR: Second, you need to drink plenty of fluids. THREE litres of WATER a day until the symptoms subside.
+BEN: Where on Earth will I get THREE litres of WATER? BOO!
+DOCTOR: (Point to the kitchen) Try the hot tap.
+DOCTOR: And finally, do not, under any circumstances, invite any friends over for DND.
+BEN: Why not, Doc? BOO!
+DOCTOR: Because Ben, otherwise you will be responsible for a...
+DOCTOR: (To audience) (Menacingly) Super spreader event!
+thunder
+DOCTOR: (To BEN, cheerfully) But you're a smart guy, I'm sure you cancelled all your plans as soon as you got the symptoms.
+DOCTOR: (Heading for stage left) Anyway, I've got plenty of other patients to see. Make sure to rub that EAR with that CREAM twice a day!
+Meanwhile BEN: (Point in the air) Uhhh...
+DOCTOR: Ciao! (Exit stage right)
+BEN: (With dread) Oh no...
+Teleport CHLOE to Entrance Stage Right
+Teleport JIMMY to Entrance Stage Right
+music stops, doorbell
+happy music 1
+CHLOE: (Enter stage right) Here we are! All ready for DND night Ben?
+Meanwhile JIMMY: (Enter stage right)
+BEN: (Waving them away frantically) BOO! I mean shoo!
+Meanwhile CHLOE: (Turn on the TV and sit on the couch)
+JIMMY: (Go to kitchen) That's the spirit! I'll make us some drinks!
+JIMMY: I love a mug of hot, steamy WATER while I'm playing DND!
+Meanwhile BEN: (Clutch your head in frustration)
+CHLOE: I've got the latest DND expansion pack, The Holy LOLLIPOP! You'll love it!
+Meanwhile JIMMY: (Sit down on the couch and hand CHLOE a drink)
+BEN: Wait, BOO! You all need to get out of here, now! BOO!
+JIMMY: (Sipping a drink) Why? What's wrong?
+music stops
+BEN: I literally just saw the doctor, and he diagnosed me with DIABEETUS! BOO!
+CHLOE: You mean that fancy new disease that's gone viral?
+vine boom
+JIMMY: The one that makes people shout BOO every time they finish a sentence?
+BEN: (In disbelief) Yes! BOO!
+CHLOE: I'm not worried, as long as I'm with the in-crowd, what could possibly go wrong, BOO?
+groose music
+BEN: That! That's it! You've got DIABEETUS now too! BOO!
+JIMMY: I think you're getting worried over nothing.
+BEN: I've got everything to worry about! BOO!
+JIMMY: Come on, let's just kick back and play DND.
+BEN: Wait, if Chloe got DIABEETUS from me that quick, how come you haven't? BOO?
+JIMMY: I guess it's because I'm immune? I mean, I have no EAR.
+CHLOE: I'm still not worried. What's the worst that could happen? BOO?
+badass music 1
+BEN: Ow! BOO! (Clutch your nose, point along the floor) Oh my God, is that my nose?
+BEN: What's my nose doing heading towards the kitchen?! BOO?!
+Meanwhile CHLOE: (Gasp and hold your nose)
+JIMMY: I think you'd better chase after it before it gets away, or you won't see it until MIDNIGHT!
+BEN: (Exiting stage left) You're right! Hey! Get back here! BOO!
+doorbell
+Teleport DOCTOR to Entrance Stage Right
+DOCTOR: (Poke your head in stage right) Oh yes, I forgot to tell you.
+DOCTOR: During the very late stages of DIABEETUS, your nose may start to run like crazy!
+
+======
+
+INFORMATION ===============================
+ID: 1493
+TITLE: MY MOTHER!?
+AUTHOR: ¿ԋσɳҽყ_ზҽαɾ?
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 01/03/25
+CHARACTERS ================================
+lily: lily the mom:Center Stage
+forrest : Forrest lillys secret boyfriend :Front Door
+milly: Millys forrests best friend :Backstage
+Narrator : the story narrator :Narrator Podium
+SUGGESTIONS =============================
+SCRIPT ==========================================
+Narrator: i wonder when forrest will be here lily said
+forrest: *knocks on the door*
+lily: oh my darling must be here
+Narrator: lily opens the door for forrest
+forrest: hey darling~
+lily: lets have say gex 😏
+Narrator: Milly walks in with shock on her face
+milly: with my mom?? bffr
+
+======
+
+INFORMATION ===============================
+ID: 1499
+TITLE: The Haggler
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 02/03/25
+CHARACTERS ================================
+EMPLOYEE: Cashier:Behind Register
+CUSTOMER: Annoying Customer:Center Stage
+GREG: Greg:Backstage
+CPET: Customer's Pet:Backstage
+SUGGESTIONS =============================
+PRODUCT: Name a kind of odd product:fish, doll, sausage
+RNUMBER: A random number:10, 43, 567
+PETTYPE: A kind of pet:cat, dog, iguana
+OCCUPATION: An occupation:landlord, therapist, lawyer
+CURRENCY: A random form of currency:sheckles, nosehairs, shavings
+SNACKS: A type of snack (plural):chips, sardines, cheeses
+RCHAIN: Name of a restaurant chain:Subway, McDonalds, Taco Bell
+CITY: Name of a city:West Philadelphia, Los Angeles, Smurf Village
+SPORT: A type of sport:basketball, baseball, soccer
+FCREATURE: A fictional creature (plural):minotaurs, aliens, Oompa Loompas
+SCRIPT ==========================================
+70s music
+CUSTOMER: Alright, my guy. This PRODUCT I want to buy, for legal reasons I don't want to disclose, says $49.99.
+CUSTOMER: But I think we both know that's a little ambitious.
+EMPLOYEE: No, that’s just what it costs.
+CUSTOMER: Okay, sure. But what if, I’m just spitballin’ here, I give you RNUMBER bucks and we call it a day?
+EMPLOYEE: That's an oddly specific number. But I see what's happening here. You think this is a flea market. That's cute. It's not.
+CUSTOMER: Flea market? That's ridiculous. Sold out of all the fleas my PETTYPE had.
+EMPLOYEE: I mean you're negotiating like this is some sort of bartering deal when that's not what we do here.
+CUSTOMER: Hey, come on. Life is about negotiation.
+CUSTOMER: It's like when I talk my OCCUPATION down from doing something that will cost me money.
+EMPLOYEE: That sounds illegal.
+CUSTOMER: It's called tactical persuasion. Here’s my new offer: 15 CURRENCY and I’ll give you my Netflix password.
+EMPLOYEE: First of all, you know that doesn't work outside one household anymore. And 15 CURRENCY?
+EMPLOYEE: Like how does one assign monetary value to that?
+CUSTOMER: Okay, okay, you drive a hard bargain. So let's sweeten the pot. 20 CURRENCY and a half-eaten pack of SNACKS.
+EMPLOYEE: You expect me to take your chewed-up, COVID-flavored SNACKS in exchange for a PRODUCT?
+CUSTOMER: Seriously, though, this PRODUCT will change anyone's life.
+EMPLOYEE: You'd certainly change my life, in a positive way, if you left this store.
+CUSTOMER: Okay, okay! Final offer! 30 CURRENCY, a mostly full RCHAIN punch card, and a cameo from my uncle Greg.
+GREG: (enters stage right) Hi, my name is Greg. In CITY, born and raised. On the playground is where I spent most of my days.
+EMPLOYEE: I'm sorry. What is going on here?
+GREG: I was chilling out, maxing, if you will, relaxing super cool. And all playing some mad SPORT outside of the school.
+EMPLOYEE: That's not how the song goes.
+GREG: A couple of guys, maybe girls or FCREATURES who were up to no good, started making trouble in my neighborhood.
+EMPLOYEE: Please get out.
+GREG: You're welcome, America. (exits stage right)
+CUSTOMER: That’s Greg. He does birthday parties and divorces.
+EMPLOYEE: (angers) No more deals. This is a store, not a back-alley casino!
+CUSTOMER: I see I’ve met my match. Guess you leave me no choice. I will give you my beloved PETTYPE. They're truly priceless.
+CUSTOMER: But since I need this PRODUCT to survive, here you go.
+CPET: (enters stage left) Bark or meow, whichever you prefer, Sir.
+CUSTOMER: Okay. That's an actual human.
+CPET: I can do all sorts of favors.
+CUSTOMER: They're also my OCCUPATION, and highly obedient.
+CPET: One time, master forced me to eat so many SNACKS, that angelic voices told me to reach the bright light.
+CPET: But once they learned of my criminal record, they were like, "No thanks," and sent me back. It was only RNUMBER felonies.
+EMPLOYEE: $49.99.
+CUSTOMER: Deal.
+
+======
+
+INFORMATION ===============================
+ID: 1500
+TITLE: Loving Surprise
+AUTHOR: Critical Ren
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Living Room
+DATE: 02/03/25
+CHARACTERS ================================
+ROSE: Rose The Girlfriend:Center Stage
+MIKE: Mike The Boyfriend:Backstage
+CHILD1: Sunny (Child):Couch
+CHILD2: Zeke (Child):Couch
+CHILD3: Christian (Child):Couch
+UNCLE: Quinnley (Femboy Uncle):Backstage
+SUGGESTIONS =============================
+LUV: A word to express appreciation or love:Love, appreciate
+OBJ: A funny object:Stick, Rod
+SONG: A love song:Can't Help Falling In Love by Elvis Presley
+ACT: Something you would do with your partner:Kiss, cuddle, hug, smooch
+KID: An unusual or alternative way of obtaining children (past tense):Adopted, Storked 
+MOM: Something you would call your mom:mom, mother, momma, female parent
+DAD: Something you would call your dad:dad, father, papa, male parent
+UNC: Something you'd call your uncle:Uncle, unc, uncey
+GIFT: A gift for a partner:Hotpot coupon, cat, candy
+DIN: Name of a restraunt:Hottie's HotPot, QTSenpai's Femboy Hooters
+SCRIPT ==========================================
+ROSE: (Pacing back and fourth, stressed)
+CHILD1: MOM are you okay?
+CHILD2: Maybe there's another kid?
+CHILD1: I hope not...
+CHILD3: There's already 26 of us, if MOM KID another one of us-
+ROSE: There's not another child! (Stop pacing and look at the children)
+CHILD3: Sorry MOM , but what's going on?
+ROSE: I'm trying to surprise your father, something to show how much I LUV him, but I'm afraid he might not like it.
+CHILD2: That's today? I completely forgot you were doing that!
+ROSE: I want to take him out to eat somewhere, but i don't know where to take him...
+CHILD1: You could take him to DIN or something similar
+CHILD2: Some DIN sounds really good right now, to be honest
+CHILD3: What's DIN ?
+CHILD1: (Baffled) You don't know DIN ?
+CHILD3: (shaking head, embarrassed)
+ROSE: Whatever, who cares if they know DIN or not?
+ROSE: You guys aren't coming along, you're staying with your UNC while I got out with your father.
+ROSE: I'm going to go in the other room and try calling DIN to try to make a reservation for tonight. (step through side door and go back stage)
+CHILD2: We're getting left with the femboy?
+CHILD1: UNC ! We get to see UNC !
+CHILD3: Oh yay, haven't seen UNC in a few days.
+CHILD2: All he's gonna do is talk about his partner, don't get me wrong, I love uncle's wife, but he can't stop once he starts!
+CHILD3: Whomp Whomp
+TYPEWRITER: A few moments later.
+Meanwhile UNCLE: (Approach door on stage left)
+ROSE: (Enter stage right) Okay, i made the reservation at DIN , I've got the playlist set up for before we leave.
+ROSE: Starting with SONG of course, and I've got the GIFT ready, but I feel like I'm forgetting something.
+(heavy door knocking)
+UNCLE: (open the door and immediately enter, shutting the door behind you.) "I've got the 32 inch OBJ ! I managed to sneak it past Mike! But he's on his way in!
+ROSE: Of course I was forgetting the 32 inch OBJ ! I hope he likes everything, I'm so nervous...
+UNCLE: I know he will love everything, Rose.
+CHILD1: MOM he will love it, simply because you put the effort in to do this all for him.
+Meanwhile UNCLE: (Move by the couch)
+ROSE: I hope so, I really love him so much.
+Meanwhile MIKE: (Approach stage left)
+MIKE: (Open the door and enter casually) I'm home!
+ROSE: (Approach Mike, greeting him with a ACT ) Welcome home, my love.
+MIKE: (Reciprocate ACT ) I'm glad to be home, Quinnley kept me busy all day looking for new femboy clothes for his collection, can you believe it?
+ROSE: I very much can believe it, because I asked him to because I have a surprise for you!
+MIKE: Are we going to the lounge? are we going to the VRC Lounge, the best place ever?
+ROSE: No, but we are going to DIN tonight AND I have a gift for you!
+UNCLE: (Display the OBJ for Mike to see) Hey Mike, look what I got!
+MIKE: Is that a 32 inch OBJ ?!
+ROSE: Yep! And I've got something else. (Pick up the gift next to the couch and present it to Mike)
+MIKE: (Opening the gift, revealing a GIFT) Did you get me a GIFT ? That's so sweet of you, thank you babe.
+ROSE: I'm glad you like it, I was so afraid you wouldn't.
+CHILD1: (Same time as Zeke) Hi DAD
+Meanwhile CHILD2: (Same time as Sunny) Hey DAD
+CHILD3: Greetings DAD , I also still exist.
+MIKE: Helloooo Sunny, Zeke, and Christian.
+TYPEWRITER: Yes, that was a filler.
+(laughter)
+ROSE: It's almost time for us to get to DIN for supper, shall we leave now?
+MIKE: We shall. (turn to the door and exit.)
+Meanwhile ROSE: (Follow Mike out the door, and close it behind you.)
+UNCLE: So what do you guys want to do?
+Meanwhile MIKE: (Enter audience, facing the stage.)
+
+======
+
+INFORMATION ===============================
+ID: 1502
+TITLE: Photo or Die
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Backyard
+DATE: 03/03/25
+CHARACTERS ================================
+TINA: Tina:Center Stage
+JASON: Jason:Stage Right
+MARCUS: Marcus:Grill
+SUGGESTIONS =============================
+ADJT: An adjective:golden, fresh, wild
+BODYPART: A body part:arm, nose, waist
+SOCIALMEDIA: Name of a social media platform:Facebook, Instagram, Twitch
+ROBJECT: A random object:stapler, bucket, icecube
+INSECT: An insect (plural):bees, spiders, grasshoppers
+HUMAN: A type of human being (plural):women, men, janitors
+HNOISE: Noise a human makes (past tense):sneezed, farted, coughed
+FOOD: A type of food:hot dogs, cheeseburgers, sausages
+CELEBRITY: Name of celebrity:Michael Cera, Pee Wee Herman, Mike Myers
+SCRIPT ==========================================
+Happy music 1
+TINA: Babe, can you take a quick pic of me real quick?
+JASON: (eating) Can I swallow first?
+TINA: That's my line! Oh. Just real quick! The light is, like, so ADJT right now.
+JASON: I don't know what that means. Alright, I'm getting my phone out.
+JASON: (holding up camera) Say cheese!
+TINA: Wait. Ugh. No. My BODYPART looks weird. Also, the sun is bright.
+JASON: (confused) The sun is supposed to be bright.
+TINA: Yeah, but now it’s too much light. I hate the sun. Try a different angle.
+JASON: Fine.
+TINA: Ew. Now I look short.
+JASON: That's just how tall you are, Tina.
+TINA: Do you want me to look ugly on SOCIALMEDIA? Because that's what you're doing to me right now.
+MARCUS: Bro, blink twice if you need help. (pauses) That's a lot of blinking, actually.
+TINA: Babe, we need to find the perfect spot in the backyard.
+MARCUS: The ROBJECT-shaped tree in the corner would make a nice photo backdrop.
+TINA: Nobody asked you, Marcus. Every time you open your mouth, a swarm of INSECT come out, okay?
+TINA: Ooo, let's do one with me fake laughing while looking away (laughs weirdly)
+JASON: Who laughs like that?
+TINA: Rich, hot HUMAN on vacation! Duh. Just take it!
+TINA: Ugh. No. I need to look mysterious, like I'm the only one who knows who HNOISE in the elevator (poses).
+MARCUS: Nice shot, Jason. The FOOD are just about ready. Grab a plate!
+TINA: Seriously, Marcus? Your look like CELEBRITY, but melted wax.
+MARCUS: Damn. Rude. Y’all still at this?
+JASON: I don't even know what "this" is anymore, man.
+TINA: IDEA! Okay, I want to be mid-spin, hair flowing, kinda blurry but also sharp.
+TINA: And my dress needs to twirl at the exact right angle. I want to flash my BODYPART a bit.
+JASON: That’s not how cameras work, Tina.
+TINA: (agitated) Are you a camera, Jason? No, tell me. Are you?
+JASON: No, I'm not.
+TINA: Exactly. Just keep taking them till we get it! (pauses) Hmm... my eyes look open in this one.
+MARCUS: Because they are.
+TINA: Okay, you know what, Marcus? I wasn't going to say anything.
+TINA: But do humanity a huge favor, and please fall in a hole in this backyard and bury yourself.
+MARCUS: Damn.
+TINA: Okay. Okay. Last one. I swear, babe.
+JASON: That's what you said twelve pictures ago.
+TINA: No, no, this one's different. I want to take a photo of you.
+JASON: Absolutely not.
+TINA: Look, I know you're ugly. But if I share a photo of you side-by-side with me, I'll look prettier by contrast.
+JASON: We're breaking up.
+TINA: BABE.
+JASON: (exit stage right) Let me grab a FOOD real quick.
+MARCUS: You do look like a melted wax version of CELEBRITY, though. No cap.
+
+======
+
+INFORMATION ===============================
+ID: 1504
+TITLE: Breakup News
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: News
+DATE: 03/03/25
+CHARACTERS ================================
+BLAKE: Blake, News Anchor:News Desk
+LISA: Lisa, News Anchor:Center Stage
+CARLOS: Carlos, Sports Anchor:Fake Street Backdrop
+RON: Ron, The Weatherman:Narrator Podium
+SUGGESTIONS =============================
+NUMBER: A random number:4, 7, 13
+CURRENCY: A type of currency:alimony, tokens, Dogecoin
+RETAILSTORE: Name of retail store:Ross, JC Penny, Dollar Tree
+IRISHPUB: Name of an Irish pub:O'Malley's, McFinnigan's, Charlie's
+OCCUPATION: An occupation:Uber driver, life coach, elderly fisherman
+FCOUNTRY: A fictional country:Disappointia, Brokistan, Upper Chaosylvania
+VSPOT: A vacation destination:Hamptons, Maldives, Aspen
+ANIMAL: An animal:wolf, tiger, lynx
+CARTYPE: A brand of car:Corvette, Dodge Charger, Miata
+SPORTSTEAM: Name of a sports team:New York Jets, Chicago Cubs, Dallas Cowboys
+INSECT: Name of an insect:praying mantis, black widow, scorpion
+SCRIPT ==========================================
+World news intro
+BLAKE: Good evening, I’m Blake Carter.
+LISA: And I’m Lisa Monroe. And this is KCOC News, where we bring you the news honestly, accurately, and without any personal vendettas.
+LISA: Unlike some people, who bring you lies, deceit, and emotional damage every weeknight.
+BLAKE: Our top story tonight: a news anchor has been charged with breaking the heart of a beloved, reputable colleague.
+BLAKE: And yet somehow they posted bail immediately after serving time in the fiery pits of Hell.
+LISA: Sources say this may be a case of mistaken identity, as the real suspect is actually a deadbeat dad, who fathers NUMBER children.
+LISA: And this just in, he reportedly owes a Fort Knox ton of CURRENCY in child support.
+BLAKE: Speaking of financial responsibility, a local gold digger in a loose-fitting RETAILSTORE dress was spotted on a date.
+BLAKE: With an alleged investment banker. At least some financial markets still have stability.
+LISA: And in other news, a local loser was seen once again drinking alone at IRISHPUB after realizing he already drank all his lonely tears.
+LISA: Witnesses say he spent the evening ranting to the bartender and a OCCUPATION about how “some people just can’t commit.”
+BLAKE: In political news, the President of FCOUNTRY has announced a new economic plan.
+BLAKE: A plan focused on cutting back unnecessary expenses, something a certain female colleague is reportedly unfamiliar with.
+BLAKE: Experts say she booked a luxury spa weekend in VSPOT, presumably to wash away the guilt of her bad life choices.
+LISA: Mmm. Fascinating. Speaking of bad choices, a recent study has shown that male shortcomings are real, measurable, and widely acknowledged.
+LISA: The study confirms that men who wear drugstore cologne named ANIMAL Instinct tend to overcompensate.
+LISA: Scientists say this behavior is common among those who recently purchased a sad, little CARTYPE, despite having no discernible income.
+BLAKE: (exhales) Let’s check in with Carlos for sports.
+CARLOS: Please don't.
+BLAKE: Carlos, would you say Lisa’s dating life is like the SPORTSTEAM -- always making promises, never delivering, and constantly fumbling?
+CARLOS: I think I’d rather just talk about sports.
+LISA: (smug) Ah. So you’d know a thing or two about choke artists who choke under pressure.
+CARLOS: And let’s check in on the weather with Ron. Ron, uh… help me out here?
+RON: (muttering) Why me? Okay, weather! We have an icy cold front moving in from VSPOT.
+RON: Eerily similar to the cold, unfeeling heart of an INSECT with a weave.
+CARLOS: (Or the unfeeling heart of someone who once said, “I just need space,” but was seen kissing NUMBER men the next day.
+BLAKE: Booyah!
+LISA: (sarcastic) Wow, this is going great. I’m now being told by producers that massive layoffs are taking place after this very broadcast.
+BLAKE: The only ones affected are Lisa's multiple personalities.
+LISA: Well, that’s our report. Thanks for watching KCOC News. where we report the facts, except for the ones Blake conveniently forgets.
+BLAKE: And where we keep America informed, even when some people choose to lie through their teeth and still pretend they're a virgin.
+CARLOS: Do I still get to talk about baseball or?
+BLAKE: Good night.
+LISA: Good night.
+
+======
+
