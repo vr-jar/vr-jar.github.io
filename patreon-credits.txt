@@ -2080,7 +2080,6 @@ MDSblue
 NitteSwan 0884
 D3ADCRU7R
 Gtmustang5000 c
-~BloodRain~
 DҽαƚԋʅყVαιʅ
 Demonic_Puppy
 『°NesPixuDes°』
@@ -2845,6 +2844,7 @@ Mother Succubus
 KYUURYU 九龍
 NerdKingKrokus
 Z̶A̶N̶E̶
+~BloodRain~
 #TIER=3
 SidMarcus
 PinballReviewer
