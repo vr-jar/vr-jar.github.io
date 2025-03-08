@@ -2080,6 +2080,7 @@ Lεxi
 Iyelander
 Zelnex
 ｐｅａｒ
+anewgame
 modNick
 ruralists
 #TIER=1
