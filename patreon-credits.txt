@@ -874,7 +874,6 @@ Tepidsink
 UwUclover
 TheHollySky
 Elbrar
-ZackDevilwolf
 Shadowbitts
 X1SkyRider1X
 Trishiba
@@ -2070,6 +2069,7 @@ ExploringEve
 TGPixles
 SneakyGoomba
 Barb_TarboxBarb_Tarbox
+MimikZack
 modNick
 ruralists
 #TIER=1
