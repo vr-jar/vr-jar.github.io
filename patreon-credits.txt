@@ -2066,7 +2066,7 @@ Zelnex
 ｐｅａｒ
 anewgame
 ExploringEve
-TGPixles
+MagicPickles
 SneakyGoomba
 MimikZack
 Barb_Tarbox
