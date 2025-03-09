@@ -2068,8 +2068,8 @@ anewgame
 ExploringEve
 TGPixles
 SneakyGoomba
-Barb_TarboxBarb_Tarbox
 MimikZack
+Barb_Tarbox
 modNick
 ruralists
 #TIER=1
