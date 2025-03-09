@@ -2072,6 +2072,7 @@ SneakyGoomba
 MimikZack
 Barb_Tarbox
 MagicPickles
+Goofy Gusher
 modNick
 ruralists
 #TIER=1
