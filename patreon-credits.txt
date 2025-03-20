@@ -275,6 +275,7 @@ Yapple Dapple
 H0micidal_manIc
 Vernas
 爪卂尺尺 几æㄒ卂
+MentalDebuff
 ࿇ ZOM ࿇
 RicterNova
 ϟamhain
@@ -2704,6 +2705,7 @@ Roffold
 BabyCakezz92
 sonicboom14622
 _-Kurama_
+Horrormare
 #TIER=2
 saika mujuuk
 Psych_Foxtrot
