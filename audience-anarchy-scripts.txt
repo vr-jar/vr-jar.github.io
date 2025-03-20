@@ -8530,8 +8530,8 @@ AGENT: (Nauseous) I think I'm turning into a SNAKE...
 INFORMATION ===============================
 ID: 184
 TITLE: The Bakeoff
-AUTHOR: jay3409
-VERIFIED: False
+AUTHOR: Jay3409
+VERIFIED: True
 TAGS: Skit
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -37629,7 +37629,7 @@ CLERK: Yessssss, i am so smart, another great bargain
 INFORMATION ===============================
 ID: 1175
 TITLE: Bad Liar
-AUTHOR: Shamura_
+AUTHOR: Shamuraᴥ
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -45689,10 +45689,10 @@ SCRIPT ==========================================
 Narrator: i wonder when forrest will be here lily said
 forrest: *knocks on the door*
 lily: oh my darling must be here
-Narrator: lily opens the door for forrest
+Narrator: lily opens the door for forrest 
 forrest: hey darling~
 lily: lets have say gex 😏
-Narrator: Milly walks in with shock on her face
+Narrator: Milly walks in with shock on her face 
 milly: with my mom?? bffr
 
 ======
@@ -46732,8 +46732,8 @@ WARRIOR: Why didn't the guard want our MONSTER BODY PART 2?
 INFORMATION ===============================
 ID: 1531
 TITLE: The Parasocial Relationship
-AUTHOR: thatguynamedjacobyt
-VERIFIED: False
+AUTHOR: ThatJacobGuy_YT
+VERIFIED: True
 TAGS: Skit
 SET: Living Room
 DATE: 14/03/25
