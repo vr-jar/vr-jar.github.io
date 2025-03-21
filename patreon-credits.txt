@@ -2843,7 +2843,6 @@ NerdKingKrokus
 Z̶A̶N̶E̶
 ~R a y n e~
 Dradros
-Zømbie_Bøy
 #TIER=3
 SidMarcus
 PinballReviewer
@@ -2989,3 +2988,4 @@ lilwana
 Marionette_72
 lilanarchy07
 OperatorKilo
+Zømbie_Bøy
