@@ -44057,7 +44057,7 @@ TYPEWRITER: The two friends ran for a few minutes, before being eaten alive by a
 
 INFORMATION ===============================
 ID: 1427
-TITLE: Card Cheater
+TITLE: Card Eater
 AUTHOR: FangsCrayonBox
 VERIFIED: True
 TAGS: Skit
@@ -46045,99 +46045,112 @@ BST: The Beast:Backstage
 SUGGESTIONS =============================
 OLDNAME: Name for an old person:Harry, Crinkle, Old man Davis
 BESTNAME: A scary monster :Krill, Harpy, Tom
-ACTION: An action :jump, punch, Kick
+ACTION: An action :Hurl, Kick, Lick
 BOATNAME: A vehicle:boat, Tractor, Whip
 FUNNY: Something you do when you're bored:Hug a dog, watch a movie, cry
 SHOCK: Something you would be ashamed of doing (past tense):Peed The bed, Ate a shoe, Cryed 
 NUMBER: A number :5, 90, 25
 WORD: an adjective :Ugly, tall, Disgusting 
 ITEM: An item of worth:prayer beads, Phone, Fork
-ACTTWO: Something you would do to someone (Past tense):Hugged, attacked, Kissed
+ACTTWO: Something you can do to someone (Past tense):Hugged, attacked, Kissed
 TOWO: A body part(s):Legs, Lungs, Heart
-PERSON: A person you would meet:The President, Boss, Ed sheeran
+PERSON: A person you could meet:The President, Boss, Ed sheeran
 SCRIPT ==========================================
 Halloween music
-OM: Thank you little Timmy for joinin me out here tonight.
-CHD: Of course Uncle OLDNAME
-CHD: So why'd you bring me out here?
-OM: I Wanted to tell you a story
-CHD: ...Really?
-CHD: A story!?... Well, that's lame.
-OM: ahh.. But this story is real!
-OM: Tiz about a beast, I saw when I was out fishin one day.
-OM: Had me Jumping out of my BOATNAME !
-OM: It almost had me But i was able to escape to tell the tale.
-OM: That's what I'm here to tell you tonight.
-CHD: WOW, what happened Uncle OLDNAME
+OM: Thank you Little Timmy for joining me out here tonight.
+CHD: Well of course Uncle OLDNAME
+CHD: But why'd you bring me out here?
+CHD: In the forest, far from civilization, alone?
+OM: I wanted to tell you a story.
+CHD: ...Really? A story!?... That's lame.
+OM: Ahh... but this is a true story!
+OM: It was somethin truly horrifying.
+OM: Had me jumping out of my BOATNAME!
+OM: Almost didn't survive but I was able to escape to tell the tale.
+OM: That's why I brought you put here, to tell the tale.
+CHD: WOW, That sounds crazy Uncle OLDNAME what happened?
 OM: Well it all started way back when...
-OM: back when I still had all of my hair.
-OM: I used to FUNNY when I was bored.
+OM: Back when I still had all of my hair.
+OM: I used to FUNNY when I got really bored.
 waterphone
-CHD: Ew.. that's nasty dawg.
-OM: thanks Little Timmy, Anyways..
+CHD: Sounds like the dream uncle.
+OM: Thanks Little Timmy, anyways...
 Waltz Music
-OM: I got so bored one day i decided to go fishing.
-OM: So i got on my BOATNAME ... with my rod in hand.
+OM: I got so bored that one day I decided to go fishing.
+OM: So I got on my BOATNAME ... with my fishing rod in hand.
 OM: And set sail!
-CHD: Wooow... That sooo cool unc.
+CHD: God you're putting me to sleep uncle.
 OM: Let me finish dang it.
-OM: 2 hours of fishin, I aint caught nothin,
+CHD: Alright alright, calm your bald head, I'm Listening.
+OM: 2 hours of fishing, and I aint caught nothin,
 OM: So i was about to pack up when something caught my eye.
 OM: It was this, WORD Beast in the woods!
+OM: And when I tell you Just how WORD this beast was, it couldn't be compared.
 CHD: Ugh, that just sounds horrid!
 OM: it Truly was little Timmy...
 OM: So me and this, thing. was just staring at each other...
-OM: and just suddenly,
-OM: when I was slowly reaching for my ITEM.
+OM: Then all of a sudden,
+OM: When I was slowly reaching for my ITEM.
 OM: It...
 Thunder
 OM: IT ACTTWO ME!
 Vine Boom
-CHD: No Way Uncle! How Did You Survive!
-OM: Well its a bit embarrassing, but I had to SHOCK.
-CHD: ..ewwww thats nasty
-OM: Oh Shush Child!
+CHD: No way uncle! How did you make it out of there?
+OM: Well its a bit embarrassing,
+OM: But I had to SHOCK.
+CHD: ..ewwww uncle that's nasty!
+OM: Oh Shush up Child!
+OM: Aint like i had much of an option, you simple-minded, half-butter-eaten, smelly-toed, 4-eyed, yeast-sneezing boy.
 forest footstep
-OM: Hold on a minute little Timmy do you hear that?
-CHD: Huh, What are you on about uncle?
+OM: Hold on a minute Little Timmy, do you hear that?
+CHD: What are you on about uncle?
 forest footstep
 CHD: Wait a second, now I do...
 CHD: I'm scared uncle OLDNAME !
 Forest footstep
-OM: Stay close Little Timmy
+OM: Stay close Little Timmy, I'll make sure you're protected!
 Lacrimosa music
 BST: (Enter Stage) Hey Does Anyone know the Wi-Fi password!
 OM: Oh No! Its The Beast that ACTTWO me!
 OM: And Its just as WORD as last time.
 BST: I have a name you know...
 BST: It's BESTNAME.
-BST: And ouch...
-CHD: AH! Uncle its Mr. BESTNAME is it gonna ACTTWO me as well!?
-BST: No no, of course not little one
-CHD: Oh thank god
-BST: but i will ACTION you though.
+BST: And ouch... kind of hurtful.
+BST: Don't you know I have feelings too, How rude.
+CHD: Uncle OLDNAME is BESTNAME gonna ACTTWO me as well!?
+BST: No no, why of course not little one.
+CHD: Oh thank god.
+BST: That's right little one, so silly you are.
+CHD: Haha ah well that's a relief had me there for a second
+BST: Yeah haha, its a shame though.
+CHD: Wait, what's a shame?
+BST: Oh, its just I have to ACTION you instead.
 Vine Boom
-CHD: Wait, What?
+CHD: Wait, What!?
+CHD: Oh God! I don't want you to ACTION me! (Cry)
 OM: I Will Not Let that happen as long as I'm here!
 draw sword
-OM: (Pull out a sword) I will not let you ACTTWO little Timmy
+OM: (Pull out a sword) I will not let you ACTION little Timmy.
 epic fantasy music 3
 OM: I Have trained for over NUMBER weeks under the sword!
 OM: Just so i can take you down, as revenge for what you did to me!
-OM: So Come At Me BESTNAME !
+OM: So Come At Me BESTNAME!
 BST: (laugh)
 BST: Well aint that Cute. (pull a gun out)
 record scratch
-OM: wait.. what..
-BST: Welcome to America ( Shoot OLDNAME )
+OM: Wait.. what..
+BST: Welcome to America No hair having crazy eyed whale hugger ( Shoot OLDNAME )
 Gunshot
-OM: AHK! dang.. it.. he shot my TOWO (die)
+OM: AHK! dang.. it.. he shot my TOWO (fall to the floor)
 CHD: UNCLE OLDNAME !!!
-Piano theme
-CHD: Noo! You cant be dead! (Cry)
-BST: Alright kid that's enough lets go, I've gotta go meet up with PERSON soon.
+emotional piano music
+CHD: No! Uncle You cant be dead! (Cry)
+OM: Its gonna be okay Little Timmy.. Surly BESTNAME will go easy when he ACTION you.. (die)
+CHD: No.. Uncle OLDNAME ..
+BST: Alright kid that's enough lets go, I've got to go meet up with PERSON soon.
 vine boom
-CHD: He didnt even finish his story...
+CHD: (look at now dead uncle) I cant believe it...
+CHD: He never even finished the story...
 
 ======
 
@@ -47585,6 +47598,203 @@ DILL: Huh?
 DET: Come on let's go. (drags suspect out of room)
 Meanwhile DILL: (gets dragged out of the room)
 TYPEWRITER: ALIAS spent the rest of his days in the phycological facility
+
+======
+
+INFORMATION ===============================
+ID: 1559
+TITLE: Otherworldly Abduction
+AUTHOR: KateDT
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+DATE: 24/03/25
+CHARACTERS ================================
+ALIEN: Alien abductor:Entrance Stage Right
+HUMAN: Abducted human:Chair
+SUGGESTIONS =============================
+NAME: A name for a regular guy:John, Alex, Nick, Sebastian, Tucker, Harvey, Jack, Seth
+NUMBER: A big number (only letters):million, thousand, crazy amount, ton, billion
+SHOW: A TV show:Breaking Bad, Amazing World of Gumball, Adventure Time, The Simpsons, Family Guy
+THING: A everyday thing that humans deal with:Taxes, Weather, Love, Megalomaniacs
+ACTION: A normally impossible action:Teleport, Fly, Swim in lava, Eat glass, Listen to Thick of It
+ALIENWORLD: Name for a alien world:Aziegl, Nevariv, Adrevol, Urasai
+OTHERNAIM: Any name:Liv, Liam
+SCRIPT ==========================================
+HUMAN: (Confused and dazed.) What... where... where am I....?
+HUMAN: (Quietly groan.) What is this place...?
+ALIEN: (Enter stage and close the door behind you.)
+(Scary music)
+HUMAN: W-who are you? W-what are you?? Oh god...
+ALIEN: (Slowly approach the table.)
+HUMAN: P-please don't eat me! O-or dissect me!
+ALIEN: (Chuckles casually.) What? Dissect?
+ALIEN: (In a casual, upbeat voice.) NAME, right? Is this your first abduction, NAME?
+(Silly music 2)
+HUMAN: Uh... What? What are you talking about...?
+HUMAN: You're a alien?
+ALIEN: Uh, no. Obviously you're the alien, NAME.
+ALIEN: Just kidding. So, how's your day been so far?
+HUMAN: (Awkward silence.)
+ALIEN: Ah, I understand you're nervous, but I've done about a NUMBER of these, alright?
+ALIEN: Don't worry, you're gonna be fine.
+HUMAN: (look awkward and mutter.) What the hell is going on...
+ALIEN: So, earth. Do you know, uh, OTHERNAIM?
+HUMAN: Uh... who?
+ALIEN: From earth? Malaysia? OTHERNAIM, I think? (make a thinking pose.)
+HUMAN: Um... there are a lot of people with that name...
+ALIEN: (shrug.) Ah, okay, was worth a shot.
+ALIEN: Okay, could you cough for me?
+HUMAN: (Coughs)
+Teleport ALIEN to Corner Left
+ALIEN: Good. Hold your breath.
+Meanwhile HUMAN: (To your left.) Woah-
+HUMAN: (Gasp and hold your breath.)
+ALIEN: Alright. And hold your blood.
+HUMAN: (Exhale.) What?
+ALIEN: (Approach NAME and hold your hand out.) Alright, and look over here for me.
+Meanwhile HUMAN: (Follow his hand with your eyes.)
+ALIEN: (Move your hand to a different location.) And look over here.
+ALIEN: (Nod.) Kay, nice. And look in this dimension.
+ALIEN: (Point at the space next to you as if something's there.) And here.
+HUMAN: I don't see anything.
+ALIEN: Oh, shame.
+ALIEN: So THING, huh? You guys deal with that too?
+HUMAN: Uh, yeah? What is this all about? Why am I being abducted?
+ALIEN: Oh, it's just a basic routine check-up to see if human beings qualify as intelligent life.
+ALIEN: (Make a loud screaming noise.)
+Meanwhile HUMAN: (Look surprised and taken aback.)
+ALIEN: Can you hear that?
+HUMAN: Uh, yeah.
+ALIEN: Okay, how about this?
+(Alien Teleport)
+HUMAN: (Look around.) What was that...
+ALIEN: Our native language.
+ALIEN: Alright, great. Now let's get you out of that skin. Don't be shy~
+HUMAN: What..? I can't take my skin off.
+ALIEN: (Chuckle.) Oh right, humans, sorry.
+HUMAN: When can I go home?
+ALIEN: Hm? Afraid of missing something important? Don't worry, time moves at .2% in this space I've made for you.
+ALIEN: (Look around.) Looks pretty human-ey don't you think?
+ALIEN: So, does earth have TV shows?
+HUMAN: Uh... yeah?
+ALIEN: Great! What's your favorite?
+HUMAN: SHOW I'd say...
+ALIEN: Wow! I'll make sure to check that out later.
+ALIEN: Anyways, NAME, I'm going to do a quick scan so don't freak out alright?
+(Alien siren)
+ALIEN: Alright... I see...
+ALIEN: (Turn away and gasp.) What? That's not right, is it?
+ALIEN: Right... Okay. (Turn back to NAME.)
+ALIEN: Uh... this may be a little difficult to hear. Okay, NAME?
+HUMAN: Uh... okay... Give it to me straight.
+ALIEN: (Dramatically and slowly.) NAME... I'm afraid... you can't... ACTION
+HUMAN: Right, I could never do that.
+ALIEN: (Disappointed.) Right, on earth. But on ALIENWORLD...
+ALIEN: You won't be able to.
+Meanwhile HUMAN: (Nod)
+ALIEN: Well, look, you're welcome to try another abduction-
+ALIEN: but I've dealt with many people who have gone on to live full, happy lives without the ability to ACTION.
+ALIEN: I think you can learn to live without it.
+HUMAN: (Nod.)
+HUMAN: So... did I pass? Or-?
+ALIEN: Oh, no no no humans are idiots.
+(Peaceful fantasy music)
+ALIEN: (Soft and empathic.) But hey, that's not the only way we measure things.
+ALIEN: Human beings are miraculous creatures. So fragile, yet so resilient.
+Meanwhile HUMAN: (Nod in agreement.)
+ALIEN: Their existence shouldn't work. But somehow, for now, it does.
+Meanwhile HUMAN: (Nod in agreement.)
+ALIEN: Human beings though not intelligent life are somehow still capable of love and expression and... beauty.
+Meanwhile HUMAN: (Nod in agreement.)
+ALIEN: Human beings are like the universe looking back on itself.
+Meanwhile HUMAN: (Nod in agreement.)
+HUMAN: (Happy.) Wow. That was beautiful. Thank you.
+HUMAN: I'm never gonna forget that.
+(Music stops)
+ALIEN: (Touch NAME's head.) And tracking chip installed.
+ALIEN: (Brush over NAME's head.) And memory wipe complete.
+Meanwhile HUMAN: Wha- Ah- (Go limb, unconscious.)
+ALIEN: (To self.) Intelligent species... check.
+Teleport ALIEN to Backstage
+
+======
+
+INFORMATION ===============================
+ID: 1560
+TITLE: Thank-for-giving your opinion
+AUTHOR: RevLovelace
+VERIFIED: True
+TAGS: Skit
+SET: Dining Room
+DATE: 24/03/25
+CHARACTERS ================================
+DAD: The Father:Chair 1
+MOM: The Mother:Chair 2
+TEEN: Rebellious Teen Son/Daughter:Stage Right
+UNC: Grumpy Uncle Jerry:Entrance Stage Right
+SUGGESTIONS =============================
+EVENT: A famous historical event:The Gettysburg Address, 9/11, The Vietnam War
+CELEB: A famous celebrity:Jeremy Irons, Tom Green, Aubrey Plaza
+COMP: A large company:Microsoft, Proctor and Gamble, Toyota
+VERB: A verb ending in '-ing':punching, tipping, hugging
+ANIMAL: An animal:koalas, foxes, bears
+COND: A condiment:mayonnaise, limes, ketchup 
+HOBBY: A nerdy hobby or fandom:Doctor Who, Hazbin Hotel, Furries 
+BODY: A body part:Eyes, fingers, nipples
+ADJ: An adjective:funny, slimy, stupid
+FAM: A famous celebrity:Bill Cosby, Doug Stanhope, Dimitri Martin
+SCRIPT ==========================================
+christmas music 2
+applause
+MOM: Well, 'fam', (giggles obnoxiously) I must say this dinner is absolutely 'lit'! (giggles again and looks at teen)
+TEEN: I hate everything that you just said and I will write about it in my manifesto...
+laughter
+DAD: Honey, this meal is the best you've ever made!
+MOM: Well, I'm sure Uncle Ron will love to take some home with him.
+TEEN: Wait...Uncle Ron is coming?!
+MOM: Well, yes, dear-- he's coming for dessert!
+TEEN: He is insane! He believes that EVENT was a hoax made up by CELEB!
+DAD: Now, honey, it's the holidays and holidays are about family!
+knocking on door
+MOM: That must be him now so wipe that frown off your face! (goes to door to let Uncle Jerry in)
+UNC: (enters stage right and heads to table) Smells terrible in here...
+DAD: Great to see you, Uncle Jerry! Still working at COMP?
+UNC: Nope! Not anymore! Found out the owner of COMP actually believes EVENT happened! Absolute nutjob!
+MOM: Now, Uncle Jerry....we were hoping we'd have a calm dinner...
+UNC: You know what your problem is? You love to pretend people don't have different opinions or truths!
+UNC: I'll tell ya what-- let's go around the table and say one thing they think is unpopular that they believe or do.
+DAD: Uncle Jerry I don't think that's such a good idea...
+MOM: I think VERB ANIMALs should be legal!
+vine boom
+TEEN: Mom!!! That's absolutely terrible! There's no way you believe that!
+TEEN: ANIMALs don't deserve you VERB them!
+DAD: ...I actually think I agree your mother. VERB ANIMALs should be legal! I thought I was the only one!
+UNC: See! Now what about you? You're the man of the household. Speak your mind for once!
+DAD: Well...I like to put CONDIM on my steak.
+vine boom
+UNC: That's not too weird...I like to do the same thing.
+MOM: Sometimes I eat CONDIM by itself...
+vine boom
+DAD: ...I have never loved anyone more in my entire life.
+TEEN: Dad that is so gross! CONDIM belongs on french fries and sandwiches-- not steak!
+UNC: Kid, I've had it with your attitude. Why don't we hear your unpopular opinion, huh?
+TEEN: I don't have unpopular opinions only ones that are right and ignorant jerks like you think is wrong!
+TEEN: The only people who truly understand me are the people in the HOBBY fandom!
+record scratch
+MOM: ....you like HOBBY?
+DAD: I have never been so disgusted in my life. My own child...likes HOBBY?!
+UNC: We used to beat kids until their BODY fell off back in my day for liking stuff like HOBBY.
+TEEN: What's the big deal?! Plenty of people like the HOBBY fandom!
+MOM: You were a mistake.
+scary music
+DAD: We can't have a child that likes HOBBY living in this house...
+DAD: We're sending you to FAM's Home for ADJ Teenagers.
+UNC: Hear hear!
+TEEN: What?! No! Mom, dad-- I'm not the least bit ADJ I promise! I just like the HOBBY fandom!
+MOM: There it is again! My heart is breaking! Uncle Jerry-- I can't stand this anymore...beat them until their BODY falls off...
+UNC: With pleasure....
+TEEN: Nooooooo!
 
 ======
 
