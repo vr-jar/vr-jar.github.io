@@ -45062,6 +45062,81 @@ MON: (to the audience) Shhh.... (exit)
 ======
 
 INFORMATION ===============================
+ID: 1464
+TITLE: Work Trip
+AUTHOR: RevLovelace
+VERIFIED: True
+TAGS: Skit
+SET: Backyard
+DATE: 17/02/25
+CHARACTERS ================================
+CATHY: Cathy from Accounting:Entrance Stage Right
+JIM: Jim from sales:Grill
+TERRENCE: Terrence the office troublemaker:Backstage
+JERRY: Jerry from marketing:Center Stage
+SUGGESTIONS =============================
+PICNICFOOD: A typical dish at a barbecue:potato salad, egg salad, pickles
+INGREDIENT: An unconventional ingredient:raisins, hot sauce, celery
+ACTION: A verb ending in '-ing':licking, punching, eating
+OFFICE: A noun found in an office:copier, printer, computer
+BODYPART: A body part:wrist, knee, back
+COMPANY: A well-known company:Microsoft, Spencer's Gifts, Starbucks
+ACT2: A boring or unpleasant activity:do taxes, play scrabble, eat brusselsprouts
+SNACK: A party snack or dish for a barbecue.:poppers, hotdogs, ham salad
+ADJ: An adjective:funny, dumb, sick
+WEIRD: A strange action:get naked, gallop into town, bite a pony
+DRUG: A drug.:cocaine, bath salts, meth
+EXCLAM: An absurd exclamation:Oh fiddlesticks, Heavens to Mergatroy , doopawoop
+SCRIPT ==========================================
+guitar music 1
+JIM: This was a great idea to have a barbecue! I especially love the homemade PICNICFOOD you brought, Jerry!
+JERRY: It's an old family recipe! The secret is to add lots of INGREDIENT! Makes it taste gourmet!
+JIM: What's the matter, Cathy? You've been kinda quiet...
+CATHY: I just...I don't want to start any drama but...are you sure you should have invited Terrence...?
+JIM: What do you mean? Would have been rude to not invite him.
+JERRY: I mean...I kinda understand what Cathy means. Didn't you hear about what happened last week?
+JIM: No...what did Terrence do?
+CATHY: He got in trouble for ACTION the office OFFICE. He only got a slap on the wrist but the OFFICE still doesn't work the same.
+JIM: I mean...yeah the guy messed up by ACTION the OFFICE but I think this is the first office job he's ever had--
+JIM: I heard he worked at COMPANY before coming here and they might do things differently. Let's just give him a chance!
+door creak
+TERRENCE: (Enter stage left carrying something) Hey, guys! Thanks again for inviting me Jim!
+TERRENCE: This already seems a lot more fun than the other after-work parties I went to at COMPANY.
+TERRENCE: All those guys ever wanted to do was ACT2. It was fun for a while but definitely got old.
+JIM: Well, ACT2 sounds fun, too, but I hope we can have even more fun than that!
+JERRY: Say, Terrence, what did you bring for us to eat?
+TERRENCE: Just a plate of SNACK. I think you guys will really enjoy it...
+CATHY: I dunno-- gonna be hard to beat Jerry's PICNICFOOD! That extra INGREDIENT he adds in it really is amazing!
+TERRENCE: That does sound good but I do think you guys will get a kick out of this....
+CATHY: (Take some of the food Terrence brought making delighted sounds.)
+JIM: (Take some of the food Terrence brought making delighted sounds.)
+JERRY: (Take some of the food Terrence brought making delighted sounds.)
+JERRY: Wow, I hate to say it but this even beats my famous PICNICFOOD!
+JIM: How did you get the SNACK so flavorful?!
+TERRENCE: (Mischievously) Oh trust me-- it's about to get even better...
+CATHY: Say, guys...anyone else starting to feel kinda funny?
+JERRY: Is there any INGREDIENT in this because this tastes...wait...I'm feeling something too...
+JIM: Say, Terrence...why do I have the sudden urge to WEIRD?
+TERRENCE: Ha ha that is totally crazy! My bud, NAME, totally wanted to WEIRD the last time we did DRUG, too!
+record scratch
+70s music
+CATHY: ...you put DRUG in the SNACK?! Why would you do that?!
+JERRY: EXCLAM !! I don't want to be messed up on DRUG!
+JIM: Oh man... my BODYPART feels really ADJECTIVE....
+TERRENCE: Guys just relax-- it's perfectly normal for your BODYPART to feel ADJECTIVE when you're on DRUG.
+CATHY: Guys... I want to WEIRD now.
+JERRY: EXCLAM ! I just wanted to eat my delicious PICNICFOOD with INGREDIENT! (sobbing)
+TERRENCE: I mean, I thought you guys knew I did DRUG all the time? Didn't you hear that I ACTION the OFFICE? Totally someone on DRUG would do...
+CATHY: My BODYPART feels like it's about to fall off!
+TERRENCE: Just lean into it, guys. Tell ya what, since Jim suggested it-- let's go ahead and WEIRD.
+JIM: Terrence...I hate you with every fiber of my being. (lays on ground groaning.)
+JERRY: (sobbing)
+CATHY: My BODYPART! My BODYPART!!!!
+TERRENCE: Man...maybe ACT2 wasn't such a bad time after all.
+
+======
+
+INFORMATION ===============================
 ID: 1466
 TITLE: Seeing Eye "Dog"
 AUTHOR: LeDerp_64
@@ -46916,7 +46991,7 @@ RARE: A rare item:Playstation 7, Nuclear Warhead, Oscar Statue
 ITEM: An item a child would often use:Skateboard, Game Boy, IPhone
 HOLIDAY: A fictional holiday:Anger Day, National Malware Day, Decent Sunday
 SCRIPT ==========================================
-corporate guitar music
+jazz music 1
 SHOPPER: (look at the shelves) Aww come on. Where is it, where is it?
 CLERK: (to shopper) Can I help you?
 SHOPPER: (Walk up to checkout) Yeah. I'm looking for something you used to have but I can't find it anywhere.
@@ -46939,7 +47014,7 @@ SHOPPER: Where's that music coming from?
 SALESMAN: (enter store and and look at audience) Has this ever happened to you?
 SALESMAN: You try to find an item at a store but you can't, so you just get upset and fight with a poor cashier?
 SHOPPER: What is this? Are we in a commercial now?
-SALESMAN: Hey There! I'm NAME! Here for WEBSITE Online Shopping!
+SALESMAN: Hi There! I'm NAME! Here for WEBSITE Online Shopping!
 CLERK: Excuse me. You can't just come in here and shoot a commercial for some website.
 SALESMAN: Sure I can! (looks at shopper) What did you want?
 SHOPPER: Uhh... the spicy FOOD?
@@ -46947,7 +47022,7 @@ SALESMAN: Spicy FOOD hunh? This place doesn't have it, do they?
 SHOPPER: No. And it really annoys me!
 SALESMAN: Lucky for you we have all 30 flavors of FOOD on WEBSITE Online Shopping for half the price!
 SHOPPER: I didn't even know there were 30 flavors of FOOD. Woah!
-SALESMAN: We even have the EXOTIC flavored FOOD! Which is only sold in COUNTRY.
+SALESMAN: We even have EXOTIC flavored FOOD! Which is only sold in COUNTRY.
 CLERK: Wait I minute! I think I saw that flavor at STORE yesterday. Are you lying?
 SHOPPER: Do you guys have INEDIBLEs?
 SALESMAN: We have countless versions of INEDIBLEs. Only on WEBSITE Online Shopping!
@@ -46959,7 +47034,7 @@ SALESMAN: What's the matter? Are you jealous of the wide selection offered on WE
 CLERK: No I'm not. Do you have to say Online Shopping every time you say WEBSITE?
 SALESMAN: Yes I do or the shareholders will get mad at me.
 SALESMAN: Customers who don't use WEBSITE Online Shopping can end up like Minwage here.
-(Shark Tank Discussion Music 1)
+(Scary Music)
 CLERK: How do you know my name!? This is starting to freak me out!
 SHOPPER: Your name is Minwage? That is so sad.
 CLERK: It's still better than NAME!
@@ -46987,13 +47062,9 @@ SHOPPER: Yeah I did! And I'm going to WEBSITE Online Shopping where I can get wh
 SALESMAN: (Look at audience) Just remember folks, visit WEBSITE Online Shopping for the best deals on the net!
 SALESMAN: And you won't have to deal with rude employees who discourage your business! (exit the store)
 (Music Stops)
-CLERK: (Sigh) Finally they're gone... But as much as I hate to admit it... Now I'm curious.
-CLERK: I might check out WEBSITE when I get home... They could have cheaper prices than STORE.
-CLERK: Maybe I'll even find a new ITEM, relive the good ol' days.
-CLERK: But that NAME guy was definitely a liar.
-CLERK: EXOTIC flavored FOOD thats only sold in COUNTRY. Who do they think they're fooling?
-CLERK: I know I've seen it for sale here! I'm not crazy... Am I? Great! Now I have to check on the way home!
-TYPEWRITER: Minwage never did any of that. He forgot about WEBSITE went straight home and passed out.
+CLERK: Finally they're gone... That NAME guy was such an obvious liar.
+CLERK: But As much as I hate to admit it, I am curious now. Maybe I'll check out WEBSITE when I get home.
+TYPEWRITER: Minwage never did that. He forgot about WEBSITE, went straight home and passed out.
 
 ======
 
@@ -47602,6 +47673,274 @@ TYPEWRITER: ALIAS spent the rest of his days in the phycological facility
 ======
 
 INFORMATION ===============================
+ID: 1553
+TITLE: Planet Nature: Unfiltered
+AUTHOR: Reddicide
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+DATE: 23/03/25
+CHARACTERS ================================
+NAR: Narrator :Narrator Podium
+FEM: Female animal (same species as male):Stage Right
+MALE: Male animal (same species as female):Center Stage
+PRED: Predatory animal:Entrance Stage Left
+SUGGESTIONS =============================
+ANIMAL: Any wild animal:Elephant, Giraffe, Pigeon
+LOCATION: Any location:Russia, Norway, Chicago
+LATIN: silly Latin name or words:Turdus Maximus, Dorcus Titanus, Bonus Vampiris
+FOOD: Any food:Berries, nuts, hamburgers
+SOUND: Weird sound animals make:Bark, ribbit, click
+SM: Any social media:Twitter, Instagram, Reddit, Discord
+EMOJI: Any emoji:Poop, smiley face, winky face
+ADJECTIVE: Any positive adjective:Beautiful, Wonderful, Stunning
+EMOTION: Any positive emotion:Happy, Joyous, Excited
+NUMBER: Any number:Single, Multiple, 389
+CELEB: Any celebrity :Taylor Swift, Markiplier, Jesus
+PREDATOR: Any predatory animal:Crocodile, Lion, Hyena
+SCRIPT ==========================================
+australian music 1
+NAR: Here, we observe two wild ANIMALs frolicking in the dense forest of LOCATION.
+NAR: The ANIMAL, known scientifically as LATIN, is displaying classic mating behavior, trying to grab the female’s attention.
+MALE: (overexcited and dancing) Becky! Hey Becky! Becky!
+NAR: He attempts to impress her with food, and a dazzling showcase of his dancing mastery.
+MALE: (overexcited) Becky! Becky, look at all of this FOOD, Becky! Omg this is so much FOOD to eat, this is like the best day ever.
+MALE: Do you like the FOOD I got us, Becky? Do you?? Do you do you??
+FEM: (impressed) Omg this is amazing I’ve been craving for FOOD since Tuesday, this is the best day ever indeed! Thank you thank you thank you!!!
+NAR: The ANIMALs communicate through a series of SOUNDs, as well as dancing.
+MALE: (dancing) SOUND Did you update your SM yet? We should totally post about finding this FOOD.
+FEM: (dancing) Already did! Added like, seven EMOJI emojis and everything.
+NAR: Fascinating! The younger, female ANIMAL appears to be establishing dominance using modern technology!
+NAR: But wait! A predatory PREDATOR approaches them unexpectedly from the back!
+lacrimosa music
+PRED: (enter stage sneaking up from behind) Hmmmm yes protein walking protein very convenient very tasty hmmm yes
+NAR: The ANIMALs don’t realize there’s a hidden PREDATOR sneaking up on them.
+FEM: Does this photo make my butt look big? (shows phone to other ANIMAL)
+NAR: And in a shocking twist that happens every day in nature, the dangerous PREDATOR attacks the male ANIMAL!
+music stops
+anime sword gleam 1
+PRED: (attacks male ANIMAL)
+MALE: (gets attacked) SOUND!!!
+Meanwhile FEM: SOUND!!!
+MALE: Run Becky! Run for your life! Ruuuuuuunnnnnn!
+epic cinematic music
+PRED: (brutally attacking ANIMAL) MMMM YOU TASTE DELICIOUS
+MALE: SOUND Run for your life, Becky, Run!
+FEM: (run away off stage)
+NAR: Remarkable! The PREDATOR has captured one of our ANIMAL friends! Nature can be so cruel yet so ADJECTIVE.
+MALE: NO WAIT COME BACK! BECKY! I can’t believe you actually left me I was just trying to look heroic I didn’t mean it! BECKY! BECKYYYY!!!
+PRED: OM NOM NOM NOM NOM (eating the ANIMAL)
+MALE: NOOO I’m being eaten, this is the end! Goodbye, Becky! I must update this on my SM, quickly!
+MALE: (Take a selfie on smartphone) (Typing a SM post) "So long, my followers", send.….. blarg- (dies).
+PRED: Finally! Dinner time! My NUMBER children will feel so EMOTION!
+sad chug jug music
+NAR: And thus continues the circle of life, a cycle so cruel and yet so ADJECTIVE.
+Happy music 1
+NAR: Tune in next week when we observe the mating habits of the elusive CELEB and showcase just how ADJECTIVE they too can be.
+
+======
+
+INFORMATION ===============================
+ID: 1554
+TITLE: Daylight
+AUTHOR: Reddicide
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+DATE: 23/03/25
+CHARACTERS ================================
+BE: Overdramatic girl:Center Stage
+DE: Melodramatic boy:Center Stage
+SUGGESTIONS =============================
+GIRL: Typical girls name:Sally, Bell, Julie
+BOY: Typical boys name:Eddie, Peter, Marcus
+FOOD: Something you eat at a picnic:sandwiches, sausage, bread
+DRINK: Anything you'd drink:Martinis, Chocolate Milk, Sprite
+ADJ: A negative adjective:different, weird, ugly
+AJC: A positive adjective:pretty, beautiful, wonderful
+ACT: An aggressive action:Kill, Stab, Punch
+ATN: Any action you do to another person:Bite, Hug, High-Five
+BODY: Any body part:Neck, Forearm, Foot
+AGE: Any adjective OR number:17, paranoid, elastic
+MONSTER: Any monster or creature:Vampire, Werewolf, Mothman
+TOOL: Any weapon:Gun, Nunchuck, Wooden Stake 
+SCRIPT ==========================================
+dark classical music
+BE: (Seated down in the forest having a picnic) I'm glad you agreed to this picnic, BOY. Though it's a little cold, some sunlight wouldn't've ACTed us.
+Meanwhile DE: (Seated down in the forest having a picnic)
+DE: Haha yeah... definitely...
+BE: Would you like to start off with anything to drink? I brought water, juice, DRINK.
+DE: No thanks, GIRL, I'm not very thirsty for DRINK right now.
+BE: (Overdramatic sigh) Okay. Would you like anything to eat? I've brought plenty of food.
+BE: Sandwiches, fruits, brownies, FOOD, seriously! Dig in! I can't be the only one to eat it. (Offer FOOD)
+DE: No, I don't want any FOOD I'm not hungry.
+BE: (Overdramatic sigh and throw FOOD for no reason) You're *so* weird.
+BE: You never eat FOOD, you never drink DRINK, you avoid the sunlike like a midwestern goth kid in July.
+DE: GIRL-
+BE: You're freakishly fast and weirdly strong, and your skin is colder than my enthusiasm for math class.
+BE: And your eyes change colors more than the mood ring I got from a cereal box. (Dramatic gasp)
+BE: ...How old are you?
+DE: AGE
+BE: How long have you been AGE?
+DE: (dramatically) A while.
+BE: (dramatic gasp) I knew it...
+DE: Knew what?
+BE: What you are.
+DE: Then say it. Out loud.
+BE: You're...
+DE: SAY IT!
+BE: A MONSTER!
+thunder
+DE: Are you afraid?
+BE: N-no.... I trust you.
+DE: You shouldn't. (grabs her hand) Come with me.
+BE: (hand gets grabbed) Where are we going?
+DE: Into the clearing, somewhere dramatic. I need to show you something. (lead her off stage and loop around back onto stage)
+Meanwhile BE: (Follow him off stage and loop back around onto stage)
+De: (Change avatar and show GIRL your true form) This... this is what a ACTer looks like GIRL.
+DE: If they saw us like this, they'd know we're ADJ, they'd know we're MONSTERs.
+BE: BOY, You're... you're AJC
+DE: AJC? I was designed to ACT, GIRL. This is the appearance of a ACTer.
+BE: Have you ACTed before?
+DE: I've ACTed. And I'll ACT again.
+BE: Are you going to ACT me?
+DE: I *wanted* to.
+BE: What stopped you?
+DE: Self-control. And your dad's TOOL collection. That man is prepared.
+BE: (Overdramatic sigh) Ugh that's *so* lame.
+DE: You don't understand, GIRL, every second I’m around you, I’m resisting every urge in my body to lunge at you and ACT you.
+BE: Why not ATN my BODY and turn me into a MONSTER, just like you. That way, you don't have to keep fighting your urge.
+DE: You want me to ATN your BODY? You don't know what you're asking for.
+BE: I do. Make a MONSTER out of me, BOY, turn me into one of you.
+DE: I might not be able to hold back.
+BE: (dramatically sighs) That's like literally the point.
+DE: You don't understand what it's like to be ADJ, to be a MONSTER. To never be able to eat FOOD again, or to always be AGE.
+BE: FOOD? Never again? (Shakes head dramatically) Ugh. I don't care. I just want you and your ADJly AJC body.
+DE: You don't know what you're getting yourself into.
+BE: I think I do. Take me, BOY, ATN my BODY.
+DE: Don't say I didn't warn you. (Lunge at her and ATN their BODY).
+BE: (Get ATNed in the BODY and let out a dramatic gasp) Aahh...
+thunder
+
+======
+
+INFORMATION ===============================
+ID: 1557
+TITLE: Goldfish Memory
+AUTHOR: Reddicide
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 24/03/25
+CHARACTERS ================================
+OWNR: Pet store owner:Behind Register
+CUST: Customer with memory issues:Entrance Stage Right
+SUGGESTIONS =============================
+STORE: Name of pet store:Petco, Petsmart
+FISH: a fish you keep in a tank:Goldfish, betta fish, clown fish
+NAME: Generic name:Dave, Steve, Cody
+CATN: Name for a cat:Mr Tibbles, Lili Bella, Mrs Pickles, Perry Winkle Winkers
+FOOD: delicious food item:taco, pizza, burger
+PET: A hosehold pet:Dog, Cat, Lizard
+BUILDING: A type of building you live in:House, apartment, condo
+PAYMENT: Something you pay with:money, Gold
+1NUMBER: Any number:1, 15, 247
+BODY: any body part:hand, arm, leg
+ADJECTIVE: Any adjective:fascinated, amazed
+2NUMBER: any number:19, 6, 12
+SCRIPT ==========================================
+jazz music 1
+CUST: Ah, this pet store is looking great, I've never been inside before! What's it called? STORE?
+CUST: Wow, they have a large selection of FISH! (Go look at the shelves and observe the FISH)
+OWNR: (Sigh) Welcome back to STORE, are you here for another FISH, NAME?
+CUST: (Shocked and small gasp) How did you know I was here for a FISH? And that my name is NAME??
+OWNR: Listen, NAME, you need to get your memory problems sorted out. This is the 2NUMBERh Sunday in a row that you've came into this STORE to ask for a FISH.
+CUST: What? No, that can't be right. If that were true I'd have 2NUMBER FISH at home.
+OWNR: Yeah, you should! Do you?
+CUST: I think I'd notice a BUILDING full of FISH.
+OWNR: I don't know what you're doing with all of them, and at this point I should stop selling you these FISH, but I'm also desperate for PAYMENT.
+CUST: Now that I think about it I do have vague memories of getting a FISH, but if I really did have one, my PET CATN would watch guard!
+CUST: He's so ADJECTIVE by it, always watching guard. What a good PET!
+OWNR: ADJECTIVE by it like I'm ADJECTIVE by a FOOD.
+OWNR: But I'm warning you, when I'm financially stable enough, I'm going to stop funding this ridiculous routine. These FISH are pets, not PET treats.
+CUST: Well don't worry, I plan on making this FISH a pet, CATN will make sure to watch over it well. One FISH, please!
+OWNR: (mutters) Your PET probably marks it as `FISH delivery day` on its calendar.
+OWNR: (Checking out) Welp, that'll cost ya PAYMENT, I want 1NUMBER.
+meanwhile CUST: (getting checked out)
+CUST: Here's your PAYMENT. (gives)
+OWNR: Thanks. See you next Sunday, Dory.
+CUST: And thanks for the FISH! (leaves)
+OWNR: (calling out after customer) I recommend writing "I have a FISH" on your BODY when you get home!
+OWNR: (Sigh) (talking to self) At least I can exploit him and make the FISH cost him more PAYMENT every time without him realizing.
+
+======
+
+INFORMATION ===============================
+ID: 1558
+TITLE: Death by Karen
+AUTHOR: FangsCrayonBox
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+DATE: 24/03/25
+CHARACTERS ================================
+MAF: Mafia Boss:Corner Right 
+SUB: Mafia Subordinate :Chair
+KAR: Karen:Backstage
+SUGGESTIONS =============================
+CRIME: A serious crime:Murder, Piracy, Jaywalking, Drunk Driving, Shoplifting, Kidnapping
+GANG: The name of a crime organization:Team Rocket, Baggy Pants Mafia
+FOOD: A type of food:Pizza, Taco, Burger, Rice
+NAME: An online username:Super Karen 64, Jomama, WantsARefund32
+NUMBER: A number:10, 50, 100, 500, 999
+SOCIAL: A social media platform:Twitter, X, Facebook, Bluesky
+ORDER: A crime:Murder, Piracy, Jaywalking, Drunk Driving, Shoplifting, Kidnapping
+SCRIPT ==========================================
+noir music 1
+SUB: (Tied up) Boss, please. Can't we talk about this?
+MAF: Silence! You brought this on yourself.
+MAF: Your shameful actions have brought shame onto the GANG.
+SUB: But I was only following orders!
+MAF: Did I order you to screw up?!
+MAF: Failure is not tolerated in the GANG, no exceptions.
+MAF: Especially when your crime is as heinous as CRIME!
+waterphone
+SUB: Boss, please! I didn't mean to CRIME!
+SUB: I was following your orders to ORDER and it all went terribly wrong!
+MAF: Silence! No subordinate of mine could screw up so badly that they'd CRIME while trying to ORDER.
+MAF: You're out of the GANG, and we can't have loose lips sinking our ship.
+MAF: It's time for the ultimate punishment.
+SUB: No... please! Anything but that!
+MAF: Release the Karen.
+teleport KAR to Entrance Stage Right
+KAR: The service here is terrible!
+SUB: Please, I can do better next time!
+MAF: There won't be a next time.
+KAR: (Enter Stage Right)I demand to speak with a manager!
+MAF: Of course, that's gonna be this guy right here. (Point to subordinate)
+MAF: You two have fun. I'm gonna go help out with the FOOD restaurant we're using as a front here. It's gonna be a bit... under-staffed.
+MAF: (Exit stage right)
+Music Stops
+lacrimosa music
+KAR: Do you have any idea who I am or what I've been through?
+KAR: I came here for some good, cheap, FOOD, but all I've gotten is horribly mistreated!
+SUB: I'm sure our staff was doing their best.
+KAR: Your staff charged me full price for my meal, even after I told them who I was!
+KAR: I am NAME! That's right, the very same NAME with NUMBER followers on SOCIAL!
+KAR: I deserve respect! I deserve discounts! I deserve preferential treatment!
+SUB: Ma'am, everyone has to pay the same price as everyone else, no matter who they are.
+KAR: You will regret those words! In two minutes I can write a scathing review of this place on SOCIAL!
+KAR: I'll tell them all that I was forced to pay full price for FOOD before being chained in the back room after asking for a manager!
+KAR: And even then, the basic bread and water they fed me while I was chained up were miles better than your FOOD!
+KAR: My NUMBER followers will never eat here again and it will all be because you made me pay full price!
+SUB: Boss... I'm so sorry I failed the GANG.
+SUB: Please... just let me die...
+TYPEWRITER: NAME continued to lecture the "manager" until they both died of dehydration three days later.
+TYPEWRITER: Their NUMBER SOCIAL followers continued to eat at the mafia's FOOD restaurant.
+
+======
+
+INFORMATION ===============================
 ID: 1559
 TITLE: Otherworldly Abduction
 AUTHOR: KateDT
@@ -47795,6 +48134,168 @@ TEEN: What?! No! Mom, dad-- I'm not the least bit ADJ I promise! I just like the
 MOM: There it is again! My heart is breaking! Uncle Jerry-- I can't stand this anymore...beat them until their BODY falls off...
 UNC: With pleasure....
 TEEN: Nooooooo!
+
+======
+
+INFORMATION ===============================
+ID: 1562
+TITLE: Wrong Wedding
+AUTHOR: Reddicide
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Forest
+DATE: 24/03/25
+CHARACTERS ================================
+MO: Marriage Officiant:Center Stage
+GR1: Groom for another wedding:Center Stage
+GR2: Groom who shows up late:Entrance Stage Right
+BRI: Bride:Center Stage
+SUGGESTIONS =============================
+1GIRL: Atypical name for girl:Pencil Eater, Salandara, Jeffery
+2GIRL: Common name for girl:Sarah, Tilly, Mimi
+LOCATION: Name of a wedding venue:Church of Jesus, California Beach Venue, Rosewood Ballroom
+THING: Something at a wedding:food, ceremony, dinner, presents
+FOOD: Something you'd eat at a wedding:chicken wings, steak, cake
+WIN: something you'd win in a divorce settlement:Half your money, the kids, the dog
+PERSON: type of person:Woman, man, accountant
+1ACTION: Any action:Marry, Kick, Kill
+2ACTION : Any action:Kiss, Pinch, Lick
+APP: Any phone app:Uber, Tinder
+STORE: any store:Walmart, Nordstrom, 7-11
+WEDDING: A celebration or ceremony:Wedding, Coronation
+SCRIPT ==========================================
+church bell
+waltz music
+BRI: Oh my god, I can't believe he's late to our WEDDING! He's not gonna show up, is he??
+MO: Now now, 1GIRL, we can keep waiting if you'd like, I'm sure he'll show up eventually.
+BRI: Are you kidding me?? Practically everyone already left the venue! BOY's not showing up, ugh. I should've known better than to 1ACTION him.
+happy music 1
+GR1: (rushes onto stage out of breath) Ohh! So sorry I'm late 2GIRL!
+BRI: 2GIRL? Who the *hell* is 2GIRL?? (Slaps groom) Are you cheating on me with some broad named 2GIRL??
+meanwhile GR1: (get slapped by Bride)
+music stops
+MO: (writing notes) That's not in the traditional ceremony but I'm writing this down for future WEDDINGs.
+GR1: What are you on about 2GIRL?? You're- Oh my God you're not 2GIRL.
+vine boom
+BRI: No, I'm 1GIRL, and who the hell are you and why are you crashing my WEDDING??
+silly music 1
+GR1: *Your* WEDDING?? I was supposed to get 1ACTIONed to 2GIRL today! Where is she??
+BRI: I don't even know who the hell this 2GIRL person is.
+GR1: Is this not the LOCATION?
+BRI: No, this is the Willow Garden Venue!
+lacrimosa music
+GR1: Oh, dear God! None of the rehearsals prepared me for this! 2GIRL will never forgive me!
+BRI: Oh she'll never forgive you?? Try BEING the girl that got ditched at the altar!
+GR1: Oh man (pacing back and forth, putting hand in hair) This is a disaster, I've ruined my own WEDDING!
+MO: Well, technically you crashed someone else's first.
+GR1: UGH! All the planning, the flowers, the THING, the vows... and 2GIRL...
+BRI: Yeah, tell me about it. I was about to 1ACTION a guy who didn't even bother show up.
+GR1: 2GIRL would never forgive me for this, I already know she's going to refuse to 1ACTION me now.
+music stops
+GR1: So, I guess we're both single now.
+BRI: Yeah? What's your point?
+emotional piano music
+GR1: Well, we’re all dressed up, there’s a decorated venue, an officiant, and even FOOD. Seems like a shame to waste it.
+MO: Well, that's one way to meet someone. Personally, I prefer dating apps, but this works too.
+BRI: Are you sure? Didn't you want to 1ACTION 2GIRL?
+GR1: It was arranged. I liked her, but she won't 1ACTION me now, and I kind of like you a bit more anyways.
+GR1: So what do you say? Want to get 1ACTIONed?
+BRI: You know what? To hell with it, you seem like a nice guy. And if it doesn't work out, we can just divorce, and I'll take WIN.
+GR1: Fair enough, but I get to keep the WEDDING cake topper as a souvenir of our spontaneous story.
+MO: Oh, you're serious! Well, this is why I always say love is like APP - sometimes you just take whatever shows up first.
+MO: Alright let me start over then ahem, dearly beloved, we are gathered here today-
+BRI: Yeah, go on just skip it already get to the point; I heard it once today I don't need to hear it again, 2ACTION 2ACTION. (2ACTION the groom)
+GR1: (2ACTION the bride)
+MO: And by the powers invested in me, I now pronounce you husband and wife! I'd say you may 2ACTION the bride, but she beat me to it.
+GR2: (rush onto stage) I object!
+music stops
+vine boom
+GR2: 1GIRL, how could you do this to me?
+BRI: No, how could you do this to ME?? You stood me up at my own WEDDING! I don't even want to 1ACTION you anymore! He listens to me more than you ever have.
+epic fantasy music 2
+GR2: Oh yeah? Then I'll just have to fight for you! (Attack the other groom)
+GR1: (gets attacked) Hey get the hell off me! (Attack back)
+BRI: Stop it, stop fighting for me! I mean you can keep going I like the attention, but noooo stop!
+music stops
+GR2: I will fight for our love! (stop fighting)
+Meanwhile GR1: (Stops getting beat up)
+BRI: It's too late. We've already ACTIONed. If you really loved me, you should've arrived sooner.
+emotional piano music
+GR2: But what will I ever do without you? You're the only PERSON who's ever loved me! I even brought our special THING, like we planned! See?? (Shows it to her)
+BRI: You really thought THING could make up for what you did today??
+GR1: (to other groom) Actually, that looks pretty nice, where'd you get it?
+GR2: (to other groom) Oh I got it at STORE, it was on sale for a pretty good deal.
+BRI: I loved you before you decided to stand me up at my own WEDDING. Now leave so my new husband and I can eat this delicious FOOD together.
+GR1: (to the other groom) You know, I might be able to set you up with a bride who also got stood up at a WEDDING of her own.
+
+======
+
+INFORMATION ===============================
+ID: 1563
+TITLE: One More Case
+AUTHOR: Deus Ex Vulpes
+VERIFIED: True
+TAGS: Skit
+SET: Detective Noir
+DATE: 25/03/25
+CHARACTERS ================================
+GRUFF: Gruff Detective:Detective Chair
+DAMSEL: Wealthy Damsel:Entrance Stage Left
+SUGGESTIONS =============================
+CLOTHING: A piece of clothing:Tie, Hat, belt
+SMELLYTHING: Something that smells bad:a skunk, rotten eggs, a public bathroom
+MEANNAME: A tame or mildly insulting name:nincompoop, jerkwad, butt-face
+PETNAME: A cutesy name for a pet:Fluffy, Mimi, Bitsy
+PETANIMAL: An animal:dog, tiger, bird
+SAFEPLACE: Somewhere you can store things:Safe, closet, shoebox
+DISGUISE: A dirty job or occupation:plumber, sewer worker, butcher
+ACTIVITY: An action you usually do with someone else:dance, play games, do laundry
+RELATION: A family member or relative:sister, daughter, wife
+REWARD: Something you might spend a lot of money on:yacht, private island, extensive stamp collection
+SCRIPT ==========================================
+(noir music 2)
+GRUFF: (Writing at your desk, stop, and look at audience.) It was like any other night.
+GRUFF: A steady rain that endlessly tries and fails to wash the filth from this city. Or so I thought ...
+(knocking on door)
+GRUFF: We're closed.
+(heavy door knocking)
+GRUFF: (Annoyed sigh, walk to the door.) I said, we're closed!
+DAMSEL: (Enter Stage Left) Well, I see you haven't changed one bit.
+DAMSEL: (Walk past detective to the desk) Do you still keep a bottle of bourbon in your floorboards? And wear that stupid CLOTHING?
+GRUFF: (Sigh) You still remember all that, huh?
+GRUFF: (Look to audience) She was a pretty girl who had more dollars than sense. I hadn't seen her in years. Not since ... the incident.
+GRUFF: But here she was. They say desperation is a stinky cologne. And right now, I smelled SMELLYTHING.
+DAMSEL: Who are you talking to?
+GRUFF: What?
+DAMSEL: Who were you just talking to?
+GRUFF: No one, just- Look, what are you doing here?
+DAMSEL: I need your help.
+GRUFF: Really? (Scoff) I seem to recall you calling I was a MEANNAME and that you'd never come back here.
+DAMSEL: (sorrowful) Well ... people change. Look, this is serious. You remember my pet, PETNAME?
+GRUFF: You mean the PETANIMAL that ruined the interior of my car? How could I forget?
+DAMSEL: Hey! PETNAME didn't mean it. Besides, I paid for the repairs.
+DAMSEL: Anyway, what's important is PETNAME has been taken for ransom! (Hand a paper to the detective)
+GRUFF: You came to me to rescue your PETANIMAL?
+DAMSEL: It's not just that. I don't think they know, but PETNAME's collar has an extremely rare gem in it.
+DAMSEL: It's worth more than most people make in their lifetimes.
+GRUFF: (facepalm) ... And you put this valuable gem ... on your PETANIMAL? And not like, a SAFEPLACE?
+DAMSEL: Look, will you at least look into it? Please?
+GRUFF: You want me to look into this, after last time?
+DAMSEL: Yes.
+GRUFF: Cause last time I had to disguise myself as a DISGUISE.
+DAMSEL: I know.
+GRUFF: And then I had to spend a night with the Don's RELATION.
+DAMSEL: I know!
+GRUFF: Do you know how hard it is to ACTIVITY with someone twice your size?
+DAMSEL: Yes! I know! Well, I don't, but ...
+DAMSEL: (take detective by the hands) I'll give you anything you want if you do this for me.
+GRUFF: Anything?
+DAMSEL: Yes, anything. Money, a nice car, or even a REWARD.
+GRUFF: (Mumble to self before responding) Alright, Fine. I'll take the job.
+DAMSEL: Really?
+GRUFF: Yes. But first, you need to move over.
+DAMSEL: (confused, and takes a step to the side.) Okay ...?
+GRUFF: I need a drink before I start my work. And you're standing on the floorboard where I keep my drinks.
 
 ======
 
