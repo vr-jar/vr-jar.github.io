@@ -2094,6 +2094,7 @@ CYB3RT0N1C
 Trigger-012
 ﾂNͥaͣtͫsuﾂ
 Trezznor
+scorePN
 modNick
 ruralists
 #TIER=1
