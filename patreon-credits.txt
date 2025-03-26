@@ -2096,6 +2096,7 @@ Trigger-012
 Trezznor
 scorePN
 Azavier20
+EnderianFurry
 modNick
 ruralists
 #TIER=1
