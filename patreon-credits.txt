@@ -2078,7 +2078,6 @@ Trezznor
 scorePN
 Azavier20
 EnderianFurry
-Cryo-Blossom
 ʙʟᴇssᴇᴅ
 Call․Me․Chimp
 Strawberry-Kiwi
@@ -2678,7 +2677,6 @@ BabyCakezz92
 sonicboom14622
 _-Kurama_
 Artificer Mono
-SleepyRomance
 Shy_Skye73
 sjcsams
 AcherusKnight
@@ -2697,6 +2695,7 @@ iSleepyAshe
 FreedomLlama
 filters
 Baphys Comet
+SleepyRomance
 #TIER=2
 saika mujuuk
 Psych_Foxtrot
