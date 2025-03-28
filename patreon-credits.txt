@@ -2701,6 +2701,7 @@ filters
 Baphys Comet
 SleepyRomance
 Domfusion
+Feral Stella
 #TIER=2
 saika mujuuk
 Psych_Foxtrot
