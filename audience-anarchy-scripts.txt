@@ -47348,9 +47348,7 @@ SCRIPT ==========================================
 STREAMER: Hmmm... it's TIME. Which means it's time for my HOUR hour stream!
 STREAMER: (mess with TV) There we are. All ready for the stream.
 STREAMER: Hi chat! USER1 here! Today we're starting off with GAME1, and then we move on to GAME2, then we end off the stream by reacting to VIDEO on WEBSITE!
-STREAMER: (play game)
-STREAMER: USER2 thank you for the GIFT gifted subs!
-STREAMER: (resume playing)
+STREAMER: (While playing video game) USER2 thank you for the GIFT gifted subs!
 STREAMER: USER2 thank you for the MONEY1 dollar donation!
 (music stops)
 (knocking on door)
