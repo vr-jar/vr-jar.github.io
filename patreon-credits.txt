@@ -2823,7 +2823,6 @@ SunsetChaos
 uncle_cull
 Zerofourk 
 -Shikari-
-LunarMisery
 IsThatAKnife?
 FanFurryTastic
 PostMaloneLover
@@ -2852,6 +2851,7 @@ Dradros
 ღice-creamღ
 chezbergur
 KnightofNirn
+LunarMisery
 #TIER=3
 SidMarcus
 PinballReviewer
