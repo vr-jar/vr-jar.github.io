@@ -2652,7 +2652,6 @@ ManieTheBat
 -_Miss_Angel_00
 DEATHSKULL9191
 DearStarling013
-VinylMinty
 Legendryfo
 Catsie․
 Ink-Tale
@@ -2731,6 +2730,7 @@ ScarNight
 the bat hoovy
 MihàwkOfficial
 Shin-_
+VinylMinty
 #TIER=2
 saika mujuuk
 Psych_Foxtrot
