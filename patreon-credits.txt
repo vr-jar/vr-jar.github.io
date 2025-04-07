@@ -2005,7 +2005,6 @@ Trigger-012
 Trezznor
 scorePN
 Azavier20
-EnderianSub
 ʙʟᴇssᴇᴅ
 Call․Me․Chimp
 Strawberry-Kiwi
@@ -2096,6 +2095,7 @@ Calamity'sRuin
 Tʜᴇɢᴀᴍᴇʀ1230
 cocatmeowp
 pppppppooiy
+EnderianSub
 modNick
 ruralists
 #TIER=1
