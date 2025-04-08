@@ -394,7 +394,6 @@ ECrown
 Edusa
 ｓｔｒａｗｂｓ
 Fukaziroh
-~Spunky~
 sniperzone41
 GMNPrime
 PeanutBuddha
@@ -2087,6 +2086,7 @@ EnderianSub
 BMG Pestilence
 Coomsie
 Pandabear23
+Rоɡuе
 modNick
 ruralists
 #TIER=1
