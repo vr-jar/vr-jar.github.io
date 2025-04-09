@@ -36045,47 +36045,67 @@ ADJECTIVE: A word to describe something weird or bad:Cuckoo, Looney, Horrible
 SCRIPT ==========================================
 (Silly Music 2)
 BOSS: Come on! We need to think of a new game! Are we really going to let COMPANY beat us in sales!?
-OLD EMPLOYEE: I've got ideas sir! I haven't let you down yet have I? How about a new spin on GAME?
+OLD EMPLOYEE: Relax sir! I haven't let you down yet have I? How about a new spin on GAME?
 BOSS: No no no! It's been done And we'll probably get sued. Hmm (thinks) What if we try to make something in VR?
 BOSS: All the SUBCULTURE are into VR Games these days right?
 OLD EMPLOYEE: Now boss, you know how to sell this stuff but I know how to make this stuff. Just leave the ideas to me. There's not enough people in VR. it's just a fad.
 BOSS: We need to do something groundbreaking! We need something that will get peoples attention! A big hit!
-NEW EMPLOYEE: (enters room) I think I have just what you're looking for Chief!
+(Music Stops)
+(Shark Tank Walking Theme)
+NEW EMPLOYEE: (enters stage) I think I have just what you're looking for, Chief!
 OLD EMPLOYEE: (annoyed) Oh great, it's the new guy. What do you have this time? Another GENRE game that will fail?
-NEW EMPLOYEE: No! I think this new game is quite intuitive. Maybe if you actually listened to me once in a while you would find my ideas interesting.
+NEW EMPLOYEE: No. I think this new game is quite unique. You might find my ideas interesting if you actually listened to me.
 OLD EMPLOYEE: Pitch me an idea that will actually be a success and then we'll talk. I've won NUMBER awards for my concepts! I know what works, kid!
 NEW EMPLOYEE: Yeah but you're also known around the office as The NICKNAME. What does that say about you?
 BOSS: Enough! What's your idea, Newbie?
-NEW EMPLOYEE: (approach the boss) Hear me out Chief! I have an idea for a virtual reality game!
+(Shark Tank Discussion Music 1)
+NEW EMPLOYEE: (approach the boss) Hear me out, Chief! I have an idea for a virtual reality game!
 OLD EMPLOYEE: Reject it boss! We've been through this! There's no audience in VR! We would be better off making a game for CONSOLE!
 NEW EMPLOYEE: Oh hush! CONSOLE was huge back in the day! Anyway, It's a VR game where you can talk to people. Kind of like a virtual chatroom.
 BOSS: Umm... I think that's just VR Chat.
 OLD EMPLOYEE: What an amateur! That's just like my idea about a new spin on GAME. So you're stealing ideas from me now huh?
-NEW EMPLOYEE: Don't act like your ideas are worth stealing in the first place, NICKNAME
+NEW EMPLOYEE: Like your ideas are worth stealing in the first place, NICKNAME!
 OLD EMPLOYEE: At least I know what VR Chat is!
 BOSS: (mutters) I'm surrounded by children. (raises voice) Once again stop! Or both of you are getting SOMETHING instead of a paycheck this week.
+(Shark Tank Offer)
 BOSS: (looks at new employee) Do you have any other concepts?
 NEW EMPLOYEE: Hmm... (thinking) Well I have this one idea, it's also for VR.
 OLD EMPLOYEE: UGH I don't understand the world anymore. When did we stop trying to make money?
 BOSS: Let's hear it.
+(Shark Tank Serious Music 1)
 NEW EMPLOYEE: Okay so you act out these plays with scripts. There's an audience that can fill in missing words in the scripts. Kind of like madlibs.
 NEW EMPLOYEE: And those same audience members can join in and act too.
 BOSS: (nods) Hmm... there might be an idea there. Sounds like something the SUBCULTURE would enjoy.
 NEW EMPLOYEE: Not just the SUBCULTURE but also anyone who likes to act and have fun in plays too!
-OLD EMPLOYEE: (sarcastic) Yeah, real interesting idea! Sounds boring to me! It'll be so much fun watching other people have fun!
-BOSS: Come now, NICKNAME I think we actually may have something here. (looks at newbie) You have a name for this game?
+OLD EMPLOYEE: You forgot one important thing, newbie.
+OLD EMPLOYEE: Who's gonna write the scripts?
+NEW EMPLOYEE: Well will at the beginning. We can start with around NUMBER.
+NEW EMPLOYEE: But if the game gets big enough we can have the players write the scripts!
+OLD EMPLOYEE: Are you nuts!? That sounds dangerous! The players can't be trusted to do that!
+OLD EMPLOYEE: They'll probably write some weird story about SOMETHING. This is a ADJECTIVE idea!
+BOSS: Calm down, NICKNAME I think we actually may have something here.
+OLD EMPLOYEE: We absolutely do not! It don't sound fun! It's a game where you just watch other people play most of the time!
+OLD EMPLOYEE: And then we make them do our job by having them write more scripts?
+OLD EMPLOYEE: The SUBCULTURE won't go for that!
+BOSS: I disagree. I think we should try it! (Look at newbie) You got a name for this game?
 NEW EMPLOYEE: Well, not really but maybe we can call it... (thinks) oh! I know! How about NE AA NAME?
+(Shark Tank Offer)
 BOSS: I like it, but perhaps BO AA NAME could work as well.
-OLD EMPLOYEE: Unbelievable! This is a bad idea, boss! It's boring. No one will play it! 
+(Shark Tank Offer)
+OLD EMPLOYEE: Unbelievable! This is a bad idea, boss! It's boring. No one will play it!
 OLD EMPLOYEE: You're really gonna go with this... this... ADJECTIVE concept!?
-OLD EMPLOYEE: It's just anarchy with an audience! I don't know if you can even make a standalone game out of an idea that thin!
-OLD EMPLOYEE: We might as well make it a VR Chat map or something.
-BOSS: You know that's not a bad idea! We should make it as a VR Chat map!
+NEW EMPLOYEE: You said that already.
+OLD EMPLOYEE: Well there's no other way to describe it!
+OLD EMPLOYEE: It's just anarchy with an audience! I don't know if we can make a standalone game out of that idea!
+OLD EMPLOYEE: We might as well make it a VR Chat map or something!
+BOSS: You know, that's not a bad idea! We should make it a VR Chat map!
 OLD EMPLOYEE: What!? No!? That was a joke!
-BOSS: Congrats newbie we'll start development on BO AA NAME right away! (shake New Employee's hand)
+BOSS: Congrats newbie! We'll start development on BO AA NAME right away! (shake newbie's hand)
+(Shark Tank Deal)
+(Shark Tank Positive Music)
 NEW EMPLOYEE: Glad you're on board, Chief! I believe folks will really like this too. But I still think we should call it NE AA NAME.
 BOSS: Don't push it, you're still new here.
-NEW EMPLOYEE: Fine (look at old employee) Since you seem to know about VR Chat I guess you'll be making the map? 
+NEW EMPLOYEE: Fine (look at old employee) Since you seem to know about VR Chat I guess you'll be making the map?
 BOSS: It was their idea to make it a VR Chat map so they will be building it. Get to work NICKNAME!
 OLD EMPLOYEE: UGH! I hate my job!!
 
@@ -42415,7 +42435,7 @@ DADAP: Wowwwwiee!!!
 INFORMATION ===============================
 ID: 1376
 TITLE: R.I.P MAD
-AUTHOR: APSI-wizard
+AUTHOR: Retarded Wizard
 VERIFIED: True
 TAGS: 
 SET: Classroom
@@ -46019,7 +46039,7 @@ TYPEWRITER: The CON has no games.
 INFORMATION ===============================
 ID: 1491
 TITLE: Something Unforgettable
-AUTHOR: APSI-wizard
+AUTHOR: Retarded Wizard
 VERIFIED: True
 TAGS: 
 SET: Conference Room
@@ -46646,6 +46666,7 @@ GENERIC-BOY: a generic boy name:John, Jack, Bob
 GENERIC-GIRL: a generic girl name:Sue, Jill, Rose
 AMOUNT: A numerical amount:10, 500, 35, 2002
 COMPANY: A Company name:Amazon, McDonalds, NASA
+BODYPART: A Part of the Body:Bone, Finger, Toe
 SCRIPT ==========================================
 (Jazz music 1)
 LYN: It's been so long since we’ve had an acting job.
@@ -46661,7 +46682,8 @@ LYN: Because Logan, this is the only job within LENGTH that I could find.
 LOGAN: I know that, I mean why here. As In, why are we here, in the middle of nowhere?
 LYN: Ohhhhh.
 LYN: I’m not quite sure.
-DIRECTOR: (forest footstep)(Enter stage right) Ahhhh, Hello there I hadn’t expected any one to be out here so early.
+(forest footstep)
+DIRECTOR: (Enter stage right) Ahhhh, Hello there I hadn’t expected any one to be out here so early.
 LYN: Who are you?
 DIRECTOR: I am NAME, play-writer and director, and you are.
 LYN: I’m Lyn and that’s Logan, I take it this is your ad.(hand over paper)
@@ -46687,7 +46709,7 @@ DIRECTOR: It all started when my parents met.
 LOGAN: Not that beginning, the one where you began writing.
 DIRECTOR: Oh, sorry.
 DIRECTOR: When I was young, I had a dream, to be the best play-write there ever was.
-DIRECTOR: Unfortunately, I had not a single creative BODY-PART. Thus, I could not write an original screenplay.
+DIRECTOR: Unfortunately, I had not a single creative BODYPART. Thus, I could not write an original screenplay.
 LOGAN: So then you had the idea to disguise someone else’s work as your own and hope no one would notice.
 DIRECTOR: Precisely, But you saw through the guise, so now I’ll never make it.
 LYN: If you want, we can still do the play, just give proper credit, and just tell everyone that it's your retelling instead of an 100% original.
@@ -47680,9 +47702,10 @@ SET: Forest
 DATE: 23/03/25
 CHARACTERS ================================
 NAR: Narrator :Narrator Podium
-FEM: Female animal (same species as male):Stage Right
+FEM: Female animal (same species as male):Center Stage
 MALE: Male animal (same species as female):Center Stage
 PRED: Predatory animal:Entrance Stage Left
+BIG: Bigger Male animal (same species as others):Entrance Stage Left
 SUGGESTIONS =============================
 ANIMAL: Any wild animal:Elephant, Giraffe, Pigeon
 LOCATION: Any location:Russia, Norway, Chicago
@@ -47693,9 +47716,9 @@ SM: Any social media:Twitter, Instagram, Reddit, Discord
 EMOJI: Any emoji:Poop, smiley face, winky face
 ADJECTIVE: Any positive adjective:Beautiful, Wonderful, Stunning
 EMOTION: Any positive emotion:Happy, Joyous, Excited
-NUMBER: Any number:Single, Multiple, 389
 CELEB: Any celebrity :Taylor Swift, Markiplier, Jesus
 PREDATOR: Any predatory animal:Crocodile, Lion, Hyena
+INGREDIENT: A food ingredient some people can't have:Gluten, Lactose, Meat
 SCRIPT ==========================================
 australian music 1
 NAR: Here, we observe two wild ANIMALs frolicking in the dense forest of LOCATION.
@@ -47709,28 +47732,57 @@ NAR: The ANIMALs communicate through a series of SOUNDs, as well as dancing.
 MALE: (dancing) SOUND Did you update your SM yet? We should totally post about finding this FOOD.
 FEM: (dancing) Already did! Added like, seven EMOJI emojis and everything.
 NAR: Fascinating! The younger, female ANIMAL appears to be establishing dominance using modern technology!
+NAR: But wait- what's this?? A larger male rival ANIMAL approaches!
+BIG: (swaggering in confidently) Step aside, undercooked romance--Becky deserves Gourmet, not some fast-food trash. Behold! (starts dancing)
+MALE: Oh, oh we're doing this now?? (starts dancing harder) I've learned everything there is to know about dancing from tutorials on SM.
+BIG: (flipping hair while dancing) My skin care routine has three steps and a mission plan.
+MALE: (keep dancing) He moisturizes?? Becky, I moisturize! Sometimes!
+BIG: (keep dancing) Didn't think you'd settle for *that* guy, Becky. I brought triple-cooked FOOD, and it's INGREDIENT free.
+NAR: A rare spectacle! Two males competing for dominance through excessive FOOD bragging and interpretive dancing.
+MALE: (dancing) INGREDIENT-free?? Becky's not even INGREDIENT-intolerant!
+FEM: I could be INGREDIENT-intolerant! For him...
+MALE: Uh, Becky and I already have plans dude. You need to back off.
+BIG: Plans? More like plant-based disappointment. Watch THIS! (does a very extra dance move)
+FEM: (Very flattered) Oh-oh wow! Okay, okay, this is... kind of amazing...
+NAR: The female appears to be visibly impressed. Whether by the FOOD or by the footwork, science may never know.
+BIG: (continues to do very extra dance) I took a contemporary movement class for this exact scenario.
+FEM: Oh my god, wait, hold on. (starts recording with phone) Do that again but like... slower. I'm totally posting this on my SM.
+BIG: Make sure to get my good side--No, better side-- No, spin and pose (dramatic spin before dramatic pose) Tag me @BigMoves69 underscore underscore.
+NAR: A bold move, advertising his tag mid-courtship. Truly, a creature of the digital age.
+BIG: (flip hair and dance even more dramatically) They said I was too passionate, too interpretive.... but I say, too ADJECTIVE.
+MALE: Becky! I'm emotionally available and physically mobile, look! (dancing harder) Remember the FOOD I got you! And the sparkle filter I used on our SM selfies!
+NAR: The smaller male intensifies his display, desperate and glistening with effort.
+NAR: He's combining movement and memory in a last-ditch effort to secure the female's attention.
+BIG: Becky! I already made us a shared playlist and synced our SM stories. Our auras are like, totally aligned.
+FEM: Oh my God I'm like so totally into you.
+MALE: But the sparkle filter, Becky! The sparkle filter!
 NAR: But wait! A predatory PREDATOR approaches them unexpectedly from the back!
 lacrimosa music
 PRED: (enter stage sneaking up from behind) Hmmmm yes protein walking protein very convenient very tasty hmmm yes
-NAR: The ANIMALs don’t realize there’s a hidden PREDATOR sneaking up on them.
-FEM: Does this photo make my butt look big? (shows phone to other ANIMAL)
-NAR: And in a shocking twist that happens every day in nature, the dangerous PREDATOR attacks the male ANIMAL!
+NAR: But as the dance battle escalate, danger approaches, and the ANIMALs don’t realize there’s a hidden PREDATOR sneaking up on them.
+FEM: Wait wait hold on, before I post, (shows phone to other ANIMALs) does this photo make my butt look big?
+NAR: And in a shocking twist that happens every day in nature, the dangerous PREDATOR attacks the smaller male ANIMAL!
 music stops
 anime sword gleam 1
-PRED: (attacks male ANIMAL)
+PRED: (attacks smaller male ANIMAL) Dinner time!
 MALE: (gets attacked) SOUND!!!
 Meanwhile FEM: SOUND!!!
 MALE: Run Becky! Run for your life! Ruuuuuuunnnnnn!
+Meanwhile FEM: (start running around in circles, panicking and SOUNDing)
 epic cinematic music
 PRED: (brutally attacking ANIMAL) MMMM YOU TASTE DELICIOUS
 MALE: SOUND Run for your life, Becky, Run!
+BIG: Should I like, help? Or is this one of those "let him grow from this experience" kind of things?
 FEM: (run away off stage)
 NAR: Remarkable! The PREDATOR has captured one of our ANIMAL friends! Nature can be so cruel yet so ADJECTIVE.
 MALE: NO WAIT COME BACK! BECKY! I can’t believe you actually left me I was just trying to look heroic I didn’t mean it! BECKY! BECKYYYY!!!
+BIG: This is clearly the universe telling me to vibe somewhere else. (backs away)
 PRED: OM NOM NOM NOM NOM (eating the ANIMAL)
+BIG: I support you emotionally, but not physically! (runs) Don't forget to tag me if you live!
+BIG: (leaving) Becky! BECKY! Don't worry Becky, I've got a backup FOOD stash and a playlist called "Survival", each song was hand selected by CELEB. (exit)
 MALE: NOOO I’m being eaten, this is the end! Goodbye, Becky! I must update this on my SM, quickly!
-MALE: (Take a selfie on smartphone) (Typing a SM post) "So long, my followers", send.….. blarg- (dies).
-PRED: Finally! Dinner time! My NUMBER children will feel so EMOTION!
+MALE: (Take a selfie on smartphone) (Typing a SM post) "So long, my followers, #FinalPost #BeckyLeftMe #NaturesAVillain," send.….. blarg- (dies).
+PRED: Finally! Dinner time! My many children will feel so EMOTION!
 sad chug jug music
 NAR: And thus continues the circle of life, a cycle so cruel and yet so ADJECTIVE.
 Happy music 1
@@ -47764,21 +47816,21 @@ MONSTER: Any monster or creature:Vampire, Werewolf, Mothman
 TOOL: Any weapon:Gun, Nunchuck, Wooden Stake 
 SCRIPT ==========================================
 dark classical music
-BE: (Seated down in the forest having a picnic) I'm glad you agreed to this picnic, BOY. Though it's a little cold, some sunlight wouldn't've ACTed us.
+BE: (Seated down in the forest having a picnic) I'm glad you agreed to this picnic, BOY . Though it's a little cold, some sunlight wouldn't've ACTed us.
 Meanwhile DE: (Seated down in the forest having a picnic)
 DE: Haha yeah... definitely...
 BE: Would you like to start off with anything to drink? I brought water, juice, DRINK.
 DE: No thanks, GIRL, I'm not very thirsty for DRINK right now.
 BE: (Overdramatic sigh) Okay. Would you like anything to eat? I've brought plenty of food.
-BE: Sandwiches, fruits, brownies, FOOD, seriously! Dig in! I can't be the only one to eat it. (Offer FOOD)
-DE: No, I don't want any FOOD I'm not hungry.
+BE: Sandwiches, fruits, brownies, FOOD, seriously! Dig in! I can't be the only one to eat all of this. (Offer FOOD)
+DE: No, I don't want any FOOD, I'm not hungry.
 BE: (Overdramatic sigh and throw FOOD for no reason) You're *so* weird.
 BE: You never eat FOOD, you never drink DRINK, you avoid the sunlike like a midwestern goth kid in July.
 DE: GIRL-
 BE: You're freakishly fast and weirdly strong, and your skin is colder than my enthusiasm for math class.
 BE: And your eyes change colors more than the mood ring I got from a cereal box. (Dramatic gasp)
-BE: ...How old are you?
-DE: AGE
+BE: What's your deal, BOY??
+DE: I'm AGE.
 BE: How long have you been AGE?
 DE: (dramatically) A while.
 BE: (dramatic gasp) I knew it...
@@ -47841,19 +47893,19 @@ CATN: Name for a cat:Mr Tibbles, Lili Bella, Mrs Pickles, Perry Winkle Winkers
 FOOD: delicious food item:taco, pizza, burger
 PET: A hosehold pet:Dog, Cat, Lizard
 BUILDING: A type of building you live in:House, apartment, condo
-PAYMENT: Something you pay with:money, Gold
-1NUMBER: Any number:1, 15, 247
+PAYMENT: Something you pay with:money, Gold, Robux
 BODY: any body part:hand, arm, leg
 ADJECTIVE: Any adjective:fascinated, amazed
-2NUMBER: any number:19, 6, 12
+GREAT: Any positive adjective:great, awesome, fantastic
+THING: Something expensive you'd want to buy:photo of Taylor swift, Gucci flipflops, pet Flamingo
 SCRIPT ==========================================
 jazz music 1
-CUST: Ah, this pet store is looking great, I've never been inside before! What's it called? STORE?
+CUST: Ah, this pet store is looking GREAT, I've never been inside before! What's it called? STORE?
 CUST: Wow, they have a large selection of FISH! (Go look at the shelves and observe the FISH)
 OWNR: (Sigh) Welcome back to STORE, are you here for another FISH, NAME?
 CUST: (Shocked and small gasp) How did you know I was here for a FISH? And that my name is NAME??
-OWNR: Listen, NAME, you need to get your memory problems sorted out. This is the 2NUMBERh Sunday in a row that you've came into this STORE to ask for a FISH.
-CUST: What? No, that can't be right. If that were true I'd have 2NUMBER FISH at home.
+OWNR: Listen, NAME, you need to get your memory problems sorted out. This is the 19th Sunday in a row that you've came into this STORE to ask for a FISH.
+CUST: What? No, that can't be right. If that were true I'd have 19 FISH at home.
 OWNR: Yeah, you should! Do you?
 CUST: I think I'd notice a BUILDING full of FISH.
 OWNR: I don't know what you're doing with all of them, and at this point I should stop selling you these FISH, but I'm also desperate for PAYMENT.
@@ -47863,13 +47915,13 @@ OWNR: ADJECTIVE by it like I'm ADJECTIVE by a FOOD.
 OWNR: But I'm warning you, when I'm financially stable enough, I'm going to stop funding this ridiculous routine. These FISH are pets, not PET treats.
 CUST: Well don't worry, I plan on making this FISH a pet, CATN will make sure to watch over it well. One FISH, please!
 OWNR: (mutters) Your PET probably marks it as `FISH delivery day` on its calendar.
-OWNR: (Checking out) Welp, that'll cost ya PAYMENT, I want 1NUMBER.
+OWNR: (Checking out) Welp, that'll cost ya PAYMENT, I want 40 for it.
 meanwhile CUST: (getting checked out)
 CUST: Here's your PAYMENT. (gives)
 OWNR: Thanks. See you next Sunday, Dory.
 CUST: And thanks for the FISH! (leaves)
 OWNR: (calling out after customer) I recommend writing "I have a FISH" on your BODY when you get home!
-OWNR: (Sigh) (talking to self) At least I can exploit him and make the FISH cost him more PAYMENT every time without him realizing.
+OWNR: (Sigh to self) At least I can exploit him and make the FISH cost him more PAYMENT every time without him realizing. Maybe I can finally afford the THING.
 
 ======
 
@@ -48140,7 +48192,7 @@ ID: 1562
 TITLE: Wrong Wedding
 AUTHOR: Reddicide
 VERIFIED: True
-TAGS: Skit,Contains Adult Innuendo
+TAGS: Skit
 SET: Forest
 DATE: 24/03/25
 CHARACTERS ================================
@@ -48155,23 +48207,24 @@ LOCATION: Name of a wedding venue:Church of Jesus, California Beach Venue, Rosew
 THING: Something at a wedding:food, ceremony, dinner, presents
 FOOD: Something you'd eat at a wedding:chicken wings, steak, cake
 WIN: something you'd win in a divorce settlement:Half your money, the kids, the dog
-PERSON: type of person:Woman, man, accountant
+PERSON: type of person:Woman, man, accountant, Bride
 1ACTION: Any action:Marry, Kick, Kill
 2ACTION : Any action:Kiss, Pinch, Lick
 APP: Any phone app:Uber, Tinder
 STORE: any store:Walmart, Nordstrom, 7-11
-WEDDING: A celebration or ceremony:Wedding, Coronation
+WEDDING: A celebration or ceremony:Wedding, Coronation, Quinceanera 
 SCRIPT ==========================================
 church bell
 waltz music
 BRI: Oh my god, I can't believe he's late to our WEDDING! He's not gonna show up, is he??
 MO: Now now, 1GIRL, we can keep waiting if you'd like, I'm sure he'll show up eventually.
-BRI: Are you kidding me?? Practically everyone already left the venue! BOY's not showing up, ugh. I should've known better than to 1ACTION him.
+BRI: Are you kidding me?? Practically everyone already left the venue! He's not showing up, ugh. I should've known better than to 1ACTION him.
 happy music 1
 GR1: (rushes onto stage out of breath) Ohh! So sorry I'm late 2GIRL!
 BRI: 2GIRL? Who the *hell* is 2GIRL?? (Slaps groom) Are you cheating on me with some broad named 2GIRL??
 meanwhile GR1: (get slapped by Bride)
 music stops
+record scratch
 MO: (writing notes) That's not in the traditional ceremony but I'm writing this down for future WEDDINGs.
 GR1: What are you on about 2GIRL?? You're- Oh my God you're not 2GIRL.
 vine boom
@@ -48186,7 +48239,7 @@ GR1: Oh, dear God! None of the rehearsals prepared me for this! 2GIRL will never
 BRI: Oh she'll never forgive you?? Try BEING the girl that got ditched at the altar!
 GR1: Oh man (pacing back and forth, putting hand in hair) This is a disaster, I've ruined my own WEDDING!
 MO: Well, technically you crashed someone else's first.
-GR1: UGH! All the planning, the flowers, the THING, the vows... and 2GIRL...
+GR1: UGH! All the planning, the flowers, the THING, the vows, the THING!!... and 2GIRL...
 BRI: Yeah, tell me about it. I was about to 1ACTION a guy who didn't even bother show up.
 GR1: 2GIRL would never forgive me for this, I already know she's going to refuse to 1ACTION me now.
 music stops
@@ -48202,9 +48255,9 @@ BRI: You know what? To hell with it, you seem like a nice guy. And if it doesn't
 GR1: Fair enough, but I get to keep the WEDDING cake topper as a souvenir of our spontaneous story.
 MO: Oh, you're serious! Well, this is why I always say love is like APP - sometimes you just take whatever shows up first.
 MO: Alright let me start over then ahem, dearly beloved, we are gathered here today-
-BRI: Yeah, go on just skip it already get to the point; I heard it once today I don't need to hear it again, 2ACTION 2ACTION. (2ACTION the groom)
+BRI: Yeah, go on just skip it already get to the point; I heard it once today I don't need to hear it again, 2ACTION me already. (2ACTION the groom)
 GR1: (2ACTION the bride)
-MO: And by the powers invested in me, I now pronounce you husband and wife! I'd say you may 2ACTION the bride, but she beat me to it.
+MO: And by the powers invested in me, I now pronounce you 1ACTIONed! I'd say you may 2ACTION the PERSON, but she beat me to it.
 GR2: (rush onto stage) I object!
 music stops
 vine boom
@@ -48217,14 +48270,14 @@ BRI: Stop it, stop fighting for me! I mean you can keep going I like the attenti
 music stops
 GR2: I will fight for our love! (stop fighting)
 Meanwhile GR1: (Stops getting beat up)
-BRI: It's too late. We've already ACTIONed. If you really loved me, you should've arrived sooner.
+BRI: It's too late. We've already 1ACTIONed. If you really loved me, you should've arrived sooner.
 emotional piano music
 GR2: But what will I ever do without you? You're the only PERSON who's ever loved me! I even brought our special THING, like we planned! See?? (Shows it to her)
-BRI: You really thought THING could make up for what you did today??
-GR1: (to other groom) Actually, that looks pretty nice, where'd you get it?
+BRI: You really thought that THING could make up for what you did today??
+GR1: (to other groom) Actually, that THING looks pretty nice, where'd you get it?
 GR2: (to other groom) Oh I got it at STORE, it was on sale for a pretty good deal.
 BRI: I loved you before you decided to stand me up at my own WEDDING. Now leave so my new husband and I can eat this delicious FOOD together.
-GR1: (to the other groom) You know, I might be able to set you up with a bride who also got stood up at a WEDDING of her own.
+GR1: (to the other groom) You know, I might be able to set you up with a PERSON who also got stood up at a WEDDING of her own.
 
 ======
 
