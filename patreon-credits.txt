@@ -1931,7 +1931,6 @@ onii-chan-
 Schizophrenik
 Dakotaap428
 alexlockizy9264
-NTF Lieutenant
 ~LÜNA~
 safferssss
 HarperHare
@@ -2085,6 +2084,8 @@ power_puffx
 ࿇ Lqin
 DivaHorns
 NUMBER K
+Snivo
+NTF Lieutenant
 modNick
 ruralists
 #TIER=1
