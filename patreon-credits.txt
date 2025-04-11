@@ -2090,6 +2090,7 @@ NUMBER K
 Snivo
 NTF Lieutenant
 ღPhantomTacoღ
+Purplestrider
 modNick
 ruralists
 #TIER=1
