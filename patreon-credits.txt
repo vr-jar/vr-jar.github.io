@@ -2686,6 +2686,7 @@ SD-isa
 FrostGen
 ViSoBla
 ༺ˢᵗᵃʳ༻
+~~~Noble~~~
 #TIER=2
 saika mujuuk
 Psych_Foxtrot
