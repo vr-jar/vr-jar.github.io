@@ -2093,6 +2093,7 @@ FLS host
 etouple
 Haywood Jablomi
 ʜɪɴᴅᴇʀ
+neachu
 modNick
 ruralists
 #TIER=1
@@ -2811,6 +2812,7 @@ Device Devil
 JaydenC2099
 sʟᴇᴇᴘʏʏʏ
 KatsumiKazuka
+endlux
 #TIER=3
 SidMarcus
 PinballReviewer
