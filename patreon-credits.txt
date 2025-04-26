@@ -2683,6 +2683,7 @@ Judus
 Alastor 8391
 _SandWich_
 lan626
+『ＦＲＯＳＴＹ』
 #TIER=2
 saika mujuuk
 Psych_Foxtrot
