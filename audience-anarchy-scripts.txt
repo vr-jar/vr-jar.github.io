@@ -32918,91 +32918,6 @@ GF: (scream in terror and run out stage right)
 ======
 
 INFORMATION ===============================
-ID: 1042
-TITLE: Disgraced Attorney
-AUTHOR: RinRuster16
-VERIFIED: True
-TAGS: Skit
-SET: Courtroom
-DATE: 16/08/24
-CHARACTERS ================================
-JUDGE: The Judge:Judge Chair
-EISNER: Mr. Eisner:Defendant Table
-WHRIGHT: Phoenix Wright:Plaintiff Table
-MILES: Miles Edgeworth:Defendant Table
-SUGGESTIONS =============================
-CRIME1: an outrageous crime:tax fraud, murder, theft
-EMOTE1: an emotion:happy, sad, mad
-OUT: something out of order:ice-cream machine, dispenser, car
-WHOOPEE: a noun:river, house, John
-CUSHION: an object:ball, shoe, string
-JIM: a nickname:jimmy boy, bobby boy, comrade 
-LIMB: a body part that can be used for tricks:hand, finger, thumb
-PRANK1: an item used for a prank:whoopie cushion, whipped cream, thumb tack
-SCHOOL: a type of school:elementary school, middle school ,high school 
-SCRIPT ==========================================
-(courtroom music)
-JUDGE: Will the defendant please rise.
-JUDGE: Mr. Eisner, you stand before this court of law accused of the crime very clearly caught on the security camera moments ago.
-WHRIGHT: do you mind telling us what he did, for the record..
-JUDGE: he put a PRANK1 on my chair during an important case, and it made a mockery of me.
-(vine boom)
-EISNER: Oh, this is just for that?
-EISNER: I thought this had something to do with the CRIME1.
-MILES: (clears throat) Shut the hell up.
-WHRIGHT: OBJECTION!
-JUDGE: Nothing's happened yet.
-WHRIGHT: Sorry, I- I got EMOTE1.
-WHRIGHT: It's just this is the most clear-cut, cut and dry, open and shut, copy and paste case I ever did see.
-WHRIGHT: I don't even know why the defendant and Mr. Edgeworth even bothered showing up,
-WHRIGHT: other than to make a mockery of this courtroom.
-MILES: Now that's just out of order!
-WHRIGHT: Wrong!
-(vine boom)
-WHRIGHT: If it were out of order, it'd be OUT.
-JUDGE: WRIGHT! Stop, sh- shut up.
-JUDGE: Make your opening arguments to the jury.
-WHRIGHT: Alright! ... uh, where the hell IS the jury?
-MILES: Making jury duty.
-(vine boom)
-WHRIGHT: Whatever. I'd like to call my first witness to the stand - Ms. Gale Tornado
-WHRIGHT: Uh...where is she?
-JUDGE: she had a WHOOPEE CUSHION accident with a stolen PRANK1.
-MILES: I've got a bad case of clussy-fever, and I wanted to make WHOOPEE with her CUSHION.
-JUDGE:Order, Mr. Edgeworth!
-WHRIGHT: well before the case she did specify someone stealing her PRANK1. (walk to Eisner)
-WHRIGHT: So Mr. Eisner, you maintain your innocence? (snickers)
-WHRIGHT: Well, I spoke to an old teacher of yours and she said you were quite the troublemaker in the classroom,
-WHRIGHT: always playing pranks.
-(vine boom)
-EISNER: That's not entirely true...
-(vine boom)
-MILES: Ooh! Too bad!
-MILES: Looks like Phoenix Wright was Phoenix STUPID!
-WHRIGHT: OBJECTION! He made fun of me.
-EISNER: I was a bit of a class clown back in SCHOOL, but I left that behavior behind me.
-WHRIGHT: Well I don't know about that, JIM !
-WHRIGHT: I thought that gag with CRIME1 was pretty funny! I guess you're still a bit of a prankster after all...
-(vine boom)
-WHRIGHT: I got you now you sussy baka.
-JUDGE: (Sarcastic) Any arguments, Mr. Edgeworth? HMM??
-MILES: Uh- j-just give me a second-
-WHRIGHT: Oooh, what's wrong, Miles? It seems like you're starting to lose your edge...worth.
-MILES: Cut the crap, Wright! Don't give me any more of your crap.
-WHRIGHT: Fair enough. (pisses himself)
-WHRIGHT: Heh. You didn't say anything about pee.
-(vine boom)
-MILES: The prosecutor may have fancy tricks up his sleeve like going potty on himself, but can he do this? (does LIMB related magic trick)
-WHRIGHT: Looks like the defendant has gotten out of control and started dismembering his own lawyer, LIMB by LIMB...
-(vine boom)
-MILES: i- HE'S RIGHT.
-JUDGE: i here by convict him guilty of hurting my feelings
-(aww)
-WHRIGHT: WELL! That's that one figured out!
-
-======
-
-INFORMATION ===============================
 ID: 1044
 TITLE: Rate a Quake
 AUTHOR: LeoHardy
@@ -35144,7 +35059,7 @@ LEAD: (looks out the window, hopeful yet wary) For the sake of all of us, let's 
 INFORMATION ===============================
 ID: 1091
 TITLE: Short service
-AUTHOR: RoboRailroad
+AUTHOR: R0b0Rilz
 VERIFIED: True
 TAGS: 
 SET: Restaurant
@@ -35350,7 +35265,7 @@ MOM: Time to make a lovely dinner of FOOD
 INFORMATION ===============================
 ID: 1096
 TITLE: From the Future
-AUTHOR: RoboRailroad
+AUTHOR: R0b0Rilz
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -35415,7 +35330,7 @@ TECH: What the hell just happened I need to call PERSON.
 INFORMATION ===============================
 ID: 1097
 TITLE: Unwanted gift
-AUTHOR: RoboRailroad
+AUTHOR: R0b0Rilz
 VERIFIED: True
 TAGS: 
 SET: Living Room
@@ -36625,7 +36540,7 @@ RADIO HOST: That being said have a lovely Halloween you stalkers! And remember t
 INFORMATION ===============================
 ID: 1130
 TITLE: Truth or dare game show
-AUTHOR: RoboRailroad
+AUTHOR: R0b0Rilz
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -42846,7 +42761,7 @@ DADAP: Wowwwwiee!!!
 INFORMATION ===============================
 ID: 1376
 TITLE: R.I.P MAD
-AUTHOR: Retarded Wizard
+AUTHOR: APSI-wizard
 VERIFIED: True
 TAGS: 
 SET: Classroom
@@ -46669,7 +46584,7 @@ TYPEWRITER: The CON has no games.
 INFORMATION ===============================
 ID: 1491
 TITLE: Something Unforgettable
-AUTHOR: Retarded Wizard
+AUTHOR: APSI-wizard
 VERIFIED: True
 TAGS: 
 SET: Conference Room
@@ -46726,32 +46641,6 @@ WIZARD: Now, go make us some merch.
 PLINK: On it, boss! (run behind the stage)
 PLINK: IS THAT THE MYTHICAL_MEME?
 WIZARD: no hadron just started singing MEME_SONG.
-
-======
-
-INFORMATION ===============================
-ID: 1493
-TITLE: MY MOTHER!?
-AUTHOR: ¿ԋσɳҽყ_ზҽαɾ?
-VERIFIED: True
-TAGS: Skit
-SET: Living Room
-DATE: 01/03/25
-CHARACTERS ================================
-lily: lily the mom:Center Stage
-forrest : Forrest lillys secret boyfriend :Front Door
-milly: Millys forrests best friend :Backstage
-Narrator : the story narrator :Narrator Podium
-SUGGESTIONS =============================
-SCRIPT ==========================================
-Narrator: i wonder when forrest will be here lily said
-forrest: *knocks on the door*
-lily: oh my darling must be here
-Narrator: lily opens the door for forrest 
-forrest: hey darling~
-lily: lets have say gex 😏
-Narrator: Milly walks in with shock on her face 
-milly: with my mom?? bffr
 
 ======
 
@@ -48755,7 +48644,7 @@ TYPEWRITER:FOREVER
 INFORMATION ===============================
 ID: 1550
 TITLE: Ultra Rap
-AUTHOR: Retarded Wizard
+AUTHOR: APSI-wizard
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -48950,118 +48839,6 @@ Meanwhile RICHIE: Do not vote for me!
 RICHIE: Make me lose!
 Meanwhile PRESIDENT: Let me lose!
 TYPEWRITER: PRESNAME would later win the presidency after;RICHNAME bought them exactly 270 electoral votes,;and no more.
-
-======
-
-INFORMATION ===============================
-ID: 1552
-TITLE: Experimental Interview
-AUTHOR: Reddicide
-VERIFIED: True
-TAGS: Skit
-SET: Conference Room
-DATE: 23/03/25
-CHARACTERS ================================
-BOSS: Boss interviewing Guy:Entrance Stage Right
-AST: Boss’s Assistant:Entrance Stage Left
-GUY: Guy Interviewing for job:Backstage
-SUGGESTIONS =============================
-JOBTITLE: A strange, unusual, or suspicious job title that you typically wouldn’t see:Biomass Recycling Specialist, Quantum Uncertainty Manager, Involuntary Productivity Specialist
-FIRE1: reason for getting fired:Drinking on the job, smelling customers armpits, eating other people’s lunches
-ANIMALS: Strange animals or creatures, plural:200ft man eating anteaters, sentient anemones, blood-thirsty chickens
-JOB2: any place to work at:Starbucks, Nordstrom, 7/11
-JOB3: any place to work at:Harley Davidson, Walmart, Target
-FIRE2: a reason to get fired:Wearing medieval armor,  taught the Company parrot curse words, accidentally creating a cult in the breakroom
-REASON: a reason a place may have to shut down:Had a rat problem, burned down, didn’t pay their employees
-CRIME: a horrible crime to commit:arson, serial killings, loitering
-DI: Something you don’t want to do:Fly a plane into an active volcano, Jump off a skyscraper, eat a bomb
-QUESTION: A question you wouldn’t ask in an interview as the boss:How long can you hold your breath underwater?, Do you believe in ghosts?, Would you rather fight one horse-sized duck or one duck-sized horse?
-IMPRESS: Something you'd say to try to impress the boss at an interview:I can chug 30 gallons of milk in an hour, I feed the squirrels, I can juggle really well, 
-JOB1: any place to work at:Wendy's, McDonald's, 7-11
-SCRIPT ==========================================
-Corporate guitar music
-BOSS: (Staring out the window, humming)
-break down door
-AST: (Bursts through the door) Sir! Sir! We’ve found another candidate for the JOBTITLE position!
-BOSS: Well that’s wonderful news! Does he meet our… specific requirements?
-AST: Yes, sir! No family, no credit, no dignity, and he’s desperate enough to sign anything without reading it.
-BOSS: Excellent! Bring him to my office. I would love to meet this Mr…?
-AST: It’s MAN, Sir, Mr MAN, I’ll go send him in at once. (Leaves the stage)
-Meanwhile BOSS: (Sits down to prepare interview)
-GUY: Hello! I’m here for my interview? Your assistant directed me here.
-BOSS: Ah yes! What position did you apply for again?
-GUY: I applied for JOBTITLE, sir.
-BOSS: Wonderful, wonderful! We’ve been... understaffed since our last intern's unfortunate spontaneous combustion.
-GUY: What happened to the last intern?
-BOSS: (stares in silence)
-Chainsaw
-GUY: What’s that chainsaw noise?
-BOSS: I’m the one asking the questions here. This is my interrogation I’m conducting!
-GUY: I thought this was an interview?
-BOSS: Interview! This is my interview I’m conducting!
-BOSS: So tell me a little about yourself. You know, strengths, weaknesses, anything we can exploit? What's your work history like? (Take vigorous notes)
-GUY: Well my name is MAN, I’m 23 and never learned how to ride a bike. I finished high school after being held back, then went to college, but dropped out.
-GUY: IMPRESS, and I also once tried to ship myself to Canada, but customs sent me back.
-BOSS: Hmmm I see, and your work history?
-GUY: (ignoring) So then I went to live with my Uncle Terry, but he had this weird collection of human teeth.
-GUY: He said they were from 'willing donors' but I had my doubts especially after finding that hatch under his rug with all the blood stains and scratches-
-Meanwhile AST: (about to run back onto stage)
-Break down door
-AST: (runs onto stage, interrupting meeting) Sir, it's time for your 2pm enhanced ANIMALS feeding. They’re getting restless and already ate one of the interns.
-Crashing debris
-BOSS: Get one of the other interns to feed them, it’s a good learning experience.
-AST: On it, sir (leaves and closes door)
-BOSS: I’m sure your Uncle Terry was a.. wonderful tooth fairy, but I think it’s time we started talking about your professional life.
-GUY: I worked at JOB1 for a few years before getting fired for FIRE1. Then I went to work for JOB2, but left because the office plants kept gossiping about me.
-GUY: Then, I went to work for JOB3 but they shut down because they REASON2. So I decided to go back to JOB1 but I got fired again, but this time for FIRE2.
-GUY: But in my defense, how was I supposed to know that many flamingos were illegal?
-BOSS: Interesting, interesting. How do you feel about tight spaces? Do you have any claustrophobia?
-BOSS: Or how about radioactive material? Does your body respond poorly to it?
-GUY: I’ve never had much of an issue with tight spaces, I rather kinda like them. Though, I’ve never been around anything radioactive.
-BOSS: Yes yes this is all very interesting! How’s your organ count, are you missing any? And are you scared of needles?
-GUY: Oh uhm well I had my left kidney stolen a few years ago when I went on vacation to Chicago, but otherwise I have the rest of them! Needles, not an issue.
-BOSS: Hmmm unfortunate about the Kidney but we’ll manage. And uh, what’s your blood type? O- correct?
-GUY: Well that seems a little personal for an interview...
-BOSS: Don’t question the questions, just answer them! On a scale of 1-10 how would you rate your pain tolerance? How attached are you to your current body?
-BOSS: How many hours can you remain submerged in gelatinous fluids? QUESTION?
-Meanwhile AST: (about to run back onto stage)
-Break down door
-AST: (Enter) Excuse me sir, the containment breach in sector 7 is getting worse. The ANIMALS have evolved opposable thumbs and learned to use the elevator.
-Fire alarm
-BOSS: Disable the elevators and lockdown Sector 7 until we can get an experienced exterminator.
-AST: (Exit)
-GUY: Listen, I may be weak, I may be slow, and I may not have the most impressive resume, but what I lack in experience I make up for in pure desperation.
-GUY: My entire life has been disaster after disaster after disaster, which just means I’m immune to workplace stress.
-GUY: Nuclear meltdown? Whatever. DI? My family reunions were worse. Need someone to crawl in a radioactive vent? I’m your guy! I’ll do anything you ask me to.
-GUY: I just really need this job because I’m currently living in the back of a totaled car eating ketchup packets for dinner since Uncle Terry got arrested.
-Meanwhile AST: (about to run back onto stage)
-Break down door
-AST: (Bursts in) Sir! The previous candidates in the holding tanks are starting to merge into a single consciousness again! Should I increase the sedative dosage?
-Explosion
-BOSS: For the love of- can’t you see we’re in an interview?! Yes! Double the dosage and get the psychic dampening field online!
-AST: On it, sir. (Leaves)
-GUY: Anyways, I know you guys seem kinda…. unorthodox... But I promise I’m good at keeping stuff secret! Plus, no one’s gonna believe me even if I do talk.
-GUY: This one time, my Uncle Terry got abducted by aliens but my parents refused to believe me and kept insisting he was arrested by the police for CRIME.
-GUY: But I know it was aliens, I saw it with my own eyes!
-BOSS: Hmmmm… (nod head) I like your spirit, kid. One final question - if you were to disappear tomorrow, how many people would actively search for you?
-GUY: Literally zero people, my roommate is a raccoon who keeps trying to steal all my ketchup packets. That bastard wouldn’t even miss me.
-BOSS: Perfect! Welcome to your new position as a JOBTITLE. Your orientation will begin at midnight tonight.
-BOSS: Don’t be late, don’t tell anyone where you’re going, and don’t drink the lobby water.
-GUY: Tonight? Wow, that’s pretty fast! I’m glad I get to start immediately. Wait, why shouldn’t I drink the lobby water?
-BOSS: Time is of the essence! We must get your vitals processed as quickly as possible!
-BOSS: Now if you’ll just sign these waivers and put on these sterilized robes…. (Point to papers on desk and hand robes)
-GUY: (Grab robes) Do I have to put them on now?
-BOSS: Yes yes, quickly now! Don’t think about the extra fine print, that's just legal jargon about tissue viability and long-term side effects. (Hold out waivers)
-GUY: (signs the papers)
-BOSS: Perfect! The onboarding sequence has been initiated! ASSISTANT! Prepare the chamber!
-Meanwhile AST: (about to run back onto stage)
-Break down door
-AST: (bursts back in) Right away, sir! Should I bring the neural dampeners or start with muscle stimulation trials?
-BOSS: Both! And tell the Doctor to prepare the “Employee Benefits Program”.
-BOSS: Now, if you'll just follow my assistant to the sub-basement level that doesn't officially exist...
-BOSS: (Exits stage)
-Meanwhile AST: (Exits stage)
-GUY: Wow, first job I’ve gotten without a drug test! I'm really excited about this opportunity! (Exits stage)
 
 ======
 
@@ -49360,125 +49137,6 @@ SUB: Boss... I'm so sorry I failed the GANG.
 SUB: Please... just let me die...
 TYPEWRITER: NAME continued to lecture the "manager" until they both died of dehydration three days later.
 TYPEWRITER: Their NUMBER SOCIAL followers continued to eat at the mafia's FOOD restaurant.
-
-======
-
-INFORMATION ===============================
-ID: 1559
-TITLE: Otherworldly Abduction
-AUTHOR: KateDT
-VERIFIED: True
-TAGS: Skit
-SET: Interrogation Room
-DATE: 24/03/25
-CHARACTERS ================================
-ALIEN: Alien abductor:Entrance Stage Right
-HUMAN: Abducted human:Chair
-SUGGESTIONS =============================
-NAME: A name for a regular guy:John, Alex, Nick, Sebastian, Tucker, Harvey, Jack, Seth
-NUMBER: A big number (only letters):million, thousand, crazy amount, ton, billion
-SHOW: A TV show:Breaking Bad, Amazing World of Gumball, Adventure Time, The Simpsons, Family Guy
-THING: A everyday thing that humans deal with:Taxes, Weather, Love, Megalomaniacs
-ACTION: A normally impossible action:Teleport, Fly, Swim in lava, Eat glass, Listen to Thick of It
-ALIENWORLD: Name for a alien world:Aziegl, Nevariv, Adrevol, Urasai
-OTHERNAIM: Any name:Liv, Liam
-SCRIPT ==========================================
-HUMAN: (Confused and dazed.) What... where... where am I....?
-HUMAN: (Quietly groan.) What is this place...?
-ALIEN: (Enter stage and close the door behind you.)
-(Scary music)
-HUMAN: W-who are you? W-what are you?? Oh god...
-ALIEN: (Slowly approach the table.)
-HUMAN: P-please don't eat me! O-or dissect me!
-ALIEN: (Chuckles casually.) What? Dissect?
-ALIEN: (In a casual, upbeat voice.) NAME, right? Is this your first abduction, NAME?
-(Silly music 2)
-HUMAN: Uh... What? What are you talking about...?
-HUMAN: You're a alien?
-ALIEN: Uh, no. Obviously you're the alien, NAME.
-ALIEN: Just kidding. So, how's your day been so far?
-HUMAN: (Awkward silence.)
-ALIEN: Ah, I understand you're nervous, but I've done about a NUMBER of these, alright?
-ALIEN: Don't worry, you're gonna be fine.
-HUMAN: (look awkward and mutter.) What the hell is going on...
-ALIEN: So, earth. Do you know, uh, OTHERNAIM?
-HUMAN: Uh... who?
-ALIEN: From earth? Malaysia? OTHERNAIM, I think? (make a thinking pose.)
-HUMAN: Um... there are a lot of people with that name...
-ALIEN: (shrug.) Ah, okay, was worth a shot.
-ALIEN: Okay, could you cough for me?
-HUMAN: (Coughs)
-Teleport ALIEN to Corner Left
-ALIEN: Good. Hold your breath.
-Meanwhile HUMAN: (To your left.) Woah-
-HUMAN: (Gasp and hold your breath.)
-ALIEN: Alright. And hold your blood.
-HUMAN: (Exhale.) What?
-ALIEN: (Approach NAME and hold your hand out.) Alright, and look over here for me.
-Meanwhile HUMAN: (Follow his hand with your eyes.)
-ALIEN: (Move your hand to a different location.) And look over here.
-ALIEN: (Nod.) Kay, nice. And look in this dimension.
-ALIEN: (Point at the space next to you as if something's there.) And here.
-HUMAN: I don't see anything.
-ALIEN: Oh, shame.
-ALIEN: So THING, huh? You guys deal with that too?
-HUMAN: Uh, yeah? What is this all about? Why am I being abducted?
-ALIEN: Oh, it's just a basic routine check-up to see if human beings qualify as intelligent life.
-ALIEN: (Make a loud screaming noise.)
-Meanwhile HUMAN: (Look surprised and taken aback.)
-ALIEN: Can you hear that?
-HUMAN: Uh, yeah.
-ALIEN: Okay, how about this?
-(Alien Teleport)
-HUMAN: (Look around.) What was that...
-ALIEN: Our native language.
-ALIEN: Alright, great. Now let's get you out of that skin. Don't be shy~
-HUMAN: What..? I can't take my skin off.
-ALIEN: (Chuckle.) Oh right, humans, sorry.
-HUMAN: When can I go home?
-ALIEN: Hm? Afraid of missing something important? Don't worry, time moves at .2% in this space I've made for you.
-ALIEN: (Look around.) Looks pretty human-ey don't you think?
-ALIEN: So, does earth have TV shows?
-HUMAN: Uh... yeah?
-ALIEN: Great! What's your favorite?
-HUMAN: SHOW I'd say...
-ALIEN: Wow! I'll make sure to check that out later.
-ALIEN: Anyways, NAME, I'm going to do a quick scan so don't freak out alright?
-(Alien siren)
-ALIEN: Alright... I see...
-ALIEN: (Turn away and gasp.) What? That's not right, is it?
-ALIEN: Right... Okay. (Turn back to NAME.)
-ALIEN: Uh... this may be a little difficult to hear. Okay, NAME?
-HUMAN: Uh... okay... Give it to me straight.
-ALIEN: (Dramatically and slowly.) NAME... I'm afraid... you can't... ACTION
-HUMAN: Right, I could never do that.
-ALIEN: (Disappointed.) Right, on earth. But on ALIENWORLD...
-ALIEN: You won't be able to.
-Meanwhile HUMAN: (Nod)
-ALIEN: Well, look, you're welcome to try another abduction-
-ALIEN: but I've dealt with many people who have gone on to live full, happy lives without the ability to ACTION.
-ALIEN: I think you can learn to live without it.
-HUMAN: (Nod.)
-HUMAN: So... did I pass? Or-?
-ALIEN: Oh, no no no humans are idiots.
-(Peaceful fantasy music)
-ALIEN: (Soft and empathic.) But hey, that's not the only way we measure things.
-ALIEN: Human beings are miraculous creatures. So fragile, yet so resilient.
-Meanwhile HUMAN: (Nod in agreement.)
-ALIEN: Their existence shouldn't work. But somehow, for now, it does.
-Meanwhile HUMAN: (Nod in agreement.)
-ALIEN: Human beings though not intelligent life are somehow still capable of love and expression and... beauty.
-Meanwhile HUMAN: (Nod in agreement.)
-ALIEN: Human beings are like the universe looking back on itself.
-Meanwhile HUMAN: (Nod in agreement.)
-HUMAN: (Happy.) Wow. That was beautiful. Thank you.
-HUMAN: I'm never gonna forget that.
-(Music stops)
-ALIEN: (Touch NAME's head.) And tracking chip installed.
-ALIEN: (Brush over NAME's head.) And memory wipe complete.
-Meanwhile HUMAN: Wha- Ah- (Go limb, unconscious.)
-ALIEN: (To self.) Intelligent species... check.
-Teleport ALIEN to Backstage
 
 ======
 
