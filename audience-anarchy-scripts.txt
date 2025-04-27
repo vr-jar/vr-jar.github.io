@@ -47744,11 +47744,11 @@ Warrior: I can hear the monster coming into the forest.
 Monster: (Enters stage left)
 Monster: (Walks into the forest)
 (music stops)
-(dark classical music)
+(lacrimosa music)
 (thunder)
 Monster: (Roars)
 Monster: So you two are from NOUN4 I see.
-Monster: Do you really think you too have a chance to defeat me?
+Monster: Do you really think you both have a chance to defeat me?
 Monster: (Looks intimidated)
 Monster: (Laughs maniacally) HA HA HA HA HA!
 Monster: You two don’t even stand a chance against me.
@@ -49586,7 +49586,7 @@ THIEF: Like it was trying to *un*-grow and erase itself. And don't even get me s
 COW: I thought this one was just... ADJ.
 THIEF: No such thing as a ADJ plant. Just misunderstood.
 COW: (Nodding) I once saw someone place their wet umbrella on her.
-THIEF: (gasp) Umbrella trauma! That will take months of mist therapy! (pull out a tiny spray bottle and stary spritzing the plant)
+THIEF: (gasp) Umbrella trauma! That will take months of mist therapy! (pull out a tiny spray bottle and start spritzing the plant)
 music stops
 COW: So uh, what do you do with them? You know, once they're rescued?
 THIEF: I give them a window, a play list of MUSIC, and someone who finally believes in them.
@@ -50768,6 +50768,106 @@ Teleport CLO to Backstage
 HEO: What would DOUG want with that VALUABLE?
 HEO: As much as i would love to sit here and ponder, I gotta get outta here.
 HEO: I gotta tell OBAMA about this. (runs offstage)
+
+======
+
+INFORMATION ===============================
+ID: 1624
+TITLE: You Wouldn't Download What?!
+AUTHOR: FurryTrash237
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 22/04/25
+CHARACTERS ================================
+GAMER: Live streamer:Couch
+MOM: Streamer's mother:Backstage
+COP: Police officer:Backstage
+TTS: TTS chat messages:Narrator Podium
+BRO: Streamer's little brother:Backstage
+SUGGESTIONS =============================
+VG: Video game:Super Mario Galaxy, Among Us
+USER: A username for a streamer:Jacksepticeye, SmallAnt, SnapsCube
+NAME1: A person's name:Jack, Jill, Jimothy
+NAME2: A child's name:Skrunkly, Scrimblo, Potato
+OBJ1: A household appliance:Lamp, microwave, fridge
+OBJ2: A large animal:Lion, elephant, bear
+OBJ3: A silly vehicle:Rocket ship, flying bathtub
+NUMBER: Any number:1, 2, 867524987356892
+CHAT1: An online username:kangarood12, DoorhingeJustice
+CHAT2: An online username:kangarood12, DoorhingeJustice
+CHAT3: An online username:kangarood12, DoorhingeJustice
+SCRIPT ==========================================
+badass music 1
+GAMER: Hey chat, USER here!
+GAMER: Today, we're gonna be playing VG.
+TTS: (monotone) CHAT1 has donated $NUMBER.
+Meanwhile TYPEWRITER: CHAT1 has donated $NUMBER.
+GAMER: Oh, thanks for the donation, CHAT1! Now, let's get into it.
+Teleport BRO to Side Door
+groose music
+BRO: (run in front of TV) NAME1, NAME1, can I play??
+GAMER: Hey! I'm live, move it!
+BRO: I wanna playyyyy!!!
+GAMER: Hold on a sec, chat.
+BRO: Mommmmmm!! (run toward kitchen)
+badass music 1
+GAMER: Alright, where were we?
+TTS: (monotone) CHAT2 says, 'Bro who was that child?'
+Meanwhile TYPEWRITER: [CHAT2] bro who was that child
+GAMER: That was just my little brother, don't mind him...
+Teleport BRO to Side Door
+Teleport MOM to Side Door
+lacrimosa music
+MOM: NAME1, were you being rude to your brother?
+GAMER: Are you serious right now?
+BRO: He was! He was! (point at streamer)
+MOM: I would like you to apologize to poor NAME2.
+MOM: He just wants to play with you!
+GAMER: But Mom, I'm streaming right now!
+MOM: That's no excuse.
+TTS: (monotone) CHAT1 says, 'Wild stream today for real'
+Meanwhile TYPEWRITER: [CHAT1] Wild stream today fr
+GAMER: I can't take much more of this...
+Teleport COP to Entrance Stage Right
+Doorbell
+Music Stops
+record scratch
+MOM: I wonder who that could be! (open front door)
+COP: Hello, ma'am. Does NAME1 live here?
+MOM: Why, yes he does! NAME1?
+GAMER: Huh???
+TTS: (monotone) CHAT3 says, 'Oh damn, who called the fuzz?'
+Meanwhile TYPEWRITER: [CHAT3] OH DAMN WHO CALLED THE FUZZ
+COP: (step inside) NAME1, you're under arrest for downloading items without paying for them.
+shark tank serious music 1
+GAMER: What?! I don't pirate games!
+COP: Not games...
+MOM: What do you mean, then?
+COP: (to mother) Ma'am, your son has illegally downloaded a OBJ1.
+MOM: (gasp dramatically!)
+COP: That's not all... he also downloaded a OBJ2.
+Meanwhile GAMER: What does that even mean?!
+COP: And he even downloaded a OBJ3!
+BRO: Oh! I want to play with the OBJ3!
+MOM: Absolutely not, NAME2.
+GAMER: Don't I get a lawyer?
+COP: Of course not. You've committed the worst crime in the world, and we have receipts.
+MOM: I can't believe my NAME1 would do such heinous things!
+GAMER: Mom, be so for real. You can't download those things!
+BRO: Yeah you can! Mom bought me a OBJ2, I download it all the time!
+GAMER: What????
+COP: Come on, you. (lead the streamer out of the room)
+Meanwhile GAMER: (getting dragged out) NOOOOOOOooooo...
+TTS: (monotone) CHAT2 says, 'Okay bye I guess'
+Meanwhile TYPEWRITER: [CHAT2] ok bye i guess
+corporate guitar music
+MOM: Well, good riddance! I didn't raise a criminal!
+BRO: Mom, can I play VG now?
+MOM: Absolutely, NAME2. (leave room)
+BRO: (sit on couch) I knew paying that cop $NUMBER would work...
+TTS: (monotone) Stream has ended.
+Meanwhile TYPEWRITER: Stream has ended.
 
 ======
 
