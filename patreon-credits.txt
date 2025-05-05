@@ -2072,6 +2072,7 @@ juicetan2021
 Tells Fox
 ［Xashen］
 Kharmstorm
+Bandie
 modNick
 ruralists
 #TIER=1
