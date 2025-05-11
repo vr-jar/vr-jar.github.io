@@ -2079,6 +2079,7 @@ NTF Lieutenant
 Cignum
 Markun 2
 X O R D R L N D
+Wealver
 modNick
 ruralists
 #TIER=1
