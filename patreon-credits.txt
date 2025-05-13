@@ -2082,6 +2082,7 @@ AstraPawz
 fwugSoft
 Ｇｕｂｂｙ
 Coco_0000
+Tеrry
 modNick
 ruralists
 #TIER=1
