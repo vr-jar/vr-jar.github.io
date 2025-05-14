@@ -27074,7 +27074,7 @@ JANET: Good night. And Rest in Peace, Jerry.
 INFORMATION ===============================
 ID: 849
 TITLE: In Love with a Slasher
-AUTHOR: SystemBias
+AUTHOR: QuinnbyVR
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -45582,7 +45582,7 @@ CASH: (stand in disbelief) What a day.
 INFORMATION ===============================
 ID: 1467
 TITLE: Pepsi or Coke
-AUTHOR: rotem._.N 1771
+AUTHOR: Rotem_N
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -45970,7 +45970,7 @@ TECH: Thank you for calling COMPANY tech support. The cost of this session will 
 INFORMATION ===============================
 ID: 1476
 TITLE: A Suprise Party!
-AUTHOR: rotem._.N 1771
+AUTHOR: Rotem_N
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -47701,120 +47701,106 @@ WARRIOR: The great Warrior:Entrance Stage Left
 COMRADE: The partner of the warrior :Entrance Stage Left
 MONSTER: The beast that destroys cities:Entrance Stage Right
 SUGGESTIONS =============================
-NOUN1: Any warrior name :Ariella,Cassandra,Grayson,Kaden
-NOUN2: Any comrade name:Lyanna,Talia,Thorne,Ronan
-NOUN3: Any monster name:Dreadfang,Baneclaw,Zarok,Ralgar
+WARRIORNAME: Any warrior name :Ariella,Cassandra,Grayson,Kaden
+COMRADENAME: Any comrade name:Lyanna,Talia,Thorne,Ronan
+MONSTERNAME: Any monster name:Dreadfang,Baneclaw,Zarok,Ralgar
 NOUN4 : Any City:Valor,Frostholm, Silverstone,Duskforge
 ADJECTIVE: Describe the monster:Nightmarish,Unholy,Chunky,Feral
 NOUN5: Last words:Heh… Joke’s on you… I taste terrible…, Even in death… I can still smell myself…, Go ahead. Kill me. It won’t stop the tide… it only delays it, Killing me changes nothing. The real horror is already awake
-NOUN6: Any attack :Nova blast,Howl of madness, inferno roar,storm breath
-NOUN7: Any weapon:Warhammer, Battleaxe,Katana, Greatsword
+MONSTERATTACK: Any attack :Nova blast,Howl of madness, inferno roar,storm breath
+WEAPON: Any weapon:Warhammer, Battleaxe,Katana, Greatsword
+NOUN8: Any Destination:Mount Fuji,The mines of Moria,Narnia,Hyrule
+DEATHPHRASE: Something you say as you die:My browser history...delete it, Tell my dog I love him, This is highly inconvenient, I regret nothing, I regret everything
+BLARG: A sound effect you say while dying:ugh, blegh, ack, oof, gasp, urk, wheeze, cough
+NOODLE: a specific weak or flaccid thing:paper bag, al dente spaghetti, one-ply toilet paper, deflated balloon, wilted flower, feeble argument, fart
 SCRIPT ==========================================
-Warrior: (Walks into the forest)
-Comrade: (Follows the warrior)
 (epic fantasy music 1)
-Warrior: (Feels heroic) Into the forest we go!
-Comrade: (Follows warrior) Ok and what are we looking for?
-Warrior: We are looking for the great forest monster!
-Warrior: That destroyed our city and its people.
-Warrior: So many died to it’s powerful destruction.
-Warrior: (Gets angry) AND IT MUST BE STOP FOR GOOD!
-Comrade: That son of a bitch will die for this NOUN1!
-Comrade: Do we know what it looks like?
-Warrior: (Gets Confused) Well….
-Warrior: No one knows what it looks like?
-Comrade: I heard that it had an ADJECTIVE looking body.
-Comrade: Also heard that it smells like it hasn’t showered in months.
-Warrior: (Looks for the monster)
-Warrior: (Frustrated) I haven't seen the monster yet!
-Warrior: But, be prepared when it does show up.
-Comrade: Ok I will keep an eye for the monster.
-Warrior: It will pay for the destruction of NOUN4.
-Comrade: I can’t believe it destroyed our city in 4 hours.
-Comrade: So what is the monster's name?
-Warrior: I heard one of the citizens say it was NOUN3.
-Comrade: NOUN3 the monster that has destroyed tons of cities in its path.
-Comrade: NOUN1 be on high alert when the monster comes.
-Warrior: NOUN2 I will.
+WARRIOR: (Feels heroic) Into the forest we go, COMRADENAME!
+COMRADE: (Follows warrior) Ok, WARRIORNAME! And what are we looking for?
+WARRIOR: We are looking for the great forest monster!
+WARRIOR: That destroyed our city and its people.
+WARRIOR: So many died to it’s powerful destruction.
+WARRIOR: (Gets angry) AND IT MUST BE STOP FOR GOOD!
+COMRADE: That son of a bitch will die for this, WARRIORNAME!
+COMRADE: Do we know what it looks like?
+WARRIOR: (Gets Confused) Well….
+WARRIOR: No one knows what it looks like?
+COMRADE: I heard that it had an ADJECTIVE looking body.
+COMRADE: Also heard that it smells like it hasn’t showered in months.
+WARRIOR: (Looks for the monster)
+WARRIOR: (Frustrated) I haven't seen the monster yet!
+WARRIOR: But, be prepared when it does show up.
+COMRADE: I shall keep an eye for the monster.
+WARRIOR: It will pay for the destruction of NOUN4.
+COMRADE: I can’t believe it destroyed our city in 4 hours.
+COMRADE: So what is the monster's name?
+WARRIOR: I heard one of the citizens say it was MONSTERNAME.
+COMRADE: MONSTERNAME the monster that has destroyed tons of cities in its path.
+COMRADE: WARRIORNAME be on high alert when the monster comes.
+WARRIOR: COMRADENAME I will and we will be ready.
 (music stops)
 (forest footstep)
 (epic fantasy music 2)
-Warrior: (Hears large footsteps)
-Warrior: I can hear the monster coming into the forest.
-Monster: (Enters stage left)
-Monster: (Walks into the forest)
+WARRIOR: (Listening) I can hear the monster coming into the forest.
+MONSTER: (Enters stage left) (Roars)
 (music stops)
 (lacrimosa music)
 (thunder)
-Monster: (Roars)
-Monster: So you two are from NOUN4 I see.
-Monster: Do you really think you both have a chance to defeat me?
-Monster: (Looks intimidated)
-Monster: (Laughs maniacally) HA HA HA HA HA!
-Monster: You two don’t even stand a chance against me.
-Comrade: NOUN1 I got this… I will slay this monster for good!
-Monster: You think you can eliminate me!
-Monster: (Laughs loudly)
-Comrade: (Gets angry)
-Comrade: With this NOUN7 I will vanquish you!
-Monster: Anything you’d like to say before you die.
-Comrade: You smell so bad, even Death is holding his nose!
-Monster: YOU ARE SO DIE NOW!
-(music stops)
-(epic cinematic music)
-Comrade: (Draws weapon)
-Comrade: This weapon is forged from the strongest metals found in a nearby mountain.
+MONSTER: So you are the warriors they sent from NOUN4 I see.
+MONSTER: Do you really think you both have a chance to defeat me?
+MONSTER: (Laughs maniacally) HA HA HA HA HA!
+MONSTER: You both don’t even stand a chance against me!
+COMRADE: WARRIORNAME I got this… I will slay this monster for good!
+MONSTER: You think you can eliminate me! (Laughs loudly)
+COMRADE: (Angry) With this WEAPON I will vanquish you!
+MONSTER: Anything you’d like to say before you die.
+COMRADE: You smell so bad, even Death is holding his nose!
+MONSTER: That's the last straw! You die now!
+COMRADE: (Draws weapon) This weapon is forged from the strongest metals found in NOUN8.
 (draw sword)
-Monster: O please that weapon is not enough to stop me!
-Comrade: (Attacks the monster)
-Monster: (Absorbs the attack)
-Comrade: How the hell did you survive that?
-Monster: My body is made up of a strong steel that can’t be destroyed.
-Monster: My turn.
-Monster: (Charging up attack)
+MONSTER: Oh please, your weapon is but a mere NOODLE... not enough to stop me! (Attacks the monster)
+Meanwhile MONSTER: (Absorbs the attack)
+MONSTER: (Absorbs the attack) My body is made up of a strong steel that can’t be destroyed.
+MONSTER: My turn. (Charging up attack)
 (super epic charge up)
-Monster: My NOUN6 will end your life!
-Monster: You don’t stand a chance against it!
-Monster: (Fires attack)
-Comrade: (Dies)
+MONSTER: My MONSTERATTACK will end your life!
+MONSTER: You don’t stand a chance against it! (Fires MONSTERATTACK)
+Meanwhile COMRADE: (Dies to attack)
+COMRADE: (Dies to attack) DEATHPHRASE
 (music stops)
 (emotional piano music)
-Warrior: (Cries) NOOOOOOOOO NOUN2!
-Warrior: Please wake up and fight this monster.
-Warrior: We have so many more adventures ahead of us.
-Monster: Well time to join your partner.
+WARRIOR: (Cries) NOOOOOOOOO COMRADENAME!
+WARRIOR: Please wake up and fight this monster.
+WARRIOR: We have so many more adventures ahead of us.
+MONSTER: Well, it’s time to join your partner.
 (music stops)
 (epic fantasy music 3)
-Monster: You idiots think you could defeat me!
-Monster: (Fires attack again)
-Comrade: (Gets back up)
-Comrade: (Blocks attack)
-Monster: (In shock) How did you survive my attack?
-Comrade: (Smiles) I have special impeccable armor on me!
-Warrior: (Yells) NOUN2 END NOUN3 FOR GOOD!
-Comrade: Yes, but we do it together.
-Comrade: (Attacks the monster)
-Warrior: (Pulls out sword)
-Warrior: Together we will defeat the monster!
-Warrior: (Attacks the monster)
-Monster: NOOOOOOOOOOOOO!
-Monster: (Falls to the ground)
-Comrade: (Points Weapon) Any last words before you die.
-Monster: I do NOUN5!
-Warrior: NOUN2 Let’s kill NOUN3 together!
-Monster: I was so close to defeating you both!
-Warrior: Not close enough.
-Warrior: (Kills the Monster)
-Comrade: (Kills the monster)
-Monster: (Dies)
+MONSTER: You NOUN think you could defeat me!?
+MONSTER: Eat my MONSTERATTACK! (Fires MONSTERATTACK again)
+Meanwhile COMRADE: (Blocks attack)
+COMRADE: (Blocks attack) Blocked!
+MONSTER: (In shock) How did you survive my attack?
+COMRADE: (Smiles) I have special impeccable armor on me!
+WARRIOR: (Yells) COMRADENAME, END MONSTERNAME FOR GOOD!
+COMRADE: Yes, but we do it together.
+Draw sword
+Draw sword
+WARRIOR: (Pulls out sword) Together! (Attacks the monster)
+Meanwhile COMRADE: (Pulls out sword) (Attacks the monster)
+MONSTER: NOOOOOOOOOOOOO! (Falls to the ground)
+COMRADE: (Points Weapon) Any last words before you die.
+MONSTER: I do... NOUN5!
+WARRIOR: COMRADENAME Let’s kill MONSTERNAME together!
+MONSTER: I was so close to defeating you both!
+WARRIOR: Not close enough. (Finishes off monster)
+Meanwhile COMRADE: (Finishes off monster)
+MONSTER: BLARG... BLARG... (Dies)
 (music stops)
 (peaceful fantasy music)
-Warrior: (Cries tears of joy) We did it!
-Comrade: We sure did it’s time to head back and rebuild NOUN4.
-Warrior: Let's go then I’m so glad you survived the monster's attack.
-Comrade: Me too NOUN1 me too.
-Warrior: (Walks out of the forest)
-Comrade: (Follows the warrior)
+WARRIOR: (Cries tears of joy) We did it!
+COMRADE: We sure did it’s time to head back and rebuild NOUN4.
+WARRIOR: Let's go then. I’m so glad you survived the monster's attack.
+COMRADE: Me too, WARRIORNAME. Me too.
 
 ======
 
@@ -48494,7 +48480,7 @@ TYPEWRITER: ALIAS spent the rest of his days in the phycological facility
 INFORMATION ===============================
 ID: 1549
 TITLE: Book Club
-AUTHOR: rotem._.N 1771
+AUTHOR: Rotem_N
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -50132,7 +50118,7 @@ CRIME: Name any crime:Murder, Stealing, Saying OwO in Public
 NEWS: A name a for a news source:Times Of All Time, New News, Happy Magazine
 SCRIPT ==========================================
 (noir music 2)
-NORMAN: (To audience) I'm Norman Guy, vice detective. I investigate drug cases. One of the fancy big shots around the station.
+NORMAN: I'm Norman Guy, vice detective. I investigate drug cases. One of the fancy big shots around the station.
 NORMAN: A couple days back, we got a tip of some suspicious activity seen around a certain car.
 NORMAN: The owner was suspected of smuggling DRUG in COVERs for the GROUP. A known ring of drug traffickers.
 NORMAN: We were told the license plate number and pulled the car over once we saw it on the streets.
@@ -50143,9 +50129,9 @@ NORMAN: I had to convince him to do the interrogation just to see what clues we 
 NORMAN: He said he would on the condition that if he didn't find anything... I would be punished.
 NORMAN: Now I wait in my office. Waiting to see if this crazy lead actually goes somewhere.
 (noir music 4)
-CHIEF: (walk on stage and approach desk) Well Detective Norman you really did it now! The interrogation was worthless!
+CHIEF: (Walk on stage and approach desk) Well Detective Guy you really did it now! The interrogation was worthless!
 CHIEF: How could you convince yourself that VIP was part of the GROUP!?
-CHIEF: Even if they were, no jury would convict them. If they did there would be riots in the streets!
+CHIEF: Even if they were, no jury would convict them. There would be riots in the streets if they did!
 NORMAN: I'm sorry chief. We didn't know who the driver would be.
 CHIEF: You need to take responsibility for this, Norman! I'm demoting you to TASK!
 NORMAN: TASK!? Come on chief! I was just following a tip!
@@ -50157,16 +50143,16 @@ CHIEF: Maybe you can work your way back up to vice. But you have to be out of th
 NORMAN: I can't accept this, Chief! What if VIP is in on it? We can't just let them go!
 CHIEF: You still think that? Even after you searched the vehicle and found only COVERs?
 NORMAN: Maybe they were on their way to get the DRUG!
-CHIEF: Would you say that to their face? (face the door) Come on in, VIP!
+CHIEF: Would you say that to their face? (Look at door) Come on in, VIP!
 SUSPECT: (Walk on stage and approach desk) Hello Detective Guy, or should I say TASK officer Guy!
 SUSPECT: Serves you right for what you did to me!
-PARTNER: (Walk on stage and look around) Pretty nice office you had here. heh heh
+PARTNER: (Walk on stage and look around) Pretty nice office you had here. Heh heh.
 NORMAN: What are they doing here, Chief?
 CHIEF: I wanted them to tell you what they told me. So you can hear just how wrong you were.
 SUSPECT: If you must know what I was doing, my partner and I were on our way to a EVENT when you arrested us!
 PARTNER: Without even asking any questions I might add!
-NORMAN: Well I am sorry okay! I was doing my job!
-SUSPECT: I will have you know I was only arrested once for CRIME. I did my time and that's was it!
+NORMAN: Well I am sorry! I was doing my job!
+SUSPECT: I will have you know I was arrested only once for CRIME. I did my time and that's was it!
 SUSPECT: I've never even seen DRUG in real life, let alone tried to smuggle it across town!
 SUSPECT: How dare you assume I am a member of that dreadful GROUP group!
 PARTNER: We're probably going to miss the EVENT now because of this.
@@ -50175,41 +50161,46 @@ CHIEF: Of course, you have my word. He was a fool to suspect you and VIP of wron
 PARTNER: I hope so. You wouldn't want another ITEM incident so soon, would you?
 CHIEF: N-NO Of course not!
 NORMAN: Why are you so concerned with what happens to me? I didn't even suspect you.
-PARTNER: You suspected VIP! Who I love dearly! I want to make sure justice is served!
+PARTNER: (Point at the detective) You suspected VIP! Who I love dearly! I want to make sure justice is served!
 SUSPECT: If we find out you're a detective again after 2 weeks we'll tell NEWS all about this!
 CHIEF: You should know about NEWS, Norman. They exposed us for the ITEM incident.
 CHIEF: VIP has agreed not to go public with this as long as I demote you.
-NORMAN: Hmm... Why though? Why is it so important to you two that I get demoted for this.
-NORMAN: Do you have something to hide?
+NORMAN: Hmm... Why though? Why is it so important to you that I get demoted for this. Do you have something to hide?
 PARTNER: We don't want to give your station another scandal. We're trying to be nice.
 SUSPECT: But if you don't pay the price then we will go public with this. I have connections!
 NORMAN: What's stopping you from taking this story to NEWS anyway?
 NORMAN: How do we know you won't have your cake and eat it too?
-SUSPECT: In case you haven't noticed I am VIP! I have a reputation to uphold!
 PARTNER: It would be messy if we went to NEWS and told them you arrested us on suspicion of DRUG smuggling.
+SUSPECT: (Nods) In case you haven't noticed I am VIP! I have a reputation to uphold!
 NORMAN: What reputation? No one outside of town knows who you are!
-SUSPECT: (gasp) How DARE You! You talk to me like that again and I'll have your badge!
-PARTNER: All we want you to do is accept the demotion and apologize for arresting us.
-NORMAN: (sigh) I apologize for arresting you and I accept the demotion. There!
+SUSPECT: (Gasp) How DARE You! You talk to me like that again and I'll have your badge!
+PARTNER: All we want you to do is apologize for arresting us and accept your demotion.
+NORMAN: (Sigh) I apologize for arresting you and I accept the demotion. There!
 CHIEF: Well I guess that makes it official then.
-SUSPECT: Good! Hmm, Officer Guy. It has a nice ring to it. (turn to Chief) Would you escort me out of the station?
+SUSPECT: Good! Hmm, Officer Guy. It has a nice ring to it. (Turn to Chief) Would you escort me out of the station?
 CHIEF: Oh of course, right this way, VIP. (Gesture towards door and walk off stage)
-PARTNER: Go without me, VIP. I'll catch up in a couple minutes.
-SUSPECT: Don't keep me waiting too long. (walk off stage)
+SUSPECT: So polite. (Follow the Chief off stage)
+NORMAN: (Point at the suspect's partner) I want you to stay.
+PARTNER: Why?
+NORMAN: Your voice sounds oddly familiar to me, where do I know you from?
+PARTNER: (In a sinister tone) Heh, Why don't you take a guess?
+NORMAN: Hmmmm... We didn't meet at last year's EVENT... did we?
+PARTNER: No. I've never been to one before. You made me late for this years EVENT.
+NORMAN: Wait! It was you wasn't it? You were the one who called me with the tip!
 (noir music 3)
-PARTNER: Heh... heh heh heh.
-NORMAN: What's so funny? Shouldn't you be leaving too? You got what you wanted.
-PARTNER: All according to plan. It was perfect. Make VIP look suspicious and watch the fireworks.
+PARTNER: Heh heh heh heh. So you did figure it out.
+NORMAN: You set all this up! Didn't you!?
+PARTNER: Indeed I did. It was perfect. Make VIP look suspicious and watch the fireworks.
 PARTNER: Now you won't be bothering the GROUP for a long while.
-NORMAN: Wait! It was you? You gave the tip!? You're a Member of the GROUP aren't you!?
+NORMAN: I should have known from the start! You're a Member of the GROUP aren't you!?
 PARTNER: Just an associate. Meaning my hands are clean.
-PARTNER: You were too hot on the trail so the GROUP had me plan this little scheme to take you out.
+PARTNER: You were too hot on the trail. So the GROUP had me plan this little scheme to take you out.
 PARTNER: DRUG being smuggled in COVERs, it was genius.
-PARTNER: Genuine enough to be real but false enough to make you look like a fool.
+PARTNER: Believable enough to be true but absurd enough to make you look like a fool.
 PARTNER: And with the ITEM incident still on everyone's mind, it was easy to convince the chief to take action.
 PARTNER: Now you'll spend your days slaving away on meaningless TASK crimes.
 PARTNER: Got any final words to say before I take my leave... Officer?
-NORMAN: Well Just a few (point at them) Freeze! You're under arrest for conspiracy and obstruction of justice!
+NORMAN: Well Just a few (Point at them) Freeze! You're under arrest for conspiracy and obstruction of justice!
 PARTNER: W-What NO! I Didn't do anything! You can't arrest me!
 NORMAN: Of Course I can! I'm still a cop! And you just confessed your entire plan to me! Put your hands behind your back!
 PARTNER: N-NO! NO! I Can't go to jail! (run off stage)
@@ -50351,6 +50342,84 @@ FAE: Finally, I thought I was beginning to think that I would never get rid of h
 HERO: (Enter Stage Right with New Accent) GREET Strange creature, Which way to WIZARD’s Tower?
 church bell
 FAE: Oh Come On!
+
+======
+
+INFORMATION ===============================
+ID: 1592
+TITLE: Need a Lawyer
+AUTHOR: Neko-Numi
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+DATE: 04/04/25
+CHARACTERS ================================
+DETECTIVE: Detective:Corner Right 
+CRIMINAL: Criminal:Chair
+LAWYER: Lawyer:Backstage
+SUGGESTIONS =============================
+PLACE: (Noun) A public place:Park, Mall, Arcade
+CRIME: (Verb) Activity that is not a crime:Eating Chips, Dancing, Backflipping
+LAWYER: (Name) Name for a sleezy lawyer:Jack Gott'em, Billy Not Guilty, L. A. Wyer
+ALIBI: (Verb) Legal but embarrassing activity:Knitting Baby Socks, Practicing Yodeling, Pretending to be a cat
+TIME: (Noun) A measurement of time:10 minutes, 17 seconds, at least a month, 3 or 4 maybe 5
+JOB: (Title) A job:Fluff Wrangler, Barista, Stay at home mom, Social media influencer
+ADJECTIVE: (Adjective) descriptive of a group:Sly, Silly, Stupid, Giant, Small, Orange, Totally honest
+GROUP: (Noun) A grouping a people or animals:Gaggle, Cult, Business, Huddle
+SCRIPT ==========================================
+(70s music)
+DETECTIVE: Well, well, well, what do we have here? It looks like we have ourselves a ADJECTIVE criminal. What do you have to say for yourself?
+CRIMINAL: Detective, I really don't understand why you have brought me in. I am innocent.
+DETECTIVE: That is exactly what a criminal would say! It is too late now. You might as well admit to it.
+CRIMINAL: Admit to what? I told you I haven't been doing anything Illegal.
+DETECTIVE: So you are saying you were not at the PLACE where you were seen CRIME.
+CRIMINAL: What? No. Wait, is CRIME really against the law?
+DETECTIVE: Of course it is, as of TIME ago! What a silly question. We have had reports of someone CRIME at the PLACE.
+DETECTIVE: So then, remind me again what it is you do for a living?
+CRIMINAL: I don't see how that is relevant but I am a JOB.
+DETECTIVE: A JOB, that sounds suspicious.
+CRIMINAL: I think I need to call my Lawyer.
+DETECTIVE: (Surprised) What?! No. You don't need some sleazeball of a lawyer. Look, admit to CRIME in the PLACE, and we will reduce your sentence to TIME in the slammer.
+CRIMINAL: I am sorry, Detective ... (Calls out to someone out of scene) HEY LAWYER!
+(break down door)
+Meanwhile LAWYER: (Enter scene dramatically. Suggestion: There is a ladder backstage from which you can drop down.)
+LAWYER: You called?
+(courtroom music)
+DETECTIVE: Wait, it can't be ... LAWYER?
+LAWYER: That's my name! Now, Let's get down to business. Detective, What is my client being accused of?
+DETECTIVE: They have been taken into custody for the crime of CRIME at the PLACE.
+LAWYER: (With surprise) At the PLACE? Wait, Hold on. I need to talk with my client in private.
+DETECTIVE: (Suspiciously) Fine, You have TIME to talk with your client. (Exit stage right)
+(corporate guitar music)
+LAWYER: (Make sure the door is closed) Were you actually CRIME at the PLACE?
+CRIMINAL: What? CRIME isn't even against the law! Detective must be making it up.
+LAWYER: Actually, it has been since TIME ago. That doesn't really matter anymore. Look, I have a way to get you out of this, but you are going to have to play along!
+CRIMINAL: I don't want to do TIME in the slammer. I would lose my job.
+LAWYER: Well, if you don't play along say goodbye to being a JOB, because your career is out of here!
+CRIMINAL: Yeah, I don't think anybody would higher a JOB who has been in prison.
+CRIMINAL: I am still surprised you can answer so fast when somebody calls your name. What is your secret?
+LAWYER: That's classified! Only myself and the ADJECTIVE GROUP of lawyers can ever know.
+LAWYER: (Call out to someone out of scene) Okay, detective. You can come back now!
+DETECTIVE: (Enter stage right) Now, LAWYER, has your client come to their senses and is ready to admit to CRIME?
+LAWYER: Of course not! My client is innocent, INNOCENT, I SAY!
+LAWYER: My client could never have been CRIME at the PLACE. Not while they were actually ALIBI
+(music stops)
+(courtroom sting)
+CRIMINAL: (Together) ALIBI?
+Meanwhile DETECTIVE: (Together) ALIBI?
+LAWYER: Isn't that right?
+(corporate guitar music)
+CRIMINAL: (Embarrassed) Okay, fine! Yes, I ALIBI in my free time. That isn't illegal either, right?
+DETECTIVE: ALIBI ... No, That is perfectly legal.
+DETECTIVE: I suppose you can't CRIME while you are ALIBI.
+LAWYER: Well, There you have it! There is no way that my client could possibly be CRIME when, at the time, they were actually ALIBI.
+DETECTIVE: Fine, you are free to go. It looks like I still have a CRIME criminal to catch. (Exit stage right)
+LAWYER: (Check to see that the door is closed) That was a close one. It is a good thing you still ALIBI.
+CRIMINAL: Yeah, but it was a bit embarrassing to admit to it.
+LAWYER: Well, I should get going back to PLACE now.
+CRIMINAL: What? Why were you at PLACE?
+(record scratch)
+LAWYER: Oh, I like to CRIME with my ADJECTIVE GROUP in my free time! (Exit stage right quickly)
 
 ======
 
@@ -50691,6 +50760,149 @@ TYPEWRITER: The End! (For real this time)
 ======
 
 INFORMATION ===============================
+ID: 1601
+TITLE: Let's Get In A Pickle
+AUTHOR: wiikid777
+VERIFIED: True
+TAGS: Skit
+SET: Dining Room
+DATE: 09/04/25
+CHARACTERS ================================
+ALEX: Alex, the crazy deputy:Stage Left
+STEVE: Steve, the calm Sheriff :Chair 2
+AUNT MABEL: Aunt Mabel:Stage Right
+SUGGESTIONS =============================
+PICKLE: A snack food:Pickle, pudding, popcorn
+TOWN: the name of a city:Townsville, Mayberry, Quahog
+CONTAINER: Container to store things in:Box, Jar, Shipping crate
+VALUED: Valuable thing:Jewels, gems, the crown jewels
+ACTION: Violent action.:Kill, hurt, eat
+SCRIPT ==========================================
+(happy music 1)
+Alex: Steve! It’s happening! I’m ready for the big adventure!
+Steve: Adventure? What are you talking about Alex?
+Alex: You know… the MISSION! The one we’ve been planning for weeks!
+Steve: We’ve been planning… what now?
+Alex: The PICKLE Run! It’s time to go get Aunt Mabel’s PICKLEs.
+Alex: But this time, we’re not just picking up PICKLEs Steve. We’re on a MISSION. This is gonna be big.
+Steve: Alex, I think you might be taking this a little too seriously. It’s just a CONTAINER of PICKLEs.
+Alex: No, Steve. These aren’t just any PICKLEs. These are Aunt Mabel’s PICKLEs.
+Alex: And do you know what’s more dangerous than a CONTAINER of Aunt Mabel’s PICKLEs?
+Steve: I can’t even imagine.
+Alex: A missing CONTAINER of Aunt Mabel’s PICKLEs, Steve. You don’t wanna know what happens when people run out of Aunt Mabel’s PICKLEs.
+Alex: CHAOS. Panic. The whole town could go into a tailspin!
+Steve: Alex, it’s PICKLEs. People love ‘em, but they’ll be fine without ‘em for a few hours.
+Alex: Oh no, Steve. You’ve never seen the kind of panic that starts when Aunt Mabel’s PICKLEs aren’t available.
+Alex: It’s like the sun stops shining, the grass stops growing, and people start looking at each other like they’re gonna ACTION each other.
+Alex: It’s a disaster waiting to happen!
+Steve: I think you’ve got a wild imagination, Alex. But alright, let’s go get the PICKLEs
+Alex:(Confidently) I’ve got everything I need. First, a map.
+Alex: (Pulls out a wrinkled map) Now, this here is TOWN… and this is Aunt Mabel’s house. But it’s not just about getting to Aunt Mabel’s house.
+Alex: Steve. We need a strategy. A route. A backup plan. What if the PICKLEs aren’t ready? What if Aunt Mabel’s out of CONTAINER?
+Steve: (Amused) Alex, Aunt Mabel’s always got PICKLEs. And she’s never out of CONTAINERs.
+Alex: (Seriously) And that’s why we need a backup plan. If the PICKLEs aren’t ready, we need to know what to do.
+Alex: We can’t just stand there with empty hands. I’ll have to improvise.
+Aunt Mabel: Well, what’s all this talk about backup plans and improvising? Sounds like you two are up to something.
+Alex: (Standing up straight) Uh, no, no, Aunt Mabel. Just, you know, planning a little... operation. You can never be too careful with PICKLEs.
+Aunt Mabel: (Squinting suspiciously) PICKLEs? You two planning something more than just picking up a CONTAINER of PICKLEs?
+Steve: (Grinning) Aunt Mabel, Alex’s convinced that if we don’t get your PICKLEs on time, the whole town will collapse into CHAOS.
+Alex: (Proudly) And I’m prepared for that. I’ve got maps, backup plans, and even a bag of snacks just in case we get stranded!
+Aunt Mabel: (Laughing) Stranded? For PICKLEs?
+Alex: Absolutely. You can’t underestimate the power of your PICKLEs, ma’am.
+Alex: People get desperate. We’ll be lucky if we make it back with all our limbs intact.
+Aunt Mabel: (Smirking) I think you’re exaggerating just a bit, Alex. But, just in case, let me make sure you’re properly equipped.
+Aunt Mabel: (Teasing) Here you go, Alex. Just a CONTAINER of PICKLEs. Nothing to be scared of.
+Aunt Mabel: But you better not drop it. those PICKLEs are more precious than VALUED in this town.
+Alex: (Grabbing the CONTAINER eagerly) Oh, I’ll protect it with my life, Aunt Mabel.
+Alex: I’ll keep it safe. Not a scratch, not a bump. I’ll treat it like VALUED.
+Steve: (Laughing) You really are taking this overboard, aren’t you, Alex?
+Alex: (Proudly) Overboard? This is just the beginning, Steve. I’m talking preparedness.
+Aunt Mabel: (Chuckling) You boys have fun with your “MISSION,” but remember, PICKLEs are best enjoyed with a little humor and a lot of love.
+Alex: Oh, we’ll be back for more PICKLEs soon enough, Aunt Mabel.
+Alex: Just wait ‘til we’re famous for completing the PICKLE MISSION. We’ll have statues in the town square!
+Steve: I’m sure the people of TOWN will be so thankful for your heroic PICKLE retrieval Alex.
+Aunt Mabel: (Putting her hands on her hips) You two have your fun.
+Aunt Mabel: But don’t forget, those PICKLEs are only a part of the MISSION. The true MISSION is coming back for breakfast.
+Alex: (Nods) Right! A true MISSION requires sustenance!
+Steve: (Laughing) And a little bit of sense!
+Alex: (As he heads for the door, still holding the CONTAINER ) Alright, Steve. Let’s go. We’ve got PICKLEs to deliver, CHAOSto avoid, and snacks to eat.
+(bird screech)
+Alex: Aunt Mabel, just promise me if anything goes wrong, you’ll improvise.
+Aunt Mabel: (Laughs) Don’t you worry, Alex. You’ll never find a PICKLE MISSION more successful than mine!
+Aunt Mabel: (Muttering to herself) PICKLEs… and now MISSIONs… Men and their wild ideas.
+
+======
+
+INFORMATION ===============================
+ID: 1603
+TITLE: Karen’s Special Surprise 
+AUTHOR: SoapyTheYeep 
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 10/04/25
+CHARACTERS ================================
+CASHIER : Joe The Cashier:Behind Register
+KAREN: Karen:Entrance Stage Right
+MANAGER: Kevin The Manger (Karen’s Husband):Backstage
+SUGGESTIONS =============================
+ITEM: An item:Toothbrush, Toothpick, Pizza Box, Jar In A Jar
+PRICE: an amount of money:1p, £100, £50.25p
+STORENAME: Store name:The Boring Grocery Store, Jarcutter, Pawnsons
+KARENSKILL: Skill that an animal could do:Chop Fingers Off, Eat Your Pork Sausages From The Frozen Section, Fart In A Glass Jar And Open It
+NUMBER: A number:20, 94, 34, 83, 95
+APP: A social media app:Discord, Instagram, X, Snapchat, TikTok
+AMAZON: Shopping website:Amazon, eBay, Wish, Etsy, Craigslist, Depop, Alibaba, GoatsGalore
+HOME ACTIVITY: Thing you do at home:cook, vacuum, binge-watch star wars the clone wars, meditate, type naughty things into google images
+ROBBING: a skill that comes in handy in a bank robbery:robbing, shooting, getaway driving, wrestling, seduction
+SCRIPT ==========================================
+CASHIER: What a boring Thursday afternoon… like usual…
+CASHIER: At least there weren’t any "Karens" to ruin my day…
+CASHIER: And I made a few quid today!
+KAREN: (Enters) Hmm… what should I buy…
+KAREN: Let’s buy these ITEMs! (Go to register)
+CASHIER: Welcome to STORENAME, how can I help ya?
+KAREN: (snobbishly) Ahem! That's quite the rude attitude you got there young man!
+KAREN: Anyways… I, the super awesome very valuable customer at your store, would like to purchase these ITEMs.
+KAREN: And do it quickly! I don't have all day…
+CASHIER: Ok… (Scans ITEMs) That will be PRICE.
+vine boom
+KAREN: HOW MUCH?
+CASHIER: It’s PRICE for the ITEMs I just scanned for you.
+vine boom
+dark classical music
+KAREN: Excuse me? Do I look like I can pay PRICE for ITEMs?
+CASHIER: I mean… if you want it cheaper then head to AMAZON dot com.
+KAREN: You know what? Me and my NUMBER followers on APP will be hearing about this horrible place called STORENAME!
+CASHIER: We don’t care about your NUMBER followers on APP…
+KAREN: This is outrageous! I demand the manager right away! This store is outrageous and disrespectful!
+CASHIER: Ok… (Grabs mic) Can the manager come to the register please…
+MANAGER: (Enter) Hello Joe! How are you- (Notices Karen) (Gasp) KAREN?
+Music Stops
+Record Scratch
+MANAGER: Karen, my beautiful wife! What are you doing?
+vine boom
+KAREN: Please Kevin, It's not what it looks like!
+MANAGER: Come on Karen! It’s the fifth time today…
+KAREN: Please, my husband! Let me explain to this cashier for a second!
+MANAGER: Ok… Go ahead.
+KAREN: Listen here cashier, my dog can do KARENSKILL better than you working at my husband's lovely STORENAME.
+CASHIER: I don’t really care… Also would you like to use any coupons?
+KAREN: As a matter of fact, I do have one. (Gives coupon)
+CASHIER: (Checks coupon) It’s expired…
+KAREN: I’m going to get you fired soon for good… and close this store down (Exit Store)
+CASHIER: Can I go home?
+MANAGER: Yes, that'll be all, Joe. Take the rest of the day off, go home and HOME ACTIVITY.
+KAREN: And don't come back!
+MANAGER: Actually before you go, I need to have a word with you.
+KAREN: You're in trouble now!
+MANAGER: (Whispering to Cashier's ear) If you ever work at a bank, just know Karen is a ROBBING expert
+CASHIER: Oh god…
+CASHIER: I don't get paid enough for this. (Leave Entrance Stage Right)
+
+======
+
+INFORMATION ===============================
 ID: 1604
 TITLE: Faker!
 AUTHOR: LeDerp_64
@@ -50768,6 +50980,190 @@ Teleport CLO to Backstage
 HEO: What would DOUG want with that VALUABLE?
 HEO: As much as i would love to sit here and ponder, I gotta get outta here.
 HEO: I gotta tell OBAMA about this. (runs offstage)
+
+======
+
+INFORMATION ===============================
+ID: 1611
+TITLE: Customer is always WRONG
+AUTHOR: AsheWHY
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 15/04/25
+CHARACTERS ================================
+WORKER: A worker with a temper:Behind Register
+NICE: A nice customer:Center Stage
+BAD: A bad customer:Entrance Stage Right
+SUGGESTIONS =============================
+KIND: A nice thing to say to someone:Thank you. I appreciate you. 
+EASY: A simple drink:cafe latte, cafe mocha, smoothie
+COMPLEX: A gen z style drink:A pumpkin spice latte, with soymilk
+TEMP: How hot is the drink:Lukewarm, cold, boiling
+SUGAR: How much sugar is in it:Sugarfree, extra sugary, 3 teaspoons
+MILK: What milk is used:Soy milk, almond, full fat
+SCRIPT ==========================================
+happy music 1
+WORKER: One large EASY to go.
+NICE: Brilliant, KIND.
+Music Stops
+WORKER: The heck you say! (angry)
+vine boom
+NICE: I just said KIND (shocked)
+emotional piano music
+WORKER: Oh I'm sorry. I'm just so used to bad customers
+NICE: Oh, that sucks. I'm sorry
+WORKER: Thank you for your kind words. I needed that.
+Music Stops
+BAD: (enter stage right, with sass) Is that my COMPLEX ?
+NICE: Uh no, that's a EASY.
+BAD: Well where's my COMPLEX ?
+WORKER: You just ordered...(irritated)
+BAD: Yeah? Where is it?
+WORKER: Nowhere!
+vine boom
+BAD: w...what? (scared)
+scary music
+WORKER: You're not getting your COMPLEX.
+BAD: Wait...what am I getting?
+WORKER: Oh I'll tell you what you're getting. You're getting a TEMP...
+BAD: (Gasp) no...
+WORKER: SUGAR
+BAD: (whimper) no please...
+WORKER: MILK
+BAD: But I'm allergic...
+WORKER: And I'm allergic to Idiots!
+BAD: How dare you talk to me like that! There will be consequences!
+WORKER: I am the consequences!
+BAD: (fearfully) Have mercy...
+WORKER: We're fresh out of mercy!
+BAD: (run off stage in fear) Oh god...
+happy music 1
+WORKER: (With a smile and cheerful tone) Thanks for stopping by!
+TYPEWRITER: And remember folks, Don't believe in "The customer is always right". Because they're not.
+
+======
+
+INFORMATION ===============================
+ID: 1623
+TITLE: Too Many Boyfriends
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 21/04/25
+CHARACTERS ================================
+MAID: The Maid:Stage Right
+MISS: The Mansion's Mistress:Front Door
+BOY1: The Creepy Boyfriend:Backstage
+SIS: The Little Sister:Backstage
+BOY2: The Demonic Boyfriend:Backstage
+SUGGESTIONS =============================
+BOYNAME: name of a powerful character:Okina, Jesus, Goku
+SYSNAME: name of a girl from an anime:Flandre, Orihime, Konata
+OLDNAME: name of an old, wise character:Yukari, Miyagi, Pai Mei
+TITLE1: a title for a renowned person:sage, wizard, queen
+TASK: a verb:get around, teleport, die
+DESSERT: a dessert:cake, flan, ice cream
+COUNTRY: a country or other large location:Japan, Gensokyo, Hell
+DEMON: name of an evil character:Toutetsu, The Devil, Frieza
+NAMEAUD: name of someone in the audience:Meiling, Jar, Jinx Izayoi
+TITLE2: a type of relationship between people:boss, cousin, side-piece, best friend, arch-nemesis, third cousin twice removed, ex-roommate, secret admirer, frenemy, life coach, soul mate
+NUM: a number:1, 500, 69
+CATCH: a funny catchphrase:wowza, the end, the fitnessgram pacer test is a multistage aerobic capacity test that progressively gets more difficult as it continues
+SCRIPT ==========================================
+(dark classical music)
+MAID: (open the front door) Welcome home, milady.
+MISS: (walk inside) Sorry. I was gone for several days. Anything new?
+MAID: No. Nothing at all. We've just had a few guests.
+MAID: The bird reporter, the fairy that lives nearby...
+MISS: Same as always.
+MAID: And...
+MAID: The young mistress brought her boyfriend.
+(record scratch)
+Music Stops
+MISS: (infuriated) What do you mean "nothing at all?!"
+TYPEWRITER: The Mistress decides to meet with her sister and her new "Boyfriend."
+(japanese music 2)
+BOY1: (enter Stage Left) I am a god of the back door. A god of impairments. God of Noh, god of outcasts, god of stars...
+BOY1: And boyfriend of SYSNAME.
+MISS: Listen here. There are rumors going around the village of you abducting little girls, you know?
+BOY1: Ah hah hah! Sounds like quite the misunderstanding I should clear up.
+BOY1: I don't just like little girls. I also like grown-ups just fine. Like OLDNAME for one.
+SIS: (enter Stage Left) Are you reeeaaally trying to defend yourself?
+MISS: Listen, SYSNAME. I wouldn't complain if a boyfriend you brought home was a murderer or a terrorist or something...
+MISS: But a TITLE1 is a step too far.
+SIS: Huuuh? And why is that? You're on pretty good terms with OLDNAME, aren't you?
+MISS: Sure, but we're not dating. What exactly do you even like about BOYNAME, SYSNAME?
+SIS: Huh? What makes you think I "like" her?
+(vine boom)
+SIS: I just agreed to make her my boyfriend cuz she makes it easy to TASK.
+MISS: Pretty rude of you to just use her to TASK, isn't it?
+BOY1: Heh... I get to be her boyfriend.
+MISS: G-good for you...
+SIS: *sigh* You know I have plenty of other boyfriends besides BOYNAME, right?
+SIS: There're those kids who play outside the temple school, obviously.
+SIS: And the old man at the sweets shop is my boyfriend cuz he gives me his test DESSERT.
+MISS: Don't just-
+SIS: DEMON is my boyfriend who plays with me. NAMEAUD is my boyfriend who sleeps with me...
+MISS: Right. Remind me to kill NAMEAUD after this play.
+MISS: And that... DEMON, was it? Why haven't you introduced them to your sister?
+SIS: Why the hell should I?
+MISS: Hey now! If they seem nice, I'll at least pull out some DESSERT or something.
+BOY1: Hmm? Sister-in-law, you've never met DEMON?
+MISS: Call me that again, and I'll kill you as well.
+Music Stops
+(scary music)
+BOY1: DEMON is a horned beast who leads the Gouyoku Alliance, one of the great powers of the Animal Realm.
+BOY1: Over on COUNTRY, the Taotie is even counted among the "Four Great Fiends."
+BOY1: At the moment, I've arranged for them to be in charge of a certain place. Want to take a guess? The hint is "blood."
+MISS: SYSNAME, go with that one.
+SIS: Huuuh? Where's this coming from?
+MISS: They have the whole "Demon King" vibe going on, right?! A perfect fit for our pedigree!
+SIS: Geez! Don't try to order me-
+MAID: Young miss SYSNAME.
+Music Stops
+Teleport BOY2 to Front door
+MAID: A second boyfriend is here. (open the front door)
+MISS: Could it be... DEMON?
+MAID: Yes, just so. Very astute, milady.
+(jazz music 1)
+BOY2: Hey, SYSNAME! I'm here to see you! I brought a new game!
+SIS: NEW GAME!! I'm gonna play with DEMON now, so sis! BOYNAME! Get out!!
+BOY2: Ku ku ku... not so fast... looks like you don't know what this new game entails.
+MISS: Demon King vibes!
+BOY2: Ever play a tabletop R-P-G?
+MISS: Uhh... never mind.
+TYPEWRITER: One DnD session later...
+MISS: Hey, SYSNAME. I've been thinking. This might just be the first time that I've seen you having fun and laughing with your friends.
+MISS: I really think you should choose DEMON as your boyfriend. Even if she's not as handsome as I imagined.
+BOY1: What are you saying, NAMEAUD? You're embarrassing me in front of everyone.
+MISS: I'm not talking to you. Ah, wait... we're all larping as different characters right now...
+MISS: Hey!! Why is this stupid script so confusing?!
+SIS: Damn, NAMEAUD, you really suck at roleplaying.
+BOY2: You can say that again.
+MISS: Come on! I'm being serious here, dammit!
+MISS: DEMON, what about you? Are you going to marry my SYSNAME?
+BOY2: Huh?! M-marry?! (panicking)
+BOY2: Do you mind if I do a check real quick?
+SIS: Barf. No one wants to talk to their TITLE2 about marriage stuff.
+BOY2: (pull something out of pocket) If you roll a NUM on this 500-sided dice, you get married.
+MISS: That's basically a ball, huh?
+SIS: Here goes. (lol) (throw die)
+(gameshow ding)
+SIS: Ah. I rolled a NUM.
+Music Stops
+(gong)
+(happy music 1)
+BOY2: The game master and a player got married, so the players... win?
+BOY2: By the way, does that actually mean I'm marrying BOYNAME, or...?
+SIS: Huh?! My boyfriends are marrying each other all of a sudden?!
+BOY1: The one you really want to marry is your dear big sister, isn't it? I can tell.
+SIS: What the hell gave you that idea!?
+BOY2: God damn, this TITLE1 creeps me out.
+SIS: If big sis is NAMEAUD, but my boyfriend who's my boyfriend's boyfriend is also myself, does that mean me and big sis are also married? (scream)
+MISS: SYSNAME is spiraling into madness!
+MAID: CATCH
 
 ======
 
@@ -50868,6 +51264,134 @@ MOM: Absolutely, NAME2. (leave room)
 BRO: (sit on couch) I knew paying that cop $NUMBER would work...
 TTS: (monotone) Stream has ended.
 Meanwhile TYPEWRITER: Stream has ended.
+
+======
+
+INFORMATION ===============================
+ID: 1629
+TITLE: Loud News Reporters
+AUTHOR: OliverTheDragon
+VERIFIED: True
+TAGS: Skit
+SET: News
+DATE: 25/04/25
+CHARACTERS ================================
+ROB: Rob The Loud News Anchor:News Desk
+BOB: Bob The Loud Field Reporter:Fake Street Backdrop
+POLICE: A Random Police Officer:Fake Street Backdrop
+SUGGESTIONS =============================
+NEWS: Name of the news station:Garbage News, Weazel News, Laziest News
+PUBLIC: A public area:Public toilet, Park, Gas Station, Burger Place
+CRIME: A small crime:Theft, Littering, Blasting awful music, Chewing annoyingly loud
+OBJECT: Random object:Pillow, Brick, Water melon, A copy of the movie UP
+WORD: A catchprase:It's Nerf Or Nothing, Steaksauce is the GOAT, Please help me!
+CURRENCY: Currency:US dollar, Euro, Yen, Crypto currency
+X: Large number:1000, 500, 360, 420, 9000
+SUBJECT: Random subject:Politics, Weather, Fake news, Future of AI
+CONSUMERGOOD: Something you can buy:bread, sneakers, lamp, concert ticket, pet tarantula, haunted doll, glow-in-the-dark toothpaste, unicorn meat, virtual reality bucks
+COST: Something you love will cost you this:5 dollars, 1 million bucks, time, peace of mind, sleep, a fortune
+JESUS CHRIST: An important person, OR religious deity:Queen Elizabeth II, Thor, The Tooth Fairy, Cthulhu, Santa Claus, Beyoncé, SpongeBob SquarePants, Flying Spaghetti Monster
+SITUATION-ADJECTIVE: Adjective describing the current situation:boring, unexpected, chaotic, slippery, electrifying, perplexing, sticky, hair-raising
+SCRIPT ==========================================
+world news intro
+ROB: Hello and welcome to NEWS the news station with loud reporters and even louder news!
+ROB: In The Local PUBLIC a serious crime was committed, We Immediately go over to my brother Bob in the field!
+BOB: I'm currently at the PUBLIC where the incident happened!
+BOB: (Look around) The situation here is SITUATION-ADJECTIVE.
+ROB: Can you tell us more about what happened Bob?
+BOB: No i cannot Rob, But this random police officer i found at the crimescene can!
+BOB: (Turn towards the officer) Officer, Can you tell us what happened here?
+courtroom music
+POLICE: Of course i can. Here in the local PUBLIC a very serious crime was committed!
+BOB: Yes we already know that. We want to know what the crime was!
+POLICE: CRIME was just commited here at the local PUBLIC!
+BOB: Sweet JESUS CHRIST, that sounds awful! Do you have any information about the suspect?
+POLICE: Witnesses say the suspect was wearing a Fursuit and holding a OBJECT while committing the crime
+BOB: So you're saying the suspect was a furry?
+POLICE: We do not have any information if the suspect is indeed a furry or if they trying to make furries look bad!
+BOB: I see. Do you have any more information about the suspect like why they were holding a OBJECT?
+POLICE: Witnesses also say they heard the suspect repeatedly yell WORD which they believe is the suspects catchphrase!
+POLICE: And the reason behind the suspect holding a OBJECT is still unknown!
+BOB: Well thats all we need to know about this awful incident that traumatized nobody here at the local PUBLIC. Back to you Rob!
+Music Stops
+ROB: Thank you Bob. Now It's time for some other news!
+ROB: The value of the CURRENCY have skyrocketed to X percent. this is a new world record!
+ROB: CONSUMERGOOD now costs COST.
+ROB: Well thats about it for NEWS today, Tune in tomorrow where we will be discussing SUBJECT even tho nobody cares about it!
+ROB: Anyways remember folks, WORD. Rob signing out!
+world news outro
+
+======
+
+INFORMATION ===============================
+ID: 1633
+TITLE: The Haunted Grounds
+AUTHOR: HolidayWither
+VERIFIED: True
+TAGS: Skit
+SET: Campsite
+DATE: 26/04/25
+CHARACTERS ================================
+CAMPER #1: A Stoic Camper:Center Stage
+CAMPER #2: A Timid Camper:Stump chair
+GHOST: Spirit of the Campsite:Backstage
+SUGGESTIONS =============================
+SPIRIT: Name for a spirit or demon:Gregoriah, Beez, Duncan, Fritz, Glutty
+NAME: A famous person or celebrity:Ringo Starr, Bill Nye, John Wick
+ENTITY: An entity or otherworldly being:Demon, Monster, Hydra, Mimic
+ITEM: An item or collection someone would cherish:Rock Collection, Painting, Statue, Book Series
+OCCUPATION: An occupation or profession, plural:Campers, Teachers, Tourists, Explorers, Politicians, Wizards
+CAMPER: Name for a stoic individual:Marshall, Steve, Timothy The Third
+ANIMAL: An animal:Dog, Cat, Turtle, Axolotl, Horse
+OBJECT: An appliance or electronic device:Television, Smart Watch, Computer, Refrigerator
+GIBBERISH: A nonsensical saying:De-Ba-Doo-Ba, Flim Flam Flanoodle, Zim Zam Zoom
+DESTINATION: A famous location or destination:Freddy Fazbear's Pizzeria, The White House, The Grand Canyon, New York City
+SCRIPT ==========================================
+Silly music 2
+CAMPER #1: Welcome to Campsite C-13...Home of the legendary Cursed Tent of SPIRIT.
+CAMPER #2: (mocking) Ooooh, spooky. What’s next? NAME decides to start a YouTube channel?
+CAMPER #1: No...worse. It's a ENTITY that steals your ITEM.
+CAMPER #2: Hey, leave my ITEM out of this! I just started my rare collection of them last week!
+Bird screech
+Music Stops
+CAMPER #2: What was that?
+CAMPER #1: Probably just...the wind. A judgmental, aggressive wind.
+Chainsaw
+CAMPER #2: (pointing at the tent) That came from the tent! Oh, I told you we shouldn’t have come here!
+CAMPER #1: Quick! Offer it something!
+CAMPER #2: Uh, mighty spirit! We mean you no harm. We’re just lowly OCCUPATION. And if you need to eat anyone, eat CAMPER. They're tastier than I am.
+CAMPER #1: Hey!
+Teleport GHOST to STAGE RIGHT
+Scary music
+GHOST: You dare disturb the Cursed Tent of SPIRIT?! You are now stuck here...unless you prove yourselves worthy!
+CAMPER #1: Whatever you say. 
+Meanwhile CAMPER #2: What do you need us to do?
+Record scratch
+Halloween music
+GHOST: First, you must each declare your undying love for something ridiculous!
+CAMPER #1: That's it?
+Ghost: Are you questioning me?
+CAMPER #1: No, not at all! I once knitted a sweater for my ANIMAL!
+CAMPER #2: I wrote a breakup letter to my OBJECT when it broke!
+GHOST: Good...Good. Now: create a secret password to guard this tent forever!
+CAMPER #2: Are we sure this is a real spirit?
+GHOST: What was that?
+CAMPER #2: Nothing! I mean "GIBBERISH!"
+GHOST: Very well! Now for the final task, I need a tribute!
+CAMPER #1: I think you need to offer up your ITEM man.
+CAMPER #2: No. They'll have to pry it from my cold, dead hands.
+GHOST: I have a better idea.
+Alien teleport
+CAMPER #2: Did you just use your powers to steal my ITEM?
+GHOST: I did indeed, and thank you for your donation. You are now free to go. (exits into tent)
+CAMPER #1: See? Easy. No curse! No problem!
+CAMPER #2: Whatever. Let’s get out of here before it changes its mind.
+Alien siren
+CAMPER #2: I didn't like the sound of that...
+CAMPER #1: Dude. You’re cursed.
+CAMPER #2: I'm cursed? Well so are you!
+GHOST: (peeks out from tent) Sorry, couldn't help myself!
+CAMPER #2: Next year, we're vacationing somewhere safer...like DESTINATION"
 
 ======
 
