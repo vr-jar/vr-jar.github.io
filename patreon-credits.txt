@@ -2802,6 +2802,7 @@ MrsCipher
 Sleepy_Gecko
 Ｌｏｖｅｙ Ｄｏｖｅｙ
 CocoLoco0
+NightRoseWolf
 #TIER=3
 SidMarcus
 PinballReviewer
