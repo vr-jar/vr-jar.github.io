@@ -1398,7 +1398,6 @@ onedum
 ᴄᴏᴀᴛ
 TheToxicAvenger
 Narka_
-Nummycore
 kryv
 ThePiedRat
 -Ruski-
@@ -2082,6 +2081,7 @@ StrawberryFox72
 ᴛᴢᴢᴠ
 ~ g h ø s t ~
 Ducklover247225
+Nordstation
 modNick
 ruralists
 #TIER=1
