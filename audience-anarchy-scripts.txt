@@ -39648,7 +39648,7 @@ typewriter:2 weeks later CORPORATION went out of business. The end.
 INFORMATION ===============================
 ID: 1282
 TITLE: The Not So Quiet Spy
-AUTHOR: shadowking23
+AUTHOR: Shadowydarkness
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -51045,6 +51045,93 @@ TYPEWRITER: And remember folks, Don't believe in "The customer is always right".
 ======
 
 INFORMATION ===============================
+ID: 1621
+TITLE: Just Dance
+AUTHOR: Rotem_N
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 20/04/25
+CHARACTERS ================================
+ELLA: Ella the older sibling:Entrance Stage Right
+IVY: Ivy the younger sibling:Couch
+MOM: The mother:Entrance Stage Right
+SUGGESTIONS =============================
+CONSOLE : A gaming console:Xbox, Playstation,  Nintendo 
+DEVICE : A device :Phone, tablet
+NICKNAME: A cute nickname:Sweetheart, baby
+PERSON: A name of a person:Amy, sheldon, missy
+FAST: A fast food:Burger King, Wendy's,  crumble
+OBJECT : An object :Phone, card, money 
+SCRIPT ==========================================
+IVY: Ugh I'm so bored, my family left me home alone.
+IVY:And there's nothing to watch on this TV.
+IVY: I'll call Ella she was supposed to be here right now.
+Cellphone vibrate
+IVY: Cmon answer already.
+MUSIC STOPS
+IVY:She really hang up on me.
+IVY: Gosh I'm bored.
+badass music 1
+IVY: What is that music?
+break down door
+badass music 1
+ELLA: (Walk into stage) It's me!
+IVY: Finally! I'm dying of boredom.
+IVY: Have you brought any food from FAST at least?
+ELLA: No...
+ELLA: But I have brought something even better!
+IVY: You have brought my OBJECT back? I've been waiting for ages.
+ELLA:No, but...
+ELLA: Look! (Pulls out CONSOLE)
+Tada
+IVY: (Excited) Omg where did you get that CONSOLE from?!
+ELLA:From some guy.
+ELLA: It doesn't matter, if any strangers or cops ask, about it you know nothing.
+IVY: (Weirdly) Ok
+70s music
+ELLA:(Comnect CONSOLE to TV) Ok it supposed to have that game that you dance in it.
+IVY: Eh?
+ELLA: I forgot the name (Sit on the couch)
+IVY: (Grabs controller) Oh! Just dance
+ELLA: Yes! That one!
+ELLA: Remember we played it on PERSON's birthday?
+IVY: Yeah! Let's turn the game on
+ELLA: Alright we need to stand. (stand infornt of the tv)
+ELLA: I'm picking this dance
+Australian music 1
+IVY: Ok let's dance! (dance)
+ELLA:Yeah! (Dance)
+MOM: (Come into stage) Hi, my little NICKNAMEs!
+MOM: (Stand infront of the TV) aww I never seen you two dancing together.
+IVY: (Keep dancing) Mom were busy, move!
+MOM: Are my NICKNAMEs are to busy to welcome their mother?
+ELLA: Were in the middle of a game.
+MOM: I dont see any game.
+ELLA: Mom it's on the TV.
+MOM: On the TV? (Looks at tv)
+Vine boom
+Australian music 1
+MOM: (Scared) Why are there people in my TV?!
+IVY: Mom it's just a game.
+IVY: It's just dance!
+MOM: No! Those people should not be in my TV! (Punch tv)
+explosion
+Emotional piano music
+ELLA:Noo!
+MOM: I've just saved your lives.
+MOM: I'm going to make dinner. (go to kitchen)
+IVY: I'm sorry about your CONSOLE Ella.
+ELLA: That's fine.
+IVY: You know.
+Happy music 1
+IVY: We can use my DEVICE instead, to play!
+ELLA: Yay! I know you weren't a mistake!
+IVY:Wait what?
+
+======
+
+INFORMATION ===============================
 ID: 1623
 TITLE: Too Many Boyfriends
 AUTHOR: Jinx Izayoi
@@ -51392,6 +51479,73 @@ CAMPER #1: Dude. You’re cursed.
 CAMPER #2: I'm cursed? Well so are you!
 GHOST: (peeks out from tent) Sorry, couldn't help myself!
 CAMPER #2: Next year, we're vacationing somewhere safer...like DESTINATION"
+
+======
+
+INFORMATION ===============================
+ID: 1663
+TITLE: The Interview
+AUTHOR: komio223
+VERIFIED: False
+TAGS: Skit
+SET: Murder
+DATE: 14/05/25
+CHARACTERS ================================
+VIP: The Interviewee:Entrance Stage Right
+INT: The Interviewer:Stage Left
+SUGGESTIONS =============================
+NAME: Someone's full name (and title) or stage name:Richard Dickinson, King Arthur II, Hamster Man, Tim
+BOAST: Adjective someone would use to boast about themself:awesome, hot, adorable, perfect
+UHOH: Something someone might take offense to:stealing candy from a baby, committing numerous unforgivable crimes against humanity, flossing, looking someone in the eye for one thousandth of a second too long
+CHAOS: Literally anything somebody might say out loud:I like turtles, I did it, Stay in kids drugs, Is this over?
+WOW: Something interesting and praiseworthy to do:write a book, make prank videos on youtube, count to one million in one sitting, write a play about an interview starring yourself
+SCRIPT ==========================================
+gameshow intro
+INT: Ladies and gentlemen, good evening and welcome to the interview you've all been waiting for.
+INT: Tonight, I have the honor of hosting this historic event for you all.
+INT: Our guest today is one of the most talked about people on the planet, if not the entire universe.
+INT: Ladies and gentlemen, give a round of applause for the one, the only: NAME!
+crowd woo
+VIP: (Enter the stage while saluting the crowd and go sit on the couch) Thank you, thank you. It's an honor for you for me to be here.
+INT: Yes it is. You are currently the most famous person ever, anywhere. How did you achieve such fame in such a quick amount of time?
+VIP: Well, the short answer is that I am simply BOAST. However, the long answer is that it's so difficult being so talented at absolutely everything I do.
+aww
+INT: Truly tragic story. You mentioned being simply the best at everything.
+INT: It is true that you have ventured in a lot of different directions in your career.
+INT: And it seems that recently, you have taken it upon yourself to WOW.
+INT: This was a surprise to most of your fans. What explains this sudden shift in your career?
+emotional piano music
+VIP: Look, Clarence,
+INT: That's not my name.
+VIP: After going through one of the most difficult times I had ever faced in my life, I had to reflect.
+VIP: During this reflection, I had to dig deep within myself and then it came to me.
+VIP: What I had been doing this whole time was something I never truly wanted to do.
+VIP: I had let the fame and fortune get to my head and it was tearing me apart.
+VIP: But now I look back at that time and feel proud of where it brought me.
+VIP: Because it made me realize that I never truly wanted this fame. What I really wanted all along was to WOW.
+aww
+INT: Uhh...
+record scratch
+Music stops
+INT: If I'm getting this right, when you talk about one of the darkest times of your life...
+INT: are you talking about when you were found to have been UHOH?
+church bell
+VIP: Well... I wouldn't use those words in particular... But yes. I admit that UHOH was what brought on this time of reflection.
+VIP: UHOH, as much joy as it brought me, came at a sharp price. I no longer felt like myself. It had taken over my life.
+VIP: Secretly, all of my work throughout the years has been about me UHOH.
+VIP: It was hard to stop, but I started going to therapy to help with that.
+applause
+INT: And how has that been going for you?
+VIP: I stopped going after one session.
+vine boom
+VIP: But anyways, I got better and that's what counts.
+crowd woo
+INT: This has been truly inspirational and fascinating to hear. This is the end of the interview, thank you for having graced us with your presence tonight.
+VIP: Always grateful to be in my presence too.
+INT: NAME, is there anything you would like to say to the people out there before you leave?
+VIP: Yes. CHAOS.
+INT: And there you have it! Thank you for joining us tonight and I hope to see you again tomorrow for another amazing interview like this. Goodbye!
+gameshow outro
 
 ======
 
