@@ -2088,6 +2088,7 @@ SukiGojoGaming
 NEZZZ_Saitama
 Old Alex002
 Rayklaw
+Caniko
 modNick
 ruralists
 #TIER=1
