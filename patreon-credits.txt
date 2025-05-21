@@ -2084,6 +2084,7 @@ Dr_NPC
 StaryBluStar
 WolfMelons
 ༒ᴅᴇᴠɪʟʙᴀʙᴇᴢ༒
+Feigning Light
 modNick
 ruralists
 #TIER=1
