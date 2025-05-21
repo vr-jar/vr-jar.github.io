@@ -2665,7 +2665,6 @@ Serenitia YT
 Ｌｏｌｌｉｏ
 DiscipleShadow
 TrinityBlood67
-《KLIXABEAR》
 BRsCat喵~
 Okarun1
 ViZz≺3
@@ -2795,6 +2794,7 @@ CocoLoco0
 NightRoseWolf
 ShadowGod20 4395
 Miles4Trials
+《KLIXABEAR》
 #TIER=3
 SidMarcus
 PinballReviewer
