@@ -2069,7 +2069,6 @@ AuraDivine
 Drax_Gang
 dabs_toker69
 Dontay'
-hunterdown
 LumaTheFloof
 Seafoam_Asylum
 Dr_NPC
@@ -2086,6 +2085,7 @@ HolyAura
 renji pegger
 JavaBean123
 Erilaberry
+Hero！
 modNick
 ruralists
 #TIER=1
