@@ -47587,6 +47587,124 @@ CUSTOMER: Give me the free stuff.
 ======
 
 INFORMATION ===============================
+ID: 1521
+TITLE: Completely Platonic
+AUTHOR: houseerikson
+VERIFIED: False
+TAGS: Skit
+SET: Restaurant
+DATE: 10/03/25
+CHARACTERS ================================
+BOY: The Boyfriend:Entrance Stage Right
+GIRL: The Girlfriend:Entrance Stage Right
+WAIT: The Waiter/Waitress:Entrance Stage Left
+SUGGESTIONS =============================
+DRINK: A type of drink:Burbon, Lemonade, Water, Soda
+NO: Something you shouldn't drink:Oil, Laundry Detergent, Pee, Toilet Water
+BUG: something you would not want in your food:Cockroach, Beetle, Ant
+MAIN: A main course meal:Pasta, Steaks, Burger
+REST: Any resturant:East Side Mario's, McDonalds, Burger King
+SIDE: A side dish:Breadsticks, Fried Pickles, Onion Rings
+PET: A cutesy pet name:sugar, babe, honey, toots
+YOGA: place you might meet a new friend:yoga, coffee shop, gym, fortnite festival, vrchat, cooking class, book club, local pub
+SHIRT: something you can wear:hat, sneakers, garfield shirt, scarf, dress, leggings, blazer, yoga pants, crocs
+SCRIPT ==========================================
+(Guitar Music 1)
+BOY: (ENTER STAGE RIGHT) Alright, here we are!
+GIRL: (ENTER STAGE RIGHT) Oh, wow! This place looks so fancy!
+GIRL: How'd you get a table at REST of all places?
+BOY: Well, I got it through crime.
+GIRL: (sarcastic) Oh, ha ha...but really, how'd you pull this off?
+BOY: (Sit down at table) Alright, alright. I'll spill. A close friend of mine works here.
+GIRL: (Sit down at table) Oh, you do?
+BOY: Yep, and they were kind enough to us up with some free seats.
+GIRL: Wait...free?
+BOY: Uh huh! Nice, isn't it?
+GIRL: Yeah, I'd say so.
+WAIT: (ENTER STAGE LEFT) Hello, and welcome to REST!
+BOY: Hey, there they are! Over here!
+WAIT: (Flirty) Hey....how've you been, PET?
+BOY: Well, I've been great, thanks for asking!
+WAIT: Good, good...and who's this?
+BOY: Oh! This is my girlfriend!
+WAIT: (Disappointed) oh....I see....
+GIRL: Hi. He's told me a lot about you, you know!
+WAIT: (dismissive) Uh huh, I don't care girlie. Anyways, you two wanna start out with some drinks?
+BOY: Oh! I think I'll have a DRINK to start!
+GIRL: I'll have the DRINK too.
+WAIT: I'll get right on that....don't go anywhere, PET! (Exit Stage Left)
+GIRL: PET...? They call you PET?
+BOY: Yeah, such a weird nickname, right?
+GIRL: Uhm...what EXACTLY is your relationship with your friend?
+BOY: Well, we're friends. We met at the YOGA!
+GIRL: Yeah, I know but...are you two more than that?
+BOY: Oh no, we're completely platonic!
+GIRL: Well, alright...
+WAIT: (ENTER STAGE LEFT) I'm back, PET! Here's your drinks for you...two...
+BOY: Aww, thanks so much, bud!
+BOY: (Sips drink) Perfect as always!
+WAIT: You're perfect...
+GIRL: What?
+WAIT: What?
+GIRL: Ugh...nevermind...
+GIRL: (Spit out drink) EW! What the hell is this???
+WAIT: Is something wrong?
+GIRL: Yeah! This isn't DRINK, it's...NO!
+WAIT: Oh, my mistake...guess I mixed up the orders...
+GIRL: Who orders NO to drink?
+WAIT: Let me get you two some sides real quick. Be right back! (Exit Stage Left)
+BOY: I'm sure it was just an honest mistake, dear. Nothing to be upset about.
+GIRL: I guess...but I don't trust them. Are you SURE they're not into you?
+BOY: One hundred percent. We're strictly platonic YOGA friends.
+WAIT: (ENTER STAGE LEFT) (Angry) Here's some sides, you lovebirds.
+BOY: Oh! SIDE! I love these!
+WAIT: I made em extra special for you, PET. Hope you like them.
+BOY: They're great! You always know which ones I like.
+GIRL: Eugghh...why are mine so cold?
+WAIT: Dunno...maybe you just have no taste...(COUGH) TACKY! (COUGH)
+GIRL: What was that???
+WAIT: What? What did I say?
+GIRL: You just said my SHIRT was tacky!
+BOY: Hey, calm down. They said no such thing about your SHIRT. Besides, your SHIRT is lovely.
+WAIT: I think we should move onto the main course. What would you want, my whittle PET?
+BOY: Oh, I think I'll have the MAIN.
+WAIT: Perfect. I'll get right on it.
+WAIT: (Turns to Girlfriend) Alright, what the hell do you want?
+GIRL:...just get me the same thing...
+WAIT: Yeah, sure whatever....(EXIT STAGE LEFT)
+BOY: What's going on with you?
+GIRL: With me? It's your friend that's the problem! They're making my orders bad on purpose!
+GIRL: They're probably jealous I'm with you and not them!
+BOY: Jealous? Don't be ridiculous. I told you, we're just some platonic friends from YOGA!
+WAIT: (ENTER STAGE LEFT) Here we go! Your main courses!
+BOY: Thanks so much! You know how much I love MAIN!
+WAIT: You bet I do...(turns to Girlfriend) alright take your meal and shut up.
+GIRL: EWWW! There's...there's a BUG in my MAIN!
+WAIT: Oh nooo...how'd that get in there....
+GIRL: Alright, that's it!
+BOY: Hey, why don't try and calm down?
+GIRL: (Stands up) NO! This waiter is trying to sabotage our date!
+BOY: No they're not? Why would they do that?
+GIRL: Oh my god....THEY'RE INTO YOU! HOW HARD IS IT TO SEE THAT?!?!
+WAIT: (Gasp) How DARE you! I am most certainly not!
+WAIT: I'm simply trying to provide the best service for my completely platonic PET!
+GIRL: You know what? Screw this! I'm outta here! (EXIT STAGE RIGHT)
+BOY: Wait! Don't go!
+WAIT: Ah, good riddance to her! She wasn't good for you anyways...
+(70s music)
+WAIT: And now that it's just the two of us, PET...how about we have a little fun...
+BOY: What do you mean?
+WAIT: (Flirty) How about you come with me into the background and we can...have a real good time...
+BOY: Look, I'd love to, but I have to chase after my girlfriend. Sorry, friend.
+WAIT: ....Yeah, no. I get it. That's SO good for you! REAL GREAT! I NEED TO LEAVE NOW.
+WAIT: (EXIT STAGE LEFT)
+BOY: Man...maybe I shouldn't have blown them off like that...they looked really uspet...
+BOY: Eh, I'm sure my PET is just fine. (EXIT STAGE RIGHT)
+WAIT: AAAA!!!!!!
+
+======
+
+INFORMATION ===============================
 ID: 1523
 TITLE: It's All About Convenience
 AUTHOR: zanbbit
@@ -48235,25 +48353,37 @@ PHRASE: A funny phrase to say the end:Burger King SUCKS!, It's time for me to go
 PARTNER: a company/celebrity you might partner with:Burger King, GOD, Chuck Norris 
 TOY 2: a new happy meal toy:Even more Pokemon cards, Trash Man (made with real trash)
 CRIME: A crime Ronald McDonald might commit:Arson, kidnapping, aggravated assault, clowning around
-ACTION: A random action to do:Jump, Punch his face, fart
+ACTION: A random action to do:Jump, Punch his face, fart, kiss him, spit on him, flush the toilet
+PUNISHMENT : A cruel punishment:Tickled for 24 hours, death, increased taxes, bad haircut
+WORD: a negative or weird description of something :Stupid, gay, crusty, sticky
 SCRIPT ==========================================
 (Silly music 1)
-CLOWN: (sit on the toilet and look at the audience) who the hell are you people! Why are you in my bathroom!
-MAN:(enter any door) we're live, here you go (hand script) (ACTION) (leave)
-CLOWN: (confused) what is this?... A script from McDonalds? I said I quit!
-CLOWN: well as long as they're paying me, but in my bathroom? Seriously?
-CLOWN:alright... What's this thing say...
-CLOWN: *ahem* "Hi everyone, Ronald McDonald here! and even though I was found guilty of CRIME in the 90's.
-CLOWN: The company still wants me to tell you guys about some new changes happening to McDonalds.
-CLOWN: Firstly they're making a change to their menu. so the FOOD 1 will be replaced by the FOOD 2.
-CLOWN:that's not all, they're also opening a new Mcdonalds in LOCATION!
-CLOWN: And they want me to say that when they open in LOCATION they're adding TOY 1 in every Happy Meal
-CLOWN: But that's not the only toy they're releasing in their happy meals.
-CLOWN: apparently they partnered with PARTNER to add TOY 2 to their Happy Meals
-CLOWN: That's all they wrote so can you guys please leave my bathroom I need to wipe
-CLOWN: oh but before you leave I have one more thing to say to you people
+CLOWN: (sit on the toilet) man I sure am glad to finally have some alone time here in my bathroom
+explosion
+MAN:(enter and stand in the doorway) Ah, there you are. I've been looking everywhere for you!
+CLOWN: (confused and kinda scared)
+MAN: (go to Ronald) Here you go. The boss wants me to give this to you.(hand script)
+MAN: and there's just one last thing... (ACTION) (Exit though opposite door)
+CLOWN: (confused) what is this?
+CLOWN: A McDonalds Commercial script?
+CLOWN: and there's a sticky note here that looks important (peels off) what's this say?
+CLOWN:"Ronald, we have cameras and trained clown assassins in your house...
+CLOWN: if you refuse read this script than you and your family will be exiled to PUNISHMENT."
+CLOWN:Welp I sure don't want that, so I guess I have to read this WORD script
+CLOWN: *ahem* "Hi everyone, Ronald McDonald here! and even though I did CRIME in the 90's.
+CLOWN: Im here to tell you guys about some new changes happening to McDonalds. Because CELEB was unavailable
+CLOWN: Firstly there's going to be a change to the menu. so the FOOD 1 will be replaced by the new FOOD 2.
+CLOWN:But that's not all, there's going to be a new Mcdonalds opening in LOCATION!
+CLOWN: And when the McDonald's is open in LOCATION they're going to be adding an exclusive TOY 1 in every Happy Meal
+CLOWN: But there's more toy's kids and some sad lonely adults will receive in their happy meals.
+CLOWN: McDonalds has officially partnered with PARTNER to add TOY 2 to their Happy Meals
+CLOWN: That's all they wrote for me so if you guys could excuse me. I need to find those cameras...
+CLOWN:and wipe with this 1 ply toilet paper before my radioactive poop turns my toilet purple again
+CLOWN: oh but before you guys go I have one message for you all to take on your journey
 CLOWN:PHRASE.
-TYPEWRITER: PHRASE. Vine boom
+vine boom
+TYPEWRITER: "PHRASE" - Ronald McDonald, just now.
+vine boom
 
 ======
 
@@ -48394,6 +48524,77 @@ IDIOT 1: Anyway, I'm out, I gotta go help with THAT whole situation.
 INTERVIEWER: But what about the interview?
 IDIOT 1: (Walking out the door.) Honestly? I couldn't care less about working at COMPANY. And you shouldn't either.
 INTERVIEWER: Man... I should learn how to SKILL too...
+
+======
+
+INFORMATION ===============================
+ID: 1545
+TITLE: Cooking Informercial
+AUTHOR: Perydaplaypus
+VERIFIED: True
+TAGS: Infomercial
+SET: Infomercial Kitchen
+DATE: 20/03/25
+CHARACTERS ================================
+MAYS: Billy Mays:Center Stage
+THESIS: Eric Theiss:Backstage
+WOMAN: Woman with Theiss:Backstage
+SUGGESTIONS =============================
+COOK: Name for a cooking product you'd find in an infomercial:Power Air-Fryer Oven, Slap Chop, Copper Chef
+EVENT: An activity two or more people would do together:Date, Sleepover, Party
+ITEM: An item someone would have:TV, PC, Console, Record Player
+FOOD: A type of food:Sandwich, Steak, Pork Chops
+CHEF: A professional chef:Gordon Ramsey, Bobby Flay, Guy Fieri
+CAN: A can product you'd find in an infomercial:Slick-Eaze, Slick Pan, Stick Off
+FLAMING SENTENCE: Something you might yell if you were on fire:This is not a drill, I need milk, My hair smells horrible, This is what it's like to be a marshmallow, Clean up on aisle ME, I'm too young to be meat, is it hot in here or is it just me
+AFFECTION: A verb you do to something you like:stare at, deeply cherish, dominate, savor, squeeze, photograph, like comment and subscribe
+SCRIPT ==========================================
+(corporate motivational music)
+MAYS: Hi, Billy Mays here for the new COOK, a brand new and easy way to cook your meals.
+MAYS: Are you tired of soggy dinners ruining your EVENT?
+MAYS: Are you tired of your family hating you because the food is cold?
+MAYS: COOK is there to save your dinner.
+MAYS: All you have to do is to prepare the food, and use COOK to make the dinner of a lifetime.
+MAYS: (put COOK on table) To help show you the power of COOK,
+MAYS: I've brought celebrity chef Eric Theiss and a random woman I found outside the studio to help out
+THESIS: (enter Stage Left) Thank you for having us Billy.
+Meanwhile WOMAN: (enter Stage Left with Theiss)
+WOMAN: Yes, it's an honor.
+MAYS: Great. Now while you two are doing this, I'm going to go handle my divorce proceedings.
+MAYS: Like hell am I going to Diana take my kids and ITEM. (storm off Stage Right)
+THESIS: Ok, so to show the power of COOK , we are going to cook some FOOD.
+WOMAN: Oh yes, these will be appetizing.
+THESIS: Of course they'll be appetizing.
+WOMAN: I can't wait to AFFECTION it!
+THESIS: Now we have two of each, one that will be made the normal way, and one that will be made using COOK.
+THESIS: First, we'll cook the FOOD. (put one set of FOOD into oven)
+THESIS: While that's cooking, we'll use COOK on the other set (use COOK on other set of FOOD)
+WOMAN: Ooh, that looks appetizing.
+THESIS: I literally just started. So, what you don't want to do is use COOK for too long, or else.
+WOMAN: Or else what?
+THESIS: Or else.
+(gameshow ding)
+THESIS: Sounds like the oven FOOD is done. (pull FOOD out of the oven)
+THESIS: Now as you can see, there is a clear difference between Oven cooked FOOD and COOK made FOOD.
+WOMAN: Can I touch the FOOD?
+THESIS: No, it's hot.
+THESIS: Anyway, as you can see, the Oven cooked FOOD looks soggy and disgusting, while COOK cooked FOOD look like it was made by CHEF himself.
+WOMAN: Mmm, it looks tasty. (take COOK cooked FOOD and eat it) It tastes so good.
+THESIS: I just said to not touch it.
+WOMAN: Why?
+(fire alarm)
+WOMAN: (scream in pain) My hand is on fire!
+THESIS: I told you not to touch and look what happened.
+MAYS: (enter stage right) See, the results are fantastic.
+WOMAN: It burns! Aaaaaaah!
+WOMAN: FLAMING SENTENCE!
+MAYS: Order now and we'll throw in a second COOK absolutely free. That's two COOKs for the price of one.
+THESIS: Someone call 911!
+MAYS: And that's not all, order within the next 30 minutes and we'll throw in a can of CAN absolutely free.
+MAYS: Are you tired of non-stick pans not working? CAN can help with that.
+WOMAN: I can see bone!
+MAYS: But you have to call now.
+(infomercial disclaimer)
 
 ======
 
@@ -51479,6 +51680,240 @@ CAMPER #1: Dude. You’re cursed.
 CAMPER #2: I'm cursed? Well so are you!
 GHOST: (peeks out from tent) Sorry, couldn't help myself!
 CAMPER #2: Next year, we're vacationing somewhere safer...like DESTINATION"
+
+======
+
+INFORMATION ===============================
+ID: 1649
+TITLE: Lost & Dramatic
+AUTHOR: аlty
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 03/05/25
+CHARACTERS ================================
+TRAVELER : A regular traveler, a bit lost:Entrance Stage Right
+GUARDIAN: A Dramatic, Theatrical Guardian with a Shakespearean soul:Center Stage
+SUGGESTIONS =============================
+TRAVNAME: Any name for the traveler:Kevin, Joshua, Gordon
+RNDPLACE: Name any kind of street or statue:Spinning hamster statue, That street, Noodle Nook
+FRUIT: Any fruit:Strawberry, Apple, Peach
+ABSURD: Insert something absurd they're carrying:A golden toilet seat wrapped in velvet, An emotional support rock with its own ID badge, A portable black hole that is labeled "Do Not Open"
+TITLE: Any title for a name (example Sock Whisperer):Sock Whisperer, Baroness von Flatulence, Honorable Sir Sneezes-A-Lot, Supreme Commander of Awkward Silences
+PROPHECY: Any prophecy:Silence falls when the toaster speaks, Beware the spoon at dawn, The Duck will return, When socks vanish it begins, The pineapple knows the way
+SCRIPT ==========================================
+(dark classical music)
+TRAVELER: (Enter the stage while staring on the phone) Oh, perfect. My GPS just said, "You have arrived at RNDPLACE."
+Meanwhile GUARDIAN: (Look at the sky)
+TRAVELER: (Frustrated) No, I haven’t arrived! I don’t even know what RNDPLACE is!
+TRAVELER: (Approach slowly the stranger) Uh… excuse me? Do you know how to get to the main plaza?
+GUARDIAN: (Gasp) The plaza?!
+GUARDIAN: Thou seekest the fabled crossroads where WEHBBY practitioners convene under the watchful eye of… The Pigeon King?!
+TRAVELER: The… what? No, I just need directions.
+GUARDIAN: Directions are but the first step on the path of true enlightenment! But first—reveal thy name, lost soul!
+TRAVELER: (Sigh) It’s TRAVNAME.
+GUARDIAN: TRAVNAME! A name whispered in the halls of legend! From this day forth, thou shalt be known as… TRAVNAME the TITLE!
+TRAVELER: That’s not my... you know what, fine. TRAVNAME the TITLE. Can I please get directions now?
+GUARDIAN: (Dramatic gasp) But wait! Before thou mayest proceed, fate demands an offering! What treasure dost thou carry?
+TRAVELER: (Digging through bag) Uh… I’ve got ABSURD in here.
+GUARDIAN: (Shocked) ABSURD?! The very artifact foretold in the Prophecy of PROPHECY!
+TRAVELER: (Skeptical) It’s just ABSURD.
+GUARDIAN: (Whispering) Nay! It is the key to unlocking thy TALENT!
+TRAVELER: I… can't TALENT. I don't have a talent at all.
+GUARDIAN: (Gasp) LIES! All who pass through RNDPLACE must possess one!
+GUARDIAN: (Dramatic pause and lean in.)
+GUARDIAN: Then thou must prove thyself! Answer me this: RIDDLE!
+TRAVELER: (Confused) ...What?
+GUARDIAN: (Whispering) The answer lies within thy MYSTITEM.
+TRAVELER: (Digging in pocket) I… have a MYSTERY_ITEM? (Pull it out) Oh. Huh.
+GUARDIAN: (Shocked) The signs align! The prophecy is true! TRAVNAME the TITLE, wielder of ABSURD, bearer of MYSTITEM… thou art the chosen one!
+TRAVELER: I really just wanted a FRUIT smoothie.
+GUARDIAN: (Realization) FRUIT?! The sacred nectar of the ancients! Of course!
+GUARDIAN: (Make a pose.) The path to the plaza is revealed only to those who… fear FEAR!
+TRAVELER: (Frustrated) I don’t fear FEAR.
+GUARDIAN: (Gasp) Then thou art doomed to wander RNDPLACE forever!
+GUARDIAN: (Pause, then whisper) Unless… thou can't confront thy fear!
+TRAVELER: (Done with this) You know what? I’ll take my chances. (Start walking off)
+GUARDIAN: Wait! The Pigeon King demands tribute!
+TRAVELER: (Without turning) I don’t have tribute.
+GUARDIAN: Then offer… thy WEHBBY!
+TRAVELER: (Pause and sigh) Fine. I do WEHBBY. Happy?
+GUARDIAN: (Happily) The gods are pleased!
+GUARDIAN: (Suddenly freeze) OH LORD!
+TRAVELER: What now?
+GUARDIAN: I see… a prophecy! PROPHECY!
+TRAVELER: (Unimpressed) Uh-huh.
+GUARDIAN: (Dramatic whisper) And so, it shall come to pass… when TRAVNAME the TITLE wields ABSURD against the forces of… mediocre customer service!
+TRAVELER: (Holding ABSURD) This thing?
+GUARDIAN: (Nodding) The path is now clear. The plaza lies… that way. (Point anywhere)
+TRAVELER: That’s just an alley.
+GUARDIAN: (Whispering) An alley of destiny.
+TRAVELER: (Shrugs) Sure. Thanks, I guess. (Starts walking.)
+GUARDIAN: Wait! One final blessing!
+TRAVELER: (Without turning) No thanks.
+GUARDIAN: (Ignoring, striking a pose) DRAMEXIT!
+TRAVELER: (Stop for a moment, sigh, then continue walking off the stage) I’m never asking for directions again.
+TRAVELER: Especially from people like YOU!
+GUARDIAN: (To the audience) And so… another legend begins. (Freeze in a dramatic pose)
+
+======
+
+INFORMATION ===============================
+ID: 1653
+TITLE: Lost Player
+AUTHOR: ··Blue··
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 07/05/25
+CHARACTERS ================================
+BASIL: Basil, a player trapped inside of a game:Alley
+MAX: Max, a hunter looking for Basil:Entrance Stage Right
+NPC: An NPC inside of the game:Backstage
+SUGGESTIONS =============================
+USER1: In-game username:2Blu4U, Way_Toomuch, 1eGGz_4Me, Dead_F3rns
+USER2: In-game username:Brutal_Th0rn, IAteYourHayLOLZ, GrassToucher113, Mikul_Pwns
+GAME: Video game:Roblox, Minecraft, Touch Grass Sim, City-Living 2, 
+BOSS: Mysterious name/title:Vyrus, Dark lord, Commander, Hunter
+ACT: Something you could do to somebody to upset them:Broke their TV, Ate all of their food, Stole their dog
+MEAL: a meal:Pizza with breadsticks, Burger and fries, Pasta and garlic bread
+CRYPTO: real or fake cryptocurrency:emojis, twitch bitties, vbucks
+SCRIPT ==========================================
+mystery music 1
+TYPEWRITER: In the video game that goes by GAME, we meet a lost player named USER1, or Basil. However, they aren't your average player.
+BASIL: (muttering to self.) I think I'm safe here. For now, at least.
+BASIL: I hope BOSS and his goons don't find me in here. If they get their hands on me, I'm doomed.
+Music Stops
+TYPEWRITER: And just as they thought they were safe,;their bounty hunter arrived.
+noir music 4
+MAX: (enter from the right stage door, looking around slowly.) Hmm. This is where my boss told me that Basil guy was.
+MAX: Last I remember BOSS said that he's trapped inside of this video game. Sure is some crazy stuff alright.
+BASIL: Oh no, I have to get down. (hide behind something)
+MAX: H- Hello? I swear I heard someone. If you don't come out now, it'll be more painful when I find you later. (get closer to their hiding spot)
+MAX: You can't hide forever...
+Music Stops
+cellphone vibrate
+MAX: Huh? Oh that's my damn phone again. BOSS wants me to hurry up. (send text) "I'll find them soon, be patient.. ugh."
+message send
+MAX: Anyways... where was I. (spot them hiding) There you are.
+BASIL: Wait! Don't kill me please. I did nothing wrong!
+MAX: Did nothing wrong? Are you seriously telling me you did nothing wrong after BOSS told me you ACT?
+BASIL: He's lying to you. That's not the actual reason he's sending you after me.
+waltz music
+BASIL: You see, it all started a long time ago. I was playing GAME, when I decided it would be a fun idea to add a bot to my world to play with it.
+BASIL: I would kill it a couple of times and laugh it off. But then... it became self-aware!
+thunder
+BASIL: And now it wants revenge on me, its creator!
+thunder
+BASIL: You are working for an AI who's gone self-aware, how stupid is that?
+MAX: Pretty stupid, yeah, but he offered me a lot of money to kill you.
+BASIL: Think about it. he's an AI. And... I'm a real human being! You wouldn't!
+BASIL: I don't think an AI can even pay you real money anyway!
+MAX: I'm getting paid in CRYPTO.
+MAX: But regardless...  If I quit he'd hunt me down too.
+MAX: I'm in too deep. I have to end this now. You must die.
+BASIL: It's alright. We can take him down together.
+Music Stops
+scifi contraption
+NPC: (Enter from the stage left door) Man, that was a nice meal of MEAL. You should all check it out.
+NPC: (Noticing the person) Wait... USER1???
+laughter
+NPC: (Noticing the other person) USER2? You're here too?
+NPC: (Pointing at the target in a hurry) That's the target! He's right in front of you, why aren't you killing him?
+NPC: What am I even paying you 14327 CRYPTO for? Finish him!
+MAX: (To boss) Let's just say he told me the truth about you.
+NPC: (Nervously surrendering) Haha... I'm sure we could discuss this over a nice dish of MEAL, right guys?
+vine boom
+BASIL: BOSS, you took my life away from me and you want to discuss this over a stupid meal?
+laughter
+NPC: Listen USER1. I uh... I saved some of my MEAL back at the restaurant... wanna go finish it together?
+MAX: You're so idiotic.
+crowd woo
+
+======
+
+INFORMATION ===============================
+ID: 1654
+TITLE: Inheritance Scam
+AUTHOR: Costons
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 08/05/25
+CHARACTERS ================================
+MOM: The single mother.:Center Stage
+A STRANGER: A Mysterious man. :Entrance Stage Right
+ANNOYED CHILD: A young child. :Couch
+SUGGESTIONS =============================
+NICKNAME FOR A GRANDPARENT: nickname for a relative:Grandpa, Grand-dad, Pops
+OBJECT IN A LOCKED DRAWER: something valuable that might be locked away:Money, Awards, Car Keys
+JOB OCCUPATION : career/profession:Dentist, Teacher, Scientist, Doctor
+A COUNTRY: A country to travel to:Canada, USA, Mexico, Australia 
+CAR BRAND : a brand that sells cars:Ford, Toyota, BMW, Volkswagen 
+AN AMOUNT OF MONEY: a sum of money:1 Thousand, 1 Million, 10 Million
+CHEAP GIFT TO GIVE TO SOMEONE: cheap worthless gifts:Paper, Socks, Calculator 
+A FANCY RESTAURANT: expensive takeout food:Masa, Per se, Waku Ghin, Mirazur
+FAVOURITE FOOD ITEM: something you would eat:Pizza, Pancakes, Cake, Spagetti
+CELEBRITY: an old celebrity:Betty White, Morgan Freeman, Cher, Keith Richards, The Queen of England, Clint Eastwood, Judy Dench, Yoda, Mr. Peanut, Gandalf
+TELEVISION: something you should not watch on TV:infomercials, wedding video, paint drying channel, tiktok, animal wrestling, sharknado
+GARBAGE : garbage that you should not eat:syringe, go-gurt, wet bread, banana peel, chewed up gum
+SCRIPT ==========================================
+emotional piano music
+MOM: Get ready sweetie, NICKNAME FOR A GRANDPARENT Richard is coming over soon! They'll be here any minute!
+ANNOYED CHILD: Do I have to call him NICKNAME FOR A GRANDPARENT still?
+MOM: Well, you can call him whatever you want now. You're growing up!
+ANNOYED CHILD: Mommy, does NICKNAME FOR A GRANDPARENT have any dark secrets?
+MOM: What kind of question is that?
+ANNOYED CHILD: He had that locked drawer. You never let me near it. Does he have OBJECT IN A LOCKED DRAWER in there?
+waterphone
+MOM: (Sighing) Every grown-up has one drawer that stays locked.
+doorbell
+MOM: Huh?
+heavy door knocking
+MOM: (Opening front door) Oh... You're not Richard ... Who are you?
+dark classical music
+A STRANGER: (Sniffling sadly) Mrs. Ellison… I- I just found out about Richard. God, I can’t believe he’s gone.
+MOM: Gone?! What are you saying... and who are you?
+A STRANGER: It’s me. Tony. I worked with him,m back in the day.
+A STRANGER: (Suspiciously) I guess you could say.... In the late ‘90s? At the... hardware brokerage?
+MOM: Back then he was a JOB OCCUPATION. But what's going on..?
+vine boom
+A STRANGER: Right. Right. JOB OCCUPATION. We were very close. (Shed a tear)
+ANNOYED CHILD: Mom, what's a JOB OCCUPATION?
+MOM: (To child) Not now, honey...
+A STRANGER: (Take out a photograph and show it to MOM) That’s a photo us in A COUNTRY, 1992.
+MOM: (Looking at photograph) I suppose so... it looks kinda like you and CELEBRITY....
+A STRANGER: (Sit down on couch dramatically) Anyway, I didn’t come here for anything… except… well… closure.
+Meanwhile ANNOYED CHILD: (Messing with TV)
+emotional piano music
+A STRANGER: And maybe… a small bit of help. Just until I can get back on my feet.
+Meanwhile ANNOYED CHILD: (Messing with TV)
+MOM: You’re holding car keys that say CAR BRAND.
+A STRANGER: It’s a rental. An emotional rental.
+ANNOYED CHILD: Mommy, how do I watch TELEVISION on the TV?
+MOM: (To child) don't touch that, sweetie, mommy is busy!
+A STRANGER: Look, I’m not asking for much. Just maybe… five hundred. AN AMOUNT OF MONEY, if you really want to honor his legacy.
+MOM: Richard’s legacy was hard working and fiscal discipline. And you don't really fit that description...
+A STRANGER: Okay, okay! Four hundred. I’ll throw in this CHEAP GIFT TO GIVE TO SOMEONE. (Takes out gift)
+Meanwhile ANNOYED CHILD: (Messing with trash can)
+MOM: No, I've had enough of this.
+Meanwhile ANNOYED CHILD: (Messing with trash can)
+MOM: You and your "CHEAP GIFT TO GIVE TO SOMEONE" can see yourself out... or I can call the police.
+Meanwhile ANNOYED CHILD: (Eating trash out of trash can)
+A STRANGER: (Fake crying and blowing nose on tissue) Is this how you treat someone in mourning?
+Meanwhile ANNOYED CHILD: (Eating trash out of trash can)
+MOM: You’re crying into a receipt from A FANCY RESTAURANT.
+A STRANGER: A FANCY RESTAURANT was Richard's favorite FAVOURITE FOOD ITEM!
+ANNOYED CHILD: (Eating trash from trash can) Mommy, there's no more GARBAGE in the trash can.
+MOM: (Frustrated) Don't eat that! (Pushing stranger out the door) Just leave. I don't have time for this.
+Meanwhile A STRANGER: (Getting pushed out the door by MOM)
+A STRANGER: I’m starting a GoFundMe! You’ll see! (Leave)
+MOM: Yeah right. tag it under Professional Liar.
+happy music 1
+ANNOYED CHILD: You think people will still try stuff like that when I die?
+MOM: Only if you’re lucky enough to have something worth stealing.
+waterphone
+ANNOYED CHILD: Can I keep the fake CHEAP GIFT TO GIVE TO SOMEONE?
 
 ======
 
