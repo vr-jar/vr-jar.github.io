@@ -1740,7 +1740,6 @@ Honiahaka
 Sudokyo
 SkullSwitched
 Capt Codeine
--X E R O-
 Fusionpoots
 RiverKitsune
 KasuriNya
@@ -2087,6 +2086,7 @@ Agent_30
 Fallen Light
 I am froggy
 Mş Chërríđísíâc
+-X E R O-
 modNick
 ruralists
 #TIER=1
