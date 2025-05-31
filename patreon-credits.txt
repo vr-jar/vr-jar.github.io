@@ -2805,7 +2805,6 @@ Seraph Nimona
 Ěńvîøù§
 PRAWNSTELLATION
 filtererror
-Nynamo
 #TIER=3
 SidMarcus
 PinballReviewer
@@ -2938,3 +2937,4 @@ Rokkaku
 zachaki
 Đøm 新しい
 Night_fox 7de0
+Nynamo
