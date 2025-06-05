@@ -20261,7 +20261,7 @@ GUARD: What a handsome and great young fellow. (Start to pack-up)
 INFORMATION ===============================
 ID: 658
 TITLE: Cowboy Duel
-AUTHOR: ༒Ｓｐｉｄｅｒ－Ｍａｎ༒
+AUTHOR: SPIDΣR ZΔZZULΣ
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -25409,7 +25409,7 @@ VINCENT: Woah! I didn't ask for you to come in!
 VALERIE: Come on! Not even for your little sister?
 VINCENT: Ugh, fine. You can stay for a little bit. But please, don't act creepy in front of her.
 VALERIE: Will do, Vincent... Will do...
-VINCENT: Thanks! Now if you'll excuse me, I'm gonna rest my head for a bit. I had a long day of my LABOR JOB job. (Walk into side door)
+VINCENT: Thanks! Now if you'll excuse me, I'm gonna rest my head for a bit. I had a long day doing my LABOR JOB job. (Walk into side door)
 noir music 1
 VALERIE: (Slowly look to the audience creepily) Girlfriend, eh? Maybe we could build a bit of a "bond" together...
 VALERIE: Or perhaps... (Giggle) something more...
@@ -25428,12 +25428,12 @@ VALERIE: Mmmaybe... Say... Maybe we could MUNDANE ACTIVITY outside while Vincent
 BELLA: Uh... No thanks. I'm fine.
 VALERIE: Come on... I wanna build our "friendship" together. No one has ever "died" from being friends with someone...
 BELLA: (Firm) Look, I don't know what you're getting at. But you're really starting to make me uncomfortable.
-BELLA: (Still Firm) Either stop what you're trying to do, or you can go your ass out of this house!
+BELLA: (Still Firm) Either stop what you're trying to do, or you can get your ass out of this house!
 VALERIE: Ooo... All I'm trying to do is build a "connection" between us...
 VALERIE: (Walk over to Bella and place both hands on her arms while putting face very close to hers) No "harm" in that...
 BELLA: (Shove Valerie away) (Angry) Alright! That's it! You need to leave right now! You're a creepy witch!
 Meanwhile VALERIE: (Get shoved back)
-VALERIE: (Aggressive) Oh! I'm about to make you my "witch" soon!
+VALERIE: (Aggressive) Oh! If I’m going to be a “witch”, I’ll make you the Dorothy!
 epic fantasy music 2
 VALERIE: (Chase Bella to the kitchen)
 Meanwhile BELLA: (Run to kitchen while getting chased)
@@ -25454,9 +25454,10 @@ VALERIE: So I had to get some control over the situation... But things kinda... 
 VINCENT: Valerie! I knew you were always a creepy girl, but even I would NEVER expect you to EVER do this!
 VALERIE: What can I say? I have my ways. Now, how about you give your little sister a hug? (Hold arms out with knife)
 VINCENT: You stay the hell away from me you sick witch !
-VALERIE: How dare you call your own sister a witch like your mean dead girlfriend! Now you'll get to meet your mean dead girlfriend... in SCARY PLACE !
+VALERIE: How dare you call your own sister a witch like your girlfriend! Now you'll get to reunite with your girlfriend... in SCARY PLACE !
 VALERIE: (Run to Vincent and raise knife above him)
 VINCENT: Ahhhhhhh!!!!! (Cough several times)
+music stops
 VALERIE: Damn it! I knew that you having a sore throat would be a problem for this play!
 Meanwhile BELLA: (Stand up straight and look at Valerie and Vincent)
 VINCENT: (Cough) Dude! I told you about this several times! But you said that if I didn’t show up for the play, I would be fired!
@@ -34986,7 +34987,7 @@ CLERK: (frustrated) Then why did we have any of this conversation? Why are you s
 INFORMATION ===============================
 ID: 1090
 TITLE: The Great Leader
-AUTHOR: ༒Ｓｐｉｄｅｒ－Ｍａｎ༒
+AUTHOR: SPIDΣR ZΔZZULΣ
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -38291,7 +38292,7 @@ BOSS: We're stuck here for three days with barely enough supplies...
 BOSS: And with no way to give the PRODUCT to the people in LOCATION...
 BOSS: All because DRIVER was drunk!
 WORKER: What are we gonna eat now? Thanks a lot, boss!
-FRIEND: (look at WORKER) You were drunk?! You told me you were sober!
+FRIEND: (look at WORKER.) You were drunk?! You told me you were sober!
 BOSS: Okay, enough! There's only one thing left to do.
 FRIEND: What's that?
 Music Stops
@@ -38339,7 +38340,7 @@ BOSS: Got the KNIFE AND FORK Ready!
 WORKER: (Shouting) No! Stop that!
 BOSS: No, I will not. I'm starving!
 FRIEND: You get any closer, I'm breaking your kneecaps!
-BOSS: (looks at WORKER) You must have ate the emergency SNACKS while you were drunk.
+BOSS: (looks at WORKER.) You must have ate the emergency SNACKS while you were drunk.
 FRIEND: (Glare and point at BOSS) But I seen you near my bag earlier!
 WORKER: Don't shove the blame onto me!
 FRIEND: Yikes, what a jerk.
@@ -38367,7 +38368,7 @@ NEIGHBOR: Yes, this is my garden! Now get off my land or I'm calling the cops!
 FRIEND: Wait a minute! We were in a garden the whole time?!
 BOSS: The cops?! Hide!!! (hide in tent)
 WORKER: Sorry, sir! We didn't know this was your property! (Exit stage left)
-FRIEND: (mad) Monday morning! I'm gonna have your kneecaps for this! (Follow WORKER)
+FRIEND: (mad) Monday morning! I'm gonna have your kneecaps for this! (Follow WORKER.)
 teleport COP to STAGE LEFT
 NEIGHBOR: (pull phone out and call) C'mon, please pick up.
 COP: (in stage left) Police department. What seems to be the problem?
@@ -38388,7 +38389,7 @@ WORKER: (enters from Stage left) Hey, sorry about all that.
 NEIGHBOR: You're fine, you're fine.
 WORKER: But I haven't heard from the boss for a while. I'm worried.
 NEIGHBOR: I have! (chuckle)
-NEIGHBOR: (Hold phone to WORKER) He got put in jail. Apparently, wanted for CRIME
+NEIGHBOR: (Hold phone to WORKER.) He got put in jail. Apparently, wanted for CRIME
 WORKER: What?
 TYPEWRITER: The End!
 
@@ -41308,8 +41309,9 @@ BROTHER: (Angered)You will regret this!
 DUCKLING: (Angered) You know what OLD, Im tired of you bullying me!
 DUCKLING: I already have it difficult as it is at the farm. You don't have to make it worse for me!
 epic fantasy music 2
-BROTHER: (Draws WEAPON) Thats it, you did this to yourself!
-DUCKLING: (Draws WEAPON) Im not scared of you anymore OLD!
+BROTHER: (Draws WEAPON) I knew this WEAPON would come in handy
+DUCKLING: (Draws WEAPON) Little did you know OLD! i brought my WEAPON here too!
+DUCKLING: I might be a duckling but im not stupid!
 epic fantasy music 3
 BROTHER: (Angered) CATCHPHRASE CATCHPHRASE CATCHPHRASE!!!
 BROTHER: (Charge towards the duckling) RAAAAAAAH!!!
@@ -45975,9 +45977,9 @@ TAGS: Skit
 SET: Living Room
 DATE: 21/02/25
 CHARACTERS ================================
-ONYX: Onyx who bakes the cake:Kitchen
+AIDEN : Aiden who bakes the cake:Kitchen
 ELI: Eli noam's sibling:Stage Left
-NIKKI: Nikki a friend:Stage Right
+NIKI: Niki a friend:Stage Right
 RAVEN: Raven the birthday girl:Backstage
 NOAM: Noam eli's sibling:Couch
 SUGGESTIONS =============================
@@ -45985,92 +45987,92 @@ DECORATION: birthday decoration:ballon, photo booth
 GAME: a game:genshin, fnaf, vrchat
 SINGER: a singer:sabrina carpenter, olivia rodrigo, nirvana
 MONEY: a big number:234, 11037, 546
-COLOR: a color:pink, green, blue
+COLOR: something with a strong color:bubblegum, blood, fart, skin, dirt, parrot, rainbow
 NUM: a number:2, 5, 6
 FOOD: a food:eggs, toast, bread
 MONTH: a month:march, april, june
 VALUABLE : Something that is valuable and expensive :pc, kidney, perfume
 SCRIPT ==========================================
 Groose music
-ELI: Alright so I’ve got the DECORATION almost ready, Onyx, how's the cake coming along?
-ONYX: (Daydreaming) The what?
+ELI: Alright so I’ve got the DECORATION almost ready, Aiden, how's the cake coming along?
+AIDEN: (Daydreaming) The what?
 ELI: The cake!
-ONYX: Oh, I forgot, let me check (looks at the oven with shock).
+AIDEN: Oh, I forgot, let me check (looks at the oven with shock).
 ELI: So how’s the cake?
-ONYX: (Shaking and very stressed) Um, looking very good, a bit burned.
+AIDEN: (Shaking and very stressed) Um, looking very good, a bit burned.
 Gong
 ELI: (Angrily) You burned the cake!
 MUSIC STOPS
-ONYX: Um, what should I do?
+AIDEN: Um, what should I do?
 Groose music
 ELI: I don’t know, you are the one who burnt it (yells) figure it out!
-ONYX: (Shaking) O-ok.
-ELI: Ugh, Nikki, can you leave your phone for one second and help me with the DECORATION?
-NIKKI: But I’m tracking Raven’s location.
+AIDEN: (Shaking) O-ok.
+ELI: Ugh, Niki, can you leave your phone for one second and help me with the DECORATION?
+NIKI: But I’m tracking Raven’s location.
 ELI: Oh, so how long will it take her to get here?
-NIKKI: Maybe you'd know, if you paid the wifi bill.
+NIKI: Maybe you'd know, if you paid the wifi bill.
 Vine boom
 NOAM: (Angrily) You haven’t paid the wifi bill again?!
 NOAM: That’s why my GAME didn’t work!
 Groose music
 ELI: I didn’t mean to, it’s not my fault that SINGER concert cost MONEY.
-NIKKI: Why on earth would you spend that much money on a SINGER concert?
+NIKI: Why on earth would you spend that much money on a SINGER concert?
 ELI: That’s my business, private business!
-ONYX: Um, guys...
-ONYX: The cake is COLOR
+AIDEN: Um, guys...
+AIDEN: The cake is COLOR colored.
 NOAM: What?
-ONYX: Do you think it's edible?
-NIKKI: (Sarcastic) Maybe you should try it, and tell us what you think.
+AIDEN: Do you think it's edible?
+NIKI: (Sarcastic) Maybe you should try it, and tell us what you think.
 Lacrimosa music
-ONYX: Um, I’m scared to try it.
+AIDEN: Um, I’m scared to try it.
 NOAM: I don’t think you should try it.
 ELI: I think he should.
 NOAM: Do you want him to die?
 ELI: Maybe.
-ONYX: (Crying) Why?!
+AIDEN: (Crying) Why?!
 ELI: (Angry) Because you ruined the cake again!
 ELI: You had one job, one job!
-ONYX: I told you I can’t bake!
+AIDEN: I told you I can’t bake!
 Emotional piano music
 NOAM: Guys, quit it.
 NOAM: Raven’s going to be here any moment.
-ONYX: (Sobbing) Y-yeah, you're right, we need to get a hold of ourselves.
-ONYX: We need to make this the best surprise party ever!
+AIDEN: (Sobbing) Y-yeah, you're right, we need to get a hold of ourselves.
+AIDEN: We need to make this the best surprise party ever!
 Happy music 1
-ONYX: I’m going to make another cake! (goes to the kitchen)
-NIKKI: Good luck!
-NIKKI: Wait, Noam
+AIDEN: I’m going to make another cake! (goes to the kitchen)
+NIKI: Good luck!
+NIKI: Wait, Noam
 NOAM: What?
-NIKKI: Perhaps you should help Onyx with the cake, keep an eye on him before the next nuclear disaster.
+NIKI: Perhaps you should help Aiden with the cake, keep an eye on him before the next nuclear disaster.
 NOAM: I don’t get paid enough for this, but fine (goes to the kitchen)
-NIKKI: Ok, Eli let’s finish the DECORATION (work on the DECORATION).
+NIKI: Ok, Eli let’s finish the DECORATION (work on the DECORATION).
 ELI: Yeah (work on the DECORATION).
 TYPEWRITER: 15 minutes later
 MUSIC STOPS
-NIKKI: Phew, I think that’s it.
+NIKI: Phew, I think that’s it.
 Tada
 ELI: Yay! We finished, give me a high five!
-NIKKI: (Gives high five) Yay!
-NIKKI: Oh no, what’s happening in the kitchen? (goes to kitchen)
+NIKI: (Gives high five) Yay!
+NIKI: Oh no, what’s happening in the kitchen? (goes to kitchen)
 ELI: Oh no (goes to kitchen).
 ELI: What the...
 Pokemon battle music
 NOAM: (Angrily) Omg, are you like not listening to me?
 NOAM: I told you to put NUM cups of flour, not two pounds of flour!
-ONYX: You said pounds, not cups!
-ONYX: It’s not my fault.
+AIDEN: You said pounds, not cups!
+AIDEN: It’s not my fault.
 NOAM: Omg, it is! You are bad at baking!
 NOAM: I bet you can’t even make FOOD!
-ONYX: I can! Cakes are just different!
+AIDEN: I can! Cakes are just different!
 Explosion
-NIKKI: What just happened?
+NIKI: What just happened?
 Emotional piano music
 ELI: (Disappointed) Y’all have broke the oven, that I spent my life savings on
 ELI: I had to sell my VALUABLE to get it
 NOAM: We’re sorry, we didn’t mean to
-NIKKI: Forget about the oven and Eli’s crippling debt, we have no cake!
-ONYX: Um, it’s not the best idea, but we still can use the cake with the weird color
-ONYX: Nobody is going to eat that cake anyway
+NIKI: Forget about the oven and Eli’s crippling debt, we have no cake!
+AIDEN: Um, it’s not the best idea, but we still can use the cake with the weird COLOR color.
+AIDEN: Nobody is going to eat that cake anyway
 Doorbell
 ELI: Oh shh, that’s her! (goes to open the door)
 RAVEN: Heyy guys...?
@@ -46083,29 +46085,29 @@ RAVEN: The DECORATION is beautiful!
 RAVEN: (Sniff) But what is that smell?
 NOAM: Don’t worry about it, and if the cops come looking, you know nothing
 RAVEN: Ok
-NIKKI: So, Raven, what do you think? Caught you by surprise, didn’t we?
+NIKI: So, Raven, what do you think? Caught you by surprise, didn’t we?
 RAVEN: Oh, definitely!
 RAVEN: I wasn’t expecting a birthday party, especially since it’s not my birthday!
 Record scratch
 ELI: Wait, what?
 RAVEN: Yeah, my birthday is on the 3rd of MONTH, but thanks tho.
-NIKKI: Eli, you are the one who said that Raven’s birthday was today, right?
+NIKI: Eli, you are the one who said that Raven’s birthday was today, right?
 Scary music
 ELI: Y-yeah, I’m sorry, I really thought it was today.
-ONYX: It’s fine, at least we got an excuse to all come together!
+AIDEN: It’s fine, at least we got an excuse to all come together!
 NOAM: The things that happened in that kitchen will haunt me until the end of my days.
 Happy music 1
-ONYX: Speaking of horrors beyond human comprehension, it’s time to bring out the cake!
-NIKKI: Yeah there can’t be a birthday party without cake!
+AIDEN: Speaking of horrors beyond human comprehension, it’s time to bring out the cake!
+NIKI: Yeah there can’t be a birthday party without cake!
 RAVEN: Yeah! I love cake!
-ONYX: (Brings out the cake with the odd COLOR) Here we go, Raven! Made with love!
-RAVEN: It’s so pretty, I like the COLOR!
-NOAM: Thanks, me and onyx baked it.
-ONYX: Yeah, and I think Eli should have the first slice.
+AIDEN: (Brings out the cake) Here we go, Raven! Made with love!
+RAVEN: It’s so pretty, I like the COLOR-like color!
+NOAM: Thanks, me and Aiden baked it.
+AIDEN: Yeah, and I think Eli should have the first slice.
 ELI: (Scared) H-huh? Me?
-ONYX: Yeah! Have a bite! (feeds cake to Eli)
+AIDEN: Yeah! Have a bite! (feeds cake to Eli)
 ELI: (Eats the cake) Oh wow, you know what, it’s actually not that bad! (chokes and dies).
-ONYX: Oopsie, well, happy early birthday, Raven
+AIDEN: Oopsie, well, happy early birthday, Raven.
 
 ======
 
@@ -47403,7 +47405,7 @@ OWN: Nope. Factory.
 TOM: (dread) Oh, no...
 OWN: Maybe I should tell ya a story. Sit down and get comfy.
 TOM: (sits down on couch)
-OWN: A couple of years ago, it make a tick that got really annoying. I basically ignored it. Didn't even take it to a shop. Somehow it went away and ran fine.
+OWN: A couple of years ago, it made a tick that got really annoying. I basically ignored it. Didn't even take it to a shop. Somehow it went away and ran fine.
 TOM: No way.
 OWN: I took out it's engine, dropped it off PLACE, drowned it in water for days, placed it in the trunk...
 TOM: And did it run?
@@ -47616,7 +47618,7 @@ BOY: Well, I got it through crime.
 GIRL: (sarcastic) Oh, ha ha...but really, how'd you pull this off?
 BOY: (Sit down at table) Alright, alright. I'll spill. A close friend of mine works here.
 GIRL: (Sit down at table) Oh, you do?
-BOY: Yep, and they were kind enough to us up with some free seats.
+BOY: Yep, and they were kind enough to set us up with some free seats.
 GIRL: Wait...free?
 BOY: Uh huh! Nice, isn't it?
 GIRL: Yeah, I'd say so.
@@ -47697,7 +47699,7 @@ WAIT: (Flirty) How about you come with me into the background and we can...have 
 BOY: Look, I'd love to, but I have to chase after my girlfriend. Sorry, friend.
 WAIT: ....Yeah, no. I get it. That's SO good for you! REAL GREAT! I NEED TO LEAVE NOW.
 WAIT: (EXIT STAGE LEFT)
-BOY: Man...maybe I shouldn't have blown them off like that...they looked really uspet...
+BOY: Man...maybe I shouldn't have blown them off like that...they looked really upset...
 BOY: Eh, I'm sure my PET is just fine. (EXIT STAGE RIGHT)
 WAIT: AAAA!!!!!!
 
@@ -50424,11 +50426,8 @@ COP: Totally not a Cop:Office Chair 3
 SUGGESTIONS =============================
 EVENT: An event that you would go to:Con, Potluck, Meeting, Party
 BODY: A body part:Head, Toes, Arms, Heart
-MEAN: A Mean insult towards henchmen:Dum-Dums, Numb-nuts, Good-for-nothings
 RESOURCE: An important resource:Water, Food, Lumber
-IDIOT: A way to call someone stupid:Idiot, Simpleton, Smooth-brain
 ANIMAL: An animal you would tame:Lion, Gorilla, Snakes
-BAD: A way to call something bad:Terrible, Awful, Horrible
 NAME: A Crappy Villain Name:Throngler, Butcher, Bruiser
 TOY: A toy you wouldn't step on:Lego, Jacks, Dice, Marbles
 CLOTHES: An article of clothing:Socks, Shirt, Pants
@@ -50444,15 +50443,15 @@ BOSS: (Softly) If you interrupt me again.
 BOSS: (Yell) I’ll rip your BODY off and feed it to you!
 VET: He’ll do it too, I’ve seen him do it before.
 Meanwhile COP: (Nervously adjusts shirt)
-BOSS: Anyway, do any of you MEANs have an evil plot for this year.
-MAD: What if we took the world supply of RESOURCE and destroyed it.
+BOSS: Anyway, do any of you have an evil plot for this year.
+VET: What if we took the world supply of RESOURCE and destroyed it.
 BOSS: I’m loving it, I am, just one problem.
 VET: And what’s that?
-BOSS: We also need that, IDIOT!
+BOSS: We also need that, idiot!
 MAD: Looks like age is catching up to you.
 VET: Oh yeah, what’s your brilliant plan?
 MAD: We could make an army of genetically altered ANIMALs, and overthrow the world government.
-COP: I could give you a couple of reasons Why that’s a BAD idea.
+COP: I could give you a couple of reasons Why that’s a bad idea.
 BOSS: So you do Speak, What's your name?
 COP: NAME, sir.
 BOSS: Ok NAME why is this a BAD idea.
@@ -50467,7 +50466,7 @@ VET: Damn dude.
 COP: And finally after all that, you shave their PET, and cover the CLOTHES with the fur.
 BOSS: That. Is. Genius!
 COP: You want to know the most evil part.
-(Music Stops
+Music Stops
 BOSS: Oh do tell.
 (police car)
 COP: You're under arrest. (yell) Get ‘Em boys!
@@ -51373,6 +51372,7 @@ MISS: (infuriated) What do you mean "nothing at all?!"
 TYPEWRITER: The Mistress decides to meet with her sister and her new "Boyfriend."
 (japanese music 2)
 BOY1: (enter Stage Left) I am a god of the back door. A god of impairments. God of Noh, god of outcasts, god of stars...
+Meanwhile MAID: (walk around pretending to clean everything)
 BOY1: And boyfriend of SYSNAME.
 MISS: Listen here. There are rumors going around the village of you abducting little girls, you know?
 BOY1: Ah hah hah! Sounds like quite the misunderstanding I should clear up.
@@ -51411,11 +51411,11 @@ SIS: Geez! Don't try to order me-
 MAID: Young miss SYSNAME.
 Music Stops
 Teleport BOY2 to Front door
-MAID: A second boyfriend is here. (open the front door)
+MAID: A second boyfriend is here. (walk to front door)
 MISS: Could it be... DEMON?
-MAID: Yes, just so. Very astute, milady.
+MAID: Yes, just so. Very astute, milady. (open door)
 (jazz music 1)
-BOY2: Hey, SYSNAME! I'm here to see you! I brought a new game!
+BOY2: (walk in) Hey, SYSNAME! I'm here to see you! I brought a new game!
 SIS: NEW GAME!! I'm gonna play with DEMON now, so sis! BOYNAME! Get out!!
 BOY2: Ku ku ku... not so fast... looks like you don't know what this new game entails.
 MISS: Demon King vibes!
@@ -51448,6 +51448,7 @@ SIS: Huh?! My boyfriends are marrying each other all of a sudden?!
 BOY1: The one you really want to marry is your dear big sister, isn't it? I can tell.
 SIS: What the hell gave you that idea!?
 BOY2: God damn, this TITLE1 creeps me out.
+Meanwhile BOY1: I've already got a love triangle in mind...
 SIS: If big sis is NAMEAUD, but my boyfriend who's my boyfriend's boyfriend is also myself, does that mean me and big sis are also married? (scream)
 MISS: SYSNAME is spiraling into madness!
 MAID: CATCH
@@ -51589,8 +51590,8 @@ ROB: Can you tell us more about what happened Bob?
 BOB: No i cannot Rob, But this random police officer i found at the crimescene can!
 BOB: (Turn towards the officer) Officer, Can you tell us what happened here?
 courtroom music
-POLICE: Of course i can. Here in the local PUBLIC a very serious crime was committed!
-BOB: Yes we already know that. We want to know what the crime was!
+POLICE: Of course i can. Here in the local PUBLIC a very serious and horrible crime was committed!
+BOB: Yes we obviously already know that. We want to know what this horrible crime was!
 POLICE: CRIME was just commited here at the local PUBLIC!
 BOB: Sweet JESUS CHRIST, that sounds awful! Do you have any information about the suspect?
 POLICE: Witnesses say the suspect was wearing a Fursuit and holding a OBJECT while committing the crime
@@ -51599,14 +51600,83 @@ POLICE: We do not have any information if the suspect is indeed a furry or if th
 BOB: I see. Do you have any more information about the suspect like why they were holding a OBJECT?
 POLICE: Witnesses also say they heard the suspect repeatedly yell WORD which they believe is the suspects catchphrase!
 POLICE: And the reason behind the suspect holding a OBJECT is still unknown!
-BOB: Well thats all we need to know about this awful incident that traumatized nobody here at the local PUBLIC. Back to you Rob!
+BOB: Well thats all we need to know about this awful incident that traumatized absolutely nobody here at the local PUBLIC. Back to you Rob!
 Music Stops
 ROB: Thank you Bob. Now It's time for some other news!
 ROB: The value of the CURRENCY have skyrocketed to X percent. this is a new world record!
 ROB: CONSUMERGOOD now costs COST.
-ROB: Well thats about it for NEWS today, Tune in tomorrow where we will be discussing SUBJECT even tho nobody cares about it!
-ROB: Anyways remember folks, WORD. Rob signing out!
+ROB: Well thats about it for NEWS today, Tune in tomorrow where we will be discussing SUBJECT and other unimportant stuff even tho nobody cares about it!
+ROB: Anyways stay safe everyone and keep your eyes out for any suspicious activity around your area. And remember folks, WORD. Rob signing out!
 world news outro
+
+======
+
+INFORMATION ===============================
+ID: 1631
+TITLE: A Funky First Meetup
+AUTHOR: EricTheSayoSimp
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 26/04/25
+CHARACTERS ================================
+BF: The Stuck-In-The-Past Boyfriend:Entrance Stage Left
+GF: Girlfriend:Center Stage
+DD: Girlfriend's Strict Dad:Stage Right
+MM: Girlfriend's Supportive Mom:Stage Left
+SUGGESTIONS =============================
+HI: "Hello" in a made up language:Beep, Engentodh, Belo, bengi
+RAP: Something from the 90's.:Sing, Rap, Make
+L1: The name of a made up language:Beepopeese, Emstish, Eroch
+L2: a state (real or not):Ohio, Engentin, America
+NN: cute nickname for spouse:Sugar Plum, Honey Bun, Bunny Wife
+IP: a thing you shouldn't have:Gun, Knife, RPG, Chainsaw
+PICO: name:Sky, Alex, Sayori, Tesuki
+ACTION YOU SHOULDNT DO: action you should not do, but you enjoy:Text and drive, Run with scissors, dance poorly, die
+BYE: "Bye" in a made up language:Boyp, engew, senquite
+SCRIPT ==========================================
+dark classical music
+GF: I'm telling you, he may not seem great, but I promise!
+GF: He's gonna be the best one for me!
+DD: Stop this nonsense! I dont wanna hear about your little BF!
+MM: (looking at Dad) Stop it, NN... Give her a chance!
+DD: (looking back at mom) NO!
+DD: I dont wanna hear about this BF and his RAPs.
+MM: You havent even seen him yet!
+GF: Speaking of that...
+MM: (looking at GF) What?
+Meanwhile DD: (looking at GF)
+GF: He's... already here. At the door.
+DD: WHAT?!
+music stops
+break down door
+oldschool hiphop music
+BF: HI!
+DD: What?
+GF: It's a different language, you wouldnt understand.
+BF: Yeah. I speak lots of languages, like Spanish, Russian, and even L1!
+MM: I've never heard of that language...
+BF: What, Russian?
+MM: No, L1.
+BF: It's from where I come from, L2.
+MM: Ohhhhh... I get it.
+DD: I don't. Just like how I don't want you in my house.
+BF: Huh?
+MM: Cmon, NN, He's been fine so far...
+DD: HE LITERALLY HAS AN IP!
+BF: That was from my past girlfriend, PICO. They were weird, let me tell you...
+DD: Whatever.
+GF: So, you thinking about it?
+DD: ...
+DD: *sigh*
+happy music 1
+DD: Fine, you can have him.
+BF: YES!
+DD: But don't ACTION YOU SHOULDNT DO.
+GF: Ugh, fine...
+GF: Lets go, BF!
+BF: BYE!
+TYPEWRITER: Then BF and GF did ACTION YOU SHOULDNT DO, just in secret so her dad couldn't see it.
 
 ======
 
@@ -51691,15 +51761,21 @@ TAGS: Skit
 SET: City
 DATE: 03/05/25
 CHARACTERS ================================
-TRAVELER : A regular traveler, a bit lost:Entrance Stage Right
-GUARDIAN: A Dramatic, Theatrical Guardian with a Shakespearean soul:Center Stage
+TRAVELER : A regular traveler who lost:Entrance Stage Right
+GUARDIAN: A Dramatic Theatrical Guardian:Center Stage
 SUGGESTIONS =============================
-TRAVNAME: Any name for the traveler:Kevin, Joshua, Gordon
-RNDPLACE: Name any kind of street or statue:Spinning hamster statue, That street, Noodle Nook
+TRAVNAME: Any name:Kevin, Joshua, Gordon
+RNDPLACE: Any location or statue:Spinning hamster statue, That street, Noodle Nook
 FRUIT: Any fruit:Strawberry, Apple, Peach
-ABSURD: Insert something absurd they're carrying:A golden toilet seat wrapped in velvet, An emotional support rock with its own ID badge, A portable black hole that is labeled "Do Not Open"
-TITLE: Any title for a name (example Sock Whisperer):Sock Whisperer, Baroness von Flatulence, Honorable Sir Sneezes-A-Lot, Supreme Commander of Awkward Silences
+ABSURD: Any ridiculous item:A golden toilet seat wrapped in velvet, An emotional support rock with its own ID badge, A portable black hole that is labeled "Do Not Open"
+TITLE: Any title for the name (example Sock Whisperer):Sock Whisperer, Baroness von Flatulence, Honorable Sir Sneezes-A-Lot, Supreme Commander of Awkward Silences
 PROPHECY: Any prophecy:Silence falls when the toaster speaks, Beware the spoon at dawn, The Duck will return, When socks vanish it begins, The pineapple knows the way
+HOBBY: Any strange hobby or interest:Competitive napping, Extreme ironing, Cloud collecting
+TALENT: Any talent:Recite the alphabet backwards while hopping, Identify cheese by smell alone, Speedrun VRChat
+ITEM: Any item that would be found in pocket:Single mismatched dice, Ticket to nowhere, Key that doesn't fit anything
+RIDDLE: Short nonsensical riddle:What's green but smells like purple, Why do birds suddenly appear, Why do we all have to wear these ridiculous ties
+DRAMEXIT: Any farewell phrase:May your socks never be damp, Go forth and conquer the laundry, Be free of lego bricks
+FEAR: Any fear:Belly buttons, Small spoons, Color beige, Long words
 SCRIPT ==========================================
 (dark classical music)
 TRAVELER: (Enter the stage while staring on the phone) Oh, perfect. My GPS just said, "You have arrived at RNDPLACE."
@@ -51707,7 +51783,7 @@ Meanwhile GUARDIAN: (Look at the sky)
 TRAVELER: (Frustrated) No, I haven’t arrived! I don’t even know what RNDPLACE is!
 TRAVELER: (Approach slowly the stranger) Uh… excuse me? Do you know how to get to the main plaza?
 GUARDIAN: (Gasp) The plaza?!
-GUARDIAN: Thou seekest the fabled crossroads where WEHBBY practitioners convene under the watchful eye of… The Pigeon King?!
+GUARDIAN: Thou seekest the fabled crossroads where HOBBY practitioners convene under the watchful eye of… The Pigeon King?!
 TRAVELER: The… what? No, I just need directions.
 GUARDIAN: Directions are but the first step on the path of true enlightenment! But first—reveal thy name, lost soul!
 TRAVELER: (Sigh) It’s TRAVNAME.
@@ -51723,9 +51799,9 @@ GUARDIAN: (Gasp) LIES! All who pass through RNDPLACE must possess one!
 GUARDIAN: (Dramatic pause and lean in.)
 GUARDIAN: Then thou must prove thyself! Answer me this: RIDDLE!
 TRAVELER: (Confused) ...What?
-GUARDIAN: (Whispering) The answer lies within thy MYSTITEM.
-TRAVELER: (Digging in pocket) I… have a MYSTERY_ITEM? (Pull it out) Oh. Huh.
-GUARDIAN: (Shocked) The signs align! The prophecy is true! TRAVNAME the TITLE, wielder of ABSURD, bearer of MYSTITEM… thou art the chosen one!
+GUARDIAN: (Whispering) The answer lies within thy ITEM.
+TRAVELER: (Digging in pocket) I… have a ITEM? (Pull it out) Oh. Heh... Wait... How?
+GUARDIAN: (Shocked) The signs align! The prophecy is true! TRAVNAME the TITLE, wielder of ABSURD, bearer of ITEM… thou art the chosen one!
 TRAVELER: I really just wanted a FRUIT smoothie.
 GUARDIAN: (Realization) FRUIT?! The sacred nectar of the ancients! Of course!
 GUARDIAN: (Make a pose.) The path to the plaza is revealed only to those who… fear FEAR!
@@ -51735,8 +51811,8 @@ GUARDIAN: (Pause, then whisper) Unless… thou can't confront thy fear!
 TRAVELER: (Done with this) You know what? I’ll take my chances. (Start walking off)
 GUARDIAN: Wait! The Pigeon King demands tribute!
 TRAVELER: (Without turning) I don’t have tribute.
-GUARDIAN: Then offer… thy WEHBBY!
-TRAVELER: (Pause and sigh) Fine. I do WEHBBY. Happy?
+GUARDIAN: Then offer… thy HOBBY!
+TRAVELER: (Pause and sigh) Fine. I do HOBBY. Happy?
 GUARDIAN: (Happily) The gods are pleased!
 GUARDIAN: (Suddenly freeze) OH LORD!
 TRAVELER: What now?
@@ -51917,6 +51993,252 @@ ANNOYED CHILD: Can I keep the fake CHEAP GIFT TO GIVE TO SOMEONE?
 ======
 
 INFORMATION ===============================
+ID: 1656
+TITLE: Who's Cuter?
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+DATE: 08/05/25
+CHARACTERS ================================
+GIRL1: The Inquisitive Girlfriend:Entrance Stage Right
+GIRL2: The Tired Girlfriend:Stage Left
+SUGGESTIONS =============================
+DEAR: a term of endearment for a loving partner:sweetie, honey, darling
+STATE: a named location:Gensokyo, the Pentagon, Skyrim
+PET: an animal you could keep as a pet:dog, lizard, fox
+NAME1: the name of a celebrity:Taylor Swift, Jennifer Lopez, Snoop Dogg
+NAME2: the name of a video game character:Luigi, Solid Snake, Lara Croft
+WEAPON: a weapon:knife, gun, lightsaber
+NAME3: the name of an anime character:Light Yagami, Sailor Moon, Goku
+NAME4: the name of a player in the audience:Jar, Jinx Izayoi, Reimu
+CREAT: a fictional creature:Tupai, Chupacabra, The Devil
+TEAM: a sports team:Kappa Dam, Dallas Cowboys, LA Dodgers
+SUPER: a super attack from a video game:Quadruple Kunai Bullet Pattern, Shun Goku Satsu, Kamehameha
+CLASS: a difficult school subject or scientific term:psychology, trigonometry, sex ed
+SCRIPT ==========================================
+GIRL2: I know you're back there, DEAR. Could you please not sneak around my game room? It's past midnight.
+GIRL1: (walk on stage) I just happened to wake up. I wanted to see what you were doing.
+GIRL2: (mockingly) Don't tell me... you couldn't sleep by yourself? Alright then.
+GIRL2: Y'know, back before I came to live in STATE, there was someone else who'd follow me around after dark.
+GIRL1: Spare me the talk of your exes, would you?
+GIRL2: No, not like that.
+GIRL2: I mean a pet PET I used to have. DEAR, you're a bit like... that... PET... (falling asleep)
+(vine boom)
+GIRL1: (slap them awake) No sleeping.
+Meanwhile GIRL2: (react to slap) Ow!
+GIRL1: Hey. What kind of PET was it?
+GIRL2: DEAR, please go back to bed.
+GIRL1: You brought it up, didn't you? Was it a cute PET?
+GIRL2: Well, yeah.
+GIRL1: Who's cuter... the PET or me?
+GIRL2: Huuuh? Obviously the PET-
+(waterphone)
+GIRL2: Ah, uh, you, DEAR!
+GIRL1: M'kay. Let's get serious about this. (walk behind host podium)
+(gameshow intro)
+GIRL1: Hello everybody, welcome to Who's Cuter? The game show where I give my girlfriend here two options.
+Meanwhile GIRL2: What the hell?
+GIRL1: If she correctly guesses which one is cuter, she won't be single when she wakes up tomorrow!
+GIRL2: (flabbergasted) What kind of interrogation is this?!
+GIRL1: Contestant #1, are you ready to play? Here comes your first question!
+(gameshow start)
+GIRL1: Who's cuter... me, or NAME1?
+GIRL2: Already a sudden death situation, huh? Wait a minute...
+GIRL2: (to yourself) She'd never even think of wanting to compare herself against NAME1. She loves NAME1!
+GIRL2: If I get careless and say that it's DEAR, she'll pull some reverse CLASS on me!
+GIRL2: (to her) Right. Between you and NAME1, I'd say it's definitely......
+(thunder)
+GIRL1: (sniffle)
+GIRL2: Y-you, DEAR.
+(gameshow ding)
+GIRL1: Alright. Me or NAME2?
+GIRL2: We're still going?!
+GIRL1: Who!? (Point WEAPON)
+GIRL2: Put the WEAPON away!!
+GIRL1: (angrier) Who??
+GIRL2: You, DEAR!!
+GIRL1: Me or NAME3?
+GIRL2: You, DEAR.
+GIRL1: Okay. What about me or NAME4?
+GIRL2: Please have mercy...
+TYPEWRITER: Eight hours later
+GIRL1: (wide awake) Me or CREAT?
+GIRL2: (very tired) You, DEAR...
+GIRL1: Me or the TEAM mascot?
+GIRL2: You, DEAR...
+GIRL1: Me or the SUPER?
+GIRL2: (sigh) You, DEAR...
+(gameshow outro)
+
+======
+
+INFORMATION ===============================
+ID: 1657
+TITLE: Cold Case, Warm Whiskey
+AUTHOR: Costons
+VERIFIED: True
+TAGS: Skit
+SET: Detective Noir
+DATE: 09/05/25
+CHARACTERS ================================
+OLDER DETECTIVE: The experienced Detective. :Detective Chair
+YOUNG DETECTIVE: The new Detective. :Visitor Chair
+FAT MAN: An obese man.:Backstage
+SUGGESTIONS =============================
+RANDOM NUMBER : number:1, 2, 3, 4
+BAKERY: place that sells tasty treats:Village French Bakery, Pastries Blissful Bites, Pink Frosting Bakery
+DESSERT : a tasty treat:Cake, Cupcake, Muffin, Lollipop
+A ROOM: room:Basement, Living room, Lounge
+A YOUNG MANS NAME: man's name:Leo, Liam, Daniel, Samuel 
+LOCATION TO FIND SOMEONE: location:Alleyway, Basement, Road, Home
+A TOWN NAME : name of a town:St Prestra, Lynndens Island, Alverton
+AN AGE : person's age:10, 20, 30, 40
+EXCUSE: an excuse to leave the room:I forgot my pants, need to water my plants, morb all over the place
+BAD SITUATION: unfortunate life situation/event:got stuck in an elevator, plane crash, divorce, locked keys in the car, phone died, spilled coffee on my crotch
+SCRIPT ==========================================
+dark classical music
+YOUNG DETECTIVE: So... that’s the case, huh?
+OLDER DETECTIVE: 'Case' makes it sound like it ever went anywhere. It’s more like a scar I keep picking at.
+YOUNG DETECTIVE: RANDOM NUMBER years ago, right? Guy found dead in a LOCATION TO FIND SOMEONE. No leads. No suspects.
+OLDER DETECTIVE: No justice. Just cold facts and colder whiskey. (Pour 2 shots)
+YOUNG DETECTIVE: (Awkwardly) Uh... I don’t drink on duty.
+OLDER DETECTIVE: Kid, the only thing on duty right now is the radiator...and it's losing.
+meanwhile YOUNG DETECTIVE: (Sit down - open notebook)
+YOUNG DETECTIVE: Why do you keep this file open if nobody's paying for it?
+OLDER DETECTIVE: I owe the victim's family for helping me out big time, after BAD SITUATION.
+thunder
+YOUNG DETECTIVE: (Looking out window) You ever talk to his widow?
+noir music 4
+OLDER DETECTIVE: Once. She looked through me like I was another unpaid bill.
+OLDER DETECTIVE: Moved on fast. Married richer, smiled brighter. Young too...only AN AGE.
+YOUNG DETECTIVE: You think she knows more than she said?
+OLDER DETECTIVE: In this town of A TOWN NAME? Everybody does. It’s just a matter of how much they’re willing to forget.
+cellphone vibrate
+YOUNG DETECTIVE: (Look at phone) You...uh...You gonna go get that?
+OLDER DETECTIVE: If it’s bad news, it’ll wait. If it’s good news... it’s got the wrong number.
+message receive
+OLDER DETECTIVE: (Into phone) …uh-huh.
+message receive
+OLDER DETECTIVE: You sure it’s him? (Hang up)
+OLDER DETECTIVE: RANDOM NUMBER years later. Same rain. But tonight, the past didn’t knock. It kicked the damn door in.
+break down door
+FAT MAN: Is this the establishment known as BAKERY? (Look around) I don't see any DESSERT.
+waterphone
+OLDER DETECTIVE: Aw hell. Not again.
+YOUNG DETECTIVE: Sir, this is a private investigation office.
+OLDER DETECTIVE: You came in like a wrecking ball for a DESSERT?
+FAT MAN: A DESSERT, jelly, bear claw... I don’t discriminate.
+FAT MAN: But I also got this envelope. (Throw it onto the desk) Found it in the city hall A ROOM. Almost used it as a napkin. 
+piano theme
+OLDER DETECTIVE: (Looking at envelope on desk) A YOUNG MANS NAME… that’s the victim's signature!
+YOUNG DETECTIVE: (Confused) But he died RANDOM NUMBER years ago.
+OLDER DETECTIVE: Same name. Same handwriting. Same weird cologne smell. Thought maybe he faked his taxes, y'know?
+OLDER DETECTIVE: The guy paid her off to vanish him... and she cashed it in.
+YOUNG DETECTIVE: He staged his own death?
+OLDER DETECTIVE: With his wife’s help. They bought silence... and a second chance.
+FAT MAN: (Stuffing mouth with desserts) So... I solved a murder?
+OLDER DETECTIVE: You solved a murder with a donut and poor directional awareness.
+FAT MAN: Heh. First today.
+OLDER DETECTIVE: Let's get outta here, gumshoe. I just remembered, EXCUSE. (Leave Stage)
+meanwhile YOUNG DETECTIVE: (Leave stage following older detective)
+badass music 1
+FAT MAN: (Looking around) RANDOM NUMBER years and still no one notices.
+FAT MAN: (To audience) Funny thing about being fat and forgettable- makes for a real good disguise.
+
+======
+
+INFORMATION ===============================
+ID: 1658
+TITLE: The Host Knows Everything
+AUTHOR: Costons
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+DATE: 10/05/25
+CHARACTERS ================================
+GAMESHOW HOST: The one who runs the show.:Host Podium
+CONTESTANT 1: An uneasy female contestant. :Contestant Podium 1
+CONTESTANT 2: A laidback male contestant. :Contestant Podium 2
+SUGGESTIONS =============================
+A FAMILY MEMBER : family member:Sister, Brother, Mom, Dad
+A CITY : Any city:Las Vegas, Orlando, Chicago, New York
+NAME FOR A BAR: Name for a bar/pub/club:The Velvet Lounge, Ale Mary, The Sapphire room
+CATAGORY FOR A GAMESHOW: Game show category:Family Ties, Relationships, Personal Ties, Work
+RANDOM AMOUNT OF POINTS: A sum of points won:1000, 100, 900, 60, 1
+GAMESHOW NAME : The name for the gameshow!:Jeopardy, The Price is right, Wheel of Fortune
+RANDOM NUMBER : Any number:1, 10, 100, 1000, 10000
+NAME FOR A LADY: Female name:Lisa, Amanda, Julie, Grace
+NAME FOR A MAN: Male name:Chad, Dan, Smith, Liam
+SCRIPT ==========================================
+gameshow intro
+GAMESHOW HOST: (cheerfully) Welcome back, viewers! It’s time for Round Three on GAMESHOW NAME!
+GAMESHOW HOST: Contestant 1, NAME FOR A LADY, my dear, this question is for you.
+CONTESTANT 1: (nervous laughing) Okay, let’s do this.
+tense cinematic music
+GAMESHOW HOST: You lied to your A FAMILY MEMBER about where you were on October 12th.
+GAMESHOW HOST: Did you really think she wouldn’t find out?
+CONTESTANT 1: What? That’s not- what kind of question is that?
+CONTESTANT 2: Damn, this just got juicy.
+GAMESHOW HOST: Oh, don’t worry, NAME FOR A MAN. You're next.
+GAMESHOW HOST: (pacing) But first, NAME FOR A LADY, for RANDOM AMOUNT OF POINTS points and a little peace of mind- where were you that night?
+CONTESTANT 1: (quietly) This isn't a game.
+GAMESHOW HOST: (Lean in closer) Oh, NAME FOR A LADY. It's only a game.
+GAMESHOW HOST: (Darkly, Serious) A game I always win.
+scary music
+GAMESHOW HOST: Lets restart. Shall we?
+GAMESHOW HOST: Tonight’s round: Regret, Revelation, Redemption.
+GAMESHOW HOST: And the rules are simple: Tell the truth... or stay in the game.
+CONTESTANT 2: What happens if we win?
+GAMESHOW HOST: You go home.
+CONTESTANT 1: And if we lose?
+GAMESHOW HOST: You stay. Until you're ready to stop lying.
+GAMESHOW HOST: NAME FOR A LADY, you’re up first. Round: "Regret". Category: "CATAGORY FOR A GAMESHOW" (Walk to Contestant 1's podium)
+mystery music 1
+GAMESHOW HOST: October 12th. You told your sister you were in A CITY.
+CONTESTANT 1: (Tense) Is this going to be some kind of therapy session?
+GAMESHOW HOST: No, NAME FOR A LADY. Just a question.
+GAMESHOW HOST: Were you in A CITY?
+CONTESTANT 1: I don’t see how that’s relevant.
+GAMESHOW HOST: It’s relevant to you. That’s the only kind of relevance that matters here.
+CONTESTANT 1: No. I wasn’t in A CITY.
+GAMESHOW HOST: Where were you?
+CONTESTANT 1: (Upset) In my car. RANDOM NUMBER blocks away. My dad was dying. I just couldn’t go inside.
+happy music 1
+GAMESHOW HOST: Thank you, NAME FOR A LADY.
+GAMESHOW HOST: (sincerely) That was brave. (Turn to NAME FOR A MAN)
+GAMESHOW HOST: Your turn.
+CONTESTANT 2: What, you gonna make me cry too?
+GAMESHOW HOST: Only if you're honest.
+CONTESTANT 2: Fine. Ask your question.
+mystery music 1
+GAMESHOW HOST: November third. NAME FOR A BAR.
+GAMESHOW HOST: You ghosted someone. Left her alone. Why?
+CONTESTANT 2: Seriously?
+GAMESHOW HOST: It’s just a question
+CONTESTANT 2: I didn’t think it mattered. I was drunk. I didn’t want anything serious.
+GAMESHOW HOST: And now?
+CONTESTANT 2: Now I try not to think about it.
+GAMESHOW HOST: But you do.
+GAMESHOW HOST: Thank you, NAME FOR A MAN.
+happy music 1
+GAMESHOW HOST: You see? No punishment. No buzzer. No shame. Just... truth.
+GAMESHOW HOST: We all have things we hide. But hiding keeps us here.
+GAMESHOW HOST: Next question goes to both of you.
+GAMESHOW HOST: What’s the one thing you’ve never said out loud... because if you did, it would change everything?
+GAMESHOW HOST: Take your time. The game ends when you’re ready.
+CONTESTANT 1: I never said goodbye too...you know...my Dad or Sister.
+GAMESHOW HOST: Now you have. (Raise Gun)
+waterphone
+GAMESHOW HOST: Make sure to tell them I say hello. (Shoot)
+gunshot
+CONTESTANT 1: (Dies of gunshot) Daddy... I'm sorry...
+GAMESHOW HOST: Freedom. This is what happens when you play GAMESHOW NAME. See you all next time.
+meanwhile CONTESTANT 2: (Checking up on Contestant 1 muttering) NAME FOR A LADY?
+
+======
+
+INFORMATION ===============================
 ID: 1663
 TITLE: The Interview
 AUTHOR: komio223
@@ -51980,6 +52302,400 @@ INT: NAME, is there anything you would like to say to the people out there befor
 VIP: Yes. CHAOS.
 INT: And there you have it! Thank you for joining us tonight and I hope to see you again tomorrow for another amazing interview like this. Goodbye!
 gameshow outro
+
+======
+
+INFORMATION ===============================
+ID: 1666
+TITLE: We Might Be Lost
+AUTHOR: Jack_Gubadiah
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+DATE: 16/05/25
+CHARACTERS ================================
+IMP: the Impatient Friend :Entrance Stage Left
+TIM: The Timid Friend:Entrance Stage Left
+SAS: The Sasquatch:Backstage
+SUGGESTIONS =============================
+EVENT: An Event you would go to:Party, Rave, Music Festival
+TIME: A Small unit of time:Second, Minute, Hour
+LANGUAGE: A foreign language:Spanish, Polish, French, German, Italian
+SAYING: An idiom/saying that people say:All Roads Lead to Rome, An apple a day keeps the doctor away, Curiosity killed the cat, Don't count your chickens before they hatch
+NICK: A fun Nickname:bud, Pal, Flash, Bubbles, Rocket, Gizmo, Kiddo
+ITEM: A Random item:Rock, Toy, Bottle, Plant
+SHAPE: A Random shape:Rhombus, Parallelogram, Circle, Square
+SCRIPT ==========================================
+TYPEWRITER: Date: Unknown Location: Somewhere
+(silly music 1)
+IMP: (enter stage left) Admit it NICK, We’re lost.
+IMP: We’re never gonna find the EVENT.
+TIM: (enter stage left)We are not lost, The map says, uh, it says we are,
+IMP: You can’t read it, can you?
+TIM: I can, just give me a TIME.
+IMP: I’ve have given you several TIMEs
+TIM: I’m sorry.
+TIM: I think I’ve got it, We need just to head this way. (Leave stage right)
+IMP: (scoff)Yeah, Okay.(leave stage right)
+TIM: (enter stage left) I think we are getting close to the EVENT.
+Meanwhile IMP: (enter stage left)
+IMP: Or, and here me out here.
+Music stops
+IMP: (shouting angrily) WE.
+(vine boom)
+IMP: ARE.
+(vine boom)
+IMP: LOOOSSST.
+(vine boom)
+IMP: (collecting self) Give me the map.
+(dark classical music)
+TIM: But, it's mine.
+IMP: Give me, the map.
+TIM: Nooo.
+IMP: NICK, EIther you hand me the map, or I take it from you
+TIM: (Begrudgingly hand over the map and pout) Fine.
+IMP: Right then, this way. (Leave stage left)
+Music stops
+Meanwhile TIM: (follow Closely)
+TYPEWRITER: 2 Hours later
+(silly music 2)
+IMP: (enter stage right) Now we’re getting somewhere
+TIM: (enter stage right) No we’re not, we’ve been walking in SHAPE for TIMEs.
+IMP: Are you sure?
+TIM: Pretty sure. That looks like the same ITEM we passed earlier.
+SAS: (enter stage right) That’s cuz it is.
+IMP:(Scream)
+Meanwhile TIM: (Scream)
+SAS: Calm down, I just thought I could help.
+TIM: Who are you?
+IMP: What are you?
+SAS: I’m Sassy, Sassy the Sasquatch.
+SAS: So, where y’all heading.
+IMP: We trying to go to the EVENT
+SAS: Oh, you're going the wrong way.
+IMP: Really?
+SAS: Yeah, you need to be heading that way.
+TIM: oh.
+IMP: So you're telling me, that this entire time, (Shouting) We could have been at the EVENT
+SAS: Yeah Basically.
+IMP: (Scream In Frustration)
+TIM: Hey now, no need to get mad.
+SAS: Yeah, ya know what they say, SAYING.
+IMP: What does that have to do with anything?
+SAS: I don’t know.
+SAS: Anyways, if ya want, I could take ya there.
+TIM: That would be nice.
+SAS: Can I see your map?
+IMP: sure(hand over the map)
+SAS: (stare at map) Oh. I see your problem.
+IMP: What now?
+SAS: No wonder y’all are lost, This map is in LANGUAGE.
+(laughter)
+TYPEWRITER: The End
+
+======
+
+INFORMATION ===============================
+ID: 1670
+TITLE: Cure for Motion Sickness
+AUTHOR: Neykka
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 18/05/25
+CHARACTERS ================================
+GIRL: Alice:Couch
+BOY: Shane, the friend:Center Stage
+THOUGHT: Alice's thought process:Backstage
+SUGGESTIONS =============================
+MEDS: Any medicine or drug:Cerc, Paracetamol, Ginger, bible verses that make you feel better
+ACTIVITY: A fast paced outdoor activity:Driving, Riding a roller coaster, GoKart
+GAME: Motion sickness inducing game:VRC, Roblox, Minecraft, Counter Strike
+BRUH: Nickname you might call a friend:Bruh, Mafwend, Beshy
+BED: Furniture to take naps:Bed, Couch, Floor, Kitchen CounterTop
+HRS: Time duration:an hour, 400 minutes, a whole day
+BYE: Farewell words or statement:Sayonara, See you around, Sheeesh, Babi
+LOW SELF ESTEEM: a personal or physical flaw with someone:sweaty palms, not funny at all, weird haird, third nipple, unibrow, stupidness
+PROCEDURE: some kind of activity/action you reccommend:vaping, surfing the net, looking at pictures of corn, breathing rapidly
+SNAKES: something people might be afraid of:snakes, the dark, clowns, commitment, cancer, women
+SCRIPT ==========================================
+happy music 1
+GIRL: (Plays GAME with BOY on TV) I have so much fun playing GAME with you, BOY
+Meanwhile BOY: (Plays GAME with GIRL)
+Music Stops
+GIRL: Whoa, I think I gotta stop for a while. (Holding head dizzy) I feel... woah...
+aww
+emotional piano music
+BOY: Why, what's wrong?
+GIRL: I think I am getting really dizzy from playing GAME.
+BOY: Oh no, BRUH. You should definitely rest on your BED.
+BOY: What have you been doing that caused you to be this dizzy?
+GIRL: I am not sure, but, this should just be because I have been playing GAME for HRS.
+Music Stops
+vine boom
+BOY: Oh, I see... That... definitely does not sound like a good thing to do.
+BOY: Playing GAME for HRS straight... what were you thinking?
+GIRL: Be quiet for a bit, my ears are ringing... can you just get me some MEDS?
+BOY: Oh, yeah sure... (Gets MEDS from kitchen)
+BOY: Here you go. (give medicine to girl)
+Meanwhile GIRL: (Takes MEDS and looks at it)
+GIRL: Thanks so much.
+Teleport THOUGHT to Stage Right
+Guitar Music 1
+THOUGHT: What are you doing, GIRL?
+Meanwhile BOY: (Continue playing GAME)
+GIRL: Huh? Who are you?
+THOUGHT: Who am I? I'm you're inner thoughts. Your conscience!
+THOUGHT: Come on GIRL, really? MEDS? You know that's not good for you!
+THOUGHT: Don't you think the best medicine is Natural Medicine?
+GIRL: Maybe... but this really feels bad! Can't I just have a teeny bit of MEDS?
+THOUGHT: Even better, let's fix your dizziness by just doing ACTIVITY!
+GIRL: Hmm, let me think for a sec...
+GIRL: Yes, that makes perfect sense!
+GIRL: I just have to ACTIVITY outside and that should fix my dizziness!
+THOUGHT: That's the spirit.
+THOUGHT: It might fix your LOW SELF ESTEEM too!
+THOUGHT: Well, I've done my job-- helping you do the right thing.
+THOUGHT: BYE! ...
+Teleport THOUGHT to Backstage
+happy music 1
+GIRL: Hey, BRUH. Come here for a second!
+BOY: Oh, what's up, are you feeling better now? (looks at the MEDS on GIRL's hand)
+BOY: Uhhh... hey, why haven't you taken your MEDS, BRUH?
+GIRL: I just had a deep conversation with my conscience while I was contemplating on these MEDS.
+GIRL: (shrugs and throw the MEDS) You know what, I don't need MEDS to cure my dizziness!
+BOY: Then what is your conscience suggesting so you can feel better?
+GIRL: Me and my conscience has concluded that I should just go ACTIVITY outside.
+GIRL: That should cure me immediately!
+BOY: What? Are you sure that will cure you? Sounds so sus...
+BOY: TikTok said PROCEDURE would fix my fear of SNAKES but that ended up being fake science!
+GIRL: Come on, it makes so much sense that ACTIVITY outside will cure me immediately (Drag BOY to exit Front Door)
+BOY: Wait, I seriously doubt this is a good ideaaaaaaa... (Get dragged out of the door)
+guitar music 1
+Teleport THOUGHT to Center Stage
+THOUGHT: (To audience) Well, just so everyone knows, if you follow this cure, I should warn you.
+THOUGHT: We are not responsible for any harm or injuries you may receive if you go ACTIVITY outside when you are feeling dizzy after playing GAME for HRS straight.
+THOUGHT: So if you are a normal person, but is somehow appalled by your own conscience and do not like sleeping on your BED....
+THOUGHT: (Pick up MEDS and show them to camera) Order MEDS now.
+infomercial disclaimer
+
+======
+
+INFORMATION ===============================
+ID: 1675
+TITLE: Dungeons & Disasters
+AUTHOR: komio223
+VERIFIED: False
+TAGS: Skit
+SET: Forest
+DATE: 19/05/25
+CHARACTERS ================================
+DM: Dungeon Master:Narrator Podium
+PAL: The Self-Centered Paladin:Entrance Stage Right
+BAD: The Fearsome Monster:Backstage
+MAGE: The Nervous Mage:Entrance Stage Right
+SEX: The Flirtatious Bard:Entrance Stage Left
+THIEF: The Clumsy Thief:Entrance Stage Right
+SUGGESTIONS =============================
+PLACE: Place Name:Detroit, Disney Land, Quahog, Fantasia, Teyvat
+QUEST: An adventuring party's quest:defeating the Demon King, collecting all seven Chaos emeralds, having a nice day, finding something to do, finding who asked
+LATE: Something suddenly comes up to make someone late:their grandma died in a horrible scrabble incident, their fridge ran away, they have another campaign to attend, priorities, SQUIRREL!!! (point in a random direction), they have a platypus infestation
+MONS: Name of a fearsome monster:Steve, Big Baddie, Savage Hound, The Wretched Mongrel Shadowseeker, Fluffypaws, Twinkles, Cupcake
+REASON: state your villain backstory:SQUIRREL!!! (point in a random direction), You stepped on my mom, I just felt like it, I just hate the fact that we live in a society
+POW: Name of a secret weapon:Spoon, Holy sword, Excalibur, stick, Carol
+PART: Body part:appendix, pancreas, kidney, pinkie
+OUCH: Any positive number:1, 1000, 5, 3, no, 57.621106, π
+ATTACK: Name for an ultimate attack:Kamehameha, EXPLOSION, gun, ur mom
+GOD: deity or other worshipped person:Zeus, Thor, Beyoncé, Elon Musk
+SCRIPT ==========================================
+bard music 2
+DM: In the magical forest on the outskirts of PLACE, four adventurers-
+record scratch
+Music stops
+SEX: Wait a minute! I gotta pee. I'll be right back.
+DM: Wait, no Richard! Ugh...
+DM: Well anyways... as I was saying
+bard music 2
+DM: In the magical forest on the outskirts of PLACE... three adventurers continue on their quest of QUEST
+PAL: (Enter from the stage right entrance and wait for the Game Master to finish speaking) Come on, guys! Hurry... don't leave me alone, here!
+Meanwhile DM: Their path leads them deeper into the woods where dangerous monsters lurk in the shadows
+MAGE: (Enter from the stage right entrance) Alright, alright. You're supposed to be the main DPS of the party, you know?
+Meanwhile THIEF: (follow the Mage closely while trying to be overly sneaky and failing miserably)
+PAL: Which is why I need to be protected at all costs otherwise this party will crumble immediately.
+MAGE: That's not how that works...
+PAL: And yet that is how our God, GOD, wills it to be.
+discord notification
+Music stops
+PAL: What was that noise?!
+groose music
+THIEF: Heh. Huh? Oh! Richard just sent me a funny meme of a cat. Also he asks me to tell you that he can't come back just yet because LATE
+DM: Seriously? Again?
+MAGE: (Shrug at the audience) Classic Richard.
+laughter
+PAL: (Act scared) Who was that?
+Music stops
+DM: Doesn't matter.
+epic fantasy music 2
+DM: Up ahead, they spot a fearsome monster.
+BAD: (Enter stage left and make a monster sound) Grrrroarrrr!
+BAD: I am a fearsome and bloodthirsty beast and you shall call me MONS. You shall scream my name when you are drowning in blood!
+PAL: (Move behind your party members) What a worthy foe. Comrades! Let's slay this foul beast! Onwards!
+MAGE: Let's go!
+PAL: (Backing away slowly) Yeah let's save ourselves!
+record scratch
+groose music
+MAGE: (Turn around and look at the paladin leaving the stage) Uhm... Where are you going?
+PAL: Away, of course!
+THIEF: Dude, you're supposed to be our main attack force...
+PAL: Hence why I need to prepare accordingly!
+MAGE: (Grab the paladin and push them to the front) Stop being a wuss now and go!
+Meanwhile PAL: (Get pushed by the Mage to the front) Wait! No! I don't wanna die!
+epic fantasy music 2
+thunder
+BAD: You shan't pass!
+MAGE: Why are you blocking our way on our noble quest, MONS?
+BAD: I have a good reason, you see. REASON
+MAGE: That is a noble reason, but that won't stop us for our quest is nobler.
+BAD: So be it.
+BAD: (Take out a sword) Then you will die by my sword!
+BAD: (Attack the paladin with your sword) GRAAAAAHHH!!!
+PAL: Oh GOD, save me!
+snipping
+BAD: (Laugh evilly) Suffer! SUFFER!!!
+snipping
+Meanwhile PAL: AAAAAHHH!!!!
+Music stops
+PAL: AAH!!! Ah? I'm fine?
+vine boom
+BAD: What? How could that be?
+THIEF: This monster is super weak. We can do it! Attack!
+knocking on door
+THIEF: Mom! Get out of my room! I was just about to murder this thing!
+knocking on door
+THIEF: Ugh... OK. I gotta go (Exit the stage right)
+Meanwhile PAL: Wait, what?!
+DM: Not another one. Are you guys okay to still continue with two players? This game is falling apart. First Richard, then Jason...
+SEX: (Enter stage left) Guys, I'm back! Sorry about that. Did I miss something? Oh! What's that ugly thing?
+BAD: GAAAHHH!!! (Stab the bard)
+knife wound
+TYPEWRITER: Bard takes OUCH DMG. Bard is dead.
+SEX: Ouch! My PART! Somehow, this dialogue is the lengthiest I've had this whole time. Now I'm dead. (Die while making a dying noise of your choice)
+applause
+SEX: Thank you. I die again. (Die again while making another dying noise of your choice)
+thunder
+lacrimosa music
+BAD: (Evil laughter) Watch! For this is but an ounce of my true power! You do not stand a chance against me!
+record scratch
+Music stops
+MAGE: What the fuck, Richard? Did you have to die like a fool?
+SEX: Honestly, I did. I gotta go. (Leave using the stage left entrance then go back and leave again through the other entrance)
+DM: This is unbelievable. Then I guess it's you two, now. What do you wanna do?
+tense cinematic music
+PAL: I think I have to...
+MAGE: Wait! Are you going to...
+PAL: Yes. I have to take out my secret weapon!
+PAL: (Put your arm up to the sky) Come forth, POW!!!
+anime sword gleam 2
+BAD: Oh no! This is definitely too powerful for me to survive against and there is absolutely nothing I can do about it. Guess I will die.
+Music stops
+cellphone vibrate
+DM: What is it this time!
+PAL: Oh! It's Richard! He just invited me to a DnD campaign with him and Jason! Alright, I gotta go! See ya!
+DM: Wait, no! Don't leave... We can't-
+Meanwhile PAL: (Exit the stage through the stage right entrance)
+DM: Ugh!!! This is horrible! I had so much planned for this game and it all fell apart.
+MAGE: I can still play.
+DM: Is this even worth it anymore? Okay then. What will you do?
+epic fantasy music 2
+MAGE: I attack MONS with my ultimate attack.
+super epic charge up
+MAGE: ATTACK!!!!!!!
+gunshot
+Music stops
+Teleport BAD to BACKSTAGE
+TYPEWRITER: MONS takes 3 DMG. MONS is dead.
+MAGE: So... Are we done?
+DM: No. I had, like, another hour of content left.
+MAGE: Oh.
+
+======
+
+INFORMATION ===============================
+ID: 1676
+TITLE: The River Trap
+AUTHOR: Neykka
+VERIFIED: True
+TAGS: 
+SET: Forest Bridge
+DATE: 20/05/25
+CHARACTERS ================================
+SEAL: Creature, the water dweller:In river
+KAZE: Kaze, the hunter:Backstage
+NEY: Ney, the villager:Entrance Stage Right
+SUGGESTIONS =============================
+FOREST: Name of a location:Kelp Isle, The Bridge, Forest
+CITY: Name of a city:Nation of the Rising Sun, Shell City
+FISH: An obtained item:fish, block of ice, boot
+FAM: a person in the family:Oniichan, Onee-sama, Uncle Dave
+BOO: a jumpscare word:Hey babe, Wraaagh!!, Oogie boogie
+MARZ: Name of the creature:Water Alien, Seal, Jellyfish
+NOOBS: Describing a newbie:noobs, fools, first timers
+WEAP: a type of weapon:Tempest Sword, MiniGun, Stick
+HUNTER: Outdoor type of Profession:Hunter, Fisher, Gunner
+VILL: Name of the Villager:Pretty girl, Baby girl, Sweet cheeks
+COUZ: a relative:mother, cousin, father's cousin twice removed
+NUM: Any random number:3, 10, one hundred
+SCRIPT ==========================================
+TYPEWRITER: Somewhere in the forest of FOREST...
+happy music 1
+NEY: (Sees FISH on the ground) Oh wow, what a lucky day!
+NEY: (Picks up FISH) I just found this FISH in the middle of the forest of FOREST.
+NEY: I should bring this home immediately to my FAM. (walk to the top of the bridge)
+Meanwhile SEAL: (Wait for NEY to pass the bridge and steal the FISH)
+SEAL: BOO! Ha! Thanks for dropping your FISH, this is mine now!
+Meanwhile NEY: (Scream)
+Teleport SEAL to the Backstage
+epic fantasy music 2
+NEY: Hey! That was my FISH! You... MARZ... Give it back!! That... That's for my FAM!!
+KAZE: (Rushes in from Stage Right with WEAP out) Hey did someone just say MARZ??
+KAZE: Did that crazy MARZ just come here and stole something from you too?
+NEY: Wh-whoa, who are you?
+KAZE: Me? I am just a wandering HUNTER from the CITY. What about you?
+NEY: Oh, you can just call me VILL. So, what's your deal?
+KAZE: I was just passing by this forest with my trusty WEAP when suddenly that MARZ just mugged me of my FISH.
+NEY: Oh no, you too?? That MARZ also stole my FISH. We should team up to catch it somehow.
+KAZE: Yeah, come on, let's find it down the river over there. (Points and exit Stage Right)
+Meanwhile SEAL: (Prepare to enter Stage Left)
+NEY: Sure! (exits Stage Right following the hunter)
+silly music 2
+SEAL: (Walk towards the River) Hahaha, these two NOOBS. They fall for this every single time.
+SEAL: No one is the best troll MARZ here in the FOREST.
+SEAL: Like, they don't even know that this FISH I have...
+SEAL: Is just the same FISH I got from that HUNTER. (Snickers)
+laughter
+Music Stops
+KAZE: (Enters Stage Left and gasp) It's the MARZ! Come on.
+groose music
+SEAL: (Mumbles) Oh shoot, it's the HUNTER from the CITY and VILL.
+NEY: Hey, wait... How sure are you that the MARZ here stole our FISH?
+SEAL: Uhh, yeah, what are you talking about... some FISH? That wasn't me, it's probably my COUZ.
+KAZE: Hmmm, I don't believe you. You should be the only MARZ in this FOREST Forest.
+KAZE: Besides, when does any normal MARZ decides to live in riverbed?
+badass music 1
+SEAL: Oh well, the jig's up, you will never catch me alive (Runs out to stage right and get chased for 2 rounds)
+Meanwhile KAZE: (chase MARZ around the stage 2 rounds)
+NEY: Oh, wait for me...(Chase for a round then blocks the Stage Right entrance)
+Meanwhile SEAL: (Taunts the HUNTER but stops when VILL blocks the Stage Right exit)
+KAZE: Hahhhh! You are surrounded! (Waves WEAP around)
+epic cinematic music
+KAZE: This is the end, MARZ! Give me my FISH backkkk!!! (Fights MARZ with the WEAP)
+SEAL: Oh, you want a battle, you will get one! (Fights the HUNTER)
+Meanwhile NEY: Wooo Go!
+NEY: (notices that the MARZ drops the FISH) Ohhh?
+NEY: Hehe, let me just pick this up and get on my way, byeeee... (exit Stage Right)
+KAZE: This is not over! (Keeps fighting)
+Meanwhile SEAL: (Continue fighting)
+TYPEWRITER: And so they got trapped in the river fighting for the next NUM of days.
 
 ======
 
