@@ -2052,6 +2052,7 @@ Kinovon
 Mother Succubus
 光 Lumine 光
 Ambery Wolf
+_~dogday~_
 modNick
 ruralists
 #TIER=1
