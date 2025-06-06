@@ -52404,9 +52404,9 @@ TAGS: Skit
 SET: Living Room
 DATE: 18/05/25
 CHARACTERS ================================
-GIRL: Alice:Couch
-BOY: Shane, the friend:Center Stage
-THOUGHT: Alice's thought process:Backstage
+ALLIE: Alice:Couch
+XERI: Shane, the friend:Center Stage
+STIRFRY: Alice's thought process:Backstage
 SUGGESTIONS =============================
 MEDS: Any medicine or drug:Cerc, Paracetamol, Ginger, bible verses that make you feel better
 ACTIVITY: A fast paced outdoor activity:Driving, Riding a roller coaster, GoKart
@@ -52416,67 +52416,68 @@ BED: Furniture to take naps:Bed, Couch, Floor, Kitchen CounterTop
 HRS: Time duration:an hour, 400 minutes, a whole day
 BYE: Farewell words or statement:Sayonara, See you around, Sheeesh, Babi
 LOW SELF ESTEEM: a personal or physical flaw with someone:sweaty palms, not funny at all, weird haird, third nipple, unibrow, stupidness
-PROCEDURE: some kind of activity/action you reccommend:vaping, surfing the net, looking at pictures of corn, breathing rapidly
+PROCEDURE: some kind of activity/action you recommend mmend:vaping, surfing the net, looking at pictures of corn, breathing rapidly
 SNAKES: something people might be afraid of:snakes, the dark, clowns, commitment, cancer, women
 SCRIPT ==========================================
 happy music 1
-GIRL: (Plays GAME with BOY on TV) I have so much fun playing GAME with you, BOY
-Meanwhile BOY: (Plays GAME with GIRL)
+ALLIE: (Plays GAME with XERI on TV) I have so much fun playing GAME with you, Xeri_
+Meanwhile XERI: (Plays GAME with GIRL)
 Music Stops
-GIRL: Whoa, I think I gotta stop for a while. (Holding head dizzy) I feel... woah...
+ALLIE: Whoa, I think I gotta stop for a while. (Holding head dizzy) I feel... woah...
 aww
 emotional piano music
-BOY: Why, what's wrong?
-GIRL: I think I am getting really dizzy from playing GAME.
-BOY: Oh no, BRUH. You should definitely rest on your BED.
-BOY: What have you been doing that caused you to be this dizzy?
-GIRL: I am not sure, but, this should just be because I have been playing GAME for HRS.
+XERI: Why, what's wrong?
+ALLIE: I think I am getting really dizzy from playing GAME.
+XERI: Oh no, BRUH. You should definitely rest on your BED.
+XERI: What have you been doing that caused you to be this dizzy?
+ALLIE: I am not sure, but, this should just be because I have been playing GAME for HRS.
 Music Stops
 vine boom
-BOY: Oh, I see... That... definitely does not sound like a good thing to do.
-BOY: Playing GAME for HRS straight... what were you thinking?
-GIRL: Be quiet for a bit, my ears are ringing... can you just get me some MEDS?
-BOY: Oh, yeah sure... (Gets MEDS from kitchen)
-BOY: Here you go. (give medicine to girl)
-Meanwhile GIRL: (Takes MEDS and looks at it)
-GIRL: Thanks so much.
-Teleport THOUGHT to Stage Right
+XERI: Oh, I see... That... definitely does not sound like a good thing to do.
+XERI: Playing GAME for HRS straight... what were you thinking?
+ALLIE: Be quiet for a bit, my ears are ringing... can you just get me some MEDS?
+XERI: Oh, yeah sure... (Gets MEDS from kitchen)
+XERI: Here you go. (give MEDS to girl)
+Meanwhile ALLIE: (Takes MEDS and looks at it)
+ALLIE: Thanks so much.
+Teleport STIRFRY to Stage Right
 Guitar Music 1
-THOUGHT: What are you doing, GIRL?
-Meanwhile BOY: (Continue playing GAME)
-GIRL: Huh? Who are you?
-THOUGHT: Who am I? I'm you're inner thoughts. Your conscience!
-THOUGHT: Come on GIRL, really? MEDS? You know that's not good for you!
-THOUGHT: Don't you think the best medicine is Natural Medicine?
-GIRL: Maybe... but this really feels bad! Can't I just have a teeny bit of MEDS?
-THOUGHT: Even better, let's fix your dizziness by just doing ACTIVITY!
-GIRL: Hmm, let me think for a sec...
-GIRL: Yes, that makes perfect sense!
-GIRL: I just have to ACTIVITY outside and that should fix my dizziness!
-THOUGHT: That's the spirit.
-THOUGHT: It might fix your LOW SELF ESTEEM too!
-THOUGHT: Well, I've done my job-- helping you do the right thing.
-THOUGHT: BYE! ...
-Teleport THOUGHT to Backstage
+STIRFRY: What are you doing, Allie??
+Meanwhile XERI: (Continue playing GAME)
+ALLIE: Huh? Who are you?
+STIRFRY: Who am I? Have you seriously forgotten? I'm Stirfry, you're inner thoughts. Your conscience!
+STIRFRY: You basically named me Stirfry when you were young.
+STIRFRY: Come on Allie, really? MEDS? You know that's not actually good for you!
+STIRFRY: Don't you think the best medicine is Natural Medicine?
+ALLIE: Maybe... but this really feels bad! Can't I just have a teeny bit of this MEDS?
+STIRFRY: Even better, let's fix your dizziness by just ACTIVITY!
+ALLIE: Hmm, let me think for a sec...
+ALLIE: Yes, that makes perfect sense!
+ALLIE: I just have to be ACTIVITY outside and that should fix my dizziness!
+STIRFRY: That's the spirit.
+STIRFRY: It might fix your LOW SELF ESTEEM too!
+STIRFRY: Well, I've done my job-- helping you do the right thing.
+STIRFRY: BYE! ...
+Teleport STIRFRY to Backstage
 happy music 1
-GIRL: Hey, BRUH. Come here for a second!
-BOY: Oh, what's up, are you feeling better now? (looks at the MEDS on GIRL's hand)
-BOY: Uhhh... hey, why haven't you taken your MEDS, BRUH?
-GIRL: I just had a deep conversation with my conscience while I was contemplating on these MEDS.
-GIRL: (shrugs and throw the MEDS) You know what, I don't need MEDS to cure my dizziness!
-BOY: Then what is your conscience suggesting so you can feel better?
-GIRL: Me and my conscience has concluded that I should just go ACTIVITY outside.
-GIRL: That should cure me immediately!
-BOY: What? Are you sure that will cure you? Sounds so sus...
-BOY: TikTok said PROCEDURE would fix my fear of SNAKES but that ended up being fake science!
-GIRL: Come on, it makes so much sense that ACTIVITY outside will cure me immediately (Drag BOY to exit Front Door)
-BOY: Wait, I seriously doubt this is a good ideaaaaaaa... (Get dragged out of the door)
+ALLIE: Hey, BRUH. Come here for a second!
+XERI: Oh, what's up, are you feeling better now? (looks at the MEDS on Allie's hand)
+XERI: Uhhh... hey, why haven't you taken your MEDS, BRUH?
+ALLIE: I just had a deep conversation with my conscience while I was contemplating on these MEDS.
+ALLIE: (shrugs and throw the MEDS) You know what, I don't need MEDS to cure my dizziness!
+XERI: Then what is your conscience suggesting so you can feel better?
+XERI: Me and my conscience has concluded that I should just go ACTIVITY outside.
+ALLIE: That should cure me immediately!
+XERI: What? Are you sure that will cure you? Sounds so sus...
+XERI: TikTok said PROCEDURE would fix my fear of SNAKES but that ended up being fake science!
+ALLIE: Come on, it makes so much sense that ACTIVITY outside will cure me immediately (Drag Xeri_ to exit Front Door)
+XERI: Wait, I seriously doubt this is a good ideaaaaaaa... (Get dragged out of the door)
 guitar music 1
-Teleport THOUGHT to Center Stage
-THOUGHT: (To audience) Well, just so everyone knows, if you follow this cure, I should warn you.
-THOUGHT: We are not responsible for any harm or injuries you may receive if you go ACTIVITY outside when you are feeling dizzy after playing GAME for HRS straight.
-THOUGHT: So if you are a normal person, but is somehow appalled by your own conscience and do not like sleeping on your BED....
-THOUGHT: (Pick up MEDS and show them to camera) Order MEDS now.
+Teleport STIRFRY to Center Stage
+STIRFRY: (To audience) Well, just so everyone knows, if you follow this cure, I should warn you.
+STIRFRY: We are not responsible for any harm or injuries you may receive if you go ACTIVITY outside when you are feeling dizzy after playing GAME for HRS straight.
+STIRFRY: So if you are a normal person, but is somehow appalled by your own conscience and do not like sleeping on your BED....
+STIRFRY: (Pick up MEDS and show them to camera) Order MEDS now.
 infomercial disclaimer
 
 ======
@@ -52638,7 +52639,7 @@ CITY: Name of a city:Nation of the Rising Sun, Shell City
 FISH: An obtained item:fish, block of ice, boot
 FAM: a person in the family:Oniichan, Onee-sama, Uncle Dave
 BOO: a jumpscare word:Hey babe, Wraaagh!!, Oogie boogie
-MARZ: Name of the creature:Water Alien, Seal, Jellyfish
+MARZ: Name of the sea creature:Water Alien, Seal, Jellyfish, Marz
 NOOBS: Describing a newbie:noobs, fools, first timers
 WEAP: a type of weapon:Tempest Sword, MiniGun, Stick
 HUNTER: Outdoor type of Profession:Hunter, Fisher, Gunner
@@ -52684,7 +52685,7 @@ KAZE: Besides, when does any normal MARZ decides to live in riverbed?
 badass music 1
 SEAL: Oh well, the jig's up, you will never catch me alive (Runs out to stage right and get chased for 2 rounds)
 Meanwhile KAZE: (chase MARZ around the stage 2 rounds)
-NEY: Oh, wait for me...(Chase for a round then blocks the Stage Right entrance)
+NEY: Oh, wait for me...(blocks the Stage Right entrance)
 Meanwhile SEAL: (Taunts the HUNTER but stops when VILL blocks the Stage Right exit)
 KAZE: Hahhhh! You are surrounded! (Waves WEAP around)
 epic cinematic music
@@ -52695,7 +52696,7 @@ NEY: (notices that the MARZ drops the FISH) Ohhh?
 NEY: Hehe, let me just pick this up and get on my way, byeeee... (exit Stage Right)
 KAZE: This is not over! (Keeps fighting)
 Meanwhile SEAL: (Continue fighting)
-TYPEWRITER: And so they got trapped in the river fighting for the next NUM of days.
+TYPEWRITER: And so they got trapped in the river fighting for the next NUM days.
 
 ======
 
