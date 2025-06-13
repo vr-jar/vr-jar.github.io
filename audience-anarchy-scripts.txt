@@ -10305,73 +10305,39 @@ WAITER: Posh Waiter:Stage Right
 MEAT: Dish of the Day:Backstage
 SUGGESTIONS =============================
 PLACE: Strange name for a restaurant:NaanSense, Burgatory, What The Pho
-DECORATION: An odd or expensive piece of decor:Chandelier, Candelabra, Fireplace, Painting
-DISASTER: A disaster or mishap, such as a car accident.:Car Accident, Plane Crash, Bomb Explosion
-ENDOFIT: Place where you go when you die:Afterlife, Hell, Heaven, Underworld
 CUTOFMEAT1: A cut of meat:Rump
 CUTOFMEAT2: A cut of meat:Flank
 CUTOFMEAT3: A cut of meat:Shoulder
 ORGAN: An animal's organ:Brain, Liver, Lung
-VEGET: A Vegetable Food:Salad, Broccoli, Kale,
+VEGET: A Vegetable:Salad, Broccoli, Kale,
 VEGCOL: Color for a vegetable:Green
 DRINK: A Beverage:Beer, Milkshake, Coffee, Tea
 SCRIPT ==========================================
 Noir music 4
-DATER: (Enter Stage Right) Wow this place is unreal.
-DATEE: (Following man) What a gloomy atmosphere.
-WAITER: (Overly Posh) Good evening Sir and Madam. Do you have a reservation?
-DATER: Sorry, No. (looks to companion) You need a reservation for the ENDOFIT.
-WAITER: No problem. Let's see.
-WAITER: (Look about empty restaurant, taking time.) Yes... busy night.
-DATER: What a night.
-DATEE: Indeed, I mean after that DISASTER.
-DATER: (chuckling nervously) Oh yes. the DISASTER.
-WAITER: Ah, seems a table is opening up, one moment.
-MEANWHILE DATEE: (Interrupting the waiter) I mean, wow. The DISASTER was so intense.
-DATER: Hey, did you get that amazing thing of your whole life flashing before you?
-DATEE: Yeah, you got that too did you? Your whole life?
-DATER: Yeah. At least I assume it was mine. Some bits I didn't remember.
-DATEE: So what?
-DATER: Here we are, lying dead . . .
-DATEE: Standing . . .
-DATER: Right, Standing dead in this er . . . desolate . . .
-DATEE: Restaurant. . .
-DATER: Standing dead in this desolate . . .
-DATEE: Five star . . .
-DATER: Five star restaurant.
-DATEE: Odd, isn't it?
-DATER: Indeed, sure doesn't look like the ENDOFIT.
-DATEE: Surely not the ENDOFIT.
-WAITER: (clearing throat) IF you'll come this way, seems a table has just opened up. (Lead couple to table)
-DATER: (Hold out chair for companion) Here, let me get that for you.
-DATEE: (giggle) Oh you. (take offered seat)
-WAITER: If you would care to order DRINK . . .?
-DATER: Er, yeah.
-DATEE: Nice DECORATION, though.
-DATER: Hey, hang about... I think we're missing something important here, something really important that somebody just said . . . What was it? Hey, you.
-WAITER: Sir?
-DATER: Did you say something about DRINK?
-WAITER: Certainly, sir. If the lady and gentlemen would care to take DRINK before dinner. . .
-DATER: Yeah, great.
+DATER: (Enter Stage Right) I know, I know. It's a surprise, you'll see.
+DATEE: (Following in, hands covering eyes) You said it was special, can't you just tell me?
+DATER: Of course. Look now, See?
+DATEE: No way.. it can't be. PLACE
+DATER: Of course it's PLACE. I've heard their special is to die for
+DATEE: Are you sure about that? I've heard.. well.. things.
+WAITER: Good evening Sir and Madam. Do you have a reservation?
+DATER: Yes, of course I do, Party of two, main table.
+DATEE: It's our anniversary you see.
+WAITER: Certainly, sir. If the lady and gentlemen would follow me, your table is here.
+WAITER: And would you care to order something to drink? Our DRINK is on special today.
+DATER: Yeah, a DRINK sounds great.
 WAITER: And the world will end later for your pleasure.
 DATEE: Hey, what?
-DATER: Wow, what sort of DRINK do you serve here?
-WAITER: (Laughing) Ah, I think sir has perhaps misunderstood me.
+DATER: Wow, what do you put in the special DRINK?
+WAITER: (Chuckle) Ah, I think sir has perhaps misunderstood me.
 DATEE: (eager for a DRINK) I hope not.
-WAITER: It is not unusual for our customers to be a little disorientated by the teleport, so if I might suggest. . .
-DATER: You mean this isn't the ENDOFIT?
-WAITER: ENDOFIT sir? No, sir.
-DATER: (Skeptical) And we're not dead?
-WAITER: Aha, ha, no sir. Sir is most evidently alive, otherwise I would not attempt to serve sir.
-DATER: Then where are we?
-DATEE: (Suddenly) Hey, I've figured it out. This must be PLACE!
-DATER: PLACE!
+WAITER: It is not unusual for our customers to be a little disorientated by the timeshift, so if I might suggest. . .
+DATEE: Time shift?
 WAITER: Yes, this is PLACE, the Restaurant at the end of the World.
-DATEE: End of what?
-WAITER: The World.
+WAITER: When you entered, you stepped far into the future to witness the End of the World.
 DATEE: When did that end?
-WAITER: In just a few minutes, sir. Now, let me get your DRINK.
-TYPEWRITER: A couple DRINK later...
+WAITER: In just a few minutes, sir. Let me get your DRINK.
+TYPEWRITER: A few DRINK later...
 WAITER: (Approach the table) Would you like to see the menu? or would you like meet the Dish of the Day?
 DATEE: Huh?
 MEANWHILE DATER: Huh?
@@ -10403,7 +10369,7 @@ DATEE: (mutter) I think I'll just have a VEGCOL VEGET
 MEAT: May I urge you to consider my ORGAN?
 MEAT: It must be very rich and tender by now, I've been force-feeding myself for months.
 DATEE: (emphatically) A VEGCOL VEGET.
-MEAT: (disapproving to ARTHUR:) A VEGCOL VEGET?
+MEAT: (disapproving) A VEGCOL VEGET?
 DATEE: Are you going to tell me, that I shouldn't have VEGCOL VEGET?
 MEAT: Well, I know many VEGET that are very clear on that point.
 MEAT: Which is why it was eventually decided to cut through the whole tangled problem
@@ -10412,6 +10378,7 @@ DATEE: (nervous) A glass of water please
 DATER: Look, we want to eat, we don't want to make a meal of the issues.
 DATER: (sitting back down, and to the waiter) Four rare CUTOFMEAT1 please, and hurry.
 MEAT: (shift to the table) A very wise choice, sir, if I may say so.
+DATER: Look, we want to eat, we don't want to make a meal of the issues.
 
 ======
 
@@ -27721,7 +27688,7 @@ GOOD COP: A cop who is good at their job:Corner Right
 BAD COP: A cop who thinks they're the "bad cop" but just sucks at their job:Corner Left
 JENNY: E-Girl Mafia member who saves their boss:Entrance Stage Right
 SUGGESTIONS =============================
-ANYTHING: Something that's bad, or offensive to be compared to.:Highschool dropouts, cottage cheese and marshmellows
+ANYTHING: Something that's bad, or offensive to be compared to.:High school dropouts, cottage cheese and marshmallows
 TOY: Funny toy weapon:Bubble gun, toy sword
 LOCATION: A place you can go:Chuck E. Cheese', McDonald's
 FOOD: A food or drink:Pizza, Coffee, Burger
@@ -32200,12 +32167,12 @@ ACTION: An action you can do to another person:Touch, poke, kiss, hug
 LIQUID: Any liquid:White sauce, blood, urine, bath-water
 PART: A part of the body you want to protect:Rump, left boob, wenis, groin, hole
 THING: An element or concept:Love, plasma, death, hedgehog
-SHOW: A tv show:Breaking Bad, Eastenders, The Boys, Kiss your dog on the lips
 FAMILY: An odd family member:Step-bro, daddy, mama, papa
 FINAL: Words of wisdom to impart before death:kiss your dad for me, I farted, I am Ironman, you are not loved
 NUMB: A two digit number:28, 11, 99, 74
-ACTOR: A famous person:Ryan Reynolds, Chris Evans, Pedro Pascal, The Rock
 GREET: A nice greeting:Hewwo, hi cuties, hiya darlings, you're looking plump today
+FRAN: A popular company, franchise or show:Marvel, Star Wars, Tesla, Nintendo, Vrchat, Goth Mommy
+SHOW: A cringe made up tv show:Skibidi and Me, Return of the Rizzler, Gyatts Giving, Sigma Suggestions, Fanum Fallout
 SCRIPT ==========================================
 epic cinematic music
 HAM: At long last.. after NUMB movies, the final battle is here!
@@ -32220,7 +32187,7 @@ laughter
 HAM: Whoa, a little eager there.. Are you all that is left?
 NEW: Yup. (Nod)
 HAM: (Point) I don’t recall seeing you in the Revengers group chat..
-NEW: Oh, I’m a new hero in the KCU!
+NEW: Oh, I’m a new hero in the FRAN Cinematic Universe!
 NEW: They call me LIQUID Drinker! (Hold out hand for handshake)
 HAM: I see… Well, nice to have you aboard LIQUID Drinker! (Handshake)
 epic cinematic music
@@ -32263,21 +32230,19 @@ VIL: Their PART was the smallest I’ve ever squashed! (Evil laugh)
 vine boom
 epic cinematic music
 NEW: (stand) Don’t you dare talk about PLACE like that!
-NEW: I've never been there, but I'm sure they are a lovely people with cute dogs!
 NEW: (charge beam attack) THING…. Beam…..
 NEW: (unleash beam) Gooooo!!!!
 super epic charge up
 VIL: (get hit with the beam) I-it can’t be!! Such a high concentration of THING!!!
-NEW: (continue shooting beam) Burn in the everlasting hellfire of creation! Be utterly annihilated down to the very last scrap of DNA!
 VIL: (girly cry) Baaaaaaaaah….!!! My FAMILY..... Help…!!! (die)
 raygun shot
 teleport VIL to backstage
 happy music 1
-NEW: (bend over, exhausted) Ugh… The KCU is saved..
+NEW: (bend over, exhausted) Ugh… The FRAN Cinematic Universe is saved..
 NEW: (finger up) I guess I have to rebuild the Revengers now.
 NEW: And start production of some average shows like SHOW on our streaming service! (Walk off)
 superhero music
-TYPEWRITER: Watch the newest episode of SHOW! Now staring LIQUID Drinker, played by ACTOR!
+TYPEWRITER: Watch the newest episode of SHOW! Now staring LIQUID Drinker!
 applause
 
 ======
@@ -33739,9 +33704,8 @@ VILLAIN: Wrong! (Hit the hostage) It has everything to do with you!
 Meanwhile HOSTAGE: (Get Hit, fall down) UwU! X3
 VILLAIN: Your family stole our VALUABLE, so we're stealing you.
 VILLAIN: When they give us back our VALUABLE, we'll give you back to them.
-HOSTAGE: You'll...Give me back? You mean like, bring me back home? But...But...
-VILLAIN: Yes. once they return what is rightfully ours, we will safely return you to your family.
-HOSTAGE: But...But...Don't you want to...maybe... waterboard me a little bit?
+HOSTAGE: You'll...Give me back? You mean like, bring me back home?
+HOSTAGE: But...But...Don't you want to...maybe... waterboard me a little bit first?
 Music Stops
 VILLAIN: ....What?
 HOSTAGE: I mean...My family can be a little stubborn about things like this.
@@ -33813,7 +33777,6 @@ VILLAIN: Why am I doing this? You VRCHAT. Why would I NOT do this?!
 PRIVATE: I don't understand.
 HOSTAGE: Ah crap, here comes another monologue.
 VILLAIN: (Sad) When I was just a boy, that brat's family took everything from me and my people.
-VILLAIN: Everything we worked so hard and fought for, generation after generation, GONE!
 VILLAIN: These people destroyed our base, our Nexus, so many times... In League of Legends.
 Music Stops
 PRIVATE: Wait, you're raging over League of Legends?
@@ -33834,7 +33797,7 @@ PRIVATE: I dunno, I gotta ask my momma first. Are you allergic to cats?
 HOSTAGE: Are you allergic to TORTURE?
 HQ: Yes Ma'am, Just now. I saw the whole thing.
 HQ: Your kid did it, You should be proud of them...
-HQ: Ms. Chunky-Monkey-Floppers.
+HQ: Ms. Sloppy-Turtle-Pounder.
 PRIVATE: Wait! HQ, you're actually talking to my mom right now?! (Exit)
 
 ======
@@ -41371,7 +41334,7 @@ DATE: 25/12/24
 CHARACTERS ================================
 HOSTA: The Attractive Host Max Steel  :News Desk
 HOSTB: The Other, Less Attractive Host Miranda Copperbottom:News Desk
-TALENT1: A Contestant:Stage Left
+TALENT1: A Contestant:Backstage
 TALENT2: A Different Contestant:Backstage
 TALENT3: A young, Sickly Contestant:Backstage
 SUGGESTIONS =============================
@@ -41406,7 +41369,7 @@ HOSTB: What do you call it?
 TALENT1: Ground Beef! (Laughs)
 music stops
 HOSTB: (Sighs) well thank you for coming Mr. NAME1 but I don’t see where you could fit into our main show.
-HOSTA: Yea your Jokes were like if I went to Miranda’s Hair, an utter disaster!
+HOSTA: Yea your Jokes were like if I went to Miranda’s Hair Stylist, an utter disaster!
 TALENT1: (Frantic) Wait I have some more Jokes to tell you!
 TALENT1: A BEING and a FAMILY walk into a PLACE..
 HOSTB: Okay, get him out.
@@ -41419,7 +41382,7 @@ HOSTB: Salutations to you as well! Now can you please tell us your name?
 TALENT2: You Don't know me? I’m SINGER! You know..
 HOSTB: Not a soul knows you dear.
 TALENT2: (arrogant) Well I’m famous! I have COUNT followers on Spotify!
-HOSTB: Well I assure you Mr. SINGER, that my OBJECT has more relevancy than you’ll ever have. Now give us your name.
+HOSTB: Well I assure you Mr. SINGER, that my FAMILY has more relevancy than you’ll ever have. Now give us your name.
 TALENT2: (Sigh of Defeat) NAME2.
 HOSTB: Good, now NAME2, what have you come here to show us
 TALENT2: I actually have a poem I would like to read!
@@ -44919,24 +44882,24 @@ MOBILE: made up phone brand:Pear, Edison, Brick
 X: a large number:50, 100, 45, 74
 SCRIPT ==========================================
 double bass music
-MAN: What a wonderful sunny day it is today. I hope nothing ruins this wonderful day!
-KAREN: (aproach the man) Hello sir can you please help me with finding STREET im lost!
+MAN: (Stretching) Aaaaah finally my shift at JOB is finally over. And the best part my vacation starts today. I hope nothing ruins this wonderful day!
+KAREN: (approach the man) Hello sir can you please help me with finding STREET I'm lost!
 MAN: Sure ma'am just let me pull up my MOBILE phone.
 Music stops
-KAREN: Sir you don't need to raise your voice im standing right next to you!
-MAN: Sorry i didn't mean to do that.
+KAREN: Sir you don't need to raise your voice I'm standing right next to you!
+MAN: I didn't mean to do that.
 KAREN: Sir you do not talk to me in that tone!!!
-MAN: What? im talking normally, Im not being loud or anything!
+MAN: What? I'm talking normally, I'm not being loud or anything!
 tense cinematic music
 KAREN: I feel threatened that you speak to me like that!
 MAN: What is wrong with you?
-KAREN: Thats it. Back off or im gonna throw this ITEM at you!
+KAREN: That's it. Back off or I'm gonna throw this ITEM at you!
 MAN: Ma'am that's not necessary!
 KAREN: (Throws ITEM at the man) Take this you prick!
 crashing debris
 KAREN: Darn it i missed!!!
 MAN: Ma'am stop it! this is just getting ridiculous!
-KAREN: (pulls up DEVICE) That's it im calling the Police on my DEVICE!
+KAREN: (pulls up DEVICE) That's it I'm calling the Police on my DEVICE!
 MAN: Seriously? you're gonna call the police on me?
 KAREN: (Talks in DEVICE) Hello i need a officer asap there is a man threatening me!
 MAN: I did not threaten you! you were the one throwing ITEM at me!
@@ -44948,18 +44911,20 @@ KAREN: This man just threatened me!
 MAN: I did not threaten her. Look officer this woman is being hysterical for no reason!
 POLICE: Sir you need to calm down!
 MAN: I am calm. whats the matter with you two?
-POLICE: Sir if you don't calm down now im gonna have to take you to the station!
+POLICE: Sir if you don't calm down now I'm gonna have to take you to the station!
 MAN: What? i didn't even do anything!
 MAN: This woman came up to me and asked me if i could help her find STREET and then she starting yelling at me!
+MAN: Not only that she tried assault me with throwing her ITEM at me!
 POLICE: Sir you gonna have to tell us more at the station!
-MAN: This can't be real this has to be a joke, where are the hidden cameras at?
+MAN: (Look around) This can't be real this has to be a joke, where are the hidden cameras at?
+MAN: Am i on the TV show PRANK!
 POLICE: Sir this isn't a joke this is a very serious situation!
 KAREN: Watch out officer he got a GUN!!!
 MAN: What no! i don't have a GUN on me!
 POLICE: (pulls out WEAPON) Sir hands up where i can see them!
 KAREN: Arrest this man NOW!!!
 MAN: Woah woah there officer! i do as you say just don't use your WEAPON on me.
-POLICE: (arrests the man) You have alot of explaining to do at the station buddy!
+POLICE: (arrests the man) You have a lot of explaining to do at the station buddy!
 MAN: (being arrested) I wanna speak to my lawyer this is ridiculous!
 TYPEWRITER: The man was sent to prison for X years.
 spy ending sting
@@ -48357,6 +48322,7 @@ CRIME: A crime Ronald McDonald might commit:Arson, kidnapping, aggravated assaul
 ACTION: A random action to do:Jump, Punch his face, fart, kiss him, spit on him, flush the toilet
 PUNISHMENT : A cruel punishment:Tickled for 24 hours, death, increased taxes, bad haircut
 WORD: a negative or weird description of something :Stupid, gay, crusty, sticky
+CELEB: A random person:Ryan Reynolds, Shaquille O'Neal, Morgan Freeman 
 SCRIPT ==========================================
 (Silly music 1)
 CLOWN: (sit on the toilet) man I sure am glad to finally have some alone time here in my bathroom
@@ -51753,6 +51719,76 @@ CAMPER #2: Next year, we're vacationing somewhere safer...like DESTINATION"
 ======
 
 INFORMATION ===============================
+ID: 1645
+TITLE: Job Simulator 
+AUTHOR: Rotem_N
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 02/05/25
+CHARACTERS ================================
+CASHIER: The cashier:Behind Register
+MOTHER: Mother:Entrance Stage Right
+KID: A spoiled kid:Entrance Stage Right
+SUGGESTIONS =============================
+WORK: A workplace:7eleven, supermarket, convenience store 
+OUTSIDE: Somewhere outside :Rode, McDonald's, car
+GROCERY : Some grocery :Flour, eggs, milk
+FOOD: Food:Soup, fried chicken, rice
+CANDY: Some sort of candy:Chocolate, lollipop, cotton candy
+WEAPON : A weapon:Gun, knife, sword
+NICKNAME: A nickname:Pookie, sweetie, baby
+SCRIPT ==========================================
+70s music
+CASHIER: Another day at WORK.
+CASHIER: I hate this workplace, I should treat it like a game!
+CASHIER: A job simulator!
+Tada
+CASHIER: A job simulator at WORK!
+Happy music 1
+MOTHER: (enters stage) Listen honey,
+KID: (enters stage) Yes, mommy?
+MOTHER: I need to go OUTSIDE to make a phone call.
+MOTHER: Please get the groceries, and don't forget the GROCERY for the FOOD!
+MOTHER: And don't buy any candy!
+KID: Ok mommy, byee.
+MOTHER: (exits stage right) I'll be quick!
+CASHIER: Hey kid, do you need any help?
+KID: Yeah!
+CASHIER: With what?
+Epic fantasy music 1
+KID: Give me CANDY now!
+CASHIER: Kid, I can't give you CANDY.
+KID: (angry) But I want CANDY now!
+CASHIER: Too bad, kiddo. You are not getting any CANDY.
+KID: And I thought you were going to be a cool dude! Who was going to give me CANDY.
+KID: But I guess not.
+Lacrimosa music
+KID: (pulls out WEAPON) So are you going to give me CANDY now?
+CASHIER: What the—
+CASHIER: I thought simulators should be family friendly! How did you get a WEAPON?!
+KID: What simulator? (points at him with your WEAPON)
+CASHIER: Doesn't matter.
+KID: So what's it gonna be?
+CASHIER: Fine! Take your CANDY and your groceries for free!
+CASHIER: Just get the hell out of here!
+KID: Yayy!
+Happy music 1
+MOTHER: (enters stage) NICKNAME, have you got all the groceries?
+KID: (hides weapon) Yeah!
+MOTHER: (to CASHIER) He hasn't done any trouble, right?
+CASHIER: No, he was fine. A very well-behaved kid.
+MOTHER: Ok, we're gonna go now. NICKNAME, say goodbye to the nice cashier. (exits stage)
+KID: (in a creepy way) Byee! (exits stage)
+Aww
+CASHIER: I hate my job.
+Peaceful fantasy music
+CASHIER: I'm going to download an actual job simulator, and quit this nasty job!
+CASHIER: Too bad I can't make money from it.
+
+======
+
+INFORMATION ===============================
 ID: 1649
 TITLE: Lost & Dramatic
 AUTHOR: аlty
@@ -52411,16 +52447,16 @@ SUGGESTIONS =============================
 MEDS: Any medicine or drug:Cerc, Paracetamol, Ginger, bible verses that make you feel better
 ACTIVITY: A fast paced outdoor activity:Driving, Riding a roller coaster, GoKart
 GAME: Motion sickness inducing game:VRC, Roblox, Minecraft, Counter Strike
-BRUH: Nickname you might call a friend:Bruh, Mafwend, Beshy
+BRUH: Nickname you might call a friend:Bruh, Mafwend, Beshy, Frienship
 BED: Furniture to take naps:Bed, Couch, Floor, Kitchen CounterTop
-HRS: Time duration:an hour, 400 minutes, a whole day
+HRS: Time duration:56 hours, 400 minutes, a whole week
 BYE: Farewell words or statement:Sayonara, See you around, Sheeesh, Babi
 LOW SELF ESTEEM: a personal or physical flaw with someone:sweaty palms, not funny at all, weird haird, third nipple, unibrow, stupidness
 PROCEDURE: some kind of activity/action you recommend mmend:vaping, surfing the net, looking at pictures of corn, breathing rapidly
 SNAKES: something people might be afraid of:snakes, the dark, clowns, commitment, cancer, women
 SCRIPT ==========================================
 happy music 1
-ALLIE: (Plays GAME with XERI on TV) I have so much fun playing GAME with you, Xeri_
+ALLIE: (Plays GAME with Xeri_ on TV) I have so much fun playing GAME with you, Xeri_
 Meanwhile XERI: (Plays GAME with GIRL)
 Music Stops
 ALLIE: Whoa, I think I gotta stop for a while. (Holding head dizzy) I feel... woah...
@@ -52435,6 +52471,7 @@ Music Stops
 vine boom
 XERI: Oh, I see... That... definitely does not sound like a good thing to do.
 XERI: Playing GAME for HRS straight... what were you thinking?
+vine boom
 ALLIE: Be quiet for a bit, my ears are ringing... can you just get me some MEDS?
 XERI: Oh, yeah sure... (Gets MEDS from kitchen)
 XERI: Here you go. (give MEDS to girl)
@@ -52445,7 +52482,7 @@ Guitar Music 1
 STIRFRY: What are you doing, Allie??
 Meanwhile XERI: (Continue playing GAME)
 ALLIE: Huh? Who are you?
-STIRFRY: Who am I? Have you seriously forgotten? I'm Stirfry, you're inner thoughts. Your conscience!
+STIRFRY: Who am I? Have you seriously forgotten? I'm Stirfry, your inner thoughts. Your conscience!
 STIRFRY: You basically named me Stirfry when you were young.
 STIRFRY: Come on Allie, really? MEDS? You know that's not actually good for you!
 STIRFRY: Don't you think the best medicine is Natural Medicine?
@@ -52466,12 +52503,12 @@ XERI: Uhhh... hey, why haven't you taken your MEDS, BRUH?
 ALLIE: I just had a deep conversation with my conscience while I was contemplating on these MEDS.
 ALLIE: (shrugs and throw the MEDS) You know what, I don't need MEDS to cure my dizziness!
 XERI: Then what is your conscience suggesting so you can feel better?
-XERI: Me and my conscience has concluded that I should just go ACTIVITY outside.
+ALLIE: Me and my conscience has concluded that I should just go ACTIVITY outside.
 ALLIE: That should cure me immediately!
 XERI: What? Are you sure that will cure you? Sounds so sus...
 XERI: TikTok said PROCEDURE would fix my fear of SNAKES but that ended up being fake science!
 ALLIE: Come on, it makes so much sense that ACTIVITY outside will cure me immediately (Drag Xeri_ to exit Front Door)
-XERI: Wait, I seriously doubt this is a good ideaaaaaaa... (Get dragged out of the door)
+XERI: (Get dragged out of Stage Right by Allie) Wait, I seriously doubt this is a good ideaaaaaaa... 
 guitar music 1
 Teleport STIRFRY to Center Stage
 STIRFRY: (To audience) Well, just so everyone knows, if you follow this cure, I should warn you.
@@ -52479,6 +52516,86 @@ STIRFRY: We are not responsible for any harm or injuries you may receive if you 
 STIRFRY: So if you are a normal person, but is somehow appalled by your own conscience and do not like sleeping on your BED....
 STIRFRY: (Pick up MEDS and show them to camera) Order MEDS now.
 infomercial disclaimer
+
+======
+
+INFORMATION ===============================
+ID: 1674
+TITLE: Outer Affair
+AUTHOR: Jack_Gubadiah
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 19/05/25
+CHARACTERS ================================
+WIFE: The Wife:Stage Left
+HUSBAND: The Husband:Entrance Stage Right
+SPACE: The Alien:Backstage
+SUGGESTIONS =============================
+USERNAME: A weird Username:Hot$tuff13, Fr3ky8oy
+FOOD: A Food Item:Steak, Pizza, Fettachini
+ALIEN: An Alien Name:Glorb, Zim, Flaxor
+PLANET: An Alien Planet:Mars, Cydonia, Barabos
+PLACE: A Place to meet Someone:The mall, Subway, The Park
+GAME: A Game:Chess, Pattycake, Jacks
+SCRIPT ==========================================
+(happy music 1)
+WIFE: (Speaking into phone secretly) Oh ALIEN, You’re so romantic, I can’t wait to see you again tonight.
+WIFE: Of course he doesn’t know, I hear him coming though. Bye
+HUSBAND: (Enter stage right) Hon, I’m home!
+WIFE: Hello Dear, How was your day?
+HUSBAND: It was alright. Although I can’t stay for Dinner tonight.
+WIFE: It’s another one of your “Business dinners” again, isn’t it?
+HUSBAND: You know how the Boss gets when I don't show up to them.
+WIFE: I know, but could you at least try what I made tonight?
+WIFE: It’s FOOD
+HUSBAND: Sure thing
+WIFE: I’ll be right back.(exit stage left)
+(cellphone vibrate)
+Music stops
+HUSBAND: (Speaking into phone secretly). I’ll meet you at the PLACE ALIEN.
+HUSBAND: I know you gotta make a stop first but I can’t wait to meet you. Of course she doesn’t know.
+HUSBAND: I can hear her coming back, I’ll see you there. Bye.
+WIFE: Who was that?
+HUSBAND: Oh, uh, Just the Boss.
+WIFE: Uh huh, well anyways, here’s the FOOD.
+HUSBAND: Thanks, I’ll be sure to try some.
+(alien teleport)
+(doorbell)
+SPACE: (stage right, behind door)Hey Baby, I’m here.
+SPACE: I gotta make it quick tonight, I’ve got something else that came up
+(shark tank offer)
+(dark classical music)
+HUSBAND: (Whisper) Who. Is. That.
+WIFE: (Whisper back) It’s not what you think, I promise.
+HUSBAND: Well I think you should let them in “Baby”.(hide behind couch)
+WIFE: (Normal voice) It’s unlocked.
+SPACE: (Walking in) Sweet. Had a lot of trouble on PLANET, but I managed to cut traffic.
+Music stops
+HUSBAND: (Coming out of hiding)And just who are you?!
+SPACE: Woah Man, I didn’t know she was taken.
+HUSBAND: Well ya do now.
+WIFE: Leave him be Dear, all we do is Play GAME.
+WIFE: Isn't that right, ALIEN.
+(record scratch)
+HUSBAND: Wait.
+(groose music)
+HUSBAND: Your ALIEN.
+SPACE: The one and only.
+HUSBAND: Hon I need to apologize, I didn't have a Business Dinner Tonight.
+(vine boom)
+WIFE: What, so what were you going to do?
+HUSBAND: I was going to meet someone at PLACE, named ALIEN.
+SPACE: Your USERNAME.
+HUSBAND: Surprise?
+SPACE: I’ll say
+SPACE: (sniff) Is that FOOD I smell?
+WIFE: It sure Is.
+(happy music 1)
+HUSBAND: Let's all eat together then, I mean we were both going around each other's back to see the same, Person, might as well share him.
+SPACE: That sounds fair.
+Meanwhile WIFE: That sounds fair
+TYPEWRITER: The house was later raided by the CIA
 
 ======
 
@@ -52697,6 +52814,81 @@ NEY: Hehe, let me just pick this up and get on my way, byeeee... (exit Stage Rig
 KAZE: This is not over! (Keeps fighting)
 Meanwhile SEAL: (Continue fighting)
 TYPEWRITER: And so they got trapped in the river fighting for the next NUM days.
+
+======
+
+INFORMATION ===============================
+ID: 1697
+TITLE: House Development
+AUTHOR: Carl on Duty
+VERIFIED: True
+TAGS: Skit
+SET: Backyard
+DATE: 13/06/25
+CHARACTERS ================================
+BIL: Bill, the wise old neighbor:Neighbor's yard
+JIM: Jim, the Husband:Grill
+WIFE: Jim's Wife:Backstage
+SUGGESTIONS =============================
+OPH: An old person hobby.:Gardening, Pickleball, Yoga
+SIMP: Something you self-improve on.:Mind-Muscle Connection, Inner Chi, Prostate
+SNARK: A snarky comment.:I think you visit the doctor for that., Shouldn’t you do that in private?, You could borrow our’s if you want.
+ARGUH: Something a couple argues over.:Bills, Dinner last Tuesday, the car you wanted to buy
+LAVAC: Lame vacation plan/idea.:Go to a Disney World, Go to an Anime Convention, Cosplay as Anime Characters
+WISAY: A wise saying.:Where there is love there is life., Love is the bridge between two hearts., Love is a choice you make every day.
+SOPER: Social Media Influencer:Asmongold, Hasan Piker, Druski, Furries on VR Chat
+FAVOR: Something you do for your relationship partner.:Footrub, Backrub
+SCRIPT ==========================================
+JIM: Hey Bill, What are you up to?
+BIL: Hi Jim, I’m practicing my OPH
+(laughter)
+BIL: It really helps with the SIMP
+JIM: SNARK
+(laughter)
+BIL: So… how’s it going with you?
+JIM: Oh… I'm just getting some fresh air.
+JIM: …me and the wife had a fight.
+BIL: Another one?
+(laughter)
+BIL: I didn’t think it would get worse, than that time you fought over ARGUH
+(laughter)
+JIM: Well it’s about our vacation plans, I just want a relaxing weekend at the beach.
+JIM: But she wants to LAVAC
+BIL: Oh yeah, I heard about that from SOPER
+(laughter)
+JIM: I promised her we would go. But work has been stressful, and I just want to unwind at the beach.
+BIL: Jim, Jim, have I ever told you what the wise philosopher Socrates said?
+BIL: He said WISAY
+JIM: Ahhreeuughh???
+(laughter)
+BIL: It means you should talk this out to your wife and compromise.
+JIM: Yeah… you’re right. We’ve been married 13 years…
+BIL: 14 years …
+(laughter)
+JIM: 14 Years, and she has been the best thing that’s ever happened to me.
+BIL: I know, she even FAVOR for you
+(laughter)
+WIFE: (ENTERS STAGE RIGHT) Jim are you out here?
+WIFE: Oh Hey Bill… are you practicing OPH?!
+WIFE: I heard that’s really good for your SIMP
+(laughter)
+WIFE: (Speaking to Jim) Jim, I’m sorry about the fight, I know work has been rough, and we can go to the beach.
+JIM: No... I should be the one apologizing,
+JIM: I did make that promise to you. And I know how much LAVAC means to you.
+JIM: You’re the best thing that’s ever happened to me and I love you.
+WIFE: Y-you… really mean it?
+JIM: I really mean it.
+(Aww)
+JIM: A wise philosopher once said. WISAY
+WIFE: That was Socrates that said that… right?
+JIM: I think it was SOPER
+(laughter)
+JIM: Now come on, we got to start planning!
+WIFE: C'mon, I’ll give you an extra FAVOR tonight (EXIT STAGE RIGHT)
+Meanwhile JIM: (EXIT STAGE RIGHT WITH WIFE)
+BIL: Aww... wasn't that sweet
+BIL: (Doing OPH) Oh Yeah! I’m really feeling the SIMP Now!
+(laughter)
 
 ======
 
