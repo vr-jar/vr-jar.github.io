@@ -239,7 +239,6 @@ Pshelly
 Supslowrobot
 RachetRanger
 Savvybmm
-KomiBread
 FroostySenpai
 Leeafy
 Sasha Mason
@@ -2074,7 +2073,7 @@ CosmicVortex
 -RoseBerry-
 Deimos-17
 ア༒ 北 極 ギ ツ ネ༒ア
-Krmoni
+Kоmi
 modNick
 ruralists
 #TIER=1
