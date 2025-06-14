@@ -44879,7 +44879,8 @@ DEVICE: a comunication device:Phone, Walkie talke, Radio
 GUN: a type of firearm:Assoult rifle, pistol, shotgun,
 WEAPON: police weapon:Taser, Pepperspray, pistol, Baton
 MOBILE: made up phone brand:Pear, Edison, Brick
-X: a large number:50, 100, 45, 74
+JOB: name of a resturant:Fishy Diner, BurgerQueen, Vegan Heaven
+PRANK: made up prankshow:FunnyPranks, Almost Funny, PrankerZ TV
 SCRIPT ==========================================
 double bass music
 MAN: (Stretching) Aaaaah finally my shift at JOB is finally over. And the best part my vacation starts today. I hope nothing ruins this wonderful day!
@@ -44887,11 +44888,11 @@ KAREN: (approach the man) Hello sir can you please help me with finding STREET I
 MAN: Sure ma'am just let me pull up my MOBILE phone.
 Music stops
 KAREN: Sir you don't need to raise your voice I'm standing right next to you!
-MAN: I didn't mean to do that.
+MAN: Sorry i didn't mean to do that. I mean im talking with my normal voice right now!
 KAREN: Sir you do not talk to me in that tone!!!
 MAN: What? I'm talking normally, I'm not being loud or anything!
 tense cinematic music
-KAREN: I feel threatened that you speak to me like that!
+KAREN: Sir i feel threatened that you speak to me like that!
 MAN: What is wrong with you?
 KAREN: That's it. Back off or I'm gonna throw this ITEM at you!
 MAN: Ma'am that's not necessary!
