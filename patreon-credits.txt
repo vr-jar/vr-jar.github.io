@@ -2605,7 +2605,6 @@ GrimReaps181
 XanderArizona
 PattonBane
 V3NUS0LAR
-Diablothereaper
 KittyHistory
 Miss_Grace
 ittie
@@ -2671,6 +2670,7 @@ NGD Għøstface
 °༒N༒°
 THEDUMBBITCH
 coyturbomach
+El__Diablo
 #TIER=2
 Psych_Foxtrot
 shifca
