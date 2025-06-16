@@ -48323,7 +48323,7 @@ CRIME: A crime Ronald McDonald might commit:Arson, kidnapping, aggravated assaul
 ACTION: A random action to do:Jump, Punch his face, fart, kiss him, spit on him, flush the toilet
 PUNISHMENT : A cruel punishment:Tickled for 24 hours, death, increased taxes, bad haircut
 WORD: a negative or weird description of something :Stupid, gay, crusty, sticky
-CELEB: A random person:Ryan Reynolds, Shaquille O'Neal, Morgan Freeman 
+CELEB: A random celebrity :Morgan Freeman, Shaquille O'Neal, Grimace 
 SCRIPT ==========================================
 (Silly music 1)
 CLOWN: (sit on the toilet) man I sure am glad to finally have some alone time here in my bathroom
@@ -48336,16 +48336,16 @@ CLOWN: (confused) what is this?
 CLOWN: A McDonalds Commercial script?
 CLOWN: and there's a sticky note here that looks important (peels off) what's this say?
 CLOWN:"Ronald, we have cameras and trained clown assassins in your house...
-CLOWN: if you refuse read this script than you and your family will be exiled to PUNISHMENT."
+CLOWN: if you refuse read this script than you and your family will be exiled to PUNISHMENT. - from McBoss"
 CLOWN:Welp I sure don't want that, so I guess I have to read this WORD script
 CLOWN: *ahem* "Hi everyone, Ronald McDonald here! and even though I did CRIME in the 90's.
 CLOWN: Im here to tell you guys about some new changes happening to McDonalds. Because CELEB was unavailable
 CLOWN: Firstly there's going to be a change to the menu. so the FOOD 1 will be replaced by the new FOOD 2.
 CLOWN:But that's not all, there's going to be a new Mcdonalds opening in LOCATION!
-CLOWN: And when the McDonald's is open in LOCATION they're going to be adding an exclusive TOY 1 in every Happy Meal
-CLOWN: But there's more toy's kids and some sad lonely adults will receive in their happy meals.
-CLOWN: McDonalds has officially partnered with PARTNER to add TOY 2 to their Happy Meals
-CLOWN: That's all they wrote for me so if you guys could excuse me. I need to find those cameras...
+CLOWN: And when it's s open in LOCATION they're going to be adding an exclusive TOY 1 in every Happy Meal
+CLOWN: But there's more toy's, kids and some sad lonely adults will receive in their happy meals.
+CLOWN: McDonalds has officially partnered with PARTNER to add TOY 2 to their Happy Meals.
+CLOWN: That's all they wrote for me so if you guys could excuse me. I need to find those cameras before the see me doing something weird again...
 CLOWN:and wipe with this 1 ply toilet paper before my radioactive poop turns my toilet purple again
 CLOWN: oh but before you guys go I have one message for you all to take on your journey
 CLOWN:PHRASE.
@@ -52815,6 +52815,254 @@ NEY: Hehe, let me just pick this up and get on my way, byeeee... (exit Stage Rig
 KAZE: This is not over! (Keeps fighting)
 Meanwhile SEAL: (Continue fighting)
 TYPEWRITER: And so they got trapped in the river fighting for the next NUM days.
+
+======
+
+INFORMATION ===============================
+ID: 1680
+TITLE: The Quiz Master
+AUTHOR: LeDerp_64
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 24/05/25
+CHARACTERS ================================
+QUIZ: The Quiz Master:Backstage
+ROOM: The Smart Roommate:Front Door
+MATE: The Idiot Roommate:Couch
+SUGGESTIONS =============================
+QUIZLY: Name of a character/person:Neil Degrasse Tyson, Luigi, The Joker
+MAGS: Name of a magazine:Crypto Catchers, Weekly Weeds, Snack Attack Almanac
+MONEY: An amount of money:350 dollars, 100 bucks, a quarter
+CATCH: A Goofy catchphrase:I ask the questions your brain forgot it knew, Like a tumbleweed full of trivia, Bringing the answers you didn’t ask for
+OBJECT: A random object:Pencil, House, Tree
+HEART: A body part:Heart, Skin, Liver
+EXCLAIM: A happy exclamation:Yippee, Yahoo, Exquisite 
+GIRL: A Girls name:Stacy, Kathy, Sandra
+COLOR: Any Color:Orange, Blue, Green
+DUMP: A way someone can mess up a date:Didn't pay for both meals, kept talking about sonic fanfiction, Too many your mom jokes
+SCRIPT ==========================================
+double bass music
+ROOM: (walks on stage) Alright i got the mail.
+MATE: Oh, is my MAGS in there?
+ROOM: Yeah. (hands over magazine)
+MATE: Thank you.
+ROOM: Junk mail, more junk mail, oh here's our bills for the month.
+ROOM: Your share of rent is MONEY.
+MATE: Wait let me see that flyer.
+ROOM: Sure, here you go.
+MATE: (reading flyer) Feel like you could use a brain teaser?
+MATE: Well call QUIZLY the Quizmaster.
+MATE: Guaranteed to give your brain a workout.
+ROOM: Probably some kind of scam, like that talking horse ad you believed
+MATE: I've grown since then.
+ROOM: Fine call the number if you want, just pay rent (exit side door)
+Music Stops
+MATE: Alright, now let me see. (looks at flyer again)
+MATE: Just call his name 3 times and he will appear?
+MATE: (facing the front door) QUIZLY? QUIZLY?
+QUIZ: (slowly sneak up on idiot roommate)
+MATE: QUIZLY?
+QUIZ: CATCH!
+Meanwhile MATE: (get scared by the quizmaster)
+QUIZ: (laughs) Surprise! It's me!
+MATE: No balloon animals?
+QUIZ: I'm not a clown silly.
+QUIZ: You may call me The Quizmaster!
+gong
+bard music
+ROOM: (walks back on stage) Is everything okay?
+ROOM: (points at quizmaster) Who is that?
+MATE: Thats just QUIZLY.
+QUIZ: Call me Quizmaster. (take a bow)
+ROOM: Can you leave?
+QUIZ: Maybe. If you answer my riddles.
+QUIZ: First Riddle, what has to be broken before you can use it?
+MATE: An OBJECT!
+QUIZ: Incorrect.
+ROOM: An egg?
+QUIZ: Correct!
+QUIZ: Second Riddle!
+QUIZ: I have keys but no locks, space but no room, and you can enter but not go outside. What am I?
+MATE: A HEART?
+QUIZ: Nope!
+ROOM: Is it a keyboard?
+QUIZ: EXCLAIM! You got it again!
+QUIZ: Final Riddle.
+QUIZ: Why does the moon refuse to eat spaghetti on Tuesdays?
+ROOM: What?
+MATE: Because it’s allergic to calendar sauce!
+ROOM: What the hell?
+QUIZ: Correct! You my friend are the winner!
+QUIZ: That's all the time i have for now.
+QUIZ: CATCH! (Runs off stage)
+Music Stops
+ROOM: That was weird.
+MATE: I won!
+happy music 1
+MATE: No rent for me.
+ROOM: Thats not how that works.
+MATE: You're just mad you lost.
+ROOM: Whatever
+MATE: Oh yeah how did your date with GIRL go?
+ROOM: It went pretty well I'd say.
+gong
+Music Stops
+QUIZ: (Standing in the front door) Did someone say QUIZLY?
+ROOM: Uhh no?
+bard music
+QUIZ: First riddle!
+QUIZ: What do you call a philosophical toaster that only speaks in limericks during leap years?
+Music Stops
+record scratch
+ROOM: Nope no more riddles get out (gets up and pushes quizmaster outside)
+QUIZ: (while getting pushed out) Professor Crumpet the Occasionally Crisp!
+MATE: That was my guess.
+ROOM: What is up with that guy?
+ROOM: His riddles are just nonsense!
+MATE: You just don't get it.
+gong
+scary music
+QUIZ: (climb to top of set using ladder backstage) Did someone say QUIZLY?
+ROOM: Oh god no.
+QUIZ: (Jumps down) If a banana marries a stapler, what color is the wedding?
+MATE: COLOR?
+ROOM: (annoyed) Get out!
+QUIZ: CATCH!
+Teleport QUIZ to Backstage
+thunder
+ROOM: You! (point to roommate)
+MATE: Me?
+ROOM: You brought him here, get rid of him!
+MATE: But his riddles are so fun.
+gong
+QUIZ: (Dashes into stage) Did someone say QUIZLY?
+ROOM: Oh my god!
+QUIZ: When the clock meows and the curtains grow legs, where does the spoon hide its secrets?
+ROOM: Just leave already!
+Music Stops
+QUIZ: Alright I'll leave...
+QUIZ: After one last riddle.
+ROOM: Okay!
+QUIZ: (very serious) Why did GIRL dump their boyfriend after their date?
+ROOM: what?
+MATE: DUMP?
+vine boom
+QUIZ: Correct.
+QUIZ: Treat her better. (calmly leave the stage)
+MATE: I win again!
+ROOM: I'm going to lose it.
+
+======
+
+INFORMATION ===============================
+ID: 1694
+TITLE: A Dream Come True
+AUTHOR: zanbbit
+VERIFIED: False
+TAGS: Skit
+SET: Restaurant
+DATE: 09/06/25
+CHARACTERS ================================
+ESPER: Boyfriend with an odd dream:Chair 1
+JANE: Skeptical girlfriend:Chair 2
+WAITER: The waiter:Entrance Stage Left
+ANGER: An angry customer :Backstage
+SUGGESTIONS =============================
+NAME: An odd or funny name:Ben Dover, Dick Richard, January February
+RESTURANT: A name a restaurant would have:Rose Garden, Infront Vegetables, Pizza Hut 
+FOOD: Any food:Uncooked Sushi, Boring Tea, Oatmeal
+WEAPON: An object one may use as a weapon:Flamethrower, Butter Knife, Axe
+PRICE: Any number: 69, 420, 337
+PLACE : Any country or city:Uzbekistan, Silent Hill, Mordor
+LIQUID: Any type of liquid:Crude Oil, Saltwater, Soda
+TOPPING: A seasoning for a meal:Sprinkles, Real Sea Salt, Pepper Y
+BAD: A bad thing to do:Start a wildfire, Jaywalk, Die
+CURRENCY: A type of money:Gil, Peso, Yen
+SCRIPT ==========================================
+(jazz music 2)
+ESPER: I was kind of surprised when you asked me out to RESTURANT tonight.
+JANE: Oh really, Why?
+ESPER: I actually had a dream about you and I eating at this exact place last night.
+JANE: Hunh, interesting. Maybe it was meant to be.
+WAITER: (Walk on stage and approach the table) Hey, welcome to RESTURANT. What drinks can I get you?
+ESPER: Uhh... I think I'll go with LIQUID Cola?
+JANE: I'll have the Diet LIQUID Cola.
+WAITER: Okay, two LIQUID Cola's. And do you have your orders ready?
+ESPER: Y-Yeah sure. I'll have the FOOD... PLACE style, please.
+JANE: I'll have the PLACE style FOOD too. With extra TOPPING.
+WAITER: Two PLACE style FOOD, one with extra TOPPING.
+WAITER: Alright I'll have that out for you... whenever. (Walk off stage through the left door)
+ESPER: (Look around) Jane... I think we should go somewhere else, this is freaking me out.
+JANE: What are you talking about, Esper!?
+ESPER: That waiter looked like the same waiter from my dream. And you ordered the same thing as in my dream.
+ESPER: I thought you hated FOOD. Why would you order it?
+JANE: I don't hate it, I've just never tried it. I decided I would tonight. I thought you would be pleasantly surprised.
+ESPER: This is all oddly similar to the dream I had. What if it wasn't a dream but rather a vision of the future?
+JANE: Don't be silly, Esper! These are just coincidences. What else happened in your dream?
+ESPER: Well... At one point, a really angry person named NAME came in and made a scene.
+JANE: Well there you go! No one actually has NAME as a name. We're fine.
+WAITER: (Walk on stage and set drinks down on table) I don't mean to alarm you but...
+WAITER: There was someone named NAME here earlier.
+ESPER: Are you serious!?
+WAITER: Yes I am, they were really rude though. I was happy when they left. (Walk off stage through the left door)
+JANE: Ok, that's a little odd, but they aren't here now. It's still just a coincidence. We're fine.
+ESPER: (Stand up panicked) N-No! We have to go somewhere else Jane! NAME is going to come back!
+ESPER: And they're going to pull a WEAPON on the waiter! Just like in my dream!
+JANE: That's absurd! Who would use a WEAPON as a weapon? These are just coincidences! You're overreacting, Esper!
+ANGER: (Walk on stage growling and angry) Where is the waiter! I demand to see waiter!
+(scary music)
+ESPER: (Run to Jane's side and hide behind table) That's NAME, Jane! Get Down!
+ANGER: (Point at the couple) Hey! You! Where's the waiter!?
+JANE: W-We don't know. We're just minding our own business.
+JANE: (Look at Esper) Okay, I admit this is weird, but it could still be a coincidence.
+JANE: Maybe they are from somewhere like PLACE and NAME is a more common name there.
+WAITER: (Walk on stage and up to the angry customer) Welcome to RESTURANT, how can I- Oh... It's you again.
+ANGER: I DEMAND A REFUND! Your food is trash! And you overcharged me PRICE CURRENCYs for that crap!
+ANGER: The LIQUID Cola tasted awful and wasn't made of real LIQUID! False Advertising!
+WAITER: Did you really think we would serve you actual LIQUID?
+ANGER: My FOOD was also undercooked! And it wasn't authentic PLACE style either! Scam artists! ALL OF YOU!
+ANGER: The TOPPINGS also felt cheap! Give my PRICE CURRENCYs back immediately!
+WAITER: Im sorry, NAME. I can't refund you for food you already ate. Please leave.
+ANGER: (Lean towards the waiter) I. WANT. MY. MONEY. BACK.
+WAITER: Threaten me all you want, you're not getting it.
+ANGER: Oh really. I'm not getting it hunh? (Pull out weapon) Are you sure about that!?
+(lacrimosa music)
+WAITER: Woah! Woah! Put the WEAPON away, dude!
+ANGER: I want my PRICE CURRENCYs back! Don't make me use this! I Will!
+JANE: GAH! They have a WEAPON! This is real! (Hide behind table with Esper)
+JANE: Quick! What happened at this point in your dream!?
+ESPER: I don't remember! I think this is where I woke up!
+WAITER: If you touch me with that WEAPON, you're gonna regret it. Get out of here now!
+ANGER: Give me my CURRENCYs and I'll leave!
+WAITER: No! I'm not allowed!
+ANGER: (Let out an enraged growl) Then you leave me no choice! I am forced do something that will scar you forever!
+WAITER: (Nervous) D-Don't you dare hurt me!
+ANGER: Oh I'm not going to hurt you. I'm going to something FAR WORSE!
+WAITER: What are you going to do then? Are you going to... to... BAD?
+ANGER: No, even worse than BAD! I am going to take away your business!
+ANGER: (Approach Esper and Jane) You two!
+ESPER: (terrified) Please don't hurt us!
+JANE: (terrified) I'm scared!! I'm too young to die!
+ANGER: Oh HO HO! You two are gonna die all right!
+ESPER: Noooooo!
+ANGER: Die if you eat here, that is! Because of how bad the food is!
+(silly music 2)
+ESPER: Hunh?
+JANE: What?
+ANGER: Neither of you should eat here. Don't give these scam artists your money!
+ANGER: They overcharge you for fake FOOD that isn't even made as advertised.
+ANGER: Go somewhere nicer and tell 'um NAME sent you.
+ANGER: (Turn to the waiter) There, now they're gonna leave! I just drove away two paying customers!
+ANGER: See!? Why would I BAD when taking away your business is way worse!?
+ANGER: Now I have gotten my revenge! (Run off stage while laughing maniacally)
+ESPER: Should we go back home? I'm pretty shaken after all that.
+JANE: I don't know... I think it's safe now with that person leaving, maybe we should stay.
+WAITER: Uhh... I'm sorry about that... How I make your meal free as an apology?
+ESPER: Wait... are your serious?
+WAITER: Yeah, that person was a lunatic. So the FOOD you ordered will be on us.
+ESPER: (Go back to seat) Umm... okay sure... thanks!
+JANE: WOO-HOO! Free dinner, Esper! Now this is MY definition of a dream come true!
 
 ======
 
