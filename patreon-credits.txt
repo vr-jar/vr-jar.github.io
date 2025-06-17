@@ -2436,7 +2436,6 @@ TerraNation
 QTSenpai․
 CursedRed_
 Jerich0Orion
-Hawzor
 Ａｒｔ３ｍｉｓ
 _Gene_
 Yoshiko49094
@@ -2682,6 +2681,7 @@ Mosespoe
 ༒Liela Loona༒
 littlewolfie8
 ~'Mellow'~
+_hazZor_
 #TIER=2
 Psych_Foxtrot
 shifca
