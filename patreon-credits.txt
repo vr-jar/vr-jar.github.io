@@ -2395,7 +2395,6 @@ Silenrea
 ER1014
 frog apple
 D1CK_MAST3R
-Demon49386
 11m4_g8
 ItsKieran
 Craze Sickle
@@ -2686,6 +2685,7 @@ littlewolfie8
 ~'Mellow'~
 _hazZor_
 hbkleeoni
+B3N DR0WNED
 #TIER=2
 Psych_Foxtrot
 shifca
