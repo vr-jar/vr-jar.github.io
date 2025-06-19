@@ -1185,7 +1185,6 @@ Sir Galahad
 Mr-buttercup
 CharmyUltra
 IcyFlake16
-AstralBBX
 -Ulric-wuskee-
 Midnight-V
 Kir0_Grimmson
@@ -2071,6 +2070,7 @@ Cool Cone
 Κаnе
 m․lk
 Miyoshii
+DaFr1dge
 modNick
 ruralists
 #TIER=1
