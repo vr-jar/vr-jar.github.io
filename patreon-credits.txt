@@ -1132,7 +1132,6 @@ ShinobuKocho_
 UNRELENTINGWOLF
 GaminWolf
 MisakiVA
-Volthavym
 Olivialee
 ChaosDoodle
 mayhem2505
@@ -2090,6 +2089,7 @@ Tells Fox
 The Trash Lad
 SalemAdams
 DismallyBritish
+`Jester´
 modNick
 ruralists
 #TIER=1
