@@ -2253,7 +2253,6 @@ Phinzy
 ~SinsVR
 CaptainCoder
 SpookiSpoopi
-MightyFrostStar
 SillySquirt03
 dorktoast
 MidshipMorgan
@@ -2683,6 +2682,7 @@ AkikoMatsui
 GlitchedZach_GT
 Smores0_0
 Meaty Thighs
+MightyFrostStar
 #TIER=2
 Psych_Foxtrot
 shifca
