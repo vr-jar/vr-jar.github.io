@@ -1756,7 +1756,6 @@ hooded․dll
 Grzzlly10
 KomicalCantPull
 CaLebb_
-VoidRiderFR
 ༺ღ༒Sylvia༒ღ༻
 Berry Vine
 RF01PRO
@@ -2101,6 +2100,7 @@ digital_asashin
 AuraDivine
 MDSblue
 ~JustVex~
+¿Void_Figure
 modNick
 ruralists
 #TIER=1
