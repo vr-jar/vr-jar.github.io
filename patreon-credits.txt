@@ -2085,6 +2085,7 @@ ubriye
 Majin Rogue
 Orquídeas
 ~TisNova~
+Agent 30
 modNick
 ruralists
 #TIER=1
