@@ -1714,7 +1714,6 @@ Maera֍
 ~I̷R̷E̷N̷I̷C̷ ~
 RainBox2
 §-Narwhal-§
-not a 711 soup
 Draldier
 Polisarray
 hooded․dll
@@ -2086,6 +2085,7 @@ Majin Rogue
 Orquídeas
 ~TisNova~
 Agent 30
+not a 711 soup
 modNick
 ruralists
 #TIER=1
