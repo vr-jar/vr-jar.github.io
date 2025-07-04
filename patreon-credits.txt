@@ -1713,7 +1713,6 @@ Fibbyy
 FLS host
 Haywood Jablomi
 l BadKarma l
-CobraSpectre
 °minty
 CheesyClownster
 ༒FÆTH༒
@@ -2077,6 +2076,7 @@ MetalSebeb
 ItsIvy007
 Gardenia's sys
 Con66_999
+ViperSpectre
 modNick
 ruralists
 #TIER=1
