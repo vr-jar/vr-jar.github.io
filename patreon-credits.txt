@@ -1403,7 +1403,6 @@ Grandpa Poggeth
 ֍Sassywitch֍
 MiscreationCool
 wubblz
-pоlygon
 Shigi44
 《MANA》
 Tsupachi
@@ -2059,6 +2058,7 @@ eDrag
 Broots Waymbe
 BowynBall
 McNiail
+Pоlygon
 modNick
 ruralists
 #TIER=1
