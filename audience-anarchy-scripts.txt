@@ -51904,7 +51904,7 @@ USER1: In-game username:2Blu4U, Way_Toomuch, 1eGGz_4Me, Dead_F3rns
 USER2: In-game username:Brutal_Th0rn, IAteYourHayLOLZ, GrassToucher113, Mikul_Pwns
 GAME: Video game:Roblox, Minecraft, Touch Grass Sim, City-Living 2, 
 BOSS: Mysterious name/title:Vyrus, Dark lord, Commander, Hunter
-ACT: Something you could do to somebody to upset them:Broke their TV, Ate all of their food, Stole their dog
+ACT: Something done to someone that upset them:Broke their TV, Ate all of their food, Stole their dog
 MEAL: a meal:Pizza with breadsticks, Burger and fries, Pasta and garlic bread
 CRYPTO: real or fake cryptocurrency:emojis, twitch bitties, vbucks
 SCRIPT ==========================================
@@ -51939,7 +51939,7 @@ MAX: Pretty stupid, yeah, but he offered me a lot of money to kill you.
 BASIL: Think about it. he's an AI. And... I'm a real human being! You wouldn't!
 BASIL: I don't think an AI can even pay you real money anyway!
 MAX: I'm getting paid in CRYPTO.
-MAX: But regardless...  If I quit he'd hunt me down too.
+MAX: But regardless... If I quit he'd hunt me down too.
 MAX: I'm in too deep. I have to end this now. You must die.
 BASIL: It's alright. We can take him down together.
 Music Stops
@@ -52975,7 +52975,7 @@ ROOM: I'm going to lose it.
 INFORMATION ===============================
 ID: 1692
 TITLE: Movie Night
-AUTHOR: EndotronVR
+AUTHOR: Ｔｈｅ Ｃａｐｔａｉｎ
 VERIFIED: True
 TAGS: Skit,Infomercial
 SET: Living Room
@@ -53149,8 +53149,8 @@ TAGS: Skit
 SET: Backyard
 DATE: 13/06/25
 CHARACTERS ================================
-BIL: Bill, the wise old neighbor:Neighbor's yard
-JIM: Jim, the Husband:Grill
+BIL: Bill, the wise old neighbor:Grill
+JIM: Jim, the Husband:Neighbor's yard
 WIFE: Jim's Wife:Backstage
 SUGGESTIONS =============================
 OPH: An old person hobby.:Gardening, Pickleball, Yoga
@@ -53212,6 +53212,389 @@ Meanwhile JIM: (EXIT STAGE RIGHT WITH WIFE)
 BIL: Aww... wasn't that sweet
 BIL: (Doing OPH) Oh Yeah! I’m really feeling the SIMP Now!
 (laughter)
+
+======
+
+INFORMATION ===============================
+ID: 1699
+TITLE: The Reverse Alien Experience
+AUTHOR: LethalChicken
+VERIFIED: True
+TAGS: 
+SET: Backyard
+DATE: 14/06/25
+CHARACTERS ================================
+BOY: Alien Brother:Stage Right
+GIRL: Alien Sister:Grill
+HUMAN: Human Explorer:Backstage
+SUGGESTIONS =============================
+BROTHER: Alien Brother's name:Jeff, Zankabar, Glorb
+SISTER: Alien Sister's name:Jennifer, Zankestia, Glerb
+BBQ: Name of alien food:Spicey Cereal, Cold Charred Wings, Shrimp Fried Rice
+SHOE: Popular shoe brand:Adidas, Nike, Puma
+PLANT: Type of plant (real or made up):Trees, Wheat, Watermelon, Roses
+STORE: Offbrand store name:Floormart, Froger, Budgetco
+SPECIES: Name of alien species:Glorpians, Jub Jub'ians, The Flipyappen
+PLANET: Name of alien planet:Kepler-452b, Proxima Centauri, Trappist
+EXCUSE: "I'm sorry, but i have to go _____":walk my fish, return to my ship, explore elsewhere
+SCRIPT ==========================================
+double bass music
+BOY: SISTER! Almost done with that FOOD? My 3 stomachs are starving!
+GIRL: It'll be done soon don't worry BROTHER.
+BOY: But I'm hungry, can't I just have a little bite now?
+GIRL: You didn't want to go down to STORE so you get to wait until this is done!
+BOY: I regret all of my life choices now please, just a bite! (Slowly reach for food on grill)
+GIRL: (smack with spatula) Not until I'm finished cooking the BBQ! you'll get sick again!
+Meanwhile BOY: (react painfully to getting smacked)
+BOY: I won't get sick again I promise!
+BOY: (look up and point) speaking of sick, what on PLANET is that!?
+alien siren
+GIRL: It looks like some kind of ufo! It doesn't look like the neighbors it looks foreign.
+BOY: Something just lit up on the side! Whats it doing!?
+music stops
+alien teleport
+Teleport HUMAN to sandbox
+HUMAN: Ah darn, of all the spots they could have beamed me to.
+HUMAN: Now I have sand in my SHOE's (sarcastic) good job beaming team
+bluegrass music
+GIRL: (whisper) Is that a hummus?
+BOY: (whisper) No SISTER I think its pronounced humongous.
+HUMAN: I can hear you two ya know, its properly said like Human
+HUMAN: Also why can I understand you? What are you! why do you speak English!?
+GIRL: English was a language before you humans were even existing.
+GIRL: Anyway, I'm SISTER, and this is my brother BROTHER!
+BOY: We are SPECIES, this is our home world PLANET.
+HUMAN: I never thought an alien would speak so well I'm sorry if I came off as hostile there!
+BOY: Its ok, what brings a humongous to PLANET anyway?
+HUMAN: its not humongous its (sigh)
+HUMAN: Ok I'm here looking for a type of plant, they went extinct on earth.
+GIRL: What kind of plant?
+HUMAN: A PLANT kind of plant, I really want to see what my ancestors had with my own eyes!
+BOY: Saddly, your PLANT is in another planet, I think our neighboring planet has some!
+GIRL: I'm done with the BBQ, want some BROTHER?
+BOY: Heck yea I'd love some BBQ!
+HUMAN: I'm sorry, but what's a BBQ if you don't mind me asking?
+GIRL: The best! Thats what BBQ is, want some?
+HUMAN: I'll have some, I have no idea if it's safe for my kind to eat, so this is for science!
+BOY: (whine) But I don't wanna share!
+GIRL: (Smack brother with spatula) You don't get a choice anyway if you share or not
+Meanwhile BOY: (React painfully to getting smacked)
+GIRL: At least show some respect to this traveler of the stars!
+BOY: Fine fine you win (hand food to human)
+HUMAN: I'm sure this will taste delectable! (eat the food)
+HUMAN: (cough several times) I think tastes great!
+GIRL: I'm glad you like my BBQ!
+HUMAN: Yea im so glad it didn't rupture my stomach, it totally didn't by the way! (cough harder)
+BOY: (whisper to sister) I don't think he actually likes it
+HUMAN: Now I uhh (cough) I'm sorry, but I have to go EXCUSE! It's been wonderful talking with you SPECIES's!
+GIRL: Bye have a safe trip!
+BOY: Don't forget to drink H20!
+alien teleport
+Teleport HUMAN to backstage
+double bass music
+BOY: Wait, aren't those SHOE's that human had the reason PLANT went extinct on earth?
+GIRL: I'm not sure, I never paid attention to extra-terrestrial history in class.
+BOY: Either way, I guess that SHOE's really suck alot!
+
+======
+
+INFORMATION ===============================
+ID: 1714
+TITLE: Summoning Gone Wrong
+AUTHOR: Deus Ex Vulpes
+VERIFIED: True
+TAGS: Skit
+SET: Campsite
+DATE: 23/06/25
+CHARACTERS ================================
+WORF: Worried Friend:Camping chair
+IMPF: Stoner Friend:Rock chair
+DELF: Delinquent Friend :Entrance Stage Left
+DEMG: Demon Grandma:Backstage
+SUGGESTIONS =============================
+DFNAME: A person's name:Jimmy, Steve, Bob
+KILLER: Someone or something that could kill you:An Axe Murderer, A bear, Aliens
+DANPLACE: A place you consider creepy:Grandpa's Basement, an abandoned hospital, A cursed antique shop
+BODYPART: A part of your body you wouldn't want to lose:Fingers, Eyes, Toes
+DEMFEAT: A part of the body you'd find attractive:hips, eyes, legs
+BOOKNAME: A goofy sounding Name:Gilbershmirtzenfarden, Dibble, Ohmahnard
+GMANAME: A female name:Daisy, Portia, Trisha
+DEMCHANT: A weird thing to shout out loud:Ooga Ooga Oogachacka, Fuzzy Peaches, Abra Kadabra
+DTERRIBLE: Something you find awful.:Nickelback, Re-runs of Friends, cilantro
+SCRIPT ==========================================
+mystery music 1
+WORF: Hmm ... Oh ... they should be back by now, right? Y-You dont think something happened to them, do you?
+IMPF: Nah dude, you're just worrying too much. DFNAME has got this.
+WORF: But ... what if they got caught? Or killed by KILLER?
+DELF: (step on stage) KILLER? Come on, we know I'd win that fight one-on-one.
+Music Stops
+WORF: (gasp) You're okay!
+IMPF: See? Told you, dude! (Turn to the other actor) So did you bring it?
+DELF: You know it! (Takes out a large heavy book) I got it right here! 
+IMPF: Woah ...
+Meanwhile WORF: Woah ...
+DELF: Yup! Took a bit, but I managed to take this from DANPLACE.
+IMPF: BOOKNAME's Tome of Summoning Otherworldy Entities. Niiice, dude!
+WORF: W-Won't you get in trouble?
+DELF: Nah, it'll be fine! 
+DELF: (Opens up book by the fire) Besides, I already picked something out something to try! Check this page out!
+WORF: (Looking into book pages) A demon? Y-You don't actually think this will work, do you?
+IMPF: What, are you scared? Worried it'll come and eat your BODYPART or something?
+WORF: Ah! D-Don't say that!
+DELF: Both of you, relax. (Stop flipping pages, point down at the book) Check this out.
+WORF: Um ... why does the drawing of it look so ... y-y'know. (Make vague gestures)
+IMPF: I'm not into demons or whatever, but, would. Like ... damn! Those DEMFEAT! So what do we do to summon it?
+DELF: I already made what we need. (point to the tent) Bring it over and dump it in the fire.
+IMPF: Got it. (Grab bottle from tent) Woah, what's in this bottle? It stinks!
+DELF: Some sugar, pig's blood, a rotten egg, and grandma GMANAME's ashes.
+WORF: Y-You put your grandmother's ashes in this bottle?!
+DELF: Hey, it said to use the ashes of a beautiful woman, and grandpa always talked about how smokin' hot she was.
+DELF: (Dump bottle into fire) Okay. Now, the incantation. Repeat after me. DEMCHANT!
+IMPF: DEMCHANT!
+Meanwhile WORF: DEMCHANT ...
+thunder
+Teleport DEMG to Center Stage
+DEMG: (Evil and Maniacal laugh) Hahahahaha! ... Oh my, this feels quite nice ...
+DELF: Grandma?!
+DEMG: Oh, DFNAME? Is that you? What are you doing, summoning a demon? You should know better than that, dear!
+IMPF: Damn, your grandma's a demon?! Woah ... she looks even better than the drawing, dude.
+DEMG: (Turn to face them.) And you haven't even seen what I can do, dearie.
+DEMG: Here, let me show you. (Point at them) DEMCHANT!
+IMPF: What the ... Woah, holy craaaaaaap!
+explosion
+Teleport IMPF to Backstage
+DELF: Grandma, what did you do to him?!
+Meanwhile WORF: Oh my god!? She killed them!
+DEMG: Oh, don't you worry, dear. I didn't kill him yet, I just sent him to my personal dimension full of DTERRIBLE!
+DELF: Jesus, grandma! Why would you do that?
+DEMG: (point at them) Hey! Language, hun. (gesture to self) Demon, remember?
+WORF: Oh, I need to get out of here ... (Slowly back away toward exit)
+magic sound
+Teleport DEMG to Behind Bushes
+DEMG: Going somewhere?
+WORF: (Turn around) Aaaah! No, wait, please! I'm begging you!
+DEMG: That's nice, dear. (Point at them) DEMCHANT!
+WORF: Aaaaah!
+explosion
+Teleport IMPF to Backstage
+DELF: (Devastated) Grandma, what the hell! Those were my friends!
+DEMG: (Approach, put a finger on their mouth.) Shush! Shh ... demon, remember? Come on, lets go find your grandfather, hm? At least he'll be happy to see me!
+
+======
+
+INFORMATION ===============================
+ID: 1715
+TITLE: The Create-A-Creature 9000
+AUTHOR: zanbbit
+VERIFIED: False
+TAGS: Skit,Infomercial
+SET: Infomercial Bathroom
+DATE: 23/06/25
+CHARACTERS ================================
+SAL: A shady salesman:Center Stage
+PENNY: Someone testing the machine:Entrance Stage Left
+YEN: Someone testing the machine:Entrance Stage Left
+CREATURE: The creation made by the machine:Backstage
+SUGGESTIONS =============================
+COMPANY: Any company:Apple, Pepsi, Disney
+SPECIES: Any animal or type of creature:Whale, Novabeast, Human
+OBJECT: An object someone can hold:TV, Melon, Crude Oil Barrel
+SPHERE: Something round or round-ish:Magic 8 Ball, Globe, Snowglobe
+LONG: Something long:Hose, Pipe, Rope
+CLOTHING: Something you can wear:Skirt, Hoodie, Backwards Ball Cap
+WEAPON: A weapon:Rocket Luancher, Sword, Whip 
+NAME: Any name:Mary Lou, Jack Jackson, Bill Johnson
+BODY: A visible body part:Tail, Right Hand, Hair
+SCRIPT ==========================================
+(Corporate motivational music)
+SAL: Greetings, creatives! Sal Espitch here! With a revolutionary new product.
+SAL: Have you ever wanted to create a character but can't think of anything? Are you fed up with tired architypes?
+SAL: Well then this is the product for you! Presenting The Create-A-Creature 9000! (Gesture to toilet)
+SAL: With the power of AI, we can synthesize a character for you within minutes!
+SAL: AI is the future, folks! As long as you ignore that we're currently being sued by COMPANY
+SAL: Anyway! let's bring out some fine folks to test The Create-A-Creature 9000!
+PENNY: (Walk on stage) Hi Sal! (Look around) Wait a minute, what is this set?
+YEN: (Walk on stage and look around) Didn't you say the set would be nice?
+SAL: Oh well umm... due to... unforeseen events. We had to make a last minute change to the set.
+YEN: Is this because of the sudden COMPANY lawsuit?
+SAL: NO! Not lawsuit related at all! This bathroom is the perfect spot to test The Create-A-Creature 9000!
+PENNY: (Sigh) Well a set is a set I guess. So Mr. Espitch, how does this machine work?
+SAL: Please Penny, call me Sal, and I am glad you asked. Simply put, we can generate any character you want!
+SAL: Just put your desired settings into the machine!
+YEN: What if Penny and I both want a character who is, I don't know, a SPECIES?
+SAL: No problem. The Create-A-Creature 9000 will generate two completely different characters.
+SAL: Even if they both have the exact same traits! Well... in theory it can.
+PENNY: What do you mean 'in theory'?
+SAL: Technical stuff, don't worry about it. Anyway, why don't you give it a try? Make a SPECIES.
+YEN: I'm feeling adventurous. Can we give it a head that's a OBJECT?
+SAL: Umm... S-Sure. The sky is the limit.
+PENNY: Can I give them eyes that look like SPHEREs?
+SAL: Uhh... Y-Yeah you can do that too... (Look away and mutter) They can do that right?
+YEN: I think they should have arms and legs that are LONGs!
+PENNY: I don't know. Is it even a SPECIES anymore by that point?
+YEN: I still think so. But if you think that's too crazy, maybe just their clothes can look like LONGs.
+PENNY: Sure, I can accept that. Speaking of clothes, what should our SPECIES wear?
+YEN: Hmmm... How about a CLOTHING?
+PENNY: Just a CLOTHING?
+YEN: Sure. Part of the lore can be that our SPECIES is used to wearing only CLOTHING and nothing else.
+PENNY: Fine, CLOTHING it is.
+SAL: You might want to be careful. If you add too much, there might be errors.
+YEN: I think we should top the character off with one more thing. Let's give them a weapon!
+PENNY: OOH! I LOVE that... how about (Think for a moment) a... WEAPON?
+YEN: Perfect! No one will mess with if they're carrying around a big WEAPON!
+PENNY: I think we're ready to make our character! What now, Sal!?
+SAL: (Nervous) Uhh... yep... you sure are! All you got to do now is enter a name.
+PENNY: Awesome! I got an idea for the name. How about Penny Yen?
+YEN: Why should your name be first! It should be Yen Penny!
+SAL: If I could make a suggestion, how about NAME?
+YEN: That's so boring, dude.
+PENNY: It's a total snoozefest of a name. But I can think of anything better so NAME it is.
+SAL: Excellent! Now you can witness NAME come to life through the amazing, and totally ethical, power of AI!
+SAL: Just flush the toilet. Yes, we built The Create-a-Creature 9000 into the toilet.
+PENNY: This better be good. (Flush the toilet)
+(scifi contraption)
+(spy machinery)
+teleport CREATURE to Center Stage
+CREATURE: AHA! I have been created!
+(groose music)
+YEN: What the heck!?
+PENNY: That looks nothing like the character we created!
+SAL: Nonsense! It absolutely is. Tell them your name.
+CREATURE: (Turn to Penny and Yen) Hello creators I am NAME, your new character.
+YEN: Where is the OBJECT head I asked for!?
+PENNY: I don't see any SPHERE eyes!
+YEN: They don't even have a CLOTHING! Did your stupid machine even try!?
+PENNY: No WEAPON either. I don't see anyone buying this product.
+CREATURE: You both seem disappointed. Am I not what you wanted?
+YEN: No you're not... not even close.
+PENNY: What is the meaning of this, Sal?
+SAL: I-I assure you this character has everything you asked for. NAME, give your parameters! (Run off stage)
+CREATURE: My parameters. General Information: My name is NAME I am a SPECIES.
+CREATURE: Head and face traits: OBJECT head SPHERE eyes.
+CREATURE: Clothing traits: wearing one CLOTHING with LONG print.
+CREATURE: Items: I possess a WEAPON.
+CREATURE: WARNING. One or more errors may have occurred during the generation process.
+CREATURE: If I am inaccurate, please adjust parameters and generate again.
+PENNY: But how do we know what to change Sal? Sal!?
+YEN: That guy took off! What a crook! (Look at the creature) Tell us what the error is! Is something wrong with your BODY?
+CREATURE: I am sorry I do not have that information. All I know is there might have been errors during generation.
+PENNY: Their BODY is fine. I think that Sal guy was a scammer!
+PENNY: Maybe it was the LONG print on the CLOTHING Let's just get rid of that and... (Flush the toilet)
+CREATURE: Hunh... I feel weird...
+(scifi contraption)
+(spy machinery)
+teleport CREATURE to Center Stage
+CREATURE: AHA! I have been created!
+YEN: They look the exact same! Are we just stuck with you now or something?
+CREATURE: What do you mean stuck with me? I was just created. Hello creator, my name is NAME.
+YEN: This is ridiculous! Still no OBJECT head or SPHERE eyes!
+PENNY: (Look at the creature) Maybe they just look the same. Can you show us your WEAPON, NAME?
+CREATURE: (Observe your body looking for the item) Search for WEAPON has resulted in an error.
+CREATURE: WARNING. One or more errors may have occurred during the generation process.
+CREATURE: If I am inaccurate, please adjust parameters and generate again.
+YEN: UGH! What a useless hunk of junk.
+PENNY: (Sigh) Well I don't want to keep trying to fix whatever is wrong. So I guess this is our character now.
+PENNY: I mean... They don't look that bad... Sure they're not what we want but they might be what we need.
+CREATURE: Yes! I am what you need! The power of AI is knowing what you need!
+YEN: You know what... I hope COMPANY wins that lawsuit!
+CREATURE: If neither of you care for me, can you generate me a partner?
+
+======
+
+INFORMATION ===============================
+ID: 1719
+TITLE: A Neighbor Moment
+AUTHOR: houseerikson
+VERIFIED: False
+TAGS: Skit
+SET: Backyard
+DATE: 27/06/25
+CHARACTERS ================================
+NAR: Narrator:Narrator Podium
+OLD: Crazy Old Blind Man:Entrance Stage Left
+DOG: Old man's dog:Entrance Stage Left
+BOB: Annoyed Neighbor:Entrance Stage Right
+SUGGESTIONS =============================
+SHOW: An Adult Animated Show:Family Guy, The Simpsons, South Park, Rick And Morty
+BODY: A body part:Knee, Nose, Eye, Finger
+NAME: Something you would name your pet:Sweetie, Daisy, Rosie, Teddy
+VERB: A past tense action verb:punched, jumped, cooked, smelled
+SMELL: Something that smells bad:garbage truck, dumpster, landfill, onion
+AGE: An old person's age:60, 70, 80, 90
+ACTION: A present tense action verb:punch, kick, slam, break
+SCRIPT ==========================================
+NAR: Hello everyone, and welcome to our feature presentation.
+NAR: What you are about to witness tonight is what's known as a "neighbour moment".
+NAR: What is a neighbour moment, you ask? Well, a neighbour moment is when two neighbours have a heated altercation of epic proportions.
+NAR: Usually ending in a BODY beating and someone getting arrested.
+NAR: Now that you know, let's see this moment in action.
+(groose music)
+BOB: (ENTER STAGE RIGHT) Aw nooo....not again!!!
+BOB: HEY! OLD MAN! GET OUT HERE!
+OLD: (ENTER STAGE LEFT) What the hell do you want??? I'm trying to watch SHOW!
+BOB: Your pet VERB in my yard again!
+NAR: And here we are introduced to our main characters and the inciting conflict of this neighbour moment.
+NAR: Let's keep watching to see how this proceeds.
+OLD: No, my NAME would never!
+BOB: What??? It's plainly obvious! Look! Are you blind!
+OLD: YES! Yes I am, you idiot!
+BOB: Oh....right...
+OLD: Would you stop your complaining already??? It ain't a big deal!
+BOB: Yes, it is! Your pet does this to my yard all the time! They ACTION my roses, walk all over my lilies.
+BOB: And they're always so aggressive when I walk past your fence. Always barking and screaming!
+OLD: Well, that's YOUR problem, neighbour!
+BOB: NO! It's YOUR problem! You can't get your pet under control because you're a terrible owner!
+BOB: And while I'm at it, you're also terrible! You're rude to everyone else, yell at anyone on your property...
+BOB:...and you always smell like a SMELL! Like you haven't showered in years!
+(vine boom)
+(music stops)
+OLD: How...DARE YOU!!!!
+OLD: In all my AGE years of living, I have NEVER heard such disrespectful WORDS!
+BOB: Well, it's the truth!
+OLD: You know what else is the truth? Me kicking your BODY!
+(epic fantasy music 2)
+NAR: And now, we have entered the neighbour moment.
+NAR: Now, our protagonist here has two options. A: walk away and deal with the situation in a civilized manner...
+NAR: Or B: pick a fight with a crazy old blind man. Let's see what he chooses.
+BOB: You? You want to fight?
+OLD: Damn right! I'm tired of hearing your whining about your stupid yard, so come here and get your BODY kicked!
+BOB: You know what? FINE! You're done for, old man! I'm gonna ACTION your ass!
+OLD: Oh, you ain't fighting me....NAME, get out here!
+DOG: (Enter Stage Left) What?!? I was busy watching SHOW!
+OLD: Go ahead and ACTION that guy's BODY for me!
+DOG: Ugh...fine...
+BOB: Wh-what's wrong with your pet???
+DOG: I hit the gym every weekend. Now, get ready to get your BODY kicked!
+DOG: Take this, bro! (Beat up the neighbour)
+Meanwhile BOB: (Fall over in pain) Aggh! OW! Stop it!
+OLD: Hah ha! That'll teach you to mess with an AGE year old! Respect your elders, pipsqueak!
+DOG: (Sigh) Am I done here...?
+OLD: Yeah, whatever...get back inside! You smell like a SMELL!
+DOG: WHAT???
+OLD: You heard me! You reek! I can't stand to have you out here for so long!
+DOG: OK, THAT'S IT!!! I'm done taking your abuse!
+OLD: What did you say?!?
+(emotional piano music)
+DOG: I had to listen to your grumpy butt for years! Always complaining about everything and everyone!
+DOG: You're so miserable all the time and you're never ONCE nice to me!
+DOG: You never call me a good pet or give me treats! You just tell me to ACTION people you don't like!
+OLD: No DUH! Why do you think I adopted you in the first place???
+(epic cinematic music)
+DOG: Enough is enough! I've had enough of your insults! Take this, you SMELL smelling windbag!
+DOG: (Punch the old man)
+Meanwhile OLD: AIEEEE!!!
+(Explosion)
+(Teleport OLD to Backstage)
+(music stops)
+BOB: Oh my god...you killed him...
+DOG: Honestly, it was either me or old age...he was AGE years old after all.
+DOG: Well, looks like I need a new owner now...would you take me?
+BOB: Uhm....sure, why not? We can watch SHOW in my living room.
+(happy music 1)
+DOG: Hell yeah!!! (Exit Stage Right)
+NAR: And that, ladies and gentleman...has been a neighbour moment.
+NAR: This concludes our feature presentation. Have a good night, and always remember...
+NAR: SHOW is up next. Bye!
 
 ======
 
