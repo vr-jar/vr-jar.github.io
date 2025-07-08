@@ -2049,6 +2049,7 @@ BowynBall
 McNiail
 Pоlygon
 Bananajoaq
+PrettyDevious
 modNick
 ruralists
 #TIER=1
