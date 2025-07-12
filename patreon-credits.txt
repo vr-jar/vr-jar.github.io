@@ -2735,6 +2735,7 @@ AquaBats
 한예림_Lucid_りゅうき
 დ~Akusana~დ
 Jenimal
+Kato Verro
 #TIER=3
 SidMarcus
 PinballReviewer
