@@ -2622,6 +2622,7 @@ Starry_Delight
 Eternal Bunny
 frenchtoast0_0
 DarkBatman32
+Pill_Fairy
 #TIER=2
 Psych_Foxtrot
 shifca
