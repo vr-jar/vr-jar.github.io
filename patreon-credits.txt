@@ -2060,6 +2060,7 @@ CoolerBucks
 Militus
 K Ӏ T
 ﮴﮴﮴jawa
+ʚ·ᴊᴀᴅᴀ·ɞ
 modNick
 ruralists
 #TIER=1
@@ -2299,7 +2300,6 @@ SJNFury （Tai）
 Sage Lightfang
 Zac'̀-'́
 Mawtii
-OldManThunder 
 G̷̷h̷̷o̷̷s̷̷t̷
 Swift-Blaze
 1upD
@@ -2322,6 +2322,7 @@ Moofstera
 LeoHardy
 _Glxtch_
 Django1009
+Slimysalt
 PigG13
 Gyeoulbam
 Rexie2521
@@ -2350,7 +2351,6 @@ Technycali
 RumorxGossip
 Lightmg68
 ER1014
-frog apple
 D1CK_MAST3R
 11m4_g8
 ItsKieran
