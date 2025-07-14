@@ -2612,6 +2612,7 @@ DarkBatman32
 Pill_Fairy
 Goobthemenace
 Greggs_on_top
+Hexavier Silver
 #TIER=2
 Psych_Foxtrot
 shifca
