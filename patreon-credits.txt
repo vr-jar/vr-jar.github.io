@@ -2713,6 +2713,7 @@ AquaBats
 დ~Akusana~დ
 Jenimal
 Kato Verro
+SystemErr0r
 #TIER=3
 SidMarcus
 PinballReviewer
