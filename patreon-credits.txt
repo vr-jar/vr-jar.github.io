@@ -2737,6 +2737,7 @@ AquaBats
 Jenimal
 Kato Verro
 SystemErr0r
+Freebie maze
 #TIER=3
 SidMarcus
 PinballReviewer
