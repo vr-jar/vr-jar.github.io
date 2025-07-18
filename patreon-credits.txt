@@ -2054,7 +2054,7 @@ BriskProduction
 Balltazer900
 Swordpolicy
 SkYscRaP_eR 6b70
-Tempted19xx
+Tempted19XX
 modNick
 ruralists
 #TIER=1
