@@ -2728,6 +2728,7 @@ Jenimal
 Kato Verro
 SystemErr0r
 Freebie maze
+Lucas194
 #TIER=3
 SidMarcus
 PinballReviewer
