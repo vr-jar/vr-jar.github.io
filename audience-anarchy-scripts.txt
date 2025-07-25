@@ -9310,7 +9310,7 @@ REPRESENTATIVE: (Storm off stage via stage right.)
 INFORMATION ===============================
 ID: 213
 TITLE: But I'm a Vtuber
-AUTHOR: tfmjonny
+AUTHOR: KuraiOkamiWolf
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
