@@ -2759,6 +2759,7 @@ _Hayami_
 Drago the avali
 Faded×Flutters
 SystemErr0r
+Local-pothead
 #TIER=3
 SidMarcus
 PinballReviewer
