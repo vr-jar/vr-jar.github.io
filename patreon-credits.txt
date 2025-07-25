@@ -2049,6 +2049,7 @@ EvilSIZER
 byehazel
 ~_Autumn_~
 Stepa_Nautic c061
+Forgotten_Curse
 modNick
 ruralists
 #TIER=1
