@@ -1376,7 +1376,6 @@ Shigi44
 《MANA》
 Tsupachi
 WanderingWairua
-Mistress_gato
 XoF_eLtTiL
 donkeydemon
 ôřâňĝěťûřťĺê8
@@ -2070,6 +2069,7 @@ byehazel
 ~_Autumn_~
 Stepa_Nautic c061
 Forgotten_Curse
+Kawaiigato
 modNick
 ruralists
 #TIER=1
