@@ -380,7 +380,6 @@ actardebus
 Waspbie
 JesseTails
 Beepsie Retraux
-'Yan'
 -ˋOzzyCheezyˊ-
 Summerlicious
 ~ Salt ~
@@ -2067,6 +2066,7 @@ General Kay
 ɢɢʟɪᴛᴄʜʏ
 ××_Solo~Chan_××
 'Slasher'
+'Eevee'
 modNick
 ruralists
 #TIER=1
