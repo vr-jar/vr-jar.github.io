@@ -1669,7 +1669,6 @@ sunhatgaming
 Alt_Spicar
 juicetan2021
 Xashen
-Kharmstorm
 Bandie
 Ɖeadstar
 ֍Monarch֍
@@ -2065,6 +2064,7 @@ Mrfrozini
 tanji674
 Veluxen
 μSAMμ
+Kharmstorm
 modNick
 ruralists
 #TIER=1
