@@ -2771,6 +2771,7 @@ Faded×Flutters
 SystemErr0r
 Local-pothead
 _Hayami_
+CocoLoco0
 #TIER=3
 SidMarcus
 PinballReviewer
