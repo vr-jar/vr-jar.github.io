@@ -1469,7 +1469,6 @@ Imzcd34
 Chasè
 ღ~ғᴏᴀʟᴛɪᴇʀ~ღ
 EmperorDraka
-AmonTheDead
 Liloura
 Shadow シャドー
 Cobra7110
@@ -2093,6 +2092,7 @@ Raiku Azure
 PvtParts7
 wizardmeguminn
 NerdyPicklesTM
+AmonTheDead
 modNick
 ruralists
 #TIER=1
