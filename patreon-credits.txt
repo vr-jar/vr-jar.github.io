@@ -2755,6 +2755,7 @@ SystemErr0r
 Local-pothead
 _Hayami_
 匚ㄖ匚ㄖ
+༺Stolynn༻
 #TIER=3
 SidMarcus
 PinballReviewer
