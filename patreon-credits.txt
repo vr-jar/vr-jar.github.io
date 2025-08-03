@@ -2057,7 +2057,6 @@ vhsarchives
 Deadly Corpse
 Frosted Shark
 Fire Ash
-RIP-POD
 modNick
 ruralists
 #TIER=1
