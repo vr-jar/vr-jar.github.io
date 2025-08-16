@@ -2042,6 +2042,7 @@ speednutt
 JoDoNut42
 Princess_Kittie
 Moonyshine
+SolarisVA
 modNick
 ruralists
 #TIER=1
