@@ -8530,8 +8530,8 @@ AGENT: (Nauseous) I think I'm turning into a SNAKE...
 INFORMATION ===============================
 ID: 184
 TITLE: The Bakeoff
-AUTHOR: Jay3409
-VERIFIED: True
+AUTHOR: jay3409
+VERIFIED: False
 TAGS: Skit
 SET: Infomercial Kitchen
 DATE: 28/04/24
@@ -37826,7 +37826,7 @@ CLERK: Yessssss, i am so smart, another great bargain
 INFORMATION ===============================
 ID: 1175
 TITLE: Bad Liar
-AUTHOR: Shamuraᴥ
+AUTHOR: Shamura ʕω ʔ
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -41326,7 +41326,7 @@ TYPEWRITER: THE END...
 INFORMATION ===============================
 ID: 1335
 TITLE: Actor's Got Talent
-AUTHOR: Shamuraᴥ
+AUTHOR: Shamura ʕω ʔ
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -51312,131 +51312,6 @@ Happy music 1
 IVY: We can use my DEVICE instead, to play!
 ELLA: Yay! I know you weren't a mistake!
 IVY:Wait what?
-
-======
-
-INFORMATION ===============================
-ID: 1623
-TITLE: Too Many Boyfriends
-AUTHOR: Jinx Izayoi
-VERIFIED: True
-TAGS: Skit
-SET: Living Room
-DATE: 21/04/25
-CHARACTERS ================================
-MAID: The Maid:Stage Right
-MISS: The Mansion's Mistress:Front Door
-BOY1: The Creepy Boyfriend:Backstage
-SIS: The Little Sister:Backstage
-BOY2: The Demonic Boyfriend:Backstage
-SUGGESTIONS =============================
-BOYNAME: name of a powerful character:Okina, Jesus, Goku
-SYSNAME: name of a girl from an anime:Flandre, Orihime, Konata
-OLDNAME: name of an old, wise character:Yukari, Miyagi, Pai Mei
-TITLE1: a title for a renowned person:sage, wizard, queen
-TASK: a verb:get around, teleport, die
-DESSERT: a dessert:cake, flan, ice cream
-COUNTRY: a country or other large location:Japan, Gensokyo, Hell
-DEMON: name of an evil character:Toutetsu, The Devil, Frieza
-NAMEAUD: name of someone in the audience:Meiling, Jar, Jinx Izayoi
-TITLE2: a type of relationship between people:boss, cousin, side-piece, best friend, arch-nemesis, third cousin twice removed, ex-roommate, secret admirer, frenemy, life coach, soul mate
-NUM: a number:1, 500, 69
-CATCH: a funny catchphrase:wowza, the end, the fitnessgram pacer test is a multistage aerobic capacity test that progressively gets more difficult as it continues
-SCRIPT ==========================================
-(dark classical music)
-MAID: (open the front door) Welcome home, milady.
-MISS: (walk inside) Sorry. I was gone for several days. Anything new?
-MAID: No. Nothing at all. We've just had a few guests.
-MAID: The bird reporter, the fairy that lives nearby...
-MISS: Same as always.
-MAID: And...
-MAID: The young mistress brought her boyfriend.
-(record scratch)
-Music Stops
-MISS: (infuriated) What do you mean "nothing at all?!"
-TYPEWRITER: The Mistress decides to meet with her sister and her new "Boyfriend."
-(japanese music 2)
-BOY1: (enter Stage Left) I am a god of the back door. A god of impairments. God of Noh, god of outcasts, god of stars...
-Meanwhile MAID: (walk around pretending to clean everything)
-BOY1: And boyfriend of SYSNAME.
-MISS: Listen here. There are rumors going around the village of you abducting little girls, you know?
-BOY1: Ah hah hah! Sounds like quite the misunderstanding I should clear up.
-BOY1: I don't just like little girls. I also like grown-ups just fine. Like OLDNAME for one.
-SIS: (enter Stage Left) Are you reeeaaally trying to defend yourself?
-MISS: Listen, SYSNAME. I wouldn't complain if a boyfriend you brought home was a murderer or a terrorist or something...
-MISS: But a TITLE1 is a step too far.
-SIS: Huuuh? And why is that? You're on pretty good terms with OLDNAME, aren't you?
-MISS: Sure, but we're not dating. What exactly do you even like about BOYNAME, SYSNAME?
-SIS: Huh? What makes you think I "like" her?
-(vine boom)
-SIS: I just agreed to make her my boyfriend cuz she makes it easy to TASK.
-MISS: Pretty rude of you to just use her to TASK, isn't it?
-BOY1: Heh... I get to be her boyfriend.
-MISS: G-good for you...
-SIS: *sigh* You know I have plenty of other boyfriends besides BOYNAME, right?
-SIS: There're those kids who play outside the temple school, obviously.
-SIS: And the old man at the sweets shop is my boyfriend cuz he gives me his test DESSERT.
-MISS: Don't just-
-SIS: DEMON is my boyfriend who plays with me. NAMEAUD is my boyfriend who sleeps with me...
-MISS: Right. Remind me to kill NAMEAUD after this play.
-MISS: And that... DEMON, was it? Why haven't you introduced them to your sister?
-SIS: Why the hell should I?
-MISS: Hey now! If they seem nice, I'll at least pull out some DESSERT or something.
-BOY1: Hmm? Sister-in-law, you've never met DEMON?
-MISS: Call me that again, and I'll kill you as well.
-Music Stops
-(scary music)
-BOY1: DEMON is a horned beast who leads the Gouyoku Alliance, one of the great powers of the Animal Realm.
-BOY1: Over on COUNTRY, the Taotie is even counted among the "Four Great Fiends."
-BOY1: At the moment, I've arranged for them to be in charge of a certain place. Want to take a guess? The hint is "blood."
-MISS: SYSNAME, go with that one.
-SIS: Huuuh? Where's this coming from?
-MISS: They have the whole "Demon King" vibe going on, right?! A perfect fit for our pedigree!
-SIS: Geez! Don't try to order me-
-MAID: Young miss SYSNAME.
-Music Stops
-Teleport BOY2 to Front door
-MAID: A second boyfriend is here. (walk to front door)
-MISS: Could it be... DEMON?
-MAID: Yes, just so. Very astute, milady. (open door)
-(jazz music 1)
-BOY2: (walk in) Hey, SYSNAME! I'm here to see you! I brought a new game!
-SIS: NEW GAME!! I'm gonna play with DEMON now, so sis! BOYNAME! Get out!!
-BOY2: Ku ku ku... not so fast... looks like you don't know what this new game entails.
-MISS: Demon King vibes!
-BOY2: Ever play a tabletop R-P-G?
-MISS: Uhh... never mind.
-TYPEWRITER: One DnD session later...
-MISS: Hey, SYSNAME. I've been thinking. This might just be the first time that I've seen you having fun and laughing with your friends.
-MISS: I really think you should choose DEMON as your boyfriend. Even if she's not as handsome as I imagined.
-BOY1: What are you saying, NAMEAUD? You're embarrassing me in front of everyone.
-MISS: I'm not talking to you. Ah, wait... we're all larping as different characters right now...
-MISS: Hey!! Why is this stupid script so confusing?!
-SIS: Damn, NAMEAUD, you really suck at roleplaying.
-BOY2: You can say that again.
-MISS: Come on! I'm being serious here, dammit!
-MISS: DEMON, what about you? Are you going to marry my SYSNAME?
-BOY2: Huh?! M-marry?! (panicking)
-BOY2: Do you mind if I do a check real quick?
-SIS: Barf. No one wants to talk to their TITLE2 about marriage stuff.
-BOY2: (pull something out of pocket) If you roll a NUM on this 500-sided dice, you get married.
-MISS: That's basically a ball, huh?
-SIS: Here goes. (lol) (throw die)
-(gameshow ding)
-SIS: Ah. I rolled a NUM.
-Music Stops
-(gong)
-(happy music 1)
-BOY2: The game master and a player got married, so the players... win?
-BOY2: By the way, does that actually mean I'm marrying BOYNAME, or...?
-SIS: Huh?! My boyfriends are marrying each other all of a sudden?!
-BOY1: The one you really want to marry is your dear big sister, isn't it? I can tell.
-SIS: What the hell gave you that idea!?
-BOY2: God damn, this TITLE1 creeps me out.
-Meanwhile BOY1: I've already got a love triangle in mind...
-SIS: If big sis is NAMEAUD, but my boyfriend who's my boyfriend's boyfriend is also myself, does that mean me and big sis are also married? (scream)
-MISS: SYSNAME is spiraling into madness!
-MAID: CATCH
 
 ======
 
