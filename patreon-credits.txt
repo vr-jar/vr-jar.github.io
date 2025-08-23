@@ -1994,7 +1994,6 @@ Maera֍
 BaddTrip301
 Xavarius
 J1nxw4sh3r3
-QЦΣΣП-V
 LordRyeal
 Ŗ Ĕ Đ
 ֍N3CRO-N0LI֍
@@ -2038,6 +2037,7 @@ BL_Bird
 EmmyFC
 §-Narwhal-§
 Uv2x
+420QueenV
 modNick
 ruralists
 #TIER=1
