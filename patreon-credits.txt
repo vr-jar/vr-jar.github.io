@@ -2038,6 +2038,7 @@ EmmyFC
 §-Narwhal-§
 Uv2x
 420QueenV
+Elliot-VR
 modNick
 ruralists
 #TIER=1
@@ -2840,3 +2841,4 @@ Shadow_Spartan
 AmberyWolf
 Iris Shadows
 -Mooka
+Zanbbit
