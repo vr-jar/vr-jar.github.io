@@ -2585,6 +2585,7 @@ Raw Salmon
 Player_W50
 Mx Hibiki
 lost_ssouls_
+DoodleTheWolf
 #TIER=2
 Psych_Foxtrot
 shifca
