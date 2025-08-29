@@ -2590,6 +2590,7 @@ Krest369
 Raw Salmon
 Player_W50
 Mx Hibiki
+lost_ssouls_
 #TIER=2
 Psych_Foxtrot
 shifca
