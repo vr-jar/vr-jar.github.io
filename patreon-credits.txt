@@ -2621,6 +2621,7 @@ DoodleTheWolf
 ~Ｒｉｎ~
 Shirøh
 KillerRay2001
+VRCNova
 #TIER=2
 Psych_Foxtrot
 shifca
