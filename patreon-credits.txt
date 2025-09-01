@@ -1672,7 +1672,6 @@ Rokkaku
 ninu_el17
 The_Pfizy
 パピーアリ
-CovertPenguins
 Mf baconator
 Κаnе
 DaFr1dge
@@ -2029,6 +2028,7 @@ PIGLUT
 ~ʂιʅҽɳƚ_ʂιɾҽɳ~
 Poet's Grundy
 OffensiveVin
+CovertPenguins
 modNick
 ruralists
 #TIER=1
