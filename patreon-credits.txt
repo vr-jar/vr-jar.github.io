@@ -2612,6 +2612,7 @@ KillerRay2001
 VRCNova
 Medic_Haeschen
 彡Ｂｏｎｅｓ彡
+zombashh
 #TIER=2
 Psych_Foxtrot
 shifca
@@ -2716,6 +2717,7 @@ FᄂλmiпgVλmp
 Convex-notaSpy
 ༺乇νσl丂тяιкes༻
 FemPyro
+ChristHerself
 #TIER=3
 PinballReviewer
 Palmdaddy
