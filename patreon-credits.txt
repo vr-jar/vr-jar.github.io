@@ -2012,6 +2012,7 @@ mapleRB
 StaticBolt
 Pocketshy
 TheShi_Mi
+DaniiWanii
 modNick
 ruralists
 #TIER=1
