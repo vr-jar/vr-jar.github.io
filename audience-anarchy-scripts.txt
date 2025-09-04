@@ -8797,8 +8797,8 @@ IDIOT 1: Well, I was ACTION1 last night. It taught me a bunch Of Unnecessary Det
 INTERVIEWER: ACTION1? Right, Ok. Can you describe me how did you do this?
 IDIOT 1: Well, a Magician never reveals a Secret! HINT: This is very stupid.
 Laughter
-INTERVIEWER: I do not know if ACTION has anything to do with Magic.
-IDIOT 1: It does! It Really Does! ACTION is just some Magic I learned after some Low-Quality Anime.
+INTERVIEWER: I do not know if that "action" has anything to do with Magic.
+IDIOT 1: It does! It Really Does! ACTION1 is just some Magic I learned after some Low-Quality Anime.
 Laughter
 INTERVIEWER: Uh, Ok. Where did you get the source?
 IDIOT 1: Easy, I Googled it up,
@@ -17824,7 +17824,7 @@ SUFFIX: Anything that goes with Mr.:Suess, Sunny, Harrison
 DOLL: Any Creepypasta Other than the Tails Doll:Red Mist, Jeff the Killer, Ben Drowned
 BAND: Any Popular Band:My Chemical Romance, Gorillaz, Imagine Dragons
 ANIME: Any Popular Anime:Demon Slayer, Naruto, Dragon Ball Z
-PILLOW: Any kind of Pillow:Neck Pillow, Body Pillow, Pillow full of Buge
+PILLOW: Any kind of Pillow:Neck Pillow, Body Pillow, Pillow full of Bulge
 KID: Any Name for a Student:Frank, Francine, Jimmy Manson Jr.
 NAME: Any Name of a Fictional Character:Barnaby, Pomni, Caillou
 SCRIPT ==========================================
@@ -19149,6 +19149,77 @@ ANCHOR: Whoever ANCHORNAME might be, I hope they sleep well tonight knowing they
 ANCHOR: I for one know I will!
 world news outro
 ANCHOR: And that's the news, I've been your host ANCHORNAME!
+
+======
+
+INFORMATION ===============================
+ID: 615
+TITLE: The Court Jester
+AUTHOR: ninjashyper096
+VERIFIED: False
+TAGS: 
+SET: Dining Room
+DATE: 28/04/24
+CHARACTERS ================================
+JESTER: The Jester (Use knife Avatar):Entrance Stage Left
+KING: The Dying King:Chair 1
+KNIGHT: The Knight:Stage Right
+SUGGESTIONS =============================
+TIME: Random amount of time:5 Days, 10 Years, Forever, 69 Minutes and 420 Seconds
+PUNISHMENT: Type of Punishment:Timeout, Death, Jail, Exilement
+JESTER: Name of a Jester:Mickleberry Mike, Roland the Farter, Chicot, Tyler Hilton
+DIE: Disease that could kill someone:Rabies, Cancer, Black Fever
+KING: Name of a King:Bowser, Lucifer, Mark
+QUEEN: Name of a Queen:Mary Poppins, Ava, Peach
+KNIGHT: Name of a KNIGHT:Sir Arthur, Julius, Ceaser, Sir Markus
+JUGGLABLES: A thing (or things) that you can juggle:balls, knives, children
+SCRIPT ==========================================
+bard music
+JESTER:(walks in from stage left) Good morrow KING.
+KING:(waves) Good morrow to you as well my fair man
+KING: have you come to entertain me?
+JESTER: Yes my sire
+KING: Very well, you may begin when you are ready.
+JESTER: Watch as I juggle 5 JUGGLABLES (Juggle a bunch of stuff putting on a show)
+KING: (Watching and clapping enthusiastically) Splendid, Wonderful display!
+meanwhile KNIGHT: I agree (Nodding at King)
+music stops
+sad chug jug music
+JESTER: I do have some bad news, my lord.
+KING: Oh? do tell.
+JESTER: Well, you have DIE.
+KING: Oh, (saddened) how long till I perish?
+JESTER: I do not know it is fairly new my lord
+KING: Oh dear, I better tell QUEEN (Leave through stage right)
+meanwhile KNIGHT: (Follow behind KING offstage)
+music stops
+silly music 2
+JESTER: I can't believe KING is dying.
+JESTER: (Thinking) Aha! That's it! I can kill the King and gain control of the kingdom.
+JESTER: This plan cannot fail!
+music stops
+noir music 4
+JESTER: (Grabs a knife) Good thing I have this dagger.
+JESTER: When he comes back, I will kill him.
+music stops
+KING: (Enter stage right) I have returned!
+meanwhile KNIGHT: (follows KING)
+JESTER: (Hides the knife behind his back) Hello my lord, did you tell QUEEN?
+KING: I could not find her.
+JESTER: Well, why not send KNIGHT out looking for her in the village?
+KING: Good idea, KNIGHT, you go look for QUEEN.
+KNIGHT: Yes, my lord. (Leave via stage left)
+KING: Now, whilst I have my life to live, Jester entertain me, please.
+JESTER: I've got a better idea. (Throw the knife) Knife throw attack!
+crashing debris
+groose music
+JESTER: Oops. Missed.
+KING: (Yelling) Guards remove this murderous Jester Immediately!
+KNIGHT: (Comes back in and drags the Jester) Come on your going into PUNISHMENT for TIME
+Meanwhile JESTER: (Getting dragged by Knight) you can't take me away forever! I will return! Trust me! I Will!
+JESTER: You haven't seen the last of JESTER!
+KING: Thank goodness, now I rest easy.
+KING: (falls to ground dead)
 
 ======
 
@@ -22199,6 +22270,110 @@ Sheriff: Yippie! (Exit stage right)
 ======
 
 INFORMATION ===============================
+ID: 711
+TITLE: Good cop, bad cop
+AUTHOR: Yu-me1 1ecb
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+DATE: 28/04/24
+CHARACTERS ================================
+OTHER COP: Cop researching:Corner Right 
+CRIMINAL: Person being held in custody:Chair
+BAD COP: The cop with no remorse:Backstage
+GOOD COP: The cop that’s here to help:Backstage
+SUGGESTIONS =============================
+BILL: Any name:Phill, Carrey, John 
+DRAKE: Any name:Mark, Angus, Perry
+CONVICTED: Something you’re convicted of:War crimes, murder, Vandalism 
+YEAR: A random year:1765,2022,1987
+EVENT: A random event:Car crash, electrocution, stock market crash  
+HIDE: Somewhere you would hide:Under the bed, trash can, dryer
+TORMENT: Something used to torment someone:Loud music, Tickling, Tazer
+HALF: Something you snap in half:Stick, Kit Kat, smelling salt
+UGLY: Any type of insult:Ugly,stupid, maggot
+FOOD: Something you eat:Fish,shrimp, burger
+ILLEGAL: Something illegal :Drugs,guns, bombs
+STATE: A state:Nevada, California, Washington, New York
+SCRIPT ==========================================
+Groose music
+Other cop: Alright criminal, you know why you’re here. So just tell us where the ILLEGAL are!
+Criminal: Just let me go man, I don’t have any ILLEGAL.
+Other cop: I have two of the best officers in STATE behind that door. I’m not afraid to bring em out.
+Criminal: Seriously, I don’t have any ILLEGAL. Y'all brought me here for no reason.
+Other cop: You leave me no choice then. Do your thing boys! (Exit stage right).
+Other cop: I pray for you.
+Criminal: Whatever.
+Good cop: (Enter stage right) Look we can do this the easy way or the hard way.
+Good cop: I’m trying to do this the easy way man. All you gotta do is tell me where the ILLEGAL are and you go home Scott free.
+Criminal: I don’t own any ILLEGAL!
+Good cop: How about some FOOD to calm those nerves?
+Criminal: I’ll take the FOOD but I’m telling you I don’t have any ILLEGAL.
+Good cop: It seems I’m not getting through to you.
+Cellphone vibrate
+Other cop: (Step on podium) Hello, did you get the info?
+Good cop: No he’s being difficult with me.
+Good cop: Send in the big guns.
+Other cop: You’re gonna shoot em?
+Other cop: We need the info first. You heard the boss. Get the info then blow out the brainso.
+Good cop: No, I meant send in the bad cop.
+Other cop: You sure you want DRAKE? You know he’s a bit on the dumb side.
+Good cop: No send in BILL!
+Other cop: Ooooh. He’s on his way. My fault.
+Criminal: Who’s BILL?
+Good cop: You’ll see.
+Good cop: In a bout 3.
+Good cop: 2.
+Good cop: 1.
+Good cop: (Dramatic pause) Well I thought he’d be her by….
+Break down door
+Badass music 1
+Bad cop: Listen here UGLY, tell us where you’re hiding the ILLEGAL!!
+Good cop: Right on time I guess.
+Criminal: I don’t have any ILLEGAL!!!
+Bad cop: Are you getting loud with me?! I will break you like a HALF with no hesitation!
+Criminal: Just let me go!!!
+Bad cop: Looks like you don’t wanna spill the beans. I got something for that.
+Bad cop: (Pulls out TORMENT) We’ll just have to resort to extreme measure!
+Criminal: No!!! Not the TORMENT!
+Bad cop: You have five second to tell us where the ILLEGAL is before I use the TORMENT on you!
+Criminal: Please no, I don’t have any ILLEGAL!
+Bad cop: Hold em down officer.
+Good cop: On it (Hold the criminal down)
+Bad cop: 1!
+Criminal: I don’t have any ILLEGAL!!!
+Bad cop: 2
+Criminal: I swear I don’t have any!!!
+Good cop: Oh you’re gonna get it now.
+Bad cop: 3
+Good cop: You better confess.
+Criminal: I’m telling the truth!
+Bad cop: 4 (Get closer to the criminal)
+Criminal: (Crying) Please no!!!
+Bad cop: 5, times up!!
+Criminal: NO!!!
+Break down door
+Silly music 1
+Other cop: (Enter stage right) We found the culprit! He was hiding in the HIDE.
+Criminal: Thank the lord!
+Other cop: What’s going on here?
+Bad cop: Don’t worry about it.
+Other cop: Why do you have a TORMENT?
+Good cop: don’t worry about it.
+Other cop: Gotcha. (Exit stage right)
+Criminal: Can I go now?
+Good cop: Yes of course. Sorry for the hold up.
+Criminal: I need therapy. (Exit stage right)
+Bad cop: (Sad) Now I won’t be able to use my TORMENT.
+Good cop: It’s ok, there’s always next time.
+Bad cop: I’ve been waiting since the EVENT of YEAR.
+Other cop: (Enter stage right) Hey theres another guy convicted of CONVICTED. Need you in there in 12 minutes. (Exit stage right)
+Good cop: Now you can use the TORMENT.
+Bad cop: Let’s do it!
+
+======
+
+INFORMATION ===============================
 ID: 713
 TITLE: Concrete Alibi
 AUTHOR: abysswireless
@@ -25118,149 +25293,6 @@ laughter
 ======
 
 INFORMATION ===============================
-ID: 773
-TITLE: Murder: The Movie
-AUTHOR: GSGenesis
-VERIFIED: True
-TAGS: Skit
-SET: Murder
-DATE: 30/04/24
-CHARACTERS ================================
-DETECTIVE DAVISON: Detective Derek Davison:Backstage
-AMY: Amy, wife of Cameron:Backstage
-SHANNON: Shannon, relative:Stage Left
-THEA: Cousin Thea:Stage Right
-BILLY: Billy, son of Amy:Backstage
-RALPH: Ralph, immature son of Thea:Center Stage
-SUGGESTIONS =============================
-MEMBER: A family member title:Cousin-twice-removed, Sister, Mama, Niece
-INGREDIENT: A liquid ingredient:yeti sweat, hot sauce, liquid glass, rotten egg whites
-ACTION: Any ridiculous action:tweaked, pinched, snapped, squashed
-BODYPART: Any body part:hair, eyeball, funny bone, nostrils
-LOCATION: A type of house:outhouse, mansion, average apartment, motor home
-CONTAINER: Any type of beverage container:can, keg, barrel, bottle
-DRINK: Any liquid:root beer, Reddi-Wip, processed barf, ipecac
-TIME: Any span of time:hour, month, day, week
-GAME: A really bad video game:Dr. Jekyll & Mr. Hyde, Big Rigs, Cyberpunk 2077, Gollum
-FOOD: Any red food:strawberry, tomato, Tabasco, cherry
-APPENDAGE: Any body part:foot, hand, arm, scapula
-DINNER: Any food:pizza, pasta dish, fruitcake, sirloin steak
-SCRIPT ==========================================
-noir music 1
-THEA: What a lovely night – a friendly gala with my family and friends. Right, MEMBER Shannon?
-SHANNON: Yes…unlike that last party where Cameron spiked our wine with INGREDIENT!
-THEA: That definitely got us in a funk – and what about that time when you ran with scissors, Ralphie?
-RALPH: I was hyper, OK?
-AMY: (scream loudly)
-Music Stops
-record scratch
-SHANNON: What was that?
-THEA: Was that Amy?
-AMY: (enter from Stage Right Door, quivering in fear) ... Everyone? I have some terrible news!
-RALPH: What’s wrong, Auntie Amy?
-SHANNON: Did Cameron ACTION your BODYPART again?
-AMY: No…he’s dead! MURDERED!
-thunder
-RALPH: Huh?!
-Meanwhile THEA: WHAT?!
-mystery music 1
-AMY: He was lying lifeless on the bed…blood everywhere…(start breaking down into tears)
-SHANNON: I’ll call the police.
-THEA: No, MEMBER Shannon! Let’s get a detective here first! I know just who. (go near Stage Right Door)
-AMY: (sobbing) His throat…a gaping slit in his throat…
-THEA: Hello, operator? Have Detective Davison come to our LOCATION.
-Meanwhile RALPH: How do you know he was murdered?
-SHANNON: Not the time to ask that question, Ralph.
-THEA: (reenter from Stage Right Door) Just don’t panic everyone, the Detective should be here any moment--
-tire screech
-knocking on door
-Teleport DETECTIVE DAVISON to Entrance Stage Left
-THEA: That must be him. (go to Stage Left Door, then open it)
-DETECTIVE DAVISON: Good evening, all. I heard that I was summoned here.
-SHANNON: We are grateful for your presence, Mr. Detective.
-DETECTIVE DAVISON: You can call me Dr. Davison, but only if you wish.
-Meanwhile RALPH: (wander offstage toward Stage Right Door)
-SHANNON: (follow Ralph offstage, in confusion) Ralph, where are you going?
-AMY: Ugh…I think I’m going to be sick from that sight…worse than when I drank that whole CONTAINER of DRINK! (Leave through Stage Right Door)
-dark classical music
-THEA: Dr. Davison, we need your help. Amy says her husband was murdered.
-DETECTIVE DAVISON: That’s the third one this TIME.
-THEA: How often do you get these cases...?
-SHANNON: (scream loudly)
-Music Stops
-knife wound
-thunder
-DETECTIVE DAVISON: What's that? The sounds of violence from behind that door?
-DETECTIVE DAVISON: Stay back – I’ll handle this. (inch toward Stage Right Door, drawing “gun”)
-scary music
-RALPH: (Enter from Stage Right Door, licking his fingers) Hey, what’s going on in here---
-gunshot
-RALPH: (fall to ground)
-Meanwhile THEA: (shriek) My son! Was it my son?!
-DETECTIVE DAVISON: Might have been – there’s blood on his hands.
-THEA: What?! Does that mean he’s the killer?
-Meanwhile DETECTIVE DAVISON: (approach the body of Ralph)
-DETECTIVE DAVISON: It would appear so; he was holding a stained knife in his hand as well!
-THEA: (sigh of relief) Thank goodness.
-footsteps on wood
-BILLY: (enter from Stage Right Door) Aunt Thea! I saw something- (gasp) RALPHIE!
-THEA: Don’t get close to him, Billy! He’ll think you’re involved with Ralph’s antics!
-Meanwhile DETECTIVE DAVISON: Who are you?
-BILLY: What antics? What did Ralph do? Did he cheat at GAME again?
-DETECTIVE DAVISON: This suspect murdered Cameron, wife of Amy.
-BILLY: What?! Ralphie would never do such a thing! Before I went upstairs, he said he was going to get something to eat!
-DETECTIVE DAVISON: Are you absolutely sure- wait a minute… (crouch to Ralph’s body, wipe finger on knife, then taste it)
-Music Stops
-DETECTIVE DAVISON: This isn’t blood – it’s FOOD jelly!
-silly music 2
-THEA: Are you now realizing that you just killed my son without hesitation?
-DETECTIVE DAVISON: Uh…oops.
-THEA: You absolute moron! (take gun from Davison) You lost your privilege to use this!
-DETECTIVE DAVISON: Hey, wait!
-THEA: I bet a million dollars it could be you!
-BILLY: (interrupting) ...Guys! I saw Amy kill Shannon!
-thunder
-Music Stops
-piano theme
-DETECTIVE DAVISON: What?
-Meanwhile THEA: You did?
-BILLY: Yeah! I saw her leave the bedroom when Cameron was stabbed, too!
-AMY: (enter from Stage Right Door behind Billy, then stab him with a knife) And now your days are over!
-knife wound
-THEA: BILLY!
-AMY: (approach Davison and Thea menacingly, holding knife) So, that rotten brat told you, huh?
-tense cinematic music
-THEA: Amy…why? Why would you do such a vile thing? To your husband! To MEMBER Shannon! And to your own son! Why?!
-AMY: (snarly tone) Cameron never appreciated me…he always wanted to do what was best for Billy…
-thunder
-AMY: Shannon never liked me either! And Billy always got the best in life while I was thrown to the wolves!
-DETECTIVE DAVISON: So, you resorted to killing them!
-AMY: Same went for the man who broke the Clue DVD he borrowed from me and the student driver who ran over my APPENDAGE earlier this TIME!
-DETECTIVE DAVISON: You killed them, too…I should have known it was you all along!
-THEA: Amy, please… calm down...
-Meanwhile DETECTIVE DAVISON: (reach behind back for shotgun)
-AMY: ENOUGH! You two won’t get away with revealing who I am! Now DIE!
-THEA: (shriek loudly)
-DETECTIVE DAVISON: (pull out shotgun, shoot Amy) Not today!
-gunshot
-Music Stops
-AMY: (hit by shot from shotgun, fall backwards onto ground, dead) Blech... (gurgle)
-emotional piano music
-THEA: (sigh of relief) Is it over?
-DETECTIVE DAVISON: I…I think so. She’s dead.
-THEA: (crying) Poor Ralph…
-RALPH: (gets up) Uh…what happened?
-THEA: Ralph! You’re alive! (hugs him strongly, kisses him a lot)
-DETECTIVE DAVISON: But- but, how? I thought you were shot dead!
-RALPH: (reach inside shirt, pull out frozen dinner) This frozen DINNER I tried to smuggle in my shirt saved me!
-THEA: Well, I think we can all say…
-DETECTIVE DAVISON: Case. Closed.
-Music Stops
-RALPH: Can I have my peanut butter and FOOD jelly sandwich now?
-
-======
-
-INFORMATION ===============================
 ID: 775
 TITLE: Conflicting Identities
 AUTHOR: AnObviousTrap
@@ -25498,6 +25530,73 @@ DAD: Ok fine, here is your APPLIANCE... (Hand demon the APPLIANCE)
 Meanwhile DEMON: (Grab the APPLIANCE from the father)
 DEMON: Thank you very much! I'm gonna go steal socks from your neighbor now.
 DEMON: BYE!
+
+======
+
+INFORMATION ===============================
+ID: 793
+TITLE: Battlefield confessions
+AUTHOR: AsheWHY
+VERIFIED: True
+TAGS: 
+SET: Forest
+DATE: 07/05/24
+CHARACTERS ================================
+PRIVATE: A new, scared private:Entrance Stage Right
+CAPTAIN: A hardened captain:Entrance Stage Right
+BOT: Enemy bot:Entrance Stage Left
+SUGGESTIONS =============================
+DEEP: Dialogue where soldier admits doing something terrible:I think the enemy is cute, I shot a friendly, I farted on the president of the united states
+DEVICE: A name for a bomb:big boom, explody thing
+SHIP: A name of their ship:Star cutter, solaris
+SECRET: A secret people wouldn't like:I stole your lunch, I lost the map
+WEAPON: something silly used to defeat an enemy:a spoon, pencil, an apple
+NOT FOOD: Something you shouldn't eat but do:Cardboard, plastic, Batteries
+GUILTYTHING: A guilty secret you have:I hate cheese, I think your dad is cute, my washboard abs hurt when i pee
+ADMISSION: Describe how you did something terrible:I downloaded a car, nobody knows about the bodies in my basement, I mailed my neighbor glitter
+SCRIPT ==========================================
+epic fantasy music 2
+CAPTAIN: (Rush onto stage, panting) Ahhh! made it outta there in out piece. Am i the only one left?
+PRIVATE: (Rush onto stage, panting) Captain! You're alive!
+CAPTAIN: Of course I am. This ain't my first mission. Wait! You're the one that was looking after the DEVICE, right?
+PRIVATE: Oh! The DEVICE! Yes, I have it right here!
+CAPTAIN: Brilliant! We'll arm it and head back to the SHIP. Say, you have any rations left?
+Music stops
+PRIVATE: All I have is some NOT FOOD.
+CAPTAIN: (eat the NOT FOOD) Good enough. I had to survive on this last tour.
+vine boom
+PRIVATE: (Shocked) You're not supposed to eat that!
+CAPTAIN: (act mildly guilty) Look. In battle, we do many things that we aren't proud of.
+PRIVATE: Elaborate...
+CAPTAIN: Well...In my last tour...I...SECRET
+PRIVATE: Say what!?! WHY!
+CAPTAIN: As I said, we do things in battle. Like, I beat an enemy with only a WEAPON.
+PRIVATE: WEAPON?! Thats crazy.
+CAPTAIN: In the chaos of war, what happens on the battlefield stays on the battlefield.
+CAPTAIN: Like GUILTYTHING. But nobody at home needs to know.
+scifi contraption
+PRIVATE: Sir...the ship has left...we're the last on the field.
+CAPTAIN: Damn it! Well...it'll be some time before we can call another...
+PRIVATE: If we're gonna be here a while, I should admit to somethin...
+CAPTAIN: (Look concerned) What is it?
+PRIVATE: (hesitantly) I...DEEP
+vine boom
+PRIVATE: Also, ADMISSION
+vine boom
+BOT: (enter stage left) What the actual heck...
+CAPTAIN: I know righ- WAIT A SEC! Hold it right there! (raise weapon)
+BOT: (Raise weapon) Chill...Ain't no point in fighting now. You're stranded.
+PRIVATE: Ahh jeez
+BOT: Lower your weapons
+PRIVATE: (Arm device) Lower this!
+scifi contraption
+CAPTAIN: You idiot! We're still on the planet!
+BOT: Did you even do it right? Damn, you are dumb.
+PRIVATE: Shut!
+BOT: Here, let me have a look. (Investigate DEVICE)
+CAPTAIN: Thank you.
+BOT: You're welcome
+explosion
 
 ======
 
@@ -26506,6 +26605,84 @@ APPRENTICE: And sometimes, those milkshakes were made prematurely.
 RUMSAY: Other times I had to take CONDITION pills to make my milkshakes last longer than a hour. But then you came into my life.
 APPRENTICE: I did a number of times.
 RUMSAY: That's it! You're done! You've had your last milkshake!
+
+======
+
+INFORMATION ===============================
+ID: 834
+TITLE: Can We Keep It?
+AUTHOR: piks23
+VERIFIED: True
+TAGS: 
+SET: Living Room
+DATE: 20/05/24
+CHARACTERS ================================
+CREATURE: Some type of weird creature:Backstage
+CHILD: The Child:Stage Right
+MOTHER: Mother of child:Kitchen
+FATHER: Father of child:Couch
+SUGGESTIONS =============================
+NAME2: A name:Jimmy, Wendy, Johnny
+NAME1: A name:Timmy, Whiskers, Spot
+SOUND: A weird sound:Bark, Meow, Quack, Moo, Cough, Wheeze
+PLACE1: A city, state, or country :Kansas, Africa, Osaka, Brazil, London
+CREATURE: Weird creature:Goblin, chupacabra, alien, Ed Sheeran, leprechaun, ogre
+PLACE2: A fun place for a person of all ages to enjoy:playground, rageroom, school
+BIOME: Any location, feature, biome, or specific place:forest, desert, tundra, jungle
+NAME3: A name:Kim, Jane, Mary, Anna
+NAME4: A name:Robert, John, Quandale Dingle the 45th, Michael
+FLAVOUR: A weird ice cream flavour:Avocado, butter, oyster, mint chocolate chip
+SCRIPT ==========================================
+Happy music 1
+MOTHER: Ah, it sure is nice we moved to PLACE1, it has such a wonderful neighborhood!
+FATHER: (Looking at phone) Yeah, I guess...
+MOTHER: We don't have to keep such an eye on NAME2 since these people are so kind!
+FATHER: Woah, have you seen the news, NAME3? There's been sightings of CREATURE all over here!
+Music stops
+FATHER: They live... near BIOMEs...
+MOTHER: Oh my! Well... I'm sure it's nothing right?
+Music stops
+FATHER: NAME3.. NAME3, we live in PLACE1, which is near BIOMEs!
+MOTHER: Oh no!
+Meanwhile CHILD: (Enter stage right) Hi mom, hi dad!
+Happy music 1
+FATHER: Oh! H-Hi NAME2, how was the PLACE2?
+CHILD: It was amazing daddy! I even met a new friend!
+MOTHER: Aw, that's nice!
+CHILD: Can I show you guys?
+FATHER: He came... with you?
+CHILD: Yeah, let me show you now!
+CREATURE: (Enter stage right) SOUND!
+Music stops
+FATHER: What is that thing!?
+MOTHER: NAME4! How dare you!
+CHILD: (Saying in sad tone) I thought you would like my friend...
+FATHER: I thought you met an actual friend!
+MOTHER: NAME4!
+CHILD: Well, I wanted to ask you something, Dad..
+FATHER: What!?
+CHILD: ...Can we keep it?
+FATHER: No!
+Meanwhile MOTHER: Of course!
+FATHER: Are you kidding me NAME3!?
+MOTHER: NAME4 we've heard enough from you. (sigh) What will you name it NAME2?
+CHILD: ...NAME1
+CREATURE: Ooh, me like NAME1! SOUND!
+FATHER: Are you kidding me?! That thing could eat NAME2 any second when we're not looking!
+MOTHER: Is that some jab at his physical appearance NAME4? And it goes by NAME1!
+FATHER: You know what NAME2? You better take that thing back to where he came from!
+CREATURE: SOUND!
+MOTHER: How dare you NAME4?! You're such a meanie!
+MOTHER: Now come on, NAME2 and NAME1, I'll take you guys for ice cream right now as soon as your father PACKS HIS STUFF AND LEAVES!
+CREATURE: SOUND!
+FATHER: You're keeping the CREATURE and kicking me out?! I knew I should've married the librarian but I couldn't read!
+MOTHER: Oh shut up NAME4 I already know you kissed that librarian before!
+FATHER: I've had enough of this! (Exit running to stage right)
+MOTHER: ..At least we have you NAME1... Now let's go grab some ice cream
+Happy music 1
+CHILD: Yay! Can I get the FLAVOUR flavor?
+MOTHER: Oh, interesting choice, but sure!
+CREATURE: SOUND!
 
 ======
 
@@ -33664,7 +33841,7 @@ ID: 1061
 TITLE: Legoshi Task Force
 AUTHOR: Brizzz
 VERIFIED: True
-TAGS: Skit
+TAGS: 
 SET: Forest Bridge
 DATE: 22/08/24
 CHARACTERS ================================
@@ -33701,7 +33878,7 @@ VILLAIN: How does it feel? Being looked down on for once. (Points weapon at host
 VILLAIN: Your family took everything from us. Our jobs, our land, and even our VALUABLE!
 HOSTAGE: This is kinda hot, but I didn't take anything! My family's MONEY business has nothing to do with me!
 VILLAIN: Wrong! (Hit the hostage) It has everything to do with you!
-Meanwhile HOSTAGE: (Get Hit, fall down)  UwU! I Mean, Ow.
+Meanwhile HOSTAGE: (Get Hit, fall down) UwU! I Mean, Ow.
 VILLAIN: Your family stole our VALUABLE, so we're stealing you.
 VILLAIN: When they give us back our VALUABLE, we'll give you back to them.
 HOSTAGE: You'll...Give me back? You mean like, bring me back home?
@@ -33733,8 +33910,11 @@ SARGE: Oh yeah? So the heck are we! This is what we freaking do!
 SARGE: We'll be in and out in 2 seconds, which is 1 second longer than I gave to your mom last night, eh PRIVATE?
 Teleport PRIVATE Stage Right
 PRIVATE: Not cool, SARGE. But... What if we're not just in and out?
+SARGE: I was in and out of your MOM.
 PRIVATE: What if they're listening, and know we're coming, and they already set up an ambush?
+SARGE: Your mom knew I was coming when she set up HER ambush.
 PRIVATE: What if we get overwhelmed and...captured. I'll never see my mom again, or my cats...
+SARGE: Your mom Captured me when I saw HER cat again.
 PRIVATE: What if they do some kind of weird TORTURE to us? Or tie us down and pour hot LIQUID all over our...y'know?
 CAPTAIN: Shut it Private! And SARGE, show some respect, Private is sensitive about their mom...
 SARGE: Sorry captain...
@@ -33744,13 +33924,13 @@ SARGE: Got em'.
 HQ: Got em'.
 VILLAIN: Got em'.
 PRIVATE: Not cool, guys. I'm going through a lot right now. My mom's been upset with me lately, and the other soldiers are always picking on me.
-PRIVATE: Calling me a VRCHAT and such. I've just been feeling real lonely lately. It's like nobody cares about me, or even listens to me when I talk.
+PRIVATE: Calling me a VRCHAT and such. It's like nobody cares about me, or even listens to me when I talk.
 CAPTAIN: (Ignore Private) Mmm hmm. Understood HQ. Moving in to intercept Target. Over and out.
 PRIVATE: (Sadly looks down) Awwww...No one listens to me.
 Tense cinematic music
 CAPTAIN: On Me, move. (Slowly walk towards bridge with team)
 Meanwhile VILLAIN: (Slowly walk to the bridge with Hostage)
-VILLAIN: (Spot Legoshi Task Force) There they are! I knew I heard something! It's a good thing prepared an ambush!
+VILLAIN: (Spot Legoshi Task Force) There they are! I knew I heard something! It's a good thing I set up an ambush!
 PRIVATE: I told you! No one ever listens to me.
 CAPTAIN: Shut it, PRIVATE!
 HQ: Yeah, shut it, Private!
@@ -33771,10 +33951,9 @@ Epic fantasy music 1
 CAPTAIN: (Look up at Private while lying down) It's up to you now, PRIVATE!
 CAPTAIN: I have absolutely no faith in you whatsoever because you suck at everything and I hate you. But, it's all up to you, now.
 CAPTAIN: Do us all proud, kid. Remember, you have to goon, private. Goon. (Die).
-PRIVATE: CAPTAIN, NO! I'm just a rookie I can't...I... (Look at VILLAIN) Why are you doing this?!
 Teleport CAPTAIN backstage
+PRIVATE: CAPTAIN, NO! I'm just a rookie I can't...I... (Look at VILLAIN) Why are you doing this?!
 VILLAIN: Why am I doing this? You VRCHAT. Why would I NOT do this?!
-PRIVATE: I don't understand.
 HOSTAGE: Ah crap, here comes another monologue.
 VILLAIN: (Sad) When I was just a child, that brat's family took everything from me and my people.
 VILLAIN: These people destroyed our base, our Nexus, so many times... In League of Legends.
@@ -37223,7 +37402,7 @@ TYPEWRITER: The GOLD WATCH was never recovered.
 INFORMATION ===============================
 ID: 1155
 TITLE: Fast Food Frustrations
-AUTHOR: Juliablue1970
+AUTHOR: ඞღ＊Juliablue＊ღඞ
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -37390,6 +37569,95 @@ CHAZ: So just like that, huh...? (heartbroken)
 CHAZ: Me and Chloe are done?
 NORM: So real.
 (fortnite)
+
+======
+
+INFORMATION ===============================
+ID: 1162
+TITLE: I am Mad
+AUTHOR: APSI-wizard
+VERIFIED: True
+TAGS: 
+SET: City
+DATE: 02/11/24
+CHARACTERS ================================
+MAD: Mad, he is really mad:Center Stage
+FRANKIE: Frankie, Mad's roommate:Entrance Stage Left
+JAN: Jan, friend :Entrance Stage Right
+SUGGESTIONS =============================
+ITEM: any item:pencil, coin, keychain 
+NUMBER: any number :400,1200,830
+NICKNAME: a nickname you would call your friends :fellas, buddy's, monkeys
+PERSON: any person in a family :Mom, Dad, Sister
+EXPRESSION : any expression :angry, furies, emo 
+JOB: any job place :McDonalds, chuck e cheese, loss polos Hermanus 
+BODYPART: literally any body part:leg, arm, neck
+SPONSOR: any annoying sponsor you keep seeing on you tube :Raid shadow legends, opera XG, nord VPN
+SCRIPT ==========================================
+MAD: God I am so MAD! I lost my job at JOB!
+vine boom
+MAD: My girlfriend broke up with me!
+vine boom
+MAD: I got kicked out of my NUMBER dollar apartment!
+vine boom
+MAD: And I lost my favorite ITEM!
+vine boom
+MAD: And I swear if someone crosses my path they will REGRET it!
+door creak
+FRANKIE: (enters) Hey Mad! Long time no see old pal.
+FRANKIE: (go in for a hug) come here give your friend a hug.
+MAD: (furious) Don’t you DARE touch me like that or i swear i will break your BODYPART.
+FRANKIE: Okay okay chill man I’m just saying hi.
+MAD: Are you kidding me FRANKIE !?
+MAD: do I look like I’m in the mood for hi !?
+FRANKIE: (raises hands in surrender) All right all right what’s going on then.
+MAD: Everything’s going on that’s what.
+MAD: I lost my job at JOB!
+vine boom
+MAD: my girlfriend!
+vine boom
+MAD: my favorite ITEM!
+vine boom
+MAD: and I swear the world is against me!
+FRANKIE: Wow okay that sounds rough.
+FRANKIE: but you’re tough Mad.
+FRANKIE: I mean it’s not like you haven’t been mad before right.
+MAD: Oh it’s different this time FRANKIE I’m EXPRESSION!
+FRANKIE: (chuckles nervously) EXPRESSION is kind of your default though isn’t it.
+MAD: (glares) Not helping FRANKIE not helping at ALL!
+door creak
+JAN: (enter the stage) Yo what’s up my NICKNAMEs.
+MAD: Did you just CALL me a NICKNAME !?
+JAN: chuckling Yeah figured it might lighten the mood lighten you up a bit.
+MAD: (fuming) Lighten up I am NOT in the mood to “lighten up” you’re gonna PAY for this !
+JAN: holding up hands Whoa whoa all right calm down I was just kidding.
+FRANKIE: Yeah Mad he didn’t mean it.
+MAD: (sarcastic) Oh yeah everyone’s got jokes now huh.
+MAD: first FRANKIE here is all “hey buddy”
+MAD: and now you come in calling me NICKNAME !
+JAN: confused Man we’re just trying to be friendly no need to flip out.
+MAD: friendly ?
+MAD: FRIENDLY!?
+MAD: where were you two when I was losing everything huh.
+MAD: FRANKIE here was busy but what about you JAN.
+JAN: Uh I didn’t know man I swear if I did I would’ve been there.
+FRANKIE: Yeah I didn’t know either look we’re here now let’s just chill.
+MAD: NO ONE is chilling I’m done with this.
+MAD: (slaps FRANKIE) take this.
+gunshot
+FRANKIE: (falls to the ground) Ow okay that was unnecessary man.
+JAN: (nervous) Dude did you just slap FRANKIE.
+MAD: You think you’re safe JAN think again.
+MAD: (slap JAN) take that.
+gunshot
+JAN: (falls to the ground holding his cheek) Dude what is your PROBLEM.
+JAN: Mad why are you always so MAD.
+MAD: Because my PERSON named me so.
+FRANKIE: (sighs) Makes sense.
+JAN: i guess he's officially mad.
+FRANKIE: (stand up) but before we end todays show lets talk about todays sponsor SPONSOR !
+MAD: GET OUT!
+vine boom
 
 ======
 
@@ -38363,7 +38631,7 @@ ID: 1231
 TITLE: Dumb Criminal
 AUTHOR: Lazy Sunshine
 VERIFIED: True
-TAGS: Skit
+TAGS: 
 SET: City
 DATE: 13/11/24
 CHARACTERS ================================
@@ -38373,7 +38641,7 @@ OFFICER: A Police Officer.:Center Stage
 SUGGESTIONS =============================
 CITY: A City:Detroit, Vice City, Townsville
 CRIME: A Crime:Trespassing, Arson, Tax Evasion
-AUDIENCE: Someone in the Audience:Steve Harvey, Tupper VRChat, popular streamer xqc
+AUDIENCE: Someone in the Audience:Steve Harvey, Tupper VRChat, Popular Streamer xqc
 OBJECT: An Object:Crowbar, Banana, Phone Book
 NUMBER A: A 5 Digit Number:12345, 10110, 88888
 MEDICAL: A Disease or Diagnosis:Cancer, Broken Femur, Lice
@@ -38387,35 +38655,35 @@ NARRATOR: Welcome to Dumb Criminals. I'm your narrator, and today, we'll be look
 NARRATOR: On February 9th, 2022, in the sweet city of CITY, officers were dispatched to an intersection following a 911 call.
 NARRATOR: A shop owner reported witnessing one of their customers committing one of the worst crimes imaginable: CRIME.
 NARRATOR: Let's take a look at the bodycam footage.
-OFFICER: (Look at Shop Owner) Hello. Could you tell me who you are?
+OFFICER: (Look at Shop Owner) Hello. Can I get your name?
 SHOP OWNER: Yes. My name is AUDIENCE.
 OFFICER: Okay, AUDIENCE, thank you. So...what happened?
-SHOP OWNER: I was inside, operating the register of my restaurant, when all of a sudden...
+SHOP OWNER: I was inside, running the register at my restaurant, when all of a sudden...
 SHOP OWNER: ...I saw this customer stand up and...oh, it was horrific!
-OFFICER: Now the crime of CRIME is a Class A offense, a serious accusation. Do you have any evidence ready?
+OFFICER: So, CRIME is a Class A offense, that's a serious accusation. Do you have evidence prepared?
 NARRATOR: There would be several witnesses and high quality surveillance video, which would create a clear description of the perpetrator.
-NARRATOR: They were shown escaping through the window using a big OBJECT, which was fortunately left behind. How dumb could this criminal be?
-OFFICER: What an idiot. We can use the serial number on this OBJECT to get their info. I assume you want to press charges?
-SHOP OWNER: To the fullest extent of the law! No one gets away with CRIME in my shop!
+NARRATOR: They were shown escaping through the window using a big OBJECT, which was then dropped behind at the scene. How dumb could this criminal be?
+OFFICER: Wow, what an idiot. We can use the serial number on this OBJECT to get their info. Do you want to press charges?
+SHOP OWNER: Yeah, to the fullest extent of the law! I ain't letting them get away with CRIME in my shop!
 OFFICER: Dispatch. Run serial number NUMBER A on this OBJECT.
 NARRATOR: The serial number would identify the owner, whose license image matched that of the surveillance footage.
 NARRATOR: Now, it was a matter of finding our devious perpetrator.
-SHOP OWNER: (Look at Narrator) Wait...I see them! That's the one, standing right over there!
-OFFICER: (Walk to Narrator) Hey buddy? Why don't you turn around and place your hands behind your back?
-NARRATOR: I would feign innocence by replying "I didn't do anything," and refuse to comply.
-SHOP OWNER: You know exactly what you did! Poor FAMOUS suffered because of you!
-SHOP OWNER: Now they have MEDICAL! Are you proud of yourself?
-OFFICER: Failure to comply will get your a resisting arrest charge. Hands behind your back now! I'm not playing games.
+SHOP OWNER: (Look at Narrator) Wait...I see them! That's them, officer, they're standing over there!
+OFFICER: (Walk to Narrator) Hey, you! Turn around. Place your hands behind your back.
+NARRATOR: (To Audience) I would feign innocence by replying "I didn't do anything," and refuse to comply.
+SHOP OWNER: You know what you did! You know...FAMOUS suffered because of YOU!
+SHOP OWNER: Now they have MEDICAL! I hope you're proud of yourself.
+OFFICER: If you don't comply, you will get a resisting charge. I'm not playing games.
 NARRATOR: Little did they know I had a shocking plan.
 NARRATOR: I would reach for the officer's ATTACHMENT, steal it, and make a run for it (run to alley).
-OFFICER: Hey, my ATTACHMENT! Ten one, I need assistance right away! Suspect is armed and dangerous!
-SHOP OWNER: I've got this! Watch me throw this THROW at them!
-SHOP OWNER: This is for FAMOUS! Take this! Hyah!
+OFFICER: Hey, my ATTACHMENT! Ten one, I need assistance! Suspect is armed and dangerous!
+SHOP OWNER: That's it. I'm chuckin' this THROW at them!
+SHOP OWNER: This is for FAMOUS! Hyah!
 OFFICER: Suspect's down! I'll get them cuffed. Stay right where you are!
 Meanwhile NARRATOR: (Stay down and comply with officer's orders).
 NARRATOR: Oof, what a hit! Looks like my getaway plan was doomed to fail.
-SHOP OWNER: Serves you right! CRIME! Ugh! Absolutely despicable.
-OFFICER: Walk with me to the car. We're going to search you. Got anything that'll poke me, stick me, stab me?
+SHOP OWNER: That's right, that's what you get! Absolutely despicable. CRIME of all things!
+OFFICER: Walk with me. I gotta search you before I put you in my car. Got anything that'll poke me, stick me, stab me?
 NARRATOR: I was charged with resisting arrest with violence, eluding and fleeing a crime scene, theft, and of course, CRIME.
 Meanwhile OFFICER: (Search the suspect respectfully).
 NARRATOR: I would be sentenced to NUMBER B years in prison.
@@ -43715,7 +43983,7 @@ HOSTILE: (Wait till they're gone) Welp, Time to steal all the snickerdoodles whi
 INFORMATION ===============================
 ID: 1411
 TITLE: The Royal Pain
-AUTHOR: Glag
+AUTHOR: Incidental
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -44607,6 +44875,192 @@ COM: I can't believe you right now.
 DIS: Hey just be glad that you haven't had anything as bad as this happen to you.
 COM: I'm out of here. (leave to backstage)
 DIS: What did I do
+
+======
+
+INFORMATION ===============================
+ID: 1434
+TITLE: IMPOSTER?! no... IMPOSTERS?!
+AUTHOR: R0b0Rilz
+VERIFIED: True
+TAGS: Contains Adult Innuendo
+SET: Living Room
+DATE: 03/02/25
+CHARACTERS ================================
+HUSBAND: Husband:Front Door
+WIFE: Wife:Backstage
+FAKE1: Identical fake wife 1:Kitchen
+FAKE2: Identical fake wife 2:Backstage
+FAKE3: Identical fake wife 3:Backstage
+SUGGESTIONS =============================
+CREATURE: Any creature:Centaur, Bat, Siren
+DINNER: Anything you can eat for dinner:Pizza, Sushi, 1 dollar ramen
+SUPPER: Anything you can have for supper:Tacos, Bread, Buffalo 
+FAMOUS: Anyone famous:Jar, Peter Griffin, Billy Mays
+NUMBER: Any number in the world:1000, 56, 84
+HUBBIE: Cute nickname for husband:Hubbie, Sweetums, Cookie bear, my chiseled mantrophy
+TASK: A task that a wife might do:clear dishes, earn money to support the family, literally nothing
+MONEYMAKING: Something you did to make a lot of money:flipping burgers, making mukbang videos and getting really fat, saving money by eating garbage
+THE POLICE: who you call when you're in real trouble:the police, my mom, your mom, ghostbusters
+CATASTROPHE : something that might challenge your life or marriage:a typhoon, food poisoning, being down bad for anime women
+GIFT: something you give on anniversary:diamond ring, home cooked meal, flattering photograph
+SCRIPT ==========================================
+(double bass music)
+FAKE1: Ah...
+FAKE1: It's such a beautiful afternoon today.
+FAKE1: I wonder how HUBBIE is doing.
+(knocking on door)
+FAKE1: Coming (walk to the door).
+FAKE1: (opens the door) Oh honey your home early.
+HUSBAND: Yeah, something happened at the factory today.
+FAKE1: Really? What happened?
+HUSBAND: I don't know I think something about a hidden experiment gone loose.
+FAKE1: What's wrong with this "experiment"?
+HUSBAND: They said that the thing can transform and act like anyone.
+HUSBAND: For example, it can become a CREATURE and act completely like a CREATURE with no flaws.
+FAKE1: Speaking of CREATURE it gets lonely here so how about...
+FAKE1: We get one!
+HUSBAND: Get one what?
+FAKE1: You know a CREATURE!
+HUSBAND: It would be nice to have more company around here...
+FAKE1: Yes exactly so can we get one?
+HUSBAND: Alright we'll go check it out tomorrow.
+HUSBAND: Anyways I'm starving what are we eating?
+FAKE1: Well you guess and then I'll tell you.
+HUSBAND: Ok, is it DINNER?
+FAKE1: No but close though we are eating SUPPER!
+HUSBAND: Aww man but I wanted DINNER.
+FAKE1: Now no need to act like a child.
+FAKE1: Besides it's good to try new things like SUPPER.
+HUSBAND: I guess you're right.
+HUSBAND: But we're eating DINNER tomorrow though.
+FAKE1: Fine no go sit down you had a long day watch some TV while i make SUPPER.
+FAKE1: Anyways I heard FAMOUS and his new show airs today live.
+HUSBAND: Wait did you say FAMOUS?
+FAKE1: Yeah why?
+HUSBAND: The FAMOUS who won NUMBER awards for best acting FAMOUS?
+FAKE1: Yeah, wait did you say NUMBER amount of acting awards?
+HUSBAND: Yes why did Miss hear me I can say it again.
+FAKE1: No it's just that NUMBER amounts of awards is like the world record in the world.
+HUSBAND: I know wait before it starts can you get me a drink for the fridge, please?
+FAKE1: Sure thing honey. (walk to the fridge)
+FAKE1: (look for a drink) What do you want to drink?
+HUSBAND: Anything will do.
+(doorbell)
+FAKE1: Coming!
+HUSBAND: No dear let me check you keep working on that SUPPER.
+HUSBAND: (opens the door) Yeah who's here?
+FAKE2: Hey HUBBIE how are you today?
+HUSBAND: Who are you?
+FAKE2: Don't you remember it's me your wife?
+HUSBAND: No you're not my wife is in the kitchen making dinner.
+FAKE2: Oh don't be silly just let me in. (walk on stage)
+FAKE2: Oh wow you renovated the place a bit, where did you get the budget for this?
+HUSBAND: I got lots of money from MONEYMAKING.
+FAKE1: Who is it dear? (turn around)
+(record scratch)
+(Music Stops)
+FAKE1: Honey who is this and why do they look like me?
+FAKE2: Look like you? Why do you look like me?
+FAKE1: Because I'm his real wife so who are you?
+FAKE2: I'm his wife who are you I'm going to call THE POLICE!
+HUSBAND: Ladies ladies calm down no need to get THE POLICE involved.
+HUSBAND: And besides the place does need more cleaning so...
+HUSBAND: Why don't you get started with cleaning up around here?
+FAKE2: Fine but you better find a way to get rid of that faker. (walk of the stage)
+FAKE1: HUBBIE what are we going to do we can't let this person think she's me.
+HUSBAND: It will be fine I'll think of something.
+HUSBAND: But first I need to watch my show because who would miss FAMOUS.
+FAKE1: Alright dear. (walk to the kitchen)
+TYPEWRITER: 4 minutes later...
+(double bass music)
+FAKE2: Ok everything is now clean what should we do now babe?
+HUSBAND: How about we go start eating dinner?
+HUSBAND: Is dinner ready yet sweetie?
+FAKE1: Yeah just finished making it.
+HUSBAND: Oh yeah I've been starving all day for this.
+FAKE1: One SUPPER for you...
+FAKE1: And one SUPPER for me.
+FAKE2: Hey! Where's my plate?
+FAKE1: Oh I only had enough for me and my HUBBIE I wasn't expecting any visitors.
+FAKE2: Then what am I going to eat?
+FAKE1: I think I saw some bugs in the kitchen maybe you can eat those.
+FAKE2: Oh come on I'm not eating those.
+FAKE1: Well then what do you want me to do?
+FAKE2: You could at least buy me DINNER.
+FAKE2: Or you can give me your plate you look like you don't need it.
+FAKE3: (walk through side door) What's going on down here?
+HUSBAND: Wait who are you?
+FAKE3: I'm your wife.
+FAKE1: His wife?
+FAKE2: What do you mean by "his wife"?
+FAKE3: I mean that he's my husband we're engaged and who are you two?
+FAKE1: I'm his actual wife.
+FAKE2: Nuh uh.
+FAKE1: I can't believe you're still going with this act but he's mine.
+FAKE2: Quit lying! I'm his forever girl.
+FAKE2: Not even CATASTROPHE could stop me from loving him.
+HUSBAND: Can you guys stop arguing for five seconds!?
+(music stops)
+FAKE1: Yes dear...
+FAKE2: Sorry honey...
+HUSBAND: Thank you anyway...
+HUSBAND: Wife number 3 are you good in landscaping?
+FAKE3: Yes I am capable in any task, including wife duties such as TASK.
+HUSBAND: Ok so could you take care of the lawn it's been getting pretty tall.
+FAKE3: Yes sir. (Walk out the door)
+(Chainsaw)
+FAKE3: (walk back in) Task completed do you have any other request?
+HUSBAND: But I just sent you outside how are you done already?
+FAKE3: Like I told you I am capable of "any" task, including TASK.
+HUSBAND: Well I guess make yourself at home.
+FAKE3: Yes sir.
+HUSBAND: And also you don't need to call me "sir" all the time.
+FAKE3: Affirmative I'll keep a mental note of that.
+HUSBAND: And you two do whatever.
+(guitar music 1)
+TYPEWRITER: Several hours later...
+FAKE3: Your bath is ready sir.
+Meanwhile FAKE1: (wash dishes)
+HUSBAND: For the last time you do not need to call me "sir" but thank you. (Walk off stage)
+Meanwhile FAKE2: (sweep the floor)
+(Doorbell)
+FAKE3: (Walk to the front door) Yes who is it?
+WIFE: HUBBIE stop joking around it's dark out here!
+FAKE3: (Open the door) Who are you?
+WIFE: Who am I who are you?
+FAKE3: Who am I? I'm his wife.
+WIFE: What do you mean by "his" wife?
+FAKE3: What I mean is that I'm his wife.
+FAKE2: Hey faker who are you talking to out there?
+FAKE1: Yeah who's that out there?
+WIFE: Wait who are you guys?
+FAKE1: I'm his wife.
+FAKE2: You mean I'm his wife?
+FAKE3: Both of you are incorrect for I'm his wife.
+WIFE: Can I get inside it's dark and cold out here. Excuse me. (walk on set)
+WIFE: Where is he anyway?
+FAKE3: I have prepared him a bath he should be there.
+WIFE: When I get my hands on him...
+WIFE: HUBBIE!!!
+HUSBAND: Yes yes whaaaat.
+WIFE: Care to explain this? (point to the fakes)
+HUSBAND: Wait are you another fake or is this the real you?
+WIFE: Of course, it's the real me.
+WIFE: Look. (show him GIFT) You gave me this GIFT for our anniversary.
+HUSBAND: Oh yeah I forgot I got you that GIFT
+HUSBAND: Why did we got these again?
+WIFE: In case of imposters situation.
+HUSBAND: Oh yeah right...
+HUSBAND: So what am I going to do with the clones...
+WIFE: You know we could use some services around here...
+HUSBAND: What are you thinking?
+WIFE: You'll see...
+WIFE: Hey ladies! Care to join us? (walk of scene)
+Meanwhile HUSBAND: (follow wife off stage)
+FAKE1: It will be a good opportunity to study reproduction. (follow them)
+FAKE2: I mean I don't have anything else to do. (follow them off stage)
+FAKE3: I shall also join in the unknown activity of yours. (follow them off stage)
 
 ======
 
@@ -46807,7 +47261,7 @@ ID: 1500
 TITLE: Loving Surprise
 AUTHOR: Critical Ren
 VERIFIED: True
-TAGS: Skit,Contains Adult Innuendo
+TAGS: Contains Adult Innuendo
 SET: Living Room
 DATE: 02/03/25
 CHARACTERS ================================
@@ -46818,16 +47272,15 @@ CHILD2: Zeke (Child):Couch
 CHILD3: Christian (Child):Couch
 UNCLE: Quinnley (Femboy Uncle):Backstage
 SUGGESTIONS =============================
-LUV: A word to express appreciation or love:Love, appreciate
-OBJ: A funny object:Stick, Rod
-SONG: A love song:Can't Help Falling In Love by Elvis Presley
+OBJ: A funny object:Stick, Rod, donut
+SONG: A love song:Can't Help Falling In Love by Elvis Presley, Gangnam style, YMCA
 ACT: Something you would do with your partner:Kiss, cuddle, hug, smooch
-KID: An unusual or alternative way of obtaining children (past tense):Adopted, Storked 
+KID: An unusual or alternative way of obtaining children (past tense):Adopted, Storked, found on sidewalk
 MOM: Something you would call your mom:mom, mother, momma, female parent
 DAD: Something you would call your dad:dad, father, papa, male parent
 UNC: Something you'd call your uncle:Uncle, unc, uncey
 GIFT: A gift for a partner:Hotpot coupon, cat, candy
-DIN: Name of a restraunt:Hottie's HotPot, QTSenpai's Femboy Hooters
+DIN: Name of a restraunt:Hottie's HotPot, QTSenpai's Femboy Hooters, Denny's
 SCRIPT ==========================================
 ROSE: (Pacing back and fourth, stressed)
 CHILD1: MOM are you okay?
@@ -46836,7 +47289,7 @@ CHILD1: I hope not...
 CHILD3: There's already 26 of us, if MOM KID another one of us-
 ROSE: There's not another child! (Stop pacing and look at the children)
 CHILD3: Sorry MOM , but what's going on?
-ROSE: I'm trying to surprise your father, something to show how much I LUV him, but I'm afraid he might not like it.
+ROSE: I'm trying to surprise your father, something to show how much I love him, but I'm afraid he might not like it.
 CHILD2: That's today? I completely forgot you were doing that!
 ROSE: I want to take him out to eat somewhere, but i don't know where to take him...
 CHILD1: You could take him to DIN or something similar
@@ -46885,7 +47338,6 @@ ROSE: It's almost time for us to get to DIN for supper, shall we leave now?
 MIKE: We shall. (turn to the door and exit.)
 Meanwhile ROSE: (Follow Mike out the door, and close it behind you.)
 UNCLE: So what do you guys want to do?
-Meanwhile MIKE: (Enter audience, facing the stage.)
 
 ======
 
@@ -48669,7 +49121,7 @@ ID: 1549
 TITLE: Book Club
 AUTHOR: Rotem_N
 VERIFIED: True
-TAGS: Skit
+TAGS: 
 SET: Classroom
 DATE: 22/03/25
 CHARACTERS ================================
@@ -48711,7 +49163,7 @@ heavy door knocking
 SOPHIE: I guess that's him (open the right door)
 MC:(Go into stage) Um hey girls. nice to meet you all, I'm NAME.
 happy music 1
-SOPHIE: Well name they are marina, Victoria and Lila, and you know me!
+SOPHIE: Well NAME they are marina, Victoria and Lila, and you know me!
 MC: Yeah
 MARINA: Nice to meet you NAME, Lila give him some FOOD
 LILA: Ugh fine (Gives MC FOOD)
@@ -53021,7 +53473,7 @@ ID: 1697
 TITLE: House Development
 AUTHOR: Carl on Duty
 VERIFIED: True
-TAGS: Skit
+TAGS: 
 SET: Backyard
 DATE: 13/06/25
 CHARACTERS ================================
@@ -53068,6 +53520,7 @@ JIM: 14 Years, and she has been the best thing that’s ever happened to me.
 BIL: I know, she even FAVOR for you
 (laughter)
 WIFE: (ENTERS STAGE RIGHT) Jim are you out here?
+(crowd woo)
 WIFE: Oh Hey Bill… are you practicing OPH?!
 WIFE: I heard that’s really good for your SIMP
 (laughter)
@@ -53179,7 +53632,7 @@ ID: 1707
 TITLE: Memes
 AUTHOR: Jinx Izayoi
 VERIFIED: True
-TAGS: Skit
+TAGS: 
 SET: Western
 DATE: 17/06/25
 CHARACTERS ================================
@@ -53207,7 +53660,7 @@ laughter
 JACK: Listen, I have a mission to complete, so can we get on with our epic clash of swords or whatever?
 MONS: You were sent here by rich old men, to kill me for someone else's ideals, just like the good little soldier you are.
 JACK: (angrily) What are you talking about?
-MONS: (jump from balcony) Free will is a myth. Religion is a joke.
+MONS: (step down from balcony) Free will is a myth. Religion is a joke.
 MONS: We're all pawns, controlled by something greater...
 MONS: Memes! The DNA of the soul!
 JACK: Memes? Oh, you mean like that funny cat I saw online?
@@ -53220,7 +53673,7 @@ MONS: First, that joke is extremely outdated. Get with the times.
 MONS: Second, that's definitely not the type of meme I'm referring to, and you know it!
 JACK: Oh, you're probably talking about those funny dances from SOC or GAME that all the kids are doing.
 MONS: No! I don't even play GAME, what are you- ugh, listen.
-MONS: Memes shape our will. They are the culture- they are everything we pass on.
+MONS: Memes shape our will. They are the culture, they are everything we pass on.
 JACK: So when people type posts on internet forums mocking EVENT...
 MONS: Now there's an exquisite meme! I think you're starting to understand!
 JACK: And when they quote MEDIA over and over so much the original meaning is completely forgotten?
@@ -53907,7 +54360,7 @@ STRONG: Well, we tried to ACTION them last Tuesday..
 STRONG: But they just stood up and walked away.
 laughter
 STRONG: They even knocked my FOOD from my hand..
-COOL: (angry, fist desk) That INSULT!
+COOL: (angry, fist desk) Damn it!
 STRONG: Hey, hey! Be cool SWAVE Devil!
 STRONG: There's been an influx of new Devils we can send to deal with HERO-Man.
 COOL: Oh? What can they do?
