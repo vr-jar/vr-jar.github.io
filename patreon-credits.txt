@@ -2091,7 +2091,6 @@ Reinhold De Fey
 Cinnabear
 LovelyOne
 Ramenǃ
-H0micidal_manIc
 CuriousCharr
 Sexikap82
 Calagon5332
@@ -2606,6 +2605,7 @@ RavenYokai
 Corporatesuckup
 Mech_bones
 SerenaCookie
+HomicidalManiac
 #TIER=2
 Psych_Foxtrot
 shifca
