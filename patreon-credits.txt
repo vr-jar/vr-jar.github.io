@@ -2606,6 +2606,7 @@ Corporatesuckup
 Mech_bones
 SerenaCookie
 HomicidalManiac
+SenseiSnesei
 #TIER=2
 Psych_Foxtrot
 shifca
