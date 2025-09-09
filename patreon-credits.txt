@@ -2581,7 +2581,6 @@ VRCNova
 Medic_Haeschen
 彡Ｂｏｎｅｓ彡
 zombashh
-pyr0theprotogen
 ~~~Noble~~~
 Little Wolfie1
 Agent 30
@@ -2596,6 +2595,7 @@ Mech_bones
 SerenaCookie
 HomicidalManiac
 SenseiSnesei
+LilaTheProtogen
 #TIER=2
 Psych_Foxtrot
 shifca
