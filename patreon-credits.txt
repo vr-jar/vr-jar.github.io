@@ -2616,7 +2616,6 @@ SerenaCookie
 HomicidalManiac
 SenseiSnesei
 LilaTheProtogen
-Shadow_God20
 #TIER=2
 Psych_Foxtrot
 shifca
@@ -2721,6 +2720,7 @@ FemPyro
 ChristHerself
 ༒Yaboim0nk༒
 ʚKყɯιTɯαѕԋɞ
+Shadow_God20
 #TIER=3
 PinballReviewer
 Palmdaddy
