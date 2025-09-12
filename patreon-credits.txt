@@ -2603,7 +2603,6 @@ Medic_Haeschen
 zombashh
 ~~~Noble~~~
 Little Wolfie1
-Agent 30
 Traquarkian
 alison major
 Skelexy
@@ -2621,6 +2620,7 @@ LilaTheProtogen
 BaronVonVoyage
 Warp_The_Synth
 JessKnight
+Eclipse7Glitch
 #TIER=2
 Psych_Foxtrot
 shifca
