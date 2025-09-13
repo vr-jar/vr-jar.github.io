@@ -2607,6 +2607,7 @@ BaronVonVoyage
 Warp_The_Synth
 JessKnight
 Agent 30
+Waffle~fox~girl
 #TIER=2
 Psych_Foxtrot
 shifca
