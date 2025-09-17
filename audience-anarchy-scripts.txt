@@ -50234,6 +50234,143 @@ TYPEWRITER: Some heroes wear capes. Others carry watering cans.
 ======
 
 INFORMATION ===============================
+ID: 1566
+TITLE: Fake Passport
+AUTHOR: -X E R O-
+VERIFIED: True
+TAGS: 
+SET: Forest
+DATE: 25/03/25
+CHARACTERS ================================
+RICK: Rick:Stage Right
+KIM: Kim:Stage Right
+JAMIE: Friend of Rick and Kim:Stage Right
+OFFICER PATROL: Border patrol officer:Backstage
+SUGGESTIONS =============================
+COUNTRY: A foreign country:Germany, Japan, Inda, The Moon,
+HOURS: any number:12, 10, 19, 20,
+DRUGS: weird drug:Lean, Copeium, Weed,
+DODGYSTORE: A suspicious sounding store:Walmart, 7/11, Van on the street
+MONEY: a number:20, 59, 100, 
+TOURISTATTRACTION: A tourist attraction:Eiffeltower,Pyramids, Mountain Foji
+FAMOUSCELEBRITIY: a famous celebritiy:Mia Khalifa, Jamey Oliver, Micheal Jackson
+SKETCHYPLATFORM: social media/platform like OF or Twitter:Feetfinder, Twitter, 2012 tumblr
+FAKENAME: a fake sounding name:Kanye East, Michael Jackson, Karen Smith
+SCRIPT ==========================================
+(bluegrass music)
+RICK: We are almost there guys. We are about to cross into COUNTRY.
+RICK: We just gotta wait out this line and we are golden.
+JAMIE: I know right it only took around HOURS .... hours. Can't wait to stretch my legs.
+KIM: (walk up stage you are next to the driver) yea good thing we left HOURS hours ago or else we still would have been stuck at home.
+JAMIE: Kim?
+KIM: yea?
+JAMIE: That made no sense...
+KIM: I mean i am not wrong am i?
+RICK: Shut up guys, its almost our turn.
+RICK: Everyone got their passports ready?
+RICK: Oh and nobody got like weird stuff on them like DRUGS or anything?
+JAMIE: Nope, I already used up all of my stash.
+KIM: Oh i just wanna remind everyone; my passport is fake.
+(music stops)
+(waterphone)
+KIM: Just in case that makes anyone uncomfortable.
+JAMIE: Wait... did you just say; you passport is fake?
+KIM: Yes?
+(vine boom)
+JAMIE: That is a federal felony you know that right?
+RICK: Where is your real passport?
+KIM: Oh since we are going to COUNTRY I wanted to be sure that my passport won't be stolen so I left it at home where it is safe.
+(vine boom)
+JAMIE: What do you mean you left it at home!
+KIM: Like i said so it is safe, are you not listening?
+KIM: I told you not to take any more of those DRUGS. jeez
+(vine boom)
+JAMIE: Why didn't you say this HOURS hours ago before we left?!
+KIM: I just did, and if that makes you uncomfortable you can just turn around and go back home.
+(vine boom)
+JAMIE: (Angry) Nobody is leaving! We gotta stick together!
+RICK: FAKENAME, your name is FAKENAME?
+(groose music)
+JAMIE: FAKENAME ? Wh- where did you get this passport from?
+KIM: from the DODGYSTORE.
+JAMIE: From the-... We are cooked. We are so cooked...
+RICK: How much did you pay for this fakepassport?
+KIM: Around MONEY dollars.
+RICK: Nah wait, where did you even get MONEY dollars from? You got no job.
+KIM: It doesn't matter where i got that money from.
+KIM: All that matters is that even without a job i can still make people happy with my services.
+(vine boom)
+RICK: What kinds of services- you know what, forget that.
+RICK: We need to figure out how we are gonna fix this.
+JAMIE: Ok listen up!
+JAMIE: We dont know FAKENAME they are just a hobo we met along the way and we were kind enough to bring them along.
+KIM: You guys are stressing me out.
+JAMIE: You should be stressed!
+JAMIE: Oh my god oh my god, we are going to jail.
+RICK: Sssh, we are up next
+(silly music 1)
+OFFICER PATROL: (walks on stage left) Next!
+RICK: G'day sir nice weather we having right?
+OFFICER PATROL: Sure is yea, can i see yalls passports?
+RICK: But ofcourse, here ya go.(hand over the passports)
+Meanwhile OFFICER PATROL: (takes passports)
+OFFICER PATROL: (look at the passenger Kim) So what are yall looking for in COUNTRY
+meanwhile KIM: (wave at officer)
+RICK: Oh just vacation and what not. We wanted to see the TOURISTATTRACTION
+OFFICER PATROL: The TOURISTATTRACTION?
+RICK: Yes?
+OFFICER PATROL: You do realize the TOURISTATTRACTION isn't even in this country, right?
+(vine boom)
+(scary music)
+RICK: O-oh is it not? I-i think we got misguided then. We were told-
+OFFICER PATROL: Also this passport seems...
+RICK: Is-is something wrong sir?
+OFFICER PATROL: No... this can't be...
+Meanwhile KIM: (stressing out)
+OFFICER PATROL: (look at the person in the back Jamie) There is no way.
+Meanwhile JAMIE: (look at officer)
+OFFICER PATROL: (pointing to the person in the back) Are you FAMOUSCELEBRITIY from SKETCHYPLATFORM !?
+(vine boom)
+JAMIE: uuuhhhhh....
+Meanwhile RICK: (whisper to Jamie)Say yes, say. yes.
+JAMIE: Yes thats me i tried to stay undercover actually.
+(badass music 1)
+OFFICER PATROL: Oh my days. I can't believe i found FAMOUSCELEBRITIY in the flash.
+OFFICER PATROL: Please can i have a selfie?
+JAMIE: But yea ofcourse just come this way.
+Meanwhile OFFICER PATROL: (walk towards jamie in the back)
+OFFICER PATROL: I am such a huge fan of your works you have no idea.
+JAMIE: Thank you, thank you i worked really hard. Thats why we can go on vacation at the moment.
+OFFICER PATROL: Oh, can you do like a peace sign for the camera?
+meanwhile JAMIE:(throw a peace sign for the camera)
+OFFICER PATROL: Thank you very much the kids are gonna love this.
+(vine boom)
+JAMIE: No thank you for supporting me.
+OFFICER PATROL: No problem.
+OFFICER PATROL: By the way you guys can go, everthing seems good enjoy your stay in COUNTRY (Leave stage through stage right)
+(happy music 1)
+RICK: Thank you officer have a nice day.
+KIM: Bye officer
+RICK: Holycrap. We made it.
+RICK: Good thing the officer mistook you for FAMOUSCELEBRITIY , right Jamie?
+KIM: Yea i mean i got a fakepassport but you got a whole fake identity thats crazy haha.
+JAMIE: Hm? no it's not fake. I am the real FAMOUSCELEBRITIY
+(music stops)
+(record scratch)
+RICK: What?
+JAMIE: Yea i was not lying i just didnt wanted you guys to find out.
+(silly music 2)
+RICK: Why didn't you tell us?
+JAMIE: Because its embarrassing ok. I don’t wanna be known as FAMOUSCELEBRITIY all the time. It’s just a job to me..
+JAMIE: My manager told me i should be happy with that name but i hate it now.
+JAMIE: I wish i could change it or something.
+KIM: Well.... i know a dank DODGYSTORE that also sells fake ID's
+(laughter)
+RICK: Why am i friends with yall... (Exit)
+
+======
+
+INFORMATION ===============================
 ID: 1568
 TITLE: Haiku Hangout
 AUTHOR: Reddicide
@@ -51266,6 +51403,97 @@ KING VIRGLE: I don't know where that is, but for some reason, I feel sorry for a
 KING VIRGLE: While you're in the CASTLE’S BUILDING, hide the HOLDER Velvo is trapped inside in the deepest darkest aerie you can find.
 KING VIRGLE: And remember, Quill, beware of the CREATURES down there; they will try to eat your BODY PART.
 QUILL: Will do. I can't wait to get out of this generic, badly written Isekai. (Exit stage left)
+
+======
+
+INFORMATION ===============================
+ID: 1596
+TITLE: Medieval Meeting
+AUTHOR: Shamura ʕω ʔ
+VERIFIED: True
+TAGS: 
+SET: Conference Room
+DATE: 05/04/25
+CHARACTERS ================================
+KING: The King of a Great Nation:Boss Chair
+WIZARD: A Powerful Wizard:Backstage
+KNIGHT: Sir Pawnulus, The Head Guard:Office Chair 3
+NOOB: James, A Squire under Pawnulus:Stage Left
+SUGGESTIONS =============================
+CASTLE: kingdom-y sounding name for a kingdom:Petoria, Camelot, HeathMor, Asgard
+RIVAL: kingdom-y sounding name for a kingdom:Chromakopia, Atlantis, Crete, Evil Kingdom Place
+NAMED: wizard-y name:Orphesus, Gandalf, Wanda, Dumbledore
+GOLD: a precious metal, gem, or other substance:Gold, Iron, Emerald, Copper, Diamond, Steel 
+OBJECTA: something you can sell to make money:Metals, FireWood, Weapons, Stone, Water, Armor
+ADJ: an adjective:Mighty, Powerful, Wicked, Manic, Resourceful
+YOUR MAJESTY: a way to refer to a king:your majesty, daddy, mister tough stuff
+SCRIPT ==========================================
+fantasy music 2
+KING: Welcome, my exclusive cabinet to this urgent meeting discussing the fate of our nation CASTLE!
+KING: (Stressed) As you know, our great nation of CASTLE has been ruthlessly attacked by our rival nation of RIVAL!
+KNIGHT: What?! Those dogs dare attack our kingdom! What Village have they Raided? I’ll have my men drive those cowards back at once!
+KING: They haven’t raided any villages Sir Pawnulus. They've attacked something more important...
+KNIGHT: What is it then?! The Mills, the Barracks, the City's walls?!
+KING: Much worse, they've attacked.. (Small Pause) our Economy.
+KNIGHT: (Confused) What?
+KING: (Saddened) They Have Crippeled our trade of OBJECTA, and cut off our trade routes!
+KNIGHT: Okay then, just sell something other than OBJECTA.
+KING: you just don't get it do you Pawnulus? Without our supply line to sell OBJECTA, We'll be broke in a matter of months!
+KNIGHT: (astonished) What do you mean Broke! Then just have me and our men reclaim the supply lines!
+KING: We can't Pawnulus! RIVAL's men destroyed the bridges on the routes! There is no reclaiming them!
+KNIGHT: Well what can we do?! We can't just let RIVAL destroy us!
+NOOB: (Quietly) Well.. we could enlist the help of that man..
+KNIGHT: That man? (Gasp) You don't mean..
+NOOB: NAMED the ADJ
+church bell
+KNIGHT: That old coot! He's a mad man who believes in something as silly as magic! he'll never be of use to CASTLE!
+NOOB: I’m just saying, he could probably fix the bridges if what he says is true.
+KING: Who are you both talking about?
+KING: You! (Point at Squire) Whats your name?
+NOOB: My name is James YOUR MAJESTY, I am a squire under Sir Pawnulus.
+NOOB: Who we talk about is a powerful wizard that lives on the outskirts of the city on the mountains.
+NOOB: They call him "NAMED the ADJ"!
+KNIGHT: (To the Squire) But he's a conman! after all, there has been no report of any "magic" in that area.
+KNIGHT: Not only that, NAMED is currently imprisoned for attempting to steal OBJECTA from one of our caravans!
+KNIGHT: He would be of no help to CASTLE's preindictment!
+KING: You know what. Pawnulus, Bring this "NAMED the ADJ" to me.
+KNIGHT: My king! you surely jest!
+KING: At this point Pawnulus, I'll trust a scoundrel if it'll safe CASTLE's fate.
+KNIGHT: Very well my lord. I will retrieve NAMED from his cell. (Walks OffStage)
+NOOB: Thank you for indulging me YOUR MAJESTY.
+King: This is for the fate of CASTLE . I would do anything to save it.
+TYPEWRITER: A Half Hour Later..
+KNIGHT: (Walk into Stage with NAMED) Here he is YOUR MAJESTY. NAMED the ADJ.
+Meanwhile WIZARD: (Walk with Pawnulus into stage)
+silly music 1
+WIZARD: Greetings YOUR MAJESTY.
+WIZARD: (Proudly) I am the great NAMED the ADJ!!!
+KING: Welcome NAMED! Now I am told you can help us with a problem we have.
+NOOB: Yes NAMED, the bridges that contain our supply line of OBJECTA has been destroyed.
+NOOB: is there any way you can fix the walls
+WIZARD: Hmm..
+WIZARD: Why yes! I can rebuild those bridges for you.
+WIZARD: but it'll take a heavy payment on your part.
+KING: Name your price.
+WIZARD: First I will need an ample supply of OBJECTA.
+WIZARD: Once you have given me the materials, I will use a strong magic to transmute the OBJECTA into pure GOLD to build your bridges!
+KNIGHT: Pure GOLD?
+WIZARD: The very same!
+KING: Very well. It is yours.
+KNIGHT: My liege you must think this through!
+KING: (Angered) You dare question me? This man can save CASTLE and you want me to turn him away?
+KING: James! throw this man in the dungeons! once this is done, we will turn him to GOLD to make a trophy!
+NOOB: But lord, that punishment is absurd!
+NOOB: What would come of turning Sir Pawnulus into GOLD?!
+KING: That is an order boy. Now follow it or I will have you in GOLD as well!
+KNIGHT: You will regret you decisions King!
+NOOB: Yes lord.. (Carry Pawnulus out of stage)
+Meanwhile KNIGHT: (Follow James out of stage)
+WIZARD: You won't regret this YOUR MAJESTY.
+KING: (Raise your hand) May CASTLE Prosper!
+TYPEWRITER: NAMED happened to be a conman working for RIVAL after all
+TYPEWRITER: Once he received the OBJECTA he burned the whole stash and ran off, Leaving CASTLE in a worst position than it was before
+TYPEWRITER: Them's the Breaks!
 
 ======
 
@@ -52621,6 +52849,83 @@ meanwhile CONTESTANT 2: (Checking up on Contestant 1 muttering) NAME FOR A LADY?
 ======
 
 INFORMATION ===============================
+ID: 1660
+TITLE: Barely functional cooking
+AUTHOR: thx2tehSpawn
+VERIFIED: True
+TAGS: 
+SET: Infomercial Kitchen
+DATE: 10/05/25
+CHARACTERS ================================
+MAINCOOK: The main cook:Center Stage
+COOK2: The secondary cook:Stage Left
+SPECIALGUEST: The special guest:Backstage
+SUGGESTIONS =============================
+MEAL: The meal that will be prepared!:omelette, cake, steak, cupcakes
+INGREDIENT: an ingredient:eggs, sugar, flour, seasoning
+EXCUSE: An excuse you'd make to leave:My mom just got hospitilized, I gotta walk my fish, I gotta vacuum the dishes, I just got acute radiation poisoning
+POSITIVE: positive personality trait/description:sigma, epic, cool, amazing
+TIME: an amount of time:5 minutes, 2 hours, 10 goptillion minutes
+MONEY: An amount of money:50 dollars, 1000 billion dollars, 2 vbucks, 2000 robucks
+SCRIPT ==========================================
+70s music
+MAINCOOK: (Look around the scene, then turn to the other chef) God damn it where are the INGREDIENT at???
+COOK2: Hell if I know, we're starting the recording anyway come on, get yourself together.
+MAINCOOK: Okay, okay whatever.
+MAINCOOK: (Turn to the audience and put on a happy and jolly persona) WELCOME EVERYONE, Boys and girls, ladies and gentlemen, anyone above the binary spectrum!!!!!
+COOK2: (muttering) Oh my god...
+MAINCOOK: Today, me and my assistant here are starting a WONDERFUL new cooking show because we are very POSITIVE.
+MAINCOOK: ALSO!!! We have a very, VERY special guest with us today!!!
+COOK2: Yeah, speaking of them, where are they? They were supposed to be here like... (checks wristwatch) ...TIME ago...
+MAINCOOK: Yeah, whatever we can start without them, It'll be fine!
+SPECIALGUEST: (Enter Stage Right dramatically panting and exhausted like) God... (huff) Sorry I'm... (wheeze) ...late.
+COOK2: Wow, if it isn't our special guest...
+SPECIALGUEST: (huff and cough dramatically) I'm sorry, not my fault your kitchen set up is like TIME away from my house!
+COOK2: Same amount of time you were late... How convenient.
+MAINCOOK: Whatever, let's just begin. (Turn back to the audience.) Today we are gonna be cooking MEAL! Yum!
+SPECIALGUEST: Oh, but... I can't make that...
+MAINCOOK: (Pull guest aside very seriously) That is the whole point of this cooking show! Are you serious?
+MAINCOOK: You are supposed to know how to make these dishes before you even sign up!
+SPECIALGUEST: (sniffle and look away from the main chef) im sorry.
+COOK2: Whatever, come on let's just get started...
+double bass music
+SPECIALGUEST: (approach stove) wow I've never operated one of these before!!!
+COOK2: Please dont break it, I payed MONEY for that...
+MAINCOOK: Yeah um, don't... don't break it. Anyways! I'm gonna go see if I can find the INGREDIENT we're looking for, for the um...
+MAINCOOK: the MEAL because we really need that, I'll be right back! (Exit Stage Left)
+COOK2: (sigh dramatically) Welp, it's just us now.
+SPECIALGUEST: Hell yeah!!!
+SPECIALGUEST: Oh boy, I cant wait to start cooking!
+SPECIALGUEST: Y'know I've been wanting to start cooking for a while, but never got around to doing it... but ever since I got invited here I can finally start practicing!
+Meanwhile COOK2: (approach counter and start preparing food) Mhm... yeah... yup... cool...
+SPECIALGUEST: Right, hang on... what were we preparing again?
+COOK2: (slowly turn to the special guest, irritated) we're making MEAL, you idiot.
+SPECIALGUEST: (sadly) Not my fault I'm forgetful...
+COOK2: Whatever, can you come over here and help me prep this stuff?
+Meanwhile MAINCOOK: (Enter Stage Left) Hey guys! Guess what... I found INGREDIENT!!!!!
+COOK2: why did you take so long my guy.
+MAINCOOK: Haha!! No reason. Anyways, now that we have all our ingredients, we can finally start actually cooking the MEAL!
+COOK2: Good, I'm starting to fossilize sitting here...
+Music Stops
+cellphone vibrate
+silly music 2
+SPECIALGUEST: Hang on bro-tosynthesis I gotta take this phone call
+COOK2: Oh my god dude...
+SPECIALGUEST: (Nod and listen to phone) Mhm, mhm, yes...
+MAINCOOK: (Whisper to second chef) are we seriously going to let this slide
+Meanwhile SPECIALGUEST: Yeah yeah, okay... yeah...
+COOK2: (whisper back) I don't know, YOU'RE supposed to be the host here.
+SPECIALGUEST: (turn to the two chefs) HAHA sorry guys, um... EXCUSE so I gotta leave.
+COOK2: What!?
+MAINCOOK: You can't just?? LEAVE in the middle of a COOKING SHOW????
+SPECIALGUEST: Well, yeah... I know... But like... EXCUSE......
+COOK2: Oh my GOD (put head in hands sadly) we're never gonna be successful after THIS...
+MAINCOOK: calm down it'll be okay... (put hand on the other chefs back)
+Meanwhile SPECIALGUEST: (exit Stage Right) La la la!
+
+======
+
+INFORMATION ===============================
 ID: 1663
 TITLE: The Interview
 AUTHOR: komio223
@@ -52684,6 +52989,97 @@ INT: NAME, is there anything you would like to say to the people out there befor
 VIP: Yes. CHAOS.
 INT: And there you have it! Thank you for joining us tonight and I hope to see you again tomorrow for another amazing interview like this. Goodbye!
 gameshow outro
+
+======
+
+INFORMATION ===============================
+ID: 1665
+TITLE: Landlords and Larpers
+AUTHOR: Wolfenstin
+VERIFIED: True
+TAGS: 
+SET: Living Room
+DATE: 16/05/25
+CHARACTERS ================================
+TIM: Confused Resident:Entrance Stage Left
+GEORGE: Larping Roommate:Couch
+LANDLORD: The Landlord:Backstage
+SUGGESTIONS =============================
+KING: Name of a king:Lord Farquad, King James, King John
+RESTAURANT: Name of a restaurant:McDonald's, Big Bagel Backstreet, The Flowing Bowl
+FANTASY WORLD: Name of a fantasy land:Cyrodill, Middle Earth, Azeroth, Eorzea
+GREAT EVIL: The name of a great evil:Satan, The Dark Lord, Cthulhu 
+STRANGE FOOD: Name of an odd food:Snails, Chocolate Ants, Funny Brownies
+BAD THING: A discomforting scenario or thing:Mondays, Stuck in traffic, Wet Socks
+WEAPON: A melee weapon of any kind:Cricket Bat, Frying Pan, Lightsaber
+INCORRECT NAME: A fantasy name:Jud the Portly, Gargol the Smasher, Jaqen the Wise.
+STABBING OBJECT: A harmless 'weapon':Butter Knife, Rubber Sword, Stick
+BATTLE CRY: A phrase you'd say in battle:"Have at thee", "Huzzah," "Die cur!"
+THREAT: a phrase you'd say to threaten someone:I'm gonna get ya, You're dead punk, run if you know what's good for you
+SCRIPT ==========================================
+(fantasy music 2)
+GEORGE: (Sitting on the couch) My death comes soon. I have foreseen this day. It is a day I have dreamed of for many years.
+TIM: (enters room) Hey George. The landlord is going to be by in about 10 minutes for the rent. I'm going out for lunch.
+TIM: You want anything? I'm going to RESTAURANT.
+GEORGE: I go to my grave. A cold, unceremonious end. The hour is upon me, and I fear my time is short.
+TIM: What are you talking about? RESTAURANT isn't that bad. I eat there every week!
+GEORGE: (look at Tim) You, I've seen you. You are the one from my dreams, then you must be the hero I seek.
+GEORGE: The hero that will deliver us from the tyranny of GREAT EVIL.
+TIM: Are you feeling okay? You didn't eat another STRANGE FOOD, did you?
+GEORGE: I am not George. I am your King, KING. FANTASY WORLD needs a brave hero to save her and her people in her hour of need.
+GEORGE: What is your name, hero?
+TIM: George. You know my name. I'm Tim.
+GEORGE: Of course, INCORRECT NAME. I have heard this name in my many dreams. Time is short INCORRECT NAME.
+TIM: You're crazy. (Start to walk towards door).
+GEORGE: (Stand in front of the door).
+(thunder)
+(Music stops)
+(epic fantasy music 2)
+GEORGE: You cannot leave yet! GREAT EVIL approaches. My death comes closer every moment. You must ready yourself, INCORRECT NAME.
+GEORGE: For when I am gone, you will be the only one that can stand against GREAT EVIL.
+TIM: What are you talking about?
+GEORGE: I suffer from visions of a desolate future. Where FANTASY WORLD is ruled by GREAT EVIL.
+GEORGE: The innocents of this world will be forced to endure BAD THING.
+(music stops)
+(knocking on door)
+TIM: Well there's the landlord.
+TIM: (Open the door)
+Meanwhile GEORGE: (terrified) It is him!
+LANDLORD: Rent's due, need it now before- (look over at George) What's wrong with him?
+GEORGE: My time has come! GREAT EVIL has come to slay me and deliver BAD THING upon us all.
+LANDLORD: (Step inside) Who is GREAT EVIL? And why are they delivering BAD THING?
+TIM: He thinks he's a king named KING who is the king of FANTASY WORLD and I'm his champion, INCORRECT NAME who is supposed to slay GREAT EVIL with the WEAPON.
+LANDLORD: Is that so?
+(thunder)
+(epic fantasy music 3)
+LANDLORD: Long have I waited for this day. The day I slay KING and plunge FANTASY WORLD into darkness with me, GREAT EVIL as it's ruler! (Evil cackle).
+TIM: Am I on one of those candid camera shows or something here?
+GEORGE: INCORRECT NAME, we are out of time. (hand WEAPON to Tim). I can go no further, you alone must stand against GREAT EVIL.
+TIM: (take WEAPON) Why were you carrying a WEAPON around in your pants?
+LANDLORD: (Pulls out STABBING OBJECT)
+(draw sword)
+LANDLORD: (Attack George) Haha! At last, I shall end you, KING. Die you fool!
+(knife wound)
+GEORGE: (Stumbling) INCORRECT NAME, use the WEAPON! It is our only hope... (collapses).
+TIM: Ralph! You just stabbed my roommate! With a STABBING OBJECT...?
+LANDLORD: Fool! I have just doomed FANTASY WORLD with the death of KING! Now this world will be full of BAD THING!
+TIM: Ralph, you need to stop or I'm going to use this WEAPON on you.
+LANDLORD: You think you can defeat me? GREAT EVIL? (Long evil laugh). You shall know pain when I am finished with you, INCORRECT NAME.
+TIM: (engage in battle with GREAT EVIL) THREAT!
+Meanwhile LANDLORD: (Battle with Tim).
+(sword fighting)
+LANDLORD: This cannot be! The WEAPON gives you too much power! No matter, this will be swift. BATTLE CRY!
+TIM: Yeah? BATTLE CRY to you too! (hit GREAT EVIL hard).
+(anime sword gleam 2)
+LANDLORD: You will rue this day INCORRECT NAME, for when you least expect it I will return to exact my revenge! ('dies').
+(music stops)
+TIM: Okay then. So, I'll just leave the money under your door, yeah?
+(bard music 2)
+GEORGE: You are victorious INCORRECT NAME. My death will not be in vain this day. You have triumphed over evil and have earned the right to your RESTAURANT.
+TIM: Dude, he poked you with a STABBING OBJECT. You're not dying.
+TIM: Whatever. I'm going to RESTAURANT. I'm starving and they close in thirty minutes. You want anything?
+GEORGE: Sure. Can you pick me up some STRANGE FOOD?
+TIM: Absolutely not. (Exit)
 
 ======
 
@@ -53358,6 +53754,94 @@ ROBBER: (Slowly realizing...) Darn it, I didn't get the A THING! (cries off stag
 ======
 
 INFORMATION ===============================
+ID: 1693
+TITLE: Triggering strangers 
+AUTHOR: The Durge
+VERIFIED: True
+TAGS: 
+SET: City
+DATE: 09/06/25
+CHARACTERS ================================
+S1: Person who gets beat up:Center Stage
+S2: Slightly crazed man:Entrance Stage Left
+S3: Seemingly normal individual :Backstage
+SUGGESTIONS =============================
+NOUN: A slang term to a friend:Flippin friendo, buddy, amigo, Joe shmoe, president elect Harry Trueman, Oprah, King
+ANIMAL: Animal:Raccon, Sponge, Tiger, Furry
+THING: Someplace to leave a note:Bathroom mirror, sandwich, 
+VERBING: Verb ending in "ing":Escaping to work at Freddy Fazbear's , larping, pumping, yodeling 
+PLACE: A place :Morrowind,  Maddison square garden, Japan, New Mexico
+ANOTHER: A far away place:Flavortown, Paris, Antarctica, 
+EPIC: A really cool place:Mianus Connecticut, The Hatman's house, your mom's basement, 
+WORK: Workplace:The magical realm of walmart , job factory, Unlcle Ricky's bad boy room, Taco bell, 
+EXIT: Thing said when making an exit:Blue skadoo we can too!, I have committed tax fraud, scooby dooby doo!, here i come in am Cinnamon!
+LOVE: Adjective describing partner:Lovely sweet, hot, snotty, lethargic 
+BUS: Mode of travel:Venga Bus,  escalator, Invisible boat mobile, 
+NAME: A name:General Munchkin man, Larry, Mr The Jeff, Todd Howard, Jeff the Killer 
+SCRIPT ==========================================
+French music
+S1: Hiya NOUN
+S2: Did you call me NOUN? Why…NOUN… Ihaven't been called that in years
+S2: You know NOUN, I was once like you; all friendly and happy. Ah but it wasnt always so.
+S1: Oh? Watcha mean friend?
+S2: Well, I was once a married man, until th..that...ANIMAL came and destroyed all the happiness I'd ever known.
+S2: I came home from working at WORK and there was a note on my THING.
+S1: What did the note on your THING say?
+S2: It said she was VERBING with NAME.
+S1: Well that's really non of my business.
+S2: (Becoming irate)I was obsessed with finding them both of them. The trail led me to PLACE , ANOTHER, and Ohio!
+S1: Well i erm... ought to get going.
+S2: Then, finally, I found them…they were in EPIC...
+Waterphone
+S2: (Beating up stranger) EPIC !
+Meanwhile S1: (Get absolutely wrecked in fight) Ow! Take it easy, oh my god!
+Fistfight
+S2: (comes back to their senses) sorry…sorry… it's that…that…place!
+S2: every time I hear it I just start swinging
+S1: yeah, no kidding
+S1: (to self, about to walk off) must be on something. How nice and dandy, I listen to his story and just becsuse he hears EPIC
+Waterphone
+S2: EPIC ?!? EPIC ?!? (follow your heart)
+Meanwhile S1: (Unhappy sound, you know what's next)
+Fistfight
+S2: Oh no, not again… I have to… i can't get caught… I must go!!! EXIT (Exit stage left)
+S1: (Get up, fixing yourself) I really should just take the BUS next time.
+S3: (Enter stage right, bumping into the stranger)
+Meanwhile S1: (turn and gets bumped into) Oh, pardon me NOUN
+S3: Hm...NOUN? Well it's been ages since anyone has called me NOUN!
+S1: What? Really, You dont have any friends?
+S3: Well yeah, that's actually what I was here for. He tried to take my LOVE lady away from me, I almost got away… but I got followed….
+S1: To PLACE?
+S3: Yes?....
+meanwhile S1: (shocked sound)
+S1: And then to ANOTHER, Ohio and your name is NAME?
+S3: Yeah actually… h‐how did you know?
+S1: Oh I have my ways… then he caught you in EPIC… oh god no!!!!
+Meanwhile S3: (the moment you hear EPIC start punching the stranger) Aaaaaah!
+Fistfight
+S2: (Enter stage left) what's going on over here? I heard….
+S2: It's you!
+Meanwhile S3: It's you!
+S2: Why you!
+Meanwhile S3: I outta!
+S2: (shake hands)Hiya NOUN!
+Meanwhile S3: (shake hands) Hiya NOUN !
+S2: I almost caught up with you in ANOTHER.
+S3: Well my LOVE was supposed to tell you on that note on your THING.
+S2: Hm, perhaps I misread it. I did come back from WORK.
+S1: (exhausted) Go ahead, say where you found each other.
+S3: Forget about it, it's past history!
+S1: Why you cowards, you're afraid to say EPIC!
+Waterphone
+S1: uh oh (step away from the two crazy people)
+S2: Aaaaaaaaaah!
+Meanwhile S3:  Aaaaaaaaaah!
+Fistfight
+Applause
+
+======
+
+INFORMATION ===============================
 ID: 1694
 TITLE: A Dream Come True
 AUTHOR: zanbbit
@@ -53624,6 +54108,87 @@ double bass music
 BOY: Wait, aren't those SHOE's that human had the reason PLANT went extinct on earth?
 GIRL: I'm not sure, I never paid attention to extra-terrestrial history in class.
 BOY: Either way, I guess that SHOE's really suck alot!
+
+======
+
+INFORMATION ===============================
+ID: 1701
+TITLE: Stranger Danger!
+AUTHOR: Rotem_N
+VERIFIED: True
+TAGS: Contains Adult Innuendo
+SET: Classroom
+DATE: 15/06/25
+CHARACTERS ================================
+TEACHER: The teacher:Teacher Desk
+GIRL: The girl student:Desk 2
+BOY: The boy student:Desk 1
+STRANGER : The stranger:Backstage
+SUGGESTIONS =============================
+SUBJECT : A school subject:Math, English, history
+GIRL: A name:Sarah, Mal, Evie
+BOY: A name:Noah, Carlos, Chad
+STRANGER : Something a stranger online would ask you to do:Tell him your address, asks for your mom credit card, Give you an unknown link
+SOMEBODY: A somebody :Mother, sister, brother
+NAME: A name:Phil, Luke, Jay
+APP: An app:Tinder, Instagram, telegram 
+CANDY: A candy:Chocolate, lollipop, dounts
+USER : A player or account username:Cooldude1, Unicornking, Gamer123
+SCRIPT ==========================================
+70s music
+TEACHER: Well dear students.
+TEACHER: As you all know by now, today were not going to do SUBJECT class.
+TEACHER: Our students GIRL and BOY are going to do a presentation about strangers online.
+TEACHER: Listen carefully, GIRL BOY come to the front of the class.
+GIRL: (Go to center stage) Hey class!
+Guitar music 1
+BOY: ( Go to center stage) Today we are going to teach you on what not to do online!
+GIRL: Firstly if a stranger asks you to STRANGER.
+BOY: You dont agree! And you should block him, And tell SOMEBODY
+GIRL: Also to give you a better example we have brought an actual stranger!
+MUSIC STOPS
+record scratch
+TEACHER: A what?
+Vine boom
+BOY: A stanger!
+Break down door
+STRANGER: (Go into stage right) Sup.
+STRANGER: Hi I'm NAME.
+applause
+corporate motivational music
+GIRL: We have met NAME in an app called APP.
+BOY: When we first met him, we asked him for help with our class project.
+BOY: When he asked what age are we, he got really excited and wanted to meet us!
+emotional piano music
+STRANGER: You know, I really have waited for the day that I will finally meet these two kids.
+STRANGER: After the presentation I'll take all the kids to my truck for CANDY!
+crowd woo
+TEACHER: Kids I think this man should go home, Sir you should go.
+STRANGER: Nope I don't feel like it.
+STRANGER: By the way, me and the kids have worked on a song.
+record scratch
+TEACHER: What song?!
+BOY: Let me start! (go to center stage about to sing)
+western piano music 1
+BOY: (Singing) ♪ I got a DM from USER, Said he's my mom’s friend? ♪
+GIRL: (Singing) ♪ What a scam! ♪
+GIRL: He's a liar, it never ends
+STRANGER: (Singing) ♪ Cause their mother doesn't have any friends! ♪
+BOY: ♪ Stranger Danger dot com, click on "block" and tell your mom! ♪
+GIRL: ♪ They might be bots or a really old man! ♪
+Tada
+BOY: So dear class.
+Happy music 1
+GIRL: We hope you all have learned, about what not to do with strangers online.
+STRANGER: Kids are we done here?
+BOY: Yeah!
+STRANGER: So kids my truck is outside and I have CANDY in it.
+STRANGER: Come with me! (Exit stage)
+GIRL: Yay CANDY! (Exit stage)
+BOY: I can't wait to eat some CANDY! (exit stage)
+Silly music 1
+TEACHER: Shouldn't I stop them?
+TEACHER: Nah, I didn't like them or my job anyways.
 
 ======
 
@@ -54244,6 +54809,66 @@ WIZARD: Now, I believe it's about time you you do that dare I told you about.
 LOCK: Oh yeah, our dares. What was yours's again?
 WIZARD: DARE.
 LOCK: Welp...A deal's a deal.
+
+======
+
+INFORMATION ===============================
+ID: 1723
+TITLE: Last-Minute Presentations
+AUTHOR: bobadrawz.
+VERIFIED: False
+TAGS: 
+SET: Classroom
+DATE: 29/06/25
+CHARACTERS ================================
+STUDENT 1: Improvising Student Presenter - Link:Desk 1
+STUDENT 2: Student Presentation Partner - Allen:Desk 2
+STUDENT 3: Nerdy Bully - Chester:Desk 3
+TEACHER: The Underpaid Teacher:Teacher Desk
+SUGGESTIONS =============================
+SUBJECT: A school subject:English, Mathematics
+EXPRSION: Something to say when you forget:Snap, Shoot, Darn
+TNAME: A last name:Bob, Buford, Lucy
+PUNISH: A horrible punishment:Death, Spanking Ruler
+PRSNTATION: A presentation idea:Pickles, Photosynthesis
+TOPIC: A random topic:Shoes, Tax Foreclosure
+SCRIPT ==========================================
+70s music
+TEACHER: Ok, listen up, kids! I hope you've all got your brains going and came up with your SUBJECT presentations...
+STUDENT 1: Oh, EXPRSION! I totally forgot that I even had to do this presentation! What am I gonna do?!
+STUDENT 2: You mean.. WE forgot to do the presentation?
+STUDENT 3: Haha, you fools! I'll definitely snitch on you both and get you guys sent to the lair of the dean!
+STUDENT 1: Oh no, you won't..
+Music Stops
+TEACHER: Silence, you nimrods! Now.. who will I pick first..
+tense cinematic music
+STUDENT 1: (Gulps loudly) Uhm... oh no.. (Turns to face Allen beside him) What the hell do we do?!
+STUDENT 2: Don't worry.. just don't make eye contact with Miss. TNAME.
+STUDENT 2: (Starts becoming fascinated with his notebook) Uh-huh.. this is really interesting..
+Meanwhile STUDENT 1: (Stressing out, holding his head) Shoot, shoot, shoot..
+Music Stops
+TEACHER: (Points at both students stressing) YOU TWO!
+thunder
+scary music
+STUDENT 1: Oh, EXPRSION. Uh.. you sure, Miss. TNAME?
+TEACHER: Why not? You both seem.. eligible to be showing off your beautiful presentations.
+TEACHER: Unless.. I might be wrong. If so..
+TEACHER: I shall consider either summoning you to the dean's office, or PUNISH.
+STUDENT 1: Oh no, we definitely did it! R-Right.. dude?
+STUDENT 2: Yeah! We spent a-all week doing it! (Laughs uncomfortably)
+TEACHER: (Walks towards both students) Good... now, come up here and show us your presentation.
+STUDENT 1: (Feeling defeated, whispers while walking to the chalkboard) Expect disappointment and you won't be disappointed..
+STUDENT 2: (On the verge of crying, while walking to the chalkboard) I thought that w-would work..
+TEACHER: (Walks to the Center Stage) I'm ready to see this.
+STUDENT 1: So.. PRSNTATION! Am I right? Who doesn't love PRSNTATION!
+STUDENT 1: It's like.. TOPIC plays a big part in PRSNTATION, and like.. makes it happen, I guess?
+STUDENT 2: (Whispers) Is this really the only thing you could come up, Link?
+STUDENT 1: (Whispers) Just go with the.. flow.
+STUDENT 2: Uh.. yeah! To do it, you just put TOPIC in the PRSNTATION and then.. some stuff will happen.
+STUDENT 3: HAHA! You cannot do your presentation in the correct manner!
+STUDENT 1: Shut up, Chester! You don't know what you're talking about!
+TEACHER: You know what, I agree with the smart kid, this presentation blows. I'll see you both after class.
+TYPEWRITER: After school hours, both Allen and Link were found in a dumpster, behind the school courtyard.
 
 ======
 
