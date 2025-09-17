@@ -52950,7 +52950,7 @@ ID: 1675
 TITLE: Dungeons & Disasters
 AUTHOR: komio223
 VERIFIED: False
-TAGS: Skit
+TAGS: 
 SET: Forest
 DATE: 19/05/25
 CHARACTERS ================================
@@ -53051,7 +53051,7 @@ lacrimosa music
 BAD: (Evil laughter) Watch! For this is but an ounce of my true power! You do not stand a chance against me!
 record scratch
 Music stops
-MAGE: What the fuck, Richard? Did you have to die like a fool?
+MAGE: What the hell, Richard? Did you have to die like a fool?
 SEX: Honestly, I did. I gotta go. (Leave using the stage left entrance then go back and leave again through the other entrance)
 DM: This is unbelievable. Then I guess it's you two, now. What do you wanna do?
 tense cinematic music
