@@ -1876,7 +1876,6 @@ HelloSERP
 M00nZツ
 BL_Bird
 EmmyFC
-§-Narwhal-§
 Uv2x
 Elliot-VR
 Dimkow
@@ -2031,6 +2030,8 @@ Annihilater48
 blastramyo
 Gawrr
 Cubix-
+LadyDeathWolf
+シzyphorシ
 modNick
 ruralists
 #TIER=1
