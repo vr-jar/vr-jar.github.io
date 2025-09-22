@@ -55330,3 +55330,746 @@ MAX: (Peeps back into the stage) Thank god! And that is why I take my SUB for gr
 
 ======
 
+INFORMATION ===============================
+ID: 1768
+TITLE: Sneezing Mania
+AUTHOR: Jayce_4
+VERIFIED: True
+TAGS: 
+SET: Backyard
+DATE: 22/07/25
+CHARACTERS ================================
+DAVE: Dave, allergic man:Entrance Stage Left
+JUSTIN: Justin, cook:Grill
+EDDY: Eddy:Backstage
+SUGGESTIONS =============================
+ALLERGY: The thing that a person's allergic to :Pollen, cats, women, perfume, fish
+TYPE OF CURE: a cure for the allergy:Benadryl, thinking really hard, farting, poison
+MILK: Type of milk:Chocolate, rat milk, lizard, human, strawberry
+STORE: A store that you would go to:Dollar tree, walmart, amazon dot com, wendy's
+INGREDIENT: A secret ingredient:Crabs, love, hatred, grass, dog food, australian jerky
+MORAL: The moral of the story:Always remember to believe in yourself, do not die because if you do that is bad, always use a VPN when torrenting
+SCRIPT ==========================================
+TYPEWRITER: August 6th, 2009
+australian music 1
+JUSTIN: What a nice Sunday for cooking Some nice old sweet bbq!
+JUSTIN: All I'm gonna have to do now is add the finishing touches.
+JUSTIN: That just reminded me. I almost forgot to get my secret milk recipe, MILK
+cellphone vibrate
+JUSTIN: Oh, hey. It's Dave
+music stops
+dark classical music
+DAVE: Hey, I'm so sorry Justin but I cannot come to your barbecue party today
+JUSTIN: Oh, that's okay. But why?
+DAVE: Achoo! It's my allergies. Its that goddamn hay fever season, and I think I'm allergic to ALLERGY
+JUSTIN: Oh, that sucks for you, Dave. We were gonna have a Nice old cup of MILK
+DAVE: Wait, Did you just say MILK?
+JUSTIN: Uh yeah, I did
+DAVE: No, Never mind. I will- Achoo! come.
+JUSTIN: Well, Dave, you don't look so good. You have a really bad allergy and plus, I can see your nose running like crazy. But I'll still let you go
+JUSTIN: Besides, if you're gonna come anyways, I have a box of tissues. I guess I'll see you there
+DAVE: Alright, Justin, I'll get you there in a minute!
+music stops
+corporate guitar music
+DAVE: Well if I'm gonna get my allergies worse, I should probably take this TYPE OF CURE with me
+DAVE: I wish there was more in the STORE
+DAVE: Well, it's gonna restock by tommorow!
+TYPEWRITER: 1:06 P.M
+music stops
+break down door
+bluegrass music
+DAVE: (Go to Neighbor's yard) Hey justin!
+JUSTIN: Oh. Hey Dave. I didn't see you here.
+DAVE: Watcha cooking?
+JUSTIN: Oh, I'm cooking off bbq! It's an old family recipe.
+DAVE: It looks so good
+DAVE: And what is that secret ingredient?
+JUSTIN: It's just a INGREDIENT mixed with mustard
+DAVE: Achoo! Of course my allergies are getting worse!
+DAVE: It's really stupid If you may ask
+TYPEWRITER: After adding the finishing touches
+JUSTIN: Here we are! A freshly-made barbecue. With a stack of the INGREDIENT Mixed with mustard
+DAVE: Oh, this looks so good!
+music stops
+DAVE: ah..
+DAVE: AHH
+DAVE: Oh, never mind. We're good.
+TYPEWRITER: 1 millisecond later
+DAVE: ACHOO!
+crashing debris
+JUSTIN: (angry) Come on, Dave! You know I spent a whole hour working on that!
+JUSTIN: That's the reason I told you not to go here!
+JUSTIN: (chills out) But it's fine. I have backups
+double bass music
+JUSTIN: Have you brought your cure?
+DAVE: oh, the TYPE OF CURE!
+DAVE: Yeah, I've brought that there!
+JUSTIN: Oh, thank God!
+EDDY: Well it's fancy meeting you people!
+DAVE: What's good Edd?
+EDDY: Nothing really much, Just walked out of my local STORE A few hours ago.
+DAVE: Oh well that's okay, I wonder if you got any TYPE OF CURE i could use?
+EDDY: I got plenty!
+music stops
+dark classical music
+DAVE: So you had The cure the whole time?!
+EDDY: Well, of course I had, you dingus
+DAVE: Well, maybe I guess that is what can happen.
+TYPEWRITER: 5:00 P.M
+JUSTIN: What a nice party that was!
+DAVE: Oh, you bet! That party was amazing! I really cannot wait to come back later!
+DAVE: (Turn to audience) The moral of the story is MORAL
+Meanwhile JUSTIN: (Turn to audience) The moral of the story is MORAL
+
+======
+
+INFORMATION ===============================
+ID: 1773
+TITLE: The Hero No One Asked For
+AUTHOR: LoonaWusky
+VERIFIED: True
+TAGS: 
+SET: Backyard
+DATE: 04/08/25
+CHARACTERS ================================
+MOM: frustraded mom:Grill
+SUPERHERO: ineffective superhero:Backstage
+NEIGHBOR: chill neighbor:Entrance Stage Left
+SUGGESTIONS =============================
+HOUSEITEM: A household item:Potted Cactus, Little Chair, Celling Fan
+LANGUAGE: A language:French, Korean, Spanish
+SUPERNAME: Strange superhero name:Trash-man, The Walking Tree, Laser Dude
+HEROATTACK: A unique hero attack move:Kamehameha, Domain Expansion, Ultra Smash
+METALOBJECT: Object made of metal (Plural):Forks, Needles, Robots
+HEROTWO: A cool hero name:Batman, Human Torch, Moon Knight
+TOOL: A tool:Sledgehammer, Wrench, Giant Drill
+MACHINEPART: A part of a machine:Gear, Hard Drive, Motherboard
+BREAKFASTFOOD: Breakfast food:Eggo Waffle, Pancake, Muffin
+POWERSOURCE: A power source:Can of Radiation, Huge battery, Running Hamster
+BIOME: A biome:Swamp, Desert, Savanna
+ADJECTIVE: An Adjective:Awesome, cool, terrifying
+SCRIPT ==========================================
+70s music
+MOM: (Pokes broken grill with spatula and sighs)
+MOM: Ugh! First the burgers burned, then the gas ran out, and now this thing is deader than my grandma’s HOUSEITEM
+MOM: I’ve tried everything! Duct tape... a wrench... yelling at it in LANGUAGE...
+MOM: You know what? I saw someone on the news—maybe he can help. What was his name again? Oh! Right!
+MOM: (Looks up and yells) SUPERNAME!!
+Teleport SUPERHERO to Sandbox
+alien teleport
+superhero fanfare
+SUPERHERO: (Looks around and then at the mom confidently.) I have arrived!
+bird screech
+SUPERHERO: You called for justice! You called for hope! You called... for me! What’s the problem, citizen?
+MOM: My grill’s broken. Can you fix it?
+SUPERHERO: (Nods) With great power comes great BBQ skills!
+SUPERHERO: (Walks to grill and extends hands) Prepare for the mighty powers... of the cosmic HEROATTACK! (Uses HEROATTACK)
+Music Stops
+crashing debris
+courtroom music
+MOM: What. Was. That?! (Angrily points at SUPERNAME)
+SUPERHERO: Grill’s fixed. You’re welcome.
+MOM: You turned it into a pile of METALOBJECT.
+SUPERHERO: I thought it looked more... dynamic.
+MOM: I’m going to get takeout. If the lawn's on fire when I get back, I’m calling a real hero. Like HEROTWO or something.
+MOM: (Walks back in house.)
+guitar music 1
+NEIGHBOR: (Enters the yard) Wassup SUPERNAME! I heard a very loud sound outside. Was that you?
+SUPERHERO: Of course! But have no fear. I shall try other ways to fix this hunk of junk!
+SUPERHERO: Maybe powers aren’t the answer. (Pulls out TOOL) My TOOL shall help!
+SUPERHERO: (Attempts to fix grill with TOOL) This goes here… this part probably shouldn’t be hissing… okay, now I twist the MACHINEPART...
+explosion
+SUPERHERO: Okay that didn't work... I need to think like a barbeque. BE the barbeque.
+SUPERHERO: (Looks up with an idea) Wait... I can be the barbeque!
+magic sound
+SUPERHERO: (Transforms into a grill) I am… GrillMan. Half hero. Half GRILL. 100% ready to roast!
+NEIGHBOR: (Leans over fence surprised) Wait... did you just turn into a grill?!
+SUPERHERO: Yes. Also, please don’t put a BREAKFASTFOOD on me. That was traumatic last time.
+NEIGHBOR: Whatever, man. Got any burgers?
+SUPERHERO: Only justice-burgers. Powered by righteousness... and probably a POWERSOURCE.
+superhero music
+MOM: (Enters the yard again) I left for seven minutes. Why is my backyard a smoking BIOME and why is my grill talking?
+SUPERHERO: I am the grill now. Go ahead—try grilling a steak of ADJECTIVE -ness.
+NEIGHBOR: Ooh I want one! And maybe some BREAKFASTFOOD too?
+MOM: (Exhausted) I’m never asking for superhero help again. (Leaves and goes in house)
+fire alarm
+SUPERHERO: Well... anyone want a burnt BREAKFASTFOOD?
+Neighbor: YES!
+
+======
+
+INFORMATION ===============================
+ID: 1786
+TITLE: Idiotic Criminal
+AUTHOR: mapleRB
+VERIFIED: True
+TAGS: 
+SET: Interrogation Room
+DATE: 08/08/25
+CHARACTERS ================================
+COP: Interrogating detective:Corner Right 
+SUSPECT: Angry suspect:Chair
+CRIMINAL: Dumb criminal:Entrance Stage Right
+SUGGESTIONS =============================
+CELEB: Famous celebrity:Ariana Grande, Chris Pratt, Dr. Phil
+RESTAURANT: Restaurant chain:McDonalds, Dairy Queen, Krispy Kreme
+OBJECT: Random object:guitar, dinner plate, microphone
+ADJECTIVE: Adjective:wet, monstrous, angry
+ANIMAL: Animal:rabbit, crocodile, komodo dragon
+NUMBER: Ridiculously large number:1 million, 60 billion, 999 quintillion
+LOCATION: Fictional location:Wakanda, Narnia, Hogwarts
+SURPRISE: Statement of surprise:Holy canoli, You gotta be KIDDING me, Are you for gosh darn real
+BUILDING: Type of important building:orphanage, hospital, city hall
+SCRIPT ==========================================
+(courtroom music)
+SUSPECT: Detective, what am I doing here?! I've been kept in this room for the past few hours with no explanation!
+COP: Well, it won't be long before you'll be rotting in prison.
+COP: I've been investigating this case for a while now, and I know for a fact that you're the culprit responsible!
+SUSPECT: What?! But what could I have possibly done?!
+COP: Don't play coy with me! This was one of the most horrifying crimes of our generation!
+COP: CELEB was found murdered in a RESTAURANT just a few weeks ago, and you're the only one who could've done it!
+SUSPECT: Nonsense! I would never do something like that! I demand to see evidence!
+COP: Of course I have evidence. After all, the murder weapon was a OBJECT that had your fingerprints on it!
+SUSPECT: Hah! A OBJECT had my fingerprints on it? Likely story!
+COP: That's not all. We have an eyewitness who saw everything!
+SUSPECT: What?! You're lying! There's no such person!
+COP: (walks up to door and opens it) Come in!
+CRIMINAL: (walks in from stage right) Ugh, finally. I've been waiting in that hallway for hours! Whatever this is, it better be worth my time.
+COP: Tell me, you know about CELEB's gruesome homicide, right?
+CRIMINAL: (nervously) Huh? Um, yeah... I guess...
+COP: We found the killer's fingerprints on the OBJECT, and now we know for a fact who the killer is!
+CRIMINAL: What?!
+COP: Yes, yes! And you're very important to this case. You're the one that ties everything together!
+CRIMINAL: No, this can't be!
+COP: I need you to tell me everything that happened that fateful night, right now!
+(music stops)
+CRIMINAL: Agh! Fine, I admit it! I was the one who killed CELEB, and I used that OBJECT to kill them!
+(vine boom)
+COP: ...wait, what?
+(groose music)
+CRIMINAL: It was the perfect plan! I can't believe you managed to figure out that it was me!
+COP: SURPRISE! So you mean to tell me that it was YOU who killed CELEB in a RESTAURANT?!
+CRIMINAL: Yes! CELEB once told me that I looked like a ADJECTIVE ANIMAL, and I knew I had to get rid of them as soon as possible.
+CRIMINAL: Nobody can call me a ADJECTIVE ANIMAL and get away with it! How did you know I was the killer?!
+COP: I didn't.
+(groose music)
+CRIMINAL: You didn't?
+COP: Yeah, I didn't know any of that. I thought it was him. (point at the suspect)
+CRIMINAL: Oh. Crap.
+SUSPECT: I told you I didn't do anything! Now that you have the real murderer, arrest him and let me go!
+COP: Not so fast! Maybe you weren't the one to kill CELEB with a OBJECT in a RESTAURANT, but I know for a fact that you're guilty of another horrible crime!
+SUSPECT: Inconceivable! What utterly deranged act could I have possibly committed?!
+COP: I have reason to believe that you stole NUMBER dollars from the Bank of LOCATION!
+SUSPECT: What?!
+COP: Yes, we have surveillance footage that proves that it could be nobody else but-
+CRIMINAL: Okay, I've had enough! Detective, quit it with the yelling and pointing, I'm coming clean!
+COP: ...seriously?
+CRIMINAL: Yes, I was also the one who stole from the Bank of LOCATION, and I stole NUMBER dollars as a result of my beautifully planned heist.
+CRIMINAL: Oh, what a shame it is that I've been found out!
+SUSPECT: Yeah, it wasn't me! I would never do anything so horrible!
+COP: SURPRISE! You're admitting to another crime that I'm not accusing you of?
+CRIMINAL: Indeed I am- wait a minute, you... weren't accusing me?
+COP: I never did!
+CRIMINAL: Are you kidding me?!
+SUSPECT: Dude, I'm the one being accused. Nobody here thought you did anything wrong before you started admitting to doing these things.
+CRIMINAL: Okay, okay, I won't say anything anymore. Carry on, don't let me interrupt your interrogation.
+COP: Alright, good, thank you. Now, you may not have murdered CELEB or stolen from the LOCATION bank...
+COP: ...but I have reason to believe that you truly are guilty of this one last crime!
+SUSPECT: You wouldn't dare sully my good name with your baseless assumptions!
+COP: It was you who burned down the BUILDING near the edge of town... (turn and stare at witness)
+CRIMINAL: What are you looking at me for? I didn't do anything.
+COP: (turning to suspect) And then you proceeded to burn down another BUILDING down the street-
+CRIMINAL: How did you know it was me?!
+COP: I QUIT! (Exit stage right)
+SUSPECT: Uhhh... so... wanna go to RESTAURANT?
+
+======
+
+INFORMATION ===============================
+ID: 1789
+TITLE: The Overly Honest Bank Robber
+AUTHOR: -X E R O-
+VERIFIED: True
+TAGS: 
+SET: Conference Room
+DATE: 11/08/25
+CHARACTERS ================================
+ROBBER: The awkward Robber:Entrance Stage Left
+TELLER: The tired Bank Teller:Office Chair 1
+GUARD: The nonchalant Security Guard:Stage Right
+SUGGESTIONS =============================
+PROBLEM: an event or problem you might see in a bank:grandma yelling at a ATM, kids holding a tantrum, no coffee
+WATERGUN: name for water gun/plastic toy gun:Super Soaker 3000, WaterBlast Cyclone, Spyra Three, Garden Hose
+STICKER: cute animal or character:dolphin, turtle, pony
+WEAPON: a weapon or something that can be used as one:sword, katana, hammer, scissors
+TRANSPORT: a transport vehicle of any sort:car, bike, scooter,horse
+DRINK: an expensive or elaborate coffee order:Latte macchiato, Cappuccino, White Mocha, Caramel macchiato
+CATNAME: name for a cat:Mr.Whiskers, Tiger, Toast, Hairball
+MONEY: dollar amount:400, 500, 1000
+SCRIPT ==========================================
+(jazz music 2)
+GUARD: (look out the window) Very boring today, huh?
+TELLER: Yep. Nothing’s happening.
+GUARD: Not even a fake alarm or a PROBLEM
+GUARD: Well besides that weird looking TRANSPORT over there on the street.
+TELLER: Besides a TRANSPORT being park here on a Sunday.
+TELLER: Is this a very normal, boring Sunday. The kind of Sunday where absolutely nothing-
+(music stops)
+(door creak)
+ROBBER: Uh… hi. This is… a robbery? Put the money in the bag... Please?
+(vine boom)
+TELLER: …Please?
+(groose music)
+ROBBER: Yeah, I don’t wanna be rude about it.
+GUARD: Wait, is this serious or, like… a flash mob thing?
+ROBBER: Serious. But polite.
+GUARD: Cool. Just checking.
+ROBBER: Put the money in the bag. Please?
+TELLER: You’re holding a WATERGUN
+ROBBER: Yeah, but it’s black, so it’s intimidating.
+TELLER: It still says “WATERGUN” in rainbow letters.
+GUARD: And it’s got a STICKER sticker on the side.
+ROBBER: …It’s a tactical STICKER.
+TELLER: You couldn’t get a real weapon?
+ROBBER: I almost brought a WEAPON… but that just felt too aggressive.
+ROBBER: Like i said i dont wanna be rude and look like a criminal.
+TELLER: Ok so... what is your state of business mister robber?
+ROBBER: My cat.
+TELLER: Your cat?
+ROBBER: Yes my cat
+TELLER: Sorry i don't understand. Your cat is making you do this?
+ROBBER: Yes. My cat needs therapy.
+(vine boom)
+TELLER: …Therapy?
+ROBBER: Yeah. He’s been… different since the toaster incident.
+GUARD: Toaster incident... what happened?
+ROBBER: The toast.... Popped out
+TELLER: Popped out? isn't that how toaster works?
+ROBBER: Yes but, This time it popped out with force. And shot the toast towards the ceiling and demolished the toast...
+ROBBER: Grilledcheese everywhere. And my cat often sits next to the toaster. He loves the heat.
+ROBBER: So when that happened he got scared and ran out of the room.
+GUARD: Oh, so your cat’s afraid of breakfast now?
+ROBBER: Yeah. He won’t go near the toaster or even the water cooker anymore.
+TELLER: Sounds like he needs some serious... purr-suasive therapy.
+(laughter)
+ROBBER: I tried that. He just stares at me judgmentally and knocks over my coffee.
+GUARD: Your cat sounds like a hand-full.
+ROBBER: Trust me, it’s a constant struggle. Hence, the robbery.
+GUARD: Oh yea i almost forgot that this was a robbery.
+(silly music 1)
+GUARD: So, uh… do you want me to stop him or?...
+TELLER: I mean… he’s unable to harm any of us at the moment. He got a sad story.
+TELLER: And more importantly: He is really bad at this...
+ROBBER: Hey! i am still here! And i am trying my best ok!
+GUARD: Yeah yeah... effort counts. Say did you fix a get-away-driver too?
+ROBBER: No… my mom dropped me off by TRANSPORT
+GUARD: By TRANSPORT? Ah so the TRANSPORT is yours.
+TELLER: Well that makes sense now.
+GUARD: So uhh... anyone want a coffee?
+TELLER: Neh I’m good. I gotta check with the manager about this. (leave stage)
+ROBBER: I’ll take one.
+GUARD: What do you like?
+ROBBER: I would like a DRINK
+GUARD: We only got black. You want sugar, milk?
+ROBBER: How do you guys not have a DRINK.
+ROBBER: I thought a bank would got money enough to effort a DRINK.
+GUARD: Are you robbing us money or are you here for a DRINK?
+ROBBER: But-... fine... 2 sugars and milk please...
+GUARD: Here you go (hand over coffee)
+GUARD: So… your cat, huh? What’s his name?
+ROBBER: CATNAME
+GUARD: CATNAME? Classic. How old is he?
+ROBBER: Ten. A bit grumpy these days.
+GUARD: Ten’s a good age. Old enough to be wise, young enough to still knock stuff off tables.
+ROBBER: Yeah. Mostly the latter. Especially my coffee.
+GUARD: Does he like catnip or is he more of a fancy treat guy?
+ROBBER: Oh, definitely the fancy treats. But after the toaster incident, he’s suspicious of anything new.
+GUARD: Tough crowd. Sounds like he runs the house.
+ROBBER: Believe me, he does.
+(silly music 2)
+TELLER: (Walk back on stage) Okay, manager says we don’t have bills on hand right now.
+ROBBER: No bills? like paper bills?
+TELLER:Yep! We can only pay out in nickels.
+(vine boom)
+ROBBER: Nickels? Seriously?
+GUARD: Wait… we are actually giving him money?
+TELLER: Here you go.(hand over a big bag of nickels)
+TELLER: This is $MONEY in nickels.
+GUARD: That seems pretty heavy. You go to the gym?
+ROBBER: No.
+GUARD: Well, that's going to be a hard workout for you just to walk out the door.
+TELLER: Or... hear me out. You could also just take less.
+ROBBER: No! That’s not how robberies work!
+TELLER: Sure sure you are the boss. Want a receipt?
+ROBBER: Yeah. For tax purposes.
+GUARD: He’s gonna declare this on his taxes?
+ROBBER: Yeah duh... Just because i am robbing, does not mean i am stealing.
+(vine boom)
+GUARD: Sure Sure you are the boss. Need a hand with that?
+ROBBER: (move slowly towards the exit) NO! I am... fine...
+ROBBER: I... uh- will... go... now...
+ROBBER: This... was.. easier... than... i- (trip and fall, Continue out the door)
+(crashing debris)
+(music stops)
+GUARD: You uh-... already called the cops, right?
+TELLER: Yup. Manager was laughing when I told him the news.
+TELLER: He said paying out coins would be hilarious. But do call the cops.
+GUARD: I’m definitely watching this later on the cameras. We got 4K, by the way, so we can see the whole show again.
+TELLER: This might go viral on TikTok. I’ll go grab the popcorn.
+(laughter)
+
+======
+
+INFORMATION ===============================
+ID: 1791
+TITLE: The Question
+AUTHOR: MindlessGonzo
+VERIFIED: True
+TAGS: 
+SET: Living Room
+DATE: 11/08/25
+CHARACTERS ================================
+NARRATOR: The Narrator:Center Stage
+SPOUSE1: Spouse 1:Couch
+SPOUSE2: Spouse 2:Couch
+SUGGESTIONS =============================
+OTHER: An Affectionate Nickname:Honey, Sweetie, Broski
+ANIMAL1: Any Animal:goose, chicken, horse, cat
+ANIMAL2: Any Large Animal:a horse, an elephant, a rhino, a whale
+PLACE: A Restaurant:McDonald's, Wendy's, the pizza place, the buffet
+SCRIPT ==========================================
+happy music 1
+NARRATOR: (to audience) Hello There, Audience Anarchy.
+NARRATOR: For the next few moments, I'm gonna be your best friend, the one who offers sage advice to save your hide.
+Meanwhile SPOUSE1: (get your fellow spouse to sit with you on the couch if you haven't yet)
+NARRATOR: The one who's gonna keep you from the pitfall of life.
+NARRATOR: Your savior.
+NARRATOR: Now let's set the scene. It's a lovely evening, and you and your OTHER are chilling and watching TV.
+SPOUSE2: Hey, OTHER
+SPOUSE1: Yes?
+SPOUSE2: I got a question.
+Music Stops
+SPOUSE1: Sure, OTHER , what is it?
+NARRATOR: This can go one or two ways. A simple question that you can muse around with and dream of hypotheticals...
+NARRATOR: Or "The Question".
+scary music
+NARRATOR: The very question that makes or breaks relationships, communities, and even civilization itself!
+NARRATOR: The very one that you cannot avoid, like death, taxes, or jury duty.
+NARRATOR: The very one that can happen out of nowhere, leaving you without time to think.
+NARRATOR: The Most Important Question!
+SPOUSE2: Am I fat?
+NARRATOR: There it is! The Question in the flesh. This very one.
+NARRATOR: The ticking timebomb that if you don't defuse properly...
+SPOUSE1: What?
+SPOUSE2: So I am fat! (cry)
+NARRATOR: Your ANIMAL1 is cooked!
+Music Stops
+NARRATOR: As your best friend, I can't let what happened here to happen to you.
+NARRATOR: After all, who can afford bail in this economy?
+laughter
+NARRATOR: So here's your cheat sheet to The Question. And take these tips to heart!
+NARRATOR: Let's back up to the moment The Question is asked...
+double bass music
+SPOUSE2: Am I fat?
+NARRATOR: Tip number 1. "Don't answer yes, unless you got a death wish."
+SPOUSE1: Kinda.
+SPOUSE2: (angry) I hate you!
+SPOUSE2: (cry)
+NARRATOR: Tip number 2: "Do not pause to think."
+SPOUSE1: Um... (thinks)
+SPOUSE2: (sad) So I am as big as ANIMAL2 , I knew it!
+SPOUSE1: I didn't even say that! What are you talking about?
+NARRATOR: Tip number 3! Do not joke about it!
+SPOUSE1: (chuckle) Oh that's a funny joke. Tell me another one.
+SPOUSE2: (slap your spouse)
+NARRATOR: So what is the answer, you ask, that'll save me here?
+NARRATOR: It's just one simple word.
+Music Stops
+SPOUSE1: No.
+record scratch
+SPOUSE2: Really?
+SPOUSE1: No.
+happy music 1
+SPOUSE2: Oh, Okay.
+NARRATOR: What if there's still visible doubt? A simple solution to that one...
+SPOUSE1: Wanna go to PLACE ?
+SPOUSE2: No thanks. I'm just gonna be a little more careful...
+NARRATOR: Congrats! Your ANIMAL1 isn't cooked and you live to love another day!
+NARRATOR: And your spouse has settled The Question to do something positive about it, too.
+NARRATOR: Which now begs my question to be answered.
+NARRATOR: (to spouses) Am I fat?
+SPOUSE1: (To narrator) Yes.
+SPOUSE2: (To narrator) Like ANIMAL2
+NARRATOR: Ouch.
+TYPEWRITER: Tip No. 4, Avoid Eating At PLACE so you don't wind up as big as ANIMAL2
+
+======
+
+INFORMATION ===============================
+ID: 1793
+TITLE: Furry Room Party
+AUTHOR: mapleRB
+VERIFIED: True
+TAGS: Contains Adult Innuendo
+SET: Living Room
+DATE: 12/08/25
+CHARACTERS ================================
+HOST: Host of the room party:Couch
+WILD: Outgoing and wild furry :Backstage
+HAPPY: Friendly and happy furry:Front Door
+ANGRY: Angry and annoyed furry:Backstage
+SUGGESTIONS =============================
+ACTIVITY: Wild furry activity:cosplay, dog walking, fursuit
+FURCON: Name for a furry convention:FurCon from Hell, Paws and Guffaws, WhereAmIHelpMe
+NUMBER: Big number:50, 100, 1 million
+OBJECT: Wild and crazy object:motorcycle, electric guitar, chainsaw
+TVSHOW: Popular TV show:Breaking Bad, The Walking Dead, Powerpuff Girls
+CATCHPHRASE: Crazy catchphrase:I LOVE TUNA FISH, WHAT THE SCALLOP?, TOILETS FOR LIFE
+VERB: Past-tense verb :punched, ate, slapped
+BODYPART: Part of the body:elbow, belly, nose
+ANIMAL: Animal species:bunny, crocodile, komodo dragon
+WEIRD: Weird object:bloodstained knife, goopy slime, shark plushie
+SCRIPT ==========================================
+(double bass music)
+HOST: Oh, man! My ACTIVITY room party is starting soon, I'm so hyped!
+HOST: I've never hosted a room party before, and I've been going to the FURCON furry convention for nearly NUMBER years!
+(cellphone vibrate)
+HOST: Oh crap! I just got a message that my furry friends are gonna be here soon, I gotta make sure everything's prepared!
+HOST: Let's see... snacks, check. Music, check. OBJECT, check. I mean, come on, you can't have a good room party without a OBJECT, right?
+(doorbell)
+HOST: Ah, come on in!
+HAPPY: (walk in through the entrance) Hey, so glad I could make it! Thank you so much for volunteering to host the ACTIVITY party. Nobody else wanted to!
+HOST: Of course! FURCON isn't a very popular convention anyways, only NUMBER people really show up anyways.
+HAPPY: Goodness, you did a great job setting the party up. You even brought a OBJECT, you really thought of everything!
+HOST: To be honest, I only brought a OBJECT because of a dream I had last night. You know the television show TVSHOW?
+HAPPY: Who doesn't know TVSHOW? I watch that show all the time!
+HOST: Yeah, well, let's just say my dream involved a whole lot of TVSHOW and some terrible life decisions.
+HAPPY: Wow, that's incredible! Next time I host a ACTIVITY party, I'll have to bring a OBJECT.
+(music stops)
+(explosion)
+WILD: (walk in through the front entrance) WOOOOOHOOOOOO!!! CATCHPHRASE!
+HOST: Oh god, he showed up.
+HAPPY: Come on, he's the life of the party! No ACTIVITY party is really a ACTIVITY party without him.
+(laughter)
+WILD: What's up, nerds?! Cute little room party you got here, mind if I join?!
+HAPPY: Of course, you're always welcome to join!
+Meanwhile HOST: No, please leave-
+HOST: Really? We're letting this guy stay? Remember during the last ACTIVITY party when he VERB my BODYPART?
+(aww)
+WILD: Hell yeah I VERB your BODYPART, and it was freakin' AWESOME! CATCHPHRASE!
+HOST: I almost quit being a furry after that! FURCON would've been the last place I wanted to be forever!
+HAPPY: I wonder what he's gonna do to your BODYPART this time, haha!
+WILD: Trust me, I have something really crazy planned for today. It's gonna totally one-up last time!
+HOST: You're gonna do something WORSE?!
+WILD: Yeah, well, as long as the total party pooper doesn't show up...
+(music stops)
+(spy music 1)
+ANGRY: (walk in from entrance) Ugh! I hate the stupid traffic in FURCON! Why do I even come here?!
+WILD: Oh, darn it, he showed up! CATCHPHRASE!
+HAPPY: Oh my goodness, it's so nice to see you! Your ANIMAL fursuit looks amazing as usual. I love seeing ANIMAL fursonas in the furry community!
+ANGRY: Yeah, like, whatever. I didn't even wanna be here, but you forced me to come. I'm not even into ACTIVITY anyways.
+HOST: You're not into ACTIVITY? That's a shame, I love staying up late at night to do some ACTIVITY!
+WILD: Man, how can someone not like ACTIVITY? That's so lame! CATCHPHRASE!
+ANGRY: Can you quit it with the "CATCHPHRASE"? You're totally the type of person to have VERB someone's BODYPART.
+HAPPY: Oh come on, be nice! I think "CATCHPHRASE" has a good ring to it.
+ANGRY: It sounds stupid, but whatever. Hey, who's hosting this stupid ACTIVITY party anyways?
+HOST: That would be me.
+ANGRY: How could you screw this up so badly?! I mean, come on, where's the decorations? The environment? Why did you bring a OBJECT?!
+HOST: What do you mean? Having a OBJECT is important for every ACTIVITY party!
+ANGRY: No it's not! You don't need a OBJECT, what you really need is a WEIRD. Any ACTIVITY party host worth their salt knows that!
+HAPPY: You know, he makes a good point. This is the first time I've been to a ACTIVITY party without a WEIRD.
+WILD: CATCHPHRASE! I totally agree, every ACTIVITY party needs a WEIRD. CATCHPHRASE!
+HOST: Oh... I guess you're right... oops. I'll bring a WEIRD next time.
+ANGRY: Hmph. This silly ACTIVITY party isn't worth my time! I'll be taking my leave.
+HOST: Wait just a second! How did you know that ACTIVITY parties need a WEIRD? I thought you weren't into ACTIVITY!
+ANGRY: (nervously) Oh, well, you see... um...
+WILD: You're totally freakin' right, dude! Only really freaky ACTIVITY fans know that you need a WEIRD for some good ACTIVITY.
+HAPPY: Is there something you're not telling us? Are you actually into ACTIVITY?
+ANGRY: N-No! Be quiet, all of you!
+HOST: Guys, I think we might need to do some ACTIVITY with our little friend here...
+ANGRY: Wait, what? No... NO... NOOOOOOOOOOOOOOOOO!!!!!
+
+======
+
+INFORMATION ===============================
+ID: 1805
+TITLE: Redneck Rumble
+AUTHOR: Dooley
+VERIFIED: True
+TAGS: 
+SET: Backyard
+DATE: 20/08/25
+CHARACTERS ================================
+CLEETUS: Cleetus:Grill
+DARRYL: Darryl:Neighbor's yard
+NEIGHBOR-3: Neighbor - Over the top:Backstage
+SUGGESTIONS =============================
+NEIGHBORHOOD: Name of the neighborhood:Rustbucket Acres, Possum Hollow, Walmart Heights
+CHEAP-FOOD: Type of cheap or gross food item:gas station burrito, day-old hotdog, 50 cent beef jerky, dog food, manwich
+JUNK: Junk you'd find in a yard:rusty lawnmower, broken toilet, pile of tires
+VEHICLE: Type of beat-up vehicle:pickup truck, tractor, beat-up station wagon
+PET: a pet's name and/or species:Skeeter the raccoon, Pickles the goat, Sonic the Hedgehog
+SHIRT: Type of tacky shirt:NASCAR tee shirt, confederate crop-top
+LUCKY-ITEM: Random item used for luck:hubcap, cowbell with duct tape, mommy's shoe
+FIGHT-TOPIC: Dumb thing for neighbors to argue about:Who stole the garden hose, who clogged the septic tank, how big your tractor is
+ADJECTIVE: an adjective:slimy, flammable, romantic
+PRIZE: a ridiculous prize:Golden Beer Can, coupon for free bait, bucket of chicken
+WEAPON: item used as a redneck weapon:banjo, bb gun, fishing pole
+EMBARRASS: Embarrassing item found in a yard:army of pink flamingos, inflatable kiddie pool, boys, 
+SCRIPT ==========================================
+CLEETUS: (points at the fence) Darryl, you dumped your JUNK on my side again!
+DARRYL: That ain’t JUNK, that’s art. It belongs in a museum… if the museum smelled like CHEAP-FOOD.
+CLEETUS: (snorts) The only thing your yard belongs in is an episode of “Embarrassing Yards of NEIGHBORHOOD.”
+DARRYL: Don’t start with me, Cleetus. Your VEHICLE ain’t even a VEHICLE, it’s a yard ornament.
+CLEETUS: Least mine still has doors. Yours got stolen by PET last month.
+DARRYL: PET was hungry. And those doors looked like giant chicken wings.
+CLEETUS: (laughs) Only thing that beast eats is expired CHEAP-FOOD.
+DARRYL: (mock offended) Don’t disrespect CHEAP-FOOD. That’s a family recipe.
+CLEETUS: Recipe? It comes wrapped in a plastic bag that says “50 for $5.”
+DARRYL: At least I got a SHIRT on. Look at yours—holes big enough to fit a YARD-ANIMAL.
+CLEETUS: Better than smellin’ like your LUCKY-ITEM. You been wearin’ that since high school.
+DARRYL: (clutching chest) That LUCKY-ITEM saved my life once.
+CLEETUS: Saved your life? Darryl, it’s a busted old hubcap.
+DARRYL: It deflected lightning, you fool!
+CLEETUS: (squints) Yeah right. Lightning don’t strike losers.
+thunder
+DARRYL: (points at the sky) You done angered the heavens.
+CLEETUS: Nah, that was just God sneezing on your lawn.
+thunder
+DARRYL: Fine. We settle this quick. Winner gets PRIZE.
+CLEETUS: You got yourself a deal.
+DARRYL: (pulls out WEAPON) This here WEAPON's the pride of NEIGHBORHOOD.
+CLEETUS: (pulls out WEAPON too) Oh yeah? Well my WEAPON is bigger, shinier, and louder.
+DARRYL: Size don’t matter, Cleetus. It’s how you swing it. (Show off WEAPON)
+CLEETUS: (Showing off WEAPON) Swing it? You can’t even lift it without pullin’ your back.
+thunder
+DARRYL: Alright, that’s a warning shot.
+CLEETUS: No, that’s PET climbin’ on the roof again.
+NEIGHBOR-3: (rushing in, waving arms, and yelling) Y’all idiots fightin’ over FIGHT-TOPIC again?
+CLEETUS: He started it!
+DARRYL: Nuh-uh, he started it when he insulted my SHIRT.
+NEIGHBOR-3: You’re both dumber than an ADJECTIVE scarecrow.
+CLEETUS: Oh yeah? Then you decide who gets PRIZE.
+DARRYL: Yeah, make it fair.
+NEIGHBOR-3: Fine. Toss your EMBARRASS into the air. Whoever’s lands closer to the thundercloud wins.
+CLEETUS: Done! Let me just grab some of these EMBARRASS. (Throw EMBARRASS into the air)
+DARRYL: Easy! (Also grab EMBARRASS and throw it into the air)
+thunder
+NEIGHBOR-3: (snorts) Looks like the sky rejected both of y’all.
+CLEETUS: (dusting off) Fine. PET wins again.
+DARRYL: PET don’t even want PRIZE.
+NEIGHBOR-3: (grins, holding it) Guess I’ll keep PRIZE then.
+CLEETUS: The neighborhood is cursed.
+DARRYL: Yeah, cursed!
+thunder
+applause
+
+======
+
+INFORMATION ===============================
+ID: 1806
+TITLE: The Secret Sauce
+AUTHOR: zanbbit
+VERIFIED: False
+TAGS: 
+SET: Infomercial Kitchen
+DATE: 20/08/25
+CHARACTERS ================================
+VICTORIA: The one who knows the recipe:Backstage
+NEWMAN: A new employee:Center Stage
+FURST: A new employee:Stage Left
+SUS: A spy posing as a new employee:Entrance Stage Right
+SUGGESTIONS =============================
+CHAIN: A name a fast food chain may have:Chicken Queen, Softies, Bad Foods Inc.
+FOOD: A food item a restaurant would specialize in:Burger, Ice Cream, Fried Bread
+PLACE: A city or country:Pompei, Atlantis, Skyrim
+NEWS: A name a news source may have:Hieratic Herald, Compass NEWS, New News
+BAD: An object that is inedible:Water Bottle, Hair, Coin
+INGREDIENT: A common ingredient used in cooking:Sugar, Flower, Vinegar
+RIVAL: A name a fast food chain may have:Big Bill's Buffet, Authentic Food, MacDonalds
+OTHER: A city or country:Liberty City, Cambodia, Brazil 
+ILLEGAL: An illegal substance to have:Uranium, Morphine, Marijuana
+LIQUID: A liquid substance:Pepsi, Hydrochloric Acid, Crude Oil
+FRUIT: Any Fruit:Apple, Durian, Pepper X
+LAST: A last name someone may have:Davis, Robinflea, Jagginov
+SCRIPT ==========================================
+(french music)
+NEWMAN: Okay this is my first real job. Just relax.
+NEWMAN: I only got a job with CHAIN, the biggest FOOD chain in PLACE!
+NEWMAN: And I'm also about to learn their top secret recipe! No pressure at all!
+FURST: I'm not super worried. It's my first job too but it's like... whatever man.
+FURST: CHAIN is just another fast food place to me, no big deal.
+FURST: Am I supposed to be impressed that they're the biggest chain in PLACE? I'm not.
+NEWMAN: I wish I could be as calm and collected as you. I just wanna make a good first impression.
+SUS: (Sneak in and look at the kitchen setup. Mutter to self) Hmm... Nothing here.
+FURST: (Notice the new person) Hey, you a new employee too?
+SUS: (Look at the others) O-Oh yeah! I was just scanning the kitchen cause I'm really excited to get started!
+NEWMAN: They said we'll start using the kitchen after we're told the recipe. I am excited to learn it.
+FURST: I heard from NEWS that one of the ingredients is ground up BADs.
+NEWMAN: Really? You actually get your facts from NEWS? Don't they lie all the time?
+SUS: Nah, NEWS is a great source! I get my info from there too!
+VICTORIA: (Walk on stage) Alright. Mr. Newman and Mr. Furst you are our new cooks so I am here to...
+VICTORIA: Wait a minute? There are 3 of you? I was told only Newman and Furst would be here.
+SUS: Ohh, uhh sorry. You can call me uhh... LAST! I was brought on last minute.
+VICTORIA: Hmmm... I see. Very well Mr. LAST. I am Victoria and I'm going to teach you our secret formula.
+VICTORIA: We here at CHAIN pride ourselves on quality.
+VICTORIA: The great taste of our signature FOOD is due, in part, to the secret formula you all will learn to make today.
+VICTORIA: (Look around the kitchen) First we need INGREDIENT. We always start with the INGREDIENT.
+FURST: Do we use ground up BAD at any point?
+VICTORIA: UGH, you must have read that in the NEWS. No, that's preposterous, we don't use that.
+NEWMAN: See I told you! The NEWS is full of liars!
+VICTORIA: That was a fake rumor that our rival, RIVAL sold to NEWS to make us look bad.
+NEWMAN: Really, RIVAL? did that? that's low!
+FURST: UGH, RIVAL. It doesn't even sound appetizing. Who would work for them anyway!?
+SUS: I mean... I still think their food is pretty good, epically their FOOD.
+SUS: B-But they shouldn't be spreading false rumors like that. Very unprofessional!
+VICTORIA: Their FOOD is not as good as ours. That's why they want to get their hands on our secret formula.
+VICTORIA: They are already the biggest fast food chain in OTHER. Now they want to break into the PLACE market.
+VICTORIA: Oh! here's the INGREDIENT. (Pull the INGREDIENT out and set it on the table)
+VICTORIA: So we add 10 cups of INGREDIENT into a large heated pot on the stove.
+SUS: (Write down the information) You said 10 cups?
+VICTORIA: Yes I did. Why are you writing this down?
+SUS: Uhh... I have a bad memory so I want to make sure I have everything right.
+VICTORIA: You should get rid of it after you memorize the formula. Now we have the INGREDIENT as a base.
+VICTORIA: Our next piece is quite controversial.
+VICTORIA: After the INGREDIENT is boiling, we add just one tablespoon of ILLEGAL.
+SUS: No Way! (Frantically writes down)
+FURST: ILLEGAL hunh?
+VICTORIA: It dissolves immediately because of the heat but it provides an addictive flavor.
+NEWMAN: Do you have any Substitutes for the ILLEGAL? I'm not sure if that stuff is easy to come by.
+VICTORIA: No, we need to use ILLEGAL, there is nothing else that gives it the same taste. We have good connections though.
+SUS: You are aware you can be arrested for using that right? I'm pretty sure it's illegal to use ILLEGAL in food and stuff.
+VICTORIA: (Walk over to the employee) That's why you all signed NDA's before we brought you on.
+VICTORIA: Besides, we really just add it for flavor and nothing else.
+FURST: So what do we add next?
+VICTORIA: After the ILLEGAL, you add 1 cup of FRUIT. This can be substituted for another fruit if we are low on supplies.
+NEWMAN: I know FRUIT and it has a very distinct taste. Won't using different fruits mess with the flavor?
+VICTORIA: Not as much as you think. Most people don't notice the flavor FRUIT brings to the formula so most don't miss it.
+SUS: (Mutter) Good stuff. This is good stuff. (Writing the information down.)
+FURST: So what do we do with the FRUIT? Peel and shred it?
+VICTORIA: (Nods) Yes. After the FRUIT is added. We have one more ingredient. That being 1 cup of LIQUID.
+VICTORIA: After the liquid is added, the secret formula is done! You just keep it on low heat from there.
+NEWMAN: So we finish off with LIQUID?
+FURST: Now we're talking my language! I drink LIQUID religiously! Hope I don't drink all your stock.
+VICTORIA: Highly unlikely. But now, with all the ingredients here, we can finally start cooking.
+SUS: I'm actually good. I got all the info I needed so I quit. What a simpleton you are, Victoria!
+(silly music 1)
+SUS: I have it all written down. ten cups of INGREDIENT, a tablespoon of ILLEGAL
+SUS: One cup of shredded FRUIT and and a cup of LIQUID
+SUS: Now that I have the CHAIN secret formula, RIVAL will have the best FOOD in PLACE!
+SUS: We won! WE FINALLY WON! (Run off stage laughing)
+FURST: Uhh... did that just like... happen?
+NEWMAN: I think you should inform your boss about this, Victoria! It could be bad for CHAIN!
+VICTORIA: (Chuckles) No need, he will soon find out he made a big mistake. Now that he's gone I can give you the real secret formula.
+NEWMAN: What do you mean? didn't we just hear it?
+VICTORIA: I knew LAST was a RIVAL spy, so the recipe you just heard was a fake, meant to trick fools like him.
+FURST: Ohh... I like that, it's devious. I knew there was a reason I wanted to work for you guys.
+VICTORIA: If they try to obtain ILLEGAL, they'll be in serious trouble.
+VICTORIA: We don't use ILLEGAL or FRUIT or LIQUID in our secret formula.
+NEWMAN: Aww man, I was looking forward to working with FRUIT.
+FURST: I should have known. Using LIQUID almost sounded too good to be true.
+NEWMAN: So what's the real recipe? What do you use?
+VICTORIA: Well, lets take it from the top again.
+
+======
+
