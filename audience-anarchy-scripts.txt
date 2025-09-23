@@ -55331,6 +55331,100 @@ MAX: (Peeps back into the stage) Thank god! And that is why I take my SUB for gr
 ======
 
 INFORMATION ===============================
+ID: 1767
+TITLE: Heavenly Love Trial
+AUTHOR: Twintacle PTT
+VERIFIED: True
+TAGS: 
+SET: Courtroom
+DATE: 22/07/25
+CHARACTERS ================================
+ZEUS: Zeus, King of the Greek Gods (Judge):Judge Chair
+APH: Aphrodite, Greek goddess of love (Plaintiff):Plaintiff Table
+DUDE: A basic mortal (Defendant):Defendant Table
+DEV: A Demon (Baliff):Bailiff Corner
+SUGGESTIONS =============================
+NAME: any name:Dave, Hercules, Odysseus, Bob
+YEAR: Span of time:69 years, eternity, 42000 hours, 123 minutes
+DANCING: Action ending in 'ing':dancing, singing, hugging, fighting
+NUM: any number:1, 4, 5, 10
+COLOR: Any color:black, green, blue, rainbow
+DEMON: demonic sounding name:Damien, Diablo, Dave
+THING: Anything:famine, Homestuck, kitties, Bubble Guppies
+PICKUP LINE: A pickup line:Every step you take is epic, you make my world go aaaah stupid aaaah, when you're sad it makes me physically ill, nice butt you little butt baby
+UNNATURAL PHENOMENON: Something unnatural, or immoral:human cloning, cannibalism, genetic modication of frogs, pineapple on pizza
+RAISING EXCUSE: An excuse for why you can't do something:I'm too tired, I don't have the right tools, I'm poor, Nobody cares about me, anime is more interesting
+CREATURE: any mythological creature:dragon, goblin, furry jesus, unicorn, magical spider monkey that grants you wishes, 10 headed snake
+SCRIPT ==========================================
+courtroom music
+TYPEWRITER: Mount Olympus, Greece.
+TYPEWRITER: Defendant - NAME;Accused of being the father to a godly child
+ZEUS: Okay, order, order. I hereby now declare the court to be in session.
+ZEUS: (to the mortal) So, NAME, state your case please.
+DUDE: Well, a couple of weeks ago, I had a little affair with Aphrodite, you know, the god of love.
+DUDE: Well now she is claiming that I was the unintended father of the son we had right after DANCING in the River Stix club.
+ZEUS: Interesting. You know, I often flirt with mortals myself, NAME.
+DEV: Why, NAME, are you a lusty man like him? The big guy, Zeus?
+DUDE: (Shrugs) I mean, Aphrodite was super hot. (Points) Just look at her!
+APH: Well you should have thought about the consequences.
+APH: Now you've spawned a godly child! Which as we all know, is an abomination!
+music stops
+gameshow crowd shouting numbers
+ZEUS: (bangs gavel) Order! Order in this court!
+ZEUS: Aphrodite, what is your side of the story?
+shark tank serious music 1
+APH: Look, I have been flirting with mortals for many years now.
+APH: I'd be like, "Hey mortal, PICKUP LINE"
+APH: But I never expected to conceive a half-mortal child with this... NAME person! (Points at NAME)
+APH: That's why NAME should have custody.
+DEV: (Raises hand) If I may say something... Why should a mortal raise a god anyway?
+DEV: That's as unnatural as UNNATURAL PHENOMENON!
+APH: I just feel like NAME would take better care of the baby.
+APH: Normally I would, but.... RAISING EXCUSE
+ZEUS: (Shrugs) Well, the DNA test can figure it all out.
+ZEUS: Now, NAME, if you are caught lying, you will spend YEAR in the underworld.
+DEV: (Chiming in) That's right! You don't wanna end up spending YEAR with me, NAME... Ha ha ha ha ha!
+ZEUS: Alright you little DEMON, fetch me the the DNA test.
+DEV: With pleasure, Zeus. But there are so many mortals on Earth that it may take NUM minutes. (Exit)
+ZEUS: (to Aphrodite) So tell me, Aphrodite, what did the child look like after the affair with NAME?
+APH: Well for one thing, it was wearing a white robe, he had COLOR face paint on with COLOR legwear.
+APH: Besides, it looks nothing like us gods in Greek Mythology.
+DUDE: That is your confession? That just proves that I am not the father!
+APH: I still think you are, NAME. Ugh! We should have not gone DANCING at that club.
+music stops
+DEV: (enters again exhausted) Oh gosh, that was a lot.
+ZEUS: Ah, DEMON, you are back! Please hand over the DNA test.
+courtroom music
+DEV: Sure thing, Zeus! (give the DNA test to Zeus) Man oh man this may as well be the biggest twist ever in court script history!
+ZEUS: (receives DNA test) Alright, let's see here.
+ZEUS: (shocked) Oh my... This is an interesting result...
+APH: Well?
+ZEUS: The results are in, here comes the interesting twist...
+DUDE: Wait, what?
+Music Stops
+ZEUS: NAME, Aphrodite, you both... Are not the parents!
+courtroom sting
+DUDE: (shocked) What the hell?
+Meanwhile APH: Hang on, this has to be a joke!
+DEV: That's right! Twist! The kid was an orphan this whole time! You fool! Ha ha ha ha ha!
+ZEUS: Damn... He's right... NAME is not the father...
+ZEUS: So, we examined the DNA of the child, and it turns out the baby is some sort of... "CREATURE."
+japanese music 2
+APH: Wait, this is the wrong mythology! NAME, explain this to me!
+ZEUS: So, this is a CREATURE of... THING?! (smashes hand on desk in anger) How did they end up in ancient Greece?! Ugh!
+DEV: (To Zeus in fear) Calm down, Zeus, this has been going on for NUM days with these two and the THING god.
+DEV: We can find some way to send this baby back to where they came! Or all of mythology will fall apart!
+ZEUS: (calming down) Fine... Fine... Look, nobody will be sent to YEAR in the underworld. We need to deal with this.
+APH: What do we do?
+ZEUS: We can either adopt the CREATURE of THING and do a crossover, or we send him back via teleportation.
+APH: (Raises hand) You know what. I'll adopt him.
+aww
+DUDE: Wait, what?!
+Meanwhile DEV: Whaaaaaat???!
+
+======
+
+INFORMATION ===============================
 ID: 1768
 TITLE: Sneezing Mania
 AUTHOR: Jayce_4
@@ -55892,6 +55986,69 @@ ANGRY: Wait, what? No... NO... NOOOOOOOOOOOOOOOOO!!!!!
 ======
 
 INFORMATION ===============================
+ID: 1801
+TITLE: Doctor's Orders
+AUTHOR: Dooley
+VERIFIED: True
+TAGS: 
+SET: Doctor's Office
+DATE: 19/08/25
+CHARACTERS ================================
+DOCTOR: Doctor:Desk
+PATIENT: Patient:Examination Table
+NURSE: Nurse:Backstage
+SUGGESTIONS =============================
+CLINIC-NAME: name of a medical clinic:Dingleberry Clinic, VRChat hospital, build-a-bear workshop, taco bell
+DOCTOR-NAME: last name:Sternberg, Stinkerdink, Miku
+BODY-PART: part of the human body:Elbow, eyeball, heart, spleen
+DAY-OF-WEEK: day of the week:Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+FOOD: something to eat:Goulash, lasagna, miso soup, tears of my enemies
+VEHICLE: type of vehicle:Jeep, race car bed that is turned into an actual race car, unicycle, pogo stick, horse
+FAMOUS-PERSON: celebrity or famous person:Alanis Morissette, Lindsey Stirling, Jerry Seinfeld
+BODY2: part of the human body:shoulder, knee, tongue, finger, butt
+BIG-OBJECT: big object / item:vending machine, world's largest toilet, one million karat labubu
+WEIRD-MEDICINE: name for a medication:Screwitol, Labubadrin, tylenol 9000
+BEVERAGE: beverage:Half-caf mocha latte, olive oil, bleach
+STICKY-SUBSTANCE: sticky substance:Engine Oil, Shampoo, Peanut Butter
+SCRIPT ==========================================
+jazz music 2
+DOCTOR: Good morning, welcome to CLINIC-NAME. I’m Dr. DOCTOR-NAME. What seems to be the problem?
+PATIENT: I’ve been having this weird pain in my BODY-PART.
+DOCTOR: How long has your BODY-PART been bothering you?
+PATIENT: Since last DAY-OF-WEEK, right after I ate a giant FOOD.
+DOCTOR: Oh yeah, eating a whole FOOD will wreck your BODY-PART every time.
+DOCTOR: According to your chart, your blood pressure is the same as a VEHICLE.
+DOCTOR: And your cholesterol looks like it belongs to a FAMOUS-PERSON.
+PATIENT: That sounds terrible.
+DOCTOR: Don’t panic. I once had a patient whose BODY2 swelled up to the size of a BIG-OBJECT. We just rolled them home.
+PATIENT: Yikes. What do I do?
+DOCTOR: Easy. I’m prescribing you some WEIRD-MEDICINE.
+DOCTOR: Take one every morning with a glass of BEVERAGE.
+DOCTOR: And if pain continues, just rub some STICKY-SUBSTANCE on it.
+PATIENT: That doesn’t sound very medical.
+DOCTOR: Of course it is. STICKY-SUBSTANCE cures almost everything — if you use enough.
+PATIENT: (losing patience) Can I at least get a second opinion?
+DOCTOR: Sure. Here’s my second opinion: you’re over-reacting.
+PATIENT: (groans) This is ridiculous.
+DOCTOR: Look, I’ll give you a discount.
+DOCTOR: With my employee coupon, today’s visit only costs… let’s say five bucks and a BEVERAGE.
+PATIENT: (Very angry) You know what, Doc? I don’t need your WEIRD-MEDICINE, and I don’t need your STICKY-SUBSTANCE
+PATIENT: and I definitely don’t need CLINIC-NAME… I’m going to get a real doctor on VEHICLE Care!
+NURSE: (Walks in through stage right door) Doctor, that patient just ran out screaming.
+NURSE: Should we mark them as “cured” or “return visit”?
+DOCTOR: Mark them as “donated a free BEVERAGE.”
+NURSE: (deadpan) Got it. Oh, and the next patient wants to pay in FOOD.
+NURSE: Is that covered by insurance?
+DOCTOR: If it’s FOOD, it’s always covered.
+NURSE: (squints) You’re not really a doctor, are you?
+DOCTOR: (grins) Of course not. I just work here part-time for the free FOOD.
+NURSE: …Then why do I work here?
+DOCTOR: For the free STICKY-SUBSTANCE.
+applause
+
+======
+
+INFORMATION ===============================
 ID: 1805
 TITLE: Redneck Rumble
 AUTHOR: Dooley
@@ -56070,6 +56227,55 @@ NEWMAN: Aww man, I was looking forward to working with FRUIT.
 FURST: I should have known. Using LIQUID almost sounded too good to be true.
 NEWMAN: So what's the real recipe? What do you use?
 VICTORIA: Well, lets take it from the top again.
+
+======
+
+INFORMATION ===============================
+ID: 1817
+TITLE: Very Evil Haunted Toilet
+AUTHOR: Shamura ʕω ʔ
+VERIFIED: True
+TAGS: 
+SET: Infomercial Bathroom
+DATE: 28/08/25
+CHARACTERS ================================
+AUP: The Auction Host:Center Stage
+SUGGESTIONS =============================
+LOC: any place, fictional or not:Egypt, NewYork, Azerbaijan, AshFeld, Gotham
+NUM: Any Number:100, 67, 398, 2000, 101, 41
+CLT: Any important Celebrity/figure:Abraham Lincoln, Tyler Perry, Taylor Swift, Genghis Khan
+DIS: A Diease:AIDS, Syphilis, Brain Cancer, Phantom Pain, Redditor Syndrome
+GIVE THEM FLOWERS: A nice favor you can do for someone:give them flowers, massage their back, be mean to their boss at work for free
+LIFESAVINGS: Your live savings, or, something valuable you own:retirement fund, diamong ring, car, 100 dollars, pennies
+SCRIPT ==========================================
+70s music
+AUP: Welcome everyone to today's final item in today's auction!
+AUP: For our final item I bring you this fine appliance to welcome into your home!
+AUP: This Porcelain Toilet was recently found in a archeological site in LOC and is believed to be dated as far as NUM ago!
+AUP: But even though it is NUM years old, it is still perfectly functional!
+AUP: Comfy, pristine, cool to the touch. What else could you want from a toilet!
+AUP: I even heard CLT had a few rounds with it before they died from that terrible case of DIS.
+AUP: And the price? Totally free!
+AUP: So, any takers? (Looks around the audience)
+Music stops
+AUP: Uhh...
+AUP: Did I mention that this toilet's in perfect condition and germ free?
+AUP: (Nervous) A-and its culturally unique, being from LOC and all...
+door creak
+dark classical music
+AUP: Look. If I don't sell this toilet, it'll follow me home.
+AUP: And if does then..
+AUP: Never mind that! Just, someone take it!
+AUP: Anyone! I'll do anything! If someone takes it I'll GIVE THEM FLOWERS!
+AUP: I'll even pay YOU! I'll pay you my life savings, my LIFESAVINGS!
+AUP: Just get this thing away from me!
+thunder
+AUP: Oh God, its happening.
+AUP: The DIS. (Feel agonizing DIS in your body) Argh!
+explosion
+Teleport AUP Backstage
+TYPEWRITER: It is coming for you
+thunder
 
 ======
 
