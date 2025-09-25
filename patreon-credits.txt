@@ -1452,7 +1452,6 @@ Zeno Fluff
 Nightdagger
 f̷ork
 ChemicalForm
-Ethereal-Zephyr
 ToastedDrago
 ChristmasEd
 ༺zєρнуяια༻
@@ -2029,6 +2028,7 @@ Scuffed_VR
 Fallen_RoninX
 Neon_Fennix
 Nyctoxd
+KindaNervus
 modNick
 ruralists
 #TIER=1
