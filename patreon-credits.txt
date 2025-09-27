@@ -2712,6 +2712,7 @@ HellsFox
 ~DuskFangVA~
 °Smolzilla°
 Abaddon Matriel
+Tedoot
 #TIER=3
 PinballReviewer
 Palmdaddy
