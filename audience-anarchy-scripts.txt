@@ -56049,6 +56049,183 @@ applause
 ======
 
 INFORMATION ===============================
+ID: 1802
+TITLE: Showdown At High Noon(ish)
+AUTHOR: Dooley
+VERIFIED: True
+TAGS: 
+SET: Western
+DATE: 19/08/25
+CHARACTERS ================================
+SHERIFF: Town Sheriff:Entrance Stage Right
+OUTLAW: Outlaw:Center Stage
+TOWNSPERSON: Townsperson:Stage Left
+SUGGESTIONS =============================
+WESTERN-TOWN-NAME: Name for an Old West style town/region:Cactus Gulch, Dustbucket Junction, Sasparilla Springs, Ye Olde Portland Oregon, Hillbillyland
+SHERIFF-NAME: Old-timey last name, or nickname, or object:Slim, Pickles, Flapjack, Moonshine, Chuggs, Maxwell
+OUTLAW-NAME: Name of the Outlaw:One-Eyed Jack, Mad Marvin, Cole Cassidy, Jesse Pinkman
+TOWNSPERSON-NAME: Old-timey name:Clem, Miss Tilly, Cleetus, Macellus Wallace, Walter, Summer
+WEAPON: A weapon:cactus whip, slingshot, finger gun, rocket launcher, super illegal modified firearm with silencer and laser sight
+DRINK: A drink served at a saloon:sasparilla, pickle juice martini, moonshine, thick water, Man Milk the ultimate milk for men
+HORSE-NAME: Horse name:Thunderbutt, Gluey Louie, Gold Ship, Lazy Eye, Doublestuff
+OBJECT-IN-STORE: Something sold at a store:Barrel of nails, Jar of pickles, Marshmallows, Almond Joy candy bar
+SALOON-SONG: Title of a song you'd hear in an old Western saloon:Turkey in the Straw, Party Rock Anthem, Everybody Dance Now, Unholy ft. Kim Petras
+WANTED-CRIME: name a silly western-themed crime:Stealing moustaches, jaywalking at high noon
+FUNNY-CURSE: A silly insult:pickle-brain, flapdoodle, no-bood yellow belly, cow kisser, dog waterin', poop deck scrubbin
+RIDICULOUS-PRIZE: A prize for winning a show-down:Year's supply of tumbleweeds, golden outhouse, dog that loves you and will never die
+SCRIPT ==========================================
+western piano music 2
+SHERIFF: (steps out of the saloon) Folks, welcome to WESTERN-TOWN-NAME. I’m SHERIFF SHERIFF-NAME, and this here street stays peaceful… mostly.
+OUTLAW: (sauntering in) Not anymore, Sheriff. The name’s OUTLAW-NAME. And I reckon this town ain’t big enough for the two of us.
+TOWNSPERSON: (cheerful, oblivious) Hi there! I’m TOWNSPERSON-NAME.
+TOWNSPERSON: Anybody need help carrying an OBJECT-IN-STORE? I bought six of ‘em.
+TOWNSPERSON: Don’t know what they’re for, but I’m gonna juggle ‘em till I figure it out!
+SHERIFF: TOWNSPERSON-NAME, step aside. OUTLAW-NAME is wanted for WANTED-CRIME.
+OUTLAW: (proudly) Darn right I am. And I’d do it again, too. Twice before breakfast.
+TOWNSPERSON: (gasps) WANTED-CRIME? Why, that’s worse than not washing your hands before DRINK!
+western showdown music
+SHERIFF: (squints) Draw your WEAPON, OUTLAW-NAME. Let’s settle this.
+OUTLAW: (pulls out WEAPON with flair) This WEAPON’s faster than a rattlesnake on roller skates.
+TOWNSPERSON: Ooooh! Can I touch it?
+OUTLAW: You can touch it when I’m done with the Sheriff.
+SHERIFF: (hand on holster) We duel at high noon.
+TOWNSPERSON: Uh… Sheriff, it’s already 12:37.
+OUTLAW: (smirks) Guess it’s high noon-ish. Good enough for me.
+SHERIFF: Fine. Three paces, turn, and—
+TOWNSPERSON: Wait! Can we make it five paces? I like odd numbers.
+OUTLAW: Ten paces! I need the exercise.
+SHERIFF: How about zero paces? We just stand here and glare till someone faints.
+TOWNSPERSON: I faint easy. Especially when folks sing SALOON-SONG. (hums badly)
+OUTLAW: (covers ears) Stop that noise! You’ll scare HORSE-NAME.
+SHERIFF: Enough! Let’s settle this proper.
+TOWNSPERSON: Can I be the referee? I’ve got a striped shirt and everything.
+TOWNSPERSON: Well, it’s striped because I spilled DRINK on it, but it still counts.
+OUTLAW: Fine. Count us down.
+TOWNSPERSON: One… two… seven… banana…
+SHERIFF: You’re terrible at counting.
+OUTLAW: Yeah, even my WEAPON’s offended. Look, it’s blushing.
+TOWNSPERSON: (squints at it) Pretty sure that’s just rust.
+SHERIFF: (draws WEAPON) Alright, OUTLAW-NAME. Any last words?
+OUTLAW: Yeah. FUNNY-CURSE.
+TOWNSPERSON: (gasps) Outlaw! You can’t just go around saying FUNNY-CURSE in public! Think of the children!
+SHERIFF: Think of HORSE-NAME!
+OUTLAW: (grins) Sheriff, you’re soft. Always were. That’s why I came back to WESTERN-TOWN-NAME — for one last showdown.
+TOWNSPERSON: (dramatic) This is history in the making!
+TOWNSPERSON: Someday they’ll put a statue of me right here, holding OBJECT-IN-STORE, humming SALOON-SONG, and shouting FUNNY-CURSE.
+SHERIFF: Statue? Nobody’s making a statue of you.
+OUTLAW: Yeah. Statues are expensive. The town can only afford a RIDICULOUS-PRIZE.
+TOWNSPERSON: (excited gasp) You mean it?? If I survive, I win a RIDICULOUS-PRIZE?!
+SHERIFF: Nobody said anything about you.
+OUTLAW: (to Sheriff) Alright then… let’s finish this.
+TOWNSPERSON: (panicked) Oh, look! A distraction! (points wildly) HORSE-NAME just stole an OBJECT-IN-STORE!
+SHERIFF: What the—? That horse is under arrest!
+OUTLAW: (laughing) Guess the horse is guilty of WANTED-CRIME too.
+TOWNSPERSON: Does that mean the horse gets the RIDICULOUS-PRIZE?!
+SHERIFF: (throws hands up) This is the dumbest showdown I’ve ever seen.
+OUTLAW: Same. You wanna just… call it quits, and grab a DRINK instead?
+TOWNSPERSON: Ooooh, make it three! We’ll toast to HORSE-NAME, the most wanted outlaw in WESTERN-TOWN-NAME.
+TOWNSPERSON: Let's toast...
+SHERIFF: To law and order.
+OUTLAW: To crime and chaos.
+TOWNSPERSON: To RIDICULOUS-PRIZE!
+applause
+
+======
+
+INFORMATION ===============================
+ID: 1803
+TITLE: Spooky Camp Tales
+AUTHOR: DarthDJ
+VERIFIED: True
+TAGS: 
+SET: Campsite
+DATE: 20/08/25
+CHARACTERS ================================
+CAMPER 1: James:Log chair
+CAMPER 2: Jemma:Stump chair
+CAMPER 3: Lola:Rock chair
+SERIAL KILLER: Zac Huffman:Backstage
+THE SHERIFF: Alex Reynolds:Backstage
+SUGGESTIONS =============================
+FOOD: Something delicious:jerky, crackers, pretzels, M&Ms, Snickers
+STORY: Any kind of campfire story:haunted doll, lost in the woods, psychic predicting your futures, someone stalking/following you
+WEAPON: Any type of deadly weapon:knife, machete, chainsaw, axe/hatchet, kunai
+SARCASTIC TERM: A kind of sarcastic term used in conversations:zombies "eating" your brain & how you're safe, being nice if you're smarter
+AREA: A place:pool, activity center, archery range
+PERSON: Anybody, really:officer, camp site manager, camp guide
+INTERNAL ORGAN: Part of the body:spleen, kidney, eyeball, tooth, entire face
+GIVE THEM A HUG: Something nice you might do for someone:give them headpats, shake their hand, do their laundry, marry their ugly and lonely child, wash their car
+LUDICROUS DOLLARS: an absurd amount of money, or job benefit:free food, one million dollars, as much murdering as I want to do, 20 pounds of horse jerky, bitcoin
+SCRIPT ==========================================
+CAMPER 1: (sighs) Today was the best, don't you guys agree?
+CAMPER 2: It sure was, James. Wish it lasted a lot longer, though. (looks at Camper 3) What about you, Lola? Did you enjoy everything from today?
+CAMPER 3: If I had to be honest, it was kinda 'eh' *tilts her hand left & right*
+CAMPER 1: Well, since today was sort of a bummer for you two, why don't we spice things up?
+CAMPER 2: What did you have in mind, James?
+CAMPER 1: (looks at Camper 2) Well Jemma, I was thinking we tell some campfire stories to pass the time.
+music stops
+CAMPER 1: (Makes spooky ghost noises jokingly) ooooo!
+CAMPER 3: Really, James? Campfire stories? What are we, 7 years old?
+CAMPER 2: Ugh, don't be such a downer, Lola. I'd like to see you come up with something that's interesting & fun to do.
+CAMPER 1: Ladies, ladies. Calm down now, will ya?
+CAMPER 3: Ugh, fine.
+Meanwhile CAMPER 2: Fine.
+CAMPER 1: Now, just sit back, relax, have some FOOD & let's begin, shall we?
+thunder
+CAMPER 1: Now, do either of you have a story idea I could tell?
+CAMPER 2: Ooh! What about a story about STORY?
+CAMPER 3: Or maybe a story about SARCASTIC TERM?
+CAMPER 2: LOLA!
+CAMPER 1: (clears throat) Ahem...
+CAMPER 3: Sorry. Jeez!
+Meanwhile CAMPER 2: Sorry.
+CAMPER 1: Now, as I was saying...
+CAMPER 3: Before you continue, James, I need to quickly use the restroom. BRB! (Exits stage)
+CAMPER 2: Sheesh, what a jerk, am I right?
+CAMPER 1: Just because she's rude a majority of the time doesn't mean you could call her a jerk, ok, Jemma?
+CAMPER 2: Well, I know but...
+Meanwhile CAMPER 3: *screams*
+CAMPER 1: Oh my god. Lola! (rushes over to Lola)
+Meanwhile CAMPER 2: Lola! (rushes over to Lola)
+shark tank offer
+CAMPER 1: Holy crap! Someone killed this PERSON!
+CAMPER 2: (starts freaking out) OH MY GOD, WHAT DO WE DO?!
+CAMPER 3: Both of you (slaps Jemma & James) snap out of it!
+CAMPER 2: You guys, we have to call somebody!
+teleport SERIAL KILLER to Stage Left
+CAMPER 1: Does anybody have their ITEM on them?
+SERIAL KILLER: I don't think you three will be going anywhere...
+SERIAL KILLER: (pulls out WEAPON) not if my WEAPON has anything to say about it!
+CAMPER 2: W-who are you? And what did you do to this PERSON?! And why do you have a WEAPON?
+waterphone
+SERIAL KILLER: (laughs maniacally) My name isn't important.
+SERIAL KILLER: What is important is that you three know all too well of what I've done to this PERSON.
+teleport THE SHERIFF to Stage Left
+THE SHERIFF: (Sneaking on stage and pointing a gun) (Whispering to self) I've got him in my sights...
+SERIAL KILLER: NOW IT'S TIME TO DIE!!!
+gunshot
+SERIAL KILLER: (Falls down) Ow my INTERNAL ORGAN was hit by a mysterious bullet! But how... (dies)
+CAMPER 1: Oh my god! Sheriff Reynolds! You saved us!
+THE SHERIFF: All in a day's work, kid.
+CAMPER 3: Who was that crazy man, Sheriff?
+THE SHERIFF: That, little lady, was crazed Serial Killer Zac Huffman. We've been hunting down for years. Now, we gotta get you kids home.
+THE SHERIFF: This AREA is not safe, since we now have to shut it down.
+CAMPER 3: Aww, really?
+THE SHERIFF: Come on, into the car.
+CAMPER 2: (starts freaking out) Thank you for saving us!
+THE SHERIFF: It's really no problem. All part of the job.
+THE SHERIFF: (Shrugs) I guess you could say I'm a hero.
+CAMPER 1: You're the best, Sheriff Reynolds! I owe you!
+CAMPER 3: We should all GIVE THEM A HUG!
+CAMPER 2: Yes, let's GIVE THEM A HUG!
+THE SHERIFF: That won't be necessary, I earn LUDICROUS DOLLARS every month from the sheriff's department.
+CAMPER 1: Hooray for paying our taxes!
+CAMPER 2: Hooray!!!
+Meanwhile CAMPER 3: Hooray!!!
+
+======
+
+INFORMATION ===============================
 ID: 1805
 TITLE: Redneck Rumble
 AUTHOR: Dooley
