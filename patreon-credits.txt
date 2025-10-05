@@ -2539,6 +2539,7 @@ BestiaVallenSto
 FallenRaen
 PΛFFIQUE
 Odin-the-Outlaw
+laughing-gas
 #TIER=2
 Psych_Foxtrot
 shifca
