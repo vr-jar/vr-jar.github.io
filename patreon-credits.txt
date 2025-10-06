@@ -2306,7 +2306,6 @@ Wittle_devil
 StarDrop_1
 MangoTango12
 Shinuba
-༺Faron×Cat༻
 Mirafaren
 ¿Møşkẽd-Enðrłn?
 _Figment_
@@ -2543,6 +2542,7 @@ PΛFFIQUE
 Odin-the-Outlaw
 laughing-gas
 DecaySapphire
+༺Faron×Cat༻
 #TIER=2
 Psych_Foxtrot
 shifca
