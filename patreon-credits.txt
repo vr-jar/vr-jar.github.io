@@ -20,7 +20,6 @@ ArmaniXR
 『Waffles』
 Zestari
 koenne
-Jade_Nox9876
 LittleWannaDie
 gamerglory1223
 ItssPeachy
@@ -1972,6 +1971,7 @@ Mcmannere
 EatMyFlesh
 PimpNamedGhost
 NothingCasual
+Program_Inox
 modNick
 ruralists
 #TIER=1
