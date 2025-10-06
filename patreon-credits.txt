@@ -1995,6 +1995,7 @@ PimpNamedGhost
 NothingCasual
 Program_Inox
 Kattail~
+RicksRockin
 modNick
 ruralists
 #TIER=1
