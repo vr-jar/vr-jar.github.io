@@ -1994,7 +1994,6 @@ SuperiorWord759
 ÐarkHølløŵ
 BossGamerDK
 gеnе
-poised-saga
 modNick
 ruralists
 #TIER=1
@@ -2565,6 +2564,7 @@ DecaySapphire
 -Ａｂｙｓｓ-
 Eclipse_foxx
 ƁŁĪĢĤŢĤƏÆŔŢ
+poised-saga
 #TIER=2
 Psych_Foxtrot
 shifca
