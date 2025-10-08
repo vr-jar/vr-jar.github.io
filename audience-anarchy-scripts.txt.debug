@@ -4,7 +4,7 @@ TITLE: House Party
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 CAT: Cat:Backstage
@@ -128,7 +128,7 @@ TITLE: American Values
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Political Debate USA
 DATE: 08/10/25
 CHARACTERS ================================
 MODERATOR: Debate moderator:Moderator Table
@@ -228,7 +228,7 @@ TITLE: Justice Delivery
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 DETECTIVE: Detective:Center Stage
@@ -318,7 +318,7 @@ TITLE: Cold Case
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 LADY: Mysterious Lady:Backstage
@@ -394,7 +394,7 @@ TITLE: An Accusation
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Courtroom
 DATE: 08/10/25
 CHARACTERS ================================
 DEFENDANT: Defendant:Defendant Door
@@ -482,7 +482,7 @@ TITLE: A New Nation
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Political Debate USA
 DATE: 08/10/25
 CHARACTERS ================================
 MODERATOR: Debate moderator:Moderator Table
@@ -590,7 +590,7 @@ TITLE: Educational Emergency
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 DYLAN: Dylan, College student:Center Stage
@@ -684,7 +684,7 @@ TITLE: Better Call Bob
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 BOB: Bob Odenkirk, the actor from Better Call Saul:Center Stage
@@ -817,7 +817,7 @@ TITLE: Troll Bridge
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest Bridge
 DATE: 08/10/25
 CHARACTERS ================================
 TROLL: Troll:On bridge
@@ -969,7 +969,7 @@ TITLE: Telenovela
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 LUPE: Lupe:Center Stage
@@ -1081,7 +1081,7 @@ TITLE: The Package
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 BOBBY: Bobby, child:Center Stage
@@ -1171,7 +1171,7 @@ TITLE: Yer a Wizard
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 HARRY: Harry Potter:Center Stage
@@ -1284,7 +1284,7 @@ TITLE: Give Thanks
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 UNCLE: P.J. Fiddlesticks, Weird Hobo Uncle:Backstage
@@ -1389,7 +1389,7 @@ TITLE: Welcome to Wizard Town
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 HUMAN: Ordinary modern day person:Backstage
@@ -1493,7 +1493,7 @@ TITLE: Check this Out
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 TREVOR: Trevor, Friend with cellphone:Couch
@@ -1626,7 +1626,7 @@ TITLE: Spy Gear
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 SPYDUDE: Super spy:Center Stage
@@ -1703,7 +1703,7 @@ TITLE: Ultimate Weapon
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 KNIGHT: Dark Knight of Living Darkness:Backstage
@@ -1805,7 +1805,7 @@ TITLE: Spicy Gameshow
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 ALEXA: Contestant #2 (Shirtless atttractive man):Contestant Podium 2
@@ -1900,7 +1900,7 @@ TITLE: Wrong Gameshow
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 CHILD: Child actor:Backstage
@@ -2029,7 +2029,7 @@ TITLE: Australiens
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 BOB: Bob, BBQ dad:Grill
@@ -2150,7 +2150,7 @@ TITLE: Positive Results
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 DOCTOR: Doctor:Backstage
@@ -2236,7 +2236,7 @@ TITLE: Noise Complaint
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 HUSBAND: Husband:Center Stage
@@ -2352,7 +2352,7 @@ TITLE: Duel
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 MANAGER: Store manager:Backstage
@@ -2462,7 +2462,7 @@ TITLE: Camping
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 MOMMA BEAR: Larger grizzly bear:Backstage
@@ -2562,7 +2562,7 @@ TITLE: Questionable Gameshow
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 HOST: Gameshow host:Backstage
@@ -2667,7 +2667,7 @@ TITLE: Food Gameshow
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 ALEXA: Contestant #2:Contestant Podium 2
@@ -2785,7 +2785,7 @@ TITLE: Noisy Gameshow
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 HOST: Gameshow host:Backstage
@@ -2858,7 +2858,7 @@ TITLE: Pokémon Gameshow
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 HUMAN: Generic human:Backstage
@@ -2960,7 +2960,7 @@ TITLE: Lucky Gameshow
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 LUCKY: Lucky the Cowboy:Contestant Podium 2
@@ -3057,7 +3057,7 @@ TITLE: Gamer Gameshow
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 DISCORD MOD: Discord moderator:Contestant Podium 2
@@ -3141,7 +3141,7 @@ TITLE: Trivia Gameshow
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 CONTESTANT 2: Francis:Contestant Podium 2
@@ -3234,7 +3234,7 @@ TITLE: Tool Infomercial
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 MANN: Man:Backstage
@@ -3313,7 +3313,7 @@ TITLE: Magic Infomercial
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 ACTOR 2: Paid actor, antagonist:Backstage
@@ -3404,7 +3404,7 @@ TITLE: Clean Infomercial
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 CHILD: Rambunctious child:Stage Right
@@ -3484,7 +3484,7 @@ TITLE: Ultimate Infomercial
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 BILLY MAYS: Billy Mays, salesperson:Center Stage
@@ -3579,7 +3579,7 @@ TITLE: Toast Infomercial
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 BILLY MAYS: Billy Mays, salesperson:Stage Right
@@ -3671,7 +3671,7 @@ TITLE: Leak Infomercial
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 CUSTOMER 2: Customer 2, friend:Stage Left
@@ -3740,7 +3740,7 @@ TITLE: Helpful Infomercial
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Infomercial Bathroom
 DATE: 08/10/25
 CHARACTERS ================================
 BILLY MAYS: Billy Mays, salesperson:Center Stage
@@ -3780,7 +3780,7 @@ TITLE: Dog Infomercial
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 BILLY MAYS: Billy Mays, salesperson:Backstage
@@ -3867,7 +3867,7 @@ TITLE: Shiny Infomercial
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 SHAGGY: Shaggy from Scooby-Doo:Center Stage
@@ -3949,7 +3949,7 @@ TITLE: We demand it
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 DOCTOR: Doctor:Backstage
@@ -4022,7 +4022,7 @@ TITLE: Diagnosis
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 DOCTOR: Doctor:Backstage
@@ -4114,7 +4114,7 @@ TITLE: Amazon
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 BOB: Person:Stage Left
@@ -4216,7 +4216,7 @@ TITLE: Secret Message
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 AGENT: Secret agent:Center Stage
@@ -4319,7 +4319,7 @@ TITLE: It's Me
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit,Contains Adult Innuendo
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 DUDE: Dude:Couch
@@ -4414,7 +4414,7 @@ TITLE: Playroom
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit,Contains Adult Innuendo
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 JOHN: Officer John, secret lover:Entrance Stage Right
@@ -4506,7 +4506,7 @@ TITLE: Improvement
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
-SET: Default
+SET: Hardware Store
 DATE: 08/10/25
 CHARACTERS ================================
 CUSTOMER: A customer:Backstage
@@ -4583,7 +4583,7 @@ TITLE: Your finest wares
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
-SET: Default
+SET: Hardware Store
 DATE: 08/10/25
 CHARACTERS ================================
 CUSTOMER 1: Customer 1, couple:Backstage
@@ -4668,7 +4668,7 @@ TITLE: Request
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 SUSPECT: Suspect:Chair
@@ -4753,7 +4753,7 @@ TITLE: Intervention
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 PERSON: A person:Couch
@@ -4831,7 +4831,7 @@ TITLE: Ghost
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MAN: The husband:Entrance Stage Left
@@ -4922,7 +4922,7 @@ TITLE: Clown
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 COWBOY: Cowboy visitor:Backstage
@@ -5001,7 +5001,7 @@ TITLE: Bone Dry
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 BOSS: The boss:Boss Chair
@@ -5075,7 +5075,7 @@ TITLE: Just Toast
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 ERIC: Person named Eric:Center Stage
@@ -5150,7 +5150,7 @@ TITLE: Bardic Inspiration
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 SAD BARD: A sad bard:Center Stage
@@ -5236,7 +5236,7 @@ TITLE: Buy, Buy, Buy
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 BOSS: The boss:Boss Chair
@@ -5300,7 +5300,7 @@ TITLE: What's Cookin'?
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MOM: Ordinary mother:Kitchen
@@ -5360,7 +5360,7 @@ TITLE: Scam
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 BOB: Spouse 1:Couch
@@ -5435,7 +5435,7 @@ TITLE: Robot Informercial
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 SELLER: Billy Mays, Infomercial presenter:Center Stage
@@ -5493,7 +5493,7 @@ TITLE: Wizard Encounter
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 KNIGHT: Sir Arthur, brave knight:Center Stage
@@ -5590,7 +5590,7 @@ TITLE: Fantasy Insurance
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Prototype,Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 WANDERER: Wanderer:Center Stage
@@ -5657,7 +5657,7 @@ TITLE: Father
 AUTHOR: missingnickel
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Courtroom
 DATE: 08/10/25
 CHARACTERS ================================
 JUDGE: Judge:Backstage
@@ -5727,7 +5727,7 @@ TITLE: Afternoon Shopping
 AUTHOR: missingnickel
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 STORE CLERK: Store Clerk who works at the store:Behind Register
@@ -5813,7 +5813,7 @@ TITLE: Gaming
 AUTHOR: missingnickel
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MOTHER: a tired mother:Kitchen
@@ -5893,7 +5893,7 @@ TITLE: Not My Mom!
 AUTHOR: PsyKoJesterZ
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 SUSAN: Mom:Backstage
@@ -5956,7 +5956,7 @@ TITLE: Phone a Friend
 AUTHOR: Zen the Fen
 VERIFIED: True
 TAGS: Skit,Game Show
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 CHESTER: Chester, the game show contestant:Backstage
@@ -6036,7 +6036,7 @@ TITLE: An Unlikely Opportunity
 AUTHOR: Cloaked Schemer
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 LAZZIE: Long lost Father:Backstage
@@ -6168,7 +6168,7 @@ TITLE: Talkie Toaster
 AUTHOR: ruralist
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 KIRK: Employee Fixing Toaster:Center Stage
@@ -6237,7 +6237,7 @@ TITLE: Storytime Conflict
 AUTHOR: Cashmanigan
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 MONSTER: Antagonist "monster":Entrance Stage Right
@@ -6330,7 +6330,7 @@ TITLE: Cryptid Chaos
 AUTHOR: Basemisl
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 SQUIRREL: A very territorial forest squirrel.:Backstage
@@ -6445,7 +6445,7 @@ TITLE: The Summoning
 AUTHOR: Furfante
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 SUMMONER: Demon Summoner:Center Stage
@@ -6544,7 +6544,7 @@ TITLE: Hotel Marty-o
 AUTHOR: JamminJames22
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 BROWSER: Sneaky Villain:Stage Left
@@ -6652,7 +6652,7 @@ TITLE: The Coffee Case
 AUTHOR: Generator10
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 DETECTIVE PIKACHU: Detective Pikachu:Center Stage
@@ -6752,7 +6752,7 @@ TITLE: Hypnosis Hijinks
 AUTHOR: Basemisl
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 VILLAIN: Supervillain:Center Stage
@@ -6862,7 +6862,7 @@ TITLE: Another Lost Soul
 AUTHOR: Oerlikon
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 MYSTERIOUS CHARACTER: Mysterious character:Backstage
@@ -6939,7 +6939,7 @@ TITLE: Dumbgeons and Dragons
 AUTHOR: TrickySpookster
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 PIZZA GUY: Pizza Guy:Backstage
@@ -7048,7 +7048,7 @@ TITLE: DEBUG SCRIPT
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Debug,Skit
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 TEST CHARACTER: TEST:Center Stage
@@ -7070,7 +7070,7 @@ TITLE: Unexpected Pregnancy
 AUTHOR: JanieUwU
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 DOCTOR: The physician.:Entrance Stage Right
@@ -7198,7 +7198,7 @@ TITLE: Domination Operation
 AUTHOR: Generator10
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 PINKY: Pinky the Insane:Entrance Stage Left
@@ -7316,7 +7316,7 @@ TITLE: Romeo and Juliet
 AUTHOR: Basemisl
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 JULIET: Juliet:Backstage
@@ -7435,7 +7435,7 @@ TITLE: Lie detector
 AUTHOR: Bеtty
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 BOSS: Boss:Backstage
@@ -7573,7 +7573,7 @@ TITLE: Psychic Medium
 AUTHOR: TrickySpookster
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MEDIUM: Psychic Medium:Center Stage
@@ -7652,7 +7652,7 @@ TITLE: Alien Incursion
 AUTHOR: spurstx
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 STORYTELLER: Narrator, is AFRAID CIVILIAN in the future:Narrator Podium
@@ -7721,7 +7721,7 @@ TITLE: Fitness Class
 AUTHOR: Ziggy Darkglow
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 HOMEBODY 2: Joining in with your friend:Stage Left
@@ -7798,7 +7798,7 @@ TITLE: El Explorador
 AUTHOR: JanieUwU
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 BADGUY: Bad Guy (Small part):Backstage
@@ -7903,7 +7903,7 @@ TITLE: The Divorce
 AUTHOR: thetrashmonarch
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 CHILD: The young child.:Backstage
@@ -7970,7 +7970,7 @@ TITLE: Absorbent Infomercial
 AUTHOR: JanieUwU
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 CUSTOMER2: Generic Customer NPC:Backstage
@@ -8027,7 +8027,7 @@ TITLE: Something Extra
 AUTHOR: IvoryFluff
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 PATIENT: The patient awaiting treatment.:Examination Table
@@ -8098,7 +8098,7 @@ TITLE: The Greatest Tattoo
 AUTHOR: Cloaked Schemer
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 GUY: Guy Getting a sick new tattoo:Backstage
@@ -8191,7 +8191,7 @@ TITLE: Kaiju Interrogation
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 ALIEN: An alien. The real culprit behind Japan’s destruction.:Backstage
@@ -8263,7 +8263,7 @@ TITLE: Villain Speech
 AUTHOR: LuckyLuigiX4
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 SUPER VILLAIN: Villain, The one in Control:Entrance Stage Right
@@ -8344,7 +8344,7 @@ TITLE: Detention
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 TEACHER: Teacher watching over detention:Teacher Desk
@@ -8432,7 +8432,7 @@ TITLE: Deep Cover Dinner
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 OTHER GUEST: Fancy dinner guest:Narrator Podium
@@ -8533,7 +8533,7 @@ TITLE: The Bakeoff
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 CHEF1: Chef Charlie:Stage Left
@@ -8599,7 +8599,7 @@ TITLE: The Love Letter
 AUTHOR: Dangerzone50
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 TEACHER: The Teacher:Teacher Desk
@@ -8676,7 +8676,7 @@ TITLE: Clue
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 POLICEMAN: The One Who Takes Mrs. Peacock into custody:Backstage
@@ -8767,7 +8767,7 @@ TITLE: The Idiotic Debate
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Political Debate USA
 DATE: 08/10/25
 CHARACTERS ================================
 INTERVIEWER: The One who Interviews:Moderator Table
@@ -8884,7 +8884,7 @@ TITLE: The Dog of Wall Street
 AUTHOR: Jamin'Jelly
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 TB: The Boss:Backstage
@@ -8953,7 +8953,7 @@ TITLE: First Date
 AUTHOR: _Malphas
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 NERVOUS PERSON: A very antsy person meeting their date for the first time:Center Stage
@@ -9068,7 +9068,7 @@ TITLE: It's Broken!
 AUTHOR: Dangerzone50
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Hardware Store
 DATE: 08/10/25
 CHARACTERS ================================
 SON: Son:Center Stage
@@ -9135,7 +9135,7 @@ TITLE: The Witches Potion
 AUTHOR: Cloaked Schemer
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Infomercial Bathroom
 DATE: 08/10/25
 CHARACTERS ================================
 WITCH: A Very Evil Witch brewing a potion:Entrance Stage Right
@@ -9246,7 +9246,7 @@ TITLE: Make a Wish
 AUTHOR: Gibus_the_Gibus
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 RELATIVE: Family relative:Backstage
@@ -9313,7 +9313,7 @@ TITLE: But I'm a Vtuber
 AUTHOR: KuraiOkamiWolf
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 KID: Marvin, A Content Creator:Backstage
@@ -9417,7 +9417,7 @@ TITLE: Howdy Neighbor!
 AUTHOR: Jamin'Jelly
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 COOK: The Cook:Grill
@@ -9508,7 +9508,7 @@ TITLE: I Don't Wanna Eat My Veggies
 AUTHOR: Danny Grey
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 DAD: Father:Chair 2
@@ -9633,7 +9633,7 @@ TITLE: VRChat Update
 AUTHOR: Bеtty
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 VRCHAT DEVELOPER: VRChat Developer:Center Stage
@@ -9687,7 +9687,7 @@ TITLE: House Antics
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 NOAH: Noah:Couch
@@ -9771,7 +9771,7 @@ TITLE: Quiz Quandary Gameshow!
 AUTHOR: Panda oᴥo
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 JUDGE: Stern-faced Judge:Narrator Podium
@@ -9831,7 +9831,7 @@ TITLE: Celebrity Quizzards
 AUTHOR: GSGenesis
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 GENE SISBON: Gene Sisbon, Host:Host Podium
@@ -9936,7 +9936,7 @@ TITLE: Batman meets the Riddler
 AUTHOR: Bеtty
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 BATMAN: Batman, Superhero:Backstage
@@ -10062,7 +10062,7 @@ TITLE: Hero School: The 1st Day
 AUTHOR: Metru Blizzaga
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 KODOMO: The Problem Student, Kodomo:Desk 5
@@ -10156,7 +10156,7 @@ TITLE: Sponsored Apology
 AUTHOR: Asuraisop
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 YOUTUBER: Youtuber:Couch
@@ -10232,7 +10232,7 @@ TITLE: A Good Day to Die
 AUTHOR: IshikawaSAC
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 SIDEKICK: A small, nervous assistant:Stage Right
@@ -10296,7 +10296,7 @@ TITLE: Meet the Meat.
 AUTHOR: Myrddyn
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 DATEE: A Woman out on a date:Backstage
@@ -10388,7 +10388,7 @@ TITLE: AI Generated Wife
 AUTHOR: Cloaked Schemer
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 SALE: Tech company salesperson:Boss Chair
@@ -10505,7 +10505,7 @@ TITLE: Cold Rivals
 AUTHOR: RandomTF2
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 AGENT: Secret Service Agent for the U.S Government.:Backstage
@@ -10588,7 +10588,7 @@ TITLE: Outdoor Infomercial
 AUTHOR: Hiddendemonsoul
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 COMFY DAD: Dad:Camping chair
@@ -10646,7 +10646,7 @@ TITLE: Decision Night
 AUTHOR: IshikawaSAC
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Political Debate USA
 DATE: 08/10/25
 CHARACTERS ================================
 CANDIDATE 2: A generic presidential candidate:Podium Stage Left
@@ -10724,7 +10724,7 @@ TITLE: Wrong Delivery
 AUTHOR: Gibus_the_Gibus
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 COURIER: Delivery Guy, delivering the pizza.:Backstage
@@ -10789,7 +10789,7 @@ TITLE: Lie Detector Gameshow
 AUTHOR: freshclover
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 LOVER 2: Obsessive lover, contestant:Contestant Podium 2
@@ -10920,7 +10920,7 @@ TITLE: Good-Cop Bad-Cop Gone Wrong
 AUTHOR: Shalazar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 MARK: Good-Cop (Avatar with gun helps):Stage Left
@@ -11050,7 +11050,7 @@ TITLE: Yard-time Antics
 AUTHOR: AnObviousTrap
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 PARENT: Parent:Grill
@@ -11123,7 +11123,7 @@ TITLE: One crazy night
 AUTHOR: Mr Mcree
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MOTHER: Single Mother:Backstage
@@ -11193,7 +11193,7 @@ TITLE: VrChat Kamping
 AUTHOR: Envizo
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 CAMPER1: Ditsy camper:Stump chair
@@ -11289,7 +11289,7 @@ TITLE: The Substitute
 AUTHOR: LoonaWusky
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 TEACHER: A weird substitute teacher for the day:Entrance Stage Left
@@ -11364,7 +11364,7 @@ TITLE: Wibbly Wobbly
 AUTHOR: ~×cozy×~
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 SALLY: Sally(love interest):Stage Left
@@ -11436,7 +11436,7 @@ TITLE: A Non Suspicious Meeting
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 THE BOSS: The Boss:Stage Right
@@ -11547,7 +11547,7 @@ TITLE: The Karen Saga
 AUTHOR: JoeyPie
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 BABY: A baby with a deep voice speaking perfect english:Backstage
@@ -11648,7 +11648,7 @@ TITLE: Redemption
 AUTHOR: Lazer Xiao Long
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 VILLAIN: The Villain:Stage Left
@@ -11766,7 +11766,7 @@ TITLE: The night before Christmas
 AUTHOR: Deadly~Lex
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 SANTA CLAUS: Santa Claus:Backstage
@@ -11844,7 +11844,7 @@ TITLE: Villainous Venue
 AUTHOR: AnObviousTrap
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 PVAIN: Party Dude:Backstage
@@ -11932,7 +11932,7 @@ TITLE: Christmas Thievery
 AUTHOR: MrShark97
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 CHILD: A small child:Side Door
@@ -12006,7 +12006,7 @@ TITLE: Some Tasty Business
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 BOSS: The Boss, tasting the food:Boss Chair
@@ -12092,7 +12092,7 @@ TITLE: The Tv
 AUTHOR: ᴛʜᴇ ᴋɴᴀᴠᴇ
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 DEMONIC THE TV GHOST: The Ghost that comes out of tvs:Backstage
@@ -12196,7 +12196,7 @@ TITLE: The Love Doctor
 AUTHOR: CinnaBunBunn
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 DOCTOR: Love Doctor:Center Stage
@@ -12264,7 +12264,7 @@ TITLE: Is That True?!
 AUTHOR: MrShark97
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 CONTESTANT2: Contestant #2:Contestant Podium 2
@@ -12359,7 +12359,7 @@ TITLE: An Unexpected Tale
 AUTHOR: LoonaWusky
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 GABRIEL: A person that loves telling scary stories:Camping chair
@@ -12432,7 +12432,7 @@ TITLE: But the BBEG was hot
 AUTHOR: MrShark97
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 BARD: Bard:Stage Right
@@ -12497,7 +12497,7 @@ TITLE: Wonder of the Woods
 AUTHOR: TiffanyMoon
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 CREATURE: The creature:Backstage
@@ -12574,7 +12574,7 @@ TITLE: Holidays with grandma
 AUTHOR: jasthefrog
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 STEVEN: Steven is the hated child:Backstage
@@ -12669,7 +12669,7 @@ TITLE: Check Your Phone!
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 ALEX: Alex, College student:Entrance Stage Left
@@ -12774,7 +12774,7 @@ TITLE: The Magic Show
 AUTHOR: ~×cozy×~
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 MAGICIAN: Magician:Center Stage
@@ -12830,7 +12830,7 @@ TITLE: Resurrection
 AUTHOR: Lazer Xiao Long
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest Bridge
 DATE: 08/10/25
 CHARACTERS ================================
 WARRIOR: Hero's friend:On bridge
@@ -12927,7 +12927,7 @@ TITLE: Bah Humbug!
 AUTHOR: PuppyShogun
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 SCROOGE: Ebenezer Scrooge:Center Stage
@@ -13017,7 +13017,7 @@ TITLE: So-Not-A-Monster
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 MONSTER: The forest monster:Backstage
@@ -13123,7 +13123,7 @@ TITLE: Shark Tank Pitch
 AUTHOR: Jasperwolf08
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 CONTESTANT: Contestant:Host Podium
@@ -13199,7 +13199,7 @@ TITLE: Ilegally Blind
 AUTHOR: Melo the Marten
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 DOCTOR: Bad doctor:Teacher Desk
@@ -13281,7 +13281,7 @@ TITLE: Monster of the Week
 AUTHOR: Cy Bunny
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 MONSTER: A Monster based on an Animal:Center Stage
@@ -13391,7 +13391,7 @@ TITLE: Cooking Show
 AUTHOR: 
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 HOST: The Host:Entrance Stage Right
@@ -13478,7 +13478,7 @@ TITLE: Happy Birthday!
 AUTHOR: scottytheghost
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 CELEBRITY: A famous celebrity:Backstage
@@ -13582,7 +13582,7 @@ TITLE: The Sink Demon
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 THE FATHER: The Worried Father:Stage Right
@@ -13683,7 +13683,7 @@ TITLE: Three Wishes
 AUTHOR: scottytheghost
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 GENIE: The genie:Backstage
@@ -13797,7 +13797,7 @@ TITLE: The Shake
 AUTHOR: scottytheghost
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 FRIEND3: The victim:Chair 1
@@ -13875,7 +13875,7 @@ TITLE: Hot Alien Invader
 AUTHOR: LongPinkNoodle
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Political Debate USA
 DATE: 08/10/25
 CHARACTERS ================================
 ALIEN: An Alien Invader.:Center Stage
@@ -13988,7 +13988,7 @@ TITLE: Bear Camping
 AUTHOR: Raven Android
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 FATHER: Out of Touch Father:Center Stage
@@ -14091,7 +14091,7 @@ TITLE: Emergency Meeting
 AUTHOR: scottytheghost
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 PURPLE: Purple, the reasonable one:Stage Left
@@ -14184,7 +14184,7 @@ TITLE: The Forbidden Fruit
 AUTHOR: Senty
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 SNAKE: A snake demon wanting to tempt others into sin:Backstage
@@ -14311,7 +14311,7 @@ TITLE: The Daily News
 AUTHOR: OzbendPrime
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 NEWS CASTER: News Caster:News Desk
@@ -14373,7 +14373,7 @@ TITLE: Twin Trouble
 AUTHOR: MrShark97
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 WIFE: Wife:Couch
@@ -14448,7 +14448,7 @@ TITLE: Stop the Wedding!
 AUTHOR: Femalesonicexe
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 BRIDE: the bride of the wedding:Stage Left
@@ -14516,7 +14516,7 @@ TITLE: The Company Problem
 AUTHOR: WienerStaffel
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 FRANKLIN: The normal worker:Office Chair 3
@@ -14599,7 +14599,7 @@ TITLE: The Aquarium
 AUTHOR: Envizo
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 CHARLIE: A Betta fish that thinks they have the superior looks of the tank.:Center Stage
@@ -14689,7 +14689,7 @@ TITLE: Wrong Store
 AUTHOR: TotallyNotAYP
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 CASHIER: Bored Cashier:Behind Register
@@ -14759,7 +14759,7 @@ TITLE: The Stealer
 AUTHOR: djbaby faced
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 CAMERAMAN: Robber disguised as a cameraman:Center Stage
@@ -14821,7 +14821,7 @@ TITLE: New Phone
 AUTHOR: Ｒｅｃｋｅｒ８９７
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 RECKER: RECKER:Backstage
@@ -14899,7 +14899,7 @@ TITLE: You owe me
 AUTHOR: TheyLuvStrawbyy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 PATIENT: Patient:Examination Table
@@ -14967,7 +14967,7 @@ TITLE: Director's Cut
 AUTHOR: scottytheghost
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 DIRECTOR: The director:Entrance Stage Right
@@ -15084,7 +15084,7 @@ TITLE: Psychic Arrest
 AUTHOR: Senty
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 PSYCHIC: A psychic who's shorter than everyone else in the room:Backstage
@@ -15228,7 +15228,7 @@ TITLE: Who's Tippin?
 AUTHOR: OzbendPrime
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 THE WAITER: The Waiter:Backstage
@@ -15379,7 +15379,7 @@ TITLE: Rhymes of Healing
 AUTHOR: WienerStaffel
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 DOCTOR: Doctor:Backstage
@@ -15447,7 +15447,7 @@ TITLE: Haunted Forest
 AUTHOR: Ｒｅｃｋｅｒ８９７
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 GHOST: Big ol’ Ghost:Backstage
@@ -15555,7 +15555,7 @@ TITLE: Stereo Salmon Commercial
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Forest Bridge
 DATE: 08/10/25
 CHARACTERS ================================
 BILLY: Ranger Billy Mays:Entrance Stage Right
@@ -15627,7 +15627,7 @@ TITLE: Crazy Breakup
 AUTHOR: potainasaor
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 VTUBER: Youtuber:Backstage
@@ -15710,7 +15710,7 @@ TITLE: Attic Monster
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MONSTER: Monster from the Attic:Entrance Stage Left
@@ -15800,7 +15800,7 @@ TITLE: Detective's Luck
 AUTHOR: TiffanyMoon
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 LADY: A Mysterious Lady:Entrance Stage Left
@@ -15868,7 +15868,7 @@ TITLE: Imaginary Friends
 AUTHOR: SuperNova77
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 IVAN: Ivan, The Lonely Kid:Couch
@@ -15980,7 +15980,7 @@ TITLE: We Do Things Old School
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 TEACHER: The teacher:Teacher Desk
@@ -16058,7 +16058,7 @@ TITLE: The Tomato Timeline
 AUTHOR: Jar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 JOHN: John, dinner host:Center Stage
@@ -16139,7 +16139,7 @@ TITLE: Timezone Trouble
 AUTHOR: TotallyNotAYP
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 JAMES: The host:Chair 1
@@ -16224,7 +16224,7 @@ TITLE: Unwilling Test Subject
 AUTHOR: Phantom
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 JONAS: Jonas, a gullible kid.:Chair
@@ -16329,7 +16329,7 @@ TITLE: sidequest upon sidequest
 AUTHOR: ねこunknownねこ
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 BARTH: Bartholomuel:Entrance Stage Right
@@ -16423,7 +16423,7 @@ TITLE: Wanna Sprite Cranberry?
 AUTHOR: Phantom
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 TELECASTER: Herald of impending doom.:Backstage
@@ -16529,7 +16529,7 @@ TITLE: Shark Tank
 AUTHOR: Paperclip95
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 CREATOR: Creator of the Product:Backstage
@@ -16612,7 +16612,7 @@ TITLE: Assassination Attempt
 AUTHOR: SuperNova77
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 WOLF: Agent Wolfe, The Assassin:Stage Left
@@ -16706,7 +16706,7 @@ TITLE: Clone Encounters
 AUTHOR: TrickySpookster
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 CLONE: Wife's Evil Clone (Use Same Avatar):Corner Left
@@ -16794,7 +16794,7 @@ TITLE: Court Case: Horsing Around
 AUTHOR: SuperNova77
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Courtroom
 DATE: 08/10/25
 CHARACTERS ================================
 SUN: Sunny Shine, The Witness:Plaintiff Door
@@ -16905,7 +16905,7 @@ TITLE: Unfortunate Game Show
 AUTHOR: Oerlikon
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 HOST: Suspicious Gameshow Host:Host Podium
@@ -16990,7 +16990,7 @@ TITLE: Snooze News
 AUTHOR: TiffanyMoon
 VERIFIED: True
 TAGS: Skit,Infomercial
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 ANCHOR: News Head Anchor:News Desk
@@ -17050,7 +17050,7 @@ TITLE: Meet the Shapeshifter
 AUTHOR: Pumgumgum
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 WIZ: The Grand Wizard, disturbed by the noise in the castle:Backstage
@@ -17158,7 +17158,7 @@ TITLE: The Unkillable Soldier
 AUTHOR: kiro-sage
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 ES: Enemy Soldier:Entrance Stage Left
@@ -17263,7 +17263,7 @@ TITLE: There's No Time
 AUTHOR: MrKite6
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 TT: Time-Traveller:Backstage
@@ -17350,7 +17350,7 @@ TITLE: It's A Boy
 AUTHOR: MrKite6
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 NR: Nurse:Entrance Stage Right
@@ -17413,7 +17413,7 @@ TITLE: A Special Gift
 AUTHOR: MrKite6
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 SC: The Strange Creature:Backstage
@@ -17494,7 +17494,7 @@ TITLE: Troll Hunters
 AUTHOR: ~ Evie ~
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest Bridge
 DATE: 08/10/25
 CHARACTERS ================================
 SKEPTIC: Skeptic:Backstage
@@ -17576,7 +17576,7 @@ TITLE: Anime Detectives
 AUTHOR: FrostyApri
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 D: Detective:Entrance Stage Right
@@ -17653,7 +17653,7 @@ TITLE: Dish Fiasco
 AUTHOR: 
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 IAN: Ian the taste tester:Entrance Stage Left
@@ -17716,7 +17716,7 @@ TITLE: Positive Prisoners
 AUTHOR: LongPinkNoodle
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 PRISONER: Prisoner who is just happy to be here.:Chair
@@ -17810,7 +17810,7 @@ TITLE: The Haunted Doll
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 HYBRID: A Hybrid expiriment:Backstage
@@ -17928,7 +17928,7 @@ TITLE: Jesse we need to cook!
 AUTHOR: Awbluefy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 WALTER: Definitely Walter White ;):Entrance Stage Right
@@ -17997,7 +17997,7 @@ TITLE: The lady's food
 AUTHOR: petihun4
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 LADY: Lady:Center Stage
@@ -18076,7 +18076,7 @@ TITLE: Hungry Wish
 AUTHOR: MrMonster_TV
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 ADULT: Adult:Couch
@@ -18144,7 +18144,7 @@ TITLE: Personal Injury Lawyers
 AUTHOR: Stitcharoo
 VERIFIED: True
 TAGS: Skit,Infomercial
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 LAW2: Lawyer 2:Entrance Stage Left
@@ -18214,7 +18214,7 @@ TITLE: Evil Ambassador
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Political Debate USA
 DATE: 08/10/25
 CHARACTERS ================================
 PRES: Johnny President:Center Stage
@@ -18285,7 +18285,7 @@ TITLE: Doesn't-Work-Shop
 AUTHOR: Valhymm
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Hardware Store
 DATE: 08/10/25
 CHARACTERS ================================
 FRANK: Frank, the eccentric hardware store owner:Behind Register
@@ -18386,7 +18386,7 @@ TITLE: The Funniest Man Alive
 AUTHOR: kiro-sage
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 FRIEND: A concerned friend:Entrance Stage Right
@@ -18464,7 +18464,7 @@ TITLE: The Alien
 AUTHOR: imoriginal
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 ALIEN: Alien:Backstage
@@ -18542,7 +18542,7 @@ TITLE: The Overly Rich Content Creator
 AUTHOR: morchogames
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 MANAGER: The Store Manager:Backstage
@@ -18623,7 +18623,7 @@ TITLE: Dice Bot 2000!
 AUTHOR: LuckyLuigiX4
 VERIFIED: True
 TAGS: Skit,Infomercial
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 LATEGUY: The Late Player:Backstage
@@ -18703,7 +18703,7 @@ TITLE: Oh my Darling!
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 JAMEE: Jamee The secret lover:Backstage
@@ -18789,7 +18789,7 @@ TITLE: Our New Neighbor Sucks
 AUTHOR: TrickySpookster
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 BRUCE: Bruce, Husband:Grill
@@ -18890,7 +18890,7 @@ TITLE: Dinner Party for One
 AUTHOR: Tricky_Hunter
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 BILL: Main Character:Entrance Stage Right
@@ -18961,7 +18961,7 @@ TITLE: The Emotion Fairy
 AUTHOR: Figbean
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 ALEX: A person who can't control their emotions:Couch
@@ -19033,7 +19033,7 @@ TITLE: Quarterly Freakout Meds
 AUTHOR: Tricky_Hunter
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 BOSS: Boring Boss:Boss Chair
@@ -19105,7 +19105,7 @@ TITLE: Deceitful News Broadcast
 AUTHOR: Tricky_Hunter
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 ANCHOR: Studio news anchor:News Desk
@@ -19158,7 +19158,7 @@ TITLE: The Court Jester
 AUTHOR: 
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 JESTER: The Jester (Use knife Avatar):Entrance Stage Left
@@ -19229,7 +19229,7 @@ TITLE: Grocery Confusion
 AUTHOR: Tricky_Hunter
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 CASHIER: Cashier:Behind Register
@@ -19293,7 +19293,7 @@ TITLE: Noir roommates
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 RANDY: Guilty Roommate:Backstage
@@ -19381,7 +19381,7 @@ TITLE: The Beast of corkingdale bog
 AUTHOR: ~°Mısanʇhrope°~
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 STEVE: Camper 3:Rock chair
@@ -19482,7 +19482,7 @@ TITLE: Mad Doctor
 AUTHOR: Gibus_the_Gibus
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 DOCTOR: An evil genius doctor hellbent on ruling the world.:Center Stage
@@ -19567,7 +19567,7 @@ TITLE: Machine Learning
 AUTHOR: Kadena
 VERIFIED: True
 TAGS: Prototype
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 ROBOT: Robot:Backstage
@@ -19682,7 +19682,7 @@ TITLE: The Unbelievable Update
 AUTHOR: тaсo
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 ANALYST: Dr. Emily Parker, Analyst:News Desk
@@ -19747,7 +19747,7 @@ TITLE: Repugnantation
 AUTHOR: Lazer Xiao Long
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 NARRATOR: Commentator:Narrator Podium
@@ -19869,7 +19869,7 @@ TITLE: New Product!
 AUTHOR: TiffanyMoon
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 PROTO: A clumsy yet lovable tinkerer:Office Chair 2
@@ -19932,7 +19932,7 @@ TITLE: Obscure Potion
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 SELL: Seller of potions:Center Stage
@@ -20014,7 +20014,7 @@ TITLE: The Villain Council
 AUTHOR: DaKcBomb
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Courtroom
 DATE: 08/10/25
 CHARACTERS ================================
 KING: The Most Evil Villain:Judge Chair
@@ -20113,7 +20113,7 @@ TITLE: Villain Rehab
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 HA: The Villain Handler:Boss Chair
@@ -20209,7 +20209,7 @@ TITLE: Goodies Inspection
 AUTHOR: PigeonVa
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest Bridge
 DATE: 08/10/25
 CHARACTERS ================================
 GUARD: Guard:On bridge
@@ -20302,7 +20302,7 @@ TITLE: Cowboy Duel
 AUTHOR: SPIDΣR ZΔZZULΣ
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 WILLY: Willy The Cowboy:Entrance Stage Right
@@ -20380,7 +20380,7 @@ TITLE: A Medical Disaster
 AUTHOR: Cyrus?
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 DOCTOR: Doctor that doesn't have a PHD:Desk
@@ -20448,7 +20448,7 @@ TITLE: Demon King Disaster
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 LESSER DEMON: Lesser Demon:Backstage
@@ -20552,7 +20552,7 @@ TITLE: Yummy Yum Yummy
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 CHILD: Silly Child:Stage Left
@@ -20648,7 +20648,7 @@ TITLE: Biology Class
 AUTHOR: Valhymm
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 BEN: Ben, a pupil:Desk 3
@@ -20720,7 +20720,7 @@ TITLE: News Channel Chaos
 AUTHOR: GameBot 2000
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 TOM: Thomas the news reporter:News Desk
@@ -20839,7 +20839,7 @@ TITLE: Oddly Named Recruit
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 COM: Oblivious Commander:Detective Chair
@@ -20945,7 +20945,7 @@ TITLE: Physical Gaming
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 EMP: Game store employee:Behind Register
@@ -21046,7 +21046,7 @@ TITLE: Burn the Outlaw!
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 LAD: Lover:Balcony
@@ -21152,7 +21152,7 @@ TITLE: Competitive Gaslighting
 AUTHOR: kiro-sage
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 HOST: The game show host with magical powers:Center Stage
@@ -21279,7 +21279,7 @@ TITLE: You Shall Not Pass!
 AUTHOR: DaKcBomb
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 WIZ: All Powerful Wizard:Backstage
@@ -21404,7 +21404,7 @@ TITLE: Fur-tastic Frenzy Gameshow
 AUTHOR: ReefissDaMerpup
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 HOST: Alex:Host Podium
@@ -21487,7 +21487,7 @@ TITLE: The questionable news
 AUTHOR: imoriginal
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 BOOMER: Old newscaster:News Desk
@@ -21553,7 +21553,7 @@ TITLE: Chemistry Class
 AUTHOR: Valhymm
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 TEACH: Teacher:Entrance Stage Left
@@ -21662,7 +21662,7 @@ TITLE: Physics Class
 AUTHOR: Valhymm
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 BEN: Ben, a pupil:Desk 3
@@ -21769,7 +21769,7 @@ TITLE: Christmas Caper
 AUTHOR: Zen the Fen
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 SANTA: Santa Claus:Backstage
@@ -21876,7 +21876,7 @@ TITLE: The Sponsor
 AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 BOSS: Boss of business:Boss Chair
@@ -21958,7 +21958,7 @@ TITLE: Satan's Suggestive Sentencing
 AUTHOR: Hylactic
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Courtroom
 DATE: 08/10/25
 CHARACTERS ================================
 SATAN: Satan, The literal Devil:Judge Chair
@@ -22022,7 +22022,7 @@ TITLE: Wrong Order
 AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 JOSH: Boyfriend:Entrance Stage Right
@@ -22114,7 +22114,7 @@ TITLE: Public Service announcement
 AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 POLICE MAN: Armed police man:Backstage
@@ -22180,7 +22180,7 @@ TITLE: The Standoff
 AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 ANGUS: Cowboy out for revenge:Stage Left
@@ -22275,7 +22275,7 @@ TITLE: Good cop, bad cop
 AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 OTHER COP: Cop researching:Corner Right 
@@ -22379,7 +22379,7 @@ TITLE: Concrete Alibi
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 ALEX: Alex, Laid Back Jokester:Entrance Stage Right
@@ -22471,7 +22471,7 @@ TITLE: Don’t I know you?
 AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 JERRY: Celebrity:Stage Left
@@ -22550,7 +22550,7 @@ TITLE: Date Night
 AUTHOR: scottytheghost
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 WAITER: The waiter:Entrance Stage Left
@@ -22682,7 +22682,7 @@ TITLE: Juice Stand
 AUTHOR: scottytheghost
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 EMPLOYEE: A disgruntled employee:Entrance Stage Left
@@ -22756,7 +22756,7 @@ TITLE: Actor Anarchy
 AUTHOR: kiro-sage
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 DOC: The Doctor actor:Narrator Podium
@@ -22846,7 +22846,7 @@ TITLE: It’s In My Mouth
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 RICH: Greasy friend:Stage Right
@@ -22947,7 +22947,7 @@ TITLE: Date with a Blockchain Romeo
 AUTHOR: SenorconQueso
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 CHAD: Certified Crypto Bro:Stage Left
@@ -23005,7 +23005,7 @@ TITLE: Duel at the Alright Corral
 AUTHOR: Tricky_Hunter
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 CLOWN: Clown Gun Slinger/Sheriff:Entrance Stage Right
@@ -23075,7 +23075,7 @@ TITLE: Accidental Actor
 AUTHOR: TheCatCatBoi
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 ACTOR3: Real actor:Backstage
@@ -23180,7 +23180,7 @@ TITLE: The Trial of the Witch
 AUTHOR: SenorconQueso
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Courtroom
 DATE: 08/10/25
 CHARACTERS ================================
 AGATHA: Agatha, the Accused Witch:Witness Stand
@@ -23246,7 +23246,7 @@ TITLE: Time Traveling Out West
 AUTHOR: TrickySpookster
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 KEITH: Keith:Backstage
@@ -23355,7 +23355,7 @@ TITLE: Time cops
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 TIME: Time traveler:Backstage
@@ -23469,7 +23469,7 @@ TITLE: The Case Of The Taco Bell Mild Sauce
 AUTHOR: The_Dapper_Cat
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 THIEF: Taco bell Thief:Backstage
@@ -23586,7 +23586,7 @@ TITLE: Downtown Dilemma
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 LOCA: On-location reporter:Fake Street Backdrop
@@ -23665,7 +23665,7 @@ TITLE: Lap it up
 AUTHOR: PigeonVa
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 COP: Police Officer:Backstage
@@ -23749,7 +23749,7 @@ TITLE: Sunshine Showdown
 AUTHOR: TiffanyMoon
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 SHERIFF: A kind-hearted protector:Stage Left
@@ -23825,7 +23825,7 @@ TITLE: Backyard Beast
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 GUY: Regular person:Grill
@@ -23922,7 +23922,7 @@ TITLE: The Maid Master
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 MASTER: The Master:Center Stage
@@ -24024,7 +24024,7 @@ TITLE: Quest Gone Wrong
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 PRIEST: Selfish priest:Entrance Stage Left
@@ -24141,7 +24141,7 @@ TITLE: Raid Garbagé
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 BOSS: The hammy leader:Center Stage
@@ -24222,7 +24222,7 @@ TITLE: Dubious Cereal
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 DIR: Director:Narrator Podium
@@ -24295,7 +24295,7 @@ TITLE: New Chimera
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 SCI: The Scientist:Entrance Stage Right
@@ -24374,7 +24374,7 @@ TITLE: Wine, With a Side of Death
 AUTHOR: SenorconQueso
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 PARAMEDIC: An EMT:Backstage
@@ -24492,7 +24492,7 @@ TITLE: Karen Rap Battle
 AUTHOR: TheCatCatBoi
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 EMPLOYEE: The confused employee:Behind Register
@@ -24562,7 +24562,7 @@ TITLE: Doofy Draw
 AUTHOR: PigeonVa
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 COW: Cowboy:Entrance Stage Right
@@ -24646,7 +24646,7 @@ TITLE: Death Row Gameshow
 AUTHOR: Hexarch
 VERIFIED: True
 TAGS: Skit,Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 EXECUTIONER: Stanley, The Executioner:Stage Right
@@ -24741,7 +24741,7 @@ TITLE: Welcome To The Family
 AUTHOR: OzbendPrime
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 COP: The Undercover Cop:Backstage
@@ -24872,7 +24872,7 @@ TITLE: Time Travel Tomfoolery
 AUTHOR: jasthefrog
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 ROY: Roy, the leader:Center Stage
@@ -24983,7 +24983,7 @@ TITLE: Mild, Mild West
 AUTHOR: Valhymm
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 BLACKHAT: The real bad guy:Balcony
@@ -25108,7 +25108,7 @@ TITLE: Mafi-Oh-So Wrong!
 AUTHOR: Midnight Spark
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 BOSS: The big boss:Detective Chair
@@ -25208,7 +25208,7 @@ TITLE: That woman is so weird
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 MANDY: The wierd mom:Entrance Stage Left
@@ -25298,7 +25298,7 @@ TITLE: Conflicting Identities
 AUTHOR: AnObviousTrap
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 GUN2: Gunslinger with a worse name:Stage Left
@@ -25369,7 +25369,7 @@ TITLE: Psycho Sister
 AUTHOR: TheOnlyRobie
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 VINCENT: Vincent (Psycho Sister's Brother):Couch
@@ -25474,7 +25474,7 @@ TITLE: The Sock Snatcher
 AUTHOR: TheCatCatBoi
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MOM: The mother:Side Door
@@ -25539,7 +25539,7 @@ TITLE: Battlefield confessions
 AUTHOR: AsheWHY
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 PRIVATE: A new, scared private:Entrance Stage Right
@@ -25606,7 +25606,7 @@ TITLE: Monopoly Night
 AUTHOR: Tztsuya-Shiba
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 BBY: The Newborn Baby:Stage Left
@@ -25774,7 +25774,7 @@ TITLE: Hero or Zero
 AUTHOR: 
 VERIFIED: True
 TAGS: Contains Adult Innuendo
-SET: Default
+SET: Political Debate USA
 DATE: 08/10/25
 CHARACTERS ================================
 PRES: President:Moderator Table
@@ -25866,7 +25866,7 @@ TITLE: Jesus and Buddha
 AUTHOR: IdleGav
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 JESUS: Jesus:Entrance Stage Right
@@ -25942,7 +25942,7 @@ TITLE: Pokémon Explorers Guild Rivalry
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Forest Bridge
 DATE: 08/10/25
 CHARACTERS ================================
 LUCARIO: Edgy Lucario:Entrance Stage Right
@@ -26041,7 +26041,7 @@ TITLE: Gimme yer booty!
 AUTHOR: OzbendPrime
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 STORE MANAGER: The store manager:Backstage
@@ -26113,7 +26113,7 @@ TITLE: Rap Battle
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 CHUMP: The Chump:Center Stage
@@ -26178,7 +26178,7 @@ TITLE: Wall Spies
 AUTHOR: kiro-sage
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 GUARD2: Bad Kingdom guard:Backstage
@@ -26281,7 +26281,7 @@ TITLE: It's To Die For
 AUTHOR: Tztsuya-Shiba
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 GF: The Lovely Girlfriend:Entrance Stage Right
@@ -26431,7 +26431,7 @@ TITLE: Kart-Astrophe
 AUTHOR: MGLR
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Hardware Store
 DATE: 08/10/25
 CHARACTERS ================================
 TERRY: Terry, the racer:Entrance Stage Left
@@ -26508,7 +26508,7 @@ TITLE: Absurd Alert
 AUTHOR: GameAdvent2
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 REPORTER: Field Reporter:Fake Street Backdrop
@@ -26553,7 +26553,7 @@ TITLE: Milkshake Factory
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Contains Adult Innuendo
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 RUMSAY: Chef Rumsay:Center Stage
@@ -26614,7 +26614,7 @@ TITLE: Can We Keep It?
 AUTHOR: piks23
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 CREATURE: Some type of weird creature:Backstage
@@ -26692,7 +26692,7 @@ TITLE: Short Term Memory Game Show
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 PERSON2: A young man:Backstage
@@ -26779,7 +26779,7 @@ TITLE: The Streaker
 AUTHOR: MindlessGonzo
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 ANDY: Andy The Reporter:Stage Right
@@ -26854,7 +26854,7 @@ TITLE: The Pizza Mafia Meeting
 AUTHOR: XenoFlameVR
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 SERENA: Member:Entrance Stage Left
@@ -26937,7 +26937,7 @@ TITLE: A Terrible Accident
 AUTHOR: HolidayWither
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 OFFICER: A Confused Officer:Corner Left
@@ -27022,7 +27022,7 @@ TITLE: Traffic Light Committee
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 EMPLOYEE3: Employee #3:Backstage
@@ -27084,7 +27084,7 @@ TITLE: A visit to grandpas
 AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 BUTLER: Grandpas butler:Side Door
@@ -27159,7 +27159,7 @@ TITLE: Shocking Development
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 TOM: Tom the Broadcaster:News Desk
@@ -27222,7 +27222,7 @@ TITLE: In Love with a Slasher
 AUTHOR: QuinnbyVR
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 LONE: the lonely girl looking for a date:Center Stage
@@ -27342,7 +27342,7 @@ TITLE: Possessed Toilet
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Infomercial Bathroom
 DATE: 08/10/25
 CHARACTERS ================================
 HERO: The Hero:Backstage
@@ -27415,7 +27415,7 @@ TITLE: Donate, Please
 AUTHOR: HolidayWither
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 CELEBRITY: Charismatic Television Celebrity:Grill
@@ -27474,7 +27474,7 @@ TITLE: Trick of a Devil
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 DEVIL: Shapeshifting Devil/Demon (Changes Avatar):Backstage
@@ -27601,7 +27601,7 @@ TITLE: Pretend You're Sober
 AUTHOR: LeDerp_64
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MOTHER: Strict Mother:Entrance Stage Right
@@ -27693,7 +27693,7 @@ TITLE: Tormented Rescue
 AUTHOR: RainbowSparkle1
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 VICTIM’S FRIEND: Victim’s friend:Backstage
@@ -27765,7 +27765,7 @@ TITLE: A Robot Among Us?
 AUTHOR: LeDerp_64
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 ROBOT: Very Obviously the Robot:Office Chair 1
@@ -27857,7 +27857,7 @@ TITLE: E-Girl Mafia
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 MOB BOSS: Leader of the E-Girl Mafia:Chair
@@ -27944,7 +27944,7 @@ TITLE: Secrets and Sacrifice
 AUTHOR: GameAdvent2
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 TARGET: The Target:Backstage
@@ -28033,7 +28033,7 @@ TITLE: Death in the Intellect
 AUTHOR: Xzyloriz
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 HERO: The Hero:Entrance Stage Right
@@ -28102,7 +28102,7 @@ TITLE: Barrel of Bricks
 AUTHOR: Valhymm
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 MICK: Another builder, the witness:Center Stage
@@ -28179,7 +28179,7 @@ TITLE: Prof. Clayton and the Devil's Sonata
 AUTHOR: AtmanRyu
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 VILLAIN: Bombastic Villainous Scientist:Backstage
@@ -28281,7 +28281,7 @@ TITLE: Pappi the Rappi
 AUTHOR: AtmanRyu
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 PAPPI: Young Inspiring Rapper Pappi:Alley
@@ -28381,7 +28381,7 @@ TITLE: Spelling Bee Anarchy
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 DK: The Dumb kid:Desk 3
@@ -28525,7 +28525,7 @@ TITLE: Seeking Strange Advice
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 ANDY: Andy the Nervous Friend:Center Stage
@@ -28602,7 +28602,7 @@ TITLE: A Hairy Date
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 WAITER: Waiter:Backstage
@@ -28676,7 +28676,7 @@ TITLE: Not Pawn Stars
 AUTHOR: Novabyte98
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Hardware Store
 DATE: 08/10/25
 CHARACTERS ================================
 DICK: Dick, Pawn Shop Owner:Center Stage
@@ -28767,7 +28767,7 @@ TITLE: The Case
 AUTHOR: IAmRusher
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Courtroom
 DATE: 08/10/25
 CHARACTERS ================================
 JUDGE: Judge:Judge Chair
@@ -28847,7 +28847,7 @@ TITLE: Transplant Transgression
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 LEA: Powerful leader:Backstage
@@ -28934,7 +28934,7 @@ TITLE: The Shopping Cart
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 CLERK: John the Store Clerk:Behind Register
@@ -28995,7 +28995,7 @@ TITLE: 2024 Presidential Debate
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Political Debate USA
 DATE: 08/10/25
 CHARACTERS ================================
 DON: Don the Candidate:Podium Stage Right
@@ -29063,7 +29063,7 @@ TITLE: The Inheritance Scheme
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 LAWYER: Sly Lawyer Sally:Entrance Stage Right
@@ -29134,7 +29134,7 @@ TITLE: Tree Watchers
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 OAKUS: Oakus the Tree Spirit:Backstage
@@ -29202,7 +29202,7 @@ TITLE: Thoughts turned to reality
 AUTHOR: 
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 FRIENDHAPPY: The more energetic friend:Backstage
@@ -29326,7 +29326,7 @@ TITLE: Weather Report
 AUTHOR: MindlessGonzo
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 WEATHERMAN: The weatherman:News Desk
@@ -29380,7 +29380,7 @@ TITLE: Household Goblin
 AUTHOR: LeDerp_64
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 CHILD: Small Child:Couch
@@ -29476,7 +29476,7 @@ TITLE: Best Excuse Gameshow
 AUTHOR: P․ Penguin
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 HOST: Game Show Host:Entrance Stage Right
@@ -29583,7 +29583,7 @@ TITLE: The Kitchen Catastrophe
 AUTHOR: P․ Penguin
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 HOST: Overenthusiastic Infomercial Host:Center Stage
@@ -29647,7 +29647,7 @@ TITLE: Nightmare Customer Service
 AUTHOR: DrumstickPony
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 DRIVER: Delivery Driver:Backstage
@@ -29755,7 +29755,7 @@ TITLE: The Mole
 AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 BERNARD: The bosses assistant:Backstage
@@ -29856,7 +29856,7 @@ TITLE: Suds and Surprises
 AUTHOR: SenorconQueso
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MARK: Mark, Nice Guy:Kitchen
@@ -29937,7 +29937,7 @@ TITLE: Virtual Disaster
 AUTHOR: SuperNova77
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 FOOL: Fools, the other kid:Couch
@@ -30038,7 +30038,7 @@ TITLE: Missing Friend
 AUTHOR: SuperNova77
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 MISS: Miss, the owner:Chair 4
@@ -30104,7 +30104,7 @@ TITLE: The story that never ends
 AUTHOR: kiro-sage
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 PILOT: A lost pilot:Backstage
@@ -30193,7 +30193,7 @@ TITLE: Talking Egg
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 SARAH: Sarah the Female Customer:Chair 1
@@ -30266,7 +30266,7 @@ TITLE: Shopping With Mafia
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Hardware Store
 DATE: 08/10/25
 CHARACTERS ================================
 CASHIER: The Cashier:Behind Register
@@ -30333,7 +30333,7 @@ TITLE: Slay the Troll
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest Bridge
 DATE: 08/10/25
 CHARACTERS ================================
 PEPE: Pepe the Troll:In river
@@ -30401,7 +30401,7 @@ TITLE: The dentist appointment
 AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 LIL TIMMY: The Son:Examination Table
@@ -30506,7 +30506,7 @@ TITLE: License to walk and talk
 AUTHOR: MartinOiva
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 BOB: Bob (officer):Chair
@@ -30608,7 +30608,7 @@ TITLE: Loud Neighbors
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 PAUL: Paul the Husband:Center Stage
@@ -30668,7 +30668,7 @@ TITLE: Critical Decision
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 PETER: Customer's Relative:Backstage
@@ -30734,7 +30734,7 @@ TITLE: One Star Review
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 CHRIS: Store Employee:Behind Register
@@ -30803,7 +30803,7 @@ TITLE: The "Best" Detective
 AUTHOR: ~Taffy_LuLu~
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 BRITISH: The posh British Detective:Detective Chair
@@ -30930,7 +30930,7 @@ TITLE: Lawn Mowing
 AUTHOR: Ahmadsyar
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 GAIA: Mother nature:Backstage
@@ -31009,7 +31009,7 @@ TITLE: Indomitable Human Spirit
 AUTHOR: kiro-sage
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 LEAD: The Leader of the aliens:Desk
@@ -31118,7 +31118,7 @@ TITLE: Family Matters
 AUTHOR: MRIPATCH
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 DAD: Dad of the family:Kitchen
@@ -31233,7 +31233,7 @@ TITLE: VRChat Interruption
 AUTHOR: _ Aech _
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MOTHER: A mother:Backstage
@@ -31293,7 +31293,7 @@ TITLE: Infomercial Nightmare
 AUTHOR: HypnoToadTrance
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 SALESMAN: The Salesman:Center Stage
@@ -31398,7 +31398,7 @@ TITLE: Guess My Date
 AUTHOR: HypnoToadTrance
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 HOST: The Game Show Host:Host Podium
@@ -31509,7 +31509,7 @@ TITLE: Daddy's Secret
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 OFFICER: Police Officer:Backstage
@@ -31598,7 +31598,7 @@ TITLE: Whatchamacallit
 AUTHOR: kiro-sage
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 GOBLIN: small Little aristocratic henchman:Backstage
@@ -31678,7 +31678,7 @@ TITLE: Dinner Date
 AUTHOR: HypnoToadTrance
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 WAITER: The waiter:Entrance Stage Left
@@ -31771,7 +31771,7 @@ TITLE: Security Nightshift
 AUTHOR: TheVirtualAK
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 MONSTER2: The huge scary monster:Backstage
@@ -31857,7 +31857,7 @@ TITLE: The Roaming Gourmet
 AUTHOR: LeDerp_64
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 CHEF: Roaming Chef:Stage Left
@@ -31939,7 +31939,7 @@ TITLE: My new Religion
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 LINDA: Linda the skeptical Mother:Chair 2
@@ -32047,7 +32047,7 @@ TITLE: The Age-Old Question
 AUTHOR: HolidayWither
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Political Debate USA
 DATE: 08/10/25
 CHARACTERS ================================
 MODERATOR: A Bored Debate Moderator:Center Stage
@@ -32117,7 +32117,7 @@ TITLE: Creature Content
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 ONE: Knowledgeable person:Couch
@@ -32212,7 +32212,7 @@ TITLE: Last Regrets
 AUTHOR: ~°Mısanʇhrope°~
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 BILL: Outlaw 1:Stage Right
@@ -32331,7 +32331,7 @@ TITLE: Revengers Assemble
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 HAM: Hammy Hero:Center Stage
@@ -32430,7 +32430,7 @@ TITLE: Can't Touch the Color
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 HOST: The Host of the Game Show:Entrance Stage Right
@@ -32593,7 +32593,7 @@ TITLE: Hunted
 AUTHOR: SuperNova77
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 BOY: Arthur, the cowboy:Chair 1
@@ -32683,7 +32683,7 @@ TITLE: The Missing Cake
 AUTHOR: SuperNova77
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 WOLF: Wolfe the birthday boy:Front Door
@@ -32783,7 +32783,7 @@ TITLE: Bedroom Chat
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MARK: Son:Couch
@@ -32854,7 +32854,7 @@ TITLE: Secret Polka King
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 EMILY: Tom's Girlfriend:Stage Right
@@ -32939,7 +32939,7 @@ TITLE: Enabler and the Catfish
 AUTHOR: SmithDaStick
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 GA: Gamer, dating the catfish:Couch
@@ -33066,7 +33066,7 @@ TITLE: Rate a Quake
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 CHAD: Chad Thunderstone:News Desk
@@ -33137,7 +33137,7 @@ TITLE: Retail Babysitter
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 CLERK: Grocery Store Clerk:Behind Register
@@ -33215,7 +33215,7 @@ TITLE: Cult of Pizza
 AUTHOR: Valhymm
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 BOB: Chosen One, disguised as delivery boy:Backstage
@@ -33368,7 +33368,7 @@ TITLE: The Narcissistic Chef
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 JOSHUA: Joshua the Chef:Center Stage
@@ -33425,7 +33425,7 @@ TITLE: The Atrocious Investigators
 AUTHOR: droolmeister
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 BECKY: Becky, the victim:Couch
@@ -33533,7 +33533,7 @@ TITLE: Repair Workshop
 AUTHOR: MindlessGonzo
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Hardware Store
 DATE: 08/10/25
 CHARACTERS ================================
 BOB: Bob Diva, Host:Behind Register
@@ -33629,7 +33629,7 @@ TITLE: Most Amazing Murder Mystery of All Mystery Murders
 AUTHOR: The_Dapper_Cat
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 STRANGER: Random person (May Die):Backstage
@@ -33755,7 +33755,7 @@ TITLE: Pizza Delivery Guy
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 BOB: Bob the Customer:Stage Right
@@ -33842,7 +33842,7 @@ TITLE: Legoshi Task Force
 AUTHOR: Brizzz
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Forest Bridge
 DATE: 08/10/25
 CHARACTERS ================================
 CAPTAIN: Legoshi Team Captain:Backstage
@@ -33987,7 +33987,7 @@ TITLE: The Unwilling Hero
 AUTHOR: NERΘ
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 BILLYWICK: Billywick, The Unwilling Hero:Entrance Stage Right
@@ -34087,7 +34087,7 @@ TITLE: Vtuber's parental issues
 AUTHOR: JJWithNoSauce
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 VTUBER: The Vtuber:Side Door
@@ -34216,7 +34216,7 @@ TITLE: Decoding Gen Z
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 KYLE: Kyle, the Millennial Employee:Behind Register
@@ -34292,7 +34292,7 @@ TITLE: Mullet Mayhem
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 BIGEARL: Big Earl the Barber:Stage Left
@@ -34381,7 +34381,7 @@ TITLE: Unexpected Item In Bagging Area!
 AUTHOR: Valhymm
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 TILLY: Tilly, the self checkout robot:Behind Register
@@ -34532,7 +34532,7 @@ TITLE: Hotel Detective
 AUTHOR: boris_kolenkhov
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 THE DETECTIVE: Rick Dixon the Hotel Detective:Stage Right
@@ -34625,7 +34625,7 @@ TITLE: Tiny Shoes
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 HUSBAND: The Husband:Couch
@@ -34713,7 +34713,7 @@ TITLE: Productivity Meeting
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 RICH: Rich the Inventor:Boss Chair
@@ -34787,7 +34787,7 @@ TITLE: Trainee Detective
 AUTHOR: Valhymm
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 MICK: Mick Sturbs, trainee:Stage Right
@@ -34878,7 +34878,7 @@ TITLE: Dumb Ways To Die
 AUTHOR: Super_Joel_Dood
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 HOST: The Dumb Host:Host Podium
@@ -34971,7 +34971,7 @@ TITLE: Case of the Curious Bromance
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 SAMSHADY: Detective Sam:Detective Chair
@@ -35048,7 +35048,7 @@ TITLE: Customer is Never Right
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Hardware Store
 DATE: 08/10/25
 CHARACTERS ================================
 CLERK: Store Clerk:Behind Register
@@ -35132,7 +35132,7 @@ TITLE: The Great Leader
 AUTHOR: SPIDΣR ZΔZZULΣ
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 LEAD: Country Leader:Detective Chair
@@ -35204,7 +35204,7 @@ TITLE: Short service
 AUTHOR: R0b0Rilz
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 FELIX: Short, short-tempered celebrity:Entrance Stage Right
@@ -35296,7 +35296,7 @@ TITLE: Unforgiven
 AUTHOR: SmithDaStick
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 MOM: Mother:Center Stage
@@ -35410,7 +35410,7 @@ TITLE: From the Future
 AUTHOR: R0b0Rilz
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 ROBOT: A robot who timed travel to the past:Chair
@@ -35475,7 +35475,7 @@ TITLE: Unwanted gift
 AUTHOR: R0b0Rilz
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 KID: Overexcited kid:Couch
@@ -35590,7 +35590,7 @@ TITLE: Karen's Family Dinner
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 LESLIE: Leslie, Karen's sister:Stage Left
@@ -35680,7 +35680,7 @@ TITLE: Love Conquers All
 AUTHOR: ~Taffy_LuLu~
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 MOTHER: The strict and cold-hearted widowed mother:Center Stage
@@ -35814,7 +35814,7 @@ TITLE: The Navy Vs. Canada
 AUTHOR: MindlessGonzo
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 CAPTAIN: Captain of a Navy Ship:Entrance Stage Right
@@ -35896,7 +35896,7 @@ TITLE: Bring me to your leader!
 AUTHOR: AxolotlError
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Political Debate USA
 DATE: 08/10/25
 CHARACTERS ================================
 MOD: Debate Moderator:Moderator Table
@@ -36061,7 +36061,7 @@ TITLE: The Oregon Fail
 AUTHOR: LorrelEclipse
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 STEVE: Steve, Charismatic General Store Guy:Entrance Stage Left
@@ -36150,7 +36150,7 @@ TITLE: Swedish Dinner Time
 AUTHOR: OliverTheDragon
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 JESSICA: Jessica:Chair 1
@@ -36247,7 +36247,7 @@ TITLE: Wasted in the Wasteland
 AUTHOR: LoppearLink
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 SSURVIVOR: Sober Survivor:Rock chair
@@ -36314,7 +36314,7 @@ TITLE: Tortilla Pizza
 AUTHOR: Lazy Sunshine
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 HOST: The Cooking Show Host:Stage Left
@@ -36380,7 +36380,7 @@ TITLE: Audience Anarchy Pitch
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 BOSS: The CEO:Boss Chair
@@ -36473,7 +36473,7 @@ TITLE: Guess what happens next!
 AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 SHOW HOST: Game show host:Host Podium
@@ -36628,7 +36628,7 @@ TITLE: Halloween Hostess
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 PRINCESS: Charlotte:Entrance Stage Right
@@ -36685,7 +36685,7 @@ TITLE: Truth or dare game show
 AUTHOR: R0b0Rilz
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 HOST: Host:Host Podium
@@ -36835,7 +36835,7 @@ TITLE: The Case Of The Great Kidnapper
 AUTHOR: Max Wolfberg
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 DETECTIVE: The greatest detective of all time:Center Stage
@@ -36961,7 +36961,7 @@ TITLE: Jenny The Duck
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 JENNY: Jenny the Paranoid Duck:Chair 1
@@ -37037,7 +37037,7 @@ TITLE: Interview Gone Wrong
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 CHARLES: Charles the TV Broadcaster:News Desk
@@ -37109,7 +37109,7 @@ TITLE: Yaoi Interrogation
 AUTHOR: SuperNova77
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 RAE: Sunny, The Ace Detective:Entrance Stage Right
@@ -37182,7 +37182,7 @@ TITLE: Bad Guy Break-In
 AUTHOR: Null_And_Void
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 VILLAIN: Casual Villain:Couch
@@ -37271,7 +37271,7 @@ TITLE: Wise King
 AUTHOR: SmithDaStick
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Courtroom
 DATE: 08/10/25
 CHARACTERS ================================
 KING: King:Plaintiff Door
@@ -37333,7 +37333,7 @@ TITLE: Do you know your fiends?
 AUTHOR: 
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 HOST: Eva, the Hostess:Narrator Podium
@@ -37405,7 +37405,7 @@ TITLE: Fast Food Frustrations
 AUTHOR: ඞღ＊Juliablue＊ღඞ
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 WORKER: The Overworked Employee:Entrance Stage Left
@@ -37500,7 +37500,7 @@ TITLE: Realest Norm
 AUTHOR: soursugarYT
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 NORM: Norm:Couch
@@ -37578,7 +37578,7 @@ TITLE: I am Mad
 AUTHOR: APSI-wizard
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 MAD: Mad, he is really mad:Center Stage
@@ -37667,7 +37667,7 @@ TITLE: Doctor's Visit
 AUTHOR: 
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 DOC: The doctor:Desk
@@ -37737,7 +37737,7 @@ TITLE: The Teaification Process
 AUTHOR: Sołver
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 C1: Fred, The Uncle:Entrance Stage Left
@@ -37833,7 +37833,7 @@ TITLE: Alpha Boss
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 STEVE: Steve, the Masculine Boss:Boss Chair
@@ -37914,7 +37914,7 @@ TITLE: Lunchly
 AUTHOR: SmithDaStick
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 KID: Kid:Couch
@@ -38017,7 +38017,7 @@ TITLE: IPhone Price Negotiations
 AUTHOR: Russel❤
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 CLERK: Apple Store Clerk:Behind Register
@@ -38097,7 +38097,7 @@ TITLE: Bad Liar
 AUTHOR: Shamura ʕω ʔ
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 BRADLEY: Bradley:Backstage
@@ -38162,7 +38162,7 @@ TITLE: The young divorce
 AUTHOR: Smg4M3meKryst4l
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 SOPHIE: The lunatic wife (Boy):Kitchen
@@ -38234,7 +38234,7 @@ TITLE: Tea And Soda
 AUTHOR: AzumaMaria
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 MASTER: Rich British Person:Center Stage
@@ -38319,7 +38319,7 @@ TITLE: Consciousness
 AUTHOR: kiro-sage
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 BABY: 3 Year old Baby:Center Stage
@@ -38402,7 +38402,7 @@ TITLE: Coach Clapback
 AUTHOR: _ Aech _
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 KID: Bill, the bullied kid:Front Door
@@ -38486,7 +38486,7 @@ TITLE: broken down camping
 AUTHOR: CRYPTPUG
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 WORKER: The Driver:Center Stage
@@ -38632,7 +38632,7 @@ TITLE: Dumb Criminal
 AUTHOR: Lazy Sunshine
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 NARRATOR: Our Narrator.:Stage Right
@@ -38697,7 +38697,7 @@ TITLE: The Parent-Teacher Association
 AUTHOR: MindlessGonzo
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 STELLA: Stella, a struggling widow:Entrance Stage Right
@@ -38800,7 +38800,7 @@ TITLE: Larry the Loser
 AUTHOR: EvaThatOneGuy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 LARRY: Dad:Couch
@@ -38910,7 +38910,7 @@ TITLE: Fish vs Gen Alpha
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Forest Bridge
 DATE: 08/10/25
 CHARACTERS ================================
 RAPH: Raphael, a Gen Alpha kid:Stage Left
@@ -38992,7 +38992,7 @@ TITLE: A Man Has Fallen Into The River!
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 CHIEF: The Paramedic Chief:Corner Right 
@@ -39070,7 +39070,7 @@ TITLE: A Career-Saving Product
 AUTHOR: lemonscupoftea
 VERIFIED: True
 TAGS: Skit,Infomercial
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 EMPLOYEE: A tired and overworked employee:Office Chair 3
@@ -39129,7 +39129,7 @@ TITLE: Iron Fist: Tyson vs. The Ape Uprising
 AUTHOR: Naquill3 31cb
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 CESAR: Caesar, monkey:Center Stage
@@ -39211,7 +39211,7 @@ TITLE: A Dark Secret
 AUTHOR: Cowgirl27733
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 ALEX: The proposer:Chair 2
@@ -39302,7 +39302,7 @@ TITLE: Quadrillionares
 AUTHOR: Temple475
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 GAME HOST : Game host:Host Podium
@@ -39378,7 +39378,7 @@ TITLE: Romantical Clone War
 AUTHOR: 
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 THE GUY: The Original Guy:Entrance Stage Right
@@ -39463,7 +39463,7 @@ TITLE: The Night Of Evil Santa
 AUTHOR: yummytepotatoes
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MOM: Jennie, The Brave Mother.:Couch
@@ -39546,7 +39546,7 @@ TITLE: The Legend Of Dumb Dumb Kid
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 Dumb Dumb Kid: A dumb kid:Alley
@@ -39630,7 +39630,7 @@ TITLE: A questionable Thanksgiving
 AUTHOR: Voco1
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 KID: The Kid:Side Door
@@ -39715,7 +39715,7 @@ TITLE: Wannabe hero
 AUTHOR: Temple475
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 HRO: The hero:Backstage
@@ -39798,7 +39798,7 @@ TITLE: How to Sell 101
 AUTHOR: EvaThatOneGuy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 BOSS: The Boss:Boss Chair
@@ -39882,7 +39882,7 @@ TITLE: The Not So Quiet Spy
 AUTHOR: Shadowydarkness
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 SCOTT: The clumsy spy:Backstage
@@ -39982,7 +39982,7 @@ TITLE: Noir's Unforgettable 4th Wall Break
 AUTHOR: Rod-ロッド
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 DETECTIVE NOIR: The Detective:Detective Chair
@@ -40080,7 +40080,7 @@ TITLE: How to Steal 101
 AUTHOR: EvaThatOneGuy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 ROBBER: The confused thief:Backstage
@@ -40177,7 +40177,7 @@ TITLE: How to Doctor 101
 AUTHOR: EvaThatOneGuy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 DOCTOR: Not a real doctor:Backstage
@@ -40267,7 +40267,7 @@ TITLE: Out of your friends, which are you?
 AUTHOR: kiro-sage
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 FRIEND: The "Friend" (Entity/Scary):Backstage
@@ -40369,7 +40369,7 @@ TITLE: Furry Convention Plans
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 NEWT: A first time congoer:Stage Right
@@ -40474,7 +40474,7 @@ TITLE: The Meowfia
 AUTHOR: CookieBee6
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 LIN: Linda, The cat owner:Couch
@@ -40576,7 +40576,7 @@ TITLE: Buying WHAT?!
 AUTHOR: Yuv x
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 GARY: Kid disguised as businessman:Entrance Stage Right
@@ -40663,7 +40663,7 @@ TITLE: A Breath of Fresh Fire
 AUTHOR: Valhymm
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 DRAGON: Dragon mage:Center Stage
@@ -40771,7 +40771,7 @@ TITLE: Cult You Next Thursday
 AUTHOR: TheToxicAvenger
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 LEADER: Cult Leader:Stage Right
@@ -40846,7 +40846,7 @@ TITLE: The Wedding Guest
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 GUEST: Cynical Guest:Stage Right
@@ -40922,7 +40922,7 @@ TITLE: For Gamers, By Gamers
 AUTHOR: GameAdvent2
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 GUY1: Timmy Maze:Stage Left
@@ -40994,7 +40994,7 @@ TITLE: The Impossible Order
 AUTHOR: GameAdvent2
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 WAIT: Waiter:Chair 1
@@ -41077,7 +41077,7 @@ TITLE: And... Its Broken
 AUTHOR: LeDerp_64
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 STUB: The Stubborn Older Man:Couch
@@ -41189,7 +41189,7 @@ TITLE: Movie Pitch Meeting
 AUTHOR: TheToxicAvenger
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 EXECUTIVE: Studio Executive:Boss Chair
@@ -41272,7 +41272,7 @@ TITLE: Special Medicine
 AUTHOR: Rift3d
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Infomercial Bathroom
 DATE: 08/10/25
 CHARACTERS ================================
 JEREMY: Jeremy the Infomercial Spokesman:Center Stage
@@ -41337,7 +41337,7 @@ TITLE: The Greatest Joke
 AUTHOR: Kayori_lol
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest Bridge
 DATE: 08/10/25
 CHARACTERS ================================
 JOSE: Jose the Joke Hunter:Stage Right
@@ -41409,7 +41409,7 @@ TITLE: Suspiciously Stoned
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 CUSTOMER: Customer:Chair 1
@@ -41491,7 +41491,7 @@ TITLE: The Duckling With A Funny Voice
 AUTHOR: OliverTheDragon
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 NARRATOR: Narrator:Narrator Podium
@@ -41597,7 +41597,7 @@ TITLE: Actor's Got Talent
 AUTHOR: Shamura ʕω ʔ
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 HOSTA: The Attractive Host Max Steel:News Desk
@@ -41709,7 +41709,7 @@ TITLE: They're Coming After Me
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 TARA: A spider boss who knows his fate:Backstage
@@ -41820,7 +41820,7 @@ TITLE: Musical Monstrosity
 AUTHOR: FamilyFrags
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 JOSI: Josi, The Confused detective:Stage Right
@@ -41911,7 +41911,7 @@ TITLE: The Ultimate Life Form
 AUTHOR: LeDerp_64
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 LIFE: The Ultimate Life Form:Backstage
@@ -42022,7 +42022,7 @@ TITLE: Bankrupt Studio
 AUTHOR: Perydaplaypus
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 CEO: Company CEO:Boss Chair
@@ -42114,7 +42114,7 @@ TITLE: The Deadlee Family
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 DAD: Father:Entrance Stage Right
@@ -42218,7 +42218,7 @@ TITLE: Lucky day
 AUTHOR: Yu-me1 1ecb
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 LUCKY PERSON: Lucky person:Couch
@@ -42327,7 +42327,7 @@ TITLE: The Toxic Genie
 AUTHOR: FamilyFrags
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 JESSE: The Wish Receiver:Entrance Stage Right
@@ -42399,7 +42399,7 @@ TITLE: Beat the Boss
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 ALEX: Alex, the young son who is the leader.:Entrance Stage Right
@@ -42521,7 +42521,7 @@ TITLE: Rudolph's Demise
 AUTHOR: Shawty․Zozo
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 SANTA: Santa the boss:Entrance Stage Right
@@ -42607,7 +42607,7 @@ TITLE: The Intergalactic Trade Agreement
 AUTHOR: HolidayWither
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 ANCHOR 1: News Show Host:News Desk
@@ -42675,7 +42675,7 @@ TITLE: Desperate Game Mascot
 AUTHOR: Sapphire_random
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 MASCOT: the desperate mascot:Stage Right
@@ -42760,7 +42760,7 @@ TITLE: Do you even lift?
 AUTHOR: Carl on Duty
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 NEWGUY: The new guy at the gym:Entrance Stage Left
@@ -42862,7 +42862,7 @@ TITLE: Kooky Enchanted Lady Next Door
 AUTHOR: Holliella
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 AGGIYA: Miss Aggiya:Stage Left
@@ -42996,7 +42996,7 @@ TITLE: R.I.P MAD
 AUTHOR: APSI-wizard
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 BEN: BEN DOVER:Desk 1
@@ -43057,7 +43057,7 @@ TITLE: Past & Future
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 ODY: Odysseus, The Voyager:Entrance Stage Left
@@ -43129,7 +43129,7 @@ TITLE: Hear me out!
 AUTHOR: kiro-sage
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 TIM: Tim the Smart one:Entrance Stage Left
@@ -43199,7 +43199,7 @@ TITLE: Sock Theft
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 APP: Detective:Center Stage
@@ -43301,7 +43301,7 @@ TITLE: Hero Sitcom
 AUTHOR: ItsAtlas23e2
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 HERO: The hero:Stage Left
@@ -43376,7 +43376,7 @@ TITLE: The Wizard's Master Plan
 AUTHOR: Deadly~Lex
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 VIL: The Evil Wizard:Stage Right
@@ -43466,7 +43466,7 @@ TITLE: Matt & Wilson Go to the Store
 AUTHOR: megashoeex3
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 MATT: Matt the Human:Entrance Stage Right
@@ -43562,7 +43562,7 @@ TITLE: Mystery Solved?
 AUTHOR: Bao-Bao
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 DETECTIVE: The Detective:Center Stage
@@ -43652,7 +43652,7 @@ TITLE: The Real Enemy
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Courtroom
 DATE: 08/10/25
 CHARACTERS ================================
 JUDGE TERRI: The completely normal judge:Judge Chair
@@ -43772,7 +43772,7 @@ TITLE: Cards, Wizards and Court Cases
 AUTHOR: Dogshark120
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Courtroom
 DATE: 08/10/25
 CHARACTERS ================================
 WIZARD: Wizard:Plaintiff Table
@@ -43881,7 +43881,7 @@ TITLE: You! Back me up here!
 AUTHOR: Wendibro
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 LEADER: Event Leader:Stage Left
@@ -43986,7 +43986,7 @@ TITLE: The Royal Pain
 AUTHOR: Incidental
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 ROYAL: A Naïve Royal:Center Stage
@@ -44118,7 +44118,7 @@ TITLE: Where's the Host?
 AUTHOR: Wendibro
 VERIFIED: True
 TAGS: Skit,Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 CONTESTANT: Contestant 1:Entrance Stage Right
@@ -44247,7 +44247,7 @@ TITLE: What did you eat?!
 AUTHOR: kiro-sage
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 TIM: Tim the Doctor:Desk
@@ -44339,7 +44339,7 @@ TITLE: How to Parent 101
 AUTHOR: EvaThatOneGuy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MOTHER: The moron mother:Kitchen
@@ -44424,7 +44424,7 @@ TITLE: Drunk Aussie Alien
 AUTHOR: Naquill3 31cb
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 MATT: Matt ( Australian ):Camping chair
@@ -44490,7 +44490,7 @@ TITLE: Camping and Taxes
 AUTHOR: MangoTango12
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 SALLY: Sally the girlfriend:Rock chair
@@ -44556,7 +44556,7 @@ TITLE: Crazy Crossing Guard
 AUTHOR: FangsCrayonBox
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 GUARD: Crazy Crossing Guard:Center Stage
@@ -44639,7 +44639,7 @@ TITLE: Card Eater
 AUTHOR: FangsCrayonBox
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 JUDGE: Judge:Corner Left
@@ -44719,7 +44719,7 @@ TITLE: BabyDollarBills On Thin Ice
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 TEACHER: Vengeful Teacher:Teacher Desk
@@ -44802,7 +44802,7 @@ TITLE: Venting
 AUTHOR: LeDerp_64
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 COM: The Complainer:Chair 2
@@ -44884,7 +44884,7 @@ TITLE: IMPOSTER?! no... IMPOSTERS?!
 AUTHOR: R0b0Rilz
 VERIFIED: True
 TAGS: Contains Adult Innuendo
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 HUSBAND: Husband:Front Door
@@ -45070,7 +45070,7 @@ TITLE: Time-Travelling Couponer
 AUTHOR: ˞˞Oni
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 CASHIER: Overworked Cashier:Behind Register
@@ -45127,7 +45127,7 @@ TITLE: The Gift
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 WISE1: The First Wiseman:Entrance Stage Left
@@ -45237,7 +45237,7 @@ TITLE: Dr Quack's Comedy Clinic
 AUTHOR: Valhymm
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 WRITER: Comedy writer and patient:Examination Table
@@ -45320,7 +45320,7 @@ TITLE: Calm down
 AUTHOR: OliverTheDragon
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 MAN: Calm Man:Center Stage
@@ -45392,7 +45392,7 @@ TITLE: That's Not Me!
 AUTHOR: OrphanEvaporatr
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MOM: The Oblivious Mother:Kitchen
@@ -45478,7 +45478,7 @@ TITLE: The Babysitter
 AUTHOR: FangsCrayonBox
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 SITTER: Baby Sitter:Entrance Stage Right
@@ -45539,7 +45539,7 @@ TITLE: A Wizard's Announcement
 AUTHOR: LeDerp_64
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 EGG: The Wizard:News Desk
@@ -45599,7 +45599,7 @@ TITLE: I'm not a furry!
 AUTHOR: KylieKittyCat
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Courtroom
 DATE: 08/10/25
 CHARACTERS ================================
 SOURFEATHERS: Not a furry:Defendant Table
@@ -45676,7 +45676,7 @@ TITLE: Dragon Entity
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 AGENT46: Agent 46:Narrator Podium
@@ -45757,7 +45757,7 @@ TITLE: The Misunderstood Monster
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MON: A misunderstood monster:Backstage
@@ -45834,7 +45834,7 @@ TITLE: Work Trip
 AUTHOR: RevLovelace
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 CATHY: Cathy from Accounting:Entrance Stage Right
@@ -45909,7 +45909,7 @@ TITLE: Seeing Eye "Dog"
 AUTHOR: LeDerp_64
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 MAN: The Blind Old Man:Entrance Stage Right
@@ -46006,7 +46006,7 @@ TITLE: Pepsi or Coke
 AUTHOR: Rotem_N
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 OLIVIA: Olivia:Entrance Stage Right
@@ -46111,7 +46111,7 @@ TITLE: The Love Note
 AUTHOR: NERΘ
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MAY: May:Couch
@@ -46246,7 +46246,7 @@ TITLE: The gamer-home invaders
 AUTHOR: 
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 JENNIFER: Nervous Girl:Couch
@@ -46332,7 +46332,7 @@ TITLE: Is it plugged in?
 AUTHOR: FangsCrayonBox
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 TECH: Tech support worker:Narrator Podium
@@ -46395,7 +46395,7 @@ TITLE: A Suprise Party!
 AUTHOR: Rotem_N
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 AIDEN : Aiden who bakes the cake:Kitchen
@@ -46538,7 +46538,7 @@ TITLE: Johnny Visits Restaurant
 AUTHOR: verk999
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 JOHNNY: Gorilla:Backstage
@@ -46614,7 +46614,7 @@ TITLE: This town is big enough for the two of us
 AUTHOR: LeDerp_64
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 BILL: Goofy Sounding Sheriff:Entrance Stage Left
@@ -46695,7 +46695,7 @@ TITLE: Meet The Sp-A.I.
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 SPY: The secret spy:Entrance Stage Right
@@ -46819,7 +46819,7 @@ TITLE: Super Spreader
 AUTHOR: Valhymm
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 BEN: Ben, has the disease:Couch
@@ -46925,7 +46925,7 @@ TITLE: No Games?
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Hardware Store
 DATE: 08/10/25
 CHARACTERS ================================
 CLERK: The Cashier:Behind Register
@@ -47009,7 +47009,7 @@ TITLE: Something Unforgettable
 AUTHOR: APSI-wizard
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 MAD: official MAD!:Office Chair 1
@@ -47072,7 +47072,7 @@ TITLE: The Old Wives tale
 AUTHOR: ༒LunarMoth༒
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 OM: The Uncle Old Man:Camping chair
@@ -47196,7 +47196,7 @@ TITLE: The Haggler
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 EMPLOYEE: Cashier:Behind Register
@@ -47262,7 +47262,7 @@ TITLE: Loving Surprise
 AUTHOR: Critical Ren
 VERIFIED: True
 TAGS: Contains Adult Innuendo
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 ROSE: Rose The Girlfriend:Center Stage
@@ -47347,7 +47347,7 @@ TITLE: Photo or Die
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 TINA: Tina:Center Stage
@@ -47417,7 +47417,7 @@ TITLE: Restaurant Morons
 AUTHOR: -AtlasVA-
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 WAITER: Waiter:Entrance Stage Left
@@ -47526,7 +47526,7 @@ TITLE: Breakup News
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 BLAKE: Blake, News Anchor:News Desk
@@ -47590,7 +47590,7 @@ TITLE: The Plagia-write
 AUTHOR: Jack_Gubadiah
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 LOGAN: Reluctant Male Friend:Center Stage
@@ -47680,7 +47680,7 @@ TITLE: My First Car
 AUTHOR: MindlessGonzo
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 TOM: Tom, A Vlogger:Couch
@@ -47779,7 +47779,7 @@ TITLE: Invincible
 AUTHOR: WeirdGuySaturn
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 OAKLAN: The Gang leader:Alley
@@ -47858,7 +47858,7 @@ TITLE: The Price of Free
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 CUSTOMER: The Customer:Chair 2
@@ -47922,7 +47922,7 @@ TITLE: Completely Platonic
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 BOY: The Boyfriend:Entrance Stage Right
@@ -48040,7 +48040,7 @@ TITLE: It's All About Convenience
 AUTHOR: 
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 SHOPPER: Unsatisfied shopper:Behind Shelf
@@ -48142,7 +48142,7 @@ TITLE: The Legend Of The Great Forest Monster
 AUTHOR: Max Wolfberg
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 WARRIOR: The great Warrior:Entrance Stage Left
@@ -48258,7 +48258,7 @@ TITLE: Nobody Could Predict That
 AUTHOR: Ishkander_
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 MAGICIAN: Bad fortune-teller:Alley
@@ -48345,7 +48345,7 @@ TITLE: Press Conference
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 SPOKESPERSON: The spokesperson:Boss Chair
@@ -48414,7 +48414,7 @@ TITLE: Toll Goof
 AUTHOR: Ishkander_
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest Bridge
 DATE: 08/10/25
 CHARACTERS ================================
 GUARD: Bridge guard:On bridge
@@ -48511,7 +48511,7 @@ TITLE: The Parasocial Relationship
 AUTHOR: ThatJacobGuy_YT
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 STREAMER: The Streamer:Couch
@@ -48564,7 +48564,7 @@ TITLE: The Peak of Sneak
 AUTHOR: Ishkander_
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Political Debate USA
 DATE: 08/10/25
 CHARACTERS ================================
 AGENT: Secret agent:Entrance Stage Right
@@ -48669,7 +48669,7 @@ TITLE: McDonald's Commercial
 AUTHOR: Noob_Player420p
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Infomercial Bathroom
 DATE: 08/10/25
 CHARACTERS ================================
 CLOWN: Ronald McDonald:Toilet 
@@ -48741,7 +48741,7 @@ TITLE: How To Stop a Prophecy
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 VIL: A teenage villain:Center Stage
@@ -48805,7 +48805,7 @@ TITLE: Idiotic Interview
 AUTHOR: -AtlasVA-
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 INTERVIEWER : The interviewer:Boss Chair
@@ -48881,7 +48881,7 @@ TITLE: Cooking Informercial
 AUTHOR: Perydaplaypus
 VERIFIED: True
 TAGS: Infomercial
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 MAYS: Billy Mays:Center Stage
@@ -48952,7 +48952,7 @@ TITLE: Who are you talking to?
 AUTHOR: LeDerp_64
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 DILL: The Delusional Suspect:Chair
@@ -49032,7 +49032,7 @@ TITLE: Book Club
 AUTHOR: Rotem_N
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 MC: Protagonist Boy:Entrance Stage Right
@@ -49182,7 +49182,7 @@ TITLE: Ultra Rap
 AUTHOR: APSI-wizard
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 V1: Machine V1:Stage Left
@@ -49279,7 +49279,7 @@ TITLE: Do Not Vote for Me
 AUTHOR: Ishkander_
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Political Debate USA
 DATE: 08/10/25
 CHARACTERS ================================
 MODERATOR: Debate moderator:Moderator Table
@@ -49383,7 +49383,7 @@ TITLE: Planet Nature: Unfiltered
 AUTHOR: Reddicide
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 NAR: Narrator:Narrator Podium
@@ -49481,7 +49481,7 @@ TITLE: Daylight
 AUTHOR: Reddicide
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 BE: Overdramatic girl:Center Stage
@@ -49565,7 +49565,7 @@ TITLE: Goldfish Memory
 AUTHOR: Reddicide
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 OWNR: Pet store owner:Behind Register
@@ -49616,7 +49616,7 @@ TITLE: Death by Karen
 AUTHOR: FangsCrayonBox
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 MAF: Mafia Boss:Corner Right 
@@ -49681,7 +49681,7 @@ TITLE: Thank-for-giving your opinion
 AUTHOR: RevLovelace
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 DAD: The Father:Chair 1
@@ -49759,7 +49759,7 @@ TITLE: Hostage Situation
 AUTHOR: Reddicide
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 COP1: Negotiator Cop:Narrator Podium
@@ -49899,7 +49899,7 @@ TITLE: Wrong Wedding
 AUTHOR: Reddicide
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 MO: Marriage Officiant:Center Stage
@@ -49993,7 +49993,7 @@ TITLE: One More Case
 AUTHOR: Deus Ex Vulpes
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 GRUFF: Gruff Detective:Detective Chair
@@ -50062,7 +50062,7 @@ TITLE: Office Plant Thief
 AUTHOR: Reddicide
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 THIEF: Plant thief:Entrance Stage Left
@@ -50149,7 +50149,7 @@ TITLE: Fake Passport
 AUTHOR: -X E R O-
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 RICK: Rick:Stage Right
@@ -50286,7 +50286,7 @@ TITLE: Haiku Hangout
 AUTHOR: Reddicide
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 HAR: Whimsical Poet (Harper):Camping chair
@@ -50370,7 +50370,7 @@ TITLE: Will It Vend?
 AUTHOR: Ishkander_
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 CUSTOMER: Thirsty customer:Center Stage
@@ -50448,7 +50448,7 @@ TITLE: Cannon Fodder Farewell
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MRHARPER: Mr. Harper:Center Stage
@@ -50511,7 +50511,7 @@ TITLE: Beast Reality
 AUTHOR: KylieKittyCat
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest Bridge
 DATE: 08/10/25
 CHARACTERS ================================
 ROSE: Princess:On bridge
@@ -50620,7 +50620,7 @@ TITLE: Jiggle Physics
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 ALEX: Alex, Game Developer:Boss Chair
@@ -50696,7 +50696,7 @@ TITLE: Boujee Market
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 LOGAN: Logan, YouTube Star:Center Stage
@@ -50785,7 +50785,7 @@ TITLE: Demoted
 AUTHOR: 
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 NORMAN: The Detective:Detective Chair
@@ -50900,7 +50900,7 @@ TITLE: Villain Subversion
 AUTHOR: Jack_Gubadiah
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 BOSS: The Big Boss:Boss Chair
@@ -50964,7 +50964,7 @@ TITLE: Myth-placed Fae-th
 AUTHOR: Jack_Gubadiah
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest Bridge
 DATE: 08/10/25
 CHARACTERS ================================
 FAE: A Mischievous Fae:On bridge
@@ -51034,7 +51034,7 @@ TITLE: Need a Lawyer
 AUTHOR: Neko-Numi
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 DETECTIVE: Detective:Corner Right 
@@ -51112,7 +51112,7 @@ TITLE: Everyone and their Brother
 AUTHOR: Deus Ex Vulpes
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 WIFE: The Loving Wife:Kitchen
@@ -51193,7 +51193,7 @@ TITLE: Not Another Isekai
 AUTHOR: NERΘ
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 KING VIRGLE: KING VIRGLE, The King:Backstage
@@ -51322,7 +51322,7 @@ TITLE: Medieval Meeting
 AUTHOR: Shamura ʕω ʔ
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 KING: The King of a Great Nation:Boss Chair
@@ -51413,7 +51413,7 @@ TITLE: Woke Wars
 AUTHOR: LeoHardy
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 JESSICA: Jessica:Stage Right
@@ -51478,7 +51478,7 @@ TITLE: The Broken Radio
 AUTHOR: SoapyTheYeep 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 HOMEOWNER: The House Owner:Couch
@@ -51539,7 +51539,7 @@ TITLE: Let's Get In A Pickle
 AUTHOR: wiikid777
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Dining Room
 DATE: 08/10/25
 CHARACTERS ================================
 ALEX: Alex, the crazy deputy:Stage Left
@@ -51613,7 +51613,7 @@ TITLE: Karen’s Special Surprise
 AUTHOR: SoapyTheYeep 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 CASHIER : Joe The Cashier:Behind Register
@@ -51682,7 +51682,7 @@ TITLE: Faker!
 AUTHOR: LeDerp_64
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest Bridge
 DATE: 08/10/25
 CHARACTERS ================================
 HEO: The Hero:Entrance Stage Right
@@ -51763,7 +51763,7 @@ TITLE: Customer is always WRONG
 AUTHOR: AsheWHY
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 WORKER: A worker with a temper:Behind Register
@@ -51824,7 +51824,7 @@ TITLE: Just Dance
 AUTHOR: Rotem_N
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 ELLA: Ella the older sibling:Entrance Stage Right
@@ -51911,7 +51911,7 @@ TITLE: Too Many Boyfriends
 AUTHOR: Jinx Izayoi
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 MAID: The Maid:Stage Right
@@ -52037,7 +52037,7 @@ TITLE: You Wouldn't Download What?!
 AUTHOR: FurryTrash237
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 GAMER: Live streamer:Couch
@@ -52137,7 +52137,7 @@ TITLE: Loud News Reporters
 AUTHOR: OliverTheDragon
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: News
 DATE: 08/10/25
 CHARACTERS ================================
 ROB: Rob The Loud News Anchor:News Desk
@@ -52193,7 +52193,7 @@ TITLE: A Funky First Meetup
 AUTHOR: EricTheSayoSimp
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 BF: The Stuck-In-The-Past Boyfriend:Entrance Stage Left
@@ -52262,7 +52262,7 @@ TITLE: The Wrong Robot
 AUTHOR: ~ RudenZ ~
 VERIFIED: True
 TAGS: Contains Adult Innuendo
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 ROBOT: R0B00T:Stage Left
@@ -52326,7 +52326,7 @@ TITLE: The Haunted Grounds
 AUTHOR: HolidayWither
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 CAMPER #1: A Stoic Camper:Center Stage
@@ -52398,7 +52398,7 @@ TITLE: Job Simulator
 AUTHOR: Rotem_N
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Grocery Store
 DATE: 08/10/25
 CHARACTERS ================================
 CASHIER: The cashier:Behind Register
@@ -52468,7 +52468,7 @@ TITLE: Lost & Dramatic
 AUTHOR: аlty
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 TRAVELER : A regular traveler who lost:Entrance Stage Right
@@ -52549,7 +52549,7 @@ TITLE: Lost Player
 AUTHOR: ··Blue··
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 BASIL: Basil, a player trapped inside of a game:Alley
@@ -52623,7 +52623,7 @@ TITLE: Inheritance Scam
 AUTHOR: Costons
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 MOM: The single mother.:Center Stage
@@ -52708,7 +52708,7 @@ TITLE: Who's Cuter?
 AUTHOR: Jinx Izayoi
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 GIRL1: The Inquisitive Girlfriend:Entrance Stage Right
@@ -52789,7 +52789,7 @@ TITLE: Cold Case, Warm Whiskey
 AUTHOR: Costons
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Detective Noir
 DATE: 08/10/25
 CHARACTERS ================================
 OLDER DETECTIVE: The experienced Detective.:Detective Chair
@@ -52864,7 +52864,7 @@ TITLE: The Host Knows Everything
 AUTHOR: Costons
 VERIFIED: True
 TAGS: Game Show
-SET: Default
+SET: Game Show
 DATE: 08/10/25
 CHARACTERS ================================
 GAMESHOW HOST: The one who runs the show.:Host Podium
@@ -52954,7 +52954,7 @@ TITLE: Barely functional cooking
 AUTHOR: thx2tehSpawn
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 MAINCOOK: The main cook:Center Stage
@@ -53031,7 +53031,7 @@ TITLE: The Interview
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 VIP: The Interviewee:Entrance Stage Right
@@ -53098,7 +53098,7 @@ TITLE: Landlords and Larpers
 AUTHOR: Wolfenstin
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 TIM: Confused Resident:Entrance Stage Left
@@ -53189,7 +53189,7 @@ TITLE: We Might Be Lost
 AUTHOR: Jack_Gubadiah
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 IMP: the Impatient Friend:Entrance Stage Left
@@ -53279,7 +53279,7 @@ TITLE: Cure for Motion Sickness
 AUTHOR: Neykka
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 ALLIE: Alice:Couch
@@ -53367,7 +53367,7 @@ TITLE: Outer Affair
 AUTHOR: Jack_Gubadiah
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 WIFE: The Wife:Stage Left
@@ -53447,7 +53447,7 @@ TITLE: Dungeons & Disasters
 AUTHOR: 
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 DM: Dungeon Master:Narrator Podium
@@ -53586,7 +53586,7 @@ TITLE: The River Trap
 AUTHOR: Neykka
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Forest Bridge
 DATE: 08/10/25
 CHARACTERS ================================
 SEAL: Creature, the water dweller:In river
@@ -53665,7 +53665,7 @@ TITLE: The Quiz Master
 AUTHOR: LeDerp_64
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 QUIZ: The Quiz Master:Backstage
@@ -53802,7 +53802,7 @@ TITLE: Movie Night
 AUTHOR: Ｔｈｅ Ｃａｐｔａｉｎ
 VERIFIED: True
 TAGS: Skit,Infomercial
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 BOYFRIEND: Boyfriend:Center Stage
@@ -53859,7 +53859,7 @@ TITLE: Triggering strangers
 AUTHOR: The Durge
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 S1: Person who gets beat up:Center Stage
@@ -53947,7 +53947,7 @@ TITLE: A Dream Come True
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Restaurant
 DATE: 08/10/25
 CHARACTERS ================================
 ESPER: Boyfriend with an odd dream:Chair 1
@@ -54058,7 +54058,7 @@ TITLE: House Development
 AUTHOR: Carl on Duty
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 BIL: Bill, the wise old neighbor:Grill
@@ -54134,7 +54134,7 @@ TITLE: The Reverse Alien Experience
 AUTHOR: LethalChicken
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 BOY: Alien Brother:Stage Right
@@ -54217,7 +54217,7 @@ TITLE: Stranger Danger!
 AUTHOR: Rotem_N
 VERIFIED: True
 TAGS: Contains Adult Innuendo
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 TEACHER: The teacher:Teacher Desk
@@ -54298,7 +54298,7 @@ TITLE: Memes
 AUTHOR: Jinx Izayoi
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 JACK: Jack:Stage Left
@@ -54379,7 +54379,7 @@ TITLE: The Average Doctor Experience
 AUTHOR: Ｔｈｅ Ｃａｐｔａｉｎ
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 THE PATIENT: The Patient:Examination Table
@@ -54444,7 +54444,7 @@ TITLE: Summoning Gone Wrong
 AUTHOR: Deus Ex Vulpes
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 WORF: Worried Friend:Camping chair
@@ -54528,7 +54528,7 @@ TITLE: The Create-A-Creature 9000
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit,Infomercial
-SET: Default
+SET: Infomercial Bathroom
 DATE: 08/10/25
 CHARACTERS ================================
 SAL: A shady salesman:Center Stage
@@ -54641,7 +54641,7 @@ TITLE: Felony Fools
 AUTHOR: -AtlasVA-
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Courtroom
 DATE: 08/10/25
 CHARACTERS ================================
 JUDGE: The Judge:Judge Chair
@@ -54744,7 +54744,7 @@ TITLE: A Neighbor Moment
 AUTHOR: 
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 NAR: Narrator:Narrator Podium
@@ -54841,7 +54841,7 @@ TITLE: The Battle Of Wizards
 AUTHOR: Rokkaku
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Forest
 DATE: 08/10/25
 CHARACTERS ================================
 WIZARD: The Great Wizard:Backstage
@@ -54918,7 +54918,7 @@ TITLE: Last-Minute Presentations
 AUTHOR: 
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Classroom
 DATE: 08/10/25
 CHARACTERS ================================
 STUDENT 1: Improvising Student Presenter - Link:Desk 1
@@ -54978,7 +54978,7 @@ TITLE: I Wonder Who?
 AUTHOR: RinRuster16
 VERIFIED: True
 TAGS: Skit
-SET: Default
+SET: Murder
 DATE: 08/10/25
 CHARACTERS ================================
 BOSS: The Mob Boss:Stage Right
@@ -55055,7 +55055,7 @@ TITLE: Dah Devil Duds Doh
 AUTHOR: Kymerah
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 COOL: Devil Leader:Office Chair 1
@@ -55149,7 +55149,7 @@ TITLE: Rules of magical girl shows
 AUTHOR: 
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: City
 DATE: 08/10/25
 CHARACTERS ================================
 MAGICALGIRL: The magical girl:Backstage
@@ -55242,7 +55242,7 @@ TITLE: Don't open the book
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Hardware Store
 DATE: 08/10/25
 CHARACTERS ================================
 POE: Uncle Poe, owner of the store:Behind Register
@@ -55336,7 +55336,7 @@ TITLE: Heavenly Love Trial
 AUTHOR: Twintacle PTT
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Courtroom
 DATE: 08/10/25
 CHARACTERS ================================
 ZEUS: Zeus, King of the Greek Gods (Judge):Judge Chair
@@ -55430,7 +55430,7 @@ TITLE: Sneezing Mania
 AUTHOR: Jayce_4
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 DAVE: Dave, allergic man:Entrance Stage Left
@@ -55523,7 +55523,7 @@ TITLE: The Hero No One Asked For
 AUTHOR: LoonaWusky
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 MOM: frustraded mom:Grill
@@ -55598,7 +55598,7 @@ TITLE: Idiotic Criminal
 AUTHOR: mapleRB
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 COP: Interrogating detective:Corner Right 
@@ -55685,7 +55685,7 @@ TITLE: The Overly Honest Bank Robber
 AUTHOR: -X E R O-
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Conference Room
 DATE: 08/10/25
 CHARACTERS ================================
 ROBBER: The awkward Robber:Entrance Stage Left
@@ -55820,7 +55820,7 @@ TITLE: The Question
 AUTHOR: MindlessGonzo
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 NARRATOR: The Narrator:Center Stage
@@ -55905,7 +55905,7 @@ TITLE: Furry Room Party
 AUTHOR: mapleRB
 VERIFIED: True
 TAGS: Contains Adult Innuendo
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 HOST: Host of the room party:Couch
@@ -55991,7 +55991,7 @@ TITLE: AI Roommate
 AUTHOR: FangsCrayonBox
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 TECH: Tech Savvy Roommate:Center Stage
@@ -56054,7 +56054,7 @@ TITLE: They WILL win!
 AUTHOR: MystykalMystyk
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Living Room
 DATE: 08/10/25
 CHARACTERS ================================
 WATCHER: Person watching a show:Couch
@@ -56122,7 +56122,7 @@ TITLE: Doctor's Orders
 AUTHOR: Dooley
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Doctor's Office
 DATE: 08/10/25
 CHARACTERS ================================
 DOCTOR: Doctor:Desk
@@ -56185,7 +56185,7 @@ TITLE: Showdown At High Noon(ish)
 AUTHOR: Dooley
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Western
 DATE: 08/10/25
 CHARACTERS ================================
 SHERIFF: Town Sheriff:Entrance Stage Right
@@ -56269,7 +56269,7 @@ TITLE: Spooky Camp Tales
 AUTHOR: DarthDJ
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Campsite
 DATE: 08/10/25
 CHARACTERS ================================
 CAMPER 1: James:Log chair
@@ -56362,7 +56362,7 @@ TITLE: Redneck Rumble
 AUTHOR: Dooley
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Backyard
 DATE: 08/10/25
 CHARACTERS ================================
 CLEETUS: Cleetus:Grill
@@ -56437,7 +56437,7 @@ TITLE: The Secret Sauce
 AUTHOR: 
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Infomercial Kitchen
 DATE: 08/10/25
 CHARACTERS ================================
 VICTORIA: The one who knows the recipe:Backstage
@@ -56544,7 +56544,7 @@ TITLE: The Band breaks up
 AUTHOR: Carl on Duty
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Interrogation Room
 DATE: 08/10/25
 CHARACTERS ================================
 APL: Apple Starr (Drums):Chair
@@ -56646,7 +56646,7 @@ TITLE: Very Evil Haunted Toilet
 AUTHOR: Shamura ʕω ʔ
 VERIFIED: True
 TAGS: 
-SET: Default
+SET: Infomercial Bathroom
 DATE: 08/10/25
 CHARACTERS ================================
 AUP: The Auction Host:Center Stage
