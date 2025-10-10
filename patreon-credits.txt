@@ -1,4 +1,5 @@
 #TIER=0
+blendshape
 Z-Star
 RW1911
 ~NovaChan~
