@@ -1,4 +1,5 @@
 #TIER=0
+Cyber Cookie
 RW1911
 ~NovaChan~
 ~V̴e̴s̴p̴e̴r̴~
@@ -2283,6 +2284,7 @@ Nightmareskys
 Riyo Kaede
 StarlitLatte
 siborgstare
+Agent 30
 cloudy ≺3
 HaloXLV ef64
 KnockedPluto258
