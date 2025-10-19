@@ -1,4 +1,5 @@
 #TIER=0
+dock_passenger
 RW1911
 ~NovaChan~
 ~V̴e̴s̴p̴e̴r̴~
