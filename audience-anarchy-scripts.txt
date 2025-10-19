@@ -1,7 +1,7 @@
 INFORMATION ===============================
 ID: 29
 TITLE: House Party
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -125,7 +125,7 @@ Meanwhile CAT: (Hiss and run away, exit stage left) Hiss! Meow!
 INFORMATION ===============================
 ID: 30
 TITLE: American Values
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -225,7 +225,7 @@ MODERATOR: With those remarks, our debate concludes. Remember to cast your votes
 INFORMATION ===============================
 ID: 31
 TITLE: Justice Delivery
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -315,7 +315,7 @@ Meanwhile PIZZA GUY: (Leave with DETECTIVE)
 INFORMATION ===============================
 ID: 32
 TITLE: Cold Case
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -391,7 +391,7 @@ Meanwhile LADY: (Leave with the detective)
 INFORMATION ===============================
 ID: 33
 TITLE: An Accusation
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
@@ -479,7 +479,7 @@ Meanwhile PLAINTIFF: Noooooo!!!!!!
 INFORMATION ===============================
 ID: 34
 TITLE: A New Nation
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -587,7 +587,7 @@ World news outro
 INFORMATION ===============================
 ID: 35
 TITLE: Educational Emergency
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -681,7 +681,7 @@ Applause, Western Jingle 1
 INFORMATION ===============================
 ID: 36
 TITLE: Better Call Bob
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -814,7 +814,7 @@ PAPARAZZI 2: (Holding a photo) Can you please sign this picture from DEVIANTART 
 INFORMATION ===============================
 ID: 37
 TITLE: Troll Bridge
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
@@ -966,7 +966,7 @@ TROLL: (Mumbling to self) Troll need love potion for... certain activity.
 INFORMATION ===============================
 ID: 38
 TITLE: Telenovela
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1078,7 +1078,7 @@ FERNANDO: Ah, Dios mío. I deserved that.
 INFORMATION ===============================
 ID: 39
 TITLE: The Package
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1168,7 +1168,7 @@ BOBBY: Aww!
 INFORMATION ===============================
 ID: 40
 TITLE: Yer a Wizard
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1281,7 +1281,7 @@ HARRY: Okay... (Wiping away a tear) Let's go. (Leave with HAGRID out the door)
 INFORMATION ===============================
 ID: 41
 TITLE: Give Thanks
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -1386,7 +1386,7 @@ SON: (To FATHER) Dad, what's a HONKERS?
 INFORMATION ===============================
 ID: 42
 TITLE: Welcome to Wizard Town
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -1490,7 +1490,7 @@ Meanwhile SORCERER: (Laughing and high-fiving WIZARD)
 INFORMATION ===============================
 ID: 43
 TITLE: Check this Out
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -1623,7 +1623,7 @@ Thunder
 INFORMATION ===============================
 ID: 44
 TITLE: Spy Gear
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -1700,7 +1700,7 @@ Spy ending sting
 INFORMATION ===============================
 ID: 45
 TITLE: Ultimate Weapon
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -1802,7 +1802,7 @@ Gong
 INFORMATION ===============================
 ID: 46
 TITLE: Spicy Gameshow
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
@@ -1897,7 +1897,7 @@ Gameshow Outro
 INFORMATION ===============================
 ID: 47
 TITLE: Wrong Gameshow
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2026,7 +2026,7 @@ Gameshow outro
 INFORMATION ===============================
 ID: 48
 TITLE: Australiens
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
@@ -2147,7 +2147,7 @@ BOB: (Look around, drink beer)
 INFORMATION ===============================
 ID: 49
 TITLE: Positive Results
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -2233,7 +2233,7 @@ DOCTOR: Tell him to come in for a treatment. I know a guy with these pills... we
 INFORMATION ===============================
 ID: 50
 TITLE: Noise Complaint
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
@@ -2349,7 +2349,7 @@ Meanwhile HUSBAND: (Exit stage left with WIFE)
 INFORMATION ===============================
 ID: 51
 TITLE: Duel
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -2459,7 +2459,7 @@ Meanwhile MANAGER: Why you little... (Chase BOBBY out of the store)
 INFORMATION ===============================
 ID: 52
 TITLE: Camping
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -2559,7 +2559,7 @@ JENNY: Aw... thanks big bro!
 INFORMATION ===============================
 ID: 53
 TITLE: Questionable Gameshow
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2664,7 +2664,7 @@ HOST: Don't go anywhere folks, we've got more ethical questions after these mess
 INFORMATION ===============================
 ID: 54
 TITLE: Food Gameshow
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2782,7 +2782,7 @@ HOST: (To audience) that's all for tonight folks! See you next time on... "Eat T
 INFORMATION ===============================
 ID: 55
 TITLE: Noisy Gameshow
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -2855,7 +2855,7 @@ HOST: (To audience) See you next time on... "Impersonate that Animal!"
 INFORMATION ===============================
 ID: 56
 TITLE: Pokémon Gameshow
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
@@ -2957,7 +2957,7 @@ HUMAN: Uh, can anyone give me a ride home?
 INFORMATION ===============================
 ID: 57
 TITLE: Lucky Gameshow
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -3054,7 +3054,7 @@ HOST: See you next time folks, on... GUESS THAT THING! Goodnight!
 INFORMATION ===============================
 ID: 58
 TITLE: Gamer Gameshow
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Game Show,Contains Adult Innuendo
 SET: Game Show
@@ -3138,7 +3138,7 @@ HOST: See you next time folks, on... GUESS THAT THING! Goodnight!
 INFORMATION ===============================
 ID: 59
 TITLE: Trivia Gameshow
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -3231,7 +3231,7 @@ HOST: See you next time folks, on... GUESS THAT THING! Goodnight!
 INFORMATION ===============================
 ID: 60
 TITLE: Tool Infomercial
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
@@ -3310,7 +3310,7 @@ BILLY MAYS: Supplies are limited, so you gotta call now!
 INFORMATION ===============================
 ID: 61
 TITLE: Magic Infomercial
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -3401,7 +3401,7 @@ BILLY MAYS: But you gotta call now.
 INFORMATION ===============================
 ID: 62
 TITLE: Clean Infomercial
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
@@ -3481,7 +3481,7 @@ BILLY MAYS: Don't just sit there, pick up that phone and get yourself some sweet
 INFORMATION ===============================
 ID: 63
 TITLE: Ultimate Infomercial
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -3576,7 +3576,7 @@ BILLY MAYS: What are you waiting for? Pick up the phone and place your order now
 INFORMATION ===============================
 ID: 64
 TITLE: Toast Infomercial
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -3668,7 +3668,7 @@ BILLY MAYS: Just call the number on your screen today.
 INFORMATION ===============================
 ID: 65
 TITLE: Leak Infomercial
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
@@ -3737,7 +3737,7 @@ BILLY MAYS: Dial the number on your screen and get your ADJECTIVE hands on Magic
 INFORMATION ===============================
 ID: 66
 TITLE: Helpful Infomercial
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Bathroom
@@ -3777,7 +3777,7 @@ BILLY MAYS: MORBs and conditions apply.
 INFORMATION ===============================
 ID: 67
 TITLE: Dog Infomercial
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Infomercial
 SET: Living Room
@@ -3864,7 +3864,7 @@ TIMMY: Yay!
 INFORMATION ===============================
 ID: 68
 TITLE: Shiny Infomercial
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Living Room
@@ -3946,7 +3946,7 @@ BILLY MAYS: This is officially a ransom threat. Scooby from Scooby-Doo WILL enc
 INFORMATION ===============================
 ID: 69
 TITLE: We demand it
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -4019,7 +4019,7 @@ Applause
 INFORMATION ===============================
 ID: 70
 TITLE: Diagnosis
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -4111,7 +4111,7 @@ HELPER: Me say. DOLLARAMOUNT dollars.
 INFORMATION ===============================
 ID: 71
 TITLE: Amazon
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -4213,7 +4213,7 @@ Western Jingle 1
 INFORMATION ===============================
 ID: 72
 TITLE: Secret Message
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4316,7 +4316,7 @@ TYPEWRITER: Operation ORDERABLE ITEM;STATUS: SUCCESS
 INFORMATION ===============================
 ID: 73
 TITLE: It's Me
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit,Contains Adult Innuendo
 SET: Living Room
@@ -4411,7 +4411,7 @@ SUPERROBOT: Oh. Yes it is. (Dies)
 INFORMATION ===============================
 ID: 74
 TITLE: Playroom
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit,Contains Adult Innuendo
 SET: Interrogation Room
@@ -4503,7 +4503,7 @@ BECKY: Ugh! you're such a WIMPY-NAME, John.
 INFORMATION ===============================
 ID: 75
 TITLE: Improvement
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Hardware Store
@@ -4580,7 +4580,7 @@ CHAOS LORD: Mwahahaha! (Noticing a sale on toilets) ooo... 50% off all toilets? 
 INFORMATION ===============================
 ID: 76
 TITLE: Your finest wares
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Hardware Store
@@ -4665,7 +4665,7 @@ CLERK: I'm fired? (Sad) Aw man.
 INFORMATION ===============================
 ID: 77
 TITLE: Request
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Interrogation Room
@@ -4750,7 +4750,7 @@ COP: That's the taste of justice, my friend.
 INFORMATION ===============================
 ID: 78
 TITLE: Intervention
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4828,7 +4828,7 @@ PERSON: (Shrugging) oopsies!
 INFORMATION ===============================
 ID: 79
 TITLE: Ghost
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4919,7 +4919,7 @@ WIFE: (Taken aback) Sorry, sorry! I can't help it... it's just so... you know...
 INFORMATION ===============================
 ID: 80
 TITLE: Clown
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -4998,7 +4998,7 @@ CLOWN: And spoil the punch line? No way.
 INFORMATION ===============================
 ID: 81
 TITLE: Bone Dry
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Conference Room
@@ -5072,7 +5072,7 @@ BOSS: See ya Friday! (Exit)
 INFORMATION ===============================
 ID: 82
 TITLE: Just Toast
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -5147,7 +5147,7 @@ FIRST RESPONDER: Hello, headquarters? We got a problem...
 INFORMATION ===============================
 ID: 83
 TITLE: Bardic Inspiration
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Forest
@@ -5233,7 +5233,7 @@ HAPPY BARD: Thank you, thank you, you're too kind.
 INFORMATION ===============================
 ID: 84
 TITLE: Buy, Buy, Buy
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Conference Room
@@ -5297,7 +5297,7 @@ Meanwhile BOSS: Don't let the door hit you on the way out.
 INFORMATION ===============================
 ID: 85
 TITLE: What's Cookin'?
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -5357,7 +5357,7 @@ SALESPERSON: Call now while supplies last!
 INFORMATION ===============================
 ID: 86
 TITLE: Scam
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Living Room
@@ -5432,7 +5432,7 @@ BOB: (Walk slowly off stage, crying)
 INFORMATION ===============================
 ID: 87
 TITLE: Robot Informercial
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -5490,7 +5490,7 @@ Infomercial disclaimer
 INFORMATION ===============================
 ID: 88
 TITLE: Wizard Encounter
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Forest
@@ -5587,7 +5587,7 @@ KNIGHT: This is LIQUID!
 INFORMATION ===============================
 ID: 89
 TITLE: Fantasy Insurance
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Prototype,Skit
 SET: Forest
@@ -5890,7 +5890,7 @@ CHILD: NOOOO!!!
 INFORMATION ===============================
 ID: 96
 TITLE: Not My Mom!
-AUTHOR: PsyKoJesterZ
+AUTHOR: psykojesterz
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
@@ -5953,7 +5953,7 @@ TYPEWRITER: TREVOR ACTIONS Alex's Mom later that day!
 INFORMATION ===============================
 ID: 98
 TITLE: Phone a Friend
-AUTHOR: Zen the Fen
+AUTHOR: zenthefen
 VERIFIED: True
 TAGS: Skit,Game Show
 SET: Living Room
@@ -6033,7 +6033,7 @@ TYPEWRITER: Isaac ended up going to the hospital for food poisoning due to eatin
 INFORMATION ===============================
 ID: 99
 TITLE: An Unlikely Opportunity
-AUTHOR: Cloaked Schemer
+AUTHOR: cloaked_schemer
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
@@ -6165,7 +6165,7 @@ MIA: Okay... Just make sure you change grandma first...
 INFORMATION ===============================
 ID: 103
 TITLE: Talkie Toaster
-AUTHOR: ruralist
+AUTHOR: __renra
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -6234,7 +6234,7 @@ David: (screaming in agony) No!
 INFORMATION ===============================
 ID: 104
 TITLE: Storytime Conflict
-AUTHOR: Cashmanigan
+AUTHOR: cashmanigan
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -6327,7 +6327,7 @@ TYPEWRITER: MONSTER NAME the MONSTER TITLE; 1984 - 2023; Died of MELEE WEAPON ov
 INFORMATION ===============================
 ID: 105
 TITLE: Cryptid Chaos
-AUTHOR: Basemisl
+AUTHOR: basemisl
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -6442,7 +6442,7 @@ HUNTER: Here, you know what, you can have CRYPTIDNAME's BODYPART. I think you de
 INFORMATION ===============================
 ID: 107
 TITLE: The Summoning
-AUTHOR: Furfante
+AUTHOR: furfante
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -6541,7 +6541,7 @@ DEMON: Fine, but you get the crap controller.
 INFORMATION ===============================
 ID: 111
 TITLE: Hotel Marty-o
-AUTHOR: JamminJames22
+AUTHOR: jamminjames22
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -6649,7 +6649,7 @@ Meanwhile BROWSER: (screaming in pain)
 INFORMATION ===============================
 ID: 112
 TITLE: The Coffee Case
-AUTHOR: Generator10
+AUTHOR: generator10
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -6749,7 +6749,7 @@ Pokemon: *Leaves through door*
 INFORMATION ===============================
 ID: 114
 TITLE: Hypnosis Hijinks
-AUTHOR: Basemisl
+AUTHOR: basemisl
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -6859,7 +6859,7 @@ VILLAIN: (Sigh) Yes, MINIONNAME. Grab the broom.
 INFORMATION ===============================
 ID: 118
 TITLE: Another Lost Soul
-AUTHOR: Oerlikon
+AUTHOR: oerlikon
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -6936,7 +6936,7 @@ DETECTIVE: And like that, I was on the case. (Exit)
 INFORMATION ===============================
 ID: 120
 TITLE: Dumbgeons and Dragons
-AUTHOR: TrickySpookster
+AUTHOR: trickyspookster
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -7045,7 +7045,7 @@ DUNGEON MASTER: (Off stage) Get out of my house or I'm calling the cops!
 INFORMATION ===============================
 ID: 121
 TITLE: DEBUG SCRIPT
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Debug,Skit
 SET: Western
@@ -7067,7 +7067,7 @@ TEST CHARACTER: THE END
 INFORMATION ===============================
 ID: 123
 TITLE: Unexpected Pregnancy
-AUTHOR: JanieUwU
+AUTHOR: janieuwu
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Doctor's Office
@@ -7195,7 +7195,7 @@ Applause
 INFORMATION ===============================
 ID: 127
 TITLE: Domination Operation
-AUTHOR: Generator10
+AUTHOR: generator10
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -7313,7 +7313,7 @@ Brain: The same thing we do every night Pinky, Try to take over the world!!
 INFORMATION ===============================
 ID: 133
 TITLE: Romeo and Juliet
-AUTHOR: Basemisl
+AUTHOR: basemisl
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -7432,7 +7432,7 @@ JULIET: Also, why are my lips so wet?
 INFORMATION ===============================
 ID: 136
 TITLE: Lie detector
-AUTHOR: Bеtty
+AUTHOR: emobetty
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -7570,7 +7570,7 @@ APPLICANT: (Shake their hand)
 INFORMATION ===============================
 ID: 145
 TITLE: Psychic Medium
-AUTHOR: TrickySpookster
+AUTHOR: trickyspookster
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -7718,7 +7718,7 @@ Knocking on door
 INFORMATION ===============================
 ID: 153
 TITLE: Fitness Class
-AUTHOR: Ziggy Darkglow
+AUTHOR: ziggydarkglow
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -7795,7 +7795,7 @@ Fitness instructor: Good job everyone! I can't wait to see you all next time!
 INFORMATION ===============================
 ID: 156
 TITLE: El Explorador
-AUTHOR: JanieUwU
+AUTHOR: janieuwu
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -7900,7 +7900,7 @@ DEVICE: (As they leave) And they found the ITEM without a hitch, thanks to you!
 INFORMATION ===============================
 ID: 157
 TITLE: The Divorce
-AUTHOR: thetrashmonarch
+AUTHOR: indigo.moth
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -7967,7 +7967,7 @@ DAD: (Sigh.) She definitely took the OBJECT, didn't she?
 INFORMATION ===============================
 ID: 164
 TITLE: Absorbent Infomercial
-AUTHOR: JanieUwU
+AUTHOR: janieuwu
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
@@ -8024,7 +8024,7 @@ BILLY: Order your PRODUCT-Wow now!
 INFORMATION ===============================
 ID: 173
 TITLE: Something Extra
-AUTHOR: IvoryFluff
+AUTHOR: ivoryfluff
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Doctor's Office
@@ -8095,7 +8095,7 @@ Meanwhile DOCTOR: Don't forget to leave me a 5 star review on APP!
 INFORMATION ===============================
 ID: 177
 TITLE: The Greatest Tattoo
-AUTHOR: Cloaked Schemer
+AUTHOR: cloaked_schemer
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -8188,7 +8188,7 @@ TYPEWRITER: They both later regretted getting the tattoo...
 INFORMATION ===============================
 ID: 178
 TITLE: Kaiju Interrogation
-AUTHOR: 
+AUTHOR: toast6741
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -8260,7 +8260,7 @@ BUTLER: (Enter stage for the last line) … I quit.
 INFORMATION ===============================
 ID: 180
 TITLE: Villain Speech
-AUTHOR: LuckyLuigiX4
+AUTHOR: luckyluigix4
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -8341,7 +8341,7 @@ SUPER HERO: (Opens Door) I can't believe that VILLAIN left the door unlocked for
 INFORMATION ===============================
 ID: 181
 TITLE: Detention
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -8429,7 +8429,7 @@ CHRIS: FOOTBALL, here I come! Yeet! (Exit)
 INFORMATION ===============================
 ID: 183
 TITLE: Deep Cover Dinner
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -8530,7 +8530,7 @@ AGENT: (Nauseous) I think I'm turning into a SNAKE...
 INFORMATION ===============================
 ID: 184
 TITLE: The Bakeoff
-AUTHOR: 
+AUTHOR: jay3409
 VERIFIED: True
 TAGS: Skit
 SET: Infomercial Kitchen
@@ -8596,7 +8596,7 @@ JAMIE: Join us again next week to see our contestants prepare NEXT, the favourit
 INFORMATION ===============================
 ID: 188
 TITLE: The Love Letter
-AUTHOR: Dangerzone50
+AUTHOR: dangerzone50
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Classroom
@@ -8673,7 +8673,7 @@ School bell
 INFORMATION ===============================
 ID: 189
 TITLE: Clue
-AUTHOR: 
+AUTHOR: justjack8
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -8764,7 +8764,7 @@ MISS SCARLETT: Another case closed, thanks to deduction and attention to detail.
 INFORMATION ===============================
 ID: 190
 TITLE: The Idiotic Debate
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -8881,7 +8881,7 @@ Meanwhile IDIOT 1: Then That's it! (Fights INTERVIEWER)
 INFORMATION ===============================
 ID: 193
 TITLE: The Dog of Wall Street
-AUTHOR: Jamin'Jelly
+AUTHOR: jaminjelly
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -8950,7 +8950,7 @@ MF: A rich one! (exit stage)
 INFORMATION ===============================
 ID: 201
 TITLE: First Date
-AUTHOR: _Malphas
+AUTHOR: _malphas
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
@@ -9065,7 +9065,7 @@ meanwhile Delivery Guy: AYYYYYYYYY!!!!!
 INFORMATION ===============================
 ID: 202
 TITLE: It's Broken!
-AUTHOR: Dangerzone50
+AUTHOR: dangerzone50
 VERIFIED: True
 TAGS: Skit
 SET: Hardware Store
@@ -9132,7 +9132,7 @@ TYPEWRITER: SNAME and his dad never made it home...
 INFORMATION ===============================
 ID: 206
 TITLE: The Witches Potion
-AUTHOR: Cloaked Schemer
+AUTHOR: cloaked_schemer
 VERIFIED: True
 TAGS: Skit
 SET: Infomercial Bathroom
@@ -9243,7 +9243,7 @@ HERO: (Do an epic pose) I think I'll finally retire...
 INFORMATION ===============================
 ID: 207
 TITLE: Make a Wish
-AUTHOR: Gibus_the_Gibus
+AUTHOR: ms.gibus
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -9310,7 +9310,7 @@ REPRESENTATIVE: (Storm off stage via stage right.)
 INFORMATION ===============================
 ID: 213
 TITLE: But I'm a Vtuber
-AUTHOR: KuraiOkamiWolf
+AUTHOR: tfmjonny
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -9414,7 +9414,7 @@ TYPEWRITER: Marvin’s dad finally accepted his KIND Vtuber son and Marvin paid 
 INFORMATION ===============================
 ID: 214
 TITLE: Howdy Neighbor!
-AUTHOR: Jamin'Jelly
+AUTHOR: jaminjelly
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
@@ -9505,7 +9505,7 @@ SON: (in deep voice) You still need to log me into FTN later...
 INFORMATION ===============================
 ID: 215
 TITLE: I Don't Wanna Eat My Veggies
-AUTHOR: Danny Grey
+AUTHOR: dannygrey
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Dining Room
@@ -9630,7 +9630,7 @@ CHILD: And I don't want to get DISEASE either.
 INFORMATION ===============================
 ID: 222
 TITLE: VRChat Update
-AUTHOR: Bеtty
+AUTHOR: emobetty
 VERIFIED: True
 TAGS: Skit
 SET: Infomercial Kitchen
@@ -9684,7 +9684,7 @@ TYPEWRITER: SLOGAN
 INFORMATION ===============================
 ID: 240
 TITLE: House Antics
-AUTHOR: 
+AUTHOR: spacecannonz
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -9768,7 +9768,7 @@ TYPEWRITER: And so, Ray and Cooper;fought until the sun went up
 INFORMATION ===============================
 ID: 242
 TITLE: Quiz Quandary Gameshow!
-AUTHOR: Panda oᴥo
+AUTHOR: .robopanda
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -9828,7 +9828,7 @@ Music Stops
 INFORMATION ===============================
 ID: 249
 TITLE: Celebrity Quizzards
-AUTHOR: GSGenesis
+AUTHOR: gsgenesis
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -9933,7 +9933,7 @@ TYPEWRITER: It became the highest-grossing movie of all time,;making FIRST NUMBE
 INFORMATION ===============================
 ID: 251
 TITLE: Batman meets the Riddler
-AUTHOR: Bеtty
+AUTHOR: emobetty
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -10059,7 +10059,7 @@ BATMAN: Yeah... Yeah... They were just mad that I got the answer so fast.
 INFORMATION ===============================
 ID: 257
 TITLE: Hero School: The 1st Day
-AUTHOR: Metru Blizzaga
+AUTHOR: metrutopia
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -10153,7 +10153,7 @@ magic sound
 INFORMATION ===============================
 ID: 274
 TITLE: Sponsored Apology
-AUTHOR: Asuraisop
+AUTHOR: asuraisop.
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -10229,7 +10229,7 @@ Random Person: I wonder who that could be.
 INFORMATION ===============================
 ID: 276
 TITLE: A Good Day to Die
-AUTHOR: IshikawaSAC
+AUTHOR: ishikawa.s.a.c.
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -10293,7 +10293,7 @@ KNIGHT: (Weakly from offstage) Ow.
 INFORMATION ===============================
 ID: 307
 TITLE: Meet the Meat.
-AUTHOR: Myrddyn
+AUTHOR: skunkmyrddyn
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -10385,7 +10385,7 @@ DATER: Look, we want to eat, we don't want to make a meal of the issues.
 INFORMATION ===============================
 ID: 319
 TITLE: AI Generated Wife
-AUTHOR: Cloaked Schemer
+AUTHOR: cloaked_schemer
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -10502,7 +10502,7 @@ SALE: Another job well done here at COMP Ai Generation™
 INFORMATION ===============================
 ID: 333
 TITLE: Cold Rivals
-AUTHOR: RandomTF2
+AUTHOR: randomtf2guy
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -10585,7 +10585,7 @@ music stops
 INFORMATION ===============================
 ID: 341
 TITLE: Outdoor Infomercial
-AUTHOR: Hiddendemonsoul
+AUTHOR: demons_den_boss
 VERIFIED: True
 TAGS: Infomercial
 SET: Campsite
@@ -10643,7 +10643,7 @@ COMFY DAD: (Screams)
 INFORMATION ===============================
 ID: 344
 TITLE: Decision Night
-AUTHOR: IshikawaSAC
+AUTHOR: ishikawa.s.a.c.
 VERIFIED: True
 TAGS: 
 SET: Political Debate USA
@@ -10721,7 +10721,7 @@ laughter
 INFORMATION ===============================
 ID: 356
 TITLE: Wrong Delivery
-AUTHOR: Gibus_the_Gibus
+AUTHOR: ms.gibus
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -10786,7 +10786,7 @@ CUSTOMER: Would have been better if they at least got me AWFULOBJECT pizza... Th
 INFORMATION ===============================
 ID: 364
 TITLE: Lie Detector Gameshow
-AUTHOR: freshclover
+AUTHOR: 4leaffdde
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -10917,7 +10917,7 @@ HOST: (Uncaring) Welp, boo-hoo, it is what it is. Join us again next time for...
 INFORMATION ===============================
 ID: 365
 TITLE: Good-Cop Bad-Cop Gone Wrong
-AUTHOR: Shalazar
+AUTHOR: shalazarthewizrd
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -11047,7 +11047,7 @@ tada
 INFORMATION ===============================
 ID: 367
 TITLE: Yard-time Antics
-AUTHOR: AnObviousTrap
+AUTHOR: anobvioustrap
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
@@ -11120,7 +11120,7 @@ BIGDEM: (Face Audience and sigh) Great...
 INFORMATION ===============================
 ID: 368
 TITLE: One crazy night
-AUTHOR: Mr Mcree
+AUTHOR: mrmcree
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -11190,7 +11190,7 @@ YOUNGER BROTHER: (Follows mother off the stage)
 INFORMATION ===============================
 ID: 374
 TITLE: VrChat Kamping
-AUTHOR: Envizo
+AUTHOR: envizo
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -11286,7 +11286,7 @@ CAMPER3: Well I guess we can go back to camping now.
 INFORMATION ===============================
 ID: 380
 TITLE: The Substitute
-AUTHOR: LoonaWusky
+AUTHOR: galaxydahusky
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -11361,7 +11361,7 @@ Teacher: Remember, knowledge is like a dance – it's more fun when you let loos
 INFORMATION ===============================
 ID: 382
 TITLE: Wibbly Wobbly
-AUTHOR: ~×cozy×~
+AUTHOR: cozyvrc
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -11433,7 +11433,7 @@ thunder
 INFORMATION ===============================
 ID: 385
 TITLE: A Non Suspicious Meeting
-AUTHOR: 
+AUTHOR: theeg67guyfromeguardians
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -11544,7 +11544,7 @@ spy ending sting
 INFORMATION ===============================
 ID: 387
 TITLE: The Karen Saga
-AUTHOR: JoeyPie
+AUTHOR: joeypie
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Doctor's Office
@@ -11645,7 +11645,7 @@ BABY: (Awkward silence, sniff) So uhh... Karen. Did you get your INFECTION sorte
 INFORMATION ===============================
 ID: 388
 TITLE: Redemption
-AUTHOR: Lazer Xiao Long
+AUTHOR: lazerxiaolong
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -11763,7 +11763,7 @@ ALLY: And I'm glad to have you back as well, my RELATION.
 INFORMATION ===============================
 ID: 392
 TITLE: The night before Christmas
-AUTHOR: Deadly~Lex
+AUTHOR: deadly_lex
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -11841,7 +11841,7 @@ THE NARRATOR: Goodnight to all, and to all, goodnight.
 INFORMATION ===============================
 ID: 393
 TITLE: Villainous Venue
-AUTHOR: AnObviousTrap
+AUTHOR: anobvioustrap
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -11929,7 +11929,7 @@ meanwhile MVAIN: (Groan and sigh)
 INFORMATION ===============================
 ID: 394
 TITLE: Christmas Thievery
-AUTHOR: MrShark97
+AUTHOR: mrshark97
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -12003,7 +12003,7 @@ TYPEWRITER: Until they found out it was the wrong thief, and their presents were
 INFORMATION ===============================
 ID: 395
 TITLE: Some Tasty Business
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -12089,7 +12089,7 @@ applause
 INFORMATION ===============================
 ID: 397
 TITLE: The Tv 
-AUTHOR: ᴛʜᴇ ᴋɴᴀᴠᴇ
+AUTHOR: thedemonicwillow
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -12193,7 +12193,7 @@ LAILA: (facepalms and sighs) you're ADJECTIVE3
 INFORMATION ===============================
 ID: 398
 TITLE: The Love Doctor
-AUTHOR: CinnaBunBunn
+AUTHOR: cinnabunbunbunny
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -12261,7 +12261,7 @@ DOCTOR: (Yell out the door) YOUR BREAK ISN'T UNTIL NUMBER MINUTES FROM NOW!
 INFORMATION ===============================
 ID: 400
 TITLE: Is That True?!
-AUTHOR: MrShark97
+AUTHOR: mrshark97
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -12356,7 +12356,7 @@ HOST: (Turn to audience) And thank you for watching everyone, we'll see you all 
 INFORMATION ===============================
 ID: 403
 TITLE: An Unexpected Tale
-AUTHOR: LoonaWusky
+AUTHOR: galaxydahusky
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -12429,7 +12429,7 @@ world news outro
 INFORMATION ===============================
 ID: 404
 TITLE: But the BBEG was hot
-AUTHOR: MrShark97
+AUTHOR: mrshark97
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Forest
@@ -12494,7 +12494,7 @@ BARD: (Calling out to Big Bad Evil Gal) Wait come back! You need to keep slappin
 INFORMATION ===============================
 ID: 406
 TITLE: Wonder of the Woods
-AUTHOR: TiffanyMoon
+AUTHOR: tiffanymoonvr
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -12666,7 +12666,7 @@ laughter
 INFORMATION ===============================
 ID: 425
 TITLE: Check Your Phone!
-AUTHOR: 
+AUTHOR: gkchez
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -12771,7 +12771,7 @@ Laughter
 INFORMATION ===============================
 ID: 426
 TITLE: The Magic Show
-AUTHOR: ~×cozy×~
+AUTHOR: cozyvrc
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -12827,7 +12827,7 @@ APPRENTICE: its time for me to get the spot light, Everyone be ready for I shall
 INFORMATION ===============================
 ID: 427
 TITLE: Resurrection
-AUTHOR: Lazer Xiao Long
+AUTHOR: lazerxiaolong
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
@@ -12924,7 +12924,7 @@ WARRIOR: ...NAME still sees the potential in you!!! He/She has not lost faith in
 INFORMATION ===============================
 ID: 428
 TITLE: Bah Humbug!
-AUTHOR: PuppyShogun
+AUTHOR: puppyshogun
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -13014,7 +13014,7 @@ BOB: BYE.
 INFORMATION ===============================
 ID: 429
 TITLE: So-Not-A-Monster
-AUTHOR: 
+AUTHOR: butterball2016
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -13120,7 +13120,7 @@ TYPEWRITER: Ian never got his money, 1 like = 1 prayer
 INFORMATION ===============================
 ID: 434
 TITLE: Shark Tank Pitch
-AUTHOR: Jasperwolf08
+AUTHOR: jasperwolf08
 VERIFIED: True
 TAGS: Skit
 SET: Game Show
@@ -13196,7 +13196,7 @@ SHARK TWO: Should we call the police?
 INFORMATION ===============================
 ID: 439
 TITLE: Ilegally Blind
-AUTHOR: Melo the Marten
+AUTHOR: melothemarten
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -13278,7 +13278,7 @@ DOCTOR: (defeated) I'm surrounded by idiots.
 INFORMATION ===============================
 ID: 448
 TITLE: Monster of the Week
-AUTHOR: Cy Bunny
+AUTHOR: averyman2005
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -13388,7 +13388,7 @@ CIVILIAN: I think NAME3 needs some medical attention.
 INFORMATION ===============================
 ID: 451
 TITLE: Cooking Show
-AUTHOR: 
+AUTHOR: justjack8
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -13579,7 +13579,7 @@ JOHN: Let's just say I wish I got punched in the BODYPART again.
 INFORMATION ===============================
 ID: 454
 TITLE: The Sink Demon
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -13872,7 +13872,7 @@ FRIEND1: ...next time, I'm just gonna order a pizza.
 INFORMATION ===============================
 ID: 457
 TITLE: Hot Alien Invader
-AUTHOR: LongPinkNoodle
+AUTHOR: loveiathan
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -13985,7 +13985,7 @@ ALIEN: (Suck in your teeth nervously.) Yeah... No... Sorry no... I have a boyfri
 INFORMATION ===============================
 ID: 458
 TITLE: Bear Camping
-AUTHOR: Raven Android
+AUTHOR: ravenisacrowbot
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -14181,7 +14181,7 @@ MEANWHILE PURPLE: (pull out a WEAPON)
 INFORMATION ===============================
 ID: 466
 TITLE: The Forbidden Fruit
-AUTHOR: Senty
+AUTHOR: senty
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Forest
@@ -14308,7 +14308,7 @@ SNAKE: You sssaid you needed sssomeone to WOOHOO with...?
 INFORMATION ===============================
 ID: 471
 TITLE: The Daily News
-AUTHOR: OzbendPrime
+AUTHOR: ozbendprime
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -14370,7 +14370,7 @@ NEWS REPORTER: What all just happened? Wait whats that smell?
 INFORMATION ===============================
 ID: 475
 TITLE: Twin Trouble
-AUTHOR: MrShark97
+AUTHOR: mrshark97
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -14445,7 +14445,7 @@ TYPEWRITER: NAME1 was not the Impostor. One impostor remains.
 INFORMATION ===============================
 ID: 476
 TITLE: Stop the Wedding!
-AUTHOR: Femalesonicexe
+AUTHOR: femalesonicexe
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -14513,7 +14513,7 @@ GROOM: I know
 INFORMATION ===============================
 ID: 479
 TITLE: The Company Problem
-AUTHOR: WienerStaffel
+AUTHOR: theonlygarlicbread
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -14596,7 +14596,7 @@ DAYVON: I don't get payed enough.
 INFORMATION ===============================
 ID: 481
 TITLE: The Aquarium 
-AUTHOR: Envizo
+AUTHOR: envizo
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -14686,7 +14686,7 @@ STEPHEN: (Find (USER) and point at them). (USER) is the ugliest.
 INFORMATION ===============================
 ID: 486
 TITLE: Wrong Store
-AUTHOR: TotallyNotAYP
+AUTHOR: hampydampy
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -14756,7 +14756,7 @@ CASHIER: Very, and I think Ill work here for a little longer now
 INFORMATION ===============================
 ID: 489
 TITLE: The Stealer
-AUTHOR: djbaby faced
+AUTHOR: djishere_2000
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -14818,7 +14818,7 @@ NEWSMAN: Tune in next time for info on STORY.
 INFORMATION ===============================
 ID: 490
 TITLE: New Phone
-AUTHOR: Ｒｅｃｋｅｒ８９７
+AUTHOR: prodbyrecker
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -14896,7 +14896,7 @@ Laughter
 INFORMATION ===============================
 ID: 492
 TITLE: You owe me
-AUTHOR: TheyLuvStrawbyy
+AUTHOR: adri_urmom
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -15081,7 +15081,7 @@ VILLAIN: No promises.
 INFORMATION ===============================
 ID: 495
 TITLE: Psychic Arrest
-AUTHOR: Senty
+AUTHOR: senty
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -15225,7 +15225,7 @@ shark tank deal
 INFORMATION ===============================
 ID: 498
 TITLE: Who's Tippin?
-AUTHOR: OzbendPrime
+AUTHOR: ozbendprime
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -15376,7 +15376,7 @@ THE MANAGER: Nah your fine, actually I think they might be my favorite pair of c
 INFORMATION ===============================
 ID: 502
 TITLE: Rhymes of Healing
-AUTHOR: WienerStaffel
+AUTHOR: theonlygarlicbread
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -15444,7 +15444,7 @@ DOCTOR: Wait!! You forgot to pay the hospital bill! It's NUMBER dollars! (exit)
 INFORMATION ===============================
 ID: 508
 TITLE: Haunted Forest
-AUTHOR: Ｒｅｃｋｅｒ８９７
+AUTHOR: prodbyrecker
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -15552,7 +15552,7 @@ Fortnite
 INFORMATION ===============================
 ID: 513
 TITLE: Stereo Salmon Commercial
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: Infomercial
 SET: Forest Bridge
@@ -15707,7 +15707,7 @@ VTUBER: (to the audience) Now remember, just a small percent of the people who w
 INFORMATION ===============================
 ID: 515
 TITLE: Attic Monster
-AUTHOR: 
+AUTHOR: saya81295
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -15797,7 +15797,7 @@ MONSTER: (walks over to the couch and sits down in front of the TV, then speaks 
 INFORMATION ===============================
 ID: 518
 TITLE: Detective's Luck
-AUTHOR: TiffanyMoon
+AUTHOR: tiffanymoonvr
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -15865,7 +15865,7 @@ LADY: (scoffing) That explains a lot.
 INFORMATION ===============================
 ID: 522
 TITLE: Imaginary Friends
-AUTHOR: SuperNova77
+AUTHOR: howie6198
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -15977,7 +15977,7 @@ Ivan: Ugh..I hate my life.
 INFORMATION ===============================
 ID: 524
 TITLE: We Do Things Old School
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -16055,7 +16055,7 @@ SAMMY: Awww man.
 INFORMATION ===============================
 ID: 526
 TITLE: The Tomato Timeline
-AUTHOR: Jar
+AUTHOR: vr_jar
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -16136,7 +16136,7 @@ PRESENT MATT: I know buddy... I know.
 INFORMATION ===============================
 ID: 527
 TITLE: Timezone Trouble
-AUTHOR: TotallyNotAYP
+AUTHOR: hampydampy
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -16221,7 +16221,7 @@ SAMANTHA: I don't kno- Oh I set my clock one hour ahead, sorry for the confusion
 INFORMATION ===============================
 ID: 530
 TITLE: Unwilling Test Subject
-AUTHOR: Phantom
+AUTHOR: bigphantom
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -16326,7 +16326,7 @@ TYPEWRITER: The two were never seen again...
 INFORMATION ===============================
 ID: 531
 TITLE: sidequest upon sidequest
-AUTHOR: ねこunknownねこ
+AUTHOR: neekounknown
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -16420,7 +16420,7 @@ TYPEWRITER: If you or a loved one is affected please seek professional healthcar
 INFORMATION ===============================
 ID: 533
 TITLE: Wanna Sprite Cranberry?
-AUTHOR: Phantom
+AUTHOR: bigphantom
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -16526,7 +16526,7 @@ super epic charge up
 INFORMATION ===============================
 ID: 539
 TITLE: Shark Tank
-AUTHOR: Paperclip95
+AUTHOR: paperclip95
 VERIFIED: True
 TAGS: 
 SET: Conference Room
@@ -16609,7 +16609,7 @@ PRODUCT: Thanks for supporting me, CREATOR and COMPANY. It's been a pleasure con
 INFORMATION ===============================
 ID: 541
 TITLE: Assassination Attempt
-AUTHOR: SuperNova77
+AUTHOR: howie6198
 VERIFIED: True
 TAGS: 
 SET: Conference Room
@@ -16703,7 +16703,7 @@ WOLF: I think I might take a vacation.
 INFORMATION ===============================
 ID: 543
 TITLE: Clone Encounters
-AUTHOR: TrickySpookster
+AUTHOR: trickyspookster
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Interrogation Room
@@ -16791,7 +16791,7 @@ laughter
 INFORMATION ===============================
 ID: 545
 TITLE: Court Case: Horsing Around
-AUTHOR: SuperNova77
+AUTHOR: howie6198
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
@@ -16902,7 +16902,7 @@ STAR: You should know, as I always say, SWEET!
 INFORMATION ===============================
 ID: 548
 TITLE: Unfortunate Game Show
-AUTHOR: Oerlikon
+AUTHOR: oerlikon
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -16987,7 +16987,7 @@ gameshow outro
 INFORMATION ===============================
 ID: 549
 TITLE: Snooze News
-AUTHOR: TiffanyMoon
+AUTHOR: tiffanymoonvr
 VERIFIED: True
 TAGS: Skit,Infomercial
 SET: News
@@ -17047,7 +17047,7 @@ thunder
 INFORMATION ===============================
 ID: 556
 TITLE: Meet the Shapeshifter
-AUTHOR: Pumgumgum
+AUTHOR: pumgumgum
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -17155,7 +17155,7 @@ ARCH: Toodaloo! (exit and close the door)
 INFORMATION ===============================
 ID: 561
 TITLE: The Unkillable Soldier
-AUTHOR: kiro-sage
+AUTHOR: kirosage
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -17260,7 +17260,7 @@ US: (stops and turns around) Oh, be sure to tell Misses about this. She would lo
 INFORMATION ===============================
 ID: 562
 TITLE: There's No Time
-AUTHOR: MrKite6
+AUTHOR: mrkite6
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -17347,7 +17347,7 @@ HB: Let's just go out to eat tonight.
 INFORMATION ===============================
 ID: 563
 TITLE: It's A Boy
-AUTHOR: MrKite6
+AUTHOR: mrkite6
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -17410,7 +17410,7 @@ DR: Don't worry! We'll get through this!
 INFORMATION ===============================
 ID: 564
 TITLE: A Special Gift
-AUTHOR: MrKite6
+AUTHOR: mrkite6
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -17491,7 +17491,7 @@ SK: Oh god! I forgot about daylight savings time!
 INFORMATION ===============================
 ID: 566
 TITLE: Troll Hunters
-AUTHOR: ~ Evie ~
+AUTHOR: tinyevie
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
@@ -17573,7 +17573,7 @@ TROLL: (Sniff the deodorant) This ANYTHING deodorant smell bad, like human! Trol
 INFORMATION ===============================
 ID: 569
 TITLE: Anime Detectives
-AUTHOR: FrostyApri
+AUTHOR: frostyapri
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -17650,7 +17650,7 @@ C: I'm done. I just want a glass of DRINK. I'm done
 INFORMATION ===============================
 ID: 570
 TITLE: Dish Fiasco
-AUTHOR: 
+AUTHOR: kira_kirabakyun
 VERIFIED: True
 TAGS: 
 SET: Infomercial Kitchen
@@ -17713,7 +17713,7 @@ IAN: Um, no worries! I'm just gonna head home. It was nice of you to invite me! 
 INFORMATION ===============================
 ID: 578
 TITLE: Positive Prisoners
-AUTHOR: LongPinkNoodle
+AUTHOR: loveiathan
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -17807,7 +17807,7 @@ TORTURER: This is torture! (Scream in rage and agony)
 INFORMATION ===============================
 ID: 580
 TITLE: The Haunted Doll
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -17925,7 +17925,7 @@ thunder
 INFORMATION ===============================
 ID: 582
 TITLE: Jesse we need to cook!
-AUTHOR: Awbluefy
+AUTHOR: awbluefy
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -18073,7 +18073,7 @@ SOLDIER: You got to be kidding me!
 INFORMATION ===============================
 ID: 587
 TITLE: Hungry Wish
-AUTHOR: MrMonster_TV
+AUTHOR: mrmonster_tv
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -18141,7 +18141,7 @@ ADULT: Don't celebrate Christmas! (laugh and transition into crying)
 INFORMATION ===============================
 ID: 589
 TITLE: Personal Injury Lawyers
-AUTHOR: Stitcharoo
+AUTHOR: stitcharoo
 VERIFIED: True
 TAGS: Skit,Infomercial
 SET: Living Room
@@ -18211,7 +18211,7 @@ LAW1: (Commercial is over but you forgot this last bit to squeeze in there) We a
 INFORMATION ===============================
 ID: 591
 TITLE: Evil Ambassador
-AUTHOR: 
+AUTHOR: ptepik
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -18282,7 +18282,7 @@ PRES: Ha! in your dreams!
 INFORMATION ===============================
 ID: 592
 TITLE: Doesn't-Work-Shop
-AUTHOR: Valhymm
+AUTHOR: valhymm
 VERIFIED: True
 TAGS: Skit
 SET: Hardware Store
@@ -18383,7 +18383,7 @@ FRANK: Did you know, DUCTTAPE was used on MythBusters?
 INFORMATION ===============================
 ID: 593
 TITLE: The Funniest Man Alive
-AUTHOR: kiro-sage
+AUTHOR: kirosage
 VERIFIED: True
 TAGS: 
 SET: Interrogation Room
@@ -18461,7 +18461,7 @@ FRIEND: (singing) SONG2
 INFORMATION ===============================
 ID: 597
 TITLE: The Alien
-AUTHOR: imoriginal
+AUTHOR: imoriginal._
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -18620,7 +18620,7 @@ FRIEND2: My Dad's a Lawyer.
 INFORMATION ===============================
 ID: 601
 TITLE: Dice Bot 2000!
-AUTHOR: LuckyLuigiX4
+AUTHOR: luckyluigix4
 VERIFIED: True
 TAGS: Skit,Infomercial
 SET: Dining Room
@@ -18700,7 +18700,7 @@ Infomercial disclaimer
 INFORMATION ===============================
 ID: 604
 TITLE: Oh my Darling!
-AUTHOR: 
+AUTHOR: kichan6
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
@@ -18786,7 +18786,7 @@ KEATON: I'll just tell PLACE LOCATION I was having car troubles. Wait for me! (E
 INFORMATION ===============================
 ID: 607
 TITLE: Our New Neighbor Sucks
-AUTHOR: TrickySpookster
+AUTHOR: trickyspookster
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
@@ -18887,7 +18887,7 @@ Meanwhile BRUCE: (look at RITA) Our new neighbor sucks!
 INFORMATION ===============================
 ID: 609
 TITLE: Dinner Party for One
-AUTHOR: Tricky_Hunter
+AUTHOR: tricky_hunter127
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -18958,7 +18958,7 @@ BOB: Nothing quite like fresh FOOD! (dig into meal)
 INFORMATION ===============================
 ID: 610
 TITLE: The Emotion Fairy
-AUTHOR: Figbean
+AUTHOR: ilovemixing
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -19030,7 +19030,7 @@ ALEX: Well, darn. Now what?
 INFORMATION ===============================
 ID: 611
 TITLE: Quarterly Freakout Meds
-AUTHOR: Tricky_Hunter
+AUTHOR: tricky_hunter127
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Conference Room
@@ -19102,7 +19102,7 @@ BORED: (Scream) Get out of my head!
 INFORMATION ===============================
 ID: 613
 TITLE: Deceitful News Broadcast
-AUTHOR: Tricky_Hunter
+AUTHOR: tricky_hunter127
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -19155,7 +19155,7 @@ ANCHOR: And that's the news, I've been your host ANCHORNAME!
 INFORMATION ===============================
 ID: 615
 TITLE: The Court Jester
-AUTHOR: 
+AUTHOR: ninjashyper096
 VERIFIED: True
 TAGS: 
 SET: Dining Room
@@ -19226,7 +19226,7 @@ KING: (falls to ground dead)
 INFORMATION ===============================
 ID: 616
 TITLE: Grocery Confusion
-AUTHOR: Tricky_Hunter
+AUTHOR: tricky_hunter127
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -19290,7 +19290,7 @@ MANAGER: (vicious tone) We need those for the coming war with HARDWARESTORE!
 INFORMATION ===============================
 ID: 619
 TITLE: Noir roommates
-AUTHOR: 
+AUTHOR: itsmrdude
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Detective Noir
@@ -19378,7 +19378,7 @@ RANDY: (Walk to door) Just think of me whenever you eat CAN (leave scene)
 INFORMATION ===============================
 ID: 629
 TITLE: The Beast of corkingdale bog
-AUTHOR: ~°Mısanʇhrope°~
+AUTHOR: aaronj250906
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -19479,7 +19479,7 @@ CHUCK: Run!! (Exit stage)
 INFORMATION ===============================
 ID: 633
 TITLE: Mad Doctor
-AUTHOR: Gibus_the_Gibus
+AUTHOR: ms.gibus
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -19564,7 +19564,7 @@ TYPEWRITER: Doctor Maximus would be taken into custody of the AGENCY after procl
 INFORMATION ===============================
 ID: 634
 TITLE: Machine Learning
-AUTHOR: Kadena
+AUTHOR: kadenaa
 VERIFIED: True
 TAGS: Prototype
 SET: Classroom
@@ -19679,7 +19679,7 @@ BILLY: Nice! Can you share? We can practice our LEARNING_ACTIVITY together!
 INFORMATION ===============================
 ID: 637
 TITLE: The Unbelievable Update 
-AUTHOR: тaсo
+AUTHOR: taco610
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -19744,7 +19744,7 @@ ANCHOR: I'm Jane Smith. Signing off. Goodnight, everyone.
 INFORMATION ===============================
 ID: 643
 TITLE: Repugnantation
-AUTHOR: Lazer Xiao Long
+AUTHOR: lazerxiaolong
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -19866,7 +19866,7 @@ FRIEND: (Looks around) No.... Is ROMEO dead? How am I going to tell this to ETHA
 INFORMATION ===============================
 ID: 648
 TITLE: New Product!
-AUTHOR: TiffanyMoon
+AUTHOR: tiffanymoonvr
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -19929,7 +19929,7 @@ Meanwhile PROTO: (Shakes boss's hand)
 INFORMATION ===============================
 ID: 650
 TITLE: Obscure Potion
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -20011,7 +20011,7 @@ infomercial disclaimer
 INFORMATION ===============================
 ID: 651
 TITLE: The Villain Council 
-AUTHOR: DaKcBomb
+AUTHOR: dakcbomb
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
@@ -20110,7 +20110,7 @@ KING: (sigh) One day they'll understand what it truly means to be a villain...
 INFORMATION ===============================
 ID: 655
 TITLE: Villain Rehab
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -20206,7 +20206,7 @@ explosion
 INFORMATION ===============================
 ID: 657
 TITLE: Goodies Inspection
-AUTHOR: PigeonVa
+AUTHOR: airportpigeon_
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
@@ -20299,7 +20299,7 @@ GUARD: What a handsome and great young fellow. (Start to pack-up)
 INFORMATION ===============================
 ID: 658
 TITLE: Cowboy Duel
-AUTHOR: SPIDΣR ZΔZZULΣ
+AUTHOR: spiderz_.
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -20377,7 +20377,7 @@ DIRECTOR: (waving arms to stop at the audience) Cut The Cameras!
 INFORMATION ===============================
 ID: 663
 TITLE: A Medical Disaster 
-AUTHOR: Cyrus?
+AUTHOR: cyrus_the_unknown
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -20445,7 +20445,7 @@ DOCTOR: That will be 2000$ will you pay in cash or card?
 INFORMATION ===============================
 ID: 665
 TITLE: Demon King Disaster
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -20549,7 +20549,7 @@ laughter
 INFORMATION ===============================
 ID: 670
 TITLE: Yummy Yum Yummy
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -20645,7 +20645,7 @@ aww
 INFORMATION ===============================
 ID: 674
 TITLE: Biology Class
-AUTHOR: Valhymm
+AUTHOR: valhymm
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -20717,7 +20717,7 @@ CHLOE: Well, if that's what happens, they can have my LIVER!
 INFORMATION ===============================
 ID: 677
 TITLE: News Channel Chaos
-AUTHOR: GameBot 2000
+AUTHOR: gamebot2k
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -20836,7 +20836,7 @@ TYPEWRITER: Thank you for watching News Channel NUMBER
 INFORMATION ===============================
 ID: 678
 TITLE: Oddly Named Recruit 
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Detective Noir
@@ -20942,7 +20942,7 @@ Applause
 INFORMATION ===============================
 ID: 681
 TITLE: Physical Gaming
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Grocery Store
@@ -21043,7 +21043,7 @@ TYPEWRITER: BIT crashed moments later, ; bankrupting the game store.
 INFORMATION ===============================
 ID: 684
 TITLE: Burn the Outlaw!
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Western
@@ -21149,7 +21149,7 @@ explosion
 INFORMATION ===============================
 ID: 685
 TITLE: Competitive Gaslighting 
-AUTHOR: kiro-sage
+AUTHOR: kirosage
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -21276,7 +21276,7 @@ HOST: (look down at the volunteer) Oh dear i think they're dead... I know i can 
 INFORMATION ===============================
 ID: 687
 TITLE: You Shall Not Pass!
-AUTHOR: DaKcBomb
+AUTHOR: dakcbomb
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -21401,7 +21401,7 @@ NARRATOR: Until we meet again!
 INFORMATION ===============================
 ID: 688
 TITLE: Fur-tastic Frenzy Gameshow 
-AUTHOR: ReefissDaMerpup
+AUTHOR: furrygooberdog
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -21484,7 +21484,7 @@ Host: Thanks for joining us on this wild ride of "Fur-tastic Frenzy!" Until next
 INFORMATION ===============================
 ID: 690
 TITLE: The questionable news
-AUTHOR: imoriginal
+AUTHOR: imoriginal._
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -21550,7 +21550,7 @@ World news outro
 INFORMATION ===============================
 ID: 693
 TITLE: Chemistry Class
-AUTHOR: Valhymm
+AUTHOR: valhymm
 VERIFIED: True
 TAGS: Skit
 SET: Infomercial Kitchen
@@ -21659,7 +21659,7 @@ CHLOE: (Triumphantly, to audience) This medicine really does make annoying littl
 INFORMATION ===============================
 ID: 696
 TITLE: Physics Class
-AUTHOR: Valhymm
+AUTHOR: valhymm
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -21766,7 +21766,7 @@ TEACH: (Look at your watch) TEN hours?! Jeez...
 INFORMATION ===============================
 ID: 697
 TITLE: Christmas Caper
-AUTHOR: Zen the Fen
+AUTHOR: zenthefen
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -21873,7 +21873,7 @@ NARRATOR: Merry Christmas to all, and to all... well, you know the rest.
 INFORMATION ===============================
 ID: 704
 TITLE: The Sponsor
-AUTHOR: Yu-me1 1ecb
+AUTHOR: ninjitsu1859
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -21955,7 +21955,7 @@ Boss: I could get use to this.
 INFORMATION ===============================
 ID: 705
 TITLE: Satan's Suggestive Sentencing 
-AUTHOR: Hylactic
+AUTHOR: hylactic
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
@@ -22019,7 +22019,7 @@ DEMON: Sounds diabolical, sir. Lead the way.
 INFORMATION ===============================
 ID: 706
 TITLE: Wrong Order
-AUTHOR: Yu-me1 1ecb
+AUTHOR: ninjitsu1859
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -22111,7 +22111,7 @@ Josh: I did not order this drama today either.
 INFORMATION ===============================
 ID: 709
 TITLE: Public Service announcement 
-AUTHOR: Yu-me1 1ecb
+AUTHOR: ninjitsu1859
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -22177,7 +22177,7 @@ Jerry: AAAAAAAAAAAH!
 INFORMATION ===============================
 ID: 710
 TITLE: The Standoff
-AUTHOR: Yu-me1 1ecb
+AUTHOR: ninjitsu1859
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -22272,7 +22272,7 @@ Sheriff: Yippie! (Exit stage right)
 INFORMATION ===============================
 ID: 711
 TITLE: Good cop, bad cop
-AUTHOR: Yu-me1 1ecb
+AUTHOR: ninjitsu1859
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -22376,7 +22376,7 @@ Bad cop: Let’s do it!
 INFORMATION ===============================
 ID: 713
 TITLE: Concrete Alibi
-AUTHOR: 
+AUTHOR: abysswireless
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -22468,7 +22468,7 @@ western jingle 1
 INFORMATION ===============================
 ID: 714
 TITLE: Don’t I know you?
-AUTHOR: Yu-me1 1ecb
+AUTHOR: ninjitsu1859
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -22753,7 +22753,7 @@ EMPLOYEE: Wait, what?
 INFORMATION ===============================
 ID: 724
 TITLE: Actor Anarchy
-AUTHOR: kiro-sage
+AUTHOR: kirosage
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -22843,7 +22843,7 @@ DAD: No, my son, I'm sorry. (kneels down to son while ACT ing) I'm sorry I could
 INFORMATION ===============================
 ID: 725
 TITLE: It’s In My Mouth
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Restaurant
@@ -22944,7 +22944,7 @@ Aww
 INFORMATION ===============================
 ID: 726
 TITLE: Date with a Blockchain Romeo
-AUTHOR: SenorconQueso
+AUTHOR: senorconqueso
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -23002,7 +23002,7 @@ LOVER: (to audience) Sometimes it moons, sometimes it crashes—but it’s alway
 INFORMATION ===============================
 ID: 729
 TITLE: Duel at the Alright Corral
-AUTHOR: Tricky_Hunter
+AUTHOR: tricky_hunter127
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -23072,7 +23072,7 @@ TYPEWRITER: Ol' GUNSLINGERNAME skipped town to find his next victim;On the way G
 INFORMATION ===============================
 ID: 730
 TITLE: Accidental Actor
-AUTHOR: TheCatCatBoi
+AUTHOR: thecatcatboi
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -23177,7 +23177,7 @@ Music stops
 INFORMATION ===============================
 ID: 731
 TITLE: The Trial of the Witch
-AUTHOR: SenorconQueso
+AUTHOR: senorconqueso
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
@@ -23243,7 +23243,7 @@ ABIGAIL: I'll get the WEAPON.
 INFORMATION ===============================
 ID: 735
 TITLE: Time Traveling Out West
-AUTHOR: TrickySpookster
+AUTHOR: trickyspookster
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -23352,7 +23352,7 @@ LAURA: We're stuck here for another 6 hours?! Noooo!
 INFORMATION ===============================
 ID: 737
 TITLE: Time cops
-AUTHOR: 
+AUTHOR: itsmrdude
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -23466,7 +23466,7 @@ OLD: YES MA’AM!
 INFORMATION ===============================
 ID: 739
 TITLE: The Case Of The Taco Bell Mild Sauce
-AUTHOR: The_Dapper_Cat
+AUTHOR: the_dapper_cat
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -23583,7 +23583,7 @@ THIEF: (run of the stage screaming)
 INFORMATION ===============================
 ID: 740
 TITLE: Downtown Dilemma
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -23662,7 +23662,7 @@ TYPEWRITER: END
 INFORMATION ===============================
 ID: 741
 TITLE: Lap it up
-AUTHOR: PigeonVa
+AUTHOR: airportpigeon_
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Interrogation Room
@@ -23746,7 +23746,7 @@ aww
 INFORMATION ===============================
 ID: 743
 TITLE: Sunshine Showdown
-AUTHOR: TiffanyMoon
+AUTHOR: tiffanymoonvr
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -23822,7 +23822,7 @@ SHERIFF: (put the gun away) Sally, I'm sorry about your loss. May your RELATIVE 
 INFORMATION ===============================
 ID: 747
 TITLE: Backyard Beast
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Backyard
@@ -23919,7 +23919,7 @@ Applause
 INFORMATION ===============================
 ID: 748
 TITLE: The Maid Master
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Murder
@@ -24021,7 +24021,7 @@ Applause
 INFORMATION ===============================
 ID: 749
 TITLE: Quest Gone Wrong
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Campsite
@@ -24138,7 +24138,7 @@ Aww
 INFORMATION ===============================
 ID: 751
 TITLE: Raid Garbagé
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -24219,7 +24219,7 @@ Aww
 INFORMATION ===============================
 ID: 752
 TITLE: Dubious Cereal
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Infomercial,Contains Adult Innuendo
 SET: Infomercial Kitchen
@@ -24292,7 +24292,7 @@ Crowd woo
 INFORMATION ===============================
 ID: 754
 TITLE: New Chimera
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Doctor's Office
@@ -24371,7 +24371,7 @@ Laughter
 INFORMATION ===============================
 ID: 755
 TITLE: Wine, With a Side of Death
-AUTHOR: SenorconQueso
+AUTHOR: senorconqueso
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -24489,7 +24489,7 @@ laughter
 INFORMATION ===============================
 ID: 757
 TITLE: Karen Rap Battle
-AUTHOR: TheCatCatBoi
+AUTHOR: thecatcatboi
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -24559,7 +24559,7 @@ KAREN1: (EMOTION2) DEFEAT
 INFORMATION ===============================
 ID: 758
 TITLE: Doofy Draw
-AUTHOR: PigeonVa
+AUTHOR: airportpigeon_
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -24643,7 +24643,7 @@ crowd woo
 INFORMATION ===============================
 ID: 759
 TITLE: Death Row Gameshow
-AUTHOR: Hexarch
+AUTHOR: hexarch_hd
 VERIFIED: True
 TAGS: Skit,Game Show
 SET: Game Show
@@ -24738,7 +24738,7 @@ Gameshow Outro
 INFORMATION ===============================
 ID: 766
 TITLE: Welcome To The Family
-AUTHOR: OzbendPrime
+AUTHOR: ozbendprime
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -24980,7 +24980,7 @@ TYPEWRITER: All because of CELEB, I guess.
 INFORMATION ===============================
 ID: 769
 TITLE: Mild, Mild West
-AUTHOR: Valhymm
+AUTHOR: valhymm
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -25105,7 +25105,7 @@ WHITEHAT: You'll be makin' PINK boots for the rest of your days where you're goi
 INFORMATION ===============================
 ID: 770
 TITLE: Mafi-Oh-So Wrong!
-AUTHOR: Midnight Spark
+AUTHOR: midnightspark
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Detective Noir
@@ -25205,7 +25205,7 @@ music stops
 INFORMATION ===============================
 ID: 771
 TITLE: That woman is so weird
-AUTHOR: 
+AUTHOR: ahtcs026
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -25295,7 +25295,7 @@ laughter
 INFORMATION ===============================
 ID: 775
 TITLE: Conflicting Identities
-AUTHOR: AnObviousTrap
+AUTHOR: anobvioustrap
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -25366,7 +25366,7 @@ applause
 INFORMATION ===============================
 ID: 777
 TITLE: Psycho Sister
-AUTHOR: TheOnlyRobie
+AUTHOR: theonlyrobie
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -25471,7 +25471,7 @@ happy music 1
 INFORMATION ===============================
 ID: 791
 TITLE: The Sock Snatcher
-AUTHOR: TheCatCatBoi
+AUTHOR: thecatcatboi
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -25536,7 +25536,7 @@ DEMON: BYE!
 INFORMATION ===============================
 ID: 793
 TITLE: Battlefield confessions
-AUTHOR: AsheWHY
+AUTHOR: ashewhy
 VERIFIED: True
 TAGS: 
 SET: Forest
@@ -25603,7 +25603,7 @@ explosion
 INFORMATION ===============================
 ID: 799
 TITLE: Monopoly Night
-AUTHOR: Tztsuya-Shiba
+AUTHOR: tztsuya.shiba
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -25771,7 +25771,7 @@ crowd woo
 INFORMATION ===============================
 ID: 800
 TITLE: Hero or Zero
-AUTHOR: 
+AUTHOR: flashlight2537
 VERIFIED: True
 TAGS: Contains Adult Innuendo
 SET: Political Debate USA
@@ -25863,7 +25863,7 @@ superhero music
 INFORMATION ===============================
 ID: 809
 TITLE: Jesus and Buddha
-AUTHOR: IdleGav
+AUTHOR: idlegav
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -25939,7 +25939,7 @@ CASHIER: Anyways, let me help you with your stuff here... By the way, could I in
 INFORMATION ===============================
 ID: 810
 TITLE: Pokémon Explorers Guild Rivalry
-AUTHOR: 
+AUTHOR: badger__1
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Forest Bridge
@@ -26038,7 +26038,7 @@ tada
 INFORMATION ===============================
 ID: 813
 TITLE: Gimme yer booty!
-AUTHOR: OzbendPrime
+AUTHOR: ozbendprime
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -26110,7 +26110,7 @@ PIRATE: Can I have my money now?
 INFORMATION ===============================
 ID: 816
 TITLE: Rap Battle
-AUTHOR: 
+AUTHOR: flashlight2537
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -26175,7 +26175,7 @@ GOAT: (take a bow)
 INFORMATION ===============================
 ID: 818
 TITLE: Wall Spies
-AUTHOR: kiro-sage
+AUTHOR: kirosage
 VERIFIED: True
 TAGS: 
 SET: Living Room
@@ -26278,7 +26278,7 @@ TYPEWRITER: They then attacked CITY and destroyed everything. The only thing lef
 INFORMATION ===============================
 ID: 819
 TITLE: It's To Die For
-AUTHOR: Tztsuya-Shiba
+AUTHOR: tztsuya.shiba
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -26428,7 +26428,7 @@ BF: (gasp for air) Noooooooooooooooooo!
 INFORMATION ===============================
 ID: 820
 TITLE: Kart-Astrophe
-AUTHOR: MGLR
+AUTHOR: mglr
 VERIFIED: True
 TAGS: Skit
 SET: Hardware Store
@@ -26505,7 +26505,7 @@ STEVE: (Irritatedly) You should've shut down at founding.
 INFORMATION ===============================
 ID: 824
 TITLE: Absurd Alert
-AUTHOR: GameAdvent2
+AUTHOR: gameadventstudios
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -26550,7 +26550,7 @@ ANCHOR: a local man claims to have invented a device that translates ANIMAL nois
 INFORMATION ===============================
 ID: 832
 TITLE: Milkshake Factory
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Contains Adult Innuendo
 SET: Infomercial Kitchen
@@ -26611,7 +26611,7 @@ RUMSAY: That's it! You're done! You've had your last milkshake!
 INFORMATION ===============================
 ID: 834
 TITLE: Can We Keep It?
-AUTHOR: piks23
+AUTHOR: piks23vr
 VERIFIED: True
 TAGS: 
 SET: Living Room
@@ -26689,7 +26689,7 @@ CREATURE: SOUND!
 INFORMATION ===============================
 ID: 835
 TITLE: Short Term Memory Game Show
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -26776,7 +26776,7 @@ HOST: That's all the time we have. See you next time on "Who the Buck"? Wait. Wh
 INFORMATION ===============================
 ID: 838
 TITLE: The Streaker
-AUTHOR: MindlessGonzo
+AUTHOR: mindlessgonzo
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -26851,7 +26851,7 @@ laughter
 INFORMATION ===============================
 ID: 839
 TITLE: The Pizza Mafia Meeting
-AUTHOR: XenoFlameVR
+AUTHOR: xenoflamevr
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -26934,7 +26934,7 @@ Blanc: Ugh, im out of here. (Exit the stage)
 INFORMATION ===============================
 ID: 841
 TITLE: A Terrible Accident
-AUTHOR: HolidayWither
+AUTHOR: holidaywither
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -27019,7 +27019,7 @@ Courtroom sting
 INFORMATION ===============================
 ID: 842
 TITLE: Traffic Light Committee
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -27081,7 +27081,7 @@ BOSS: Brilliant! Great work, everyone! We should clock out now and beat the traf
 INFORMATION ===============================
 ID: 845
 TITLE: A visit to grandpas
-AUTHOR: Yu-me1 1ecb
+AUTHOR: ninjitsu1859
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -27156,7 +27156,7 @@ Grandpa: Right, Jerry.
 INFORMATION ===============================
 ID: 847
 TITLE: Shocking Development
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -27219,7 +27219,7 @@ JANET: Good night. And Rest in Peace, Jerry.
 INFORMATION ===============================
 ID: 849
 TITLE: In Love with a Slasher
-AUTHOR: QuinnbyVR
+AUTHOR: systembias
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -27339,7 +27339,7 @@ TYPEWRITER: The two lovebirds went to watch MOVIE, then murderized the whole the
 INFORMATION ===============================
 ID: 853
 TITLE: Possessed Toilet
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Infomercial Bathroom
@@ -27412,7 +27412,7 @@ HUSBAND: (looks down in toilet) I think we have another problem.
 INFORMATION ===============================
 ID: 857
 TITLE: Donate, Please
-AUTHOR: HolidayWither
+AUTHOR: holidaywither
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
@@ -27471,7 +27471,7 @@ TYPEWRITER: Call NUMBER today.; We look forward to hearing from you soon.
 INFORMATION ===============================
 ID: 861
 TITLE: Trick of a Devil
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -27598,7 +27598,7 @@ Teleport SAMURAI to Backstage
 INFORMATION ===============================
 ID: 862
 TITLE: Pretend You're Sober
-AUTHOR: LeDerp_64
+AUTHOR: lederp64
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -27690,7 +27690,7 @@ Music Stops
 INFORMATION ===============================
 ID: 863
 TITLE: Tormented Rescue
-AUTHOR: RainbowSparkle1
+AUTHOR: .rainbowsparkle
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -27762,7 +27762,7 @@ TORMENTED SOUL: Crap…
 INFORMATION ===============================
 ID: 865
 TITLE: A Robot Among Us?
-AUTHOR: LeDerp_64
+AUTHOR: lederp64
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -27854,7 +27854,7 @@ Music Stops
 INFORMATION ===============================
 ID: 867
 TITLE: E-Girl Mafia
-AUTHOR: 
+AUTHOR: th3.m1mic
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -27941,7 +27941,7 @@ Vine Boom
 INFORMATION ===============================
 ID: 869
 TITLE: Secrets and Sacrifice
-AUTHOR: GameAdvent2
+AUTHOR: gameadventstudios
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -28030,7 +28030,7 @@ TYPEWRITER: The old spy would then go on to ENDING.
 INFORMATION ===============================
 ID: 870
 TITLE: Death in the Intellect
-AUTHOR: Xzyloriz
+AUTHOR: xzyloriz.
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -28099,7 +28099,7 @@ applause
 INFORMATION ===============================
 ID: 871
 TITLE: Barrel of Bricks
-AUTHOR: Valhymm
+AUTHOR: valhymm
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -28176,7 +28176,7 @@ PADDY: (Wait for the music to stop) Can I have a sick note?
 INFORMATION ===============================
 ID: 873
 TITLE: Prof. Clayton and the Devil's Sonata
-AUTHOR: AtmanRyu
+AUTHOR: atmanryu
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -28278,7 +28278,7 @@ PROF. CLAYTON: (cheery tone) But I don't know about you, but I'm quite peckish f
 INFORMATION ===============================
 ID: 877
 TITLE: Pappi the Rappi
-AUTHOR: AtmanRyu
+AUTHOR: atmanryu
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -28378,7 +28378,7 @@ PAPPI: ...Aw man...
 INFORMATION ===============================
 ID: 878
 TITLE: Spelling Bee Anarchy
-AUTHOR: 
+AUTHOR: beekeeperieman2
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -28522,7 +28522,7 @@ DK: Goodbye!
 INFORMATION ===============================
 ID: 881
 TITLE: Seeking Strange Advice
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
@@ -28599,7 +28599,7 @@ ANDY: He might be wondering why he was shot.
 INFORMATION ===============================
 ID: 888
 TITLE: A Hairy Date
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -28673,7 +28673,7 @@ JOHN: Come, my dear. Let us enjoy some human sacrifices in any cave of your choi
 INFORMATION ===============================
 ID: 891
 TITLE: Not Pawn Stars
-AUTHOR: Novabyte98
+AUTHOR: nova.byte.
 VERIFIED: True
 TAGS: Skit
 SET: Hardware Store
@@ -28764,7 +28764,7 @@ EXPERT: I just got off the phone with FAMOUS's grandson. That ITEM from YEAR was
 INFORMATION ===============================
 ID: 893
 TITLE: The Case
-AUTHOR: IAmRusher
+AUTHOR: rusherdoesstuff
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
@@ -28844,7 +28844,7 @@ TYPEWRITER: And so, after a wild turn of events, Judge David has declared the de
 INFORMATION ===============================
 ID: 896
 TITLE: Transplant Transgression
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -28931,7 +28931,7 @@ laughter
 INFORMATION ===============================
 ID: 903
 TITLE: The Shopping Cart
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -28992,7 +28992,7 @@ CLERK: And I know I will while making uncomfortable eye contact with my cat.
 INFORMATION ===============================
 ID: 905
 TITLE: 2024 Presidential Debate
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -29060,7 +29060,7 @@ Alien Teleport
 INFORMATION ===============================
 ID: 906
 TITLE: The Inheritance Scheme
-AUTHOR: 
+AUTHOR: novan1ty
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -29131,7 +29131,7 @@ epic cinematic music
 INFORMATION ===============================
 ID: 907
 TITLE: Tree Watchers
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
@@ -29199,7 +29199,7 @@ HANK: That is really funny. What do you think Daryl. Daryl?
 INFORMATION ===============================
 ID: 909
 TITLE: Thoughts turned to reality
-AUTHOR: 
+AUTHOR: spacecannonz
 VERIFIED: True
 TAGS: 
 SET: Restaurant
@@ -29323,7 +29323,7 @@ superhero fanfare
 INFORMATION ===============================
 ID: 911
 TITLE: Weather Report
-AUTHOR: MindlessGonzo
+AUTHOR: mindlessgonzo
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -29377,7 +29377,7 @@ world news outro
 INFORMATION ===============================
 ID: 916
 TITLE: Household Goblin
-AUTHOR: LeDerp_64
+AUTHOR: lederp64
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -29473,7 +29473,7 @@ laughter
 INFORMATION ===============================
 ID: 918
 TITLE: Best Excuse Gameshow
-AUTHOR: P․ Penguin
+AUTHOR: p.penguin
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -29580,7 +29580,7 @@ CONTESTANT2: Hey HOSTNAME, do I still get the PAYMENT that you promised me?
 INFORMATION ===============================
 ID: 919
 TITLE: The Kitchen Catastrophe
-AUTHOR: P․ Penguin
+AUTHOR: p.penguin
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -29644,7 +29644,7 @@ GUEST: (Looking at the burnt FOOD) Well, it's definitely... ADJECTIVE.
 INFORMATION ===============================
 ID: 927
 TITLE: Nightmare Customer Service
-AUTHOR: DrumstickPony
+AUTHOR: drumstick_pony
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -29752,7 +29752,7 @@ MANAGER: (Looks at audience with a confused look) What just happened?
 INFORMATION ===============================
 ID: 933
 TITLE: The Mole
-AUTHOR: Yu-me1 1ecb
+AUTHOR: ninjitsu1859
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -29853,7 +29853,7 @@ The Boss: I can’t believe I showed her my HELICOPTER.
 INFORMATION ===============================
 ID: 939
 TITLE: Suds and Surprises
-AUTHOR: SenorconQueso
+AUTHOR: senorconqueso
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -29934,7 +29934,7 @@ music stops
 INFORMATION ===============================
 ID: 943
 TITLE: Virtual Disaster 
-AUTHOR: SuperNova77
+AUTHOR: howie6198
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -30035,7 +30035,7 @@ ADO: Ahhh! (Die)
 INFORMATION ===============================
 ID: 945
 TITLE: Missing Friend
-AUTHOR: SuperNova77
+AUTHOR: howie6198
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -30101,7 +30101,7 @@ FRIEND: Miss, can you get this guy neutered?
 INFORMATION ===============================
 ID: 946
 TITLE: The story that never ends
-AUTHOR: kiro-sage
+AUTHOR: kirosage
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -30190,7 +30190,7 @@ STORY: Oh, it seems like that’s all the time we have left. See you next time, 
 INFORMATION ===============================
 ID: 950
 TITLE: Talking Egg
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -30263,7 +30263,7 @@ EGG: No respect!
 INFORMATION ===============================
 ID: 956
 TITLE: Shopping With Mafia
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Hardware Store
@@ -30330,7 +30330,7 @@ CASHIER: Pleasure doing business with you. (yells to someone off stage) Yo Donny
 INFORMATION ===============================
 ID: 960
 TITLE: Slay the Troll
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
@@ -30398,7 +30398,7 @@ PEPE: (pulls out medieval smartphone and dials) Hey mom, can you pick me up?
 INFORMATION ===============================
 ID: 962
 TITLE: The dentist appointment 
-AUTHOR: Yu-me1 1ecb
+AUTHOR: ninjitsu1859
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -30503,7 +30503,7 @@ The dentist: (Turn to the audience) Now who’s next?
 INFORMATION ===============================
 ID: 964
 TITLE: License to walk and talk
-AUTHOR: MartinOiva
+AUTHOR: martinoiva
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -30605,7 +30605,7 @@ laughter
 INFORMATION ===============================
 ID: 966
 TITLE: Loud Neighbors
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -30665,7 +30665,7 @@ FRED: Wait a minute! This is your house!
 INFORMATION ===============================
 ID: 967
 TITLE: Critical Decision
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -30731,7 +30731,7 @@ CLARK: I need a new job and a therapist.
 INFORMATION ===============================
 ID: 971
 TITLE: One Star Review
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -30800,7 +30800,7 @@ CHRIS: I appreciate the honesty! Now go!
 INFORMATION ===============================
 ID: 975
 TITLE: The "Best" Detective
-AUTHOR: ~Taffy_LuLu~
+AUTHOR: sparrow_on_weed
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -30927,7 +30927,7 @@ BRITISH: (walks towards the door and turns to audience) After all, the best dete
 INFORMATION ===============================
 ID: 978
 TITLE: Lawn Mowing
-AUTHOR: Ahmadsyar
+AUTHOR: ahmadsyar
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
@@ -31006,7 +31006,7 @@ TYPEWRITER: Gaia never appears and they got rich selling PLANT fruit.
 INFORMATION ===============================
 ID: 983
 TITLE: Indomitable Human Spirit
-AUTHOR: kiro-sage
+AUTHOR: kirosage
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -31115,7 +31115,7 @@ FOOL: Oh no. Oh RAT. (screams)
 INFORMATION ===============================
 ID: 984
 TITLE: Family Matters 
-AUTHOR: MRIPATCH
+AUTHOR: mripatch_vrc
 VERIFIED: True
 TAGS: 
 SET: Living Room
@@ -31230,7 +31230,7 @@ crowd woo
 INFORMATION ===============================
 ID: 987
 TITLE: VRChat Interruption
-AUTHOR: _ Aech _
+AUTHOR: percyguy
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -31290,7 +31290,7 @@ thunder
 INFORMATION ===============================
 ID: 988
 TITLE: Infomercial Nightmare
-AUTHOR: HypnoToadTrance
+AUTHOR: hypnotoadtrance
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -31395,7 +31395,7 @@ Infomercial disclaimer
 INFORMATION ===============================
 ID: 991
 TITLE: Guess My Date
-AUTHOR: HypnoToadTrance
+AUTHOR: hypnotoadtrance
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -31506,7 +31506,7 @@ ROMANTIC: Can anyone give me a ride home?
 INFORMATION ===============================
 ID: 992
 TITLE: Daddy's Secret
-AUTHOR: 
+AUTHOR: youareaboy
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -31595,7 +31595,7 @@ laughter
 INFORMATION ===============================
 ID: 994
 TITLE: Whatchamacallit
-AUTHOR: kiro-sage
+AUTHOR: kirosage
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -31675,7 +31675,7 @@ HIPPY: Nice dude. My name is Rick.
 INFORMATION ===============================
 ID: 995
 TITLE: Dinner Date
-AUTHOR: HypnoToadTrance
+AUTHOR: hypnotoadtrance
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -31768,7 +31768,7 @@ DATE2: I'd love to.
 INFORMATION ===============================
 ID: 1002
 TITLE: Security Nightshift
-AUTHOR: TheVirtualAK
+AUTHOR: virtualak
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -31854,7 +31854,7 @@ GUARD: I made it! Holy cow, what a horrible job... (Exit)
 INFORMATION ===============================
 ID: 1006
 TITLE: The Roaming Gourmet
-AUTHOR: LeDerp_64
+AUTHOR: lederp64
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -31936,7 +31936,7 @@ CHEF: BYE my friends, BYE!
 INFORMATION ===============================
 ID: 1009
 TITLE: My new Religion
-AUTHOR: 
+AUTHOR: youareaboy
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -32044,7 +32044,7 @@ vine boom
 INFORMATION ===============================
 ID: 1012
 TITLE: The Age-Old Question
-AUTHOR: HolidayWither
+AUTHOR: holidaywither
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -32114,7 +32114,7 @@ Crowd woo
 INFORMATION ===============================
 ID: 1016
 TITLE: Creature Content
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -32209,7 +32209,7 @@ chainsaw
 INFORMATION ===============================
 ID: 1017
 TITLE: Last Regrets
-AUTHOR: ~°Mısanʇhrope°~
+AUTHOR: aaronj250906
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -32328,7 +32328,7 @@ WYATT: You little wretch! (dies)
 INFORMATION ===============================
 ID: 1022
 TITLE: Revengers Assemble
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -32427,7 +32427,7 @@ applause
 INFORMATION ===============================
 ID: 1025
 TITLE: Can't Touch the Color
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: Game Show
 SET: Backyard
@@ -32590,7 +32590,7 @@ Meanwhile TIM: (To the audience) Bye Bye!
 INFORMATION ===============================
 ID: 1029
 TITLE: Hunted
-AUTHOR: SuperNova77
+AUTHOR: howie6198
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -32680,7 +32680,7 @@ FAN: Blarg (Dies)
 INFORMATION ===============================
 ID: 1030
 TITLE: The Missing Cake
-AUTHOR: SuperNova77
+AUTHOR: howie6198
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -32780,7 +32780,7 @@ CART: Noooo!!!
 INFORMATION ===============================
 ID: 1032
 TITLE: Bedroom Chat
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
@@ -32851,7 +32851,7 @@ MARK: Love you too from a distance. Like, a state away distance. Maybe even a co
 INFORMATION ===============================
 ID: 1036
 TITLE: Secret Polka King
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -32936,7 +32936,7 @@ DJBARRY: Who gave her that OBJECT?
 INFORMATION ===============================
 ID: 1038
 TITLE: Enabler and the Catfish
-AUTHOR: SmithDaStick
+AUTHOR: smithdastick
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -33063,7 +33063,7 @@ GF: (scream in terror and run out stage right)
 INFORMATION ===============================
 ID: 1044
 TITLE: Rate a Quake
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -33134,7 +33134,7 @@ CHAD: Alright, everyone, we know what to do. Let’s get this conga line started
 INFORMATION ===============================
 ID: 1046
 TITLE: Retail Babysitter
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -33212,7 +33212,7 @@ CLERK: Parenting.
 INFORMATION ===============================
 ID: 1049
 TITLE: Cult of Pizza
-AUTHOR: Valhymm
+AUTHOR: valhymm
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -33365,7 +33365,7 @@ BOB: Heheh... because like this PEPPERONI pizza, they're just not cheesy enough!
 INFORMATION ===============================
 ID: 1051
 TITLE: The Narcissistic Chef
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -33530,7 +33530,7 @@ Music Stops
 INFORMATION ===============================
 ID: 1057
 TITLE: Repair Workshop
-AUTHOR: MindlessGonzo
+AUTHOR: mindlessgonzo
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Hardware Store
@@ -33626,7 +33626,7 @@ applause
 INFORMATION ===============================
 ID: 1059
 TITLE: Most Amazing Murder Mystery of All Mystery Murders
-AUTHOR: The_Dapper_Cat
+AUTHOR: the_dapper_cat
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -33752,7 +33752,7 @@ BUTLER: (Evil Laugh) (start coughing uncontrollably as the curtains close)
 INFORMATION ===============================
 ID: 1060
 TITLE: Pizza Delivery Guy
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -33839,7 +33839,7 @@ OFFICER: Well, I hope you like your pizza with a slice of justice. And besides, 
 INFORMATION ===============================
 ID: 1061
 TITLE: Legoshi Task Force
-AUTHOR: Brizzz
+AUTHOR: knowpoint
 VERIFIED: True
 TAGS: 
 SET: Forest Bridge
@@ -33984,7 +33984,7 @@ PRIVATE: Wait! HQ, you're actually talking to my mom right now?! (Exit)
 INFORMATION ===============================
 ID: 1062
 TITLE: The Unwilling Hero
-AUTHOR: NERΘ
+AUTHOR: nero2409
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -34084,7 +34084,7 @@ NARRATOR: (Look at audience) For millenniums The Demon King...
 INFORMATION ===============================
 ID: 1063
 TITLE: Vtuber's parental issues
-AUTHOR: JJWithNoSauce
+AUTHOR: jjwithnosauce
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -34213,7 +34213,7 @@ TYPEWRITER: Plaintiff - After that night, USERNAME1 almost dies of cringe;Dad wo
 INFORMATION ===============================
 ID: 1064
 TITLE: Decoding Gen Z
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -34289,7 +34289,7 @@ TYSON: C'mon, Kyle, quit wildin' and let’s get back to work.
 INFORMATION ===============================
 ID: 1065
 TITLE: Mullet Mayhem
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -34378,7 +34378,7 @@ BIGEARL: Big ol' wingthing. And remember, Jeb! The “Party in the Back” speci
 INFORMATION ===============================
 ID: 1067
 TITLE: Unexpected Item In Bagging Area!
-AUTHOR: Valhymm
+AUTHOR: valhymm
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -34529,7 +34529,7 @@ TILLY: (Sounding pleased) Mmm... unexpected item in bagging area...
 INFORMATION ===============================
 ID: 1068
 TITLE: Hotel Detective
-AUTHOR: boris_kolenkhov
+AUTHOR: kolenkhov.
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -34622,7 +34622,7 @@ TYPEWRITER: Man and Woman went on to get a divorce.
 INFORMATION ===============================
 ID: 1069
 TITLE: Tiny Shoes
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Living Room
@@ -34710,7 +34710,7 @@ WIFE: With the tiny shoes. And maybe anything else you have that might be tiny.
 INFORMATION ===============================
 ID: 1074
 TITLE: Productivity Meeting
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -34784,7 +34784,7 @@ RICH: Stick to PowerPoint next time.
 INFORMATION ===============================
 ID: 1075
 TITLE: Trainee Detective
-AUTHOR: Valhymm
+AUTHOR: valhymm
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -34875,7 +34875,7 @@ MICK: (Call out the door) Have I still passed, sir?
 INFORMATION ===============================
 ID: 1077
 TITLE: Dumb Ways To Die
-AUTHOR: Super_Joel_Dood
+AUTHOR: super_joel_dood
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -34968,7 +34968,7 @@ gameshow outro
 INFORMATION ===============================
 ID: 1078
 TITLE: Case of the Curious Bromance
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -35045,7 +35045,7 @@ SAMSHADY: Like the fact that I’m terrible at reading between the lines. Or tha
 INFORMATION ===============================
 ID: 1086
 TITLE: Customer is Never Right
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Hardware Store
@@ -35129,7 +35129,7 @@ CLERK: (frustrated) Then why did we have any of this conversation? Why are you s
 INFORMATION ===============================
 ID: 1090
 TITLE: The Great Leader
-AUTHOR: SPIDΣR ZΔZZULΣ
+AUTHOR: spiderz_.
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -35201,7 +35201,7 @@ LEAD: (looks out the window, hopeful yet wary) For the sake of all of us, let's 
 INFORMATION ===============================
 ID: 1091
 TITLE: Short service
-AUTHOR: R0b0Rilz
+AUTHOR: r0b0_riltz
 VERIFIED: True
 TAGS: 
 SET: Restaurant
@@ -35293,7 +35293,7 @@ Typewriter: Based on a true event
 INFORMATION ===============================
 ID: 1092
 TITLE: Unforgiven 
-AUTHOR: SmithDaStick
+AUTHOR: smithdastick
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -35407,7 +35407,7 @@ MOM: Time to make a lovely dinner of FOOD
 INFORMATION ===============================
 ID: 1096
 TITLE: From the Future
-AUTHOR: R0b0Rilz
+AUTHOR: r0b0_riltz
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -35472,7 +35472,7 @@ TECH: What the hell just happened I need to call PERSON.
 INFORMATION ===============================
 ID: 1097
 TITLE: Unwanted gift
-AUTHOR: R0b0Rilz
+AUTHOR: r0b0_riltz
 VERIFIED: True
 TAGS: 
 SET: Living Room
@@ -35587,7 +35587,7 @@ TYPEWRITER: The uncle died 3 days later
 INFORMATION ===============================
 ID: 1099
 TITLE: Karen's Family Dinner
-AUTHOR: 
+AUTHOR: houseerikson
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -35677,7 +35677,7 @@ BOYFRIEND: Can I get my MONEY now?
 INFORMATION ===============================
 ID: 1101
 TITLE: Love Conquers All
-AUTHOR: ~Taffy_LuLu~
+AUTHOR: sparrow_on_weed
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -35811,7 +35811,7 @@ TYPEWRITER: Love truly conquers all, doesn't it?.....
 INFORMATION ===============================
 ID: 1103
 TITLE: The Navy Vs. Canada
-AUTHOR: MindlessGonzo
+AUTHOR: mindlessgonzo
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -35893,7 +35893,7 @@ TYPEWRITER: Trust me, bro. I saw it on WEBSITE
 INFORMATION ===============================
 ID: 1104
 TITLE: Bring me to your leader!
-AUTHOR: AxolotlError
+AUTHOR: axolotlerror
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -36058,7 +36058,7 @@ CAN R: YIPPEE!!!
 INFORMATION ===============================
 ID: 1105
 TITLE: The Oregon Fail
-AUTHOR: LorrelEclipse
+AUTHOR: lorreclipse
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -36147,7 +36147,7 @@ Meanwhile STACY: (Fold arms and shake head at BOB)
 INFORMATION ===============================
 ID: 1112
 TITLE: Swedish Dinner Time
-AUTHOR: OliverTheDragon
+AUTHOR: oliverthedragon
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -36244,7 +36244,7 @@ TYPEWRITER: THE END...
 INFORMATION ===============================
 ID: 1119
 TITLE: Wasted in the Wasteland
-AUTHOR: LoppearLink
+AUTHOR: loppearlink
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -36311,7 +36311,7 @@ DSURVIVOR: Good idea! I already cooked us some more RODENT kebabs!
 INFORMATION ===============================
 ID: 1122
 TITLE: Tortilla Pizza
-AUTHOR: Lazy Sunshine
+AUTHOR: lazysunshine
 VERIFIED: True
 TAGS: Skit
 SET: Infomercial Kitchen
@@ -36377,7 +36377,7 @@ Applause
 INFORMATION ===============================
 ID: 1125
 TITLE: Audience Anarchy Pitch
-AUTHOR: 
+AUTHOR: zanbbit
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -36470,7 +36470,7 @@ OLD EMPLOYEE: UGH! I hate my job!!
 INFORMATION ===============================
 ID: 1126
 TITLE: Guess what happens next!
-AUTHOR: Yu-me1 1ecb
+AUTHOR: ninjitsu1859
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -36625,7 +36625,7 @@ Show host: Bye everyone (Wave to crowd)
 INFORMATION ===============================
 ID: 1127
 TITLE: Halloween Hostess
-AUTHOR: 
+AUTHOR: emo_boba_tea
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -36682,7 +36682,7 @@ RADIO HOST: That being said have a lovely Halloween you stalkers! And remember t
 INFORMATION ===============================
 ID: 1130
 TITLE: Truth or dare game show
-AUTHOR: R0b0Rilz
+AUTHOR: r0b0_riltz
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -36832,7 +36832,7 @@ SARAH: So... who won?
 INFORMATION ===============================
 ID: 1136
 TITLE: The Case Of The Great Kidnapper 
-AUTHOR: Max Wolfberg
+AUTHOR: maxwolfberg
 VERIFIED: True
 TAGS: 
 SET: Detective Noir
@@ -36958,7 +36958,7 @@ Detective: They can run, they can hide, but the truth always catches up.
 INFORMATION ===============================
 ID: 1137
 TITLE: Jenny The Duck
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Restaurant
@@ -37034,7 +37034,7 @@ SARAH: (laughing) Girl, I'm sorry. I cannot.
 INFORMATION ===============================
 ID: 1140
 TITLE: Interview Gone Wrong
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -37106,7 +37106,7 @@ OFFICER: (speaks to someone on radio) Yeah, I’m gonna need backup. And a clean
 INFORMATION ===============================
 ID: 1142
 TITLE: Yaoi Interrogation 
-AUTHOR: SuperNova77
+AUTHOR: howie6198
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Interrogation Room
@@ -37179,7 +37179,7 @@ GAYER: (Collapse)
 INFORMATION ===============================
 ID: 1147
 TITLE: Bad Guy Break-In
-AUTHOR: Null_And_Void
+AUTHOR: nullandv01d
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -37268,7 +37268,7 @@ VILLAIN: Oh, come on! GOODNAME made me miss my favorite episode of SHOW!
 INFORMATION ===============================
 ID: 1151
 TITLE: Wise King
-AUTHOR: SmithDaStick
+AUTHOR: smithdastick
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
@@ -37330,7 +37330,7 @@ KING: Guard take this wretched liar away from my sight and punish her justly for
 INFORMATION ===============================
 ID: 1152
 TITLE: Do you know your fiends?
-AUTHOR: 
+AUTHOR: revolver_axe
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -37402,7 +37402,7 @@ TYPEWRITER: The GOLD WATCH was never recovered.
 INFORMATION ===============================
 ID: 1155
 TITLE: Fast Food Frustrations
-AUTHOR: ඞღ＊Juliablue＊ღඞ
+AUTHOR: brodielikesart
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -37497,7 +37497,7 @@ WORKER: (Muttering) Manager... manager...
 INFORMATION ===============================
 ID: 1156
 TITLE: Realest Norm
-AUTHOR: soursugarYT
+AUTHOR: soursugar8013
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -37575,7 +37575,7 @@ NORM: So real.
 INFORMATION ===============================
 ID: 1162
 TITLE: I am Mad
-AUTHOR: APSI-wizard
+AUTHOR: apsi8609
 VERIFIED: True
 TAGS: 
 SET: City
@@ -37664,7 +37664,7 @@ vine boom
 INFORMATION ===============================
 ID: 1163
 TITLE: Doctor's Visit
-AUTHOR: 
+AUTHOR: cirnobaka9
 VERIFIED: True
 TAGS: 
 SET: Doctor's Office
@@ -37734,7 +37734,7 @@ DOC: (Turns to the computer) Well, I still have 10 minutes until the next patien
 INFORMATION ===============================
 ID: 1168
 TITLE: The Teaification Process
-AUTHOR: Sołver
+AUTHOR: floofyderg.
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -37830,7 +37830,7 @@ TYPEWRITER: Two weeks later, everyone was found dead from too much DRINK.
 INFORMATION ===============================
 ID: 1170
 TITLE: Alpha Boss
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -37911,7 +37911,7 @@ STEVE: You two are getting a promotion!
 INFORMATION ===============================
 ID: 1172
 TITLE: Lunchly
-AUTHOR: SmithDaStick
+AUTHOR: smithdastick
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -38014,7 +38014,7 @@ MOM: I love chocolate.
 INFORMATION ===============================
 ID: 1173
 TITLE: IPhone Price Negotiations
-AUTHOR: Russel❤
+AUTHOR: russeldk
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -38094,7 +38094,7 @@ CLERK: Yessssss, i am so smart, another great bargain
 INFORMATION ===============================
 ID: 1175
 TITLE: Bad Liar
-AUTHOR: Shamura ʕω ʔ
+AUTHOR: shamura.net
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -38159,7 +38159,7 @@ FRIEND1: I swear I hate that guy.
 INFORMATION ===============================
 ID: 1176
 TITLE: The young divorce
-AUTHOR: Smg4M3meKryst4l
+AUTHOR: smg4m3mekryst4l
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -38231,7 +38231,7 @@ SOPHIE: (talking on phone) Hi sweetie, how is it going? Whatcha wearing?
 INFORMATION ===============================
 ID: 1179
 TITLE: Tea And Soda
-AUTHOR: AzumaMaria
+AUTHOR: lucas.keith2
 VERIFIED: True
 TAGS: Skit,Contains Adult Innuendo
 SET: Dining Room
@@ -38316,7 +38316,7 @@ BUTLER:(turn towards MAID)wait what now?
 INFORMATION ===============================
 ID: 1205
 TITLE: Consciousness 
-AUTHOR: kiro-sage
+AUTHOR: kirosage
 VERIFIED: True
 TAGS: 
 SET: Murder
@@ -38399,7 +38399,7 @@ CON: (Excited) Yay... (Turns to audience) Yes, I am able to have fun too.
 INFORMATION ===============================
 ID: 1209
 TITLE: Coach Clapback
-AUTHOR: _ Aech _
+AUTHOR: percyguy
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -38483,7 +38483,7 @@ KID: Aww man, I wanted FOOD!
 INFORMATION ===============================
 ID: 1212
 TITLE: broken down camping
-AUTHOR: CRYPTPUG
+AUTHOR: toriite
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -38629,7 +38629,7 @@ TYPEWRITER: The End!
 INFORMATION ===============================
 ID: 1231
 TITLE: Dumb Criminal
-AUTHOR: Lazy Sunshine
+AUTHOR: lazysunshine
 VERIFIED: True
 TAGS: 
 SET: City
@@ -38694,7 +38694,7 @@ OFFICER: Just shut up. Who are you even talking to?
 INFORMATION ===============================
 ID: 1235
 TITLE: The Parent-Teacher Association
-AUTHOR: MindlessGonzo
+AUTHOR: mindlessgonzo
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -38797,7 +38797,7 @@ TYPEWRITER: The End!
 INFORMATION ===============================
 ID: 1243
 TITLE: Larry the Loser
-AUTHOR: EvaThatOneGuy
+AUTHOR: elitog_officail
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -38907,7 +38907,7 @@ Typewriter:Larry on the other hand will always be a loser because his pain and s
 INFORMATION ===============================
 ID: 1247
 TITLE: Fish vs Gen Alpha
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: 
 SET: Forest Bridge
@@ -38989,7 +38989,7 @@ FISH: (sigh) Kids these days...
 INFORMATION ===============================
 ID: 1249
 TITLE: A Man Has Fallen Into The River!
-AUTHOR: 
+AUTHOR: houseerikson
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -39126,7 +39126,7 @@ Infomercial disclaimer
 INFORMATION ===============================
 ID: 1256
 TITLE: Iron Fist: Tyson vs. The Ape Uprising
-AUTHOR: Naquill3 31cb
+AUTHOR: naquille_anims
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -39208,7 +39208,7 @@ Mike Tyson: Wait a second... I forgot to bite one of their ears off. Guess I’l
 INFORMATION ===============================
 ID: 1257
 TITLE: A Dark Secret
-AUTHOR: Cowgirl27733
+AUTHOR: cowgirl27733
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -39299,7 +39299,7 @@ SAM: Good thing you decided not to hire me!
 INFORMATION ===============================
 ID: 1259
 TITLE: Quadrillionares
-AUTHOR: Temple475
+AUTHOR: temple475
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -39375,7 +39375,7 @@ aww
 INFORMATION ===============================
 ID: 1263
 TITLE: Romantical Clone War
-AUTHOR: 
+AUTHOR: wolffreak
 VERIFIED: True
 TAGS: 
 SET: Restaurant
@@ -39460,7 +39460,7 @@ CLONE 1: You guys are so terrible at this, that's why I should be the one on the
 INFORMATION ===============================
 ID: 1266
 TITLE: The Night Of Evil Santa
-AUTHOR: yummytepotatoes
+AUTHOR: soaprations
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -39543,7 +39543,7 @@ NARRATOR: The true magic of Christmas isn’t in presents or decorations—it’
 INFORMATION ===============================
 ID: 1267
 TITLE: The Legend Of Dumb Dumb Kid
-AUTHOR: 
+AUTHOR: randomnpcq12
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -39627,7 +39627,7 @@ Dumb Dumb Kid: (Stand there for a moment in silence) Wowie! A real SOMETHING A K
 INFORMATION ===============================
 ID: 1269
 TITLE: A questionable Thanksgiving
-AUTHOR: Voco1
+AUTHOR: real_majinbuu
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -39712,7 +39712,7 @@ Meanwhile MOM: Ew
 INFORMATION ===============================
 ID: 1274
 TITLE: Wannabe hero
-AUTHOR: Temple475
+AUTHOR: temple475
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -39795,7 +39795,7 @@ HRO: Well, at least I saved the world today... I suppose...
 INFORMATION ===============================
 ID: 1279
 TITLE: How to Sell 101
-AUTHOR: EvaThatOneGuy
+AUTHOR: elitog_officail
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -39879,7 +39879,7 @@ typewriter:2 weeks later CORPORATION went out of business. The end.
 INFORMATION ===============================
 ID: 1282
 TITLE: The Not So Quiet Spy
-AUTHOR: Shadowydarkness
+AUTHOR: kingbard725
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -39979,7 +39979,7 @@ ASSISTANT 2: Yeah yeah whatever
 INFORMATION ===============================
 ID: 1283
 TITLE: Noir's Unforgettable 4th Wall Break
-AUTHOR: Rod-ロッド
+AUTHOR: overlordrod
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -40077,7 +40077,7 @@ GOOFY MCGEE: See ya!
 INFORMATION ===============================
 ID: 1287
 TITLE: How to Steal 101
-AUTHOR: EvaThatOneGuy
+AUTHOR: elitog_officail
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -40174,7 +40174,7 @@ Typewriter:TITLE is brain dead now, because his lack of a conscious. The end.
 INFORMATION ===============================
 ID: 1293
 TITLE: How to Doctor 101
-AUTHOR: EvaThatOneGuy
+AUTHOR: elitog_officail
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -40264,7 +40264,7 @@ Typewriter:DOCTOR and MEDIC would go on scam customers for another YEARS years, 
 INFORMATION ===============================
 ID: 1295
 TITLE: Out of your friends, which are you?
-AUTHOR: kiro-sage
+AUTHOR: kirosage
 VERIFIED: True
 TAGS: 
 SET: Dining Room
@@ -40366,7 +40366,7 @@ ASS: Oh, ok. Welp, let's go find it.
 INFORMATION ===============================
 ID: 1296
 TITLE: Furry Convention Plans
-AUTHOR: 
+AUTHOR: zanbbit
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -40471,7 +40471,7 @@ TYPEWRITER: But he was arrested for getting a little too wild, even for them. He
 INFORMATION ===============================
 ID: 1300
 TITLE: The Meowfia
-AUTHOR: CookieBee6
+AUTHOR: mintchocochipcookie
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -40573,7 +40573,7 @@ NAR: Dang it.
 INFORMATION ===============================
 ID: 1305
 TITLE: Buying WHAT?!
-AUTHOR: Yuv x
+AUTHOR: yuv1899
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -40660,7 +40660,7 @@ CASHIER: Sold! See you guys next time! (takes the money and gives them the BEER)
 INFORMATION ===============================
 ID: 1309
 TITLE: A Breath of Fresh Fire
-AUTHOR: Valhymm
+AUTHOR: valhymm
 VERIFIED: True
 TAGS: 
 SET: Forest
@@ -40768,7 +40768,7 @@ DRAGON: No wonder those KOBOLDs wanted it.
 INFORMATION ===============================
 ID: 1312
 TITLE: Cult You Next Thursday
-AUTHOR: TheToxicAvenger
+AUTHOR: danthetromite
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -40843,7 +40843,7 @@ SKEPTIC: Time to collect those membership fees!
 INFORMATION ===============================
 ID: 1316
 TITLE: The Wedding Guest
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -40919,7 +40919,7 @@ GUEST: Cool. I got the reaction I wanted.
 INFORMATION ===============================
 ID: 1318
 TITLE: For Gamers, By Gamers
-AUTHOR: GameAdvent2
+AUTHOR: gameadventstudios
 VERIFIED: True
 TAGS: Infomercial
 SET: Living Room
@@ -40991,7 +40991,7 @@ GUY1: Call Now
 INFORMATION ===============================
 ID: 1319
 TITLE: The Impossible Order
-AUTHOR: GameAdvent2
+AUTHOR: gameadventstudios
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -41074,7 +41074,7 @@ TYPEWRITER: The Waiter would then go on to EVENT
 INFORMATION ===============================
 ID: 1320
 TITLE: And... Its Broken
-AUTHOR: LeDerp_64
+AUTHOR: lederp64
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -41186,7 +41186,7 @@ STUB: I told you!
 INFORMATION ===============================
 ID: 1324
 TITLE: Movie Pitch Meeting
-AUTHOR: TheToxicAvenger
+AUTHOR: danthetromite
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -41269,7 +41269,7 @@ TYPEWRITER: "Audience Anarchy opened to scathing reviews, scoring a dismal 23% o
 INFORMATION ===============================
 ID: 1326
 TITLE: Special Medicine
-AUTHOR: Rift3d
+AUTHOR: rift3d
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Bathroom
@@ -41334,7 +41334,7 @@ Meanwhile ALIEN: (Unconscious)
 INFORMATION ===============================
 ID: 1328
 TITLE: The Greatest Joke
-AUTHOR: Kayori_lol
+AUTHOR: kayori_lol
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
@@ -41406,7 +41406,7 @@ JOSE: Well now.. I know every joke that is known to man kind... NUMBER jokes in 
 INFORMATION ===============================
 ID: 1329
 TITLE: Suspiciously Stoned
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -41488,7 +41488,7 @@ EMPLOYEE: That it does. Stay hydrated, man! And remember, a smoothie isn't a dri
 INFORMATION ===============================
 ID: 1333
 TITLE: The Duckling With A Funny Voice
-AUTHOR: OliverTheDragon
+AUTHOR: oliverthedragon
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -41594,7 +41594,7 @@ TYPEWRITER: THE END...
 INFORMATION ===============================
 ID: 1335
 TITLE: Actor's Got Talent
-AUTHOR: Shamura ʕω ʔ
+AUTHOR: shamura.net
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -41706,7 +41706,7 @@ applause
 INFORMATION ===============================
 ID: 1338
 TITLE: They're Coming After Me
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -41817,7 +41817,7 @@ TYPEWRITER: The heroes then went on to defeat BADGUY at his lair. With NAME's de
 INFORMATION ===============================
 ID: 1347
 TITLE: Musical Monstrosity
-AUTHOR: FamilyFrags
+AUTHOR: famfrags
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -41908,7 +41908,7 @@ Teleport JOSI to Backstage
 INFORMATION ===============================
 ID: 1348
 TITLE: The Ultimate Life Form
-AUTHOR: LeDerp_64
+AUTHOR: lederp64
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -42019,7 +42019,7 @@ Meanwhile SCI: (walks offstage)
 INFORMATION ===============================
 ID: 1349
 TITLE: Bankrupt Studio
-AUTHOR: Perydaplaypus
+AUTHOR: perydaplapus
 VERIFIED: True
 TAGS: 
 SET: Conference Room
@@ -42111,7 +42111,7 @@ TYPEWRITER: Directed by M. Night Shyamalan
 INFORMATION ===============================
 ID: 1351
 TITLE: The Deadlee Family
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: 
 SET: Murder
@@ -42215,7 +42215,7 @@ DAD: Shoot, the police. Everyone, separate the LIMB, and run!
 INFORMATION ===============================
 ID: 1352
 TITLE: Lucky day
-AUTHOR: Yu-me1 1ecb
+AUTHOR: ninjitsu1859
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -42324,7 +42324,7 @@ Lucky person: Yea just not for you I guess.
 INFORMATION ===============================
 ID: 1355
 TITLE: The Toxic Genie
-AUTHOR: FamilyFrags
+AUTHOR: famfrags
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -42396,7 +42396,7 @@ TYPEWRITER: HELP. HELP MEEEEE. HELP PLEASE.
 INFORMATION ===============================
 ID: 1360
 TITLE: Beat the Boss
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -42518,7 +42518,7 @@ TYPEWRITER: And so, we LAND saved from BADGUY, our group of heroes went to explo
 INFORMATION ===============================
 ID: 1364
 TITLE: Rudolph's Demise
-AUTHOR: Shawty․Zozo
+AUTHOR: shawty.zozo
 VERIFIED: True
 TAGS: Skit
 SET: Infomercial Kitchen
@@ -42604,7 +42604,7 @@ Meanwhile SARCASTIC ELF: Yay!!
 INFORMATION ===============================
 ID: 1366
 TITLE: The Intergalactic Trade Agreement
-AUTHOR: HolidayWither
+AUTHOR: holidaywither
 VERIFIED: True
 TAGS: 
 SET: News
@@ -42672,7 +42672,7 @@ World News Outro
 INFORMATION ===============================
 ID: 1367
 TITLE: Desperate Game Mascot
-AUTHOR: Sapphire_random
+AUTHOR: sapphire_random
 VERIFIED: True
 TAGS: 
 SET: Conference Room
@@ -42757,7 +42757,7 @@ dev1: Yep now come on we got a game to cook up!
 INFORMATION ===============================
 ID: 1369
 TITLE: Do you even lift?
-AUTHOR: Carl on Duty
+AUTHOR: jackiechan23
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -42859,7 +42859,7 @@ NEWGUY: Hey GRAT, I think I’m ready to start taking PED.
 INFORMATION ===============================
 ID: 1371
 TITLE: Kooky Enchanted Lady Next Door
-AUTHOR: Holliella
+AUTHOR: holliella
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
@@ -42993,7 +42993,7 @@ DADAP: Wowwwwiee!!!
 INFORMATION ===============================
 ID: 1376
 TITLE: R.I.P MAD
-AUTHOR: APSI-wizard
+AUTHOR: apsi8609
 VERIFIED: True
 TAGS: 
 SET: Classroom
@@ -43054,7 +43054,7 @@ BEN: (Grin) Exactly. We’re just too good at this.
 INFORMATION ===============================
 ID: 1378
 TITLE: Past & Future
-AUTHOR: 
+AUTHOR: houseerikson
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -43126,7 +43126,7 @@ TIRE: I'm already there, idiot!
 INFORMATION ===============================
 ID: 1379
 TITLE: Hear me out!
-AUTHOR: kiro-sage
+AUTHOR: kirosage
 VERIFIED: True
 TAGS: 
 SET: Living Room
@@ -43196,7 +43196,7 @@ TIM: (chases after Rick) Get back here, you sorry excuse for a man!
 INFORMATION ===============================
 ID: 1381
 TITLE: Sock Theft
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -43298,7 +43298,7 @@ TV: Well crimes are full of big surprises kid. I have seen larger twists than th
 INFORMATION ===============================
 ID: 1384
 TITLE: Hero Sitcom
-AUTHOR: ItsAtlas23e2
+AUTHOR: hmmidkmaybeok_08953
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -43373,7 +43373,7 @@ EVIL: CATCHPHRASE
 INFORMATION ===============================
 ID: 1385
 TITLE: The Wizard's Master Plan
-AUTHOR: Deadly~Lex
+AUTHOR: deadly_lex
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -43463,7 +43463,7 @@ KNI: (Follow them) And maybe we can watch TV and eat FOOD after!
 INFORMATION ===============================
 ID: 1387
 TITLE: Matt & Wilson Go to the Store
-AUTHOR: megashoeex3
+AUTHOR: ceoofdefense
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -43559,7 +43559,7 @@ GROCER: I need to look for a new job. Maybe I can get hired in JOB...
 INFORMATION ===============================
 ID: 1389
 TITLE: Mystery Solved?
-AUTHOR: Bao-Bao
+AUTHOR: baoisdragon
 VERIFIED: True
 TAGS: 
 SET: Murder
@@ -43649,7 +43649,7 @@ TYPEWRITER: Until they were caught 2 days later, for depositing $12K at a nearby
 INFORMATION ===============================
 ID: 1393
 TITLE: The Real Enemy
-AUTHOR: 
+AUTHOR: zanbbit
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
@@ -43769,7 +43769,7 @@ TYPEWRITER: Judge Terri was never found. Some say he's still at large today.
 INFORMATION ===============================
 ID: 1394
 TITLE: Cards, Wizards and Court Cases
-AUTHOR: Dogshark120
+AUTHOR: happyninja0692_58669
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
@@ -43878,7 +43878,7 @@ gameshow outro
 INFORMATION ===============================
 ID: 1397
 TITLE: You! Back me up here!
-AUTHOR: Wendibro
+AUTHOR: melrosewood
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -43983,7 +43983,7 @@ HOSTILE: (Wait till they're gone) Welp, Time to steal all the snickerdoodles whi
 INFORMATION ===============================
 ID: 1411
 TITLE: The Royal Pain
-AUTHOR: Incidental
+AUTHOR: wvgazbi
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -44115,7 +44115,7 @@ Applause
 INFORMATION ===============================
 ID: 1412
 TITLE: Where's the Host?
-AUTHOR: Wendibro
+AUTHOR: melrosewood
 VERIFIED: True
 TAGS: Skit,Game Show
 SET: Game Show
@@ -44244,7 +44244,7 @@ gameshow outro
 INFORMATION ===============================
 ID: 1415
 TITLE: What did you eat?!
-AUTHOR: kiro-sage
+AUTHOR: kirosage
 VERIFIED: True
 TAGS: 
 SET: Doctor's Office
@@ -44334,94 +44334,9 @@ RICK: Wait. (Looks back in stomach, grabs FOOD, and tastes it) Yep, his FOOD was
 ======
 
 INFORMATION ===============================
-ID: 1419
-TITLE: How to Parent 101
-AUTHOR: EvaThatOneGuy
-VERIFIED: True
-TAGS: Skit
-SET: Living Room
-DATE: 26/01/25
-CHARACTERS ================================
-MOTHER: The moron mother:Kitchen
-FATHER: The father:Couch
-CHILD: Zee average child:Side Door
-SUGGESTIONS =============================
-JOKE:A cute nickname for a partner:honey,pookie,dear
-TITLE:A stupid nickname:Bongus,Cornholio,Biggie
-NONFOOD:An inedible product:Bleach,Tide pod,Clorox
-TIME:An amount of time:1 week,1 year,69 years
-NAME:A name:Nancy,Angie,Kyle
-REALFOOD:A snack:Goldfish,Oreos',Lay's
-SON:A name:Caleb,Logan,Peter
-MAMA:A name you can call your mom:Mama,Mum,Mother
-BED:Any time:9 pm,1 pm,4 am
-SCRIPT ==========================================
-jazz music 2
-MOTHER:(thinking) Hmmmmm...
-FATHER:What is it JOKE.
-MOTHER:Our child, what do we feed him?
-FATHER:What do you mean JOKE.
-MOTHER:Well, it's been so long since I've gotten out of the hospital after being in a coma, that I don't remember how to feed, nor take care of them.
-CHILD:I'm hungry!
-MOTHER:Shut up TITLE ! I'm trying to think!
-vine boom
-FATHER:(Walk to wife)Well don't speak to him like that! say sorry.
-MOTHER:Oh, sorry TITLE.
-FATHER:Stop saying that!
-FATHER:Alright there should be food in the cabinet.
-MOTHER:(look in cabinet) Okay. (pick up NONFOOD) Here have some NONFOOD.
-FATHER:No! Give me that! (yank NONFOOD) Give him real food!
-MOTHER:Okay (look in cabinets). But what is that?
-FATHER:NAME you we're only in a coma for TIME! There is no way you don't remember what food is!
-MOTHER:Well I don't
-vine boom
-FATHER:Just go sit down! I'll take care of him.
-MOTHER:Well, whatever you say! (sit down on couch).
-FATHER:(Look through cabinet) Here have some REALFOOD.
-CHILD:Thank you so much my biological father (grab REALFOOD, and eat it).
-FATHER:Just call me dad.
-FATHER:See it's not that hard to take care of a child.
-CHILD:Wow there is this wonderful taste sensation in my mouth and- oh wait- oh no(gag, then puke everywhere).
-FATHER:What the hell!
-CHILD:FOOD make my tummy have a terrible sensation.
-FATHER:There is no way that REALFOOD made you puke this much, (yank REALFOOD) let me see this!
-FATHER:Why the hell is there NONFOOD in REALFOOD!
-MOTHER:Um... It wasn't me.
-FATHER:Okay this a good time to try to care for your child! I'm calling poison control (Leave through stage left).
-MOTHER:(Get off couch) Okay let's see (start cleaning up puke in front of child).
-MOTHER:(still cleaning) Are you okay TITLE?
-CHILD:Does it look like it?
-MOTHER:I don't know!
-FATHER:Ok I called poison control! They said they'll be fine (enter through stage left)
-MOTHER:Oh no! Give him more! (grab box of NONFOOD from cabinet).
-FATHER:No, that will make him puke again.
-MOTHER:Oh, you're welcome!
-lacrimosa music
-FATHER:No that's just- (breathe in and out) -Never mind. Obviously your coma gave you brain damage of some sort, which means you are unfit for SON.
-MOTHER:So?
-FATHER:I want a divorce.
-vine boom
-FATHER:And a restraining order.
-vine boom
-MOTHER:What?
-FATHER:I'll be outside (exit through front door).
-MOTHER:What the hell does that even mean? Do you know TITLE?
-CHILD:No MAMA.
-MOTHER:Well child it's getting late, it's BEDT.
-MOTHER: Get in the oven.
-vine boom
-CHILD:What?
-MOTHER: So you can keep warm.
-emotional piano music
-CHILD:Okay (Go in oven)
-MOTHER:I'm such a good mother
-
-======
-
-INFORMATION ===============================
 ID: 1422
 TITLE: Drunk Aussie Alien
-AUTHOR: Naquill3 31cb
+AUTHOR: naquille_anims
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -44487,7 +44402,7 @@ jack: Just wait 'til you hear the story about the STORE incident
 INFORMATION ===============================
 ID: 1424
 TITLE: Camping and Taxes
-AUTHOR: MangoTango12
+AUTHOR: mangotango0406
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -44553,7 +44468,7 @@ SALLY: Nah mate, I forgot to take my ITEM with me... Also I'm breaking up with y
 INFORMATION ===============================
 ID: 1426
 TITLE: Crazy Crossing Guard
-AUTHOR: FangsCrayonBox
+AUTHOR: fangscrayonbox
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -44636,7 +44551,7 @@ TYPEWRITER: The two friends ran for a few minutes, before being eaten alive by a
 INFORMATION ===============================
 ID: 1427
 TITLE: Card Eater
-AUTHOR: FangsCrayonBox
+AUTHOR: fangscrayonbox
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -44716,7 +44631,7 @@ TYPEWRITER: NOM was later hospitalized after winning the tournament.
 INFORMATION ===============================
 ID: 1431
 TITLE: BabyDollarBills On Thin Ice
-AUTHOR: 
+AUTHOR: tophatbunny
 VERIFIED: True
 TAGS: Skit
 SET: Classroom
@@ -44799,7 +44714,7 @@ TEACHER: Yeah, sure why not. Only if it's above 20$ bucks. They don't pay me eno
 INFORMATION ===============================
 ID: 1433
 TITLE: Venting
-AUTHOR: LeDerp_64
+AUTHOR: lederp64
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -44881,7 +44796,7 @@ DIS: What did I do
 INFORMATION ===============================
 ID: 1434
 TITLE: IMPOSTER?! no... IMPOSTERS?!
-AUTHOR: R0b0Rilz
+AUTHOR: r0b0_riltz
 VERIFIED: True
 TAGS: Contains Adult Innuendo
 SET: Living Room
@@ -45067,7 +44982,7 @@ FAKE3: I shall also join in the unknown activity of yours. (follow them off stag
 INFORMATION ===============================
 ID: 1435
 TITLE: Time-Travelling Couponer
-AUTHOR: ˞˞Oni
+AUTHOR: onissom
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -45124,7 +45039,7 @@ CASHIER: I hate it here..
 INFORMATION ===============================
 ID: 1436
 TITLE: The Gift
-AUTHOR: 
+AUTHOR: houseerikson
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -45234,7 +45149,7 @@ WISE2: Oh! I do!
 INFORMATION ===============================
 ID: 1437
 TITLE: Dr Quack's Comedy Clinic
-AUTHOR: Valhymm
+AUTHOR: valhymm
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -45317,7 +45232,7 @@ laughter
 INFORMATION ===============================
 ID: 1440
 TITLE: Calm down
-AUTHOR: OliverTheDragon
+AUTHOR: oliverthedragon
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -45389,7 +45304,7 @@ spy ending sting
 INFORMATION ===============================
 ID: 1441
 TITLE: That's Not Me!
-AUTHOR: OrphanEvaporatr
+AUTHOR: fortnitegamer4624
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -45475,7 +45390,7 @@ Meanwhile GREG: NO!
 INFORMATION ===============================
 ID: 1444
 TITLE: The Babysitter
-AUTHOR: FangsCrayonBox
+AUTHOR: fangscrayonbox
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -45536,7 +45451,7 @@ SITTER: At least I didn't have to TASK ... I hope.
 INFORMATION ===============================
 ID: 1447
 TITLE: A Wizard's Announcement
-AUTHOR: LeDerp_64
+AUTHOR: lederp64
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -45596,7 +45511,7 @@ EGG: Now get out of my sight, before i SPELL you too!
 INFORMATION ===============================
 ID: 1450
 TITLE: I'm not a furry!
-AUTHOR: KylieKittyCat
+AUTHOR: peppermann
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
@@ -45673,7 +45588,7 @@ TYPEWRITER: Sourfeathers went on to become the biggest furry of all time
 INFORMATION ===============================
 ID: 1460
 TITLE: Dragon Entity
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: 
 SET: Campsite
@@ -45754,7 +45669,7 @@ AGENT46: Heh, once in a while magic would work. Take him to the captured entity 
 INFORMATION ===============================
 ID: 1461
 TITLE: The Misunderstood Monster
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -45831,7 +45746,7 @@ MON: (to the audience) Shhh.... (exit)
 INFORMATION ===============================
 ID: 1464
 TITLE: Work Trip
-AUTHOR: RevLovelace
+AUTHOR: revlovelace
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
@@ -45906,7 +45821,7 @@ TERRENCE: Man...maybe ACT2 wasn't such a bad time after all.
 INFORMATION ===============================
 ID: 1466
 TITLE: Seeing Eye "Dog"
-AUTHOR: LeDerp_64
+AUTHOR: lederp64
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -46003,7 +45918,7 @@ CASH: (stand in disbelief) What a day.
 INFORMATION ===============================
 ID: 1467
 TITLE: Pepsi or Coke
-AUTHOR: Rotem_N
+AUTHOR: rotem._.n
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -46108,7 +46023,7 @@ RON: Not again, we should have went to PLACE.
 INFORMATION ===============================
 ID: 1468
 TITLE: The Love Note
-AUTHOR: NERΘ
+AUTHOR: nero2409
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -46243,7 +46158,7 @@ PERSON: I'm just gonna walk through that door and call a taxi (exit stage right)
 INFORMATION ===============================
 ID: 1472
 TITLE: The gamer-home invaders
-AUTHOR: 
+AUTHOR: art_costa01
 VERIFIED: True
 TAGS: 
 SET: Living Room
@@ -46329,7 +46244,7 @@ JENNIFER: Aight.. Sounds good, we'll use splitscreen tho.
 INFORMATION ===============================
 ID: 1473
 TITLE: Is it plugged in?
-AUTHOR: FangsCrayonBox
+AUTHOR: fangscrayonbox
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -46392,7 +46307,7 @@ TECH: Thank you for calling COMPANY tech support. The cost of this session will 
 INFORMATION ===============================
 ID: 1476
 TITLE: A Suprise Party!
-AUTHOR: Rotem_N
+AUTHOR: rotem._.n
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -46611,7 +46526,7 @@ LUKE: You're welcome. I could get you SMART PHONE sometime. Bye bye.
 INFORMATION ===============================
 ID: 1478
 TITLE: This town is big enough for the two of us
-AUTHOR: LeDerp_64
+AUTHOR: lederp64
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -46692,7 +46607,7 @@ western jingle 1
 INFORMATION ===============================
 ID: 1479
 TITLE: Meet The Sp-A.I.
-AUTHOR: 
+AUTHOR: houseerikson
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -46816,7 +46731,7 @@ Typewriter: Fission Mailure
 INFORMATION ===============================
 ID: 1486
 TITLE: Super Spreader
-AUTHOR: Valhymm
+AUTHOR: valhymm
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -46922,7 +46837,7 @@ DOCTOR: During the very late stages of DIABEETUS, your nose may start to run lik
 INFORMATION ===============================
 ID: 1490
 TITLE: No Games?
-AUTHOR: 
+AUTHOR: houseerikson
 VERIFIED: True
 TAGS: Skit
 SET: Hardware Store
@@ -47006,7 +46921,7 @@ TYPEWRITER: The CON has no games.
 INFORMATION ===============================
 ID: 1491
 TITLE: Something Unforgettable
-AUTHOR: APSI-wizard
+AUTHOR: apsi8609
 VERIFIED: True
 TAGS: 
 SET: Conference Room
@@ -47069,7 +46984,7 @@ WIZARD: no hadron just started singing MEME_SONG.
 INFORMATION ===============================
 ID: 1494
 TITLE: The Old Wives tale
-AUTHOR: ༒LunarMoth༒
+AUTHOR: .lunarlotus.
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -47193,7 +47108,7 @@ CHD: He never even finished the story...
 INFORMATION ===============================
 ID: 1499
 TITLE: The Haggler
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -47259,7 +47174,7 @@ CUSTOMER: Deal.
 INFORMATION ===============================
 ID: 1500
 TITLE: Loving Surprise
-AUTHOR: Critical Ren
+AUTHOR: criticalren
 VERIFIED: True
 TAGS: Contains Adult Innuendo
 SET: Living Room
@@ -47344,7 +47259,7 @@ UNCLE: So what do you guys want to do?
 INFORMATION ===============================
 ID: 1502
 TITLE: Photo or Die
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
@@ -47414,7 +47329,7 @@ MARCUS: You do look like a melted wax version of CELEBRITY, though. No cap.
 INFORMATION ===============================
 ID: 1503
 TITLE: Restaurant Morons
-AUTHOR: -AtlasVA-
+AUTHOR: shimballasnoog
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -47523,7 +47438,7 @@ WAITER: I quit. (Exit Stage Right)
 INFORMATION ===============================
 ID: 1504
 TITLE: Breakup News
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -47587,7 +47502,7 @@ LISA: Good night.
 INFORMATION ===============================
 ID: 1505
 TITLE: The Plagia-write
-AUTHOR: Jack_Gubadiah
+AUTHOR: jack_gubadiah
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -47677,7 +47592,7 @@ TYPEWRITER: NAME was later arrested for using counterfeit PAYMENT.
 INFORMATION ===============================
 ID: 1516
 TITLE: My First Car
-AUTHOR: MindlessGonzo
+AUTHOR: mindlessgonzo
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -47776,7 +47691,7 @@ TYPEWRITER: He kept a photo of it to honor “Ol' Reliable.”
 INFORMATION ===============================
 ID: 1519
 TITLE: Invincible
-AUTHOR: WeirdGuySaturn
+AUTHOR: tonalikepizza
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -47855,7 +47770,7 @@ PEPPY: That's my queue to start heading back home to finish my WORK. Bye guys! (
 INFORMATION ===============================
 ID: 1520
 TITLE: The Price of Free
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -47919,7 +47834,7 @@ CUSTOMER: Give me the free stuff.
 INFORMATION ===============================
 ID: 1521
 TITLE: Completely Platonic
-AUTHOR: 
+AUTHOR: houseerikson
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -48037,7 +47952,7 @@ WAIT: AAAA!!!!!!
 INFORMATION ===============================
 ID: 1523
 TITLE: It's All About Convenience
-AUTHOR: 
+AUTHOR: zanbbit
 VERIFIED: True
 TAGS: Infomercial
 SET: Grocery Store
@@ -48139,7 +48054,7 @@ TYPEWRITER: Minwage never did that. He forgot about WEBSITE, went straight home 
 INFORMATION ===============================
 ID: 1524
 TITLE: The Legend Of The Great Forest Monster 
-AUTHOR: Max Wolfberg
+AUTHOR: maxwolfberg
 VERIFIED: True
 TAGS: 
 SET: Forest
@@ -48255,7 +48170,7 @@ COMRADE: Me too, WARRIORNAME. Me too.
 INFORMATION ===============================
 ID: 1525
 TITLE: Nobody Could Predict That
-AUTHOR: Ishkander_
+AUTHOR: ishkander
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -48342,7 +48257,7 @@ FRIEND A: REPLY.
 INFORMATION ===============================
 ID: 1527
 TITLE: Press Conference
-AUTHOR: 
+AUTHOR: setnode
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -48411,7 +48326,7 @@ Meanwhile SPOKESPERSON: It's not my fault! I'm not to blame! (incoherent ramblin
 INFORMATION ===============================
 ID: 1530
 TITLE: Toll Goof
-AUTHOR: Ishkander_
+AUTHOR: ishkander
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
@@ -48508,7 +48423,7 @@ WARRIOR: Why didn't the guard want our MONSTER BODY PART 2?
 INFORMATION ===============================
 ID: 1531
 TITLE: The Parasocial Relationship
-AUTHOR: ThatJacobGuy_YT
+AUTHOR: thatguynamedjacobyt
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -48561,7 +48476,7 @@ STREAMER: (sigh) People these days
 INFORMATION ===============================
 ID: 1534
 TITLE: The Peak of Sneak
-AUTHOR: Ishkander_
+AUTHOR: ishkander
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -48666,7 +48581,7 @@ TYPEWRITER: CODENAME was later captured by ORGANIZATION,;having tripped an alarm
 INFORMATION ===============================
 ID: 1539
 TITLE: McDonald's Commercial 
-AUTHOR: Noob_Player420p
+AUTHOR: noobplayer420p
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Bathroom
@@ -48738,7 +48653,7 @@ applause
 INFORMATION ===============================
 ID: 1540
 TITLE: How To Stop a Prophecy
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -48802,7 +48717,7 @@ GUARD: Yes, my queen. (bows)
 INFORMATION ===============================
 ID: 1542
 TITLE: Idiotic Interview 
-AUTHOR: -AtlasVA-
+AUTHOR: shimballasnoog
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -48878,7 +48793,7 @@ INTERVIEWER: Man... I should learn how to SKILL too...
 INFORMATION ===============================
 ID: 1545
 TITLE: Cooking Informercial
-AUTHOR: Perydaplaypus
+AUTHOR: perydaplapus
 VERIFIED: True
 TAGS: Infomercial
 SET: Infomercial Kitchen
@@ -48949,7 +48864,7 @@ MAYS: But you have to call now.
 INFORMATION ===============================
 ID: 1546
 TITLE: Who are you talking to?
-AUTHOR: LeDerp_64
+AUTHOR: lederp64
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -49029,7 +48944,7 @@ TYPEWRITER: ALIAS spent the rest of his days in the phycological facility
 INFORMATION ===============================
 ID: 1549
 TITLE: Book Club
-AUTHOR: Rotem_N
+AUTHOR: rotem._.n
 VERIFIED: True
 TAGS: 
 SET: Classroom
@@ -49179,7 +49094,7 @@ TYPEWRITER:FOREVER
 INFORMATION ===============================
 ID: 1550
 TITLE: Ultra Rap
-AUTHOR: APSI-wizard
+AUTHOR: apsi8609
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -49276,7 +49191,7 @@ V1: laughs Oh, hell nah. throws a "MAGIC SPELL" spell
 INFORMATION ===============================
 ID: 1551
 TITLE: Do Not Vote for Me
-AUTHOR: Ishkander_
+AUTHOR: ishkander
 VERIFIED: True
 TAGS: Skit
 SET: Political Debate USA
@@ -49380,7 +49295,7 @@ TYPEWRITER: PRESNAME would later win the presidency after;RICHNAME bought them e
 INFORMATION ===============================
 ID: 1553
 TITLE: Planet Nature: Unfiltered
-AUTHOR: Reddicide
+AUTHOR: redicide
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -49478,7 +49393,7 @@ NAR: Tune in next week when we observe the mating habits of the elusive CELEB an
 INFORMATION ===============================
 ID: 1554
 TITLE: Daylight
-AUTHOR: Reddicide
+AUTHOR: redicide
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -49562,7 +49477,7 @@ thunder
 INFORMATION ===============================
 ID: 1557
 TITLE: Goldfish Memory
-AUTHOR: Reddicide
+AUTHOR: redicide
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -49613,7 +49528,7 @@ OWNR: (Sigh to self) At least I can exploit him and make the FISH cost him more 
 INFORMATION ===============================
 ID: 1558
 TITLE: Death by Karen
-AUTHOR: FangsCrayonBox
+AUTHOR: fangscrayonbox
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -49678,7 +49593,7 @@ TYPEWRITER: Their NUMBER SOCIAL followers continued to eat at the mafia's FOOD r
 INFORMATION ===============================
 ID: 1560
 TITLE: Thank-for-giving your opinion
-AUTHOR: RevLovelace
+AUTHOR: revlovelace
 VERIFIED: True
 TAGS: Skit
 SET: Dining Room
@@ -49756,7 +49671,7 @@ TEEN: Nooooooo!
 INFORMATION ===============================
 ID: 1561
 TITLE: Hostage Situation
-AUTHOR: Reddicide
+AUTHOR: redicide
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -49896,7 +49811,7 @@ CRIM: So... no 5DEMAND?
 INFORMATION ===============================
 ID: 1562
 TITLE: Wrong Wedding
-AUTHOR: Reddicide
+AUTHOR: redicide
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -49990,7 +49905,7 @@ GR1: (to the other groom) You know, I might be able to set you up with a PERSON 
 INFORMATION ===============================
 ID: 1563
 TITLE: One More Case
-AUTHOR: Deus Ex Vulpes
+AUTHOR: heckingfoxgod
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -50059,7 +49974,7 @@ GRUFF: I need a drink before I start my work. And you're standing on the floorbo
 INFORMATION ===============================
 ID: 1564
 TITLE: Office Plant Thief
-AUTHOR: Reddicide
+AUTHOR: redicide
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -50146,7 +50061,7 @@ TYPEWRITER: Some heroes wear capes. Others carry watering cans.
 INFORMATION ===============================
 ID: 1566
 TITLE: Fake Passport
-AUTHOR: -X E R O-
+AUTHOR: x_e_r_o_19
 VERIFIED: True
 TAGS: 
 SET: Forest
@@ -50283,7 +50198,7 @@ RICK: Why am i friends with yall... (Exit)
 INFORMATION ===============================
 ID: 1568
 TITLE: Haiku Hangout
-AUTHOR: Reddicide
+AUTHOR: redicide
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -50367,7 +50282,7 @@ Meanwhile JOR: (cheers) One more round!
 INFORMATION ===============================
 ID: 1573
 TITLE: Will It Vend?
-AUTHOR: Ishkander_
+AUTHOR: ishkander
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -50445,7 +50360,7 @@ VENDOR: Here at COMPANY, we believe that your life should always be in our hands
 INFORMATION ===============================
 ID: 1575
 TITLE: Cannon Fodder Farewell
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -50508,7 +50423,7 @@ DIRECTOR: Excellent. We also offer camera recordings of impact once the decedent
 INFORMATION ===============================
 ID: 1577
 TITLE: Beast Reality
-AUTHOR: KylieKittyCat
+AUTHOR: peppermann
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
@@ -50617,7 +50532,7 @@ Crowd woo
 INFORMATION ===============================
 ID: 1581
 TITLE: Jiggle Physics
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -50693,7 +50608,7 @@ ALEX: Go outside and touch grass.
 INFORMATION ===============================
 ID: 1582
 TITLE: Boujee Market
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -50782,7 +50697,7 @@ DWAYNE: Leave. Before I start charging y’all for emotional damages.
 INFORMATION ===============================
 ID: 1587
 TITLE: Demoted
-AUTHOR: 
+AUTHOR: zanbbit
 VERIFIED: True
 TAGS: 
 SET: Detective Noir
@@ -50897,7 +50812,7 @@ NORMAN: Get back here! (run off stage)
 INFORMATION ===============================
 ID: 1588
 TITLE: Villain Subversion
-AUTHOR: Jack_Gubadiah
+AUTHOR: jack_gubadiah
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -50961,7 +50876,7 @@ TYPEWRITER: He later went on to commit his plan anyways and framed The Boss.
 INFORMATION ===============================
 ID: 1590
 TITLE: Myth-placed Fae-th
-AUTHOR: Jack_Gubadiah
+AUTHOR: jack_gubadiah
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
@@ -51031,7 +50946,7 @@ FAE: Oh Come On!
 INFORMATION ===============================
 ID: 1592
 TITLE: Need a Lawyer
-AUTHOR: Neko-Numi
+AUTHOR: nekonumi
 VERIFIED: True
 TAGS: Skit
 SET: Interrogation Room
@@ -51109,7 +51024,7 @@ LAWYER: Oh, I like to CRIME with my ADJECTIVE GROUP in my free time! (Exit stage
 INFORMATION ===============================
 ID: 1594
 TITLE: Everyone and their Brother
-AUTHOR: Deus Ex Vulpes
+AUTHOR: heckingfoxgod
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -51190,7 +51105,7 @@ WIFE: (exhausted) Yes please.
 INFORMATION ===============================
 ID: 1595
 TITLE: Not Another Isekai
-AUTHOR: NERΘ
+AUTHOR: nero2409
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -51319,7 +51234,7 @@ QUILL: Will do. I can't wait to get out of this generic, badly written Isekai. (
 INFORMATION ===============================
 ID: 1596
 TITLE: Medieval Meeting
-AUTHOR: Shamura ʕω ʔ
+AUTHOR: shamura.net
 VERIFIED: True
 TAGS: 
 SET: Conference Room
@@ -51410,7 +51325,7 @@ TYPEWRITER: Them's the Breaks!
 INFORMATION ===============================
 ID: 1598
 TITLE: Woke Wars
-AUTHOR: LeoHardy
+AUTHOR: leoauthor
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -51475,7 +51390,7 @@ MARCO: But sadly, everyone in this restaurant wants us to leave.
 INFORMATION ===============================
 ID: 1599
 TITLE: The Broken Radio
-AUTHOR: SoapyTheYeep 
+AUTHOR: mariobrosbodhi
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -51610,7 +51525,7 @@ Aunt Mabel: (Muttering to herself) PICKLEs… and now MISSIONs… Men and their 
 INFORMATION ===============================
 ID: 1603
 TITLE: Karen’s Special Surprise 
-AUTHOR: SoapyTheYeep 
+AUTHOR: mariobrosbodhi
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -51679,7 +51594,7 @@ CASHIER: I don't get paid enough for this. (Leave Entrance Stage Right)
 INFORMATION ===============================
 ID: 1604
 TITLE: Faker!
-AUTHOR: LeDerp_64
+AUTHOR: lederp64
 VERIFIED: True
 TAGS: Skit
 SET: Forest Bridge
@@ -51760,7 +51675,7 @@ HEO: I gotta tell OBAMA about this. (runs offstage)
 INFORMATION ===============================
 ID: 1611
 TITLE: Customer is always WRONG
-AUTHOR: AsheWHY
+AUTHOR: ashewhy
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -51821,7 +51736,7 @@ TYPEWRITER: And remember folks, Don't believe in "The customer is always right".
 INFORMATION ===============================
 ID: 1621
 TITLE: Just Dance
-AUTHOR: Rotem_N
+AUTHOR: rotem._.n
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -51908,7 +51823,7 @@ IVY:Wait what?
 INFORMATION ===============================
 ID: 1623
 TITLE: Too Many Boyfriends
-AUTHOR: Jinx Izayoi
+AUTHOR: jinxizayoi
 VERIFIED: True
 TAGS: 
 SET: Murder
@@ -52034,7 +51949,7 @@ MAID: CATCH
 INFORMATION ===============================
 ID: 1624
 TITLE: You Wouldn't Download What?!
-AUTHOR: FurryTrash237
+AUTHOR: lokear
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -52134,7 +52049,7 @@ Meanwhile TYPEWRITER: Stream has ended.
 INFORMATION ===============================
 ID: 1629
 TITLE: Loud News Reporters
-AUTHOR: OliverTheDragon
+AUTHOR: oliverthedragon
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -52190,7 +52105,7 @@ world news outro
 INFORMATION ===============================
 ID: 1631
 TITLE: A Funky First Meetup
-AUTHOR: EricTheSayoSimp
+AUTHOR: sayorithecinnamonbun2015
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -52259,7 +52174,7 @@ TYPEWRITER: Then BF and GF did ACTION YOU SHOULDNT DO, just in secret so her dad
 INFORMATION ===============================
 ID: 1632
 TITLE: The Wrong Robot
-AUTHOR: ~ RudenZ ~
+AUTHOR: rudenzz
 VERIFIED: True
 TAGS: Contains Adult Innuendo
 SET: Living Room
@@ -52323,7 +52238,7 @@ MEANWHILE ROBOT: (Follow backstage)
 INFORMATION ===============================
 ID: 1633
 TITLE: The Haunted Grounds
-AUTHOR: HolidayWither
+AUTHOR: holidaywither
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -52395,7 +52310,7 @@ CAMPER #2: Next year, we're vacationing somewhere safer...like DESTINATION"
 INFORMATION ===============================
 ID: 1645
 TITLE: Job Simulator 
-AUTHOR: Rotem_N
+AUTHOR: rotem._.n
 VERIFIED: True
 TAGS: Skit
 SET: Grocery Store
@@ -52465,7 +52380,7 @@ CASHIER: Too bad I can't make money from it.
 INFORMATION ===============================
 ID: 1649
 TITLE: Lost & Dramatic
-AUTHOR: аlty
+AUTHOR: alternativezzz
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -52546,7 +52461,7 @@ GUARDIAN: (To the audience) And so… another legend begins. (Freeze in a dramat
 INFORMATION ===============================
 ID: 1653
 TITLE: Lost Player
-AUTHOR: ··Blue··
+AUTHOR: bluberriz
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -52620,7 +52535,7 @@ crowd woo
 INFORMATION ===============================
 ID: 1654
 TITLE: Inheritance Scam
-AUTHOR: Costons
+AUTHOR: .halfsober.
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -52705,7 +52620,7 @@ ANNOYED CHILD: Can I keep the fake CHEAP GIFT TO GIVE TO SOMEONE?
 INFORMATION ===============================
 ID: 1656
 TITLE: Who's Cuter?
-AUTHOR: Jinx Izayoi
+AUTHOR: jinxizayoi
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -52786,7 +52701,7 @@ GIRL2: (sigh) You, DEAR...
 INFORMATION ===============================
 ID: 1657
 TITLE: Cold Case, Warm Whiskey
-AUTHOR: Costons
+AUTHOR: .halfsober.
 VERIFIED: True
 TAGS: Skit
 SET: Detective Noir
@@ -52861,7 +52776,7 @@ FAT MAN: (To audience) Funny thing about being fat and forgettable- makes for a 
 INFORMATION ===============================
 ID: 1658
 TITLE: The Host Knows Everything
-AUTHOR: Costons
+AUTHOR: .halfsober.
 VERIFIED: True
 TAGS: Game Show
 SET: Game Show
@@ -52951,7 +52866,7 @@ meanwhile CONTESTANT 2: (Checking up on Contestant 1 muttering) NAME FOR A LADY?
 INFORMATION ===============================
 ID: 1660
 TITLE: Barely functional cooking
-AUTHOR: thx2tehSpawn
+AUTHOR: thx2tehspawn
 VERIFIED: True
 TAGS: 
 SET: Infomercial Kitchen
@@ -53028,7 +52943,7 @@ Meanwhile SPECIALGUEST: (exit Stage Right) La la la!
 INFORMATION ===============================
 ID: 1663
 TITLE: The Interview
-AUTHOR: 
+AUTHOR: komio223
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -53095,7 +53010,7 @@ gameshow outro
 INFORMATION ===============================
 ID: 1665
 TITLE: Landlords and Larpers
-AUTHOR: Wolfenstin
+AUTHOR: wolfenstin
 VERIFIED: True
 TAGS: 
 SET: Living Room
@@ -53186,7 +53101,7 @@ TIM: Absolutely not. (Exit)
 INFORMATION ===============================
 ID: 1666
 TITLE: We Might Be Lost
-AUTHOR: Jack_Gubadiah
+AUTHOR: jack_gubadiah
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -53276,7 +53191,7 @@ TYPEWRITER: The End
 INFORMATION ===============================
 ID: 1670
 TITLE: Cure for Motion Sickness
-AUTHOR: Neykka
+AUTHOR: allie0826
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -53364,7 +53279,7 @@ infomercial disclaimer
 INFORMATION ===============================
 ID: 1674
 TITLE: Outer Affair
-AUTHOR: Jack_Gubadiah
+AUTHOR: jack_gubadiah
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -53444,7 +53359,7 @@ TYPEWRITER: The house was later raided by the CIA
 INFORMATION ===============================
 ID: 1675
 TITLE: Dungeons & Disasters
-AUTHOR: 
+AUTHOR: komio223
 VERIFIED: True
 TAGS: 
 SET: Forest
@@ -53583,7 +53498,7 @@ MAGE: Oh.
 INFORMATION ===============================
 ID: 1676
 TITLE: The River Trap
-AUTHOR: Neykka
+AUTHOR: allie0826
 VERIFIED: True
 TAGS: 
 SET: Forest Bridge
@@ -53662,7 +53577,7 @@ TYPEWRITER: And so they got trapped in the river fighting for the next NUM days.
 INFORMATION ===============================
 ID: 1680
 TITLE: The Quiz Master
-AUTHOR: LeDerp_64
+AUTHOR: lederp64
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -53799,7 +53714,7 @@ ROOM: I'm going to lose it.
 INFORMATION ===============================
 ID: 1692
 TITLE: Movie Night
-AUTHOR: Ｔｈｅ Ｃａｐｔａｉｎ
+AUTHOR: endotron_vr
 VERIFIED: True
 TAGS: Skit,Infomercial
 SET: Living Room
@@ -53856,7 +53771,7 @@ ROBBER: (Slowly realizing...) Darn it, I didn't get the A THING! (cries off stag
 INFORMATION ===============================
 ID: 1693
 TITLE: Triggering strangers 
-AUTHOR: The Durge
+AUTHOR: tyjaxvoices
 VERIFIED: True
 TAGS: 
 SET: City
@@ -53944,7 +53859,7 @@ Applause
 INFORMATION ===============================
 ID: 1694
 TITLE: A Dream Come True
-AUTHOR: 
+AUTHOR: zanbbit
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -54055,7 +53970,7 @@ JANE: WOO-HOO! Free dinner, Esper! Now this is MY definition of a dream come tru
 INFORMATION ===============================
 ID: 1697
 TITLE: House Development
-AUTHOR: Carl on Duty
+AUTHOR: jackiechan23
 VERIFIED: True
 TAGS: 
 SET: Backyard
@@ -54131,7 +54046,7 @@ BIL: (Doing OPH) Oh Yeah! I’m really feeling the SIMP Now!
 INFORMATION ===============================
 ID: 1699
 TITLE: The Reverse Alien Experience
-AUTHOR: LethalChicken
+AUTHOR: unused_userame
 VERIFIED: True
 TAGS: 
 SET: Backyard
@@ -54214,7 +54129,7 @@ BOY: Either way, I guess that SHOE's really suck alot!
 INFORMATION ===============================
 ID: 1701
 TITLE: Stranger Danger!
-AUTHOR: Rotem_N
+AUTHOR: rotem._.n
 VERIFIED: True
 TAGS: Contains Adult Innuendo
 SET: Classroom
@@ -54295,7 +54210,7 @@ TEACHER: Nah, I didn't like them or my job anyways.
 INFORMATION ===============================
 ID: 1707
 TITLE: Memes
-AUTHOR: Jinx Izayoi
+AUTHOR: jinxizayoi
 VERIFIED: True
 TAGS: 
 SET: Western
@@ -54376,7 +54291,7 @@ telenovela sting 2
 INFORMATION ===============================
 ID: 1712
 TITLE: The Average Doctor Experience
-AUTHOR: Ｔｈｅ Ｃａｐｔａｉｎ
+AUTHOR: endotron_vr
 VERIFIED: True
 TAGS: Skit
 SET: Doctor's Office
@@ -54441,7 +54356,7 @@ THE PATIENT: Ok, that's fine, I can wait.
 INFORMATION ===============================
 ID: 1714
 TITLE: Summoning Gone Wrong
-AUTHOR: Deus Ex Vulpes
+AUTHOR: heckingfoxgod
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -54525,7 +54440,7 @@ DEMG: (Approach, put a finger on their mouth.) Shush! Shh ... demon, remember? C
 INFORMATION ===============================
 ID: 1715
 TITLE: The Create-A-Creature 9000
-AUTHOR: 
+AUTHOR: zanbbit
 VERIFIED: True
 TAGS: Skit,Infomercial
 SET: Infomercial Bathroom
@@ -54638,7 +54553,7 @@ CREATURE: Hey, if it's not too much trouble, can you generate me a partner?
 INFORMATION ===============================
 ID: 1717
 TITLE: Felony Fools
-AUTHOR: -AtlasVA-
+AUTHOR: shimballasnoog
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
@@ -54741,7 +54656,7 @@ courtroom sting
 INFORMATION ===============================
 ID: 1719
 TITLE: A Neighbor Moment
-AUTHOR: 
+AUTHOR: houseerikson
 VERIFIED: True
 TAGS: Skit
 SET: Backyard
@@ -54838,7 +54753,7 @@ NAR: SHOW is up next. Bye!
 INFORMATION ===============================
 ID: 1721
 TITLE: The Battle Of Wizards
-AUTHOR: Rokkaku
+AUTHOR: rokkaku11037
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -54915,7 +54830,7 @@ LOCK: Welp...A deal's a deal.
 INFORMATION ===============================
 ID: 1723
 TITLE: Last-Minute Presentations
-AUTHOR: 
+AUTHOR: bobadrawz.
 VERIFIED: True
 TAGS: 
 SET: Classroom
@@ -54975,7 +54890,7 @@ TYPEWRITER: After school hours, both Allen and Link were found in a dumpster, be
 INFORMATION ===============================
 ID: 1739
 TITLE: I Wonder Who?
-AUTHOR: RinRuster16
+AUTHOR: rinruster16
 VERIFIED: True
 TAGS: Skit
 SET: Murder
@@ -55052,7 +54967,7 @@ LUCA: oh okay (exit stage right, again)
 INFORMATION ===============================
 ID: 1740
 TITLE: Dah Devil Duds Doh
-AUTHOR: Kymerah
+AUTHOR: kymerah_
 VERIFIED: True
 TAGS: 
 SET: Conference Room
@@ -55146,7 +55061,7 @@ police car
 INFORMATION ===============================
 ID: 1751
 TITLE: Rules of magical girl shows
-AUTHOR: 
+AUTHOR: wolfy_tarot_moon
 VERIFIED: True
 TAGS: 
 SET: City
@@ -55239,7 +55154,7 @@ MAGICALGIRL: ...So am I able to do my transformation this episode or what
 INFORMATION ===============================
 ID: 1762
 TITLE: Don't open the book
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: 
 SET: Hardware Store
@@ -55333,7 +55248,7 @@ MAX: (Peeps back into the stage) Thank god! And that is why I take my SUB for gr
 INFORMATION ===============================
 ID: 1767
 TITLE: Heavenly Love Trial
-AUTHOR: Twintacle PTT
+AUTHOR: lilvioletdemon666798
 VERIFIED: True
 TAGS: 
 SET: Courtroom
@@ -55427,7 +55342,7 @@ Meanwhile DEV: Whaaaaaat???!
 INFORMATION ===============================
 ID: 1768
 TITLE: Sneezing Mania
-AUTHOR: Jayce_4
+AUTHOR: jayceandscratch1111
 VERIFIED: True
 TAGS: 
 SET: Backyard
@@ -55520,7 +55435,7 @@ Meanwhile JUSTIN: (Turn to audience) The moral of the story is MORAL
 INFORMATION ===============================
 ID: 1773
 TITLE: The Hero No One Asked For
-AUTHOR: LoonaWusky
+AUTHOR: galaxydahusky
 VERIFIED: True
 TAGS: 
 SET: Backyard
@@ -55595,7 +55510,7 @@ Neighbor: YES!
 INFORMATION ===============================
 ID: 1786
 TITLE: Idiotic Criminal
-AUTHOR: mapleRB
+AUTHOR: rabbitbrained
 VERIFIED: True
 TAGS: 
 SET: Interrogation Room
@@ -55682,7 +55597,7 @@ SUSPECT: Uhhh... so... wanna go to RESTAURANT?
 INFORMATION ===============================
 ID: 1789
 TITLE: The Overly Honest Bank Robber
-AUTHOR: -X E R O-
+AUTHOR: x_e_r_o_19
 VERIFIED: True
 TAGS: 
 SET: Conference Room
@@ -55817,7 +55732,7 @@ TELLER: This might go viral on TikTok. I’ll go grab the popcorn.
 INFORMATION ===============================
 ID: 1791
 TITLE: The Question
-AUTHOR: MindlessGonzo
+AUTHOR: mindlessgonzo
 VERIFIED: True
 TAGS: 
 SET: Living Room
@@ -55902,7 +55817,7 @@ TYPEWRITER: Tip No. 4, Avoid Eating At PLACE so you don't wind up as big as ANIM
 INFORMATION ===============================
 ID: 1793
 TITLE: Furry Room Party
-AUTHOR: mapleRB
+AUTHOR: rabbitbrained
 VERIFIED: True
 TAGS: Contains Adult Innuendo
 SET: Living Room
@@ -55988,7 +55903,7 @@ ANGRY: Wait, what? No... NO... NOOOOOOOOOOOOOOOOO!!!!!
 INFORMATION ===============================
 ID: 1794
 TITLE: AI Roommate
-AUTHOR: FangsCrayonBox
+AUTHOR: fangscrayonbox
 VERIFIED: True
 TAGS: 
 SET: Living Room
@@ -56051,7 +55966,7 @@ RM: … I don't want to live on this planet anymore.
 INFORMATION ===============================
 ID: 1795
 TITLE: They WILL win!
-AUTHOR: MystykalMystyk
+AUTHOR: mystykalmystyk
 VERIFIED: True
 TAGS: 
 SET: Living Room
@@ -56119,7 +56034,7 @@ FRIEND: What are you waiting for? They play tonight! Get going!
 INFORMATION ===============================
 ID: 1801
 TITLE: Doctor's Orders
-AUTHOR: Dooley
+AUTHOR: dooleynoted
 VERIFIED: True
 TAGS: 
 SET: Doctor's Office
@@ -56182,7 +56097,7 @@ applause
 INFORMATION ===============================
 ID: 1802
 TITLE: Showdown At High Noon(ish)
-AUTHOR: Dooley
+AUTHOR: dooleynoted
 VERIFIED: True
 TAGS: 
 SET: Western
@@ -56266,7 +56181,7 @@ applause
 INFORMATION ===============================
 ID: 1803
 TITLE: Spooky Camp Tales
-AUTHOR: DarthDJ
+AUTHOR: darthdjgamezyt
 VERIFIED: True
 TAGS: 
 SET: Campsite
@@ -56359,7 +56274,7 @@ Meanwhile CAMPER 3: Hooray!!!
 INFORMATION ===============================
 ID: 1805
 TITLE: Redneck Rumble
-AUTHOR: Dooley
+AUTHOR: dooleynoted
 VERIFIED: True
 TAGS: 
 SET: Backyard
@@ -56434,7 +56349,7 @@ applause
 INFORMATION ===============================
 ID: 1806
 TITLE: The Secret Sauce
-AUTHOR: 
+AUTHOR: zanbbit
 VERIFIED: True
 TAGS: 
 SET: Infomercial Kitchen
@@ -56541,7 +56456,7 @@ VICTORIA: Well, lets take it from the top again.
 INFORMATION ===============================
 ID: 1809
 TITLE: The Band breaks up
-AUTHOR: Carl on Duty
+AUTHOR: jackiechan23
 VERIFIED: True
 TAGS: 
 SET: Interrogation Room
@@ -56643,7 +56558,7 @@ LGG: …sure Apple.
 INFORMATION ===============================
 ID: 1817
 TITLE: Very Evil Haunted Toilet
-AUTHOR: Shamura ʕω ʔ
+AUTHOR: shamura.net
 VERIFIED: True
 TAGS: 
 SET: Infomercial Bathroom
@@ -56686,6 +56601,234 @@ explosion
 Teleport AUP Backstage
 TYPEWRITER: It is coming for you
 thunder
+
+======
+
+INFORMATION ===============================
+ID: 1822
+TITLE: Hungry Kaiju
+AUTHOR: lilvioletdemon666798
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 08/10/25
+CHARACTERS ================================
+MEL: Mellisa, ordinary citizen:Stage Left
+TOM: Tom, another ordinary citizen:Stage Right
+VET: The wartime veteran:Backstage
+KJ: The hungry kaiju (Big Avatar):Backstage
+POW: Power ranger (changes avatar):Backstage
+SUGGESTIONS =============================
+FLAKE:Cereal type:Cocoa Pebbles,Corn Flakes,Marshmallow
+COLOR:Any color:Red,Yellow,Blue,Black
+DINOSAUR:Extinct creature:Tyrannosaurus,Pterodactyl,Mastodon,Sabertooth Tiger
+SHOP:Shop that sells clothing:Ex. Hot Topic,Younker’s,The Pawn Shop
+WEAPON:Any weapon that can fire:Arm cannon,Splattershot,bow and arrow
+CITY:City in the world:Ex. New York,Toronto,Tokyo
+STUFF:Type of material:Steel,Wood,Titanium
+NUM:What is the price?:$9.99,$69,5 cents
+SCRIPT ==========================================
+happy music 1
+MEL: (enters) Ah, another day walking in CITY!
+TOM: (reading something) What is with these papers?
+MEL: Hello over there! (run to Tom)
+TOM: Oh hi there, what is your name?
+MEL: My name is Mellisa, and you?
+TOM: I am Tom. Hey, did you hear SHOP is having a coupon?
+MEL: For what?
+TOM: If you buy one of their new shirts, it’s now NUM!
+MEL: Wow! That is so cool!
+Music Stops
+KJ: (Enters) Roaaaaar!
+scary music
+MEL: (Points at the Kaiju) Oh my god! Tom! What is that thing?
+TOM: (terrified) Oh no! It's a Kaiju! We are all gonna die!
+VET: (Enter stage right) A Kaiju is not that bad.
+VET: I have survived floods, ship sinkings and wartime tragedies.
+MEL: Do you think that is going to help?
+VET: I have survived a ship sinking down, it was made of STUFF.
+KJ: I am a hungry kaiju! CITY! I need food!
+VET: CITY was made of STUFF back then, and they have indeed improved.
+TOM: That does not help, at all. We are still going to die!
+MEL: If this is the end, Tom, it was nice meeting with you, we are gonna get eaten!
+Music Stops
+POW: (enters stage right) I will handle this.
+VET: Who the heck are you?
+POW: Hey! Stupid Kaiju!
+KJ: What?
+POW: You want to attack CITY? Not so fast there buddy!
+POW: It’s morphin’ time!
+Badass Music 1
+POW: (do some ninja moves) DINOSAUR! (Change your avatar)
+KJ: Oh no! The COLOR Ranger is here! I messed up big time!
+MEL: Look at that! Even the Kaiju is scared!
+Meanwhile VET: What the?
+TOM: The COLOR ranger is gonna save us all!
+MEL: Hooray!
+Meanwhile VET: Hooray!
+KJ: Stay away from me, COLOR ranger!
+POW: (pulls out a WEAPON) Mighty DINOSAUR WEAPON!
+VET: A WEAPON? That is not strong enough for the kaiju to fall!
+KJ: WEAPON?
+POW: (shoots WEAPON) Hi-yaaa!
+KJ: (laughs) Gah ha ha ha! That tickles!
+Music Stops
+TOM: Oh no!
+Meanwhile POW: Shoot, bad aim!
+VET: I told you that’s not enough! WEAPONs only make it tickle!
+KJ: Rooaaar! Cereal… Cereal!
+MEL: Wait, I think the kaiju is telling us something.
+KJ: FLAKE! Cereal!
+MEL: I think the monster wants some FLAKE cereal!
+TOM: So that monster does not want to gobble us up after all, ha!
+POW: (thinking) Where do we get some cereal?
+POW: (realises) Oh wait, right by that SHOP, there is the local CITY grocery store.
+POW: We can get some cereal there!
+MEL: This may cost so much, but I will do it. (exit)
+TOM: I am coming! (follow Mellisa to the exit)
+TYPEWRITER: One shopping trip later…
+MEL: (enters) We got the giant bowl of FLAKE cereal!
+Meanwhile TOM: (enters) That was… a lot of shopping.
+VET: That reminds me, this kaiju was on that one FLAKE cereal box…
+POW: Excellent! Let me get into my DINOSAUR mech so I can fling the bowl to the kaiju!
+police car
+Teleport POW to Stage Left
+Badass Music 1
+POW: Hey kaiju! Eat some of this! (mimics gun noise) Pew!
+KJ: FLAKE cereal? Hooray! Cereal! (eats the cereal) Nom nom nom!
+VET: Wow, he really did it! He saved CITY!
+MEL: Hooray!
+Meanwhile TOM: Hooray!
+Music Stops
+KJ: Thank you, COLOR ranger, thanks tiny people! (exits)
+happy music 1
+TOM: Now that this giant monster nonsense is over, who wants to go to SHOP?
+POW: Yeah!
+Meanwhile MEL: Yeeeeah!
+
+======
+
+INFORMATION ===============================
+ID: 1840
+TITLE: Watch Out!
+AUTHOR: hrtaubrey
+VERIFIED: True
+TAGS: Infomercial
+SET: City
+DATE: 12/10/25
+CHARACTERS ================================
+POLICE OFFICER: Officer State:Center Stage
+SUGGESTIONS =============================
+NAME:City Name:Kansas City,San Diego,Philadelphia
+TEAM:official title of a heroic squad/group:Police Officers,the avengers,vrchat moderation team
+TITLE:Suspect’s Name:Bob,Jimmy,Grant,Taylor
+HISTORY:Suspect’s History:Stepped on dog poop,Murder,Washed Hands
+AGE:Age:36,67,80
+NUMBER:1-100:67,28,205
+PHONE:Phone Number:911,666,8103
+SCRIPT ==========================================
+70s music
+POLICE OFFICER: Attention all citizens of NAME!
+POLICE OFFICER: This is Officer State speaking. I have an urgent announcement for everyone.
+POLICE OFFICER: There is currently a suspect on the loose near your location. Please stay calm and remain indoors while me and TEAM works to handle the situation.
+POLICE OFFICER: The suspect’s name is TITLE.
+POLICE OFFICER: TITLE has a criminal history of HISTORY, and has been involved in several serious incidents throughout NAME.
+POLICE OFFICER:  They were also found in Los Angeles committed many major crimes.
+POLICE OFFICER: The suspect is AGE years old. They may seem friendly at first but do not attempt to confront or approach them.
+POLICE OFFICER: Our officers are already in pursuit, and we are confident that TEAM will bring this case to a close soon.
+POLICE OFFICER: In the meantime, we advise all residents to shut and (pulls a lock out) “lock” all windows and doors!
+POLICE OFFICER: Get it, lock?
+laughter
+POLICE OFFICER: TITLE has over NUMBER reported cases connected to them, and this current case is our top priority.
+POLICE OFFICER: So, we need your help to catch him!
+POLICE OFFICER: If you see any suspicious activity in the area by TITLE, then immediately call PHONE.
+POLICE OFFICER: Thank you for your cooperation, and remember — your safety is our mission.
+POLICE OFFICER: Officer State, signing off — and remember, crime doesn’t pay… but my overtime sure does!
+
+======
+
+INFORMATION ===============================
+ID: 1419
+TITLE: How to Parent 101
+AUTHOR: elitog_officail
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 26/01/25
+CHARACTERS ================================
+MOTHER: The moron mother:Kitchen
+FATHER: The father:Couch
+CHILD: Zee average child:Side Door
+SUGGESTIONS =============================
+JOKE:A cute nickname for a partner:honey,pookie,dear
+TITLE:A stupid nickname:Bongus,Cornholio,Biggie
+NONFOOD:An inedible product:Bleach,Tide pod,Clorox
+TIME:An amount of time:1 week,1 year,69 years
+NAME:A name:Nancy,Angie,Kyle
+REALFOOD:A snack:Goldfish,Oreos',Lay's
+SON:A name:Caleb,Logan,Peter
+MAMA:A name you can call your mom:Mama,Mum,Mother
+BED:Any time:9 pm,1 pm,4 am
+SCRIPT ==========================================
+jazz music 2
+MOTHER:(thinking) Hmmmmm...
+FATHER:What is it JOKE.
+MOTHER:Our child, what do we feed him?
+FATHER:What do you mean JOKE.
+MOTHER:Well, it's been so long since I've gotten out of the hospital after being in a coma, that I don't remember how to feed, nor take care of them.
+CHILD:I'm hungry!
+MOTHER:Shut up TITLE ! I'm trying to think!
+vine boom
+FATHER:(Walk to wife)Well don't speak to him like that! say sorry.
+MOTHER:Oh, sorry TITLE.
+FATHER:Stop saying that!
+FATHER:Alright there should be food in the cabinet.
+MOTHER:(look in cabinet) Okay. (pick up NONFOOD) Here have some NONFOOD.
+FATHER:No! Give me that! (yank NONFOOD) Give him real food!
+MOTHER:Okay (look in cabinets). But what is that?
+FATHER:NAME you we're only in a coma for TIME! There is no way you don't remember what food is!
+MOTHER:Well I don't
+vine boom
+FATHER:Just go sit down! I'll take care of him.
+MOTHER:Well, whatever you say! (sit down on couch).
+FATHER:(Look through cabinet) Here have some REALFOOD.
+CHILD:Thank you so much my biological father (grab REALFOOD, and eat it).
+FATHER:Just call me dad.
+FATHER:See it's not that hard to take care of a child.
+CHILD:Wow there is this wonderful taste sensation in my mouth and- oh wait- oh no(gag, then puke everywhere).
+FATHER:What the!
+CHILD:REALFOOD makes my tummy have a terrible sensation.
+FATHER:There is no way that REALFOOD made you puke this much, (yank REALFOOD) let me see this!
+FATHER:Why the heck is there NONFOOD in REALFOOD!
+MOTHER:Um... It wasn't me.
+FATHER:Okay this a good time to try to care for your child! I'm calling poison control (Leave through stage left).
+MOTHER:(Get off couch) Okay let's see (start cleaning up puke in front of child).
+MOTHER:(still cleaning) Are you okay TITLE?
+CHILD:Does it look like it?
+MOTHER:I don't know!
+FATHER:Ok I called poison control! They said they'll be fine (enter through stage left)
+MOTHER:Oh no! Give him more! (grab box of NONFOOD from cabinet).
+FATHER:No, that will make him puke again.
+MOTHER:Oh, you're welcome!
+lacrimosa music
+FATHER:No that's just- (breathe in and out) -Never mind. Obviously your coma gave you brain damage of some sort, which means you are unfit for SON.
+MOTHER:So?
+FATHER:I want a divorce.
+vine boom
+FATHER:And a restraining order.
+vine boom
+MOTHER:What?
+FATHER:I'll be outside (exit through front door).
+MOTHER:What the heck does that even mean? Do you know TITLE?
+CHILD:No MAMA
+MOTHER:Well child it's getting late, it's BEDT.
+MOTHER: Get in the oven.
+vine boom
+CHILD:What?
+MOTHER: So you can keep warm.
+emotional piano music
+CHILD:Okay (Go in oven)
+MOTHER:I'm such a good mother
 
 ======
 
