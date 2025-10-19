@@ -1181,7 +1181,6 @@ _Raizor
 AceDisconnected
 Aster Lux
 BardicRJ
-BrotherKFC
 Dead Dandy
 DRAG0N SP1KE
 eDrag
@@ -1193,6 +1192,7 @@ Jaco_The_Mano
 Luka~
 Margoul Getron
 Mr․ Teddy
+Mrs Darling
 Mxrsh_The_D3v1l
 Nera_cat
 PeanutBuddha
