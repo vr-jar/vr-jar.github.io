@@ -55246,100 +55246,6 @@ MAX: (Peeps back into the stage) Thank god! And that is why I take my SUB for gr
 ======
 
 INFORMATION ===============================
-ID: 1767
-TITLE: Heavenly Love Trial
-AUTHOR: Twintacle PTT
-VERIFIED: True
-TAGS: 
-SET: Courtroom
-DATE: 22/07/25
-CHARACTERS ================================
-ZEUS: Zeus, King of the Greek Gods (Judge):Judge Chair
-APH: Aphrodite, Greek goddess of love (Plaintiff):Plaintiff Table
-DUDE: A basic mortal (Defendant):Defendant Table
-DEV: A Demon (Baliff):Bailiff Corner
-SUGGESTIONS =============================
-NAME:any name:Dave,Hercules,Odysseus,Bob
-YEAR:Span of time:69 years,eternity,42000 hours,123 minutes
-DANCING:Action ending in 'ing':dancing,singing,hugging,fighting
-NUM:any number:1,4,5,10
-COLOR:Any color:black,green,blue,rainbow
-DEMON:demonic sounding name:Damien,Diablo,Dave
-THING:Anything:famine,Homestuck,kitties,Bubble Guppies
-PICKUP LINE:A pickup line:Every step you take is epic,you make my world go aaaah stupid aaaah,when you're sad it makes me physically ill,nice butt you little butt baby
-UNNATURAL PHENOMENON:Something unnatural, or immoral:human cloning,cannibalism,genetic modication of frogs,pineapple on pizza
-RAISING EXCUSE:An excuse for why you can't do something:I'm too tired,I don't have the right tools,I'm poor,Nobody cares about me,anime is more interesting
-CREATURE:any mythological creature:dragon,goblin,furry jesus,unicorn,magical spider monkey that grants you wishes,10 headed snake
-SCRIPT ==========================================
-courtroom music
-TYPEWRITER: Mount Olympus, Greece.
-TYPEWRITER: Defendant - NAME;Accused of being the father to a godly child
-ZEUS: Okay, order, order. I hereby now declare the court to be in session.
-ZEUS: (to the mortal) So, NAME, state your case please.
-DUDE: Well, a couple of weeks ago, I had a little affair with Aphrodite, you know, the god of love.
-DUDE: Well now she is claiming that I was the unintended father of the son we had right after DANCING in the River Stix club.
-ZEUS: Interesting. You know, I often flirt with mortals myself, NAME.
-DEV: Why, NAME, are you a lusty man like him? The big guy, Zeus?
-DUDE: (Shrugs) I mean, Aphrodite was super hot. (Points) Just look at her!
-APH: Well you should have thought about the consequences.
-APH: Now you've spawned a godly child! Which as we all know, is an abomination!
-music stops
-gameshow crowd shouting numbers
-ZEUS: (bangs gavel) Order! Order in this court!
-ZEUS: Aphrodite, what is your side of the story?
-shark tank serious music 1
-APH: Look, I have been flirting with mortals for many years now.
-APH: I'd be like, "Hey mortal, PICKUP LINE"
-APH: But I never expected to conceive a half-mortal child with this... NAME person! (Points at NAME)
-APH: That's why NAME should have custody.
-DEV: (Raises hand) If I may say something... Why should a mortal raise a god anyway?
-DEV: That's as unnatural as UNNATURAL PHENOMENON!
-APH: I just feel like NAME would take better care of the baby.
-APH: Normally I would, but.... RAISING EXCUSE
-ZEUS: (Shrugs) Well, the DNA test can figure it all out.
-ZEUS: Now, NAME, if you are caught lying, you will spend YEAR in the underworld.
-DEV: (Chiming in) That's right! You don't wanna end up spending YEAR with me, NAME... Ha ha ha ha ha!
-ZEUS: Alright you little DEMON, fetch me the the DNA test.
-DEV: With pleasure, Zeus. But there are so many mortals on Earth that it may take NUM minutes. (Exit)
-ZEUS: (to Aphrodite) So tell me, Aphrodite, what did the child look like after the affair with NAME?
-APH: Well for one thing, it was wearing a white robe, he had COLOR face paint on with COLOR legwear.
-APH: Besides, it looks nothing like us gods in Greek Mythology.
-DUDE: That is your confession? That just proves that I am not the father!
-APH: I still think you are, NAME. Ugh! We should have not gone DANCING at that club.
-music stops
-DEV: (enters again exhausted) Oh gosh, that was a lot.
-ZEUS: Ah, DEMON, you are back! Please hand over the DNA test.
-courtroom music
-DEV: Sure thing, Zeus! (give the DNA test to Zeus) Man oh man this may as well be the biggest twist ever in court script history!
-ZEUS: (receives DNA test) Alright, let's see here.
-ZEUS: (shocked) Oh my... This is an interesting result...
-APH: Well?
-ZEUS: The results are in, here comes the interesting twist...
-DUDE: Wait, what?
-Music Stops
-ZEUS: NAME, Aphrodite, you both... Are not the parents!
-courtroom sting
-DUDE: (shocked) What the hell?
-Meanwhile APH: Hang on, this has to be a joke!
-DEV: That's right! Twist! The kid was an orphan this whole time! You fool! Ha ha ha ha ha!
-ZEUS: Damn... He's right... NAME is not the father...
-ZEUS: So, we examined the DNA of the child, and it turns out the baby is some sort of... "CREATURE."
-japanese music 2
-APH: Wait, this is the wrong mythology! NAME, explain this to me!
-ZEUS: So, this is a CREATURE of... THING?! (smashes hand on desk in anger) How did they end up in ancient Greece?! Ugh!
-DEV: (To Zeus in fear) Calm down, Zeus, this has been going on for NUM days with these two and the THING god.
-DEV: We can find some way to send this baby back to where they came! Or all of mythology will fall apart!
-ZEUS: (calming down) Fine... Fine... Look, nobody will be sent to YEAR in the underworld. We need to deal with this.
-APH: What do we do?
-ZEUS: We can either adopt the CREATURE of THING and do a crossover, or we send him back via teleportation.
-APH: (Raises hand) You know what. I'll adopt him.
-aww
-DUDE: Wait, what?!
-Meanwhile DEV: Whaaaaaat???!
-
-======
-
-INFORMATION ===============================
 ID: 1768
 TITLE: Sneezing Mania
 AUTHOR: Jayce_4
@@ -56601,6 +56507,100 @@ explosion
 Teleport AUP Backstage
 TYPEWRITER: It is coming for you
 thunder
+
+======
+
+INFORMATION ===============================
+ID: 1767
+TITLE: Heavenly Love Trial
+AUTHOR: Twintacle PTT
+VERIFIED: True
+TAGS: 
+SET: Courtroom
+DATE: 22/07/25
+CHARACTERS ================================
+ZEUS: Zeus, King of Olympus (Judge):Judge Chair
+APH: Aphrodite (Plaintiff):Plaintiff Table
+DUDE: A basic mortal (Defendant):Defendant Table
+DEV: A Demon (Baliff):Bailiff Corner
+SUGGESTIONS =============================
+NAME:any name:Dave,Hercules,Odysseus,Bob
+YEAR:Span of time:69 years,eternity,42000 hours,123 minutes
+DANCING:Action ending in 'ing':dancing,singing,hugging,fighting
+NUM:any number:1,4,5,10
+COLOR:Any color:black,green,blue,rainbow
+DEMON:demonic sounding name:Damien,Diablo,Dave
+THING:Anything:famine,Homestuck,kitties,Bubble Guppies
+PICKUP LINE:A pickup line:Every step you take is epic,you make my world go aaaah stupid aaaah,when you're sad it makes me physically ill,nice butt you little butt baby
+UNNATURAL PHENOMENON:Something unnatural, or immoral:human cloning,cannibalism,genetic modication of frogs,pineapple on pizza
+RAISING EXCUSE:An excuse for why you can't do something:I'm too tired,I don't have the right tools,I'm poor,Nobody cares about me,anime is more interesting
+NOTGREECE:Someone NOT from Greek mythology.:Quetzalcoatl,Buddha,Saint Micheal,Baal,Azure Dragon
+SCRIPT ==========================================
+courtroom music
+TYPEWRITER: Mount Olympus, Greece.
+TYPEWRITER: Defendant - NAME;Accused of being the father to a godly child
+ZEUS: Okay, order, order. I hereby now declare the court to be in session.
+ZEUS: (to the mortal) So, NAME, state your case please.
+DUDE: Well, a couple of weeks ago, I had a little affair with Aphrodite, you know, the god of love.
+DUDE: Well now she is claiming that I was the unintended father of the son we had right after DANCING in the River Stix club.
+ZEUS: Interesting. You know, I often flirt with mortals myself, NAME.
+DEV: Why, NAME, are you a lusty man like him? The big guy, Zeus?
+DUDE: (Shrugs) I mean, Aphrodite was super hot. (Points) Just look at her!
+APH: Well you should have thought about the consequences.
+APH: Now you've spawned a godly child! Which as we all know, is an abomination!
+music stops
+gameshow crowd shouting numbers
+ZEUS: (bangs gavel) Order! Order in this court!
+ZEUS: Aphrodite, what is your side of the story?
+shark tank serious music 1
+APH: Look, I have been flirting with mortals for many years now.
+APH: I'd be like, "Hey mortal, PICKUP LINE"
+APH: But I never expected to conceive a half-mortal child with this... NAME person! (Points at NAME)
+APH: That's why NAME should have custody.
+DEV: (Raises hand) If I may say something... Why should a mortal raise a god anyway?
+DEV: That's as unnatural as UNNATURAL PHENOMENON!
+APH: I just feel like NAME would take better care of the baby.
+APH: Normally I would, but.... RAISING EXCUSE
+ZEUS: (Shrugs) Well, the DNA test can figure it all out.
+ZEUS: Now, NAME, if you are caught lying, you will spend YEAR in the underworld.
+DEV: (Chiming in) That's right! You don't wanna end up spending YEAR with me, NAME... Ha ha ha ha ha!
+ZEUS: Alright you little DEMON, fetch me the the DNA test.
+DEV: With pleasure, Zeus. But there are so many mortals on Earth that it may take NUM minutes. (Exit)
+ZEUS: (to Aphrodite) So tell me, Aphrodite, what did the child look like after the affair with NAME?
+APH: Well for one thing, it was wearing a white robe, he had COLOR face paint on with COLOR legwear.
+APH: Besides, it looks nothing like us gods in Greek Mythology.
+DUDE: That is your confession? That just proves that I am not the father!
+APH: I still think you are, NAME. Ugh! We should have not gone DANCING at that club.
+music stops
+DEV: (enters again exhausted) Oh gosh, that was a lot.
+ZEUS: Ah, DEMON, you are back! Please hand over the DNA test.
+courtroom music
+DEV: Sure thing, Zeus! (give the DNA test to Zeus) Man oh man this may as well be the biggest twist ever in court script history!
+ZEUS: (receives DNA test) Alright, let's see here.
+ZEUS: (shocked) Oh my... This is an interesting result...
+APH: Well?
+ZEUS: The results are in, here comes the interesting twist...
+DUDE: Wait, what?
+Music Stops
+ZEUS: NAME, Aphrodite, you both... Are not the parents!
+courtroom sting
+DUDE: (shocked) What the frick?
+Meanwhile APH: Hang on, this has to be a joke!
+DEV: That's right! Twist! The kid was an orphan this whole time! You fool! Ha ha ha ha ha!
+ZEUS: Dang... He's right... NAME is not the father...
+ZEUS: So, we examined the DNA of the child, and it turns out the baby is some sort of... "NOTGREECE."
+japanese music 2
+APH: Wait, this is the wrong mythology! NAME, explain this to me!
+ZEUS: So, this is a NOTGREECE of... THING?! (smashes hand on desk in anger) How did they end up in ancient Greece?! Ugh!
+DEV: (To Zeus in fear) Calm down, Zeus, this has been going on for NUM days with these two and the THING god.
+DEV: We can find some way to send this baby back to where they came! Or all of mythology will fall apart!
+ZEUS: (calming down) Fine... Fine... Look, nobody will be sent to YEAR in the underworld. We need to deal with this.
+APH: What do we do?
+ZEUS: We can either adopt the NOTGREECE of THING and do a crossover, or we send him back via teleportation.
+APH: (Raises hand) You know what. I'll adopt him.
+aww
+DUDE: Wait, what?!
+Meanwhile DEV: Whaaaaaat???!
 
 ======
 
