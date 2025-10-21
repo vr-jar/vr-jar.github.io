@@ -8530,7 +8530,7 @@ AGENT: (Nauseous) I think I'm turning into a SNAKE...
 INFORMATION ===============================
 ID: 184
 TITLE: The Bakeoff
-AUTHOR: jay3409
+AUTHOR: Jay3409
 VERIFIED: True
 TAGS: Skit
 SET: Infomercial Kitchen
@@ -30925,85 +30925,6 @@ BRITISH: (walks towards the door and turns to audience) After all, the best dete
 ======
 
 INFORMATION ===============================
-ID: 978
-TITLE: Lawn Mowing
-AUTHOR: Ahmadsyar
-VERIFIED: True
-TAGS: Skit
-SET: Backyard
-DATE: 16/07/24
-CHARACTERS ================================
-GAIA: Mother nature:Backstage
-NEIGHBOR: Snobby neighbor:Backstage
-GORDON: A normal man:Stage Right
-SUGGESTIONS =============================
-DEBRIS:Something you don't want in your yard:Grass,leaves,dirt
-TASTE:A way to describe food:Sweet like ice cream,Savory like taco,Juicy like durian
-TIME1:Any number:5,3,7
-MELATAH:Something you might say when scared:Son of a biscuit,Monday to Friday,Oh my lard
-LAWNMOWER:A complex machine:Lawn mower,chainsaw,Zamboni
-SCYTHE:Something that can cut:Scythe,trimmer,machete
-PLANT:Something you can grow:Yggdrasil,Apple,Durian
-SCRIPT ==========================================
-BLUEGRASS MUSIC
-GORDON: Ah yes, nothing beats the good old-fashioned SCYTHE.
-GORDON: A simple and efficient tool to cut this stubborn grass (Cutting grass peacefully).
-NEIGHBOR: (Enter stage left). Hey! watch out for the DEBRIS!
-CHAINSAW
-GORDON: Ow! MELATAH Hey! (Wipes face)
-SILLY MUSIC 2
-NEIGHBOR: Oh, howdy neighbor! Sorry about that. I can hardly hear you over my trusty LAWNMOWER.
-GORDON: (sighing) Hey neighbor, messing up with the ecosystem as usual?
-NEIGHBOR: Come on now, we live in the 21st century. You need more than a SCYTHE to beautify the landscape. It’s also time saving you know.
-GORDON: Bah! You and your LAWNMOWER is overly complicated for such a simple task. It’s overkill.
-NEIGHBOR: It’s not so bad, you have to accept that the future is here.
-GORDON: Tools are supposed to help us with chores but not so much that we depend on it.
-GORDON: Grrrrr!!!
-Meanwhile NEIGHBOR: Grrrrr!!!
-THUNDER
-Teleport GAIA to GRILL
-EPIC FANTASY MUSIC 2
-GAIA: Enough!
-GORDON: Aaah MELATAH!
-NEIGHBOR: Whoa…!
-GAIA: I am Gaia, the mythical manifestation of the order of nature.
-GORDON: Are you like a God or something?
-GAIA: That is not important right now. What’s important is that you two should stop fighting.
-NEIGHBOR: Great! Now you will show to him that things will get done faster with LAWNMOWER.
-GORDON: No, she’s siding with me. A SCYTHE will not ruin nature.
-GAIA: Silence!!!
-THUNDER
-GAIA: Here, take these PLANT seed. You two will plant this in your backyard and nurture it.
-GAIA: In TIME1 years, I will be back and evaluate the results
-Teleport GAIA to BACKSTAGE
-Music Stops
-GORDON: That was weird.
-NEIGHBOR: Well. See you in TIME1 years.
-TYPEWRITER: After TIME1 years.
-NEIGHBOR: Well, well, well, it looks like your PLANT tree has grown big. Not bad.
-GORDON: Yours too. Hmm. Gaia should be here any moment now.
-NEIGHBOR: Any second now….
-GORDON: Yup, still waiting….
-NEIGHBOR: Say, about the fruit on those PLANT tree, did Gaia ever said about forbidding us to try those?
-GORDON: I didn’t recall anything.
-NEIGHBOR: (Grabs the fruit and eat it)
-GORDON: Hey! What are you doing?
-NEIGHBOR: Wow! This is the best thing I’ve ever tasted.
-NEIGHBOR: It tastes TASTE, just like PLANT in my grandpa’s orchard.
-GORDON: Let me try some. (eats the fruit)
-GORDON: You’re right! It is TASTE!
-NEIGHBOR: Oh, I have an idea. What if we sell this these? We’ll get rich.
-GORDON: Well Gaia never said anything about selling them.
-PEACEFUL FANTASY MUSIC
-NEIGHBOR: You know, I can see it now. It’s not important if SCYTHE or LAWNMOWER is better.
-NEIGHBOR: What’s important is that we made the effort to achieve the result.
-NEIGHBOR: Friends?
-GORDON: Friends.
-TYPEWRITER: Gaia never appears and they got rich selling PLANT fruit.
-
-======
-
-INFORMATION ===============================
 ID: 983
 TITLE: Indomitable Human Spirit
 AUTHOR: kiro-sage
@@ -45916,111 +45837,6 @@ CASH: (stand in disbelief) What a day.
 ======
 
 INFORMATION ===============================
-ID: 1467
-TITLE: Pepsi or Coke
-AUTHOR: Rotem_N
-VERIFIED: True
-TAGS: Skit
-SET: Restaurant
-DATE: 17/02/25
-CHARACTERS ================================
-OLIVIA: Olivia:Entrance Stage Right
-RON: Ron:Entrance Stage Right
-WAITER: An undrpaid waiter:Entrance Stage Left
-CHEF: The chef:Entrance Stage Left
-SUGGESTIONS =============================
-PASTA:Some type of food:steak,lobster,humburger
-PLACE:Some kind of place:kfc,home,hell,australia
-RESTAURANT:Some kind of restaurant:burger king,chick fill a,mcdonalds
-NUMBER:Any number:1,45,67
-ACCENT :Some kind of accent:Italian,Russian,Spanish
-COMPLIMENT :A nice compliment to someone:Cute,lovely precious
-NAME:A name of a person:John,eli,anna
-SCRIPT ==========================================
-70S MUSIC
-OLIVIA:(While walking into the restaurant) Wow im so glad we went to this RESTAURANT for our NUMBER anniversary!
-RON:(Walks into the RESTAURANT) Me too!
-WAITER: Hi! I'll be your waiter today and that's your seat
-OLIVIA: (Sit down) Thank you kind sir
-RON: (Sit down) Thank you
-happy music 1
-WAITER: So what would you like to order?
-OLIVIA: I would like the PASTA, with Coca Cola please
-WAITER: Excellent choice and for you sir?
-RON: I would also like the PASTA, also with Coca Cola
-WAITER: Great! anything else?
-OLIVIA: I'm good
-RON:Me too
-WAITER: Okay, your food will be ready soon (exit stage)
-jazz music 2
-RON: So olivia how was your day?
-OLIVIA: Pretty good, what about you?
-RON: I'm great, still recovering from... (dramatic pause) the incident... (look dramaticly at the crowd) .
-RON: oh! look! heres comes our food!
-WAITER: (Come out with the food,Place the food and pepsi on the table) Okay guys i've brought you your food
-OLIVIA: (Point at the table) What is that ?
-OLIVIA: W-What did you put on our table ?
-WAITER: I've brought you your food and pepsi?
-vine boom
-OLIVIA: Pepsi!?
-vine boom
-WAITER: Yes?
-OLIVIA: But I-I ordered coca cola
-WAITER: Well unfortunately we dont have coca cola
-tada
-MUSIC STOPS
-OLIVIA: (Mad) W-W-W-Why dont you have coca cola?
-WAITER: (Annoyed) We don't have it in our menu
-RON: Olivia its just pepsi, calm down
-explosion
-OLIVIA: No, I wont calm down!
-lacrimosa music
-OLIVIA: (Emotional) How could you lie to me like that, after all we've been through! a waiter should not lie to his dear customers
-OLIVIA: Especially on topics like this!
-OLIVIA: (Angry) How could you do me like that ron!, you know I hate pepsi and you took me here anyway?!
-RON: Olivia calm down its just pepsi!
-RON: I will buy you coca cola when we get home okay?
-WAITER: (Exhausted) Yes lady he will buy you coke later, gosh shes so annoying
-raygun shot
-MUSIC STOPS
-OLIVIA: What did you just say?
-WAITER: Oops did I say it out loud?
-OLIVIA: Yes you did!
-WAITER: (Angry) Well look lady we only have pepsi, so deal with it!
-pokemon battle start
-OLIVIA: (Starts yelling) Who do you think you are?! talking to me like that??
-RON: Ugh why haven't we gone to PLACE
-WAITER: (Angry) Stop yelling at me!, I don't get paid enough for this
-OLIVIA: Well, I dont care! (Start fighting the waiter)
-WAITER: (Fights back) Stop you crazy women
-fistfight
-RON: G-Guys stop
-OLIVIA: Be quite ron!
-RON: O-Okay... (Start quietly sobbing)
-CHEF: (Walks into stage, in an ACCENT accent) Whats-a going on?!
-CHEF: Waiter stop fighting that lady!
-church bell
-MUSIC STOPS
-sad chug jug music
-WAITER: Fine! (stops fighting)
-CHEF: We don't fight with our COMPLIMENT customers!
-WAITER: (Doesn't care) Yeah yeah
-CHEF: Well dear couple how can I help you two? and i'm very sorry about our waiter, he's a bit crazy like that crazy person you know NAME
-WAITER: Hey! don't talk to me like this, chef with a ACCENT accent!
-CHEF: You just hit my customer!, be quiet
-WAITER: Okay thats it! I quit! see you in hell! (scream while exit stage) im free!!!
-yankee doodle music
-MUSIC STOPS
-happy music 1
-CHEF: I'm terribly sorry, would you like anything? , free no charge!
-OLIVIA: I would like coca cola
-CHEF: Unfortunately we dont have coca cola we only have pepsi
-OLIVIA: What did you just say ?
-RON: Not again, we should have went to PLACE.
-
-======
-
-INFORMATION ===============================
 ID: 1468
 TITLE: The Love Note
 AUTHOR: NERΘ
@@ -56709,45 +56525,6 @@ Meanwhile MEL: Yeeeeah!
 ======
 
 INFORMATION ===============================
-ID: 1840
-TITLE: Watch Out!
-AUTHOR: hrtaubrey
-VERIFIED: True
-TAGS: Infomercial
-SET: City
-DATE: 12/10/25
-CHARACTERS ================================
-POLICE OFFICER: Officer State:Center Stage
-SUGGESTIONS =============================
-NAME:City Name:Kansas City,San Diego,Philadelphia
-TEAM:official title of a heroic squad/group:Police Officers,the avengers,vrchat moderation team
-TITLE:Suspect’s Name:Bob,Jimmy,Grant,Taylor
-HISTORY:Suspect’s History:Stepped on dog poop,Murder,Washed Hands
-AGE:Age:36,67,80
-NUMBER:1-100:67,28,205
-PHONE:Phone Number:911,666,8103
-SCRIPT ==========================================
-70s music
-POLICE OFFICER: Attention all citizens of NAME!
-POLICE OFFICER: This is Officer State speaking. I have an urgent announcement for everyone.
-POLICE OFFICER: There is currently a suspect on the loose near your location. Please stay calm and remain indoors while me and TEAM works to handle the situation.
-POLICE OFFICER: The suspect’s name is TITLE.
-POLICE OFFICER: TITLE has a criminal history of HISTORY, and has been involved in several serious incidents throughout NAME.
-POLICE OFFICER:  They were also found in Los Angeles committed many major crimes.
-POLICE OFFICER: The suspect is AGE years old. They may seem friendly at first but do not attempt to confront or approach them.
-POLICE OFFICER: Our officers are already in pursuit, and we are confident that TEAM will bring this case to a close soon.
-POLICE OFFICER: In the meantime, we advise all residents to shut and (pulls a lock out) “lock” all windows and doors!
-POLICE OFFICER: Get it, lock?
-laughter
-POLICE OFFICER: TITLE has over NUMBER reported cases connected to them, and this current case is our top priority.
-POLICE OFFICER: So, we need your help to catch him!
-POLICE OFFICER: If you see any suspicious activity in the area by TITLE, then immediately call PHONE.
-POLICE OFFICER: Thank you for your cooperation, and remember — your safety is our mission.
-POLICE OFFICER: Officer State, signing off — and remember, crime doesn’t pay… but my overtime sure does!
-
-======
-
-INFORMATION ===============================
 ID: 1419
 TITLE: How to Parent 101
 AUTHOR: EvaThatOneGuy
@@ -56829,6 +56606,703 @@ MOTHER: So you can keep warm.
 emotional piano music
 CHILD:Okay (Go in oven)
 MOTHER:I'm such a good mother
+
+======
+
+INFORMATION ===============================
+ID: 1823
+TITLE: Villain Dinner Date
+AUTHOR: houseerikson
+VERIFIED: True
+TAGS: Skit
+SET: Dining Room
+DATE: 09/10/25
+CHARACTERS ================================
+VIL: The Main Villain:Center Stage
+GOON: The Villain's Henchman:Backstage
+DATE: The Undercover Date:Backstage
+SUGGESTIONS =============================
+MAIN:A Main Course Meal:Roast Beef,Turkey,Beef Wellington,Lasagna
+FAST:A Fast Food Resturant:McDonalds,Burger King,Wendy's,KFC
+COU:A Foreign Country:Malaysia,China,Russia,Chad
+ART:A Priceless Artifact:The Ark Of The Covenant,The Mona Lisa,The Hope Diamond,The Holy Grail
+MASS:A Massive Monumet:The Effiel Tower,Mount Rushmore,The Leaning Tower Of Pisa,The CN Tower
+JOB:A Boring, Mundane Job:Accountant,Sales Manager,Lawyer,Marketing Director
+FOOD:A Fast Food Meal:Big Mac,Whooper,Curly Fries,Blizzard
+SCRIPT ==========================================
+dark classical music
+VIL: Mwahahaha! Soon, my master plan will come to fruition!
+VIL: No one will be able to stop me now from...
+VIL:...going on the world's most perfect date! Ahahahah!
+VIL: I've got it all planned out...they'll be here any minute.
+VIL: And when they arrive, I'll serve them the finest MAIN they've ever seen!
+VIL: They'll eat up my cooking, fall in love, and I'll finally have a partner!
+VIL: Take that mom! I left the basement and got a date after all!
+extreme knocking
+VIL: What was that? Henchman! Get out here!
+GOON: (Enter Stage Right) Oh god boss! We got a problem!
+VIL: What? What kind of problem?
+GOON: I forgot to take the MAIN outta the oven! It's burnt to a crisp!
+VIL: You WHAT?!?
+groose music
+VIL: (Smack Henchman) You dunderhead! Your one job was to make sure the MAIN didn't get burnt!
+GOON: I'm sorry boss! I had to go to the bathroom!
+VIL: Drat! My date night is doomed!
+VIL: Unless...
+GOON: You got a plan, boss?
+VIL: Indeed I do...how about we get food from another establishment, and pass it off as our own?
+GOON: Ohhh...that's a good idea!
+VIL: Of course it is! It's delightfully devilish!
+VIL: Hurry, henchman! Get to the nearest FAST and buy us a meal! 
+GOON: Yeah, sure thing! I'll be back soon! (Exit Stage Right)
+doorbell
+VIL: Oh no! They're here! I'm going to have to stall!
+DATE: (Walk up to Stage Left Entrance) Hello? Are you home?
+VIL: (Open front door) W-Why yes! Of course! Welcome to my humble abode!
+DATE: (Enter) Aww,thank you! You place looks so nice!
+VIL: Indeed...would you like to take a seat?
+DATE: (Take a seat) So, what's for dinner?
+VIL: (Take a seat) Uhm...my henchm-I mean...butler is still prepearing the MAIN.
+VIL: I want it to be picture perfect, just for you!
+DATE: That's so sweet! I love MAIN!
+VIL: So, uhh...while we wait, why don't we get to know each other?
+DATE: Well, what would you want to know?
+VIL: Oh, I don't know...where do you work?
+DATE: Nothing special. I'm a JOB. It's pretty boring, I'll tell you.
+VIL: Really? That does seem boring.
+DATE: Well, what about you?
+VIL: Oh nothing much, just plain old world domination.
+DATE: Ooooh! That sounds fun!
+DATE: I bet you have plenty of wilds stories!
+VIL: Do I ever! There was this one time I blew up COU!
+DATE: You blew up COU? I remember seeing that on the news once.
+VIL: Yes, it was quite the spectacle!
+VIL: Would you want to hear about the time I stole ART?
+VIL: Or that time I plotted to destroy MASS? That's a doozy of a story!
+DATE: Wow...you sure have an interesting job...
+GOON: (Enter Stage Left) Boss! I'm back! And I've got the...oh hey!
+VIL: Ah! My butler has finished the MAIN!
+GOON: Huh? Oh, right! It's all ready! (Serve the table)
+DATE: Uhm...why is it in a FAST bag?
+VIL: O-Ohh! I...I just...thought it'd funny to put them in FAST bags!
+DATE: Wait a minute...this isn't MAIN...this is FOOD!
+GOON: Oh boy...this ain't gonna be pretty. (Exit Stage Left)
+VIL: Uhh...listen,this is just...what my version of MAIN looks like!
+DATE: It's not even the same type of food! What are you talking about?
+VIL: I...(sigh) okay I admit it.
+emotional piano music
+VIL: The truth is, the MAIN was burnt and I decided to replace it with fast food...
+VIL: I didn't lie to hurt you, I just wanted this date to go well!
+VIL: I'm so sorry. Will you forgive me?
+DATE: (sigh) I can't believe a villain like you would lie to someone like me...
+DATE: Actually, I can believe it.
+record scratch
+courtroom music
+VIL: Wait, what?
+DATE: (Point gun at Villain) Freeze! You're under arrest!
+VIL: (Put hands up) What?!? You're a cop?
+DATE: FBI's finally tracked you down after you stole ART. 
+DATE: Now we just got a confession that you blew up COU and that you're planning to destory MASS!
+DATE: It's over dirtbag! Keep those hands in the air!
+police car
+VIL: Drat! I've been foiled by my own date! You'll pay for this!
+DATE: Save it for the judge, you shmuck.
+fire alarm
+GOON: (From stage left entrance) Uhhh! Boss? I forgot to turn the oven off!
+VIL: Hey, I think my henchman is burning...(Exit Stage Right)
+DATE: I said save it for the judge! (Exit Stage Right)
+fire alarm
+GOON: Ahh! I'm on fire! Help! HEEEEEEELP!
+
+======
+
+INFORMATION ===============================
+ID: 1856
+TITLE: The Vlogger Life
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 14/10/25
+CHARACTERS ================================
+INFLUENCER: Famous Internet Star:Entrance Stage Right
+ROOMMATE: Internet Stars Roommate:Center Stage
+DELIVERY: A Delivery Person:Backstage
+SUGGESTIONS =============================
+WEBSITE:enter the name of a website:TouYoob,ClickClock,Tumbler
+USERNAME:a username someone would have online:BlizzardO'Billz,John Famus,Parkimlier
+NICKNAME:A silly or playful nickname one would have for a friend:Dweeb,Hobknocker,Friend... With Benefits
+SPONSOR:A company that would sponsor a video:Raid: Shadow Leg Ends,Inaudible,Worse Hurt
+PRODUCT:Any functional object someone can buy:Towel Rack,Snow Globe,Knife
+TOPPING:A food topping:Pineapple,Cinnamon,Caramel Glaze
+CELEBRITY:name any celebrity :George Clooney,Taylor Swift,Homer Simpson
+CLOTHING:Any clothing item:Hoodie,Shoes,Fishnet Thigh Highs
+THEME:A theme for an event:Medieval,1920's,Vaporwave
+TITLE:Any object:Waffle Iron,Daddy's Money,Padlock
+FOOD:Name a type of food:Chicken,Haggis,Soup
+SCRIPT ==========================================
+jazz music 2
+Roommate: Ahh, what a lovely day. It's nice and quiet, no distractions.
+Roommate: I get to live in this big house that my friend bought with their WEBSITE money.
+Roommate: Life is pretty good... hopefully I can just relax, maybe play some piano.
+badass music 1
+Influencer: Yo! Whazzup WEBSITE!? It's ya boi USERNAME!
+Influencer: Yall know what it is! We out here puttin' the flu in Influencer! Droppin' all this siok content!
+Roommate: (mutter) Oh no, not this again.
+Influencer: We're doing a house tour today, that's right my USERNAMEers. You're gonna see how a king lives!
+Influencer: Let's see what the NICKNAME is up to first (walk to roommate) Wazzup NICKNAME!?
+Roommate: (sigh) Can we not do this today?
+Influencer: (say through gritted teeth) Just play along for the video or I'm going to kick you out!
+Roommate: Yoooo! What's good USERNAME!? Who are we gettin that cash from today!?
+Influencer: Well I'm glad you asked, NICKNAME! This video is brought to you by SPONSOR!
+Influencer: Click the link below to get 20% off your next SPONSOR purchase! I love SPONSOR! I use their stuff all the time!
+Influencer: Yo, NICKNAME, tell the USERNAMEers why they should use SPONSOR.
+Roommate: (take a deep breath) I mean SPONSOR is just really cool. I love their PRODUCT... they sell PRODUCTs right?
+Influencer: YO! If they don't they totally should. Hey USERNAMEers, get on that. Get SPONSOR to start selling PRODUCTs!
+Influencer: We should do a prank, hey NICKNAME, call up a FOOD delivery guy for me!
+Roommate: (Groan and walk to the phone. Speak in monotone voice) This is gonna be so epic, dude.
+Influencer: While NICKNAME is doing that, let's start on this house tour!
+Influencer: Look at my paino guys! It's really OUR paino. You helped me get it by watching my videos getting me that big WEBSITE money.
+Influencer: Look at this fireplace! What am I, a grandma or a supervillan!? Comment below and let me know!
+Roommate: They asked if you want anything with the FOOD.
+Influencer: Okay guys, here's the epic prank. Tell them I want TOPPING as a topping.
+Roommate: Come on, they won't have that!
+Influencer: That's why it's funny! DO IT!
+Roommate: Yes I would like to have that topped with TOPPING... Oh... Uhh okay, bye.
+Roommate: They said they're on their way.
+Influencer: That's so stupid! Yo USERNAMEers! Watch to the end to see the FOOD delivery guy get epically pranked!
+Roommate: I'm going into the other room, I don't want to be a part of this. (exit stage right)
+Influencer: Look at these couches guys! I actually got them gifted to me by CELEBRITY.
+Influencer: Remember guys! You gotta rise and grind everyday to make it big! Do that and you can meet CELEBRITY too!
+doorbell
+Delivery: Hello? Someone here order a FOOD with TOPPING topping?
+Influencer: (walk to door and open) Took you long enough.
+Delivery: I have the FOOD you ordered. I don't know what sicko puts TOPPING on a FOOD but here.
+Influencer: Hmmm I don't know if I am feeling hungry anymore. It took you a pretty long time to get here.
+Delivery: Look kid, I'm not in the mood for jokes. Do you want this thing or not? I got actual paying customers to serve.
+Influencer: How about this. I'll buy the FOOD if you Buy my new CLOTHING!
+Delivery: Your new what!?
+Influencer: Available now on my USERNAME store! Get the sick new exclusive THEME CLOTHING! And look better than this lame dude!
+Delivery: Wait a minute are you really USERNAME?
+Influencer: Oh are you a USERNAMEer? Maybe you're not that lame after all.
+Delivery: My kid is obsessed with your videos. Can you try to be a better person? He's started calling me NICKNAME.
+Delivery: He said he learned it from watching you. You always call your roommate NICKNAME.
+Delivery: And I know he's gonna want the new THEME CLOTHINGs you're trying to sell now too. Do you think we're made of money?
+Delivery: I am literally just a FOOD delivery guy!
+Influencer: Whatever. You're just jealous that your son has role models like me to look up to.
+Delivery: You're a horrible role model! Take this FOOD and pay me before I punch you in the face.
+Influencer: Nah, I don't want it! It was just a prank bro! HA!
+Influencer: (turn to audience) But you want to know what isn't a prank, dear USERNAMEers? The tour I'm going on!
+Influencer: Come and see me on my new TITLE tour starting next week! Imma be hittin' a bunch of towns!
+Influencer: Why is it called the TITLE tour, you ask? Well come and see me to find out!
+Influencer: I'll also be selling special TITLE tour themed CLOTHING too! Come and get the sickest merch around!
+Delivery: Really? You're going on tour? What do you even do? What is this TITLE tour about?
+Influencer: Get a ticket and find out. Your son knows what I do, so do all the other USERNAMEers. You can't get it.
+Delivery: I'm not doing that, I don't have enough money. And I'm also not leaving until you pay for this FOOD!
+Influencer: (groans) NICKNAME get out here and pay for the FOOD! This delivery guy is a jerk!
+Roommate: (Enter stage right, Sarcastically Mutter) Yeah he's the jerk here.
+Roommate: (walk to delivery guy) I'm sorry, sometimes he gets really rude with people.
+Delivery: At least one of you has some decency.
+Influencer: Yall love NICKNAME right? Well come see them on the TITLE tour too.
+Influencer: It's gonna be lit, right NICKNAME?
+Delivery: (looks at money) Thank you, goodbye.
+Roommate: (shut door) Not right now, dude. You're taking this vlogger thing too far. I hate embarrassing myself like this.
+Influencer: Pshhh, whatever! Anyway, USERNAME nation, That's it for today's SICK VLOG! Remember to like, comment, and subscribe!
+Influencer: Visit SPONSOR for 20% off on whatever the heck they sell.
+Influencer: Buy my THEME CLOTHING! Come and see me on the TITLE Tour!
+Influencer: If this video gets enough likes I'll make my own FOOD topped with TOPPING and actually eat it.
+Influencer: Yo NICKNAME, tell the USERNAMEers what's good before I end the video.
+Roommate: (sigh) You want to know what's good? Me getting some new friends, that's what's good.
+
+======
+
+INFORMATION ===============================
+ID: 1840
+TITLE: Watch Out!
+AUTHOR: hrtaubrey
+VERIFIED: True
+TAGS: Infomercial
+SET: City
+DATE: 12/10/25
+CHARACTERS ================================
+POLICE OFFICER: Officer State:Center Stage
+SUGGESTIONS =============================
+NAME:City Name:Kansas City,San Diego,Philadelphia
+TEAM:official title of a heroic squad/group:Police Officers,the avengers,vrchat moderation team
+TITLE:Suspect’s Name:Bob,Jimmy,Grant,Taylor
+HISTORY:Suspect’s History:Stepped on dog poop,Murder,Washed Hands
+AGE:Age:36,67,80
+NUMBER:1-100:67,28,205
+PHONE:Phone Number:911,666,8103
+SCRIPT ==========================================
+courtroom music
+POLICE OFFICER: Attention all citizens of NAME!
+POLICE OFFICER: This is Officer State speaking. I have an urgent announcement for everyone.
+POLICE OFFICER: There is currently a suspect on the loose near your location. Please stay calm and remain indoors while me and TEAM works to handle the situation.
+POLICE OFFICER: The suspect’s name is TITLE.
+POLICE OFFICER: TITLE has a criminal history of HISTORY, and has been involved in several serious incidents throughout NAME.
+POLICE OFFICER:  They were also found in Los Angeles committed many major crimes.
+POLICE OFFICER: The suspect is AGE years old. They may seem friendly at first but do not attempt to confront or approach them.
+POLICE OFFICER: Our officers are already in pursuit, and we are confident that TEAM will bring this case to a close soon.
+POLICE OFFICER: In the meantime, we advise all residents to shut and (pulls a lock out) “lock” all windows and doors!
+POLICE OFFICER: Get it, lock?
+laughter
+POLICE OFFICER: TITLE has over NUMBER reported cases connected to them, and this current case is our top priority.
+POLICE OFFICER: So, we need your help to catch him!
+POLICE OFFICER: If you see any suspicious activity in the area by TITLE, then immediately call PHONE.
+POLICE OFFICER: Thank you for your cooperation, and remember — your safety is our mission.
+POLICE OFFICER: Officer State, signing off — and remember, crime doesn’t pay… but my overtime sure does!
+
+======
+
+INFORMATION ===============================
+ID: 1467
+TITLE: Pepsi or Coke
+AUTHOR: Rotem_N
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 17/02/25
+CHARACTERS ================================
+OLIVIA: Olivia:Entrance Stage Right
+RON: Ron:Entrance Stage Right
+WAITER: An undrpaid waiter:Entrance Stage Left
+CHEF: The chef:Entrance Stage Left
+SUGGESTIONS =============================
+PASTA:Some type of food:steak,lobster,humburger
+PLACE:Some kind of place:kfc,home,hell,australia
+RESTAURANT:Some kind of restaurant:burger king,chick fill a,mcdonalds
+NUMBER:Any number:1,45,67
+ACCENT:Some kind of accent:Italian,Russian,Spanish
+COMPLIMENT :A nice compliment to someone:Cute,lovely,precious
+NAME:A name of a person:John,eli,anna
+SCRIPT ==========================================
+70S MUSIC
+OLIVIA:(While walking into the restaurant) Wow im so glad we went to this RESTAURANT for our NUMBER anniversary!
+RON:(Walks into the RESTAURANT) Me too!
+WAITER: Hi! I'll be your waiter today and that's your seat
+OLIVIA: (Sit down) Thank you kind sir
+RON: (Sit down) Thank you
+happy music 1
+WAITER: So what would you like to order?
+OLIVIA: I would like the PASTA, with Coca Cola please
+WAITER: Excellent choice and for you sir?
+RON: I would also like the PASTA, also with Coca Cola
+WAITER: Great! anything else?
+OLIVIA: I'm good
+RON:Me too
+WAITER: Okay, your food will be ready soon (exit stage)
+jazz music 2
+RON: So olivia how was your day?
+OLIVIA: Pretty good, what about you?
+RON: I'm great, still recovering from... (dramatic pause) the incident... (look dramaticly at the crowd) .
+RON: oh! look! heres comes our food!
+WAITER: (Come out with the food,Place the food and pepsi on the table) Okay guys i've brought you your food
+OLIVIA: (Point at the table) What is that ?
+OLIVIA: W-What did you put on our table ?
+WAITER: I've brought you your food and pepsi?
+vine boom
+OLIVIA: Pepsi!?
+vine boom
+WAITER: Yes?
+OLIVIA: But I-I ordered coca cola
+WAITER: Well unfortunately we dont have coca cola
+tada
+MUSIC STOPS
+OLIVIA: (Mad) W-W-W-Why dont you have coca cola?
+WAITER: (Annoyed) We don't have it in our menu
+RON: Olivia its just pepsi, calm down
+explosion
+OLIVIA: No, I wont calm down!
+lacrimosa music
+OLIVIA: (Emotional) How could you lie to me like that, after all we've been through! a waiter should not lie to his dear customers
+OLIVIA: Especially on topics like this!
+OLIVIA: (Angry) How could you do me like that ron!, you know I hate pepsi and you took me here anyway?!
+RON: Olivia calm down its just pepsi!
+RON: I will buy you coca cola when we get home okay?
+WAITER: (Exhausted) Yes lady he will buy you coke later, gosh shes so annoying
+raygun shot
+MUSIC STOPS
+OLIVIA: What did you just say?
+WAITER: Oops did I say it out loud?
+OLIVIA: Yes you did!
+WAITER: (Angry) Well look lady we only have pepsi, so deal with it!
+pokemon battle start
+OLIVIA: (Starts yelling) Who do you think you are?! talking to me like that??
+RON: Ugh why haven't we gone to PLACE
+WAITER: (Angry) Stop yelling at me!, I don't get paid enough for this
+OLIVIA: Well, I dont care! (Start fighting the waiter)
+WAITER: (Fights back) Stop you crazy women
+fistfight
+RON: G-Guys stop
+OLIVIA: Be quiet ron!
+RON: O-Okay... (Start quietly sobbing)
+CHEF: (Walks into stage, in an ACCENT accent) Whats-a going on?!
+CHEF: Waiter stop fighting that lady!
+church bell
+MUSIC STOPS
+sad chug jug music
+WAITER: Fine! (stops fighting)
+CHEF: We don't fight with our COMPLIMENT customers!
+WAITER: (Doesn't care) Yeah yeah
+CHEF: Well dear couple how can I help you two? and i'm very sorry about our waiter, he's a bit crazy like that crazy person you know NAME
+WAITER: Hey! don't talk to me like this, chef with a ACCENT accent!
+CHEF: You just hit my customer!, be quiet
+WAITER: Okay thats it! I quit! and im never coming back! (scream while exit stage) im free!!!
+yankee doodle music
+MUSIC STOPS
+happy music 1
+CHEF: I'm terribly sorry, would you like anything? , free no charge!
+OLIVIA: I would like coca cola
+CHEF: Unfortunately we dont have coca cola we only have pepsi
+OLIVIA: What did you just say ?
+RON: Not again, we should have went to PLACE.
+
+======
+
+INFORMATION ===============================
+ID: 1877
+TITLE: Plot Twist
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: 
+SET: Dining Room
+DATE: 21/10/25
+CHARACTERS ================================
+VIEW: Telenovela Viewer:Center Stage
+WOM: Maria:Entrance Stage Right
+MAN: Antonio:Backstage
+SUGGESTIONS =============================
+SOAP:the name of a soap opera or telenovela:General Hospital,Amor Real,Saving Private Ryan
+TRESS:an actress:Natalie Portman,Penélope Cruz,Halle Berry
+REL:an older relative:aunt,uncle,abuela
+COUN:a country or fictional location:Chile,Peru,Gensokyo
+DIS:a disease:cancer,cryptosporidiosis,ligma
+NUM1:any number:one thousand,-4,68.999999999999999999999999999
+NAME:name of someone in the audience:Jar,Jinx Izayoi,Stella
+CART:an evil-sounding organization:cartel,Shinra,Tesla
+ORGAN:an organ in your body:kidney,prostate,uterus
+ADJ:an adjective to describe a person:stupid,sexy,flanderizing
+NUM2:any number:one thousand,-4,68.999999999999999999999999999
+DOG:an animal you'd keep as a pet:dog,cat,homunculus
+SCRIPT ==========================================
+VIEW: My head hurts... where am I? Last thing I remember, I was on my couch watching SOAP.
+VIEW: Honestly, it looks like I'm in a scene from SOAP. But they'd never hire me as an actor... not since The Incident.
+telenovela music 3
+WOM: (rush through the door) Pablo!
+VIEW: Oh god, I'm in a scene from SOAP.
+WOM: Pablo, I found you! Antonio doesn't know! We can leave town together before the sun sets!
+VIEW: Listen, TRESS, huge fan of your work as Maria, but my name isn't Pablo. I'm not supposed to be here, I'm-
+WOM: Who is this "TRESS"? I thought you only had eyes for me?
+VIEW: You're not gonna listen or act even remotely rational, are you?
+WOM: Pablo, I love you. Run away with me, and leave your old life behind.
+WOM: But before we go, there's something I have to tell you before it eats away at my very soul.
+VIEW: Maria, I'm not caught up with the current season, please don't tell me anything, honestly.
+WOM: Pablo... I'm...
+WOM: I'm actually Maria's long lost twin sister, Mariana.
+telenovela sting 1
+VIEW: Please stop. I don't belong here, my DOG probably misses me by now.
+WOM: It's true! The real Maria is in a coma, and I've been orchestrating this love triangle with you and Antonio for years now!
+WOM: My evil REL blackmailed me into not telling you so she could claim tax benefits on Maria, but I'm done being her pawn.
+WOM: Also, Maria and I are from COUN, not Spain, so half of Season NUM1 doesn't make sense anymore and needs a recton.
+WOM: Also also, I'm dying from super DIS, and by dying I literally mean right now. (fall over dead)
+Teleport WOM to Backstage
+VIEW: Wow, spoilers much?
+WOM: (run back through the door) But I'm back from the dead! But CART's mobsters are at the window, ready to take revenge on me!
+gunshot
+Teleport WOM to Backstage
+WOM: (run back through the door) It's me, the real Maria! I finally woke up from my coma, and I still love you, Pablo!
+VIEW: SOAP's plot took a turn for the worse, I fear.
+knocking on door
+Teleport MAN to Entrance Stage Left
+WOM: Oh no! It's Antonio! He found out about us!
+VIEW: Wait, if you're the real Maria, how do you know about Mariana's love affair?
+WOM: Amnesia.
+VIEW: This does not answer my question whatsoever.
+telenovela music 1
+MAN: (enter) Maria! You're awake! And you're with Pablo? Why do you break my heart, mi amor?
+VIEW: Shouldn't I be mad at you? Didn't you kill my character's dad?
+MAN: No! I AM your father!
+VIEW: (dramatic) What?!
+Meanwhile WOM: (dramatic) What?!
+MAN: Wait, no, uhh... I'm pregnant, and you're the father!
+VIEW: (more dramatic) What?!
+Meanwhile WOM: (more dramatic) What?!
+MAN: Uhh, I mean... y-you're pregnant, and I'm the baby!
+VIEW: (even more dramatic) What?!
+Meanwhile WOM: (even more dramatic) What?!
+WOM: Get away from me, Antonio! I'm in love with Pablo now! Nothing you say can change my mind!
+MAN: Maria, do not fall for Pablo's lies! You and I were supposed to get married, we were destined to be together!
+WOM: (angry) We were, until you cheated on me with NAME! How could you do such a thing?!
+MAN: No! You don't understand! That was my evil twin, Antoine, who-
+VIEW: We did that trope already.
+MAN: Oh! Uhh, I have super DIS, so I-
+VIEW: We did that one too.
+MAN: Amnesia?
+VIEW: Come on, dude.
+MAN: (think real hard) I was... kidnapped... by CART... who, uhh...
+VIEW: Go on.
+MAN: Tortured me for NUM2 days, surgically removed my ORGAN, and... made me make out with NAME?
+VIEW: ...SOAP is ruined for me.
+WOM: Oh, Antonio! I forgive you!
+telenovela sting 1
+VIEW: Yup. This is the worst television program of all time.
+WOM: Antonio, the wedding is back on! Pablo, I'm sorry, but our bond can never be.
+VIEW: That's fine. I shipped you two since day one.
+WOM: Let's go get hitched, Antonio! And make sure my evil REL doesn't get an invitation! (exit stage left)
+MAN: I'll catch up with you in a second, Maria. I have to talk to our mutual friend Pablo here for a minute.
+VIEW: Uhh, you're not mad about the whole love triangle situation, right?
+MAN: (serious) I know what you are.
+Music Stops
+VIEW: ADJ?
+MAN: No. A viewer who got sucked into the show. I know because the same thing happened to me.
+telenovela sting 1
+VIEW: Wait, are you serious? How long have you been pretending to be Antonio?
+MAN: Since the prequel series. I think I've done a great job boosting the ratings.
+telenovela music 2
+MAN: But if you don't want to be Pablo any longer, I can show you the way back home.
+VIEW: I... I'm speechless. You're an amazing actor, and a good person. Thank you.
+MAN: De nada. Let's get you out of here, vamanos. (walk to nearest door)
+MAN: Oh, mi amigo. There's one more thing I need to tell you before you leave.
+VIEW: What is it?
+MAN: I lied to you. You've been in a coma for NUM1 years. Please wake up, Maria, we miss you.
+Music Stops
+Teleport MAN to Backstage
+VIEW: (deadpan) What?
+Teleport VIEW to Backstage
+telenovela sting 2
+
+======
+
+INFORMATION ===============================
+ID: 978
+TITLE: Lawn Mowing
+AUTHOR: Ahmadsyar
+VERIFIED: True
+TAGS: Skit
+SET: Backyard
+DATE: 16/07/24
+CHARACTERS ================================
+GAIA: Mother nature:Backstage
+NEIGHBOR: Snobby neighbor:Backstage
+GORDON: A normal man:Stage Right
+SUGGESTIONS =============================
+DEBRIS:Something you don't want in your yard:Grass,leaves,dirt
+TASTE:A way to describe food:Sweet like ice cream,Savory like taco,Juicy like durian
+TIME1:Any number:5,3,7
+MELATAH:Something you might say when scared:Son of a biscuit,Monday to Friday,Oh my lard
+LAWNMOWER:A complex machine:Lawn mower,chainsaw,Zamboni
+SCYTHE:Something that can cut:Scythe,trimmer,machete
+PLANT:Something you can grow:Yggdrasil,Apple,Durian
+SCRIPT ==========================================
+BLUEGRASS MUSIC
+GORDON: Ah yes, nothing beats the good old-fashioned SCYTHE.
+GORDON: A simple and efficient tool to cut this stubborn grass (Cutting grass peacefully).
+NEIGHBOR: (Enter stage left). Hey! watch out for the DEBRIS!
+CHAINSAW
+GORDON: Ow! MELATAH Hey! (Wipes face)
+SILLY MUSIC 2
+NEIGHBOR: Oh, howdy neighbor! Sorry about that. I can hardly hear you over my trusty LAWNMOWER.
+GORDON: (sighing) Hey neighbor, messing up with the ecosystem as usual?
+NEIGHBOR: Come on now, we live in the 21st century. You need more than a SCYTHE to beautify the landscape. It’s also time saving you know.
+GORDON: Bah! You and your LAWNMOWER is overly complicated for such a simple task. It’s overkill.
+NEIGHBOR: It’s not so bad, you have to accept that the future is here.
+GORDON: Tools are supposed to help us with chores but not so much that we depend on it.
+GORDON: Grrrrr!!!
+Meanwhile NEIGHBOR: Grrrrr!!!
+THUNDER
+Teleport GAIA to CENTER STAGE
+EPIC FANTASY MUSIC 2
+GAIA: Enough!
+GORDON: Aaah MELATAH!
+NEIGHBOR: Whoa…!
+GAIA: I am Gaia, the mythical manifestation of the order of nature.
+GORDON: Are you like a God or something?
+GAIA: That is not important right now. What’s important is that you two should stop fighting.
+NEIGHBOR: Great! Now you will show to him that things will get done faster with LAWNMOWER.
+GORDON: No, she’s siding with me. A SCYTHE will not ruin nature.
+GAIA: Silence!!!
+THUNDER
+GAIA: Here, take these PLANT seed. You two will plant this in your backyard and nurture it.
+GAIA: In TIME1 years, I will be back and evaluate the results
+Teleport GAIA to BACKSTAGE
+Music Stops
+GORDON: That was weird.
+NEIGHBOR: Well. See you in TIME1 years.
+TYPEWRITER: After TIME1 years.
+NEIGHBOR: Well, well, well, it looks like your PLANT tree has grown big. Not bad.
+GORDON: Yours too. Hmm. Gaia should be here any moment now.
+NEIGHBOR: Any second now….
+GORDON: Yup, still waiting….
+NEIGHBOR: Say, about the fruit on those PLANT tree, did Gaia ever said about forbidding us to try those?
+GORDON: I didn’t recall anything.
+NEIGHBOR: (Grabs the fruit and eat it)
+GORDON: Hey! What are you doing?
+NEIGHBOR: Wow! This is the best thing I’ve ever tasted.
+NEIGHBOR: It tastes TASTE, just like PLANT in my grandpa’s orchard.
+GORDON: Let me try some. (eats the fruit)
+GORDON: You’re right! It is TASTE!
+NEIGHBOR: Oh, I have an idea. What if we sell these? We’ll get rich.
+GORDON: Well Gaia never said anything about selling them.
+PEACEFUL FANTASY MUSIC
+NEIGHBOR: You know, I can see it now. It’s not important if SCYTHE or LAWNMOWER is better.
+NEIGHBOR: What’s important is that we made the effort to achieve the result.
+NEIGHBOR: Friends?
+GORDON: Friends.
+TYPEWRITER: Gaia never appears and they got rich selling PLANT fruit.
+
+======
+
+INFORMATION ===============================
+ID: 1873
+TITLE: The Burden of Technology
+AUTHOR: Ahmadsyar
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 20/10/25
+CHARACTERS ================================
+RON: Ron, A traditional guy:Couch
+JEREMY: Jeremy, The Repair Guy:Backstage
+SUGGESTIONS =============================
+SUBS1:A name for a subscription service:Myflix,Amazong,Pacify
+SUBS2:Another name for a subscription service:Home Pro,App-Liance,Gerobot
+SNACK1:A type of snack:Cheetos,Pringles,Super Ring
+TVSHOW1:A name for a TV show:How I met your lawyer,The Criss Cross Theorem,Barking Bard,Best Call Raul
+BRAND1:A brand for electronic home appliance:Same Song,Hibachi,Banasonic
+COMPONENT1:A name for an electronic spare part:Solenoid,Coil,Compressor,Condenser,Circuit Board
+SCRIPT ==========================================
+jazz music 1
+RON: Ah yes, I finally have some free time after work for some TV.
+RON: I wonder what’s going on in the next episode of TVSHOW1.
+RON: Hmm? Is this TV broken? Why can’t I watch my favorite TV show?
+RON: What? I have to create a SUBS1 account to watch TV now? What happened to the usual cable TV?
+RON: Back in my days, we can watch TVSHOW1 without needing a SUBS1 account.
+RON: Sigh, I don’t want to watch TV anymore.
+RON: (go to the fridge) Now I’m hungry, are there any SNACK1 in the fridge?
+RON: Huh? What now? My BRAND1 fridge is broken!? Can this day get any worse?
+RON: (whips out phone and dialing) Hello? Please tell me the repairman can still be contacted by phone call.
+cellphone vibrate
+Teleport JEREMY to ENTRANCE STAGE RIGHT
+JEREMY: Hello this is Jeremy the handyman and yes you are in fact, speaking to a person, not AI.
+RON: Oh, thank goodness. Can you come and fix my fridge? My address is at-
+JEREMY: Of course, I’ll be right there.
+doorbell
+RON: (Opens door) Whoa that was quick. I didn’t even tell you where I live.
+RON: How do you know where I live?
+JEREMY: You’re the only one who contacted me by phone call.
+JEREMY: and your house is the only one without the BRAND1 smart gate thingy.
+JEREMY: also, we know your location just by that phone call.
+RON: Alright, whatever. Can you please fix my BRAND1 fridge?
+JEREMY: Not yet. First please scan this QR code first.
+RON: Let me guess, I need to create a SUBS1 account first?
+JEREMY: No that’s for watching TV shows like TVSHOW1.
+JEREMY: This is a different account called SUBS2 for your home appliances needs
+RON: (big sigh) Okay fine let’s get this over with.
+gameshow ding
+RON: There, it’s done. Can we please proceed with fixing my BRAND1 fridge?
+JEREMY: Alright, let’s see how bad it is.
+JEREMY: Hmm, yes. I see.
+RON: So how is it?
+JEREMY: Well, there’s your problem. The COMPONENT1 is fried. You need to replace it.
+RON: Okay, do you have the spare part ready?
+JEREMY: No, but it’s ok. I can just order it using the drone delivery.
+RON: How long does it take?
+doorbell
+JEREMY: Ah there it is.
+JEREMY: (Take it and go to the fridge)
+JEREMY: Okay I’ll just have to put this thing here, pull this one out, and voila! 
+magic sound
+JEREMY: It’s fixed.
+RON: Oh, thank you. You’re a life saver.
+JEREMY: No fret. I’m just doing my job.
+RON: So how much do I owe you?
+JEREMY: Don’t worry. It’s automatically charged into your SUBS2 account.
+RON: Sigh, sure why not.
+JEREMY: So do you mind if I stay here a little bit and charge my phone?
+RON: What? Yes, as a matter of fact, I do mind. 
+RON: And no, you cannot charge your phone here. Can you please leave?
+JEREMY: I can’t.
+RON: Why not?
+JEREMY: Because I can’t start my BRAND1 scooter.
+RON: Aren’t you supposed to be the repairman? Go fix it.
+JEREMY: It’s not broken. I cannot start my BRAND1 scooter without my BRAND1 phone.
+JEREMY: because my phone is out of battery.
+RON: Sigh. Okay fine. You can stay only till your phone is charged enough to start your BRAND1 scooter.
+JEREMY: Thanks. Do you have any SNACK1? I’m hungry.
+RON: No.
+laughter
+
+======
+
+INFORMATION ===============================
+ID: 1861
+TITLE: The Great T-Rex
+AUTHOR: kyle_mc.
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+DATE: 15/10/25
+CHARACTERS ================================
+GUIDE: Ethan:Narrator Podium
+RICHGUY: Mr Haven:Entrance Stage Left
+DINOSAUR: THE GREAT REX:Backstage
+CHILD: Billy bob:Stage Left
+SUGGESTIONS =============================
+REASON 1:A reason of an action :Bored,hopped on a truck and got here magically,fun i guess
+TREXNAME:A name for a beast :TREX,the great one,john
+DRUG:What’s something that effects a person:Coffee,tea,booze
+EXCUSE :Location:Home,school,my mates house
+REASON2:A reason for something to be able to talk:Magic,I’m an alien,my mom had a c-section,you can learn how to talk for free on youtube
+WEAPON :Name a weapon or weapon type:Gun,bow,sword
+DIAMOND:Something really hard or strong:diamond,carbon nanotube,granite,algebra
+VEGETABLES:something/someone you find disgusting:homework,vegetables,dog water
+SCRIPT ==========================================
+yankee doodle music 
+GUIDE: Welcome to the Late Cretaceous period, I am your guide, Ethan and I will be taking you on an adventure. (Walks onto the stage)
+CHILD: Uuuum, Mr Guide. person, why am I here?
+GUIDE: Because you were REASON 1 obviously 
+Music stops 
+Guitar music 1
+RICHGUY:  (confused) Wait what? Why is a child here?
+CHILD: Where are we?
+GUIDE: Not where my dear child, when are we.
+CHILD: What are you on? (Pointing at the GUIDE) 
+GUIDE: DRUG, isn't it obvious??
+RICHGUY: Ok ok (confused) we have a dinosaur to hunt. 
+GUIDE: Yes yes right away, anyway... where's your guns? (Looks around at the other people there) 
+RICHGUY: Yeah... about that I left my gun at EXCUSE ..
+GUIDE: Really? At EXCUSE 
+RICHGUY: Yes really... anyway it's not like we're in grave danger... 
+Teleport DINOSAUR to Stage right
+DINOSAUR: (lets out a giant roar) Roooaaarrrrr!
+GUIDE: (panicked and backing up against a tree) OH GOD I Didn't think this was real...
+RICHGUY: OH GOD it's a TREXNAME... 
+CHILD: I want my daddy (crying) 
+DINOSAUR: (talking to self) These Damm humans here again taking my food
+CHILD: YOU CAN TALk??! (Pointing directly at the trex) 
+GUIDE: Don't be ridiculous it can't talk, it's a monster for god sake 
+CHILD: it can talk though.. (pouting) why don't you believe me? 
+RICHGUY: kid are you also on DRUG?  
+DINOSAUR: Kid.. (kneels down to the kid) your the only one that can hear me..
+CHILD: but why... why can you talk? 
+DINOSAUR: REASON2 (stands up quickly) 
+RICHGUY: don't worry everyone I have found a WEAPON ! (Aims the weapon at the Dinosaur) 
+GUIDE: Wait No! (Screams for him to stop)
+RICHGUY: TOO late! (Fires gun)
+gunshot
+CHILD: Wait No! The bullet just bounced right off its incredibly hard DIAMOND-like skin!
+GUIDE: What have you done! (Screaming at the rich guy) 
+GUIDE: Get back to the Time Machine! 
+CHILD: Quick! To the time machine!(runs off stage right) 
+GUIDE: RUN!! (runs off stage right) 
+alien teleport
+DINOSAUR: What have you done...
+RICHGUY: Wait what.. you can talk? 
+RICHGUY: Please no! (Yelling in fear) 
+DINOSAUR: (consuming the guy with a giant bite) Monch... mmm....
+Teleport RICHGUY to backstage 
+DINOSAUR: Eww... Taste like VEGETABLES.
 
 ======
 
