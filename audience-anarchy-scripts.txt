@@ -57206,3 +57206,103 @@ DINOSAUR: Eww... Taste like VEGETABLES.
 
 ======
 
+INFORMATION ===============================
+ID: 1856
+TITLE: The Vlogger Life
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 14/10/25
+CHARACTERS ================================
+INFLUENCER: Famous Internet Star:Entrance Stage Right
+ROOMMATE: Internet Stars Roommate:Center Stage
+DELIVERY: A Delivery Person:Backstage
+SUGGESTIONS =============================
+WEBSITE:enter the name of a website:TouYoob,ClickClock,Tumbler
+USERNAME:a username someone would have online:SonicDash,John Famus,Parkimlier
+NICKNAME:A silly or playful nickname one would have for a friend:Dweeb,Hobknocker,Friend... With Benefits
+SPONSOR:A company that would sponsor a video:Blue Apron,Inaudible,Worse Hurt
+PRODUCT:Any functional object someone can buy:Towel Rack,Snow Globe,Knife
+TOPPING:A food topping:Pineapple,Cinnamon,Caramel Glaze
+CELEBRITY:name any celebrity :George Clooney,Taylor Swift,Homer Simpson
+CLOTHING:Any clothing item:Hoodie,Shoes,Fishnet Thigh Highs
+THEME:A theme for an event:Medieval,1920's,Vaporwave
+TITLE:Any object:Waffle Iron,Daddy's Money,Padlock
+FOOD:Name a type of food:Chicken,Haggis,Soup
+SCRIPT ==========================================
+jazz music 2
+Roommate: Ahh, what a lovely day. It's nice and quiet, no distractions.
+Roommate: I get to live in this big house that my friend bought with their WEBSITE money.
+Roommate: Life is pretty good... hopefully I can just relax, maybe play some piano.
+badass music 1
+Influencer: Yo! Whazzup WEBSITE!? It's ya boi USERNAME!
+Influencer: Yall know what it is! We out here puttin' the flu in Influencer! Droppin' all this siok content!
+Roommate: (mutter) Oh no, not this again.
+Influencer: We're doing a house tour today, that's right my USERNAMEers. You're gonna see how a king lives!
+Influencer: Let's see what the NICKNAME is up to first (walk to roommate) Wazzup NICKNAME!?
+Roommate: (sigh) Can we not do this today?
+Influencer: (say through gritted teeth) Just play along for the video or I'm going to kick you out!
+Roommate: Yoooo! What's good USERNAME!? Who are we gettin that cash from today!?
+Influencer: Well I'm glad you asked, NICKNAME! This video is brought to you by SPONSOR!
+Influencer: Click the link below to get 20% off your next SPONSOR purchase! I love SPONSOR! I use their stuff all the time!
+Influencer: Yo, NICKNAME, tell the USERNAMEers why they should use SPONSOR.
+Roommate: (take a deep breath) I mean SPONSOR is just really cool. I love their PRODUCT... they sell PRODUCTs right?
+Influencer: YO! If they don't they totally should. Hey USERNAMEers, get on that. Get SPONSOR to start selling PRODUCTs!
+Influencer: We should do a prank, hey NICKNAME, call up a FOOD delivery guy for me!
+Roommate: (Groan and walk to the phone. Speak in monotone voice) This is gonna be so epic, dude.
+Influencer: While NICKNAME is doing that, let's start on this house tour!
+Influencer: Look at my paino guys! It's really OUR paino. You helped me get it by watching my videos getting me that big WEBSITE money.
+Influencer: Look at this fireplace! What am I, a grandma or a supervillan!? Comment below and let me know!
+Roommate: They asked if you want anything with the FOOD.
+Influencer: Okay guys, here's the epic prank. Tell them I want TOPPING as a topping.
+Roommate: Come on, they won't have that!
+Influencer: That's why it's funny! DO IT!
+Roommate: Yes I would like to have that topped with TOPPING... Oh... Uhh okay, bye.
+Roommate: They said they're on their way.
+Influencer: That's so stupid! Yo USERNAMEers! Watch to the end to see the FOOD delivery guy get epically pranked!
+Roommate: I'm going into the other room, I don't want to be a part of this. (exit stage right)
+Influencer: Look at these couches guys! I actually got them gifted to me by CELEBRITY.
+Influencer: Remember guys! You gotta rise and grind everyday to make it big! Do that and you can meet CELEBRITY too!
+doorbell
+Delivery: Hello? Someone here order a FOOD with TOPPING topping?
+Influencer: (walk to door and open) Took you long enough.
+Delivery: I have the FOOD you ordered. I don't know what sicko puts TOPPING on a FOOD but here.
+Influencer: Hmmm I don't know if I am feeling hungry anymore. It took you a pretty long time to get here.
+Delivery: Look kid, I'm not in the mood for jokes. Do you want this thing or not? I got actual paying customers to serve.
+Influencer: How about this. I'll buy the FOOD if you Buy my new CLOTHING!
+Delivery: Your new what!?
+Influencer: Available now on my USERNAME store! Get the sick new exclusive THEME CLOTHING! And look better than this lame dude!
+Delivery: Wait a minute are you really USERNAME?
+Influencer: Oh are you a USERNAMEer? Maybe you're not that lame after all.
+Delivery: My kid is obsessed with your videos. Can you try to be a better person? He's started calling me NICKNAME.
+Delivery: He said he learned it from watching you. You always call your roommate NICKNAME.
+Delivery: And I know he's gonna want the new THEME CLOTHINGs you're trying to sell now too. Do you think we're made of money?
+Delivery: I am literally just a FOOD delivery guy!
+Influencer: Whatever. You're just jealous that your son has role models like me to look up to.
+Delivery: You're a horrible role model! Take this FOOD and pay me before I punch you in the face.
+Influencer: Nah, I don't want it! It was just a prank bro! HA!
+Influencer: (turn to audience) But you want to know what isn't a prank, dear USERNAMEers? The tour I'm going on!
+Influencer: Come and see me on my new TITLE tour starting next week! Imma be hittin' a bunch of towns!
+Influencer: Why is it called the TITLE tour, you ask? Well come and see me to find out!
+Influencer: I'll also be selling special TITLE tour themed CLOTHING too! Come and get the sickest merch around!
+Delivery: Really? You're going on tour? What do you even do? What is this TITLE tour about?
+Influencer: Get a ticket and find out. Your son knows what I do, so do all the other USERNAMEers. You can't get it.
+Delivery: I'm not doing that, I don't have enough money. And I'm also not leaving until you pay for this FOOD!
+Influencer: (groans) NICKNAME get out here and pay for the FOOD! This delivery guy is a jerk!
+Roommate: (Enter stage right, Sarcastically Mutter) Yeah he's the jerk here.
+Roommate: (walk to delivery guy) I'm sorry, sometimes he gets really rude with people.
+Delivery: At least one of you has some decency.
+Influencer: Yall love NICKNAME right? Well come see them on the TITLE tour too.
+Influencer: It's gonna be lit, right NICKNAME?
+Delivery: (looks at money) Thank you, goodbye.
+Roommate: (shut door) Not right now, dude. You're taking this vlogger thing too far. I hate embarrassing myself like this.
+Influencer: Pshhh, whatever! Anyway, USERNAME nation, that's it for today's sick vlog! Remember to like, comment, and subscribe!
+Influencer: Visit SPONSOR for 20% off on whatever the heck they sell.
+Influencer: Buy my THEME CLOTHING! Come and see me on the TITLE Tour!
+Influencer: If this video gets enough likes I'll make my own FOOD topped with TOPPING and actually eat it.
+Influencer: Yo NICKNAME, tell the USERNAMEers what's good before I end the video.
+Roommate: (sigh) You want to know what's good? Me getting some new friends, that's what's good.
+
+======
+
