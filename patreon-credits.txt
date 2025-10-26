@@ -1981,6 +1981,7 @@ Judge Master Black Rabbit
 Neon_Fennix
 Pangus_
 #TIER=1
+minersblog
 AndrHydra
 Krusnik760
 reatuned
