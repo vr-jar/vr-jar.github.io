@@ -56861,120 +56861,6 @@ RON: Not again, we should have went to PLACE.
 ======
 
 INFORMATION ===============================
-ID: 1877
-TITLE: Plot Twist
-AUTHOR: Jinx Izayoi
-VERIFIED: True
-TAGS: 
-SET: Dining Room
-DATE: 21/10/25
-CHARACTERS ================================
-VIEW: Telenovela Viewer:Center Stage
-WOM: Maria:Entrance Stage Right
-MAN: Antonio:Backstage
-SUGGESTIONS =============================
-SOAP:the name of a soap opera or telenovela:General Hospital,Amor Real,Saving Private Ryan
-TRESS:an actress:Natalie Portman,Penélope Cruz,Halle Berry
-REL:an older relative:aunt,uncle,abuela
-COUN:a country or fictional location:Chile,Peru,Gensokyo
-DIS:a disease:cancer,cryptosporidiosis,ligma
-NUM1:any number:one thousand,-4,68.999999999999999999999999999
-NAME:name of someone in the audience:Jar,Jinx Izayoi,Stella
-CART:an evil-sounding organization:cartel,Shinra,Tesla
-ORGAN:an organ in your body:kidney,prostate,uterus
-ADJ:an adjective to describe a person:stupid,sexy,flanderizing
-NUM2:any number:one thousand,-4,68.999999999999999999999999999
-DOG:an animal you'd keep as a pet:dog,cat,homunculus
-SCRIPT ==========================================
-VIEW: My head hurts... where am I? Last thing I remember, I was on my couch watching SOAP.
-VIEW: Honestly, it looks like I'm in a scene from SOAP. But they'd never hire me as an actor... not since The Incident.
-telenovela music 3
-WOM: (rush through the door) Pablo!
-VIEW: Oh god, I'm in a scene from SOAP.
-WOM: Pablo, I found you! Antonio doesn't know! We can leave town together before the sun sets!
-VIEW: Listen, TRESS, huge fan of your work as Maria, but my name isn't Pablo. I'm not supposed to be here, I'm-
-WOM: Who is this "TRESS"? I thought you only had eyes for me?
-VIEW: You're not gonna listen or act even remotely rational, are you?
-WOM: Pablo, I love you. Run away with me, and leave your old life behind.
-WOM: But before we go, there's something I have to tell you before it eats away at my very soul.
-VIEW: Maria, I'm not caught up with the current season, please don't tell me anything, honestly.
-WOM: Pablo... I'm...
-WOM: I'm actually Maria's long lost twin sister, Mariana.
-telenovela sting 1
-VIEW: Please stop. I don't belong here, my DOG probably misses me by now.
-WOM: It's true! The real Maria is in a coma, and I've been orchestrating this love triangle with you and Antonio for years now!
-WOM: My evil REL blackmailed me into not telling you so she could claim tax benefits on Maria, but I'm done being her pawn.
-WOM: Also, Maria and I are from COUN, not Spain, so half of Season NUM1 doesn't make sense anymore and needs a recton.
-WOM: Also also, I'm dying from super DIS, and by dying I literally mean right now. (fall over dead)
-Teleport WOM to Backstage
-VIEW: Wow, spoilers much?
-WOM: (run back through the door) But I'm back from the dead! But CART's mobsters are at the window, ready to take revenge on me!
-gunshot
-Teleport WOM to Backstage
-WOM: (run back through the door) It's me, the real Maria! I finally woke up from my coma, and I still love you, Pablo!
-VIEW: SOAP's plot took a turn for the worse, I fear.
-knocking on door
-Teleport MAN to Entrance Stage Left
-WOM: Oh no! It's Antonio! He found out about us!
-VIEW: Wait, if you're the real Maria, how do you know about Mariana's love affair?
-WOM: Amnesia.
-VIEW: This does not answer my question whatsoever.
-telenovela music 1
-MAN: (enter) Maria! You're awake! And you're with Pablo? Why do you break my heart, mi amor?
-VIEW: Shouldn't I be mad at you? Didn't you kill my character's dad?
-MAN: No! I AM your father!
-VIEW: (dramatic) What?!
-Meanwhile WOM: (dramatic) What?!
-MAN: Wait, no, uhh... I'm pregnant, and you're the father!
-VIEW: (more dramatic) What?!
-Meanwhile WOM: (more dramatic) What?!
-MAN: Uhh, I mean... y-you're pregnant, and I'm the baby!
-VIEW: (even more dramatic) What?!
-Meanwhile WOM: (even more dramatic) What?!
-WOM: Get away from me, Antonio! I'm in love with Pablo now! Nothing you say can change my mind!
-MAN: Maria, do not fall for Pablo's lies! You and I were supposed to get married, we were destined to be together!
-WOM: (angry) We were, until you cheated on me with NAME! How could you do such a thing?!
-MAN: No! You don't understand! That was my evil twin, Antoine, who-
-VIEW: We did that trope already.
-MAN: Oh! Uhh, I have super DIS, so I-
-VIEW: We did that one too.
-MAN: Amnesia?
-VIEW: Come on, dude.
-MAN: (think real hard) I was... kidnapped... by CART... who, uhh...
-VIEW: Go on.
-MAN: Tortured me for NUM2 days, surgically removed my ORGAN, and... made me make out with NAME?
-VIEW: ...SOAP is ruined for me.
-WOM: Oh, Antonio! I forgive you!
-telenovela sting 1
-VIEW: Yup. This is the worst television program of all time.
-WOM: Antonio, the wedding is back on! Pablo, I'm sorry, but our bond can never be.
-VIEW: That's fine. I shipped you two since day one.
-WOM: Let's go get hitched, Antonio! And make sure my evil REL doesn't get an invitation! (exit stage left)
-MAN: I'll catch up with you in a second, Maria. I have to talk to our mutual friend Pablo here for a minute.
-VIEW: Uhh, you're not mad about the whole love triangle situation, right?
-MAN: (serious) I know what you are.
-Music Stops
-VIEW: ADJ?
-MAN: No. A viewer who got sucked into the show. I know because the same thing happened to me.
-telenovela sting 1
-VIEW: Wait, are you serious? How long have you been pretending to be Antonio?
-MAN: Since the prequel series. I think I've done a great job boosting the ratings.
-telenovela music 2
-MAN: But if you don't want to be Pablo any longer, I can show you the way back home.
-VIEW: I... I'm speechless. You're an amazing actor, and a good person. Thank you.
-MAN: De nada. Let's get you out of here, vamanos. (walk to nearest door)
-MAN: Oh, mi amigo. There's one more thing I need to tell you before you leave.
-VIEW: What is it?
-MAN: I lied to you. You've been in a coma for NUM1 years. Please wake up, Maria, we miss you.
-Music Stops
-Teleport MAN to Backstage
-VIEW: (deadpan) What?
-Teleport VIEW to Backstage
-telenovela sting 2
-
-======
-
-INFORMATION ===============================
 ID: 978
 TITLE: Lawn Mowing
 AUTHOR: Ahmadsyar
@@ -57203,6 +57089,121 @@ RICHGUY: Please no! (Yelling in fear)
 DINOSAUR: (consuming the guy with a giant bite) Monch... mmm....
 Teleport RICHGUY to backstage 
 DINOSAUR: Eww... Taste like VEGETABLES.
+
+======
+
+INFORMATION ===============================
+ID: 1877
+TITLE: Plot Twist
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: 
+SET: Dining Room
+DATE: 21/10/25
+CHARACTERS ================================
+VIEW: Telenovela Viewer:Center Stage
+WOM: Maria:Entrance Stage Right
+MAN: Antonio:Backstage
+SUGGESTIONS =============================
+SOAP:the name of a soap opera or telenovela:General Hospital,Amor Real,Saving Private Ryan
+TRESS:an actress:Natalie Portman,Penélope Cruz,Halle Berry
+REL:an older relative:aunt,uncle,abuela
+COUN:a country or fictional location:Chile,Peru,Gensokyo
+DIS:a disease:cancer,cryptosporidiosis,ligma
+SHOW:a show, movie, or script you don't like:Naruto,Jurassic World,Pokémon Smash or Pass
+NAME:name of someone in the audience:Jar,Jinx Izayoi,Stella
+CART:an evil-sounding organization:cartel,Shinra,Tesla
+ORGAN:an organ in your body:kidney,prostate,uterus
+ADJ:an adjective to describe a person:stupid,sexy,flanderizing
+CRIME:a crime or verb you do to someone:murder,pillow fight with,steal from
+DOG:an animal you'd keep as a pet:dog,cat,homunculus
+SCRIPT ==========================================
+VIEW: My head hurts... where am I? Last thing I remember, I was on my couch watching SOAP.
+VIEW: Honestly, it looks like I'm in a scene from SOAP. But they'd never hire me as an actor... not since The Incident.
+telenovela music 3
+WOM: (rush through the door) Pablo!
+VIEW: Oh god, I'm in a scene from SOAP.
+WOM: Pablo, I found you! Antonio doesn't know! We can leave town together before the sun sets!
+VIEW: Listen, TRESS, huge fan of your work as Maria, but my name isn't Pablo. I'm not supposed to be here.
+WOM: Who is this "TRESS"? I thought you only had eyes for me!
+VIEW: You're not gonna listen or act even remotely rational, are you?
+WOM: Pablo, I love you. Run away with me, and leave your old life behind.
+WOM: But before we go, there's something I have to tell you before it eats away at my very soul.
+VIEW: Maria, I'm not caught up with the current season, please don't tell me anything, honestly.
+WOM: Pablo... I'm...
+WOM: I'm actually Maria's long lost twin sister, Mariana.
+telenovela sting 1
+VIEW: Please stop. I don't belong here, my DOG probably misses me by now.
+WOM: It's true! The real Maria is in a coma, and I've been orchestrating this love triangle with you and Antonio for years now!
+WOM: My evil REL blackmailed me into not telling you so she could claim tax benefits on Maria, but I'm done being her pawn.
+WOM: Also, Maria and I are from COUN, not Spain, so half of Season Four doesn't make sense anymore and needs a retcon.
+WOM: Also also, I'm dying from super DIS, and by dying I literally mean right now. (fall over dead)
+Teleport WOM to Backstage
+VIEW: Wow, spoilers much?
+WOM: (run back through the door) But I'm back from the dead! But CART's mobsters are at the window, ready to take revenge on me!
+gunshot
+Teleport WOM to Backstage
+WOM: (run back through the door) It's me, the real Maria! I finally woke up from my coma, and I still love you, Pablo!
+VIEW: SOAP's plot took a turn for the worse, I fear.
+knocking on door
+Teleport MAN to Entrance Stage Left
+WOM: Oh no! It's Antonio! He found out about us!
+VIEW: Wait, if you're the real Maria, how do you know about Mariana's love affair?
+WOM: Amnesia.
+VIEW: This does not answer my question whatsoever.
+telenovela music 1
+MAN: (enter) Maria! You're awake! And you're with Pablo? Why do you break my heart, mi amor?
+VIEW: Shouldn't I be mad at you? Didn't you CRIME my character's dad?
+MAN: No! I AM your father!
+VIEW: (dramatic) What?!
+Meanwhile WOM: (dramatic) What?!
+MAN: Wait, no, uhh... I'm pregnant, and you're the father!
+VIEW: (more dramatic) What?!
+Meanwhile WOM: (more dramatic) What?!
+MAN: Uhh, I mean... y-you're pregnant, and I'm the baby!
+VIEW: (even more dramatic) What?!
+Meanwhile WOM: (even more dramatic) What?!
+WOM: Get away from me, Antonio! I'm in love with Pablo now! Nothing you say can change my mind!
+MAN: Maria, do not fall for Pablo's lies! You and I were supposed to get married, we were destined to be together!
+WOM: (angry) We were, until you cheated on me with NAME! How could you do such a thing?!
+MAN: No! You don't understand! That was my evil twin, Antoine, who-
+VIEW: We did that trope already.
+MAN: Oh! Uhh, I have super DIS, so I-
+VIEW: We did that one too.
+MAN: Amnesia?
+VIEW: Come on, dude.
+MAN: (think real hard) I was... kidnapped... by CART... who, uhh...
+VIEW: Go on.
+MAN: Tortured me for seven days, surgically removed my ORGAN, and... made me CRIME with NAME?
+VIEW: ...SOAP is ruined for me.
+WOM: Oh, Antonio! I forgive you!
+telenovela sting 1
+VIEW: Yup. This is the worst television program of all time.
+VIEW: Well, actually, second worst. No form of entertainment media is worse than SHOW.
+WOM: Antonio, the wedding is back on! Pablo, I'm sorry, but our bond can never be.
+VIEW: That's fine. I shipped you two since day one.
+WOM: Let's go get hitched, Antonio! And make sure my evil REL doesn't get an invitation! (exit stage left)
+MAN: I'll catch up with you in a second, Maria. I have to talk to our mutual friend Pablo here for a minute.
+VIEW: Uhh, you're not mad about the whole love triangle situation, right?
+MAN: (serious) I know what you are.
+Music Stops
+VIEW: ADJ?
+MAN: No. A viewer who got sucked into the show. I know because the same thing happened to me.
+telenovela sting 1
+VIEW: Wait, are you serious? How long have you been pretending to be Antonio?
+MAN: Since the prequel series. I think I've done a great job boosting the ratings.
+telenovela music 2
+MAN: But if you don't want to be Pablo any longer, I can show you the way back home.
+VIEW: I... I'm speechless. You're an amazing actor, and a good person. Thank you.
+MAN: De nada. Let's get you out of here, vamanos. (walk to nearest door)
+MAN: Oh, mi amigo. There's one more thing I need to tell you before you leave.
+VIEW: What is it?
+MAN: I lied to you. You've been in a coma for ten years. Please wake up, Maria, we miss you.
+Music Stops
+Teleport MAN to Backstage
+VIEW: (deadpan) What?
+Teleport VIEW to Backstage
+telenovela sting 2
 
 ======
 
