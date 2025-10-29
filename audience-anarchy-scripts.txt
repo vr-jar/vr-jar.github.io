@@ -54875,99 +54875,6 @@ police car
 ======
 
 INFORMATION ===============================
-ID: 1751
-TITLE: Rules of magical girl shows
-AUTHOR: wolfy_tarot_moon
-VERIFIED: True
-TAGS: 
-SET: City
-DATE: 13/07/25
-CHARACTERS ================================
-MAGICALGIRL: The magical girl:Backstage
-VILLAIN: the villain:Stage Left
-RULEMAKER: the rule maker:Backstage
-SUGGESTIONS =============================
-TITLE:a fantasy title:Fairy,goddess,creator
-TRANSFORMATIONWORD:Something to say to start a transformation sequence:By the light I will transform,mystical form!,light of all good transform me!
-PLACE:a place:Poland,the bank,the ocean
-HURTWORD:something you would say after getting hurt:OW THAT HURTS!!,AH WHAT THE,OW DANG IT
-NONFRIENDLYAREA:A very not friendly place:Prison,Brazil,north korea
-MAGICTOOL:something to cast magic:wand,fairy dust,spell book
-TAUGHT:something you would be taught as a baby:talk,walk,eat
-DESTROYMETHOD:a way someone can destroy a place:exploding,vandalizing,polluting,
-PROTAG:a name for a protagonist:mika,vivian,rosa
-DO EVIL STUFF:something evil that you can do:do evil stuff,download torrents,download vrchat,make lemonade,kill random people
-SCRIPT ==========================================
-dark classical music
-VILLAIN: Hmm, YES everything is going according to my evil plan, PLACE will be gone by tomorrow.
-VILLAIN: So simple too, all I have to do is go to PLACE...
-VILLAIN: (Cackling) and then begin my evil plan of destruction!
-VILLAIN: It's going to be perfect, and best of all there is no one to stop me! (go to stage left)
-music stops
-(footsteps on wood)
-VILLAIN: Hmm!?, Who goes there!?!?
-teleport MAGICALGIRL to ALLEY
-superhero music
-MAGICALGIRL: Stop right there mister! You're not doing anything to PLACE on my watch!
-VILLAIN: What the, who are you?! And how do you know what I am about to do.
-MAGICALGIRL: My name is PROTAG, and I am here to stop your evil deeds!!
-MAGICALGIRL: and also you literally just decided to monologue to yourself about how you are about to destroy PLACE by... wait how are you going to do it?
-VILLAIN: (laughs) I am going to be destroying PLACE by DESTROYMETHOD it, and just what are you going to do to stop me from DESTROYMETHOD PLACE?
-MAGICALGIRL: Oh I will show you exactly what I can do to stop you.
-VILLAIN: (sarcasm) ooh I am so scared.
-MAGICALGIRL: You better be, TRANSFORMATIONWORD (begin doing poses and actions).
-music stops
-badass music 1
-VILLAIN: What the.. what are you doing??
-VILLAIN: Is this all you're gonna do?
-MAGICALGIRL: (Doing transfomation dance) ... TRANSFORMATIONWORD ...!
-VILLAIN: ...well if you're just gonna do that, then uh.... (smack the magical girl)
-music stops
-record scratch
-MAGICALGIRL: HURTWORD!
-silly music 2
-MAGICALGIRL: (shout) Ow, dude what the heck, do you know what you just did!?!?
-VILLAIN: What? Hit you while you were distracting yourself by doing all these randoms moves and not doing anything? It's your fault you did that.
-MAGICALGIRL: What you just did is against the rules!
-VILLAIN: Rules?
-MAGICALGIRL: I am a magical girl and you just broke the number 1 rule of this universe.
-VILLAIN: Wha? Magical girl? Number 1 rule?
-MAGICALGIRL: Everyone knows you're not allowed to interrupt a MAGICAL GIRL transformation, you're supposed to awkwardly watch it happen and then fight.
-VILLAIN: Well that's dumb.
-MAGICALGIRL: You're not going to like what happens next.
-VILLAIN: Wait what is happening?
-music stops
-epic fantasy music 3
-teleport RULEMAKER to CENTER STAGE
-RULEMAKER: (shout) What is going on here? I heard rule breaking!
-MAGICALGIRL: Uh hey...
-RULEMAKER: Silence you!!!!
-RULEMAKER: (look at VILLAIN) You!! You interrupted a magical girl transformation.
-VILLAIN: Again with this "interrupted a magical girl transformation" nonsense, and who are you anyway?
-MAGICALGIRL: I should probably stay out of this (exit stage left)
-RULEMAKER: I am the TITLE of magical girls, boys, whatever, I created magical people and their transformations!!!
-RULEMAKER: And you just broke the number 1 rule of this universe!!!
-VILLAIN: Well I didn't know that.
-RULEMAKER: (GASP) you should know this before you even know how to TAUGHT!!!
-VILLAIN: Is that even possible?!?!
-RULEMAKER: Yes it is and you're going to pay, where is my MAGICTOOL!!!
-VILLAIN: Wait I didn't even know this, can't you give a second chance?
-RULEMAKER: Well maybe you should have looked it up, MAGICTOOL send this Moron to NONFRIENDLYAREA!!!
-VILLAIN: (Defeated) Now I'll never be able to destroy PLACE and DO EVIL STUFF!
-VILLAIN: (Dying in agony) Aaaaah!
-music stops
-explosion
-teleport VILLAIN to BACKSTAGE
-lacrimosa music
-RULEMAKER: (look at audience) Remember never ever interrupt a magical transformation.
-teleport RULEMAKER to BACKSTAGE
-music stops
-MAGICALGIRL: (enter stage left)... It's over? phew!!!!
-MAGICALGIRL: ...So am I able to do my transformation this episode or what
-
-======
-
-INFORMATION ===============================
 ID: 1762
 TITLE: Don't open the book
 AUTHOR: Twintacle PTT
@@ -56717,6 +56624,101 @@ GOON: Ahh! I'm on fire! Help! HEEEEEEELP!
 ======
 
 INFORMATION ===============================
+ID: 1751
+TITLE: Rules of magical girl shows
+AUTHOR: wolfy_tarot_moon
+VERIFIED: True
+TAGS: 
+SET: City
+DATE: 13/07/25
+CHARACTERS ================================
+MAGICALGIRL: The magical girl:Backstage
+VILLAIN: the villain:Stage Left
+RULEMAKER: the rule maker:Backstage
+SUGGESTIONS =============================
+TITLE:a fantasy title:Fairy,goddess,creator
+TRANSFORMATIONWORD:Something to say to start a transformation sequence:By the light I will transform,mystical form!,light of all good transform me!
+PLACE:a place:Poland,the bank,the ocean
+HURTWORD:something you would say after getting hurt:OW THAT HURTS!!,AH WHAT THE,OW DANG IT
+NONFRIENDLYAREA:A very not friendly place:Prison,Medieval times,north korea
+MAGICTOOL:something to cast magic:wand,fairy dust,spell book
+TAUGHT:something you would be taught as a baby:talk,walk,eat
+DESTROYMETHOD:a way someone can destroy a place:exploding,vandalizing,polluting,
+PROTAG:a name for a protagonist:mika,vivian,rosa
+DO EVIL STUFF:something evil that you can do:do evil stuff,download torrents,download vrchat,make lemonade,kill random people
+SCRIPT ==========================================
+dark classical music
+VILLAIN: Hmm, YES everything is going according to my evil plan, PLACE will be gone by tomorrow.
+VILLAIN: So simple too, all I have to do is go to PLACE...
+VILLAIN: (Cackling) and then begin my evil plan of destruction!
+VILLAIN: It's going to be perfect, and best of all there is no one to stop me! (go to stage left)
+music stops
+(footsteps on wood)
+VILLAIN: Hmm!?, Who goes there!?!?
+teleport MAGICALGIRL to stage left
+superhero music
+MAGICALGIRL: Stop right there mister! You're not doing anything to PLACE on my watch!
+VILLAIN: What the, who are you?! And how do you know what I am about to do.
+MAGICALGIRL: My name is PROTAG, and I am here to stop your evil deeds!!
+MAGICALGIRL: and also you literally just decided to monologue to yourself about how you are about to destroy PLACE by... wait how are you going to do it?
+VILLAIN: oh right...
+VILLAIN: well, I am going to be destroying PLACE by DESTROYMETHOD it, and just what are you going to do to stop me from DESTROYMETHOD PLACE?
+MAGICALGIRL: Oh I will show you exactly what I can do to stop you.
+VILLAIN: (sarcasm) ooh I am so scared.
+MAGICALGIRL: You better be, TRANSFORMATIONWORD (begin doing poses and actions).
+music stops
+badass music 1
+VILLAIN: What the.. what are you doing??
+VILLAIN: Is this all you're gonna do?
+MAGICALGIRL: (continue the transformation dance and, press space)
+VILLAIN: ...well if you're just gonna do that, then uh.... (smack the magical girl)
+music stops
+record scratch
+MAGICALGIRL: HURTWORD!
+silly music 2
+MAGICALGIRL: (shout) Ow, dude what the heck, do you know what you just did!?!?
+VILLAIN: What? Hit you while you were distracting yourself by doing all these randoms moves and not doing anything? It's your fault you did that.
+MAGICALGIRL: What you just did is against the rules!
+VILLAIN: Rules?
+MAGICALGIRL: I am a magical girl and you just broke the number 1 rule of this universe.
+VILLAIN: Wha? Magical girl? Number 1 rule?
+MAGICALGIRL: Everyone knows you're not allowed to interrupt a magical transformation, you're supposed to awkwardly watch it happen and then fight.
+VILLAIN: Well that's dumb.
+MAGICALGIRL: You're not going to like what happens next.
+VILLAIN: Wait what is happening?
+music stops
+epic fantasy music 3
+teleport RULEMAKER to CENTER STAGE
+RULEMAKER: (shout) What is going on here?!?!?!
+MAGICALGIRL: Uh hey...
+RULEMAKER: (point at MAGICALGIRL)Silence you!!!!
+RULEMAKER: (look at VILLAIN) You!! You interrupted a magical girl transformation.
+VILLAIN: Again with this "interrupted a magical girl transformation" nonsense, and who are you anyway?
+MAGICALGIRL: I should probably stay out of this (exit stage left)
+RULEMAKER: I am the TITLE of magical girls, boys, furries whatever, I created magical people and their transformations!!!
+RULEMAKER: And you just broke the number 1 rule of this universe!!!
+VILLAIN: Well I didn't know that.
+RULEMAKER: (gasp) you should know this before you even know how to TAUGHT!!!
+VILLAIN: Is that even possible?!?!
+RULEMAKER: Yes it is and you're going to pay, where is my MAGICTOOL!!!
+VILLAIN: Wait I didn't even know this, can't you give a second chance?
+RuLEMAKER: Well maybe you should have looked it up, MAGICTOOL send this Moron to NONFRIENDLYAREA!!!
+VILLAIN: (Defeated) Now I'll never be able to destroy PLACE and DO EVIL STUFF!
+RULEMAKER: (point the tool at VILLAIN)
+VILLAIN: (Dying in agony) Aaaaah!
+music stops
+explosion
+teleport VILLAIN to BACKSTAGE
+lacrimosa music
+RULEMAKER: (look at audience) Remember never ever interrupt a magical transformation.
+teleport RULEMAKER to BACKSTAGE
+music stops 
+MAGICALGIRL: (enter stage left)... It's over? phew!!!!
+MAGICALGIRL: ...So am I able to do my transformation this episode or what
+
+======
+
+INFORMATION ===============================
 ID: 1840
 TITLE: Watch Out!
 AUTHOR: hrtaubrey
@@ -56857,6 +56859,155 @@ OLIVIA: I would like coca cola
 CHEF: Unfortunately we dont have coca cola we only have pepsi
 OLIVIA: What did you just say ?
 RON: Not again, we should have went to PLACE.
+
+======
+
+INFORMATION ===============================
+ID: 1821
+TITLE: Superhero Radio Show!
+AUTHOR: Cluebacca
+VERIFIED: True
+TAGS: Skit
+SET: News
+DATE: 08/10/25
+CHARACTERS ================================
+DOREEN: Energetic superhero :News Desk
+NANCY: Sassy best friend :News Desk
+DUDE: Arrogant caller:Backstage
+CRIMINAL: Awkward villain :Backstage
+SUGGESTIONS =============================
+FAKE:Silly superhero name:Captain underpants,John Real Man,Fish Miss
+OBJECT:Any object (plural):boats,swords,Dr. Pepper bottles,teddy bears
+HERO:Superhero name :Squirrel Girl,Major Muffin,Bass Lass
+ANIMAL:Real or mythical animal :kangaroo,squirrel,unicorn,stegosaurus
+PERSON:Noun for a person :girl,man,woman,boy
+NUMBER:A number:30,352,45,7468
+BAD:Something you say when things go wrong :biscuits,nuts,shucks,dang nabbit
+CITY:City name (real or fictional) :NEW New York,Chicago,London,Lego city
+EVIL:Evil organization name :Brotherhood of Evil,Butt Jiggle Gang,League of Dastardly Evil Doers
+GUY:Guy’s name:Jacob,Clark,Sherlock Bluffkin
+FAMOUS:Famous person (real or fictional):Kim Possible,Da Vinci,Ryan Reynold,Carmen Sandiego
+SCRIPT ==========================================
+DOREEN: Hi everyone! Welcome to the show. I’m Doreen, aka HERO
+DOREEN: Beside me is my producer and best friend, Nancy. Whose superpower is talking to OBJECT
+NANCY: I absolutely cannot talk to OBJECT
+DOREEN: Oh come on anyone can talk to OBJECT, getting them to answer is the tricky part. Also! Nancy has another super power, producing radio shows!
+NANCY: (laughs) Just so we’re all clear, I'm a regular human, with no powers. And I’ve never seen this equipment before
+NANCY: But Hi everyone! I’m Nancy
+DOREEN: And I’m still Doreen. A superhero with all the powers of a ANIMAL, and all the powers of a PERSON
+DOREEN: And as a hero, I thought maybe, I could help people with wise advice instead of just with vigilante justice
+DOREEN: This is going to be a call-in show. What’s the number Nancy!
+NANCY: 646-647-3243
+DOREEN: 646-647-3243! Give us a call! Whether you’re a regular person or crime curious. I’m ready to help
+TYPEWRITER: NUMBER minutes later
+DOREEN: (whispers) Nancy no one is calling
+NANCY: Boss was very clear that we’d only get to keep doing this if people called
+DOREEN: (quietly frustrated) I know! I thought people would love to talk to a superhero! This is so embarrassing
+NANCY: Um so Doreen. There’s no non-sucky way to say this, but your mic still works when you whisper
+DOREEN: Ugh! (sigh) Okay everyone, at this point we’ll even take calls from super villains
+NANCY: Uhh we- we will?
+DOREEN: Yeah! That way I can tell them three things
+DOREEN: One: stop doing crime. Two: if you're thinking of doing crime, don't do it. And three: enjoy the show
+NANCY: We finally have our first caller!
+DOREEN: (excited) Hello caller, you’re live on HERO’s radio show!
+Teleport DUDE to Fake street backdrop
+DUDE: Hey, it’s GUY. Is this the homework cheating help line?
+DOREEN: Aww BAD..
+NANCY: No, this is HERO’s superhero help line. I think you got the wrong number
+DUDE: Do superheroes help with cheating on homework? I just want the answer to #4 on the algorithms 1-5 assignment
+DOREEN: We’re not giving out answers
+DUDE: (arrogant) Well a real hero would heroically take into account how much I HATE doing algorithms homework
+Teleport DUDE to Backstage
+DOREEN: On second thought maybe not getting calls wasn’t so horrible
+Meanwhile DUDE: (put on hero avatar)
+NANCY: (happily) Welp to bad, cause we got another call coming in
+DOREEN: Caller, you’re live with Doreen. Please don’t ask me how to cheat on homework
+Epic fantasy music 2
+Teleport CRIMINAL to Fake Street backdrop
+CRIMINAL: (menacingly) Am I live?
+DOREEN: (annoyed) Yup
+CRIMINAL: Good. I want ALL CITY City to hear what I have to say
+NANCY: You are definitely calling into the wrong show then
+CRIMINAL: Listen well HERO, because if you don’t do exactly what I say, I’m going to steal FAMOUS’s “Starry Night” from the Museum of Modern Art
+CRIMINAL: (unsure) And what I want is for you and your friend to continue doing this show, unabated!
+CRIMINAL: (awkwardly menacing) You hear me? Unabated!
+DOREEN: (shocked) Wait-uh, what?!
+CRIMINAL: (awkwardly menacing) Oh sorry, was that not clear? “Starry Night”. It’s a painting!
+CRIMINAL: Of a night
+Meanwhile DOREEN: Mhm?
+CRIMINAL: Famously starry.
+DOREEN: Yeah?
+CRIMINAL: I’m going. To. Steal. It
+CRIMINAL: I can’t make this more clear
+DOREEN: (confused) No I meant ‘Wait what’ as in you're threatening to steal the art if we stop doing the show?
+DOREEN: You’re trying to blackmail us into doing something we’re already doing?
+DOREEN: Also do you mind turning that music down?
+CRIMINAL: NEVER! This is my dramatic effect music! Do not dare to test me HERO!
+NANCY: We’re definitely going to be here next week now
+DOREEN: See, so there’s no need to steal any art, and you don’t have to threaten people to do what they’re gonna do anyway
+CRIMINAL: (menacingly) You will regret it if you stop doing this show. Discontinue it. At. Your. Peril
+Teleport CRIMINAL to Backstage
+Music stops
+NANCY: No caller ID on that one
+DOREEN: That’s sinister and concerning
+DOREEN: Just so we’re clear, we’re gonna continue the show, so none of our listeners steal anything okay?
+NANCY: We’ve got a caller!
+DOREEN: Hello, you're on the air with HERO
+Teleport DUDE to fake street backdrop
+DUDE: (heroically) Greetings fellow heroes! I’m the Believeable FAKE! Also involved in a never-ending fight for freedom and justice
+DUDE: And I’ve got a bit of a super conundrum here. Time is of the essence!
+DOREEN: Absolutely friend
+DUDE: Excellent! You need to know that the EVIL has poisoned CITY’s water supply
+DOREEN: Uh- what?! We’ve got to stop them!
+DUDE: Hold on. I, the Believeable FAKE, is on the case! The challenge is this
+DUDE: There’s 500 substations that carry water throughout our city, and the poison could be in any one of them
+DUDE: The poison is bitter, it’s undetectable to most but my sense of super taste can pick it out even when diluted
+DUDE: Thankfully, as a superhero, I can endure small sips of the toxin. But even I have my limits
+DOREEN: Of course!
+Meanwhile NANCY: (skeptical) Wait a minute?
+DUDE: So my question is this. What’s the minimum number of sips I need to expose myself to in order to identify which one of the 500 substations is poisoned?
+NANCY: (upset) You jerk! You’re the caller from before
+DOREEN: This is the first superhero radio show and you're trying to get us to cheat on homework GUY!?
+NANCY: It’s a binary search problem, isn’t it?
+DOREEN: Yes, It’s a stupid binary search problem
+DOREEN: You combine a drop of water from half the stations into one glass and half into another and sip to see which glass is bitter
+DOREEN: Then recursively repeat the process for the bitter glass stations until you’ve found the poisoned one DUH
+NANCY: So? That’s what, nine sips to cover 512 water stations?
+DOREEN: We’re not doing your homework GUY
+DUDE: HAHA! You just did. Thanks for the answers suckers
+Teleport DUDE to Backstage
+NANCY: Okay, so GUY did brutally own us there, but honestly I could see EVIL trying to pull something stupid like that
+DOREEN: Well, if EVIL is listening to our show, now they know, we know how to effectively foil their plans
+Message receive
+NANCY: (Looks at phone) Wait a minute, I just got a News alert on my phone
+NANCY: “Starry Night”- blah blah blah, FAMOUS’s most famous work- blah blah
+NANCY: (shocked) Has been stolen from the Museum of Modern Art?! 
+DOREEN: Our brand new hater stole FAMOUS’s greatest masterpiece?!
+NANCY: (looks at watch) In what, less than ten minutes?
+DOREEN: But we’re still doing the show?! UGH I hate crimes committed for stupid reasons
+NANCY: Truly the worst star in the criminal motivation constellation
+NANCY: (sarcastically) Oh joy, another caller
+Teleport CRIMINAL to fake street backdrop
+CRIMINAL: (out of breath) I have the painting!
+DOREEN: Put it back now!
+CRIMINAL: (out of breath) Haha, wait. Hold on, I just gotta
+Epic fantasy music 2
+CRIMINAL: (menacingly) Ah, there we go, dramatic effect. Ha ha! The painting is mine!
+Police car
+DUDE: (backstage) FREEZE
+CRIMINAL: (pretend a cop is in front of you) Ah! Back off copper, or I’ll destroy the painting
+DOREEN: Look, maybe we can to talk about this
+CRIMINAL: (awkwardly menacing) Haha, never! “Starry Night” is starry…not..yours anymore!
+DOREEN: But we never stopped doing the show, you know that, right?
+CRIMINAL: I’ll tell you what else I know. This crime spree is just beginning! Unless you do what I say
+DOREEN: No, you know what? No threats, no nothing! The crime spree is just ending actually, because we are taking you down
+Teleport CRIMINAL to Backstage
+Music stops
+DOREEN: (To Nancy) They’re clearly on foot, they’ve got to be near the museum
+DOREEN: (To audience) Sorry listeners, but duty calls. Ba-Bye! (exits)
+NANCY: Well I better go too. I’m the voice of skeptical reason on the team
+NANCY: Next week's episode we’ll have a jailhouse interview with our criminal, or the exclusive scoop on how they made their escape
+NANCY: (while exiting) Doreen! Wait!
 
 ======
 
@@ -57304,6 +57455,223 @@ Influencer: Buy my THEME CLOTHING! Come and see me on the TITLE Tour!
 Influencer: If this video gets enough likes I'll make my own FOOD topped with TOPPING and actually eat it.
 Influencer: Yo NICKNAME, tell the USERNAMEers what's good before I end the video.
 Roommate: (sigh) You want to know what's good? Me getting some new friends, that's what's good.
+
+======
+
+INFORMATION ===============================
+ID: 1831
+TITLE: Anarchy Court
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: Skit
+SET: Courtroom
+DATE: 11/10/25
+CHARACTERS ================================
+JUD: Judge:Judge Chair
+PROS: Prosecutor:Plaintiff Table
+DEF: Defense Lawyer:Stage Left
+ACC: Defendant:Defendant Table
+SUGGESTIONS =============================
+CRIME:a funny crime to be charged with:infidelity,jaywalking,impersonating an officer
+BANK:something people store/hoard:money,spaghetti sauce,bread
+WEAP:a weapon:gun,lightsaber,whip
+NUM:any number:100,one trillion,68.99999999999999999999999999999
+VEH:a vehicle:Ford F-150,Ferrari,AC-130
+DRUG:a drug (plural):meth,viagra,Flinstones vitamins
+CHAR:a fictional character you really like:Sakuya Izayoi,Fox McCloud,Stella from Harper Valley
+NAME:the name of a player in the audience:Jar,Jinx Izayoi,John Jacob Jingleheimer Schmidt
+WORLD:a well-known VRChat world:Murder 4,Furry Hangout,Prismic's Avatar Search
+CELEB:a famous person almost everyone knows:god,Obama,Martha Stewart
+PLAY:the name of a script or movie you like:Too Many Boyfriends,Who's Cuter?,Attack of the Produce Aisle
+VERD:a court verdict (guilty or not guilty):guilty,not guilty,very handsome
+SCRIPT ==========================================
+shark tank serious music 1
+JUD: You may all be seated. Anarchy Court is now in session. (bang gavel)
+JUD: Plaintiff, you may give your opening statement.
+PROS: (stand up) Yes, your honor. Good people of the audience, I stand before you today to bring justice to that menace opposite of me.
+PROS: Their crimes include homicide, robbery, arson, tax evasion, resisting arrest, drug possession, CRIME, and tax evasion.
+ACC: Uhh... you said tax evasion twice.
+DEF: Really? That's the thing you're concerned about?
+JUD: Please, let your lawyer do the talking. Prosecution, what exactly did they do to warrant these charges?
+PROS: We believe they were the one responsible for robbing the BANK bank, attacking its patrons, and attempting to burn it down.
+JUD: I presume you've brought evidence to prove these claims?
+PROS: Yes, your honor. (present evidence to judge) Here is the WEAP the suspect used, left at the scene.
+PROS: And here is the forensics report for the fingerprints on the WEAP, indicating a NUM% match with the defendant's own.
+PROS: Additionally, a search was performed of the defendant and their VEH.
+PROS: Inside the VEH, investigators found several objects tying the defendant to the crime.
+PROS: These include a baggie of DRUG, an empty gas canister, and a disturbing amount of merchandise depicting the fictional character named CHAR.
+ACC: Dang. That's my VEH alright.
+DEF: (quietly to your defendant) Would you kindly excercize your fifth amendment rights?!
+PROS: With this overwhelming evidence, I believe I've built a solid case on who the culprit really is.
+JUD: You may be seated. Defense, would you like to rebut the evidence brought by prosecution?
+DEF: Yes, your honor. First thing's first, why would my client even need to rob a BANK bank? For BANK? Puh-lease.
+DEF: Second, a NUM% fingerprint match? Preposterous. It's almost like you asked a random person for the first number that came to their mind.
+DEF: Third, what my client does with their CHAR body pillow on their own time isn't revelant to this case.
+ACC: Why am I taking stray bulletpoints from my own lawyer?
+DEF: But none of this evidence really matters, your honor, for my client has an airtight alibi.
+DEF: They were at home, playing the online video game VRChat at the exact time this incident occured.
+shark tank positive music
+DEF: (present evidence to judge) We have internet logs of their online username logging into an Audience Anarchy world from their IP address.
+DEF: Here are written affidavits from the Pawn who works at the front desk, and a player named NAME who was also there.
+DEF: Both testimonies confirm that my client was present in the instance at the time of the crime.
+DEF: My client spent several hours doing this, then hopped to a WORLD world for a bit before logging off, after the crime had already ended.
+PROS: Objection!
+vine boom
+PROS: Anyone else could've played on the defendant's account, and IP addresses can easily be spoofed!
+DEF: That would require someone else to know my client's login details, which my client doesn't share.
+DEF: (to audience) Remember everyone, do not give anybody your password under any circumstances.
+ACC: Valid.
+PROS: Your honor, to poke some holes into this unlikely story, I would like to call their client to the stand for questioning.
+JUD: I'll allow it. Defense attorney, you may be seated. Defendant, take your place at the witness stand.
+DEF: (sigh) Go on, then.
+Meanwhile ACC: (walk to the witness stand)
+JUD: I'll swear you in myself. Do you swear to tell the truth, the whole truth, and nothing but the truth, so help you CELEB?
+ACC: Uhh, yeah. Sure. I do.
+PROS: So, supposedly, a Pawn and a friend of yours would argue that you were playing Audience Anarchy with them during the crime, correct?
+ACC: Yep.
+PROS: How can that even be the case? First off, a Pawn is an NPC who cannot see, hear, or even smell you in the game.
+ACC: Wow, that's kinda mean. The Pawns have feelings too.
+PROS: Secondly, how can we be so sure this NAME fellow is a trustworthy source, and not an accomplice of yours?
+ACC: I remember being in the audience, watching them act out a play called PLAY. They were very dramatic. I cried a little.
+PROS: There's my third point! If you were in the audience, you could have left your avatar in the game while committing the crime!
+DEF: Objection!
+vine boom
+DEF: During that time, you don't think my client would've been ejected for inactivity, or kicked by other players on a whim?
+PROS: That's just pure speculation. Bottom line is, you can't truly prove your client wasn't at the scene of the crime.
+PROS: (to defendant) And how are you gonna explain your fingerprints being found on the WEAP?
+ACC: I shouldn't have to. That's not my job.
+DEF: (under your breath) Good answer...
+JUD: I think we've heard more than enough. Prosecution, defendant, you may return to your seats.
+JUD: We are going to take a short NUM minute recess and give the jury time to reach a verdict. (bang gavel)
+TYPEWRITER: NUM agonizing minutes later...
+JUD: The jury has come to a conclusion regarding the verdict. I will read it out loud now. (unfold paper) It is written...
+JUD: On all charges brought forward today, we the people find the defendant...
+Music Stops
+JUD: VERD!
+MEANWHILE PROS: (react to verdict)
+JUD: Court dismissed. (bang gavel)
+Meanwhile DEF: (react to verdict)
+ACC: I need to tell my beautiful CHAR right now!
+courtroom sting
+
+======
+
+INFORMATION ===============================
+ID: 1706
+TITLE: Attack of the Produce Aisle!
+AUTHOR: ModalSoul
+VERIFIED: True
+TAGS: 
+SET: Forest
+DATE: 17/06/25
+CHARACTERS ================================
+DEMON: Demon Warrior:Entrance Stage Left
+SON: Strong Warrior's Son:Entrance Stage Left
+SHORT: Short Warrior:Backstage
+PRIDE: Prideful Warrior:Backstage
+MUSCLE: Brutish Warrior:Backstage
+NAR: Suspenseful Narrator:Narrator Podium
+SUGGESTIONS =============================
+STNAME:Name of a strong person or fictional character:Wukong,Sakuya Izayoi,Kratos
+PLANET:The name of a planet:Earth,Mars,Pluto
+WITEM:An item with some magic power in it:Lamp,Glass Ball,Party Favors
+SHOW:The name of a show, any show:Fresh Prince of Bel Air,Danny Phantom,Steamboat Willie
+VEGGIE:A type of vegetable:Lettuce,Cabbage,Tomato
+SWEET:A sweet dessert:Pie,Ice Cream,Bon Bons,Crepes
+WEEK:A day of the week:Sunday,Wednesday,Thursday
+HOLIDAY:A holiday:Valentine's Day,Christmas,Black Friday
+EVIL:Something really, really bad:Tax Evasion,Stealing,Grand Theft Auto
+COUNTING:A machine that can read numbers:Calculator,Timer,Phone
+ATTACK:The name of a powerful attack or technique:Special Beam Cannon,Light Grenade,Clothes Beam
+PET:Any kind of pet you would have:Dog,Cat,Tiger
+SCRIPT ==========================================
+Badass Music 1
+NAR: Last time, on SHOW Z!
+NAR: A year has passed since the arrival of a warrior of vegetable heritage named Daikon, claiming to be the brother of PLANET's strongest fighter, STNAME.
+NAR: Kidnapping STNAME's son Grains, the fighter would make an unlikely alliance with his known nemesis, the Demon Warrior Zucchini.
+NAR: Wait, you haven't seen the original SHOW, you wouldn't know who that is. Uh ... think of a really bad guy, like EVIL level evil.
+NAR: He's good now though. Because we need him to be.
+NAR: Anyways, the battle to get STNAME's son back would push both fighters to their limits, and their victory came at a great cost...
+NAR: STNAME would be gravely injured by Zucchini's ATTACK used to defeat Daikon, and worse to come...
+NAR: Zucchini learned through Daikon's COUNTING of two more produce warriors arriving on PLANET in just one short year.
+NAR: With only a year to prepare for their arrival, PLANET's strongest fighters trained vigorously to defend their home. But would their efforts be enough?
+NAR: Find out... Now!
+TYPEWRITER: Attack of the Produce Aisle!
+Music Stops
+Spy Music 1
+DEMON: (enter Stage Left) Those leafy green freaks should be here any minute, Grains. Get yourself warmed up.
+SON: (enter Stage Left) Alright, Mr. Zucchini! (stretch and shadow box)
+DEMON: I doubt these plants will fight fair. Ready yourself for anything.
+SHORT: (move to Entrance Stage Right) I thought I saw you guys! Hey, over here!
+SON: (look towards Stage Right, ecstatic) Hey, it's Krill!
+Crowd Woo
+SHORT: (enter Stage Right, move to Stage Left) I figured I would find you guys around here!
+DEMON: Fashionably late, as always.
+SHORT: Hey, but I'm here now, and that's what counts!
+DEMON: What even took you so long to get here?
+SHORT: Was working on a new technique! If Zucchini has that ATTACK, I should work on something new, too!
+SHORT: Oh, yeah! I went and gave STNAME a hoagie before I got here too, he wanted one! Made sure he got the best!
+SHORT: Made sure it had everything he'd want, meat, toasted bread, mayo, VEGGIEs...
+SON: Wait... did you just say VEGGIE?
+SHORT: Yeah..?
+SON: My dad's allergic to VEGGIEs!
+SHORT: (shocked) Oh. Oh no.
+DEMON: (to Short Warrior, furious) You can't be serious! We're gonna be down our best fighter because of a hoagie! I should just kill you right now and--!
+Explosion
+Music Stops
+DEMON: (shocked) They're here!
+Forest Footstep
+PRIDE: (go to Entrance Stage Right) Too bad that it was WEEK, Brussels. Those buildings we landed on would've been filled tomorrow.
+MUSCLE: (go to Entrance Stage Right) A real shame, Arugula... Everybody knows that HOLIDAY is held on PLANET this time of year.
+Forest Footstep
+PRIDE: (enter Stage Right) Well, well, well... What do we have here?
+MUSCLE: (enter Stage Right) Looks like a bunch of PETs with idle hands sittin' around. Hands that look like they want to fight us, Arugula.
+PRIDE: (turn and face Brutish Warrior) Think these "PETs" have been waiting for us long, Brussels?
+MUSCLE: Oh, I sure hope not.
+PRIDE: Either way... (turn and face group on Stage Left) A pleasure to meet you.
+DEMON: (stare down Prideful Warrior) The pleasure's mine.
+Tense Cinematic Music
+PRIDE: So, one of you must be the one who beat Daikon. I must say, I am impressed.
+PRIDE: You've managed to beat the weakest of the Produce Warrior Race, and yet you PETs stand here like you can beat us.
+MUSCLE: How about I do my one good deed for the day and let you guys off easy? Tell us where the WITEM is and we'll be on our way.
+MUSCLE: If ya tell us, we'll just let Daikon's death be water under the bridge.
+SHORT: We, uh... can't tell you where the WITEM is. Once you make a wish with it, it disappears for an entire year.
+MUSCLE: What?! (angry) What in the world did you use it for?!
+SHORT: Uh... The hoagie I gave to STNAME.
+Vine Boom
+DEMON: (furious) What?!
+Meanwhile SON: (in disbelief) You didn't...
+MUSCLE: (furious) On a sandwich?!
+Meanwhile PRIDE: (facepalm, disappointed) What a waste...
+DEMON: Enough! Hoagie aside, this our home. And we're not going to let you trample on it as you see fit!
+Music Stops
+Superhero Fanfare
+DEMON: (gesture to Strongest Warrior's Son and Short Warrior) And neither will they!
+SON: You tried to take my dad, PLANET, and my life away! I'll never forgive you!
+SHORT: Yeah! We'll show you that we aren't PETs! We're not backing down!
+PRIDE: Looks like diplomacy is out of the question. Sorry, Brussels.
+MUSCLE: Eh, I'm over it. Let me get a crack at these guys, Arugula. Show 'em we mean business.
+PRIDE: Go right ahead. Just don't embarrass yourself out there.
+MUSCLE: (walk towards center of stage) Alright, let's check their power... (touch side of head)
+MUSCLE: They're all so weak! Beating these wimps is gonna be as easy as SWEET!
+PRIDE: (mumble) Could go for some SWEET...
+MUSCLE: (look back) What was that, Arugula?
+PRIDE: Nothing. Just be careful. They can hide their power from our COUNTING.
+MUSCLE: Right. (turn back to Stage Left group) Guess I won't be needing this COUNTING then.
+MUSCLE: Not that it makes a difference, it'll be like taking candy from a baby, which is fine by me! Come on!
+DEMON: Grains, Krill, coordinate your attacks and overwhelm him! If we can't beat him by ourselves, then we wait for everyone else to get here!
+DEMON: If push comes to shove, then I'll ask you to hold that musclehead back while I charge my ATTACK. 
+SHORT: Sounds like a plan! Let's do this!
+SON: I won't let you down, Mr. Zucchini!
+DEMON: Let's go! And put that hoagie down Krill, you don't need it! (charge at Brutish Warrior)
+Meanwhile SON: Here I come! (follow Demon Warrior and charge)
+SHORT: Fine, fine! (hype self up and charge in)
+NAR: The assault begins against the first produce warrior known as Brussels!
+NAR: Will the defenders of PLANET be able to stop these Aisle 1 Terrors?
+NAR: Will STNAME and the others arrive in time?
+NAR: Was Krill's hoagie really worth using a wish on the WITEM?
+NAR: Find out next time as the Attack of the Produce Warriors continues!
+Meanwhile SHORT: Wh-- Hey! I thought it would be a good idea at the time! I know you can hear me! Hey!
 
 ======
 
