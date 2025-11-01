@@ -2654,6 +2654,7 @@ shifca
 Abaddon Matriel
 bd_
 #TIER=3
+ただのMayちゃん
 Azriiff
 Gear Head
 JinizelRyuga
