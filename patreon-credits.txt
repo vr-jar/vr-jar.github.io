@@ -2557,6 +2557,7 @@ Dooley
 MizchiefMaker
 PainKiller22
 #TIER=2
+Noxira
 Big-_-Squish
 WuffleBiscuit
 Matt43rp
@@ -2621,7 +2622,6 @@ Noxis Mortis
 ~DuskFangVA~
 Nekita touka
 Kregethran
-Bastoss
 Marcy Afton
 Sunny the Bunny
 Darkruler1738
