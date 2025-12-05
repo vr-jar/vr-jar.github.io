@@ -8530,7 +8530,7 @@ AGENT: (Nauseous) I think I'm turning into a SNAKE...
 INFORMATION ===============================
 ID: 184
 TITLE: The Bakeoff
-AUTHOR: Jay3409
+AUTHOR: jay3409
 VERIFIED: True
 TAGS: Skit
 SET: Infomercial Kitchen
@@ -11643,124 +11643,6 @@ BABY: (Awkward silence, sniff) So uhh... Karen. Did you get your INFECTION sorte
 ======
 
 INFORMATION ===============================
-ID: 388
-TITLE: Redemption
-AUTHOR: Lazer Xiao Long
-VERIFIED: True
-TAGS: Skit
-SET: Forest
-DATE: 28/04/24
-CHARACTERS ================================
-VILLAIN: The Villain:Stage Left
-HERO: The broken Hero:Stage Right
-ALLY: The Hero's supporting ally:Backstage
-SUGGESTIONS =============================
-WEAK:another way of saying "weakling":weakling,coward,child
-HEIR:a type of heirloom:amulet,dagger,ring
-POWER:a word of encouragement :I am very proud of you,You have come a long way,You are strong. Even stronger than I
-RELATION:relationship status (i.e. friend, partner, lover, etc.):friend,comrade,ally
-SPECIAL2:a special move:Attack,Slash,Do-over,Break
-SPECIAL1:a special move:Burning,Final,Ultimate,Dual
-EVENT:an event that took place:Christmas,your birthday,the attack
-FUEL:another way to say energy:energy,fuel,power
-NUMBER:a number:100,1000,1337
-STUFF:something to buy:lunch,first-aid kit,potions
-MONSTER:a type of monster:giant troll,mechagolem,hydra,demon,monster
-SCRIPT ==========================================
-Epic Fantasy Music 2
-HERO: (clash weapon with the Villain) For every blow you deal, I will return it tenfold!
-Meanwhile VILLAIN: (clash weapon with the Hero)
-sword fighting
-VILLAIN: (annoyed) You really are a persistent one, WEAK. But it's time to finish you off for good!
-HERO: I could say the same thing to you, monster. I took everything from someone very close to me and I'm willing to give it all back even if it costs my life!
-VILLAIN: Then I suppose this final strike will dictate who will be the victor.. (charges up special move)
-HERO: Agreed..... (charges up special move)
-super epic charge up
-VILLAIN: RAAAAAAAA!!!!!!!!!!! (Unleash your attack)
-Meanwhile HERO: RAAAAAAAA!!!!!!!!!!! (Unleash your attack)
-Music Stops, explosion
-VILLAIN: (falls to the ground) GRAAA!
-Meanwhile HERO: (falls to the ground) GRAAA!
-HERO: (On the ground) It's over....
-VILLAIN: (gets up and growls) I never would have thought that a WEAK like you would have gotten this much power ever since EVENT...
-VILLAIN: (slowly walks to Hero) Let alone, I never would have thought someone like you to even survive in the first place....
-Meanwhile HERO: (struggles to get up)
-draw sword
-VILLAIN: (draws weapon) I guess I should finish you off for good. Now DIE!!!!
-ALLY: (enter Stage Right and immediately attack) HYAAAAH!!!!
-knife wound
-VILLAIN: GACK!!!! (falls to the ground)
-HERO: (To Ally) It's you!
-ALLY: Long time no see! Man, look at you...
-HERO: (looks down) I know..... I look like a wreck don't I?
-emotional piano music
-HERO: I've always been a wreck.... I've let many people down because of my incompetence.... Worst of all, you had to suffer since EVENT because of my weakness.
-ALLY: (Reassuring hug) No... you are not as weak as you think you are. I've seen you grown ever since we've first met.
-ALLY: Like for instance, you were able to contend against a MONSTER. The same enemy that defeated our friend with little to no effort.
-ALLY: I am sorry that you felt this way. But what I'm most sorry, is that I've never got a chance to tell you this and that is....
-ALLY: POWER and I am very grateful to have you as my RELATION
-Music Stops, anime sword gleam 1
-HERO: You believed in me? (cries in relief)
-ALLY: Yes.... and I never left that... It's okay.... I'm here for you... (hug)
-VILLAIN: (gets up, growling) and now look who decided to show up.....
-badass music 1
-ALLY: It seems like this guy doesn't have as much FUEL as before.
-Meanwhile HERO: (gets up)
-HERO: I too still don't have as much "FUEL" you know...
-ALLY: True, but at least you still have someone else on your side that is NUMBER% FUEL.
-HERO: (chuckles) True that....
-draw sword
-HERO: (draws weapon) You're buying me STUFF after this.
-draw sword
-ALLY: (draws weapon) That's if we both make out alive that is, my RELATION.
-draw sword
-VILLAIN: (draws weapon) This ends now, once and for all!
-HERO: (charges at the Villain) GRAAAAAAA!!!!
-Meanwhile ALLY: (charges at the Villain) HAAAA!!!!
-sword fighting
-VILLAIN: (Fighting) You persistent little...
-VILLAIN: I've defeated both of you in EVENT and I can do it again right now!!
-sword fighting
-ALLY: (Fighting) It won't be the same like in EVENT! Unlike you, we have a purpose in life.
-HERO: (Fighting) And we won't let some "monster" like you interfere our future!
-sword fighting
-ALLY: The bond between my RELATION and I....
-HERO: Is what makes us stronger!
-knife wound
-VILLAIN: (Pain) Noo! (Crouches) No one has ever pushed me to my knees like this before! This is impossible!
-ALLY: (To hero) Let's finish this, my RELATION!!
-HERO: RIGHT!!!
-super epic charge up
-HERO: (Charges up weapon) TOGETHER!!!
-Meanwhile ALLY: (charges up weapon) TOGETHER!!!
-HERO: SPECIAL1!!!!
-ALLY: SPECIAL2!!!!
-HERO: Raa! (Unleash your attack)
-Meanwhile ALLY: Raa! (Unleash your attack)
-VILLAIN: Grah! This... bested by mere "children"? How droll! (dies)
-explosion, Teleport VILLAIN to Backstage
-HERO: (Give a thumbs up to the Ally) We did it...
-ALLY: (Give a thumbs up to the Hero) Yes we did indeed...
-Music Stops
-HERO: (collapses) That was a tough battle. I honestly thought I would've died for sure.
-ALLY: (helps the Hero back up) Whoa there. You fought a hard battle. You must rest.
-bard music 2
-HERO: (weakened) So.... you going to buy me the STUFF?
-ALLY: (chuckles) Yeah of course I will, my RELATION.
-ALLY: I've told you this before and I'm willing to tell you again that POWER... So, you've earned it.
-HERO: (chuckles) Yea... Thank you for everything. Thank you for being with me this entire time even when I didn't know.
-HERO: ....Oh yea! Your HEIR. You lost it ever since EVENT and I decided to keep it as a memento. I thought maybe I should give it back to its rightful owner.
-ALLY: Oh... Thank you! But... you should keep it. Besides, my HEIR looks good on you.
-HERO: Are you sure about that? It was never mine to begin with...
-ALLY: It is now.
-HERO: I don't know what to say but... thank you... I will take good care of your... our HEIR
-ALLY: I believe you will. Anyways, let's go buy some STUFF. A promise is a promise, no?
-HERO: Yea we should! I'm glad to have you back.
-ALLY: And I'm glad to have you back as well, my RELATION.
-
-======
-
-INFORMATION ===============================
 ID: 392
 TITLE: The night before Christmas
 AUTHOR: Deadly~Lex
@@ -12821,103 +12703,6 @@ Teleport MAGICIAN to BACKSTAGE
 magic sound
 APPRENTICE: (enter stage right) Finally that freak is gone, he was never good at magic, I could make NUMBER NOUNs disappear just like that (snap)
 APPRENTICE: its time for me to get the spot light, Everyone be ready for I shall now be know as NEW MAGIC NAME (bow)
-
-======
-
-INFORMATION ===============================
-ID: 427
-TITLE: Resurrection
-AUTHOR: Lazer Xiao Long
-VERIFIED: True
-TAGS: Skit
-SET: Forest Bridge
-DATE: 28/04/24
-CHARACTERS ================================
-WARRIOR: Hero's friend:On bridge
-MONSTER: Monster:Stage Left
-HERO: The "revived" Hero:Backstage
-SUGGESTIONS =============================
-WARRIOR:A type of warrior:Hunter,Warrior,Savior,Fighter
-VILLAGE:A village name:Peace,LoveTown,Guildus
-MONSTER:A type of monster:Demon,Werewolf,Monster,Hobgoblin
-EVENT:An event:the attack,the invasion,Christmas
-SPECIAL:Special attack:Flurry Slash,Execution,Blast-phemy
-LOSE:Another way of saying "loser":loser,failure,coward
-LOST:Something that you can lose:arm,soul,heart
-NAME:Name:Romeo,Juliet
-SAD:A negative emotion:crying,upset,frustrated
-ALLY:Relationship to anyone (i.e. family, friend, brother, etc.):mother,father,brother,friend
-SCRIPT ==========================================
-epic fantasy music 1
-MONSTER: (Intimidating roar at the hero) Graaah!
-WARRIOR: (tired) This MONSTER doesn't know when to quit! But I shouldn't quit either!
-WARRIOR: I'll have to attack with everything I got for me to even have a chance against this MONSTER!
-WARRIOR: For the village of VILLAGE!
-sword fighting
-WARRIOR: (Strike monster several times) Now for the finishing blow!
-super epic charge up
-WARRIOR: HA!
-Music stops, explosion
-MONSTER: Rawr! (Defeated groaning, falls down)
-WARRIOR: Is it dead?
-MONSTER: (Gets up, angrier) Grrrrrr...
-epic cinematic music
-WARRIOR: What?! No way! I gave everything I got against this MONSTER and it had little to no effect?!
-super epic charge up
-MONSTER: ROAR!! (Swipe at the hero dramatically)
-explosion
-WARRIOR: Ah! (Collapses) The power... it's too much!
-WARRIOR: (struggles to get up) No.... The children in the village of VILLAGE need me.... Is this the end?
-Meanwhile MONSTER: (Walks VERY slowly to the middle of the bridge)
-Music stops, gunshot
-MONSTER: (Staggers from gunshot) ROAR!
-HERO: (Enter the stage pointing weapon at the monster) Seems like I entered just in time...
-epic fantasy music 3
-WARRIOR: (Surprised) You're alive?! But how?!
-HERO: ...I'll take care of this. It's the least I could do...
-MONSTER: Roar! (Attack the hero, but it has no effect) R-Roar...
-Meanwhile HERO: (Effortlessly deflect and brush off the MONSTER's attack)
-sword fighting
-HERO: If I keep this up, this would be troublesome. I'll have to finish this now.
-HERO: (charges up attack) SPECIAL... Attack!
-super epic charge up
-HERO: (Stab monster) Hi-ya!
-anime sword gleam 3
-MONSTER: R...roar! (dies)
-explosion, Teleport MONSTER to Backstage
-HERO: (Approach warrior) Don't move... This will be quick... (heals warrior)
-magic sound
-WARRIOR: (fully healed and refreshed) Thank you so much. I am in your debt.
-HERO: Yea... But I must go. Just... don't end up doing something reckless. (Slowly walk toward the exit)
-WARRIOR: Wait...
-Meanwhile HERO: (stop in place)
-Music Stops
-WARRIOR: How did you manage to survive EVENT? We all thought you died at EVENT.... and also... you've completely changed...
-HERO: (Dramatic, back turned) I can't say myself how I survived EVENT and honestly, it would've been better if I did die...
-WARRIOR: Why would you say that? Every WARRIOR deserves to live.
-HERO: But I'm no WARRIOR like you guys.... I am nothing but a LOSE....
-HERO: Especially since someone very close to me lost his/her LOST because I couldn't get the job done...
-WARRIOR: Someone close to you? Who?
-HERO: I don't want to talk too much detail about it...
-WARRIOR: It's NAME. Isn't it?!
-HERO: (shocked and griefed in pain) Don't.... mention that name...
-WARRIOR: It is NAME...
-Meanwhile HERO: Shut up!
-HERO: (turns around) What's it matter to you?!
-WARRIOR: (stares Hero in the face) You're SAD....
-scary music
-HERO: (SAD) Of course I'm SAD! Do you have any idea how it feels to betray someone's expectations?! Do you?!
-WARRIOR: I.... uh...
-HERO: NAME cared for me, nurtured me, and believed me. I saw NAME as a true ALLY
-HERO: NAME always told me that I'm destined for "greatness" but I couldn't compare with everyone else at the village of VILLAGE! I couldn't...
-HERO: And every failure, I saw the disappointment in NAME's eyes and that affected me as well.
-HERO: And then EVENT happened and the lost of NAME's LOST, was the final nail in the coffin...
-HERO: (looks down) It should've been me.... that's why I'm willing to give back everything that NAME lost even if it costs my life...
-HERO: Someone like me would hardly matter in this world.... I made NAME lose all faith in me...
-WARRIOR: (nervously) B-but... NAME.... has....
-Meanwhile HERO: (exits)
-Music Stops
-WARRIOR: ...NAME still sees the potential in you!!! He/She has not lost faith in you!! ....And never will....
 
 ======
 
@@ -52308,87 +52093,6 @@ ANNOYED CHILD: Can I keep the fake CHEAP GIFT TO GIVE TO SOMEONE?
 ======
 
 INFORMATION ===============================
-ID: 1656
-TITLE: Who's Cuter?
-AUTHOR: Jinx Izayoi
-VERIFIED: True
-TAGS: Game Show
-SET: Game Show
-DATE: 08/05/25
-CHARACTERS ================================
-GIRL1: The Inquisitive Girlfriend:Entrance Stage Right
-GIRL2: The Tired Girlfriend:Stage Left
-SUGGESTIONS =============================
-DEAR:a term of endearment for a loving partner:sweetie,honey,darling
-STATE:a named location:Gensokyo,the Pentagon,Skyrim
-PET:an animal you could keep as a pet:dog,lizard,fox
-NAME1:the name of a celebrity:Taylor Swift,Jennifer Lopez,Snoop Dogg
-NAME2:the name of a video game character:Luigi,Solid Snake,Lara Croft
-WEAPON:a weapon:knife,gun,lightsaber
-NAME3:the name of an anime character:Light Yagami,Sailor Moon,Goku
-NAME4:the name of a player in the audience:Jar,Jinx Izayoi,Reimu
-CREAT:a fictional creature:Tupai,Chupacabra,The Devil
-TEAM:a sports team:Kappa Dam,Dallas Cowboys,LA Dodgers
-SUPER:a super attack from a video game:Quadruple Kunai Bullet Pattern,Shun Goku Satsu,Kamehameha
-CLASS:a difficult school subject or scientific term:psychology,trigonometry,sex ed
-SCRIPT ==========================================
-GIRL2: I know you're back there, DEAR. Could you please not sneak around my game room? It's past midnight.
-GIRL1: (walk on stage) I just happened to wake up. I wanted to see what you were doing.
-GIRL2: (mockingly) Don't tell me... you couldn't sleep by yourself? Alright then.
-GIRL2: Y'know, back before I came to live in STATE, there was someone else who'd follow me around after dark.
-GIRL1: Spare me the talk of your exes, would you?
-GIRL2: No, not like that.
-GIRL2: I mean a pet PET I used to have. DEAR, you're a bit like... that... PET... (falling asleep)
-(vine boom)
-GIRL1: (slap them awake) No sleeping.
-Meanwhile GIRL2: (react to slap) Ow!
-GIRL1: Hey. What kind of PET was it?
-GIRL2: DEAR, please go back to bed.
-GIRL1: You brought it up, didn't you? Was it a cute PET?
-GIRL2: Well, yeah.
-GIRL1: Who's cuter... the PET or me?
-GIRL2: Huuuh? Obviously the PET-
-(waterphone)
-GIRL2: Ah, uh, you, DEAR!
-GIRL1: M'kay. Let's get serious about this. (walk behind host podium)
-(gameshow intro)
-GIRL1: Hello everybody, welcome to Who's Cuter? The game show where I give my girlfriend here two options.
-Meanwhile GIRL2: What the hell?
-GIRL1: If she correctly guesses which one is cuter, she won't be single when she wakes up tomorrow!
-GIRL2: (flabbergasted) What kind of interrogation is this?!
-GIRL1: Contestant #1, are you ready to play? Here comes your first question!
-(gameshow start)
-GIRL1: Who's cuter... me, or NAME1?
-GIRL2: Already a sudden death situation, huh? Wait a minute...
-GIRL2: (to yourself) She'd never even think of wanting to compare herself against NAME1. She loves NAME1!
-GIRL2: If I get careless and say that it's DEAR, she'll pull some reverse CLASS on me!
-GIRL2: (to her) Right. Between you and NAME1, I'd say it's definitely......
-(thunder)
-GIRL1: (sniffle)
-GIRL2: Y-you, DEAR.
-(gameshow ding)
-GIRL1: Alright. Me or NAME2?
-GIRL2: We're still going?!
-GIRL1: Who!? (Point WEAPON)
-GIRL2: Put the WEAPON away!!
-GIRL1: (angrier) Who??
-GIRL2: You, DEAR!!
-GIRL1: Me or NAME3?
-GIRL2: You, DEAR.
-GIRL1: Okay. What about me or NAME4?
-GIRL2: Please have mercy...
-TYPEWRITER: Eight hours later
-GIRL1: (wide awake) Me or CREAT?
-GIRL2: (very tired) You, DEAR...
-GIRL1: Me or the TEAM mascot?
-GIRL2: You, DEAR...
-GIRL1: Me or the SUPER?
-GIRL2: (sigh) You, DEAR...
-(gameshow outro)
-
-======
-
-INFORMATION ===============================
 ID: 1657
 TITLE: Cold Case, Warm Whiskey
 AUTHOR: Costons
@@ -53894,87 +53598,6 @@ BOY: I can't wait to eat some CANDY! (exit stage)
 Silly music 1
 TEACHER: Shouldn't I stop them?
 TEACHER: Nah, I didn't like them or my job anyways.
-
-======
-
-INFORMATION ===============================
-ID: 1707
-TITLE: Memes
-AUTHOR: Jinx Izayoi
-VERIFIED: True
-TAGS: 
-SET: Western
-DATE: 17/06/25
-CHARACTERS ================================
-JACK: Jack:Stage Left
-MONS: The Talkative Villain:Balcony
-SUGGESTIONS =============================
-STORM:a life-threatening weather condition:Monsoon,Hurricane,Tornado
-NUM:any number:69,one million,zero
-JOBBER:a verb or occupation ending in -er:Ripper,Stripper,Plumber
-FOOD:a food strongly associated with America:cheeseburger,hot dog,donut
-SOC:a social media video platform:TikTok,Youtube,Vine
-GAME:a popular online game:Fortnite,VRChat,Runescape
-EVENT:a major historical event:the great depression,world war 3,habemus papam
-NAME:the name of a player in the audience:Jar,Jinx Izayoi,Jetstream Sam
-MEDIA:a very quotable show or game:Invincible,Breaking Bad,Among Us
-VEG:a fruit or vegetable:pickle,pear,tomato
-SCRIPT ==========================================
-JACK: It took me a while, but I've finally made it to STORM's base of operations. And I only had to kill NUM of their guards on the way here!
-MONS: And through your destruction, you've come face to face with me. I am STORM, of the Blades of Destruction.
-mystery music 1
-JACK: Yeah... I guessed as much.
-MONS: How pleased you are to chop away, Jack the JOBBER.
-JACK: JOBBER? I hardly know her!
-laughter
-JACK: Listen, I have a mission to complete, so can we get on with our epic clash of swords or whatever?
-MONS: You were sent here by rich old men, to kill me for someone else's ideals, just like the good little soldier you are.
-JACK: (angrily) What are you talking about?
-MONS: (step down from balcony) Free will is a myth. Religion is a joke.
-MONS: We're all pawns, controlled by something greater...
-MONS: Memes! The DNA of the soul!
-JACK: Memes? Oh, you mean like that funny cat I saw online?
-Music Stops
-MONS: (deadpan) What?
-JACK: You know, the picture of the cat with text on top that says "I can has FOOD?"
-shark tank positive music
-MONS: There are two things very, very wrong with what you just said to me.
-MONS: First, that joke is extremely outdated. Get with the times.
-MONS: Second, that's definitely not the type of meme I'm referring to, and you know it!
-JACK: Oh, you're probably talking about those funny dances from SOC or GAME that all the kids are doing.
-MONS: No! I don't even play GAME, what are you- ugh, listen.
-MONS: Memes shape our will. They are the culture, they are everything we pass on.
-JACK: So when people type posts on internet forums mocking EVENT...
-MONS: Now there's an exquisite meme! I think you're starting to understand!
-JACK: And when they quote MEDIA over and over so much the original meaning is completely forgotten?
-MONS: Never mind, you're further from the truth than I thought.
-JACK: Are you sure?
-MONS: Pretty sure... wait, stop that!
-JACK: Have you seen those videos where the ending is someone's scream edited to cut off early?
-MONS: No! Well, yes, but that's not the point. Memes don't have to be humorous to be memes.
-JACK: How about "full of crap"? Is that a meme?
-MONS: (chuckles) Y'know, Jack, when you put in some effort, you're actually pretty funny.
-MONS: You're even more hilarious than NAME. Though, that's not a very high bar to get over.
-JACK: (chuckles) Wanna hear the greatest meme of all time?
-MONS: I can think of NUM reasons why you shouldn't say what you're about to say.
-JACK: Well, I'm going to anyways.
-Music Stops
-JACK: A STORM walks into a blade's edge.
-MONS: That's also not a meme, it just sounds like the start of a bad bar joke.
-Meanwhile JACK: (prepare to strike MONS)
-anime sword gleam 2
-MONS: Ack! (fall over)
-telenovela music 3
-MONS: You... you were feigning ignorance so I would lower my guard?
-JACK: Don't be ashamed. It's only nature running its course.
-JACK: Your memes... end here.
-MONS: (weakly) No. I passed one... to you...
-discord notification
-JACK: (check phone) What? How did you send me a message just now?
-MONS: Check... the attachment...
-JACK: Uh, okay? You sent me a picture of food, with a face on it.
-MONS: He turned himself... into a VEG... funniest thing... I've ever seen. (die)
-telenovela sting 2
 
 ======
 
@@ -57333,230 +56956,6 @@ Roommate: (sigh) You want to know what's good? Me getting some new friends, that
 ======
 
 INFORMATION ===============================
-ID: 1623
-TITLE: Too Many Boyfriends
-AUTHOR: Jinx Izayoi
-VERIFIED: True
-TAGS: 
-SET: Murder
-DATE: 21/04/25
-CHARACTERS ================================
-MAID: The Maid:Stage Left
-MISS: The Mansion's Mistress:Entrance Stage Left
-BOY1: The Creepy Boyfriend:Backstage
-SIS: The Mistress` Younger Sister:Backstage
-BOY2: The Demonic Boyfriend:Backstage
-SUGGESTIONS =============================
-BOYNAME:name of a powerful character:Okina,Jesus,Goku
-SYSNAME:name of a girl from an anime:Flandre,Orihime,Konata
-OLDNAME:name of a renowned or wise character:Yukari,Elvis,Confucius
-TITLE1:a title for a renowned person:sage,wizard,queen
-TASK:a verb:get around,teleport,die
-DESSERT:a dessert:cake,flan,ice cream
-COUNTRY:a country or other large location:Japan,Gensokyo,Hell
-DEMON:name of an evil character:Toutetsu,The Devil,Frieza
-NAMEAUD:name of someone in the audience:Meiling,Jar,Jinx Izayoi
-TITLE2:a type of relationship between people:boss,cousin,side-piece,best friend,arch-nemesis,third cousin twice removed,ex-roommate,secret admirer,frenemy,life coach,soul mate
-NUM:a number:1,500,69
-CATCH:a funny catchphrase:wowza,the end,the fitnessgram pacer test is a multistage aerobic capacity test that progressively gets more difficult as it continues
-SCRIPT ==========================================
-(dark classical music)
-MAID: (open the front door) Welcome home, milady.
-MISS: (walk inside) Sorry. I was gone for several days. Anything new?
-MAID: No. Nothing at all. We've just had a few guests.
-MAID: The tengu reporter, the fairy that lives nearby...
-MISS: Same as always.
-MAID: And...
-MAID: The young mistress brought her boyfriend.
-record scratch
-Music Stops
-MISS: (infuriated) What do you mean "nothing at all?!"
-TYPEWRITER: The Mistress decides to meet with her sister and her new "Boyfriend."
-(japanese music 2)
-BOY1: (enter Stage Right) My name is BOYNAME. I am a god of the back door. A god of impairments...
-Meanwhile MAID: (walk around pretending to clean everything)
-BOY1: God of Noh, god of outcasts, god of stars, and boyfriend of SYSNAME.
-MISS: Listen here. There are rumors going around the village of you abducting women from the outside world, you know?
-BOY1: Ah hah hah! Sounds like quite the misunderstanding I should clear up.
-BOY1: I don't just like foreign girls. I`ll take them domestic just fine. Like OLDNAME for one.
-SIS: (enter Stage Right) Are you reeeaaally trying to defend yourself?
-MISS: Listen, SYSNAME. I wouldn't complain if a boyfriend you brought home was a murderer or a terrorist or something...
-MISS: But a TITLE1 is a step too far.
-SIS: Huuuh? And why is that? You're on pretty good terms with OLDNAME, aren't you?
-MISS: Sure, but we're not dating. What exactly do you even like about BOYNAME, SYSNAME?
-SIS: Huh? What makes you think I "like" her?
-vine boom
-SIS: I just agreed to make her my boyfriend cuz she makes it easy to TASK.
-MISS: Pretty rude of you to just use her to TASK, isn't it?
-BOY1: Heh... I get to be her boyfriend.
-MISS: G-good for you...
-SIS: (sigh) You know I have plenty of other boyfriends besides BOYNAME, right?
-SIS: There're those cute monks who work at the temple school, obviously.
-Meanwhile MISS: ...plenty?
-SIS: And the old man at the sweets shop is my boyfriend cuz he gives me his test DESSERT.
-MISS: Don't just go around making random people your boyfriend.
-SIS: DEMON is my boyfriend who plays with me. NAMEAUD is my boyfriend who sleeps with me...
-MISS: Right. Remind me to kill NAMEAUD after this play.
-MISS: And that... DEMON, was it? Why haven't you introduced them to your sister?
-SIS: Why the hell should I?
-MISS: Hey now! If they seem nice, I'll at least pull out some DESSERT or something.
-BOY1: Hmm? Sister-in-law, you've never met DEMON?
-MISS: Call me that again, and I'll kill you as well.
-Music Stops
-scary music
-BOY1: DEMON is a horned beast who leads the Gouyoku Alliance, one of the great powers of the Animal Realm.
-BOY1: Over in COUNTRY, the Taotie is even counted among the "Four Great Fiends."
-BOY1: At the moment, I've arranged for them to be in charge of a certain place. Want to take a guess? The hint is "blood."
-MISS: SYSNAME, go with that one.
-SIS: Huuuh? Where's this coming from?
-MISS: They have the whole "Demon King" vibe going on, right?! A perfect fit for our pedigree!
-SIS: Geez! Don't try to order me around!
-MAID: Young miss SYSNAME.
-Music Stops
-Teleport BOY2 to Entrance Stage Left
-MAID: A second boyfriend is here. (walk to front door)
-MISS: Could it be... DEMON?
-MAID: Yes, just so. Very astute, milady. (open door)
-(jazz music 1)
-BOY2: (walk in) Hey, SYSNAME! I'm here to see you! I brought a new game!
-SIS: New game!! I'm gonna play with DEMON now, so sis! BOYNAME! Get out!!
-BOY2: Ku ku ku... not so fast... looks like you don't know what this new game entails.
-MISS: Demon King vibes!
-BOY2: Ever play a tabletop R-P-G?
-MISS: Uhh... never mind.
-TYPEWRITER: One DnD session later...
-MISS: Hey, SYSNAME. I've been thinking. This might just be the first time that I've seen you having fun and laughing with your friends.
-MISS: I really think you should choose DEMON as your boyfriend. Even if she's not as handsome as I imagined.
-BOY1: What are you saying, NAMEAUD? You're embarrassing me in front of everyone.
-MISS: I'm not talking to you. Ah, wait... we're all larping as different characters right now...
-MISS: Hey!! Why is this stupid script so confusing?!
-SIS: Damn, NAMEAUD, you really suck at roleplaying.
-BOY2: You can say that again.
-MISS: Come on! I'm being serious here, dammit!
-MISS: DEMON, what about you? Are you going to marry my SYSNAME?
-BOY2: Huh?! M-marry?! (panicking)
-BOY2: Do you mind if I do a check real quick?
-SIS: Barf. No one wants to talk to their TITLE2 about marriage stuff.
-BOY2: (pull something out of pocket) If you roll a NUM on this 500-sided dice, you get married.
-MISS: That's basically a ball, huh?
-SIS: Here goes something. (throw die)
-gameshow ding
-SIS: Ah. I rolled a NUM.
-Music Stops
-gong
-happy music 1
-BOY2: The game master and a player got married, so the players... win?
-BOY2: By the way, does that actually mean I'm marrying BOYNAME, or...?
-SIS: Huh?! My boyfriends are marrying each other all of a sudden?!
-BOY1: The one you really want to marry is your dear big sister, isn't it? I can tell.
-SIS: What the hell gave you that idea!?
-BOY2: God damn, this TITLE1 creeps me out.
-Meanwhile BOY1: I've already got a love triangle in mind...
-SIS: If big sis is NAMEAUD, but my boyfriend who's my boyfriend's boyfriend is also myself, does that mean me and big sis are also married? (scream)
-MISS: SYSNAME is spiraling into madness!
-MAID: CATCH
-
-======
-
-INFORMATION ===============================
-ID: 1831
-TITLE: Anarchy Court
-AUTHOR: Jinx Izayoi
-VERIFIED: True
-TAGS: Skit
-SET: Courtroom
-DATE: 11/10/25
-CHARACTERS ================================
-JUD: Judge:Judge Chair
-PROS: Prosecutor:Plaintiff Table
-DEF: Defense Lawyer:Stage Left
-ACC: Defendant:Defendant Table
-SUGGESTIONS =============================
-CRIME:a funny crime to be charged with:infidelity,jaywalking,impersonating an officer
-BANK:something people store/hoard:money,spaghetti sauce,bread
-WEAP:a weapon:gun,lightsaber,whip
-NUM:any number:100,one trillion,68.99999999999999999999999999999
-VEH:a vehicle:Ford F-150,Ferrari,AC-130
-DRUG:a drug (plural):meth,viagra,Flinstones vitamins
-CHAR:a fictional character you really like:Sakuya Izayoi,Fox McCloud,Stella from Harper Valley
-NAME:the name of a player in the audience:Jar,Jinx Izayoi,John Jacob Jingleheimer Schmidt
-WORLD:a well-known VRChat world:Murder 4,Furry Hangout,Prismic's Avatar Search
-CELEB:a famous person almost everyone knows:god,Obama,Martha Stewart
-PLAY:the name of a script or movie you like:Too Many Boyfriends,Who's Cuter?,Attack of the Produce Aisle
-VERD:a court verdict (guilty or not guilty):guilty,not guilty,very handsome
-SCRIPT ==========================================
-shark tank serious music 1
-JUD: You may all be seated. Anarchy Court is now in session. (bang gavel)
-JUD: Plaintiff, you may give your opening statement.
-PROS: (stand up) Yes, your honor. Good people of the audience, I stand before you today to bring justice to that menace opposite of me.
-PROS: Their crimes include homicide, robbery, arson, tax evasion, resisting arrest, drug possession, CRIME, and tax evasion.
-ACC: Uhh... you said tax evasion twice.
-DEF: Really? That's the thing you're concerned about?
-JUD: Please, let your lawyer do the talking. Prosecution, what exactly did they do to warrant these charges?
-PROS: We believe they were the one responsible for robbing the BANK bank, attacking its patrons, and attempting to burn it down.
-JUD: I presume you've brought evidence to prove these claims?
-PROS: Yes, your honor. (present evidence to judge) Here is the WEAP the suspect used, left at the scene.
-PROS: And here is the forensics report for the fingerprints on the WEAP, indicating a NUM% match with the defendant's own.
-PROS: Additionally, a search was performed of the defendant and their VEH.
-PROS: Inside the VEH, investigators found several objects tying the defendant to the crime.
-PROS: These include a baggie of DRUG, an empty gas canister, and a disturbing amount of merchandise depicting the fictional character named CHAR.
-ACC: Dang. That's my VEH alright.
-DEF: (quietly to your defendant) Would you kindly excercize your fifth amendment rights?!
-PROS: With this overwhelming evidence, I believe I've built a solid case on who the culprit really is.
-JUD: You may be seated. Defense, would you like to rebut the evidence brought by prosecution?
-DEF: Yes, your honor. First thing's first, why would my client even need to rob a BANK bank? For BANK? Puh-lease.
-DEF: Second, a NUM% fingerprint match? Preposterous. It's almost like you asked a random person for the first number that came to their mind.
-DEF: Third, what my client does with their CHAR body pillow on their own time isn't revelant to this case.
-ACC: Why am I taking stray bulletpoints from my own lawyer?
-DEF: But none of this evidence really matters, your honor, for my client has an airtight alibi.
-DEF: They were at home, playing the online video game VRChat at the exact time this incident occured.
-shark tank positive music
-DEF: (present evidence to judge) We have internet logs of their online username logging into an Audience Anarchy world from their IP address.
-DEF: Here are written affidavits from the Pawn who works at the front desk, and a player named NAME who was also there.
-DEF: Both testimonies confirm that my client was present in the instance at the time of the crime.
-DEF: My client spent several hours doing this, then hopped to a WORLD world for a bit before logging off, after the crime had already ended.
-PROS: Objection!
-vine boom
-PROS: Anyone else could've played on the defendant's account, and IP addresses can easily be spoofed!
-DEF: That would require someone else to know my client's login details, which my client doesn't share.
-DEF: (to audience) Remember everyone, do not give anybody your password under any circumstances.
-ACC: Valid.
-PROS: Your honor, to poke some holes into this unlikely story, I would like to call their client to the stand for questioning.
-JUD: I'll allow it. Defense attorney, you may be seated. Defendant, take your place at the witness stand.
-DEF: (sigh) Go on, then.
-Meanwhile ACC: (walk to the witness stand)
-JUD: I'll swear you in myself. Do you swear to tell the truth, the whole truth, and nothing but the truth, so help you CELEB?
-ACC: Uhh, yeah. Sure. I do.
-PROS: So, supposedly, a Pawn and a friend of yours would argue that you were playing Audience Anarchy with them during the crime, correct?
-ACC: Yep.
-PROS: How can that even be the case? First off, a Pawn is an NPC who cannot see, hear, or even smell you in the game.
-ACC: Wow, that's kinda mean. The Pawns have feelings too.
-PROS: Secondly, how can we be so sure this NAME fellow is a trustworthy source, and not an accomplice of yours?
-ACC: I remember being in the audience, watching them act out a play called PLAY. They were very dramatic. I cried a little.
-PROS: There's my third point! If you were in the audience, you could have left your avatar in the game while committing the crime!
-DEF: Objection!
-vine boom
-DEF: During that time, you don't think my client would've been ejected for inactivity, or kicked by other players on a whim?
-PROS: That's just pure speculation. Bottom line is, you can't truly prove your client wasn't at the scene of the crime.
-PROS: (to defendant) And how are you gonna explain your fingerprints being found on the WEAP?
-ACC: I shouldn't have to. That's not my job.
-DEF: (under your breath) Good answer...
-JUD: I think we've heard more than enough. Prosecution, defendant, you may return to your seats.
-JUD: We are going to take a short NUM minute recess and give the jury time to reach a verdict. (bang gavel)
-TYPEWRITER: NUM agonizing minutes later...
-JUD: The jury has come to a conclusion regarding the verdict. I will read it out loud now. (unfold paper) It is written...
-JUD: On all charges brought forward today, we the people find the defendant...
-Music Stops
-JUD: VERD!
-MEANWHILE PROS: (react to verdict)
-JUD: Court dismissed. (bang gavel)
-Meanwhile DEF: (react to verdict)
-ACC: I need to tell my beautiful CHAR right now!
-courtroom sting
-
-======
-
-INFORMATION ===============================
 ID: 1706
 TITLE: Attack of the Produce Aisle!
 AUTHOR: ModalSoul
@@ -57672,6 +57071,104 @@ NAR: Will STNAME and the others arrive in time?
 NAR: Was Krill's hoagie really worth using a wish on the WITEM?
 NAR: Find out next time as the Attack of the Produce Warriors continues!
 Meanwhile SHORT: Wh-- Hey! I thought it would be a good idea at the time! I know you can hear me! Hey!
+
+======
+
+INFORMATION ===============================
+ID: 1831
+TITLE: Anarchy Court
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: Skit
+SET: Courtroom
+DATE: 11/10/25
+CHARACTERS ================================
+JUD: Judge:Judge Chair
+PROS: Prosecutor:Plaintiff Table
+DEF: Defense Lawyer:Stage Left
+ACC: Defendant:Defendant Table
+SUGGESTIONS =============================
+CRIME:a funny crime to be charged with:infidelity,jaywalking,impersonating an officer
+BANK:something people store/hoard:money,spaghetti sauce,bread
+WEAP:a weapon:gun,lightsaber,whip
+NUM:any number:100,one trillion,68.99999999999999999999999999999
+VEH:a vehicle:Ford F-150,Ferrari,AC-130
+DRUG:a drug (plural):meth,viagra,Flinstones vitamins
+CHAR:a fictional character you really like:Sakuya Izayoi,Fox McCloud,Stella from Harper Valley
+NAME:the name of a player in the audience:Jar,Jinx Izayoi,John Jacob Jingleheimer Schmidt
+WORLD:a well-known VRChat world:Murder 4,Furry Hangout,Prismic's Avatar Search
+CELEB:a famous person almost everyone knows:god,Obama,Martha Stewart
+PLAY:the name of a script or movie you like:Too Many Boyfriends,Who's Cuter?,Attack of the Produce Aisle
+VERD:a court verdict (guilty or not guilty):guilty,not guilty,very handsome
+SCRIPT ==========================================
+shark tank serious music 1
+JUD: You may all be seated. Anarchy Court is now in session. (bang gavel)
+JUD: Plaintiff, you may give your opening statement.
+PROS: (stand up) Yes, your honor. Good people of the audience, I stand before you today to bring justice to that menace opposite of me.
+PROS: Their crimes include homicide, robbery, arson, tax evasion, resisting arrest, drug possession, CRIME, and tax evasion.
+ACC: Uhh... you said tax evasion twice.
+DEF: Really? That's the thing you're concerned about?
+JUD: Please, let your lawyer do the talking. Prosecution, what exactly did they do to warrant these charges?
+PROS: We believe they were the one responsible for robbing the BANK bank, attacking its patrons, and attempting to burn it down.
+JUD: I presume you've brought evidence to prove these claims?
+PROS: Yes, your honor. (present evidence to judge) Here is the WEAP the suspect used, left at the scene.
+PROS: And here is the forensics report for the fingerprints on the WEAP, indicating a NUM% match with the defendant's own.
+PROS: Additionally, a search was performed of the defendant and their VEH.
+PROS: Inside the VEH, investigators found several objects tying the defendant to the crime.
+PROS: These include a baggie of DRUG, an empty gas canister, and a disturbing amount of merchandise depicting the fictional character named CHAR.
+ACC: Dang. That's my VEH alright.
+DEF: (quietly to your defendant) Would you kindly exercise your fifth amendment rights?!
+PROS: With this overwhelming evidence, I believe I've built a solid case on who the culprit really is.
+JUD: You may be seated. Defense, would you like to rebut the evidence brought by prosecution?
+DEF: Yes, your honor. First thing's first, why would my client even need to rob a BANK bank? For BANK? Puh-lease.
+DEF: Second, a NUM% fingerprint match? Preposterous. It's almost like you asked a random person for the first number that came to their mind.
+DEF: Third, what my client does with their CHAR body pillow on their own time isn't revelant to this case.
+ACC: Why am I taking stray bulletpoints from my own lawyer?
+DEF: But none of this evidence really matters, your honor, for my client has an airtight alibi.
+DEF: They were at home, playing the online video game VRChat at the exact time this incident occured.
+shark tank positive music
+DEF: (present evidence to judge) We have internet logs of their online username logging into an Audience Anarchy world from their IP address.
+DEF: Here are written affidavits from the Pawn who works at the front desk, and a player named NAME who was also there.
+DEF: Both testimonies confirm that my client was present in the instance at the time of the crime.
+DEF: My client spent several hours doing this, then hopped to a WORLD world for a bit before logging off, after the crime had already ended.
+PROS: Objection!
+vine boom
+PROS: Anyone else could've played on the defendant's account, and IP addresses can easily be spoofed!
+DEF: That would require someone else to know my client's login details, which my client doesn't share.
+DEF: (to audience) Remember everyone, do not give anybody your password under any circumstances.
+ACC: Valid.
+PROS: Your honor, to poke some holes into this unlikely story, I would like to call their client to the stand for questioning.
+JUD: I'll allow it. Defense attorney, you may be seated. Defendant, take your place at the witness stand.
+DEF: (sigh) Go on, then.
+Meanwhile ACC: (walk to the witness stand)
+JUD: I'll swear you in myself. Do you swear to tell the truth, the whole truth, and nothing but the truth, so help you CELEB?
+ACC: Uhh, yeah. Sure. I do.
+PROS: So, supposedly, a Pawn and a friend of yours would argue that you were playing Audience Anarchy with them during the crime, correct?
+ACC: Yep.
+PROS: How can that even be the case? First off, a Pawn is an NPC who cannot see, hear, or even smell you in the game.
+ACC: Wow, that's kinda mean. The Pawns have feelings too.
+PROS: Secondly, how can we be so sure this NAME fellow is a trustworthy source, and not an accomplice of yours?
+ACC: I remember being in the audience, watching them act out a play called PLAY. They were very dramatic. I cried a little.
+PROS: There's my third point! If you were in the audience, you could have left your avatar in the game while committing the crime!
+DEF: Objection!
+vine boom
+DEF: During that time, you don't think my client would've been ejected for inactivity, or kicked by other players on a whim?
+PROS: That's just pure speculation. Bottom line is, you can't truly prove your client wasn't at the scene of the crime.
+PROS: (to defendant) And how are you gonna explain your fingerprints being found on the WEAP?
+ACC: I shouldn't have to. That's not my job.
+DEF: (under your breath) Good answer...
+JUD: I think we've heard more than enough. Prosecution, defendant, you may return to your seats.
+JUD: We are going to take a short NUM minute recess and give the jury time to reach a verdict. (bang gavel)
+TYPEWRITER: NUM agonizing minutes later...
+JUD: The jury has come to a conclusion regarding the verdict. I will read it out loud now. (unfold paper) It is written...
+JUD: On all charges brought forward today, we the people find the defendant...
+Music Stops
+JUD: VERD!
+MEANWHILE PROS: (react to verdict)
+JUD: Court dismissed. (bang gavel)
+Meanwhile DEF: (react to verdict)
+ACC: I need to tell my beautiful CHAR right now!
+courtroom sting
 
 ======
 
@@ -57838,6 +57335,774 @@ gunshot
 ZILL: (collapse on the table) Ughhhh... My BODY hurts...
 JET: I did warn you about the FOOD...
 knife wound
+
+======
+
+INFORMATION ===============================
+ID: 1838
+TITLE: Awkward Visit with a Friend
+AUTHOR: Jacqueline Vile
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 11/10/25
+CHARACTERS ================================
+ALEX: ALEX:Entrance Stage Right
+CHRIS: Chris:Couch
+MOM: Mom:Kitchen
+SUGGESTIONS =============================
+MOMMY:An authority figure:Birth giver,Mom,Mommy
+KIDDO:nickname for your kid's friend:Bad Influence,little one,big boy
+SLOP:something edible:Chicken casserole,spaghetti,banana bread
+CRAZY:word for crazy:mentally off,looney,cuckoo
+NOSE:body part(s):nose,mouth,finger
+DRYER:A household utility:dryer,washer,fridge
+MILK:a drink:milk,soda,coffee
+AMAZING:A complimentary adjective:amazing,awesome sauce,outstanding
+SANDY:A flavor:sour,dry,pasty
+BOWL:name a container:bowl,box,bucket,pitcher,mug
+SHOWTIME:name a show or movie:Star Trek,Iron Man,Tweakers Inc
+CELEBRITY:name a celebrity:Tom Cruise,Eddie Murphy,Jim Carrey
+SCRIPT ==========================================
+Happy music 1
+knocking on door
+MOM:(cooking) Better get the door, Chris.
+CHRIS: Got it MOMMY!(Gets up to answer the door)
+ALEX: Yooo wazzup? (Hugs friend when the door opens)
+CHRIS: Wazzup!!
+MOM: Wazzuuuupp!!!
+CHRIS: Come on in! We're watching SHOWTIME. I'm already on season 2.
+ALEX: Season 2? Dang, I promise not to spoil anything.
+CHRIS: You've already seen it?
+ALEX: Oh yeah. I'm already almost done with season 4.
+MOM: Dinner will be done in 5 minutes. KIDDO, could you do me a favor and grab me a few BOWL' s.
+ALEX: Sure thing MOMMY! (go to grab them)
+MOM: oh no not those BOWL's.
+ALEX: Sorry MOMMY. which ones do you want me to grab?
+MOM: Those, the flat ones.
+Music Stops
+ALEX: (look between Mrs Koi and the cupboard) Those are plates.
+Halloween Music
+MOM: Oh you silly child. No no no. You must be confused. Those are flat BOWL's. Now would you be so kind as to grab them for me?
+ALEX: sure... (grab the plates and set them on the counter)
+MOM: thank you, KIDDO. (finish preparing dinner)
+MOM: Dinner's ready! come get your SLOP, Chris.
+CHRIS: Oho boy. Thanks MOMMY!(sit on the couch)
+ALEX: Yeah, thanks MOMMY.(sit on the couch)
+MOM: (sit on the couch)You're welcome sweetheart
+CHRIS: mmmhh, that's really good SLOP, MOMMY.
+ALEX: Yeah the texture is AMAZING. Maybe just a bit SANDY though.
+MOM: Oh right, I forgot. Alex, would you do me a favor and grab MILK and some BOWL's so we have something to drink?
+ALEX: You mean cups?
+MOM: No sweetie, I mean bowls. Handled BOWL's.
+ALEX: mugs?
+CHRIS: (stand up) I'll get them.
+CHRIS: (head to the kitchen. Return with the mugs and milk) Here you go, Mom.
+MOM: Thank you sweetheart. so much more responsible than your father. So KIDDO, how is school treating you?
+ALEX: It's ok.
+CHRIS: Alex won 6th place in our last DRYER competition.
+MOM: oh lovely. that's quite an achievement!
+ALEX: If you say so.
+MOM: Students need that boost in confidence. It made me so happy when Chris told me they were implementing SHOWTIME awards.
+ALEX: I guess. But I could've done better.
+MOM: But that's true for anyone. Look at CELEBRITY. He may not have been the best, but he still made it into a major film.
+ALEX: who?
+CHRIS: Noone knows who CELEBRITY is, MOMMY.
+MOM: You two saw Aladdin, right?
+ALEX: the new one with Will Smith?
+MOM: yeah, that one! Mena played Aladdin in it. He did such a good job.
+ALEX: The cartoon was better.
+MOM: Alright, well, I need to powder my NOSE and take care of my BOWL's.(Take care of your plate in the kitchen. Exit stage left)
+CHRIS: (sigh) You should not have said that.
+ALEX: Chris.
+CHRIS: huh, wha?
+ALEX: Am I CRAZY?
+CHRIS: I don't know what you mean.
+ALEX: Why is she calling every dish a BOWL?
+CHRIS: Because they are.
+ALEX: No they're not. We just ate off of plates and drank out of mugs.
+CHRIS: (shake your head) look, they're all BOWL's. It's an umbrella term.
+ALEX: Ok, what about a cup?
+CHRIS: drinking BOWL without a handle.
+ALEX: A pot?
+CHRIS: Cooking BOWL.
+ALEX: Strainer?
+CHRIS: Holey BOWL.
+ALEX: what about a baking pan?
+CHRIS: Bread BOWL.
+ALEX: (stand up) this is insane.
+CHRIS: it's not that deep man.
+ALEX: Ok... what about a frying pan?
+CHRIS: Frying BOWL.
+ALEX: A wok?
+CHRIS: Asian cooking BOWL.
+ALEX: not everything is a BOWL!
+CHRIS: Dude, you're overthinking it. Anything is a BOWL if you think about it.
+ALEX: Who hurt you?
+CHRIS: Look, at some point you stop asking questions and accept it.
+ALEX: But why?
+CHRIS: Have you ever had your NOSE shoved inside a BOWL?
+ALEX: No.
+CHRIS: Good. You're lucky. Just play along with it, alright? You don't wanna know the pain.
+ALEX: I feel like that guy in the 3rd episode of showtime right now.
+CHRIS: Yep. I've been there. When CELEBRITY got stuck inside a DRYER.
+ALEX: failed stunt?
+CHRIS: (nod) yep. the rope came loose and he was too short to get back out.
+ALEX: (shake your head) but how do you get stuck in the DRYER?
+CHRIS: beats me. I heard he broke his NOSE and spent months in the hospital.
+ALEX: Jeez.
+CHRIS: Yeah it's like half the size it was now. 
+MOM: (Enter stage left) Alright, I'm back. What did I miss?
+ALEX: nothing.
+MOM: very well, here, I'll take care of your BOWL's.
+CHRIS: Thank you, MOMMY.
+ALEX: Yeah thanks.
+MOM: my pleasure. (take the plate and mug to the kitchen)
+MOM: So, KIDDO. How's your dad's van? I heard it needed work done last week.
+ALEX: (sigh) I need to leave.
+CHRIS: huh? why?
+ALEX: I got homework and would like to go to bed early...
+MOM: You sure? it's not good to walk after filling up on SLOP.
+ALEX: yes I'm sure.
+CHRIS: If you insist.
+ALEX: (goes to the front door)and before I go...
+MOM: yes?
+ALEX: my dad drives a pickup truck!(Exit stage right)
+MOM: Wonder what gave him such a SANDY attitude.
+ALEX: Not sure MOMMY.
+MOM: (sit down) Pickup truck. Isn't that just an open-back van?
+ALEX: Sure MOMMY. Sure. 
+MOM: Awe well. make sure to brush your teeth. And no playing with your NOSE.
+ALEX: But MOMMY-!
+MOM: no! I do not want to clean up your mess in the morning.
+ALEX: Fine.
+MOM: What was that?
+ALEX: Yes MOMMY. (Exit stage left)
+MOM: what a good KIDDO. I'm so proud of him. Gonna grow up to be just like CELEBRITY one day.
+ALEX: MOMMY!
+MOM: What's wrong sweetheart?
+ALEX: I got my NOSE stuck in the DRYER!
+MOM: What in the name of- I'm coming KIDDO! MOMMY's got you! (Exit stage left)
+
+======
+
+INFORMATION ===============================
+ID: 1623
+TITLE: Too Many Boyfriends
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: 
+SET: Murder
+DATE: 21/04/25
+CHARACTERS ================================
+MAID: The Maid:Stage Left
+MISS: The Mansion's Mistress:Entrance Stage Left
+BOY1: The Creepy Boyfriend:Backstage
+SIS: The Mistress` Younger Sister:Backstage
+BOY2: The Demonic Boyfriend:Backstage
+SUGGESTIONS =============================
+BOYNAME:name of a powerful character:Okina,Jesus,Beerus,Gojo,Viktor
+SYSNAME:name of a girl from an anime:Flandre,Konata,Nezuko,Serenity,Jovi
+OLDNAME:name of a renowned or wise character:Yukari,Elvis,Tupac,Miyagi,Master Pang
+TITLE1:a title for a renowned person:sage,queen,siren,magistrate,congresswoman
+TASK:a verb:get around,teleport,die,execute order 66,post on social media
+DESSERT:a dessert:cake,flan,ice cream,popsicles,pastries
+COUNTRY:a country or other large location:Japan,Gensokyo,Hell,Western Europe,the vacuum of space
+DEMON:name of an evil character:Toutetsu,The Devil,Frieza,Mordegon,Nemesis
+NAMEAUD:name of someone in the audience:Meiling,Jar,Jinx Izayoi
+TITLE2:a type of relationship between people:boss,cousin,side-piece,best friend,arch-nemesis,secret lover,life coach,soul mate,HR Department
+NUM:a whole number:1,500,69
+CATCH:a funny catchphrase:Oh dear,Show's over go home.,The Fitnessgram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues,I need a new job,Say something nice about the person next to you
+SCRIPT ==========================================
+(dark classical music)
+MAID: (open the front door) Welcome home, milady.
+MISS: (walk inside) Sorry. I was gone for several days. Anything new?
+MAID: No. Nothing at all. We've just had a few guests.
+MAID: The tengu reporter, the fairy that lives nearby...
+MISS: Same as always.
+MAID: And... The young mistress brought her boyfriend.
+record scratch
+Music Stops
+MISS: (infuriated) What do you mean "nothing at all?!"
+TYPEWRITER: The Mistress decides to meet with her sister and her new "Boyfriend."
+(japanese music 2)
+BOY1: (enter Stage Right) My name is BOYNAME. I am a god of the back door. A god of impairments...
+Meanwhile MAID: (walk around the set and clean everything)
+BOY1: God of Noh, god of outcasts, god of stars, and boyfriend of SYSNAME.
+MISS: Listen here. There are rumors going around the village of you abducting women from the outside world, you know?
+BOY1: Ah hah hah! Sounds like quite the misunderstanding I should clear up.
+BOY1: I don't just like foreign girls. I`ll take them domestic just fine. Like OLDNAME for one.
+SIS: (enter Stage Right) Are you reeeaaally trying to defend yourself?
+MISS: Listen, SYSNAME. I wouldn't complain if a boyfriend you brought home was a murderer or a terrorist or something...
+MISS: But a TITLE1 is a step too far.
+SIS: Huuuh? And why is that? You're on pretty good terms with OLDNAME, aren't you?
+MISS: Sure, but we're not dating. What exactly do you even like about BOYNAME, SYSNAME?
+SIS: Huh? What makes you think I "like" her?
+vine boom
+SIS: I just agreed to make her my boyfriend cuz she makes it easy to TASK.
+MISS: Pretty rude of you to just use her to TASK, isn't it?
+BOY1: Heh... I get to be her boyfriend.
+MISS: G-good for you...
+SIS: (sigh) You know I have plenty of other boyfriends besides BOYNAME, right?
+SIS: There are those cute monks who work at the temple school, obviously.
+Meanwhile MISS: ...plenty?
+SIS: And the old man at the sweets shop is my boyfriend cuz he gives me his test DESSERT.
+MISS: Don't just go around making random people your boyfriend.
+SIS: DEMON is my boyfriend who plays with me. NAMEAUD is my boyfriend who sleeps with me...
+MISS: Right. Remind me to kill NAMEAUD after this play.
+MISS: And that... DEMON, was it? Why haven't you introduced them to your sister?
+SIS: Why the hell should I?
+MISS: Hey now! If they seem nice, I'll at least pull out some DESSERT or something.
+BOY1: Hmm? Sister-in-law, you've never met DEMON?
+MISS: Call me that again, and I'll kill you as well.
+Music Stops
+scary music
+BOY1: DEMON is a horned beast who leads the Gouyoku Alliance, one of the great powers of the Animal Realm.
+BOY1: Over in COUNTRY, the Taotie is even counted among the "Four Great Fiends."
+BOY1: At the moment, I've arranged for them to be in charge of a certain place. Want to take a guess? The hint is "blood."
+MISS: SYSNAME, go with that one.
+SIS: Huuuh? Where's this coming from?
+MISS: They have the whole "Demon King" vibe going on, right?! A perfect fit for our pedigree!
+SIS: Geez! Don't try to order me around!
+MAID: Young miss SYSNAME.
+Music Stops
+Teleport BOY2 to Entrance Stage Left
+MAID: A second boyfriend is here. (walk to front door)
+MISS: Could it be... DEMON?
+MAID: Yes, just so. Very astute, milady. (open door)
+(jazz music 1)
+BOY2: (walk in) Hey, SYSNAME! I'm here to see you! I brought a new game!
+SIS: New game!! I'm gonna play with DEMON now, so sis! BOYNAME! Get out!!
+BOY2: Ku ku ku... not so fast... looks like you don't know what this new game entails.
+MISS: Demon King vibes!
+BOY2: Ever play a tabletop RPG?
+MISS: Uhh... never mind.
+TYPEWRITER: One DnD session later...
+MISS: Hey, SYSNAME. I've been thinking. This might just be the first time that I've seen you having fun and laughing with your friends.
+MISS: I really think you should choose DEMON as your boyfriend. Even if she's not as handsome as I imagined.
+BOY1: What are you saying, NAMEAUD? You're embarrassing me in front of everyone.
+MISS: I'm not talking to you. Ah, wait... we're all larping as different characters right now...
+MISS: Hey!! Why is this stupid script so confusing?!
+SIS: Damn, NAMEAUD, you really suck at roleplaying.
+BOY2: You can say that again.
+MISS: Come on! I'm being serious here, dammit!
+MISS: DEMON, what about you? Are you going to marry my SYSNAME?
+BOY2: Huh?! M-marry?! (panicking)
+BOY2: Do you mind if I do a check real quick?
+SIS: Barf. No one wants to talk to their TITLE2 about marriage stuff.
+BOY2: (pull something out of pocket) If you roll a NUM on this 500-sided dice, you get married.
+MISS: That's basically a ball, huh?
+SIS: Here goes something. (throw die)
+gameshow ding
+SIS: Ah. I rolled a NUM.
+Music Stops
+gong
+happy music 1
+BOY2: The game master and a player got married, so the players... win?
+BOY2: By the way, does that actually mean I'm marrying BOYNAME, or...?
+SIS: Huh?! My boyfriends are marrying each other all of a sudden?!
+BOY1: The one you really want to marry is your dear big sister, isn't it? I can tell.
+SIS: What the hell gave you that idea!?
+BOY2: God damn, this TITLE1 creeps me out.
+Meanwhile BOY1: I've already got a love triangle in mind...
+SIS: If big sis is NAMEAUD, but my boyfriend who's my boyfriend's boyfriend is also myself, does that mean me and big sis are also married? (scream)
+MISS: SYSNAME is spiraling into madness!
+MAID: CATCH
+
+======
+
+INFORMATION ===============================
+ID: 1656
+TITLE: Who's Cuter?
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+DATE: 08/05/25
+CHARACTERS ================================
+GIRL1: The Inquisitive Girlfriend:Entrance Stage Right
+GIRL2: The Tired Girlfriend:Stage Left
+SUGGESTIONS =============================
+DEAR:a term of endearment for a loving partner:sweetie,honey,darling,babe,my dude
+STATE:a named location:Gensokyo,the Pentagon,Skyrim,Middle Earth,Night City
+PET:an animal you could keep as a pet:dog,lizard,fox,cat,axolotl
+NAME1:the name of a celebrity:Taylor Swift,Jennifer Lopez,Snoop Dogg,Uma Thurman,Brie Larson
+NAME2:the name of a video game character:Luigi,Solid Snake,Lara Croft,Sonic the Hedgehog,Rosalina
+WEAPON:a weapon:knife,gun,lightsaber,grenade,tri-beam
+NAME3:the name of an anime character:Light Yagami,Sailor Moon,Hatsune Miku,Kasane Teto,Reze
+NAME4:the name of a player in the audience:Jar,Jinx Izayoi,Reimu
+CREAT:a fictional creature:Tupai,Chupacabra,The Devil,Agumon,a Moogle
+TEAM:a sports team:Kappa Dam,Dallas Cowboys,LA Dodgers
+SUPER:a super attack from a video game:Quadruple Kunai Bullet Pattern,Shun Goku Satsu,Kamehameha,Gigaslash,United States of Smash
+CLASS:a difficult school subject or scientific term:psychology,trigonometry,sex ed,theater arts,social studies
+SCRIPT ==========================================
+GIRL2: I know you're back there, DEAR. Could you please not sneak around my game room? It's past midnight.
+GIRL1: (walk on stage) I just happened to wake up. I wanted to see what you were doing.
+GIRL2: (mockingly) Don't tell me... you couldn't sleep by yourself? Alright then.
+GIRL2: Y'know, back before I came to live in STATE, there was someone else who'd follow me around after dark.
+GIRL1: Spare me the talk of your exes, would you?
+GIRL2: No, not like that.
+GIRL2: I mean a pet PET I used to have. DEAR, you're a bit like... that... PET... (falling asleep)
+(vine boom)
+GIRL1: (slap them awake) No sleeping.
+Meanwhile GIRL2: (react to slap) Ow!
+GIRL1: Hey. What kind of PET was it?
+GIRL2: DEAR, please go back to bed.
+GIRL1: You brought it up, didn't you? Was it a cute PET?
+GIRL2: Well, yeah.
+GIRL1: Who's cuter... the PET or me?
+GIRL2: Huuuh? Obviously the PET-
+(waterphone)
+GIRL2: Ah, uh, you, DEAR!
+GIRL1: Okay then. Let's get serious about this. (walk behind host podium)
+(gameshow intro)
+GIRL1: Hello everybody, welcome to Who's Cuter? The game show where I give my girlfriend here two options.
+Meanwhile GIRL2: What the hell?
+GIRL1: If she correctly guesses which one is cuter, she won't be single when she wakes up tomorrow!
+GIRL2: (flabbergasted) What kind of interrogation is this?!
+GIRL1: Contestant #1, are you ready to play? Here comes your first question!
+(gameshow start)
+GIRL1: Who's cuter... me, or NAME1?
+GIRL2: Already a sudden death situation, huh? Wait a minute...
+GIRL2: (to yourself) She'd never even think of wanting to compare herself against NAME1. She loves NAME1!
+GIRL2: If I get careless and say that it's DEAR, she'll pull some reverse CLASS on me!
+GIRL2: (to her) Right. Between you and NAME1, I'd say it's definitely......
+(thunder)
+GIRL1: (sniffle)
+GIRL2: Y-you, DEAR.
+(gameshow ding)
+GIRL1: Alright. Me or NAME2?
+GIRL2: We're still going?!
+GIRL1: Who!? (Point WEAPON)
+GIRL2: Put the WEAPON away!!
+GIRL1: (angrier) Who??
+GIRL2: You, DEAR!!
+GIRL1: Me or NAME3?
+GIRL2: You, DEAR.
+GIRL1: Okay. What about me or NAME4?
+GIRL2: Please have mercy...
+TYPEWRITER: Eight hours later
+GIRL1: (wide awake) Me or CREAT?
+GIRL2: (very tired) You, DEAR...
+GIRL1: Me or the TEAM mascot?
+GIRL2: You, DEAR...
+GIRL1: Me or the SUPER?
+GIRL2: (sigh) You, DEAR...
+(gameshow outro)
+
+======
+
+INFORMATION ===============================
+ID: 1707
+TITLE: Memes
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: 
+SET: Western
+DATE: 17/06/25
+CHARACTERS ================================
+JACK: Jack:Stage Left
+MONS: The Talkative Villain:Balcony
+SUGGESTIONS =============================
+STORM:a life-threatening weather condition:Monsoon,Hurricane,Tornado,Knifestorm,Acid Rain
+NUM:any number:69,one million,zero
+JOBBER:a verb or occupation ending in -er:Ripper,Stripper,Plumber,Sniper,Destroyer
+FOOD:a food strongly associated with America:cheeseburger,chili dog,donut,fried twinkie,brownie
+SOC:a social media video platform:TikTok,Youtube,Vine,Twitter
+GAME:a popular online game:Fortnite,VRChat,Runescape,Dead by Daylight,Splatoon
+EVENT:a major historical event:the great depression,world war 3,the Epstein files being released,the first moon landing,MK-Ultra
+NAME:the name of a player in the audience:Jar,Jinx Izayoi,Jetstream Sam
+MEDIA:a very quotable show or game:Invincible,Breaking Bad,Among Us,Stanley Parable,Danganronpa,Watchmen
+VEG:a fruit or vegetable:pickle,pear,tomato
+ANIM:a cute animal:cat,anomalocaris,hedgehog,raccoon,koala
+WEAP:a deadly close-range weapon:sword,shotgun,blade,kunai,fist
+SCRIPT ==========================================
+JACK: It took me a while, but I've finally made it to STORM's base of operations. And I only had to kill NUM of their guards on the way here!
+MONS: And through your rampage, you've come face to face with me. I am STORM, of the Blades of Destruction.
+mystery music 1
+JACK: Yeah... I guessed as much.
+MONS: How pleased you are to chop away, Jack the JOBBER.
+JACK: JOBBER? I hardly know her!
+laughter
+JACK: Listen, I have a mission to complete, so can we get on with our epic clash of WEAPs or whatever?
+MONS: You were sent here by rich old men, to kill me for someone else's ideals, just like the good little soldier you are.
+JACK: (angrily) What are you talking about?
+MONS: (step down from balcony) Free will is a myth. Religion is a joke.
+MONS: We're all pawns, controlled by something greater...
+MONS: Memes! The DNA of the soul!
+JACK: Memes? Oh, you mean like that funny ANIM I saw online?
+Music Stops
+MONS: (deadpan) What?
+JACK: You know, the picture of the ANIM with text on top that says "I can has FOOD?"
+shark tank positive music
+MONS: There are two things very, very wrong with what you just said to me.
+MONS: First, that joke is extremely outdated. Get with the times.
+MONS: Second, that's definitely not the type of meme I'm referring to, and you know it!
+JACK: Oh, you're probably talking about those funny dances from SOC or GAME that all the kids are doing.
+MONS: No! I don't even play GAME, what are you- ugh, listen.
+MONS: Memes shape our will. They are the culture, they are everything we pass on.
+JACK: So when people type posts on internet forums mocking EVENT...
+MONS: Now there's an exquisite meme! I think you're starting to understand!
+JACK: And when they quote MEDIA over and over so much the original meaning is completely forgotten?
+MONS: Never mind, you're further from the truth than I thought.
+JACK: Are you sure?
+MONS: Pretty sure... wait, stop that!
+JACK: Have you seen those videos where the ending is someone's scream edited to cut off early?
+MONS: No! Well, yes, but that's not the point. Memes don't have to be humorous to be memes.
+JACK: How about "full of crap"? Is that a meme?
+MONS: (chuckles) Y'know, Jack, when you put in some effort, you're actually pretty funny.
+MONS: You're even more hilarious than NAME. Though, that's not a very high bar to get over.
+JACK: (chuckles) Wanna hear the greatest meme of all time?
+MONS: I can think of NUM reasons why you shouldn't say what you're about to say.
+JACK: Well, I'm going to anyways.
+Music Stops
+JACK: A STORM walks into the dangerous edge of a WEAP.
+MONS: That's also not a meme, it just sounds like the start of a bad bar joke.
+Meanwhile JACK: (prepare to strike MONS)
+anime sword gleam 2
+MONS: Ack! (fall over)
+telenovela music 3
+MONS: You... you were feigning ignorance so I would lower my guard?
+JACK: Don't be ashamed. It's only nature running its course.
+JACK: Your memes... end here.
+MONS: (weakly) No. I passed one... to you...
+discord notification
+JACK: (check phone) What? How did you send me a message just now?
+MONS: Check... the attachment...
+JACK: Uh, okay? You sent me a picture of food, with a face on it.
+MONS: He turned himself... into a VEG... funniest thing... I've ever seen. (die)
+telenovela sting 2
+
+======
+
+INFORMATION ===============================
+ID: 427
+TITLE: Resurrection
+AUTHOR: Lazer Xiao Long
+VERIFIED: True
+TAGS: Skit
+SET: Forest Bridge
+DATE: 28/04/24
+CHARACTERS ================================
+WARRIOR: Hero's friend:On bridge
+MONSTER: Monster:Stage Left
+HERO: The "revived" Hero:Backstage
+SUGGESTIONS =============================
+WARRIOR:A type of warrior:Hunter,Warrior,Savior,Fighter
+VILLAGE:A village name:Peace,LoveTown,Guildus
+MONSTER:A type of monster:Demon,Werewolf,Monster,Hobgoblin
+EVENT:An event:the attack,the invasion,Christmas
+SPECIAL:Special attack:Flurry Slash,Execution,Blast-phemy
+LOSE:Another way of saying "loser":loser,failure,coward
+LOST:Something that you can lose:arm,soul,heart
+NAME:Name:Romeo,Juliet,Yang
+SAD:A negative emotion:crying,upset,frustrated
+ALLY:Relationship to anyone (i.e. family, friend, brother, etc.):mother,father,brother,friend
+SCRIPT ==========================================
+epic fantasy music 1
+MONSTER: (Intimidating roar at the hero) Graaah!
+WARRIOR: (tired) This MONSTER doesn't know when to quit! But I shouldn't quit either!
+WARRIOR: I'll have to attack with everything I got for me to even have a chance against this MONSTER!
+WARRIOR: For the village of VILLAGE!
+sword fighting
+WARRIOR: (Strike monster several times) Now for the finishing blow!
+super epic charge up
+WARRIOR: HA!
+Music stops, explosion
+MONSTER: Rawr! (Defeated groaning, falls down)
+WARRIOR: Is it dead?
+MONSTER: (Gets up, angrier) Grrrrrr...
+epic cinematic music
+WARRIOR: What?! No way! I gave everything I got against this MONSTER and it had little to no effect?!
+super epic charge up
+MONSTER: Roar!! (Swipe at the hero dramatically)
+explosion
+WARRIOR: Ah! (Collapses) The power... it's too much!
+WARRIOR: (struggles to get up) No.... The children in the village of VILLAGE need me.... Is this the end?
+Meanwhile MONSTER: grrr...(Walks very slowly to the middle of the bridge)
+Music stops, gunshot
+MONSTER: (Staggers from gunshot) Roar!
+HERO: (Enter the stage pointing weapon at the monster) Seems like I entered just in time...
+epic fantasy music 3
+WARRIOR: (Surprised) You're alive?! But how?!
+HERO: ...I'll take care of this. It's the least I could do...
+MONSTER: Roar! (Attack the hero, but it has no effect) R-Roar...
+Meanwhile HERO: (Effortlessly deflect and brush off the MONSTER's attack)
+sword fighting
+HERO: If I keep this up, this would be troublesome. I'll have to finish this now.
+HERO: (charges up attack) SPECIAL... Attack!
+super epic charge up
+HERO: (Stab monster) Hi-ya!
+anime sword gleam 3
+MONSTER: R...roar! (dies)
+explosion, Teleport MONSTER to Backstage
+HERO: (Approach warrior) Don't move... This will be quick... (heals warrior)
+magic sound
+WARRIOR: (fully healed and refreshed) Thank you so much. I am in your debt.
+HERO: Yea... But I must go. Just... don't end up doing something reckless. (Slowly walk toward the exit)
+WARRIOR: Wait...
+Meanwhile HERO: (stop in place)
+Music Stops
+WARRIOR: How did you manage to survive EVENT? We all thought you died at EVENT.... and also... you've completely changed...
+HERO: (Dramatic, back turned) I can't say myself how I survived EVENT and honestly, it would've been better if I did die...
+WARRIOR: Why would you say that? Every WARRIOR deserves to live.
+HERO: But I'm no WARRIOR like you guys.... I am nothing but a LOSE....
+HERO: Especially since someone very close to me lost their LOST because I couldn't get the job done...
+WARRIOR: Someone close to you? Who?
+HERO: I don't want to talk too much detail about it...
+WARRIOR: It's NAME. Isn't it?!
+HERO: (shocked and griefed in pain) Don't.... mention that name...
+WARRIOR: It is NAME...
+Meanwhile HERO: Shut up!
+HERO: (turns around) What's it matter to you?!
+WARRIOR: (stares Hero in the face) You're SAD....
+scary music
+HERO: (SAD) Of course I'm SAD! Do you have any idea how it feels to betray someone's expectations?! Do you?!
+WARRIOR: I.... uh...
+HERO: NAME cared for me, nurtured me, and believed me. I saw NAME as a true ALLY
+HERO: NAME always told me that I'm destined for "greatness" but I couldn't compare with everyone else at the village of VILLAGE! I couldn't...
+HERO: And every failure, I saw the disappointment in NAME's eyes and that affected me as well.
+HERO: And then EVENT happened and the lost of NAME's LOST, was the final nail in the coffin...
+HERO: (looks down) It should've been me.... that's why I'm willing to give back everything that NAME lost even if it costs my life...
+HERO: Someone like me would hardly matter in this world.... I made NAME lose all faith in me...
+WARRIOR: (nervously) B-but... NAME.... has....
+Meanwhile HERO: (exits)
+Music Stops
+WARRIOR: ...NAME still sees the potential in you!!! they have not lost faith in you!! ....And never will....
+
+======
+
+INFORMATION ===============================
+ID: 388
+TITLE: Redemption
+AUTHOR: Lazer Xiao Long
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+DATE: 28/04/24
+CHARACTERS ================================
+VILLAIN: The Villain:Stage Left
+HERO: The broken Hero:Stage Right
+ALLY: The Hero's Ally:Backstage
+SUGGESTIONS =============================
+WEAK:another way of saying "weakling":weakling,coward,child
+HEIR:a type of heirloom:amulet,dagger,ring
+POWER:a word of encouragement :I am very proud of you,You have come a long way,You are strong. Even stronger than I
+RELATION:relationship status (i.e. friend, partner, lover, etc.):friend,comrade,ally
+SPECIAL2:a special move:Attack,Slash,Do-over,Break
+SPECIAL1:a special move:Burning,Final,Ultimate,Dual
+EVENT:an event that took place:Christmas,your birthday,the attack
+FUEL:another way to say energy:energy,fuel,power
+NUMBER:a number:100,1000,1337
+STUFF:something to buy:lunch,first-aid kit,potions
+MONSTER:a type of monster:giant troll,mechagolem,hydra,demon,monster
+SCRIPT ==========================================
+Epic Fantasy Music 2
+HERO: (clash weapon with the Villain) For every blow you deal, I will return it tenfold!
+Meanwhile VILLAIN: (clash weapon with the Hero)
+sword fighting
+VILLAIN: (annoyed) You really are a persistent one, WEAK. But it's time to finish you off for good!
+HERO: I could say the same thing to you, monster. I took everything from someone very close to me and I'm willing to give it all back even if it costs my life!
+VILLAIN: Then I suppose this final strike will dictate who will be the victor.. (charges up special move)
+HERO: Agreed..... (charges up special move)
+super epic charge up
+VILLAIN: Raaaaaa!!!!!!!!!!! (Unleash your attack)
+Meanwhile HERO: Raaaaaa!!!!!!!!!!! (Unleash your attack)
+Music Stops, explosion
+VILLAIN: (falls to the ground) Gack!
+Meanwhile HERO: (falls to the ground) Gack!
+HERO: (On the ground) It's over....
+VILLAIN: (gets up and growls) I never would have thought that a WEAK like you would have gotten this much power ever since EVENT...
+VILLAIN: (slowly walks to Hero) Let alone, I never would have thought someone like you to even survive in the first place....
+Meanwhile HERO: (struggles to get up)
+draw sword
+VILLAIN: (draws weapon) I guess I should finish you off for good. Now DIE!!!!
+ALLY: (enter Stage Right and immediately attack) Hyaaaaa!!!!
+knife wound
+VILLAIN: Gack!!!! (falls to the ground)
+HERO: (To Ally) It's you!
+ALLY: Long time no see! 
+ALLY: Man, look at you...
+HERO: (looks down) I know..... I look like a wreck don't I?
+emotional piano music
+HERO: I've always been a wreck.... I've let many people down because of my incompetence.... Worst of all, you had to suffer since EVENT because of my weakness.
+ALLY: (Reassuring hug) No... you are not as weak as you think you are. I've seen you grown ever since we've first met.
+ALLY: Like for instance, you were able to contend against a MONSTER. The same enemy that defeated our friend with little to no effort.
+ALLY: I am sorry that you felt this way. But what I'm most sorry, is that I've never got a chance to tell you this and that is....
+ALLY: POWER and I am very grateful to have you as my RELATION
+Music Stops, anime sword gleam 1
+HERO: You.... think that?
+ALLY: Yes.... and I never left that... It's okay.... I'm here for you... (hug)
+HERO: I.... (cries in relief)
+VILLAIN: (gets up, growling) and now look who decided to show up.....
+badass music 1
+ALLY: It seems like this guy doesn't have as much FUEL as before.
+Meanwhile HERO: (gets up)
+HERO: I too still don't have as much "FUEL" you know...
+ALLY: True, but at least you still have someone else on your side that is NUMBER% FUEL.
+HERO: (chuckles) True that....
+draw sword
+HERO: (draws weapon) You're buying me STUFF after this.
+draw sword
+ALLY: (draws weapon) That's if we both make out alive that is, my RELATION.
+draw sword
+VILLAIN: (draws weapon) This ends now, once and for all!
+HERO: (charges at the Villain) Graaaa!!!!
+Meanwhile ALLY: (charges at the Villain) Graaaa!!!!
+sword fighting
+VILLAIN: (Fighting) You persistent little...
+VILLAIN: I've defeated both of you in EVENT and I can do it again right now!!
+sword fighting
+ALLY: (Fighting) It won't be the same like in EVENT! Unlike you, we have a purpose in life.
+HERO: (Fighting) And we won't let some "monster" like you interfere our future!
+sword fighting
+ALLY: The bond between my RELATION and I....
+HERO: Is what makes us stronger!
+knife wound
+VILLAIN: (Pain) Noo! (Crouches) No one has ever pushed me to my knees like this before! This is impossible!
+ALLY: (To hero) Let's finish this, my RELATION!!
+HERO: Right!!!
+super epic charge up
+HERO: (Charges up weapon) Together!!!
+Meanwhile ALLY: (charges up weapon) Together!!!
+HERO: SPECIAL1!!!!
+ALLY: SPECIAL2!!!!
+HERO: Raa! (Unleash your attack)
+Meanwhile ALLY: Raa! (Unleash your attack)
+VILLAIN: Grah! This... bested by mere "children"? How droll! (dies)
+explosion, Teleport VILLAIN to Backstage
+HERO: (Give a thumbs up to the Ally) We did it...
+ALLY: (Give a thumbs up to the Hero) Yes we did indeed...
+Music Stops
+HERO: (collapses) That was a tough battle. I honestly thought I would've died for sure.
+ALLY: (helps the Hero back up) Whoa there. You fought a hard battle. You must rest.
+bard music 2
+HERO: (weakened) So.... you going to buy me the STUFF?
+ALLY: (chuckles) Yeah of course I will, my RELATION.
+ALLY: I've told you this before and I'm willing to tell you again that POWER... So, you've earned it.
+HERO: (chuckles) Yea... Thank you for everything. Thank you for being with me this entire time even when I didn't know.
+HERO: ....Oh yea! Your HEIR. You lost it ever since EVENT and I decided to keep it as a memento. I thought maybe I should give it back to its rightful owner.
+ALLY: Oh... Thank you! But... you should keep it. Besides, my HEIR looks good on you.
+HERO: Are you sure about that? It was never mine to begin with...
+ALLY: It is now.
+HERO: I don't know what to say but... thank you... I will take good care of your... our HEIR
+ALLY: I believe you will. Anyways, let's go buy some STUFF. A promise is a promise, no?
+HERO: Yea we should! I'm glad to have you back.
+ALLY: And I'm glad to have you back as well, my RELATION.
+
+======
+
+INFORMATION ===============================
+ID: 1937
+TITLE: The Trolley Problem
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: 
+SET: Classroom
+DATE: 18/11/25
+CHARACTERS ================================
+TEACH: The Psychology Teacher:Teacher Desk
+GKID: The Good Student:Desk 1
+NKID: The Nerdy Student:Desk 2
+SKID: The Sporty Kid:Desk 3
+DKID: The Stoner Kid:Desk 4
+EKID: The Edgy Kid:Desk 5
+SUGGESTIONS =============================
+NUM:a whole number higher than 1:5,69,8.2 billion
+GAD:a type of lever or switch you pull:lever,trigger,switch,plug,crank
+VEH:a large vehicle:train,tram,TNT cart,AC-130
+NAME:a player in the audience:Jar,Jinx Izayoi,Lebanne
+PET:an animal you like:cat,snake,horse
+WEAP:a strong projectile weapon:rocket launcher,javelin,tactical nuke
+SPEED:a term to describe speed or travel:velocity,acceleration,distance
+GOODY:a mocking term for a nice person:goodie two shoes,prim and proper,stick in the mud,kiss-up
+HEAVY:a large, heavy object most people can't lift:fridge,Mjolnir,tractor
+EDGE:the title of an edgy song:Crawling,Bodies,Unwavering Vow
+QUES:a deep philosophical question:Do you think God stays in heaven because he fears what he's created?,How can mirrors be real if our eyes aren't real?,Is the guy that wrote this script watching and judging us right now?
+FIG:a controversial public figure:Putin,Fred Phelps,Charlie Kirk
+SCRIPT ==========================================
+double bass music
+TEACH: Good afternoon, class. Today's lesson is regarding a thought experiment known as The Trolley Problem.
+TEACH: Imagine a VEH with no brakes is speeding down the track, and NUM people are tied to said track.
+TEACH: But you are a bystander standing next to a GAD, which, if pulled, will divert the VEH to a different track with only one person tied down.
+TEACH: Do you do nothing and let the NUM people die, or do you pull the GAD, saving NUM but killing one?
+GKID: (raise hand) Why wouldn't you pull the GAD? You're saving more people that way.
+TEACH: The whole scenario is an ethical dilemma. Does pulling the GAD make you a murderer instead of a bystander? Will the...
+NKID: Why are people tied to the track in the first place? Who put them there?
+TEACH: Uh, I don't know. It's just a hypothetical scenario.
+NKID: If it were me, I would just untie everyone from the track and not worry about "morals".
+TEACH: That's not an option here.
+NKID: Why not?
+SKID: I would get my dad to stop the VEH before it could hit anyone.
+explosion
+TEACH: No, that's also not an option. And even if he could, he might hurt the people riding in the VEH.
+DKID: What if we could, like... increase the state's public transport budget, so the VEHs all have working brakes?
+TEACH: That's... wishful thinking, but not relevant to the question.
+DKID: ...what?
+EKID: Heh, I wouldn't pull the GAD. The more people that die, the better.
+TEACH: Do we need to have another discussion with your parents?
+GKID: (to edgy kid) That's so wrong! I hope I'm not near any VEH tracks with you around!
+NKID: The evildoer can't kidnap me and tie me to any VEH tracks if I never leave my house.
+Meanwhile TEACH: (sit at desk and play on your phone)
+SKID: I would beat up anyone who tries to tie me up to anything! I ain't into that!
+DKID: What if NAME was on one of the tracks? I think that would influence my decision.
+GKID: I think all the victims are implied to be strangers. And who is NAME?
+DKID: Oh, you wouldn't know them. They go to a different reality.
+EKID: Can I make the VEH go down both tracks and kill everyone?
+SKID: You know what? That stoner kid what right. What if my PET was on one of the tracks? I wouldn't let no VEH run him over!
+EKID: If my PET was on the tracks, I would pull out my WEAP that I totally have and blow the VEH to smithereens! (laugh)
+GKID: Omigosh, guys, this isn't part of the question! Would you pull the GAD or not?
+SKID: No! I need to save my PET!
+EKID: Yes! The VEH might derail and hit more people!
+NKID: Maybe! If we consider the SPEED of the VEH versus the location of the people on the tracks, then add wind resistance, stop at terminal velocity,
+DKID: I dunno. Does the GAD even exist? Do morals mean anything in this world? Who am I?
+Meanwhile NKID: calculate the X and Z coordinates, factor in impact force, write the formula, call my mom...
+GKID: Teacher! Is there a right answer?
+TEACH: (put away phone) Oh, uhh, no. The thought experiment is supposed to prove there's no one truly ethically sound answer.
+TEACH: Now, for today's assignment, you will all write a short answer to the Trolley Problem and turn it in without writing your name on it.
+TEACH: I'll read them out loud in a random order, and it's everyone's job to figure out who wrote each answer. You have ten minutes.
+TYPEWRITER: Ten minutes later
+silly music 1
+TEACH: Everyone's turned their paper in? Good, let's read these and guess who wrote what.
+TEACH: The first one says "I would pull the GAD, as saving more lives is more important than moral superiority."
+DKID: Ha.
+SKID: Yep, I know which GOODY wrote that.
+GKID: Is it that obvious? I just think it's a no-brainer, I don't see the ambiguity.
+NKID: Actually, you only think it's a no-brainer because you simply can't comprehend how deep this rabbit hole goes.
+TEACH: The "save more lives" angle is a perspective many people share. I'll read the next one now.
+TEACH: It says "it is my god-given right to lift the VEH off the track and save my PET from certain death.
+TEACH: My dad can lift a HEAVY, so a stupid VEH should be no issue for me."
+EKID: Nah.
+bird screech
+DKID: Dude, even I know your dad can't make a HEAVY budge. Why try to pass such an obvious lie?
+SKID: Shut up! It's called an adrenaline rush, it makes you stronger when someone you care about is about to die.
+EKID: Your arms would bend backwards and break before the VEH even leaves the ground.
+TEACH: The principal told me I should praise thinking outside the box, so well done. (sarcastic)
+TEACH: The next paper reads "if anyone asks, I was never next to the lever. It is statistically impossible for me to be in this hypothetical."
+SKID: (look at the nerd) Loser.
+GKID: So you'd rather let those people die than deal with any sort of responsibility?
+EKID: It's because he'd pass out from seeing all the blood and guts splattered everywhere.
+NKID: Technically, if I were there, there's only be a one in NUM plus two probability that I'd be the one at the lever. I'm more likely to die than get to choose.
+TEACH: Do my brainstorming exercises need the same attendance policy as our school does? Never mind, don't answer that.
+TEACH: I'm trying to interpret this next answer, but it just looks like they wrote the lyrics to EDGE.
+GKID: (look at the edgy student) Dude.
+DKID: Ohh, you're trying to scare the VEH off with your taste in music.
+EKID: No, I just don't care about this stupid project. Let them all die, I say.
+GKID: We need to put you on a watchlist so I don't become another statistic before I graduate.
+TEACH: And the last paper just asks "QUES" which, uhh, I don't think is relevant, or something I should be answering here and now.
+NKID: (look at the stoner student) What?
+SKID: You think you cooked soooo hard with that one, don't you?
+DKID: Wait, this is cooking class? I thought this was theater arts. I mean, we're doing a play right now, right?
+GKID: Well, something in here is definitely baked.
+TEACH: Enough. My mistake today was putting half as much faith in you kids as my ex had in FIG.
+EKID: Is FIG tied to one of the tracks? That might change my answer.
+NKID: (raise hand) Teacher! Class is almost over, and you forgot to give homework!
+Meanwhile DKID: (slowly turn to face NKID) Why?
+Music Stops
+SKID: Oh, now you're gonna get it! Come here! (continue to go off on the nerd)
+Meanwhile EKID: (Upset and angry)
+TEACH: None of you are seeing heaven.
+school bell
 
 ======
 
