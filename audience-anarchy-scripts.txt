@@ -57181,8 +57181,8 @@ TAGS: Skit,Contains Adult Innuendo
 SET: Forest Bridge
 DATE: 28/10/25
 CHARACTERS ================================
-FREAK: Survivor 1:Stage Right
-SANE: Survivor 2:In river
+FREAK: Survivor 1, Loves Zombie:Stage Right
+SANE: Survivor 2, Rational:In river
 ZOMBIE: The "hot" zombie:Backstage
 SUGGESTIONS =============================
 EVENT:A large event or convention:Furcon,Comicon,An anime convention
@@ -57226,7 +57226,8 @@ FREAK: Yeah! A hot one!
 tense cinematic music
 SANE: Look man I've only got one bullet left and we're gonna need to be really sneaky if we're gonna make it to LOCATION
 FREAK: Oh man LOCATION, I hear they have lots of FOOD there!
-SANE: Alright good now I've got your attention. Look these things are smart. Not like the movies at all. If you could distract it maybe I could get a clean shot.
+SANE: Alright good now I've got your attention. Look these things are smart. Not like the movies at all.
+SANE: If you could distract it maybe I could get a clean shot.
 FREAK: Oh gladly!- I mean uh sure...
 ZOMBIE: Miss my wife...
 FREAK: Aww man they're single too!
@@ -57262,7 +57263,7 @@ DATE: 31/10/25
 CHARACTERS ================================
 ROD: Lonely Person:Stage Right
 ZILL: Allergic Friend:Center Stage
-JET: Optimistic Friend:Entrance Stage Left
+JET: Optimistic Friend:Entrance Stage Right
 MOTH: Crush:Backstage
 GHID: Crush's Partner:Backstage
 SUGGESTIONS =============================
@@ -57302,187 +57303,42 @@ record scratch
 music stops
 ZILL: Oh. Well, in that case, I'll need to pass.
 ZILL: I have FOOD allergies...
-Meanwhile JET: (Look over towards Stage Left)
+Meanwhile JET: (Look over towards Stage Left) I hope that guy will be okay.
 message receive
 door creak
 ROD: (enter Stage Left) CRUSH is here, guys!
-Meanwhile ZILL:(Look at the  table, admire the muffins)
+Meanwhile ZILL:(Look at the  table, admire the muffins) Wow, those muffins look tasty though.
 corporate guitar music
 MOTH: (enter Stage Left with Lonely Person) HELLO
 ROD: (turn to Crush) Hey, um, there's something I need to say. You know, we've known each other for a long time.
 MOTH: Yeah! We're best friends!
 ROD: Yeah, but I'm wondering... if you're not too busy, we could...
 MOTH: Hold that thought! I want you to meet someone! (pull out a device and text)
-Meanwhile ZILL: (walk towards the table, grab a muffin)
+Meanwhile ZILL: (walk towards the table, grab a muffin) I can't help it, I need a muffin..
 message send
 GHID: (enter Stage Left, stop next to Crush) You called, babe?
-MOTH: (turn to Lonely Person) I want you to meet my boyfriend, PARTNER!
-Meanwhile JET: (look at the table, see Allergic Friend eat a muffin)
+MOTH: (turn to Lonely Person) I want you to meet my lover, PARTNER!
+Meanwhile JET: (look at the table, see Allergic Friend eat a muffin) Wait, you said you were allergic!
 vine boom
 lacrimosa music
 ROD: What?! NO!! The rumors are true?!?!
 GHID: (turn to Lonely Person) Hey man, how ya doin' today?
-ROD: No... NO. HE HAS A BODY!!! Every time they'll DOING, IT'LL END UP DONE!!!
+ROD: No... NO. His BODY is better than mine!!! Every time they'll DOING, IT'LL END UP DONE!!!
 GHID: Huh?
 MOTH: ...Bro, what are you talking about?
-Meanwhile Zill: (go ham on the muffins, jump up on the table)
+Meanwhile Zill: (go ham on the muffins, jump up on the table) Mmmm these muffins are delicious...
 ROD: NO! I'm done!! I'm going to cut my BODY off!! (run out of Stage Left)
 bird screech
 MOTH: Wait!! (run after Lonely Person, exit Stage Left)
+gunshot
 music stops
 GHID: Uhh... What just happened??
-gunshot
 ZILL: (collapse on the table) Ughhhh... My BODY hurts...
 JET: I did warn you about the FOOD...
-knife wound
-
-======
-
-INFORMATION ===============================
-ID: 1838
-TITLE: Awkward Visit with a Friend
-AUTHOR: Jacqueline Vile
-VERIFIED: True
-TAGS: Skit
-SET: Living Room
-DATE: 11/10/25
-CHARACTERS ================================
-ALEX: ALEX:Entrance Stage Right
-CHRIS: Chris:Couch
-MOM: Mom:Kitchen
-SUGGESTIONS =============================
-MOMMY:An authority figure:Birth giver,Mom,Mommy
-KIDDO:nickname for your kid's friend:Bad Influence,little one,big boy
-SLOP:something edible:Chicken casserole,spaghetti,banana bread
-CRAZY:word for crazy:mentally off,looney,cuckoo
-NOSE:body part(s):nose,mouth,finger
-DRYER:A household utility:dryer,washer,fridge
-MILK:a drink:milk,soda,coffee
-AMAZING:A complimentary adjective:amazing,awesome sauce,outstanding
-SANDY:A flavor:sour,dry,pasty
-BOWL:name a container:bowl,box,bucket,pitcher,mug
-SHOWTIME:name a show or movie:Star Trek,Iron Man,Tweakers Inc
-CELEBRITY:name a celebrity:Tom Cruise,Eddie Murphy,Jim Carrey
-SCRIPT ==========================================
-Happy music 1
-knocking on door
-MOM:(cooking) Better get the door, Chris.
-CHRIS: Got it MOMMY!(Gets up to answer the door)
-ALEX: Yooo wazzup? (Hugs friend when the door opens)
-CHRIS: Wazzup!!
-MOM: Wazzuuuupp!!!
-CHRIS: Come on in! We're watching SHOWTIME. I'm already on season 2.
-ALEX: Season 2? Dang, I promise not to spoil anything.
-CHRIS: You've already seen it?
-ALEX: Oh yeah. I'm already almost done with season 4.
-MOM: Dinner will be done in 5 minutes. KIDDO, could you do me a favor and grab me a few BOWL' s.
-ALEX: Sure thing MOMMY! (go to grab them)
-MOM: oh no not those BOWL's.
-ALEX: Sorry MOMMY. which ones do you want me to grab?
-MOM: Those, the flat ones.
-Music Stops
-ALEX: (look between Mrs Koi and the cupboard) Those are plates.
-Halloween Music
-MOM: Oh you silly child. No no no. You must be confused. Those are flat BOWL's. Now would you be so kind as to grab them for me?
-ALEX: sure... (grab the plates and set them on the counter)
-MOM: thank you, KIDDO. (finish preparing dinner)
-MOM: Dinner's ready! come get your SLOP, Chris.
-CHRIS: Oho boy. Thanks MOMMY!(sit on the couch)
-ALEX: Yeah, thanks MOMMY.(sit on the couch)
-MOM: (sit on the couch)You're welcome sweetheart
-CHRIS: mmmhh, that's really good SLOP, MOMMY.
-ALEX: Yeah the texture is AMAZING. Maybe just a bit SANDY though.
-MOM: Oh right, I forgot. Alex, would you do me a favor and grab MILK and some BOWL's so we have something to drink?
-ALEX: You mean cups?
-MOM: No sweetie, I mean bowls. Handled BOWL's.
-ALEX: mugs?
-CHRIS: (stand up) I'll get them.
-CHRIS: (head to the kitchen. Return with the mugs and milk) Here you go, Mom.
-MOM: Thank you sweetheart. so much more responsible than your father. So KIDDO, how is school treating you?
-ALEX: It's ok.
-CHRIS: Alex won 6th place in our last DRYER competition.
-MOM: oh lovely. that's quite an achievement!
-ALEX: If you say so.
-MOM: Students need that boost in confidence. It made me so happy when Chris told me they were implementing SHOWTIME awards.
-ALEX: I guess. But I could've done better.
-MOM: But that's true for anyone. Look at CELEBRITY. He may not have been the best, but he still made it into a major film.
-ALEX: who?
-CHRIS: Noone knows who CELEBRITY is, MOMMY.
-MOM: You two saw Aladdin, right?
-ALEX: the new one with Will Smith?
-MOM: yeah, that one! Mena played Aladdin in it. He did such a good job.
-ALEX: The cartoon was better.
-MOM: Alright, well, I need to powder my NOSE and take care of my BOWL's.(Take care of your plate in the kitchen. Exit stage left)
-CHRIS: (sigh) You should not have said that.
-ALEX: Chris.
-CHRIS: huh, wha?
-ALEX: Am I CRAZY?
-CHRIS: I don't know what you mean.
-ALEX: Why is she calling every dish a BOWL?
-CHRIS: Because they are.
-ALEX: No they're not. We just ate off of plates and drank out of mugs.
-CHRIS: (shake your head) look, they're all BOWL's. It's an umbrella term.
-ALEX: Ok, what about a cup?
-CHRIS: drinking BOWL without a handle.
-ALEX: A pot?
-CHRIS: Cooking BOWL.
-ALEX: Strainer?
-CHRIS: Holey BOWL.
-ALEX: what about a baking pan?
-CHRIS: Bread BOWL.
-ALEX: (stand up) this is insane.
-CHRIS: it's not that deep man.
-ALEX: Ok... what about a frying pan?
-CHRIS: Frying BOWL.
-ALEX: A wok?
-CHRIS: Asian cooking BOWL.
-ALEX: not everything is a BOWL!
-CHRIS: Dude, you're overthinking it. Anything is a BOWL if you think about it.
-ALEX: Who hurt you?
-CHRIS: Look, at some point you stop asking questions and accept it.
-ALEX: But why?
-CHRIS: Have you ever had your NOSE shoved inside a BOWL?
-ALEX: No.
-CHRIS: Good. You're lucky. Just play along with it, alright? You don't wanna know the pain.
-ALEX: I feel like that guy in the 3rd episode of showtime right now.
-CHRIS: Yep. I've been there. When CELEBRITY got stuck inside a DRYER.
-ALEX: failed stunt?
-CHRIS: (nod) yep. the rope came loose and he was too short to get back out.
-ALEX: (shake your head) but how do you get stuck in the DRYER?
-CHRIS: beats me. I heard he broke his NOSE and spent months in the hospital.
-ALEX: Jeez.
-CHRIS: Yeah it's like half the size it was now. 
-MOM: (Enter stage left) Alright, I'm back. What did I miss?
-ALEX: nothing.
-MOM: very well, here, I'll take care of your BOWL's.
-CHRIS: Thank you, MOMMY.
-ALEX: Yeah thanks.
-MOM: my pleasure. (take the plate and mug to the kitchen)
-MOM: So, KIDDO. How's your dad's van? I heard it needed work done last week.
-ALEX: (sigh) I need to leave.
-CHRIS: huh? why?
-ALEX: I got homework and would like to go to bed early...
-MOM: You sure? it's not good to walk after filling up on SLOP.
-ALEX: yes I'm sure.
-CHRIS: If you insist.
-ALEX: (goes to the front door)and before I go...
-MOM: yes?
-ALEX: my dad drives a pickup truck!(Exit stage right)
-MOM: Wonder what gave him such a SANDY attitude.
-ALEX: Not sure MOMMY.
-MOM: (sit down) Pickup truck. Isn't that just an open-back van?
-ALEX: Sure MOMMY. Sure. 
-MOM: Awe well. make sure to brush your teeth. And no playing with your NOSE.
-ALEX: But MOMMY-!
-MOM: no! I do not want to clean up your mess in the morning.
-ALEX: Fine.
-MOM: What was that?
-ALEX: Yes MOMMY. (Exit stage left)
-MOM: what a good KIDDO. I'm so proud of him. Gonna grow up to be just like CELEBRITY one day.
-ALEX: MOMMY!
-MOM: What's wrong sweetheart?
-ALEX: I got my NOSE stuck in the DRYER!
-MOM: What in the name of- I'm coming KIDDO! MOMMY's got you! (Exit stage left)
+GHID: Hey, can I have some of those?
+JET: Oh, sure! There should be some left.
+GHID: Thanks! (go to table and eat a muffin) Hmm, these are pretty good!
+JET: Yeah, they're really good for your BODY.
 
 ======
 
@@ -57993,6 +57849,80 @@ ALLY: And I'm glad to have you back as well, my RELATION.
 ======
 
 INFORMATION ===============================
+ID: 1963
+TITLE: Fake Friends
+AUTHOR: Bluey․butSTILL․X_cartooncat ec42
+VERIFIED: True
+TAGS: Prototype
+SET: Murder
+DATE: 29/11/25
+CHARACTERS ================================
+MAY: Mayzii:Stage Left
+CAZ: Cazeral:Stage Right
+MEZ: Mezmoria:Center Stage
+SUGGESTIONS =============================
+DINNERPLACE:A fancy restaurant:Joe's Diner,McDonalds,Ralph Lauren Restaurant
+CLOSINGTIME:An amount of time:1 hour,30 minutes,45 seconds,5 hours,1 day,5 minutes
+NEGATIVETRAIT:Something negative that describes someone:annoying,irritating,loud,messy,lazy,sloppy,mean
+CRAFT:Something someone makes or crafts:paper airplane,painting,card,letter,Audience Anarchy script
+NEGATIVEPROMPT:A negative descriptive word for something someone made:trash,yucky,ugly,weird,lazy,messy,to crazy to be in a script
+ANIMAL:An animal or pet:cat,dog,mouse,hamster,chicken named jar,intergalactic space tortoise
+SERIOUSPROMPT:A way to describe how a person acts:serious,dumb,loud,crazy,on edge,paranoid
+FOODDESC:A word to describe good or tasty food:delicious,meaty,savory,tasty
+SCRIPT ==========================================
+dark classical music
+MAY: So, where should we go for dinner? (Checks phone)
+CAZ: Maybe DINNERPLACE?
+MEZ: Ooh~ That sounds good!
+MAY: Isn't that closed..?
+CAZ: No, it closes in about CLOSINGTIME-
+MEZ: CLOSINGTIME!? That's not a lot of time!
+MEZ: I'll go get ready!- (Exit stage right)
+music stops
+CAZ: ...is she gone? (Looks in the direction Mezmoria exited)
+MAY: Yeah, I think,
+noir music 1
+CAZ: God, Mez is SO NEGATIVETRAIT...
+MAY: I know right?
+MAY: For example, one time she was helping me make a CRAFT and called it NEGATIVEPROMPT!
+CAZ: What!?
+MAY: Yeah, yeah! And one time, she even yelled at my pet ANIMAL for drinking water too loudly!
+vine boom
+CAZ: I remember this one time she-!
+footsteps on wood
+MAY: Oh no- I think she's back, act normal!
+music stops
+MEZ: (Enter stage right) Hey guys, I'm ready!
+CAZ: You look great!
+dark classical music
+MEZ: Thank you!
+MAY: Alright, I'll go get ready now- (Exit stage right)
+music stops
+MEZ: I don't think he can hear us,
+noir music 1
+MEZ: ...Mayzii is so NEGATIVETRAIT-
+vine boom
+CAZ: Yup, totally-
+MEZ: He always acts WAY to SERIOUSPROMPT!
+CAZ: I hear ya,
+MEZ: It's always about him, too- never about me or you!
+MEZ: He's just too selfish...
+CAZ: Mhm, I get what your saying, because one time he said-
+footsteps on wood
+MEZ: That must be him, shhh!
+music stops
+MAY: Alrighty, I'm ready!
+dark classical music
+MEZ: Ok, lets go to DINNERPLACE!
+MAY: (Exit stage left) I can already taste the FOODDESC food from here!
+MEZ: (Exit stage left) Mhm!
+CAZ: Hey, guys!-
+CAZ: What about me!? I- I'm not ready-
+CAZ: ...Oh my god-
+
+======
+
+INFORMATION ===============================
 ID: 1937
 TITLE: The Trolley Problem
 AUTHOR: Jinx Izayoi
@@ -58009,7 +57939,7 @@ DKID: The Stoner Kid:Desk 4
 EKID: The Edgy Kid:Desk 5
 SUGGESTIONS =============================
 NUM:a whole number higher than 1:5,69,8.2 billion
-GAD:a type of lever or switch you pull:lever,trigger,switch,plug,crank
+GAD:a type of lever or switch you pull to activate something:lever,trigger,switch,plug,crank
 VEH:a large vehicle:train,tram,TNT cart,AC-130
 NAME:a player in the audience:Jar,Jinx Izayoi,Lebanne
 PET:an animal you like:cat,snake,horse
@@ -58065,27 +57995,27 @@ TYPEWRITER: Ten minutes later
 silly music 1
 TEACH: Everyone's turned their paper in? Good, let's read these and guess who wrote what.
 TEACH: The first one says "I would pull the GAD, as saving more lives is more important than moral superiority."
-DKID: Ha.
+Meanwhile DKID: (react to essay by good kid) Ha.
 SKID: Yep, I know which GOODY wrote that.
 GKID: Is it that obvious? I just think it's a no-brainer, I don't see the ambiguity.
 NKID: Actually, you only think it's a no-brainer because you simply can't comprehend how deep this rabbit hole goes.
 TEACH: The "save more lives" angle is a perspective many people share. I'll read the next one now.
 TEACH: It says "it is my god-given right to lift the VEH off the track and save my PET from certain death.
 TEACH: My dad can lift a HEAVY, so a stupid VEH should be no issue for me."
-EKID: Nah.
+Meanwhile EKID: (react to essay by sporty kid) Nah.
 bird screech
 DKID: Dude, even I know your dad can't make a HEAVY budge. Why try to pass such an obvious lie?
 SKID: Shut up! It's called an adrenaline rush, it makes you stronger when someone you care about is about to die.
 EKID: Your arms would bend backwards and break before the VEH even leaves the ground.
 TEACH: The principal told me I should praise thinking outside the box, so well done. (sarcastic)
-TEACH: The next paper reads "if anyone asks, I was never next to the lever. It is statistically impossible for me to be in this hypothetical."
-SKID: (look at the nerd) Loser.
+TEACH: The next paper reads "if anyone asks, I was never next to the GAD. It is statistically impossible for me to be in this hypothetical."
+Meanwhile SKID: (react to essay by nerd) Loser.
 GKID: So you'd rather let those people die than deal with any sort of responsibility?
 EKID: It's because he'd pass out from seeing all the blood and guts splattered everywhere.
-NKID: Technically, if I were there, there's only be a one in NUM plus two probability that I'd be the one at the lever. I'm more likely to die than get to choose.
+NKID: Technically, if I were there, there's only be a one in NUM plus two probability that I'd be the one at the GAD. I'm more likely to die than get to choose.
 TEACH: Do my brainstorming exercises need the same attendance policy as our school does? Never mind, don't answer that.
 TEACH: I'm trying to interpret this next answer, but it just looks like they wrote the lyrics to EDGE.
-GKID: (look at the edgy student) Dude.
+Meanwhile GKID: (react to essay by edgy student) Dude.
 DKID: Ohh, you're trying to scare the VEH off with your taste in music.
 EKID: No, I just don't care about this stupid project. Let them all die, I say.
 GKID: We need to put you on a watchlist so I don't become another statistic before I graduate.
@@ -58097,12 +58027,476 @@ GKID: Well, something in here is definitely baked.
 TEACH: Enough. My mistake today was putting half as much faith in you kids as my ex had in FIG.
 EKID: Is FIG tied to one of the tracks? That might change my answer.
 NKID: (raise hand) Teacher! Class is almost over, and you forgot to give homework!
-Meanwhile DKID: (slowly turn to face NKID) Why?
+Meanwhile DKID: (slowly turn to face nerd) Why?
 Music Stops
 SKID: Oh, now you're gonna get it! Come here! (continue to go off on the nerd)
 Meanwhile EKID: (Upset and angry)
 TEACH: None of you are seeing heaven.
 school bell
+
+======
+
+INFORMATION ===============================
+ID: 1838
+TITLE: Awkward Visit with a Friend
+AUTHOR: Jacqueline Vile
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 11/10/25
+CHARACTERS ================================
+ALEX: ALEX:Entrance Stage Right
+CHRIS: Chris:Couch
+MOM: Mom:Kitchen
+SUGGESTIONS =============================
+MOMMY:An authority figure:Birth giver,Mom,Mommy
+KIDDO:nickname for your kid's friend:Bad Influence,little one,big boy
+SLOP:something edible:Chicken casserole,spaghetti,banana bread
+CRAZY:Describe a crazy person:mentally off,looney,cuckoo
+NOSE:body part(s):nose,mouth,finger
+DRYER:A household utility:dryer,washer,fridge
+MILK:a drink:milk,soda,coffee
+AMAZING:A complimentary adjective:amazing,awesome sauce,outstanding
+SANDY:A flavor:sour,dry,pasty
+BOWL:name a container:bowl,box,bucket,pitcher,mug
+SHOWTIME:name a show or movie:Star Trek,Iron Man,Tweakers Inc
+CELEBRITY:name a celebrity:Tom Cruise,Eddie Murphy,Jim Carrey
+SCRIPT ==========================================
+Happy music 1
+knocking on door
+MOM:(cooking) Better get the door, Chris.
+CHRIS: Got it MOMMY!(Gets up to answer the door)
+ALEX: Yooo wazzup? (Hugs friend when the door opens)
+CHRIS: Wazzup!!
+MOM: Wazzuuuupp!!!
+CHRIS: Come on in! We're watching SHOWTIME. I'm already on season 2.
+ALEX: Season 2? Dang, I promise not to spoil anything.
+CHRIS: You've already seen it?
+ALEX: Oh yeah. I'm already almost done with season 4.
+MOM: Dinner will be done in 5 minutes. KIDDO, could you do me a favor and grab me a few BOWL' s.
+ALEX: Sure thing MOMMY! (go to grab them)
+MOM: oh no, not those BOWL's.
+ALEX: Sorry MOMMY. which ones do you want me to grab?
+MOM: (point at the cupboard) Those, the flat ones.
+Music Stops
+ALEX: (look between the mom and the cupboard) Those are plates.
+Halloween Music
+MOM: Oh you silly child. No no no. You must be confused. Those are flat BOWL's. Now would you be so kind as to grab them for me?
+ALEX: sure... (grab the plates and set them on the counter)
+MOM: thank you, KIDDO. (finish preparing dinner)
+MOM: Dinner's ready! come get your SLOP, Chris.
+CHRIS: Oho boy. Thanks MOMMY!(sit on the couch)
+ALEX: Yeah, thanks MOMMY.(sit on the couch)
+MOM: (sit on the couch)You're welcome sweetheart
+CHRIS: mmmhh, that's really good SLOP, MOMMY.
+ALEX: Yeah the texture is AMAZING. Maybe just a bit SANDY though.
+MOM: Oh right, I forgot. Alex, would you do me a favor and grab MILK and some BOWL's so we have something to drink?
+ALEX: You mean cups?
+MOM: No sweetie, I mean BOWLs. Handled BOWL's.
+ALEX: So...(look back at Chris) mugs, right?
+CHRIS: (stand up) Don't worry about it, Alex, I'll get them.
+CHRIS: (head to the kitchen. Return with the mugs and milk) Here you go, Mom.
+MOM: Thank you sweetheart. so much more responsible than your friend. So KIDDO, how is school treating you?
+ALEX: It's ok.
+CHRIS: Alex won 6th place in our last DRYER competition.
+MOM: oh lovely. that's quite an achievement!
+ALEX: If you say so.
+MOM: Students need that boost in confidence. It made me so happy when Chris told me they were implementing SHOWTIME awards.
+ALEX: I guess. But I could've done better.
+MOM: But that's true for anyone. Look at CELEBRITY. He may not have been the best, but he still made it into a major film.
+ALEX: who?
+CHRIS: Noone knows who CELEBRITY is, MOMMY.
+MOM: You two saw Aladdin, right?
+ALEX: The new one with Will Smith?
+MOM: yeah, that one! CELEBRITY played Aladdin in it. He did such a great job.
+ALEX: The cartoon was better.
+MOM: Alright, well, I need to powder my NOSE and take care of my BOWL's.(Take care of your plate in the kitchen. Exit stage left)
+CHRIS: (sigh) You should not have said that.
+ALEX: Hey, Chris, am I CRAZY?
+CHRIS: I don't know what you mean.
+ALEX: Why is she calling every dish a BOWL?
+CHRIS: Because they are.
+ALEX: No they're not. We just ate off of plates and drank out of mugs.
+CHRIS: (shake your head) look, they're all BOWL's. It's an umbrella term.
+ALEX: Ok, what about a pot?
+CHRIS: A noodle BOWL.
+ALEX: Oh lord... what do you call a wok then?
+CHRIS: Asian cooking BOWL.
+ALEX: And a strainer? please don't tell me it's--
+CHRIS: It's a holey BOWL. MOMMY says that one brings Jesus to the table.
+ALEX: not everything is a BOWL!
+CHRIS: Dude, you're overthinking it. Anything is a BOWL if you think about it.
+ALEX: Who hurt you?
+CHRIS: Look, at some point you stop asking questions and accept it.
+ALEX: But why? How can you?
+CHRIS: Have you ever had your NOSE shoved inside a BOWL?
+ALEX: No, I can't say I have.
+CHRIS: Good. You're lucky. Just play along with it, alright? You don't wanna know the pain.
+ALEX: I feel like that guy in the 3rd episode of SHOWTIME right now.
+CHRIS: Yep. I've been there. When CELEBRITY got stuck inside a DRYER.
+ALEX: Was it a failed stunt?
+CHRIS: (nod) Yep. The rope came loose and he was too short to get back out.
+ALEX: (shake your head) but how do you get stuck in the DRYER?
+CHRIS: beats me. I heard he broke his NOSE and spent months in the hospital.
+ALEX: Jeez.
+CHRIS: Yeah it's like half the size it was now. 
+MOM: (Enter stage left) Alright, I'm back. What did I miss?
+ALEX: nothing.
+MOM: very well, here, I'll take care of your BOWL's.
+CHRIS: Thank you, MOMMY.
+ALEX: Yeah thanks.
+MOM: my pleasure. (take the plate and mug to the kitchen)
+MOM: So, KIDDO. How's your dad's van? I heard it needed work done last week.
+ALEX: (sigh) I need to leave.
+CHRIS: Huh? Wait why?
+ALEX: I got homework and would like to go to bed early...
+MOM: You sure? it's not good to walk after filling up on SLOP.
+ALEX: yes I'm sure.
+CHRIS: If you insist.
+ALEX: (goes to the front door)and before I go...
+MOM: yes, what is it?
+ALEX: my dad drives a pickup truck!(Exit stage right)
+MOM: Wonder what gave him such a SANDY attitude.
+CHRIS: Not sure MOMMY.
+MOM: (sit down) Pickup truck. Isn't that just an open-back van?
+CHRIS: Sure MOMMY. Sure. 
+MOM: Awe well. make sure to brush your teeth. And no playing with your NOSE.
+CHRIS: But MOMMY-!
+MOM: no! I do not want to clean up your mess in the morning.
+CHRIS: Fine.
+MOM: What was that?
+CHRIS: Yes MOMMY. (Exit stage left)
+MOM: what a good KIDDO. I'm so proud of him. Gonna grow up to be just like CELEBRITY one day.
+CHRIS: MOMMY! MOMMY I need your help!
+MOM: What's wrong sweetheart?
+CHRIS: I got my NOSE stuck in the DRYER!
+MOM: What in the name of- I'm coming KIDDO! MOMMY's got you! (Exit stage left)
+
+======
+
+INFORMATION ===============================
+ID: 1955
+TITLE: Psychopathic Date
+AUTHOR: cpu_4
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 25/11/25
+CHARACTERS ================================
+MAN: Normal Man:Chair 1
+GIRL: Psychopath Girl:Chair 2
+WAIT: Waiter:Backstage
+SUGGESTIONS =============================
+NM:Name for a man:Sylvester,Adam,Chad
+NW:Name for a women:Shelley,eve,Jessica
+NUMB:Number higher an 25:26,45,77
+FOOD:A food:A Burger,A Steak,Mac and cheese
+DRINK:Something you drink:Coke,Water,Orange juice
+BODY:A body part or organ:Heart,Brain,Stomach
+PLACE:A restaurant name:Pound town,Pizza palace,CFK
+WORK:Occupation AKA. job that ends in er:Builder,Farmer,Street performer
+OBJECT:Something someone can make:Computer,Lego,Anvil
+CLOTH:Peice of clothing:Dress,Scarf,Heels
+MURDER:A violent crime:murder,arson,burglary,drunk driving
+STAB:A violent verb/action:stab,slap,tickle,fart on them
+SCRIPT ==========================================
+jazz music 1
+MAN:I'm so glad that you were able to come.
+GIRL: Wouldn't miss it for the world NM.
+MAN: What was your name again NW, Right?
+Wait: (Enter stage Left) Hello, I will be your Waiter today, what it be today.
+MAN: I'd like FOOD please.
+WAIT: And you ma'am.
+GIRL: FOOD sounds good, I'll go the same.
+WAIT: And the drinks?
+GIRL: (excited) ooh you wanna know what I'm craving right now? DRINK
+MAN: Yea, DRINK sounds good.
+WAIT: 2 DRINKs coming up (exit stage left)
+GIRL: I knew coming to PLACE was a good idea
+Man: Why would it not be? We both like eating at PLACE
+GIRL: So what's your body count?
+MAN: What do you mean by that?
+GIRL: How many people have you committed MURDER on?
+MAN: Oh uh, about 12? What about you?
+GIRL: NUMB.
+MAN: oh?
+GIRL: My favourite part is the scream of pain they yell when I STAB them in thier BODY.
+Music Stops
+MAN: Oh.
+piano theme
+GIRL: I'm surprised you have such little amount, you'd seem like a person who'd have alot.
+MAN: I thought you- I meant- I should-
+WAIT: (enter stage left) Your DRINKs.
+GIRL: Thank you.
+WAIT: You are quite welcome.(exit stage left)
+GIRL: So what do you do for a living.
+MAN: I'm a WORK
+GIRL: I love WORKs they scream the loudest.
+MAN: (whisper under your breath) Maybe I should have stayed home.
+GIRL: You have to tell me some of your ideas, I love listening.
+MAN: I Love too...
+MAN: Make OBJECT.
+WAIT: (enter stage left) Your FOOD.
+MAN: (Grab waiter and whisper to him) could you please call for help
+WAIT: Why would you stop a date with a lovely woman like her
+WAIT: Between you and me. You got a great women
+MAN: she is a psychopath
+emotional piano music 
+GIRL: (crying)
+MAN: (let go of waiter) wow are you ok
+GIRL: I get it why would anyone date a "psychopath" like me
+MAN: It's not that, it's just I don't want anyone to STAB me NUMB time in my BODY
+GIRL: That's what they all say I just don't get it
+GIRL: Everyone says to "be true to yourself," but when I am, people want to leave
+MAN: Well I guess dating you won't be too bad I mean I do love your CLOTH
+GIRL: Awww, I thought you'd never noticed this CLOTH was expensive 
+WAIT: You haven't eaten a single bite of your FOOD
+GIRL: wanna free meal?
+MAN: Would love too.
+
+======
+
+INFORMATION ===============================
+ID: 1934
+TITLE: FIlms With Soul(s)
+AUTHOR: ModalSoul
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 17/11/25
+CHARACTERS ================================
+MANAGER: Mr. McMovie:Boss Chair
+ASSIST: Director's Assistant:Entrance Stage Left
+MOVIE: Movie Director:Office Chair 3
+SUGGESTIONS =============================
+ACTNAME:The name of an actor:Tommy Wiseau,Cathy Mitchell,Dwayne Johnson
+IMPORTANTITEM:A common household applicance:Blender,Sink,Lamp
+TWIST:An animal or object that would take anyone by surprise:Elephant,Pickle Lighter,100 dollars in pennies
+MOVIENAME:A common name:Dale,Earl,Clyde
+STUDIO:The name for a fictitious movie studio:Big Movies Inc.,Super Movies Inc.,Movies & You Inc.
+BIGNUMBER:A three digit number:328,600,543
+ACTION:A verb:Fighting,Jumping,Training
+EXISTING:A small animal or object you don't think about much:Ant,Dust,Brussel Sprout
+COMPANY:The name of a business or company:Exxon,K-Mart,Wawa
+SCRIPT:The name of an Audience Anarchy script:Anarchy Court,Who's Cuter?,Attack of the Produce Aisle
+ELABORATE COFFEE ORDER:an elaborate coffee order:100 ice cubes no sugar,tell them to put every single ingredient in the cup,1000 pumps caramel 1 pump vanilla,just throw some dirt in there because I need my nutrients
+FORTNITE:One or more things that kids love:fortnite and poppy playtime,liveleak gore compilations,FNAF 3 featuring Chris Pratt
+SCRIPT ==========================================
+Jazz Music 2
+MANAGER: Oh, MOVIENAME! Good to see you. Please, have a seat.
+MOVIE: Thank you, Mr. McMovie. (sit down across table from Mr. McMovie)
+MOVIE: I've been hard at work with the writers working on STUDIO's next big hit!
+MANAGER: Good to hear! Ever since we managed to get ACTNAME on our projects, we've been bleeding money!
+MANAGER: If there isn't a gem in these here scripts, I might just have to let you go!
+MOVIE: Mr. McMovie, you're such a kidder! (laugh nervously)
+MANAGER: (deadpan) I'm serious.
+MANAGER: After all, we have to make sure each film has some soul.
+MOVIE: Oh... I-I see.
+Knocking on Door
+MANAGER: (jovial) That must be my assistant with the scripts now! Come on in!
+Door Creak
+ASSIST: (enter Stage Left) Good morning, MOVIENAME. (walk towards Mr. McMovie) Here are the completed scripts, Mr. McMovie.
+MANAGER: That's quite a lot of paper...
+ASSIST: There are at least BIGNUMBER scripts in the pile, sir.
+MANAGER: That's... a lot of scripts.
+ASSIST: Indeed it is.
+MOVIE: We went for quantity this time around, sir. If we cast a wide net, we're sure to catch a few fish!
+MANAGER: Sure you will... Say, assistant, would you mind getting me some coffee?
+ASSIST: Okay, Mr. McMovie! What would you like?
+MANAGER: ELABORATE COFFEE ORDER. And make it snappy!
+ASSIST: Of course, Mr. McMovie. I'll be right back! (exit Stage Left)
+MANAGER: Alright, let's take a look at a few of these... 
+MANAGER: (reading like a newspaper) The Art of ACTION...
+Japanese Music 1
+MANAGER: A young martial artist, played by ACTNAME pursues the man who kidnapped their sister...
+MANAGER: Along the way the martial artist finds out that the plot goes deeper, fighting a clan of ninjas using...
+MANAGER: (confusion) TWIST as their motif?
+Gong
+MOVIE: It's a coming of age flick, the TWIST ninjas are symbolic. 
+MANAGER: Sure... Anyways;
+MANAGER: The martial artist defeats the leader of the TWIST ninjas with the IMPORTANTITEM uppercut, the mastered technique of his martial art.
+Fistfight
+Jazz Music 2
+MOVIE: Inspiring, isn't it! Would make anybody want to start kung-fu fighting!
+MANAGER: Okay, some questions for you MOVIENAME. First off, where did the IMPORTANTITEM uppercut come from?
+MOVIE: We figured that making the main character's special move based on something familiar would strike a chord with audiences.
+MANAGER: And that target audience is..?
+MOVIE: For the family?
+MANAGER: Can't imagine any families wanting to go see that.
+Laughter
+MANAGER: And ACTNAME as a "young martial artist?" We'd need to spend more money on a stunt double!
+MOVIE: But think of how well it would do in the theaters!
+MANAGER: But there's no soul in it, MOVIENAME. We can't use this.
+Knocking on Door
+MANAGER: Come in.
+ASSIST: (enter Stage Left) Your coffee, sir.
+MANAGER: Thank goodness. Say, assistant, could you read the next script while I enjoy my coffee?
+ASSIST: Of course, Mr. McMovie. Let's see... (reading like a newspaper) The Life of EXISTING.
+Meanwhile MANAGER: Gotta love a cup of joe... (enjoy your coffee while Director's Assistant reads)
+Groose Music
+ASSIST: The plot follows an animated version of EXISTING during their day to day life. Their joys, struggles, and everything in-between.
+ASSIST: The main EXISTING being voiced by ACTNAME, I presume? (look at Movie Director)
+MOVIE: Indeed! (nod yes)
+ASSIST: Wonderful. Anyways...
+ASSIST: Everything changes when BIGNUMBER TWISTs uproots everything the EXISTING stands for. 
+ASSIST: The EXISTINGs are able to co-exist with the TWISTs following a long struggle in the final act with help from the IMPORTANTITEMs.
+Jazz Music 2
+MOVIE: So? Whaddaya think? It's got a good message for the kids, and we don't need a stunt double for ACTNAME!
+ASSIST: Forgive me if this comes off as rude, but this movie seems like it would be horribly boring. No soul in it at all.
+Vine Boom
+MOVIE: But-- but it's not about being entertaining! It's about being informative!
+ASSIST: But kids aren't stupid, director. They can get the message just fine, but they'd also like to be entertained.
+ASSIST: We're competing with FORTNITE here!
+MANAGER: I have to agree with my assistant, if it's boring to McMovie, it'll be boring to anybody. 
+MANAGER: Besides, STUDIO doesn't have the money for animators either!
+MOVIE: You know what, both of you stay right there! I'm gonna read the next one and it'll knock your socks off!
+MANAGER: Be my guest, director. There's literally hundreds to pick from.
+MOVIE: And I'll pick the best one! (get up and shuffle the scripts around) Aha! Now this is a good one!
+MOVIE: Entrigue! Mystery! Horror! Everything you'd want and more! 
+ASSIST: The preamble is nice, but please do hurry up. Mr. McMovie has a meeting with COMPANY in five minutes.
+Church Bell
+Dark Classical Music
+MOVIE: ACTNAME is settling into a home they won in a lottery, a mansion up in the hills...
+MOVIE: And then, while ACTNAME is watching SCRIPT... BAM!
+Chainsaw
+MOVIE: A IMPORTANTITEM-themed slasher villain with a chainsaw saws through the door!
+MOVIE: And worse yet..!
+Explosion
+MOVIE: BAM! A pyromaniac busts through the back door! ACTNAME tries to keep them away, but its no use!
+Fire Alarm
+MOVIE: With the house going up in smoke, everything seems lost for ACTNAME! But then... 
+Alien Siren
+Lacrimosa Music
+MOVIE: Aliens come to rescue ACTNAME, praising them like a god! Wanna know why?
+MOVIE: Because ACTNAME sold them BIGNUMBER TWISTs from a one-off infomercial seven years ago!
+Alien Teleport
+MOVIE: ACTNAME becomes ruler of the cosmos, leaving everything behind on Earth to spread TWISTs across the stars!
+Jazz Music 2
+MOVIE: How'd you like that one, McMovie?! It's thrilling! It's got twists! It's the perfect movie!
+ASSIST: The perfect movie to go straight to TV, maybe.
+MANAGER: Seriously, what is this stuff, MOVIENAME?
+Emotional Piano Music
+MANAGER: STUDIO is about films with soul, beautiful works that can inspire and entertain for generations!
+MANAGER: With you trying to commodify the craft, that soul just isn't there.
+MANAGER: Besides, including a show such as SCRIPT is just going to bring that one down to your level. I can't stand to let that happen. 
+MANAGER: I'm sorry MOVIENAME, but I have to let you go. If your writing team has no soul, perhaps we'll just use theirs AND yours.
+ASSIST: Maybe a few of the writers, too?
+MANAGER: Good idea, assistant! I'll make a note of that.
+Scary Music
+ASSIST: Sorry, MOVIENAME. But you shouldn't be so scared. You're going to be part of a box office hit, just like you wanted.
+MANAGER: In a movie with some real soul. A STUDIO hit for generations.
+MOVIE: (pleading on the verge of tears) Wait, wait please! Just give me a little more time! I can make more! Just give me more time-! Nooooooo!
+Piano Theme
+
+======
+
+INFORMATION ===============================
+ID: 1931
+TITLE: Share the Road
+AUTHOR: kanna._.cop
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 16/11/25
+CHARACTERS ================================
+CYCLIST: Cyclist:Stage Right
+MOM: Mom, driving the car:Stage Left
+DAD: Dad, passenger seat:Stage Left
+TIMMY: Little Timmy, in the back:Stage Left
+SUGGESTIONS =============================
+EVENT:Any Event:Furrycon,the soccer game,Pride
+FOOD:A food (Plural):Hot dogs,cupcakes,hamburgers
+BODY PART:Any Body Part:Leg,Stomach,Nose
+PERFORMER:Any performer:Singer,Clown,Comedian
+NUMBER:Any number:1,67,21
+GAME:Any Mobile Game:Clash Royale,Block Blast,Plants vs Zombies
+PRESENT:A gift:Toy,Phone,Tablet
+TERRIBLETHING:A terrible event or phenomenon, outdoors:burning man fesival,guy running around on fire,giant lingering fart cloud
+PEESHISPANTS:Embarassing thing about your low quality husband:pees on the floor,plays vrchat,eats dogs when im not looking
+SCRIPT ==========================================
+silly music 2
+CYCLIST:(Riding bike slowly around the city) What a great day for a bike ride!
+CYCLIST: The temperature is perfect (panting), and there's no TERRIBLETHING.
+MOM:(Trying to get past the cyclist) UGH can you hurry it up please? Some people have places to be.
+honking
+TIMMY: Daddy, are we gonna be late to EVENT?
+DAD: (Be distracted by your phone) Ask your mother.
+MOM: (Annoyed) Is it so hard to look up for a second?
+MOM: No honey, hopefully this guy will turn soon.
+TIMMY: But what if all the FOOD are gone by the time we get there?
+MOM: Then I'll make some just for you, Timmy.
+DAD: Ha! I wouldn't trust your mothers cooking for a second.
+MOM: Oh so now you want to join the conversation, Mr. "PEESHISPANTS".
+DAD: I'm just being honest!
+MOM: (Look at him) You know I hate when you act like this in front of Timmy!
+DAD: Oh please, like you're so perfect in front of him all the time?
+TIMMY: Mom?
+MOM: (Get closer to the cyclist) At least I try to put in effort when he talks to me!
+Meanwhile DAD: (Get closer to the cyclist with mom)
+DAD: I put in effort all the time, you're just too busy staring at your BODY PART in the mirror!
+MOM: It's not my fault I was born beautiful!
+TIMMY: Dad?
+DAD: (Get right behind the cyclist) Sometimes I think you'd leave me for a clone of yourself.
+Meanwhile MOM: (Get right behind the cyclist)
+MOM:Well maybe that wouldn't be such a bad idea!
+TIMMY: (Shout) Guys!!
+MOM: What?!
+Meanwhile DAD: What?!
+crashing debris
+CYCLIST: (Lay on the ground screaming) Ahhhhh!
+MOM: (Put your hand over your mouth) Did..
+Meanwhile DAD: You..
+TIMMY: Momma you hit the nice man!
+tense cinematic music
+MOM: (Get out of the car and check on the man) Are you okay?
+CYCLIST: Do I look like I'm okay?? Ugh you ran right over my BODY PART!
+MOM: (Clutch your BODY PART) Yikes, I would hate to lose mine..
+DAD: (Get out of the car) It looks like they're losing theirs.
+Meanwhile TIMMY: (Get out of the car and look) Ouchie..
+CYCLIST: (Start holding your BODY PART and cry) Is it that bad?
+MOM: No! You'll be fine, you can walk it off, right?
+CYCLIST: (Try to stand and fail) AH! It hurts but.. I have to try.
+DAD: I think you should probably rest.
+CYCLIST: Oh but I can't! I'm meeting my girlfriend at EVENT. I'm planning on proposing! (Pull out a ring)
+MOM: (Guilty) Of course you are.
+TIMMY: We're heading there too! I wanna see the PERFORMER!
+CYCLIST: That's her! But now none of us will make it in time.
+emotional piano music
+CYCLIST: We've known each other for so long now, I think it's been NUMBER months?
+DAD: (Look at Mom) That's longer than we've been together.
+MOM: Keep it up and it'll stay that way.
+TIMMY: Mommy, daddy, stop fighting!
+CYCLIST: Yes, please, for my sake too. I'd rather get hit again than listen to you two bicker.
+MOM: Well it's hard not to bicker when he stares at his phone more than his wife!
+DAD: It's business! You know it's business!
+MOM: Oh really? I didn't know GAME was so important for your career!
+CYCLIST: Guys.
+DAD: For your information, I'm playing against my boss, so technically I'm showing him my skills.
+MOM: IN GAME??
+CYCLIST: Hello?
+DAD: You wanna talk about our careers? It seems like the only advancements you make in yours are toward your coworkers.
+MOM: (Act insulted) I can't believe you would bring up the Christmas party in front of Timmy.
+TIMMY: What happened at the Christmas party?
+MOM: Not now!
+Meanwhile DAD: Not now!
+CYCLIST: Oh forget it. (Start crawling to the very front of the stage slowly)
+DAD: It's not like he knows what I'm saying! He's like 4!
+MOM: HE'S 6! How do you not know the age of your own son??
+TIMMY: Actually I'm 7..
+MOM: (Whisper to Timmy) If you hush right now I'll buy you a PRESENT
+TIMMY: Okay!
+DAD: Now you're bribing him?
+MOM: Oh please, I've seen you do it before too.
+tire screech
+CYCLIST: (Get hit again and die) Ahh!
+TIMMY: (Look at Cyclist and gasp)Oh!
+Meanwhile DAD: (Look at cyclist and gasp) Oh my god!
+MOM: (Look at the Cyclist and back at your husband) Run.
+DAD: (Rush towards stage right exit.) Come on let's go!
+Meanwhile TIMMY: (Follow Dad off stage) Where?
+MOM: (Follow them) Away from here, Timmy! Far away!!
+TIMMY: To EVENT?
+MOM: Forget EVENT Timmy, we're leaving the country!
 
 ======
 
