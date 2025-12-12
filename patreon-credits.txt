@@ -2602,6 +2602,7 @@ Omega The First
 Abaddon Matriel
 bd_
 #TIER=3
+ChernoBlight
 Alatreonslayer
 JinizelRyuga
 Kawboos~
