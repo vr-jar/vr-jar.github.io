@@ -1947,6 +1947,7 @@ SmolAlto
 vo_q
 XivaMilk
 #TIER=1
+CollectivKinSec
 ༒R̶o̶n̶i̶n̶༒
 AndrHydra
 DemonLordSloth
