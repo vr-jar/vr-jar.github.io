@@ -19163,7 +19163,7 @@ RANDY: (Walk to door) Just think of me whenever you eat CAN (leave scene)
 INFORMATION ===============================
 ID: 629
 TITLE: The Beast of corkingdale bog
-AUTHOR: ~°Mısanʇhrope°~
+AUTHOR: ~°GЯISНNАКН°~
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -19523,128 +19523,6 @@ ANCHOR: We will continue to bring you the latest updates, the most compelling st
 ANCHOR: Stay tuned, dear viewers, for the adventure of a lifetime!
 world news outro
 ANCHOR: I'm Jane Smith. Signing off. Goodnight, everyone.
-
-======
-
-INFORMATION ===============================
-ID: 643
-TITLE: Repugnantation
-AUTHOR: Lazer Xiao Long
-VERIFIED: True
-TAGS: Skit
-SET: Murder
-DATE: 28/04/24
-CHARACTERS ================================
-NARRATOR: Commentator:Narrator Podium
-VILLAIN: Villain:Backstage
-FRIEND: Ally's best friend:Backstage
-ALLY: Hero's closest ally:Backstage
-HERO: Timid Hero:Backstage
-SUGGESTIONS =============================
-HEROMOVE:A special move (Hero):Hiryu Shugekiha,Leo Cascade,Alangina Diablo
-WEAKLING:Another way of saying "weakling":child,weakling,coward
-RHODES:Village name:Rhodes,Terra,Remnant
-ETHAN:Name (Hero's closest ally):Kurumi,Izaya,Ethan
-FACTION:A faction:Free World,Cult of Jar,Copy Express
-WARRIOR:A type of warrior:warrior,fighter,hunter
-POINTS:Number less than 75:50,25,0
-ROMEO:Name (timid Hero):Romeo,Juliet,Jack,Eric
-MOOK:A type of enemy (weak monster preferably):Slime,Pawn,Goblin
-POWER:Another way of saying "power-up":power-up,upgrade,evolution
-VILLAINMOVE:A special move (Villain):Kurayami Iai Dokugo Issen,Fushicho Musou Giri,Solomon Break
-FRIEND:Relations with the Hero (Friend, Sibling, Family):friend,ally,relative,parent,child
-SCRIPT ==========================================
-NARRATOR: And the results are in for the Pre-Qualifications match of a four way free for all between; Contestants Exol, Bravo, Snide, and ROMEO!
-NARRATOR: In last place, we have ROMEO with a low POINTS points...
-aww
-NARRATOR: Coming in 3rd, we have Exol with a decent 75 points.
-applause
-NARRATOR: Which only leaves Snide and Bravo and the winner that will be promoted as a full fledged WARRIOR is...
-gong
-NARRATOR: Bravo with an outstanding 100 points! Which means, Bravo will become a full fledged WARRIOR!
-tada
-NARRATOR: That's it for today, folks! We will be making preparations shortly for the Finals so stay tuned!
-applause
-HERO: (Enter stage) (disappointed) I'm... sorry, ETHAN. I'm s-sorry that I failed you again. I guess I can never be a WARRIOR like you.
-Meanwhile ALLY: (Follow Hero)
-ALLY: It's.... (sigh) alright, ROMEO.... I mean, there's still another time....
-ALLY: But even with all that, there's something I've wanted to tell you and that is...
-explosion, fire alarm
-ALLY: What was that?! This doesn't sound good. I guess what I was about to say can wait, we'll need to see what's going on. Come on let's go! (exit stage)
-Meanwhile HERO: (Follows Ally)
-NARRATOR: This is your host speaking! We interrupt with the program with great urgency!
-tense cinematic music
-NARRATOR: We're under attack! I repeat! We're under attack by the FACTION!
-Meanwhile VILLAIN: (go behind the podium)
-knife wound
-NARRATOR: Gack! (dies)
-Meanwhile VILLAIN: (Enter Stage Right)
-gameshow crowd shouting numbers
-VILLAIN: WEAKLINGs, a bunch of them. Soon, the village of RHODES will be ours, the FACTION!
-HERO: (Enter Stage Left) (sees Villain) T-this is my chance. I can finally... prove to ETHAN that I am a capable WARRIOR. (draws weapon)
-draw sword
-VILLAIN: (looks at Hero) This kid. How peculiar.... (draws weapon)
-draw sword
-HERO: I will protect the village of RHODES! (charge at the Villain)
-sword fighting
-VILLAIN: This WEAKLING isn't giving me as much of a challenge.
-knife wound
-HERO: No! (falls to the ground) I've failed again...
-Meanwhile ALLY: (Enter stage)
-ALLY: ROMEO!
-VILLAIN: (looks at Ally)
-ALLY: Hang on, ROMEO I got you! (draws weapon)
-draw sword
-VILLAIN: Another one? I'll make this quick. (looks at Hero) As for you, WEAKLING you can get to see your "FRIEND" suffer a horrible fate. (draws weapon)
-sword fighting
-VILLAIN: This one's a bit tougher. Seems like I'll have to get serious then. (charges special attack)
-super epic charge up
-VILLAIN: VILLAINMOVE...
-Music Stops, anime sword gleam 2
-ALLY: (collapses)
-HERO: (In despair) ETHAN! No!
-VILLAIN: (to Hero) Now that's over, I can finally get to torture you, WEAKLING.
-HERO: (snaps) You'll... pay....
-VILLAIN: What's that? Pay for what?
-HERO: (Gets up) I will make you pay for this!
-epic cinematic music
-FRIEND: (Enter Stage) I saw the commotion. I've come to help. (Sees Ally on the ground) ETHAN!
-HERO: (Angry) ETHAN is still alive. Take ETHAN with you and go as far away as possible.
-FRIEND: But... ROMEO... you'll die.
-HERO: I don't care what happens to me anymore... The longer you stall, the higher likely ETHAN will die. So go... now!!
-FRIEND: (Goes to Ally) O-okay... But... I'll come back for you too so hold on!
-magic sound, Teleport FRIEND to Backstage, Teleport ALLY to Backstage
-HERO: (softly) I'm sorry... but I'm going to have to break that promise
-VILLAIN: Hehehehe. Well then. Show me what you can do.
-HERO: (charges at Villain) You bastard! I will not let you get away with this!
-sword fighting
-VILLAIN: And what can you do, WEAKLING? I've seen better combat from a MOOK than this.
-knife wound
-HERO: Gack! (falls down) I'll kill you for this, monster! (gets up)
-sword fighting
-VILLAIN: You really are a peculiar one. I guess I'll have to make this quick.
-knife wound
-HERO: Gack! (falls down) I guess I have no choice but to use my special attack. (gets up)
-HERO: (charges special move)
-super epic charge up
-HERO: HEROMOVE! HYAAA!
-Meanwhile VILLAIN: (block the attack)
-Music Stops, explosion
-HERO: (tired) I know that blast connected...
-VILLAIN: (lower block) Even with all that bravado, is that all you can do?
-epic cinematic music
-HERO: (shocked) No! This can't be! (gets on the ground) But I can't give up... I will fight until the end...
-VILLAIN: Oh but you are indeed finished. It's a shame, even with all that "POWER" you are still no match for the FACTION.
-VILLAIN: It's time to end this (charges up weapon)
-super epic charge up
-VILLAIN: VILLAINMOVE...
-anime sword gleam 2
-HERO: Ah! (falls)
-explosion, Teleport HERO to Backstage
-VILLAIN: (sigh) Such wasted potential. That WEAKLING would've been a great member for the FACTION but alas, the WEAKLING had to choose the wrong side. (exit stage)
-Music Stops
-FRIEND: (Enters stage) ROMEO, I'm back! Where are you, ROMEO? ROMEO!
-FRIEND: (Looks around) No.... Is ROMEO dead? How am I going to tell this to ETHAN?
 
 ======
 
@@ -31915,7 +31793,7 @@ chainsaw
 INFORMATION ===============================
 ID: 1017
 TITLE: Last Regrets
-AUTHOR: ~°Mısanʇhrope°~
+AUTHOR: ~°GЯISНNАКН°~
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -39579,106 +39457,6 @@ INTERN:Me too.
 EMPLOYEE:I didn't.
 vine boom
 typewriter:2 weeks later CORPORATION went out of business. The end.
-
-======
-
-INFORMATION ===============================
-ID: 1282
-TITLE: The Not So Quiet Spy
-AUTHOR: Shadowydarkness
-VERIFIED: True
-TAGS: Skit
-SET: Interrogation Room
-DATE: 05/12/24
-CHARACTERS ================================
-SCOTT: The clumsy spy:Backstage
-HECTOR: mafia boss:Corner Right 
-ASSISTANT 1: right hand man/girl:Backstage
-ASSISTANT 2: goon:Backstage
-JHON: intel from van:Narrator Podium
-SUGGESTIONS =============================
-ITEM:item valuable for a spy to steal :money,info,art
-NUMBER:any number:5,10,200,6000000
-WEAPON :a weapon:Gun,Knife,Sword
-JOB:a job title:goon,butler,someone you would hire
-COLOR:a color for a code:green,yellow,blue
-PASSWORD:a solid password to recite:blazing,4654,Fish,Ballack's
-TOOL:a second weapon but far sillier:balloon,fish,stick
-SCRIPT ==========================================
-Australian Music 1
-HECTOR: (to goons) Hey fellas, step into my office.
-ASSISTANT 1: (walks in first) Sure thing, boss.
-ASSISTANT 2: (follows) Yeah, whatever.
-HECTOR: Hey, don't take that tone with me, ya dig.
-HECTOR: Now, we have some business to attend to. (pulls out ITEM)
-ASSISTANT 1: Wow, where did you find that?
-HECTOR: Found it on one of my afternoon strolls.
-ASSISTANT 2: (quietly) Mob bosses don't take strolls.
-HECTOR: Of course they do I have seen it myself.
-ASSISTANT 2: (sarcastic) Right I'm sure you have.
-ASSISTANT 1: Its true. I've gone with the boss to make sure they were not harmed.
-HECTOR: And I thank you for keeping a close eye while I'm out and about.
-ASSISTANT 2: So what exactly have you called us in here for?
-HECTOR: Well funny you should ask, I was just about to tell you.
-(music stops)
-(spy music 1)
-SCOTT: (climbs backstage ladder) (stay by file cabinet stage left) Alright, I'm in.
-JHON: Alright, remember you're looking for the ITEM and nothing else. Just grab it and get out before you get caught.
-SCOTT: Right, retrieve the ITEM and get out alive.
-JHON: Correct. We DON'T want a repeat of last time.
-(music stops)
-HECTOR: (points to Assistant 1) Do you remember the password to the safe?
-ASSISTANT 1: Yup, it's PASSWORD. Just as you told me.
-SCOTT: Yes! I got the password. Now it should be smooth sailing from here.
-JHON: Nice, great job.
-SCOTT: Why, thank you.
-JHON: Focus.
-SCOTT: Right, sorry.
-ASSISTANT 2: Wasn't there a color associated with the password as well?
-HECTOR: You buffoon, of course there was a color with the password. Right hand, recite the color if you will.
-ASSISTANT 1: Right, it was COLOR.
-HECTOR: And that's why you're my right hand.
-SCOTT: Weird. I guess you need a color too, huh?(start trying to unlock the file cabinet)
-HECTOR: Alright, goons (turn around toward stage left and spot the spy) What the!
-SCOTT: (standing quickly) Uh hi!
-(crashing debris)
-HECTOR: Who are you
-SCOTT: I'm your new JOB
-HECTOR: Wait a minute, I don't have a JOB in my crew.
-SCOTT: Well I just transferred here and you know how people don't inform people about new employees.
-HECTOR: Funny I wasn't expecting any new employees today. Was I right hand?
-ASSISTANT 1: Lemme check.(flips a pad of paper)
-ASSISTANT 2: I don't think we were boss. We don't have the funding for new people
-SCOTT: Crap.
-JHON: Crap, Uh try playing it off.
-HECTOR: So who are you really? If your not a new employee than you must be a spy!
-SCOTT: (try playing it off) What? No, I'm not a spy. Haha, those don't exist.
-ASSISTANT 1: Sure they do. I'm looking at one right now. (points to Scott)
-ASSISTANT 2: Shall I grab the WEAPON, sir?
-HECTOR: Eh, why not? I was looking for a fight anyway.
-ASSISTANT 2: (runs offstage to grab WEAPON and hands it to Hector) Here ya go, boss.
-HECTOR: Thanks. (whispers) For nothing. Draw your weapon, for I want a fair fight.
-SCOTT: Uh, okay fine, you asked for this. Jhon my TOOL please!
-JHON: Uh you sure. I thought this was for emergencies only!
-SCOTT: This kind of is an emergency!
-JHON: Ugh okay fine
-(alien teleport)
-SCOTT: Thanks John.
-JHON: No prob Boss.
-HECTOR: (tries not to laugh) Hehe, hahahaha. Oh my goodness, you expect to win with that useless thing?
-SCOTT: It's not useless!
-HECTOR: Enough talk. Let's fight! En garde!
-(sword fighting)
-SCOTT: Ah ha, I've got you now!
-HECTOR: Ugh, fine, you have won. Assistant, how many times have I lost this week?
-ASSISTANT 1: NUMBER.
-HECTOR: Really, that many times?
-ASSISTANT 1: Yeah, it's quite unfortunate.
-ASSISTANT 2: Yeah, just get good, hahaha. (pokes at Assistant 1)
-HECTOR: You're fired.
-ASSISTANT 2: Dang.
-ASSISTANT 1: Told you to not run your mouth around the boss
-ASSISTANT 2: Yeah yeah whatever
 
 ======
 
@@ -47433,124 +47211,6 @@ CUSTOMER: Give me the free stuff.
 ======
 
 INFORMATION ===============================
-ID: 1521
-TITLE: Completely Platonic
-AUTHOR: houseerikson
-VERIFIED: True
-TAGS: Skit
-SET: Restaurant
-DATE: 10/03/25
-CHARACTERS ================================
-BOY: The Boyfriend:Entrance Stage Right
-GIRL: The Girlfriend:Entrance Stage Right
-WAIT: The Waiter/Waitress:Entrance Stage Left
-SUGGESTIONS =============================
-DRINK:A type of drink:Burbon,Lemonade,Water,Soda
-NO:Something you shouldn't drink:Oil,Laundry Detergent,Pee,Toilet Water
-BUG:something you would not want in your food:Cockroach,Beetle,Ant
-MAIN:A main course meal:Pasta,Steaks,Burger
-REST:Any resturant:East Side Mario's,McDonalds,Burger King
-SIDE:A side dish:Breadsticks,Fried Pickles,Onion Rings
-PET:A cutesy pet name:sugar,babe,honey,toots
-YOGA:place you might meet a new friend:yoga,coffee shop,gym,fortnite festival,vrchat,cooking class,book club,local pub
-SHIRT:something you can wear:hat,sneakers,garfield shirt,scarf,dress,leggings,blazer,yoga pants,crocs
-SCRIPT ==========================================
-(Guitar Music 1)
-BOY: (ENTER STAGE RIGHT) Alright, here we are!
-GIRL: (ENTER STAGE RIGHT) Oh, wow! This place looks so fancy!
-GIRL: How'd you get a table at REST of all places?
-BOY: Well, I got it through crime.
-GIRL: (sarcastic) Oh, ha ha...but really, how'd you pull this off?
-BOY: (Sit down at table) Alright, alright. I'll spill. A close friend of mine works here.
-GIRL: (Sit down at table) Oh, you do?
-BOY: Yep, and they were kind enough to set us up with some free seats.
-GIRL: Wait...free?
-BOY: Uh huh! Nice, isn't it?
-GIRL: Yeah, I'd say so.
-WAIT: (ENTER STAGE LEFT) Hello, and welcome to REST!
-BOY: Hey, there they are! Over here!
-WAIT: (Flirty) Hey....how've you been, PET?
-BOY: Well, I've been great, thanks for asking!
-WAIT: Good, good...and who's this?
-BOY: Oh! This is my girlfriend!
-WAIT: (Disappointed) oh....I see....
-GIRL: Hi. He's told me a lot about you, you know!
-WAIT: (dismissive) Uh huh, I don't care girlie. Anyways, you two wanna start out with some drinks?
-BOY: Oh! I think I'll have a DRINK to start!
-GIRL: I'll have the DRINK too.
-WAIT: I'll get right on that....don't go anywhere, PET! (Exit Stage Left)
-GIRL: PET...? They call you PET?
-BOY: Yeah, such a weird nickname, right?
-GIRL: Uhm...what EXACTLY is your relationship with your friend?
-BOY: Well, we're friends. We met at the YOGA!
-GIRL: Yeah, I know but...are you two more than that?
-BOY: Oh no, we're completely platonic!
-GIRL: Well, alright...
-WAIT: (ENTER STAGE LEFT) I'm back, PET! Here's your drinks for you...two...
-BOY: Aww, thanks so much, bud!
-BOY: (Sips drink) Perfect as always!
-WAIT: You're perfect...
-GIRL: What?
-WAIT: What?
-GIRL: Ugh...nevermind...
-GIRL: (Spit out drink) EW! What the hell is this???
-WAIT: Is something wrong?
-GIRL: Yeah! This isn't DRINK, it's...NO!
-WAIT: Oh, my mistake...guess I mixed up the orders...
-GIRL: Who orders NO to drink?
-WAIT: Let me get you two some sides real quick. Be right back! (Exit Stage Left)
-BOY: I'm sure it was just an honest mistake, dear. Nothing to be upset about.
-GIRL: I guess...but I don't trust them. Are you SURE they're not into you?
-BOY: One hundred percent. We're strictly platonic YOGA friends.
-WAIT: (ENTER STAGE LEFT) (Angry) Here's some sides, you lovebirds.
-BOY: Oh! SIDE! I love these!
-WAIT: I made em extra special for you, PET. Hope you like them.
-BOY: They're great! You always know which ones I like.
-GIRL: Eugghh...why are mine so cold?
-WAIT: Dunno...maybe you just have no taste...(COUGH) TACKY! (COUGH)
-GIRL: What was that???
-WAIT: What? What did I say?
-GIRL: You just said my SHIRT was tacky!
-BOY: Hey, calm down. They said no such thing about your SHIRT. Besides, your SHIRT is lovely.
-WAIT: I think we should move onto the main course. What would you want, my whittle PET?
-BOY: Oh, I think I'll have the MAIN.
-WAIT: Perfect. I'll get right on it.
-WAIT: (Turns to Girlfriend) Alright, what the hell do you want?
-GIRL:...just get me the same thing...
-WAIT: Yeah, sure whatever....(EXIT STAGE LEFT)
-BOY: What's going on with you?
-GIRL: With me? It's your friend that's the problem! They're making my orders bad on purpose!
-GIRL: They're probably jealous I'm with you and not them!
-BOY: Jealous? Don't be ridiculous. I told you, we're just some platonic friends from YOGA!
-WAIT: (ENTER STAGE LEFT) Here we go! Your main courses!
-BOY: Thanks so much! You know how much I love MAIN!
-WAIT: You bet I do...(turns to Girlfriend) alright take your meal and shut up.
-GIRL: EWWW! There's...there's a BUG in my MAIN!
-WAIT: Oh nooo...how'd that get in there....
-GIRL: Alright, that's it!
-BOY: Hey, why don't try and calm down?
-GIRL: (Stands up) NO! This waiter is trying to sabotage our date!
-BOY: No they're not? Why would they do that?
-GIRL: Oh my god....THEY'RE INTO YOU! HOW HARD IS IT TO SEE THAT?!?!
-WAIT: (Gasp) How DARE you! I am most certainly not!
-WAIT: I'm simply trying to provide the best service for my completely platonic PET!
-GIRL: You know what? Screw this! I'm outta here! (EXIT STAGE RIGHT)
-BOY: Wait! Don't go!
-WAIT: Ah, good riddance to her! She wasn't good for you anyways...
-(70s music)
-WAIT: And now that it's just the two of us, PET...how about we have a little fun...
-BOY: What do you mean?
-WAIT: (Flirty) How about you come with me into the background and we can...have a real good time...
-BOY: Look, I'd love to, but I have to chase after my girlfriend. Sorry, friend.
-WAIT: ....Yeah, no. I get it. That's SO good for you! REAL GREAT! I NEED TO LEAVE NOW.
-WAIT: (EXIT STAGE LEFT)
-BOY: Man...maybe I shouldn't have blown them off like that...they looked really upset...
-BOY: Eh, I'm sure my PET is just fine. (EXIT STAGE RIGHT)
-WAIT: AAAA!!!!!!
-
-======
-
-INFORMATION ===============================
 ID: 1523
 TITLE: It's All About Convenience
 AUTHOR: zanbbit
@@ -48890,104 +48550,6 @@ Meanwhile RICHIE: Do not vote for me!
 RICHIE: Make me lose!
 Meanwhile PRESIDENT: Let me lose!
 TYPEWRITER: PRESNAME would later win the presidency after;RICHNAME bought them exactly 270 electoral votes,;and no more.
-
-======
-
-INFORMATION ===============================
-ID: 1553
-TITLE: Planet Nature: Unfiltered
-AUTHOR: Reddicide
-VERIFIED: True
-TAGS: Skit
-SET: Forest
-DATE: 23/03/25
-CHARACTERS ================================
-NAR: Narrator:Narrator Podium
-FEM: Female animal (same species as male):Center Stage
-MALE: Male animal (same species as female):Center Stage
-PRED: Predatory animal:Entrance Stage Left
-BIG: Bigger Male animal (same species as others):Entrance Stage Left
-SUGGESTIONS =============================
-ANIMAL:Any wild animal:Elephant,Giraffe,Pigeon
-LOCATION:Any location:Russia,Norway,Chicago
-LATIN:silly Latin name or words:Turdus Maximus,Dorcus Titanus,Bonus Vampiris
-FOOD:Any food:Berries,nuts,hamburgers
-SOUND:Weird sound animals make:Bark,ribbit,click
-SM:Any social media:Twitter,Instagram,Reddit,Discord
-EMOJI:Any emoji:Poop,smiley face,winky face
-ADJECTIVE:Any positive adjective:Beautiful,Wonderful,Stunning
-EMOTION:Any positive emotion:Happy,Joyous,Excited
-CELEB:Any celebrity :Taylor Swift,Markiplier,Jesus
-PREDATOR:Any predatory animal:Crocodile,Lion,Hyena
-INGREDIENT:A food ingredient some people can't have:Gluten,Lactose,Meat
-SCRIPT ==========================================
-australian music 1
-NAR: Here, we observe two wild ANIMALs frolicking in the dense forest of LOCATION.
-NAR: The ANIMAL, known scientifically as LATIN, is displaying classic mating behavior, trying to grab the female’s attention.
-MALE: (overexcited and dancing) Becky! Hey Becky! Becky!
-NAR: He attempts to impress her with food, and a dazzling showcase of his dancing mastery.
-MALE: (overexcited) Becky! Becky, look at all of this FOOD, Becky! Omg this is so much FOOD to eat, this is like the best day ever.
-MALE: Do you like the FOOD I got us, Becky? Do you?? Do you do you??
-FEM: (impressed) Omg this is amazing I’ve been craving for FOOD since Tuesday, this is the best day ever indeed! Thank you thank you thank you!!!
-NAR: The ANIMALs communicate through a series of SOUNDs, as well as dancing.
-MALE: (dancing) SOUND Did you update your SM yet? We should totally post about finding this FOOD.
-FEM: (dancing) Already did! Added like, seven EMOJI emojis and everything.
-NAR: Fascinating! The younger, female ANIMAL appears to be establishing dominance using modern technology!
-NAR: But wait- what's this?? A larger male rival ANIMAL approaches!
-BIG: (swaggering in confidently) Step aside, undercooked romance--Becky deserves Gourmet, not some fast-food trash. Behold! (starts dancing)
-MALE: Oh, oh we're doing this now?? (starts dancing harder) I've learned everything there is to know about dancing from tutorials on SM.
-BIG: (flipping hair while dancing) My skin care routine has three steps and a mission plan.
-MALE: (keep dancing) He moisturizes?? Becky, I moisturize! Sometimes!
-BIG: (keep dancing) Didn't think you'd settle for *that* guy, Becky. I brought triple-cooked FOOD, and it's INGREDIENT free.
-NAR: A rare spectacle! Two males competing for dominance through excessive FOOD bragging and interpretive dancing.
-MALE: (dancing) INGREDIENT-free?? Becky's not even INGREDIENT-intolerant!
-FEM: I could be INGREDIENT-intolerant! For him...
-MALE: Uh, Becky and I already have plans dude. You need to back off.
-BIG: Plans? More like plant-based disappointment. Watch THIS! (does a very extra dance move)
-FEM: (Very flattered) Oh-oh wow! Okay, okay, this is... kind of amazing...
-NAR: The female appears to be visibly impressed. Whether by the FOOD or by the footwork, science may never know.
-BIG: (continues to do very extra dance) I took a contemporary movement class for this exact scenario.
-FEM: Oh my god, wait, hold on. (starts recording with phone) Do that again but like... slower. I'm totally posting this on my SM.
-BIG: Make sure to get my good side--No, better side-- No, spin and pose (dramatic spin before dramatic pose) Tag me @BigMoves69 underscore underscore.
-NAR: A bold move, advertising his tag mid-courtship. Truly, a creature of the digital age.
-BIG: (flip hair and dance even more dramatically) They said I was too passionate, too interpretive.... but I say, too ADJECTIVE.
-MALE: Becky! I'm emotionally available and physically mobile, look! (dancing harder) Remember the FOOD I got you! And the sparkle filter I used on our SM selfies!
-NAR: The smaller male intensifies his display, desperate and glistening with effort.
-NAR: He's combining movement and memory in a last-ditch effort to secure the female's attention.
-BIG: Becky! I already made us a shared playlist and synced our SM stories. Our auras are like, totally aligned.
-FEM: Oh my God I'm like so totally into you.
-MALE: But the sparkle filter, Becky! The sparkle filter!
-NAR: But wait! A predatory PREDATOR approaches them unexpectedly from the back!
-lacrimosa music
-PRED: (enter stage sneaking up from behind) Hmmmm yes protein walking protein very convenient very tasty hmmm yes
-NAR: As the dance battle escalate, danger approaches, and the ANIMALs don’t realize there’s a hidden PREDATOR sneaking up on them.
-FEM: Wait wait hold on, before I post, (shows phone to other ANIMALs) does this photo make my butt look big?
-NAR: And in a shocking twist that happens every day in nature, the dangerous PREDATOR attacks the smaller male ANIMAL!
-music stops
-anime sword gleam 1
-PRED: (attacks smaller male ANIMAL) Dinner time!
-MALE: (gets attacked) SOUND!!!
-Meanwhile FEM: SOUND!!!
-MALE: Run Becky! Run for your life! Ruuuuuuunnnnnn!
-Meanwhile FEM: (start running around in circles, panicking and SOUNDing)
-epic cinematic music
-PRED: (brutally attacking ANIMAL) MMMM YOU TASTE DELICIOUS
-MALE: SOUND Run for your life, Becky, Run!
-BIG: Should I like, help? Or is this one of those "let him grow from this experience" kind of things?
-FEM: (run away off stage)
-NAR: Remarkable! The PREDATOR has captured one of our ANIMAL friends! Nature can be so cruel yet so ADJECTIVE.
-MALE: NO WAIT COME BACK! BECKY! I can’t believe you actually left me I was just trying to look heroic I didn’t mean it! BECKY! BECKYYYY!!!
-BIG: This is clearly the universe telling me to vibe somewhere else. (backs away)
-PRED: OM NOM NOM NOM NOM (eating the ANIMAL)
-BIG: I support you emotionally, but not physically! (runs) Don't forget to tag me if you live!
-BIG: (leaving) Becky! BECKY! Don't worry Becky, I've got a backup FOOD stash and a playlist called "Survival", each song was hand selected by CELEB. (exit)
-MALE: NOOO I’m being eaten, this is the end! Goodbye, Becky! I must update this on my SM, quickly!
-MALE: (Take a selfie on smartphone) (Typing a SM post) "So long, my followers, #FinalPost #BeckyLeftMe #NaturesAVillain," send.….. blarg- (dies).
-PRED: Finally! Dinner time! My many children will feel so EMOTION!
-sad chug jug music
-NAR: And thus continues the circle of life, a cycle so cruel and yet so ADJECTIVE.
-Happy music 1
-NAR: Tune in next week when we observe the mating habits of the elusive CELEB and showcase just how ADJECTIVE they too can be.
 
 ======
 
@@ -57253,6 +56815,106 @@ aww
 ======
 
 INFORMATION ===============================
+ID: 1553
+TITLE: Planet Nature: Unfiltered
+AUTHOR: Reddicide
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+DATE: 23/03/25
+CHARACTERS ================================
+NAR: Narrator:Narrator Podium
+FEM: Female animal (same species):Center Stage
+MALE: Male animal (same species):Center Stage
+PRED: Predatory animal:Entrance Stage Left
+BIG: Big Male animal (same species):Entrance Stage Left
+SUGGESTIONS =============================
+ANIMAL:Any wild animal:Elephant,Giraffe,Pigeon
+LOCATION:Any location:Russia,Norway,Chicago
+LATIN:silly Latin name or words:Turdus Maximus,Dorcus Titanus,Bonus Vampiris
+FOOD:Any food:Berries,nuts,hamburgers
+SOUND:Weird sound animals make:Bark,ribbit,click
+SM:Any social media:Twitter,Instagram,Reddit,Discord
+EMOJI:Any emoji:Poop,smiley face,winky face
+ADJECTIVE:Any positive adjective:Beautiful,Wonderful,Stunning
+EMOTION:Any positive emotion:Happy,Joyous,Excited
+CELEB:Any celebrity :Taylor Swift,Markiplier,Jesus
+PREDATOR:Any predatory animal:Crocodile,Lion,Hyena
+INGREDIENT:A food ingredient some people can't have:Gluten,Lactose,Meat
+SCRIPT ==========================================
+australian music 1
+NAR: Here, we observe two wild ANIMALs frolicking in the dense forest of LOCATION.
+NAR: The ANIMAL, known scientifically as LATIN, is displaying classic mating behavior, trying to grab the female’s attention.
+MALE: (overexcited and dancing) Becky! Hey Becky! Becky!
+NAR: He attempts to impress her with food, and a dazzling showcase of his dancing mastery.
+MALE: (overexcited) Becky! Becky, look at all of this FOOD, Becky! Omg this is so much FOOD to eat, this is like the best day ever.
+MALE: Do you like the FOOD I got us, Becky? Do you?? Do you do you??
+FEM: (impressed) Omg this is amazing I’ve been craving for FOOD since Tuesday, this is the best day ever indeed! Thank you thank you thank you!!!
+NAR: The ANIMALs communicate through a series of SOUNDs, as well as dancing.
+MALE: (dancing) SOUND Did you update your SM yet? We should totally post about finding this FOOD.
+FEM: (dancing) Already did! Added like, seven EMOJI emojis and everything.
+NAR: Fascinating! The younger, female ANIMAL appears to be establishing dominance using modern technology!
+NAR: But wait- what's this?? A larger male rival ANIMAL approaches!
+BIG: (swaggering in confidently) Step aside, undercooked romance--Becky deserves Gourmet, not some fast-food trash. Behold! (starts dancing)
+MALE: Oh, oh we're doing this now?? (starts dancing harder) I've learned everything there is to know about dancing from tutorials on SM.
+BIG: (flipping hair while dancing) My skin care routine has three steps and a mission plan.
+MALE: (keep dancing) He moisturizes?? Becky, I moisturize! Sometimes!
+BIG: (keep dancing) Didn't think you'd settle for THAT guy, Becky. I brought triple-cooked FOOD, and it's INGREDIENT free.
+NAR: A rare spectacle! Two males competing for dominance through excessive FOOD bragging and interpretive dancing.
+MALE: (dancing) INGREDIENT-free?? Becky's not even INGREDIENT-intolerant!
+FEM: I could be INGREDIENT-intolerant! For him...
+MALE: Uh, Becky and I already have plans dude. You need to back off.
+BIG: Plans? More like plant-based disappointment. Watch THIS! (does a very extra dance move)
+FEM: (Very flattered) Oh-oh wow! Okay, okay, this is... kind of amazing...
+NAR: The female appears to be visibly impressed. Whether by the FOOD or by the footwork, science may never know.
+BIG: (continues to do very extra dance) I took a contemporary movement class for this exact scenario.
+FEM: Oh my god, wait, hold on. (starts recording with phone) Do that again but like... slower. I'm totally posting this on my SM.
+BIG: Make sure to get my good side--No, better side-- No, spin and pose (dramatic spin before dramatic pose) Tag me @BigMoves69 underscore underscore.
+NAR: A bold move, advertising his tag mid-courtship. Truly, a creature of the digital age.
+BIG: (flip hair and dance even more dramatically) They said I was too passionate, too interpretive.... but I say, too ADJECTIVE.
+MALE: Becky! I'm emotionally available and physically mobile, look! (dancing harder) Remember the FOOD I got you! And the sparkle filter I used on our SM selfies!
+NAR: The smaller male intensifies his display, desperate and glistening with effort.
+NAR: He's combining movement and memory in a last-ditch effort to secure the female's attention.
+BIG: Becky! I already made us a shared playlist and synced our SM stories. Our auras are like, totally aligned.
+FEM: Oh my God I'm like so totally into you.
+MALE: But the sparkle filter, Becky! The sparkle filter!
+NAR: But wait! A predatory PREDATOR approaches them unexpectedly from the back!
+lacrimosa music
+PRED: (enter stage sneaking up from behind) Hmmmm yes protein walking protein very convenient very tasty hmmm yes
+NAR: As the dance battle escalate, danger approaches, and the ANIMALs don’t realize there’s a hidden PREDATOR sneaking up on them.
+FEM: Wait wait hold on, before I post, (shows phone to other ANIMALs) does this photo make my butt look big?
+NAR: And in a shocking twist that happens every day in nature, the dangerous PREDATOR attacks the smaller male ANIMAL!
+music stops
+anime sword gleam 1
+PRED: (starts chasing smaller male ANIMAL) Dinner time!
+MALE: (gets chased by PREDATOR) SOUND!!!
+Meanwhile FEM: SOUND!!!
+MALE: Run Becky! Run for your life! Ruuuuuuunnnnnn!
+Meanwhile FEM: (start running around in circles, panicking and SOUNDing)
+epic cinematic music
+PRED: (still chasing ANIMAL) MMMM YOU LOOK DELICIOUS
+MALE: SOUND Run for your life, Becky, Run!
+BIG: Should I like, help? Or is this one of those "let him grow from this experience" kind of things?
+FEM: (run away off stage)
+PRED: (attacks smaller male)
+meanwhile MALE: (gets atacked) SOUND
+NAR: Remarkable! The PREDATOR has captured one of our ANIMAL friends! Nature can be so cruel yet so ADJECTIVE.
+MALE: NO WAIT COME BACK! BECKY! I can’t believe you actually left me I was just trying to look heroic I didn’t mean it! BECKY! BECKYYYY!!!
+BIG: This is clearly the universe telling me to vibe somewhere else. (backs away)
+PRED: OM NOM NOM NOM NOM (start eating the ANIMAL)
+BIG: I support you emotionally, but not physically! (runs) Don't forget to tag me if you live!
+BIG: (leaving) Becky! BECKY! Don't worry Becky, I've got a backup FOOD stash and a playlist called "Survival", each song was hand selected by CELEB. (exit)
+MALE: NOOO I’m being eaten, this is the end! Goodbye, Becky! I must update this on my SM, quickly!
+MALE: (Take a selfie on smartphone) (Typing a SM post) "So long, my followers, #FinalPost #BeckyLeftMe #NaturesAVillain," send.….. blarg- (dies).
+PRED: Finally! Dinner time! My many children will feel so EMOTION!
+sad chug jug music
+NAR: And thus continues the circle of life, a cycle so cruel and yet so ADJECTIVE.
+Happy music 1
+NAR: Tune in next week when we observe the mating habits of the elusive CELEB and showcase just how ADJECTIVE they too can be.
+
+======
+
+INFORMATION ===============================
 ID: 1895
 TITLE: Allergic Rejection
 AUTHOR: CyanAtomic15
@@ -57849,6 +57511,127 @@ ALLY: And I'm glad to have you back as well, my RELATION.
 ======
 
 INFORMATION ===============================
+ID: 643
+TITLE: Repugnantation
+AUTHOR: Lazer Xiao Long
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 28/04/24
+CHARACTERS ================================
+NARRATOR: Commentator:Narrator Podium
+VILLAIN: Villain:Backstage
+FRIEND: Ally's best friend:Backstage
+ALLY: Hero's closest ally:Backstage
+HERO: Timid Hero:Backstage
+SUGGESTIONS =============================
+HEROMOVE:A special move (Hero):Hiryu Shugekiha,Leo Cascade,Alangina Diablo
+WEAKLING:Another way of saying "weakling":child,weakling,coward
+RHODES:Village name:Rhodes,Terra,Remnant
+ETHAN:Name (Hero's closest ally):Kurumi,Izaya,Ethan
+FACTION:A faction:Free World,Cult of Jar,Copy Express
+WARRIOR:A type of warrior:warrior,fighter,hunter
+POINTS:Number less than 75:50,25,0
+ROMEO:Name (timid Hero):Romeo,Juliet,Jack,Eric
+MOOK:A type of enemy (weak monster preferably):Slime,Pawn,Goblin
+POWER:Another way of saying "power-up":power-up,upgrade,evolution
+VILLAINMOVE:A special move (Villain):Kurayami Iai Dokugo Issen,Fushicho Musou Giri,Solomon Break
+FRIEND:Relations with the Hero (Friend, Sibling, Family):friend,ally,relative,parent,child
+SCRIPT ==========================================
+NARRATOR: And the results are in for the Pre-Qualifications match of a four way free for all between; Contestants Exol, Bravo, Snide, and ROMEO!
+NARRATOR: In last place, we have ROMEO with a low POINTS points...
+aww
+NARRATOR: Coming in 3rd, we have Exol with a decent 75 points.
+applause
+NARRATOR: Which only leaves Snide and Bravo and the winner that will be promoted as a full fledged WARRIOR is...
+gong
+NARRATOR: Bravo with an outstanding 100 points! Which means, Bravo will become a full fledged WARRIOR!
+tada
+NARRATOR: That's it for today, folks! We will be making preparations shortly for the Finals so stay tuned!
+applause
+HERO: (Enter stage) (disappointed) I'm... sorry, ETHAN. I'm s-sorry that I failed you again. I guess I can never be a WARRIOR like you.
+Meanwhile ALLY: (Follow Hero)
+ALLY: It's.... (sigh) alright, ROMEO.... I mean, there's still another time....
+ALLY: But even with all that, there's something I've wanted to tell you and that is...
+explosion, fire alarm
+ALLY: What was that?! This doesn't sound good. I guess what I was about to say can wait, we'll need to see what's going on. Come on let's go! (exit stage)
+Meanwhile HERO: (Follows Ally)
+NARRATOR: This is your host speaking! We interrupt with the program with great urgency!
+tense cinematic music
+NARRATOR: We're under attack! I repeat! We're under attack by the FACTION!
+VILLAIN: (go behind the podium) Shut up! (kills Narrator)
+knife wound
+NARRATOR: Gack! (dies)
+gameshow crowd shouting numbers
+VILLAIN: (Enter Stage Right) WEAKLINGs, a bunch of them. Soon, the village of RHODES will be ours, the FACTION!
+HERO: (Enter Stage Left) (sees Villain) T-this is my chance. I can finally... prove to ETHAN that I am a capable WARRIOR. (draws weapon)
+draw sword
+VILLAIN: (looks at Hero) This kid. How peculiar.... (draws weapon)
+draw sword
+HERO: I will protect the village of RHODES! (charge at the Villain)
+sword fighting
+VILLAIN: This WEAKLING isn't giving me as much of a challenge.
+knife wound
+HERO: No! (falls to the ground) I've failed again...
+Meanwhile ALLY: What's going on?!(Enter stage)
+ALLY: ROMEO!
+VILLAIN: Hm?(looks at Ally)
+ALLY: Hang on, ROMEO I got you! (draws weapon)
+draw sword
+VILLAIN: Another one? I'll make this quick. (looks at Hero) As for you, WEAKLING you can get to see your "FRIEND" suffer a horrible fate. (draws weapon)
+sword fighting
+VILLAIN: This one's a bit tougher. Seems like I'll have to get serious then. (charges special attack)
+super epic charge up
+VILLAIN: VILLAINMOVE...
+Music Stops, anime sword gleam 2
+ALLY: Ack!(collapses)
+HERO: (In despair) ETHAN! No!
+VILLAIN: (to Hero) Now that's over, I can finally get to torture you, WEAKLING.
+HERO: (snaps) You'll... pay....
+VILLAIN: What's that? Pay for what?
+HERO: (Gets up) I will make you pay for this!
+epic cinematic music
+FRIEND: (Enter Stage) I saw the commotion. I've come to help. (Sees Ally on the ground) ETHAN!
+HERO: (Angry) ETHAN is still alive. Take ETHAN with you and go as far away as possible.
+FRIEND: But... ROMEO... you'll die.
+HERO: I don't care what happens to me anymore... The longer you stall, the higher likely ETHAN will die. So go... now!!
+FRIEND: (Goes to Ally) O-okay... But... I'll come back for you too so hold on!
+magic sound, Teleport FRIEND to Backstage, Teleport ALLY to Backstage
+HERO: (softly) I'm sorry... but I'm going to have to break that promise
+VILLAIN: Hehehehe. Well then. Show me what you can do.
+HERO: (charges at Villain) You bastard! I will not let you get away with this!
+sword fighting
+VILLAIN: And what can you do, WEAKLING? I've seen better combat from a MOOK than this.
+knife wound
+HERO: Gack! (falls down) I'll kill you for this, monster! (gets up)
+sword fighting
+VILLAIN: You really are a peculiar one. I guess I'll have to make this quick.
+knife wound
+HERO: Gack! (falls down) I guess I have no choice but to use my special attack. (gets up)
+HERO: (charges special move)
+super epic charge up
+HERO: HEROMOVE! Hyaaa!
+Meanwhile VILLAIN: Tch(block the attack)
+Music Stops, explosion
+HERO: (tired) I know that blast connected...
+VILLAIN: (lower block) Even with all that bravado, is that all you can do?
+epic cinematic music
+HERO: (shocked) No! This can't be! (gets on the ground) But I can't give up... I will fight until the end...
+VILLAIN: Oh but you are indeed finished. It's a shame, even with all that "POWER" you are still no match for the FACTION.
+VILLAIN: It's time to end this (charges up weapon)
+super epic charge up
+VILLAIN: VILLAINMOVE...
+anime sword gleam 2
+HERO: Ah! (falls)
+explosion, Teleport HERO to Backstage
+VILLAIN: (sigh) Such wasted potential. That WEAKLING would've been a great member for the FACTION but alas, the WEAKLING had to choose the wrong side. (exit stage)
+Music Stops
+FRIEND: (Enters stage) ROMEO, I'm back! Where are you, ROMEO? ROMEO!
+FRIEND: (Looks around) No.... Is ROMEO dead? How am I going to tell this to ETHAN?
+
+======
+
+INFORMATION ===============================
 ID: 1963
 TITLE: Fake Friends
 AUTHOR: Bluey․butSTILL․X_cartooncat ec42
@@ -57919,6 +57702,113 @@ MEZ: (Exit stage left) Mhm!
 CAZ: Hey, guys!-
 CAZ: What about me!? I- I'm not ready-
 CAZ: ...Oh my god-
+
+======
+
+INFORMATION ===============================
+ID: 1282
+TITLE: The Not So Quiet Spy
+AUTHOR: Shadowydarkness
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 05/12/24
+CHARACTERS ================================
+SCOTT: The clumsy spy:Backstage
+HECTOR: mafia boss:Boss Chair
+ASSISTANT 1: right hand man/girl:Entrance Stage Left
+ASSISTANT 2: goon:Entrance Stage Left
+JHON: intel from van:Narrator Podium
+SUGGESTIONS =============================
+ITEM:item valuable for a spy to steal :money,info,art
+NUMBER:any number:5,10,200,6000000
+WEAPON :a weapon:Gun,Knife,Sword
+JOB:a job title:goon,butler,someone you would hire
+COLOR:a color for a code:green,yellow,blue
+PASSWORD:a solid password to recite:blazing,4654,Fish,Ballack's
+TOOL:a second weapon but far sillier:balloon,fish,stick
+SCRIPT ==========================================
+Australian Music 1
+HECTOR: (to goons) Hey fellas, step into my office.
+ASSISTANT 1: (walks in first) Sure thing, boss.
+ASSISTANT 2: (follows) Yeah, whatever.
+HECTOR: Hey, don't take that tone with me, ya dig.
+HECTOR: Now, we have some business to attend to. (pulls out ITEM)
+ASSISTANT 1: (walk over to boss) Wow,is that a ITEM?
+HECTOR: Yup, Found it on one of my afternoon strolls.
+ASSISTANT 2: (quietly move to boss) Mob bosses don't take strolls or find random ITEM'S on the street.
+HECTOR: Of course they do I have seen it myself.
+ASSISTANT 2: (sarcastic) Right I'm sure you have.
+ASSISTANT 1: Its true. I've gone with the boss to make sure they were not harmed.
+HECTOR: And I thank you for keeping a close eye while I'm out and about.
+ASSISTANT 2: So besides all that, what exactly have you called us in here for?
+HECTOR: Oh yeah the reason I called you here, I was just about to tell you.
+(music stops)
+(spy music 1)
+SCOTT: (climbs backstage ladder) (stay by file cabinet stage left) Alright, I'm in.
+JHON: Alright, remember you're looking for the ITEM and nothing else. Just grab it and get out before you get caught.
+SCOTT: Right, retrieve the ITEM and get out alive.
+JHON: Correct. We DON'T want a repeat of last time.
+(music stops)
+HECTOR: (points to Assistant 1) Hey do you remember the password to the safe?
+ASSISTANT 1: Yup, it's PASSWORD. Just as you told me.
+SCOTT: Okay looks like I got a password. Now it should be smooth sailing from here.
+JHON: Nice, great job.
+SCOTT: Why, thank you.
+JHON: Focus.
+SCOTT: Right, sorry.
+ASSISTANT 2: But wasn't there a color associated with the password as well?
+HECTOR: (quietly)Wow the one thing you remebered.
+HECTOR:Of course there was a color with the password. Right hand, recite the color if you will.
+ASSISTANT 1: Right, it was COLOR.
+HECTOR: And that's why you're my right hand.
+SCOTT: Weird. I suppose you need a color too, huh?
+SCOTT: (loudly) Yes I have the ITEM!
+HECTOR:(turn around toward stage left and spot the spy) What the!
+SCOTT:  Uh hi!
+HECTOR: Who are you!
+SCOTT: Uh, I'm your new JOB
+HECTOR:  I don't have a JOB in my crew.
+SCOTT: Well I just transferred here and you know how people don't inform people about new employees.
+HECTOR: Funny I wasn't expecting any new employees today. Was I right hand?
+ASSISTANT 1: Lemme check.(flips a pad of paper)
+ASSISTANT 2: I don't think we were boss. We don't have the funding for new people
+SCOTT: Crap.
+JHON: Crap, Uh try playing it off.
+HECTOR: So who are you really? If your not a new employee than you must be a spy!
+SCOTT: (try playing it off) What? No, I'm not a spy. Haha, those don't exist.
+ASSISTANT 1: Sure they do. I'm looking at one right now. (points to Scott)
+ASSISTANT 2: Shall I grab the WEAPON , sir?
+HECTOR: Eh, sure I was looking for a fight anyway.
+ASSISTANT 2: (runs offstage to grab WEAPON and hands it to boss) Here ya go, boss.
+HECTOR: Thanks. (whispers) For nothing. 
+HECTOR:Draw your weapon, for we are about to fight.
+SCOTT: Uh, okay fine, you asked for this. Jhon my TOOL please!
+JHON: You sure about that. I thought this was for emergencies only!
+SCOTT: This kind of is an emergency!
+JHON: Okay fine
+(alien teleport)
+SCOTT: Thanks John.
+JHON: No prob Boss.
+HECTOR: (tries not to laugh) Hehe, hahahaha. Oh my goodness, you expect to win with that useless thing?
+SCOTT: It's not useless!
+HECTOR: Enough talk. Let's fight! 
+(sword fighting)
+SCOTT: Ah ha, I've got you now!
+HECTOR: Ha you think you have won!
+HECTOR: Think again! Ha!
+(knife wound)
+HECTOR: Augh ive been defeated!
+HECTOR: Right hand how many times has it been this week?
+ASSISTANT 1: Oh amount of times lossing in a fight, uh lets see.
+ASSISTANT 1:NUMBER.
+HECTOR: Really, NUMBER times?
+ASSISTANT 1: It's quite unfortunate.
+ASSISTANT 2: Yeah, just get good, hahaha. (pokes at Assistant 1)
+HECTOR: You're fired.
+ASSISTANT 2: Dangit.
+ASSISTANT 1: Told you to not run your mouth around the boss
+ASSISTANT 2: Whatever
 
 ======
 
@@ -58497,6 +58387,123 @@ Meanwhile TIMMY: (Follow Dad off stage) Where?
 MOM: (Follow them) Away from here, Timmy! Far away!!
 TIMMY: To EVENT?
 MOM: Forget EVENT Timmy, we're leaving the country!
+
+======
+
+INFORMATION ===============================
+ID: 1521
+TITLE: Completely Platonic
+AUTHOR: houseerikson
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Restaurant
+DATE: 10/03/25
+CHARACTERS ================================
+BOY: The Boyfriend:Entrance Stage Right
+GIRL: The Girlfriend:Entrance Stage Right
+WAIT: The Waiter/Waitress:Entrance Stage Left
+SUGGESTIONS =============================
+DRINK:A type of drink:Burbon,Lemonade,Water,Soda
+NO:Something you shouldn't drink:Oil,Laundry Detergent,Pee,Toilet Water
+BUG:something you would not want in your food:Cockroach,Beetle,Ant
+MAIN:A main course meal:Pasta,Steaks,Burger
+REST:Any resturant:East Side Mario's,McDonalds,Burger King
+SIDE:A side dish:Breadsticks,Fried Pickles,Onion Rings
+PET:A cutesy pet name:sugar,babe,honey,toots
+YOGA:place you might meet a new friend:yoga,coffee shop,gym,fortnite festival,vrchat,cooking class,book club,local pub
+SHIRT:something you can wear:hat,sneakers,garfield shirt,scarf,dress,leggings,blazer,yoga pants,crocs
+SCRIPT ==========================================
+(Guitar Music 1)
+BOY: Alright, here we are!
+GIRL: Oh, wow! This place looks so fancy!
+GIRL: How'd you get a table at REST of all places?
+BOY: Well, I got it through crime.
+GIRL: (sarcastic) Oh, ha ha...but really, how'd you pull this off?
+BOY: (Sit down at table) Alright, alright. I'll spill. A close friend of mine works here.
+GIRL: (Sit down at table) Oh, you do?
+BOY: Yep, and they were kind enough to set us up with some free seats.
+GIRL: Wait...free?
+BOY: Uh huh! Nice, isn't it?
+GIRL: Yeah, I'd say so.
+WAIT: (Enter stage left) Hello, and welcome to REST!
+BOY: Hey, there they are! Over here!
+WAIT: (Flirty) Hey....how've you been, PET?
+BOY: Well, I've been great, thanks for asking!
+WAIT: Good, good...and who's this?
+BOY: Oh! This is my girlfriend!
+WAIT: (Disappointed) oh....I see....
+GIRL: Hi. He's told me a lot about you, you know!
+WAIT: (dismissive) Uh huh, I don't care girlie. Anyways, you two wanna start out with some drinks?
+BOY: Oh! I think I'll have a DRINK to start!
+GIRL: I'll have the DRINK too.
+WAIT: I'll get right on that....don't go anywhere, PET! (Exit Stage Left)
+GIRL: PET...? They call you PET?
+BOY: Yeah, such a weird nickname, right?
+GIRL: Uhm...what exactly is your relationship with your friend?
+BOY: Well, we're friends. We met at the YOGA!
+GIRL: Yeah, I know but...are you two more than that?
+BOY: Oh no, we're completely platonic!
+GIRL: Well, alright...
+WAIT: (Enter stage left) I'm back, PET! Here's your drinks for you...two...
+BOY: Aww, thanks so much, bud!
+BOY: (Sips drink) Perfect as always!
+WAIT: You're perfect...
+GIRL: What?
+WAIT: What?
+GIRL: Ugh...nevermind...
+GIRL: (Spit out drink) EW! What the hell is this???
+WAIT: Is something wrong?
+GIRL: Yeah! This isn't DRINK, it's...NO!
+WAIT: Oh, my mistake...guess I mixed up the orders...
+GIRL: Who orders NO to drink?
+WAIT: Let me get you two some sides real quick. Be right back! (Exit Stage Left)
+BOY: I'm sure it was just an honest mistake, dear. Nothing to be upset about.
+GIRL: I guess...but I don't trust them. Are you sure they're not into you?
+BOY: One hundred percent. We're strictly platonic YOGA friends.
+WAIT: (Enter stage left) (Angry) Here's some sides, you lovebirds.
+BOY: Oh! SIDE! I love these!
+WAIT: I made em extra special for you, PET. Hope you like them.
+BOY: They're great! You always know which ones I like.
+GIRL: Eugghh...why are mine so cold?
+WAIT: Dunno...maybe you just have no taste...(Cough) Tacky! (Cough)
+GIRL: What was that???
+WAIT: What? What did I say?
+GIRL: You just said my SHIRT was tacky!
+BOY: Hey, calm down. They said no such thing about your SHIRT. Besides, your SHIRT is lovely.
+WAIT: I think we should move onto the main course. What would you want, my whittle PET?
+BOY: Oh, I think I'll have the MAIN.
+WAIT: Perfect. I'll get right on it.
+WAIT: (Turns to Girlfriend) Alright, what the hell do you want?
+GIRL:...just get me the same thing...
+WAIT: Yeah, sure whatever....(Exit stage left)
+BOY: What's going on with you?
+GIRL: With me? It's your friend that's the problem! They're making my orders bad on purpose!
+GIRL: They're probably jealous I'm with you and not them!
+BOY: Jealous? Don't be ridiculous. I told you, we're just some platonic friends from YOGA!
+WAIT: (Enter stage left) Here we go! Your main courses!
+BOY: Thanks so much! You know how much I love MAIN!
+WAIT: You bet I do...(turns to Girlfriend) alright take your meal and shut up.
+GIRL: Ewww! There's...there's a BUG in my MAIN!
+WAIT: Oh nooo...how'd that get in there....
+GIRL: Alright, that's it!
+BOY: Hey, why don't try and calm down?
+GIRL: (Stands up) No! This waiter is trying to sabotage our date!
+BOY: No they're not? Why would they do that?
+GIRL: Oh my god....They're into you! How hard is it to see that?!?!
+WAIT: (Gasp) How dare you! I am most certainly not!
+WAIT: I'm simply trying to provide the best service for my completely platonic PET!
+GIRL: You know what? Screw this! I'm outta here! (Exit stage right)
+BOY: Wait! Don't go!
+WAIT: Ah, good riddance to her! She wasn't good for you anyways...
+(70s music)
+WAIT: And now that it's just the two of us, PET...how about we have a little fun...
+BOY: What do you mean?
+WAIT: (Flirty) How about you come with me into the background and we can...have a real good time...
+BOY: Look, I'd love to, but I have to chase after my girlfriend. Sorry, friend.
+WAIT: ....Yeah, no. I get it. That's SO good for you! Real great!
+WAIT: I need to leave now! (Exit stage left)
+BOY: Man...maybe I shouldn't have blown them off like that...they looked really upset...
+BOY: Eh, I'm sure my PET is just fine. (Exit stage right)
 
 ======
 
