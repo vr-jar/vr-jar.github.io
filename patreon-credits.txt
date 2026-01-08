@@ -463,7 +463,6 @@ BossGamerDK
 bαgels
 CYBER_SPACE-EXE
 DylanCombineNLD
-Echo _Void
 Endingflame8212
 EvilSIZER
 JustSylveon
@@ -472,6 +471,7 @@ Kwekwo
 Lark_
 mightykong
 ʀᴇɪ․
+Solar Void
 Sr․Patchez
 Tempted19XX
 TheStonelord
