@@ -24868,7 +24868,7 @@ music stops
 INFORMATION ===============================
 ID: 771
 TITLE: That woman is so weird
-AUTHOR: ahtcs026
+AUTHOR: `ahtcs026`
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -37159,7 +37159,7 @@ NORM: So real.
 INFORMATION ===============================
 ID: 1162
 TITLE: I am Mad
-AUTHOR: APSI-wizard
+AUTHOR: Paul_The_Wizard
 VERIFIED: True
 TAGS: 
 SET: City
@@ -42477,7 +42477,7 @@ DADAP: Wowwwwiee!!!
 INFORMATION ===============================
 ID: 1376
 TITLE: R.I.P MAD
-AUTHOR: APSI-wizard
+AUTHOR: Paul_The_Wizard
 VERIFIED: True
 TAGS: 
 SET: Classroom
@@ -46300,7 +46300,7 @@ TYPEWRITER: The CON has no games.
 INFORMATION ===============================
 ID: 1491
 TITLE: Something Unforgettable
-AUTHOR: APSI-wizard
+AUTHOR: Paul_The_Wizard
 VERIFIED: True
 TAGS: 
 SET: Conference Room
@@ -46363,7 +46363,7 @@ WIZARD: no hadron just started singing MEME_SONG.
 INFORMATION ===============================
 ID: 1494
 TITLE: The Old Wives tale
-AUTHOR: ༒LunarMoth༒
+AUTHOR: ໒Mothཐི༏ཋྀMan১
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -48355,7 +48355,7 @@ TYPEWRITER:FOREVER
 INFORMATION ===============================
 ID: 1550
 TITLE: Ultra Rap
-AUTHOR: APSI-wizard
+AUTHOR: Paul_The_Wizard
 VERIFIED: True
 TAGS: Skit
 SET: Western
@@ -58504,6 +58504,232 @@ WAIT: ....Yeah, no. I get it. That's SO good for you! Real great!
 WAIT: I need to leave now! (Exit stage left)
 BOY: Man...maybe I shouldn't have blown them off like that...they looked really upset...
 BOY: Eh, I'm sure my PET is just fine. (Exit stage right)
+
+======
+
+INFORMATION ===============================
+ID: 2031
+TITLE: Grocery Store Havoc
+AUTHOR: jreat2010
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 06/01/26
+CHARACTERS ================================
+CASHIER: Cashier:Behind Register
+CUSTOMER: Angry Customer:Entrance Stage Right
+SUGGESTIONS =============================
+STORE:A name for a grocery store:Andy's dairy and meats,Lionel's,Laser sharp ingredients
+FOOD:Any type of uncooked food:Chips,Mountain dew,Orange Joe
+SUBSTITUTION:Any object you'd find at a grocery store:Hammer,saw,fridge
+NAME:Any name:Vincent,Pierce,Harry
+IMPORTANT THING:Some thing or event that is important.:Water,Frank Sinatra,Amongus.
+DUMB OBJECT:Something that is irrelevant or unimportant.:A child,the lottery,algebra
+MONEY:any number besides negative:80,47,912
+VEHICLE:Any vehicle:uma musume,toyota corolla,camel,motorboat
+STATUS:An emotion, status, or state of being:overly emotional,single and ready to mingle,slippery,erm acshually
+SCAN:A verb/action you might do to an object:scan,smoke,shake,get silly with
+STARBUCKS:A bad store:starbucks,wendy's,papa johns,amazon dot com
+SCRIPT ==========================================
+(guitar music 1)
+CUSTOMER: (enter store) I just parked my VEHICLE outside this STORE and I'm ready to get shopping.
+CASHIER: Welcome to STORE, how may I help you?
+CUSTOMER: (ignore the cashier and walk to the shelf) Now where is it...
+CASHIER: Uhm, may I help you?
+Meanwhile CUSTOMER: (Search for something on the shelf)
+CUSTOMER: Aha! I knew it! (Pick up object from the shelf), you have FOOD!
+CASHIER: Uhm, yea we do have FOOD, you're holding it.
+CUSTOMER: No! Its that when I ordered online for FOOD, you gave me SUBSTITUTION instead! Why!?
+CASHIER: I didn't do your online order, that would be NAME.
+CUSTOMER: I don't care! I asked for FOOD!
+CASHIER: Err, Okay. Don't get all STATUS. Just pay for it and it's yours.
+CUSTOMER: You're not taking this as seriously as I want you to. Treat this like IMPORTANT THING, not like DUMB OBJECT.
+CASHIER: Im not treating this like IMPORTANT THING.
+CUSTOMER: Please..? Or I'll get NAME to do your online order.
+CASHIER: Just buy the FOOD.
+CUSTOMER: Fine.
+CUSTOMER: (Give FOOD to cashier) Here. Take the FOOD and SCAN it or whatever you do behind that register.
+Meanwhile CASHIER: (Recieve FOOD and ring it up)
+CASHIER: Your total comes to MONEY dollars.
+CUSTOMER: MONEY dollars!?? No no no, I'm done!
+CUSTOMER: I can't believe STORE hired the likes of you.
+CUSTOMER: I might have expected this level of incomptetence from STARBUCKS. But not STORE.
+CUSTOMER: (In a huff) Ugh. (Storm out of the store)
+CASHIER: Some people.
+
+======
+
+INFORMATION ===============================
+ID: 2016
+TITLE: Interdimensional Job Interview 
+AUTHOR: Space☆Cadet
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 25/12/25
+CHARACTERS ================================
+BOSS: The Boss:Boss Chair
+HR: Human-Resources:Office Chair 1
+ALIEN: Alien Interviewee:Entrance Stage Left
+SUGGESTIONS =============================
+DEPARTMENT:A bizarre department:Extra-planar Issues,Unused Resources,Light Entertainment Police,Supernatural Threats,Board of Tea Appeals,Time Variance Authority
+NAME:Name for an Alien:Zorgon the Mighty,Zorp Glorbax,Snorgle Wigglebottom,Gleep Glorp,Squonk the Shiney,Kevin from Sector 9,Gloop-Zorp-7
+JOB:Ridiculous Job Title:Comic Sans Annihilator,Snake Milker,Whale Snot Collector,Beverage Dissemination Officer,Director of First Impressions,Galactic Viceroy of Research Excellence
+STRANGE:A strange object:a groan tube,a rubber chicken,a baguette pillow,Roman Dodecahedrons,Blue Dragon Sea Slug
+ABSURD:Absurd items:tiny hands,yodeling pickles,snuggies,loose pant hangers,chicken glasses
+USELESS:Useless invention:finger beanies,an avocado on a stick,a motion-sensing toilet light,shoe umbrellas,a pet rock
+TIME:An absurd time:4.20 AM,3.33 AM,12 AM,0 PM,The Violet Hour,Elevenses,Beer O'Clock
+PLANET:A made-up planet or region:Glorp-9,Vogsphere,Coruscant,Azurea,Rubra,Lumina,Elysium
+THING THAT SUCKS:Something that sucks hard:the game awards,having to play cards against humanity,when your cat farts into your eye
+PAPERCLIPS:Household item(s):paperclips,stapler,scented candle,human hair
+GLUE:Substance you don't want to touch but sometimes do:gorilla glue,bleach,toilet paper
+SCRIPT ==========================================
+TYPEWRITER: An Interdimensional Job Interview
+corporate guitar music
+BOSS: Alright, (gesture to HR) let’s make this quick. I’ve got a meeting with DEPARTMENT in ten minutes. Send in the next applicant.
+HR: Wonderful! That would be NAME—oh! Here they come now.
+knocking on door
+ALIEN: (enter dramatically) Mortals! I bring my résumé, printed in the blood of my enemies—and double‑sided to save trees.
+BOSS: Uh‑huh. Great enthusiasm. So—you’re applying for our JOB position?
+ALIEN: Indeed. I conquered PLANET in record time. I can handle Excel.
+HR: Perfect fit so far! Let’s start with our Icebreaker Question! "If you were trapped in a conference room with only STRANGE, how would you survive?"
+ALIEN: I would use the STRANGE to assert dominance and reorganize the hierarchy.
+BOSS: Noted. Team player and decisive. Moving on.
+BOSS: Let’s test your problem‑solving. Scenario: The copier is producing ABSURD instead of paper. What do you do?
+ALIEN: I would discipline it without mercy. My spreadsheet shall know fear!
+HR: Great initiative! Conflict resolution through intimidation. Classic management style!
+BOSS: And if the office accidentally gets swallowed by a black hole?
+ALIEN: I would use its gravitational pull to increase productivity by 300 percent!
+ALIEN: The hole will suck harder than THING THAT SUCKS!
+scribbling
+HR: (writes furiously) “Thinks outside the reality box!”
+spy machinery
+crashing debris
+BOSS: Great. Remind me to cancel the insurance after this.
+HR: Time for our team‑building exercise! With only limited resources, you must construct USELESS!
+ALIEN: I will forge it from pure ambition and unpaid overtime!
+ALIEN: (Building a USELESS) Just put some PAPERCLIPS here... some GLUE here...
+ALIEN: (Presenting the finished thing) Behold! A perfect USELESS!
+BOSS: Well, this has been… enlightening. NAME, despite the collateral damage, you’ve shown impressive initiative.
+ALIEN: At last! When do I begin my reign as Regional Overlord of JOB?
+HR: You start immediately! Congratulations—you’re our new unpaid intern!
+ALIEN: Unpaid!? Even DEPARTMENT gets hazard pay! You dare insult the NAME—
+BOSS: Think of it as exposure. To radiation.
+HR: Orientation starts at TIME sharp—bring your own desk!
+ALIEN: I accept! Soon, this company shall tremble beneath my productivity metrics! (Walk off stage left)
+BOSS: Perfect. (To HR) Send in the next applicant before reality collapses again.
+spy machinery
+explosion
+HR: Love the energy today!
+
+======
+
+INFORMATION ===============================
+ID: 2014
+TITLE: Bush and Bravery 
+AUTHOR: billbert_2
+VERIFIED: True
+TAGS: 
+SET: Forest
+DATE: 25/12/25
+CHARACTERS ================================
+SARGE: SGT. Runk:Center Stage
+CORPORAL: CPL. Johnson:Stage Left
+PRIVATE: PVT. Lites:Stage Right
+BEAST: The Scary One:Backstage
+SUGGESTIONS =============================
+DESTROYED:Harmful verb(past tense):Killed,Destroyed,Demolished
+RUSTY:Adjective ending in "-Y":Corny,Rusty,Funny
+NAIL:Noun:Nail,Dog,Twig
+BASE:Building:House,Motel,Burger Joint
+BARKING:Verb ending in "-ing":Running,Talking,Barking
+BURGER:Yummy food:Burger,pudding,steak
+ROSE:Agency or Corporation:CIA,Umbrella,Urbanshade
+PUPPIES:Plural noun (something cute):Puppies,Plushies,Sharks
+SPAM:Terrible food:SPAM,Burnt steak,fried goat hooves
+ROAR:Battle cry or Roar sound written down:RAGWGWGGW,BOO,AAAAAAWAWAWWA
+BEER:Drink:Soda,Beer,Whiskey
+COSTUME:Something you wear:Pants,costume,suit
+SCRIPT ==========================================
+mystery music 1
+SARGE: Found anything yet boys?
+PRIVATE: No sir, just a RUSTY NAIL
+SARGE: How about you Corporal?
+CORPORAL: Nothing... just like last time! There's nothing in this damn forest... Hell I don't even think there's a BASE here!
+SARGE: Corporal! If there was no BASE here then HQ wouldn't have sent us here now would they?
+CORPORAL: Screw HQ! My dogs are BARKING
+SARGE: Quit your whining!! And learn to deal with your dogs BARKING! 
+SARGE:We ain't leaving till we find the BASE and that's final
+PRIVATE: Sir, if you don't mind me asking... but the Corporal has a point
+SARGE: Go on.....
+PRIVATE: I mean... well we've been here for 5 days and we haven't found anything regarding this "BASE", not a clue, no patrols, nothing
+PRIVATE: Are you sure there's a BASE here?
+SARGE: 100 hundred percent sure! HQ is never wrong!
+CORPORAL: (sigh) Here he goes again....
+SARGE: HQ has saved millions! Billions even!!! They saved me! They saved you! They saved PUPPIES! Hell they've saved, dare I say it, everyone!!
+CORPORAL: Sir, we've told you this before the ROSE contol HQ and all of our other bases! HQ is just the messenger!
+SARGE: ROSE is a nice women and I'm glad she runs HQ, thank you for even more reasoning Corporal
+CORPORAL: This guy
+PRIVATE: Sir, what makes this BASE so bad? What would happen if we fail to find it
+SARGE: Terrible things.... Terrible things Private
+PRIVATE: What kind?
+SARGE: This planet... the people on it.... HQ..... us..... the PUPPIES
+SARGE: They'd be DESTROYED, torn to shreds, made into unrecognizable puddles of their former selves
+SARGE: The survivors munching down on roaches and cans of SPAM soon to be taken away from that suffering only to be tortured once again...
+PRIVATE: Jeez Sarge, never knew a BASE could pose such a threat
+CORPORAL: I doubt one BASE could do all that
+CORPORAL: And seriously?!!? PUPPIES and SPAM!?!? You're really trying to get into our heads with all that
+PRIVATE: I don't want to risk that Corporal
+CORPORAL: Pfff I doubt any of that will happen because I don't even think this so called "BASE" is real
+PRIVATE: Sure sounds like a real threat to me, especially those poor PUPPIES that have to live in a world eating SPAM
+CORPORAL: The Sarge is a walking, talking propoganda poster and you're biting right into his words like a juicy BURGER
+Meanwhile BEAST: (enter stage quitetly and avoid being seen, hide in the brush)
+PRIVATE: Mmmmm.... BURGER
+SARGE: That's the spirit Private, alreadly tasting victory
+CORPORAL: (facepalm) I swear... if we find anything relating to that BASE I'll buy out a whole Bar
+BEAST:ROAR
+epic fantasy music 2
+SARGE: (Point gun towards noise) Someone owes everyone at HQ a drink
+CORPORAL: Well atleast we get some action
+PRIVATE:(aims weapon shakily) that doesn't sound like a patrol
+SARGE: Well, ain't nothing I'm afraid of
+BEAST: (Reveal yourself) ROAR
+SARGE:Mommy!(Hug private)
+Meanwhile PRIVATE: Daddy!(Hug Sarge)
+CORPORAL:(lower weapon) Heh, nice COSTUME... got them real scared
+music stops
+PRIVATE: (cowering and shaking) Corporal don't....
+SARGE: What the hell are you doing Corporal?
+CORPORAL: (Inspecting beast) Details are beyond impressive.... and that roar you did.... where's this from? I swear I've seen it before
+PRIVATE: M-maybe he's right? A real monster would've DESTROYED him already, right?
+BEAST: (Stab corporal) Wrong!
+knife wound
+CORPORAL: (Get stabbed) Even... real.... weapons..............heh
+BEAST:Lived(pull claw out) and died as foolish
+CORPORAL:Ooooh(fall over and die)
+SARGE: My BEER!!!!(stand up to the beast)
+epic cinematic music
+BEAST: You approach me knowing full well I'm not in a COSTUME all because I killed your comrade and took some cheap drink from you? Humans are something
+SARGE: Not any cheap drink! My BEER!!! 
+BEAST: And what's so special about this "BEER" you speak of?
+SARGE: I'll show you!! Private!!! Hand me that RUSTY NAIL, NOW!!!!!
+PRIVATE: But Sir, we have fully loaded guns
+SARGE: I want to teach this COSTUME freak a lesson
+BEAST: You think you can beat me with nothing but a RUSTY NAIL
+BEAST: You not even try the guns you humans trust so much? (laughs)
+BEAST: RUSTY NAIL!? Alright, then I hope you make this interesting
+meanwhile PRIVATE: (hand RUSTY NAIL to sarge)
+SARGE: As interesting as BEER and saving PUPPIES(Really cool fighting stance)
+PRIVATE: What about the BASE? 
+SARGE: Forget the BASE, go back to HQ and report this big ugly
+PRIVATE: Sir yes sir (exit stage)
+music stops
+CORPORAL: (Weakly) what... the... hell... you drop the BASE just like that!??! ROAR
+BEAST: (stomp out the Corporal) I respect you resilience, but your life ends here
+epic fantasy music 3
+SARGE: Well then ugly.... Lets dance
+SARGE:(Run at Beast)BEER!!!!
+Meanwhile BEAST:(Run at Sarge)ROAR!!!
 
 ======
 
