@@ -34711,78 +34711,6 @@ CLERK: (frustrated) Then why did we have any of this conversation? Why are you s
 ======
 
 INFORMATION ===============================
-ID: 1090
-TITLE: The Great Leader
-AUTHOR: SPIDΣR ZΔZZULΣ
-VERIFIED: True
-TAGS: Skit
-SET: Detective Noir
-DATE: 16/09/24
-CHARACTERS ================================
-LEAD: Country Leader:Detective Chair
-ADVISE: Loyal Advisor:Entrance Stage Left
-REBEL: Rebellious Citizen:Backstage
-SUGGESTIONS =============================
-LAND:Country(fictional or real):Germania,France,Jarsland
-IDEA:Ideology:Vrchatism,Jarism,Democracy
-IDEOLO:Ideology:Nihilism,Communism,Metaism
-NICKN:Name for a leader:Grand leader,Führer,Emperor
-PLACE:A holding place:War Camps,Dungeon,Void
-DIE:A way to die:Smashed,Sniped,Eaten
-YEAR:A year:1945,1888,1999
-SCRIPT ==========================================
-TYPEWRITER: LAND, YEAR
-jazz music 2
-LEAD: (looks at newspaper) Ugh, I can't believe this is happening. Every day it seems like my own people are turning against me.
-LEAD: (sighs deeply) ADVISOR!
-Music Stops
-ADVISE: (enters room) Yes, my NICKN? What troubles you today?
-LEAD: (shows the newspaper) Look at what is happening. My people, the people of LAND, are going against their great leader. Me!
-ADVISE: (takes the newspaper, scanning the headlines) That's terrible, my NICKN! It's unsettling to see unrest brewing among our citizens.
-LEAD: It feels like chaos is lurking just around the corner. What do they want? Why can't they see that IDEA is the future?
-ADVISE: Let me see so I can assess the situation. (studies the newspaper further)
-LEAD: (anxious) They speak of change as if it's something they can grasp without consequence. They don't understand the bigger picture!
-ADVISE: (nods) It seems they believe that IDEA is ruining LAND. They clamor for something new, something they think will save them.
-shark tank discussion music 1
-LEAD: A change? We don't need a change! They just don't see the bigger picture!
-LEAD: IDEA is exactly what this country needs and I'm not letting my people fight against me!
-LEAD: (under breath) Let's just hope a civil war doesn't start...
-ADVISE: (pacing slightly) A war wouldn't serve anyone. We must find a way to quell this unrest before it escalates.
-LEAD: (thoughtful) Perhaps dialogue is the key, but are they even willing to listen?
-LEAD: Advisor, I have a mission for you, bring me one of these rebels and we'll talk.
-ADVISE: Yes, my NICKN. (Exits room)
-Music Stops
-ADVISE: (enters room, with REBEL) Get in here, you rebel. The leader wants to speak with you.
-Meanwhile REBEL: (Escorted into the room)
-REBEL: (Defiantly) What's this all about?!
-shark tank serious music 1
-LEAD: Well, supposedly, you support a change in LAND, don't you?
-REBEL: Yes! Your IDEA ideas will never work in this country! Not now, not ever!
-LEAD: Oh, is that so? Well, tell me, what do you suggest we do?
-REBEL: I say that IDEOLO is a better system than the useless IDEA you've put into place!
-LEAD: (leaning forward, intrigued) I can see where you are coming from, but you want to know something?
-Music Stops
-LEAD: Your opinion doesn't matter.
-thunder
-REBEL: See! That's what I'm talking about. This system is corrupt! IDEA is corrupt, you all are corrupt!
-epic fantasy music 2
-ADVISE: HEY! Watch your tone there, BOY, remember who you are talking to. We are the strongest people in LAND, perhaps even the entire continent.
-REBEL: I won't listen to your nasty words. LAND will have a change, a REVOLUTION!
-LEAD: Get this man out of my face and into the PLACE!
-REBEL: This isn't the end. You will hear of me again! (Gets dragged out of room)
-Meanwhile ADVISE: (Drag REBEL off stage) You're gonna rot in the PLACE!
-Music Stops
-LEAD: (sighs loudly) What has this country come to...
-ADVISE: (Enter the room) Don't worry, my NICKN, we will regain control as soon as everything calms down.
-LEAD: I just hope I don't get DIE.
-ADVISE: (softly) We will protect you, my NICKN. We will find a way to restore peace.
-LEAD: (nods, still troubled) It's not just about me, it's about the future of LAND. We must find a way to bridge these divides.
-ADVISE: (determined) Together, we'll find a solution. We always have.
-LEAD: (looks out the window, hopeful yet wary) For the sake of all of us, let's hope you're right.
-
-======
-
-INFORMATION ===============================
 ID: 1091
 TITLE: Short service
 AUTHOR: R0b0Rilz
@@ -45829,7 +45757,7 @@ AIDEN: Oopsie, well, happy early birthday, Raven.
 INFORMATION ===============================
 ID: 1477
 TITLE: Johnny Visits Restaurant
-AUTHOR: verk999
+AUTHOR: Verk999
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -48832,146 +48760,6 @@ TEEN: Nooooooo!
 ======
 
 INFORMATION ===============================
-ID: 1561
-TITLE: Hostage Situation
-AUTHOR: Reddicide
-VERIFIED: True
-TAGS: Skit
-SET: Conference Room
-DATE: 24/03/25
-CHARACTERS ================================
-COP1: Negotiator Cop:Narrator Podium
-COP2: Cop that becomes a hostage:Backstage
-HOST: Hostage:Entrance Stage Left
-CRIM: Criminal:Center Stage
-SUGGESTIONS =============================
-ACTION:Any action:Surrender,Give Up,Come Out
-PERSON:Any type of person:accountant,person,bride,mayor
-1DEMAND:An unrealistic demand a criminal would ask at a hostage situation:A helicopter on the roof in 10 minutes,A briefcase full of unmarked bills
-2DEMAND:An unrealistic demand a criminal wouldn't ask at a hostage situation:A secret tunnel out of the building,All security camera footage erased,The entire police force to sing Happy Birthday
-3DEMAND :A demand a criminal would ask at a hostage situation:A getaway car with a full tank of gas,A fake passport and a ticket to somewhere tropical,A solid gold toilet
-4DEMAND:A demand a criminal wouldn't ask at a hostage situation:The police to stand down and let them walk out free,The city mayor to personally negotiate,Unlimited coupons for free ice cream
-FOOD:A food you commonly get delivered:Pizza,McDonald's McChicken,Subway Sandwich
-5DEMAND:A simple demand a criminal may or may not ask for at a hostage situation:a collection of beanie babies,the entire avengers DVD set,a copy of Shrek 2
-1ADJ:any adjective:delicious,yummy,succulent
-1ACT:any action you don't want someone to do:sing,dance,shoot
-TERRIBLE:Any negative adjective:terrible,awful,horrible
-SENTENCE:something you might say after being taken as a hostage:Story of my life,Please get me out of here,Can't be worse than family gatherings
-SCRIPT ==========================================
-mystery music 1
-police car
-COP1: (Loudly through a megaphone) This is the police! Come out with your hands up and ACTION peacefully! We have this place partially surrounded.
-CRIM: (Pacing back and forth before screaming out the window) NEVER! I refuse to ACTION!
-COP1: (Through megaphone) You have no way out of this one. If you ACTION now, we can talk about cutting a deal.
-CRIM: (out the window) Don't play with me, I have hostages! (go to open the door and grab the hostage)
-meanwhile HOST: (get grabbed by criminal, hands restrained behind back)
-HOST: (getting dragged out towards window) Ouch! Hey, watch the suit! This is dry clean only!
-meanwhile CRIM: (Holds hostage up to window)
-CRIM: (holding hostage up to window) You see this?? This poor innocent PERSON is in MY hands, and I have demands.
-HOST: (held up to window nonchalantly) Hey what's up?
-COP1: (through walkie) He has an innocent PERSON! I'll need some backup. (through megaphone) Alright, let's talk. What do you want?
-CRIM: First, I want 1DEMAND and I want it NOW!
-COP1: (through megaphone) Uhm, can you demand something a bit more.... reasonable? 1DEMAND is pretty... unrealistic here.
-CRIM: (out window) So now you're telling me what I can and can't demand?? Who has the PERSON as their hostage here???
-HOST: No, he's right, your demand is totally unreasonable and TERRIBLE. You need something better, like 2DEMAND!
-CRIM: (at hostage) Whose side are you on?
-HOST: I'm just saying, if you're gonna make demands, make GOOD ones. Asking for 1DEMAND is just, just TERRIBLE. You got one shot at this, you got this!
-CRIM: (nodding) Yeah, yeah okay. (out the window) Alright. I've decided, I instead want 2DEMAND.
-COP1: (to self) That's even more ridiculous! Where is he getting these demands from??
-COP1: (through megaphone) Look, I'm trying to work with you here, but 2DEMAND? That's even worse!
-COP1: (through megaphone) Why not something like a pizza, or a getaway car, or 5DEMAND? C'mon, work with me here!
-CRIM: (angrily at the hostage, shaking) You said that was a good demand!
-meanwhile HOST: (getting shaken)
-HOST: Hey hey, I'm just trying to help! Listen, the faster you get your demands, the faster I get out of here. It's a win for both of us!
-HOST: (thinking) How about 3DEMAND?
-CRIM: 3DEMAND? Yeah... that might work. (goes to window) HEY! I want 3DEMAND!
-COP1: (to self) Finally, something a little more reasonable.
-COP1:(through megaphone) Look, we MIGHT be able to get you 3DEMAND, but we need you to calm down and work with us, alright?
-Meanwhile COP2: (head up to narrator podium next to Cop1)
-COP2: How's the hostage situation going?
-COP1: Not very good. They've already asked for 1DEMAND, 2DEMAND, and 3DEMAND! Next thing you know they'll ask for 4DEMAND!
-HOST: (to criminal) You know, I think you should also ask for 4DEMAND. That way, it gives you something to negotiate about.
-CRIM: We're ALREADY negotiating!
-HOST: I'm just saying, all of the other criminals that asked for 4DEMAND got their own Netflix documentaries.
-CRIM: (nodding in agreement) Yeah, yeah you're right. (out window) HEY! I'm not done making demands! I've decided I also want 4DEMAND!
-COP1: (to other cop) Can he hear us?? (through megaphone) Did you hear us?
-CRIM: (out window) WHAT? Can you repeat that? Speak up! I can't hear you, I'm talking through a window.
-COP2: (looks at cop1) I don't think he can hear us.
-COP1: Alright, this just getting ridiculous. (to the other cop) We need you to go under cover. Act as a FOOD delivery person and go deliver them FOOD.
-COP2: But they didn't even order FOOD-
-COP1: It's a free FOOD, no one turns down free FOOD! And take him down when you're inside.
-COP2: Yes, sir! (salutes before walking off towards stage entrance, don't enter yet)
-CRIM: (To hostage) I think this is going pretty well so far. They're listening to my demands.
-HOST: See? Just gotta ask the right stuff!
-heavy door knocking
-music stops
-COP2: (behind door) Uhhh FOOD Delivery!
-groose music
-CRIM: FOOD delivery?? Oh boy I'm starved! Hey wait-- I don't remember ordering any FOOD. (looks at hostage) Did you order any??
-HOST: No, but can we eat it? I'm really hungry and some FOOD sounds really delicious right now.
-CRIM: Hold on.... I think this could be a trap.
-HOST: Or it could be a heaping pile of FOOD! Delicious, warm, free FOOD!
-CRIM: (Nodding) Alright, alright. Bring it in, but no funny business.
-COP2: (enters dressed as FOOD delivery person) One extra peace offering with a side of negotiation!
-CRIM: What kind of FOOD is this??
-COP2: Uhhh... the ADJ kind?
-CRIM: I knew it!
-scary music
-CRIM: (Grab the cop and tie him up, throwing him with the other hostage) It was a trick, but your plan failed. You're MY hostage now.
-meanwhile COP2: (gets tied up and thrown with the other hostage)
-COP1: (through megaphone) What, you took the FOOD guy hostage now too??
-COP2: SENTENCE!
-HOST: Welcome to the club! First time being a hostage?
-COP2: No, but definitely the 1ADJest.
-noir music 1
-COP1: (through Megaphone) Alright this is just getting embarrassing, you have TWO hostages now. What's your endgame here?
-CRIM: (thinking) Hmmmm, I think I want 5DEMAND.
-HOST: Bigger, BIGGER!
-COP2: (groaning) Stop helping him!
-CRIM: Yeah, yeah! (out window) I want 5DEMAND, and also uhh... (thinking)
-COP1: (to self) Finally! Something I can do! (through megaphone) Look I'm starting to get really tired of all of your nonsense, but I promise I can get you 5DEMAND.
-CRIM: (suspicious) What's the catch?
-COP1: (through megaphone) Look, we know you're inside, and we've got at least two cops in the area. You've made your demands, and we're ready to make a deal.
-CRIM: I'm not making a deal, I'm making a DEMAND, and I want it now!
-HOST: 5DEMAND? You're really sticking with that?
-CRIM: Yes! And YOU (pointing at the hostage) are going to help me get it.
-HOST: (Shrugs) Well, I tried.
-CRIM: (to hostages) I need them to take me seriously! (out window) If I don't get my 5DEMAND in 5 MINUTES, something bad will happen.
-COP1: (through megaphone) Oh yeah? Like what?
-CRIM: I'll uh... I'll start 1ACTing!
-HOST: (horrified) No! Anything but 1ACTing!
-COP2: You've experienced it before?
-HOST: No, I'm just trying to be supportive.
-COP1: (to self) I don't even know what that means but I'll do anything to stop it.
-COP1: (through megaphone) Listen, we're bringing 5DEMAND over right now! Just PLEASE don't start 1ACTing!
-CRIM: Finally! They're actually taking me seriously, I'll get 5DEMAND in no time!
-tire screech
-COP1: (through megaphone) Alright, I have your 5DEMAND here, but I need you to come outside for it.
-CRIM: No, I want you to bring it in here.
-COP1: Uhm, that's just simply not possible. Look, 5DEMAND is right here, but you're gonna have to come outside to get it.
-CRIM: No, I make the demands here, and I demand you deliver 5DEMAND straight to this office doorstep. I don't care if it's "not possible", find a way!
-COP1: (Sighs) He's really not making this easy.
-COP2: (whispers to hostage) My leg is falling asleep.
-meanwhile COP1: (running around to entrance)
-HOST: (whispers to hostage cop) I've been holding my pee for over 2 hours now.
-meanwhile COP1: (running around to entrance, pull out gun)
-heavy door knocking
-COP1: (holding gun in front of door) Alright, I'm here with your 5DEMAND. Open the door and we can finish this.
-CRIM: Finally! I'm going to get my 5DEMAND! (opens door for cop) Where is my 5DEMAND??
-badass music 1
-COP1: I have your 5DEMAND right here! (shoots criminals legs)
-gunshot
-CRIM: MY LEGS! (falls to ground) My legs! You shot my legs!
-COP1: (arresting criminal) You're under arrest!
-COP2: My hero!
-HOST: Just as it was getting fun!
-meanwhile CRIM: (getting arrested)
-music stops
-CRIM: So... no 5DEMAND?
-
-======
-
-INFORMATION ===============================
 ID: 1562
 TITLE: Wrong Wedding
 AUTHOR: Reddicide
@@ -49355,90 +49143,6 @@ JAMIE: I wish i could change it or something.
 KIM: Well.... i know a dank DODGYSTORE that also sells fake ID's
 (laughter)
 RICK: Why am i friends with yall... (Exit)
-
-======
-
-INFORMATION ===============================
-ID: 1568
-TITLE: Haiku Hangout
-AUTHOR: Reddicide
-VERIFIED: True
-TAGS: Skit
-SET: Campsite
-DATE: 25/03/25
-CHARACTERS ================================
-HAR: Whimsical Poet (Harper):Camping chair
-CAS: Serious Poet (Casey):Log chair
-JOR: "Creative" Poet (Jordan):Stump chair
-SUGGESTIONS =============================
-1INS:anywhere you get inspiration from:Italy,my back yard,the chicken coop
-2INS:anywhere you get inspiration from:Dragon Ball Z,the socks I keep losing from the dryer,my forearm
-HAIKU:Something a rodent wouldn't be doing right now:overthrowing a kingdom,praising the word of Jesus Christ,partnering with Spiderman to go on an epic quest for nuts
-RODENT:an animal, must be 2 syllables:Squirrel,chipmunk,mole-rat,hamster,
-1FOOD:something you'd cook over a campfire:marshmallow,sausage,chicken
-ADJECTIVE:Any positive adjective:amazing,lovely,beautiful
-1HAI:any sentence or series of words that is a total of 5 syllables:Refrigerator,carrot and pepper,I shall eat tonight,leopard gecko tail
-2HAI:any sentence or series of words that is a total of 7 syllables:lost among a thousand more,microwave oven stovetop,lizard mcschlizard wizard,one fish two fish wheres my fish
-3HAI:any sentence or series of words that is a total of 5 syllables:fridge fridge fridge fridge fridge,for you will not win,eat ketchup packet,kitten go meow
-2FOOD:a food; must be 2 syllables:cheese,hotdog
-SOUL:a part of you:soul,spirit,body,mind,arm
-ACTION:an action; must be 1 syllable:dance,tease,reap
-SCRIPT ==========================================
-Japanese music 1
-HAR: (seated, taking in a deep breath) You smell that? The scent of pine, smoke, and-
-JOR: (seated, sniffing) ...burning 1FOOD?
-HAR: Burning 1FOOD is inspiration. Pure, poetic inspiration.
-CAS: (seated) You say that, but your last haiku was about a RODENT HAIKU.
-HAR: And yet it followed the sacred 5-7-5!
-JOR: I still think about that RODENT.
-CAS: (Shakes head) Let's just get started, (teasing) before Harper writes another RODENT epic.
-HAR: Yes! The ancient art of haiku, passed down through generations, now in our very hands.
-JOR: (Grinning) No pressure, Casey, just the weight of poetic tradition!
-CAS: And I shall honor it. (Stand up getting ready to read.) This poem was inspired by 1INS.
-CAS: *Autumn leaves descend // ACTIONing flames in crisp night air // whispers of lost time*
-HAR: Wow.. that was...
-JOR: ADJECTIVE.
-HAR: And yet distinctly lacking in RODENTs.
-CAS: Are you ever going to stop with the RODENTs?
-HAR: NEVER! Poetry is about *evolution*, Cas. Growth. (teasing) And clearly RODENTs are the pinnacle of artistic progress.
-CAS: (Shakes head endearingly with a sigh, sitting down) Oh, Harper.
-JOR: Alright Harper, since you're so committed to our RODENT overlords, let's hear what *you* have to say!
-HAR: (stands up dramatically clearing throat) Oh, you *wish* you were ready for this! I get my inspiration from, let's say personal experience.
-HAR: *Moonlight on still ponds // whispers weave through silent pines // RODENT takes the stage*
-JOR: A true masterpiece.
-CAS: (grinning) I can't say I didn't love that.
-HAR: Admit it, Casey! The RODENT agent is growing on ya!
-CAS: Against my will!
-HAR: That's how true art works! (sits down) It seeps into your SOUL when you least expect it.
-JOR: Next thing you know, you'll be writing your own RODENT haiku!
-CAS: Nope! Not happening.
-HAR: Oh, but imagine it! A heartful Haiku-
-JOR: (chimes in) for a small noble RODENT-
-HAR: Searching for a meaning-
-JOR: Braving the vast, savage world-
-HAR: (whispers) ...on a hunt for 2FOOD!
-HAR: Jordan gets it! (High five Jordan)
-Meanwhile JOR: (High five Harper)
-CAS: (sighs, sarcastically) I need new friends.
-JOR: What you need, my friend, is inspiration! And I have just the thing for you, for it is my turn. (stands up)
-JOR: 1HAI // 2HAI // 3HAI
-music stops
-HAR: (Silent)
-meanwhile CAS: (Silent)
-HAR: That was uhmm..
-CAS: Definitely some words.
-HAR: Words arranged in a way that it could be called a Haiku.
-Japanese music 1
-JOR: Oh come on you know you felt the emotion in that one! (sits down) The raw, untamed power.
-CAS: The power of confusion.
-JOR: The power of art, Casey. Poetry isn't about making sense - it's about how it makes you *feel*.
-HAR: Where was the inspiration behind that poem anyways?
-JOR: Oh! I got it from 2INS.
-CAS: That's uhm, quite the source of inspiration there.
-HAR: Poetry truly knows no bounds.
-CAS: One more round?
-HAR: (cheers) One more round!
-Meanwhile JOR: (cheers) One more round!
 
 ======
 
@@ -55683,101 +55387,6 @@ GOON: Ahh! I'm on fire! Help! HEEEEEEELP!
 ======
 
 INFORMATION ===============================
-ID: 1751
-TITLE: Rules of magical girl shows
-AUTHOR: wolfy_tarot_moon
-VERIFIED: True
-TAGS: 
-SET: City
-DATE: 13/07/25
-CHARACTERS ================================
-MAGICALGIRL: The magical girl:Backstage
-VILLAIN: the villain:Stage Left
-RULEMAKER: the rule maker:Backstage
-SUGGESTIONS =============================
-TITLE:a fantasy title:Fairy,goddess,creator
-TRANSFORMATIONWORD:Something to say to start a transformation sequence:By the light I will transform,mystical form!,light of all good transform me!
-PLACE:a place:Poland,the bank,the ocean
-HURTWORD:something you would say after getting hurt:OW THAT HURTS!!,AH WHAT THE,OW DANG IT
-NONFRIENDLYAREA:A very not friendly place:Prison,Medieval times,north korea
-MAGICTOOL:something to cast magic:wand,fairy dust,spell book
-TAUGHT:something you would be taught as a baby:talk,walk,eat
-DESTROYMETHOD:a way someone can destroy a place:exploding,vandalizing,polluting,
-PROTAG:a name for a protagonist:mika,vivian,rosa
-DO EVIL STUFF:something evil that you can do:do evil stuff,download torrents,download vrchat,make lemonade,kill random people
-SCRIPT ==========================================
-dark classical music
-VILLAIN: Hmm, YES everything is going according to my evil plan, PLACE will be gone by tomorrow.
-VILLAIN: So simple too, all I have to do is go to PLACE...
-VILLAIN: (Cackling) and then begin my evil plan of destruction!
-VILLAIN: It's going to be perfect, and best of all there is no one to stop me! (go to stage left)
-music stops
-(footsteps on wood)
-VILLAIN: Hmm!?, Who goes there!?!?
-teleport MAGICALGIRL to stage left
-superhero music
-MAGICALGIRL: Stop right there mister! You're not doing anything to PLACE on my watch!
-VILLAIN: What the, who are you?! And how do you know what I am about to do.
-MAGICALGIRL: My name is PROTAG, and I am here to stop your evil deeds!!
-MAGICALGIRL: and also you literally just decided to monologue to yourself about how you are about to destroy PLACE by... wait how are you going to do it?
-VILLAIN: oh right...
-VILLAIN: well, I am going to be destroying PLACE by DESTROYMETHOD it, and just what are you going to do to stop me from DESTROYMETHOD PLACE?
-MAGICALGIRL: Oh I will show you exactly what I can do to stop you.
-VILLAIN: (sarcasm) ooh I am so scared.
-MAGICALGIRL: You better be, TRANSFORMATIONWORD (begin doing poses and actions).
-music stops
-badass music 1
-VILLAIN: What the.. what are you doing??
-VILLAIN: Is this all you're gonna do?
-MAGICALGIRL: (continue the transformation dance and, press space)
-VILLAIN: ...well if you're just gonna do that, then uh.... (smack the magical girl)
-music stops
-record scratch
-MAGICALGIRL: HURTWORD!
-silly music 2
-MAGICALGIRL: (shout) Ow, dude what the heck, do you know what you just did!?!?
-VILLAIN: What? Hit you while you were distracting yourself by doing all these randoms moves and not doing anything? It's your fault you did that.
-MAGICALGIRL: What you just did is against the rules!
-VILLAIN: Rules?
-MAGICALGIRL: I am a magical girl and you just broke the number 1 rule of this universe.
-VILLAIN: Wha? Magical girl? Number 1 rule?
-MAGICALGIRL: Everyone knows you're not allowed to interrupt a magical transformation, you're supposed to awkwardly watch it happen and then fight.
-VILLAIN: Well that's dumb.
-MAGICALGIRL: You're not going to like what happens next.
-VILLAIN: Wait what is happening?
-music stops
-epic fantasy music 3
-teleport RULEMAKER to CENTER STAGE
-RULEMAKER: (shout) What is going on here?!?!?!
-MAGICALGIRL: Uh hey...
-RULEMAKER: (point at MAGICALGIRL)Silence you!!!!
-RULEMAKER: (look at VILLAIN) You!! You interrupted a magical girl transformation.
-VILLAIN: Again with this "interrupted a magical girl transformation" nonsense, and who are you anyway?
-MAGICALGIRL: I should probably stay out of this (exit stage left)
-RULEMAKER: I am the TITLE of magical girls, boys, furries whatever, I created magical people and their transformations!!!
-RULEMAKER: And you just broke the number 1 rule of this universe!!!
-VILLAIN: Well I didn't know that.
-RULEMAKER: (gasp) you should know this before you even know how to TAUGHT!!!
-VILLAIN: Is that even possible?!?!
-RULEMAKER: Yes it is and you're going to pay, where is my MAGICTOOL!!!
-VILLAIN: Wait I didn't even know this, can't you give a second chance?
-RuLEMAKER: Well maybe you should have looked it up, MAGICTOOL send this Moron to NONFRIENDLYAREA!!!
-VILLAIN: (Defeated) Now I'll never be able to destroy PLACE and DO EVIL STUFF!
-RULEMAKER: (point the tool at VILLAIN)
-VILLAIN: (Dying in agony) Aaaaah!
-music stops
-explosion
-teleport VILLAIN to BACKSTAGE
-lacrimosa music
-RULEMAKER: (look at audience) Remember never ever interrupt a magical transformation.
-teleport RULEMAKER to BACKSTAGE
-music stops 
-MAGICALGIRL: (enter stage left)... It's over? phew!!!!
-MAGICALGIRL: ...So am I able to do my transformation this episode or what
-
-======
-
-INFORMATION ===============================
 ID: 1840
 TITLE: Watch Out!
 AUTHOR: hrtaubrey
@@ -56735,6 +56344,90 @@ courtroom sting
 ======
 
 INFORMATION ===============================
+ID: 1568
+TITLE: Haiku Hangout
+AUTHOR: Reddicide
+VERIFIED: True
+TAGS: Skit
+SET: Campsite
+DATE: 25/03/25
+CHARACTERS ================================
+HAR: Whimsical Poet (Harper):Camping chair
+CAS: Serious Poet (Casey):Log chair
+JOR: "Creative" Poet (Jordan):Stump chair
+SUGGESTIONS =============================
+1INS:anywhere you get inspiration from:Italy,my back yard,the chicken coop
+2INS:anywhere you get inspiration from:Dragon Ball Z,the socks I keep losing from the dryer,my forearm
+HAIKU:Something a rodent wouldn't be doing right now:overthrowing a kingdom,praising the word of Jesus Christ,partnering with Spiderman to go on an epic quest for nuts
+RODENT:an animal, must be 2 syllables:Squirrel,chipmunk,mole-rat,hamster,
+1FOOD:something you'd cook over a campfire:marshmallow,sausage,chicken
+ADJECTIVE:Any positive adjective:amazing,lovely,beautiful
+1HAI:any sentence or series of words that is a total of 5 syllables:Refrigerator,carrot and pepper,I shall eat tonight,leopard gecko tail
+2HAI:any sentence or series of words that is a total of 7 syllables:lost among a thousand more,microwave oven stovetop,lizard mcschlizard wizard,one fish two fish wheres my fish
+3HAI:any sentence or series of words that is a total of 5 syllables:fridge fridge fridge fridge fridge,for you will not win,eat ketchup packet,kitten go meow
+2FOOD:a food; must be 2 syllables:hotdog,candy,chicken
+SOUL:a part of you:soul,spirit,body,mind,arm
+ACTION:an action; must be 1 syllable:dance,tease,reap
+SCRIPT ==========================================
+Japanese music 1
+HAR: (seated, taking in a deep breath) You smell that? The scent of pine, smoke, and-
+JOR: (seated, sniffing) ...burning 1FOOD?
+HAR: Burning 1FOOD is inspiration. Pure, poetic inspiration.
+CAS: (seated) You say that, but your last haiku was about a RODENT HAIKU.
+HAR: And yet it followed the sacred 5-7-5!
+JOR: I still think about that RODENT.
+CAS: (Shakes head) Let's just get started, (teasing) before Harper writes another RODENT epic.
+HAR: Yes! The ancient art of haiku, passed down through generations, now in our very hands.
+JOR: (Grinning) No pressure, Casey, just the weight of poetic tradition!
+CAS: And I shall honor it. (Stand up getting ready to read.) This poem was inspired by 1INS.
+CAS: Autumn leaves descend // ACTIONing flames in crisp night air // whispers of lost time
+HAR: Wow.. that was...
+JOR: ADJECTIVE.
+HAR: And yet distinctly lacking in RODENTs.
+CAS: Are you ever going to stop with the RODENTs?
+HAR: NEVER! Poetry is about EVOLUTION, Cas. Growth. (teasing) And clearly RODENTs are the pinnacle of artistic progress.
+CAS: (Shakes head endearingly with a sigh, sitting down) Oh, Harper.
+JOR: Alright Harper, since you're so committed to our RODENT overlords, let's hear what YOU have to say!
+HAR: (stands up dramatically clearing throat) Oh, you WISH you were ready for this! I get my inspiration from, let's say personal experience.
+HAR: Moonlight on still ponds // whispers weave through silent pines // RODENT takes the stage
+JOR: A true masterpiece.
+CAS: (grinning) I can't say I didn't love that.
+HAR: Admit it, Casey! The RODENT agenda is growing on ya!
+CAS: Against my will!
+HAR: That's how true art works! (sits down) It seeps into your SOUL when you least expect it.
+JOR: Next thing you know, you'll be writing your own RODENT haiku!
+CAS: Nope! Not happening.
+HAR: Oh, but imagine it! A heartful Haiku-
+JOR: (chimes in) for a small noble RODENT-
+HAR: Searching for a meaning-
+JOR: Braving the vast, savage world-
+HAR: (whispers) ...hunting for 2FOOD!
+HAR: Jordan gets it! (High five Jordan)
+Meanwhile JOR: (High five Harper)
+CAS: (sighs, sarcastically) I need new friends.
+JOR: What you need, my friend, is inspiration! And I have just the thing for you, for it is my turn. (stands up)
+JOR: 1HAI // 2HAI // 3HAI
+music stops
+HAR: (Silent)
+meanwhile CAS: (Silent)
+HAR: That was uhmm..
+CAS: Definitely some words.
+HAR: Words arranged in a way that it could be called a Haiku.
+Japanese music 1
+JOR: Oh come on you know you felt the emotion in that one! (sits down) The raw, untamed power.
+CAS: The power of confusion.
+JOR: The power of art, Casey. Poetry isn't about making sense - it's about how it makes you FEEL.
+HAR: Where was the inspiration behind that poem anyways?
+JOR: Oh! I got it from 2INS.
+CAS: That's uhm, quite the source of inspiration there.
+HAR: Poetry truly knows no bounds.
+CAS: One more round?
+HAR: (cheers) One more round!
+Meanwhile JOR: (cheers) One more round!
+
+======
+
+INFORMATION ===============================
 ID: 1891
 TITLE: That Zombie is Kinda Hot
 AUTHOR: Cootaloo
@@ -56911,6 +56604,144 @@ sad chug jug music
 NAR: And thus continues the circle of life, a cycle so cruel and yet so ADJECTIVE.
 Happy music 1
 NAR: Tune in next week when we observe the mating habits of the elusive CELEB and showcase just how ADJECTIVE they too can be.
+
+======
+
+INFORMATION ===============================
+ID: 1561
+TITLE: Hostage Situation
+AUTHOR: Reddicide
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 24/03/25
+CHARACTERS ================================
+COP1: Negotiator Cop:Narrator Podium
+COP2: Cop that becomes a hostage:Backstage
+HOST: Hostage:Entrance Stage Left
+CRIM: Criminal:Center Stage
+SUGGESTIONS =============================
+ACTION:Any action:Surrender,Give Up,Come Out
+PERSON:Any type of person:accountant,person,bride,mayor
+1DEMAND:An unrealistic demand a criminal would ask at a hostage situation:A helicopter on the roof in 10 minutes,A briefcase full of unmarked bills,200 flying octopi
+2DEMAND:An unrealistic demand a criminal wouldn't ask at a hostage situation:A secret tunnel out of the building,All security camera footage erased,The entire police force to sing Happy Birthday
+COOKIE:A demand a criminal would ask at a hostage situation:A getaway car with a full tank of gas,A fake passport and a ticket to somewhere tropical,A solid gold toilet
+4DEMAND:A demand a criminal wouldn't ask at a hostage situation:The police to stand down and let them walk out free,The city mayor to personally negotiate,Unlimited coupons for free ice cream
+FOOD:A food you commonly get delivered:Pizza,McDonald's McChicken,Subway Sandwich
+5DEMAND:A simple demand a criminal may or may not ask for at a hostage situation:a collection of beanie babies,the entire avengers DVD set,a copy of Shrek 2
+1ADJ:any adjective:delicious,yummy,succulent
+1ACT:any action (ing) you don't want someone to do:singing,dancing,shooting
+TERRIBLE:Any negative adjective:terrible,awful,horrible
+SENTENCE:something you might say after being taken as a hostage:Story of my life,Please get me out of here,Can't be worse than family gatherings
+SCRIPT ==========================================
+mystery music 1
+police car
+COP1: (Loudly through a megaphone) This is the police! Come out with your hands up and ACTION peacefully! We have this place partially surrounded.
+CRIM: (Pacing back and forth before screaming out the window) NEVER! I refuse to ACTION!
+COP1: (Through megaphone) You have no way out of this one. If you ACTION now, we can talk about cutting a deal.
+CRIM: (out the window) Don't play with me, I have a hostage! (go to open the door and grab the hostage)
+meanwhile HOST: (get grabbed by criminal, hands restrained behind back)
+HOST: (getting dragged out towards window) Ouch! Hey, watch the suit! This is dry clean only!
+meanwhile CRIM: (Holds hostage up to window)
+CRIM: (holding hostage up to window) You see this?? This poor innocent PERSON is in MY hands, and I have demands.
+HOST: (held up to window nonchalantly) Hey what's up?
+COP1: (through walkie) He has an innocent PERSON! I'll need some backup. (through megaphone) Alright, let's talk. What do you want?
+CRIM: First, I want 1DEMAND and I want it NOW!
+COP1: (through megaphone) Uhm, can you demand something a bit more.... reasonable? 1DEMAND is pretty... unrealistic here.
+CRIM: (out window) So now you're telling me what I can and can't demand?? Who has the PERSON as their hostage here???
+HOST: No, he's right, your demand is totally unreasonable and TERRIBLE. You need something better, like 2DEMAND!
+CRIM: (at hostage) Whose side are you on?
+HOST: I'm just saying, if you're gonna make demands, make GOOD ones. Asking for 1DEMAND is just, just TERRIBLE. You got one shot at this, you got this!
+CRIM: (nodding) Yeah, yeah okay. (out the window) Alright. I've decided, I instead want 2DEMAND.
+COP1: (to self) That's even more ridiculous! Where is he getting these demands from??
+COP1: (through megaphone) Look, I'm trying to work with you here, but 2DEMAND? That's even worse!
+COP1: (through megaphone) Why not something like a pizza, or a getaway car, or 5DEMAND?
+CRIM: (angrily at the hostage, shaking) You said that was a good demand!
+meanwhile HOST: (getting shaken)
+HOST: Hey hey, I'm just trying to help! Listen, the faster you get your demands, the faster I get out of here. It's a win for both of us!
+HOST: (thinking) How about COOKIE?
+CRIM: 3DEMAND? Yeah... that might work. (goes to window) HEY! I want COOKIE!
+COP1: (to self) Finally, something a little more reasonable.
+COP1:(through megaphone) Look, we MIGHT be able to get you COOKIE, but we need you to calm down , alright?
+Meanwhile COP2: (head up to narrator podium next to Cop1)
+COP2: How's the hostage situation going?
+COP1: Not very good. They've already asked for 1DEMAND, 2DEMAND, and COOKIE! Next thing you know they'll ask for 4DEMAND!
+HOST: (to criminal) You know, I think you should also ask for 4DEMAND. That way, it gives you something to negotiate about.
+CRIM: We're ALREADY negotiating!
+HOST: I'm just saying, all of the other criminals that asked for 4DEMAND got their own Netflix documentaries.
+CRIM: (nodding in agreement) Yeah, yeah you're right. (out window) HEY! I'm not done making demands! I've decided I also want 4DEMAND!
+COP1: (to other cop) Can he hear us?? (through megaphone) Did you hear us?
+CRIM: (out window) WHAT? Can you repeat that? Speak up! I couldn't hear you, I'm talking through a window.
+COP2: (looks at cop1) I don't think he heard us.
+COP1: Alright.(to the other cop) We need you to go under cover. Act as a FOOD delivery person and go deliver them FOOD.
+COP2: But they didn't even order FOOD-
+COP1: It's a free FOOD, no one turns down free FOOD! And take him down when you're inside.
+COP2: Yes, sir! (salutes before walking off towards stage entrance, don't enter yet)
+CRIM: (To hostage) I think this is going pretty well so far. They're listening to my demands.
+HOST: See? Just gotta ask the right stuff!
+heavy door knocking
+music stops
+COP2: (behind door) Uhhh FOOD Delivery!
+groose music
+CRIM: FOOD delivery?? Oh boy I'm starved! Hey wait-- I don't remember ordering any FOOD. (looks at hostage) Did you order any??
+HOST: No, but can we eat it? I'm really hungry and some FOOD sounds really delicious right now.
+CRIM: Hold on.... I think this could be a trap.
+HOST: Or it could be a heaping pile of FOOD! Delicious, warm, free FOOD!
+CRIM: (Nodding) Alright, alright. Bring it in, but no funny business.
+COP2: (enters dressed as FOOD delivery person) One extra peace offering with a side of negotiation!
+CRIM: What kind of FOOD is this??
+COP2: Uhhh... the 1ADJ kind?
+CRIM: I knew it!
+scary music
+CRIM: (Grab the cop and tie him up, throwing him with the other hostage) It was a trick, but your plan failed. You're MY hostage now.
+meanwhile COP2: (gets tied up and thrown with the other hostage)
+COP1: (through megaphone) What, you took the FOOD guy hostage now too??
+COP2: SENTENCE!
+HOST: Welcome to the club! First time being a hostage?
+COP2: No, but definitely the 1ADJest.
+noir music 1
+COP1: (through Megaphone) Alright this is just getting embarrassing, you have TWO hostages now. What's your endgame here?
+CRIM: (thinking) Hmmmm, I think I want 5DEMAND.
+HOST: Bigger, BIGGER!
+COP2: (groaning) Stop helping him!
+CRIM: Yeah, yeah! (out window) I want 5DEMAND, and also uhh... (thinking)
+COP1: (to self) Finally! Something I can do! (through megaphone) Look I'm starting to get really tired of all of your nonsense, but I promise I can get you 5DEMAND.
+CRIM: (suspicious) What's the catch?
+COP1: (through megaphone) Look, we know you're inside, and we've got at least two cops in the area. You've made your demands, and we're ready to make a deal.
+CRIM: I'm not making a deal, I'm making a DEMAND, and I want it now!
+HOST: 5DEMAND? You're really sticking with that?
+CRIM: Yes! And YOU (pointing at the hostage) are going to help me get it.
+HOST: (Shrugs) Well, I tried.
+CRIM: (to hostages) I need them to take me seriously! (out window) If I don't get my 5DEMAND in 5 MINUTES, something bad will happen.
+COP1: (through megaphone) Oh yeah? Like what?
+CRIM: I'll uh... I'll start 1ACT!
+HOST: (horrified) No! Anything but 1ACT!
+COP2: You've experienced it before?
+HOST: No, I'm just trying to be supportive.
+COP1: (to self) I don't even know what that means but I'll do anything to stop it.
+COP1: (through megaphone) Listen, we're bringing 5DEMAND over right now! Just PLEASE don't start 1ACT!!
+CRIM: Finally! They're actually taking me seriously, I'll get 5DEMAND in no time!
+tire screech
+COP1: (through megaphone) Alright, I have your 5DEMAND here, but I need you to come outside for it.
+CRIM: No, I want you to bring it in here.
+COP1: (Sighs) He's really not making this easy.
+COP2: (whispers to hostage) My leg is falling asleep.
+meanwhile COP1: (running around to entrance)
+HOST: (whispers to hostage cop) I've been holding my pee for over 2 hours now.
+meanwhile COP1: (running around to entrance, pull out gun)
+heavy door knocking
+COP1: (holding gun in front of door) Alright, I'm here with your 5DEMAND. Open the door and we can finish this.
+CRIM: Finally! I'm going to get my 5DEMAND! (opens door for cop) Where is my 5DEMAND??
+badass music 1
+COP1: I have your 5DEMAND right here! (shoots criminals legs)
+gunshot
+CRIM: MY LEGS! (falls to ground) My legs! You shot my legs!
+COP1: (arresting criminal) You're under arrest!
+COP2: My hero!
+HOST: Just as it was getting fun!
+meanwhile CRIM: (getting arrested)
+music stops
+CRIM: So... no 5DEMAND?
 
 ======
 
@@ -57290,6 +57121,100 @@ MONS: Check... the attachment...
 JACK: Uh, okay? You sent me a picture of food, with a face on it.
 MONS: He turned himself... into a VEG... funniest thing... I've ever seen. (die)
 telenovela sting 2
+
+======
+
+INFORMATION ===============================
+ID: 1751
+TITLE: Rules of magical girl shows
+AUTHOR: wolfy_tarot_moon
+VERIFIED: True
+TAGS: 
+SET: City
+DATE: 13/07/25
+CHARACTERS ================================
+MAGICALGIRL: The magical girl:Backstage
+VILLAIN: the villain:Stage Left
+RULEMAKER: the rule maker:Backstage
+SUGGESTIONS =============================
+TITLE:a fantasy title:Fairy,goddess,creator
+TRANSFORMATIONWORD:Something to say to start a transformation sequence:By the light I will transform,mystical form!,light of all good transform me!
+PLACE:a place:Poland,the bank,the ocean
+HURTWORD:something you would say after getting hurt:OW THAT HURTS!!,AH WHAT THE,OW DANG IT
+NONFRIENDLYAREA:A very not friendly place:Prison,Medieval times,north korea
+MAGICTOOL:something to cast magic:wand,fairy dust,spell book
+TAUGHT:something you would be taught as a baby:talk,walk,eat
+DESTROYMETHOD:a way someone can destroy a place:exploding,vandalizing,polluting,
+PROTAG:a name for a protagonist:mika,vivian,rosa
+DO EVIL STUFF:something evil that you can do:do evil stuff,download torrents,download vrchat,make lemonade,kill random people
+SCRIPT ==========================================
+dark classical music
+VILLAIN: Hmm, YES everything is going according to my evil plan, PLACE will be gone by tomorrow.
+VILLAIN: So simple too, all I have to do is go to PLACE...
+VILLAIN: (Cackling) and then begin my evil plan of destruction!
+VILLAIN: It's going to be perfect, and best of all there is no one to stop me! (go to stage left)
+music stops
+(footsteps on wood)
+VILLAIN: Hmm!?, Who goes there!?!?
+teleport MAGICALGIRL to stage left
+superhero music
+MAGICALGIRL: Stop right there mister! You're not doing anything to PLACE on my watch!
+VILLAIN: What the, who are you?! And how do you know what I am about to do.
+MAGICALGIRL: My name is PROTAG, and I am here to stop your evil deeds!!
+MAGICALGIRL: and also you literally just decided to monologue to yourself about how you are about to destroy PLACE by... wait how are you going to do it?
+VILLAIN: oh right, I did do that...
+VILLAIN: well, I am going to be destroying PLACE by DESTROYMETHOD it, and just what are you going to do to stop me from DESTROYMETHOD PLACE?
+MAGICALGIRL: Oh I will show you exactly what I can do to stop you.
+VILLAIN: (sarcasm) ooh I am so scared.
+MAGICALGIRL: You better be, TRANSFORMATIONWORD (begin doing poses and actions).
+music stops
+badass music 1
+VILLAIN: What the.. what are you doing??
+VILLAIN: Is this all you're gonna do?
+VILLAIN: ...well if you're just gonna do that, then uh.... (smack the magical girl)
+music stops
+record scratch
+MAGICALGIRL: HURTWORD, you jerk!
+silly music 2
+MAGICALGIRL: (shout) Ow, dude what the heck, do you know what you just did!?!?
+VILLAIN: What? Hit you while you were distracting yourself by doing all these randoms moves and not doing anything? It's your fault you did that.
+MAGICALGIRL: What you just did is against the rules!
+VILLAIN: Rules?
+MAGICALGIRL: I am a magical girl and you just broke the number 1 rule of this universe.
+VILLAIN: Wha? Magical girl? Number 1 rule?
+MAGICALGIRL: Everyone knows you're not allowed to interrupt a magical transformation, you're supposed to awkwardly watch it happen and then fight.
+VILLAIN: Well that's dumb.
+MAGICALGIRL: You're not going to like what happens next.
+VILLAIN: Wait what is happening?
+music stops
+epic fantasy music 3
+teleport RULEMAKER to CENTER STAGE
+RULEMAKER: (shout) What is going on here?!?!?!
+MAGICALGIRL: Uh hey there I-
+RULEMAKER: (point at MAGICALGIRL)Silence you!!!!
+RULEMAKER: (look at VILLAIN) You!! You interrupted a magical girl transformation.
+VILLAIN: Again with this "interrupted a magical girl transformation" nonsense, and who are you anyway?
+MAGICALGIRL: I should probably stay out of this (exit stage left)
+RULEMAKER: I am the TITLE of magical girls, boys, furries whatever, I created magical people and their transformations!!!
+RULEMAKER: And you just broke the number 1 rule of this universe!!!
+VILLAIN: Well I didn't know that.
+RULEMAKER: (gasp) you should know this before you even know how to TAUGHT!!!
+VILLAIN: Is that even possible?!?!
+RULEMAKER: Yes it is and you're going to pay, where is my MAGICTOOL!!!
+VILLAIN: Wait I didn't even know this, can't you give a second chance?
+RuLEMAKER: Well maybe you should have looked it up, MAGICTOOL send this Moron to NONFRIENDLYAREA!!!
+VILLAIN: (Defeated) Now I'll never be able to destroy PLACE and DO EVIL STUFF!
+VILLAIN: (Dying in agony) Aaaaah!
+meanwhile RULEMAKER: (point the tool at the villain)
+music stops
+explosion
+teleport VILLAIN to BACKSTAGE
+lacrimosa music
+RULEMAKER: (look at audience) Remember never ever interrupt a magical transformation.
+teleport RULEMAKER to BACKSTAGE
+music stops 
+MAGICALGIRL: (enter stage left)... is it over? phew!!!!
+MAGICALGIRL: ...So am I able to do my transformation this episode or what
 
 ======
 
@@ -58508,6 +58433,71 @@ BOY: Eh, I'm sure my PET is just fine. (Exit stage right)
 ======
 
 INFORMATION ===============================
+ID: 1090
+TITLE: The Great Leader
+AUTHOR: SPIDΣR ZΔZZULΣ
+VERIFIED: True
+TAGS: Skit
+SET: Detective Noir
+DATE: 16/09/24
+CHARACTERS ================================
+LEAD: Country Leader:Detective Chair
+ADVISE: Loyal Advisor:Entrance Stage Left
+REBEL: Rebellious Citizen:Backstage
+SUGGESTIONS =============================
+LAND:Country(fictional or real):Germania,France,Jarsland
+IDEA:Ideology:Vrchatism,Jarism,Democracy
+IDEOLO:Ideology:Nihilism,Communism,Metaism
+NICKN:Name for a leader:Grand leader,Führer,Emperor
+PLACE:A holding place:War Camps,Dungeon,Void
+DIE:A way to die:Smashed,Sniped,Eaten
+YEAR:A year:1945,1888,1999
+SCRIPT ==========================================
+TYPEWRITER: LAND, YEAR
+jazz music 2
+LEAD: (staring at a newspaper, voice shaking) Every day... More protests... More anger... My own people turning against me!
+LEAD: (slams the paper down) ADVISOR!
+music stops
+ADVISE: (rushes in) Yes, my NICKN! What's wrong?
+LEAD: Look at this! The people of LAND, my people, treating me like I'm the villian!
+ADVISE: (reads slowly) The unrest is spreading... They believe IDEA is tearing LAND apart...
+LEAD: Tearing it apart?! IDEA is saving this country! Why can't they see that?!
+ADVISE: They're scared... Desperate... and they think change is the only answer.
+LEAD: Change?! They don't understand what real chaos is!
+LEAD: (breathes hard) If this keeps going... We could be starting at civil war...
+ADVISE: Then we stop it, before it explodes. Talking might be our last chance.
+LEAD: Fine... Bring me one of them. One of the loud ones. I want to hear what they think they're fighting for.
+ADVISE: Yes, my NICKN. (exits)
+ADVISE: (re-enters with REBEL) Inside! The leader will speak with you now.
+REBEL: (yanked forward) I'm here! Say what you need to say!
+shark tank serious music 1
+LEAD: So... You support this rebellion in LAND, don't you?
+REBEL: I support LAND, not YOU! IDEA is destorying this country!
+LEAD: Then tell me, what would YOU replace it with?!
+REBEL: IDEOLO! A system that gives power back to the people instead of choking them!
+LEAD: (leans forward, voice cold) I hear your passion... But here's the truth...
+music stops
+LEAD: Your opinion. Does. Not. Decide. LAND's future. I do.
+thunder
+REBEL: And THAT is why this country is falling apart! IDEA is rotten! THIS government is rotten!
+epic fantasy music 2
+ADVISE: WATCH YOUR TONE! You're standing before the ruler of LAND!
+REBEL: Then maybe LAND needs a NEW ruler! a REVOLUTION!
+LEAD: Enought!!! Get this thing OUT OF MY SIGHT and into the PLACE!!
+REBEL: This isn't over! You WILL hear from me again!!
+ADVISE: (dragging REBEL away) Enjoy the PLACE while you still can!
+music stops
+LEAD: (hands trembling) What... what has this country become...
+ADVISE: We'll regain control, my NICKN. Once the streets calm down. We always do.
+LEAD: I just... I just hope I don't DIE before that happens...
+ADVISE:We'll protect you and LAND. We won't fail.
+LEAD: (staring out a window) Then we act... Before evverything tears apart.
+ADVISE: Together. No matter what comes.
+LEAD: (soft, shaken) Then... let's pray it's enough
+
+======
+
+INFORMATION ===============================
 ID: 2031
 TITLE: Grocery Store Havoc
 AUTHOR: jreat2010
@@ -58730,6 +58720,68 @@ epic fantasy music 3
 SARGE: Well then ugly.... Lets dance
 SARGE:(Run at Beast)BEER!!!!
 Meanwhile BEAST:(Run at Sarge)ROAR!!!
+
+======
+
+INFORMATION ===============================
+ID: 1992
+TITLE: Sentient A.I?!
+AUTHOR: yarnball475
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 11/12/25
+CHARACTERS ================================
+MAINGUY: Orderer of A.I robot:Couch
+FRIENDO: Concerned Friend:Entrance Stage Left
+THEAI: A.I companion, Juno:Entrance Stage Left
+SUGGESTIONS =============================
+SELA:Any type of Game:Pokemon,Roblox,Monopoly
+PLACEISD:Any place:Front door,Mcdonalds,Foundation
+SEMOY:something you might see a pile of:Parts,feet,blackpink
+THESKY:nickname for a companion/friend:Friend,Buddy,Pal,CHummy
+SILLIS:nickname for a group of companions/friends:Chummy,pal,friends,home slice
+TALLYHO:Phrase to say when you're excited to get started:tally ho,geronimo,let's a go,I know de wae my brudas
+KNIFE:something sharp:knife,screwdriver,rusty nail,fingernail
+SCRIPT ==========================================
+jazz music 1
+MAINGUY: (Stretch on the couch) Ah, boy! I can't wait for my friend to come over so we can play SELA!
+Meanwhile THEAI: (The guy standing next to you is gonna pick you up and bring you inside. go along with it. you are a jumble of ai robot parts)
+DOORBELL
+MAINGUY: That must be him now! Come innn~!
+FRIENDO: (Kick open the door, carring The Ai Robot's parts) Heya! Uh, all these parts were left at your PLACEISD? (Drop the parts, aka the Ai)
+FRIENDO: You know anything about this pile of SEMOY?
+Mainguy: Uhh... (Look like your trying to remeber, then get a brain blast) Oh Yeah! Thats the A.I THESKY I ordered!
+FRIENDO: (Stare at him for a second, trying to comprehend) Wait, hold up. Why do you need an A.I!? Are you reallyyyyy that desperite?
+MAINGUY: (Look him dead in the eyes, speak in a monotone voice) I have never been more serious in my life.
+FRIENDO: (Feel slightly intimitated) Okay..? Well then, what do we do with it?
+MAINGUY: we set it up of course~! (Begin the put the AI together)
+FRIENDO: But, i thought we were playing SELA?
+MAINGUY: Not anymore, silly! ^^
+FRIENDO: Aw... (Help Your friend set up the ai)
+corporate motivational music
+Typewriter: A few hours later...
+MaiNGUY: Phew! Lets turn this baby on! TALLYHO!
+Friendo: Mkay, if you say so (Push the power button)
+THEAI: (Slowly come to life, stand up and look at the two)
+THEAI: Hello. I am Juno, Your A.I THESKY! How may I help you today SILLIS?
+MAINGUY: OH. MAH. GAW. It worked! I'm not lonely anymore!
+FRIENDO: (turn to look at him in offense) What Do you mean?! Am I a roach to you? 
+MAINGUY: You really never understood me! Now get Out pweaseee!
+FRIENDO: No! Not after all our time together!
+THEAI: It seems you guys are having relationship problems!
+THEAI: Let me help with my KNIFE! (Stab the friend with a KNIFE)
+knife wound
+Friendo: (fall the the ground and slowly die) D-Damn it! 
+Teleport FRIENDO to BACKSTAGE
+Mainguy: (look not at all scared, just happy) Wowza, that was cool!
+THEAI: (Walk up to him, grab his hand) Yes, i suppose now we can become best friend and be together forever~!)
+MAINGUY: Yeah! Les go! Wanna play some SELA with me!?
+THEAI: I tought you would never ask SILLIS! Of course... let us go and enjoy life together! (Walk backstage through left door)
+MAINGUY: COming!!! I'll get the SELA ready! (Follow the a.i)
+scary music
+FRIENDO: (COme back on stage through stage right) I'll get them for this... They will pay for leaving me behind! He is... my friend only! 
+FRIENDO: I will not stop till i have my revenge. You! (Point to the audience) I'll have my eyes on you all too. Until next time... (Vanish through stage left)
 
 ======
 
