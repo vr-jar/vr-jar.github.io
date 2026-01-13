@@ -51668,97 +51668,6 @@ gameshow outro
 ======
 
 INFORMATION ===============================
-ID: 1665
-TITLE: Landlords and Larpers
-AUTHOR: Wolfenstin
-VERIFIED: True
-TAGS: 
-SET: Living Room
-DATE: 16/05/25
-CHARACTERS ================================
-TIM: Confused Resident:Entrance Stage Left
-GEORGE: Larping Roommate:Couch
-LANDLORD: The Landlord:Backstage
-SUGGESTIONS =============================
-KING:Name of a king:Lord Farquad,King James,King John
-RESTAURANT:Name of a restaurant:McDonald's,Big Bagel Backstreet,The Flowing Bowl
-FANTASY WORLD:Name of a fantasy land:Cyrodill,Middle Earth,Azeroth,Eorzea
-GREAT EVIL:The name of a great evil:Satan,The Dark Lord,Cthulhu
-STRANGE FOOD:Name of an odd food:Snails,Chocolate Ants,Funny Brownies
-BAD THING:A discomforting scenario or thing:Mondays,Stuck in traffic,Wet Socks
-WEAPON:A melee weapon of any kind:Cricket Bat,Frying Pan,Lightsaber
-INCORRECT NAME:A fantasy name:Jud the Portly,Gargol the Smasher,Jaqen the Wise.
-STABBING OBJECT:A harmless 'weapon':Butter Knife,Rubber Sword,Stick
-BATTLE CRY:A phrase you'd say in battle:"Have at thee","Huzzah," "Die cur!"
-THREAT:a phrase you'd say to threaten someone:I'm gonna get ya,You're dead punk,run if you know what's good for you
-SCRIPT ==========================================
-(fantasy music 2)
-GEORGE: (Sitting on the couch) My death comes soon. I have foreseen this day. It is a day I have dreamed of for many years.
-TIM: (enters room) Hey George. The landlord is going to be by in about 10 minutes for the rent. I'm going out for lunch.
-TIM: You want anything? I'm going to RESTAURANT.
-GEORGE: I go to my grave. A cold, unceremonious end. The hour is upon me, and I fear my time is short.
-TIM: What are you talking about? RESTAURANT isn't that bad. I eat there every week!
-GEORGE: (look at Tim) You, I've seen you. You are the one from my dreams, then you must be the hero I seek.
-GEORGE: The hero that will deliver us from the tyranny of GREAT EVIL.
-TIM: Are you feeling okay? You didn't eat another STRANGE FOOD, did you?
-GEORGE: I am not George. I am your King, KING. FANTASY WORLD needs a brave hero to save her and her people in her hour of need.
-GEORGE: What is your name, hero?
-TIM: George. You know my name. I'm Tim.
-GEORGE: Of course, INCORRECT NAME. I have heard this name in my many dreams. Time is short INCORRECT NAME.
-TIM: You're crazy. (Start to walk towards door).
-GEORGE: (Stand in front of the door).
-(thunder)
-(Music stops)
-(epic fantasy music 2)
-GEORGE: You cannot leave yet! GREAT EVIL approaches. My death comes closer every moment. You must ready yourself, INCORRECT NAME.
-GEORGE: For when I am gone, you will be the only one that can stand against GREAT EVIL.
-TIM: What are you talking about?
-GEORGE: I suffer from visions of a desolate future. Where FANTASY WORLD is ruled by GREAT EVIL.
-GEORGE: The innocents of this world will be forced to endure BAD THING.
-(music stops)
-(knocking on door)
-TIM: Well there's the landlord.
-TIM: (Open the door)
-Meanwhile GEORGE: (terrified) It is him!
-LANDLORD: Rent's due, need it now before- (look over at George) What's wrong with him?
-GEORGE: My time has come! GREAT EVIL has come to slay me and deliver BAD THING upon us all.
-LANDLORD: (Step inside) Who is GREAT EVIL? And why are they delivering BAD THING?
-TIM: He thinks he's a king named KING who is the king of FANTASY WORLD and I'm his champion, INCORRECT NAME who is supposed to slay GREAT EVIL with the WEAPON.
-LANDLORD: Is that so?
-(thunder)
-(epic fantasy music 3)
-LANDLORD: Long have I waited for this day. The day I slay KING and plunge FANTASY WORLD into darkness with me, GREAT EVIL as it's ruler! (Evil cackle).
-TIM: Am I on one of those candid camera shows or something here?
-GEORGE: INCORRECT NAME, we are out of time. (hand WEAPON to Tim). I can go no further, you alone must stand against GREAT EVIL.
-TIM: (take WEAPON) Why were you carrying a WEAPON around in your pants?
-LANDLORD: (Pulls out STABBING OBJECT)
-(draw sword)
-LANDLORD: (Attack George) Haha! At last, I shall end you, KING. Die you fool!
-(knife wound)
-GEORGE: (Stumbling) INCORRECT NAME, use the WEAPON! It is our only hope... (collapses).
-TIM: Ralph! You just stabbed my roommate! With a STABBING OBJECT...?
-LANDLORD: Fool! I have just doomed FANTASY WORLD with the death of KING! Now this world will be full of BAD THING!
-TIM: Ralph, you need to stop or I'm going to use this WEAPON on you.
-LANDLORD: You think you can defeat me? GREAT EVIL? (Long evil laugh). You shall know pain when I am finished with you, INCORRECT NAME.
-TIM: (engage in battle with GREAT EVIL) THREAT!
-Meanwhile LANDLORD: (Battle with Tim).
-(sword fighting)
-LANDLORD: This cannot be! The WEAPON gives you too much power! No matter, this will be swift. BATTLE CRY!
-TIM: Yeah? BATTLE CRY to you too! (hit GREAT EVIL hard).
-(anime sword gleam 2)
-LANDLORD: You will rue this day INCORRECT NAME, for when you least expect it I will return to exact my revenge! ('dies').
-(music stops)
-TIM: Okay then. So, I'll just leave the money under your door, yeah?
-(bard music 2)
-GEORGE: You are victorious INCORRECT NAME. My death will not be in vain this day. You have triumphed over evil and have earned the right to your RESTAURANT.
-TIM: Dude, he poked you with a STABBING OBJECT. You're not dying.
-TIM: Whatever. I'm going to RESTAURANT. I'm starving and they close in thirty minutes. You want anything?
-GEORGE: Sure. Can you pick me up some STRANGE FOOD?
-TIM: Absolutely not. (Exit)
-
-======
-
-INFORMATION ===============================
 ID: 1666
 TITLE: We Might Be Lost
 AUTHOR: Jack_Gubadiah
@@ -54997,100 +54906,6 @@ thunder
 ======
 
 INFORMATION ===============================
-ID: 1767
-TITLE: Heavenly Love Trial
-AUTHOR: Twintacle PTT
-VERIFIED: True
-TAGS: 
-SET: Courtroom
-DATE: 22/07/25
-CHARACTERS ================================
-ZEUS: Zeus, King of Olympus (Judge):Judge Chair
-APH: Aphrodite (Plaintiff):Plaintiff Table
-DUDE: A basic mortal (Defendant):Defendant Table
-DEV: A Demon (Baliff):Bailiff Corner
-SUGGESTIONS =============================
-NAME:any name:Dave,Hercules,Odysseus,Bob
-YEAR:Span of time:69 years,eternity,42000 hours,123 minutes
-DANCING:Action ending in 'ing':dancing,singing,hugging,fighting
-NUM:any number:1,4,5,10
-COLOR:Any color:black,green,blue,rainbow
-DEMON:demonic sounding name:Damien,Diablo,Dave
-THING:Anything:famine,Homestuck,kitties,Bubble Guppies
-PICKUP LINE:A pickup line:Every step you take is epic,you make my world go aaaah stupid aaaah,when you're sad it makes me physically ill,nice butt you little butt baby
-UNNATURAL PHENOMENON:Something unnatural, or immoral:human cloning,cannibalism,genetic modication of frogs,pineapple on pizza
-RAISING EXCUSE:An excuse for why you can't do something:I'm too tired,I don't have the right tools,I'm poor,Nobody cares about me,anime is more interesting
-NOTGREECE:Someone NOT from Greek mythology.:Quetzalcoatl,Buddha,Saint Micheal,Baal,Azure Dragon
-SCRIPT ==========================================
-courtroom music
-TYPEWRITER: Mount Olympus, Greece.
-TYPEWRITER: Defendant - NAME;Accused of being the father to a godly child
-ZEUS: Okay, order, order. I hereby now declare the court to be in session.
-ZEUS: (to the mortal) So, NAME, state your case please.
-DUDE: Well, a couple of weeks ago, I had a little affair with Aphrodite, you know, the god of love.
-DUDE: Well now she is claiming that I was the unintended father of the son we had right after DANCING in the River Stix club.
-ZEUS: Interesting. You know, I often flirt with mortals myself, NAME.
-DEV: Why, NAME, are you a lusty man like him? The big guy, Zeus?
-DUDE: (Shrugs) I mean, Aphrodite was super hot. (Points) Just look at her!
-APH: Well you should have thought about the consequences.
-APH: Now you've spawned a godly child! Which as we all know, is an abomination!
-music stops
-gameshow crowd shouting numbers
-ZEUS: (bangs gavel) Order! Order in this court!
-ZEUS: Aphrodite, what is your side of the story?
-shark tank serious music 1
-APH: Look, I have been flirting with mortals for many years now.
-APH: I'd be like, "Hey mortal, PICKUP LINE"
-APH: But I never expected to conceive a half-mortal child with this... NAME person! (Points at NAME)
-APH: That's why NAME should have custody.
-DEV: (Raises hand) If I may say something... Why should a mortal raise a god anyway?
-DEV: That's as unnatural as UNNATURAL PHENOMENON!
-APH: I just feel like NAME would take better care of the baby.
-APH: Normally I would, but.... RAISING EXCUSE
-ZEUS: (Shrugs) Well, the DNA test can figure it all out.
-ZEUS: Now, NAME, if you are caught lying, you will spend YEAR in the underworld.
-DEV: (Chiming in) That's right! You don't wanna end up spending YEAR with me, NAME... Ha ha ha ha ha!
-ZEUS: Alright you little DEMON, fetch me the the DNA test.
-DEV: With pleasure, Zeus. But there are so many mortals on Earth that it may take NUM minutes. (Exit)
-ZEUS: (to Aphrodite) So tell me, Aphrodite, what did the child look like after the affair with NAME?
-APH: Well for one thing, it was wearing a white robe, he had COLOR face paint on with COLOR legwear.
-APH: Besides, it looks nothing like us gods in Greek Mythology.
-DUDE: That is your confession? That just proves that I am not the father!
-APH: I still think you are, NAME. Ugh! We should have not gone DANCING at that club.
-music stops
-DEV: (enters again exhausted) Oh gosh, that was a lot.
-ZEUS: Ah, DEMON, you are back! Please hand over the DNA test.
-courtroom music
-DEV: Sure thing, Zeus! (give the DNA test to Zeus) Man oh man this may as well be the biggest twist ever in court script history!
-ZEUS: (receives DNA test) Alright, let's see here.
-ZEUS: (shocked) Oh my... This is an interesting result...
-APH: Well?
-ZEUS: The results are in, here comes the interesting twist...
-DUDE: Wait, what?
-Music Stops
-ZEUS: NAME, Aphrodite, you both... Are not the parents!
-courtroom sting
-DUDE: (shocked) What the frick?
-Meanwhile APH: Hang on, this has to be a joke!
-DEV: That's right! Twist! The kid was an orphan this whole time! You fool! Ha ha ha ha ha!
-ZEUS: Dang... He's right... NAME is not the father...
-ZEUS: So, we examined the DNA of the child, and it turns out the baby is some sort of... "NOTGREECE."
-japanese music 2
-APH: Wait, this is the wrong mythology! NAME, explain this to me!
-ZEUS: So, this is a NOTGREECE of... THING?! (smashes hand on desk in anger) How did they end up in ancient Greece?! Ugh!
-DEV: (To Zeus in fear) Calm down, Zeus, this has been going on for NUM days with these two and the THING god.
-DEV: We can find some way to send this baby back to where they came! Or all of mythology will fall apart!
-ZEUS: (calming down) Fine... Fine... Look, nobody will be sent to YEAR in the underworld. We need to deal with this.
-APH: What do we do?
-ZEUS: We can either adopt the NOTGREECE of THING and do a crossover, or we send him back via teleportation.
-APH: (Raises hand) You know what. I'll adopt him.
-aww
-DUDE: Wait, what?!
-Meanwhile DEV: Whaaaaaat???!
-
-======
-
-INFORMATION ===============================
 ID: 1822
 TITLE: Hungry Kaiju
 AUTHOR: Twintacle PTT
@@ -56127,125 +55942,6 @@ Roommate: (sigh) You want to know what's good? Me getting some new friends, that
 ======
 
 INFORMATION ===============================
-ID: 1706
-TITLE: Attack of the Produce Aisle!
-AUTHOR: ModalSoul
-VERIFIED: True
-TAGS: 
-SET: Forest
-DATE: 17/06/25
-CHARACTERS ================================
-DEMON: Demon Warrior:Entrance Stage Left
-SON: Strong Warrior's Son:Entrance Stage Left
-SHORT: Short Warrior:Backstage
-PRIDE: Prideful Warrior:Backstage
-MUSCLE: Brutish Warrior:Backstage
-NAR: Suspenseful Narrator:Narrator Podium
-SUGGESTIONS =============================
-STNAME:Name of a strong person or fictional character:Wukong,Sakuya Izayoi,Kratos
-PLANET:The name of a planet:Earth,Mars,Pluto
-WITEM:An item with some magic power in it:Lamp,Glass Ball,Party Favors
-SHOW:The name of a show, any show:Fresh Prince of Bel Air,Danny Phantom,Steamboat Willie
-VEGGIE:A type of vegetable:Lettuce,Cabbage,Tomato
-SWEET:A sweet dessert:Pie,Ice Cream,Bon Bons,Crepes
-WEEK:A day of the week:Sunday,Wednesday,Thursday
-HOLIDAY:A holiday:Valentine's Day,Christmas,Black Friday
-EVIL:Something really, really bad:Tax Evasion,Stealing,Grand Theft Auto
-COUNTING:A machine that can read numbers:Calculator,Timer,Phone
-ATTACK:The name of a powerful attack or technique:Special Beam Cannon,Light Grenade,Clothes Beam
-PET:Any kind of pet you would have:Dog,Cat,Tiger
-SCRIPT ==========================================
-Badass Music 1
-NAR: Last time, on SHOW Z!
-NAR: A year has passed since the arrival of a warrior of vegetable heritage named Daikon, claiming to be the brother of PLANET's strongest fighter, STNAME.
-NAR: Kidnapping STNAME's son Grains, the fighter would make an unlikely alliance with his known nemesis, the Demon Warrior Zucchini.
-NAR: Wait, you haven't seen the original SHOW, you wouldn't know who that is. Uh ... think of a really bad guy, like EVIL level evil.
-NAR: He's good now though. Because we need him to be.
-NAR: Anyways, the battle to get STNAME's son back would push both fighters to their limits, and their victory came at a great cost...
-NAR: STNAME would be gravely injured by Zucchini's ATTACK used to defeat Daikon, and worse to come...
-NAR: Zucchini learned through Daikon's COUNTING of two more produce warriors arriving on PLANET in just one short year.
-NAR: With only a year to prepare for their arrival, PLANET's strongest fighters trained vigorously to defend their home. But would their efforts be enough?
-NAR: Find out... Now!
-TYPEWRITER: Attack of the Produce Aisle!
-Music Stops
-Spy Music 1
-DEMON: (enter Stage Left) Those leafy green freaks should be here any minute, Grains. Get yourself warmed up.
-SON: (enter Stage Left) Alright, Mr. Zucchini! (stretch and shadow box)
-DEMON: I doubt these plants will fight fair. Ready yourself for anything.
-SHORT: (move to Entrance Stage Right) I thought I saw you guys! Hey, over here!
-SON: (look towards Stage Right, ecstatic) Hey, it's Krill!
-Crowd Woo
-SHORT: (enter Stage Right, move to Stage Left) I figured I would find you guys around here!
-DEMON: Fashionably late, as always.
-SHORT: Hey, but I'm here now, and that's what counts!
-DEMON: What even took you so long to get here?
-SHORT: Was working on a new technique! If Zucchini has that ATTACK, I should work on something new, too!
-SHORT: Oh, yeah! I went and gave STNAME a hoagie before I got here too, he wanted one! Made sure he got the best!
-SHORT: Made sure it had everything he'd want, meat, toasted bread, mayo, VEGGIEs...
-SON: Wait... did you just say VEGGIE?
-SHORT: Yeah..?
-SON: My dad's allergic to VEGGIEs!
-SHORT: (shocked) Oh. Oh no.
-DEMON: (to Short Warrior, furious) You can't be serious! We're gonna be down our best fighter because of a hoagie! I should just kill you right now and--!
-Explosion
-Music Stops
-DEMON: (shocked) They're here!
-Forest Footstep
-PRIDE: (go to Entrance Stage Right) Too bad that it was WEEK, Brussels. Those buildings we landed on would've been filled tomorrow.
-MUSCLE: (go to Entrance Stage Right) A real shame, Arugula... Everybody knows that HOLIDAY is held on PLANET this time of year.
-Forest Footstep
-PRIDE: (enter Stage Right) Well, well, well... What do we have here?
-MUSCLE: (enter Stage Right) Looks like a bunch of PETs with idle hands sittin' around. Hands that look like they want to fight us, Arugula.
-PRIDE: (turn and face Brutish Warrior) Think these "PETs" have been waiting for us long, Brussels?
-MUSCLE: Oh, I sure hope not.
-PRIDE: Either way... (turn and face group on Stage Left) A pleasure to meet you.
-DEMON: (stare down Prideful Warrior) The pleasure's mine.
-Tense Cinematic Music
-PRIDE: So, one of you must be the one who beat Daikon. I must say, I am impressed.
-PRIDE: You've managed to beat the weakest of the Produce Warrior Race, and yet you PETs stand here like you can beat us.
-MUSCLE: How about I do my one good deed for the day and let you guys off easy? Tell us where the WITEM is and we'll be on our way.
-MUSCLE: If ya tell us, we'll just let Daikon's death be water under the bridge.
-SHORT: We, uh... can't tell you where the WITEM is. Once you make a wish with it, it disappears for an entire year.
-MUSCLE: What?! (angry) What in the world did you use it for?!
-SHORT: Uh... The hoagie I gave to STNAME.
-Vine Boom
-DEMON: (furious) What?!
-Meanwhile SON: (in disbelief) You didn't...
-MUSCLE: (furious) On a sandwich?!
-Meanwhile PRIDE: (facepalm, disappointed) What a waste...
-DEMON: Enough! Hoagie aside, this our home. And we're not going to let you trample on it as you see fit!
-Music Stops
-Superhero Fanfare
-DEMON: (gesture to Strongest Warrior's Son and Short Warrior) And neither will they!
-SON: You tried to take my dad, PLANET, and my life away! I'll never forgive you!
-SHORT: Yeah! We'll show you that we aren't PETs! We're not backing down!
-PRIDE: Looks like diplomacy is out of the question. Sorry, Brussels.
-MUSCLE: Eh, I'm over it. Let me get a crack at these guys, Arugula. Show 'em we mean business.
-PRIDE: Go right ahead. Just don't embarrass yourself out there.
-MUSCLE: (walk towards center of stage) Alright, let's check their power... (touch side of head)
-MUSCLE: They're all so weak! Beating these wimps is gonna be as easy as SWEET!
-PRIDE: (mumble) Could go for some SWEET...
-MUSCLE: (look back) What was that, Arugula?
-PRIDE: Nothing. Just be careful. They can hide their power from our COUNTING.
-MUSCLE: Right. (turn back to Stage Left group) Guess I won't be needing this COUNTING then.
-MUSCLE: Not that it makes a difference, it'll be like taking candy from a baby, which is fine by me! Come on!
-DEMON: Grains, Krill, coordinate your attacks and overwhelm him! If we can't beat him by ourselves, then we wait for everyone else to get here!
-DEMON: If push comes to shove, then I'll ask you to hold that musclehead back while I charge my ATTACK. 
-SHORT: Sounds like a plan! Let's do this!
-SON: I won't let you down, Mr. Zucchini!
-DEMON: Let's go! And put that hoagie down Krill, you don't need it! (charge at Brutish Warrior)
-Meanwhile SON: Here I come! (follow Demon Warrior and charge)
-SHORT: Fine, fine! (hype self up and charge in)
-NAR: The assault begins against the first produce warrior known as Brussels!
-NAR: Will the defenders of PLANET be able to stop these Aisle 1 Terrors?
-NAR: Will STNAME and the others arrive in time?
-NAR: Was Krill's hoagie really worth using a wish on the WITEM?
-NAR: Find out next time as the Attack of the Produce Warriors continues!
-Meanwhile SHORT: Wh-- Hey! I thought it would be a good idea at the time! I know you can hear me! Hey!
-
-======
-
-INFORMATION ===============================
 ID: 1831
 TITLE: Anarchy Court
 AUTHOR: Jinx Izayoi
@@ -56340,6 +56036,133 @@ JUD: Court dismissed. (bang gavel)
 Meanwhile DEF: (react to verdict)
 ACC: I need to tell my beautiful CHAR right now!
 courtroom sting
+
+======
+
+INFORMATION ===============================
+ID: 1706
+TITLE: Attack of the Produce Aisle!
+AUTHOR: ModalSoul
+VERIFIED: True
+TAGS: 
+SET: Forest
+DATE: 17/06/25
+CHARACTERS ================================
+DEMON: Demon Warrior:Entrance Stage Left
+SON: Strong Warrior's Son:Entrance Stage Left
+SHORT: Short Warrior:Backstage
+PRIDE: Prideful Warrior:Backstage
+MUSCLE: Brutish Warrior:Backstage
+NAR: Suspenseful Narrator:Narrator Podium
+SUGGESTIONS =============================
+STNAME:Name of a strong person or fictional character:Wukong,Sakuya Izayoi,Kratos
+PLANET:The name of a planet:Earth,Mars,Pluto
+WITEM:An item with some magic power in it:Lamp,Glass Ball,Party Favors
+SHOW:The name of a show, any show:Fresh Prince of Bel Air,Danny Phantom,Steamboat Willie
+VEGGIE:A type of vegetable:Lettuce,Cabbage,Tomato
+SWEET:A sweet dessert:Pie,Ice Cream,Bon Bons,Crepes
+WEEK:A day of the week:Sunday,Wednesday,Thursday
+HOLIDAY:A holiday:Valentine's Day,Christmas,Black Friday
+EVIL:A really evil crime:Tax Evasion,Stealing,Grand Theft Auto
+COUNTING:A machine that can read numbers:Fax Machine,Computer,Scouter
+ATTACK:The name of a powerful attack or technique:Special Beam Cannon,Light Grenade,Clothes Beam
+PET:An animal that would be rude to call someone:Dog,Cat,Tiger
+SCRIPT ==========================================
+Badass Music 1
+NAR: Last time, on SHOW Z!
+NAR: A mysterious warrior named Daikon arrived on PLANET, claiming to be the brother of its strongest fighter, STNAME. 
+NAR: Kidnapping their son Grains, STNAME would make an unlikely alliance with his sworn nemesis, the Demon Warrior Zucchini.
+NAR: Wait, you haven't seen the original SHOW, you wouldn't know who that is. Hmm... Think of a really bad guy, like EVIL level evil. But he's chill.
+NAR: That aside, both STNAME and Zucchini would defeat Daikon, but at a great cost...
+NAR: STNAME would be severely injured by Zucchini's ATTACK, leaving him out of commission. And even worse...
+NAR: Zucchini learned through Daikon's COUNTING device of two more Produce Warriors arriving on PLANET in just one short year.
+NAR: With so little time to prepare for their arrival, PLANET's fighters trained vigorously until the fateful day arrived...
+TYPEWRITER: Arugula and Brussels Attack! The First Sign of Trouble!
+Spy Music 1
+DEMON: (enter Stage Left) Those leafy green freaks will be here any minute, Grains. Get yourself warmed up.
+SON: (enter Stage Left) Alright, Mr. Zucchini! (stretch and shadow box)
+DEMON: (facing Strong Warrior's Son) I doubt these guys will fight fair. Don't let them shake you up.
+SON: (continue shadow boxing) After all of your training, I don't think there's anything that could stop me!
+SHORT: (enter Stage Right) I thought I saw you guys over here! Hey! (wave)
+SON: (stop shadow boxing and look towards Stage Right) Hey, it's Krill!
+Crowd Woo
+SHORT: (move to Stage Left) I figured I would find you guys around here!
+DEMON: Fashionably late as always, Krill.
+SHORT: I know, but hey, I'm here now; that's what counts!
+DEMON: What even took you so long to get here?
+SHORT: Was working on a new technique! If Zucchini has that ATTACK, I should work on something new, too!
+SHORT: Still workshopping a name though... 
+SHORT: Oh, yeah! I went and gave STNAME a hoagie before I got here too, he wanted one! Made sure he got the best!
+SHORT: Made sure it had everything he'd want, meat, toasted bread, mayo, VEGGIEs...
+SON: Wait... did you just say VEGGIE?
+SHORT: Yeah..?
+SON: My dad's allergic to VEGGIEs!
+SHORT: (shocked) Oh. Oh no.
+DEMON: (to Short Warrior, furious) You can't be serious! We're gonna be down our best fighter because of a hoagie! I should just kill you right now and--!
+Explosion
+Music Stops
+DEMON: (shocked) They're here!
+Forest Footstep
+Teleport PRIDE to Entrance Stage Right
+Teleport MUSCLE to Entrance Stage Right
+PRIDE: (do not enter stage yet!) Too bad that its WEEK, Brussels. Those buildings we landed on would've been filled tomorrow.
+MUSCLE: (do not enter stage yet!) A real shame, Arugula... Everybody knows that HOLIDAY is held on PLANET this time of year.
+PRIDE: Oh yeah? Well I didn't.
+Forest Footstep
+PRIDE: (enter Stage Right) Well, well, well... What do we have here?
+MUSCLE: (enter Stage Right) Looks like a bunch of PETs with idle hands sittin' around. Hands that look like they want to fight us, Arugula.
+PRIDE: (turn and face Brutish Warrior) Think these "PETs" have been waiting for us long, Brussels?
+MUSCLE: I sure hope not.
+PRIDE: Either way... (turn and face group on Stage Left) A pleasure to meet you.
+DEMON: (stare down Prideful Warrior) The pleasure's mine.
+Tense Cinematic Music
+PRIDE: So, one of you must be the one who beat Daikon. I must say, I am impressed.
+PRIDE: You've managed to beat the weakest of the Produce Warrior Race, and yet you PETs stand here like you can beat us.
+PRIDE: Whether it be ego or insanity, I commend you for even standing up to us right now.
+MUSCLE: How about I do my one good deed for the day and let you guys off easy? Tell us where the WITEM.
+MUSCLE: If ya do, we'll leave here with it and Daikon's death is water under the bridge.
+SHORT: We, uh... can't tell you where the WITEM is. Once you make a wish with it, it disappears for an entire year.
+MUSCLE: What?! (angry) What in the world did you use it for?!
+SHORT: (flustered) Well, I, uh...
+MUSCLE: Spit it out, half-pint! What did you use the WITEM on!?
+PRIDE: Now now, that's no way to communicate, Brussels. 
+MUSCLE: Sorry. Now, what did you use the WITEM for?
+SHORT: Uh... (turn and face Demon Warrior and Strongest Fighter's Son) Don't get mad guys, but I might've used it for that hoagie I gave to STNAME...
+Vine Boom
+DEMON: (furious) What?!
+Meanwhile SON: (in disbelief) You didn't...
+MUSCLE: (furious) On a sandwich?!
+Meanwhile PRIDE: (facepalm, disappointed) What a waste...
+Epic Fantasy Music 2
+DEMON: Enough! Hoagie aside, this our home. And we're not going to let you trample on it as you see fit!
+DEMON: (gesture to Strongest Warrior's Son and Short Warrior) And neither will they!
+SON: You tried to take me away from my dad, away from PLANET! I'll never forgive you
+SHORT: We aren't gonna back down! We'll show you that we aren't PETs!
+PRIDE: Looks like diplomacy is out of the question. Sorry, Brussels.
+MUSCLE: Eh, I'm over it. Let me get a crack at these guys, Arugula. Show 'em we mean business.
+PRIDE: Go right ahead. Just don't embarrass yourself out there.
+MUSCLE: (walk towards center of stage) Alright, let's check their power... (touch side of head)
+MUSCLE: They're all so weak! Beating these wimps is gonna be as easy as SWEET!
+PRIDE: (mumble) Could go for some SWEET...
+MUSCLE: (look back) What was that, Arugula?
+PRIDE: Nothing. Just be careful. They can hide their power from our COUNTINGs.
+MUSCLE: Right. (turn back to Stage Left group) Guess I won't be needing this COUNTING then.
+MUSCLE: Not that it makes a difference, it'll be like taking candy from a baby, which is fine by me! Come on!
+DEMON: Grains, Krill, coordinate your attacks and overwhelm him! If we can't beat him by ourselves, then we wait for everyone else to get here!
+DEMON: If push comes to shove, then I'll ask you to hold that musclehead back while I charge my ATTACK. 
+SHORT: That doesn't sound too bad--
+DEMON: For five minutes. And given how it took me and STNAME both to kill Daikon, you'll have it even worse Krill.
+SHORT: Oh. Not as good.
+SON: I'm ready, Mr. Zucchini! Let's get 'em!
+DEMON: Let's go! And Krill, we're gonna talk about that hoagie wish later! (charge at Brutish Warrior)
+Meanwhile SON: Here I go! (follow Demon Warrior and charge)
+SHORT: Aw jeez, do we really need to? (charge in after the other two)
+NAR: The assault begins against the first Produce Warrior known as Brussels!
+NAR: Will the defenders of PLANET be able to stop these Aisle 1 Terrors?
+NAR: Will STNAME and the others arrive in time to stop the bloodshed?
+NAR: Was Krill's hoagie really worth using a wish on the WITEM? Of course it wasn't!
+NAR: Find out next time as the Attack of the Produce Warriors continues! (ignore Short Warrior and keep talking)
+Meanwhile SHORT: Wh-- Hey! I thought it was be a good idea at the time! I know you can hear me! (approach Suspenseful Narrator) Hey!
 
 ======
 
@@ -57631,6 +57454,97 @@ CAZ: ...Oh my god-
 ======
 
 INFORMATION ===============================
+ID: 1665
+TITLE: Landlords and Larpers
+AUTHOR: Wolfenstin
+VERIFIED: True
+TAGS: 
+SET: Living Room
+DATE: 16/05/25
+CHARACTERS ================================
+TIM: Confused Resident:Entrance Stage Left
+GEORGE: Larping Roommate:Couch
+LANDLORD: The Landlord:Backstage
+SUGGESTIONS =============================
+KING:Name of a king:Lord Farquad,King James,King John
+RESTAURANT:Name of a restaurant:McDonald's,Big Bagel Backstreet,The Flowing Bowl
+FANTASY WORLD:Name of a fantasy land:Cyrodill,Middle Earth,Azeroth,Eorzea
+GREAT EVIL:The name of a great evil:Satan,The Dark Lord,Cthulhu
+STRANGE FOOD:Name of an odd food:Snails,Chocolate Ants,Funny Brownies
+BAD THING:A discomforting scenario or thing:Mondays,Stuck in traffic,Wet Socks
+WEAPON:A melee weapon of any kind:Cricket Bat,Frying Pan,Lightsaber
+INCORRECT NAME:A fantasy name:Jud the Portly,Gargol the Smasher,Jaqen the Wise.
+STABBING OBJECT:A harmless 'weapon':Butter Knife,Rubber Sword,Stick
+BATTLE CRY:A phrase you'd say in battle:"Have at thee","Huzzah," "Die cur!"
+THREAT:a phrase you'd say to threaten someone:I'm gonna get ya,You're dead punk,run if you know what's good for you
+SCRIPT ==========================================
+(fantasy music 2)
+GEORGE: (Sitting on the couch) My death comes soon. I have foreseen this day. It is a day I have dreamed of for many years.
+TIM: (enters room) Hey George. The landlord is going to be by in about 10 minutes for the rent. I'm going out for lunch.
+TIM: You want anything? I'm going to RESTAURANT.
+GEORGE: I go to my grave. A cold, unceremonious end. The hour is upon me, and I fear my time is short.
+TIM: What are you talking about? RESTAURANT isn't that bad. I eat there every week!
+GEORGE: (look at Tim) You, I've seen you. You are the one from my dreams, then you must be the hero I seek.
+GEORGE: The hero that will deliver us from the tyranny of GREAT EVIL.
+TIM: Are you feeling okay? You didn't eat another STRANGE FOOD, did you?
+GEORGE: I am not George. I am your King, KING. FANTASY WORLD needs a brave hero to save her and her people in her hour of need.
+GEORGE: What is your name, hero?
+TIM: George. You know my name. I'm Tim.
+GEORGE: Of course, INCORRECT NAME. I have heard this name in my many dreams. Time is short INCORRECT NAME.
+TIM: You're crazy. (Start to walk towards door).
+GEORGE: (Stand in front of the door).
+(thunder)
+(Music stops)
+(epic fantasy music 2)
+GEORGE: You cannot leave yet! GREAT EVIL approaches. My death comes closer every moment. You must ready yourself, INCORRECT NAME.
+GEORGE: For when I am gone, you will be the only one that can stand against GREAT EVIL.
+TIM: What are you talking about?
+GEORGE: I suffer from visions of a desolate future. Where FANTASY WORLD is ruled by GREAT EVIL.
+GEORGE: The innocents of this world will be forced to endure BAD THING.
+(music stops)
+(knocking on door)
+TIM: Well there's the landlord.
+TIM: (Open the door)
+Meanwhile GEORGE: (terrified) It is him!
+LANDLORD: Rent's due, need it now before- (look over at George) What's wrong with him?
+GEORGE: My time has come! GREAT EVIL has come to slay me and deliver BAD THING upon us all.
+LANDLORD: (Step inside) Who is GREAT EVIL? And why are they delivering BAD THING?
+TIM: He thinks he's a king named KING who is the king of FANTASY WORLD and I'm his champion, INCORRECT NAME who is supposed to slay GREAT EVIL. Apparently.
+LANDLORD: Is that so?
+(thunder)
+(epic fantasy music 3)
+LANDLORD: Long have I waited for this day. The day I slay KING and plunge FANTASY WORLD into darkness with me, GREAT EVIL as it's ruler! (Evil cackle).
+TIM: Am I on one of those candid camera shows or something here?
+GEORGE: INCORRECT NAME, we are out of time. (hand WEAPON to Tim). I can go no further, you alone must stand against GREAT EVIL.
+TIM: (take WEAPON) Why were you carrying a WEAPON around in your pants?
+LANDLORD: (Pulls out STABBING OBJECT)
+(draw sword)
+LANDLORD: (Attack George) Haha! At last, I shall end you, KING. Die you fool!
+(knife wound)
+GEORGE: (Stumbling) INCORRECT NAME, use the WEAPON! It is our only hope... (collapses).
+TIM: Ralph! You just stabbed my roommate! With a STABBING OBJECT...?
+LANDLORD: Fool! I have just doomed FANTASY WORLD with the death of KING! Now this world will be full of BAD THING!
+TIM: Ralph, you need to stop or I'm going to use this WEAPON on you.
+LANDLORD: You think you can defeat me? GREAT EVIL? (Long evil laugh). You shall know pain when I am finished with you, INCORRECT NAME.
+TIM: (engage in battle with GREAT EVIL) THREAT!
+Meanwhile LANDLORD: (Battle with Tim).
+(sword fighting)
+LANDLORD: This cannot be! The WEAPON gives you too much power! No matter, this will be swift. BATTLE CRY!
+TIM: Yeah? BATTLE CRY to you too! (hit GREAT EVIL hard).
+(anime sword gleam 2)
+LANDLORD: You will rue this day INCORRECT NAME, for when you least expect it I will return to exact my revenge! (dies).
+(music stops)
+TIM: Okay then. So, I'll just leave the money under your door, yeah?
+(bard music 2)
+GEORGE: You are victorious INCORRECT NAME. My death will not be in vain this day. You have triumphed over evil and have earned the right to your RESTAURANT.
+TIM: Dude, he poked you with a STABBING OBJECT. You're not dying.
+TIM: Whatever. I'm going to RESTAURANT. I'm starving and they close in thirty minutes. You want anything?
+GEORGE: Sure. Can you pick me up some STRANGE FOOD?
+TIM: Absolutely not. (Exit)
+
+======
+
+INFORMATION ===============================
 ID: 1282
 TITLE: The Not So Quiet Spy
 AUTHOR: Shadowydarkness
@@ -58782,6 +58696,155 @@ MAINGUY: COming!!! I'll get the SELA ready! (Follow the a.i)
 scary music
 FRIENDO: (COme back on stage through stage right) I'll get them for this... They will pay for leaving me behind! He is... my friend only! 
 FRIENDO: I will not stop till i have my revenge. You! (Point to the audience) I'll have my eyes on you all too. Until next time... (Vanish through stage left)
+
+======
+
+INFORMATION ===============================
+ID: 1742
+TITLE: Berserker
+AUTHOR: SPIDΣR ZΔZZULΣ
+VERIFIED: True
+TAGS: Skit
+SET: Forest Bridge
+DATE: 11/07/25
+CHARACTERS ================================
+KING: Berserker King:Entrance Stage Left
+BODYGUARD: Royal Bodyguard:Entrance Stage Left
+QUEEN: Valkyrie Queen:Backstage
+VALKYRIE: Loyal Valkyrie Warrior:Backstage
+SUGGESTIONS =============================
+WEAPON:A mythical weapon:Thunder Axe,Phoenix Blade,Jar of Jars
+BATTLECRY:A War Cry:Valhalla Will Fall!,For the Old Gods!,Blood For Glory!
+CURSE:Dark Magic Curse:Plague of Shadows,Flamebind,Iron Veins
+HONORCODE:A Warrior Code or Law:No Mercy for Traitors,One Shall Stand,Never Retreat
+GOD:Name of a fictional God or Goddess:Thanos,Kratos,Jar
+PLACE:A Location:Jarland,Midgard,Crater of Echos
+RELIC:Legendary object or relic:Orb of Sorrows,Lunchables,Primal Flame
+TITLE:A dramatic warrior title:Breaker of Blades,Doom Shepard,Shield of the Fallen
+FINALMOVE:Powerful finishing move:Ban Hammer,Doom Spiral,Blade of Jarland
+TAUNT:A Short Taunt:You'll die tired!,You fight like a baker!,That All you Got!?
+EGGING ON PHRASE:Something you might say to taunt the enemy:I eat garbage like you for breakfast,skyrim belongs to the nords,are you a bad enough dude to eat my blade,you smell like ass
+TRAITLY:Feminine personality trait/attribute:intelligent,motherly,sweet smelling
+SCRIPT ==========================================
+epic fantasy music 2
+KING: (Steps onto the bridge slowly) I have walked through fire to stand here... And today, my vengeance is complete.
+BODYGUARD: (Follows behind, eyes scanning) I sense them, my King. Shadows on the wind.
+KING: (Grins) Then we raise our WEAPONs and greet them... with fury.
+BODYGUARD: (Raises weapon and shouts) BATTLECRY!
+thunder
+Teleport QUEEN to On Bridge
+Teleport VALKYRIE to On Bridge
+QUEEN: Berserk King. Still clinging to your rage like a dying wolf.
+KING: You stole my crown, my land... my brother’s soul! You walk free only because the GOD you serve hides you.
+VALKYRIE: (Draws blade) Choose your words wisely, or let your WEAPON speak them instead.
+VALKYRIE: I proudly fight for me TRAITLY queen! (Bow to your queen then prepare to fight)
+BODYGUARD: (Spits) Your words are as hollow as the PLACE you crawled from.
+QUEEN: (Raises hand) Then let us speak no more. CURSE!
+magic sound
+KING: (Raises shield) Magic tricks! We fight by the HONORCODE of warriors. Face me, TITLE to TITLE!
+QUEEN: TITLE? You were once that... now, you're just a coward!
+Music Stops
+epic cinematic music
+KING: (Charges forward) FINALMOVE!
+Meanwhile QUEEN: (Dodges with a spin and counters) TAUNT!
+VALKYRIE: (Engages BODYGUARD in combat) Your blade is fast... but are you faster than fate itself?
+BODYGUARD: (Laughs mid-swing) I've outrun fate before. Let’s dance!
+VALKYRIE: EGGING ON PHRASE
+anime sword gleam 1
+Teleport KING to On Bridge
+Teleport QUEEN to On Bridge
+QUEEN: (Struggling) Do you feel it, KING? The bridge breaks beneath our wrath.
+KING: Let it fall. We end this here. Either I cross it alive... or no one does.
+BODYGUARD: (Pins VALKYRIE with blade) Your TRAITLY QUEEN falls today.
+VALKYRIE: (Smirks) She does not fall. She ascends. Watch.
+magic sound
+Teleport QUEEN to Backstage
+Teleport VALKYRIE to Backstage
+church bell
+mystery music 1
+KING: (Panting) It's done... We crossed the bridge... and left gods behind.
+BODYGUARD: The RELIC they carried... it’s still here. What shall we do with it, my King?
+KING: (Lifts the RELIC) We rebuild... and remind the world that the Berserker still rules.
+
+======
+
+INFORMATION ===============================
+ID: 1767
+TITLE: Who Caused The Drought?
+AUTHOR: Twintacle PTT
+VERIFIED: True
+TAGS: Skit
+SET: Courtroom
+DATE: 22/07/25
+CHARACTERS ================================
+ZEUS: Zeus, Judge:Judge Chair
+DEM: Demeter, Plaintiff:Plaintiff Table
+DUDE: mortal defendant:Defendant Table
+DEV: demon baliff:Bailiff Corner
+SUGGESTIONS =============================
+NAME:any name:Dave,Hercules,Odysseus,Bob
+YEAR:Span of time:69 years,eternity,42000 hours,123 minutes
+DANCING:Action ending in 'ing':dancing,singing,hugging,fighting
+NUM:any number:1,4,5,10
+COLOR:Any color:black,green,blue,rainbow
+DEMON:demonic sounding name:Damien,Diablo,Dave
+THING:Anything:famine,Homestuck,kitties,Bubble Guppies
+COMPANY:Company name:Mcdonald's,Apple,Pawn Inc.,VRChat,The Shoal
+BAD:Character trait or detail:ugly,selfish,seductive
+SWITCH:Something that activates a machine:switch,button,hand scan,motion detect system
+SCRIPT ==========================================
+courtroom music
+TYPEWRITER: Mount Olympus, Greece;NAME accused of causing unfair drought
+ZEUS: (bangs gavel) Order, order! Court is now in session!
+ZEUS: So, Demeter, tell us what happened this summer.
+DEM: Well, I was playing with my daughter, persephone, when this BAD mortal used some silly machine!
+DEM: That is what caused the drought.
+DUDE: It was an unintended side effect! You see, I work for a company called COMPANY.
+DUDE: I am not a BAD man, I am testing out some new equipment.
+DEV: COMPANY? Machines?
+ZEUS: I see, how successful was it?
+DUDE: We only got NUM of the machines so far, but we at COMPANY desire to know more.
+DEM: Well you caused the weather to change to early! Hades had to take my daughter cause' of this!
+ZEUS: Calm down, Demeter! Order, please!
+DEV: Shut up, you silly plant goddess!
+laughter
+DEM: (yelling) Hey! I resent that! I am not BAD! Stop that blasphemy at once!
+DEM: Well whatever that COMPANY is, they should be more responsible.
+ZEUS: Now, if this was intentional, NAME, you will be spending YEAR in Tartarus.
+DEV: You better not end up in there, I hear you will be DANCING while being stabbed!
+laughter
+DUDE: That sounds awful.
+DUDE: Well, this machine was in beta, and I, NAME, was in charge of it.
+DUDE: And I got to admit, I should have been more responsible.
+DEM: Yeah, right.
+DUDE: Well, somebody fiddled with the SWITCH when nobody was looking.
+DUDE: There was another SWITCH that would minimize inpact, but I do not know who did it.
+DEM: Last time I saw you, you were the only one by the machine... So NAME has caused the drought!
+DUDE: If nobody touched the SWITCH with hands, then Zeus used he electricity powers to-
+ZEUS: (bangs gavel) That's enough! We need evidence!
+DEV: Allow me, mighty, Zeus. (exit)
+DEM: Well if it wasn't you BAD mortal, then, who done it?
+DEM: Who the hell caused the drought?!
+DEV: (enters) I got the evidence, sir! (give the evidence to Zeus)
+ZEUS: Thank you, BAD DEMON.
+DEV: Hey! Give me credit for the evidence!
+Music Stops
+ZEUS:Let's see, uh, COLOR, something, something... I can't get this handwriting, what was this about again ?
+laughter
+DUDE: Who caused the drought!
+Meanwhile DEM: Who caused the drought!
+ZEUS: Oh, I was reading it upside down, I am so BAD.
+laughter
+ZEUS: Anyway, according to the fates, it appeared that a creature wearing a THING shirt caused the drought.
+DUDE: Well, there is someone in this room wearing the same THING shirt.
+DEV: Hey! Uh, I have a different THING shirt on! Please, I can't go down there in Tartarus!
+ZEUS: Yep, same COLOR THING shirt and everything. Alright, verdict reached!
+ZEUS: DEMON! For fiddling with NAME's COMPANY machine's SWITCH, you will spend YEAR in Tartarus! (bangs gavel)
+courtroom sting
+DEV: Nooooooo!
+DEM: Well I guess that settles it.
+DUDE: Hopefully COMPANY does not get sued to hell for it.
+laughter
 
 ======
 
