@@ -54333,69 +54333,6 @@ FRIEND: What are you waiting for? They play tonight! Get going!
 ======
 
 INFORMATION ===============================
-ID: 1801
-TITLE: Doctor's Orders
-AUTHOR: Dooley
-VERIFIED: True
-TAGS: 
-SET: Doctor's Office
-DATE: 19/08/25
-CHARACTERS ================================
-DOCTOR: Doctor:Desk
-PATIENT: Patient:Examination Table
-NURSE: Nurse:Backstage
-SUGGESTIONS =============================
-CLINIC-NAME:name of a medical clinic:Dingleberry Clinic,VRChat hospital,build-a-bear workshop,taco bell
-DOCTOR-NAME:last name:Sternberg,Stinkerdink,Miku
-BODY-PART:part of the human body:Elbow,eyeball,heart,spleen
-DAY-OF-WEEK:day of the week:Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
-FOOD:something to eat:Goulash,lasagna,miso soup,tears of my enemies
-VEHICLE:type of vehicle:Jeep,race car bed that is turned into an actual race car,unicycle,pogo stick,horse
-FAMOUS-PERSON:celebrity or famous person:Alanis Morissette,Lindsey Stirling,Jerry Seinfeld
-BODY2:part of the human body:shoulder,knee,tongue,finger,butt
-BIG-OBJECT:big object / item:vending machine,world's largest toilet,one million karat labubu
-WEIRD-MEDICINE:name for a medication:Screwitol,Labubadrin,tylenol 9000
-BEVERAGE:beverage:Half-caf mocha latte,olive oil,bleach
-STICKY-SUBSTANCE:sticky substance:Engine Oil,Shampoo,Peanut Butter
-SCRIPT ==========================================
-jazz music 2
-DOCTOR: Good morning, welcome to CLINIC-NAME. I’m Dr. DOCTOR-NAME. What seems to be the problem?
-PATIENT: I’ve been having this weird pain in my BODY-PART.
-DOCTOR: How long has your BODY-PART been bothering you?
-PATIENT: Since last DAY-OF-WEEK, right after I ate a giant FOOD.
-DOCTOR: Oh yeah, eating a whole FOOD will wreck your BODY-PART every time.
-DOCTOR: According to your chart, your blood pressure is the same as a VEHICLE.
-DOCTOR: And your cholesterol looks like it belongs to a FAMOUS-PERSON.
-PATIENT: That sounds terrible.
-DOCTOR: Don’t panic. I once had a patient whose BODY2 swelled up to the size of a BIG-OBJECT. We just rolled them home.
-PATIENT: Yikes. What do I do?
-DOCTOR: Easy. I’m prescribing you some WEIRD-MEDICINE.
-DOCTOR: Take one every morning with a glass of BEVERAGE.
-DOCTOR: And if pain continues, just rub some STICKY-SUBSTANCE on it.
-PATIENT: That doesn’t sound very medical.
-DOCTOR: Of course it is. STICKY-SUBSTANCE cures almost everything — if you use enough.
-PATIENT: (losing patience) Can I at least get a second opinion?
-DOCTOR: Sure. Here’s my second opinion: you’re over-reacting.
-PATIENT: (groans) This is ridiculous.
-DOCTOR: Look, I’ll give you a discount.
-DOCTOR: With my employee coupon, today’s visit only costs… let’s say five bucks and a BEVERAGE.
-PATIENT: (Very angry) You know what, Doc? I don’t need your WEIRD-MEDICINE, and I don’t need your STICKY-SUBSTANCE
-PATIENT: and I definitely don’t need CLINIC-NAME… I’m going to get a real doctor on VEHICLE Care!
-NURSE: (Walks in through stage right door) Doctor, that patient just ran out screaming.
-NURSE: Should we mark them as “cured” or “return visit”?
-DOCTOR: Mark them as “donated a free BEVERAGE.”
-NURSE: (deadpan) Got it. Oh, and the next patient wants to pay in FOOD.
-NURSE: Is that covered by insurance?
-DOCTOR: If it’s FOOD, it’s always covered.
-NURSE: (squints) You’re not really a doctor, are you?
-DOCTOR: (grins) Of course not. I just work here part-time for the free FOOD.
-NURSE: …Then why do I work here?
-DOCTOR: For the free STICKY-SUBSTANCE.
-applause
-
-======
-
-INFORMATION ===============================
 ID: 1802
 TITLE: Showdown At High Noon(ish)
 AUTHOR: Dooley
@@ -58845,6 +58782,353 @@ DEV: Nooooooo!
 DEM: Well I guess that settles it.
 DUDE: Hopefully COMPANY does not get sued to hell for it.
 laughter
+
+======
+
+INFORMATION ===============================
+ID: 1800
+TITLE: NO SUBSTITUTIONS
+AUTHOR: Dooley
+VERIFIED: True
+TAGS: 
+SET: Grocery Store
+DATE: 19/08/25
+CHARACTERS ================================
+CLERK: Store Clerk:Behind Register
+CUSTOMER: Customer:Entrance Stage Right
+NEXT-PERSON: Next customer:Backstage
+SUGGESTIONS =============================
+STORE-NAME:Name of a convenience store:Quik Shop,Moogie Mart,Qwik-E-Mart
+CLERK-NAME:Somebody's name:Mike,Jeb,Frank
+BREAD:type of bread product:Croissant,bagel,roll,hero
+MEAT:meat product:Bacon,Ham,horse leather,chicken feet
+MANAGER:Somebody's name:Gabe,Stanley,Kenneth
+FRUSTRATION:Expression of frustration:Holy crap,what the heck,dagnabbit,fishsticks
+RANDOM-OBJECT:an item you can buy:electric pencil,left joystick controller,magic wand
+WEIRD-ADDITIVE:Something to add to coffee:Milk,cream,half-and-half
+SHOVE:object/appliance found in a store:Hot dog roller,slurpee machine,ATM,cash register
+WEIRD-FLAVOR:a weird flavor:elderberry,snozzberry,spicy pickle
+HOUSEHOLD:An item you'd find in your house:Toaster,Vacuum Cleaner,bookshelf
+FAMILY:a family member:dad,mom,big sister
+SCRIPT ==========================================
+jazz music 2
+CLERK: Hey there, welcome to STORE-NAME. My name is CLERK-NAME. How can I help you?
+CUSTOMER: Yeah, I’ll take two egg and cheese sandwiches on BREAD, please.
+CLERK: (rings it up) Alright, that’ll be $7.63. Put your card in the slot, and follow the thingy on the screen.
+CUSTOMER: Wait... The sign on your front door says two for $5.00.
+CLERK: Yeah, that’s for the MEAT, egg and cheese BREAD sandwiches.
+CUSTOMER: But I’m vegetarian — I don’t eat MEAT.
+CLERK: Um, yeah, so that’s still $7.63.
+CUSTOMER: No, it’s supposed to be $5.00.
+CLERK: That’s only with the MEAT.
+CUSTOMER: But I don’t want MEAT!
+CLERK: Who doesn’t love MEAT? Personally, I Love MEAT.
+CLERK: I put MEAT on everything — my cereal, my toothbrush, my HOUSEHOLD…
+CLERK: Man, that MEAT smells good. I want some right now.
+CUSTOMER: Tell you what — why don’t you ring me up for two MEAT egg and cheese BREAD sandwiches for $5.00
+CUSTOMER: And instead of putting the MEAT on the sandwich, YOU can have it.
+CLERK: Right on, dude. MANAGER always yells at me when I sneak MEAT out of the freezer.
+CLERK: He’s all like, “You can’t eat that” and “At least cook it first” — and I’m like, “You’re not my FAMILY”
+CUSTOMER: Yeah, whatever… so how much now?
+CLERK: Oh yeah — that’s $9.00 even.
+CUSTOMER: Wait. How did it go UP?
+CLERK: We got two egg and cheese BREAD sandwiches for you, plus two extra MEAT for me.
+CLERK: That’s Nine Dollars and 42 cents, But I hooked you up with my 5% employee discount — saved you 47 cents. You can thank me later.
+CUSTOMER: (visibly upset) I want the two for five dollar deal, like your sign says! Take off the MEAT. Do whatever you want with it!
+CLERK: (pointing at an invisible sign) Sorry, no substitutions.
+CUSTOMER: What the heck? What are you pointing at?
+CLERK: (noticing there’s no sign) Oh… I thought there was a sign there.
+CUSTOMER: FRUSTRATION! This Doesn't Make Any Sense.
+CUSTOMER: I’m not asking you to add something. I’m asking you to leave something off!
+CLERK: No can do, Magoo. I can take off the cheese if you want.
+CUSTOMER: (frustrated) You can take off the cheese… but not the MEAT?
+CLERK: Exactly.
+CUSTOMER: Okay, let me speak to the manager.
+CLERK: MANAGER is in the back doing inventory on RANDOM-OBJECT. We’re not supposed to disturb them.
+CUSTOMER: Get them NOW.
+CLERK: Okay… fine. (walks out the door, then walks back in)
+CLERK: What's it for again?
+CUSTOMER: (losing it) What’s It For?! Tell them there’s an Irate customer who needs to speak with them immediately!
+CLERK: (walks back out) Hey, MANAGER, there’s an Irish customer here who needs to speak with you.
+CUSTOMER: (to self) Oh my god…
+CLERK: (Enters speaking in different voice) Hello, I’m the manager, MANAGER. How can I help?
+CUSTOMER: No you’re not. You’re CLERK-NAME. You just changed your voice. And are you eating MEAT?
+CLERK: (Making munching sounds, swallowing) Um… no.
+CUSTOMER: (sighs) Look, I just want the $5 deal. A MEAT egg and cheese BREAD sandwich, ust without the MEAT.
+CLERK: Sorry, it’s corporate policy. No substitutions.
+CUSTOMER: Just pretend you forgot the MEAT. It’ll be our little secret.
+CLERK: Sorry, no can do, Stu.
+CUSTOMER: Fine. Forget it. Just give me a coffee — half and half, no sugar.
+CLERK: I’m sorry, we only serve coffee with WEIRD-ADDITIVE and WEIRD-FLAVOR.
+CUSTOMER: (explodes) You can take your coffee, your MEAT, and your stupid BREAD sandwich — and shove them up your SHOVE! (Storms out, leaving the store)
+CLERK: Who’s next?
+NEXT-PERSON: (Walks into store) Hello, yeah, I’ll take that Two for $5 BREAD sandwich deal.
+NEXT-PERSON: And can you hold the MEAT, please?
+CLERK: Absolutely.  Want us to hold the cheese, too?
+NEXT-PERSON: Sure.
+CLERK:  It's also free coffee today, if you want it without the weird additive.
+NEXT-PERSON:  Perfect. Oh, and corporate said to use my 'preferred order phrase.'
+CLERK: What's that?
+NEXT-PERSON: Please.
+Applause
+
+======
+
+INFORMATION ===============================
+ID: 1801
+TITLE: Doctor's Orders
+AUTHOR: Dooley
+VERIFIED: True
+TAGS: 
+SET: Doctor's Office
+DATE: 19/08/25
+CHARACTERS ================================
+DOCTOR: Doctor:Desk
+PATIENT: Patient:Examination Table
+NURSE: Nurse:Backstage
+SUGGESTIONS =============================
+CLINIC-NAME:name of a medical clinic:Dingleberry Clinic,VRChat hospital,build-a-bear workshop,taco bell
+DOCTOR-NAME:last name:Sternberg,Stinkerdink,Miku
+BODY-PART:part of the human body:Elbow,eyeball,heart,spleen
+DAY-OF-WEEK:day of the week:Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+FOOD:something to eat:Goulash,lasagna,miso soup,tears of my enemies
+VEHICLE:type of vehicle:Jeep,race car bed that is turned into an actual race car,unicycle,pogo stick,horse
+FAMOUS-PERSON:celebrity or famous person:Alanis Morissette,Lindsey Stirling,Jerry Seinfeld
+BODY2:part of the human body:shoulder,knee,tongue,finger,butt
+BIG-OBJECT:big object / item:vending machine,world's largest toilet,one million karat labubu
+WEIRD-MEDICINE:name for a medication:Screwitol,Labubadrin,tylenol 9000
+BEVERAGE:beverage:Half-caf mocha latte,olive oil,bleach
+STICKY-SUBSTANCE:sticky substance:Engine Oil,Shampoo,Peanut Butter
+SCRIPT ==========================================
+jazz music 2
+DOCTOR: Good morning, welcome to CLINIC-NAME. I’m Dr. DOCTOR-NAME. What seems to be the problem?
+PATIENT: I’ve been having this weird pain in my BODY-PART.
+DOCTOR: How long has your BODY-PART been bothering you?
+PATIENT: Since last DAY-OF-WEEK, right after I ate a giant FOOD.
+DOCTOR: Oh yeah, eating a whole FOOD will wreck your BODY-PART every time.
+DOCTOR: According to your chart, your blood pressure is the same as a VEHICLE.
+DOCTOR: And your cholesterol looks like it belongs to a FAMOUS-PERSON.
+PATIENT: That sounds terrible.
+DOCTOR: Don’t panic. I once had a patient whose BODY2 swelled up to the size of a BIG-OBJECT. We just rolled them home.
+PATIENT: Yikes. What do I do?
+DOCTOR: Easy. I’m prescribing you some WEIRD-MEDICINE.
+DOCTOR: Take one every morning with a glass of BEVERAGE.
+DOCTOR: And if pain continues, just rub some STICKY-SUBSTANCE on it.
+PATIENT: That doesn’t sound very medical.
+DOCTOR: Of course it is. STICKY-SUBSTANCE cures almost everything — if you use enough.
+PATIENT: (losing patience) Can I at least get a second opinion?
+DOCTOR: Sure. Here’s my second opinion: you’re over-reacting.
+PATIENT: (groans) This is ridiculous.
+DOCTOR: Look, I’ll give you a discount.
+DOCTOR: With my employee coupon, today’s visit only costs… let’s say five bucks and a BEVERAGE.
+PATIENT: (Very angry) You know what, Doc? I don’t need your WEIRD-MEDICINE, and I don’t need your STICKY-SUBSTANCE
+PATIENT: and I definitely don’t need CLINIC-NAME…
+PATIENT:I’m going to get a real doctor on VEHICLE Care! (Runs out through the stage-right door)
+NURSE: (Walks in through stage right door) Doctor, that patient just ran out screaming.
+NURSE: Should we mark them as “cured” or “return visit”?
+DOCTOR: Mark them as “donated a free BEVERAGE.”
+NURSE: (deadpan) Got it. Oh, and the next patient wants to pay in FOOD.
+NURSE: Is that covered by insurance?
+DOCTOR: If it’s FOOD, it’s always covered.
+NURSE: (squints) You’re not really a doctor, are you?
+DOCTOR: (grins) Of course not. I just work here part-time for the free FOOD.
+NURSE: …Then why do I work here?
+DOCTOR: For the free STICKY-SUBSTANCE.
+applause
+
+======
+
+INFORMATION ===============================
+ID: 1844
+TITLE: Cat con vs dog con
+AUTHOR: Shadowydarkness
+VERIFIED: True
+TAGS: Skit
+SET: Courtroom
+DATE: 12/10/25
+CHARACTERS ================================
+JUDGE: Venue Holder:Judge Chair
+LUNA: Cat con owner:Plaintiff Table
+FRANK: Dog con owner:Defendant Table
+STEVE: Cat con Assistant:Plaintiff Table
+MARK: Dog con assistant:Defendant Table
+SUGGESTIONS =============================
+DATE:A day in the month:November 16th,March 8th,October 13th,December 25th
+TIME:Time of day:8am,12pm,4pm,9pm
+PARK:Any location:Oaks park,six flags,yellow stone,north willyamite park
+DOGTOY:A toy for a dog:Ball,Bone,Stuffed animal,Blanket
+CATTOY:A toy a cat would have:Yarn,Climbing tower,Mouse,Yarn on a stick
+FOOD:A type of food:Burger,Mac and cheese,Steak,Turkey and cheddar lunchable
+REWARD:A prize (anything):Trophy,Deed to a new house,Get outa jail free card
+SIDE:A side dish:Macaroni,Sausage,Broccoli
+CHAOTIC PLACE:Somewhere chaotic:wal-mart,liveleak dot com,your mom's house,vrchat world
+INCIDENT:A time when your friend got really mad:when they ate spicy pepper,the 2024 election,the incident
+THROW A PARTY:something really drastic you might do:go to jail for murder,fart,get on vrchat
+CONSEQUENCE:A mild threatening thing you might say to someone:you're going to have an unfortunate accident,we'll see what happens,you'll be walking funny
+SCRIPT ==========================================
+COURTROOM MUSIC
+JUDGE: We are gathered here today on DATE at TIME to settle the dispute between...
+JUDGE: If we should host Cat Con this year...
+LUNA: Mewody.
+JUDGE: Or if we should host Dog Con this year.
+FRANK: Ruff!
+JUDGE: Now, let us begin.
+Courtroom sting
+shark tank discussion music 1
+MARK: (Interrupts) Now wait just a minute, Judge! Didn’t the cats host their con last year?
+STEVE: Hey, don’t interrupt the judge while they’re talking, dog!
+MARK: (Growls) Hush, cat! CONSEQUENCE if you don't keep quiet in this courtroom.
+JUDGE: Whoa now, no need for that kind of behavior.
+JUDGE: This is a courtroom, if you haven’t forgotten, not some kind of CHAOTIC PLACE.
+LUNA: Yeah, Steve, show some respect!
+FRANK: You too, Mark!
+MARK: Sorry.
+meanwhile STEVE: Yeah, I’m sorry too.
+JUDGE: Anyways, let’s start with you, Luna. Why should we host Cat Con this year?
+LUNA: Well, because this year we’ll have the greatest CATTOYs around at our Carrier Cave.
+STEVE: Yeah, because last year’s toy was a nightmare.
+LUNA: I told you to never speak of that again!
+STEVE: Right, sorry.
+JUDGE: Well, that’s certainly a step in the right direction, if I must say.
+FRANK: Well, I most certainly have a far better idea than my opponent, Your Honor.
+JUDGE: Oh really? What is it?
+FRANK: (Exclaims) Take this! (Shows DOGTOY)
+JUDGE: What the—!?
+FRANK: It’s a DOGTOY! 
+FRANK:The first of its kind!
+MARK: Yup, made it myself and totally not by a factory. (Winks)
+JUDGE: (Skeptical) Right... A DOGTOY got it.
+FRANK: Don’t listen to them, Judge. My partner is a little cuckoo for SIDE, if you know what I mean.
+JUDGE: No. No I dont that made no sense.
+MARK: Yeah and No, I’m not cuckoo for SIDE.
+FRANK: (Pats Mark on the head) Oh, it’s okay, buddy. After this we’ll go to PARK and get some FOOD.
+MARK: Oh yay!
+LUNA: No way! That PARK is where the con is gonna be!
+FRANK: Nuh-uh!
+LUNA: What do you mean, “nuh-uh”?!
+LUNA: We want our con to be in that PARK! I grew up there!
+FRANK: Well, I want my con to be there because I grew up there as well!
+MARK: (To self) This is getting feisty.
+STEVE: (To self) Wow, I’ve never seen Luna so mad before, not since INCIDENT.
+JUDGE: Order! Order! Order in the court!
+MARK: I’ll have a FOOD with a SIDE please. 
+FRANK: Not that kind of order, silly!
+JUDGE: All right, that’s enough.
+Music stops
+JUDGE: I have decided that because I like the DOGTOY better than the CATTOY, I’ve made the deciding choice to have Dog Con this year!
+happy music 1
+FRANK: Yes!
+MARK: Yippee!
+LUNA: Shoot.
+STEVE: Dang it! Dang it! Dang it! I'm gonna THROW A PARTY.
+JUDGE: But not to leave the cats out of luck — they get this REWARD as a compromise for the loss.
+LUNA: Oh yay!
+STEVE: Epic!
+Music stops
+JUDGE: Court dismissed.
+Courtroom sting
+
+======
+
+INFORMATION ===============================
+ID: 1867
+TITLE: Krampus Set Free
+AUTHOR: CRYPTPUG
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 18/10/25
+CHARACTERS ================================
+YT: Youtuber/Streamer:Stage Right
+KRAMPUS: Krampus:Backstage
+LT: The YouTuber’s little bro:Backstage
+SUGGESTIONS =============================
+HOUSE:A building that can be haunted:hotel,house,mansion,cottage
+YOUTUBER:A Streamer/Youtuber:Markiplier,Jackspeticeye,CaseOh
+BODY:A body part:elbow,knee,calf,shoulder
+TREAT:A type of dessert:cookie,cake,pie,brownie
+GROSS:Something you shouldn’t put in food:Anthrax,cement,poison,oil
+SIMPLE TASK:a basic task any adult/teenager can do:do laundry,do math,stream on twitch,drink water,poop
+PHONE:overly specific description of a smartphone:iphone 18 pro with biometric nanotechnology,samsung galaxy 67,baby's first phoney woney with patented nannycam technology
+SCRIPT ==========================================
+christmas music 1
+YT: Hello everybody, my name is YOUTUBER!
+YT: And today, we’re gonna to be exploring this haunted HOUSE!
+YT: But I’m not doing this alone. I’m here joined by my... (You hear a knocking sound)
+knocking on door
+LT: Uhm...YOUTUBER? Can you let me in?
+YT: Ugh... my little brother...
+YT: (opens stage right door) How did you get yourself locked out? Seriously?
+LT: This HOUSE is old! The locks are probably all…rusty and stuff!
+YT:...this is why I don’t include you in my videos…
+LT: Yeah, about that…why am I here again?
+YT: Because mom asked me to look after you since you can’t look after yourself.
+LT: Hey! I’m not a child! I can take care of myself!
+YT: Oh yeah? What about that time you tried SIMPLE TASK, and somehow ended up breaking your BODY?
+LT:...that was one time!
+YT: Whatever, just come along. It’s time to check this place out.
+LT: (Walk to couch) Man... this place sure is spooky...
+YT: I know, right? My subscribers will eat this up.
+LT: Why are you going through a haunted HOUSE around Christmas time, though?
+LT: Isn’t that more of a Halloween thing?
+YT: Look, if Disney can make millions smashing the two holidays together, so can I.
+footsteps on wood
+dark classical music
+LT: Wh-what was that???
+YT: A ghost, probably...awesome!
+LT: What?!? What do you mean “awesome”???
+YT: C’mon, let’s see if we can find it!
+YT: Grab your PHONE and start filming!
+LT: Are you insane??? I’m outta here!!! (Exit Stage Left)
+YT: What? Hey! Get back here before you break your BODY again!
+YT: I better not get blamed if that idiot hurts himself again...
+door creak
+YT: What the-? Is someone there? Show yourself!
+Thunder
+KRAMPUS: (teleport to center stage) Alright, what the hell’s with this racket???
+YT: Ahhh!! A ghost!!!
+KRAMPUS: Sheesh, stop yelling! God, I just woke up!!!
+YT: W-Who are you...?
+KRAMPUS: I’m Krampus, duh.
+YT: Who?
+KRAMPUS: (sigh) evil Santa Claus…
+YT: Ooooh, right. That Krampus.
+KRAMPUS: Alright, now why are you in my HOUSE?
+YT: I was just...filming a Youtube video. I’m...YOUTUBER.
+KRAMPUS: I don’t have internet, what’s a Youtube?
+crashing debris
+KRAMPUS: What was that??? Hey, get out here!
+LT: (Enter Stage Left) Hey, YOUTUBER? I think I broke somethi-AHH!! What is that?!
+YT: Evil Santa Claus.
+KRAMPUS: Oh no...don’t tell me you destroyed my newest batch of TREAT!
+LT: Uhm...no?
+KRAMPUS: I can’t believe you...I worked days on that damn recipe, only for you to destroy them all!!!
+YT: Wait, you know how to bake?
+KRAMPUS: Of course I do. That fatty Santa gets all his cookies made for him for free, while I make ‘em by hand like a real man!
+LT: I’m so sorry! Don’t break my BODY please!
+KRAMPUS: Alright, since you both decided to break into my HOUSE and destroy my TREAT, the only way you’re getting out of this is if you bake me a new TREAT.
+YT: What? But we don’t know how to make TREAT!
+YT: (Sit on couch) Well, you better get to learning, otherwise I’ll break both of your BODY. Now get to it!
+LT: (walk over towards the kitchen) This is all your fault
+YT: (Walk over towards kitchen) Shut up...
+TYPEWRITER: Two hours later...
+YT: Alright, we’re finished with the TREAT.
+KRAMPUS: About time. Get on over here, lemmie see how you did.
+LT: Uhm...okay...walk towards couch)
+YT: Here you go. Fresh TREAT straight from the oven.
+KRAMPUS: (Eat cookie) Mmm...Mmmm! This is some good stuff! Color me surprised.
+YT: Yeah...I bet it does...
+KRAMPUS: Wait a minute...ugh! (spit and gag)
+KRAMPUS: What the hell’s in this?!?
+badass music 1
+YT: HA! You just got pranked bro! I can’t believe you just ate GROSS!
+KRAMPUS: You put GROSS in these???
+YT: Sure did! My subscribers are gonna love this!
+LT: Wow...nice work, bro!
+KRAMPUS: You little brats!!! I’ll show you what happens when you mess with me!!
+YT: Oh crap...I kinda forgot he was basically devil Santa...
+YT: We should probably run!!! (Exit Stage Left)
+LT: YOUTUBER!!! Wait up!!! (Exit Stage Left)
 
 ======
 
