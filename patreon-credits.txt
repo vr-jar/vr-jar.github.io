@@ -2540,6 +2540,7 @@ CN-愚蠢的小旋
 Dooley
 PainKiller22
 #TIER=2
+STN_Bro
 Big-_-Squish
 ~TheKingDuck~
 GreenSkyM1
