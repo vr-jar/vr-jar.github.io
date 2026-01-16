@@ -55595,7 +55595,7 @@ laughter
 INFORMATION ===============================
 ID: 1861
 TITLE: The Great T-Rex
-AUTHOR: kyle_mc.
+AUTHOR: ._wr3n_.
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -57589,120 +57589,6 @@ ASSISTANT 2: Whatever
 ======
 
 INFORMATION ===============================
-ID: 1937
-TITLE: The Trolley Problem
-AUTHOR: Jinx Izayoi
-VERIFIED: True
-TAGS: 
-SET: Classroom
-DATE: 18/11/25
-CHARACTERS ================================
-TEACH: The Psychology Teacher:Teacher Desk
-GKID: The Good Student:Desk 1
-NKID: The Nerdy Student:Desk 2
-SKID: The Sporty Kid:Desk 3
-DKID: The Stoner Kid:Desk 4
-EKID: The Edgy Kid:Desk 5
-SUGGESTIONS =============================
-NUM:a whole number higher than 1:5,69,8.2 billion
-GAD:a type of lever or switch you pull to activate something:lever,trigger,switch,plug,crank
-VEH:a large vehicle:train,tram,TNT cart,AC-130
-NAME:a player in the audience:Jar,Jinx Izayoi,Lebanne
-PET:an animal you like:cat,snake,horse
-WEAP:a strong projectile weapon:rocket launcher,javelin,tactical nuke
-SPEED:a term to describe speed or travel:velocity,acceleration,distance
-GOODY:a mocking term for a nice person:goodie two shoes,prim and proper,stick in the mud,kiss-up
-HEAVY:a large, heavy object most people can't lift:fridge,Mjolnir,tractor
-EDGE:the title of an edgy song:Crawling,Bodies,Unwavering Vow
-QUES:a deep philosophical question:Do you think God stays in heaven because he fears what he's created?,How can mirrors be real if our eyes aren't real?,Is the guy that wrote this script watching and judging us right now?
-FIG:a controversial public figure:Putin,Fred Phelps,Charlie Kirk
-SCRIPT ==========================================
-double bass music
-TEACH: Good afternoon, class. Today's lesson is regarding a thought experiment known as The Trolley Problem.
-TEACH: Imagine a VEH with no brakes is speeding down the track, and NUM people are tied to said track.
-TEACH: But you are a bystander standing next to a GAD, which, if pulled, will divert the VEH to a different track with only one person tied down.
-TEACH: Do you do nothing and let the NUM people die, or do you pull the GAD, saving NUM but killing one?
-GKID: (raise hand) Why wouldn't you pull the GAD? You're saving more people that way.
-TEACH: The whole scenario is an ethical dilemma. Does pulling the GAD make you a murderer instead of a bystander? Will the...
-NKID: Why are people tied to the track in the first place? Who put them there?
-TEACH: Uh, I don't know. It's just a hypothetical scenario.
-NKID: If it were me, I would just untie everyone from the track and not worry about "morals".
-TEACH: That's not an option here.
-NKID: Why not?
-SKID: I would get my dad to stop the VEH before it could hit anyone.
-explosion
-TEACH: No, that's also not an option. And even if he could, he might hurt the people riding in the VEH.
-DKID: What if we could, like... increase the state's public transport budget, so the VEHs all have working brakes?
-TEACH: That's... wishful thinking, but not relevant to the question.
-DKID: ...what?
-EKID: Heh, I wouldn't pull the GAD. The more people that die, the better.
-TEACH: Do we need to have another discussion with your parents?
-GKID: (to edgy kid) That's so wrong! I hope I'm not near any VEH tracks with you around!
-NKID: The evildoer can't kidnap me and tie me to any VEH tracks if I never leave my house.
-Meanwhile TEACH: (sit at desk and play on your phone)
-SKID: I would beat up anyone who tries to tie me up to anything! I ain't into that!
-DKID: What if NAME was on one of the tracks? I think that would influence my decision.
-GKID: I think all the victims are implied to be strangers. And who is NAME?
-DKID: Oh, you wouldn't know them. They go to a different reality.
-EKID: Can I make the VEH go down both tracks and kill everyone?
-SKID: You know what? That stoner kid what right. What if my PET was on one of the tracks? I wouldn't let no VEH run him over!
-EKID: If my PET was on the tracks, I would pull out my WEAP that I totally have and blow the VEH to smithereens! (laugh)
-GKID: Omigosh, guys, this isn't part of the question! Would you pull the GAD or not?
-SKID: No! I need to save my PET!
-EKID: Yes! The VEH might derail and hit more people!
-NKID: Maybe! If we consider the SPEED of the VEH versus the location of the people on the tracks, then add wind resistance, stop at terminal velocity,
-DKID: I dunno. Does the GAD even exist? Do morals mean anything in this world? Who am I?
-Meanwhile NKID: calculate the X and Z coordinates, factor in impact force, write the formula, call my mom...
-GKID: Teacher! Is there a right answer?
-TEACH: (put away phone) Oh, uhh, no. The thought experiment is supposed to prove there's no one truly ethically sound answer.
-TEACH: Now, for today's assignment, you will all write a short answer to the Trolley Problem and turn it in without writing your name on it.
-TEACH: I'll read them out loud in a random order, and it's everyone's job to figure out who wrote each answer. You have ten minutes.
-TYPEWRITER: Ten minutes later
-silly music 1
-TEACH: Everyone's turned their paper in? Good, let's read these and guess who wrote what.
-TEACH: The first one says "I would pull the GAD, as saving more lives is more important than moral superiority."
-Meanwhile DKID: (react to essay by good kid) Ha.
-SKID: Yep, I know which GOODY wrote that.
-GKID: Is it that obvious? I just think it's a no-brainer, I don't see the ambiguity.
-NKID: Actually, you only think it's a no-brainer because you simply can't comprehend how deep this rabbit hole goes.
-TEACH: The "save more lives" angle is a perspective many people share. I'll read the next one now.
-TEACH: It says "it is my god-given right to lift the VEH off the track and save my PET from certain death.
-TEACH: My dad can lift a HEAVY, so a stupid VEH should be no issue for me."
-Meanwhile EKID: (react to essay by sporty kid) Nah.
-bird screech
-DKID: Dude, even I know your dad can't make a HEAVY budge. Why try to pass such an obvious lie?
-SKID: Shut up! It's called an adrenaline rush, it makes you stronger when someone you care about is about to die.
-EKID: Your arms would bend backwards and break before the VEH even leaves the ground.
-TEACH: The principal told me I should praise thinking outside the box, so well done. (sarcastic)
-TEACH: The next paper reads "if anyone asks, I was never next to the GAD. It is statistically impossible for me to be in this hypothetical."
-Meanwhile SKID: (react to essay by nerd) Loser.
-GKID: So you'd rather let those people die than deal with any sort of responsibility?
-EKID: It's because he'd pass out from seeing all the blood and guts splattered everywhere.
-NKID: Technically, if I were there, there's only be a one in NUM plus two probability that I'd be the one at the GAD. I'm more likely to die than get to choose.
-TEACH: Do my brainstorming exercises need the same attendance policy as our school does? Never mind, don't answer that.
-TEACH: I'm trying to interpret this next answer, but it just looks like they wrote the lyrics to EDGE.
-Meanwhile GKID: (react to essay by edgy student) Dude.
-DKID: Ohh, you're trying to scare the VEH off with your taste in music.
-EKID: No, I just don't care about this stupid project. Let them all die, I say.
-GKID: We need to put you on a watchlist so I don't become another statistic before I graduate.
-TEACH: And the last paper just asks "QUES" which, uhh, I don't think is relevant, or something I should be answering here and now.
-NKID: (look at the stoner student) What?
-SKID: You think you cooked soooo hard with that one, don't you?
-DKID: Wait, this is cooking class? I thought this was theater arts. I mean, we're doing a play right now, right?
-GKID: Well, something in here is definitely baked.
-TEACH: Enough. My mistake today was putting half as much faith in you kids as my ex had in FIG.
-EKID: Is FIG tied to one of the tracks? That might change my answer.
-NKID: (raise hand) Teacher! Class is almost over, and you forgot to give homework!
-Meanwhile DKID: (slowly turn to face nerd) Why?
-Music Stops
-SKID: Oh, now you're gonna get it! Come here! (continue to go off on the nerd)
-Meanwhile EKID: (Upset and angry)
-TEACH: None of you are seeing heaven.
-school bell
-
-======
-
-INFORMATION ===============================
 ID: 1838
 TITLE: Awkward Visit with a Friend
 AUTHOR: Jacqueline Vile
@@ -58284,6 +58170,120 @@ BOY: Eh, I'm sure my PET is just fine. (Exit stage right)
 ======
 
 INFORMATION ===============================
+ID: 1937
+TITLE: The Trolley Problem
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: 
+SET: Classroom
+DATE: 18/11/25
+CHARACTERS ================================
+TEACH: The Psychology Teacher:Teacher Desk
+GKID: The Good Student:Desk 1
+NKID: The Nerdy Student:Desk 2
+SKID: The Sporty Kid:Desk 3
+DKID: The Stoner Kid:Desk 4
+EKID: The Edgy Kid:Desk 5
+SUGGESTIONS =============================
+NUM:a whole number higher than 1:5,69,8.2 billion
+GAD:a type of lever or switch you pull to activate something:lever,trigger,switch,plug,crank
+VEH:a large vehicle:train,tram,TNT cart,AC-130
+NAME:a player in the audience:Jar,Jinx Izayoi,Lebanne
+PET:an animal you like:cat,snake,horse
+WEAP:a strong projectile weapon:rocket launcher,javelin,tactical nuke
+SPEED:a term to describe speed or travel:velocity,acceleration,distance
+GOODY:a mocking term for a nice person:goodie two shoes,prim and proper,stick in the mud,kiss-up
+HEAVY:a large, heavy object most people can't lift:fridge,Mjolnir,tractor
+EDGE:the title of an edgy song:Crawling,Bodies,Unwavering Vow
+QUES:a deep philosophical question:Do you think God stays in heaven because he fears what he's created?,How can mirrors be real if our eyes aren't real?,Is the guy that wrote this script watching and judging us?
+FIG:a controversial public figure:Putin,Fred Phelps,Charlie Kirk
+SCRIPT ==========================================
+double bass music
+TEACH: Good afternoon, class. Today's lesson is regarding a thought experiment known as The Trolley Problem.
+TEACH: Imagine a VEH with no brakes is speeding down the track, and NUM people are tied to said track.
+TEACH: But you are a bystander standing next to a GAD, which, if pulled, will divert the VEH to a different track with only one person tied down.
+TEACH: Do you do nothing and let the NUM people die, or do you pull the GAD, saving NUM but killing one?
+GKID: (raise hand) Why wouldn't you pull the GAD? You're saving more people that way.
+TEACH: The whole scenario is an ethical dilemma. Does pulling the GAD make you a murderer instead of a bystander? Will the...
+NKID: Why are people tied to the track in the first place? Who put them there?
+TEACH: Uh, I don't know. It's just a hypothetical scenario.
+NKID: If it were me, I would just untie everyone from the track and not worry about "morals".
+TEACH: That's not an option here.
+NKID: Why not?
+SKID: I would get my dad to stop the VEH before it could hit anyone.
+explosion
+TEACH: No, that's also not an option. And even if he could, he might hurt the people riding in the VEH.
+DKID: What if we could, like... increase the state's public transport budget, so the VEHs all have working brakes?
+TEACH: That's... wishful thinking, but not relevant to the question.
+DKID: ...what?
+EKID: Heh, I wouldn't pull the GAD. The more people that die, the better.
+TEACH: Do we need to have another discussion with your parents?
+GKID: (to edgy kid) That's so wrong! I hope I'm not near any VEH tracks with you around!
+NKID: The evildoer can't kidnap me and tie me to any VEH tracks if I never leave my house.
+Meanwhile TEACH: (sit at desk and play on your phone)
+SKID: I would beat up anyone who tries to tie me up to anything! I ain't into that!
+DKID: What if NAME was on one of the tracks? I think that would influence my decision.
+GKID: I think all the victims are implied to be strangers. And who is NAME?
+DKID: Oh, you wouldn't know them. They go to a different reality.
+EKID: Can I make the VEH go down both tracks and kill everyone?
+SKID: You know what? That stoner kid was right. What if my PET was on one of the tracks? I wouldn't let no VEH run him over!
+EKID: If my PET was on the tracks, I would pull out my WEAP that I totally have and blow the VEH to smithereens! (laugh)
+GKID: Omigosh, guys, this isn't part of the question! Would you pull the GAD or not?
+SKID: No! I need to save my PET!
+EKID: Yes! The VEH might derail and hit more people!
+NKID: Maybe! If we consider the SPEED of the VEH versus the location of the people on the tracks, then add wind resistance, stop at terminal velocity,
+DKID: I dunno. Does the GAD even exist? Do morals mean anything in this world? Who am I?
+Meanwhile NKID: calculate the X and Z coordinates, factor the impact force, solve the formula, call my mom...
+GKID: Teacher! Is there a right answer?
+TEACH: (put away phone) Oh, uhh, no. The thought experiment is supposed to prove there's no one truly ethically sound answer.
+TEACH: Now, for today's assignment, you will all write a short answer to the Trolley Problem and turn it in without writing your name on it.
+TEACH: I'll read them out loud in a random order, and it's everyone's job to figure out who wrote each answer. You have ten minutes.
+TYPEWRITER: Ten minutes later
+silly music 1
+TEACH: Everyone's turned their paper in? Good, let's read these and guess who wrote what.
+TEACH: The first one says "I would pull the GAD, as saving more lives is more important than moral superiority."
+Meanwhile DKID: (react to essay by good kid) Ha.
+SKID: Yep, I know which GOODY wrote that.
+GKID: Is it that obvious? I just think it's a no-brainer, I don't see the ambiguity.
+NKID: Actually, you only think it's a no-brainer because you simply can't comprehend how deep this rabbit hole goes.
+TEACH: The "save more lives" angle is a perspective many people share. I'll read the next one now.
+TEACH: It says "it is my god-given right to lift the VEH off the track and save my PET from certain death.
+TEACH: My dad can lift a HEAVY, so a stupid VEH should be no issue for me."
+Meanwhile EKID: (react to essay by sporty kid) Nah.
+bird screech
+DKID: Dude, even I know your dad can't make a HEAVY budge. Why try to pass such an obvious lie?
+SKID: Shut up! It's called an adrenaline rush, it makes you stronger when someone you care about is about to die.
+EKID: Your arms would bend backwards and break before the VEH even leaves the ground.
+TEACH: The principal told me I should praise thinking outside the box, so well done. (sarcastic)
+TEACH: The next paper reads "if anyone asks, I was never next to the GAD. It is statistically impossible for me to be in this hypothetical."
+Meanwhile SKID: (react to essay by nerd) Loser.
+GKID: So you'd rather let those people die than deal with any sort of responsibility?
+EKID: It's because he'd pass out from seeing all the blood and guts splattered everywhere.
+NKID: Technically, if I were there, there's only be a one in NUM plus two probability that I'd be the one at the GAD. I'm more likely to die than get to choose.
+TEACH: Do my brainstorming exercises need the same attendance policy as our school does? Never mind, don't answer that.
+TEACH: I'm trying to interpret this next answer, but it just looks like they wrote the lyrics to EDGE.
+Meanwhile GKID: (react to essay by edgy student) Dude.
+DKID: Ohh, you're trying to scare the VEH off with your taste in music.
+EKID: No, I just don't care about this stupid project. Let them all die, I say.
+GKID: We need to put you on a watchlist so I don't become another statistic before I graduate.
+TEACH: And the last paper just asks "QUES" which, uhh, I don't think is relevant, or something I should be answering here and now.
+Meanwhile NKID: (look at the stoner student) What?
+SKID: You think you cooked soooo hard with that one, don't you?
+DKID: Wait, this is cooking class? I thought this was theater arts. I mean, we're doing a play right now, right?
+GKID: Well, something in here is definitely baked.
+TEACH: Enough. My mistake today was putting half as much faith in you kids as my ex had in FIG.
+EKID: Is FIG tied to one of the tracks? That might change my answer.
+NKID: (raise hand) Teacher! Class is almost over, and you forgot to give homework!
+Meanwhile DKID: (slowly turn to face nerd) Why?
+Music Stops
+SKID: Oh, now you're gonna get it! Come here! (continue to go off on the nerd)
+Meanwhile EKID: (Upset and angry)
+TEACH: None of you are seeing heaven.
+school bell
+
+======
+
+INFORMATION ===============================
 ID: 1090
 TITLE: The Great Leader
 AUTHOR: SPIDΣR ZΔZZULΣ
@@ -58468,7 +58468,7 @@ HR: Love the energy today!
 INFORMATION ===============================
 ID: 2014
 TITLE: Bush and Bravery 
-AUTHOR: billbert_2
+AUTHOR: Awsomepug965
 VERIFIED: True
 TAGS: 
 SET: Forest
@@ -59129,6 +59129,86 @@ KRAMPUS: You little brats!!! I’ll show you what happens when you mess with me!
 YT: Oh crap...I kinda forgot he was basically devil Santa...
 YT: We should probably run!!! (Exit Stage Left)
 LT: YOUTUBER!!! Wait up!!! (Exit Stage Left)
+
+======
+
+INFORMATION ===============================
+ID: 1957
+TITLE: Splatcast!
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: 
+SET: News
+DATE: 27/11/25
+CHARACTERS ================================
+QUIV: Quiver, an Idol:News Desk
+FLYE: Flye, an Idol:News Desk
+BIG: The Larger Idol:Fake Street Backdrop
+SUGGESTIONS =============================
+LOCAL:a fictional location:the Splatlands,Gensokyo,Downtown Inkopolis
+GROUP:the name of an idol group:Deep Cut,Off the Hook,No Spin
+VERB:any action:lip-synch,rage quit,die in a fire
+SIZE:a size:Big,Small,Moderately-Sized
+FINS:a body part:fins,arms,mouth
+FUN:any one word:Splat,Idol,Oktober
+GOKU:your favorite fictional character:Goku,Reimu Hakurei,Robin,Hatsune Miku
+VEGE:a fictional character you really like:Vegeta,Marisa Kirisame,Corrin,Kasane Teto
+PICC:a really cool fictional character:Piccolo,Sakuya Izayoi,Byleth,Akita Neru
+POW:a superpower:reality manipulation,time control,Star Platinum
+BOSS:an extremely strong boss enemy:Giygas,Calasmos,Beerus,Sol Heredit
+CATCH:a catch phrase to end a show on:Catch ya later!,Don't get cooked... stay Off the Hook!,Staaay Fresh!
+SCRIPT ==========================================
+badass music 1
+QUIV: Listen up! It's going down.
+QUIV: Repping LOCAL, we are GROUP!
+FLYE: Anarchy Splatcast! We're live!
+BIG: Ay! Here we go!
+QUIV: You VERB, we drip ink.
+BIG: Ay ay ay! Quiver, Flye, and SIZE Man!
+gameshow start
+BIG: Ay ay! Breaking news, you two!
+QUIV: Oh? What's got your FINS aflapping?
+FLYE: Quiver! You oughta know, it's that time of the month!
+QUIV: Wh- you got yours early? I thought we were synched up...
+FLYE: No! Why would I talk about that on live news?
+BIG: It's time for a FUNfest!
+QUIV: Ooh, I like a good FUNfest.
+FLYE: Yeah! Time to party! What's the theme, what's the theme?
+discord notification
+QUIV: I've got it! The theme is... huh. Well, that certainly is fascinating.
+FLYE: Ugh, hurry up and spill it! You're hogging the FUNfest vibes!
+BIG: Ay, ay, c'mon, c'mon!
+QUIV: Chill, I'm getting ready to announce it. Ahem...
+QUIV: Without further ado, this FUNfest theme will be none other than...
+FLYE: Drumroll! Budda-dudda-budda-dudda-BAM!
+Music Stops
+world news intro
+QUIV: Who would win in a no holds barred battle? GOKU vs VEGE vs PICC!
+FLYE: This is a big one! Get hyped!
+western showdown music
+QUIV: Let's think clearly about this. GOKU is the clear favorite to win here.
+QUIV: GOKU has the power of POW. The other two already don't stand a chance against that.
+FLYE: Yeah? Well VEGE beat BOSS one-on-one! That means they're the strongest!
+BIG: Ay? I think PICC is cool. They take down bad guys and aren't afraid of anything.
+QUIV: GOKU is gonna put the fear right back in PICC's soul.
+QUIV: And GOKU has defeated enemies far stronger than BOSS. Have you read any of the source material?
+FLYE: Read? I watch! And I've seen VEGE do stuff GOKU couldn't dream of doing!
+FLYE: PICC doesn't even have an official adaptation! How can you even scale them to VEGE?
+BIG: Ay? Ay! Wasn't the battle VEGE had with BOSS non-canon? You can't bring that up!
+BIG: Ay ay! And PICC has GOKU beat on the cool factor. PICC is gonna win!
+QUIV: Hold on! That's not up for us to decide!
+FLYE: Remind me, how are FUNfests decided?
+BIG: Ay, ay. We let children vote for their favorite team, then represent their choice in a war reenactment for three days straight.
+FLYE: Pick your team in the plaza and be ready to die for your opinion!
+badass music 1
+gameshow start
+QUIV: And that's it... for now.
+FLYE: Ooh, spicy!
+BIG: Ay! Let's get out of here!
+QUIV: From LOCAL, that's a wrap.
+QUIV: (strike a pose) CATCH
+Meanwhile FLYE: (strike a pose) CATCH
+gameshow bonus round
 
 ======
 
