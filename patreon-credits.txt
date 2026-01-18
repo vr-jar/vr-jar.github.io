@@ -2651,6 +2651,7 @@ Omega The First
 Abaddon Matriel
 bd_
 #TIER=3
+Wild_Vibarter≺3
 Alatreonslayer
 JinizelRyuga
 Kawboos~
