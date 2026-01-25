@@ -2632,6 +2632,7 @@ shifca
 Abaddon Matriel
 bd_
 #TIER=3
+Echo Memoria
 Alatreonslayer
 JinizelRyuga
 Kawboos~
