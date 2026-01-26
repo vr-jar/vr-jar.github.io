@@ -60735,3 +60735,152 @@ DOCTOR: Impossible! Your follow-up destiny awaits!
 
 ======
 
+INFORMATION ===============================
+ID: 1977
+TITLE: Angels Versus Aliens
+AUTHOR: Holliella
+VERIFIED: True
+TAGS: Skit
+SET: Forest
+DATE: 05/12/25
+CHARACTERS ================================
+ANGELLUX: Angel Leader:Center Stage
+ANGELASH: Curious Angel:Stage Left
+ALIENZOR: Alien Commander:Entrance Stage Right
+ALIENTEK: Alien Technician:Stage Right
+HIKERSAM: Lost Hiker:Entrance Stage Left
+SUGGESTIONS =============================
+MYSTERY:A secret or strange thing about the forest:a glowing footprint,a tree humming softly,shifting shadows,a symbol carved into bark
+MESSAGE:A short cosmic or magical message someone receives:Beware the roots,Do not disturb the moss,Look behind you,The sky is listening
+OBJECT:A strange object someone finds in the forest:a humming crystal,a warm stone,a floating pebble,a silver leaf
+POWER:A temporary power someone gains from the forest:short-range telepathy,gentle levitation,glow aura,future whispering
+CLUE:A clue about why the angels and aliens came here:a carved symbol,a pulsing light trail,a dropped alien tool,feathers arranged in a pattern
+ADVICE:Helpful guidance for surviving this weird forest meeting:Respect the trees,Follow the quiet path,Trust the wind,Walk softly on moss
+ENDING:How the story finally turns out:peace treaty,forest dance-off,chaotic portal opening,cosmic friendship pact
+SCRIPT ==========================================
+(peaceful fantasy music)
+ANGELLUX: This forest feels different tonight. There is a MYSTERY hiding between the trees.
+ANGELASH: I know. I heard a message in the wind. It whispered, MESSAGE, right into my halo.
+(forest footstep)
+ALIENZOR: (Step in from the right) Angels detected. Mission complication confirmed.
+ALIENTEK: Our scanners found a CLUE right here in this clearing, and also three very judgmental squirrels.
+HIKERSAM: (Walk in slowly) Okay, I was just trying to go on a peaceful hike. Why is the forest doing a crossover episode?
+ANGELLUX: Human, do not panic. We are here to protect this place. A new POWER is waking up.
+ANGELASH: Also, your shoelace is untied. I feel spiritually obligated to tell you.
+ALIENZOR: Correction: we are here to claim that POWER for the Interstellar Council.
+ALIENTEK: And to return that squirrel’s acorn. It keeps following me.
+(mystery music 1)
+ANGELLUX: The CLUE must be close. I can feel it, like a soft ringing in my wings.
+ANGELASH: (Look around) Maybe the CLUE is the MYSTERY itself. Or maybe it is just that one tree that looks like it is side-eyeing us.
+HIKERSAM: Wait, what exactly is the MYSTERY?
+ALIENTEK: According to my notes, the MYSTERY is MYSTERY, which is extremely unhelpful but very dramatic.
+ALIENZOR: Enough talking. Technician, find the OBJECT.
+ALIENTEK: (Search around) Scanning… scanning… oh! I found the OBJECT under this fern.
+ALIENTEK: It is OBJECT, and it is humming in at least three emotional keys.
+ANGELLUX: Do not drop the OBJECT.
+ANGELASH: Yes, last time someone dropped a glowing thing, a whole mountain learned how to gossip.
+HIKERSAM: Should anybody be touching OBJECT with bare hands?
+(magic sound)
+ANGELLUX: Too late. The POWER inside OBJECT has awakened.
+ANGELLUX: I can feel a new ability flowing through me. I think I just gained POWER.
+ANGELASH: Same here. I suddenly know exactly how tall every tree is, and they all have opinions.
+ALIENZOR: This is unacceptable. The angels are not supposed to get POWER first.
+ALIENTEK: Good news, commander. I think you just picked up POWER too. You are glowing around the edges.
+ALIENZOR: I refuse to admit that I like this.
+(laughter)
+HIKERSAM: Um, I think I got some POWER as well. I can hear the forest giving me ADVICE.
+HIKERSAM: It keeps saying, ADVICE, over and over again.
+ANGELASH: The forest has taste. That is pretty good advice.
+ANGELLUX: Maybe the CLUE is not about who owns the forest, but about how we stand in it together.
+ALIENZOR: Are you suggesting peace? That sounds suspicious.
+ALIENTEK: My readings say this idea is “emotionally risky, but statistically wholesome.”
+HIKERSAM: Look, I am just a person who took a wrong turn, but even I can tell the forest wants a different ENDING this time.
+(epic fantasy music 1)
+ANGELLUX: Then we let the ENDING be chosen.
+ANGELLUX: Friends, visitors, and mildly confused hiker, speak the ENDING and we will follow it.
+ALIENZOR: The choices are clear. We can sign a peace treaty, start a forest dance-off, open a chaotic portal, or make a cosmic friendship pact.
+ALIENTEK: Please avoid any ENDING that involves paperwork. I came here to scan moss, not file forms.
+ANGELASH: I secretly vote for forest dance-off, but I will accept democracy.
+HIKERSAM: I vote for whatever ENDING does not ruin my chances of finishing this hike.
+ANGELLUX: Very well. The audience will decide the ENDING.
+ANGELLUX: Until then, we will stand here together, share our POWERS, and try very hard not to drop OBJECT again.
+(crowd woo)
+ALIENZOR: For the record, if the ENDING is “cosmic friendship pact,” I was against it at first, but I am willing to reconsider.
+ALIENTEK: I already updated the mission log to say we made new forest friends. It felt correct.
+HIKERSAM: This is the strangest, nicest hike I have ever been on.
+(epic fantasy music 2)
+ANGELLUX: Whatever ENDING you choose, remember this: the forest heard you, the stars saw you, and we all changed a little together.
+(peaceful fantasy music)
+
+======
+
+INFORMATION ===============================
+ID: 1983
+TITLE: Free Samples
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 08/12/25
+CHARACTERS ================================
+BEN: Store Employee:Center Stage
+MAUREEN: Maureen:Behind Register
+SCUSTOMER1: Store Customer 1:Entrance Stage Right
+SUGGESTIONS =============================
+FOOD:Type of food:vegan jerky,kale hummus,ghost pepper cheese
+BODYPART:A body part:tongue,elbow,spleen
+PLACE:A place:Valhalla,my meemaw’s attic,a Nicolas Cage movie
+BRANDNAME:A brand name:Cheez-A-Lot,SnackMaster 3000,BiteRight
+FMEMBER:A family member:mother,brother,cousin
+CELEBRITY:Name of celebrity:Guy Fieri,Martha Stewart,Gordon Ramsay
+OBJECT:An object:rubber duck,fruitcake,parking ticket
+ANIMAL:An animal:ferret,zucchini,lobster
+COUNTRY:A country:Japan,Russia,Columbia
+STINKY:negative personal trait:stinky,bad at ping pong,good at league of legends
+SCRIPT ==========================================
+70s music
+BEN: Good afternoon, ma'am! Care to try our new FOOD?
+MAUREEN: (dreamy) Oh my BODYPART! (takes sample and eats) It tastes like PLACE!
+BEN: I'm not sure how that would possibly taste like PLACE, but I'm glad you enjoyed it. That is made by BRANDNAME.
+MAUREEN: This is actually quite transcedental. It was like I was tasting my FMEMBER's tears. I need more. Immediately.
+BEN: Glad you appreciate the sample, but's just one per customer. Sorry.
+waterphone
+MAUREEN: Sorry? I don't quite understand why you would be depriving me of such heavenly FOOD.
+MAUREEN:It was so delicious, I felt funny things in even funnier places.
+SCUSTOMER1: (enters stage right and approaches register) Can I have a free sample?
+BEN: Why, of course. 
+MAUREEN: (snarls) Back off, goblin! These samples are mine!
+BEN: Ma'am, they’re free to everyone.
+MAUREEN: No. I don't believe you understand. You see, I'm legally entitled to everything on your sample tray. 
+BEN: That's not how it works.
+MAUREEN: That's exactly how it works. If FOOD had reproductive organs, I would procreate with it.
+SCUSTOMER1: Awkward.
+MAUREEN: Hardly as awkward as the things I'd do to your BODYPART if you don't step away from my beloved FOOD right now.
+BEN: There's no need to get crazy over these free samples.
+SCUSTOMER1: I mean, they're not something I'd obsessed with, but I know my kid will love it.
+MAUREEN: Oh, so you're the one with the ugly child that looks like a melted wax version of CELEBRITY.
+SCUSTOMER1: How rude! (leaves stage right)
+MAUREEN: I swear, if they got any closer, I would've licked and claimed all of them.
+BEN: You know you can just buy the package of FOOD in the store, right?
+MAUREEN: You don't understand, but that's okay. I believe in you. I'll trade you one for half a OBJECT in my purse.
+BEN: Why would I even want that?
+MAUREEN: Because you work here, so you're probably super poor and STINKY.
+BEN: I can’t accept personal items as payment.
+MAUREEN: What about my loyalty card? I’ve bought at least seven ANIMALs from here.
+BEN: We don't sell ANIMALs.
+MAUREEN: That's not what my sources in the black market in COUNTRY have told me. They're well-informed.
+SCUSTOMER1: (enters stage right) I heard from an employee that these free samples of FOOD are the elixir of life.
+BEN: Oh my God.
+MAUREEN: (turns to customer) And I'm really happy for you, truly, but burn in Hell. 
+SCUSTOMER1: Noted. Also, I'll have you know my child is literally CELEBRITY. (exits stage right)
+MAUREEN: Fine. You know what, Sample Person? You drive a hard bargain.
+BEN: (frustrated) There is no bargain!
+MAUREEN: I'l make it worth your while. One lifetime of devotion and my soul.
+BEN:You said your soul?
+MAUREEN: Yes. All yours, big guy. Just give Big Mama Maureen another taste.
+BEN: Deal. Take the tray.
+MAUREEN: (eats) Sweet eternal damnation!
+BEN: You're right. The FOOD is rather delicious.
+
+======
+
