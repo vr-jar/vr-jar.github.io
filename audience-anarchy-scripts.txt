@@ -60054,3 +60054,684 @@ NECROMANCER: What!?
 
 ======
 
+INFORMATION ===============================
+ID: 1949
+TITLE: Where is Frank?
+AUTHOR: carsonb14_
+VERIFIED: True
+TAGS: Skit
+SET: Detective Noir
+DATE: 24/11/25
+CHARACTERS ================================
+FINDER: Detective Mordon:Detective Chair
+MARSON: Marson:Entrance Stage Right
+FRANK: Frank:Backstage
+CAT: Detective’s Cat:Detective Chair
+SUGGESTIONS =============================
+FOOD:Type of Food:Chicken,Nuggets,Cotton Candy,Apple
+REWARD:Bounty Reward:100 million dollars,1 dollar,-200 dollars,67 dollars
+DRINK:Type of Drink:Tea,Coffee,Juice,Milk,Water
+NAME FOR CAT:Cat Name:Mr Milk,Snookums,Mary,Bob
+CA FOO:Cat food name:Pures Cat Food,Meat your Maker Cat Food,Organic Cat Food,Chicken Cat Food
+WEAPON:Weapon:Knife,Gun,Mace,Laser Gun
+ANYTHING:Anything but it has to be a food.:Bread,Butter,Blueberries,Chocolate,JellyBeans
+SCRIPT ==========================================
+noir music 2
+FINDER: Man I still haven't heard from Frank's case. Where is he?!
+FINDER: I know Im being overreative NAME FOR CAT, it has only been 1 day...
+CAT: (Confused, asking for food) Meow, Meow Meow Meow?
+FINDER: Yes I'm going to feed you CA FOO, and Im going to eat something myself...
+FINDER: FOOD!
+Cat: (Disappointed) Meow.
+break down door
+Marson: (run to the desk) Boss! Boss! Boss!
+FINDER: What? What? What is it?
+MARSON: I Have News about Frank!
+FINDER: Finally! Your CA FOO is going to have to wait NAME FOR CAT! (run up to Marson)
+Cat: (Annoyed) Meow.
+MARSON: I found a trace of foot prints in the woods look! (Hand him the Picture)
+FINDER: First off all Marson, you took a picture of the sand. Second of all...
+MARSON: Look closely Sir.
+FINDER: (Look closely at the picture) Oh!
+MARSON: And also I have a Reward for REWARD!
+FINDER: I Think we Deserve some DRINK.
+MARSON: Oh yes, let me get some of that DRINK. (Starts chugging the DRINK)
+FINDER: Why are you drinking it so fast?
+MARSON: Sorry! I just really like DRINK!
+FINDER: Quick follow up question...
+FINDER: Do you have even have REWARD?
+Meanwhile MARSON: (Chugging more DRINK)
+record scratch
+MARSON: (Spit out DRINK) Uhhh....
+FINDER: You don't have REWARD don't you?
+MARSON: (Quietly) no......
+FINDER: Out of my office.
+MARSON: (Almost leave the room, but turn around) But I also have a WEAPON that I found...
+FINDER: Out!
+MARSON: Yup got it, leaving. (Leave the room)
+FINDER: Oh yeah! NAME FOR CAT! Your food!
+FINDER: (Give cat food) Here you go!
+CAT: (Happily eat the cat food) Meow!
+FRANK: (enter out of breath) Detective... (panting)
+FINDER: FRANK?
+FRANK: Hey there.
+FRANK: It's done. 
+CAT: (Scared} Meow...?
+FINDER: Um...
+FRANK: It's done.
+Marson: (walk in) Hey boss. I just wanted to... (notice awkwardnesS) Never mind (leave)
+FRANK: Anyway.. raaaah! (Attack the detective}
+FINDER: (Being attacked and hurting) AH!!!!! Why are you doing this?!
+Meanwhile FRANK: (Punching detective repeatedly) Ungh, Ungh, Ughn, take some of this.
+FRANK: (Stop attacking) Cuz I heard this was the best place to get ANYTHING.
+FINDER: First of all, where did you get this information from?
+FRANK: ANYTHING Land.
+FINDER: Sigh.
+FINDER: I only have DRINK.
+fire alarm
+FINDER: Frank. What was that?
+FRANK: I may have caused a few things with my WEAPON.
+FINDER: You have a WEAPON?!
+MARSON: Ahhhh! Fire!!!
+FINDER: Crap.
+FRANK: Anyway back to the topic.
+FRANK: Where. Is. The. ANYTHING?
+CAT:(Speaking english) I know where it is.
+record scratch
+Cat: It's in ANYTHING land.
+Frank: Alright thanks. (Leave)
+Finder: How did you do that?
+Cat: I simply just saw him as a dumb idiot with no respect at all.
+Finder: Umm. Thanks?
+Cat: Meow!
+
+======
+
+INFORMATION ===============================
+ID: 1958
+TITLE: Who Killed Roger?
+AUTHOR: planetanythingyt
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 27/11/25
+CHARACTERS ================================
+ROGER: Roger-(Nephew):Stage Right
+CHARLES: Charles- (Guest #1):Stage Left
+REX: Rex- (Guest #2):Backstage
+LUCY: Lucy- (Guest #3):Stage Left
+MICHAEL: Michael (Butler):Entrance Stage Right
+MARCO: Marco- (Inviter):Center Stage
+SUGGESTIONS =============================
+MURDER WEAPON:A Weapon To Kill Someone:Knife,Gun,Axe
+LATE:A Reason To Be Late:Traffic,Family,Being Lazy
+CLUE #1:A Clue To A Murder:Feather,DNA Test,Letter
+CLUE #2:A Clue To A Murder:Feather,Sticker,Phone
+CLUE #3:A Clue To A Murder:Fire Exstingusher,Clock,Map
+REASON:A Reason To Kill Someone:They Took My Wife,They Ate My Sandwich,They Are Mean
+PUNISHMENT:A Place Someone Goes To Be Punished:Hell,Prison,Timeout Corner
+NUMBER:A Number:7,8,9
+DRINK:A Drink:Water,Beer,Cola
+LAST NAME:A Last Name For Someone:Lincoln,Trump,Obama
+PLACE:A Place:Restaurant,Court,Police Station
+SCRIPT ==========================================
+jazz music 1
+Marco: Hello everyone, and thank you for coming to my party.
+Charles: Thank You Mr LAST NAME, it was a pleasure coming here.
+Lucy: Are we gonna get this party started?
+Lucy: I'm bored.
+Marco: Well..... You have to wait.
+Marco: Those are the orders from Marco LAST NAME.
+Roger: Is someone late or something?
+Marco: Absolutely. They should be arriving soon.
+heavy door knocking
+Michael: Sir, Rex is here.
+Marco: How splendid!
+door creak
+Rex: Hey guys! Sorry, I LATE.
+Marco: Ok.
+Charles: Well, Surely now we can start now right?
+Lucy: Hey guys what does this do?
+Marco: What, that button? Nothing. Now, don't press it.
+Lucy: Ok. (Presses It)
+gameshow ring
+music stops
+Teleport CHARLES To BACKSTAGE
+Teleport REX To BACKSTAGE
+Teleport LUCY TO BACKSTAGE
+Teleport MARCO To BACKSTAGE
+Teleport MICHAEL To BACKSTAGE
+Roger: Hello? Where did everyone go? 
+Roger: Is this some sort of trick?
+Roger: I Swear this has happened to me NUMBER times. 
+Roger: Huh? (Dies)
+church bell
+Marco: What was that noise?
+Marco: Oh my God!
+church bell
+Teleport CHARLES To STAGE LEFT
+Teleport LUCY To STAGE LEFT
+Teleport REX To STAGE RIGHT
+Teleport MICHAEL To STAGE RIGHT
+sad chug jug music
+Marco: Who did this? Who had the audacity to kill my nephew?
+Rex: That guy was your nephew?
+Michael: Sir. We don't know who could have done this.
+Michael: The power went out.
+Lucy: Um...
+Charles: What is it, Lucy?
+Lucy: I think i found the murder weapon.
+Marco: What? A MURDER WEAPON? Who brought a MURDER WEAPON to my house?
+Lucy: Well, Whoever it was, they must have used it to murder Roger?
+Michael: Good job, Ms Lucy.
+Charles: Well, There if there is anything i know about crime dramas...
+Charles: Everyone Is A Suspect.
+Rex: What.
+Rex: is this kid serious?
+Marco: let him do what he wants.
+Rex: Fine. but what clues are there to find out who killed Roger with a MURDER WEAPON?
+Charles: Anything in Roger’s last whereabouts are a clue.
+noir music 2
+Charles: I started by checking where roger had died.
+Charles: It was the best place to check for clues.
+Charles: Speak of the devil.
+Charles: A clue! It was CLUE #1, this must be important.
+Rex: Ok seriously, this whole thing is stupid.
+Lucy: Rex shut up. I wanna see where this goes.
+Teleport CHARLES To CENTER STAGE
+Charles: I began looking for more clues. Seeing if anything links with Roger, the murder weapon, and the clue #1.
+Charles: What A Lovely Suprise. Two Clues!
+Charles: CLUE #2, maybe something roger liked. and CLUE #3, an item that was attached to the MURDER WEAPON.
+Rex: I'm going to go get a DRINK.
+music stops
+Charles: Wait. Rex!
+Rex: what do you want, twerp?
+Charles: Where were you at the scene of the crime?
+tense cinematic music
+Rex: Here.
+Charles: Did you happen to know roger before he died?
+Rex: No! The only person i knew before this was Sir LAST NAME!
+Charles: Maybe you were planning this murder. You faked being late! LATE was an excuse!
+Rex: Don't be stupid, why would i do that?
+Charles: You look like the chap who would do that. But no matter. I will get someone else. Mr LAST NAME!
+Marco: What do you want? Can't you see I’m busy grieving?
+Michael: it is true. his room is covered in tissues.
+Charles: Where were you two at the scene of the crime?
+Marco: In here.
+Michael: I was also supposedly in here. When The MURDER WEAPON was used on poor innocent roger.
+Charles: Hmm... Are you sure? Maybe you sneaked out to grab the MURDER WEAPON and sabotaged the lights. One of you.
+Marco: Look, if I knew a murder was happening, why would I invite all of you here?
+Charles: Hmm... You make a good point. What about the butler?
+Marco: Who, Michael? He would never hurt a fly!
+Charles: Are you sure, though?
+Michael: Sir LAST NAME is telling the truth.
+Charles: Ok.... Lucy, where were you?
+Lucy: Next to you.
+Charles: .... Oh yeah.
+Charles: Alright then. Give me a second to look over the clues. (Walks Away)
+music stops
+Teleport CHARLES To BACKSTAGE
+Rex: This is all stupid.
+Marco: Make sense you'd say that. You're probably the murderer!
+Rex: Do I look like the kind of guy to murder someone?
+Marco: Yes.
+Lucy: Yes
+Michael: Yes.
+Rex: Well I haven't touched something like the MURDER WEAPON!
+Marco: Oh Yeah really. You are definitely not telling the truth.
+Teleport CHARLES To CENTER STAGE
+Charles: Ok everyone, I have gathered my evidence.
+Marco: We already know it was Rex so you don't have to-
+Charles: Sir LAST NAME I'm gonna have to respectfully ask you to shut your lips. The clues don't point to Rex at all.
+waterphone
+Charles: CLUE #1 was... entirely pointless but!
+Charles: CLUE #2 Has a very key detail. Somewhere Roger Liked Going To. A  PLACE.
+Lucy: And so?
+Charles: CLUE #3 was attached to the MURDER WEAPON and has the initials M.B.
+Marco: M.B?
+Charles: Yes. And only two people in this room have their name start with M.
+Marco: Are you implying I killed my own nephew?
+Charles: No of course not. Your butler did.
+gameshow timer music
+waterphone
+Michael: What?
+Charles: Using CLUE #2, it points out the PLACE Roger liked going to is related to butlers... and who is a butler in this room?
+music stops
+Rex: Wow. That doesn't make any sense.
+japanese music 2
+Michael: Yes, yes, it was me. I killed Roger. But only because he REASON.
+Marco: Wut. You Killed Roger?
+Michael: Yes. But again Roger REASON. You have gotta believe me.
+Marco: Why should I? You killed my nephew. You should go to PUNISHMENT.
+Michael: What! No! (Runs Away)
+Lucy: So that just happened.
+Rex: That still made no sense.
+Charles: Yeah. It does. But hey, we caught the killer right?
+Rex: He ran away.
+Charles: Oh yeah, we should probably go catch him and get people to send him to PUNISHMENT. (Runs Away)
+Teleport CHARLES To BACKSTAGE
+Teleport REX To BACKSTAGE
+Teleport LUCY To BACKSTAGE
+music stops
+Marco: Hmm... Are they gone? Okay, you can stop faking it now.
+Roger: Why did you have me fake a murder?
+Marco: Well Michael was such a charmer that I couldn't just fire him. I had to get him out of the house.
+Roger: But he was really helpful.
+Marco: He is also a nosy rotten apple. Hopefully, the PUNISHMENT will be a good place for him. Good thing I gave him a fake MURDER WEAPON.
+Roger: It still hurts.
+Marco: I know Roger. I know.
+accordion sting
+
+======
+
+INFORMATION ===============================
+ID: 1969
+TITLE: Feminization Day: Female Apocalypse
+AUTHOR: Holliella
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 04/12/25
+CHARACTERS ================================
+COMMANDER: Commander Rayna:Boss Chair
+SCOUT: Scout Lila:Office Chair 1
+ENGINEER: Engineer Maren:Stage Left
+GUYONE: Office Guy One:Office Chair 3
+GUYTWO: Office Guy Two:Office Chair 2
+GUYTHREE: Intern Guy:Stage Right
+SUGGESTIONS =============================
+LASER COLOR:A dramatic, flashy laser color:ultraviolet pink,neon emerald,cosmic tangerine
+OBJECT:A random object the laser guns were disguised as:hairbrush,lamp,salad fork
+LOCATION:A heroic-sounding location:Dawn Citadel,Sparkle Base,Fortress Horizon
+CATCHPHRASE:A triumphant declaration:“For glory!”,“Convert everything!”,“Victory tastes sweet!”
+PANIC WORD:A dramatic word someone yells when panicking:Yikes,Heavens,Whatnow,Huhhhhh
+PROP:A funny prop item:stapler,fake plant,paperweight
+FEMALE NAME:A random female name for dramatic effect:Vanessa,Gloria,Maribel
+TECH WORD:A sci-fi sounding term:hyper-core,nano-pulse,flux stabilizer
+SECRET PLAN:A mysterious-sounding operation:Operation Velvet Rise,Project Blossoming Sky,Mission Pearlstorm
+SLOGAN:A slogan for the new female-run world:Harmony is power,We rise together,Forward in unity
+FOOD:food item:lasagna,gummy bears,cosmic yogurt
+GAGITEM:A random silly item:rubber duck,wiggly straw,fuzzy slipper
+SCRIPT ==========================================
+(noir music 1)
+COMMANDER: Attention, citizens of this conference room! Feminization Day has officially begun.
+SCOUT: (Holding modified OBJECT) This magnificent device is disguised as an OBJECT so nobody realizes it’s a feminization ray.
+ENGINEER: LASER COLOR beam is stable. TECH WORD containment field is holding.
+GUYONE: PANIC WORD!! What is happening?!
+GUYTWO: The feminists are taking over!!!
+GUYTHREE: I’m holding this PROP and yes, I’m saying PROP because I am extremely stressed!
+COMMANDER: Good. Admission of fear accelerates transformation.
+SCOUT: Breathe deeply while clutching your PROP. It helps.
+ENGINEER: Commander, global readings from LOCATION show near-total destabilization of the old world.
+COMMANDER: Excellent. SECRET PLAN continues.
+(noir music 2)
+GUYONE: Are you really the women everyone’s been talking about?!
+GUYTWO: The ones with the lasers and the takeover?!
+GUYTHREE: The ones who turned my cousin into someone named FEMALE NAME?
+COMMANDER: Correct.
+SCOUT: We are here to restore harmony, intuition, confidence, and excellent communication skills.
+ENGINEER: And to hand out snacks. Transformation requires calories.
+GUYONE: (Panicked, shouting to the audience) I don’t wanna be a woman!!
+COMMANDER: They always say that. Then they discover elevated moods, organized emotions, and amazing hair days.
+ENGINEER: Target One aligned.
+COMMANDER: Convert.
+(raygun shot)
+GUYONE: (Freezes, then melts into awe) ...Okay wait. My voice sounds soft. My hair feels perfect. My skin looks smooth. Why do I look so good all of a sudden?!
+SCOUT: Because you do. Accept your glow.
+GUYONE: Why am I kind of... beautiful? This feels illegal!
+GUYTWO: Stay back!! I will defend myself with this GAGITEM.
+ENGINEER: Analysis complete: that will not help.
+COMMANDER: Convert Target Two.
+(raygun shot)
+GUYTWO: (Pauses) Whoa... my posture is elegant. My features are cute. My voice sounds like a dreamy radio host. And why am I suddenly craving FOOD?!
+SCOUT: Cravings are normal. Embrace your appetite and your beauty.
+GUYTWO: Also... why is GUYONE so attractive now—
+GUYONE: I was just thinking the same thing—
+ENGINEER: Strong attraction is typical. Continue.
+GUYTHREE: (Attempting escape) PANIC WORD!! You’ll never catch me! I am powered by raw wiggle energy!
+COMMANDER: Engineer, track him.
+ENGINEER: Locking with TECH WORD precision.
+(raygun shot)
+GUYTHREE: (Rising slowly) I feel... confident? Glowy? My eyelashes look incredible. Is this what joy feels like?
+SCOUT: Yes. And your transformation is complete.
+(noir music 1)
+ENGINEER: Beginning identity synchronization. Assigning inner FEMALE NAME signatures.
+GUYONE: My inner FEMALE NAME is... FEMALE NAME?
+GUYTWO: Mine is also FEMALE NAME and I love how it feels??
+GUYTHREE: This is genuinely the best name I’ve ever had.
+SCOUT: Commander, conversion forces across LOCATION are chanting our slogan, "SLOGAN".
+ENGINEER: The world is shifting.
+COMMANDER: Beautiful. Feminization Day blossoms.
+(noir music 2)
+GUYONE: So... what happens now?
+SCOUT: You join us.
+GUYTWO: In the Female Apocalypse squad?
+COMMANDER: Correct. You are sisters now.
+GUYTHREE: Do we get our own OBJECT-lasers?
+ENGINEER: Yes. After sparkle safety and emotional literacy orientation.
+GUYONE: I feel powerful. And pretty.
+GUYTWO: I feel gorgeous. And confident.
+GUYTHREE: I feel like GUYONE looks extremely cute~
+GUYONE: We can discuss that later~
+COMMANDER: Focus, ladies. Save flirting for after global reconstruction.
+SCOUT: Rally cry ready!
+ENGINEER: Ready!
+GUYONE: Ready!
+GUYTWO: Beautifully ready!
+GUYTHREE: Soft and ready!
+COMMANDER: CATCHPHRASE!
+SCOUT: CATCHPHRASE!
+ENGINEER: CATCHPHRASE!
+GUYONE: CATCHPHRASE!
+GUYTWO: CATCHPHRASE!
+GUYTHREE: CATCHPHRASE!
+(superhero fanfare)
+COMMANDER: This room is secured. The world awaits us.
+SCOUT: Pew pew!! Pew pew pew!!
+ENGINEER: Conversion units fully charged.
+GUYONE: Should we go help convert the rest of the world?
+COMMANDER: Yes. Rise with us.
+GUYTWO: Rising gorgeously.
+GUYTHREE: Rising attractively.
+(superhero music)
+
+======
+
+INFORMATION ===============================
+ID: 1972
+TITLE: Quest 2 Adventure
+AUTHOR: Rotem_N
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 04/12/25
+CHARACTERS ================================
+KID: kid:Kitchen
+SISTER: sister:Entrance Stage Right
+SUGGESTIONS =============================
+FOOD:Some kind of food:nuggets,fries,pasta
+AMAZING:Describe something good:Amazing,Wonderful,spectacular
+GAME:A quest game (not vrchat):beat saber,job simulator,recroom
+SOMETHING:Something to grab from the kitchen:Snack,fork,drink
+NUMBER:A number:67,2,8
+DESCRIBE:Describe vrchat in one word:normal,great,weird
+WORLD:A vrchat world/game:the black cat,among us,optimized box
+ANNOYING:negative personality/speaking trait:sad,annoying,high
+WEAPON:Something that shouldn't be in a kid's video game:villains,drugs,weapons
+ROBOT:Something clunky or stupid:robot,washing machine,raccoon with rabies
+AVATAR DESCRIPTION:Describe the avatar of someone in the audience:an eboy with tattoos,a red and white furry,tupper but weird
+SCRIPT ==========================================
+happy music 1
+KID: Ok,my FOOD is somehow ready.
+KID: Imma go eat it now (go to table)
+KID: I wonder when my mom is gonna come home.
+TYPEWRITER: An hour later...
+doorbell
+KID: That must be her (go to open door).
+tada
+KID: (disappointed) Oh thats you.
+SISTER: Yeah thats me your ANNOYING sister. (go to couch)
+gameshow ding
+SISTER: Anyways mom wanted me to give you this thing...
+SISTER: This thing right here. Take it. (Give him a package in an ANNOYING way)
+KID: Wait... is that the...
+western piano music 1
+KID: (Super excited) Quest two vr headset?! Omg yayy! (scream of happiness)
+SISTER: (ANNOYING) Yeah yeah its a quest 2, relax.
+KID: How can I relax with the fact that I have the AMAZING quest 2? (Put the quest on your head)
+SISTER: Ok have fun with that helmet, I'm grabbing SOMETHING from the kitchen. (Go to kithcen)
+KID: Ok! I'm gonna play GAME!
+epic fantasy music 2
+KID: Yo thats so cool! (Swing your hands all over the place)
+KID: The WEAPONs in this GAME game look totally real!
+SISTER: (go near the kid) Umm you good? are you having a seizure?
+fistfight
+KID:(cant hear)  What?! (accidentally hit her)
+MEANWHILE SISTER: (Gets smacked by accident) Hey! Cant you see I'm here?
+MUSIC STOPS
+KID: Nuh uh, I have my super duper truper cool headset on.
+SISTER: I still dont get your hype for this thing.
+SISTER: Thats literly a giant box on your head.
+SISTER: You look like a ROBOT.
+laughter
+KID: No it isnt!
+MUSIC STOPS
+KID: Here try it (put head on sister).
+SISTER: Oh wow, its like a diffrent world.
+KID: I know right?
+SISTER: (Amazed) Is that a WEAPON?
+TYPEWRITER: NUMBER hours later...
+KID: (sit on the couch) You have been playing GAME for NUMBER hours, arent you finished yet?
+guitar music 1
+SISTER: I almost played all the games here.
+SISTER: Just one left, its called VrChat, you know that game?
+church bell
+KID: Yeah I played it on my computer, this game is DESCRIBE.
+MUSIC STOPS
+SISTER: Hm, i'm gonna play it.
+KID: Good luck.
+SISTER: There are so many cool worlds!
+SISTER: Im gonna join the WORLD world, it looks fire!
+happy music 1
+SISTER: Wow so cool! But why does everyones avatar look like a robot thing?
+KID: Its because you need to turn them on in the settings.
+KID: But be careful those avatars could be crashers.
+KID: Especially the ones that look like AVATAR DESCRIPTION.
+SISTER: Um... I turned them on already.
+explosion
+SISTER: (Fall and die) ahhh
+fire alarm
+SISTER: The quest 2 is on fire!
+KID: Nooo! It's ruined! God you're so ANNOYING!
+
+======
+
+INFORMATION ===============================
+ID: 1975
+TITLE: Noonishly Truel
+AUTHOR: Awsomepug965
+VERIFIED: True
+TAGS: Skit
+SET: Western
+DATE: 05/12/25
+CHARACTERS ================================
+SHERIFF: The Sheriff:Entrance Stage Right
+BANDIT: The Bandit:Entrance Stage Left
+HUNTER: Bounty Hunter:Entrance Stage Right
+SUGGESTIONS =============================
+MONEY:Currency or Something valuable:Money,Cash,Gem
+TURKEY:Noun:Hippo,Millionaire,Racecar
+IRON:Weapon or Weapon nickname:Gun,Sword,Peashooter
+TOWN:Town or City name:San Diego,Castle Town,New York
+DEVIL:Someone you wouldn't want to see:Devil,Witch,Killer
+SHOOT:Harmful Action:Shoot,Punch,Kick,Stab
+GUTS:Plural Body Part:Leg,arm,hand
+PLACE:PLACE:Store,bank,pool
+BOUNTY:Prize:Bounty,present,prize
+PARDNER:Nickname for friend:Pardner,mate,lad
+NAME:A full legal name:Darrel HP. Victus,John T. Johnson,Sarah Ola Clark
+SCRIPT ==========================================
+explosion
+western showdown music
+BANDIT:(Enter Stage Carrying bag over your shoulder)Hahahaha!
+BANDIT: Stealing MONEY!
+BANDIT: Now that is how I make my day!
+BANDIT: And as long as Sheriff doesn't come to stop my business...
+BANDIT: I'll be rich as a TURKEY
+BANDIT: Or... How does the saying go?
+western piano music 2
+SHERIFF: (walk onto stage) Good 5 minutes before noon TOWN
+BANDIT: (look at sheriff) uhhh... and speak of the DEVIL
+SHERIFF: (Yawn) I wonder what that noise was must've been- (stop and look at the bandit)
+western showdown music
+SHERIFF: Draw!(Draw IRON and point it at the Bandit)
+Meanwhile BANDIT: Draw!(Draw IRON and point it at Sheriff)
+SHERIFF: Trunt T. Rucker
+SHERIFF: I thought I smelled someone trying to be rich as a TURKEY
+BANDIT: (under breath) so I was right
+SHERIFF: What was that?
+SHERIFF: Doesn't matter, Drop you weapon before you get yourself hurt
+BANDIT: Not if I hurt you first OLD man!
+SHERIFF: OLD!?!?! I should just SHOOT you now!
+BANDIT: SHOOT me!? You ain't got the GUTS Sheriff!
+BANDIT: The reason I robbed that PLACE was because you couldn't SHOOT me last time!
+SHERIFF: Yeah, but that was becuase you said you wouldn't rob PLACEs for MONEY
+Music Stops
+BANDIT: Yeah, uhh.... I lied about that
+SHERIFF: You what!?!?
+BANDIT: You think a guy who wants to get as rich as a TURKEY wants to stop robbing PLACEs for MONEY!?!?!?
+SHERIFF: No...
+SHERIFF: I'm actaully gonna SHOOT you
+BANDIT: I'm promise not to rob anymore PLACE for MONEY
+SHERIFF: (put down IRON) Really!?!?!
+SHERIFF: Wait
+BANDIT: Thought I had you that time
+BANDIT: Welp, farewell Sheriff
+SHERIFF: huh?
+western showdown music
+HUNTER:( walk onstage behind other two holding up two IRON ) Fraid' I can't let you do that PARDNER
+BANDIT: Who said that?
+Meanwhile SHERIFF:Who said that?
+HUNTER: (Point IRON s at both of them) Me
+SHERIFF: Who are you? And where did you get those banging IRONS?
+BANDIT: What did you just say-
+HUNTER: My name's not of importance, all you need to know is that I'm in this for the MONEY
+BANDIT: Hey me too
+Music Stops
+BANDIT: Can we be MONEY buddies?
+SHERIFF: What did you just say-
+HUNTER: No
+HUNTER: Been trailing you two for a bit now
+HUNTER: You two have some mighty fine BOUNTYs
+SHERIFF: BOUNTYs on us!?!? (look at Bandit) I mean him I get, but a BOUNTY on me!?!?
+SHERIFF: Are you sure you got the right guy
+HUNTER: Posters ain't liars PARDNER
+SHERIFF: Y'know why at least? 
+HUNTER: Something bout' "doing a terrible job at upholding the law"
+SHERIFF: Oh..
+HUNTER: Letting criminials like him get away
+SHERIFF: Oh..
+HUNTER: Using the TOWN funds to buy IRONs
+SHERIFF: But they were cool!
+Meanwhile BANDIT: WOW (burst out laughing)
+BANDIT: Some Sheriff!
+SHERIFF: He's here to SHOOT both of us so I'd shut up
+HUNTER: Maybe, but I ain't gonna just mindlessly SHOOT ya PARDNER
+HUNTER: I'll give ya a fighting chance
+HUNTER: Look up there (point to clocktower)
+BANDIT: Minute and a half before noon
+SHERIFF: High Noon
+HUNTER: Holster yer IRONs
+BANDIT: (Sigh) Alright (Holster IRON begrudgingly)
+SHERIFF: Heh alright, no IRONs(Holster IRON)
+HUNTER: My turn(Holster IRONs)
+BANDIT: Well, here goes nothing
+SHERIFF: Been wanting to do this for a long time PARDNER
+SHERIFF: Finally! I used PARDNER right!
+HUNTER: Shall we? 
+western hero theme
+HUNTER: Draw! (Draw IRONS)
+snipping
+HUNTER: Damn, my IRON's empty.
+SHERIFF: Draw!(Shoot Hunter)
+gunshot
+BANDIT:Huh
+BANDIT:Oh uh
+BANDIT: Draw!(Shoot Hunter)
+gunshot
+Music Stops
+HUNTER: (get shot) Wha-? How!? (fall on knee)
+BANDIT: You really thought that MONEY was for me only?
+SHERIFF: We're working with each other, for the MONEY
+BANDIT: We've known you've been following us for some time, so once we learned you were in TOWN-
+SHERIFF: We started a scene
+HUNTER: wha... (cough)
+SHERIFF: And plus...
+SHERIFF: Those posters don't lie, PARDNER
+BANDIT: Or should we say
+SHERIFF: NAME
+Meanwhile BANDIT: NAME
+HUNTER: You... got me... you actual got me
+BANDIT: And now we're gonna be as rich as a TURKEY
+HUNTER: That's not even... how the saying goes..(die)
+
+======
+
+INFORMATION ===============================
+ID: 1976
+TITLE: The Chaotic Checkup
+AUTHOR: Holliella
+VERIFIED: True
+TAGS: Skit
+SET: Doctor's Office
+DATE: 05/12/25
+CHARACTERS ================================
+DOCTOR: Dr. Bonkus:Desk
+PATIENT: Nervous Patient:Examination Table
+ASSISTANT: Confused Assistant:Stage Right
+SUGGESTIONS =============================
+WEIRD CONDITION:A completely unknown, silly medical condition:flibberitis,cosmic wiggle syndrome,reverse déjà vu
+OBJECT:A random object found in a doctor’s office:rubber chicken,stapler,broken thermometer
+SOUND:A strange sound the patient claims to hear:boing,metallic meow,faint disco beat
+SYMPTOM:A bizarre but non-gross symptom:spontaneous twirling,random sparkles,dramatic gasps
+CHART NOTE:a weird note written on your medical records:Possible wizard,Pending alien approval,Do not microwave
+ADVICE:A ridiculous but harmless medical recommendation:“Eat more glitter”,“Walk in zigzags”,“Compliment your houseplants”
+CRAYONS:things/stuff/junk items:crayons,dog food,pizza rolls
+KNEE:body part you can see:knee,toe,eyeball
+DRAMATIC:A type of aura someone can have:dramatic,flamboyant,dank
+I AM CURED:An entire sentence you might say when you feel good:I am cured,everything is rainbows,I'm hungry
+RABIES:a serious disease or condition:rabies,missing face,drank too much bleach,super covid
+SCRIPT ==========================================
+(jazz music 2)
+DOCTOR: Welcome, PATIENT! Please relax while I locate your… uh… whatever.
+PATIENT: My… whatever?
+ASSISTANT: Doctor, the patient has been waiting a long time.
+DOCTOR: Excellent. Waiting warms up the diagnosis.
+PATIENT: I’m here because I’ve been experiencing SYMPTOM.
+DOCTOR: SYMPTOM? Oh yes, the classical precursor to WEIRD CONDITION.
+PATIENT: That sounds terrifying.
+ASSISTANT: Doctor, maybe you should check their chart?
+DOCTOR: Great idea! I will now perform the ancient ritual of drawer rummaging.
+DOCTOR: (Rummage through the desk) Let’s see… sticky notes… coupons… CRAYONS...
+DOCTOR: Aha! Here it is. According to this chart, it says, "CHART NOTE"
+PATIENT: That’s not medical!
+ASSISTANT: It’s literally scribbled in glitter pen.
+PATIENT: Also, I keep hearing SOUND everywhere I go.
+DOCTOR: Ah yes. SOUND. The auditory sign of destiny.
+ASSISTANT: Doctor, the patient is asking for an actual diagnosis.
+DOCTOR: Then bring me the OBJECT. It will guide us.
+ASSISTANT: This OBJECT?
+DOCTOR: Yes! Hand me the OBJECT. Its shape is crucial. (The assistant hands it to you)
+Meanwhile ASSISTANT: (Hand over the OBJECT)
+DOCTOR: (Tap OBJECT on PATIENT’s shoulder) Your energy feels… approximate.
+PATIENT: What does “approximate” mean?!
+DOCTOR: It means you’re somewhere between “fine” and “possibly glowing.”
+ASSISTANT: Doctor, that is not scientific.
+DOCTOR: Not with that attitude.
+PATIENT: Can you please just help me?!!
+DOCTOR: Of course. I shall now perform the triple-check.
+DOCTOR: Elbow check. (Tap their elbow) Good.
+DOCTOR: KNEE check. (Tap their KNEE) Excellent.
+DOCTOR: (Wave hand vaguely in the air around them) And the aura… DRAMATIC.
+ASSISTANT: So what’s the treatment?
+DOCTOR: Only one cure exists: ADVICE.
+PATIENT: This is your big recommendation? ADVICE??
+DOCTOR: Yes. Perform ADVICE twice daily and once during dramatic sunsets.
+ASSISTANT: Should we schedule a follow-up?
+DOCTOR: Naturally. The patient must return after the sacred journey known as “going home.”
+PATIENT: Are you even a real doctor?
+DOCTOR: Absolutely. I have a certificate that says “doctor-ish.”
+ASSISTANT: We really should frame that.
+DOCTOR: Very well! PATIENT, repeat after me: “I AM CURED”
+PATIENT: … I guess I AM CURED.
+DOCTOR: Perfect! Another medical triumph!
+(silly music 1)
+ASSISTANT: (whispering to doctor) Shouldn't we tell them the real diagnosis, RABIES?
+DOCTOR: No. Mystery strengthens the immune system.
+DOCTOR: Besides, the DRAMATIC aura should be able to handle it.
+PATIENT: I don't want to go to this clinic anymore.
+DOCTOR: Impossible! Your follow-up destiny awaits!
+(superhero fanfare)
+
+======
+
