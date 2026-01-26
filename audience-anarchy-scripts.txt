@@ -59512,3 +59512,545 @@ Intern: (Look to audience) Oh EXCLAMATION. This is what I get for finding a job 
 
 ======
 
+INFORMATION ===============================
+ID: 1919
+TITLE: I Can't Act in the Wild West
+AUTHOR: Ryu-Kazuki
+VERIFIED: True
+TAGS: Skit
+SET: Western
+DATE: 10/11/25
+CHARACTERS ================================
+DIRECTOR: Director:Backstage
+SHERRIFF: Sheriff who's bad at acting:Entrance Stage Left
+DAMSEL: Damsel in Distress:Balcony
+OUTLAW: Outlaw:Center Stage
+SUGGESTIONS =============================
+DAMSEL NAME:Name or Audience Member:John,Jane,Sally
+CHEESY:an adjective:Cheesy,Stinky,Squeezy
+EXCLAMATION:Something to scream out:Dagnabit,Jumping Jacks,Aww shoot
+SHERRIFF NAME:Name or Audience Member:John,Bill,Saul
+CELEBRITY ACTOR:Any celebrity, actor, or character from something:scout from team fortress 2,sexy horse from zootopia 2,bayonetta from bayonetta
+SPEAK:An action:Act,Read,Speak
+REWARDING ACTION:A rewarding action for a good deed:Hug,Headpat,Marry
+CLUMSY ACTION:A mistake or terrible thing to do:Messing,Mucking,Tearing
+STINKY:an adjective:Stinky,Dumb,Terrible
+ENGLISH:A degree type or profession:Kindergarten,Acting,English
+BODY PART:A part of the body:Spleen,Heart,Foot
+PREVIOUS CRIME:any illegal thing you can do:stealing dolphins from the zoo,downloading naked dogs,subscribing to mister beast
+SCRIPT ==========================================
+western showdown music
+Outlaw: (Western Accent) Alright, DAMSEL NAME. You'd best get yourself ready, because you're coming with me! And I'm not taking no for an answer!
+Damsel: (Western or British accent) No, CHEESY Pete! You can't make me! I'll have the law called on you!
+Outlaw: (Western Accent) Fiesty as always. Well, I'm not afraid to come after you!
+music stops
+gunshot
+Sherriff: (Enter stage) Not so fast, CHEESY Pete!
+western hero theme
+Outlaw: EXCLAMATION! It's the sherriff...
+Damsel: Sherriff SHERRIFF NAME! You're here to save me!
+Sherriff: (No western accent) Enter stage left. (Walk on stage)
+Sherriff: Read the line. That's right little lady.
+Outlaw: Always when the fun starts. But that's okay, my CHEESY bullets are the fastest in the West.
+Sherriff: (Staring off into space) Face CHEESY Pete. Pull out gun and aim it at Pete. Your villainous antics end here.
+Director: (Run onto the stage) Alright, cut, cut, cut!
+record scratch
+groose music
+Director: What was that!? You're not supposed to read the action parts of the script!
+Sherriff:  Oh, I'm sorry. I'm just a really good reader and didn't want to skip any lines.
+Outlaw: (No western accent) Those aren't lines, stupid. It's what you're supposed to be doing.
+Damsel: (No western accent) You know, "acting"! It's supposed to feel real!
+Sherriff: So like... CELEBRITY ACTOR?
+Director: Exactly. Be like CELEBRITY ACTOR. They're a true professional.
+Sherriff: Oh, I'm sorry. I'll try to do better.
+Director: Alright, places people. We can't screw this up! Back to the scene before the Sherrif shows up.
+Meanwhile SHERRIFF: (Run to stage left)
+gunshot
+Sherriff: (Enter stage left) Not so fast, CHEESY Pete!
+western hero theme
+Outlaw: (Western Accent) EXCLAMATION! It's the sherriff...
+Damsel: (Western accent) Sherriff SHERRIFF NAME! You're here to save me!
+Sherriff: (Normal accent) That is right little lady. (Walk closer)
+Outlaw: Always when the fun starts. But that's okay, my CHEESY bullets are the fastest in the West.
+Sherriff: (Aim gun at Pete) Your villainous antics end here.
+Meanwhile Outlaw: (Aim gun at Sheriff)
+Damsel: My hero! I'll be sure to REWARDING ACTION later for saving me!
+Sherriff: Draw CHEESY Pete!
+Outlaw: With pleasure!
+Meanwhile Damsel: (Faint) My BODY PART flutters with anxiety!
+Sherriff: Cue gunshot. Bang!
+Sherriff: (Look at audience) Except imagine how CELEBRITY ACTOR would do it like.
+Damsel: (Normal accent, still fainted) Really? ...Are you serious?
+record scratch
+groose music
+Director: (Angrily run back on stage) Are you kidding me!? You don't read the sound effects either!
+Outlaw: (Normal accent) Yeah dude, you're CLUMSY ACTION this up.
+Damsel: (Normal accent, stand up) Honestly. This STINKY performance is wasting our time. I could have taken another job over this.
+Sherriff: S-Sorry everybody, I just thought I'd try to add some STINKY flair to the set the mood.
+Director: Listen guy. It's really simple. You just CLUMSY ACTION the words that sound like a person would REWARDING ACTION them. No more! Got it?
+Damsel: Yeah, this is something you learn in ENGLISH ENGLISH. It's not hard. Geez.
+Damsel:  And to think monkeys with typewriters can REWARDING ACTION literature.
+Director: One more time, people. Third time's the charm. Back to the draw stage. (Run backstage)
+western hero theme
+Damsel: (Western accent) My hero! I'll be sure to REWARDING ACTION later for saving me!
+Sherriff: (Normal accent) Draw CHEESY Pete!
+Outlaw: With pleasure!
+Meanwhile Damsel: (Faint) (Western Accent) My BODY PART flutters with anxiety!
+gunshot
+Outlaw: (Fall down screaming) Argh!
+Meanwhile SHERRIFF: (Blow smoke off gun and holster it)
+church bell
+Outlaw: (Yelling in normal accent) You CLUMSY ACTION me!
+Sherriff: Well, yeah, I'm supposed to.
+Outlaw: No, you CHEESY moron, you actually shot me with a real gun! Right in my BODY PART!
+record scratch
+sad chug jug music
+Outlaw: Ah, no.. everyting's going dark... (Die)
+Damsel: (Normal accent) Oh EXCLAMATION! He's for real. Forget this, I'm out! (Run off stage)
+Director: (Runs on stage) What did you do this time!? Why!?
+Sherriff:  Well.. I was told acting is supposed to be real like how CELEBRITY ACTOR does it.
+Director: That doesn't mean you use actual bullets! I'm not going to prison over this.
+Director: I got 2 strikes after PREVIOUS CRIME.
+Sherriff: (Start crying) W-Well I just wanted to do the best I could. I didn't want to CLUMSY ACTION everything up.
+Director: Okay, okay... Let me think. I'll skip town. We don't know each other. You can commmit that bit, right?
+Director: I'll make some calls, I'll get you another job. Just don't SPEAK a word about this!
+happy music 1
+Sherriff: (Western accent) Really boss? Well EXCLAMATION! That's mighty STINKY of you!
+Sherriff: (Western accent) I'll be the best accomplice this side of the West!
+Director: Why is this the point you start seriously acting!?
+
+======
+
+INFORMATION ===============================
+ID: 1925
+TITLE: Power Rangers vs Actual Crime
+AUTHOR: Drumindemon
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 13/11/25
+CHARACTERS ================================
+CAR THIEF: Car Thief:Stage Left
+ZORDON: Zordon:Narrator Podium
+RED: Red Ranger:Entrance Stage Right
+YELLOW: Yellow Ranger:Entrance Stage Right
+BLUE: Blue Ranger:Entrance Stage Right
+POLICE: Police:Backstage
+SUGGESTIONS =============================
+RED NAME:A Name for a Male Leader:Jack,Pete,Steve
+RANGER GROUP NAME:positive personality adjective:awesome,perky,friendly,passionate
+YELLOW NAME:A name for a young woman:Brenda,Sally,Mandy
+BLUE NAME:Name for a Nerdy Male:Sheldon,Larry,Nelson
+CAR DESCRIBE:a word to describe a expensive looking car:Shiny,nifty,sweet
+SNAP:another word for 'no' in the phrase 'oh no':crap,dingleberries,damn
+CITY NAME:a silly name for a city/town, can be real or made up:Blue Town,Carrot City,Majestic City
+FOOD:a popular food chain or restaurant:KFC,Burger King,Olive Garden
+SURNAME:a ridiculous last name:Lemmings,Dorothy,Poopypants
+COPS:Slang term for the police:five-oh,po po,the pigs,the fuzz,the coppers,the boys in blue
+SCRIPT ==========================================
+70s music
+CAR THIEF: (Walk up to parked car) Hmm? What a CAR DESCRIBE looking car, it would be a shame if someone were to take it....
+CAR THIEF:(start trying to break into the car)  Hahaha! come to papa 
+Music Stops
+gameshow buzzer  
+ZORDON: (panicked) Huh? What?!.... 
+music stops
+ZORDON: OO SNAP! Some common street thug is breaking into that CAR DESCRIBE looking car that's parked on the street, 
+ZORDON: Well I guess I'll just phone the.. (Suprised) wait a minute? 
+ZORDON:(read plate of car) HEY!! Thats my brand new CAR DESCRIBE car
+ZORDON:I just left it there in the last 10 minutes as I was updating Alpha's software here in headquarters.
+ZORDON: Forget the police, I'm sending my Mighty RANGER GROUP NAME Power Rangers to deal with that punk! no one tries to steal my car and get away with it
+ZORDON: Come in Mighty RANGER GROUP NAME Rangers!! There's a uh.. urgent! emergency happening
+MEANWHILE CAR THIEF: (Continue to try and break into the car)I don't think this car should be parked here come to think of it, oh well not my problem
+superhero music 
+RED: What is it, Zordon?
+ZORDON: Um uh?... Rita has sent a monstrous villain down town and is ... uh stealing people's cars and must be stopped
+YELLOW: (confused) Stealing People's cars?....What?!
+BLUE: Yeah?, why would Rita need people's cars stolen...
+ZORDON: There's no time to explain! just get down there and deal with this punk!, uh i mean villain
+RED: You got it Zordon, BLUE NAME, YELLOW NAME lets get down there!
+YELLOW: Ok!
+BLUE: Lead the way RED NAME
+TYPEWRITER: One Taxi Ride later
+Music Stops
+tire screech
+crashing debris
+CAR THIEF: (stop and look startled and confused) Huh? What was that?
+break down door
+superhero fanfare
+RED: (Burst through door Stage right and go center stage, then point at car thief) There they are!
+ BLUE: (Follow red ranger to center stage) Nice work team
+MEANWHILE YELLOW: (Follow Blue ranger to center stage) Aww yeah
+BLUE: Looks like we made it (look at watch briefly) roughly in time
+YELLOW: Well it beats waiting for the bus i suppose
+CAR THIEF: Huh what?! Who are you three?
+RED: (Striking action pose facing audience) Hi-yah! We are the Mighty RANGER GROUP NAME Rangers, protectors of  CITY NAME
+RED: (Striking action pose facing audience) I'm the leader! Mighty RANGER GROUP NAME Red Ranger
+BLUE: (Striking action pose facing audience) I'm the Mighty RANGER GROUP NAME Blue Ranger
+YELLOW: (Striking action pose facing audience) And i'm the Mighty RANGER GROUP NAME Yellow Ranger
+CAR THIEF: Wait?, RANGER GROUP NAME rangers? who the hell came up with that name
+ZORDON: (cough and mutters to self) You try coming up with a cooler sounding name on the spot then, jerk
+RED:  Never mind that! (turn and face car thief) We're here to... (Caught surprised)
+record scratch
+music stops
+RED: Hang on?.... What's going on?
+BLUE: What's the matter, RED NAME ?
+MEANWHILE YELLOW: (turn and face car thief) Something wrong?
+silly music 1
+YELLOW: Oh? yeah?, i thought we were dealing with a monster?
+MEANWHILE ZORDON: (Panicked) Oh crap
+RED: Same here YELLOW NAME,(look around shortly) I mean we are at the location Zordon sent us
+YELLOW: Yeah, something doesn't seem right
+BLUE: Hang on guys, i'll check in with Zordon to see what's up.
+BLUE: (Calls Zordon on radio) Come in Zordon...
+ZORDON: (slightly worried) Uh yes BLUE NAME what is it?
+BLUE: So, we are at the location you sent us and there is a car being broken into..
+ZORDON: Yes yes and?
+BLUE: And there's no monster here, just some guy.
+BLUE: Should we be dealing with this?
+YELLOW: Yeah, like shouldn't the Cops be handling this
+MEANWHILE RED: (Start approaching the car and look at license plate briefly) Hmm this car also looks familiar
+ZORDON:  No no no! this is something you 3 have to deal with. you see uh...
+ZORDON: That human looking guy is actually one of Rita's monsters in disguise and is stealing people's cars to uh? 
+ZORDON: To build a machine to wipe out CITY NAME and all who even inhabit it
+MEANWHILE CAR THIEF: Who are you talking to?
+music stops
+pokemon battle start
+RED: Hmm? seems legitimate enough, ok rangers lets beat this creep and head to FOOD afterwards to celebrate
+BLUE: Yeah!
+MEANWHILE YELLOW: You got it
+RED: All right guys!, get him!!
+CAR THIEF: Wait what?!
+RED: (proceed to rush theif and beat him up) As a team!!
+fistfight
+CAR THIEF: (fall to ground getting beat up) Arrrgh!
+BLUE: (Join in beating up the theif ) As a team of three, yeah!
+MEANWHILE YELLOW: (Join in beating up the theif ) Take this! And that!
+fistfight
+CAR THIEF: Argghh!! Stop!! (pull out phone)
+Meanwhile RED: (Beating up theif)
+CAR THIEF: Hello! CITY NAME police!! I'm being assaulted by a bunch of guys downtown, send someone please!!
+Meanwhile BLUE: (Beating up theif)
+record scratch
+music stops
+RED:  (Stop beating up) Oh crap! Wait! He's calling the COPS!!
+Meanwhile BLUE:  (Stop beating up) ... Oh SNAP !
+BLUE: (Stop beating up) Wait you mean?
+Meanwhile YELLOW:  (Stop beating up)  ... the COPS !
+YELLOW: (Stop beating up) Yep, this is actually just a common criminal, what do we do?
+BLUE: Yeah? We definitely used too much force for a common crook to handle.
+RED: Well uh?
+police car
+RED: Oh crap BLUE NAME YELLOW NAME lets get out of here!
+RED: (Rush exit stage right) This way!
+Meanwhile BLUE: (Follow red ranger and exit stage right) Come on YELLOW NAME 
+YELLOW: (Exit stage right) Aww… this means no FOOD…
+Meanwhile BLUE: (Exit stage)
+break down door
+POLICE: (Enter stage left) CITY NAME Police! responding to a group assault 
+CAR THIEF: (Laying injured on ground) Yes officer they went that way (point to stage right exit)
+POLICE: Ok sonny, you wait here for the medics (go towards stage right exit, but suddenly stop look at the car)
+POLICE: Hey! This car is illegally parked!
+POLICE: Let me just look up the license plate info… (Using a handheld computer) Hmm lets see… 
+POLICE: Hey wait, this vehicle belongs to a Mr Zordon SURNAME.
+ZORDON: OH NO! Not good. 
+
+======
+
+INFORMATION ===============================
+ID: 1926
+TITLE: The will reading
+AUTHOR: cierauchiha
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 13/11/25
+CHARACTERS ================================
+OLDER SON: James:Stage Left
+REAL DAUGHTER: Emma:Stage Right
+ADOPTED DAUGHTER: Kat:Entrance Stage Left
+LAWYER: Mr. Miller:Entrance Stage Right
+(DEAD) MOTHER: Margaret:Entrance Stage Right
+SUGGESTIONS =============================
+CAR COLLECTION:Something you collect.:Cars,Action figures,Toys,stuffed animals.
+ROAD BLOCKED:Something that may delay you:road blocked,Car crash,Late business meeting.,Family emergency
+BLACK HIGH HEELS:Something very expensive you can buy:High heels,designer handbags,makeup,a car
+LOBSTER:A dish?:Lobster,meatloaf,pizza,Turkey dinner
+ONE DOLLAR:Something no one wants.:Back taxes,A self-help book,An empty jewelry box,A broken watch.
+DIAMONDS:A piece of Jewelry:Diamonds,Rings,Diamond necklaces,Diamond earrings,Gold earrings
+POOKUMS:overly sweet nickname:pookums,pumpkin,sugar lumps
+METHOD OF FAKING DEATH:a way you can fake your death:jumping out the window with an umbrella,drinking fake bleach but it was actually milk,downloading a computer virus but it was actually breath of the wild CRACKED with no virus
+UNFORTUNATE PLACE:an unfortunate place to find a baby:behind a burger king,babies dot com,Chernobyl
+SCRIPT ==========================================
+jazz music 2
+OLDER SON: Where is this lawyer at? I thought he would be here by now.
+REAL DAUGHTER: He’ll be here soon. (She sits on the couch) You act like Mother left you something.
+OLDER SON: I know Mother left me something. Not just something— all of her money, this house... and most of all, her CAR COLLECTION.
+REAL DAUGHTER: (laughs) Please. What makes you think she left anything to you? You were a horrible son.
+OLDER SON: I am her one and only son. And the oldest. Of course I’ll get everything.
+REAL DAUGHTER: You’re not getting anything. It’s all going to me. Her favorite and only daughter.
+REAL DAUGHTER: I can't wait to count all the DIAMONDS she has.
+ADOPTED DAUGHTER: (enters stage right) Hey! I’m her daughter too. Remember? She adopted me.
+OLDER SON: You’re not her real daughter. She just felt bad because she found you in UNFORTUNATE PLACE.
+ADOPTED DAUGHTER: I am her real daughter. She loved me the same way she loved both of you. 
+REAL DAUGHTER: Please. We all know I was her favorite. She even called me POOKUMS.
+(Doorbell) 
+OLDER SON: Finally. He’s here.
+REAL DAUGHTER: Go get the door, Kat.
+ADOPTED DAUGHTER: (opens door) Welcome in, Mr. Miller.
+LAWYER: (Enters Stage left) Ah— hello, everyone. My apologies for the delay. A ROAD BLOCKED held me up.
+OLDER SON: I don’t want excuses. I want to hear that Mother left me her CAR COLLECTION.
+LAWYER: (sits, removing the will) I was told your mother passed suddenly.
+REAL DAUGHTER: Oh yes. She got sick about a week ago. I—her very good and helpful daughter—stayed by her side. I even made her favorite dish. Lobster.
+Real daughter: (She collapses dramatically) Oh! Mommy! Why did you leave us?! Mommy, please come back!
+ADOPTED DAUGHTER: (rolls eyes) Oh, please. You didn’t make her lobster. You DoorDashed it— then went shopping with Mom’s black card.
+REAL DAUGHTER: (stands, brushing herself off) well. . Retail therapy is still therapy. Plus I really needed those BLACK HIGH HEELS
+LAWYER: I will now read the will.
+peaceful fantasy music
+LAWYER: This is the Last Will and Testament of Margaret Hale, signed and notarized three weeks prior to her passing. To my son, James—
+OLDER SON: (steps forward) Finally. Here comes the CAR COLLECTION.
+LAWYER: —I leave my forgiveness, which he has never asked for, and the hope that one day he learns money is not the same thing as love.
+[RECORD SCRATCH]
+Music stops
+jazz music 2
+OLDER SON: ... What? LAWYER: James is to receive one dollar.
+OLDER SON: ONE DOLLAR?! This is a joke!
+LAWYER: It 's not. The dollar is symbolic. She was very specific.
+REAL DAUGHTER: (laughs) Oh wow. That’s embarrassing. Guess Mommy really does love me.
+LAWYER: To my biological daughter, Emma... My sweet POOKUMS...
+REAL DAUGHTER: (smug) Yes?
+LAWYER: To my POOKUMS I leave my mirror— so she may finally see herself clearly.
+RECORD SCRATCH
+REAL DAUGHTER: (smile fades) That’s not funny. LAWYER: Along with my medical bills— as she was the one using my credit card during my final days.
+REAL DAUGHTER: What?! But I need those BLACK HIGH HEELS!
+ADOPTED DAUGHTER: (trying not to smile) Oh... that’s rough.
+LAWYER: Now—to my daughter, Kat. The one who chose me, not my money. The one who stayed when there was nothing to gain.
+LAWYER: Kat is to inherit the house, The CAR COLLECTION, all remaining assets, and full control of the estate.
+REAL DAUGHTER: She’s not even blood!
+ADOPTED DAUGHTER: (shocked) Oh my... I—I don’t know what to say.
+OLDER SON: This is insane. She wouldn’t do this. She couldn’t.
+REAL DAUGHTER: (bitter laugh) Guess Mommy finally showed her true colors.
+Music stops
+(DEAD) mother:  (enter stage right) (Calmly) No, dear. You just showed me yours.
+noir music 4
+REAL DAUGHTER: (gasps) ... Mommy?
+OLDER SON: (shouting) What the hell is this?!
+ADOPTED DAUGHTER: You’re— you’re alive?
+(DEAD) MOTHER: Unfortunately for some of you— yes. I wanted to see who you’d become when you thought I was gone.
+OLDER SON: You made us think you were dead?!
+(Dead) MOTHER: Yes. I faked my death by METHOD OF FAKING DEATH.
+(Dead) MOTHER: Then I watched two of you fight over my money and my CAR COLLECTION before my body was even cold.
+REAL DAUGHTER: I stayed with you! I took care of you!
+(DEAD) MOTHER: You used my credit card, POOKUMS, and you couldn’t even remember what I liked to eat!
+(DEAD) MOTHER: I’m allergic to LOBSTER. (Turns to Kat)
+(DEAD) MOTHER: Kat stayed when I said I had nothing left.
+ADOPTED DAUGHTER: (staps back away from mother) You... lied to me.
+(DEAD) MOTHER: No. I tested you. And you passed.
+(DEAD) mother: (To the lawyer) Mr. Miller, thank you for playing along.
+LAWYER: You said it was the only way they’d tell the truth.
+OLDER SON: So the will... ?
+(DEAD) MOTHER: It’s real. But it doesn’t go into effect—yet. (Takes Kat’s hand)
+Meanwhile ADOPTED DAUGHTER: (Takes mother's hand)
+(DEAD) MOTHER: Come along, dear. You have a CAR COLLECTION to admire.
+REAL DAUGHTER: (crying) Mommy— you can’t just walk away!
+(DEAD) MOTHER: I already have. (Mother exits stage right. ) Adopted daughter: (follows mother) Ha! Bye, losers.
+OLDER SON: (falls to his knees, sobbing)
+
+======
+
+INFORMATION ===============================
+ID: 1945
+TITLE: Alter Ego
+AUTHOR: OrphanEvaporatr
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 21/11/25
+CHARACTERS ================================
+HERO: Disguised Hero:Chair 2
+EVIL: Hero's date:Entrance Stage Right
+GOON: Small time Criminal:Backstage
+SUGGESTIONS =============================
+HENAME:Name for a super hero:Captain Awesome,Big Finger Philip,The Toastinator
+BNAME:Name for a man:Clark,Bruce,Tony,Peter,Mark
+DATE:Name of a dating app:Tinder,Grindr,Bumble
+GNAME:Name for a woman:Felicia,Selina,Sable,Harley
+HOBBY:Weird hobby:collecting teeth,streaming yourself sitting on the toilet on twitch just chatting,eating food and drinking water
+CATCH:Something a criminal would say when entering the scene:Put your hands up this is a stick up!,Put your sticks up this is a hands up!,Put your pants down and your hands up!
+GOONAME:Name for a small time crook:Yoyo-man,The Topster,Silly Fella
+VILNAME:Name for a villain:Puppy-Kicker,El Diabolo,Cringe-ahh Nae Nae Baby
+SCRIPT ==========================================
+jazz music 1
+HERO: Oh man, I sure hope this date goes well...
+HERO: I've been so busy saving people as my alter ego (hero pose) HENAME , that I haven't had much luck in the dating scene.
+EVIL: (Enter stage right)
+HERO: There she is now! Alright, time to act natural.
+EVIL: (Walk up to table) Hi! Are you BNAME from DATE?
+HERO: Yep that's me! Good old BNAME! And you must be GNAME?
+EVIL: (Sitting down) That's me! Sorry I was late, I got caught up in traffic (say maliciously underbreath) and some other things...
+HERO: Oh yeah, I hear you! That traffic stuff sure is a pain (laugh)
+EVIL: (Laugh akwardly) Yeah... anyways, your DATE profile said you liked to HOBBY?
+HERO: (excitedly) Yeah, I just absolutely love to HOBBY everyday! It really helps me ease the stress of my, um, totally normal office job!
+EVIL: No way! I also love to HOBBY, but everyone else thinks I'm weird for liking it...
+Teleport GOON to Entrance Stage Right
+HERO: I don't think that's so
+break down door
+GOON: (Enter stage right) Alright victims! CATCH (point weapon at them)
+tense cinematic music
+HERO: What the heck!
+Meanwhile EVIL: Oh my god!
+GOON: That's right victims! It is I GOONAME! And I am here to rob you of all your valubles! (evil laughter)
+EVIL: No! Not all of my valuables! They're so valuable!
+GOON: (Walk over to the woman) Can it toots! Unless you wanna get one of my patent-pending GOONAME-beatdowns!
+EVIL: (Gasps)
+GOON: And don't get no ideas of trying anything funny either! There ain't no heros around to save ya, capiche? 
+HERO: (To self) Oh no! If I don't do something GNAME will be hurt! But, if I help her, I will be revealing my secret identity as HENAME!
+EVIL: If only there was a big strong hero here to save me!
+GOON: I warned ya! Now it's time to take my patent-pending GOONAME-beatdown! (Raise fist)
+HERO: (Get up) Not so fast GOONAME!
+GOON: What the?!
+MEanwhile EVIL: BNAME?
+superhero fanfare
+HERO: I'm not just BNAME,(change to hero avatar) I am HENAME! (hero pose)
+GOON: HENAME! What are you doing here?!
+HERO: Get behind me GNAME! And take this you scoundrel! HENAME-punch! (punch GOONAME)
+Meanwhile EVIL: Okay! (get behind HENAME and prepare a weapon) 
+GOON: (Fall to the ground) No! GOONAME can't be taken out like this! (Pretend to pass out)
+HERO: (Back still to GNAME) Worry not GNAME! You are safe now (hero pose)
+EVIL: (Maliciously) My hero... (Smack back of HENAME's head)
+anime sword gleam 2
+HERO: What the- (fall to the ground) GNAME? Why?
+sad chug jug music
+EVIL: Oh HENAME, (change avatar to villian avatar) don't tell me you've forgotten your arch-nemesis, VILNAME!
+HERO: VILNAME?! But... but why!
+EVIL: It's simple really, I know with how much time you spend out there thwarting my plans, that you probably get zero women and therefore would be desperate
+EVIL: And there is only one place desperate people go to try to find love.
+HERO: (Defeated) DATE...
+EVIL: Exactly! From there all I had to do was set-up the ideal situation for you to lower your guard long enough for me to take you out.
+EVIL: Luckily that loser served as the perfect distraction.
+GOON: (lift head up) Hey... I'm not a loser. I got my own patent-pending attack and everything...
+EVIL: Whatever, GOONAME-beatdown is such a stupid name for an attack anyway.
+GOON: You're just like my parents! (get up) You don't get my vision! (run out of resturant crying)
+EVIL: Anyways, where were we... ah yes! Any last words HENAME?
+HERO: Yeah actually... when you said you liked to HOBBY, was that also just a lie?
+emotional piano music
+EVIL: What? I mean no that wasn't lie, but why would you focus on that during your final moments
+HERO: You see, when I was younger I loved to HOBBY, but like you, everyone around me thought I was weird for liking to HOBBY...
+EVIL: Wait, really... then you're just like me. 
+HERO: (Get up) I know how hard it is to HOBBY by yourself, but maybe we don't have to HOBBY by ourselves anymore?
+EVIL: What are you trying to say HENAME?
+HERO: VILNAME- No, GNAME? (get on one knee) Will you HOBBY with me?
+EVIL: No one's ever asked me to HOBBY with them. Are you sure you want to HOBBY with someone who just tried to kill you?
+HERO: Honestly, I think you are very hot and I'm kind of into that stuff.
+EVIL: Okay... that's really strange but I guess that makes sense for someone who likes to HOBBY.
+HERO: Is that a yes?
+EVIL: You know what BNAME? It is! I do want to HOBBY with you!
+happy music 1
+HERO: (Stand up and hug GNAME) That's great! What do you say we go HOBBY right now?
+EVIL: I would love to! Let's go! (exit stage right)
+HERO: Right behind you! (follow GNAME out stage right)
+
+======
+
+INFORMATION ===============================
+ID: 1948
+TITLE: Necromancer's Bad Day
+AUTHOR: kawadec
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 22/11/25
+CHARACTERS ================================
+NECROMANCER: Necromancer:Couch
+ZOMBIE: Zombie:Stage Right
+NARRATOR: Narrator:Narrator Podium
+GHOST: Ghost:Entrance Stage Left
+SUGGESTIONS =============================
+SMALL NUMBER:any number:5,6,7,8,9 10
+OBJECT:Object:idol,statue,inhaler,toy,figurine,injector,stick,orb,globe,ball,stick,spoon
+FURNITURE:Furniture:couch,table,TV,bookshelf,chair,plant,massive pile of books,accursed lantern,haunted kitchen sink
+MAGIC WORD 1:First Magic Word:Wenny,First,wut,Pound,Seiga
+MAGIC WORD 2:Second Magic Word:Weedy,Noob,lul,Of,Is
+MAGIC WORD 3:Third Magic Word:Wiiki,Same,68.9 repeating,Flesh,Rogue
+CHEMICAL:Potion Ingredient:swamp spore,mountain snow,plains grass,island mist,forest dew
+FOOD:Food:apple,banana,sandwich,cookie,burrito
+SCRIPT ==========================================
+dark classical music
+NECROMANCER: (Waking up) Ahh, that was a pleasant nap. Good morning, my dear zombie. (stretches)
+ZOMBIE: Hungry... (bites Necromancer's arm)
+Music Stops
+tense cinematic music
+NECROMANCER: Oh!? Oh dear.
+NECROMANCER: If I don't treat this zombie bite in the next SMALL NUMBER seconds, I'll be, uh... uhh... (zombie noises)
+Music Stops
+silly music 1
+NARRATOR: It appears our unfortunate necromancer has fallen victim to their own creation.
+NARRATOR: Now, let's go back and try again. Why don't we see what happens if they remember to grab their OBJECT?
+Music Stops
+Teleport NECROMANCER to Couch
+Teleport ZOMBIE to Stage Right
+dark classical music
+NECROMANCER: Ahh, that was a pleasant nap. Good morning, my dear zombie. (stretches)
+ZOMBIE: Hungry... (bites Necromancer's arm)
+Music Stops
+tense cinematic music
+NECROMANCER: Oh!? I should retrieve my anti-zombification OBJECT! Where is it?
+NECROMANCER: I could have sworn it was under this FURNITURE... where is it... there!
+NECROMANCER: Now I recite the necessary incantation: MAGIC WORD 1, MAGIC WORD 2, MAGIC WORD 3!
+NECROMANCER: Next I need to... what what the next step... uhhh... (zombie noises)
+Music Stops
+silly music 1
+NARRATOR: So close, yet so far. What if they retreieved the CHEMICAL potion in their dungeon instead?
+Music Stops
+Teleport NECROMANCER to Couch
+Teleport ZOMBIE to Stage Right
+dark classical music
+NECROMANCER: Ahh, that was a pleasant nap. Good morning, my dear zombie. (stretches)
+ZOMBIE: Hungry... (bites Necromancer's arm)
+Music Stops
+tense cinematic music
+NECROMANCER: Oh!? I should retrieve my CHEMICAL potion! It's somewhere in my dungeon! (run toward the kitchen door but don't exit)
+GHOST: (jumpscare through the door) Raaaahhh!!
+NECROMANCER: What!? The Ghost!? How did you escape your confinement? Your vessel was, uh, uhhh... (zombie noises)
+Music Stops
+silly music 1
+NARRATOR: How unfortunate. Perhaps we should give our unlucky necromancer some help. What if their zombie was holding the potion?
+Music Stops
+Teleport NECROMANCER to Couch
+Teleport ZOMBIE to Stage Right
+Teleport GHOST to Entrance Stage Left
+dark classical music
+NECROMANCER: Ahh, that was a pleasant nap. Good morning, my dear zombie. (stretches)
+ZOMBIE: Hungry... (bites Necromancer's arm)
+Music Stops
+tense cinematic music
+NECROMANCER: Oh!? I should retrieve my CHEMICAL potion! It's somewhere in my... (run to kitchen door)
+NECROMANCER: No, I remember! I left it with my zombie! (run toward zombie)
+GHOST: (jumspscare through the door which everyone ignores) Raaaahhh!!
+NECROMANCER: You! Hand over the potion I entrusted you!
+ZOMBIE: ...Drank...
+NECROMANCER: You drank it!? No!! 
+NECROMANCER: Fine, where is the OBJECT? It must be under... uh... not again... (zombie noises)
+Music Stops
+silly music 1
+NARRATOR: Oh no, it seems our necromancer has failed once more. What if we-
+NECROMANCER:(punches Narrator) Enough!
+Music Stops
+record scratch
+NARRATOR: (exit stage)
+NECROMANCER: Now, did that fool leave anything that could be useful?
+NECROMANCER: Hmm, this FOOD should be enough.
+Teleport NECROMANCER to Couch
+Teleport ZOMBIE to Stage Right
+Teleport GHOST to Entrance Stage Left
+dark classical music
+NECROMANCER: Ahh, that was a pleasant nap. Good morning, my dear zombie. I have some FOOD for you. (stretches)
+ZOMBIE: (bites FOOD) ...Tasty...
+NECROMANCER: Finally. Enjoy your meal.
+NECROMANCER: Now then, to continue my research on how to-
+GHOST: (enter through kitchen door) A curse, I place upon your soul!!
+Music Stops
+NECROMANCER: What!?
+
+======
+
