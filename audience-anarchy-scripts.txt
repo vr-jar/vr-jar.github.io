@@ -46636,7 +46636,7 @@ MARCUS: You do look like a melted wax version of CELEBRITY, though. No cap.
 INFORMATION ===============================
 ID: 1503
 TITLE: Restaurant Morons
-AUTHOR: -AtlasVA-
+AUTHOR: shimballasnoog
 VERIFIED: True
 TAGS: Skit
 SET: Restaurant
@@ -47906,7 +47906,7 @@ GUARD: Yes, my queen. (bows)
 INFORMATION ===============================
 ID: 1542
 TITLE: Idiotic Interview 
-AUTHOR: -AtlasVA-
+AUTHOR: shimballasnoog
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
@@ -53041,7 +53041,7 @@ CREATURE: Hey, if it's not too much trouble, can you generate me a partner?
 INFORMATION ===============================
 ID: 1717
 TITLE: Felony Fools
-AUTHOR: -AtlasVA-
+AUTHOR: shimballasnoog
 VERIFIED: True
 TAGS: Skit
 SET: Courtroom
@@ -54261,74 +54261,6 @@ RM: Wait, what? Where are you going?
 TECH: Connor, the AI in my HAND, said I should go ACTION for a good time.
 TECH: See ya! (Exit through the front door)
 RM: … I don't want to live on this planet anymore.
-
-======
-
-INFORMATION ===============================
-ID: 1795
-TITLE: They WILL win!
-AUTHOR: MystykalMystyk
-VERIFIED: True
-TAGS: 
-SET: Living Room
-DATE: 14/08/25
-CHARACTERS ================================
-WATCHER: Person watching a show:Couch
-FRIEND: The friend:Entrance Stage Right
-DLV: Delivery Guy:Backstage
-SUGGESTIONS =============================
-WATCHER:Any name:Bob,Marissa,John,Catherine
-FRIEND:Any name:Josh,Kool-aid man,Peter,Lois
-TEAM:A sports team:Leafs,Nuggets,Red Star
-TIME:A long amount of time:10 years,15 years,50 years
-SPORT:A type of sport:Hockey,Basketball,Soccer
-CAREER:A job that you do:Accounting,Acting,Being a judge
-ADJ:An adjective:Knowledgable,stupid,big,rich
-FOOD:A type of food:Burger,Pizza,Tacos
-SAUCE:A type of sauce:Barbecue,Ketchup,Sweet and Sour
-CHSP:A championship:Supercup,Stanleybowl,Shield
-SCRIPT ==========================================
-gameshow buzzer
-jazz music 2
-WATCHER: Another loss for the TEAM, they're 0-40 this season. Why do I waste my time with this?
-FRIEND: (enter STAGE RIGHT) Really? You're still watching them? They haven't been good in TIME.
-WATCHER: I know, I just really haven't had anything to do in TIME, other than watch this team, I guess.
-WATCHER: I mean, they have so much potential, it must be an issue with the new coach. This Jack guy really must have never coached or played a SPORT game before.
-FRIEND: I stopped wasting my time with them when they started playing like this. TIME later and I'm glad I started focusing on my career,
-FRIEND: CAREER is a good path to take, you know.
-WATCHER: Yeah yeah, FRIEND, I'm sure you think that. Stupid nerd.
-FRIEND: Hey! Watch it. I'm not a nerd, I'll have you know I am actually quite ADJ.
-FRIEND: And that's NOT because of CAREER!
-WATCHER: Yeah, whatever dude. Nobody cares for people into CAREER.
-WATCHER: Anyways, we're off topic. I'm convinced TEAM can win a CHSP if they had the right coach.
-FRIEND: Whatever dude. I ordered FOOD, your favourite! It should be here in...
-doorbell
-FRIEND: Now! (open the door)
-DLV: Good evening. I have your food. You did order FOOD, yes?
-FRIEND: Yes. I did. Thank you
-meanwhile WATCHER: (set the table)
-FRIEND: Just to check... what sauce was ordered? Had a terrible mix-up last time.
-DLV: No worries. You ordered FOOD with SAUCE.
-WATCHER: Seriously, dude? You had one job. You know I hate SAUCE!
-FRIEND: More FOOD for me, then
-WATCHER: You always were selfish... You only need the same amount of food as TEAM needs the CHSP
-FRIEND: Shut up, would you.
-WATCHER: Do you see the amount of food there?
-FRIEND: Yeah? All mine now. You're the picky one who doesn't like SAUCE.
-FRIEND: Also, if you're so sure about the coach being so bad
-FRIEND: Do it yourself.
-WATCHER: Oh please, this is a professional team. They'd never let me. I probably would do better, though
-FRIEND: So prove it, then. Try with a minor league team.
-WATCHER: Please, the team is 0-40. They won't fire the dude.
-DLV: Oh, are you guys talking about TEAM? I know some guys who work with the team.
-FRIEND: Really? Any way for this guy to coach one game?
-WATCHER: Wait, what? No that's not necessary.
-DLV: I could talk to someone... give me a couple days. Give me your phone and I'll put my number in.
-TYPEWRITER: A few days later
-cellphone vibrate
-FRIEND: (check your phone) It's the delivery guy. You can coach a game for the TEAM
-WATCHER: Oh my god. This is so unnecessary!
-FRIEND: What are you waiting for? They play tonight! Get going!
 
 ======
 
@@ -59031,108 +58963,6 @@ Courtroom sting
 ======
 
 INFORMATION ===============================
-ID: 1867
-TITLE: Krampus Set Free
-AUTHOR: CRYPTPUG
-VERIFIED: True
-TAGS: Skit
-SET: Living Room
-DATE: 18/10/25
-CHARACTERS ================================
-YT: Youtuber/Streamer:Stage Right
-KRAMPUS: Krampus:Backstage
-LT: The YouTuber’s little bro:Backstage
-SUGGESTIONS =============================
-HOUSE:A building that can be haunted:hotel,house,mansion,cottage
-YOUTUBER:A Streamer/Youtuber:Markiplier,Jackspeticeye,CaseOh
-BODY:A body part:elbow,knee,calf,shoulder
-TREAT:A type of dessert:cookie,cake,pie,brownie
-GROSS:Something you shouldn’t put in food:Anthrax,cement,poison,oil
-SIMPLE TASK:a basic task any adult/teenager can do:do laundry,do math,stream on twitch,drink water,poop
-PHONE:overly specific description of a smartphone:iphone 18 pro with biometric nanotechnology,samsung galaxy 67,baby's first phoney woney with patented nannycam technology
-SCRIPT ==========================================
-christmas music 1
-YT: Hello everybody, my name is YOUTUBER!
-YT: And today, we’re gonna to be exploring this haunted HOUSE!
-YT: But I’m not doing this alone. I’m here joined by my... (You hear a knocking sound)
-knocking on door
-LT: Uhm...YOUTUBER? Can you let me in?
-YT: Ugh... my little brother...
-YT: (opens stage right door) How did you get yourself locked out? Seriously?
-LT: This HOUSE is old! The locks are probably all…rusty and stuff!
-YT:...this is why I don’t include you in my videos…
-LT: Yeah, about that…why am I here again?
-YT: Because mom asked me to look after you since you can’t look after yourself.
-LT: Hey! I’m not a child! I can take care of myself!
-YT: Oh yeah? What about that time you tried SIMPLE TASK, and somehow ended up breaking your BODY?
-LT:...that was one time!
-YT: Whatever, just come along. It’s time to check this place out.
-LT: (Walk to couch) Man... this place sure is spooky...
-YT: I know, right? My subscribers will eat this up.
-LT: Why are you going through a haunted HOUSE around Christmas time, though?
-LT: Isn’t that more of a Halloween thing?
-YT: Look, if Disney can make millions smashing the two holidays together, so can I.
-footsteps on wood
-dark classical music
-LT: Wh-what was that???
-YT: A ghost, probably...awesome!
-LT: What?!? What do you mean “awesome”???
-YT: C’mon, let’s see if we can find it!
-YT: Grab your PHONE and start filming!
-LT: Are you insane??? I’m outta here!!! (Exit Stage Left)
-YT: What? Hey! Get back here before you break your BODY again!
-YT: I better not get blamed if that idiot hurts himself again...
-door creak
-YT: What the-? Is someone there? Show yourself!
-Thunder
-KRAMPUS: (teleport to center stage) Alright, what the hell’s with this racket???
-YT: Ahhh!! A ghost!!!
-KRAMPUS: Sheesh, stop yelling! God, I just woke up!!!
-YT: W-Who are you...?
-KRAMPUS: I’m Krampus, duh.
-YT: Who?
-KRAMPUS: (sigh) evil Santa Claus…
-YT: Ooooh, right. That Krampus.
-KRAMPUS: Alright, now why are you in my HOUSE?
-YT: I was just...filming a Youtube video. I’m...YOUTUBER.
-KRAMPUS: I don’t have internet, what’s a Youtube?
-crashing debris
-KRAMPUS: What was that??? Hey, get out here!
-LT: (Enter Stage Left) Hey, YOUTUBER? I think I broke somethi-AHH!! What is that?!
-YT: Evil Santa Claus.
-KRAMPUS: Oh no...don’t tell me you destroyed my newest batch of TREAT!
-LT: Uhm...no?
-KRAMPUS: I can’t believe you...I worked days on that damn recipe, only for you to destroy them all!!!
-YT: Wait, you know how to bake?
-KRAMPUS: Of course I do. That fatty Santa gets all his cookies made for him for free, while I make ‘em by hand like a real man!
-LT: I’m so sorry! Don’t break my BODY please!
-KRAMPUS: Alright, since you both decided to break into my HOUSE and destroy my TREAT, the only way you’re getting out of this is if you bake me a new TREAT.
-YT: What? But we don’t know how to make TREAT!
-YT: (Sit on couch) Well, you better get to learning, otherwise I’ll break both of your BODY. Now get to it!
-LT: (walk over towards the kitchen) This is all your fault
-YT: (Walk over towards kitchen) Shut up...
-TYPEWRITER: Two hours later...
-YT: Alright, we’re finished with the TREAT.
-KRAMPUS: About time. Get on over here, lemmie see how you did.
-LT: Uhm...okay...walk towards couch)
-YT: Here you go. Fresh TREAT straight from the oven.
-KRAMPUS: (Eat cookie) Mmm...Mmmm! This is some good stuff! Color me surprised.
-YT: Yeah...I bet it does...
-KRAMPUS: Wait a minute...ugh! (spit and gag)
-KRAMPUS: What the hell’s in this?!?
-badass music 1
-YT: HA! You just got pranked bro! I can’t believe you just ate GROSS!
-KRAMPUS: You put GROSS in these???
-YT: Sure did! My subscribers are gonna love this!
-LT: Wow...nice work, bro!
-KRAMPUS: You little brats!!! I’ll show you what happens when you mess with me!!
-YT: Oh crap...I kinda forgot he was basically devil Santa...
-YT: We should probably run!!! (Exit Stage Left)
-LT: YOUTUBER!!! Wait up!!! (Exit Stage Left)
-
-======
-
-INFORMATION ===============================
 ID: 1957
 TITLE: Splatcast!
 AUTHOR: Jinx Izayoi
@@ -59209,6 +59039,476 @@ QUIV: From LOCAL, that's a wrap.
 QUIV: (strike a pose) CATCH
 Meanwhile FLYE: (strike a pose) CATCH
 gameshow bonus round
+
+======
+
+INFORMATION ===============================
+ID: 1795
+TITLE: They WILL win!
+AUTHOR: MystykalMystyk
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 14/08/25
+CHARACTERS ================================
+WATCHER: Person watching a show:Couch
+FRIEND: The friend:Entrance Stage Right
+DLV: Delivery Guy:Backstage
+SUGGESTIONS =============================
+WATCHER:Any name:Bob,Marissa,John,Catherine
+FRIEND:Any name:Josh,Kool-aid man,Peter,Lois
+SCORE:Any number between 20-80:20,36,73
+TEAM:A sports team:Leafs,Nuggets,Red Star
+TIME:A long amount of time:10 years,15 years,50 years
+SPORT:A type of sport:Hockey,Basketball,Soccer
+CAREER:A job that you do:Accounting,Acting,Being a judge
+ADJ:An adjective:Knowledgable,stupid,big,rich
+FOOD:A type of food:Burger,Pizza,Tacos
+SAUCE:A type of sauce:Barbecue,Ketchup,Sweet and Sour
+CHSP:A championship:Supercup,Stanleybowl,Shield
+SCRIPT ==========================================
+gameshow buzzer
+jazz music 2
+WATCHER: Another loss for the TEAM, they're 0-SCORE this season. Why do I waste my time with this?
+FRIEND: (enter Stage Right) Really? You're still watching them? They haven't been good in TIME.
+WATCHER: I know, I just really haven't had anything to do in TIME, other than watch this team, I guess.
+WATCHER: I mean, they have so much potential, it must be an issue with the new coach. This Jack guy really must have never coached or played a SPORT game before.
+FRIEND: I stopped wasting my time with them when they started playing like this. TIME later and I'm glad I started focusing on my career,
+FRIEND: CAREER is a good path to take, you know.
+WATCHER: Yeah yeah, FRIEND, I'm sure you think that. Stupid nerd.
+FRIEND: Hey! Watch it. I'm not a nerd, I'll have you know I am actually quite ADJ.
+FRIEND: And that's NOT because of CAREER!
+WATCHER: Yeah, whatever dude. Nobody cares for people into CAREER.
+WATCHER: Anyways, we're off topic. I'm convinced the TEAM can win a CHSP if they had the right coach.
+FRIEND: Whatever dude. I ordered FOOD, your favourite! It should be here in...
+doorbell
+FRIEND: Now! (open the door)
+DLV: Good evening. I have your food. You did order FOOD, yes?
+FRIEND: Yes. I did. Thank you
+meanwhile WATCHER: (set the table)
+FRIEND: Just to check... what sauce was ordered? Had a terrible mix-up last time.
+DLV: No worries. You ordered FOOD with SAUCE sauce.
+WATCHER: Seriously, dude? You had one job. You know I hate SAUCE sauce!
+FRIEND: More FOOD for me, then
+WATCHER: You always were selfish... You only need the same amount of food as the TEAM needs the CHSP
+FRIEND: Shut up, would you.
+WATCHER: Do you see the amount of food there?
+FRIEND: Yeah? All mine now. You're the picky one who doesn't like SAUCE sauce.
+FRIEND: Also, if you're so sure about the coach being so bad
+FRIEND: Do it yourself.
+WATCHER: Oh please, this is a professional team. They'd never let me. I probably would do better, though
+FRIEND: So prove it, then. Try with a minor league team.
+WATCHER: Please, the team is 0-SCORE. They won't fire the dude.
+DLV: Oh, are you guys talking about the TEAM? I know some guys who work with the team.
+FRIEND: Really? Any way for this guy to coach one game?
+WATCHER: Wait, what? No that's not necessary.
+DLV: I could talk to someone... give me a couple days. Give me your phone and I'll put my number in.
+FRIEND: (hand your phone to the delivery guy)
+TYPEWRITER: A few days later
+cellphone vibrate
+FRIEND: (check your phone) It's the delivery guy. You can coach a game for the TEAM
+WATCHER: Oh my god. This is so unnecessary!
+FRIEND: What are you waiting for? They play tonight
+FRIEND: (exit Stage Right)
+meanwhile WATCHER: Fine. (Follow friend)
+TYPEWRITER: WATCHER would lead the TEAM to victory, and be hired on.
+TYPEWRITER: WATCHER would go on to lose every other game. Leading the team to be 1-81.
+TYPEWRITER: WATCHER was not fired.
+
+======
+
+INFORMATION ===============================
+ID: 1867
+TITLE: Krampus Set Free
+AUTHOR: CRYPTPUG
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 18/10/25
+CHARACTERS ================================
+YT: Youtuber/Streamer:Stage Right
+KRAMPUS: Krampus:Backstage
+LT: The YouTuber’s little bro:Backstage
+SUGGESTIONS =============================
+HOUSE:A building that can be haunted:hotel,house,mansion,cottage
+YOUTUBER:A Streamer/Youtuber:Markiplier,Jackspeticeye,CaseOh
+BODY:A body part:elbow,knee,calf,shoulder
+TREAT:A type of dessert:cookie,cake,pie,brownie
+GROSS:Something you shouldn’t put in food:Anthrax,cement,poison,oil
+SIMPLE TASK:a basic task any adult/teenager can do:do laundry,do math,stream on twitch,drink water,poop
+PHONE:overly specific description of a smartphone:iphone 18 pro with biometric nanotechnology,samsung galaxy 67,baby's first phoney woney with patented nannycam technology
+SCRIPT ==========================================
+christmas music 1
+YT: Hello everybody, my name is YOUTUBER!
+YT: And today, we’re gonna to be exploring this haunted HOUSE!
+YT: But I’m not doing this alone. I’m here joined by my... (You hear a knocking sound)
+knocking on door
+LT: Uhm...YOUTUBER? Can you let me in?
+YT: Ugh... my little brother...
+YT: (opens stage right door) How did you get yourself locked out? Seriously?
+LT: This HOUSE is old! The locks are probably all…rusty and stuff!
+YT:...this is why I don’t include you in my videos…
+LT: Yeah, about that…why am I here again?
+YT: Because mom asked me to look after you since you can’t look after yourself.
+LT: Hey! I’m not a child! I can take care of myself!
+YT: Oh yeah? What about that time you tried SIMPLE TASK, and somehow ended up breaking your BODY?
+LT:...that was one time!
+YT: Whatever, just come along. It’s time to check this place out.
+LT: (Walk to couch) Man... this place sure is spooky...
+YT: I know, right? My subscribers will eat this up.
+LT: Why are you going through a haunted HOUSE around Christmas time, though?
+LT: Isn’t that more of a Halloween thing?
+YT: Look, if Disney can make millions smashing the two holidays together, so can I.
+footsteps on wood
+dark classical music
+LT: Wh-what was that???
+YT: A ghost, probably...awesome!
+LT: What?!? What do you mean “awesome”???
+YT: C’mon, let’s see if we can find it!
+YT: Grab your PHONE and start filming!
+LT: Are you insane??? I’m outta here!!! (Exit Stage Left)
+YT: What? Hey! Get back here before you break your BODY again!
+YT: I better not get blamed if that idiot hurts himself again...
+door creak
+YT: What the-? Is someone there? Show yourself!
+Thunder
+teleport KRAMPUS to Center Stage
+KRAMPUS: Alright, what the hell’s with this racket???
+YT: Ahhh!! A ghost!!!
+KRAMPUS: Sheesh, stop yelling! God, I just woke up!!!
+YT: W-Who are you...?
+KRAMPUS: I’m Krampus, duh.
+YT: Who?
+KRAMPUS: (sigh) evil Santa Claus…
+YT: Ooooh, right. That Krampus.
+KRAMPUS: Alright, now why are you in my HOUSE?
+YT: I was just...filming a Youtube video. I’m...YOUTUBER.
+KRAMPUS: I don’t have internet, what’s a Youtube?
+crashing debris
+KRAMPUS: What was that??? Hey, get out here!
+LT: (Enter Stage Left) Hey, YOUTUBER? I think I broke somethi-AHH!! What is that?!
+YT: Evil Santa Claus.
+KRAMPUS: Oh no...don’t tell me you destroyed my newest batch of TREAT!
+LT: Uhm...no?
+KRAMPUS: I can’t believe you...I worked days on that damn recipe, only for you to destroy them all!!!
+YT: Wait, you know how to bake?
+KRAMPUS: Of course I do. That fatty Santa gets all his cookies made for him for free, while I make ‘em by hand like a real man!
+LT: I’m so sorry! Don’t break my BODY please!
+KRAMPUS: Alright, since you both decided to break into my HOUSE and destroy my TREAT, the only way you’re getting out of this is if you bake me a new TREAT.
+YT: What? But we don’t know how to make TREAT!
+YT: (Sit on couch) Well, you better get to learning, otherwise I’ll break both of your BODY. Now get to it!
+LT: (walk over towards the kitchen) This is all your fault
+YT: (Walk over towards kitchen) Shut up...
+TYPEWRITER: Two hours later...
+YT: Alright, we’re finished with the TREAT.
+KRAMPUS: About time. Get on over here, lemmie see how you did.
+LT: Uhm...okay...(walk towards couch)
+YT: Here you go. Fresh TREAT straight from the oven.
+KRAMPUS: (Eat cookie) Mmm...Mmmm! This is some good stuff! Color me surprised.
+YT: Yeah...I bet it does...
+KRAMPUS: Wait a minute...ugh! (spit and gag)
+KRAMPUS: What the hell’s in this?!?
+badass music 1
+YT: HA! You just got pranked bro! I can’t believe you just ate GROSS!
+KRAMPUS: You put GROSS in these???
+YT: Sure did! My subscribers are gonna love this!
+LT: Wow...nice work, bro!
+KRAMPUS: You little brats!!! I’ll show you what happens when you mess with me!!
+YT: Oh crap...I kinda forgot he was basically devil Santa...
+YT: We should probably run!!! (Exit Stage Left)
+LT: YOUTUBER!!! Wait up!!! (Exit Stage Left)
+
+======
+
+INFORMATION ===============================
+ID: 1886
+TITLE: Billy and the Mythical Creature
+AUTHOR: takineko
+VERIFIED: True
+TAGS: Skit
+SET: Campsite
+DATE: 25/10/25
+CHARACTERS ================================
+BILLY: Billy scared boy:Rock chair
+DAD: Billy's dad:Camping chair
+MYTH: Mythical Creature:Behind bushes
+SUGGESTIONS =============================
+BLANK:A mythical creature or cryptid.:Sasquatch,Big Foot,Unicorn,Leprechaun,Fairy
+FOOD:A food you might eat at a campfire.:Marshmallow,hot dog,fish,beans
+ANIMAL:Animal found in forests.:Wolf,Rabbit,Bird,Snake,Owl,Deer
+FAIR:Fun place families hang out:the fair,arcade,movie theater,park,playground,water park
+PANTS:Common article of clothing. Plural:Pants,shirts,shorts,hats,mittens,coats
+CANDY:A type of candy or confection. Plural:chocolate,taffy,cakes,muffins
+SCARY NOISE:Type of spooky noise:wolves howling,vampires drooling on the floor,my dead mom moaning
+SCRIPT ==========================================
+Australian music 1
+DAD:(cheerfully ) And that's the story of how grandma was decapitated at the FAIR ! 
+Music Stops
+record scratch
+DAD: Welp... Goodnight little Billy!
+BILLY:(Horrified ) I...
+DAD: (stretches) I can't wait to go to the FAIR tomorrow. This has been a nice camping trip so far though.
+BILLY: Dad, I don't think I can sleep out here.. It's spooky...
+BILLY: I think I hear SCARY NOISE and I'm scared!
+DAD:Well if you can't sleep anyway, why not keep first watch for me while I sleep?
+BILLY:But, but I
+DAD:Good man, Billy. (yawns ) Watch out for ANIMAL, goodnight.(go into tent)
+scary music 
+MYTH: (Hiding and making spooky SCARY NOISE sounds) oooaaa!
+BILLY:Wh-what was that?!
+snipping
+BILLY: H-Hello?
+BILLY:Is... is that a monster? 
+knife wound
+BIllY:.. a ANIMAL ?... Grandma?
+MYTH: (Jump out from behind bush) Rah!
+alien teleport
+BILLY:(Screams) Ahhh!!
+MYTH:(Menacingly )Hi little Billy.
+BILLY:What do you want!
+MYTH: You gonna finish that? (Points to his food)
+BILLY:M-m-my FOOD ? No, you can have it just don't hurt me!
+Music Stops
+MYTH:Relax kid, yeesh. (sit in the chair and eat)
+MYTH:(mouth full )I'm not gonna eat you, it's too much work.
+BILLY:W-WHat are you?
+MYTH:I'm a BLANK
+BILLY:Wow... I've never seen a BLANK before
+MYTH:Belches Oh we're great Billy, just great we uh. We frolick.
+BILLY:You fr- what do you mean you frolick?
+MYTH:Yeah like out in nature, we're like one with the ecosystem and stuff. 
+MYTH: We don't have to wear PANTS.
+BILLY:I do hate wearing  PANTS..
+MYTH:Yeah. You should come frolick with us sometime it's great. 
+MYTH: We got mud huts and we sword fight with sticks.
+BILLY:I love building mud huts and play fighting with sticks!
+MYTH:Oh man Billy, we have full on wars, you should see it Billy, I mean it is truly great.
+BILLY:Oh man I wanna see all the BLANK
+MYTH:Yeah, we got all kindsof BLANK we got pink ones, yellow ones, red ones, 
+MYTH: Green ones, fat ones, skinny ones. 
+MYTH:You know Billy, some BLANK are 7ft tall, and some are 3ft tall.
+MYTH:It's just how we roll.
+BILLY:Wow.
+MYTH:Yeah. You really gotta see BLANK land Billy, it's just across the forrest here.
+BILLY:Oh man, it sounds amazing but... I gotta keep watch over the camp. And tomorrow
+BILLY:(Mortified ) I gotta go to the FAIR and collect grandma's decapitated head...
+MYTH:That sounds messed up Billy.
+BILLY:Yeah..
+MYTH:Hey blow off all that jazz and come frolick with us BLANK eh? 
+BILLY:Well...
+MYTH:We got our own sugar cane plants. We make our own CANDY Billy!
+BILLY:Really?
+MYTH:Yeah it's the best CANDY you ever had Billy, it's incredible.
+BILLY:CANDY is my favorite!
+MYTH:Yeah you've never tasted BLANK CANDY Billy. It's truly the best.
+BILLY:I wish I could come.
+MYTH:You gotta, Billy. Come on you don't wanna see your grandma's head roll'n around there do ya?
+BILLY:No...
+MYTH:It's messed up is what that is come on Billy come to the BLANK forest with me.
+BILLY:Well... Okay!
+MYTH:Yeah! My man! (Head stage right, behind the bush)
+Meanwhile Billy:(Exit stage right)
+MYTH: Ok everyone, Billy is on the menu tonight, kids!
+MYTH:(Vicious monster eating sounds) 
+BILLY: (scream) Aaah!
+DAD:(climbs out of the tent , yawning) Billy, I really over slept, man..
+DAD:Billy? Come'on boy we got a partial corpse to retrieve!
+BILLY:(shuffle out from behind the bush and sit by the campfire) ugh
+DAD:Billy you look awful, did you sleep at all?
+DAD:(Scared) Why are you covered in blood?
+BILLY:Dad... I killed a family of BLANK.
+DAD:Those don't exist bud, did you have one of your episodes again?
+scary music
+BILLY:(breathe heavily)
+DAD:(Scared) Billy...? Billy where's your mother?!
+DAD:Oh, oh no! (Run stage right)
+DAD:Mary!? Mary are you in your tent?!(hide behind bush)
+DAD:Billy no! Augh! It's just like what you did to Grandma!
+BILLY: (coldly) I'm never wearing PANTS again.
+Music Stops
+
+======
+
+INFORMATION ===============================
+ID: 1904
+TITLE: Telexorcist
+AUTHOR: Twintacle PTT
+VERIFIED: True
+TAGS: Infomercial
+SET: Living Room
+DATE: 04/11/25
+CHARACTERS ================================
+SALE: Religious salesman:Entrance Stage Right
+BOY: The possesed kid:Couch
+MOM: The mother:Center Stage
+PRIEST: The Exorcist:Backstage
+SUGGESTIONS =============================
+AGE:any number:1000,13,69,33,21
+NAME:Little kid's name:Brian,Timothy,Peter,Bart,Harry
+ORGANIZATION:Charity Organization:Make-A-Wish,Doctors Against Borders,The Salvation Army,Pawn Fundraising Company
+GARLIC:Anything that might scare a spirit away:garlic,incense,scary posters,cute little puppies,lion statues
+PHONE:Device other than a TV:Phone,Computer,iPad,Fridge Screen
+PLACE:Somewhere that a person can live in:house,tractor trailer,hotel,apartment,mansion
+PRICE:Cheap price:$1,99 cents,a single quarter,completely free
+SCRIPT ==========================================
+BOY: Ugh, pathetic little humans, why am I in an informercial?
+MOM: Oh no! My poor NAME! Somebody get the demon out of here!
+SALE: (enter) As you can see, this AGE year old boy has been posessed.
+SALE: By God, have you been dealing with demons all wrong?
+MOM: I've tried GARLIC, soup and everything! Nothing seemed to work!
+BOY: Ha! Fools! GARLIC is nothing compared to me!
+SALE: Demons are now resistent to GARLIC, that is why I am here to help.
+MOM: You are?
+Meanwhile BOY: What?
+corporate motivational music
+SALE: Now introducing the Telexorcist! The brand new way to exorcize demons!
+SALE: When GARLIC is not enough anymore, the Telexorcist is guaranteed to get rid of the spawn of Satan!
+MOM: How does that even work? Do we have to order on the PHONE?
+SALE: Nuh uh! No need to go on your PHONE, eh, maybe for a moment...
+BOY: Ha ha ha ha! Shut up! We all know that's a scam! (shaking) Ooh! Scammy scam! Ha ha!
+SALE: Well then time for the demonstration. Let's bring back this child to the name of God.
+Music Stops
+SALE: Unlike other exorcists that take a while to come to your PLACE...
+SALE: The Telexorcist comes right out of the TV screen where Demons least expect it! Hence the name.
+MOM: From the TV screen? In my PLACE?
+BOY: (laughing) Ha ha ha ha ha! This is ridiculous!
+SALE: (turns the TV on) Just turn the TV on and....!
+Teleport PRIEST to Center Stage
+PRIEST: (emerge from the TV) Where is the child?
+BOY: (shocked) Um!?
+Meanwhile MOM: Right there! (point to the child)
+BOY: What... how did you get out?
+scary music
+PRIEST: Alright NAME, we'll get this demon out of you in no time. (holds out cross)
+BOY: Stay the hell away from me!
+PRIEST: (holds the cross at NAME) The power of Christ compels you! The power of Christ compels you!
+Meanwhile BOY: Aaaaaaaaaaaaaaah!
+MOM: Oh my god!
+SALE: Told ya it works!
+PRIEST: (splashes holy water) The power of christ compels you! The power of christ compels you! The power of christ compels you!
+Meanwhile BOY: Make it stop! Make it fricking stoooooooop!!!
+BOY: (weak) Ugh.....
+PRIEST: By the power of the lord, whoever you are, you must leave!
+SALE: For the single price of PRICE per hour, doing the good work of the lord has never been so cheaper!
+SALE: Who would pay a higher fee for a deed of good?
+MOM: Is that spirit gone yet?
+BOY: I will never surrender! Not even by a priestly bastard!
+PRIEST: (gasp) How dare you insult your brother in christ!
+BOY: (evil laugh) Ha ha ha ha ha!
+epic fantasy music 1
+PRIEST: (praying) Our father... Who art in heaven...
+Meanwhile BOY: Oh god! Oh no! Oh frick!
+SALE: Hallowed be thy name!
+Meanwhile MOM: Let my AGE year old son, NAME go!
+PRIEST: (praying) Thy kingdom come, thy will be done, as earth as it is in heaven!
+BOY: Good ORGANIZATION! Leave my crapping body alone, this child is mine!
+Meanwhile PRIEST: (praying) Give us this day our daily bread, and forgive us our tresspasses.
+MOM: (covers eyes) I can't watch!
+BOY: (screaming) Aaaaaaaaaaaaaaaaaaaaah! (falls unconscious)
+Meanwhile PRIEST: Forever and ever, Amen!
+Music Stops
+SALE: Amen! Is the child okay?
+BOY: (wakes up) Ugh... What happened?
+happy music 1
+MOM: (uncovers eyes) Oh my god! NAME's okay! (runs over to NAME)
+PRIEST: Hallelujah! The demon is gone!
+SALE: There you have it folks, this AGE year old kid has been exorcised sucessfully thanks to the Telexorcist!
+Meanwhile MOM: (crying) Oh god, he's okay! I am so thankful!
+SALE: Anyway, for PRICE per hour, you can exorcise someone with a Telexorcist like the one you saw right here.
+SALE: All proceeds will go to ORGANIZATION as part of our good faith!
+SALE: So come on, get on that PHONE and schedule a meeting today! All for PRICE per hour.
+SALE: That's all from me! Bye bye! (waves)
+PRIEST: Oh, and god bless!
+infomercial disclaimer
+
+======
+
+INFORMATION ===============================
+ID: 1914
+TITLE: The Patenting
+AUTHOR: Ryu-Kazuki
+VERIFIED: True
+TAGS: 
+SET: Conference Room
+DATE: 08/11/25
+CHARACTERS ================================
+CEO: CEO:Boss Chair
+MANAGER: Manager:Office Chair 3
+INTERN: Intern:Entrance Stage Left
+LAWYER: Lawyer:Backstage
+SUGGESTIONS =============================
+TERRIBLE JOKE:A bad punchline to a joke:Get out of here,I'll see you in the dumpster,Cash me outside
+MANAGER NAME:Name or Audience Member:Kobayashi,Johnson,Clinton
+RIVAL COMPANY:A company name:Nintendo,PocketPair,Sony
+CEO NAME:Name or Audience Member:Miyazaki,Ford,Musk
+INTERN NAME:Name or Audience Member:Johnson,Dickson,Greyson
+IMPRESSIVE ACTION:A way to impress your boss:Impress,Glaze,Worship
+NEGATIVE ACTION:Something bad that can happen:Rejected,Fired,Turned Down
+ADJECTIVE1:A word to describe something:Tall,Small,Great
+EXCLAMATION:Something to scream out:Fiddlesticks,Dang it,Finland
+REFRESHMENT:Food or Drink:Coffee,Latte,Pizza
+FOOD BUSINESS:Name of Fast Food Chain:Dunkin',Burger King,Taco Bell
+ADJECTIVE2:An adjective:Unorthodox,Chilling,Dirty
+SCRIPT ==========================================
+noir music 3
+MANAGER: So then I tell that guy, TERRIBLE JOKE.
+CEO: (Laughing) Oh, MANAGER NAME! This is why I like you, you'll see a bonus this year for sure.
+CEO:It'll be a good year once we win that easy patent lawsuit.
+Manager: It's in the bag for sure. We'll put RIVAL COMPANY six feet in the legal graveyard.
+Intern: (Enter frantically & address CEO with Mr/Ms) CEO NAME! CEO NAME! I have grave news!
+CEO: Well, what is it INTERN NAME?
+Manager: (Irritated) Yeah, out with it! Can't you see I'm trying to IMPRESSIVE ACTION the boss here!?
+Intern: Our cases, they've been NEGATIVE ACTION! (Run to CEO and hand over documents) The courts said they were too ADJECTIVE1!
+vine boom
+CEO:(Take documents from Intern and slam the table) EXCLAMATION! Everything was going just as planned.
+Intern: What are we going to do CEO NAME? I just got this job, I can't get laid off already.
+Manager: You're the one who gets my REFRESHMENT from FOOD BUSINESS, right? Nah, you'll be fine INTERN NAME.
+Manager: (Thinking) You know? I could actually use some REFRESHMENT from FOOD BUSINESS for lunch this afternoon. How about go fetch some for me INTERN NAME?
+CEO: I think that's a great idea!
+CEO: It'll give me and MANAGER NAME some time to think this problem over.
+Intern: (Sigh) Right away boss.
+Intern: I guess talking to the cashier at FOOD BUSINESS gives me something to look forward to if the company goes under. (Exit stage left)
+mystery music 1
+Manager: Well, EXCLAMATION. What are we going to do about this?
+CEO: We may have to resort to some ADJECTIVE2 measures.
+Manager: (Gasp) You don't mean what I think you mean, do you?
+CEO: Well MANAGER NAME. We'll have to summon... (dramatic pause) it.
+Manager: Guess we had no choice after all. I'll light the candles for the seance. (Place candles on table and light them)
+CEO: When you're ready. (Begin chanting nonsense)
+Meanwhile Manager: (Join in the chanting)
+magic sound
+Teleport LAWYER to Center Stage
+scary music
+Lawyer: It is I. Su Yu Gewd. Who has summoned me?
+CEO: Oh ADJECTIVE2 legal consultant, Su Yu Gewd. We are in need of your IMPRESSIVE ACTION!
+Manager: We've lost our recent cases, and we need your ADJECTIVE1 powers!
+Lawyer: I see. Let me review your case.
+Lawyer: Hmm, it seems you've done a great deal on this. However, careless mistakes come with costs.
+CEO: What kind of costs are those, your legalness?
+Lawyer: Simple. ...Your payment rate is doubled.
+vine boom
+Manager: EXCLAMATION! What do you mean our rate is doubled!?
+Lawyer: You dare question my ADJECTIVE1 powers of legalese!? ADJECTIVE2 worm, I the great Su Yu Gewd will sue you good!
+CEO: MANAGER NAME! Don't anger it, the lawyer has too much power.
+Lawyer: Your insolence will cost you triple! No, quadruple!
+waterphone
+Manager: Quadruple!? How dare you! You're not even worth my salary bonus!
+Lawyer: I've had enough of you, suit. (Attack manager)
+explosion
+Manager: Ack!! (Die from the attack)
+lacrimosa music
+CEO: (Scream in horror) We've made such a ADJECTIVE2 mistake! Please, don't kill me!
+Lawyer: Flee from me! I demand compensation for wasting my time!
+CEO: (Exit stage left, screaming)
+Lawyer: That includes any late fees for my services!
+Intern: (Return to office, stage left) CEO NAME, MANAGER NAME. I've got your REFRESHMENT from FOOD BUSINESS.
+Intern: Wait, who are you? Where's the bosses? Oh God, why is MANAGER NAME lying on the floor!?
+Lawyer: Silence ADJECTIVE1 whelp, you stand before the great... 
+happy music 1
+Lawyer: Hey, is that REFRESHMENT from FOOD BUSINESS?
+Intern: (Confused) Oh, uhh yeah, why?
+Lawyer: I'm starving, sit with me, we'll have a working lunch.
+Intern: (Look to audience) Oh EXCLAMATION. This is what I get for finding a job on Craigslist.
 
 ======
 
