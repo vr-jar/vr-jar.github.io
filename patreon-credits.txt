@@ -1,5 +1,6 @@
 #TIER=0
 ~Akí~
+Fandango101
 Jarxty
 Princess lota
 XilonenGaming
@@ -1993,6 +1994,7 @@ vo_q
 XivaMilk
 ね お き
 #TIER=1
+CBR650R
 Foreversleepy_
 The way of life
 ༒R̶o̶n̶i̶n̶༒
