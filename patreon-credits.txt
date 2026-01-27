@@ -1,5 +1,6 @@
 #TIER=0
 ~Akí~
+catslina
 Jarxty
 Princess lota
 XilonenGaming
@@ -1697,7 +1698,6 @@ Fubuhito
 Glitchy_Fox
 Jääkaru
 JordanKujo
-Kuroyuri 黒百合
 MajorMinor
 MentalDebuff
 MoxiesKorner
@@ -1709,6 +1709,7 @@ Sherbert~
 ThatPortal
 ToasterPopz
 Wȯlf
+с н е г
 ~Diamond~
 actardebus
 AdorableAlphaUK
