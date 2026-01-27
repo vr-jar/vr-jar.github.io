@@ -60884,3 +60884,879 @@ BEN: You're right. The FOOD is rather delicious.
 
 ======
 
+INFORMATION ===============================
+ID: 1984
+TITLE: The Sing-Song Curse
+AUTHOR: ella3927lovingg
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 08/12/25
+CHARACTERS ================================
+FEMALE COWARD: GiGi:Stage Left
+EVIL GUY: Magic Evil Dude:Entrance Stage Left
+MALE VICTIM: Game:Stage Right
+LUCKYYYY: Good Guy:Entrance Stage Left
+SUGGESTIONS =============================
+MOOD 1:A really nevative feeling:preposterous,terrible,gloomy
+NEGATIVE THING:A nice thing:Nice,good,kind
+NAME 1:A funny name for someone:Jimmy Bombastic,Steve Lolly,Joanna Reyson
+DESCRIPTION:A nice word:Lovely,beautiful,pretty
+FEELING 2:any feeling:Disoriented,confused,dizzy
+COMPLIMENT:A famous celebrity singer:Ariana Grande,Justin Bieber,Opra
+MONEY:A large number:10000,99999,600000
+GUY:Nickname, or any short name really:chum,ol buddy,guy,kiddo,my G,big man
+CURRENCY:a type of currency:dollars,doubloons,vbucks
+SCRIPT ==========================================
+bluegrass music
+FEMALE COWARD: What a totally normal day. Right, GUY?
+MALE VICTIM: Mhm.. it's so MOOD 1.
+EVIL GUY: (enter stage left) Haha! I'm here to ruin this MOOD 1 day!
+FEMALE COWARD: Oh no! What will we do??
+MALE VICTIM: Stay behind me. I can handle this. 
+EVIL GUY: Are you sure about that? You're pretty NEGATIVE THING 1.
+MALE VICTIM: Of course I am! Come at me, NAME 1!
+EVIL GUY: Hahahahaha! So insolent.. ah well. Such a shame that I'll have to humiliate you infront of GiGi here..
+FEMALE COWARD: What's he talking about, GUY??
+MALE VICTIM: I'm sure it's nothing. Don't worry about it. (looks down)
+EVIL GUY: (waves hand at GUY and circles around him) Hahahahaha! I have cursed you! You're doomed for sure!
+FEMALE COWARD: Oh noo! This is totally not MOOD 1..! It's way worse!!
+MALE VICTIM: I..feel..funny..
+christmas music 2
+EVIL GUY: Sing for us, GUY! Hahahaha!! I'm sure it will sound.. DESCRIPTION..
+MALE VICTIM: (singing) ♫ What's going on?? I feel so FEELING 2... ♫
+FEMALE COWARD: Why are you singing?? What's all this music?? I'm FEELING 2!!
+MALE VICTIM: (singing) ♫ Don't worry, GiGi! Everything's fiiiiiiiiiineeeee! ♫
+EVIL GUY: (waves hand at gigi) Harmony sounds so DESCRIPTION! Why not join him?! Hahahaha!
+FEMALE COWARD: ♫ GUY, what's happening??? Why am I siiiiingiiiingg??? ♫
+EVIL GUY: I think I'll leave you two to that. Toodlooooo~! (exit stage right)
+MALE VICTIM:  ♫ GiGi, I think we have to sing everything we say!! ♫
+FEMALE COWARD: What will we dooooo??
+LUCKYYYY: (enter stage left) Does someone need some help?????
+MALE VICTIM: ♫  Over heeerreee!! ♫
+FEMALE COWARD:  ♫ Yes!! Over here! We need heeeeelp!! ♫
+LUCKYYYY: My, my, my! You both have dazzling singing voices! I guess COMPLIMENT taught you! Hehe!
+FEMALE COWARD:♫ Nevermind that! Please, help us! We need help. NOW! ♫
+LUCKYYYY: If you say so, friend! Now, what's the issue? All I hear is some DESCRIPTION singing.. seems pretty normal to (singing) meeee!
+MALE VICTIM:♫ NAME 1 cursed us! We have no choiiicce! Please, free us! ♫
+LUCKYYYY: Hold on now! I don't work for free. In fact, COMPLIMENT normally assigns me jobs, where I get payed MONEY CURRENCY per job! Pay up!
+FEMALE COWARD: ♫ What??? We can't pay that! We have no money! Let alone MONEY CURRENCYs!! ♫
+MALE VICTIM:  ♫ Wait, GiGi! Look! MONEY CURRENCYs! NAME 1 must have dropped it! ♫
+LUCKYYYY: So, where is may payment, folks? I don't have all day. PAY UP. NOW! (points finger at GiGi)
+FEMALE COWARD:  ♫ There's your money! MONEY CURRENCYs! ♫
+LUCKYYYY: Aha! So it is! Thanks, fellas! (Walk towards stage left exit)
+MALE VICTIM: ♫ Pay up! Now! You promised you'd help us! ♫
+LUCKYYYY: Oh, right. Damn it.. (clicks fingers) There. Bye bye now!! (exit stage left)
+dark classical music
+FEMALE COWARD: (Not singing anymore) It worked! GUY, it worked! We're free!
+MALE VICTIM:  (Not singing anymore) True.. but, there's still music. It's highly monotone. I hate monotone.
+FEMALE COWARD: So...?
+MALE VICTIM: Oh, whatever. Let's go.
+
+======
+
+INFORMATION ===============================
+ID: 1985
+TITLE: VRC E-Dating Offline Meeting
+AUTHOR: bro_g
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 09/12/25
+CHARACTERS ================================
+PLAYER: VRChat Player:Center Stage
+LOVER: VRChat Lover:Alley
+POLICE: A police officer:Stage Left
+SUGGESTIONS =============================
+PNAME:a VRChat Player Username:Didi9000,E-Boy123,Gru-MerrABC
+LNAME:cute VRChat username:E-GirlCutiePie,DaisyPinky,KittyPaw123,BumblebeeCutie
+THEN:any past event or time/date:last week,3 days ago,a month ago,last year,biden was president
+BADW:negative character trait(s):weirdo,stinky fool,uggo unc
+GOODW:positive character trait(s):hottie,stylish cutie,hunk
+SNACK:snack food:donut,cheetos,doritos
+MHEALTH:A mental health disorder:depression,PTSD,anxiety
+CRIME:serious crime:murder,domestic abuse,tax fraud,arson,money laundering
+WORLD:a VRChat world:The Pug,Black Cat,Freeze Tag
+ACTIVITY:Any activity that you do in VRChat:drinking,sitting in front of the mirror,playing never have I ever,watching funny videos,playing tag,telling stories
+AVATAR:a type of VRChat avatar:brush head,banana,shrek,furry,halo
+SCRIPT ==========================================
+Happy Music 1
+PLAYER: Okay. This is it. This is the day. This is where we are supposed to meet. My VRChat lover that I have been E-Dating since THEN
+PLAYER: Now, where is LNAME? I should check my messages. (pulls out phone)
+cellphone vibrate
+message receive
+LOVER: (look left and right, then look down to phone) Oh, LNAME, you are here already? I can’t see you anywhere.
+message receive
+PLAYER: (look left and right, then look down to phone) Me neither, PNAME. Where are you?
+message receive
+Music Stops
+Mystery Music 1
+PLAYER: Huh?
+Meanwhile LOVER: Wait..
+PLAYER: LNAME!?
+LOVER: PNAME!?
+PLAYER: But.. I thought you were a GOODW!?
+vine boom
+LOVER: And I didn’t expect you to be a BADW!?
+vine boom
+Music stops
+Tense cinematic music
+PLAYER: You.. you tricked me!
+LOVER: You did it first!
+PLAYER: You edited your pictures! The one you sent me, the GOODW-looking person! You look way different!
+LOVER: And you never said that you were a BADW! How could you have lied to me!?
+Music stops
+Emotional piano music
+PLAYER: Look, I’m sorry. I know I’m not what you expected. But you know how hard it is, having a MHEALTH.
+LOVER: I know, I'm sorry too. And you know I also have some form of MHEALTH. I completely understand.
+PLAYER: ..Remember the first time we met in VRChat?
+LOVER: Oh, that was a little while before THEN, right?
+PLAYER: Yeah, we went to WORLD that time.
+LOVER: Uh huh. And then we tried ACTIVITY together.
+Player: Wait, we really tried that in WORLD, did we?
+LOVER: Yup. I also remember you tried eating SNACK with your VR headset on.
+PLAYER: -While wearing a AVATAR avatar, too. I should have washed my hands after that. 
+PLAYER: By the way.. did you remember when I told you my secret?
+LOVER: I remember. You opened up to me. You told me that you did CRIME. 
+LOVER: And that was what made me believe you were a GOODW.
+PLAYER: (gets closer) LNAME..
+LOVER: (gets closer) PNAME..
+Music stops
+police car
+Tense cinematic music
+POLICE: (points gun at PLAYER) Freeze! Hands in the air!
+PLAYER: Oh no! (raises hand)
+LOVER: You have to run! We can’t be together if you spend your entire life in prison!
+PLAYER: O-okay. Right! I'll see you again!
+POLICE: Stop!
+PLAYER: You'll never catch me alive! (run to the yellow roadsign)
+POLICE: Bet. (aims the gun)
+(gunshot)
+PLAYER: AGH! (falls down dead)
+Music stops
+Piano theme
+POLICE: Suspect down. (looks at LOVER) And you, are you hurt?
+LOVER: (crying) I’m.. fine..
+POLICE: That was a dangerous person who did CRIME, way way before THEN. Luckily you were not hurt.
+POLICE: The paramedics will be here shortly. If there is anything else that you need, please let them know.
+LOVER: (crying) ..Yes..
+POLICE: Now if you will excuse me, I need to file a report. But maybe I should get some SNACK first.. (leaves the stage)
+Dark classical music
+LOVER: (stops crying) ..haha, just as planned.
+LOVER: (walks to PLAYER’s body) Did you think you could get away with CRIME? 
+LOVER: I know everything you did before you told me.
+LOVER: But you don't even know the people you messed with.
+LOVER: A GOODW with MHEALTH? You should have known better that it's too good to be true. 
+LOVER: And what sane person willingly tried ACTIVITY while wearing AVATAR avatar? Haha, what a joke!
+cellphone vibrate
+message receive
+LOVER: (Looks down to phone) Hmm.. Another target? Sure. I was just done with this one.
+message receive
+LOVER: No one’s gonna miss another loser from this loser game!
+message receive
+LOVER: (looks at the stage) Time to get ready for another job!
+
+======
+
+INFORMATION ===============================
+ID: 1993
+TITLE: Drunk Raccoon
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Grocery Store
+DATE: 11/12/25
+CHARACTERS ================================
+JESS: Jess, An Employee:Center Stage
+BOB: Bob, An Employee:Behind Register
+RICKY: Ricky, a Raccoon:Entrance Stage Left
+SUGGESTIONS =============================
+OBJECT:An object:Blockbuster card,Monopoly money,Chuck E. Cheese token
+PLACE:A location:Las Vegas,New Orleans,Bakersfield
+LIQUORTYPE:A type of liquor:rum,tequila,peach schnapps
+LFOOD:Type of food that's a liquid:soup,salsa,pumpkin spice latte
+ICON:A celebrity or icon:Oprah,Tom Brady,Baby Yoda
+NAME:A name:Chainsaw Larry,Snuggle Doug,Pickle Rick
+BNOUN:A noun that starts with the letter b:Barrell,broomstick,brandy
+CELEBRITY:A celebrity:Betty White,Shaquille O’Neal,Taylor Swift
+ANIMAL:An animal:gerbil,cockatoo,alligator
+SCRIPT ==========================================
+bluegrass music
+JESS: Bob. You are not gonna believe what I found in the restroom!
+BOB: If it's another customer trying to buy booze with a OBJECT, I’m calling security.
+JESS: Nope! It's a raccoon. Passed out beside the toilet. Smelling like a frat party in PLACE.
+BOB: Okay, that's very specific and I'm now suspicious. Tell me more.
+JESS: Little dude broke a few bottles of LIQUORTYPE, then just went face-down slurping it off the floor like it was LFOOD.
+BOB: Oh, you're not joking. No. Oh NO. This is bad. 
+JESS: What do you mean?
+BOB: We just contributed to the delinquency of a raccoon! I mean, technically I did, but you're an accessory now.
+JESS: What are you talking about? The raccoon entered the store and got into some LIQUORTYPE. On the plus side, our store could go viral.
+BOB: Viral? No! This is bad! I’m too good-looking for jail, Jess! They’ll make me trade cigarettes for OBJECTs! 
+BOB: Listen to me, very carefully. He's dead. You and I will need to hide the body. 
+JESS: (laughing) Relax! He’s fine! I covered him with a paper towel like a tiny alcoholic burrito.
+crashing debris
+JESS: I think the burrito's awake.
+RICKY: (enters from stage left) You guys got any LIQUORTYPE left? The floor vintage was truly chef's kiss.
+BOB: Oh, Ricky! I told you not to come back. We had an agreement.
+JESS: Oh my sweet ICON! He talks.
+BOB: Of course he does. He learned how when we weren't kissing.
+JESS: Really? What did you just say?
+RICKY: I told three rats to leave my trashcan, but they kicked me outside so aisle four in my home now.
+RICKY: I should've told you sooner, Bob. But you know, the alcohol. (slurring) It's really good.
+JESS: There are questions I'd like to ask, but a huge part of me is like, "Not today, NAME."
+RICKY: We're married.
+record scratch
+JESS: Definitely did not need to know that.
+RICKY: Bob got down on one knee, took out a half-eaten onion ring out of a bag of OBJECTs from the trash. It was beautiful.
+RICKY: But in all fairness, we were both ridiculously drunk.
+JESS: That doesn't make the situation any better.
+BOB: Well, the wedding was B-Y-O-B. Bring Your Own BNOUN.
+RICKY: (proudly) And we consummated our love under the neon "Cold Beer" sign. It was super romantic.
+JESS: You're legally married to a raccoon that looks like a cross between CELEBRITY and a hairy, miniature ANIMAL. 
+BOB: (defensive) Don't judge our love! It’s 2025! Love is love.
+JESS: You know what? I quit.
+BOB: You can’t quit. You're in too deep now. We're about to open for brunch rush!
+JESS: I’m leaving before raccoon-in-law becomes a job title at this place (exits stage right).
+RICKY: This isn't the worst thing to happen here at PLACE. 
+
+======
+
+INFORMATION ===============================
+ID: 1997
+TITLE: The Director's Vision
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: Skit
+SET: Western
+DATE: 12/12/25
+CHARACTERS ================================
+DIRECTOR: Director of the film:Entrance Stage Right
+ACTOR 1: The heroic Sheriff:Stage Right
+ACTOR 2: The evil Outlaw:Center Stage
+WRITER: The Writer:Stage Left
+SUGGESTIONS =============================
+ITEM:A small non-technological item:Candle,Woodchip,Cactus Puppet
+NAME:Any name:Jackson,Wilma,Sable
+OBJECT:An important item that can be stolen:Smartphone,Sandwich,Game Boy
+PLACE:A name for an old town:Ponderosa,Sandview,Ovalon
+EXOTIC:a far away land:West China,Grassview,Mordor
+MOVIE:A title for a movie:The Cactus,Bubblegum Crisis,Movie! The Movie
+STYLE:A style or genre of movie:Film Noir,Romantic Comedy,Musical
+AWARD:An absurd or made up award name:Razzmatazz,Gold Star Sticker,You Tried
+CATEGORY:An absurd thing to win an award for:Best Boy Grip,Ladders on set,Wallet
+SCRIPT ==========================================
+western showdown music
+ACTOR 1: End of the line, Gunner. Your days of troublein' the folks of PLACE are over.
+ACTOR 2: I ain't going down without a fight, Knight.
+ACTOR 1: That's Sheriff Knight to you! Now come here! (approach the outlaw)
+WRITER: Go Sheriff Knight! Throw that outlaw in the jailhouse for good!
+ACTOR 2: Don't you come no closer! I got a sack full of stolen ITEMs here! And I ain't afraid to use it!
+ACTOR 1: Drop the sack, Gunner! We're takin back those ITEMs.
+ACTOR 2: You're gonna have to pry it from my cold dead hands ya varmint!
+music stops
+DIRECTOR: (walk out on stage) Cut!!! No all wrong! This is all wrong! There's no emotion! No stakes!
+DIRECTOR: (look at writer) Why did you make ITEMs the thing the outlaw steals?
+WRITER: MOVIE is a story all about the shortage of ITEMs in PLACE. The outlaw is one of the causes.
+WRITER: It makes sense in the greater context. ITEMs are heartbreaking to lose!
+DIRECTOR: Maybe on paper but I feel nothing from this scene in practice! We need to come up with something else.
+DIRECTOR: I got it! How about instead of stealing ITEMs the outlaw steals a OBJECT?
+DIRECTOR: And even better. What if one of the OBJECTs he stole belonged to NAME! Sheriff Knight's beloved Wife!
+ACTOR 2: Arn't OBJECTs are a little out of period?
+DIRECTOR: That doesn't matter, we'll fix it later.
+ACTOR 1: But my character never had a wife!
+DIRECTOR: Well now they do! We'll throw in some voiceover lines about them being on vacation in EXOTIC or wherever.
+WRITER: But then how did the outlaw steal from NAME if they're in EXOTIC?
+DIRECTOR: If you want to argue plotholes with me I'll take you out of this scene!
+DIRECTOR: We'll figure that out later. Let's Redo the scene where the outlaw stole NAME's OBJECT! Action! (walk off stage)
+western showdown music
+ACTOR 1: (let out a short sigh) You really are one evil varmint, Gunner! Stealin NAME's OBJECT!
+ACTOR 2: Heh, so ya did notice. Their OBJECT is the purttyest in all of PLACE.
+WRITER: Stop him Sheriff Knight! My shop is one of the last places in PLACE that still has OBJECTs and ITEMs!
+ACTOR 1: You're comin' with me Gunner! Get over here! (approach the outlaw)
+ACTOR 2: (pull OBJECT out of the sack) Not so fast, Knight. Come any closer and I'll break NAME's OBJECT.
+WRITER: You monster! You wouldn't!
+ACTOR 1: (pause for a moment) You drive a hard bargain, Gunner. But I must protect the folks of PLACE before NAME's valuables.
+ACTOR 1: I can get them a new OBJECT before they get back from EXOTIC.
+ACTOR 1: Grahhh! (run at the outlaw and start fighting him)
+fistfight
+ACTOR 2: GRR! Ya stubborn little varmint! (fight back against the sheriff)
+WRITER: Do you want me to help... Sheriff?
+music stops
+DIRECTOR: CUT! (walk on stage) Quite good. But I think it still needs something.
+DIRECTOR: I think I know what will make the scene perfect. Let's do it in the style of a STYLE movie.
+WRITER: What the heck do you mean STYLE style! This is a western!
+DIRECTOR: Excuse me! Who is the one who won a AWARD award for best CATEGORY here! That's right I DID!
+WRITER: Are you really gonna pull the AWARD card on me again! You won in a weak year!
+ACTOR 1: Look man, I signed up to act in MOVIE which is a western. I'm not doing this scene in a STYLE style!
+ACTOR 2: I feel like our costumes and accents are way to western to just change to a STYLE type scene.
+DIRECTOR: That's why it's genius! Innovative choices like this are how I got the coveted AWARD award for best CATEGORY!
+WRITER: Look at this set! How do we play off this set if we change the style of the scene!
+DIRECTOR: We don't! It's subversive! Don't argue with a AWARD award winner!
+ACTOR 1: So you are really doing this. He stole my wife's OBJECT (point at the outlaw)
+ACTOR 1: And is now going to rob the store for more OBJECTs and ITEMs 
+ACTOR 1: And we have to do this scene where I stop him in the style of a STYLE film?
+DIRECTOR: Yes you do! And if you don't, I'll fire you! I'll fire all of you! (point to writer) Even you!
+WRITER: What did I do!?
+DIRECTOR: Action!
+epic cinematic music
+ACTOR 1: Uhh... N-Not so fast Gunner... by the power of PLACE... I will stop you.
+ACTOR 2: Y-Yeah right sheri- I mean uhh... Peacekeeper Knight? I have NAME's OBJECT. What are you gonna do about it?
+WRITER: (completely disinterested) Stop him Officer Knight.
+WRITER: He's a big scary man who's coming for my store full of OBJECTs and ITEMs
+ACTOR 1: I'm gonna stop you... Now come here. (approach the outlaw)
+music stops
+DIRECTOR: CUT CUT CUT! No! What is going on!? This is nothing like a STYLE! You people are all over the place!
+ACTOR 1: (frustrated) We don't know how to do this stupid scene in the style of a STYLE movie. This wasn't in our contracts!
+ACTOR 2: I think the scene was best in its original form. All your worthless ideas have done is make it worse.
+ACTOR 2: I'm pretty sure they didn't even have OBJECTs in the old west.
+ACTOR 2: And we're just supposed to listen to you cause you have a meaningless AWARD award that no one's heard of?
+DIRECTOR: How dare you! You're fired! I worked myself to death for that AWARD award! the best CATEGORY category is very competitive!
+ACTOR 2: Good! I don't want to work with a crackpot director like you anyway! Have fun with no villain! (walk off stage)
+DIRECTOR: MOVIE will still be a great film. So what if he's gone, I still have you. (look to the sheriff)
+ACTOR 1: (shake head) No. You don't, I quit too. I agree with the other guy.
+ACTOR 1: First you come in here, change the script with this NAME character and all this OBJECT nonsense.
+ACTOR 1: Then you want me to act like I am in a STYLE movie? Just cause you won some AWARD thing? No, screw this.
+ACTOR 1: (sarcastically) Can't wait to see your masterpiece. (walk off stage)
+WRITER: I told you not to change the script. I told you it would make the actors angry.
+DIRECTOR: (angry) Then you should have wrote a script that was actually good!!
+WRITER: I'm not dealing with that kind of hostility from you. I did what I was hired to do. I quit too.
+WRITER: You wanna be a big man and make all the decisions? Go ahead. Have fun doing it alone. (walk off stage)
+DIRECTOR: They are all fools. I'll finish MOVIE and it will be a smash hit! 
+DIRECTOR: They'll see they were wrong. They will all see!
+
+======
+
+INFORMATION ===============================
+ID: 2011
+TITLE: Midnight Catch
+AUTHOR: cambriancorruption
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Living Room
+DATE: 24/12/25
+CHARACTERS ================================
+HUSBAND: Husband:Backstage
+WIFE: Wife:Couch
+EMPLOYEE: Employee:Backstage
+COWORKER: Famous Co-worker:Backstage
+SUGGESTIONS =============================
+LOCATION:A location with employees:Mall,Hotel,Club
+CELEBRITY:A celebrity/famous person:Snoop Dogg,IShowSpeed,Jeff Bezos,Elon Musk
+SPOT:Somewhere someone can hide:In the cabinet,Behind the couch,Under the lampshade
+BODY:A visible body part:Neck,Arm,Face
+SMELL:Any bad scent:White Musk,Chanel No.5,Rotten Egg
+CLOTHING:Any article of clothing:T-Shirt,Hoodie,Jeans,Socks
+JOB:Any job besides an office worker:Cashier,Doctor,Cop,Pilot
+SCRIPT ==========================================
+(christmas music 1)
+WIFE: Where is he?
+WIFE: (Pace around the room) It's almost midnight, and on Christmas Eve of all nights...
+Teleport HUSBAND to Entrance Stage Right
+HUSBAND: (Stumble inside) Ugh... what a night...
+WIFE: Well, look who's finally home.
+WIFE: Long night?
+HUSBAND: Oh, you have noooo idea!
+HUSBAND: Such a long day at the... office!
+WIFE: You don't work at an office.
+WIFE: You're a JOB.
+HUSBAND: Oh, right.
+HUSBAND: ...I knew that.
+WIFE: (Sniff the air) Hold on.
+WIFE: What is that smell?
+WIFE: (Sniff around HUSBAND) Is that SMELL?
+HUSBAND: What? No, that's just... the city.
+WIFE: I know that smell, Larry.
+WIFE: And I certainly don't wear it. So, where were you really?
+HUSBAND: I was just out at LOCATION!
+HUSBAND: With some of my co-workers!
+WIFE: Funny. You've never come home smelling like that after LOCATION before.
+HUSBAND: Yeah, well, First time for everything.
+Teleport EMPLOYEE to Narrator Podium
+HUSBAND: Honestly, you worry way too...
+Meanwhile EMPLOYEE: (Call HUSBAND on your phone)
+(Gameshow Start)
+HUSBAND: (Put your phone up to your ear) ...Hello?
+EMPLOYEE: Hey, Larry!
+EMPLOYEE: I know this is kinda sudden, but I'm coming over.
+EMPLOYEE: You forgot something important.
+HUSBAND: Wait, what? Now?
+EMPLOYEE: Yes, now. See you in a minute.
+Teleport EMPLOYEE to Backstage
+HUSBAND: (Freeze, put phone away, then laugh nervously) Whoops! Wrong number!
+WIFE: (Cross arms) You're sweating.
+WIFE: You never sweat.
+HUSBAND: It's hot out!
+WIFE: It's snowing the night before Christmas.
+HUSBAND: ...Emotionally hot?
+HUSBAND: Hey, wait... who's are those?
+WIFE: What?
+HUSBAND: (Point to couch) The CLOTHING on the couch.
+WIFE: I- Those are yours.
+HUSBAND: I don't wear CLOTHING.
+WIFE: Yes you do! It's yours!
+HUSBAND: Really? Funny. I don't remember starting a new fashion choice. 
+WIFE: (Point at HUSBAND) Well, what about you?
+WIFE: What are those marks on your BODY?
+HUSBAND: (Look at BODY) Those are... stress marks.
+WIFE: Stress marks? Shaped like kisses?
+Teleport EMPLOYEE to Entrance Stage Right
+EMPLOYEE: (Enter through the Front Door) Hey! Sorry I'm late...
+EMPLOYEE: (Look at WIFE) Oh.
+EMPLOYEE: This is... awkward.
+WIFE: Who are you?
+EMPLOYEE: I'm... a friend?
+WIFE: You're friends with Larry?
+EMPLOYEE: ...Yes. From LOCATION.
+HUSBAND: (Relieved) See? Coworker!
+EMPLOYEE: Wait.
+Music stops
+(Record Scratch)
+EMPLOYEE: (Point at couch) Is that CLOTHING?
+EMPLOYEE: That looks really familiar...
+Teleport COWORKER to Center Stage
+COWORKER: Okay, first of all, I don't wear CLOTHING that often.
+Meanwhile HUSBAND: (Shocked) CELEBRITY?????
+COWORKER: Second of all, why are you here?
+EMPLOYEE: Why are YOU here?
+(Groose Music)
+HUSBAND: (Point accusingly) You were hiding CELEBRITY SPOT?
+WIFE: Well, you were cheating on me!
+COWORKER: Wait, you're cheating too?
+EMPLOYEE: You said I was the only one!
+Meanwhile HUSBAND: You said I was the only one!
+WIFE: Oh my god.
+WIFE: I've heard of love triangles, but not squares.
+COWORKER: An unloyal one.
+HUSBAND: (Pause) So... what now?
+WIFE: Honestly, it's Christmas. I'm too tired to be mad.
+(Christmas Music 3)
+EMPLOYEE: Same.
+Meanwhile COWORKER: Same.
+HUSBAND: So....
+HUSBAND: (Look at COWORKER) I know you're a bit of a big deal CELEBRITY but...
+HUSBAND: You wanna get out of here?
+COWORKER: (Shrug, leave the room) Yeah, I guess so.
+Meanwhile HUSBAND: (Leave the room with COWORKER)
+Teleport HUSBAND to Backstage
+Teleport COWORKER to Backstage
+EMPLOYEE: I'll just... leave, too. (Leave the room)
+WIFE: Merry Christmas, I guess.
+
+======
+
+INFORMATION ===============================
+ID: 2015
+TITLE: Residence Evil
+AUTHOR: Awsomepug965
+VERIFIED: True
+TAGS: 
+SET: Murder
+DATE: 25/12/25
+CHARACTERS ================================
+GUY: Guy who lives in house:Backstage
+JOHN: John Coolio:Entrance Stage Left
+JANE: Jannet Runk:Entrance Stage Left
+BOB: Bob Blumply:Entrance Stage Right
+SUGGESTIONS =============================
+ZOMBIE:A Monster or Creature:Vampire,Werewolf,Alien
+CRAZY:Adjective:Big,Crazy,Silly
+BEAUTY:Adjective ending in y:Fatty,Chunky,Beauty
+COLA:Drink:Soda,Apple Juice,Kool-Aid
+PEOPLE:Plural noun:People,Dogs,Cars
+XBOX:Game console:XBOX,PlayStation,Gamecube
+HALO:Video Game:Metal Gear Solid,Undertale,Monopoly
+HOUSE:Building:McDonalds,Bunker,Bar
+TACOS:Plural Noun:Burgers,Fries,Racecars
+WOODS:Biome or Environment:Desert,Woods,Mountains
+BEETHOVEN:Musical artist or genre:Heavy metal,Tobias Fox,Jazz
+PLANK:noun:Lego brick,old dinosaur skull,electric pipe
+SCRIPT ==========================================
+shark tank serious music 1
+break down door
+JOHN: (Run onto stage screaming) aaaaaaaa!
+Meanwhile JANE: (Run onto stage and barricade door behind you)
+JOHN: What the hell was that thing!?!?
+JANE: I don't know but it kinda looked like a ZOMBIE.
+JOHN: I swear I saw more, like...20!
+JANE: 20!? Yeah... sure...
+JANE: Help me block off this door!
+JOHN:(Catching breath) Alright, what are we working with?
+JANE: Not much, I'd say at least one old PLANK and this bookshelf.
+JOHN: What about the piano?
+JOHN: -Wait hold on it there a lock on it!?
+JANE: Y-Yeah? What kind of question is tha- oh..... My bad(reach hand out and use lock on door) It's locked now!
+JOHN: You serioulsy didn't check if there was a lock on the door?
+JANE: I was in a panic state...sorry.
+JOHN: It's fine, what else do they got in here?
+JANE: What!? What about the ZOMBIEs outside!?
+JOHN: Could've been CRAZY Homeless PEOPLE.
+JOHN: This place seems abandoned anyway, wouldn't hurt to make ourselves at home.
+JANE:You call this abandoned!?!?!?  Look at the walls! Look at the piano! Look at the lock on the door!
+JANE: Someone lives here...
+BOB:(Enter stage right) Jane! John! Glad to see you two made it, there was like 20 CRAZY Homeless PEOPLE out there and I thought you'd never make it!
+JANE: (Disbelief) BOB! BOB my man! You made it in one piece!!! I thought the ZOMBIEs got you out there!
+BOB: Those were ZOMBIEs!?
+JOHN: (Walk to piano and try playing it) I never learned how to do this...
+JANE: Have some respect to this place John!
+BOB: They have an XBOX with HALO on it.
+JOHN: They Do!?
+BOB: Yeah, and they have COLA and TACOS
+meanwhile JANE:(Facepalm) Oh my god ...
+BOB: I got some in the XBOX room, wanna come?
+JOHN: One moment.
+GUY:(Enter stage right yelling) What the hell is happening!? I'm trying to get my BEAUTY sleep!
+piano theme
+JOHN: Was that good?
+BOB: Yeah! That was great dude! You should try playing some BEETHOVEN next!
+Meanwhile JANE: Guys...
+GUY: Who are you people and what are you doing in my HOUSE!?!? Where the hell did you get that PLANK from!?!?!
+JANE: Sir, We are so sorry. We ran into your HOUSE for shelter... there were ZOMBIEs and they were trying to kill us.
+GUY: ZOMBIEs !?!? I thought those were CRAZY Homeless PEOPLE.
+JANE: Yeah- Wait what!?
+BOB: (Turn head in shock) I'm with her on that one. You willingly live with CRAZY homeless PEOPLE near your HOUSE out in the WOODS?
+GUY: You don't!?
+JANE:What!?!?!
+Meanwhile BOB: What!?!?!?
+scary music
+JOHN:Sorry.
+JOHN: I like this HOUSE in the WOODS though...
+JOHN: It has HALO on XBOX!
+BOB: Don't forget the COLA and TACOS!
+JOHN: Speaking of which, I'm gonna play and eat all of that right now!(Exit stage right)
+JANE: Wow....
+BOB: Hey dude, sorry about raiding your HOUSE and stuff but I'm with him. (Exit stage right)
+GUY: Some group...
+JANE: Tell me about it...
+JANE: (Sigh)Hey, let me unblock your door, get my friends out of here, and act like none of this ever happened, alright?
+GUY: (Nods) Alright- You can handle the CRAZY PEOPLE out here?
+JANE: We're trained for it.(rips barricade down) 
+GUY: For a bunch of trained individuals your team acts really immature.
+JANE: (sigh) You know it! 
+JANE: (Takes out weapon) I'll check for CRAZY PEOPLE in the WOODS and get my guys out of your hair.(Exit stage left)
+GUY: I should probably take care of the guest then.(Exit stage right)
+thunder
+JOHN:(Enter stage Right) What the hell was that!?!?!
+Meanwhile BOB: (Enter stage right catching breath) The XBOX! HALO! It's all gone!
+JOHN: W-Where's Jane!!?!??!
+BOB: Oh no man...
+BOB: The CRAZY Homeless ZOMBIE PEOPLE in the WOODS got her!
+JOHN: Don't talk like that.... 
+JOHN: Where's that other Guy!?!?!
+BOB: (Gasp) I bet he took the XBOX, our snacks, and Jane!
+JOHN: He must be the CRAZY Leader of the CRAZY ZOMBIE PEOPLE in the WOODS
+scary music
+JOHN: That was NOT me that time!
+Music Stops
+JANE: (Enter stage left) Guys.... there's no ZOMBIEs outside.
+JOHN: Jane!
+BOB: Then, what the hell were we running from!?
+JANE: Hey, where's that guy at?
+BOB: Gone, same with the XBOX, the copy of HALO, and our TACOS and COLA.
+JANE: What!?! You ate the XBOX too!?
+BOB: Nah, it like disappeared or something outta thin air.
+JOHN: (Go to piano) Well, guess that's that.
+waltz music
+JOHN: No ZOMBIES and No HALO.
+JANE: So are we gonna go? Cause I'm pretty sure this HOUSE and the WOODS are haunted.
+JOHN: Nah.
+Meanwhile BOB: Nah.
+
+======
+
+INFORMATION ===============================
+ID: 2045
+TITLE: Crime in Space
+AUTHOR: Metro․Max
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 12/01/26
+CHARACTERS ================================
+CAPTAIN: Captain:Boss Chair
+ENGINEER: Head Engineer:Office Chair 3
+DETECTIVE: Dectective:Stage Right
+SCIENTIST: Science Officer:Office Chair 2
+SECURITY: Security Cadet:Office Chair 1
+CREW: Crew Member:Stage Left
+SUGGESTIONS =============================
+ROOM:A Room on a Spaceship:Bridge,Security,Cargo Hold,Engineering,Medical,The Brig
+OBJECT:An object that breaks often:Brick,Printer,TV,Oven,Microwave
+WEAPON:A Weapon:Hammer,Gun,Brick,Knife,Crowbar
+ADJECTIVE:An Adjective of a person:beautiful,brave,intelligent,cheerful,curious
+CREATURE:A Creature out of this world:worm,cat,dog,mouse,Rhinoceros,Horse,Crocodile,Monkey
+ACTION:A Job or Task that is done on a Spaceship:Working out,Cleaning,Sleeping,Eating,Studying,Talking
+EMOTION:An Emotion:Happiness,Sadness,Anger,Depressed,Joy,Confused
+EXCUSE:An Excuse:Sleeping in my cabin,Eating in the mess hall,Crying in Medical,Driving the Ship,Going over everything in Cargo
+CATCHPHRASE:A Wacky Catchphrase:jinkies,zoinks,I dont know man I just work here,It is what it is,Yeah,okay... that makes sense
+NUMBER:A Number:67,12,50,70,100
+SCRIPT ==========================================
+TYPEWRITER: Location:Space;NUMBER thousand years in the future
+noir music 1
+CAPTAIN: Everyone, stay calm! Someone’s been attacked in the ROOM!
+ENGINEER: I-I was just fixing the OBJECT, I swear! Don’t point that WEAPON at me!
+DETECTIVE: Hmph! I’ve never seen such a ADJECTIVE crime scene in all my years of space investigating!
+SCIENTIST: According to my calculations, the CREATURE is somehow involved… or at least very suspicious.
+SECURITY: How ever Suspicious I may or may not be, we need to check who’s been ACTION near the crime scene!
+SECURITY: I’ll make sure no one escapes.
+CREW: I knew this day would come! I felt EMOTION all along, but no one listens to me!
+CAPTAIN: Enough! Everyone, explain yourselves. Why are you here?
+ENGINEER: I-I just wanted to see if the OBJECT could survive zero gravity… that’s all!
+DETECTIVE: Lies! And don’t forget to say it: "CATCHPHRASE!"
+SCIENTIST: Fascinating… the CREATURE may have left a clue… or maybe it just wants a snack.
+SECURITY: Fine, but if anyone tries to grab the WEAPON again, you’ll regret it.
+CREW: I knew the ROOM was dangerous, but I didn’t expect it to be this ADJECTIVE!
+CAPTAIN: Alright, everyone, form a circle. We’ll interrogate systematically.
+CAPTAIN:Let’s start with me I was EXCUSE.
+ENGINEER: That’s not an excuse! That’s… that’s actually somewhat believable. Maybe. Barely.
+DETECTIVE: Ha! I knew it. You all have been ACTION this whole time, haven’t you? Speak! "CATCHPHRASE!"
+SCIENTIST: According to my readings, the CREATURE could have done it.
+SCIENTIST: Or maybe it’s harmless. Or maybe it’s hungry. Definitely hungry.
+SECURITY: Someone grab the WEAPON again so I can make sure it’s not floating into the ROOM.
+CREW: Fine, fine! I’ll admit it… I was feeling EMOTION when I picked up the OBJECT. There, are you happy now?
+CAPTAIN: This is escalating! Everyone, focus! The CREATURE could strike again if we don’t coordinate.
+ENGINEER: Maybe we should just float around and hope for the best.
+ENGINEER:I mean, zero gravity makes everything more dramatic, especially the OBJECT!
+DETECTIVE: Dramatic indeed. Very ADJECTIVE.
+DETECTIVE:I shall write a full report in my personal log, which will be utterly ignored by everyone.
+SCIENTIST: I propose we run a final experiment with the OBJECT… 
+SCIENTIST:it could be the breakthrough or the end of us all. Either way, thrilling.
+SECURITY: Thrilling is fine, but surviving is better.
+SECURITY: Keep an eye on the ROOM, and don’t let that CREATURE fool you.
+CREW: I just hope the next time I say I feel EMOTION, someone actually listens…
+CREW: or at least records it for later dramatic effect.
+CAPTAIN: Alright, team, one last time who’s telling the truth, who’s lying, and who will survive the ROOM?
+CAPTAIN:"CATCHPHRASE!" Let’s solve this before the ship explodes… metaphorically… or literally.
+CAPTAIN: The lights flickered again! Did anyone see something ADJECTIVE lurking in the ROOM?
+ENGINEER: It wasn’t me! I was examining the OBJECT. Or maybe it touched me… I can’t remember.
+DETECTIVE: Aha! Classic diversion tactic. Trying to blame the CREATURE, are we?
+SCIENTIST: The CREATURE seems to be… judging us. Or perhaps laughing. Or maybe both.
+SECURITY: Judging or laughing, I must stay vigilant. I’ll patrol the ROOM and keep my WEAPON ready.
+CREW: I’ve never felt this EMOTION in my life! How is this even happening?
+CAPTAIN: Someone must have ACTION. Speak now, before it’s too late.
+ENGINEER: Well… maybe I saw someone ACTION again, but it was dark… very ADJECTIVE dark.
+DETECTIVE: Lies! You’re too ADJECTIVE to notice anything clearly.
+SCIENTIST: Or maybe the OBJECT is causing hallucinations…
+SCIENTIST: or maybe it’s plotting with the CREATURE.
+SECURITY: Hallucinations or not, I’m guarding the ROOM from anyone ACTION again.
+CREW: I need to express my EMOTION loudly, or the OBJECT might explode.
+CAPTAIN: Whoever says the next line must include: "CATCHPHRASE!" or face zero-g isolation!
+ENGINEER: Fine… "CATCHPHRASE!" There, floating into the wall while saying it.
+DETECTIVE: Now reveal who last ACTION, or I’ll blame the CREATURE for everything.
+SCIENTIST: According to my calculations, the OBJECT could still explode…
+SCIENTIST:or become sentient. Possibly both.
+SECURITY: Sentient or not, I’ll continue guarding the ROOM and questioning anyone ACTION.
+CREW: I was feeling EMOTION when I touched the OBJECT. That’s all.
+CAPTAIN: Team assembled. Suspense is high. Silliness is higher.
+CAPTAIN:Let’s solve this ROOM murder mystery… "CATCHPHRASE!"
+CAPTAIN: Everyone, the CREATURE has moved into the ROOM! Brace yourselves!
+ENGINEER: The OBJECT is glowing ADJECTIVE! I think it’s angry… or excited.
+DETECTIVE: I knew it! Someone’s ACTION is finally paying off! "CATCHPHRASE!"
+SCIENTIST: My calculations indicate a NUMBER% chance of either disaster or revelation… maybe both.
+SECURITY: I’ll guard the WEAPON and the ROOM. No one touches either without consequences!
+CREW: I’ve never felt so EMOTION! This is worse than floating through a meteor storm.
+CAPTAIN: Enough! Everyone, converge on the ROOM and explain your EXCUSE!
+ENGINEER: Alright… maybe I ACTION a little… but only because of the OBJECT!
+DETECTIVE: Preposterous! That’s exactly what a ADJECTIVE criminal would say.
+SCIENTIST: The CREATURE seems delighted… or maybe it’s plotting something… or both.
+SECURITY: I’m not taking chances. I’m locking down the ROOM and keeping the WEAPON within reach.
+CREW: I’m just going to keep feeling EMOTION until someone notices. Or writes a report. Preferably both.
+CAPTAIN: This concludes the final interrogation… or does it? "CATCHPHRASE!"
+CAPTAIN:Remember, the OBJECT may have the last word!
+ENGINEER: Floating, panicking, experimenting… all part of my daily routine now.
+DETECTIVE: And remember, everyone is ADJECTIVE when under my watchful eye.
+SCIENTIST: The CREATURE will either save us, eat us, or join us in scientific discovery.
+SECURITY: I remain vigilant. Anyone ACTION near the ROOM will face consequences.
+CREW: And I’ll keep dramatically expressing EMOTION until this chaos finally ends…
+CREW: or continues… probably continues.
+Music Stops
+TYPEWRITER: And then the ship exploded
+explosion
+
+======
+
+INFORMATION ===============================
+ID: 2048
+TITLE: Yellow Alive Revenge
+AUTHOR: cyborlinc
+VERIFIED: True
+TAGS: Skit
+SET: Western
+DATE: 14/01/26
+CHARACTERS ================================
+COWBOY 1: Jon Mustard:Stage Left
+COWBOY 2: Marthur Organ:Backstage
+MAIN ENEMY: Netherlands:Balcony
+ANTAGONIST: Dicah Smell:Backstage
+SUGGESTIONS =============================
+DISEASE:any disease, real or fake:cancer,ebola,stage 7 ass cancer
+GUN:type of fictional firearm:ray gun,pulse rifle,lawgiver
+DENY:a different way of saying "no":nuh uh,I beg to differ,I deny that
+CELEBRITY:famous celebrity:Justin Bieber,Rob Wiethoff,Michael Jackson,Stephen king
+NAME:friendly/polite thing to call someone:Cowpoke,partner,friend,old friend,pal
+FREAKY RACCOON:stated description and species of a weird animal:creepy-eyed raccoon,squiggly little snake,big ol moo moo cow,panda that ate too much hot sauce,caked up catgirl-snake hybrid,spongebob if he was fat
+HISTORICAL EVENT:any event from the recent/distant past:nine twelve,vietnam,five nights at freddys 2 dropped
+DEFEAT:violent action:defeat,conquer,ruin
+APOLOGY:an apology you might say:sorry,my bad,I apologize
+ACTION:an action which is illegal:gambling,drinking,cheating
+ORGAN:one or more human organs:heart,lungs,stomach,brain
+BEATABLE OBJECT:something you can beat:steak,ceasar salad,roadkill,animatronic bear
+SCRIPT ==========================================
+COWBOY 1:(walk to center stage) It's Jon Mustard Netherlands!
+courtroom music
+Main Enemy: Hey there Jon.
+Meanwhile COWBOY 1: (Look up towards balcony)
+COWBOY 1: It's just you and me Netherlands.
+Main Enemy: DENY
+COWBOY 1:What do you mean, "DENY"?
+Main Enemy: I brought someone you might know.
+COWBOY 1: Really? Is it CELEBRITY?
+MAIN ENEMY: Ye- I mean, no? Why would you...
+COWBOY 1: I'm a big fan of them.
+MAIN ENEMY: Why- nevermind, I brought Dicah Smell.
+ANTAGONIST: (Enter stage right) Hey there NAME, nice weather eh?
+COWBOY 1: Yes indeed. Wait, how are you here? You went missing since HISTORICAL EVENT!
+ANTAGONIST: (Rapidly) Well Jon, you see I was just...
+MAIN ENEMY: Shut up Dicah, we are here to DEFEAT him, not tell him a bedtime story.
+ANTAGONIST: APOLOGY
+MAIN ENEMY: You made a big mistake showing up by yourself Jon Mustard.
+music stops
+western hero theme
+COWBOY 2: (Enter stage left) Nope Netherlands, you made a mistake.
+MAIN ENEMY: Marthur Organ? But you died from DISEASE last year!
+COWBOY 2: My death was, greatly exaggerated.
+COWBOY 1: Doesn't Metro Man say that? (look at Marthur)
+music stops
+record scratch
+COWBOY 2: Be quiet Jon.
+COWBOY 1:Ok...
+Cowboy 2: I said shut up Jon!
+meanwhile COWBOY 1:(look down in dissapointment) 
+western showdown music
+ANTAGONIST: Well what are you gonna do?
+COWBOY 1: We're gonna beat you harder than a BEATABLE OBJECT.
+ANTAGONIST: How? There's 2 of us, and 2 of you.
+music stops
+COWBOY 2: Well we have a GUN.
+ANTAGONIST: No you don't, GUN are impossible to aquire!
+COWBOY 2: Show em your GUN Jon.
+COWBOY 1: (reaching in pocket) Uh oh 
+COWBOY 2: What? What happened?
+COWBOY 1: I left it at home
+cellphone vibrate
+MAIN ENEMY: What's that?
+COWBOY 1: Oh, that's me.
+music stops
+COWBOY 1: (Answers phone) Hello?
+COWBOY 1: No, I'm not ACTION.
+COWBOY 1: Ok, I love you too, ok bye.
+western showdown music
+ANTAGONIST: That's it right? no more distractions?
+COWBOY 2: Shouldn't be.
+COWBOY 1: (pulls out gun) let's get this party started then.
+MAIN ENEMY: (get gun from holster) Yes, we shall.
+COWBOY 2: (aim at Dicah Smell with gun) I also have a gun.
+music stops
+gunshot
+COWBOY 1: (shoot Dicah) I shot him Marthur!
+music stops 
+ANTAGONIST: (writhe in pain) Oh my God! You shot my ORGAN!
+sad chug jug music
+ANTAGONIST: Netherlands! I might not survive this one. (die)
+Teleport ANTAGONIST to BACKSTAGE
+Main enemy:Darn! I had a plan! You ruined it all!
+COWBOY 2: We're gonna give you a chance Netherlands, (point gun at Netherlands)you either leave, or we DEFEAT you.
+MAIN ENEMY: What's that over there? (point at something in the distance)
+music stops
+yankee doodle music
+COWBOY 2: What is it? (look where Netherlands pointed)
+meanwhile COWBOY 1: (look in the distance) what is it?
+MAIN ENEMY: Yeah it's somewhere over there. (exit stage)
+COWBOY 2: (look back towards Netherlands) I don't see anything. Wait, where'd he go?
+COWBOY 1: (look at Marthur) I think he ran away like a no-good yellow-bellied FREAKY RACCOON.
+COWBOY 2: Man, I knew I should've just shot him.
+
+======
+
+INFORMATION ===============================
+ID: 2051
+TITLE: Sports Trivia Gameshow
+AUTHOR: MystykalMystyk
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+DATE: 17/01/26
+CHARACTERS ================================
+HOST: Gameshow Host:Host Podium
+CONT1: Contestant #1:Contestant Podium 1
+CONT2: Contestant #2:Contestant Podium 2
+SUGGESTIONS =============================
+HOST:A name:Johnathan,Vincent,Bobby,Martha
+CONT1:A name:Larry,Danny,Ariana,Dave
+CONT2:A name:Bob,Marty,Mort,Patricia
+ADJ:An adjective:Exciting,amazing,beautiful
+LEAGUE:A sports league:NHL,NBA,MLB,NFL
+TEAM1:A team:Leafs,Broncos,Browns,Argos
+FEAT:A werid sports feat for one game:Most distance traveled on one foot,most trips caused,most bumps into a single person
+BADRULE:A bad rule:A speed limit,no falling,eyes closed
+ILLEGAL:An illegal activity:Gambling,Doing drugs,Robbing banks
+FULLNAME:A full name:John Smith,Auston Matthews,Tom Brady
+NUMBER:A number:10,40,100,3280
+USER:A username:DanTDM,MystykalMystyk,PopularMMOs
+SCRIPT ==========================================
+gameshow intro
+HOST: Hello ladies and gents I'm HOST, and it's time to see who's the biggest sports fan!
+HOST: Let's meet our contestants! Contestant 1, what is your name?
+CONT1: Hello everyone! My name is CONT1! I'm excited to test my knowledge!
+HOST: Interesting! Now Contestant 2, What is your name?
+CONT2: I'm CONT2, I'm probably better than CONT1
+CONT1: Oh, I'm so sure.
+HOST: Well, that's what this gameshow is about!
+HOST: Shall we get started?
+crowd woo
+CONT1: I'm ready!
+CONT2: I'm readier!
+CONT1: That wasn't a competition.
+CONT2: When you're as ADJ as I am, everthing is a competition.
+HOST: Question One! In 1984, what team in the LEAGUE lost every single game?
+gameshow timer music
+gameshow buzzer
+music stops
+CONT2: That would be the TEAM1.
+gameshow ding
+HOST: Correct! That's one point to CONT2.
+CONT2: I know it is, HOST, I'm the best.
+CONT1: One point, CONT2.
+CONT2: And I'll get the rest.
+HOST: Question Two! TEAM1 also acomplished what feat in 1984?
+gameshow timer music 
+gameshow buzzer
+CONT1: FEAT in a single game!
+gameshow ding
+HOST: Impressive! One point to CONT1!
+CONT2: Lucky guess.
+HOST: Question 3! In 2013 the LEAGUE implemeted a rule that caused backlash
+HOST: What was that rule?
+gameshow timer music
+music stops 
+CONT1: That would be BADRULE.
+HOST: Correct!
+CONT1: (look at Contestant 2) How ya feeling?
+CONT2: Shut up.
+HOST: This next round is worth double points! 
+HOST: In 2009 this player was caught ILLEGAL, what is his name?
+gameshow bonus round
+gameshow buzzer
+music stops
+CONT1: That would be Paul Smith.
+HOST: Incorrect! CONT2, you have the chance to take it all! Who was it?
+CONT2: I believe that would be FULLNAME.
+gameshow ding
+HOST: And there we have it folks! CONT2 wins NUMBER dollars!
+CONT1: I never liked this game anyway (walk off stage)
+CONT2: Thank you, HOST for having me!
+HOST: We hope you all enjoyed this episode of Sports Trivia!
+HOST: We look forward to having you all back! (Point into audience) Especially you, USER!
+gameshow outro
+
+======
+
