@@ -55215,155 +55215,6 @@ RON: Not again, we should have went to PLACE.
 ======
 
 INFORMATION ===============================
-ID: 1821
-TITLE: Superhero Radio Show!
-AUTHOR: Cluebacca
-VERIFIED: True
-TAGS: Skit
-SET: News
-DATE: 08/10/25
-CHARACTERS ================================
-DOREEN: Energetic superhero :News Desk
-NANCY: Sassy best friend :News Desk
-DUDE: Arrogant caller:Backstage
-CRIMINAL: Awkward villain :Backstage
-SUGGESTIONS =============================
-FAKE:Silly superhero name:Captain underpants,John Real Man,Fish Miss
-OBJECT:Any object (plural):boats,swords,Dr. Pepper bottles,teddy bears
-HERO:Superhero name :Squirrel Girl,Major Muffin,Bass Lass
-ANIMAL:Real or mythical animal :kangaroo,squirrel,unicorn,stegosaurus
-PERSON:Noun for a person :girl,man,woman,boy
-NUMBER:A number:30,352,45,7468
-BAD:Something you say when things go wrong :biscuits,nuts,shucks,dang nabbit
-CITY:City name (real or fictional) :NEW New York,Chicago,London,Lego city
-EVIL:Evil organization name :Brotherhood of Evil,Butt Jiggle Gang,League of Dastardly Evil Doers
-GUY:Guy’s name:Jacob,Clark,Sherlock Bluffkin
-FAMOUS:Famous person (real or fictional):Kim Possible,Da Vinci,Ryan Reynold,Carmen Sandiego
-SCRIPT ==========================================
-DOREEN: Hi everyone! Welcome to the show. I’m Doreen, aka HERO
-DOREEN: Beside me is my producer and best friend, Nancy. Whose superpower is talking to OBJECT
-NANCY: I absolutely cannot talk to OBJECT
-DOREEN: Oh come on anyone can talk to OBJECT, getting them to answer is the tricky part. Also! Nancy has another super power, producing radio shows!
-NANCY: (laughs) Just so we’re all clear, I'm a regular human, with no powers. And I’ve never seen this equipment before
-NANCY: But Hi everyone! I’m Nancy
-DOREEN: And I’m still Doreen. A superhero with all the powers of a ANIMAL, and all the powers of a PERSON
-DOREEN: And as a hero, I thought maybe, I could help people with wise advice instead of just with vigilante justice
-DOREEN: This is going to be a call-in show. What’s the number Nancy!
-NANCY: 646-647-3243
-DOREEN: 646-647-3243! Give us a call! Whether you’re a regular person or crime curious. I’m ready to help
-TYPEWRITER: NUMBER minutes later
-DOREEN: (whispers) Nancy no one is calling
-NANCY: Boss was very clear that we’d only get to keep doing this if people called
-DOREEN: (quietly frustrated) I know! I thought people would love to talk to a superhero! This is so embarrassing
-NANCY: Um so Doreen. There’s no non-sucky way to say this, but your mic still works when you whisper
-DOREEN: Ugh! (sigh) Okay everyone, at this point we’ll even take calls from super villains
-NANCY: Uhh we- we will?
-DOREEN: Yeah! That way I can tell them three things
-DOREEN: One: stop doing crime. Two: if you're thinking of doing crime, don't do it. And three: enjoy the show
-NANCY: We finally have our first caller!
-DOREEN: (excited) Hello caller, you’re live on HERO’s radio show!
-Teleport DUDE to Fake street backdrop
-DUDE: Hey, it’s GUY. Is this the homework cheating help line?
-DOREEN: Aww BAD..
-NANCY: No, this is HERO’s superhero help line. I think you got the wrong number
-DUDE: Do superheroes help with cheating on homework? I just want the answer to #4 on the algorithms 1-5 assignment
-DOREEN: We’re not giving out answers
-DUDE: (arrogant) Well a real hero would heroically take into account how much I HATE doing algorithms homework
-Teleport DUDE to Backstage
-DOREEN: On second thought maybe not getting calls wasn’t so horrible
-Meanwhile DUDE: (put on hero avatar)
-NANCY: (happily) Welp to bad, cause we got another call coming in
-DOREEN: Caller, you’re live with Doreen. Please don’t ask me how to cheat on homework
-Epic fantasy music 2
-Teleport CRIMINAL to Fake Street backdrop
-CRIMINAL: (menacingly) Am I live?
-DOREEN: (annoyed) Yup
-CRIMINAL: Good. I want ALL CITY City to hear what I have to say
-NANCY: You are definitely calling into the wrong show then
-CRIMINAL: Listen well HERO, because if you don’t do exactly what I say, I’m going to steal FAMOUS’s “Starry Night” from the Museum of Modern Art
-CRIMINAL: (unsure) And what I want is for you and your friend to continue doing this show, unabated!
-CRIMINAL: (awkwardly menacing) You hear me? Unabated!
-DOREEN: (shocked) Wait-uh, what?!
-CRIMINAL: (awkwardly menacing) Oh sorry, was that not clear? “Starry Night”. It’s a painting!
-CRIMINAL: Of a night
-Meanwhile DOREEN: Mhm?
-CRIMINAL: Famously starry.
-DOREEN: Yeah?
-CRIMINAL: I’m going. To. Steal. It
-CRIMINAL: I can’t make this more clear
-DOREEN: (confused) No I meant ‘Wait what’ as in you're threatening to steal the art if we stop doing the show?
-DOREEN: You’re trying to blackmail us into doing something we’re already doing?
-DOREEN: Also do you mind turning that music down?
-CRIMINAL: NEVER! This is my dramatic effect music! Do not dare to test me HERO!
-NANCY: We’re definitely going to be here next week now
-DOREEN: See, so there’s no need to steal any art, and you don’t have to threaten people to do what they’re gonna do anyway
-CRIMINAL: (menacingly) You will regret it if you stop doing this show. Discontinue it. At. Your. Peril
-Teleport CRIMINAL to Backstage
-Music stops
-NANCY: No caller ID on that one
-DOREEN: That’s sinister and concerning
-DOREEN: Just so we’re clear, we’re gonna continue the show, so none of our listeners steal anything okay?
-NANCY: We’ve got a caller!
-DOREEN: Hello, you're on the air with HERO
-Teleport DUDE to fake street backdrop
-DUDE: (heroically) Greetings fellow heroes! I’m the Believeable FAKE! Also involved in a never-ending fight for freedom and justice
-DUDE: And I’ve got a bit of a super conundrum here. Time is of the essence!
-DOREEN: Absolutely friend
-DUDE: Excellent! You need to know that the EVIL has poisoned CITY’s water supply
-DOREEN: Uh- what?! We’ve got to stop them!
-DUDE: Hold on. I, the Believeable FAKE, is on the case! The challenge is this
-DUDE: There’s 500 substations that carry water throughout our city, and the poison could be in any one of them
-DUDE: The poison is bitter, it’s undetectable to most but my sense of super taste can pick it out even when diluted
-DUDE: Thankfully, as a superhero, I can endure small sips of the toxin. But even I have my limits
-DOREEN: Of course!
-Meanwhile NANCY: (skeptical) Wait a minute?
-DUDE: So my question is this. What’s the minimum number of sips I need to expose myself to in order to identify which one of the 500 substations is poisoned?
-NANCY: (upset) You jerk! You’re the caller from before
-DOREEN: This is the first superhero radio show and you're trying to get us to cheat on homework GUY!?
-NANCY: It’s a binary search problem, isn’t it?
-DOREEN: Yes, It’s a stupid binary search problem
-DOREEN: You combine a drop of water from half the stations into one glass and half into another and sip to see which glass is bitter
-DOREEN: Then recursively repeat the process for the bitter glass stations until you’ve found the poisoned one DUH
-NANCY: So? That’s what, nine sips to cover 512 water stations?
-DOREEN: We’re not doing your homework GUY
-DUDE: HAHA! You just did. Thanks for the answers suckers
-Teleport DUDE to Backstage
-NANCY: Okay, so GUY did brutally own us there, but honestly I could see EVIL trying to pull something stupid like that
-DOREEN: Well, if EVIL is listening to our show, now they know, we know how to effectively foil their plans
-Message receive
-NANCY: (Looks at phone) Wait a minute, I just got a News alert on my phone
-NANCY: “Starry Night”- blah blah blah, FAMOUS’s most famous work- blah blah
-NANCY: (shocked) Has been stolen from the Museum of Modern Art?! 
-DOREEN: Our brand new hater stole FAMOUS’s greatest masterpiece?!
-NANCY: (looks at watch) In what, less than ten minutes?
-DOREEN: But we’re still doing the show?! UGH I hate crimes committed for stupid reasons
-NANCY: Truly the worst star in the criminal motivation constellation
-NANCY: (sarcastically) Oh joy, another caller
-Teleport CRIMINAL to fake street backdrop
-CRIMINAL: (out of breath) I have the painting!
-DOREEN: Put it back now!
-CRIMINAL: (out of breath) Haha, wait. Hold on, I just gotta
-Epic fantasy music 2
-CRIMINAL: (menacingly) Ah, there we go, dramatic effect. Ha ha! The painting is mine!
-Police car
-DUDE: (backstage) FREEZE
-CRIMINAL: (pretend a cop is in front of you) Ah! Back off copper, or I’ll destroy the painting
-DOREEN: Look, maybe we can to talk about this
-CRIMINAL: (awkwardly menacing) Haha, never! “Starry Night” is starry…not..yours anymore!
-DOREEN: But we never stopped doing the show, you know that, right?
-CRIMINAL: I’ll tell you what else I know. This crime spree is just beginning! Unless you do what I say
-DOREEN: No, you know what? No threats, no nothing! The crime spree is just ending actually, because we are taking you down
-Teleport CRIMINAL to Backstage
-Music stops
-DOREEN: (To Nancy) They’re clearly on foot, they’ve got to be near the museum
-DOREEN: (To audience) Sorry listeners, but duty calls. Ba-Bye! (exits)
-NANCY: Well I better go too. I’m the voice of skeptical reason on the team
-NANCY: Next week's episode we’ll have a jailhouse interview with our criminal, or the exclusive scoop on how they made their escape
-NANCY: (while exiting) Doreen! Wait!
-
-======
-
-INFORMATION ===============================
 ID: 978
 TITLE: Lawn Mowing
 AUTHOR: Ahmadsyar
@@ -55905,133 +55756,6 @@ JUD: Court dismissed. (bang gavel)
 Meanwhile DEF: (react to verdict)
 ACC: I need to tell my beautiful CHAR right now!
 courtroom sting
-
-======
-
-INFORMATION ===============================
-ID: 1706
-TITLE: Attack of the Produce Aisle!
-AUTHOR: ModalSoul
-VERIFIED: True
-TAGS: 
-SET: Forest
-DATE: 17/06/25
-CHARACTERS ================================
-DEMON: Demon Warrior:Entrance Stage Left
-SON: Strong Warrior's Son:Entrance Stage Left
-SHORT: Short Warrior:Backstage
-PRIDE: Prideful Warrior:Backstage
-MUSCLE: Brutish Warrior:Backstage
-NAR: Suspenseful Narrator:Narrator Podium
-SUGGESTIONS =============================
-STNAME:Name of a strong person or fictional character:Wukong,Sakuya Izayoi,Kratos
-PLANET:The name of a planet:Earth,Mars,Pluto
-WITEM:An item with some magic power in it:Lamp,Glass Ball,Party Favors
-SHOW:The name of a show, any show:Fresh Prince of Bel Air,Danny Phantom,Steamboat Willie
-VEGGIE:A type of vegetable:Lettuce,Cabbage,Tomato
-SWEET:A sweet dessert:Pie,Ice Cream,Bon Bons,Crepes
-WEEK:A day of the week:Sunday,Wednesday,Thursday
-HOLIDAY:A holiday:Valentine's Day,Christmas,Black Friday
-EVIL:A really evil crime:Tax Evasion,Stealing,Grand Theft Auto
-COUNTING:A machine that can read numbers:Fax Machine,Computer,Scouter
-ATTACK:The name of a powerful attack or technique:Special Beam Cannon,Light Grenade,Clothes Beam
-PET:An animal that would be rude to call someone:Dog,Cat,Tiger
-SCRIPT ==========================================
-Badass Music 1
-NAR: Last time, on SHOW Z!
-NAR: A mysterious warrior named Daikon arrived on PLANET, claiming to be the brother of its strongest fighter, STNAME. 
-NAR: Kidnapping their son Grains, STNAME would make an unlikely alliance with his sworn nemesis, the Demon Warrior Zucchini.
-NAR: Wait, you haven't seen the original SHOW, you wouldn't know who that is. Hmm... Think of a really bad guy, like EVIL level evil. But he's chill.
-NAR: That aside, both STNAME and Zucchini would defeat Daikon, but at a great cost...
-NAR: STNAME would be severely injured by Zucchini's ATTACK, leaving him out of commission. And even worse...
-NAR: Zucchini learned through Daikon's COUNTING device of two more Produce Warriors arriving on PLANET in just one short year.
-NAR: With so little time to prepare for their arrival, PLANET's fighters trained vigorously until the fateful day arrived...
-TYPEWRITER: Arugula and Brussels Attack! The First Sign of Trouble!
-Spy Music 1
-DEMON: (enter Stage Left) Those leafy green freaks will be here any minute, Grains. Get yourself warmed up.
-SON: (enter Stage Left) Alright, Mr. Zucchini! (stretch and shadow box)
-DEMON: (facing Strong Warrior's Son) I doubt these guys will fight fair. Don't let them shake you up.
-SON: (continue shadow boxing) After all of your training, I don't think there's anything that could stop me!
-SHORT: (enter Stage Right) I thought I saw you guys over here! Hey! (wave)
-SON: (stop shadow boxing and look towards Stage Right) Hey, it's Krill!
-Crowd Woo
-SHORT: (move to Stage Left) I figured I would find you guys around here!
-DEMON: Fashionably late as always, Krill.
-SHORT: I know, but hey, I'm here now; that's what counts!
-DEMON: What even took you so long to get here?
-SHORT: Was working on a new technique! If Zucchini has that ATTACK, I should work on something new, too!
-SHORT: Still workshopping a name though... 
-SHORT: Oh, yeah! I went and gave STNAME a hoagie before I got here too, he wanted one! Made sure he got the best!
-SHORT: Made sure it had everything he'd want, meat, toasted bread, mayo, VEGGIEs...
-SON: Wait... did you just say VEGGIE?
-SHORT: Yeah..?
-SON: My dad's allergic to VEGGIEs!
-SHORT: (shocked) Oh. Oh no.
-DEMON: (to Short Warrior, furious) You can't be serious! We're gonna be down our best fighter because of a hoagie! I should just kill you right now and--!
-Explosion
-Music Stops
-DEMON: (shocked) They're here!
-Forest Footstep
-Teleport PRIDE to Entrance Stage Right
-Teleport MUSCLE to Entrance Stage Right
-PRIDE: (do not enter stage yet!) Too bad that its WEEK, Brussels. Those buildings we landed on would've been filled tomorrow.
-MUSCLE: (do not enter stage yet!) A real shame, Arugula... Everybody knows that HOLIDAY is held on PLANET this time of year.
-PRIDE: Oh yeah? Well I didn't.
-Forest Footstep
-PRIDE: (enter Stage Right) Well, well, well... What do we have here?
-MUSCLE: (enter Stage Right) Looks like a bunch of PETs with idle hands sittin' around. Hands that look like they want to fight us, Arugula.
-PRIDE: (turn and face Brutish Warrior) Think these "PETs" have been waiting for us long, Brussels?
-MUSCLE: I sure hope not.
-PRIDE: Either way... (turn and face group on Stage Left) A pleasure to meet you.
-DEMON: (stare down Prideful Warrior) The pleasure's mine.
-Tense Cinematic Music
-PRIDE: So, one of you must be the one who beat Daikon. I must say, I am impressed.
-PRIDE: You've managed to beat the weakest of the Produce Warrior Race, and yet you PETs stand here like you can beat us.
-PRIDE: Whether it be ego or insanity, I commend you for even standing up to us right now.
-MUSCLE: How about I do my one good deed for the day and let you guys off easy? Tell us where the WITEM.
-MUSCLE: If ya do, we'll leave here with it and Daikon's death is water under the bridge.
-SHORT: We, uh... can't tell you where the WITEM is. Once you make a wish with it, it disappears for an entire year.
-MUSCLE: What?! (angry) What in the world did you use it for?!
-SHORT: (flustered) Well, I, uh...
-MUSCLE: Spit it out, half-pint! What did you use the WITEM on!?
-PRIDE: Now now, that's no way to communicate, Brussels. 
-MUSCLE: Sorry. Now, what did you use the WITEM for?
-SHORT: Uh... (turn and face Demon Warrior and Strongest Fighter's Son) Don't get mad guys, but I might've used it for that hoagie I gave to STNAME...
-Vine Boom
-DEMON: (furious) What?!
-Meanwhile SON: (in disbelief) You didn't...
-MUSCLE: (furious) On a sandwich?!
-Meanwhile PRIDE: (facepalm, disappointed) What a waste...
-Epic Fantasy Music 2
-DEMON: Enough! Hoagie aside, this our home. And we're not going to let you trample on it as you see fit!
-DEMON: (gesture to Strongest Warrior's Son and Short Warrior) And neither will they!
-SON: You tried to take me away from my dad, away from PLANET! I'll never forgive you
-SHORT: We aren't gonna back down! We'll show you that we aren't PETs!
-PRIDE: Looks like diplomacy is out of the question. Sorry, Brussels.
-MUSCLE: Eh, I'm over it. Let me get a crack at these guys, Arugula. Show 'em we mean business.
-PRIDE: Go right ahead. Just don't embarrass yourself out there.
-MUSCLE: (walk towards center of stage) Alright, let's check their power... (touch side of head)
-MUSCLE: They're all so weak! Beating these wimps is gonna be as easy as SWEET!
-PRIDE: (mumble) Could go for some SWEET...
-MUSCLE: (look back) What was that, Arugula?
-PRIDE: Nothing. Just be careful. They can hide their power from our COUNTINGs.
-MUSCLE: Right. (turn back to Stage Left group) Guess I won't be needing this COUNTING then.
-MUSCLE: Not that it makes a difference, it'll be like taking candy from a baby, which is fine by me! Come on!
-DEMON: Grains, Krill, coordinate your attacks and overwhelm him! If we can't beat him by ourselves, then we wait for everyone else to get here!
-DEMON: If push comes to shove, then I'll ask you to hold that musclehead back while I charge my ATTACK. 
-SHORT: That doesn't sound too bad--
-DEMON: For five minutes. And given how it took me and STNAME both to kill Daikon, you'll have it even worse Krill.
-SHORT: Oh. Not as good.
-SON: I'm ready, Mr. Zucchini! Let's get 'em!
-DEMON: Let's go! And Krill, we're gonna talk about that hoagie wish later! (charge at Brutish Warrior)
-Meanwhile SON: Here I go! (follow Demon Warrior and charge)
-SHORT: Aw jeez, do we really need to? (charge in after the other two)
-NAR: The assault begins against the first Produce Warrior known as Brussels!
-NAR: Will the defenders of PLANET be able to stop these Aisle 1 Terrors?
-NAR: Will STNAME and the others arrive in time to stop the bloodshed?
-NAR: Was Krill's hoagie really worth using a wish on the WITEM? Of course it wasn't!
-NAR: Find out next time as the Attack of the Produce Warriors continues! (ignore Short Warrior and keep talking)
-Meanwhile SHORT: Wh-- Hey! I thought it was be a good idea at the time! I know you can hear me! (approach Suspenseful Narrator) Hey!
 
 ======
 
@@ -57737,140 +57461,6 @@ GIRL: Awww, I thought you'd never noticed this CLOTH was expensive
 WAIT: You haven't eaten a single bite of your FOOD
 GIRL: wanna free meal?
 MAN: Would love too.
-
-======
-
-INFORMATION ===============================
-ID: 1934
-TITLE: FIlms With Soul(s)
-AUTHOR: ModalSoul
-VERIFIED: True
-TAGS: Skit
-SET: Conference Room
-DATE: 17/11/25
-CHARACTERS ================================
-MANAGER: Mr. McMovie:Boss Chair
-ASSIST: Director's Assistant:Entrance Stage Left
-MOVIE: Movie Director:Office Chair 3
-SUGGESTIONS =============================
-ACTNAME:The name of an actor:Tommy Wiseau,Cathy Mitchell,Dwayne Johnson
-IMPORTANTITEM:A common household applicance:Blender,Sink,Lamp
-TWIST:An animal or object that would take anyone by surprise:Elephant,Pickle Lighter,100 dollars in pennies
-MOVIENAME:A common name:Dale,Earl,Clyde
-STUDIO:The name for a fictitious movie studio:Big Movies Inc.,Super Movies Inc.,Movies & You Inc.
-BIGNUMBER:A three digit number:328,600,543
-ACTION:A verb:Fighting,Jumping,Training
-EXISTING:A small animal or object you don't think about much:Ant,Dust,Brussel Sprout
-COMPANY:The name of a business or company:Exxon,K-Mart,Wawa
-SCRIPT:The name of an Audience Anarchy script:Anarchy Court,Who's Cuter?,Attack of the Produce Aisle
-ELABORATE COFFEE ORDER:an elaborate coffee order:100 ice cubes no sugar,tell them to put every single ingredient in the cup,1000 pumps caramel 1 pump vanilla,just throw some dirt in there because I need my nutrients
-FORTNITE:One or more things that kids love:fortnite and poppy playtime,liveleak gore compilations,FNAF 3 featuring Chris Pratt
-SCRIPT ==========================================
-Jazz Music 2
-MANAGER: Oh, MOVIENAME! Good to see you. Please, have a seat.
-MOVIE: Thank you, Mr. McMovie. (sit down across table from Mr. McMovie)
-MOVIE: I've been hard at work with the writers working on STUDIO's next big hit!
-MANAGER: Good to hear! Ever since we managed to get ACTNAME on our projects, we've been bleeding money!
-MANAGER: If there isn't a gem in these here scripts, I might just have to let you go!
-MOVIE: Mr. McMovie, you're such a kidder! (laugh nervously)
-MANAGER: (deadpan) I'm serious.
-MANAGER: After all, we have to make sure each film has some soul.
-MOVIE: Oh... I-I see.
-Knocking on Door
-MANAGER: (jovial) That must be my assistant with the scripts now! Come on in!
-Door Creak
-ASSIST: (enter Stage Left) Good morning, MOVIENAME. (walk towards Mr. McMovie) Here are the completed scripts, Mr. McMovie.
-MANAGER: That's quite a lot of paper...
-ASSIST: There are at least BIGNUMBER scripts in the pile, sir.
-MANAGER: That's... a lot of scripts.
-ASSIST: Indeed it is.
-MOVIE: We went for quantity this time around, sir. If we cast a wide net, we're sure to catch a few fish!
-MANAGER: Sure you will... Say, assistant, would you mind getting me some coffee?
-ASSIST: Okay, Mr. McMovie! What would you like?
-MANAGER: ELABORATE COFFEE ORDER. And make it snappy!
-ASSIST: Of course, Mr. McMovie. I'll be right back! (exit Stage Left)
-MANAGER: Alright, let's take a look at a few of these... 
-MANAGER: (reading like a newspaper) The Art of ACTION...
-Japanese Music 1
-MANAGER: A young martial artist, played by ACTNAME pursues the man who kidnapped their sister...
-MANAGER: Along the way the martial artist finds out that the plot goes deeper, fighting a clan of ninjas using...
-MANAGER: (confusion) TWIST as their motif?
-Gong
-MOVIE: It's a coming of age flick, the TWIST ninjas are symbolic. 
-MANAGER: Sure... Anyways;
-MANAGER: The martial artist defeats the leader of the TWIST ninjas with the IMPORTANTITEM uppercut, the mastered technique of his martial art.
-Fistfight
-Jazz Music 2
-MOVIE: Inspiring, isn't it! Would make anybody want to start kung-fu fighting!
-MANAGER: Okay, some questions for you MOVIENAME. First off, where did the IMPORTANTITEM uppercut come from?
-MOVIE: We figured that making the main character's special move based on something familiar would strike a chord with audiences.
-MANAGER: And that target audience is..?
-MOVIE: For the family?
-MANAGER: Can't imagine any families wanting to go see that.
-Laughter
-MANAGER: And ACTNAME as a "young martial artist?" We'd need to spend more money on a stunt double!
-MOVIE: But think of how well it would do in the theaters!
-MANAGER: But there's no soul in it, MOVIENAME. We can't use this.
-Knocking on Door
-MANAGER: Come in.
-ASSIST: (enter Stage Left) Your coffee, sir.
-MANAGER: Thank goodness. Say, assistant, could you read the next script while I enjoy my coffee?
-ASSIST: Of course, Mr. McMovie. Let's see... (reading like a newspaper) The Life of EXISTING.
-Meanwhile MANAGER: Gotta love a cup of joe... (enjoy your coffee while Director's Assistant reads)
-Groose Music
-ASSIST: The plot follows an animated version of EXISTING during their day to day life. Their joys, struggles, and everything in-between.
-ASSIST: The main EXISTING being voiced by ACTNAME, I presume? (look at Movie Director)
-MOVIE: Indeed! (nod yes)
-ASSIST: Wonderful. Anyways...
-ASSIST: Everything changes when BIGNUMBER TWISTs uproots everything the EXISTING stands for. 
-ASSIST: The EXISTINGs are able to co-exist with the TWISTs following a long struggle in the final act with help from the IMPORTANTITEMs.
-Jazz Music 2
-MOVIE: So? Whaddaya think? It's got a good message for the kids, and we don't need a stunt double for ACTNAME!
-ASSIST: Forgive me if this comes off as rude, but this movie seems like it would be horribly boring. No soul in it at all.
-Vine Boom
-MOVIE: But-- but it's not about being entertaining! It's about being informative!
-ASSIST: But kids aren't stupid, director. They can get the message just fine, but they'd also like to be entertained.
-ASSIST: We're competing with FORTNITE here!
-MANAGER: I have to agree with my assistant, if it's boring to McMovie, it'll be boring to anybody. 
-MANAGER: Besides, STUDIO doesn't have the money for animators either!
-MOVIE: You know what, both of you stay right there! I'm gonna read the next one and it'll knock your socks off!
-MANAGER: Be my guest, director. There's literally hundreds to pick from.
-MOVIE: And I'll pick the best one! (get up and shuffle the scripts around) Aha! Now this is a good one!
-MOVIE: Entrigue! Mystery! Horror! Everything you'd want and more! 
-ASSIST: The preamble is nice, but please do hurry up. Mr. McMovie has a meeting with COMPANY in five minutes.
-Church Bell
-Dark Classical Music
-MOVIE: ACTNAME is settling into a home they won in a lottery, a mansion up in the hills...
-MOVIE: And then, while ACTNAME is watching SCRIPT... BAM!
-Chainsaw
-MOVIE: A IMPORTANTITEM-themed slasher villain with a chainsaw saws through the door!
-MOVIE: And worse yet..!
-Explosion
-MOVIE: BAM! A pyromaniac busts through the back door! ACTNAME tries to keep them away, but its no use!
-Fire Alarm
-MOVIE: With the house going up in smoke, everything seems lost for ACTNAME! But then... 
-Alien Siren
-Lacrimosa Music
-MOVIE: Aliens come to rescue ACTNAME, praising them like a god! Wanna know why?
-MOVIE: Because ACTNAME sold them BIGNUMBER TWISTs from a one-off infomercial seven years ago!
-Alien Teleport
-MOVIE: ACTNAME becomes ruler of the cosmos, leaving everything behind on Earth to spread TWISTs across the stars!
-Jazz Music 2
-MOVIE: How'd you like that one, McMovie?! It's thrilling! It's got twists! It's the perfect movie!
-ASSIST: The perfect movie to go straight to TV, maybe.
-MANAGER: Seriously, what is this stuff, MOVIENAME?
-Emotional Piano Music
-MANAGER: STUDIO is about films with soul, beautiful works that can inspire and entertain for generations!
-MANAGER: With you trying to commodify the craft, that soul just isn't there.
-MANAGER: Besides, including a show such as SCRIPT is just going to bring that one down to your level. I can't stand to let that happen. 
-MANAGER: I'm sorry MOVIENAME, but I have to let you go. If your writing team has no soul, perhaps we'll just use theirs AND yours.
-ASSIST: Maybe a few of the writers, too?
-MANAGER: Good idea, assistant! I'll make a note of that.
-Scary Music
-ASSIST: Sorry, MOVIENAME. But you shouldn't be so scared. You're going to be part of a box office hit, just like you wanted.
-MANAGER: In a movie with some real soul. A STUDIO hit for generations.
-MOVIE: (pleading on the verge of tears) Wait, wait please! Just give me a little more time! I can make more! Just give me more time-! Nooooooo!
-Piano Theme
 
 ======
 
@@ -61757,6 +61347,625 @@ CONT2: Thank you, HOST for having me!
 HOST: We hope you all enjoyed this episode of Sports Trivia!
 HOST: We look forward to having you all back! (Point into audience) Especially you, USER!
 gameshow outro
+
+======
+
+INFORMATION ===============================
+ID: 2053
+TITLE: The Safe Room
+AUTHOR: TheMajinGlaceon
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+DATE: 18/01/26
+CHARACTERS ================================
+GAMBLER: Gambler Survivor:Stage Right
+COACH: Coach Survivor:Corner Right 
+MECHANIC: Mechanic Survivor:Corner Left
+REPORTER: Reporter Survivor:Chair
+SUGGESTIONS =============================
+CREATURE:A Type of Undead Creature:Zombie,Undead,Cordycep,Necromorph
+CLOTHES:A piece of clothing:Suit,Jacket,Pants,Shirt
+MEDICINE:A type of healing item:medkit,pill,band-aid
+SHOCK:A phrase for a shocked reaction:SHOOT,DOLLOP TO DONUTS,WHAT THE
+RANGE:A type of range weapon:glock,rifle,AK-47
+MELEE:A type of melee weapon:bat,baton,shovel,ax,machete
+LIMBS:A body part:skull,head,kneecap
+BUDDY:Name of a friend:Keith,David,Ellis,Billy Bob
+STORY:A past event worth telling a story about:share the same bedroom,went to the super bowl,saw a rock concert
+VEHICLE:A vehicle used for escaping:truck,helicopter,plane
+ACTIVITY:something people can do together:go roller blading,visit Japan,play VRChat
+SCRIPT ==========================================
+mystery music 1
+MECHANIC: Man, That was too close!
+GAMBLER: Yeah, No kidding! Didn't you see the CREATUREs that was chasing us?
+REPORTER: Now not the time for complaining. Have anyone got bitten by a CREATURE?
+GAMBLER: Beside some scratches and blood stain on my CLOTHES, Nothing.
+COACH: Thank goodness for that. Now look around, There might be some MEDICINEs around here.
+meanwhile MECHANIC: (Looking around the area.) Sure thing.
+REPORTER: (Found box) I found the MEDICINEs set.
+COACH: SHOCK!!! There's only 2 MEDICINEs.
+MECHANIC: Well damn. That going to be a problem.
+GAMBLER: Well, I will just take one and you guys will debate for the other.
+music stops
+record scratch
+halloween music
+COACH: Excuse me!
+MECHANIC: Yeah, Why you get the one MEDICINE?
+GAMBLER: Because I was the one that found the Safe Room.
+REPORTER: Only after you stay back while we been busy dealing with those CREATUREs.
+MECHANIC: Yeah I did most of the shooting with my RANGE.
+COACH: Yeah and I had to use a MELEE to bash some CREATURE LIMBS.
+REPORTER: If anything, You seem like the least reasonable person to have it.
+vine boom
+GAMBLER: (sigh) Look, I'm the leader of the group, And I say that I should have this MEDICINE.
+COACH: I don't recall voting you leader.
+groose music
+MECHANIC: Have I ever told you about the time me and my buddy BUDDY STORY.
+MECHANIC: It wasn't something I expected BUDDY to agree on but...
+music stops
+GAMBLER: Hey, No one want to hear your story about how you and your friend STORY.
+halloween music
+REPORTER: (Stand between GAMBLER and MECHANIC) Boys, this is no time to start a fight.
+COACH: Right. We still got a long way of CREATUREs to deal with before we get to the Ecape VEHICLE.
+COACH: I say we'll worried about this later.
+GAMBLER: Fine. But you better hope the next Safe Room we find have more stuff for us to use.
+REPORTER: Whatever. Let just get going. I'm ready to bust some LIMBS. (Exit through the door.)
+Meanwhile GAMBLER: (Exit through the door.) Let me make sure I got enough ammo in my RANGE.
+music stops
+MECHANIC: Say, You ever hear about that time STORY?
+COACH: No.
+MECHANIC: You want to ACTIVITY together later?
+COACH: Eh, I don't see why not.
+laughter
+
+======
+
+INFORMATION ===============================
+ID: 2058
+TITLE: Jeevik Week
+AUTHOR: Fair6redoplayer
+VERIFIED: True
+TAGS: 
+SET: Dining Room
+DATE: 19/01/26
+CHARACTERS ================================
+EMPRESS: The Empress:Backstage
+CRITERIA: Criteria, the Host.:Center Stage
+DRONE: The Empress' Drone:Backstage
+WISHKID: Loner, Wish Kid:Entrance Stage Right
+CALIAN: Calian, an Assistant:Center Stage
+GUEST: A random guest:Stage Left
+SUGGESTIONS =============================
+PARTYNAME:A name for a cool party.:The Rave,Awesome Sauce,Sweet n' Sour
+CODENAME:A name for an undercover agent.:Bricks,MR. PIBB,Hamburger
+FOOD:A food you wouldn't have at a party:Smoothie,Apple Pie,Bologna
+WISH:Something you would want to get as a last wish:VRChat Plus,BMW,Money
+MOVIE:A movie you would love to watch:Toy Story,Megamind before the sequel,The Legends of Dumb Dumb Kid
+VEHICLE:A vehicle that a fancy person would never drive:Brokie's Worn Down Car,Unicycle,iCar
+PROP:Literally Anything:Cotton Candy Machine,Chicken Burger,Billy Mays Billboard
+QUIRK:quirky character trait/feature:Funny walk,Silly Talking,Awful Scent
+TIME:a time of day:Night,Evening,Sunrise
+WEAPON:any weapon:Gun,Sword,Gasoline
+MATERIAL:any material/substance:Leather,Godly Material,Ghee
+NUMBER:Any number greater than one:2,115,935,666
+SCRIPT ==========================================
+australian music 1
+TYPEWRITER: At the party named PARTYNAME, The participants are waiting for the empress to arrive. It is currently TIME.
+GUEST: (Enter stage left) Alright. I just prepared the PROP and got the FOOD for this party.(Put PROP and FOOD on table)
+CRITERIA: Excellent. Anyways, I hope everything's going well. 
+CALIAN: Well, Yes. Of Course It is.
+CALIAN: I even believe that we absolutely nailed the FOOD this time.
+CRITERIA: (Say this in a excited tone) Oh, yeah! 
+CRITERIA: Wait. The Guest Brought that in.
+GUEST: It was a pain to aquire the FOOD for this party.
+GUEST: I was at the store when i saw a VEHICLE in the parking lot.
+record scratch
+dark classical music
+CRITERIA: (addressing the other person) So. Calian. I see you are doing well.
+CALIAN: addressing the other person) Hmm. Indeed, Criteria. I see you are also doing well.
+CRITERIA: Enough small talk.
+CRITERIA: You know what this means.
+CALIAN: Indeed. The empress is coming very soon.
+WISHKID: (Enter Stage Right) H-Hewo? Is this the PARTYNAME
+CRITERIA: Wait a second. (Look at the Wishkid) That's the kid we saw on the news.
+CALIAN: How did they know that we were hosting this PARTYNAME
+WISHKID: O-oh! The uh Empress told me abowt this!
+CALIAN: That dang Empress! Why would they say something about this?
+CRITERIA: I don't know?
+GUEST: (Sit in the chair on the right) I am digging these seats though.
+CRITERIA: I mean, yeah. They are premium chairs made from MATERIAL!
+GUEST: Wow! MATERIAL is very premium from where I came from.
+CALIAN: Yes, but it is very cheap for us.
+GUEST: How much did it cost?
+CRITERIA: Oh! Just a measly NUMBER Credits.
+GUEST: NUMBER Credits?!?! That is my entire salary! How can you afford that?
+CRITERIA: Calian and I are very high on the pyramid.
+WISHKID: Oh! Oh! The Empwess awso towd me to tell you something.
+CRITERIA: Okay. Ask away!
+WISHKID: Can I have a uhh WISH??
+vine boom
+CRITERIA: A WISH?!
+bard music 2
+WISHKID: Uhh Yeah?
+CALIAN: We aren't the Empress. We can't go around and just buy WISH's for everyone!
+WISHKID: W-what?(Start crying) 
+CALIAN: (Whisper to Criteria) Gosh Darnit.
+CRITERIA: (Go to the wishkid) Okay little one, calm down.
+WISHKID: (Stop crying) W-What?
+CRITERIA: Well, we also just so happen to have a PROP here! Maybe that could be something.
+WISHKID: Oh my goodness! I always wanted one of these!
+CRITERIA: (Give the wishkid the PROP) Great, Uhh have it!
+WISHKID: Oh my! Thank you! Ms. Cwitewia!
+CRITERIA: Say. What's your name?
+WISHKID: It's uhh Loner!
+CALIAN: Hooray! More irrelevant information for the day.
+WISHKID: I'm gonna go and pway with this PROP!(Exit stage right)
+silly music 1
+CALIAN: Thank god that's over.
+GUEST: Man.
+GUEST: (facepalm) I spent NUMBER Credits on that PROP. 
+GUEST: And you just gave it away?
+CALIAN: Right...
+CRITERIA: Well, we will just pay you later.
+GUEST: Whatever. I will just eat some of the FOOD.
+TYPEWRITER: A few minutes later...
+discord notification
+CRITERIA: Oh wait! That's my phone!
+CRITERIA: (read a phone) ...The Empress is approaching the building rapidly!
+CALIAN: I'm not really ready yet, but we will make do.
+GUEST: I think I did well cooking the FOOD for her.
+heavy door knocking
+bluegrass music
+CRITERIA: Well, nothing left to it, but to do it.
+CALIAN: You're gonna be culled with that attitude.
+EMPRESS: Yo! Wazzup Y'all!
+GUEST: Forgot how they show off a significant amount of QUIRK
+CRITERIA: (Nervous) U-uh Hi Ms. Empress!
+CALIAN: Hello Empress.
+GUEST: Ugh. The Empress.
+EMPRESS: I jus got done eatin some FOOD at the poverty store!
+EMPRESS: I also got dat WISH for the little kiddo (Snort)
+CALIAN: We didn't have to buy it after all.
+CRITERIA: At least we don't feel negative.
+EMPRESS: (Whistle) Oh CODENAME!!!
+alien siren
+DRONE: (Enter stage right and stand next to the empress) Beep Boop. 
+DRONE: (Robotic voice) Roughly NUMBER WISHs have been ordered. Set to arrive at TIME tomorrow.
+EMPRESS: Good drone.
+CRITERIA: S-so, Ms. Empress. What brings you here at TIME?
+EMPRESS: Well, Ya know how an uhh homies hangout with one anotha?
+CALIAN: Well, Yes?
+GUEST: I share a very negative opinion of you, empress. I demand less taxes!
+EMPRESS: Whacha say to me, runt?
+EMPRESS: You are aware of my CODENAME's WEAPON aresnal, right? Prepped to harm ya NUMBER times, right?
+GUEST: Are you aware of how only lower people drive around in a VEHICLE, and you look like a total nerd doing it?
+EMPRESS: Enough! CODENAME. Execute this runt!
+DRONE: (get out your WEAPON) Understood.
+explosion
+GUEST: (act in pain)O-Ow! I-i was gonna watch MOVIE W-when I get home...
+EMPRESS: CODENAME, Drag them outta this PARTYNAME!
+DRONE: (drag the guest out of here through the right entrance.) understood beep boop
+meanwhile GUEST: (get dragged out by the drone) I was gonna watch MOVIE!!
+EMPRESS: The protagonist gets culled anyways, loser!
+CRITERIA: That was rather violent.
+CALIAN: Well, it's the empress. What did you expect?
+EMPRESS: So, what is y'alls opinion on MOVIE
+DRONE: (Enter stage right.) Complete.
+meanwhile CRITERIA: It sucked.
+CALIAN: I agree. The protagonist had a wish and wasted it on a PROP, some FOOD, and a WEAPON. The QUIRK was also very annoying to handle.
+CRITERIA: It reminded me of how you act, empress. Especially with that QUIRK.
+vine boom
+scary music
+EMPRESS: How dare you say that of me! (Snort) CODENAME! Execute them all!
+DRONE: (get out your WEAPON) Prepare for NUMBER injuries, if you survive
+explosion
+CRITERIA: (Die) NOO!
+meanwhile CALIAN: (Die)I Cannot believe this!!!
+EMPRESS: Wow! What a sloppy party! (Snort)
+DRONE: Completed.
+WISHKID: You. You kilwwed my fwiends!
+WISHKID: (Enter from top) Face the wwath of my PROP!!
+knife wound
+EMPRESS: (Die) WHY!!
+DRONE: Host is dead.
+WISHKID: Wowie. That was so hawd. 
+WISHKID: Wanna be my fwiend, Mr Tall man?
+DRONE: Confirmed.
+WISHKID: Yay!
+
+======
+
+INFORMATION ===============================
+ID: 1821
+TITLE: Superhero Radio Show!
+AUTHOR: Cluebacca
+VERIFIED: True
+TAGS: Skit
+SET: News
+DATE: 08/10/25
+CHARACTERS ================================
+DOREEN: Energetic superhero :News Desk
+NANCY: Sassy best friend :News Desk
+DUDE: Arrogant caller:Backstage
+CRIMINAL: Awkward villain :Backstage
+SUGGESTIONS =============================
+FAKE:Silly superhero name:Captain underpants,John Real Man,Fish Miss
+OBJECT:Any object:boat,left shoe,Dr. Pepper,teddy bear
+HERO:Superhero name :Squirrel Girl,Major Muffin,Bass Lass
+ANIMAL:Real or mythical animal :kangaroo,squirrel,unicorn,stegosaurus
+SUBJECT:A school subject:Geography,Algorithms,Computer Science,English
+BAD:Something you say when things go wrong :biscuits,nuts,shucks,dang nabbit
+CITY:City name (real or fictional) :NEW New York,Chicago,London,Lego city
+EVIL:Evil organization name :Brotherhood of Evil,Butt Jiggle Gang,League of Dastardly Evil Doers
+GUY:Guy’s name:Jacob,Clark,Sherlock Bluffkin
+FAMOUS:Famous person (real or fictional):Kim Possible,Da Vinci,Ryan Reynold,Carmen Sandiego
+BYE:Funny way to say goodbye:May the force be with you,Ctrl-Alt-Deleting myself out of here,Ciao,pizza pals,Toodaloo mother chuckers
+SCRIPT ==========================================
+Superhero music
+DOREEN: Hi everyone! Welcome to the show. I’m Doreen, aka HERO, and I have all the powers of a ANIMAL!
+DOREEN: I thought maybe I could help people with wise advice instead of only with vigilante justice.
+DOREEN: Beside me is my producer and best friend, Nancy!
+NANCY: Hi everyone! I’m Nancy.
+DOREEN: This is going to be a call-in show. What’s the number Nancy!
+NANCY: 646-647-3243
+DOREEN: 646-647-3243! Give us a call! I’m ready to help!
+NANCY: We’ve got our first caller!
+DOREEN: Hello caller, you’re live on HERO’s radio show!
+Teleport DUDE to Fake Street Backdrop
+DUDE: Hey, it’s GUY. Is this the homework cheating help line?
+DOREEN: Aww BAD..
+NANCY: No, this is HERO’s superhero help line. I think you got the wrong number.
+DUDE: Do superheroes help with cheating on homework? I just want the answer to #4 on the SUBJECT 1-5 assignment.
+DOREEN: We’re not giving out answers.
+DUDE: (arrogant) Well a real hero would heroically take into account how much I hate doing SUBJECT homework.
+Teleport DUDE to Backstage
+DOREEN: Okay, maybe this radio show wasn’t the best idea.
+Meanwhile DUDE: (put on hero avatar)
+NANCY: Welp to bad, cause we got another call.
+DOREEN: Caller, you’re live with HERO. Please don’t ask me how to cheat on homework.
+Epic fantasy music 2
+Teleport CRIMINAL to Fake Street Backdrop
+CRIMINAL: (menacingly) Am I live?
+NANCY: (annoyed) She just said you are live?
+CRIMINAL: I want all CITY to hear what I have to say
+NANCY: You are definitely calling into the wrong show then.
+CRIMINAL: Listen well HERO, because if you don’t do exactly what I say, I’m going to steal FAMOUS’s OBJECT from the Museum of Modern History.
+CRIMINAL: (unsure) And what I want, is for you and your friend to..
+CRIMINAL: (menacing) To continue doing this show! Unabated!
+DOREEN: (shocked) Wait, what?!
+CRIMINAL: (awkwardly menacing) Sorry, was that not clear? FAMOUS’s OBJECT. It’s a historical item!
+DOREEN: Yeah?
+CRIMINAL: I’m going. To. Steal. It. I can’t make this more clear.
+DOREEN: (confused) No I meant ‘Wait what’ as in you're threatening to steal the OBJECT if we stop doing the show?
+DOREEN: You’re trying to blackmail us into doing something we’re already doing?
+NANCY: We’re definitely going to be here next week now.
+DOREEN: See, so there’s no need to steal the OBJECT.
+CRIMINAL: (menacingly) You will regret it if you stop doing this show. Discontinue it. At. Your. Peril.
+Teleport CRIMINAL to Backstage
+Superhero music 
+NANCY: (sarcastic) Well that wasn’t sinister or concerning.
+DOREEN: Just so we’re clear, we’re gonna continue the show, so none of our listeners steal anything okay?
+NANCY: We’ve got a caller!
+DOREEN: Hello, you're on the air with HERO.
+Teleport DUDE to Fake Street Backdrop
+DUDE: (heroically) Greetings fellow heroes! I’m the Believable FAKE! And I’ve got a bit of a super conundrum here.
+DUDE: Time is of the essence!
+DOREEN: Absolutely friend!
+DUDE: Excellent! You need to know that the EVIL has poisoned CITY’s water supply.
+DOREEN: Uh what?! We’ve got to stop them!
+DUDE: Hold on. The Believable FAKE is on the case! The challenge is this,
+DUDE: There’s 500 substations that carry water throughout CITY, and the poison could be in any one of them.
+DUDE: The poison is bitter but my sense of super taste can pick it out even when diluted.
+DUDE: Thankfully, I FAKE, can endure small sips of the toxin. But even I have my limits.
+DOREEN: We can help!
+Meanwhile NANCY: Wait a minute?
+DUDE: My question is this. What’s the minimum number of sips I need to expose myself to in order to identify which one of the 500 substations in CITY is poisoned?
+NANCY: (upset) You jerk! You’re the caller from before.
+DOREEN: This is the first superhero radio show and you're trying to get us to cheat on homework GUY!?
+NANCY: It’s a binary search problem, isn’t it?
+DOREEN: Yes, It’s a stupid binary search problem
+DOREEN: You combine a drop of water from half the stations into one glass and half into another and sip to see which glass is bitter.
+DOREEN: Then recursively repeat the process for the bitter glass stations until you’ve found the poisoned one
+NANCY: So? That’s what, nine sips to cover 512 water stations?
+DOREEN: We’re not doing your SUBJECT homework GUY!
+DUDE: Haha! You just did. Thanks for the answer suckers!
+Teleport DUDE to Backstage
+NANCY: Okay, so GUY did brutally own us there, but honestly I could see the EVIL trying to pull something stupid like that.
+DOREEN: Well, if the EVIL is listening to our show, now they know, we know how to effectively foil their plans.
+Cellphone vibrate
+NANCY: (Look at phone) Wait a minute, I just got a News alert on my phone.
+NANCY: (shocked) FAMOUS’s cherished OBJECT has been stolen from the Museum of Modern History?! 
+DOREEN: Our brand new hater stole FAMOUS’s priceless artifact?!
+NANCY: (Look at watch) In what, less than ten minutes?
+DOREEN: But we’re still doing the show?! 
+NANCY: (sarcastic) Oh joy, another caller.
+Epic fantasy music 2
+Teleport CRIMINAL to Fake Street Backdrop
+CRIMINAL: (out of breath) I have the OBJECT!
+DOREEN: Put it back now!
+CRIMINAL: (menacingly) Never! It's mine!
+Police car
+CRIMINAL: Back off coppers, or I’ll destroy FAMOUS’s OBJECT
+DOREEN: We never stopped doing the show, you know that, right?
+CRIMINAL: I’ll tell you what else I know. This crime spree is just beginning! Unless you do what I say
+DOREEN: No, you know what? No threats, no nothing! The crime spree is just ending actually, because we are taking you down
+CRIMINAL: I’d like to see you try HERO! (exit)
+Superhero fanfare
+DOREEN: (To Nancy) They’re clearly on foot, they’ve got to be near the museum
+DOREEN: (To audience) Sorry listeners, but duty calls. BYE! (exit)
+NANCY: Next week's episode we’ll have a jailhouse interview with our criminal, or the exclusive scoop on how they made their escape
+NANCY: (while exiting) HERO wait!
+
+======
+
+INFORMATION ===============================
+ID: 1706
+TITLE: Attack of the Produce Aisle!
+AUTHOR: ModalSoul
+VERIFIED: True
+TAGS: 
+SET: Forest
+DATE: 17/06/25
+CHARACTERS ================================
+DEMON: Demon Warrior:Entrance Stage Left
+SON: Strong Warrior's Son:Entrance Stage Left
+SHORT: Short Warrior:Backstage
+PRIDE: Prideful Warrior:Backstage
+MUSCLE: Brutish Warrior:Backstage
+NAR: Suspenseful Narrator:Narrator Podium
+SUGGESTIONS =============================
+STNAME:Name of a strong person or fictional character:Wukong,Sakuya Izayoi,Kratos
+PLANET:The name of a planet:Earth,Mars,Pluto
+WITEM:An item with some magic power in it:Lamp,Glass Ball,Party Favors
+SHOW:The name of a show, any show:Fresh Prince of Bel Air,Danny Phantom,Steamboat Willie
+VEGGIE:A type of vegetable:Lettuce,Cabbage,Tomato
+SWEET:A sweet dessert:Pie,Ice Cream,Bon Bons,Crepes
+WEEK:A day of the week:Sunday,Wednesday,Thursday
+HOLIDAY:A holiday:Valentine's Day,Christmas,Black Friday
+EVIL:A really evil crime:Tax Evasion,Stealing,Grand Theft Auto
+COUNTING:A machine that can read numbers:Fax Machine,Computer,Scouter
+ATTACK:The name of a powerful attack or technique:Special Beam Cannon,Light Grenade,Clothes Beam
+PET:An animal that would be rude to call someone:Dog,Cat,Tiger
+SCRIPT ==========================================
+Badass Music 1
+NAR: Last time, on SHOW Z!
+NAR: A mysterious warrior named Daikon arrived on PLANET, claiming to be the brother of its strongest fighter, STNAME. 
+NAR: Kidnapping his son Grains, STNAME would make an unlikely alliance with his sworn nemesis, the Demon Warrior Zucchini.
+NAR: Wait, you haven't seen the original SHOW, you wouldn't know who that is. Hmm... Think of a really bad guy, like EVIL level evil. But he's chill.
+NAR: That aside, both STNAME and Zucchini would defeat Daikon, but at a great cost...
+NAR: STNAME would be severely injured by Zucchini's ATTACK, leaving him out of commission. And even worse...
+NAR: Zucchini learned through Daikon's COUNTING device of two more Produce Warriors arriving on PLANET in just one short year.
+NAR: With so little time to prepare for their arrival, PLANET's strongest fighters trained vigorously, developing their minds and bodies!
+NAR: Until the fateful day finally arrived...
+TYPEWRITER: Arugula and Brussels Attack! The First Sign of Trouble!
+Music Stops
+Spy Music 1
+DEMON: (enter Stage Left) Those leafy green freaks will be here any minute. Grains, get yourself warmed up.
+SON: (enter Stage Left) Alright, Mr. Zucchini! (stretch and shadow box)
+DEMON: (facing Strong Warrior's Son) I doubt these guys will fight fair. Don't let them shake you up.
+SON: (continue shadow boxing) After all of your training, I don't think there's anything that could stop me!
+DEMON: Good! Hold on to that confidence.
+SHORT: (enter Stage Right) I thought I saw you guys over here! Hey! (wave)
+SON: (stop shadow boxing and look towards Stage Right) Hey, it's Krill!
+Crowd Woo
+SHORT: (move to Stage Left) I figured I would find you guys around here!
+DEMON: Fashionably late as always, Krill.
+SHORT: I know. But hey, I'm here now, and that's what counts!
+DEMON: What even took you so long to get here?
+SHORT: Was working on a new technique! If Zucchini has that ATTACK, I should work on something new, too!
+SHORT: Still workshopping a name though... 
+SHORT: Oh, yeah! I went and gave STNAME a hoagie before I got here too, he wanted one! Made sure he got the best!
+SHORT: Made sure it had everything he'd want, meat, toasted bread, mayo, VEGGIEs...
+SON: Wait... did you just say VEGGIE?
+SHORT: Yeah..?
+SON: My dad's allergic to VEGGIEs!
+SHORT: (shocked) Oh. Oh no.
+DEMON: (to Short Warrior, furious) You can't be serious! We're gonna be down our best fighter because of a hoagie! I should just kill you right now and--!
+Explosion
+Music Stops
+DEMON: (shocked) They're here!
+Forest Footstep
+Teleport PRIDE to Entrance Stage Right
+Teleport MUSCLE to Entrance Stage Right
+PRIDE: (do not enter stage yet!) Too bad that its WEEK, Brussels. Those buildings we landed on would've been filled tomorrow.
+MUSCLE: (do not enter stage yet!) A real shame, Arugula... Everybody knows that HOLIDAY is held on PLANET this time of year.
+PRIDE: Oh yeah? Well I didn't.
+Forest Footstep
+PRIDE: (enter Stage Right) Well, well, well... What do we have here?
+MUSCLE: (enter Stage Right) Looks like a bunch of PETs with idle hands sittin' around. Hands that look like they want to fight us, Arugula.
+PRIDE: (turn and face Brutish Warrior) Think these "PETs" have been waiting for us long, Brussels?
+MUSCLE: I sure hope not.
+PRIDE: Either way... (turn and face group on Stage Left) A pleasure to meet you.
+DEMON: (stare down Prideful Warrior) The pleasure's mine.
+Tense Cinematic Music
+PRIDE: So, one of you must be the one who beat Daikon. I must say, I am impressed.
+PRIDE: You've managed to beat the weakest of the Produce Warrior Race, and yet you PETs stand here like you can beat us.
+PRIDE: Whether it be ego or insanity, I commend you for even standing up to us right now.
+MUSCLE: How about I do my one good deed for the day and let you guys off easy? Tell us where the WITEM is.
+MUSCLE: If ya do, we'll leave here with it and Daikon's death will be water under the bridge.
+SHORT: (meekly) We, uh... can't tell you where the WITEM is. Once you make a wish with it, it disappears for an entire year.
+MUSCLE: What?! (angry) What in the world did you use it for?!
+SHORT: (flustered) Well, I, uh...
+MUSCLE: Spit it out, half-pint! What did you use the WITEM for!?
+PRIDE: Now now, that's no way to communicate, Brussels. Use your inside voice.
+MUSCLE: Sorry. (clear throat) Now, what did you use the WITEM for?
+SHORT: Uh... (turn and face Demon Warrior and Strongest Fighter's Son) Don't get mad guys, but I might've used it for that hoagie I gave to STNAME...
+Vine Boom
+DEMON: (furious) What?!
+Meanwhile SON: (in disbelief) You didn't...
+MUSCLE: (furious) On a sandwich?!
+Meanwhile PRIDE: (facepalm, disappointed) What a waste...
+Music Stops
+DEMON: Enough! Hoagie aside, this is our home. And I'm not going to let you trample on it as you see fit!
+DEMON: (gesture to Strongest Warrior's Son and Short Warrior) And neither will they!
+Epic Fantasy Music 2
+SON: You tried to take me away from my dad, away from PLANET! I'll never forgive you!
+SHORT: We aren't gonna back down! We'll show you that we aren't PETs!
+PRIDE: Looks like diplomacy is out of the question. Sorry, Brussels.
+MUSCLE: Eh, I'm over it. Let me get a crack at these guys, Arugula. Show 'em we mean business.
+PRIDE: Go right ahead. Just don't embarrass yourself out there.
+MUSCLE: (walk towards center of stage) Alright, let's check their power... (touch side of head)
+MUSCLE: They're all so weak! Beating these wimps is gonna be as easy as SWEET!
+PRIDE: (mumble) Could go for some SWEET...
+MUSCLE: (look back) What was that, Arugula?
+PRIDE: Nothing. Just be careful. They can hide their power from our COUNTINGs.
+MUSCLE: Right. (turn back to Stage Left group) Guess I won't be needing this COUNTING then.
+MUSCLE: Not that it makes a difference! It'll be like taking candy from a baby, which is fine by me! Come on!
+DEMON: Grains, Krill, coordinate your attacks and overwhelm him! If we can't beat him by ourselves, then we wait for everyone else to get here!
+DEMON: If push comes to shove, then I'll ask you to hold that musclehead back while I charge my ATTACK. 
+SHORT: That doesn't sound too bad--
+DEMON: For five minutes. And given how it took me and STNAME both to kill Daikon, you'll have it even worse Krill.
+SHORT: Oh. Not as good.
+SON: I'm ready, Mr. Zucchini! Let's get 'em!
+DEMON: Let's go! And Krill, we're gonna talk about that hoagie wish later! (charge at Brutish Warrior)
+Meanwhile SON: Here I go! (follow Demon Warrior and charge)
+SHORT: Aw jeez, do we really need to? It was a mistake, honest! (charge in after the other two)
+NAR: The assault begins against the first Produce Warrior known as Brussels!
+NAR: Will the defenders of PLANET be able to stop these Aisle 1 Terrors?
+NAR: Will STNAME and the others arrive in time to stop the bloodshed?
+NAR: Was Krill's hoagie really worth using a wish on the WITEM? Of course it wasn't!
+NAR: Find out next time as the Attack of the Produce Warriors continues! (ignore Short Warrior and keep talking)
+Meanwhile SHORT: Wh-- Hey! I thought it was be a good idea at the time! I know you can hear me! (approach Suspenseful Narrator) Hey!
+
+======
+
+INFORMATION ===============================
+ID: 1934
+TITLE: FIlms With Soul(s)
+AUTHOR: ModalSoul
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 17/11/25
+CHARACTERS ================================
+MANAGER: Mr. McMovie:Boss Chair
+ASSIST: Director's Assistant:Entrance Stage Left
+MOVIE: Movie Director:Office Chair 3
+SUGGESTIONS =============================
+ACTNAME:The name of an actor:Tommy Wiseau,Cathy Mitchell,Dwayne Johnson
+IMPORTANTITEM:A common household applicance:Blender,Sink,Lamp
+TWIST:An animal or object that would take anyone by surprise:Elephant,Pickle Lighter,100 dollars in pennies
+MOVIENAME:A common name:Dale,Earl,Clyde
+STUDIO:The name for a fictitious movie studio:Big Movies Inc.,Super Movies Inc.,Movies & You Inc.
+BIGNUMBER:A three digit number:328,600,543
+ACTION:A verb:Fighting,Jumping,Training
+EXISTING:A small animal or object you don't think about much:Ant,Dust,Brussel Sprout
+COMPANY:The name of a business or company:Exxon,K-Mart,Wawa
+SCRIPT:The name of an Audience Anarchy script:Anarchy Court,Who's Cuter?,Attack of the Produce Aisle
+ELABORATE COFFEE ORDER:an elaborate coffee order:100 ice cubes no sugar,tell them to put every single ingredient in the cup,1000 pumps caramel 1 pump vanilla,just throw some dirt in there because I need my nutrients
+FORTNITE:One or more things that kids love:fortnite and poppy playtime,liveleak gore compilations,FNAF 3 featuring Chris Pratt
+SCRIPT ==========================================
+Jazz Music 2
+MANAGER: Oh, MOVIENAME! Good to see you. Please, have a seat.
+MOVIE: Thank you, Mr. McMovie. (sit down across table from Mr. McMovie)
+MOVIE: I've been hard at work with the writers working on STUDIO's next big hit!
+MANAGER: Good to hear! Ever since we managed to get ACTNAME on our projects, we've been bleeding money!
+MANAGER: If there isn't a gem in these here scripts, I might just have to let you go!
+MOVIE: Mr. McMovie, you're such a kidder! (laugh nervously)
+MANAGER: (deadpan) I'm serious.
+Vine Boom
+MANAGER: After all, we here at STUDIO pride ourselves on the soul in our film.
+MOVIE: Oh... I-I see.
+Knocking on Door
+MANAGER: (jovial) That must be my assistant with the scripts now! Come on in!
+Door Creak
+ASSIST: (enter Stage Left) Good morning, MOVIENAME. (walk towards Mr. McMovie) Here are the completed scripts, Mr. McMovie.
+MANAGER: That's quite a lot of paper...
+ASSIST: There are at least BIGNUMBER scripts in the pile, sir.
+MANAGER: That's... a lot of scripts.
+ASSIST: Indeed it is.
+MOVIE: We went for quantity this time around, sir. If we cast a wide net, we're sure to catch a few fish!
+MANAGER: Sure you will... Say, assistant, would you mind getting me some coffee?
+ASSIST: Okay, Mr. McMovie! What would you like?
+MANAGER: ELABORATE COFFEE ORDER. And make it snappy!
+ASSIST: Of course, Mr. McMovie. I'll be right back. (exit Stage Left)
+MANAGER: Alright, let's take a look at a few of these... 
+MANAGER: (reading like a newspaper) The Art of ACTION...
+Japanese Music 1
+MANAGER: A young martial artist, played by ACTNAME pursues the man who kidnapped their sister...
+MANAGER: Along the way the martial artist finds out that the plot goes deeper, fighting a clan of ninjas using...
+MANAGER: (confusion) TWIST as their motif?
+Gong
+MOVIE: It's a coming of age flick, the TWIST ninjas are symbolic. 
+MANAGER: Sure... Anyways;
+MANAGER: The martial artist defeats the leader of the TWIST ninjas with the IMPORTANTITEM uppercut, the mastered technique of his martial art.
+Fistfight
+Jazz Music 2
+MOVIE: Inspiring, isn't it! Would make anybody want to start kung-fu fighting!
+MANAGER: Okay, some questions for you MOVIENAME. First off, where did the IMPORTANTITEM uppercut come from?
+MOVIE: We figured that making the main character's special move based on something familiar would strike a chord with audiences.
+MANAGER: And that target audience is..?
+MOVIE: The family, of course!
+MANAGER: Can't imagine any families wanting to go see that.
+Laughter
+MANAGER: And ACTNAME as a "young martial artist?" We'd need to spend more money on a stunt double!
+MOVIE: But think of how well it would do in the theaters!
+MANAGER: But there's no soul in it, MOVIENAME. We just can't use this.
+Knocking on Door
+MANAGER: Come in.
+ASSIST: (enter Stage Left) Your coffee, sir.
+MANAGER: Thank goodness. Say, assistant, could you read the next script while I enjoy my coffee?
+ASSIST: Of course, Mr. McMovie. Let's see... (reading like a newspaper) The Life of EXISTING.
+Meanwhile MANAGER: Gotta love a cup of joe... (enjoy your coffee while Director's Assistant reads)
+Groose Music
+ASSIST: The plot follows an animated version of EXISTING during their day to day life. Their joys, struggles, and everything in-between.
+ASSIST: The main EXISTING being voiced by ACTNAME, I presume? (look at Movie Director)
+MOVIE: Indeed! (nod yes)
+ASSIST: Wonderful. Anyways...
+ASSIST: Everything changes when BIGNUMBER TWISTs uproots everything the EXISTING stands for. 
+ASSIST: The EXISTINGs are able to co-exist with the TWISTs following a long struggle in the final act with help from the IMPORTANTITEMs.
+Jazz Music 2
+MOVIE: So? Whaddaya think? It's got a good message for the kids, and we don't need a stunt double for ACTNAME!
+ASSIST: Forgive me if this comes off as rude, but this movie seems like it would be horribly boring. No soul in it at all.
+Vine Boom
+MOVIE: But-- but it's not about being entertaining! It's about being informative!
+ASSIST: But kids aren't stupid, director. They will get the message just fine with this, but they'd also like to be entertained.
+ASSIST: We're competing with FORTNITE here!
+MANAGER: I have to agree with my assistant, if it's boring to us, it'll be boring to anybody. 
+MANAGER: Besides, STUDIO doesn't have the money for animators either!
+MOVIE: You know what, both of you stay right there! I'm gonna read the next one and it'll knock your socks off!
+MANAGER: Be my guest, director. There's literally hundreds to pick from.
+MOVIE: And I'll pick the best one! (get up and shuffle the scripts around) Aha! Now this is a good one!
+MOVIE: Intrigue! Mystery! Horror! Everything you'd want and more! 
+ASSIST: The preamble is nice, but please do hurry up. Mr. McMovie has a meeting with COMPANY in five minutes.
+Church Bell
+Dark Classical Music
+MOVIE: ACTNAME is settling into a home they won in a lottery, a mansion up in the hills...
+MOVIE: And then, while ACTNAME is watching SCRIPT... BAM!
+Chainsaw
+MOVIE: A IMPORTANTITEM-themed slasher villain with a chainsaw saws through the door!
+MOVIE: And worse yet..!
+Explosion
+MOVIE: BAM! A pyromaniac busts through the back door! ACTNAME tries to keep them away, but its no use!
+Fire Alarm
+MOVIE: With the house going up in smoke, everything seems lost for ACTNAME! But then... 
+Alien Siren
+Lacrimosa Music
+MOVIE: Aliens come to rescue ACTNAME, praising them like a god! Wanna know why?
+MOVIE: Because ACTNAME sold them BIGNUMBER TWISTs from a one-off infomercial seven years ago!
+Alien Teleport
+MOVIE: ACTNAME becomes ruler of the cosmos, leaving everything behind on Earth to spread TWISTs across the stars!
+Jazz Music 2
+MOVIE: How'd you like that one, McMovie?! It's thrilling! It's got twists! It's the perfect movie!
+ASSIST: The perfect movie to go straight to TV, maybe.
+MANAGER: Seriously, what is this stuff, MOVIENAME?
+Emotional Piano Music
+MANAGER: STUDIO is about films with soul, beautiful works that can inspire and entertain for generations!
+MANAGER: With you trying to commodify the craft, that soul just isn't there.
+MANAGER: Besides, including a show such as SCRIPT is just going to bring that one down to your level. I can't stand to let that happen. 
+MANAGER: I'm sorry MOVIENAME, but I have to let you go. Your soul is now forfeit.
+Meanwhile MOVIE: (dread in voice) Wait, what?!
+ASSIST: Maybe a few souls of the writing team, too?
+MANAGER: Good idea, assistant! Make a memo about that later.
+ASSIST: Right away, sir.
+Scary Music
+ASSIST: Sorry, MOVIENAME. But you shouldn't be so scared. You're going to be part of a box office hit, just like you wanted.
+MANAGER: (stand up) In a movie with real soul. A STUDIO hit for generations! You'll make us millions.
+Meanwhile MOVIE: (walk backwards away from McMovie, visibly afraid) Wait, wait wait wait! We can talk this out! Please!
+MOVIE: (pleading on the verge of tears) Wait, wait please! Just give me a little more time! I can make more! Just give me more time-! Nooooooo!
+Teleport MOVIE to Backstage
+Piano Theme
 
 ======
 
