@@ -61167,89 +61167,6 @@ COWBOY 2: Man, I knew I should've just shot him.
 ======
 
 INFORMATION ===============================
-ID: 2051
-TITLE: Sports Trivia Gameshow
-AUTHOR: MystykalMystyk
-VERIFIED: True
-TAGS: Game Show
-SET: Game Show
-DATE: 17/01/26
-CHARACTERS ================================
-HOST: Gameshow Host:Host Podium
-CONT1: Contestant #1:Contestant Podium 1
-CONT2: Contestant #2:Contestant Podium 2
-SUGGESTIONS =============================
-HOST:A name:Johnathan,Vincent,Bobby,Martha
-CONT1:A name:Larry,Danny,Ariana,Dave
-CONT2:A name:Bob,Marty,Mort,Patricia
-ADJ:An adjective:Exciting,amazing,beautiful
-LEAGUE:A sports league:NHL,NBA,MLB,NFL
-TEAM1:A team:Leafs,Broncos,Browns,Argos
-FEAT:A werid sports feat for one game:Most distance traveled on one foot,most trips caused,most bumps into a single person
-BADRULE:A bad rule:A speed limit,no falling,eyes closed
-ILLEGAL:An illegal activity:Gambling,Doing drugs,Robbing banks
-FULLNAME:A full name:John Smith,Auston Matthews,Tom Brady
-NUMBER:A number:10,40,100,3280
-USER:A username:DanTDM,MystykalMystyk,PopularMMOs
-SCRIPT ==========================================
-gameshow intro
-HOST: Hello ladies and gents I'm HOST, and it's time to see who's the biggest sports fan!
-HOST: Let's meet our contestants! Contestant 1, what is your name?
-CONT1: Hello everyone! My name is CONT1! I'm excited to test my knowledge!
-HOST: Interesting! Now Contestant 2, What is your name?
-CONT2: I'm CONT2, I'm probably better than CONT1
-CONT1: Oh, I'm so sure.
-HOST: Well, that's what this gameshow is about!
-HOST: Shall we get started?
-crowd woo
-CONT1: I'm ready!
-CONT2: I'm readier!
-CONT1: That wasn't a competition.
-CONT2: When you're as ADJ as I am, everthing is a competition.
-HOST: Question One! In 1984, what team in the LEAGUE lost every single game?
-gameshow timer music
-gameshow buzzer
-music stops
-CONT2: That would be the TEAM1.
-gameshow ding
-HOST: Correct! That's one point to CONT2.
-CONT2: I know it is, HOST, I'm the best.
-CONT1: One point, CONT2.
-CONT2: And I'll get the rest.
-HOST: Question Two! TEAM1 also acomplished what feat in 1984?
-gameshow timer music 
-gameshow buzzer
-CONT1: FEAT in a single game!
-gameshow ding
-HOST: Impressive! One point to CONT1!
-CONT2: Lucky guess.
-HOST: Question 3! In 2013 the LEAGUE implemeted a rule that caused backlash
-HOST: What was that rule?
-gameshow timer music
-music stops 
-CONT1: That would be BADRULE.
-HOST: Correct!
-CONT1: (look at Contestant 2) How ya feeling?
-CONT2: Shut up.
-HOST: This next round is worth double points! 
-HOST: In 2009 this player was caught ILLEGAL, what is his name?
-gameshow bonus round
-gameshow buzzer
-music stops
-CONT1: That would be Paul Smith.
-HOST: Incorrect! CONT2, you have the chance to take it all! Who was it?
-CONT2: I believe that would be FULLNAME.
-gameshow ding
-HOST: And there we have it folks! CONT2 wins NUMBER dollars!
-CONT1: I never liked this game anyway (walk off stage)
-CONT2: Thank you, HOST for having me!
-HOST: We hope you all enjoyed this episode of Sports Trivia!
-HOST: We look forward to having you all back! (Point into audience) Especially you, USER!
-gameshow outro
-
-======
-
-INFORMATION ===============================
 ID: 2053
 TITLE: The Safe Room
 AUTHOR: TheMajinGlaceon
@@ -61472,129 +61389,6 @@ WISHKID: Wowie. That was so hawd.
 WISHKID: Wanna be my fwiend, Mr Tall man?
 DRONE: Confirmed.
 WISHKID: Yay!
-
-======
-
-INFORMATION ===============================
-ID: 1821
-TITLE: Superhero Radio Show!
-AUTHOR: Cluebacca
-VERIFIED: True
-TAGS: Skit
-SET: News
-DATE: 08/10/25
-CHARACTERS ================================
-DOREEN: Energetic superhero :News Desk
-NANCY: Sassy best friend :News Desk
-DUDE: Arrogant caller:Backstage
-CRIMINAL: Awkward villain :Backstage
-SUGGESTIONS =============================
-FAKE:Silly superhero name:Captain underpants,John Real Man,Fish Miss
-OBJECT:Any object:boat,left shoe,Dr. Pepper,teddy bear
-HERO:Superhero name :Squirrel Girl,Major Muffin,Bass Lass
-ANIMAL:Real or mythical animal :kangaroo,squirrel,unicorn,stegosaurus
-SUBJECT:A school subject:Geography,Algorithms,Computer Science,English
-BAD:Something you say when things go wrong :biscuits,nuts,shucks,dang nabbit
-CITY:City name (real or fictional) :NEW New York,Chicago,London,Lego city
-EVIL:Evil organization name :Brotherhood of Evil,Butt Jiggle Gang,League of Dastardly Evil Doers
-GUY:Guy’s name:Jacob,Clark,Sherlock Bluffkin
-FAMOUS:Famous person (real or fictional):Kim Possible,Da Vinci,Ryan Reynold,Carmen Sandiego
-BYE:Funny way to say goodbye:May the force be with you,Ctrl-Alt-Deleting myself out of here,Ciao,pizza pals,Toodaloo mother chuckers
-SCRIPT ==========================================
-Superhero music
-DOREEN: Hi everyone! Welcome to the show. I’m Doreen, aka HERO, and I have all the powers of a ANIMAL!
-DOREEN: I thought maybe I could help people with wise advice instead of only with vigilante justice.
-DOREEN: Beside me is my producer and best friend, Nancy!
-NANCY: Hi everyone! I’m Nancy.
-DOREEN: This is going to be a call-in show. What’s the number Nancy!
-NANCY: 646-647-3243
-DOREEN: 646-647-3243! Give us a call! I’m ready to help!
-NANCY: We’ve got our first caller!
-DOREEN: Hello caller, you’re live on HERO’s radio show!
-Teleport DUDE to Fake Street Backdrop
-DUDE: Hey, it’s GUY. Is this the homework cheating help line?
-DOREEN: Aww BAD..
-NANCY: No, this is HERO’s superhero help line. I think you got the wrong number.
-DUDE: Do superheroes help with cheating on homework? I just want the answer to #4 on the SUBJECT 1-5 assignment.
-DOREEN: We’re not giving out answers.
-DUDE: (arrogant) Well a real hero would heroically take into account how much I hate doing SUBJECT homework.
-Teleport DUDE to Backstage
-DOREEN: Okay, maybe this radio show wasn’t the best idea.
-Meanwhile DUDE: (put on hero avatar)
-NANCY: Welp to bad, cause we got another call.
-DOREEN: Caller, you’re live with HERO. Please don’t ask me how to cheat on homework.
-Epic fantasy music 2
-Teleport CRIMINAL to Fake Street Backdrop
-CRIMINAL: (menacingly) Am I live?
-NANCY: (annoyed) She just said you are live?
-CRIMINAL: I want all CITY to hear what I have to say
-NANCY: You are definitely calling into the wrong show then.
-CRIMINAL: Listen well HERO, because if you don’t do exactly what I say, I’m going to steal FAMOUS’s OBJECT from the Museum of Modern History.
-CRIMINAL: (unsure) And what I want, is for you and your friend to..
-CRIMINAL: (menacing) To continue doing this show! Unabated!
-DOREEN: (shocked) Wait, what?!
-CRIMINAL: (awkwardly menacing) Sorry, was that not clear? FAMOUS’s OBJECT. It’s a historical item!
-DOREEN: Yeah?
-CRIMINAL: I’m going. To. Steal. It. I can’t make this more clear.
-DOREEN: (confused) No I meant ‘Wait what’ as in you're threatening to steal the OBJECT if we stop doing the show?
-DOREEN: You’re trying to blackmail us into doing something we’re already doing?
-NANCY: We’re definitely going to be here next week now.
-DOREEN: See, so there’s no need to steal the OBJECT.
-CRIMINAL: (menacingly) You will regret it if you stop doing this show. Discontinue it. At. Your. Peril.
-Teleport CRIMINAL to Backstage
-Superhero music 
-NANCY: (sarcastic) Well that wasn’t sinister or concerning.
-DOREEN: Just so we’re clear, we’re gonna continue the show, so none of our listeners steal anything okay?
-NANCY: We’ve got a caller!
-DOREEN: Hello, you're on the air with HERO.
-Teleport DUDE to Fake Street Backdrop
-DUDE: (heroically) Greetings fellow heroes! I’m the Believable FAKE! And I’ve got a bit of a super conundrum here.
-DUDE: Time is of the essence!
-DOREEN: Absolutely friend!
-DUDE: Excellent! You need to know that the EVIL has poisoned CITY’s water supply.
-DOREEN: Uh what?! We’ve got to stop them!
-DUDE: Hold on. The Believable FAKE is on the case! The challenge is this,
-DUDE: There’s 500 substations that carry water throughout CITY, and the poison could be in any one of them.
-DUDE: The poison is bitter but my sense of super taste can pick it out even when diluted.
-DUDE: Thankfully, I FAKE, can endure small sips of the toxin. But even I have my limits.
-DOREEN: We can help!
-Meanwhile NANCY: Wait a minute?
-DUDE: My question is this. What’s the minimum number of sips I need to expose myself to in order to identify which one of the 500 substations in CITY is poisoned?
-NANCY: (upset) You jerk! You’re the caller from before.
-DOREEN: This is the first superhero radio show and you're trying to get us to cheat on homework GUY!?
-NANCY: It’s a binary search problem, isn’t it?
-DOREEN: Yes, It’s a stupid binary search problem
-DOREEN: You combine a drop of water from half the stations into one glass and half into another and sip to see which glass is bitter.
-DOREEN: Then recursively repeat the process for the bitter glass stations until you’ve found the poisoned one
-NANCY: So? That’s what, nine sips to cover 512 water stations?
-DOREEN: We’re not doing your SUBJECT homework GUY!
-DUDE: Haha! You just did. Thanks for the answer suckers!
-Teleport DUDE to Backstage
-NANCY: Okay, so GUY did brutally own us there, but honestly I could see the EVIL trying to pull something stupid like that.
-DOREEN: Well, if the EVIL is listening to our show, now they know, we know how to effectively foil their plans.
-Cellphone vibrate
-NANCY: (Look at phone) Wait a minute, I just got a News alert on my phone.
-NANCY: (shocked) FAMOUS’s cherished OBJECT has been stolen from the Museum of Modern History?! 
-DOREEN: Our brand new hater stole FAMOUS’s priceless artifact?!
-NANCY: (Look at watch) In what, less than ten minutes?
-DOREEN: But we’re still doing the show?! 
-NANCY: (sarcastic) Oh joy, another caller.
-Epic fantasy music 2
-Teleport CRIMINAL to Fake Street Backdrop
-CRIMINAL: (out of breath) I have the OBJECT!
-DOREEN: Put it back now!
-CRIMINAL: (menacingly) Never! It's mine!
-Police car
-CRIMINAL: Back off coppers, or I’ll destroy FAMOUS’s OBJECT
-DOREEN: We never stopped doing the show, you know that, right?
-CRIMINAL: I’ll tell you what else I know. This crime spree is just beginning! Unless you do what I say
-DOREEN: No, you know what? No threats, no nothing! The crime spree is just ending actually, because we are taking you down
-CRIMINAL: I’d like to see you try HERO! (exit)
-Superhero fanfare
-DOREEN: (To Nancy) They’re clearly on foot, they’ve got to be near the museum
-DOREEN: (To audience) Sorry listeners, but duty calls. BYE! (exit)
-NANCY: Next week's episode we’ll have a jailhouse interview with our criminal, or the exclusive scoop on how they made their escape
-NANCY: (while exiting) HERO wait!
 
 ======
 
@@ -61924,7 +61718,8 @@ LAWYER: —I leave my forgiveness, which he has never asked for, and the hope th
 [RECORD SCRATCH]
 Music stops
 jazz music 2
-OLDER SON: ... What? LAWYER: James is to receive one dollar.
+OLDER SON: ... What? 
+LAWYER: James is to receive one dollar.
 OLDER SON: ONE DOLLAR?! This is a joke!
 LAWYER: It 's not. The dollar is symbolic. She was very specific.
 REAL DAUGHTER: (laughs) Oh wow. That’s embarrassing. Guess Mommy really does love me.
@@ -61932,7 +61727,8 @@ LAWYER: To my biological daughter, Emma... My sweet POOKUMS...
 REAL DAUGHTER: (smug) Yes?
 LAWYER: To my POOKUMS I leave my mirror— so she may finally see herself clearly.
 RECORD SCRATCH
-REAL DAUGHTER: (smile fades) That’s not funny. LAWYER: Along with my medical bills— as she was the one using my credit card during my final days.
+REAL DAUGHTER: (smile fades) That’s not funny. 
+LAWYER: Along with my medical bills— as she was the one using my credit card during my final days.
 REAL DAUGHTER: What?! But I need those BLACK HIGH HEELS!
 ADOPTED DAUGHTER: (trying not to smile) Oh... that’s rough.
 LAWYER: Now—to my daughter, Kat. The one who chose me, not my money. The one who stayed when there was nothing to gain.
@@ -61964,8 +61760,285 @@ OLDER SON: So the will... ?
 Meanwhile ADOPTED DAUGHTER: (Takes mother's hand)
 (DEAD) MOTHER: Come along, dear. You have a CAR COLLECTION to admire.
 REAL DAUGHTER: (crying) Mommy— you can’t just walk away!
-(DEAD) MOTHER: I already have. (Mother exits stage right. ) Adopted daughter: (follows mother) Ha! Bye, losers.
+(DEAD) MOTHER: I already have. (Mother exits stage right. ) 
+Adopted daughter: (follows mother) Ha! Bye, losers.
 OLDER SON: (falls to his knees, sobbing)
+
+======
+
+INFORMATION ===============================
+ID: 1821
+TITLE: Superhero Radio Show!
+AUTHOR: Cluebacca
+VERIFIED: True
+TAGS: Skit
+SET: News
+DATE: 08/10/25
+CHARACTERS ================================
+DOREEN: Energetic superhero :News Desk
+NANCY: Sassy best friend :News Desk
+DUDE: Arrogant caller:Backstage
+CRIMINAL: Awkward villain :Backstage
+SUGGESTIONS =============================
+FAKE:Silly superhero name:Captain underpants,John Real Man,Fish Miss
+OBJECT:Any object:boat,left shoe,Dr. Pepper,teddy bear
+HERO:Superhero name :Squirrel Girl,Major Muffin,Bass Lass
+ANIMAL:Real or mythical animal :kangaroo,squirrel,unicorn,stegosaurus
+SUBJECT:A school subject:Geography,Algorithms,Computer Science,English
+BAD:Something you say when things go wrong :biscuits,nuts,shucks,dang nabbit
+CITY:City name (real or fictional) :NEW New York,Chicago,London,Lego city
+EVIL:Evil organization name :Brotherhood of Evil,Butt Jiggle Gang,League of Dastardly Evil Doers
+GUY:Guy’s name:Jacob,Clark,Sherlock Bluffkin
+FAMOUS:Famous person (real or fictional):Kim Possible,Da Vinci,Ryan Reynold,Carmen Sandiego
+BYE:Funny way to say goodbye:May the force be with you,Ctrl-Alt-Deleting myself out of here,Ciao pizza pals,Toodaloo mother chuckers
+SCRIPT ==========================================
+Superhero music
+DOREEN: Hi everyone! Welcome to the show. I’m Doreen, aka HERO, and I have all the powers of a ANIMAL!
+DOREEN: I thought maybe I could help people with wise advice instead of only with vigilante justice.
+DOREEN: Beside me is my producer and best friend, Nancy!
+NANCY: Hi everyone! I’m Nancy.
+DOREEN: This is going to be a call-in show. What’s the number Nancy!
+NANCY: 646-647-3243
+DOREEN: 646-647-3243! Give us a call! I’m ready to help!
+NANCY: We’ve got our first caller!
+DOREEN: Hello caller, you’re live on HERO’s radio show!
+DUDE: (enter stage left) Hey, it’s GUY. Is this the homework cheating help line?
+DOREEN: Aww BAD..
+NANCY: No, this is HERO’s superhero help line. I think you got the wrong number.
+DUDE: Do superheroes help with cheating on homework? I just want the answer to #4 on the SUBJECT 1-5 assignment.
+DOREEN: We’re not giving out answers.
+DUDE: (arrogant) Well a real hero would heroically take into account how much I hate doing SUBJECT homework.
+Teleport DUDE to Backstage
+DOREEN: Okay, maybe this radio show wasn’t the best idea.
+Meanwhile DUDE: (put on hero avatar)
+NANCY: Welp to bad, cause we got another call.
+DOREEN: Caller, you’re live with HERO. Please don’t ask me how to cheat on homework.
+Epic fantasy music 2
+CRIMINAL: (enter stage left, menacingly) Am I live?
+NANCY: (annoyed) She just said you are live?
+CRIMINAL: I want all CITY to hear what I have to say
+NANCY: You are definitely calling into the wrong show then.
+CRIMINAL: Listen well HERO, because if you don’t do exactly what I say, I’m going to steal FAMOUS’s OBJECT from the Museum of Modern History.
+CRIMINAL: (unsure) And what I want, is for you and your friend to..
+CRIMINAL: (menacing) To continue doing this show! Unabated!
+DOREEN: (shocked) Wait, what?!
+CRIMINAL: (awkwardly menacing) Sorry, was that not clear? FAMOUS’s OBJECT. It’s a historical item!
+DOREEN: Yeah?
+CRIMINAL: I’m going. To. Steal. It. I can’t make this more clear.
+DOREEN: (confused) No I meant ‘Wait what’ as in you're threatening to steal the OBJECT if we stop doing the show?
+DOREEN: You’re trying to blackmail us into doing something we’re already doing?
+NANCY: We’re definitely going to be here next week now.
+DOREEN: See, so there’s no need to steal the OBJECT.
+CRIMINAL: (menacingly) You will regret it if you stop doing this show. Discontinue it. At. Your. Peril.
+Teleport CRIMINAL to Backstage
+Superhero music 
+NANCY: (sarcastic) Well that wasn’t sinister or concerning.
+DOREEN: Just so we’re clear, we’re gonna continue the show, so none of our listeners steal anything okay?
+NANCY: We’ve got a caller!
+DOREEN: Hello, you're on the air with HERO.
+DUDE: (enter stage left, heroically) Greetings fellow heroes! I’m the Believable FAKE! And I’ve got a bit of a super conundrum here.
+DUDE: Time is of the essence!
+DOREEN: Absolutely friend!
+DUDE: Excellent! You need to know that the EVIL has poisoned CITY’s water supply.
+DOREEN: Uh what?! We’ve got to stop them!
+DUDE: Hold on. The Believable FAKE is on the case! The challenge is this,
+DUDE: There’s 500 substations that carry water throughout CITY, and the poison could be in any one of them.
+DUDE: The poison is bitter but my sense of super taste can pick it out even when diluted.
+DUDE: Thankfully, I FAKE, can endure small sips of the toxin. But even I have my limits.
+DOREEN: We can help!
+Meanwhile NANCY: Wait a minute?
+DUDE: My question is this. What’s the minimum number of sips I need to expose myself to in order to identify which one of the 500 substations in CITY is poisoned?
+NANCY: (upset) You jerk! You’re the caller from before.
+DOREEN: This is the first superhero radio show and you're trying to get us to cheat on homework GUY!?
+NANCY: It’s a binary search problem, isn’t it?
+DOREEN: Yes, It’s a stupid binary search problem
+DOREEN: You combine a drop of water from half the stations into one glass and half into another and sip to see which glass is bitter.
+DOREEN: Then recursively repeat the process for the bitter glass stations until you’ve found the poisoned one
+NANCY: So? That’s what, nine sips to cover 512 water stations?
+DOREEN: We’re not doing your SUBJECT homework GUY!
+DUDE: Haha! You just did. Thanks for the answer suckers!
+Teleport DUDE to Backstage
+NANCY: Okay, so GUY did brutally own us there, but honestly I could see the EVIL trying to pull something stupid like that.
+DOREEN: Well, if the EVIL is listening to our show, now they know, we know how to effectively foil their plans.
+Cellphone vibrate
+NANCY: (Look at phone) Wait a minute, I just got a News alert on my phone.
+NANCY: (shocked) FAMOUS’s cherished OBJECT has been stolen from the Museum of Modern History?! 
+DOREEN: Our brand new hater stole FAMOUS’s priceless artifact?!
+NANCY: (Look at watch) In what, less than ten minutes?
+DOREEN: But we’re still doing the show?! 
+NANCY: (sarcastic) Oh joy, another caller.
+Epic fantasy music 2
+CRIMINAL: (enter stage left, out of breath) I have the OBJECT!
+DOREEN: Put it back now!
+CRIMINAL: (menacingly) Never! It's mine!
+Police car
+CRIMINAL: Back off coppers, or I’ll destroy FAMOUS’s OBJECT
+DOREEN: We never stopped doing the show, you know that, right?
+CRIMINAL: I’ll tell you what else I know. This crime spree is just beginning! Unless you do what I say
+DOREEN: No, you know what? No threats, no nothing! The crime spree is just ending actually, because we are taking you down
+CRIMINAL: I’d like to see you try HERO!(exit)
+Superhero fanfare
+DOREEN: (To Nancy) They’re clearly on foot, they’ve got to be near the museum
+DOREEN: (To audience) Sorry listeners, but duty calls. BYE! (exit)
+NANCY: Next week's episode we’ll have a jailhouse interview with our criminal, or the exclusive scoop on how they made their escape
+NANCY: (while exiting) HERO wait!
+
+======
+
+INFORMATION ===============================
+ID: 2051
+TITLE: Sports Trivia Gameshow
+AUTHOR: MystykalMystyk
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+DATE: 17/01/26
+CHARACTERS ================================
+HOST: Gameshow Host:Host Podium
+CONT1: Contestant #1:Contestant Podium 1
+CONT2: Contestant #2:Contestant Podium 2
+SUGGESTIONS =============================
+HOST:A name:Johnathan,Vincent,Bobby,Martha
+CONT1:A name:Larry,Danny,Ariana,Dave
+CONT2:A name:Bob,Marty,Mort,Patricia
+ADJ:An adjective:Exciting,amazing,beautiful
+LEAGUE:A sports league:NHL,NBA,MLB,NFL
+TEAM1:A team:Leafs,Broncos,Browns,Argos
+FEAT:A werid sports feat for one game:Most distance traveled on one foot,most trips caused,most bumps into a single person
+BADRULE:A bad rule:A speed limit,no falling,eyes closed
+ILLEGAL:An illegal activity:Gambling,Doing drugs,Robbing banks
+FULLNAME:A full name:John Smith,Auston Matthews,Tom Brady
+NUMBER:A number:10,40,100,3280
+USER:A username:DanTDM,MystykalMystyk,PopularMMOs
+SCRIPT ==========================================
+gameshow intro
+HOST: Hello ladies and gents I'm HOST, and it's time to see who's the biggest sports fan!
+HOST: Let's meet our contestants! Contestant 1, what is your name?
+CONT1: Hello everyone! My name is CONT1! I'm excited to test my knowledge!
+HOST: Interesting! Now Contestant 2, What is your name?
+CONT2: I'm CONT2, I'm probably better than CONT1
+CONT1: Oh, I'm so sure.
+HOST: Well, that's what this gameshow is about!
+HOST: Shall we get started?
+crowd woo
+CONT1: I'm ready!
+CONT2: I'm readier!
+CONT1: That wasn't a competition.
+CONT2: When you're as ADJ as I am, everthing is a competition.
+HOST: Question One! In 1984, what team in the LEAGUE lost every single game?
+gameshow ring
+CONT2: That would be the TEAM1.
+gameshow ding
+applause
+HOST: Correct! That's one point to CONT2.
+CONT2: I know it is, HOST, I'm the best.
+CONT1: One point, CONT2.
+CONT2: And I'll get the rest.
+HOST: Question Two! TEAM1 also acomplished what feat in 1984?
+gameshow ring
+CONT1: FEAT in a single game!
+gameshow ding
+applause
+HOST: Impressive! One point to CONT1!
+CONT2: Lucky guess.
+HOST: Question 3! In 2013 the LEAGUE implemeted a rule that caused backlash
+HOST: What was that rule?
+gameshow ring
+CONT1: That would be BADRULE.
+HOST: Correct!
+CONT1: (look at Contestant 2) How ya feeling?
+CONT2: Shut up.
+HOST: This next round is worth double points! 
+gameshow bonus round
+crowd woo
+HOST: In 2009 this player was caught ILLEGAL, what is his name?
+gameshow ring
+CONT1: That would be Paul Smith.
+HOST: Incorrect! CONT2, you have the chance to take it all! Who was it?
+CONT2: I believe that would be FULLNAME.
+gameshow ding
+applause
+HOST: And there we have it folks! CONT2 wins NUMBER dollars!
+CONT1: I never liked this game anyway (walk off stage)
+CONT2: Thank you, HOST for having me!
+HOST: We hope you all enjoyed this episode of Sports Trivia!
+HOST: We look forward to having you all back! (Point into audience) Especially you, USER!
+gameshow outro
+
+======
+
+INFORMATION ===============================
+ID: 2078
+TITLE: Thyme Machine
+AUTHOR: pinkvox
+VERIFIED: True
+TAGS: Skit
+SET: Campsite
+DATE: 29/01/26
+CHARACTERS ================================
+KNOWER: Friend 1:Log chair
+LOOKER: Friend 2:Stump chair
+PIRATE: Pirate:Backstage
+SUGGESTIONS =============================
+DISH:a simple food dish:stew,s'mores,hot dogs
+SPICE:any ingredient or substance:cinnamon,basil,hot sauce
+CELEBRITY:a famous person who is still alive:Beyonce,Chris Pratt,John Cena
+NAME:a username in the audience:Grandma,Jar,TheLegend27
+PHRASE:an old timey expression:Shiver me timbers,Hark,Poppycock
+TITLE:The name of a pirate:Captain Patchington,Black Bart,Skunkbeard
+YEAR:A year from the past:1776,1999,The year 1 A.D.
+EATEN BY SHARKS:a strange way for your grandfather to have died:eaten by sharks,driving while being old,shot by gun
+SCRIPT ==========================================
+forest footstep
+LOOKER:Hey ,you almost done cooking the DISH?
+KNOWER:Almost. Just wanna try out my new device.
+KNOWER:It can automatically season any food to perfection.
+KNOWER:I call it my Thyme Machine.
+LOOKER:Does it only add thyme?
+KNOWER:No It can add anything. Like basil, or sea salt or even SPICE.
+LOOKER:Wow where'd you get this thing?
+KNOWER:In a dumpster behind CELEBRITY's house
+LOOKER:Cool! I wanna add SPICE.
+KNOWER:Okay sure. Here goes.
+alien siren
+LOOKER: (recoil in surprise) Whoa! what just happened!?
+Meanwhile KNOWER: (recoil from campfire)
+bard music 2
+TYPEWRITER: YEAR.
+KNOWER: Something feels wrong...
+PIRATE: (enter) Ahoy, ye land lubbers!
+LOOKER: Okay that's not normal. Who are you?
+PIRATE: Why I be TITLE
+LOOKER: TITLE?
+LOOKER: But you died in YEAR because of EATEN BY SHARKS.
+PIRATE: What? But that's this year!
+LOOKER: Oh well I got bad news for you...
+PIRATE: PHRASE!
+KNOWER: Oh no, we must have traveled back to YEAR!
+LOOKER: What, how?
+KNOWER: I knew we shouldn't have added that SPICE...
+laughter
+LOOKER: (Notice Audience after laughter) Hey look! 
+LOOKER:(point to someone in audience) That person looks like NAME!
+KNOWER: Maybe that's an ancestor of NAME.
+PIRATE: Arrr that be my ship's cook! And a fine one at that.
+PIRATE: They make this lovely piece they call DISH. First of its kind.
+LOOKER: Oh that reminds me! We never got to eat our DISH. I'm still hungry.
+PIRATE: I have some extra here.
+KNOWER: Say, have you ever tried adding SPICE to your DISH?
+PIRATE: PHRASE! That sounds like a great idea!
+KNOWER: Quick! To the Thyme Machine! (add more SPICE to DISH)
+alien teleport
+music stops
+TYPEWRITER: Present day.
+LOOKER: Are we back?
+KNOWER: I think so.
+KNOWER: Thanks for your help, TITLE
+PIRATE: Arr! Thanks to ye, I'll avoid that time I was EATEN BY SHARKS.
+PIRATE: Now I can live forever! And now I'm off to plunder! (Exit stage)
+KNOWER: (follow the pirate) I know a great place to start. I'll show you how to get to CELEBRITY's house!
+LOOKER: I just realized. I'm allergic to SPICE.
+accordion sting
 
 ======
 
