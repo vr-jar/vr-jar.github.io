@@ -163,7 +163,6 @@ Token?
 Veles Steelwing
 Zephyr_lobo
 - Fragile -
-§aiko
 ≺Umikosu≻
 Aluminum Lion
 Alzunz
