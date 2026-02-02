@@ -1,6 +1,7 @@
 #TIER=0
 ~Akí~
 Chaotic_Edict
+dog¹
 Jarxty
 JINX
 Mikey022
@@ -176,7 +177,6 @@ Zephyr_lobo
 Aluminum Lion
 Alzunz
 asouppyman22
-blendshape
 C L Ξ Λ N ツ
 ChemicalForm
 ChiccieNuggie
