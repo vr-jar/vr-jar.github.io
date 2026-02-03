@@ -211,7 +211,7 @@ Poof~
 PURESCENT
 Rathain Kuromaru
 Red-Warrior
-StraightUpDeath
+StraightupDeath
 The_Atkinson
 VaskalRascal
 VoidKalt
