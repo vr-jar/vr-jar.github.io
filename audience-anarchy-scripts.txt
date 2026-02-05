@@ -47446,7 +47446,7 @@ FRIEND A: REPLY.
 INFORMATION ===============================
 ID: 1527
 TITLE: Press Conference
-AUTHOR: setnode
+AUTHOR: SetNoodle
 VERIFIED: True
 TAGS: Skit
 SET: Conference Room
