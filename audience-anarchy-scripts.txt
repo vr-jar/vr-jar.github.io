@@ -37606,7 +37606,7 @@ CLERK: Yessssss, i am so smart, another great bargain
 INFORMATION ===============================
 ID: 1175
 TITLE: Bad Liar
-AUTHOR: Shamura ʕω ʔ
+AUTHOR: ˚ღ Shammy ღ˚
 VERIFIED: True
 TAGS: Skit
 SET: City
@@ -41006,7 +41006,7 @@ TYPEWRITER: THE END...
 INFORMATION ===============================
 ID: 1335
 TITLE: Actor's Got Talent
-AUTHOR: Shamura ʕω ʔ
+AUTHOR: ˚ღ Shammy ღ˚
 VERIFIED: True
 TAGS: Skit
 SET: News
@@ -50101,7 +50101,7 @@ QUILL: Will do. I can't wait to get out of this generic, badly written Isekai. (
 INFORMATION ===============================
 ID: 1596
 TITLE: Medieval Meeting
-AUTHOR: Shamura ʕω ʔ
+AUTHOR: ˚ღ Shammy ღ˚
 VERIFIED: True
 TAGS: 
 SET: Conference Room
@@ -54728,7 +54728,7 @@ LGG: …sure Apple.
 INFORMATION ===============================
 ID: 1817
 TITLE: Very Evil Haunted Toilet
-AUTHOR: Shamura ʕω ʔ
+AUTHOR: ˚ღ Shammy ღ˚
 VERIFIED: True
 TAGS: 
 SET: Infomercial Bathroom
@@ -61663,110 +61663,6 @@ Piano Theme
 ======
 
 INFORMATION ===============================
-ID: 1926
-TITLE: The will reading
-AUTHOR: cierauchiha
-VERIFIED: True
-TAGS: Skit
-SET: Murder
-DATE: 13/11/25
-CHARACTERS ================================
-OLDER SON: James:Stage Left
-REAL DAUGHTER: Emma:Stage Right
-ADOPTED DAUGHTER: Kat:Entrance Stage Left
-LAWYER: Mr. Miller:Entrance Stage Right
-(DEAD) MOTHER: Margaret:Entrance Stage Right
-SUGGESTIONS =============================
-CAR COLLECTION:Something you collect.:Cars,Action figures,Toys,stuffed animals.
-ROAD BLOCKED:Something that may delay you:road blocked,Car crash,Late business meeting.,Family emergency
-BLACK HIGH HEELS:Something very expensive you can buy:High heels,designer handbags,makeup,a car
-LOBSTER:A dish?:Lobster,meatloaf,pizza,Turkey dinner
-ONE DOLLAR:Something no one wants.:Back taxes,A self-help book,An empty jewelry box,A broken watch.
-DIAMONDS:A piece of Jewelry:Diamonds,Rings,Diamond necklaces,Diamond earrings,Gold earrings
-POOKUMS:overly sweet nickname:pookums,pumpkin,sugar lumps
-METHOD OF FAKING DEATH:a way you can fake your death:jumping out the window with an umbrella,drinking fake bleach but it was actually milk,downloading a computer virus but it was actually breath of the wild CRACKED with no virus
-UNFORTUNATE PLACE:an unfortunate place to find a baby:behind a burger king,babies dot com,Chernobyl
-SCRIPT ==========================================
-jazz music 2
-OLDER SON: Where is this lawyer at? I thought he would be here by now.
-REAL DAUGHTER: He’ll be here soon. (She sits on the couch) You act like Mother left you something.
-OLDER SON: I know Mother left me something. Not just something— all of her money, this house... and most of all, her CAR COLLECTION.
-REAL DAUGHTER: (laughs) Please. What makes you think she left anything to you? You were a horrible son.
-OLDER SON: I am her one and only son. And the oldest. Of course I’ll get everything.
-REAL DAUGHTER: You’re not getting anything. It’s all going to me. Her favorite and only daughter.
-REAL DAUGHTER: I can't wait to count all the DIAMONDS she has.
-ADOPTED DAUGHTER: (enters stage right) Hey! I’m her daughter too. Remember? She adopted me.
-OLDER SON: You’re not her real daughter. She just felt bad because she found you in UNFORTUNATE PLACE.
-ADOPTED DAUGHTER: I am her real daughter. She loved me the same way she loved both of you. 
-REAL DAUGHTER: Please. We all know I was her favorite. She even called me POOKUMS.
-(Doorbell) 
-OLDER SON: Finally. He’s here.
-REAL DAUGHTER: Go get the door, Kat.
-ADOPTED DAUGHTER: (opens door) Welcome in, Mr. Miller.
-LAWYER: (Enters Stage left) Ah— hello, everyone. My apologies for the delay. A ROAD BLOCKED held me up.
-OLDER SON: I don’t want excuses. I want to hear that Mother left me her CAR COLLECTION.
-LAWYER: (sits, removing the will) I was told your mother passed suddenly.
-REAL DAUGHTER: Oh yes. She got sick about a week ago. I—her very good and helpful daughter—stayed by her side. I even made her favorite dish. Lobster.
-Real daughter: (She collapses dramatically) Oh! Mommy! Why did you leave us?! Mommy, please come back!
-ADOPTED DAUGHTER: (rolls eyes) Oh, please. You didn’t make her lobster. You DoorDashed it— then went shopping with Mom’s black card.
-REAL DAUGHTER: (stands, brushing herself off) well. . Retail therapy is still therapy. Plus I really needed those BLACK HIGH HEELS
-LAWYER: I will now read the will.
-peaceful fantasy music
-LAWYER: This is the Last Will and Testament of Margaret Hale, signed and notarized three weeks prior to her passing. To my son, James—
-OLDER SON: (steps forward) Finally. Here comes the CAR COLLECTION.
-LAWYER: —I leave my forgiveness, which he has never asked for, and the hope that one day he learns money is not the same thing as love.
-[RECORD SCRATCH]
-Music stops
-jazz music 2
-OLDER SON: ... What? 
-LAWYER: James is to receive one dollar.
-OLDER SON: ONE DOLLAR?! This is a joke!
-LAWYER: It 's not. The dollar is symbolic. She was very specific.
-REAL DAUGHTER: (laughs) Oh wow. That’s embarrassing. Guess Mommy really does love me.
-LAWYER: To my biological daughter, Emma... My sweet POOKUMS...
-REAL DAUGHTER: (smug) Yes?
-LAWYER: To my POOKUMS I leave my mirror— so she may finally see herself clearly.
-RECORD SCRATCH
-REAL DAUGHTER: (smile fades) That’s not funny. 
-LAWYER: Along with my medical bills— as she was the one using my credit card during my final days.
-REAL DAUGHTER: What?! But I need those BLACK HIGH HEELS!
-ADOPTED DAUGHTER: (trying not to smile) Oh... that’s rough.
-LAWYER: Now—to my daughter, Kat. The one who chose me, not my money. The one who stayed when there was nothing to gain.
-LAWYER: Kat is to inherit the house, The CAR COLLECTION, all remaining assets, and full control of the estate.
-REAL DAUGHTER: She’s not even blood!
-ADOPTED DAUGHTER: (shocked) Oh my... I—I don’t know what to say.
-OLDER SON: This is insane. She wouldn’t do this. She couldn’t.
-REAL DAUGHTER: (bitter laugh) Guess Mommy finally showed her true colors.
-Music stops
-(DEAD) mother:  (enter stage right) (Calmly) No, dear. You just showed me yours.
-noir music 4
-REAL DAUGHTER: (gasps) ... Mommy?
-OLDER SON: (shouting) What the hell is this?!
-ADOPTED DAUGHTER: You’re— you’re alive?
-(DEAD) MOTHER: Unfortunately for some of you— yes. I wanted to see who you’d become when you thought I was gone.
-OLDER SON: You made us think you were dead?!
-(Dead) MOTHER: Yes. I faked my death by METHOD OF FAKING DEATH.
-(Dead) MOTHER: Then I watched two of you fight over my money and my CAR COLLECTION before my body was even cold.
-REAL DAUGHTER: I stayed with you! I took care of you!
-(DEAD) MOTHER: You used my credit card, POOKUMS, and you couldn’t even remember what I liked to eat!
-(DEAD) MOTHER: I’m allergic to LOBSTER. (Turns to Kat)
-(DEAD) MOTHER: Kat stayed when I said I had nothing left.
-ADOPTED DAUGHTER: (staps back away from mother) You... lied to me.
-(DEAD) MOTHER: No. I tested you. And you passed.
-(DEAD) mother: (To the lawyer) Mr. Miller, thank you for playing along.
-LAWYER: You said it was the only way they’d tell the truth.
-OLDER SON: So the will... ?
-(DEAD) MOTHER: It’s real. But it doesn’t go into effect—yet. (Takes Kat’s hand)
-Meanwhile ADOPTED DAUGHTER: (Takes mother's hand)
-(DEAD) MOTHER: Come along, dear. You have a CAR COLLECTION to admire.
-REAL DAUGHTER: (crying) Mommy— you can’t just walk away!
-(DEAD) MOTHER: I already have. (Mother exits stage right. ) 
-Adopted daughter: (follows mother) Ha! Bye, losers.
-OLDER SON: (falls to his knees, sobbing)
-
-======
-
-INFORMATION ===============================
 ID: 1821
 TITLE: Superhero Radio Show!
 AUTHOR: Cluebacca
@@ -62039,6 +61935,110 @@ PIRATE: Now I can live forever! And now I'm off to plunder! (Exit stage)
 KNOWER: (follow the pirate) I know a great place to start. I'll show you how to get to CELEBRITY's house!
 LOOKER: I just realized. I'm allergic to SPICE.
 accordion sting
+
+======
+
+INFORMATION ===============================
+ID: 1926
+TITLE: The will reading
+AUTHOR: cierauchiha
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 13/11/25
+CHARACTERS ================================
+OLDER SON: James:Stage Left
+REAL DAUGHTER: Emma:Stage Right
+ADOPTED DAUGHTER: Kat:Entrance Stage Right
+LAWYER: Mr. Miller:Entrance Stage Left
+(DEAD) MOTHER: Margaret:Entrance Stage Left
+SUGGESTIONS =============================
+CAR COLLECTION:Something you collect.:Cars,Action figures,Toys,stuffed animals.
+ROAD BLOCKED:Something that may delay you:road blocked,Car crash,Late business meeting.,Family emergency
+BLACK HIGH HEELS:Something very expensive you can buy:High heels,designer handbags,makeup,a car
+LOBSTER:A dish?:Lobster,meatloaf,pizza,Turkey dinner
+ONE DOLLAR:Something no one wants.:Back taxes,A self-help book,An empty jewelry box,A broken watch.
+DIAMONDS:A piece of Jewelry:Diamonds,Rings,Diamond necklaces,Diamond earrings,Gold earrings
+POOKUMS:overly sweet nickname:pookums,pumpkin,sugar lumps
+METHOD OF FAKING DEATH:a way you can fake your death:jumping out the window with an umbrella,drinking fake bleach but it was actually milk,downloading a computer virus but it was actually breath of the wild CRACKED with no virus
+UNFORTUNATE PLACE:an unfortunate place to find a baby:behind a burger king,babies dot com,Chernobyl
+SCRIPT ==========================================
+jazz music 2
+OLDER SON: Where is this lawyer at? I thought he would be here by now.
+REAL DAUGHTER: He’ll be here soon. (She sits on the couch) You act like Mother left you something.
+OLDER SON: I know Mother left me something. Not just something— all of her money, this house... and most of all, her CAR COLLECTION.
+REAL DAUGHTER: (laughs) Please. What makes you think she left anything to you? You were a horrible son.
+OLDER SON: I am her one and only son. And the oldest. Of course I’ll get everything.
+REAL DAUGHTER: You’re not getting anything. It’s all going to me. Her favorite and only daughter.
+REAL DAUGHTER: I can't wait to count all the DIAMONDS she has.
+ADOPTED DAUGHTER: (enters stage right) Hey! I’m her daughter too. Remember? She adopted me.
+OLDER SON: You’re not her real daughter. She just felt bad because she found you in UNFORTUNATE PLACE.
+ADOPTED DAUGHTER: I am her real daughter. She loved me the same way she loved both of you. 
+REAL DAUGHTER: Please. We all know I was her favorite. She even called me POOKUMS.
+(Doorbell) 
+OLDER SON: Finally. He’s here.
+REAL DAUGHTER: Go get the door, Kat.
+ADOPTED DAUGHTER: (opens door) Welcome in, Mr. Miller.
+LAWYER: (Enters Stage left) Ah— hello, everyone. My apologies for the delay. A ROAD BLOCKED held me up.
+OLDER SON: I don’t want excuses. I want to hear that Mother left me her CAR COLLECTION.
+LAWYER: (sits, removing the will) I was told your mother passed suddenly.
+REAL DAUGHTER: Oh yes. She got sick about a week ago. I—her very good and helpful daughter—stayed by her side. I even made her favorite dish. Lobster.
+Real daughter: (She collapses dramatically) Oh! Mommy! Why did you leave us?! Mommy, please come back!
+ADOPTED DAUGHTER: (rolls eyes) Oh, please. You didn’t make her lobster. You DoorDashed it— then went shopping with Mom’s black card.
+REAL DAUGHTER: (stands, brushing herself off) well. . Retail therapy is still therapy. Plus I really needed those BLACK HIGH HEELS
+LAWYER: I will now read the will.
+peaceful fantasy music
+LAWYER: This is the Last Will and Testament of Margaret Hale, signed and notarized three weeks prior to her passing. To my son, James—
+OLDER SON: (steps forward) Finally. Here comes the CAR COLLECTION.
+LAWYER: —I leave my forgiveness, which he has never asked for, and the hope that one day he learns money is not the same thing as love.
+[RECORD SCRATCH]
+Music stops
+jazz music 2
+OLDER SON: ... What? 
+LAWYER: James is to receive one dollar.
+OLDER SON: ONE DOLLAR?! This is a joke!
+LAWYER: It 's not. The dollar is symbolic. She was very specific.
+REAL DAUGHTER: (laughs) Oh wow. That’s embarrassing. Guess Mommy really does love me.
+LAWYER: To my biological daughter, Emma... My sweet POOKUMS...
+REAL DAUGHTER: (smug) Yes?
+LAWYER: To my POOKUMS I leave my mirror— so she may finally see herself clearly.
+RECORD SCRATCH
+REAL DAUGHTER: (smile fades) That’s not funny. 
+LAWYER: Along with my medical bills— as she was the one using my credit card during my final days.
+REAL DAUGHTER: What?! But I need those BLACK HIGH HEELS!
+ADOPTED DAUGHTER: (trying not to smile) Oh... that’s rough.
+LAWYER: Now—to my daughter, Kat. The one who chose me, not my money. The one who stayed when there was nothing to gain.
+LAWYER: Kat is to inherit the house, The CAR COLLECTION, all remaining assets, and full control of the estate.
+REAL DAUGHTER: She’s not even blood!
+ADOPTED DAUGHTER: (shocked) Oh my... I—I don’t know what to say.
+OLDER SON: This is insane. She wouldn’t do this. She couldn’t.
+REAL DAUGHTER: (bitter laugh) Guess Mommy finally showed her true colors.
+Music stops
+(DEAD) mother:  (enter stage right) (Calmly) No, dear. You just showed me yours.
+noir music 4
+REAL DAUGHTER: (gasps) ... Mommy?
+OLDER SON: (shouting) What the hell is this?!
+ADOPTED DAUGHTER: You’re— you’re alive?
+(DEAD) MOTHER: Unfortunately for some of you— yes. I wanted to see who you’d become when you thought I was gone.
+OLDER SON: You made us think you were dead?!
+(Dead) MOTHER: Yes. I faked my death by METHOD OF FAKING DEATH.
+(Dead) MOTHER: Then I watched two of you fight over my money and my CAR COLLECTION before my body was even cold.
+REAL DAUGHTER: I stayed with you! I took care of you!
+(DEAD) MOTHER: You used my credit card, POOKUMS, and you couldn’t even remember what I liked to eat!
+(DEAD) MOTHER: I’m allergic to LOBSTER. (Turns to Kat)
+(DEAD) MOTHER: Kat stayed when I said I had nothing left.
+ADOPTED DAUGHTER: (staps back away from mother) You... lied to me.
+(DEAD) MOTHER: No. I tested you. And you passed.
+(DEAD) mother: (To the lawyer) Mr. Miller, thank you for playing along.
+LAWYER: You said it was the only way they’d tell the truth.
+OLDER SON: So the will... ?
+(DEAD) MOTHER: It’s real. But it doesn’t go into effect—yet. (Takes Kat’s hand)
+Meanwhile ADOPTED DAUGHTER: (Takes mother's hand)
+(DEAD) MOTHER: Come along, dear. You have a CAR COLLECTION to admire.
+REAL DAUGHTER: (crying) Mommy— you can’t just walk away!
+(DEAD) MOTHER: I already have. (Mother exits stage right. ) 
+Adopted daughter: (follows mother) Ha! Bye, losers.
+OLDER SON: (falls to his knees, sobbing)
 
 ======
 
