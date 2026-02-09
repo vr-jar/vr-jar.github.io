@@ -2625,6 +2625,7 @@ shifca
 Abaddon Matriel
 bd_
 #TIER=3
+¥Shadow_Prince¥
 Alatreonslayer
 Gear Head
 JinizelRyuga
