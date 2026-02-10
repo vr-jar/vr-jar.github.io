@@ -2640,6 +2640,7 @@ Omega The First
 Abaddon Matriel
 bd_
 #TIER=3
+EvieBeani
 Alatreonslayer
 Gear Head
 JinizelRyuga
