@@ -2703,7 +2703,6 @@ PinballReviewer
 ghost-numi
 ༒CyanPhoenix༒
 EtherealRaccoon
-VQRIST
 Baekey
 Ihavefakenames
 Tony_Lewis
