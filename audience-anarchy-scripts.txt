@@ -27000,79 +27000,6 @@ TYPEWRITER: The two lovebirds went to watch MOVIE, then murderized the whole the
 ======
 
 INFORMATION ===============================
-ID: 853
-TITLE: Possessed Toilet
-AUTHOR: LeoHardy
-VERIFIED: True
-TAGS: Skit
-SET: Infomercial Bathroom
-DATE: 26/05/24
-CHARACTERS ================================
-HERO: The Hero:Backstage
-TOILET: Toilet:Toilet 
-WIFE: Wife:Stage Right
-HUSBAND: Husband:Stage Left
-SUGGESTIONS =============================
-ATTACK:A Pokemon-inspired attack!:Mudbomb,Thunderbolt,Thrust
-MEAL:A Mexican food dish:loaded beef nachos,enchirito,beans
-LOCATION:A location:Hell,Chicago,Denny's
-VERBING:A verb ending in -ing:flushing,choking,dancing
-OCCUPATION:An occupation (noun):exorcist,priest,construction worker
-CREATURE:An animal (noun):demon,squirrel,capybara
-LIQUID:A kind of liquid (noun):water,lemonade,syrup
-FUNNYNOUN:A funny noun (noun):nincompoop,scallywag,heathen
-SCRIPT ==========================================
-Mystery Music 1
-HUSBAND: I swear, honey, this toilet is just acting strange! I mean, listen to it!
-WIFE: I don't hear anything usual. It just flushes and sometimes speaks in backwards Latin. Nothing unusual.
-TOILET: Join me in LOCATION, you FUNNYNOUN!
-WIFE: Honey, it just called you an FUNNYNOUN! That's not normal for a toilet!
-HUSBAND: No crap, honey! It's not normal for a toilet to be speaking.
-WIFE: Not like that anyway. Maybe it's just a NOUN stuck in the pipes?
-HUSBAND: A NOUN stuck in the pipes would not make a toilet come to life.
-TOILET: I'm not a NOUN, you INSULT! I'm a gateway to the underworld! Feed me!
-WIFE: I don't think a plunger is going to fix this. What if we call that OCCUPATION from the yellow pages?
-HUSBAND: Honey, no one uses the yellow pages anymore.
-TOILET: I'll show you yellow!
-WIFE: Right. Maybe we should try the holy water I stole from the church last Sunday.
-HUSBAND: Why would you steal holy water from the church?
-WIFE: I'm religious and have a drinking problem.
-TOILET: Fools! You think a little LIQUID can stop me?
-WIFE: (grabs holy water) It's worth a shot! (sprinkles holy water on the toilet)
-TOILET: Ah, it burns! Just kidding. That tinkles. Get it?
-HUSBAND: Alright, this is getting out of hand.
-WIFE: Toilet paper. Not your hands, you FUNNYNOUN!
-Laughter
-HUSBAND: Please! Now is not the time for jokes This isn't funny, honey.
-WIFE: Okay, let's get serious, Honey Hut. Do we call the OCCUPATION or try to flush it out ourselves?
-HUSBAND: Did you seriously just suggest we should flush the evil spirit out of our toilet?
-WIFE: It's worth a sh -- shot. Worth a shot. Or we could try NOUN as a last resort.
-TOILET: None of it will matter, you ADJECTIVE! I'll drag you all to LOCATION! Now sit on my face!
-WIFE: Oh, great. Now it's starting to act like my husband. Just wonderful.
-HUSBAND: Okay, OCCUPATION it is.
-TOILET: You'll regret this, you INSULT!
-HUSBAND: (on phone) Hello? Our toilet is possessed by a demonic CREATURE. No, this is not a prank. Please don't hang up!
-WIFE: A demonic CREATURE. That's kinda hot.
-HUSBAND: No, we haven't tried VERBING it yet. Okay, you'll be here in a few seconds. Super convenient plot device!
-HERO: (enters stage left) I have arrived. Not sure why you called me, an OCCUPATION, but I'm here to help.
-WIFE: Well, thank goodness. You're our hero. My dumb husband can't fix our toilet.
-HUSBAND: Hey! I may be a FUNNYNOUN, but I'm not dumb.
-HERO: Never fear, the OCCUPATION is here! Now, where is the demonic porcelain fiend?
-TOILET: I'm just an innocent little toilet. Please help me! I love you!
-HERO: See? There is nothing to fear after all.
-HUSBAND: That's just voodoo devil talk. It's trying to drag you into the pits of LOCATION.
-HERO: Okay, toilet. You have flushed your last NOUN.
-Pokemon Battle Music
-HERO: I choose you, Taco Bell MEAL! Quick! Use ATTACK!
-TOILET: What is this sorcery? You haven't see the last of me!
-Vine Boom
-WIFE: The toilet just exploded.
-HERO: My job here is done.
-HUSBAND: (looks down in toilet) I think we have another problem.
-
-======
-
-INFORMATION ===============================
 ID: 857
 TITLE: Donate, Please
 AUTHOR: HolidayWither
@@ -62039,6 +61966,80 @@ REAL DAUGHTER: (crying) Mommy— you can’t just walk away!
 (DEAD) MOTHER: I already have. (Mother exits stage right. ) 
 Adopted daughter: (follows mother) Ha! Bye, losers.
 OLDER SON: (falls to his knees, sobbing)
+
+======
+
+INFORMATION ===============================
+ID: 853
+TITLE: Possessed Toilet
+AUTHOR: LeoHardy
+VERIFIED: True
+TAGS: Skit
+SET: Infomercial Bathroom
+DATE: 26/05/24
+CHARACTERS ================================
+HERO: The Hero:Backstage
+TOILET: Toilet:Toilet 
+WIFE: Wife:Stage Right
+HUSBAND: Husband:Stage Left
+SUGGESTIONS =============================
+ATTACK:A Pokemon-inspired attack!:Mudbomb,Thunderbolt,Thrust
+MEAL:A Mexican food dish:loaded beef nachos,enchirito,beans
+LOCATION:A location:Hell,Chicago,Denny's
+VERBING:A verb ending in -ing:flushing,choking,dancing
+OCCUPATION:An occupation (noun):exorcist,priest,construction worker
+CREATURE:An animal (noun):demon,squirrel,capybara
+LIQUID:A kind of liquid (noun):water,lemonade,syrup
+FUNNYNOUN:A funny noun (noun):nincompoop,scallywag,heathen
+THING:A thing:booty,fishstick,Canadian
+SCRIPT ==========================================
+Mystery Music 1
+HUSBAND: I swear, honey, this toilet is just acting strange! I mean, listen to it!
+WIFE: I don't hear anything usual. It just flushes and sometimes speaks in backwards Latin. Nothing unusual.
+TOILET: Join me in LOCATION, you FUNNYNOUN!
+WIFE: Honey, it just called you a FUNNYNOUN! That's not normal for a toilet!
+HUSBAND: No crap, honey! It's not normal for a toilet to be speaking.
+WIFE: Not like that anyway. Maybe it's just a THING stuck in the pipes?
+HUSBAND: A THING stuck in the pipes would not make a toilet come to life.
+TOILET: I'm not a THING, you imbecile! I'm a gateway to the underworld! Feed me!
+WIFE: I don't think a plunger is going to fix this. What if we call that OCCUPATION from the yellow pages?
+HUSBAND: Honey, no one uses the yellow pages anymore.
+TOILET: I'll show you yellow!
+WIFE: Right. Maybe we should try the holy water I stole from the church last Sunday.
+HUSBAND: Why would you steal holy water from the church?
+WIFE: I'm religious and have a drinking problem.
+TOILET: Fools! You think a little LIQUID can stop me?
+WIFE: (grabs holy water) It's worth a shot! (sprinkles holy water on the toilet)
+TOILET: Ah, it burns! Just kidding. That tinkles. Get it?
+HUSBAND: Alright, this is getting out of hand.
+WIFE: Toilet paper. Not your hands, you FUNNYNOUN!
+Laughter
+HUSBAND: Please! Now is not the time for jokes This isn't funny, honey.
+WIFE: Okay, let's get serious, Honey Hut. Do we call the OCCUPATION or try to flush it out ourselves?
+HUSBAND: Did you seriously just suggest we should flush the evil spirit out of our toilet?
+WIFE: It's worth a sh -- shot. Worth a shot. Or we could try THING as a last resort.
+TOILET: None of it will matter! I'll drag you all to LOCATION! Now sit on my face!
+WIFE: Oh, great. Now it's starting to act like my husband. Just wonderful.
+HUSBAND: Okay, OCCUPATION it is.
+TOILET: You'll regret this, you imbecile!
+HUSBAND: (on phone) Hello? Our toilet is possessed by a demonic CREATURE. No, this is not a prank. Please don't hang up!
+WIFE: A demonic CREATURE. That's kinda hot.
+HUSBAND: No, we haven't tried VERBING it yet. Okay, you'll be here in a few seconds. Super convenient plot device!
+HERO: (enters stage left) I have arrived. Not sure why you called me, an OCCUPATION, but I'm here to help.
+WIFE: Well, thank goodness. You're our hero. My dumb husband can't fix our toilet.
+HUSBAND: Hey! I may be a FUNNYNOUN, but I'm not dumb.
+HERO: Never fear, the OCCUPATION is here! Now, where is the demonic porcelain fiend?
+TOILET: I'm just an innocent little toilet. Please help me! I love you!
+HERO: See? There is nothing to fear after all.
+HUSBAND: That's just voodoo devil talk. It's trying to drag you into the pits of LOCATION.
+HERO: Okay, toilet. You have flushed your last THING.
+Pokemon Battle Music
+HERO: I choose you, Taco Bell MEAL! Quick! Use ATTACK!
+TOILET: What is this sorcery? You haven't see the last of me!
+Vine Boom
+WIFE: The toilet just exploded.
+HERO: My job here is done.
+HUSBAND: (looks down in toilet) I think we have another problem.
 
 ======
 
