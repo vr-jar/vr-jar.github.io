@@ -2592,6 +2592,7 @@ Omega The First
 Abaddon Matriel
 #TIER=3
 Huckleberry_Vix
+Yuzuru?
 Alatreonslayer
 Gear Head
 JinizelRyuga
