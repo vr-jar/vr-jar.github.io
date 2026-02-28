@@ -218,6 +218,7 @@ VoidKalt
 亗MR_FUGITIVE亗
 -nexa
 -R A I N Y-
+faisl2q
 fullmoonhunter
 legplan
 Roboworgen
@@ -1941,6 +1942,7 @@ Unit-001
 vo_q
 ね お き
 #TIER=1
+-ᴋͥᴇʟͣsᴇͫʏ-
 Foreversleepy_
 The way of life
 ༒R̶o̶n̶i̶n̶༒
