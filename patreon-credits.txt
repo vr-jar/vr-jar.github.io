@@ -608,6 +608,7 @@ DarkRaie
 Dem1VRC
 Demaider
 Eikø
+GrimmOwlBear
 Isaacvr1
 KasuriNya
 MeanGreenBeanz
@@ -616,7 +617,6 @@ NathanKratis
 Perydaplaypus
 Rion Kion
 Silent Z
-SireRaven
 SleepyZoroark
 StripedStash
 TimTimSherrie
