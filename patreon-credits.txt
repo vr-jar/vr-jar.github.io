@@ -1244,7 +1244,6 @@ Elbrar
 Elfiette
 Furmanator1234
 gеnе
-HorseMouthBird
 JL_Picard
 KeithiSnow
 koenne
@@ -1258,6 +1257,7 @@ OxifiedVR
 Ozzy Helix
 ShakiraSnep
 ShiroTwo
+ShowerShatter
 Skye1200
 StarSkunk
 Stormy Kamui
