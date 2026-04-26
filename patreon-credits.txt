@@ -2,6 +2,7 @@
 -Flesh
 ˚Astir˙
 ~Akí~
+~VioletMoon~
 acey121
 Chaotic_Edict
 Fluttershy23
@@ -2553,6 +2554,7 @@ Abaddon Matriel
 bd_
 #TIER=3
 Huckleberry_Vix
+SawtyAD
 Alatreonslayer
 JinizelRyuga
 Gear Head
