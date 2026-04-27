@@ -1945,7 +1945,6 @@ Judge Master Black Rabbit
 Neon_Fennix
 ო~ᴍɪᴋᴏ~ო
 #TIER=1
-֒Fluffy
 Foreversleepy_
 The way of life
 ༒R̶o̶n̶i̶n̶༒
@@ -2553,6 +2552,7 @@ shifca
 bd_
 Abaddon Matriel
 #TIER=3
+֒Fluffy
 Huckleberry_Vix
 Alatreonslayer
 JinizelRyuga
