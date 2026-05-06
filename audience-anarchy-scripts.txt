@@ -8530,7 +8530,7 @@ AGENT: (Nauseous) I think I'm turning into a SNAKE...
 INFORMATION ===============================
 ID: 184
 TITLE: The Bakeoff
-AUTHOR: jay3409
+AUTHOR: Anonymous Author
 VERIFIED: True
 TAGS: Skit
 SET: Infomercial Kitchen
@@ -13063,7 +13063,7 @@ DOCTOR: (defeated) I'm surrounded by idiots.
 INFORMATION ===============================
 ID: 448
 TITLE: Monster of the Week
-AUTHOR: Cy Bunny
+AUTHOR: HexaDecibun
 VERIFIED: True
 TAGS: Skit
 SET: Forest
@@ -18670,77 +18670,6 @@ Meanwhile BRUCE: (look at RITA) Our new neighbor sucks!
 ======
 
 INFORMATION ===============================
-ID: 609
-TITLE: Dinner Party for One
-AUTHOR: Tricky_Hunter
-VERIFIED: True
-TAGS: Skit
-SET: Dining Room
-DATE: 28/04/24
-CHARACTERS ================================
-BILL: Main Character:Entrance Stage Right
-MARY: Love Interest:Backstage
-STACY: Flirty Friend:Backstage
-BOB: Third Wheel (Comedic Relief):Entrance Stage Left
-SUGGESTIONS =============================
-SMELLCOMPLEMENT:A complement about the smell of food:Delicious,Devine,Delightful,Amazing,Just fine,Mouthwatering
-FLIRTSNAME:Flirty girls name:Suzan,Trisha,Lynn,Vivian
-LOVEINTERESTNAME:Love interests name:Anne,Tanya,Clare,Chantel,Rebecca
-FLIRTYSOUND:A flirty or sensual sound:mmmhhhhmmmm,ooooaaaahhh,fffmmmmaaa,Shabonga!
-FOOD:Food:Roast,Chicken,Stew,Bangers and Mash,Cheese Stuffed Sausages
-KNICKNACK:An item of interest that catches the eye:Troll Doll,Unicorn,Pickle Rick,Rock on a stick
-SCRIPT ==========================================
-applause
-jazz music 2
-BILL: (Walk into the room and start setting the table) I hope everyone's hungry, I think I made way too much FOOD
-BILL: (Look up at audience) They should be here any minute...
-BILL: Any... minute... now...
-BILL: (Look meaningfully at the stage left door) I said (Yell) Any minute now!
-BOB: (Yell)...Oh yeah... sorry!
-doorbell
-BILL: (Aggitated) That must be one of them now... (Open the stage left door)
-BOB: About time... I was waiting out there forever! (Walk in the door)
-BILL: (close door and say under breath) ...and who's fault is that... 
-BOB: (Walk over to bookshelf) Who else is coming? (Examine items and don't stop)
-BILL: Just LOVEINTERESTNAME and FLIRTSNAME
-Music Stops
-doorbell
-BILL: That's probably them... (Walk over and open the door)
-jazz music 1
-BILL: (Open the door) Hey FLIRTSNAME come in
-STACY: (Walk through the door) FLIRTYSOUND... it smells SMELLCOMPLEMENT in here. Did you make FOOD?
-BILL: (Close door) Yeah, I wasn't sure if you liked FOOD
-BOB: (Continue to examine bookshelf say under breath) ...everyone knows FLIRTSNAME likes FOOD...
-BILL: I better go check on dinner I'll be right back (walk out door stage right)
-doorbell
-STACY: I'll get it! It's probably LOVEINTERESTNAME right? (Walk to the door and open it) Hey, LOVEINTERESTNAME!
-Music Stops
-MARY: (Disappointed) FLIRTSNAME... didn't know you'd be here... (Walk into room)
-STACY: (Excited) Wouldn't miss it, doesn't the FOOD smell SMELLCOMPLEMENT!
-BOB: (Pick up an item on the bookshelf) Would you look at that a KNICKNACK! (Examine it and put it back keep looking at the shelf)
-MARY: FLIRTSNAME I don't see why you had to come tonight. It's pretty clear you're not welcome here...
-STACY: I don't think it's clear. Just because you don't want me here doesn't make me not welcome!
-BOB: (Pick up another item) Would you look at that, here's another KNICKNACK
-BILL: (Walk in from stage right and set food on the table) Oh! LOVEINTERESTNAME! I didn't know you were here already. I hope you're hungry for FOOD!
-MARY: (Angry) So nice of you to notice and after you make FLIRTSNAME's favorite!
-BILL: It's FLIRTSNAME's favorite? I had no idea... I wasn't even sure FLIRTSNAME liked FOOD
-BOB: (Continue to examine bookshelf say under breath) ...everyone knows FLIRTSNAME likes FOOD...
-BOB: (Pick up another item) and another one! Why do you have so many KNICKNACKs?
-STACY: Well I think it's sweet that you made FOOD for me
-MARY: Oh yeah, real sweet! So sweet it's making me sick! You two enjoy your FOOD I'm out of here (Exit stage left)
-BILL: (Follow after actor stage left) LOVEINTERESTNAME! Wait, I didn't just make FOOD for FLIRTSNAME
-BILL: (From off stage) Come back!
-STACY: (Follow off stage left) Just let LOVEINTERESTNAME go, we can it your SMELLCOMPLEMENT FOOD together!
-BOB: (Study bookshelf some more) I guess that's all of them...
-BOB: I still don't understand why so many KNICKNACKs (Look around the room)
-BOB: Seriously?!? Where'd everyone go? The FOOD is getting cold
-BOB: (Sit down at table) More FOOD for me then I guess...
-happy music 1
-BOB: Nothing quite like fresh FOOD! (dig into meal)
-
-======
-
-INFORMATION ===============================
 ID: 610
 TITLE: The Emotion Fairy
 AUTHOR: Figbean
@@ -19005,70 +18934,6 @@ Meanwhile JESTER: (Getting dragged by Knight) you can't take me away forever! I 
 JESTER: You haven't seen the last of JESTER!
 KING: Thank goodness, now I rest easy.
 KING: (falls to ground dead)
-
-======
-
-INFORMATION ===============================
-ID: 616
-TITLE: Grocery Confusion
-AUTHOR: Tricky_Hunter
-VERIFIED: True
-TAGS: Skit
-SET: Grocery Store
-DATE: 28/04/24
-CHARACTERS ================================
-CASHIER: Cashier:Behind Register
-ALIEN: Alien:Entrance Stage Right
-MANAGER: Store manager:Entrance Stage Left
-SUGGESTIONS =============================
-PUBLICSERVICE:a government service you need an identification card for:Motor Vehicle Department,Library,Police
-ARTIFACT:a fantasy artifact:Holy Grail,Genetic Ion Obliterator,Subsonic Flow Detector,Curved Source Swapper,Mental Shock Core
-GASSTATION:a convenience store chain:Kum & Go,Wawa,Buc-ee's,Casey's,QuikTrip,7-eleven
-SPACEWEAPON:an ominious sounding sifi weapon:Anti-matter shrapnel cannon,Obliteration beam saber,particle beam laser
-SHIPPART:a part of a spaceship:Fluxcore,anti-matter drive,Interstellar guidance system,superconducting conduit
-HARDWARESTORE:a common hardware retailer:Menards,Home Depot,Lowes,Ace Hardware
-STOREITEM:a common office supply:paper clips,staples,loose leaf paper,notebooks,ink cartridges
-SCRIPT ==========================================
-guitar music 1
-ALIEN: (walk into the store) What's this? It seems like it must be one of those... what do they called it?
-meanwhile CASHIER: (wave to and greet new customer)
-ALIEN: From what I remember this is known as a food PUBLICSERVICE location.
-CASHIER: Is there something I can help you find?
-ALIEN: Perhaps you can tell me where I might locate a ARTIFACT?
-CASHIER: I don't believe we carry any ARTIFACT's, let me check, I'll be right back... (move through stage left door)
-ALIEN: Interesting... the overlords claimed that the humans would not be this forthcoming regarding their ARTIFACTs but it would appear they were ill-informed
-CASHIER: (whisper) Hey Boss? We have a weirdo out there asking about ARTIFACT's and I have no idea what to tell them.
-MANAGER: (whisper) They're asking about what? ARTIFACT's? We haven't carried those for years...
-CASHIER: (whisper) What do you mean? We used to carry ARTIFACT's?
-MANAGER: (whisper) Yeah, we used to get a lot of customers from out of town asking about them. I'll go see if I can smooth this over. (Walk out to register)
-MANAGER: Hello, I hear you're looking for a specialty item?
-ALIEN: I wouldn't consider a ARTIFACT to be a specialized item of any sort. They are quite common from my understanding.
-MANAGER: Unfortunately we haven't stocked ARTIFACT's for quite a while now. Is there anything else we could help you with?
-ALIEN: That is a rather disagreeable outcome indeed.
-meanwhile CASHIER: (walk back to register)
-MANAGER: Maybe you could find one still at the GASTATION down the road, they usually are the last to sell out.
-meanwhile CASHIER: (walk back to register)
-ALIEN: While I currently occupy this point in space time, might you have any SPACEWEAPONs or SHIPPARTs?
-meanwhile CASHIER: (walk back to register)
-MANAGER: I'm sorry but I don't believe we've ever stocked anything of that type here. Might have better luck at HARDWARESTORE though.
-meanwhile CASHIER: (walk back to register)
-CASHIER: You do know this is a grocery store right?
-MANAGER: Shhhh... I'm sorry for their rudeness, they just started here.
-MANAGER: (at cashier) How about you go organize the STOREITEMs in the back!
-CASHIER: (walk off stage left) GAH!
-MANAGER: Is there anything else I could help you with?
-ALIEN: The only other provision that we require is a box of Fruit Stripe.
-MANAGER: I'm sorry, they discontinued those a while ago.
-ALIEN: Perhaps I will have a greater chance of success at this GASSTATION you speak of. (Exit Stage Right)
-MANAGER: (Wait for customer to leave) Just can't please some people...
-meanwhile ALIEN: (Exit Stage Right)
-CASHIER: (From Stage Left Entrance) Hey Boss?
-MANAGER: What do you need?
-CASHIER: I just found a box marked "ARTIFACTs" and another marked "SHIPPARTs"
-CASHIER: ...and here's one marked "SPACEWEAPONs" I thought they were messing with us and if we have them why didn't you tell them?
-MANAGER: Oh, well those aren't for sale.
-Music Stops
-MANAGER: (vicious tone) We need those for the coming war with HARDWARESTORE!
 
 ======
 
@@ -27208,78 +27073,6 @@ Music Stops
 ======
 
 INFORMATION ===============================
-ID: 863
-TITLE: Tormented Rescue
-AUTHOR: RainbowSparkle1
-VERIFIED: True
-TAGS: Skit
-SET: Interrogation Room
-DATE: 29/05/24
-CHARACTERS ================================
-VICTIM’S FRIEND: Victim’s friend:Backstage
-TORMENTOR: Tormentor:Entrance Stage Right
-TORMENTED SOUL: Victim:Chair
-SHERIFF: Sheriff:Backstage
-SUGGESTIONS =============================
-VILLAIN NAME:Name any popular villain:Voldemort,Darth Vader,Mother Gothel,Ursula
-MENTAL ILLNESS:Name any mental illness:PTSD,depression,stress,anxiety
-NAME 1:Any name:Alex,Amy,Derek,Ava
-NAME 2:Any name:Craig,Avery,David,Taylor
-COLLECTABLES:Any collection someone might have:Funko pops,action figures,vinyl figures
-COPING MECHANISM:A coping mechanism:Therapy,Emotional support,Meditation
-SCRIPT ==========================================
-[dark classical music]
-TORMENTED SOUL: (Groan as you wake up) What happened…
-TORMENTED SOUL: (Realize you’re tied to a chair) HUH?! WHY AM I TIED UP?!
-TORMENTED SOUL: (struggle to break free) HELP! SOMEBODY HELP ME!
-TORMENTOR: (Walk through door while laughing evilly) I don’t think anyone is going to hear you little one.
-TORMENTED SOUL: Who……are you……
-TORMENTOR: Why, I’m VILLAIN NAME, and I’ve captured you for my own entertainment.
-TORMENTED SOUL: What are you going to do to me?
-TORMENTOR: Oh, I’m going to break you down until you have MENTAL ILLNESS!!!
-TORMENTED SOUL: NO!!! Please! Just let me go! I won’t tell anyone, I promise!
-TORMENTOR: Not going to happen. I know all your secrets, and if you don’t co-opporate with me, they will be exposed to the world.
-TORMENTED SOUL: Fine! Just don’t tell anyone about my secret stash of COLLECTABLES.
-TORMENTOR: Good. Then let us begin. (laugh evilly)
-TYPEWRITER: A few hours later…
-TORMENTOR: Well, seems like I have broken you. Now you truly do have MENTAL ILLNESS.
-Meanwhile TORMENTED SOUL: (crying)
-TORMENTED SOUL: (crying) Please….stop this….I’m begging you….
-TORMENTOR: Why would I?
-TORMENTOR: It’s only been a few hours and I’m just getting started!
-TORMENTOR: You’ll be here for the rest of your life, and absolutely nobody will come find y-
-[break down door]
-[tense cinematic music]
-[police car]
-VICTIM’S FRIEND: HEY! What are you doing with my best friend?!
-TORMENTED SOUL: NAME 1! Thank god you’re here!
-TORMENTOR: WHAT?! How did you find us?!
-VICTIM’S FRIEND: NAME 2 has a tracker in their wristband they always carry around.
-VICTIM’S FRIEND: We both decided this was necessary for the both of us to know where we are in moments like this.
-VICTIM’S FRIEND: Plus, I have some friends waiting outside for you VILLAIN NAME!
-SHERIFF: (walk through the door) You are under arrest VILLAIN NAME!
-TORMENTOR: Fine…
-TORMENTOR: (while walking out with sheriff) But I will be back for my vengeance!!!!!!
-SHERIFF: Yeah, yeah. We’ll see about that.
-[sad chug jug music]
-VICTIM’S FRIEND: (untieing friend) Are you okay NAME 2?
-TORMENTED SOUL: No… VILLAIN NAME gave me MENTAL ILLNESS.
-VICTIM’S FRIEND: Really? I’m so sorry…
-TORMENTED SOUL: (crying) I don’t know how I’m going to get through this, NAME 1.
-VICTIM’S FRIEND: (hug NAME 1) Don’t worry, we’ll start doing some COPING MECHANISM to help, ok?
-TORMENTED SOUL: ok…
-SHERIFF: (enter back into room) Guys, we’re all settled. We’ll take you guys back home to your families.
-TORMENTED SOUL: (sniff) Thank you officer.
-SHERIFF: Anytime. You’re lucky we found you alive after a few hours.
-TORMENTED SOUL: I’m just glad VILLAIN NAME didn’t reveal my secret COLLECTABLES collection…
-[music stops]
-[record scratch]
-VICTIM’S FRIEND: Wait, secret what collection?
-TORMENTED SOUL: Crap…
-
-======
-
-INFORMATION ===============================
 ID: 865
 TITLE: A Robot Among Us?
 AUTHOR: LeDerp_64
@@ -32863,7 +32656,7 @@ JOSHUA: And if this impresses CELEBRITY, I hope they give me another chance. It 
 INFORMATION ===============================
 ID: 1052
 TITLE: The Atrocious Investigators
-AUTHOR: droolmeister
+AUTHOR: SuperSheppyHaze
 VERIFIED: True
 TAGS: Skit
 SET: Living Room
@@ -35740,99 +35533,6 @@ CHEF 2: It truly is an honor, thank you so much!
 HOST: And thank you two for being here!
 HOST: That concludes this episode of "Cooking for PERSON!" Goodnight, everybody! (Wave to audience)
 Applause
-
-======
-
-INFORMATION ===============================
-ID: 1125
-TITLE: Audience Anarchy Pitch
-AUTHOR: zanbbit
-VERIFIED: True
-TAGS: Skit
-SET: Conference Room
-DATE: 12/10/24
-CHARACTERS ================================
-BOSS: The CEO:Boss Chair
-OLD EMPLOYEE: Arrogant old employee:Office Chair 2
-NEW EMPLOYEE: New employee:Entrance Stage Left
-SUGGESTIONS =============================
-COMPANY:A Company that makes games:Nintendo,Atari,Hasbro
-GAME:A game that already exists:Tag,Go Fish,Mario
-SUBCULTURE:A plural of any subculture:Furries,Anime Geeks,Cheese Enthusiasts
-GENRE:A video game genre:Open World,Pay To Win,Dating
-NUMBER:Any number:2,10,30
-NICKNAME :A negative or degrading nickname:Evil King,Backbreaker,Whipcracker
-CONSOLE:An old video game console:Odyssey,Dreamcast,Game Boy
-NE AA NAME:An alternate name for Audience Anarchy:Will of the People,Mad Lib Mayhem,Script Rippers
-BO AA NAME:An alternate name for Audience Anarchy:Will of the People,Mad Lib Mayhem,Script Rippers
-SOMETHING:An item someone would not want to receive:Coal,A Parking Ticket,Crude Oil
-ADJECTIVE:A word to describe something weird or bad:Cuckoo,Looney,Horrible
-SCRIPT ==========================================
-(Silly Music 2)
-BOSS: Come on! We need to think of a new game! Are we really going to let COMPANY beat us in sales!?
-OLD EMPLOYEE: Relax sir! I haven't let you down yet have I? How about a new spin on GAME?
-BOSS: No no no! It's been done And we'll probably get sued. Hmm (thinks) What if we try to make something in VR?
-BOSS: All the SUBCULTURE are into VR Games these days right?
-OLD EMPLOYEE: Now boss, you know how to sell this stuff but I know how to make this stuff. Just leave the ideas to me. There's not enough people in VR. it's just a fad.
-BOSS: We need to do something groundbreaking! We need something that will get peoples attention! A big hit!
-(Music Stops)
-(Shark Tank Walking Theme)
-NEW EMPLOYEE: (enters stage) I think I have just what you're looking for, Chief!
-OLD EMPLOYEE: (annoyed) Oh great, it's the new guy. What do you have this time? Another GENRE game that will fail?
-NEW EMPLOYEE: No. I think this new game is quite unique. You might find my ideas interesting if you actually listened to me.
-OLD EMPLOYEE: Pitch me an idea that will actually be a success and then we'll talk. I've won NUMBER awards for my concepts! I know what works, kid!
-NEW EMPLOYEE: Yeah but you're also known around the office as The NICKNAME. What does that say about you?
-BOSS: Enough! What's your idea, Newbie?
-(Shark Tank Discussion Music 1)
-NEW EMPLOYEE: (approach the boss) Hear me out, Chief! I have an idea for a virtual reality game!
-OLD EMPLOYEE: Reject it boss! We've been through this! There's no audience in VR! We would be better off making a game for CONSOLE!
-NEW EMPLOYEE: Oh hush! CONSOLE was huge back in the day! Anyway, It's a VR game where you can talk to people. Kind of like a virtual chatroom.
-BOSS: Umm... I think that's just VR Chat.
-OLD EMPLOYEE: What an amateur! That's just like my idea about a new spin on GAME. So you're stealing ideas from me now huh?
-NEW EMPLOYEE: Like your ideas are worth stealing in the first place, NICKNAME!
-OLD EMPLOYEE: At least I know what VR Chat is!
-BOSS: (mutters) I'm surrounded by children. (raises voice) Once again stop! Or both of you are getting SOMETHING instead of a paycheck this week.
-(Shark Tank Offer)
-BOSS: (looks at new employee) Do you have any other concepts?
-NEW EMPLOYEE: Hmm... (thinking) Well I have this one idea, it's also for VR.
-OLD EMPLOYEE: UGH I don't understand the world anymore. When did we stop trying to make money?
-BOSS: Let's hear it.
-(Shark Tank Serious Music 1)
-NEW EMPLOYEE: Okay so you act out these plays with scripts. There's an audience that can fill in missing words in the scripts. Kind of like madlibs.
-NEW EMPLOYEE: And those same audience members can join in and act too.
-BOSS: (nods) Hmm... there might be an idea there. Sounds like something the SUBCULTURE would enjoy.
-NEW EMPLOYEE: Not just the SUBCULTURE but also anyone who likes to act and have fun in plays too!
-OLD EMPLOYEE: You forgot one important thing, newbie.
-OLD EMPLOYEE: Who's gonna write the scripts?
-NEW EMPLOYEE: Well will at the beginning. We can start with around NUMBER.
-NEW EMPLOYEE: But if the game gets big enough we can have the players write the scripts!
-OLD EMPLOYEE: Are you nuts!? That sounds dangerous! The players can't be trusted to do that!
-OLD EMPLOYEE: They'll probably write some weird story about SOMETHING. This is a ADJECTIVE idea!
-BOSS: Calm down, NICKNAME I think we actually may have something here.
-OLD EMPLOYEE: We absolutely do not! It don't sound fun! It's a game where you just watch other people play most of the time!
-OLD EMPLOYEE: And then we make them do our job by having them write more scripts?
-OLD EMPLOYEE: The SUBCULTURE won't go for that!
-BOSS: I disagree. I think we should try it! (Look at newbie) You got a name for this game?
-NEW EMPLOYEE: Well, not really but maybe we can call it... (thinks) oh! I know! How about NE AA NAME?
-(Shark Tank Offer)
-BOSS: I like it, but perhaps BO AA NAME could work as well.
-(Shark Tank Offer)
-OLD EMPLOYEE: Unbelievable! This is a bad idea, boss! It's boring. No one will play it!
-OLD EMPLOYEE: You're really gonna go with this... this... ADJECTIVE concept!?
-NEW EMPLOYEE: You said that already.
-OLD EMPLOYEE: Well there's no other way to describe it!
-OLD EMPLOYEE: It's just anarchy with an audience! I don't know if we can make a standalone game out of that idea!
-OLD EMPLOYEE: We might as well make it a VR Chat map or something!
-BOSS: You know, that's not a bad idea! We should make it a VR Chat map!
-OLD EMPLOYEE: What!? No!? That was a joke!
-BOSS: Congrats newbie! We'll start development on BO AA NAME right away! (shake newbie's hand)
-(Shark Tank Deal)
-(Shark Tank Positive Music)
-NEW EMPLOYEE: Glad you're on board, Chief! I believe folks will really like this too. But I still think we should call it NE AA NAME.
-BOSS: Don't push it, you're still new here.
-NEW EMPLOYEE: Fine (look at old employee) Since you seem to know about VR Chat I guess you'll be making the map?
-BOSS: It was their idea to make it a VR Chat map so they will be building it. Get to work NICKNAME!
-OLD EMPLOYEE: UGH! I hate my job!!
 
 ======
 
@@ -41282,98 +40982,6 @@ SCI: ULTNAME, let's leave before any more LAW come around.
 SCI: I don't want to get too messy.
 LIFE: Of Course, Doctor. (walks offstage)
 Meanwhile SCI: (walks offstage)
-
-======
-
-INFORMATION ===============================
-ID: 1349
-TITLE: Bankrupt Studio
-AUTHOR: Perydaplaypus
-VERIFIED: True
-TAGS: 
-SET: Conference Room
-DATE: 29/12/24
-CHARACTERS ================================
-CEO: Company CEO:Boss Chair
-INTERN1: No Idea Intern 1:Office Chair 1
-INTERN2: No Idea Intern 2:Office Chair 2
-INTERN3: Smart Intern:Office Chair 3
-INTERN4: Stupid Intern:Backstage
-SUGGESTIONS =============================
-STUDIO:Name for a movie studio:Paramount,Disney,Warner Bros.
-MOVIE:Title for a movie:The Adventures of Pluto Nash in 3D,Madame Web,Morbius
-PITCH1:Title for a movie:Goon Squad 3,Average Vrchat Enjoyer,Milk buddies
-PITCH2:Title for a movie:naked in japan,Car Downloader Pro,Mr Bean's Island Adventure
-PITCH3:Title for a movie:Attack of the chubby bunnies,goodbye sweet prince,Overwatch the animated movie
-PITCH4:Title for an awful movie pitch:Zombie Cow,Liar Liar Pants on Fire,Shrek 420
-CELEBRITY:A controversial celebrity:MrBeast,Kanye West,Bob Ross,Jared Leto
-ACTIVITY:An activity someone would do:Gamble,play sports,play video games
-CAREER:A career someone would have:Lawyer,Doctor,Businessman
-CONSPIRACY:A famous conspiracy:9/11 was an inside job,Lee Harvey Oswald didn't assassinate JFK,the 2020 election was rigged
-BUDGET:An amount of currency:$1,$69420,$1 billion
-EVENT:A dark event in history:9/11,the Holocaust,the Challenger explosion
-SCRIPT ==========================================
-(corporate motivational music)
-TYPEWRITER: STUDIO - Day - Last Meeting
-CEO: So as you know, STUDIO has gone bankrupt.
-CEO: The failure of MOVIE was so bad, we lost all out money.
-CEO: We only have enough to make one more movie.
-INTERN1: Well, what movie?
-CEO: That's problem. We're out of ideas.
-CEO: That's why I called you 3 in here today. I need you to give me an idea for a movie we can make.
-INTERN2: Can you really trust us with movies? We're only interns.
-CEO: We don't have a choice. Now give me movies.
-INTERN3: But we don't have any ideas.
-CEO: Then make one up. You're in the film business, and in the film business, you gotta make stuff up on that spot.
-CEO: You think our founder just found ideas. No, he made them up on the spot.
-CEO: So like he did, you'll have to do. So do it.
-INTERN1: Ok, um, how about PITCH1?
-(shark tank offer)
-CEO: Go on.
-INTERN1: Well, PITCH1 is about a CAREER who gets in trouble for ACTIVITY and has to cope with it.
-CEO: Ok, that sounds like it's been done many times before. (points at INTERN2) YOU! What's your pitch?
-INTERN2: Um, PITCH2.
-(shark tank offer)
-INTERN2: It's about a CAREER who gets in trouble for ACTIVITY and has to cope with it.
-CEO: That's literally what the other guy just said.
-INTERN2: I don't know ok. It's a lot of pressure.
-CEO: (sighs) Whatever. (points at INTERN3) YOU! What's your pitch?
-INTERN3: Well, unlike my fellow interns, I have an actual idea. I call it, PITCH3.
-(shark tank offer)
-CEO: Ooh, sounds interesting. What is it about?
-INTERN3: Well, PITCH3 follows an actor who gets himself into a crazy conspiracy.
-CEO: What's the conspiracy?
-INTERN3: That CONSPIRACY.
-CEO: Ooh, sounds riveting. What's the budget?
-INTERN3: Only BUDGET.
-CEO: That's way below our remaining, so it could work. I hereby greenlight this idea in 3... 2...
-INTERN4: (enters) Sorry I'm late boss. Traffic was crazy.
-CEO: It's ok intern. We were just pitching movie ideas as STUDIO has gone bankrupt.
-INTERN4: Ooh, I have an idea.
-INTERN3: Sorry, but we've already got the movie idea...
-CEO: No no, let's see what he has to say.
-CEO: (to INTERN4) What's your idea?
-INTERN4: I call it PITCH4.
-(shark tank offer)
-INTERN4: It follows a CAREER, played by CELEBRITY, who travels through time to prevent different events from happening.
-CEO: What kind of events?
-INTERN4: Events like the the assassinations of JFK and Lincoln, and EVENT.
-(record scratch)
-INTERN3: That is, by far, the most stupidest and offensive idea I've ever heard.
-INTERN2: It's awful.
-INTERN1: It's horrendous.
-CEO: It's brilliant. You've got the movie.
-INTERN3: WHAT?!
-INTERN4: Really!
-CEO: Yes, and we'll invest all of our money into it.
-INTERN3: Sir, this idea is horrendous. This won't save the company what so ever.
-INTERN1: Yeah, this will for sure kill us.
-INTERN2: We cannot make this movie.
-CEO: Trust me, this movie will get us back on top. We'll win multiple Academy Awards for this.
-CEO: We'll be the richest company in the universe.
-TYPEWRITER: PITCH4 was so bad it caused STUDIO to go out of business.
-TYPEWRITER: STUDIO would end up being bought by Disney to add to their monopoly.
-TYPEWRITER: Directed by M. Night Shyamalan
 
 ======
 
@@ -47837,77 +47445,6 @@ INTERVIEWER: Man... I should learn how to SKILL too...
 ======
 
 INFORMATION ===============================
-ID: 1545
-TITLE: Cooking Informercial
-AUTHOR: Perydaplaypus
-VERIFIED: True
-TAGS: Infomercial
-SET: Infomercial Kitchen
-DATE: 20/03/25
-CHARACTERS ================================
-MAYS: Billy Mays:Center Stage
-THESIS: Eric Theiss:Backstage
-WOMAN: Woman with Theiss:Backstage
-SUGGESTIONS =============================
-COOK:Name for a cooking product you'd find in an infomercial:Power Air-Fryer Oven,Slap Chop,Copper Chef
-EVENT:An activity two or more people would do together:Date,Sleepover,Party
-ITEM:An item someone would have:TV,PC,Console,Record Player
-FOOD:A type of food:Sandwich,Steak,Pork Chops
-CHEF:A professional chef:Gordon Ramsey,Bobby Flay,Guy Fieri
-CAN:A can product you'd find in an infomercial:Slick-Eaze,Slick Pan,Stick Off
-FLAMING SENTENCE:Something you might yell if you were on fire:This is not a drill,I need milk,My hair smells horrible,This is what it's like to be a marshmallow,Clean up on aisle ME,I'm too young to be meat,is it hot in here or is it just me
-AFFECTION:A verb you do to something you like:stare at,deeply cherish,dominate,savor,squeeze,photograph,like comment and subscribe
-SCRIPT ==========================================
-(corporate motivational music)
-MAYS: Hi, Billy Mays here for the new COOK, a brand new and easy way to cook your meals.
-MAYS: Are you tired of soggy dinners ruining your EVENT?
-MAYS: Are you tired of your family hating you because the food is cold?
-MAYS: COOK is there to save your dinner.
-MAYS: All you have to do is to prepare the food, and use COOK to make the dinner of a lifetime.
-MAYS: (put COOK on table) To help show you the power of COOK,
-MAYS: I've brought celebrity chef Eric Theiss and a random woman I found outside the studio to help out
-THESIS: (enter Stage Left) Thank you for having us Billy.
-Meanwhile WOMAN: (enter Stage Left with Theiss)
-WOMAN: Yes, it's an honor.
-MAYS: Great. Now while you two are doing this, I'm going to go handle my divorce proceedings.
-MAYS: Like hell am I going to Diana take my kids and ITEM. (storm off Stage Right)
-THESIS: Ok, so to show the power of COOK , we are going to cook some FOOD.
-WOMAN: Oh yes, these will be appetizing.
-THESIS: Of course they'll be appetizing.
-WOMAN: I can't wait to AFFECTION it!
-THESIS: Now we have two of each, one that will be made the normal way, and one that will be made using COOK.
-THESIS: First, we'll cook the FOOD. (put one set of FOOD into oven)
-THESIS: While that's cooking, we'll use COOK on the other set (use COOK on other set of FOOD)
-WOMAN: Ooh, that looks appetizing.
-THESIS: I literally just started. So, what you don't want to do is use COOK for too long, or else.
-WOMAN: Or else what?
-THESIS: Or else.
-(gameshow ding)
-THESIS: Sounds like the oven FOOD is done. (pull FOOD out of the oven)
-THESIS: Now as you can see, there is a clear difference between Oven cooked FOOD and COOK made FOOD.
-WOMAN: Can I touch the FOOD?
-THESIS: No, it's hot.
-THESIS: Anyway, as you can see, the Oven cooked FOOD looks soggy and disgusting, while COOK cooked FOOD look like it was made by CHEF himself.
-WOMAN: Mmm, it looks tasty. (take COOK cooked FOOD and eat it) It tastes so good.
-THESIS: I just said to not touch it.
-WOMAN: Why?
-(fire alarm)
-WOMAN: (scream in pain) My hand is on fire!
-THESIS: I told you not to touch and look what happened.
-MAYS: (enter stage right) See, the results are fantastic.
-WOMAN: It burns! Aaaaaaah!
-WOMAN: FLAMING SENTENCE!
-MAYS: Order now and we'll throw in a second COOK absolutely free. That's two COOKs for the price of one.
-THESIS: Someone call 911!
-MAYS: And that's not all, order within the next 30 minutes and we'll throw in a can of CAN absolutely free.
-MAYS: Are you tired of non-stick pans not working? CAN can help with that.
-WOMAN: I can see bone!
-MAYS: But you have to call now.
-(infomercial disclaimer)
-
-======
-
-INFORMATION ===============================
 ID: 1546
 TITLE: Who are you talking to?
 AUTHOR: LeDerp_64
@@ -49415,121 +48952,6 @@ DWAYNE: Nuh-uh! Not yet! Now, before y’all leave, I’m gonna sit here and eat
 LOGAN: Yo, he’s really doin' it. This is some luxury shiz.
 TREY: That’s alpha energy, bro.
 DWAYNE: Leave. Before I start charging y’all for emotional damages.
-
-======
-
-INFORMATION ===============================
-ID: 1587
-TITLE: Demoted
-AUTHOR: zanbbit
-VERIFIED: True
-TAGS: 
-SET: Detective Noir
-DATE: 02/04/25
-CHARACTERS ================================
-NORMAN: The Detective:Detective Chair
-CHIEF: The Angry Police Chief:Entrance Stage Left
-SUSPECT: The Suspect:Backstage
-PARTNER: The Suspects Partner:Backstage
-SUGGESTIONS =============================
-COVER:An object that something can be hidden in:Washing Machine,Box,Microwave
-GROUP:A suspicious group of people:Mobilli Family,Katana Wielders,Book Buffs
-DRUG:A drug or substance that is illegal to possess:Cocaine,Ecstasy,Unobtanium
-VIP:The name of an important individual:King Arthur,Mary Poppins,Mayor McCheese
-TASK:A type of crime a police officer would investigate:Traffic,Arson,Jaywalking
-ITEM:Name any object:Cheese Wheel,Lawnmower,Nintendo Switch 2
-EVENT:An exciting or important event:Lightbulb Convention,Debate,Gladiator Battle
-CRIME:Name any crime:Murder,Stealing,Saying OwO in Public
-NEWS:A name a for a news source:Times Of All Time,New News,Happy Magazine
-SCRIPT ==========================================
-(noir music 2)
-NORMAN: I'm Norman Guy, vice detective. I investigate drug cases. One of the fancy big shots around the station.
-NORMAN: A couple days back, we got a tip of some suspicious activity seen around a certain car.
-NORMAN: The owner was suspected of smuggling DRUG in COVERs for the GROUP. A known ring of drug traffickers.
-NORMAN: We were told the license plate number and pulled the car over once we saw it on the streets.
-NORMAN: We were shocked to discover the driver was actually VIP. A local celebrity of sorts.
-NORMAN: The investigation revealed that they only had only COVERs... No DRUG to be found.
-NORMAN: The chief became furious with me and said VIP could never be guilty of such a crime.
-NORMAN: I had to convince him to do the interrogation just to see what clues we could find.
-NORMAN: He said he would on the condition that if he didn't find anything... I would be punished.
-NORMAN: Now I wait in my office. Waiting to see if this crazy lead actually goes somewhere.
-(noir music 4)
-CHIEF: (Walk on stage and approach desk) Well Detective Guy you really did it now! The interrogation was worthless!
-CHIEF: How could you convince yourself that VIP was part of the GROUP!?
-CHIEF: Even if they were, no jury would convict them. There would be riots in the streets if they did!
-NORMAN: I'm sorry chief. We didn't know who the driver would be.
-CHIEF: You need to take responsibility for this, Norman! I'm demoting you to TASK!
-NORMAN: TASK!? Come on chief! I was just following a tip!
-CHIEF: We're still recovering from the ITEM incident. I can't let your actions go unpunished!
-NORMAN: The ITEM incident wasn't even my fault! Why am I being punished for it?!
-CHIEF: It's just the timing. We need to punish bad police actions to maintain our credibility.
-CHIEF: Sorry to say this, but you're no longer Detective Norman Guy. You're now TASK officer Norman Guy.
-CHIEF: Maybe you can work your way back up to vice. But you have to be out of this office by the end of the week.
-NORMAN: I can't accept this, Chief! What if VIP is in on it? We can't just let them go!
-CHIEF: You still think that? Even after you searched the vehicle and found only COVERs?
-NORMAN: Maybe they were on their way to get the DRUG!
-CHIEF: Would you say that to their face? (Look at door) Come on in, VIP!
-SUSPECT: (Walk on stage and approach desk) Hello Detective Guy, or should I say TASK officer Guy!
-SUSPECT: Serves you right for what you did to me!
-PARTNER: (Walk on stage and look around) Pretty nice office you had here. Heh heh.
-NORMAN: What are they doing here, Chief?
-CHIEF: I wanted them to tell you what they told me. So you can hear just how wrong you were.
-SUSPECT: If you must know what I was doing, my partner and I were on our way to a EVENT when you arrested us!
-PARTNER: Without even asking any questions I might add!
-NORMAN: Well I am sorry! I was doing my job!
-SUSPECT: I will have you know I was arrested only once for CRIME. I did my time and that's was it!
-SUSPECT: I've never even seen DRUG in real life, let alone tried to smuggle it across town!
-SUSPECT: How dare you assume I am a member of that dreadful GROUP group!
-PARTNER: We're probably going to miss the EVENT now because of this.
-PARTNER: (Look at Chief) You better be serious about this demotion. Is he really going to stay in TASK for a while?
-CHIEF: Of course, you have my word. He was a fool to suspect you and VIP of wrongdoing.
-PARTNER: I hope so. You wouldn't want another ITEM incident so soon, would you?
-CHIEF: N-NO Of course not!
-NORMAN: Why are you so concerned with what happens to me? I didn't even suspect you.
-PARTNER: (Point at the detective) You suspected VIP! Who I love dearly! I want to make sure justice is served!
-SUSPECT: If we find out you're a detective again after 2 weeks we'll tell NEWS all about this!
-CHIEF: You should know about NEWS, Norman. They exposed us for the ITEM incident.
-CHIEF: VIP has agreed not to go public with this as long as I demote you.
-NORMAN: Hmm... Why though? Why is it so important to you that I get demoted for this. Do you have something to hide?
-PARTNER: We don't want to give your station another scandal. We're trying to be nice.
-SUSPECT: But if you don't pay the price then we will go public with this. I have connections!
-NORMAN: What's stopping you from taking this story to NEWS anyway?
-NORMAN: How do we know you won't have your cake and eat it too?
-PARTNER: It would be messy if we went to NEWS and told them you arrested us on suspicion of DRUG smuggling.
-SUSPECT: (Nods) In case you haven't noticed I am VIP! I have a reputation to uphold!
-NORMAN: What reputation? No one outside of town knows who you are!
-SUSPECT: (Gasp) How DARE You! You talk to me like that again and I'll have your badge!
-PARTNER: All we want you to do is apologize for arresting us and accept your demotion.
-NORMAN: (Sigh) I apologize for arresting you and I accept the demotion. There!
-CHIEF: Well I guess that makes it official then.
-SUSPECT: Good! Hmm, Officer Guy. It has a nice ring to it. (Turn to Chief) Would you escort me out of the station?
-CHIEF: Oh of course, right this way, VIP. (Gesture towards door and walk off stage)
-SUSPECT: So polite. (Follow the Chief off stage)
-NORMAN: (Point at the suspect's partner) I want you to stay.
-PARTNER: Why?
-NORMAN: Your voice sounds oddly familiar to me, where do I know you from?
-PARTNER: (In a sinister tone) Heh, Why don't you take a guess?
-NORMAN: Hmmmm... We didn't meet at last year's EVENT... did we?
-PARTNER: No. I've never been to one before. You made me late for this years EVENT.
-NORMAN: Wait! It was you wasn't it? You were the one who called me with the tip!
-(noir music 3)
-PARTNER: Heh heh heh heh. So you did figure it out.
-NORMAN: You set all this up! Didn't you!?
-PARTNER: Indeed I did. It was perfect. Make VIP look suspicious and watch the fireworks.
-PARTNER: Now you won't be bothering the GROUP for a long while.
-NORMAN: I should have known from the start! You're a Member of the GROUP aren't you!?
-PARTNER: Just an associate. Meaning my hands are clean.
-PARTNER: You were too hot on the trail. So the GROUP had me plan this little scheme to take you out.
-PARTNER: DRUG being smuggled in COVERs, it was genius.
-PARTNER: Believable enough to be true but absurd enough to make you look like a fool.
-PARTNER: And with the ITEM incident still on everyone's mind, it was easy to convince the chief to take action.
-PARTNER: Now you'll spend your days slaving away on meaningless TASK crimes.
-PARTNER: Got any final words to say before I take my leave... Officer?
-NORMAN: Well Just a few (Point at them) Freeze! You're under arrest for conspiracy and obstruction of justice!
-PARTNER: W-What NO! I Didn't do anything! You can't arrest me!
-NORMAN: Of Course I can! I'm still a cop! And you just confessed your entire plan to me! Put your hands behind your back!
-PARTNER: N-NO! NO! I Can't go to jail! (run off stage)
-NORMAN: Get back here! (run off stage)
 
 ======
 
@@ -55304,121 +54726,6 @@ DINOSAUR: Eww... Taste like VEGETABLES.
 ======
 
 INFORMATION ===============================
-ID: 1877
-TITLE: Plot Twist
-AUTHOR: Jinx Izayoi
-VERIFIED: True
-TAGS: 
-SET: Dining Room
-DATE: 21/10/25
-CHARACTERS ================================
-VIEW: Telenovela Viewer:Center Stage
-WOM: Maria:Entrance Stage Right
-MAN: Antonio:Backstage
-SUGGESTIONS =============================
-SOAP:the name of a soap opera or telenovela:General Hospital,Amor Real,Saving Private Ryan
-TRESS:an actress:Natalie Portman,Penélope Cruz,Halle Berry
-REL:an older relative:aunt,uncle,abuela
-COUN:a country or fictional location:Chile,Peru,Gensokyo
-DIS:a disease:cancer,cryptosporidiosis,ligma
-SHOW:a show, movie, or script you don't like:Naruto,Jurassic World,Pokémon Smash or Pass
-NAME:name of someone in the audience:Jar,Jinx Izayoi,Stella
-CART:an evil-sounding organization:cartel,Shinra,Tesla
-ORGAN:an organ in your body:kidney,prostate,uterus
-ADJ:an adjective to describe a person:stupid,sexy,flanderizing
-CRIME:a crime or verb you do to someone:murder,pillow fight with,steal from
-DOG:an animal you'd keep as a pet:dog,cat,homunculus
-SCRIPT ==========================================
-VIEW: My head hurts... where am I? Last thing I remember, I was on my couch watching SOAP.
-VIEW: Honestly, it looks like I'm in a scene from SOAP. But they'd never hire me as an actor... not since The Incident.
-telenovela music 3
-WOM: (rush through the door) Pablo!
-VIEW: Oh god, I'm in a scene from SOAP.
-WOM: Pablo, I found you! Antonio doesn't know! We can leave town together before the sun sets!
-VIEW: Listen, TRESS, huge fan of your work as Maria, but my name isn't Pablo. I'm not supposed to be here.
-WOM: Who is this "TRESS"? I thought you only had eyes for me!
-VIEW: You're not gonna listen or act even remotely rational, are you?
-WOM: Pablo, I love you. Run away with me, and leave your old life behind.
-WOM: But before we go, there's something I have to tell you before it eats away at my very soul.
-VIEW: Maria, I'm not caught up with the current season, please don't tell me anything, honestly.
-WOM: Pablo... I'm...
-WOM: I'm actually Maria's long lost twin sister, Mariana.
-telenovela sting 1
-VIEW: Please stop. I don't belong here, my DOG probably misses me by now.
-WOM: It's true! The real Maria is in a coma, and I've been orchestrating this love triangle with you and Antonio for years now!
-WOM: My evil REL blackmailed me into not telling you so she could claim tax benefits on Maria, but I'm done being her pawn.
-WOM: Also, Maria and I are from COUN, not Spain, so half of Season Four doesn't make sense anymore and needs a retcon.
-WOM: Also also, I'm dying from super DIS, and by dying I literally mean right now. (fall over dead)
-Teleport WOM to Backstage
-VIEW: Wow, spoilers much?
-WOM: (run back through the door) But I'm back from the dead! But CART's mobsters are at the window, ready to take revenge on me!
-gunshot
-Teleport WOM to Backstage
-WOM: (run back through the door) It's me, the real Maria! I finally woke up from my coma, and I still love you, Pablo!
-VIEW: SOAP's plot took a turn for the worse, I fear.
-knocking on door
-Teleport MAN to Entrance Stage Left
-WOM: Oh no! It's Antonio! He found out about us!
-VIEW: Wait, if you're the real Maria, how do you know about Mariana's love affair?
-WOM: Amnesia.
-VIEW: This does not answer my question whatsoever.
-telenovela music 1
-MAN: (enter) Maria! You're awake! And you're with Pablo? Why do you break my heart, mi amor?
-VIEW: Shouldn't I be mad at you? Didn't you CRIME my character's dad?
-MAN: No! I AM your father!
-VIEW: (dramatic) What?!
-Meanwhile WOM: (dramatic) What?!
-MAN: Wait, no, uhh... I'm pregnant, and you're the father!
-VIEW: (more dramatic) What?!
-Meanwhile WOM: (more dramatic) What?!
-MAN: Uhh, I mean... y-you're pregnant, and I'm the baby!
-VIEW: (even more dramatic) What?!
-Meanwhile WOM: (even more dramatic) What?!
-WOM: Get away from me, Antonio! I'm in love with Pablo now! Nothing you say can change my mind!
-MAN: Maria, do not fall for Pablo's lies! You and I were supposed to get married, we were destined to be together!
-WOM: (angry) We were, until you cheated on me with NAME! How could you do such a thing?!
-MAN: No! You don't understand! That was my evil twin, Antoine, who-
-VIEW: We did that trope already.
-MAN: Oh! Uhh, I have super DIS, so I-
-VIEW: We did that one too.
-MAN: Amnesia?
-VIEW: Come on, dude.
-MAN: (think real hard) I was... kidnapped... by CART... who, uhh...
-VIEW: Go on.
-MAN: Tortured me for seven days, surgically removed my ORGAN, and... made me CRIME with NAME?
-VIEW: ...SOAP is ruined for me.
-WOM: Oh, Antonio! I forgive you!
-telenovela sting 1
-VIEW: Yup. This is the worst television program of all time.
-VIEW: Well, actually, second worst. No form of entertainment media is worse than SHOW.
-WOM: Antonio, the wedding is back on! Pablo, I'm sorry, but our bond can never be.
-VIEW: That's fine. I shipped you two since day one.
-WOM: Let's go get hitched, Antonio! And make sure my evil REL doesn't get an invitation! (exit stage left)
-MAN: I'll catch up with you in a second, Maria. I have to talk to our mutual friend Pablo here for a minute.
-VIEW: Uhh, you're not mad about the whole love triangle situation, right?
-MAN: (serious) I know what you are.
-Music Stops
-VIEW: ADJ?
-MAN: No. A viewer who got sucked into the show. I know because the same thing happened to me.
-telenovela sting 1
-VIEW: Wait, are you serious? How long have you been pretending to be Antonio?
-MAN: Since the prequel series. I think I've done a great job boosting the ratings.
-telenovela music 2
-MAN: But if you don't want to be Pablo any longer, I can show you the way back home.
-VIEW: I... I'm speechless. You're an amazing actor, and a good person. Thank you.
-MAN: De nada. Let's get you out of here, vamanos. (walk to nearest door)
-MAN: Oh, mi amigo. There's one more thing I need to tell you before you leave.
-VIEW: What is it?
-MAN: I lied to you. You've been in a coma for ten years. Please wake up, Maria, we miss you.
-Music Stops
-Teleport MAN to Backstage
-VIEW: (deadpan) What?
-Teleport VIEW to Backstage
-telenovela sting 2
-
-======
-
-INFORMATION ===============================
 ID: 1856
 TITLE: The Vlogger Life
 AUTHOR: zanbbit
@@ -58473,7 +57780,7 @@ LT: YOUTUBER!!! Wait up!!! (Exit Stage Left)
 INFORMATION ===============================
 ID: 1886
 TITLE: Billy and the Mythical Creature
-AUTHOR: takineko
+AUTHOR: Skitterz
 VERIFIED: True
 TAGS: Skit
 SET: Campsite
@@ -61891,6 +61198,193 @@ HUSBAND: (looks down in toilet) I think we have another problem.
 ======
 
 INFORMATION ===============================
+ID: 1877
+TITLE: Plot Twist
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: 
+SET: Dining Room
+DATE: 21/10/25
+CHARACTERS ================================
+VIEW: Telenovela Viewer:Center Stage
+WOM: Maria:Entrance Stage Right
+MAN: Antonio:Backstage
+SUGGESTIONS =============================
+SOAP:the name of a soap opera or telenovela:General Hospital,Amor Real,Saving Private Ryan,The Young and the Restless,Metal Gear Solid 4 Guns of the Patriots all cutscenes
+TRESS:an actress:Natalie Portman,Penélope Cruz,Halle Berry,Mia Khalifa,Callie Cuttlefish
+REL:an older relative:aunt,uncle,abuela,step-father,step-mother
+COUN:a country or fictional location:Chile,Peru,Gensokyo,Gielinor,Baldur's Gate
+DIS:a disease:cancer,cryptosporidiosis,ligma,total organ failure,a heart virus
+SHOW:a show, movie, or script you don't like:Boruto,Jurassic World,Pokémon Smash or Pass,Dragonball Evolution,War of the Worlds 2024
+NAME:name of someone in the audience:Jar,Jinx Izayoi,Stella
+CART:an evil-sounding organization:the cartel,Shinra,Tesla,Cipher,Umbrella Corp
+ORGAN:an organ in your body:kidney,prostate,uterus,skin,cerebellum
+ADJ:an adjective to describe a person:Stupid,Sexy,Flanderizing,Oddly flexible,Submissive,The worst person to live,Lonely
+CRIME:a crime or verb you do to someone:murder,pillow fight with,steal from,impersonate,rapidly vibrate
+DOG:an animal you'd keep as a pet:dog,cat,homunculus,animated corpse,fox,half-phantom
+SCRIPT ==========================================
+VIEW: My head hurts... where am I? Last thing I remember, I was on my couch watching SOAP.
+VIEW: Honestly, it looks like I'm in a scene from SOAP. But they'd never hire me as an actor... not since The Incident.
+telenovela music 3
+WOM: (rush through the door) Pablo!
+VIEW: Oh god, I'm in a scene from SOAP.
+WOM: Pablo, I found you! Antonio doesn't know! We can leave town together before the sun sets!
+VIEW: Listen, TRESS, huge fan of your work as Maria, but my name isn't Pablo. I'm not supposed to be here.
+WOM: Who is this "TRESS"? I thought you only had eyes for me!
+VIEW: You're not gonna listen or act even remotely rational, are you?
+WOM: Pablo, I love you. Run away with me, and leave your old life behind.
+WOM: But before we go, there's something I have to tell you before it eats away at my very soul.
+VIEW: Maria, I'm not caught up with the current season, please don't tell me anything, honestly.
+WOM: Pablo... I'm...
+WOM: I'm actually Maria's long lost twin sister, Mariana.
+telenovela sting 1
+VIEW: Please stop. I don't belong here, my DOG probably misses me by now.
+WOM: It's true! The real Maria is in a coma, and I've been orchestrating this love triangle with you and Antonio for years now!
+WOM: My evil REL blackmailed me into not telling you so she could claim tax benefits on Maria, but I'm done being her pawn.
+WOM: Also, Maria and I are from COUN, not Spain, so half of Season Four doesn't make sense anymore and needs a retcon.
+WOM: Also also, I'm dying from super DIS, and by dying I literally mean right now. (fall over dead)
+Teleport WOM to Backstage
+VIEW: Wow, spoilers much?
+WOM: (run back through the door) But I'm back from the dead! But CART's mobsters are at the window, ready to take revenge on me!
+gunshot
+Teleport WOM to Backstage
+WOM: (run back through the door) It's me, the real Maria! I finally woke up from my coma, and I still love you, Pablo!
+VIEW: SOAP's plot took a turn for the worse, I fear.
+knocking on door
+Teleport MAN to Entrance Stage Left
+WOM: Oh no! It's Antonio! He found out about us!
+VIEW: Wait, if you're the real Maria, how do you know about Mariana's love affair?
+WOM: Amnesia.
+VIEW: This does not answer my question whatsoever.
+telenovela music 1
+MAN: (enter) Maria! You're awake! And you're with Pablo? Why do you break my heart, mi amor?
+VIEW: Shouldn't I be mad at you? Didn't you CRIME my character's dad?
+MAN: No! I AM your father!
+VIEW: (dramatic) What?!
+Meanwhile WOM: (dramatic) What?!
+MAN: Wait, no, uhh... I'm pregnant, and you're the father!
+VIEW: (more dramatic) What?!
+Meanwhile WOM: (more dramatic) What?!
+MAN: Uhh, I mean... y-you're pregnant, and I'm the baby!
+VIEW: (even more dramatic) What?!
+Meanwhile WOM: (even more dramatic) What?!
+WOM: Get away from me, Antonio! I'm in love with Pablo now! Nothing you say can change my mind!
+MAN: Maria, do not fall for Pablo's lies! You and I were supposed to get married, we were destined to be together!
+WOM: (angry) We were, until you cheated on me with NAME! How could you do such a thing?!
+MAN: No! You don't understand! That was my evil twin, Antoine, who-
+VIEW: We did that trope already.
+MAN: Oh! Uhh, I have super DIS, so I-
+VIEW: We did that one too.
+MAN: Amnesia?
+VIEW: Come on, dude.
+MAN: (think real hard) I was... kidnapped... by CART... who, uhh...
+VIEW: Go on.
+MAN: Tortured me for seven days, surgically removed my ORGAN, and... made me CRIME with NAME?
+VIEW: ...SOAP is ruined for me.
+WOM: Oh, Antonio! I forgive you!
+telenovela sting 1
+VIEW: Yup. This is the worst television program of all time.
+VIEW: Well, actually, second worst. No form of entertainment media is worse than SHOW.
+WOM: Antonio, the wedding is back on! Pablo, I'm sorry, but our bond can never be.
+VIEW: That's fine. I shipped you two since day one.
+WOM: Let's go get hitched, Antonio! And make sure my evil REL doesn't get an invitation! (exit stage left)
+MAN: I'll catch up with you in a second, Maria. I have to talk to our mutual friend Pablo here for a minute.
+VIEW: Uhh, you're not mad about the whole love triangle situation, right?
+MAN: (serious) I know what you are.
+Music Stops
+VIEW: ADJ?
+MAN: No. A viewer who got sucked into the show. I know because the same thing happened to me.
+telenovela sting 1
+VIEW: Wait, are you serious? How long have you been pretending to be Antonio?
+MAN: Since the prequel series. I think I've done a great job boosting the ratings.
+telenovela music 2
+MAN: But if you don't want to be Pablo any longer, I can show you the way back home.
+VIEW: I... I'm speechless. You're an amazing actor, and a good person. Thank you.
+MAN: De nada. Let's get you out of here, vamanos. (walk to nearest door)
+MAN: Oh, mi amigo. There's one more thing I need to tell you before you leave.
+VIEW: What is it?
+MAN: I lied to you. You've been in a coma for ten years. Please wake up, Maria, we miss you.
+Music Stops
+Teleport MAN to Backstage
+VIEW: (deadpan) What?
+Teleport VIEW to Backstage
+telenovela sting 2
+
+======
+
+INFORMATION ===============================
+ID: 609
+TITLE: Dinner Party for One
+AUTHOR: Tricky_Hunter
+VERIFIED: True
+TAGS: Skit
+SET: Dining Room
+DATE: 28/04/24
+CHARACTERS ================================
+BOB: Third Wheel (Comedic Relief):Entrance Stage Left
+STACY: Flirty Friend:Backstage
+MARY: Love Interest:Backstage
+BILL: Main Character:Entrance Stage Right
+SUGGESTIONS =============================
+KNICKNACK:An item of interest that catches the eye:Troll Doll,Unicorn,Pickle Rick,Rock on a stick
+FOOD:Food:Roast,Chicken,Stew,Bangers and Mash,Cheese Stuffed Sausages
+FLIRTYSOUND:A flirty or sensual sound:mmmhhhhmmmm,ooooaaaahhh,fffmmmmaaa,Shabonga!
+LOVEINTERESTNAME:Love interests name:Anne,Tanya,Clare,Chantel,Rebecca
+FLIRTSNAME:Flirty girls name:Suzan,Trisha,Lynn,Vivian
+SMELLCOMPLEMENT:A complement about the smell of food:Delicious,Devine,Delightful,Amazing,Just fine,Mouthwatering
+SCRIPT ==========================================
+applause
+jazz music 2
+BILL: (Walk into the room and start setting the table) I hope everyone's hungry, I think I made way too much FOOD
+BILL: (Look up at audience) They should be here any minute...
+BILL: Any... minute... now...
+BILL: (Look meaningfully at the stage left door) I said (Yell) Any minute now!
+BOB: (Yell)...Oh yeah... sorry!
+doorbell
+BILL: (Agitated) That must be one of them now... (Open the stage left door)
+BOB: About time... I was waiting out there forever! (Walk in the door)
+BILL: (close door and say under breath) ...and who's fault is that...
+BOB: (Walk over to bookshelf) Who else is coming? (Examine items and don't stop)
+BILL: Just LOVEINTERESTNAME and FLIRTSNAME
+Music Stops
+doorbell
+BILL: That's probably them... (Walk over and open the door)
+jazz music 1
+BILL: (Open the door) Hey FLIRTSNAME come in
+STACY: (Walk through the door) FLIRTYSOUND... it smells SMELLCOMPLEMENT in here. Did you make FOOD?
+BILL: (Close door) Yeah, I wasn't sure if you liked FOOD
+BOB: (Continue to examine bookshelf say under breath) ...everyone knows FLIRTSNAME likes FOOD...
+BILL: I better go check on dinner I'll be right back (walk out door stage right)
+doorbell
+STACY: I'll get it! It's probably LOVEINTERESTNAME right? (Walk to the door and open it) Hey, LOVEINTERESTNAME!
+Music Stops
+MARY: (Disappointed) FLIRTSNAME... didn't know you'd be here... (Walk into room)
+STACY: (Excited) Wouldn't miss it, doesn't the FOOD smell SMELLCOMPLEMENT!
+BOB: (Pick up an item on the bookshelf) Would you look at that a KNICKNACK! (Examine it and put it back keep looking at the shelf)
+MARY: FLIRTSNAME I don't see why you had to come tonight. It's pretty clear you're not welcome here...
+STACY: I don't think it's clear. Just because you don't want me here doesn't make me not welcome!
+BOB: (Pick up another item) Would you look at that, here's another KNICKNACK
+BILL: (Walk in from stage right and set food on the table) Oh! LOVEINTERESTNAME! I didn't know you were here already. I hope you're hungry for FOOD!
+MARY: (Angry) So nice of you to notice and after you make FLIRTSNAME's favorite!
+BILL: It's FLIRTSNAME's favorite? I had no idea... I wasn't even sure FLIRTSNAME liked FOOD
+BOB: (Continue to examine bookshelf say under breath) ...everyone knows FLIRTSNAME likes FOOD...
+BOB: (Pick up another item) and another one! Why do you have so many KNICKNACKs?
+STACY: Well I think it's sweet that you made FOOD for me
+MARY: Oh yeah, real sweet! So sweet it's making me sick! You two enjoy your FOOD I'm out of here (Exit stage left)
+BILL: (Follow after actor stage left) LOVEINTERESTNAME! Wait, I didn't just make FOOD for FLIRTSNAME
+meanwhile MARY: (Stay Back Stage)
+BILL: (From off stage) Come back!
+STACY: (Follow off stage left) Just let LOVEINTERESTNAME go, we can it your SMELLCOMPLEMENT FOOD together!
+BOB: (Study bookshelf some more) I guess that's all of them...
+BOB: I still don't understand why so many KNICKNACKs (Look around the room)
+BOB: Seriously?!? Where'd everyone go? The FOOD is getting cold
+BOB: (Sit down at table) More FOOD for me then I guess...
+happy music 1
+BOB: Nothing quite like fresh FOOD! (dig into meal)
+
+======
+
+INFORMATION ===============================
 ID: 729
 TITLE: Duel at the Alright Corral
 AUTHOR: Tricky_Hunter
@@ -61957,6 +61451,132 @@ OUTLAW: (Holster gun) Ain't nobody wins as much as ol' GUNSLINGERNAME if'n ya pl
 western hero theme
 OUTLAW: (stare out at audience) On ta the next town that likes ta... play fair...
 TYPEWRITER: Ol' GUNSLINGERNAME skipped town to find his next victim;On the way GUNSLINGERNAME died of dysentery and his corpse was picked clean by vultures
+
+======
+
+INFORMATION ===============================
+ID: 728
+TITLE: The Butler
+AUTHOR: Tricky_Hunter
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 28/04/24
+CHARACTERS ================================
+MAID: Maid:Stage Left
+BUTLER: Butler:Entrance Stage Right
+STEPHENS: Lord Stephens:Entrance Stage Left
+SUGGESTIONS =============================
+HOUSEKEEPERNAME:Name for a maid:Alice,Eleanor,Cora,Hazel,Evelyn,Abigail
+SERVANTNAME:Name for a household servant:Reginald,Jeeves,Pennyworth,Belvedere,Carson,Edmund,Niles
+HOUSEHOLDTASK:A mundane household chore:Fold a fitted sheet,do the dishes,sweep the floor,wash windows
+MURDER:Another word for killed:Off'd,Slain,done in
+STRANGLEDSOUND:A sound a person makes while being strangled:Ugh,hmmmmmm,eck eck eck
+DYINGSOUND:A sound someone makes when dying:geehaa,naaa,what a world what a world
+CARRYING:Something you would buy:Groceries,shopping,tomatoes,beagle
+HOUSEJOB:Type of worker or servant:Maid,Butler,Handyman
+ADVICE:Horrible advice to give a child:don't forget to smoke everyday,invest in meme coin,don't let your mother come home
+SCRIPT ==========================================
+dark classical music
+STEPHENS: (Walk on stage and sit down) SERVANTNAME, oh SERVANTNAME! Where is that man, he's always running off to who knows where...
+STEPHENS: (Sigh) Feels like just yesterday my late father was found MURDER in this very room.
+STEPHENS: (speak to self) The window was broken out, not in, but they determined it was a burglar.
+STEPHENS: I can still hear the last thing he said to me echoing through my head, "ADVICE"
+STEPHENS: (choke back tears) I won't forget, don't you worry... (sniff)
+MAID: (Walk up to actor on stage) Anything I can do for you, at this time, Mr. Stephens?
+STEPHENS: Oh, HOUSEKEEPERNAME, have you seen SERVANTNAME recently?
+STEPHENS: I've been trying to find him for hours now but he doesn't seem to be anywhere.
+MAID: Oh no sir, I haven't seen SERVANTNAME all day. Perhaps he's been running errands for the estate.
+STEPHENS: Perhaps... has he been acting suspicious at all around you?
+MAID: I can't say that he has, Mr. Stephens. He's been nothing but professional since the day I started here.
+STEPHENS: Thank you HOUSEKEEPERNAME, that'll be all.
+MAID: (Leave through door you entered) Very well, Mr. Stephens
+STEPHENS: (speak to self) I just don't know about this staff...
+STEPHENS: Nothing makes sense about my fathers murder.
+meanwhile BUTLER: (Sneak into room)
+door creak
+STEPHENS: (Startle and glare at butler) SERVANTNAME! Where have you been!?!
+BUTLER: (Straighten up) Oh, Mr. Stephens sir, I'm just... bringing in the CARRYING...
+STEPHENS: What CARRYING? You don't appear to be carrying anything.
+BUTLER: That's because I left the CARRYING with the stable boy, sir.
+STEPHENS: Stable boy? We don't even have horses!
+BUTLER: Did I say stable boy, I meant to say HOUSEJOB...
+MAID: (enter from stage right) Did I hear something about our HOUSEJOB? The HOUSEJOB has been gone since last night...
+meanwhile BUTLER: (Sneak up behind stephens)
+STEPHENS: (Look at Butler) Is that right, HOUSEKEEPERNAME? What's going on here?
+BUTLER: You know what, sir? I don't think I like this hostile work environment you're cultivating here!
+STEPHENS: (Look at Maid) Hostile work environment?!? I hope you haven't felt that way HOUSEKEEPERNAME.
+BUTLER: (Strangle Stephens) I'm ever so sorry sir but you know too much.
+STEPHENS: (Get Strangled by Butler and make choking sounds) STRANGLEDSOUND
+MAID: SERVANTNAME! Again?!?
+BUTLER: (Continue to strangle Stephens) It can't be helped HOUSEKEEPERNAME, you know how it is...
+meanwhile STEPHENS: (Go limp in Butlers grasp) DYINGSOUND
+BUTLER: (Release Stephens) There, ghastly business, but nothing to be done about it.
+meanwhile STEPHENS: (Collapse to the ground dead)
+MAID: I don't see why you had to do this again.
+BUTLER: Whatever do you mean? He was about to find out the terrible truth!
+MAID: Come on! Just because you can't HOUSEHOLDTASK doesn't mean you have to kill everyone who finds out!
+
+======
+
+INFORMATION ===============================
+ID: 616
+TITLE: Grocery Confusion
+AUTHOR: Tricky_Hunter
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 28/04/24
+CHARACTERS ================================
+CASHIER: Cashier:Behind Register
+ALIEN: Alien:Entrance Stage Right
+MANAGER: Store manager:Entrance Stage Left
+SUGGESTIONS =============================
+PUBLICSERVICE:a government service you need an identification card for:Motor Vehicle Department,Library,Police
+ARTIFACT:a fantasy artifact:Holy Grail,Genetic Ion Obliterator,Subsonic Flow Detector,Curved Source Swapper,Mental Shock Core
+GASSTATION:a convenience store chain:Kum & Go,Wawa,Buc-ee's,Casey's,QuikTrip,7-eleven
+SPACEWEAPON:an ominious sounding sifi weapon:Anti-matter shrapnel cannon,Obliteration beam saber,particle beam laser
+SHIPPART:a part of a spaceship:Fluxcore,anti-matter drive,Interstellar guidance system,superconducting conduit
+HARDWARESTORE:a common hardware retailer:Menards,Home Depot,Lowes,Ace Hardware
+STOREITEM:a common office supply:paper clips,staples,loose leaf paper,notebooks,ink cartridges
+SCRIPT ==========================================
+guitar music 1
+ALIEN: (walk into the store) What's this? It seems like it must be one of those... what do they called it?
+meanwhile CASHIER: (wave to and greet new customer)
+ALIEN: From what I remember this is known as a food PUBLICSERVICE location.
+CASHIER: Is there something I can help you find?
+ALIEN: Perhaps you can tell me where I might locate a ARTIFACT?
+CASHIER: I don't believe we carry any ARTIFACT's, let me check, I'll be right back... (move through stage left door)
+ALIEN: Interesting... the overlords claimed that the humans would not be this forthcoming regarding their ARTIFACTs but it would appear they were ill-informed
+CASHIER: (whisper) Hey Boss? We have a weirdo out there asking about ARTIFACT's and I have no idea what to tell them.
+MANAGER: (whisper) They're asking about what? ARTIFACT's? We haven't carried those for years...
+CASHIER: (whisper) What do you mean? We used to carry ARTIFACT's?
+MANAGER: (whisper) Yeah, we used to get a lot of customers from out of town asking about them. I'll go see if I can smooth this over. (Walk out to register)
+MANAGER: Hello, I hear you're looking for a specialty item?
+ALIEN: I wouldn't consider a ARTIFACT to be a specialized item of any sort. They are quite common from my understanding.
+MANAGER: Unfortunately we haven't stocked ARTIFACT's for quite a while now. Is there anything else we could help you with?
+ALIEN: That is a rather disagreeable outcome indeed.
+meanwhile CASHIER: (walk back to register)
+MANAGER: Maybe you could find one still at the GASSTATION down the road, they usually are the last to sell out.
+ALIEN: While I currently occupy this point in space time, might you have any SPACEWEAPONs or SHIPPARTs?
+MANAGER: I'm sorry but I don't believe we've ever stocked anything of that type here. Might have better luck at HARDWARESTORE though.
+CASHIER: You do know this is a grocery store right?
+MANAGER: Shhhh... I'm sorry for their rudeness, they just started here.
+MANAGER: (at cashier) How about you go organize the STOREITEMs in the back!
+CASHIER: (walk off stage left) GAH!
+MANAGER: Is there anything else I could help you with?
+ALIEN: The only other provision that we require is a box of Fruit Stripe.
+MANAGER: I'm sorry, they discontinued those a while ago.
+ALIEN: Perhaps I will have a greater chance of success at this GASSTATION you speak of. (Exit Stage Right)
+MANAGER: (Wait for customer to leave) Just can't please some people...
+meanwhile ALIEN: (Exit Stage Right)
+CASHIER: (From Stage Left Entrance) Hey Boss?
+MANAGER: What do you need?
+CASHIER: I just found a box marked "ARTIFACTs" and another marked "SHIPPARTs"
+CASHIER: ...and here's one marked "SPACEWEAPONs" I thought they were messing with us and if we have them why didn't you tell them?
+MANAGER: Oh, well those aren't for sale.
+Music Stops
+MANAGER: (vicious tone) We need those for the coming war with HARDWARESTORE!
 
 ======
 
@@ -62360,6 +61980,452 @@ MONS: Check... the attachment...
 JACK: Uh, okay? You sent me a picture of food, with a face on it.
 MONS: He turned himself... into a VEG... funniest thing... I've ever seen. (die)
 telenovela sting 2
+
+======
+
+INFORMATION ===============================
+ID: 1587
+TITLE: Demoted
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: 
+SET: Detective Noir
+DATE: 02/04/25
+CHARACTERS ================================
+NORMAN: The Detective:Detective Chair
+CHIEF: The Angry Police Chief:Entrance Stage Left
+SUSPECT: The Suspect:Backstage
+PARTNER: The Suspects Partner:Backstage
+SUGGESTIONS =============================
+COVER:An object that something can be hidden in:Washing Machine,Box,Microwave
+GROUP:A suspicious group of people:Mobilli Family,Katana Wielders,Book Buffs
+DRUG:A drug or substance that is illegal to possess:Cocaine,Ecstasy,Unobtanium
+VIP:The name of an important individual:King Arthur,Mary Poppins,Mayor McCheese
+TASK:A type of crime a police officer would investigate:Traffic,Arson,Jaywalking
+ITEM:Name any object:Cheese Wheel,Lawnmower,Nintendo Switch 2
+EVENT:An exciting or important event:Lightbulb Convention,Debate,Gladiator Battle
+CRIME:Name any crime:Murder,Stealing,Saying OwO in Public
+NEWS:A name for a news source:Times Of All Time,New News,Happy Magazine
+SCRIPT ==========================================
+(noir music 2)
+NORMAN: I'm Norman Guy, vice detective. I investigate drug cases. One of the fancy big shots around the station.
+NORMAN: A couple days back, we got a tip of some suspicious activity seen around a certain car.
+NORMAN: The owner was suspected of smuggling DRUG in COVERs for the GROUP. A known ring of drug traffickers.
+NORMAN: We were told the license plate number and pulled the car over once we saw it on the streets.
+NORMAN: We were shocked to discover the driver was actually VIP. A local celebrity of sorts.
+NORMAN: The investigation revealed that they only had only COVERs... No DRUG to be found.
+NORMAN: The chief became furious with me and said VIP could never be guilty of such a crime.
+NORMAN: I had to convince him to do the interrogation just to see what clues we could find.
+NORMAN: He said he would on the condition that if he didn't find anything... I would be punished.
+NORMAN: Now I wait in my office. Waiting to see if this crazy lead actually goes somewhere.
+(noir music 4)
+CHIEF: (Walk on stage and approach desk) Well Detective Guy you really did it now! The interrogation was worthless!
+CHIEF: How could you convince yourself that VIP was part of the GROUP!?
+CHIEF: Even if they were, no jury would convict them. There would be riots in the streets if they did!
+NORMAN: I'm sorry chief. We didn't know who the driver would be.
+CHIEF: You need to take responsibility for this, Norman! I'm demoting you to TASK!
+NORMAN: TASK!? Come on chief! I was just following a tip!
+CHIEF: We're still recovering from the ITEM incident. I can't let your actions go unpunished!
+NORMAN: The ITEM incident wasn't even my fault! Why am I being punished for it?!
+CHIEF: It's just the timing. We need to punish bad police actions to maintain our credibility.
+CHIEF: Sorry to say this, but you're no longer Detective Norman Guy. You're now TASK officer Norman Guy.
+CHIEF: Maybe you can work your way back up to vice. But you have to be out of this office by the end of the week.
+NORMAN: I can't accept this, Chief! What if VIP is in on it? We can't just let them go!
+CHIEF: You still think that? Even after you searched the vehicle and found only COVERs?
+NORMAN: Maybe they were on their way to get the DRUG!
+CHIEF: Would you say that to their face? (Look at door) Come on in, VIP!
+SUSPECT: (Walk on stage and approach desk) Hello Detective Guy, or should I say TASK officer Guy!
+SUSPECT: Serves you right for what you did to me!
+PARTNER: (Walk on stage and look around) Pretty nice office you had here. Heh heh.
+NORMAN: What are they doing here, Chief?
+CHIEF: I wanted them to tell you what they told me. So you can hear just how wrong you were.
+SUSPECT: If you must know what I was doing, my partner and I were on our way to a EVENT when you arrested us!
+PARTNER: Without even asking any questions I might add!
+NORMAN: Well I am sorry! I was doing my job!
+SUSPECT: I will have you know I was arrested only once for CRIME. I did my time and that's was it!
+SUSPECT: I've never even seen DRUG in real life, let alone tried to smuggle it across town!
+SUSPECT: How dare you assume I am a member of that dreadful GROUP group!
+PARTNER: We're probably going to miss the EVENT now because of this.
+PARTNER: (Look at Chief) You better be serious about this demotion. Is he really going to stay in TASK for a while?
+CHIEF: Of course, you have my word. He was a fool to suspect you and VIP of wrongdoing.
+PARTNER: I hope so. You wouldn't want another ITEM incident so soon, would you?
+CHIEF: N-NO Of course not!
+NORMAN: Why are you so concerned with what happens to me? I didn't even suspect you.
+PARTNER: (Point at the detective) You suspected VIP! Who I love dearly! I want to make sure justice is served!
+SUSPECT: If we find out you're a detective again after 2 weeks we'll tell NEWS all about this!
+CHIEF: You should know about NEWS, Norman. They exposed us for the ITEM incident.
+CHIEF: VIP has agreed not to go public with this as long as I demote you.
+NORMAN: Hmm... Why though? Why is it so important to you that I get demoted for this. Do you have something to hide?
+PARTNER: We don't want to give your station another scandal. We're trying to be nice.
+SUSPECT: But if you don't pay the price then we will go public with this. I have connections!
+NORMAN: What's stopping you from taking this story to NEWS anyway?
+NORMAN: How do we know you won't have your cake and eat it too?
+PARTNER: It would be messy if we went to NEWS and told them you arrested us on suspicion of DRUG smuggling.
+SUSPECT: (Nods) In case you haven't noticed I am VIP! I have a reputation to uphold!
+NORMAN: What reputation? No one outside of town knows who you are!
+SUSPECT: (Gasp) How DARE You! You talk to me like that again and I'll have your badge!
+PARTNER: All we want you to do is apologize for arresting us and accept your demotion.
+NORMAN: (Sigh) I apologize for arresting you and I accept the demotion. There!
+CHIEF: Well I guess that makes it official then.
+SUSPECT: Good! Hmm, Officer Guy. It has a nice ring to it. (Turn to Chief) Would you escort me out of the station?
+CHIEF: Oh of course, right this way, VIP. (Gesture towards door and walk off stage)
+SUSPECT: So polite. (Follow the Chief off stage)
+NORMAN: (Point at the suspect's partner) I want you to stay.
+PARTNER: Why?
+NORMAN: Your voice sounds oddly familiar to me, where do I know you from?
+PARTNER: (In a sinister tone) Heh, Why don't you take a guess?
+NORMAN: Hmmmm... We didn't meet at last year's EVENT... did we?
+PARTNER: No. I've never been to one before. You made me late for this years EVENT.
+NORMAN: Wait! It was you wasn't it? You were the one who called me with the tip!
+(noir music 3)
+PARTNER: Heh heh heh heh. So you did figure it out.
+NORMAN: You set all this up! Didn't you!?
+PARTNER: Indeed I did. It was perfect. Make VIP look suspicious and watch the fireworks.
+PARTNER: Now you won't be bothering the GROUP for a long while.
+NORMAN: I should have known from the start! You're a Member of the GROUP aren't you!?
+PARTNER: Just an associate. Meaning my hands are clean.
+PARTNER: You were too hot on the trail. So the GROUP had me plan this little scheme to take you out.
+PARTNER: DRUG being smuggled in COVERs, it was genius.
+PARTNER: Believable enough to be true but absurd enough to make you look like a fool.
+PARTNER: And with the ITEM incident still on everyone's mind, it was easy to convince the chief to take action.
+PARTNER: Now you'll spend your days slaving away on meaningless TASK crimes.
+PARTNER: Got any final words to say before I take my leave... Officer?
+NORMAN: Well Just a few (Point at them) Freeze! You're under arrest for conspiracy and obstruction of justice!
+PARTNER: W-What NO! I Didn't do anything! You can't arrest me!
+NORMAN: Of Course I can! I'm still a cop! And you just confessed your entire plan to me! Put your hands behind your back!
+PARTNER: N-NO! NO! I Can't go to jail! (run off stage)
+NORMAN: Get back here! (run off stage)
+
+======
+
+INFORMATION ===============================
+ID: 1125
+TITLE: Audience Anarchy Pitch
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 12/10/24
+CHARACTERS ================================
+BOSS: The CEO:Boss Chair
+OLD EMPLOYEE: Arrogant old employee:Office Chair 2
+NEW EMPLOYEE: New employee:Entrance Stage Left
+SUGGESTIONS =============================
+COMPANY:A Company that makes games:Nintendo,Atari,Hasbro
+GAME:A game that already exists:Tag,Go Fish,Mario
+SUBCULTURE:A plural of any subculture:Furries,Anime Geeks,Cheese Enthusiasts
+GENRE:A video game genre:Open World,Pay To Win,Dating
+NUMBER:Any number:2,10,30
+NICKNAME:A negative or degrading nickname:Evil King,Backbreaker,Whipcracker
+CONSOLE:An old video game console:Odyssey,Dreamcast,Game Boy
+NE AA NAME:An alternate name for Audience Anarchy:Will of the People,Mad Lib Mayhem,Script Rippers
+BO AA NAME:An alternate name for Audience Anarchy:Will of the People,Mad Lib Mayhem,Script Rippers
+SOMETHING:An item someone would not want to receive:Coal,A Parking Ticket,Crude Oil
+ADJECTIVE:A word to describe something weird or bad:Cuckoo,Looney,Horrible
+SCRIPT ==========================================
+(Silly Music 2)
+BOSS: Come on! We need to think of a new game! Are we really going to let COMPANY beat us in sales!?
+OLD EMPLOYEE: Relax sir! I haven't let you down yet have I? How about a new spin on GAME?
+BOSS: No no no! It's been done And we'll probably get sued. Hmm (thinks) What if we try to make something in VR?
+BOSS: All the SUBCULTURE are into VR Games these days right?
+OLD EMPLOYEE: Now boss, you know how to sell this stuff but I know how to make this stuff. Just leave the ideas to me. There's not enough people in VR. it's just a fad.
+BOSS: We need to do something groundbreaking! We need something that will get peoples attention! A big hit!
+(Music Stops)
+(Shark Tank Walking Theme)
+NEW EMPLOYEE: (enters stage) I think I have just what you're looking for, Chief!
+OLD EMPLOYEE: (annoyed) Oh great, it's the new guy. What do you have this time? Another GENRE game that will fail?
+NEW EMPLOYEE: No. I think this new game is quite unique. You might find my ideas interesting if you actually listened to me.
+OLD EMPLOYEE: Pitch me an idea that will actually be a success and then we'll talk. I've won NUMBER awards for my concepts! I know what works, kid!
+NEW EMPLOYEE: Yeah but you're also known around the office as The NICKNAME. What does that say about you?
+BOSS: Enough! What's your idea, Newbie?
+(Shark Tank Discussion Music 1)
+NEW EMPLOYEE: (approach the boss) Hear me out, Chief! I have an idea for a virtual reality game!
+OLD EMPLOYEE: Reject it boss! We've been through this! There's no audience in VR! We would be better off making a game for CONSOLE!
+NEW EMPLOYEE: Oh hush! CONSOLE was huge back in the day! Anyway, It's a VR game where you can talk to people. Kind of like a virtual chatroom.
+BOSS: Umm... I think that's just VR Chat.
+OLD EMPLOYEE: What an amateur! That's just like my idea about a new spin on GAME. So you're stealing ideas from me now huh?
+NEW EMPLOYEE: Like your ideas are worth stealing in the first place, NICKNAME!
+OLD EMPLOYEE: At least I know what VR Chat is!
+BOSS: (mutters) I'm surrounded by children. (raises voice) Once again stop! Or both of you are getting SOMETHING instead of a paycheck this week.
+(Shark Tank Offer)
+BOSS: (looks at new employee) Do you have any other concepts?
+NEW EMPLOYEE: Hmm... (thinking) Well I have this one idea, it's also for VR.
+OLD EMPLOYEE: UGH I don't understand the world anymore. When did we stop trying to make money?
+BOSS: Let's hear it.
+(Shark Tank Serious Music 1)
+NEW EMPLOYEE: Okay so you act out these plays with scripts. There's an audience that can fill in missing words in the scripts. Kind of like madlibs.
+NEW EMPLOYEE: And those same audience members can join in and act too.
+BOSS: (nods) Hmm... there might be an idea there. Sounds like something the SUBCULTURE would enjoy.
+NEW EMPLOYEE: Not just the SUBCULTURE but also anyone who likes to act and have fun in plays too!
+OLD EMPLOYEE: You forgot one important thing, newbie. Who's gonna write the scripts?
+NEW EMPLOYEE: We will at the beginning. We can start with around NUMBER.
+NEW EMPLOYEE: But if the game gets big enough we can have the players write the scripts!
+OLD EMPLOYEE: Are you nuts!? That sounds dangerous! The players can't be trusted to do that!
+OLD EMPLOYEE: They'll probably write some weird story about SOMETHING. This is a ADJECTIVE idea!
+BOSS: Calm down, NICKNAME I think we actually may have something here.
+OLD EMPLOYEE: We absolutely do not! It don't sound fun! It's a game where you just watch other people play most of the time!
+OLD EMPLOYEE: And then we make them do our job by having them write more scripts?
+OLD EMPLOYEE: The SUBCULTURE won't go for that!
+BOSS: I disagree. I think we should try it! (Look at newbie) You got a name for this game?
+NEW EMPLOYEE: Well, not really but maybe we can call it... (thinks) oh! I know! How about NE AA NAME?
+(Shark Tank Offer)
+BOSS: I like it, but perhaps BO AA NAME could work as well.
+(Shark Tank Offer)
+OLD EMPLOYEE: Unbelievable! This is a bad idea, boss! It's boring. No one will play it!
+OLD EMPLOYEE: You're really gonna go with this... this... ADJECTIVE concept!?
+NEW EMPLOYEE: You said that already.
+OLD EMPLOYEE: Well there's no other way to describe it!
+OLD EMPLOYEE: It's just anarchy with an audience! I don't know if we can make a standalone game out of that idea!
+OLD EMPLOYEE: We might as well make it a VR Chat map or something!
+BOSS: You know, that's not a bad idea! We should make it a VR Chat map!
+OLD EMPLOYEE: What!? No! That was a joke!
+BOSS: Congrats newbie! We'll start development on BO AA NAME right away! (shake newbie's hand)
+(Shark Tank Deal)
+(Shark Tank Positive Music)
+NEW EMPLOYEE: Glad you're on board, Chief! I believe folks will really like this too. But I still think we should call it NE AA NAME.
+BOSS: Don't push it, you're still new here.
+NEW EMPLOYEE: Fine (look at old employee) Since you seem to know about VR Chat I guess you'll be making the map?
+BOSS: It was their idea to make it a VR Chat map so they will be building it. Get to work NICKNAME!
+OLD EMPLOYEE: UGH! I hate my job!!
+
+======
+
+INFORMATION ===============================
+ID: 1545
+TITLE: Cooking Informercial
+AUTHOR: Perydaplaypus
+VERIFIED: True
+TAGS: Infomercial
+SET: Infomercial Kitchen
+DATE: 20/03/25
+CHARACTERS ================================
+MAYS: Billy Mays:Center Stage
+THESIS: Eric Theiss:Backstage
+WOMAN: Woman with Theiss:Backstage
+SUGGESTIONS =============================
+COOK:Name for a cooking product you'd find in an infomercial:Power Air-Fryer Oven,Slap Chop,Copper Chef
+EVENT:An activity two or more people would do together:Date,Sleepover,Party
+ITEM:An item someone would have:TV,PC,Console,Record Player
+FOOD:A type of food:Sandwich,Steak,Pork Chops
+CHEF:A professional chef:Gordon Ramsey,Bobby Flay,Guy Fieri
+CAN:A can product you'd find in an infomercial:Slick-Eaze,Slick Pan,Stick Off
+FLAMING SENTENCE:Something you might yell if you were on fire:This is not a drill,I need milk,My hair smells horrible,This is what it's like to be a marshmallow,Clean up on aisle ME,I'm too young to be meat,is it hot in here or is it just me
+AFFECTION:A verb you do to something you like:stare at,deeply cherish,dominate,savor,squeeze,photograph,like comment and subscribe
+SCRIPT ==========================================
+(corporate motivational music)
+MAYS: Hi, Billy Mays here with the new COOK, a brand new and easy way to cook your meals.
+MAYS: Are you tired of soggy dinners ruining your EVENT?
+MAYS: Are you tired of your family hating you because the food is cold?
+MAYS: COOK is there to save your dinner.
+MAYS: All you have to do is to prepare the food, and use COOK to make the dinner of a lifetime.
+MAYS: (put COOK on table) To help show you the power of COOK,
+MAYS: I've brought celebrity chef Eric Theiss and a random woman I found outside the studio to help out
+THESIS: (enter Stage Left) Thank you for having us Billy.
+Meanwhile WOMAN: (enter Stage Left with Theiss)
+WOMAN: Yes, it's an honor.
+MAYS: Great. Now while you two are doing this, I'm going to go handle my divorce proceedings.
+MAYS: Like hell am I going to let Diana take my kids and ITEM. (storm off Stage Right)
+THESIS: Ok, so to show the power of COOK , we are going to cook some FOOD.
+WOMAN: Oh yes, these will be appetizing.
+THESIS: Of course they'll be appetizing.
+WOMAN: I can't wait to AFFECTION it!
+THESIS: Now we have two of each, one that will be made the normal way, and one that will be made using COOK.
+THESIS: First, we'll cook the FOOD. (put one set of FOOD into oven)
+THESIS: While that's cooking, we'll use COOK on the other set (use COOK on other set of FOOD)
+WOMAN: Ooh, that looks appetizing.
+THESIS: I literally just started. So, what you don't want to do is use COOK for too long, or else.
+WOMAN: Or else what?
+THESIS: Or else.
+(gameshow ding)
+THESIS: Sounds like the oven FOOD is done. (pull FOOD out of the oven)
+THESIS: Now as you can see, there is a clear difference between Oven cooked FOOD and COOK made FOOD.
+WOMAN: Can I touch the FOOD?
+THESIS: No, it's hot.
+THESIS: Anyway, as you can see, the Oven cooked FOOD looks soggy and disgusting, while COOK cooked FOOD look like it was made by CHEF himself.
+WOMAN: Mmm, it looks tasty. (take COOK cooked FOOD and eat it) It tastes so good.
+THESIS: I just said to not touch it.
+WOMAN: Why?
+(fire alarm)
+WOMAN: (scream in pain) My hand is on fire!
+THESIS: I told you not to touch and look what happened.
+MAYS: (enter stage right) See, the results are fantastic.
+WOMAN: It burns! Aaaaaaah!
+WOMAN: FLAMING SENTENCE!
+MAYS: Order now and we'll throw in a second COOK absolutely free. That's two COOKs for the price of one.
+THESIS: Someone call 911!
+MAYS: And that's not all, order within the next 30 minutes and we'll throw in a can of CAN absolutely free.
+MAYS: Are you tired of non-stick pans not working? CAN can help with that.
+WOMAN: I can see bone!
+MAYS: But you have to call now.
+(infomercial disclaimer)
+
+======
+
+INFORMATION ===============================
+ID: 863
+TITLE: Tormented Rescue
+AUTHOR: RainbowSparkle1
+VERIFIED: True
+TAGS: Skit
+SET: Interrogation Room
+DATE: 29/05/24
+CHARACTERS ================================
+VICTIM’S FRIEND: Victim’s friend:Backstage
+TORMENTOR: Tormentor:Entrance Stage Right
+TORMENTED SOUL: Victim:Chair
+SHERIFF: Sheriff:Backstage
+SUGGESTIONS =============================
+VILLAIN NAME:Popular villain:Voldemort,Darth Vader,Mother Gothel,Ursula
+MENTAL ILLNESS:Any mental illness:PTSD,depression,stress,anxiety
+NAME 1:Any name:Alex,Amy,Derek,Ava
+NAME 2:Any name:Craig,Avery,David,Taylor
+COLLECTABLES:Any collection someone might have:Funko pops,action figures,vinyl figures
+COPING MECHANISM:A coping mechanism:Therapy,Emotional support,Meditation
+SCRIPT ==========================================
+[dark classical music]
+TORMENTED SOUL: (Groan as you wake up) What happened…
+TORMENTED SOUL: (Realize you’re tied to a chair) HUH?! WHY AM I TIED UP?!
+TORMENTED SOUL: (struggle to break free) HELP! SOMEBODY HELP ME!
+TORMENTOR: (Walk through door while laughing evilly) I don’t think anyone is going to hear you little one.
+TORMENTED SOUL: Who……are you……
+TORMENTOR: Why, I’m VILLAIN NAME, and I’ve captured you for my own entertainment.
+TORMENTED SOUL: What are you going to do to me?
+TORMENTOR: Oh, I’m going to break you down until you have MENTAL ILLNESS!!!
+TORMENTED SOUL: NO!!! Please! Just let me go! I won’t tell anyone, I promise!
+TORMENTOR: Not going to happen. I know all your secrets, and if you don’t co-opporate with me, they will be exposed to the world.
+TORMENTED SOUL: Fine! Just don’t tell anyone about my secret stash of COLLECTABLES.
+TORMENTOR: Good. Then let us begin. (laugh evilly)
+TYPEWRITER: A few hours later…
+TORMENTOR: Well, seems like I have broken you. Now you truly do have MENTAL ILLNESS.
+Meanwhile TORMENTED SOUL: (crying)
+TORMENTED SOUL: (crying) Please….stop this….I’m begging you….
+TORMENTOR: Why would I?
+TORMENTOR: It’s only been a few hours and I’m just getting started!
+TORMENTOR: You’ll be here for the rest of your life, and absolutely nobody will come find y-
+[police car]
+[break down door]
+[tense cinematic music]
+VICTIM’S FRIEND: HEY! What are you doing with my best friend?!
+TORMENTED SOUL: NAME 1! Thank god you’re here!
+TORMENTOR: WHAT?! How did you find us?!
+VICTIM’S FRIEND: NAME 2 has a tracker in their wristband they always carry around.
+VICTIM’S FRIEND: We both decided this was necessary for the both of us to know where we are in moments like this.
+VICTIM’S FRIEND: Plus, I have some friends waiting outside for you VILLAIN NAME!
+SHERIFF: (walk through the door) You are under arrest VILLAIN NAME!
+TORMENTOR: Fine…
+TORMENTOR: (while walking out with sheriff) But I will be back for my vengeance!!!!!!
+SHERIFF: Yeah, yeah. We’ll see about that.
+[sad chug jug music]
+VICTIM’S FRIEND: (untieing friend) Are you okay NAME 2?
+TORMENTED SOUL: No… VILLAIN NAME gave me MENTAL ILLNESS.
+VICTIM’S FRIEND: Really? I’m so sorry…
+TORMENTED SOUL: (crying) I don’t know how I’m going to get through this, NAME 1.
+VICTIM’S FRIEND: (hug NAME 1) Don’t worry, we’ll start doing some COPING MECHANISM to help, ok?
+TORMENTED SOUL: ok…
+SHERIFF: (enter back into room) Guys, we’re all settled. We’ll take you guys back home to your families.
+TORMENTED SOUL: (sniff) Thank you officer.
+SHERIFF: Anytime. You’re lucky we found you alive after a few hours.
+TORMENTED SOUL: I’m just glad VILLAIN NAME didn’t reveal my secret COLLECTABLES collection…
+[music stops]
+[record scratch]
+VICTIM’S FRIEND: Wait, secret what collection?
+TORMENTED SOUL: Crap…
+
+======
+
+INFORMATION ===============================
+ID: 1349
+TITLE: Bankrupt Studio
+AUTHOR: Perydaplaypus
+VERIFIED: True
+TAGS: 
+SET: Conference Room
+DATE: 29/12/24
+CHARACTERS ================================
+CEO: Company CEO:Boss Chair
+INTERN1: No Idea Intern 1:Office Chair 1
+INTERN2: No Idea Intern 2:Office Chair 2
+INTERN3: Smart Intern:Office Chair 3
+INTERN4: Stupid Intern:Backstage
+SUGGESTIONS =============================
+STUDIO:Name for a movie studio:Paramount,Sony,Warner Bros.
+MOVIE:Title for a movie:The Adventures of Pluto Nash in 3D,Madame Web,Morbius
+PITCH1:Title for a movie:Goon Squad 3,Average Vrchat Enjoyer,Milk buddies
+PITCH2:Title for a movie:naked in japan,Car Downloader Pro,Mr Bean's Island Adventure
+PITCH3:Title for a movie:Attack of the chubby bunnies,goodbye sweet prince,Overwatch the animated movie
+PITCH4:Title for an awful movie pitch:Zombie Cow,Liar Liar Pants on Fire,Shrek 420
+CELEBRITY:A controversial celebrity:MrBeast,Kanye West,Bob Ross,Jared Leto
+ACTIVITY:An activity someone would do:Gamble,play sports,play video games
+CAREER:A career someone would have:Lawyer,Doctor,Businessman
+CONSPIRACY:A famous conspiracy:9/11 was an inside job,Lee Harvey Oswald didn't assassinate JFK,the 2020 election was rigged
+BUDGET:An amount of currency:$1,$69420,$1 billion
+EVENT:A dark event in history:9/11,the Holocaust,the Challenger explosion
+SCRIPT ==========================================
+(corporate motivational music)
+TYPEWRITER: STUDIO - Day - Last Meeting
+CEO: So as you all know, STUDIO has gone bankrupt.
+CEO: The failure of MOVIE was so bad, we lost all our money.
+CEO: We only have enough to make one more movie.
+INTERN1: Well, what movie?
+CEO: That's problem. We're out of ideas.
+CEO: That's why I called you 4, uh wait. 1, 2, 3. Where's the other intern?
+CEO: Whatever, we'll catch him up later. Anyways, I've called you guys in here today. I need you to give me an idea for a movie we can make.
+INTERN2: Can you really trust us with movies? We're only interns.
+CEO: We don't have a choice. Now give me movies.
+INTERN3: But we don't have any ideas.
+CEO: Then make one up. You're in the film business, and in the film business, you gotta make stuff up on that spot.
+CEO: You think our founder just found ideas. No, he made them up on the spot.
+CEO: So like he did, you'll have to do. So do it.
+CEO: (points at INTERN1) We'll start with you. What's your idea?
+(music stops)
+(shark tank discussion music 1)
+INTERN1: Ok, um, how about PITCH1?
+(shark tank offer)
+CEO: Go on.
+INTERN1: Well, PITCH1 is about a CAREER who gets in trouble for ACTIVITY and has to cope with it.
+CEO: Ok, that sounds like it's been done many times before. (points at INTERN2) YOU! What's your pitch?
+INTERN2: Um, PITCH2.
+(shark tank offer)
+INTERN2: It's about a CAREER who gets in trouble for ACTIVITY and has to cope with it.
+CEO: That's literally what the other guy just said.
+INTERN2: I don't know ok. It's a lot of pressure.
+CEO: (sighs) Whatever. (points at INTERN3) YOU! What's your pitch?
+INTERN3: Well, unlike my fellow interns, I have an actual idea. I call it, PITCH3.
+(shark tank offer)
+CEO: Ooh, sounds interesting. What is it about?
+INTERN3: Well, PITCH3 follows an actor who gets himself into a crazy conspiracy.
+CEO: What's the conspiracy?
+INTERN3: That CONSPIRACY.
+CEO: Ooh, sounds riveting. What's the budget?
+INTERN3: Only BUDGET.
+CEO: That's way below our remaining, so it could work. You've got the movie.
+INTERN4: (enters) Sorry I'm late boss. Traffic was a nightmare.
+CEO: It's ok intern. We were just pitching movie ideas as STUDIO has gone bankrupt.
+INTERN4: Ooh, I have an idea.
+INTERN3: Sorry, but we've already got the movie idea...
+CEO: No no, let's see what he has to say.
+CEO: (to INTERN4) What's your idea?
+INTERN4: I call it PITCH4.
+(shark tank offer)
+INTERN4: It follows a CAREER, played by CELEBRITY, who travels through time to prevent different events from happening.
+CEO: What kind of events?
+INTERN4: Events like the the assassinations of JFK and Lincoln, and EVENT.
+(record scratch)
+INTERN3: That is, by far, the most stupidest and offensive idea I've ever heard.
+INTERN2: It's awful.
+INTERN1: It's horrendous.
+CEO: It's brilliant. You've got the movie.
+INTERN3: WHAT?!
+INTERN4: Really!
+CEO: Yes, and we'll invest all of our money into it.
+INTERN3: Sir, this idea is horrendous. This won't save the company what so ever.
+INTERN1: Yeah, this will for sure kill us.
+INTERN2: We cannot make this movie.
+CEO: Trust me, this movie will get us back on top. We'll win multiple Academy Awards for this.
+CEO: We'll be the richest company in the universe.
+CEO: (points at INTERN4) You, start working on the movie right now.
+INTERN4: Yes sir. (exits)
+CEO: We're gonna be rich.
 
 ======
 
