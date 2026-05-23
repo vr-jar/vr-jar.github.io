@@ -8093,99 +8093,6 @@ Meanwhile DOCTOR: Don't forget to leave me a 5 star review on APP!
 ======
 
 INFORMATION ===============================
-ID: 177
-TITLE: The Greatest Tattoo
-AUTHOR: Cloaked Schemer
-VERIFIED: True
-TAGS: Skit
-SET: Doctor's Office
-DATE: 28/04/24
-CHARACTERS ================================
-GUY: Guy Getting a sick new tattoo:Backstage
-FRIEND: Friend who dares friend to get the best tattoo:Backstage
-ARTIST: Tattoo artist:Center Stage
-SUGGESTIONS =============================
-EPIC:Something you'd say when you think something is amazing:Epic,Poggers,Amazing
-SHOP:What is a random shop?:Hot Topic,Walmart,Burger King
-BODY:Name any body part you'd get a tattoo on?:Arm,stomach,forehead
-CHARACTER:Name a popular character from any series (Real life, cartoon, etc...):Bowser,Jar,Murder Crumpet
-SERIES:Name a popular series (Movie, Game, Tv Show, etc...):Super Mario,Game of Thrones,Shrek
-ACCESS:Name any accessory you wear :Sunglasses,Earrings,A top hat
-ITEM:What item is the character holding?:Double-neck guitar,Water Bottle,Cheetos
-RIDE:What is the character riding?:Surfboard,Car,Airplane
-TEXT:What is the text on the tattoo?:Let's Party!,Subscribe to this!,I love you!
-BACK:What is the background of the tattoo?:Beach,City,McDonald's
-NAME:What is the friends name?:Rick,Chuck,Vincent
-YEARS:Any number:16,20,5
-SCRIPT ==========================================
-Jazz music 1
-ARTIST: (Walk around and inspect room) I'm worried this tattoo parlor looks too much like a Doctor's office....
-Knocking on door
-ARTIST: (Look at the door) Huh? I could of sworn the sign says open?
-ARTIST: Come in it's open!
-GUY: (Open the door and come inside excited) Hey! Is this the Tattoo parlor or SHOP
-Meanwhile FRIEND: (Walk in with friend excited)
-ARTIST: Uhhh... Tattoo parlor? Can I help you?
-FRIEND: Ohh Good good good! My friend wants to get a tattoo!!
-GUY: Yeah! I was dared and I want to prove I'm not a chicken!
-FRIEND: You totally are!
-GUY: Nuh uh!!
-ARTIST: Calm down! Just tell me what you want?
-GUY: Okay! (Walk to the examination table) 
-FRIEND: Watch! He's going to chicken out! (Point at friend)
-GUY: Nooo!! (Look at tattoo artist) Okay, I want a Tattoo on my uhh...
-FRIEND: On his BODY!!
-GUY: Yeah! On my BODY! 
-GUY: I want to get uhhh... CHARACTER
-FRIEND: Yeah! CHARACTER from uhhh... (Try to say SERIES but be stumped on pronouncing)
-ARTIST: SERIES?
-GUY: Yeah! CHARACTER from SERIES
-ARTIST: I don't think CHARACTER is from SERIES
-GUY: Well CHARACTER on my BODY but they have ACCESS on!
-FRIEND: Ohh yeah! Wearing ACCESS!
-GUY: Yeah and they're also giving a wink and a thumbs up. It'll look so cool!
-FRIEND: And we want them to be holding a ITEM
-GUY: Yeah! Don't forget the ITEM
-ARTIST: (Confused and looking at both of them) You two know that a Tattoo is a commitment you are about to make? 
-GUY: We know! That's why this is going to be epic!
-FRIEND: So we want CHARACTER wearing ACCESS on while holding an ITEM! 
-GUY: They are also riding a RIDE!
-FRIEND: (Super excited) Ohh man! That sounds so EPIC!
-GUY: Yeah! And above it, it'll say TEXT
-ARTIST: Okay... Let me run through this just so I can get it clearer in my head...
-ARTIST: So you want CHARACTER...
-Meanwhile GUY: (Nod excitingly)
-ARTIST: You want CHARACTER wearing ACCESS...
-FRIEND: Yeah yeah!
-ARTIST: CHARACTER with ACCESS holding a ITEM, giving a wink and a thumbs up
-ARTIST: While riding a RIDE with the text TEXT above it?
-FRIEND: Ohhh! Don't forget the BACK
-GUY: Yeah! All this with BACK in the background!
-ARTIST: You guys have given this tattoo 0 thought...
-FRIEND: We have not!
-GUY: Yeah! I've wanted this tattoo for YEARS years!
-ARTIST: What!?
-FRIEND: Ohh wait! instead of TEXT make it say "Happy Birthday NAME"
-GUY: Ohh yeah! Because it's NAME birthday next week! They'll freak out when they see it!
-ARTIST: Okay... So to run down this one more time...
-ARTIST: You want CHARACTER wearing ACCESS while giving a wink and a thumbs up
-GUY: Yeah yeah! On my BODY!
-Meanwhile Friend: (nod your head excitingly) Uh huh!!
-ARTIST: Holding a ITEM while riding a RIDE with BACK as the background
-ARTIST: With the text "Happy Birthday NAME" on your BODY
-GUY: Ohh my god that sounds so EPIC! 
-FRIEND: Yeah!! I think I'll get that one on my BODY too! We can match!
-ARTIST: (Visible confusion while looking at both of them)
-ARTIST: You know what... Sure! Let's get this over with... (Start giving them a tattoo)
-GUY: Woooo! This is going to be EPIC!!
-FRIEND: NAME is going to freak out when they see our tattoo!!
-GUY: I can't wait to surprise them when I show them my BODY 
-FRIEND: I do not regret getting this!!
-TYPEWRITER: They both later regretted getting the tattoo...
-
-======
-
-INFORMATION ===============================
 ID: 178
 TITLE: Kaiju Interrogation
 AUTHOR: toast6741
@@ -10379,123 +10286,6 @@ DATER: Look, we want to eat, we don't want to make a meal of the issues.
 DATER: (sitting back down, and to the waiter) Four rare CUTOFMEAT1 please, and hurry.
 MEAT: (shift to the table) A very wise choice, sir, if I may say so.
 DATER: Look, we want to eat, we don't want to make a meal of the issues.
-
-======
-
-INFORMATION ===============================
-ID: 319
-TITLE: AI Generated Wife
-AUTHOR: Cloaked Schemer
-VERIFIED: True
-TAGS: Skit
-SET: Conference Room
-DATE: 28/04/24
-CHARACTERS ================================
-SALE: Tech company salesperson:Boss Chair
-AIGF: Waifu (Will change avatars mid-script):Backstage
-CUSTOMER: Customer in need of a Waifu:Office Chair 1
-SUGGESTIONS =============================
-HATE:Something you really hate:Discord Pings,Spam invites,The Black Cat
-TAB:A popular character trait that you don't personally like:Muscles on Muscles,Tall,Green Skin
-LABEL:Something you look for in a partner:Smelly,Really well paying job,thighigh socks,gamer
-BOD2:A body part:Leg,Hands,elbow
-TAG:Adjective describing the ideal cartoon character:Masterpiece,Waifu,Dragon-girl
-FAVORITE:Something you really love:Cheetos,Subway Coupons,Bouncing ball
-CHARACTER:The name of literally any character or person:Sailor Moon,Naruto,Jimmy Neutron
-MONEY:How much will this cost?:Tree fiddy,too dolla,fiddy dolla
-BODY:A body part you find interesting:broad shoulders,rump,face
-COMP:A company name (real or fake):Walmart,ChatGPT,Bass Pro Shop
-LAST:A last name:Morbius,Shake,Pibb
-ATTRACTIVE:A word to compliment someone:Sexy,Gyatt,skibbidi
-SCRIPT ==========================================
-happy music 1
-SALE: So Mr. LAST we are proud that you chose COMP Ai Generation™
-SALE: We're sure you'll be very satisfied with the results!
-CUSTOMER: Well thank you... It has been really hard to move on since my wife left me
-CUSTOMER: I have no rizz so I'm hoping COMP Ai Generation™ can help.
-SALE: Well Mr. LAST, we guaranteed you'll love our results or your money back!
-CUSTOMER: Really?
-SALE: Ohh wait... We stopped giving customers their money back..
-CUSTOMER: Wait! Why?
-SALE: Any who! Let's get started! Tell me what you're looking for!
-CUSTOMER: Well... What I really want is someone who looks cute...
-SALE: Say no more! (Typing on a keyboard) I'm sure you're going to love this!
-Meanwhile AIGF: (Stand in front of door and wait)
-gameshow ding
-SALE: And here you are Mr. LAST! Your true love... (Approach and open door)
-tada
-AIGF: Hello Mr. LAST I am your dream wife!
-CUSTOMER: What the hell is that!?
-SALE: What? This is what you wanted? Someone who looks cute! Just look at that face!
-AIGF: Am I not cute enough Oto-san?
-CUSTOMER: No! I did not even say the tags I wanted!
-SALE: Ohh! I am very sorry Mr. LAST (Close the door and go back to boss chair)
-Meanwhile AIGF: (Exit the stage and change into a different avatar)
-SALE: So let me know what you want?
-Meanwhile AIGF: (Exit the stage and change into a different avatar)
-CUSTOMER: Well I want her to be cute. I also like if she had a really big BODY
-Meanwhile AIGF: (Exit the stage and change into a different avatar)
-SALE: Okay, let me type that down... Really big BODY
-Meanwhile AIGF: (Exit the stage and change into a different avatar)
-CUSTOMER: ohhh! And Can she look like CHARACTER
-SALE: Ohh! CHARACTER with a really big BODY
-CUSTOMER: And also I'd like if she shared my interest in FAVORITE!
-SALE: Alright Mr. LAST adding FAVORITE in and....
-Meanwhile AIGF: (Stand in front of door and wait)
-gameshow ding
-SALE: She's ready! Mr. LAST... I present your dream wife... (Approach and open the door)
-AIGF: Hello Mr. LAST. I really love FAVORITE!
-AIGF: Please look at my really big BODY!
-CUSTOMER: She looks nothing like CHARACTER! Also her proportions are off!
-CUSTOMER: The BODY is too small!
-SALE: I'm so sorry. Extra fingers, limbs, and small BODY are usually a side effect of Ai generating
-CUSTOMER: I want to try one more time!
-SALE: Okay Mr. LAST, but I must let you know that each generation costs MONEY
-CUSTOMER: MONEY!? But that means I only have enough for one more generation!
-AIGF: Mr. LAST please let me be your GF!
-CUSTOMER: No! Get out of here!
-SALE: (Close the door and go back to table) We can try this one more time then.
-Meanwhile AIGF: (Exit the stage and change into a different avatar)
-Music stops
-Meanwhile AIGF: (Exit the stage and change into a different avatar)
-SALE: So Mr. LAST, what more would you like for your final generation?
-Meanwhile AIGF: (Exit the stage and change into a different avatar)
-badass music 1
-Meanwhile AIGF: (Exit the stage and change into a different avatar)
-CUSTOMER: I'm sure this will be the one!
-Meanwhile AIGF: (Exit the stage and change into a different avatar)
-CUSTOMER: Okay! I want Even bigger BODY and to look more like CHARACTER
-Meanwhile AIGF: (Exit the stage and change into a different avatar)
-CUSTOMER: Give her a really curvy BOD2
-Meanwhile AIGF: (Exit the stage and change into a different avatar)
-SALE: Alright... Even bigger BODY... More like CHARACTER...
-SALE: I see it coming together... Very very ATTRACTIVE with a curvy BOD2
-CUSTOMER: I'm not done yet! I want the tags LABEL and TAB
-Meanwhile AIGF: (Exit the stage and change into a different avatar)
-CUSTOMER: And she'll hate HATE just like me!
-Meanwhile AIGF: (Exit the stage and change into a different avatar)
-CUSTOMER: All that and add TAG just to be double sure she comes out perfect!
-SALE: THINK and hates HATE... With the tags TAG, LABEL, and TAB...
-SALE: Just a few more seconds and she is....
-Meanwhile AIGF: (Stand in front of door and wait)
-Music stops, gameshow ding
-SALE: Done! Get ready Mr. LAST to meet your future wife! (Approach and open door)
-tada, 70s music
-AIGF: Hello Mr. FAVORITE I hate CHARACTER and love HATE!
-CUSTOMER: Ohh my...
-SALE: Now Mr. LASTI know what it looks like but...
-CUSTOMER: She's beautiful!! (Get up and approach your ai waifu)
-AIGF: (In the most unenthusiastic tone) Let's get married with my big BODY!
-AIGF: I also hope you do not mind the extra BOD2
-AIGF: I hate TAB and FAVORITE
-CUSTOMER: You're so ATTRACTIVE. You look so much like CHARACTER it's uncanny!
-AIGF: I love LABEL I love LABEL I love TAB!
-CUSTOMER: Your BODY and BOD2 remind me so much of my ex-wife.
-AIGF: I love HATE!
-CUSTOMER: Let's go get married!
-AIGF: Okay Mr. FAVORITE! (Leave)
-Meanwhile CUSTOMER: (Leave with ai wife)
-SALE: Another job well done here at COMP Ai Generation™
 
 ======
 
@@ -26232,81 +26022,6 @@ HOST: That's all the time we have. See you next time on "Who the Buck"? Wait. Wh
 ======
 
 INFORMATION ===============================
-ID: 838
-TITLE: The Streaker
-AUTHOR: MindlessGonzo
-VERIFIED: True
-TAGS: Skit
-SET: City
-DATE: 22/05/24
-CHARACTERS ================================
-ANDY: Andy The Reporter:Stage Right
-WITNESS 1: Witness 1, The Parent:Center Stage
-WITNESS 2: Witness 2, A Shopper:Alley
-WITNESS 3: Witness 3, The Fan:Stage Left
-STREAKER: The Streaker:Entrance Stage Left
-SUGGESTIONS =============================
-EVENT:An event you want to go to or have to:business meeting,birthday party,parent-teacher conference
-JOB TITLE:A job title:accountant,banker,cop
-ANIMAL:An animal:cat,dog,bird,african elephant,gremlin,boa constrictor
-OBJECT:An object:can,toy,gun,toilet,piano,brick,minecraft diamond ore
-NAME:A name, be it just a first name or full name:John,Jane,Jacob Smith,Ronald McDonald,Jake from State Farm
-QUESTION:A random question:What is a man?,Where is Carmen Sandiego?,Is there such thing as dog hell?,Where's mommy?
-SOMETHING TO BUY:Something you buy at the store:vitamins,floor cleaner,eggs
-SHOES:A kind of shoe or brand of shoe:sandals,sneakers,Timberland boots
-SPORT:A sport:baseball,track,football
-FOOD:A food:hot dog,hamburger,spagetti
-SILLY SOUND:A silly sound to make:a bird call,screeeee,(fart sound),Wingardium LeviOHsa not levioSAH
-NUMBER:A number:7,20,400,99,negative 1
-SCRIPT ==========================================
-world news intro
-ANDY: This is ANDY DANDY with Channel 5 News live in Jarville, where a string of sightings has shook up the folks of this quiet town.
-ANDY: Sightings of a streaker.
-ANDY: I have here three witnesses to several of these sightings who claimed to have seen the streaker.
-WITNESS 1: Can I go first? I got EVENT to go to soon.
-WITNESS 3: And I got that JOB TITLEs game on television tonight! I can't miss it!
-ANDY: Right, our first witness was at the town park. Can you recall what happened?
-WITNESS 1: Yes, I can. I was out with my son, watching him as he played with his OBJECT and then here he comes, naked as a ANIMAL.
-WITNESS 1: I hollered at my son "Don't look NAME ", but it was too late!
-WITNESS 1: He seen everything and now he's asking things like (Whispering) " QUESTION "
-waterphone
-ANDY: Disturbing.
-ANDY: Our next one was shopping at the supermarket. What happened to you?
-WITNESS 2: I was just stopping by for SOMETHING TO BUY to take home.
-WITNESS 2: I look up and there he comes, nothing on but SHOES .
-WITNESS 2: I heard someone go "Don't look, Ethel!" But it was too late!
-WITNESS 2: His fruit and veggies were on full display! (Upset) Outrageous!
-ANDY: (To the last witness) And what about your story? Yours happened just at last night's SPORT game!
-WITNESS 3: Oh, God, it was crazy! So, I was there, rooting for our home team, the Jarville JOB TITLEs right?
-WITNESS 3: And then here he comes whizzing by the FOOD stand going right in the middle of everything!
-WITNESS 3: Everybody was shielding their eyes, screaming "Don't look! Don't look!" But I was too mad not to!
-ANDY: And why didn't you?
-WITNESS 3: (Angrily) He was double-dribbling...
-gong
-ANDY: (Awkwardly) Okay...
-happy music 1
-STREAKER: (Enters from Stage Left) Hey, you guys are doing a story?
-ANDY: Yes, we're talking about the string of streaker incidents here in Jarville. Do you know anything?
-STREAKER: Yes, I do.
-ANDY: And what will that be?
-STREAKER: I know who The Streaker is.
-ANDY: Oh, please, do tell us!
-music stops
-STREAKER: It's me. I'm The Streaker.
-record scratch
-STREAKER: SILLY SOUND (Exit Stage Right)
-groose music
-ANDY: (Loudly) After The Streaker! There's a reward if we catch him!
-ANDY: (Runs off Stage Right)
-WITNESS 3: I had NUMBER bucks on that game! (Runs off Stage Right)
-WITNESS 2: I didn't get to buy the SOMETHING TO BUY . (Runs off Stage Right)
-music stops
-WITNESS 1: Does anyone have an answer to QUESTION
-laughter
-
-======
-
-INFORMATION ===============================
 ID: 839
 TITLE: The Pizza Mafia Meeting
 AUTHOR: XenoFlameVR
@@ -39333,111 +39048,6 @@ ASS: Oh, ok. Welp, let's go find it.
 ======
 
 INFORMATION ===============================
-ID: 1296
-TITLE: Furry Convention Plans
-AUTHOR: zanbbit
-VERIFIED: True
-TAGS: Skit
-SET: City
-DATE: 09/12/24
-CHARACTERS ================================
-NEWT: A first time congoer:Stage Right
-CONNIE: An experienced congoer:Center Stage
-DEEJAY: A music lover:Alley
-HUNTER: A vendor hall shopaholic:Entrance Stage Left
-PAMALA: Someone who loves panels:Stage Left
-SUGGESTIONS =============================
-CITY:A name for a city:New York City,Anyplace,Townsville
-HOTEL:A name for a hotel:You're In Inn,Sweet Suites,Hilton
-CONVENTION:A name a furry con would have:Southwest Fur Fest,Furcon #1234,Another Furry Con
-ITEM:Literally anything you can buy:Fursuits,Hoodies,Key Charms
-NUMBER:Any number:2,7,13
-PERFORMER:Name of a musician or DJ:DJ Beatz,Bee Plus,Mystery Skulls
-GENRE:A genre of music:Drum n' Bass,Vaporwave,Country
-TOPIC:A topic someone may do a panel on:Writing 18+ Stories,Olive Garden,Nothing
-BIG:Any number:1000,8000,13,000
-ACTIVITY:An activity that may take place at a party:Drinking,Smoking,Snuggling
-FREAK:A bizarre or taboo thing to be interested in:Paw,Collar,Muzzle
-SPECIES:A type of animal:Cat,Fox,Dragon
-SCRIPT ==========================================
-(jazz music 1)
-NEWT: This is it. I finally made it to CITY now to find the HOTEL then get my badge for CONVENTION.
-NEWT: My first furry con... hope no one will think I'm weird. No, most furries are weirdos... crap! Is that a weird thing to say or think?
-DEEJAY: What's taking him so long?
-PAMALA: You know Hunter. He needs to check every inch of the shop to see if they have any good ITEMs.
-DEEJAY: (groans) Yeah and they never do! He gets all annoyed and it's just a waste of our time.
-CONNIE: (sighs) He never learns, does he?
-NEWT: Uhh hey. Do any of you know where I can find the HOTEL?
-CONNIE: Sure, it's three blocks down the street. Are you here to attend CONVENTION?
-NEWT: Yes. I MEAN NO! What is this CONVENTION you speak of? I've never heard of it! I'm not some weirdo!
-CONNIE: (laughs) Let me guess, first furry con? Feeling nervous?
-NEWT: H-How did you know?
-DEEJAY: Connie has seen it all, they've been attending furry cons for NUMBER years.
-PAMALA: Connie is like a con master they know a newbie when they see one.
-CONNIE: We're in town for the con too. So it's your first time hunh? Is there something you're most excited for?
-NEWT: Well I guess a little bit of everything. I want to experience everything CONVENTION has to offer!
-CONNIE: Be careful, if you try to do everything you'll just end up running yourself ragged and having a stressful weekend.
-NEWT: Hmm... You have a point, I didn't think about it that way.
-CONNIE: What's your name? If you don't mind me asking.
-NEWT: I'm Newt. Sorry if I seem awkward, I'm not very used to this yet.
-CONNIE: You're fine. I'm Connie by the way, my friends and I have been to a few of these, would you like some suggestions?
-NEWT: Sure, I suppose it couldn't hurt.
-DEEJAY: You gotta check out the concerts! PERFORMER is gonna be performing this year!
-DEEJAY: No one plays GENRE like them, it's gonna be SICK!
-PAMALA: UGH, It's all about the concerts with you DeeJay! You're gonna lose your hearing if you keep going to those.
-PAMALA: Besides PERFORMER is overrated and GENRE is boring and repetitive! There! I said it!
-DEEJAY: You take that back!
-PAMALA: You're only mad because I'm right. (look at Newt) You should go to the panels!
-PAMALA: There's a really fun one on TOPIC I went to it last year and it was awesome! They have it again this year!
-DEEJAY: (sarcastic) Yeah sitting down in one place and listening to someone talk about TOPIC for an hour, sounds really fun.
-DEEJAY: That's the definition of a wasted con if you ask me.
-HUNTER: (walks out on stage) They don't have any ITEM in there! What a let down!
-DEEJAY: (sarcastic) What!? No ITEM!? Whatever shall we do!?
-DEEJAY: I think you'll survive one more night. Then you'll find plenty in the Dealers Den tomorrow.
-HUNTER: Whatever, DeeJay. (Points at Newt) Who are they?
-CONNIE: This is Newt, it's his first con. We were giving him suggestions on what to do.
-HUNTER: Oh I got this! You need to go to the Dealers Den! I'm big on ITEM right now, I want to get as many as I can!
-NEWT: Not really sure If I'll have the money for that.
-HUNTER: It's not that expensive. If you go on the last day you get all the discounts.
-PAMALA: Yeah because all the good stuff is gone so the vendors are trying to get rid of all the other stuff that didn't sell.
-CONNIE: And even with those discounts, how much did you spend last year on ITEM, Hunter?
-HUNTER: Just $BIG not that much in the grand scheme of things.
-NEWT: WHAT!? How is THAT not a lot to you!?
-CONNIE: (laughs) We don't know where he gets his money from either.
-NEWT: Well what about you, Connie? What's your suggestion?
-CONNIE: Well when you've been attending these as long as I have, you've pretty much seen it all. But I like the room parties.
-NEWT: Oh tell me more! I want to know about the room parties!
-DEEJAY: Oh boy, the newbie wants to see the room parties.
-HUNTER: This one is all yours, Connie.
-CONNIE: Are you sure? Those can get pretty wild. One of the most common activities is ACTIVITY.
-NEWT: Oh heck yeah! I am all about that! Tell me more! Tell me all about the ACTIVITY! I wanna do it!
-CONNIE: (pause for a moment) Really? For your first con?
-NEWT: Yeah! I wanna go wild! I wanna do something CRAZY! I'm also into FREAK's!
-PAMALA: FREAK's!?
-CONNIE: You're into FREAK's!?
-NEWT: Heck yeah I am! I'm actually insane if you get to know me!
-NEWT: My friend told me there are actually FREAK parties! Do you know where I can find one at the con?
-CONNIE: (uncomfortable) Uhh, let's move away from that, what's species is your fursona?
-NEWT: Oh me? I'm a SPECIES.
-PAMALA: That's the same type as all of us.
-DEEJAY: Maybe we should show this new guy the ropes SPECIES's have to stick together after all.
-HUNTER: I mean, I'm not the exact same. I'm a hybrid half SPECIES half anteater. Anteaters are so cool.
-PAMALA: No one cares, Hunter!
-CONNIE: You know what, why don't you hang with us? You seem pretty cool any SPECIES is a friend of ours! right gang?
-DEEJAY: Yeah sure, the more the better.
-PAMALA: Absolutely! SPECIES gang!
-HUNTER: It's always cool to hang with more friends at these. More people to ask for money.
-CONNIE: Stick with us Newt, we'll show you the ropes. Maybe even find you one of those FREAK parties.
-CONNIE: If you really are dead set on going to one that is.
-NEWT: Oh heck yeah! Let's do it! Watch out CONVENTION!
-TYPEWRITER: Newt got to the HOTEL got registered for CONVENTION, and met the rest of the SPECIES gang.
-TYPEWRITER: He even got into one of the elusive FREAK parties.
-(police car)
-TYPEWRITER: But he was arrested for getting a little too wild, even for them. He is now in CITY jail.
-
-======
-
-INFORMATION ===============================
 ID: 1300
 TITLE: The Meowfia
 AUTHOR: CookieBee6
@@ -42520,126 +42130,6 @@ Meanwhile VICTIM: (run out the front door with The Murderer)
 DETECTIVE: (Enter Stage Right) Paperwork's done, and- OH MY GOODNESS. (run to kneel beside Austin's body)
 TYPEWRITER: The criminal duo became known as Frank and NOUN
 TYPEWRITER: Until they were caught 2 days later, for depositing $12K at a nearby credit union.
-
-======
-
-INFORMATION ===============================
-ID: 1393
-TITLE: The Real Enemy
-AUTHOR: zanbbit
-VERIFIED: True
-TAGS: Skit
-SET: Courtroom
-DATE: 13/01/25
-CHARACTERS ================================
-JUDGE TERRI: The completely normal judge:Judge Chair
-ATTORNEY: The lawyer:Defendant Table
-PROSECUTOR: The prosecutor:Plaintiff Table
-DEFENDANT: The defendant:Defendant Table
-SUGGESTIONS =============================
-DEFNAME:A first and last name:Seymore Butz,Hugh Jass,John Smith
-ATTNAME:A name an attorney might have:Ino Cent,Gimmi Munz,Phoenix Wright
-PRONAME:A name a prosecutor might have:Gil Tee,Pierre Posh,Miles Edgeworth
-MINCRIME:A minor crime:Jaywalking,Littering,Shoplifting
-MAJCRIME:A major crime:Murder,Assault,Saying "UwU" In Public
-CRZCRIME:A crazy or wacky crime:Sleeping with the lights on,Pissing off the Yakuza,Public Nudity
-GROUP:A group of people or a place:Minecraft Let's Players,Grannies,Home Depot
-TIME:Any amount of time:7 Days,20 Minutes,3 Years
-PUNISHMENT:An unpleasant task given as punishment:Clean the Dishes,Stand In The Corner,Be the Stenographer
-NUMBER:Any number higher than 1:21,321,123
-THINGS:Something someone would want:Drugs & Money,Fursuits,Crude Oil
-JOB:A high paying or high profile job:Tech CEO,Government Worker,IT Technician
-SCRIPT ==========================================
-(courtroom music)
-PROSECUTOR: So, taking into account all the evidence and testimony we have seen over the last TIME
-PROSECUTOR: I believe I have provided sufficient proof that DEFNAME is guilty of MINCRIME.
-JUDGE TERRI: Hmm... A compelling case from PRONAME. ATTNAME, your response?
-ATTORNEY: Your honor, all PRONAME has done over these TIME is try to slander my clients good name.
-PROSECUTOR: Objection! That's not true! I am trying to bring them to justice! Enough with your tall tales, ATTNAME!
-ATTORNEY: Objection! Don't interrupt me while I am giving my closing arguments... that's rude.
-JUDGE TERRI: Sustained, that was quite rude of you, PRONAME.
-ATTORNEY: As I was saying, I believe the evidence I have shown proves why my client had no choice but to resort to MINCRIME.
-ATTORNEY: DEFNAME is innocent and what they did was justified.
-JUDGE TERRI: Hmm, another decent argument (Look at defendant) How do you plead, DEFNAME?
-DEFENDANT: Not guilty your honor. I did what I did to get back at the GROUP. They had it coming.
-JUDGE TERRI: Hmm, yes, the GROUP can be quite troublesome.
-JUDGE TERRI: You know I like you, DEFNAME. You remind me of me in my youth, a bit of a loose cannon but a good man at heart.
-JUDGE TERRI: We all screw up sometimes. I know I've certainly had my fair share of adventures.
-DEFENDANT: Hunh, never though of you as that type, Judge.
-JUDGE TERRI: Oh yes, there is much you don't know, but all that is irrelevant.
-JUDGE TERRI: MINCRIME is still a crime, but given the circumstances, I think I'll go easy on you.
-JUDGE TERRI: With that, I am ready to hand down my verdict. I declare DEFNAME
-ATTORNEY: Hold on, your honor, how do you know about the GROUP?
-PROSECUTOR: And what do you mean when you say 'my fair share of adventures'? Are you hiding something?
-ATTORNEY: What are you suggesting, PRONAME?
-PROSECUTOR: The judge seems sympatric to the defendants plight. What if he's committed MINCRIME in the past?
-(courtroom sting)
-ATTORNEY: (gasps and looks at judge) Your Honor! Surely it's not true!
-JUDGE TERRI: (Nervous) N-No why would I do something like that? I'm an upstanding judge!
-DEFENDANT: I don't know. The judge is looking pretty sus right now. I mean... (mutters) It takes one to know one.
-PROSECUTOR: Admit it Judge Terri! You are guilty of MINCRIME and have no right to proceed with your judgement!
-JUDGE TERRI: You're out of order, PRONAME! Cease this line of questioning at once!
-JUDGE TERRI: Or I will will sentence you to PUNISHMENT!
-ATTORNEY: Now I'm suspicious too. We should put you on trial for MINCRIME!
-PROSECUTOR: I agree with ATTNAME. We'll find the truth! Even if it takes TIME.
-JUDGE TERRI: This is Absurd! I Object!
-DEFENDANT: (points at the judge) OVERULED! Sorry I've always wanted to say that.
-ATTORNEY: We're the judges now, Judge Terri!
-(shark tank discussion music 1)
-PROSECUTOR: And my first witness is you (point at Judge Terri) Have you been guilty of MINCRIME?
-JUDGE TERRI: (Growls) Okay Fine! Yes I admit it! I've indulged in MINCRIME once or maybe NUMBER times.
-ATTORNEY: NUMBER Times!?
-PROSECUTOR: You're a Monster!
-DEFENDANT: Not even the GROUP deserves that.
-JUDGE TERRI: It was years ago! And I got away with it every time too! Until you meddling lawyers and your stupid defendant came along!
-JUDGE TERRI: What's the big deal!? It's Just MINCRIME!
-JUDGE TERRI: At least I'm not doing anything really bad like MAJCRIME if I did that, then I would be in trouble.
-DEFENDANT: Hold on now, that seems like a really specific offense, why would you just randomly bring it up like that?
-DEFENDANT: Could it be that you're guilty of that too?
-PROSECUTOR: Hmm... DEFNAME may have a point.
-ATTORNEY: Have you also committed MAJCRIME, Judge Terri?
-JUDGE TERRI: (Very nervous) N-N-No! Never I... I Object! AGAIN! This is a violation of uhh... something!
-PROSECUTOR: You seem pretty shaken Judge Terri, why not just confess? Or do you want this to last TIME?
-JUDGE TERRI: Fine! I shouldn't have said anything! But yes! I did it! I am guilty of MAJCRIME too!
-(tense cinematic music)
-ATTORNEY: Seriously!? How Did you get away with that!?
-PROSECUTOR: I'm starting to wonder how you became a judge!
-DEFENDANT: Wow, you're actually worse than me.
-JUDGE TERRI: It's not my fault! The GROUP made me do it! I had no choice. It was years ago!
-JUDGE TERRI: They were gonna make me PUNISHMENT if I didn't do what they said.
-ATTORNEY: Save it for the judge, Judge!
-PROSECUTOR: So not only are you guilty of MINCRIME, you're also guilty of MAJCRIME
-PROSECUTOR: What else have you done, Judge Terri? If that even IS your real name!
-JUDGE TERRI: There is nothing else. You've already exposed me as an evil criminal lunatic!
-JUDGE TERRI: The only thing I haven't revealed is that time I got away with CRZCRIME.
-(silly music 2)
-JUDGE TERRI: WAIT! I mean I almost did that but I decided to be a good law abiding citizen!
-DEFENDANT: How am I the one on trial with maniacs like this! (points at judge) Doing stuff like CRZCRIME!?
-PROSECUTOR: You truly are disgusting. How do you keep getting away with it?
-ATTORNEY: And how did you become a judge with such a bad track record?
-JUDGE TERRI: (sighs) I have rich parents. My dad is a JOB.
-ATTORNEY: Yep, That'll do it.
-PROSECUTOR: That explains a lot.
-DEFENDANT: It's always the ones with JOB parents.
-ATTORNEY: So what's your excuse for CRZCRIME? Did the GROUP make you do that one too?
-JUDGE TERRI: (defeated voice) No. That one was all me. I did it for THINGS.
-PROSECUTOR: All for THINGS, hunh? Was it worth it?
-JUDGE TERRI: Well considering I never actually got any THINGS, no not really.
-ATTORNEY: What a sad way for the son of a JOB to go.
-JUDGE TERRI: But now you actually know everything
-JUDGE TERRI: Congratulations DEFNAME, ATTNAME and PRONAME.
-JUDGE TERRI: You have exposed me for the villain I truly am. So... how long I am going away for?
-PROSECUTOR: Well considering your crimes of MINCRIME
-ATTORNEY: and MAJCRIME
-DEFENDANT: and even CRZCRIME
-PROSECUTOR: My math sees you spending about... NUMBER years in jail.
-JUDGE TERRI: I see... Well in that case... YOU'LL NEVER TAKE ME ALIVE! (run off stage)
-PROSECUTOR: Bailiff! Go after that madman!
-DEFENDANT: So uhh... Am I off the hook. I did help catch that guy with you... kind of.
-PROSECUTOR: No. We'll just move your hearing to another date with a different judge.
-ATTORNEY: Yeah, it's very important you have a fair trial for MINCRIME
-DEFENDANT: COME ON! Are you serious!?
-TYPEWRITER: Judge Terri was never found. Some say he's still at large today.
 
 ======
 
@@ -54389,111 +53879,6 @@ POLICE OFFICER: Officer State, signing off — and remember, crime doesn’t pay
 ======
 
 INFORMATION ===============================
-ID: 1467
-TITLE: Pepsi or Coke
-AUTHOR: Rotem_N
-VERIFIED: True
-TAGS: Skit
-SET: Restaurant
-DATE: 17/02/25
-CHARACTERS ================================
-OLIVIA: Olivia:Entrance Stage Right
-RON: Ron:Entrance Stage Right
-WAITER: An undrpaid waiter:Entrance Stage Left
-CHEF: The chef:Entrance Stage Left
-SUGGESTIONS =============================
-PASTA:Some type of food:steak,lobster,humburger
-PLACE:Some kind of place:kfc,home,hell,australia
-RESTAURANT:Some kind of restaurant:burger king,chick fill a,mcdonalds
-NUMBER:Any number:1,45,67
-ACCENT:Some kind of accent:Italian,Russian,Spanish
-COMPLIMENT :A nice compliment to someone:Cute,lovely,precious
-NAME:A name of a person:John,eli,anna
-SCRIPT ==========================================
-70S MUSIC
-OLIVIA:(While walking into the restaurant) Wow im so glad we went to this RESTAURANT for our NUMBER anniversary!
-RON:(Walks into the RESTAURANT) Me too!
-WAITER: Hi! I'll be your waiter today and that's your seat
-OLIVIA: (Sit down) Thank you kind sir
-RON: (Sit down) Thank you
-happy music 1
-WAITER: So what would you like to order?
-OLIVIA: I would like the PASTA, with Coca Cola please
-WAITER: Excellent choice and for you sir?
-RON: I would also like the PASTA, also with Coca Cola
-WAITER: Great! anything else?
-OLIVIA: I'm good
-RON:Me too
-WAITER: Okay, your food will be ready soon (exit stage)
-jazz music 2
-RON: So olivia how was your day?
-OLIVIA: Pretty good, what about you?
-RON: I'm great, still recovering from... (dramatic pause) the incident... (look dramaticly at the crowd) .
-RON: oh! look! heres comes our food!
-WAITER: (Come out with the food,Place the food and pepsi on the table) Okay guys i've brought you your food
-OLIVIA: (Point at the table) What is that ?
-OLIVIA: W-What did you put on our table ?
-WAITER: I've brought you your food and pepsi?
-vine boom
-OLIVIA: Pepsi!?
-vine boom
-WAITER: Yes?
-OLIVIA: But I-I ordered coca cola
-WAITER: Well unfortunately we dont have coca cola
-tada
-MUSIC STOPS
-OLIVIA: (Mad) W-W-W-Why dont you have coca cola?
-WAITER: (Annoyed) We don't have it in our menu
-RON: Olivia its just pepsi, calm down
-explosion
-OLIVIA: No, I wont calm down!
-lacrimosa music
-OLIVIA: (Emotional) How could you lie to me like that, after all we've been through! a waiter should not lie to his dear customers
-OLIVIA: Especially on topics like this!
-OLIVIA: (Angry) How could you do me like that ron!, you know I hate pepsi and you took me here anyway?!
-RON: Olivia calm down its just pepsi!
-RON: I will buy you coca cola when we get home okay?
-WAITER: (Exhausted) Yes lady he will buy you coke later, gosh shes so annoying
-raygun shot
-MUSIC STOPS
-OLIVIA: What did you just say?
-WAITER: Oops did I say it out loud?
-OLIVIA: Yes you did!
-WAITER: (Angry) Well look lady we only have pepsi, so deal with it!
-pokemon battle start
-OLIVIA: (Starts yelling) Who do you think you are?! talking to me like that??
-RON: Ugh why haven't we gone to PLACE
-WAITER: (Angry) Stop yelling at me!, I don't get paid enough for this
-OLIVIA: Well, I dont care! (Start fighting the waiter)
-WAITER: (Fights back) Stop you crazy women
-fistfight
-RON: G-Guys stop
-OLIVIA: Be quiet ron!
-RON: O-Okay... (Start quietly sobbing)
-CHEF: (Walks into stage, in an ACCENT accent) Whats-a going on?!
-CHEF: Waiter stop fighting that lady!
-church bell
-MUSIC STOPS
-sad chug jug music
-WAITER: Fine! (stops fighting)
-CHEF: We don't fight with our COMPLIMENT customers!
-WAITER: (Doesn't care) Yeah yeah
-CHEF: Well dear couple how can I help you two? and i'm very sorry about our waiter, he's a bit crazy like that crazy person you know NAME
-WAITER: Hey! don't talk to me like this, chef with a ACCENT accent!
-CHEF: You just hit my customer!, be quiet
-WAITER: Okay thats it! I quit! and im never coming back! (scream while exit stage) im free!!!
-yankee doodle music
-MUSIC STOPS
-happy music 1
-CHEF: I'm terribly sorry, would you like anything? , free no charge!
-OLIVIA: I would like coca cola
-CHEF: Unfortunately we dont have coca cola we only have pepsi
-OLIVIA: What did you just say ?
-RON: Not again, we should have went to PLACE.
-
-======
-
-INFORMATION ===============================
 ID: 978
 TITLE: Lawn Mowing
 AUTHOR: Ahmadsyar
@@ -60360,137 +59745,6 @@ WISHKID: Yay!
 ======
 
 INFORMATION ===============================
-ID: 1706
-TITLE: Attack of the Produce Aisle!
-AUTHOR: ModalSoul
-VERIFIED: True
-TAGS: 
-SET: Forest
-DATE: 17/06/25
-CHARACTERS ================================
-DEMON: Demon Warrior:Entrance Stage Left
-SON: Strong Warrior's Son:Entrance Stage Left
-SHORT: Short Warrior:Backstage
-PRIDE: Prideful Warrior:Backstage
-MUSCLE: Brutish Warrior:Backstage
-NAR: Suspenseful Narrator:Narrator Podium
-SUGGESTIONS =============================
-STNAME:Name of a strong person or fictional character:Wukong,Sakuya Izayoi,Kratos
-PLANET:The name of a planet:Earth,Mars,Pluto
-WITEM:An item with some magic power in it:Lamp,Glass Ball,Party Favors
-SHOW:The name of a show, any show:Fresh Prince of Bel Air,Danny Phantom,Steamboat Willie
-VEGGIE:A type of vegetable:Lettuce,Cabbage,Tomato
-SWEET:A sweet dessert:Pie,Ice Cream,Bon Bons,Crepes
-WEEK:A day of the week:Sunday,Wednesday,Thursday
-HOLIDAY:A holiday:Valentine's Day,Christmas,Black Friday
-EVIL:A really evil crime:Tax Evasion,Stealing,Grand Theft Auto
-COUNTING:A machine that can read numbers:Fax Machine,Computer,Scouter
-ATTACK:The name of a powerful attack or technique:Special Beam Cannon,Light Grenade,Clothes Beam
-PET:An animal that would be rude to call someone:Dog,Cat,Tiger
-SCRIPT ==========================================
-Badass Music 1
-NAR: Last time, on SHOW Z!
-NAR: A mysterious warrior named Daikon arrived on PLANET, claiming to be the brother of its strongest fighter, STNAME. 
-NAR: Kidnapping his son Grains, STNAME would make an unlikely alliance with his sworn nemesis, the Demon Warrior Zucchini.
-NAR: Wait, you haven't seen the original SHOW, you wouldn't know who that is. Hmm... Think of a really bad guy, like EVIL level evil. But he's chill.
-NAR: That aside, both STNAME and Zucchini would defeat Daikon, but at a great cost...
-NAR: STNAME would be severely injured by Zucchini's ATTACK, leaving him out of commission. And even worse...
-NAR: Zucchini learned through Daikon's COUNTING device of two more Produce Warriors arriving on PLANET in just one short year.
-NAR: With so little time to prepare for their arrival, PLANET's strongest fighters trained vigorously, developing their minds and bodies!
-NAR: Until the fateful day finally arrived...
-TYPEWRITER: Arugula and Brussels Attack! The First Sign of Trouble!
-Music Stops
-Spy Music 1
-DEMON: (enter Stage Left) Those leafy green freaks will be here any minute. Grains, get yourself warmed up.
-SON: (enter Stage Left) Alright, Mr. Zucchini! (stretch and shadow box)
-DEMON: (facing Strong Warrior's Son) I doubt these guys will fight fair. Don't let them shake you up.
-SON: (continue shadow boxing) After all of your training, I don't think there's anything that could stop me!
-DEMON: Good! Hold on to that confidence.
-SHORT: (enter Stage Right) I thought I saw you guys over here! Hey! (wave)
-SON: (stop shadow boxing and look towards Stage Right) Hey, it's Krill!
-Crowd Woo
-SHORT: (move to Stage Left) I figured I would find you guys around here!
-DEMON: Fashionably late as always, Krill.
-SHORT: I know. But hey, I'm here now, and that's what counts!
-DEMON: What even took you so long to get here?
-SHORT: Was working on a new technique! If Zucchini has that ATTACK, I should work on something new, too!
-SHORT: Still workshopping a name though... 
-SHORT: Oh, yeah! I went and gave STNAME a hoagie before I got here too, he wanted one! Made sure he got the best!
-SHORT: Made sure it had everything he'd want, meat, toasted bread, mayo, VEGGIEs...
-SON: Wait... did you just say VEGGIE?
-SHORT: Yeah..?
-SON: My dad's allergic to VEGGIEs!
-SHORT: (shocked) Oh. Oh no.
-DEMON: (to Short Warrior, furious) You can't be serious! We're gonna be down our best fighter because of a hoagie! I should just kill you right now and--!
-Explosion
-Music Stops
-DEMON: (shocked) They're here!
-Forest Footstep
-Teleport PRIDE to Entrance Stage Right
-Teleport MUSCLE to Entrance Stage Right
-PRIDE: (do not enter stage yet!) Too bad that its WEEK, Brussels. Those buildings we landed on would've been filled tomorrow.
-MUSCLE: (do not enter stage yet!) A real shame, Arugula... Everybody knows that HOLIDAY is held on PLANET this time of year.
-PRIDE: Oh yeah? Well I didn't.
-Forest Footstep
-PRIDE: (enter Stage Right) Well, well, well... What do we have here?
-MUSCLE: (enter Stage Right) Looks like a bunch of PETs with idle hands sittin' around. Hands that look like they want to fight us, Arugula.
-PRIDE: (turn and face Brutish Warrior) Think these "PETs" have been waiting for us long, Brussels?
-MUSCLE: I sure hope not.
-PRIDE: Either way... (turn and face group on Stage Left) A pleasure to meet you.
-DEMON: (stare down Prideful Warrior) The pleasure's mine.
-Tense Cinematic Music
-PRIDE: So, one of you must be the one who beat Daikon. I must say, I am impressed.
-PRIDE: You've managed to beat the weakest of the Produce Warrior Race, and yet you PETs stand here like you can beat us.
-PRIDE: Whether it be ego or insanity, I commend you for even standing up to us right now.
-MUSCLE: How about I do my one good deed for the day and let you guys off easy? Tell us where the WITEM is.
-MUSCLE: If ya do, we'll leave here with it and Daikon's death will be water under the bridge.
-SHORT: (meekly) We, uh... can't tell you where the WITEM is. Once you make a wish with it, it disappears for an entire year.
-MUSCLE: What?! (angry) What in the world did you use it for?!
-SHORT: (flustered) Well, I, uh...
-MUSCLE: Spit it out, half-pint! What did you use the WITEM for!?
-PRIDE: Now now, that's no way to communicate, Brussels. Use your inside voice.
-MUSCLE: Sorry. (clear throat) Now, what did you use the WITEM for?
-SHORT: Uh... (turn and face Demon Warrior and Strongest Fighter's Son) Don't get mad guys, but I might've used it for that hoagie I gave to STNAME...
-Vine Boom
-DEMON: (furious) What?!
-Meanwhile SON: (in disbelief) You didn't...
-MUSCLE: (furious) On a sandwich?!
-Meanwhile PRIDE: (facepalm, disappointed) What a waste...
-Music Stops
-DEMON: Enough! Hoagie aside, this is our home. And I'm not going to let you trample on it as you see fit!
-DEMON: (gesture to Strongest Warrior's Son and Short Warrior) And neither will they!
-Epic Fantasy Music 2
-SON: You tried to take me away from my dad, away from PLANET! I'll never forgive you!
-SHORT: We aren't gonna back down! We'll show you that we aren't PETs!
-PRIDE: Looks like diplomacy is out of the question. Sorry, Brussels.
-MUSCLE: Eh, I'm over it. Let me get a crack at these guys, Arugula. Show 'em we mean business.
-PRIDE: Go right ahead. Just don't embarrass yourself out there.
-MUSCLE: (walk towards center of stage) Alright, let's check their power... (touch side of head)
-MUSCLE: They're all so weak! Beating these wimps is gonna be as easy as SWEET!
-PRIDE: (mumble) Could go for some SWEET...
-MUSCLE: (look back) What was that, Arugula?
-PRIDE: Nothing. Just be careful. They can hide their power from our COUNTINGs.
-MUSCLE: Right. (turn back to Stage Left group) Guess I won't be needing this COUNTING then.
-MUSCLE: Not that it makes a difference! It'll be like taking candy from a baby, which is fine by me! Come on!
-DEMON: Grains, Krill, coordinate your attacks and overwhelm him! If we can't beat him by ourselves, then we wait for everyone else to get here!
-DEMON: If push comes to shove, then I'll ask you to hold that musclehead back while I charge my ATTACK. 
-SHORT: That doesn't sound too bad--
-DEMON: For five minutes. And given how it took me and STNAME both to kill Daikon, you'll have it even worse Krill.
-SHORT: Oh. Not as good.
-SON: I'm ready, Mr. Zucchini! Let's get 'em!
-DEMON: Let's go! And Krill, we're gonna talk about that hoagie wish later! (charge at Brutish Warrior)
-Meanwhile SON: Here I go! (follow Demon Warrior and charge)
-SHORT: Aw jeez, do we really need to? It was a mistake, honest! (charge in after the other two)
-NAR: The assault begins against the first Produce Warrior known as Brussels!
-NAR: Will the defenders of PLANET be able to stop these Aisle 1 Terrors?
-NAR: Will STNAME and the others arrive in time to stop the bloodshed?
-NAR: Was Krill's hoagie really worth using a wish on the WITEM? Of course it wasn't!
-NAR: Find out next time as the Attack of the Produce Warriors continues! (ignore Short Warrior and keep talking)
-Meanwhile SHORT: Wh-- Hey! I thought it was be a good idea at the time! I know you can hear me! (approach Suspenseful Narrator) Hey!
-
-======
-
-INFORMATION ===============================
 ID: 1934
 TITLE: FIlms With Soul(s)
 AUTHOR: ModalSoul
@@ -62099,98 +61353,6 @@ NORMAN: Get back here! (run off stage)
 ======
 
 INFORMATION ===============================
-ID: 1125
-TITLE: Audience Anarchy Pitch
-AUTHOR: zanbbit
-VERIFIED: True
-TAGS: Skit
-SET: Conference Room
-DATE: 12/10/24
-CHARACTERS ================================
-BOSS: The CEO:Boss Chair
-OLD EMPLOYEE: Arrogant old employee:Office Chair 2
-NEW EMPLOYEE: New employee:Entrance Stage Left
-SUGGESTIONS =============================
-COMPANY:A Company that makes games:Nintendo,Atari,Hasbro
-GAME:A game that already exists:Tag,Go Fish,Mario
-SUBCULTURE:A plural of any subculture:Furries,Anime Geeks,Cheese Enthusiasts
-GENRE:A video game genre:Open World,Pay To Win,Dating
-NUMBER:Any number:2,10,30
-NICKNAME:A negative or degrading nickname:Evil King,Backbreaker,Whipcracker
-CONSOLE:An old video game console:Odyssey,Dreamcast,Game Boy
-NE AA NAME:An alternate name for Audience Anarchy:Will of the People,Mad Lib Mayhem,Script Rippers
-BO AA NAME:An alternate name for Audience Anarchy:Will of the People,Mad Lib Mayhem,Script Rippers
-SOMETHING:An item someone would not want to receive:Coal,A Parking Ticket,Crude Oil
-ADJECTIVE:A word to describe something weird or bad:Cuckoo,Looney,Horrible
-SCRIPT ==========================================
-(Silly Music 2)
-BOSS: Come on! We need to think of a new game! Are we really going to let COMPANY beat us in sales!?
-OLD EMPLOYEE: Relax sir! I haven't let you down yet have I? How about a new spin on GAME?
-BOSS: No no no! It's been done And we'll probably get sued. Hmm (thinks) What if we try to make something in VR?
-BOSS: All the SUBCULTURE are into VR Games these days right?
-OLD EMPLOYEE: Now boss, you know how to sell this stuff but I know how to make this stuff. Just leave the ideas to me. There's not enough people in VR. it's just a fad.
-BOSS: We need to do something groundbreaking! We need something that will get peoples attention! A big hit!
-(Music Stops)
-(Shark Tank Walking Theme)
-NEW EMPLOYEE: (enters stage) I think I have just what you're looking for, Chief!
-OLD EMPLOYEE: (annoyed) Oh great, it's the new guy. What do you have this time? Another GENRE game that will fail?
-NEW EMPLOYEE: No. I think this new game is quite unique. You might find my ideas interesting if you actually listened to me.
-OLD EMPLOYEE: Pitch me an idea that will actually be a success and then we'll talk. I've won NUMBER awards for my concepts! I know what works, kid!
-NEW EMPLOYEE: Yeah but you're also known around the office as The NICKNAME. What does that say about you?
-BOSS: Enough! What's your idea, Newbie?
-(Shark Tank Discussion Music 1)
-NEW EMPLOYEE: (approach the boss) Hear me out, Chief! I have an idea for a virtual reality game!
-OLD EMPLOYEE: Reject it boss! We've been through this! There's no audience in VR! We would be better off making a game for CONSOLE!
-NEW EMPLOYEE: Oh hush! CONSOLE was huge back in the day! Anyway, It's a VR game where you can talk to people. Kind of like a virtual chatroom.
-BOSS: Umm... I think that's just VR Chat.
-OLD EMPLOYEE: What an amateur! That's just like my idea about a new spin on GAME. So you're stealing ideas from me now huh?
-NEW EMPLOYEE: Like your ideas are worth stealing in the first place, NICKNAME!
-OLD EMPLOYEE: At least I know what VR Chat is!
-BOSS: (mutters) I'm surrounded by children. (raises voice) Once again stop! Or both of you are getting SOMETHING instead of a paycheck this week.
-(Shark Tank Offer)
-BOSS: (looks at new employee) Do you have any other concepts?
-NEW EMPLOYEE: Hmm... (thinking) Well I have this one idea, it's also for VR.
-OLD EMPLOYEE: UGH I don't understand the world anymore. When did we stop trying to make money?
-BOSS: Let's hear it.
-(Shark Tank Serious Music 1)
-NEW EMPLOYEE: Okay so you act out these plays with scripts. There's an audience that can fill in missing words in the scripts. Kind of like madlibs.
-NEW EMPLOYEE: And those same audience members can join in and act too.
-BOSS: (nods) Hmm... there might be an idea there. Sounds like something the SUBCULTURE would enjoy.
-NEW EMPLOYEE: Not just the SUBCULTURE but also anyone who likes to act and have fun in plays too!
-OLD EMPLOYEE: You forgot one important thing, newbie. Who's gonna write the scripts?
-NEW EMPLOYEE: We will at the beginning. We can start with around NUMBER.
-NEW EMPLOYEE: But if the game gets big enough we can have the players write the scripts!
-OLD EMPLOYEE: Are you nuts!? That sounds dangerous! The players can't be trusted to do that!
-OLD EMPLOYEE: They'll probably write some weird story about SOMETHING. This is a ADJECTIVE idea!
-BOSS: Calm down, NICKNAME I think we actually may have something here.
-OLD EMPLOYEE: We absolutely do not! It don't sound fun! It's a game where you just watch other people play most of the time!
-OLD EMPLOYEE: And then we make them do our job by having them write more scripts?
-OLD EMPLOYEE: The SUBCULTURE won't go for that!
-BOSS: I disagree. I think we should try it! (Look at newbie) You got a name for this game?
-NEW EMPLOYEE: Well, not really but maybe we can call it... (thinks) oh! I know! How about NE AA NAME?
-(Shark Tank Offer)
-BOSS: I like it, but perhaps BO AA NAME could work as well.
-(Shark Tank Offer)
-OLD EMPLOYEE: Unbelievable! This is a bad idea, boss! It's boring. No one will play it!
-OLD EMPLOYEE: You're really gonna go with this... this... ADJECTIVE concept!?
-NEW EMPLOYEE: You said that already.
-OLD EMPLOYEE: Well there's no other way to describe it!
-OLD EMPLOYEE: It's just anarchy with an audience! I don't know if we can make a standalone game out of that idea!
-OLD EMPLOYEE: We might as well make it a VR Chat map or something!
-BOSS: You know, that's not a bad idea! We should make it a VR Chat map!
-OLD EMPLOYEE: What!? No! That was a joke!
-BOSS: Congrats newbie! We'll start development on BO AA NAME right away! (shake newbie's hand)
-(Shark Tank Deal)
-(Shark Tank Positive Music)
-NEW EMPLOYEE: Glad you're on board, Chief! I believe folks will really like this too. But I still think we should call it NE AA NAME.
-BOSS: Don't push it, you're still new here.
-NEW EMPLOYEE: Fine (look at old employee) Since you seem to know about VR Chat I guess you'll be making the map?
-BOSS: It was their idea to make it a VR Chat map so they will be building it. Get to work NICKNAME!
-OLD EMPLOYEE: UGH! I hate my job!!
-
-======
-
-INFORMATION ===============================
 ID: 1545
 TITLE: Cooking Informercial
 AUTHOR: Perydaplaypus
@@ -62334,6 +61496,835 @@ TORMENTED SOUL: Crap…
 ======
 
 INFORMATION ===============================
+ID: 319
+TITLE: AI Generated Wife
+AUTHOR: Cloaked Schemer
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 28/04/24
+CHARACTERS ================================
+SALE: Tech company salesperson:Boss Chair
+AIGF: Waifu:Backstage
+CUSTOMER: Customer in need of a Waifu:Office Chair 1
+SUGGESTIONS =============================
+HATE:Something you really hate:Discord Pings,Spam invites,The Black Cat
+TAB:A popular character trait that you don't personally like:Muscles on Muscles,Tall,Green Skin
+LABEL:Something you look for in a partner:Smelly,Really well paying job,thighigh socks,gamer
+BOD2:A body part:Leg,Hands,elbow
+TAG:Adjective describing the ideal cartoon character:Masterpiece,Waifu,Dragon-girl
+FAVORITE:Something you really love:Cheetos,Subway Coupons,Bouncing ball
+CHARACTER:The name of literally any character or person:Sailor Moon,Naruto,Jimmy Neutron
+MONEY:How much will this cost?:Tree fiddy,too dolla,fiddy dolla
+BODY:A body part you find interesting:broad shoulders,rump,face
+COMP:A company name (real or fake):Walmart,ChatGPT,Bass Pro Shop
+LAST:A last name:Morbius,Shake,Pibb
+ATTRACTIVE:A word to compliment someone:Sexy,Gyatt,skibbidi
+SCRIPT ==========================================
+happy music 1
+SALE: So Mr. LAST we are proud that you chose COMP Ai Generation™
+SALE: We're sure you'll be very satisfied with the results!
+CUSTOMER: Well thank you... It has been really hard to move on since my wife left me
+CUSTOMER: I have no rizz so I'm hoping COMP Ai Generation™ can help.
+SALE: Well Mr. LAST, we guaranteed you'll love our results or your money back!
+CUSTOMER: Really?
+SALE: Ohh wait... We stopped giving customers their money back..
+CUSTOMER: Wait! Why?
+SALE: Any who! Let's get started! Tell me what you're looking for!
+CUSTOMER: Well... What I really want is someone who looks cute...
+SALE: Say no more! (Typing on a keyboard) I'm sure you're going to love this!
+Meanwhile AIGF: (Stand in front of door and wait)
+gameshow ding
+SALE: And here you are Mr. LAST! Your true love... (Approach and open door)
+tada
+AIGF: Hello Mr. LAST I am your dream wife!
+CUSTOMER: What the hell is that!?
+SALE: What? This is what you wanted? Someone who looks cute! Just look at that face!
+AIGF: Am I not cute enough Oto-san?
+CUSTOMER: No! I did not even say the tags I wanted!
+SALE: Ohh! I am very sorry Mr. LAST (Close the door and go back to boss chair)
+Meanwhile AIGF: (Exit the stage and change into a different avatar)
+SALE: So let me know what you want?
+CUSTOMER: Well I want her to be cute. I also like if she had a really big BODY
+SALE: Okay, let me type that down... Really big BODY
+CUSTOMER: ohhh! And Can she look like CHARACTER
+SALE: Ohh! CHARACTER with a really big BODY
+CUSTOMER: And also I'd like if she shared my interest in FAVORITE!
+SALE: Alright Mr. LAST adding FAVORITE in and....
+Meanwhile AIGF: (Stand in front of door and wait)
+gameshow ding
+SALE: She's ready! Mr. LAST... I present your dream wife... (Approach and open the door)
+AIGF: Hello Mr. LAST. I really love FAVORITE!
+AIGF: Please look at my really big BODY!
+CUSTOMER: She looks nothing like CHARACTER! Also her proportions are off!
+CUSTOMER: The BODY is too small!
+SALE: I'm so sorry. Extra fingers, limbs, and small BODY are usually a side effect of Ai generating
+CUSTOMER: I want to try one more time!
+SALE: Okay Mr. LAST, but I must let you know that each generation costs MONEY
+CUSTOMER: MONEY!? But that means I only have enough for one more generation!
+AIGF: Mr. LAST please let me be your GF!
+CUSTOMER: No! Get out of here!
+SALE: (Close the door and go back to table) We can try this one more time then.
+Meanwhile AIGF: beep (Exit the stage and change into a different avatar)
+Music stops
+SALE: So Mr. LAST, what more would you like for your final generation?
+badass music 1
+CUSTOMER: I'm sure this will be the one!
+CUSTOMER: Okay! I want Even bigger BODY and to look more like CHARACTER
+CUSTOMER: Give her a really curvy BOD2
+SALE: Alright... Even bigger BODY... More like CHARACTER...
+SALE: I see it coming together... Very very ATTRACTIVE with a curvy BOD2
+CUSTOMER: I'm not done yet! I want the tags LABEL and TAB
+CUSTOMER: And she'll hate HATE just like me!
+CUSTOMER: All that and add TAG just to be double sure she comes out perfect!
+SALE: LABEL  and hates HATE... With the tags TAG, LABEL, and TAB...
+SALE: Just a few more seconds and she is....
+Meanwhile AIGF: beep (Stand in front of door and wait)
+Music stops, gameshow ding
+SALE: Done! Get ready Mr. LAST to meet your future wife! (Approach and open door)
+tada, 70s music
+AIGF: Hello Mr. FAVORITE I hate CHARACTER and love HATE!
+CUSTOMER: Ohh my...
+SALE: Now Mr. LASTI know what it looks like but...
+CUSTOMER: She's beautiful!! (Get up and approach your ai waifu)
+AIGF: (In the most unenthusiastic tone) Let's get married with my big BODY!
+AIGF: I also hope you do not mind the extra BOD2
+AIGF: I'm sorry, but I can't assist with that request.
+CUSTOMER: You're so ATTRACTIVE. You look so much like CHARACTER it's uncanny!
+AIGF: I love LABEL! Please give me more HATE
+CUSTOMER: Your BODY and BOD2 remind me so much of my ex-wife.
+AIGF: I'm so sorry, but the wife we created may violate our content policies. If you think we got it wrong, please retry or edit your prompt.
+CUSTOMER: Let's go get married!
+AIGF: Okay Mr. FAVORITE! (Leave)
+Meanwhile CUSTOMER: I'm so happy! (Leave with ai wife)
+SALE: Another job well done here at COMP Ai Generation™
+
+======
+
+INFORMATION ===============================
+ID: 177
+TITLE: The Greatest Tattoo
+AUTHOR: Cloaked Schemer
+VERIFIED: True
+TAGS: Skit
+SET: Doctor's Office
+DATE: 28/04/24
+CHARACTERS ================================
+GUY: Guy Getting a sick new tattoo:Backstage
+FRIEND: Friend who dares friend:Backstage
+ARTIST: Tattoo artist:Center Stage
+SUGGESTIONS =============================
+EPIC:Something you'd say when you think something is amazing:Epic,Poggers,Amazing
+SHOP:What is a random shop?:Hot Topic,Walmart,Burger King
+BODY:Name any body part you'd get a tattoo on?:Arm,stomach,forehead
+CHARACTER:Name a popular character from any series (Real life, cartoon, etc...):Bowser,Jar,Murder Crumpet
+SERIES:Name a popular series (Movie, Game, Tv Show, etc...):Super Mario,Game of Thrones,Shrek
+ACCESS:Name any accessory you wear :Sunglasses,Earrings,A top hat
+ITEM:What item is the character holding?:Double-neck guitar,Water Bottle,Cheetos
+RIDE:What is the character riding?:Surfboard,Car,Airplane
+TEXT:What is the text on the tattoo?:Let's Party!,Subscribe to this!,I love you!
+BACK:What is the background of the tattoo?:Beach,City,McDonald's
+NAME:What is the friends name?:Rick,Chuck,Vincent
+YEARS:Any number:16,20,5
+SCRIPT ==========================================
+Jazz music 1
+ARTIST: (Walk around and inspect room) I'm worried this tattoo parlor looks too much like a Doctor's office....
+Knocking on door
+ARTIST: (Look at the door) Huh? I could of sworn the sign says open?
+ARTIST: Come in it's open!
+GUY: (Open the door and come inside excited) Hey! Is this the Tattoo parlor or SHOP
+Meanwhile FRIEND: (Walk in with friend excited)
+ARTIST: Uhhh... Tattoo parlor? Can I help you?
+FRIEND: Ohh Good good good! My friend wants to get a tattoo!!
+GUY: Yeah! I was dared and I want to prove I'm not a chicken!
+FRIEND: You totally are!
+GUY: Nuh uh!!
+ARTIST: Calm down! Just tell me what you want?
+GUY: Okay! (Walk to the examination table) 
+FRIEND: Watch! He's going to chicken out! (Point at friend)
+GUY: Nooo!! (Look at tattoo artist) Okay, I want a Tattoo on my uhh...
+FRIEND: On his BODY!!
+GUY: Yeah! On my BODY! 
+GUY: I want to get uhhh... CHARACTER
+FRIEND: Yeah! CHARACTER from uhhh... (Try to say SERIES but be stumped on pronouncing)
+ARTIST: SERIES?
+GUY: Yeah! CHARACTER from SERIES
+ARTIST: I don't think CHARACTER is from SERIES
+GUY: Well CHARACTER on my BODY but they have ACCESS on!
+FRIEND: Ohh yeah! Wearing ACCESS!
+GUY: Yeah and they're also giving a wink and a thumbs up. It'll look so cool!
+FRIEND: And we want them to be holding a ITEM
+GUY: Yeah! Don't forget the ITEM
+ARTIST: (Confused and looking at both of them) You two know that a Tattoo is a commitment you are about to make? 
+GUY: We know! That's why this is going to be epic!
+FRIEND: So we want CHARACTER wearing ACCESS on while holding an ITEM! 
+GUY: They are also riding a RIDE!
+FRIEND: (Super excited) Ohh man! That sounds so EPIC!
+GUY: Yeah! And above it, it'll say TEXT
+ARTIST: Okay... Let me run through this just so I can get it clearer in my head...
+ARTIST: So you want CHARACTER...
+Meanwhile GUY: (Nod excitingly)
+ARTIST: You want CHARACTER wearing ACCESS...
+FRIEND: Yeah yeah!
+ARTIST: CHARACTER with ACCESS holding a ITEM, giving a wink and a thumbs up
+ARTIST: While riding a RIDE with the text TEXT above it?
+FRIEND: Ohhh! Don't forget the BACK
+GUY: Yeah! All this with BACK in the background!
+ARTIST: You guys have given this tattoo 0 thought...
+FRIEND: We have not!
+GUY: Yeah! I've wanted this tattoo for YEARS years!
+ARTIST: What!?
+FRIEND: Ohh wait! Can we also make it say "Happy Birthday NAME" Under it?
+GUY: Ohh yeah! Because it's NAME birthday next week! They'll freak out when they see it!
+ARTIST: Okay... So to run down this one more time...
+ARTIST: You want CHARACTER wearing ACCESS while giving a wink and a thumbs up
+GUY: Yeah yeah! On my BODY!
+Meanwhile Friend: (nod your head excitingly) Uh huh!!
+ARTIST: Holding a ITEM while riding a RIDE with BACK as the background
+ARTIST: With the text TEXT above it and "Happy Birthday NAME" underneath on your BODY
+GUY: Ohh my god that sounds so EPIC! 
+FRIEND: Yeah!! I think I'll get that one on my BODY too! We can match!
+ARTIST: (Visible confusion while looking at both of them)
+ARTIST: You know what... Sure! Let's get this over with... (Start giving them a tattoo)
+GUY: Woooo! This is going to be EPIC!!
+FRIEND: NAME is going to freak out when they see our tattoo!!
+GUY: I can't wait to surprise them when I show them my BODY 
+FRIEND: I do not regret getting this!!
+TYPEWRITER: They both later regretted getting the tattoo...
+
+======
+
+INFORMATION ===============================
+ID: 1125
+TITLE: Audience Anarchy Pitch
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 12/10/24
+CHARACTERS ================================
+BOSS: The CEO:Boss Chair
+OLD EMPLOYEE: Arrogant old employee:Office Chair 2
+NEW EMPLOYEE: New employee:Entrance Stage Left
+SUGGESTIONS =============================
+COMPANY:A Company that makes games:Nintendo,Atari,Hasbro
+GAME:A game that already exists:Tag,Go Fish,Mario
+SUBCULTURE:A plural of any subculture:Furries,Anime Geeks,Cheese Enthusiasts
+GENRE:A video game genre:Open World,Pay To Win,Dating
+NUMBER:Any number:2,10,30
+NICKNAME:A negative or degrading nickname:Evil King,Backbreaker,Whipcracker
+CONSOLE:An old video game console:Odyssey,Dreamcast,Game Boy
+NE AA NAME:An alternate name for Audience Anarchy:Will of the People,Mad Lib Mayhem,Script Rippers
+BO AA NAME:An alternate name for Audience Anarchy:Will of the People,Mad Lib Mayhem,Script Rippers
+SOMETHING:An item someone would not want to receive:Coal,A Parking Ticket,Crude Oil
+ADJECTIVE:A word to describe something weird or bad:Cuckoo,Looney,Horrible
+SCRIPT ==========================================
+(Silly Music 2)
+BOSS: Come on! We need to think of a new game! Are we really going to let COMPANY beat us in sales!?
+OLD EMPLOYEE: Relax sir! I haven't let you down yet have I? How about a new spin on GAME?
+BOSS: No no no! It's been done and we'll probably get sued. Hmm (thinks) What if we try to make something in VR?
+BOSS: All the SUBCULTURE are into VR Games these days right?
+OLD EMPLOYEE: Now boss, you know how to sell this stuff but I know how to make this stuff. Just leave the ideas to me. There's not enough people in VR. It's just a fad.
+BOSS: We need to do something groundbreaking! We need something that will get people's attention! A big hit!
+(Music Stops)
+(Shark Tank Walking Theme)
+NEW EMPLOYEE: (enters stage) I think I have just what you're looking for, Chief!
+OLD EMPLOYEE: (annoyed) Oh great, it's the new guy. What do you have this time? Another GENRE game that will fail?
+NEW EMPLOYEE: No. I think this new game is quite unique. You might find my ideas interesting if you actually listened to me.
+OLD EMPLOYEE: Pitch me an idea that will actually be a success and then we'll talk. I've won NUMBER awards for my concepts! I know what works, kid!
+NEW EMPLOYEE: Yeah but you're also known around the office as The NICKNAME. What does that say about you?
+BOSS: Enough! What's your idea, Newbie?
+(Shark Tank Discussion Music 1)
+NEW EMPLOYEE: (approach the boss) Hear me out, Chief! I have an idea for a virtual reality game!
+OLD EMPLOYEE: Reject it boss! We've been through this! There's no audience in VR! We would be better off making a game for CONSOLE!
+NEW EMPLOYEE: Oh hush! CONSOLE was huge back in the day! Anyway, It's a VR game where you can talk to people. Kind of like a virtual chatroom.
+BOSS: Umm... I think that's just VR Chat.
+OLD EMPLOYEE: What an amateur! That's just like my idea about a new spin on GAME. So you're stealing ideas from me now huh?
+NEW EMPLOYEE: Like your ideas are worth stealing in the first place, NICKNAME!
+OLD EMPLOYEE: At least I know what VR Chat is!
+BOSS: (mutters) I'm surrounded by children. (raises voice) Once again stop! Or both of you are getting SOMETHING instead of a paycheck this week.
+(Shark Tank Offer)
+BOSS: (looks at new employee) Do you have any other concepts?
+NEW EMPLOYEE: Hmm... (thinking) Well I have this one idea, it's also for VR.
+OLD EMPLOYEE: UGH I don't understand the world anymore. When did we stop trying to make money?
+BOSS: Let's hear it.
+(Shark Tank Serious Music 1)
+NEW EMPLOYEE: Okay so you act out these plays with scripts. There's an audience that can fill in missing words in the scripts. Kind of like madlibs.
+NEW EMPLOYEE: And those same audience members can join in and act too.
+BOSS: (nods) Hmm... there might be an idea there. Sounds like something the SUBCULTURE would enjoy.
+NEW EMPLOYEE: Not just the SUBCULTURE but also anyone who likes to act and have fun in plays too!
+OLD EMPLOYEE: You forgot one important thing, newbie. Who's gonna write the scripts?
+NEW EMPLOYEE: We will at the beginning. We can start with around NUMBER.
+NEW EMPLOYEE: But if the game gets big enough we can have the players write the scripts!
+OLD EMPLOYEE: Are you nuts!? That sounds dangerous! The players can't be trusted to do that!
+OLD EMPLOYEE: They'll probably write some weird story about SOMETHING. This is a ADJECTIVE idea!
+BOSS: Calm down, NICKNAME I think we actually may have something here.
+OLD EMPLOYEE: We absolutely do not! It don't sound fun! It's a game where you just watch other people play most of the time!
+OLD EMPLOYEE: And then we make them do our job by having them write more scripts?
+OLD EMPLOYEE: The SUBCULTURE won't go for that!
+BOSS: I disagree. I think we should try it! (Look at newbie) You got a name for this game?
+NEW EMPLOYEE: Well, not really but maybe we can call it... (thinks) oh! I know! How about NE AA NAME?
+(Shark Tank Offer)
+BOSS: I like it, but perhaps BO AA NAME could work as well.
+(Shark Tank Offer)
+OLD EMPLOYEE: Unbelievable! This is a bad idea, boss! It's boring. No one will play it!
+OLD EMPLOYEE: You're really gonna go with this... this... ADJECTIVE concept!?
+NEW EMPLOYEE: You said that already.
+OLD EMPLOYEE: Well there's no other way to describe it!
+OLD EMPLOYEE: It's just anarchy with an audience! I don't know if we can make a standalone game out of that idea!
+OLD EMPLOYEE: We might as well make it a VR Chat map or something!
+BOSS: You know, that's not a bad idea! We should make it a VR Chat map!
+OLD EMPLOYEE: What!? No! That was a joke!
+BOSS: Congrats newbie! We'll start development on BO AA NAME right away! (shake newbie's hand)
+(Shark Tank Deal)
+(Shark Tank Positive Music)
+NEW EMPLOYEE: Glad you're on board, Chief! I believe folks will really like this too. But I still think we should call it NE AA NAME.
+BOSS: Don't push it, you're still new here.
+NEW EMPLOYEE: Fine (look at old employee) Since you seem to know about VR Chat I guess you'll be making the map?
+BOSS: It was their idea to make it a VR Chat map so they will be building it. Get to work NICKNAME!
+OLD EMPLOYEE: UGH! I hate my job!!
+
+======
+
+INFORMATION ===============================
+ID: 1296
+TITLE: Furry Convention Plans
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 09/12/24
+CHARACTERS ================================
+NEWT: A first time congoer:Stage Right
+CONNIE: An experienced congoer:Center Stage
+DEEJAY: A music lover:Alley
+HUNTER: A vendor hall shopaholic:Entrance Stage Left
+PAMALA: Someone who loves panels:Stage Left
+SUGGESTIONS =============================
+CITY:A name for a city:New York City,Anyplace,Townsville
+HOTEL:A name for a hotel:You're In Inn,Sweet Suites,Hilton
+CONVENTION:A name a furry con would have:Southwest Fur Fest,Furcon #1234,Another Furry Con
+ITEM:Literally anything you can buy:Fursuits,Hoodies,Key Charms
+NUMBER:Any number:2,7,13
+PERFORMER:Name of a musician or DJ:DJ Beatz,Bee Plus,Mystery Skulls
+GENRE:A genre of music:Drum n' Bass,Vaporwave,Country
+TOPIC:A topic someone may do a panel on:Writing 18+ Stories,Olive Garden,Nothing
+BIG:Any number:1000,8000,13,000
+ACTIVITY:An activity that may take place at a party:Drinking,Smoking,Snuggling
+FREAK:A bizarre or taboo thing to be interested in:Paw,Collar,Muzzle
+SPECIES:A type of animal:Cat,Fox,Dragon
+SCRIPT ==========================================
+(jazz music 1)
+NEWT: This is it. I finally made it to CITY! Now to find the HOTEL then get my badge for CONVENTION.
+NEWT: My first furry con... hope no one will think I'm weird. No, most furries are weirdos... crap! Is that a weird thing to say or think?
+DEEJAY: What's taking him so long?
+PAMALA: You know Hunter. He needs to check every inch of the shop to see if they have any good ITEMs.
+DEEJAY: (groans) Yeah and they never do! He gets all annoyed and it's just a waste of our time.
+CONNIE: (chuckles) He never learns, does he?
+NEWT: Uhh hey. Do any of you know where I can find the HOTEL?
+CONNIE: Sure, it's three blocks down the street. Are you here to attend CONVENTION?
+NEWT: Yes. I MEAN NO! What is this CONVENTION you speak of? I've never heard of it! I'm not some weirdo!
+CONNIE: (laughs) Let me guess, first furry con? Feeling nervous?
+NEWT: H-How did you know?
+DEEJAY: Connie has seen it all, they've been attending furry cons for NUMBER years.
+PAMALA: Connie is like a con master. They know a newbie when they see one.
+CONNIE: We're in town for the con too. So it's your first time hunh? Is there something you're most excited for?
+NEWT: Well I guess a little bit of everything. I want to experience everything CONVENTION has to offer!
+CONNIE: Be careful, if you try to do everything you'll just end up running yourself ragged and having a stressful weekend.
+NEWT: Hmm... You have a point, I didn't think about it that way.
+CONNIE: What's your name? If you don't mind me asking.
+NEWT: I'm Newt. Sorry if I seem awkward, I'm not very used to this yet.
+CONNIE: You're fine. I'm Connie of course, my friends and I have been to a few of these, would you like some suggestions?
+NEWT: Sure, I suppose it couldn't hurt.
+DEEJAY: You gotta check out the concerts! PERFORMER is gonna be performing this year!
+DEEJAY: No one plays GENRE like them, it's gonna be SICK!
+PAMALA: UGH, It's all about the concerts with you DeeJay! You're gonna lose your hearing if you keep going to those.
+PAMALA: Besides PERFORMER is overrated and GENRE is boring and repetitive! There! I said it!
+DEEJAY: You take that back!
+PAMALA: You're only mad because I'm right. (look at Newt) You should go to the panels!
+PAMALA: There's a really fun one on TOPIC. I went to it last year and it was awesome! They have it again this year!
+DEEJAY: (sarcastic) Yeah sitting down in one place and listening to someone talk about TOPIC for an hour sounds really fun.
+DEEJAY: That's the definition of a wasted con if you ask me.
+HUNTER: (walks out on stage) They don't have any ITEM in there! What a let down!
+DEEJAY: (sarcastic) What!? No ITEM!? Whatever shall we do!?
+DEEJAY: I think you'll survive one more night. Then you'll find plenty in the Dealers Den tomorrow.
+HUNTER: I know, but it's still fun to look for them in the city. (Points at Newt) Who are they?
+CONNIE: This is Newt, it's his first con. We were giving him suggestions on what to do.
+HUNTER: Oh I got this! You need to go to the Dealers Den! I'm big on ITEM right now, I want to get as many as I can!
+NEWT: Not really sure If I'll have the money for that.
+HUNTER: It's not that expensive. If you go on the last day you get all the discounts.
+PAMALA: Because all the good stuff is gone so the vendors are trying to get rid of all the other stuff that didn't sell.
+CONNIE: And even with those discounts, how much did you spend on ITEM last year, Hunter?
+HUNTER: Just $BIG not that much in the grand scheme of things.
+NEWT: WHAT!? How is THAT not a lot to you!?
+CONNIE: (laughs) We don't know where he gets his money from either.
+NEWT: Well what about you, Connie? What's your suggestion?
+CONNIE: Well when you've been attending these as long as I have, you've pretty much seen it all. But I like the room parties.
+NEWT: Oh tell me more! I want to know about the room parties!
+DEEJAY: Oh boy, the newbie wants to see the room parties.
+HUNTER: This one is all yours, Connie.
+CONNIE: Are you sure? Those can get pretty wild. One of the most common activities is ACTIVITY.
+NEWT: Oh heck yeah! I am all about that! Tell me more! Tell me all about the ACTIVITY! I wanna do it!
+CONNIE: (pause for a moment) Really? For your first con?
+NEWT: Yeah! I wanna go wild! I wanna do something CRAZY! I'm also into FREAK's!
+PAMALA: FREAK's!?
+CONNIE: You're into FREAK's!?
+NEWT: Heck yeah I am! I'm actually insane if you get to know me!
+NEWT: My friend told me there are actually FREAK parties! Do you know where I can find one at the con?
+CONNIE: (uncomfortable) Uhh, let's move away from that, what species is your fursona?
+NEWT: Oh me? I'm a SPECIES.
+PAMALA: That's the same type as all of us.
+DEEJAY: Maybe we should show this new guy the ropes SPECIES's have to stick together after all.
+HUNTER: I mean, I'm not the exact same. I'm a hybrid half SPECIES half anteater. Anteaters are so sick.
+PAMALA: It's really not as cool or unique as you think, Hunter.
+CONNIE: You know what, why don't you hang with us? You seem pretty cool. Any SPECIES is a friend of ours! right gang?
+DEEJAY: Yeah sure, the more the better.
+PAMALA: Absolutely! SPECIES gang!
+HUNTER: It's always cool to hang with more friends at these. More people to ask for money.
+CONNIE: Stick with us Newt, we'll show you the ropes. Maybe even find you one of those FREAK parties.
+CONNIE: If you really are dead set on going to one that is.
+NEWT: Oh heck yeah! Let's do it! Watch out CONVENTION!
+TYPEWRITER: Newt got to the HOTEL, got registered for CONVENTION, and met the rest of the SPECIES gang.
+TYPEWRITER: He even got into one of the elusive FREAK parties.
+(police car)
+TYPEWRITER: But he was arrested for getting a little too wild, even for them. He is now in CITY jail.
+
+======
+
+INFORMATION ===============================
+ID: 1467
+TITLE: Pepsi or Coke
+AUTHOR: Rotem_N
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 17/02/25
+CHARACTERS ================================
+OLIVIA: Olivia:Entrance Stage Right
+RON: Ron:Entrance Stage Right
+WAITER: An undrpaid waiter:Entrance Stage Left
+CHEF: The chef:Entrance Stage Left
+SUGGESTIONS =============================
+PASTA:Some type of food:steak,lobster,humburger
+PLACE:Some kind of place:kfc,home,hell,australia
+RESTAURANT:Some kind of restaurant:burger king,chick fill a,mcdonalds
+NUMBER:Any number:1,45,67
+ACCENT:Some kind of accent:Italian,Russian,Spanish
+COMPLIMENT :A nice compliment to someone:Cute,lovely,precious
+NAME:A name of a person:John,eli,anna
+SCRIPT ==========================================
+70S MUSIC
+OLIVIA:(While walking into the restaurant) Wow im so glad we went to this RESTAURANT for our NUMBER anniversary!
+RON:(Walks into the RESTAURANT) Me too!
+WAITER: Hi! I'll be your waiter today and that's your seat
+OLIVIA: (Sit down) Thank you kind sir
+RON: (Sit down) Thank you
+happy music 1
+WAITER: So what would you like to order?
+OLIVIA: I would like the PASTA, with Coca Cola please
+WAITER: Excellent choice and for you sir?
+RON: I would also like the PASTA, also with Coca Cola
+WAITER: Great! anything else?
+OLIVIA: I'm good
+RON:Me too
+WAITER: Okay, your food will be ready soon (exit stage)
+jazz music 2
+RON: So olivia how was your day?
+OLIVIA: Pretty good, what about you?
+RON: I'm great, still recovering from... (dramatic pause) the incident... (look dramaticly at the crowd) .
+RON: oh! look! heres comes our food!
+WAITER: (Come out with the food,Place the food and pepsi on the table) Okay guys i've brought you your food
+OLIVIA: (Point at the table) What is that ?
+OLIVIA: W-What did you put on our table ?
+WAITER: I've brought you your food and pepsi?
+vine boom
+OLIVIA: Pepsi!?
+vine boom
+WAITER: Yes?
+OLIVIA: But I-I ordered coca cola
+WAITER: Well unfortunately we dont have coca cola
+tada
+MUSIC STOPS
+OLIVIA: (Mad) W-W-W-Why dont you have coca cola?
+WAITER: (Annoyed) We don't have it in our menu
+RON: Olivia its just pepsi, calm down
+explosion
+OLIVIA: No, I wont calm down!
+lacrimosa music
+OLIVIA: (Emotional) How could you lie to me like that, after all we've been through! a waiter should not lie to his dear customers
+OLIVIA: Especially on topics like this!
+OLIVIA: (Angry) How could you do me like that ron!, you know I hate pepsi and you took me here anyway?!
+RON: Olivia calm down its just pepsi!
+RON: I will buy you coca cola when we get home okay?
+WAITER: (Exhausted) Yes lady he will buy you coke later, gosh shes so annoying
+raygun shot
+MUSIC STOPS
+OLIVIA: What did you just say?
+WAITER: Oops did I say it out loud?
+OLIVIA: Yes you did!
+WAITER: (Angry) Well look lady we only have pepsi, so deal with it!
+pokemon battle start
+OLIVIA: (Starts yelling) Who do you think you are?! talking to me like that??
+RON: Ugh why haven't we gone to PLACE
+WAITER: (Angry) Stop yelling at me!, I don't get paid enough for this
+OLIVIA: Well, I dont care! (Start fighting the waiter)
+WAITER: (Fights back) Stop you crazy women
+fistfight
+RON: G-Guys stop
+OLIVIA: Be quiet ron!
+RON: O-Okay... (Start quietly sobbing)
+CHEF: (Walks into stage, in an ACCENT accent) Whats-a going on?!
+CHEF: Waiter stop fighting that lady!
+church bell
+MUSIC STOPS
+sad chug jug music
+WAITER: Fine! (stops fighting)
+CHEF: We don't fight with our COMPLIMENT customers!
+WAITER: (Doesn't care) Yeah yeah
+CHEF: Well dear couple how can I help you two? and i'm very sorry about our waiter, he's a bit crazy like that crazy person you know NAME
+WAITER: Hey! don't talk to me like this, chef with a ACCENT accent!
+CHEF: You just hit my customer!, be quiet
+WAITER: Okay thats it! I quit! and im never coming back! (scream while exit stage) im free!!!
+yankee doodle music
+MUSIC STOPS
+happy music 1
+CHEF: I'm terribly sorry, would you like anything? , free no charge!
+OLIVIA: I would like coca cola
+CHEF: Unfortunately we dont have coca cola we only have pepsi
+OLIVIA: What did you just say ?
+RON: Not again, we should have went to PLACE.
+
+======
+
+INFORMATION ===============================
+ID: 1393
+TITLE: The Real Enemy
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: Skit
+SET: Courtroom
+DATE: 13/01/25
+CHARACTERS ================================
+JUDGE TERRI: The completely normal judge:Judge Chair
+ATTORNEY: The lawyer:Defendant Table
+PROSECUTOR: The prosecutor:Plaintiff Table
+DEFENDANT: The defendant:Defendant Table
+SUGGESTIONS =============================
+DEFNAME:A first and last name:Seymore Butz,Hugh Jass,John Smith
+ATTNAME:A name an attorney might have:Ino Cent,Gimmi Munz,Phoenix Wright
+PRONAME:A name a prosecutor might have:Gil Tee,Pierre Posh,Miles Edgeworth
+MINCRIME:A minor crime:Jaywalking,Littering,Shoplifting
+MAJCRIME:A major crime:Murder,Assault,Saying "UwU" In Public
+CRZCRIME:A crazy or wacky crime:Sleeping with the lights on,Pissing off the Yakuza,Public Nudity
+GROUP:A group of people or a place:Minecraft Let's Players,Grannies,Home Depot
+TIME:Any amount of time:7 Days,20 Minutes,3 Years
+PUNISHMENT:An unpleasant task given as punishment:Clean the Dishes,Stand In The Corner,Be the Stenographer
+NUMBER:Any number higher than 1:21,321,123
+THINGS:Something someone would want:Drugs & Money,Fursuits,Crude Oil
+JOB:A high paying or high profile job:Tech CEO,Government Worker,IT Technician
+SCRIPT ==========================================
+(courtroom music)
+PROSECUTOR: So, taking into account all the evidence and testimony we have seen over the last TIME.
+PROSECUTOR: I believe I have provided sufficient proof that DEFNAME is guilty of MINCRIME.
+JUDGE TERRI: Hmm... A compelling case from PRONAME. ATTNAME, your response?
+ATTORNEY: Your honor, all PRONAME has done over these TIME is try to slander my clients good name.
+PROSECUTOR: Objection! That's not true! I am trying to bring them to justice! Enough with your tall tales, ATTNAME!
+ATTORNEY: Objection! Don't interrupt me while I am giving my closing arguments... that's rude.
+JUDGE TERRI: Sustained, that was quite rude of you, PRONAME.
+ATTORNEY: As I was saying, I believe the evidence I have shown proves why my client had no choice but to resort to MINCRIME.
+ATTORNEY: DEFNAME is innocent and what they did was justified.
+JUDGE TERRI: Hmm, another decent argument (Look at defendant) How do you plead, DEFNAME?
+DEFENDANT: Not guilty, your honor. I did what I did to get back at the GROUP. They had it coming.
+JUDGE TERRI: Hmm, yes, the GROUP can be quite troublesome.
+JUDGE TERRI: You know I like you, DEFNAME. You remind me of me in my youth, a bit of a loose cannon but a good man at heart.
+JUDGE TERRI: We all screw up sometimes. I know I've certainly had my fair share of adventures.
+DEFENDANT: Hunh, never thought of you as that type, Judge.
+JUDGE TERRI: Oh yes, there is much you don't know, but all that is irrelevant.
+JUDGE TERRI: MINCRIME is still a crime, but given the circumstances, I think I'll go easy on you.
+JUDGE TERRI: With that, I am ready to hand down my verdict. I declare DEFNAME
+ATTORNEY: Hold on, your honor, how do you know about the GROUP?
+PROSECUTOR: And what do you mean when you say 'my fair share of adventures'? Are you hiding something?
+ATTORNEY: What are you suggesting, PRONAME?
+PROSECUTOR: The judge seems sympathetic to the defendant's plight. What if he's committed MINCRIME in the past?
+(courtroom sting)
+ATTORNEY: (gasps and looks at judge) Your Honor! Surely it's not true!
+JUDGE TERRI: (Nervous) N-No why would I do something like that? I'm an upstanding judge!
+DEFENDANT: I don't know. The judge is looking pretty sus right now. I mean... (mutters) It takes one to know one.
+PROSECUTOR: Admit it Judge Terri! You are guilty of MINCRIME and have no right to proceed with your judgement!
+JUDGE TERRI: You're out of order, PRONAME! Cease this line of questioning at once!
+JUDGE TERRI: Or I will sentence you to PUNISHMENT!
+ATTORNEY: Now I'm suspicious too. We should put you on trial for MINCRIME!
+PROSECUTOR: I agree with ATTNAME. We'll find the truth! Even if it takes TIME.
+JUDGE TERRI: This is Absurd! I Object!
+DEFENDANT: (points at the judge) OVERULED! Sorry I've always wanted to say that.
+ATTORNEY: We're the judges now, Judge Terri!
+(shark tank discussion music 1)
+PROSECUTOR: And my first witness is you (point at Judge Terri) Have you been guilty of MINCRIME?
+JUDGE TERRI: (Growls) Okay Fine! Yes I admit it! I've indulged in MINCRIME once or maybe NUMBER times.
+ATTORNEY: NUMBER Times!?
+PROSECUTOR: You're a Monster!
+DEFENDANT: Not even the GROUP deserves that.
+JUDGE TERRI: It was years ago! And I got away with it every time too! Until you meddling lawyers and your stupid defendant came along!
+JUDGE TERRI: What's the big deal!? It's Just MINCRIME!
+JUDGE TERRI: At least I'm not doing anything really bad like MAJCRIME if I did that, then I would be in trouble.
+DEFENDANT: Hold on now, that seems like a really specific offense, why would you just randomly bring it up like that?
+DEFENDANT: Could it be that you're guilty of that too?
+PROSECUTOR: Hmm... DEFNAME may have a point.
+ATTORNEY: Have you also committed MAJCRIME, Judge Terri?
+JUDGE TERRI: (Very nervous) N-N-No! Never I... I Object! AGAIN! This is a violation of uhh... something!
+PROSECUTOR: You seem pretty shaken Judge Terri, why not just confess? Or do you want this to last TIME?
+JUDGE TERRI: Fine! I shouldn't have said anything! But yes! I did it! I am guilty of MAJCRIME too!
+(tense cinematic music)
+ATTORNEY: Seriously!? How did you get away with that!?
+PROSECUTOR: I'm starting to wonder how you became a judge!
+DEFENDANT: Wow, you're actually worse than me.
+JUDGE TERRI: It's not my fault! The GROUP made me do it! I had no choice. It was years ago!
+JUDGE TERRI: They were gonna make me PUNISHMENT if I didn't do what they said.
+ATTORNEY: Save it for the judge, Judge!
+PROSECUTOR: So not only are you guilty of MINCRIME, you're also guilty of MAJCRIME
+PROSECUTOR: What else have you done, Judge Terri? If that even IS your real name!
+JUDGE TERRI: There is nothing else. You've already exposed me as an evil criminal lunatic!
+JUDGE TERRI: The only thing I haven't revealed is that time I got away with CRZCRIME.
+(silly music 2)
+JUDGE TERRI: WAIT! I mean I almost did that but I decided to be a good law abiding citizen!
+DEFENDANT: How am I the one on trial with maniacs like this! (points at judge) Doing stuff like CRZCRIME!?
+PROSECUTOR: You truly are disgusting. How do you keep getting away with it?
+ATTORNEY: And how did you become a judge with such a bad track record?
+JUDGE TERRI: (sighs) I have rich parents. My dad is a JOB.
+ATTORNEY: Yep, That'll do it.
+PROSECUTOR: That explains a lot.
+DEFENDANT: It's always the ones with JOB parents.
+ATTORNEY: So what's your excuse for CRZCRIME? Did the GROUP make you do that one too?
+JUDGE TERRI: (defeated voice) No. That one was all me. I did it for THINGS.
+PROSECUTOR: All for THINGS, hunh? Was it worth it?
+JUDGE TERRI: Well considering I never actually got any THINGS, no not really.
+ATTORNEY: What a sad way for the son of a JOB to go.
+JUDGE TERRI: But now you actually know everything.
+JUDGE TERRI: Congratulations DEFNAME, ATTNAME and PRONAME.
+JUDGE TERRI: You have exposed me for the villain I truly am. So... how long am I going away for?
+PROSECUTOR: Well considering your crimes of MINCRIME
+ATTORNEY: and MAJCRIME
+DEFENDANT: and even CRZCRIME
+PROSECUTOR: My math sees you spending about... NUMBER years in jail.
+JUDGE TERRI: I see... Well in that case... YOU'LL NEVER TAKE ME ALIVE! (run off stage)
+PROSECUTOR: Bailiff! Go after that madman!
+DEFENDANT: So uhh... Am I off the hook? I did help catch that guy with you... kind of.
+PROSECUTOR: No. We'll just move your hearing to another date with a different judge.
+ATTORNEY: Yeah, it's very important you have a fair trial for MINCRIME
+DEFENDANT: COME ON! Are you serious!?
+TYPEWRITER: Judge Terri was never found. Some say he's still at large today.
+
+======
+
+INFORMATION ===============================
+ID: 838
+TITLE: The Streaker
+AUTHOR: MindlessGonzo
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 22/05/24
+CHARACTERS ================================
+ANDY: Andy The Reporter:Stage Right
+WITNESS 1: Witness 1, A Parent:Center Stage
+WITNESS 2: Witness 2, A Shopper:Alley
+WITNESS 3: Witness 3, The Fan:Stage Left
+STREAKER: The Streaker:Entrance Stage Left
+SUGGESTIONS =============================
+EVENT:An event you want to go to or have to:business meeting,birthday party,parent-teacher conference
+JOB TITLE:A job title:accountant,banker,cop
+ANIMAL:An animal:cat,dog,bird,african elephant,gremlin,boa constrictor
+OBJECT:An object:can,toy,gun,toilet,piano,brick,minecraft diamond ore
+NAME:A name, be it just a first name or full name:John,Jane,Jacob Smith,Ronald McDonald,Jake from State Farm
+QUESTION:A random question:What is a man?,Where is Carmen Sandiego?,Is there such thing as dog hell?,Where's mommy?
+SOMETHING TO BUY:Something you buy at the store:vitamins,floor cleaner,eggs
+SHOES:A kind of shoe or brand of shoe:sandals,sneakers,Timberland boots
+SPORT:A sport:baseball,track,football
+FOOD:A food:hot dog,hamburger,spagetti
+SILLY SOUND:A silly sound to make:a bird call,screeeee,(fart sound),Wingardium LeviOHsa not levioSAH
+NUMBER:A number:7,20,400,99,negative 1
+SCRIPT ==========================================
+world news intro
+ANDY: This is Andy Dandy with Channel 5 News live in Jarville, where a string of sightings has shook up the folks of this quiet town.
+ANDY: Sightings of a streaker.
+ANDY: I have here three witnesses to several of these sightings who claimed to have seen the streaker.
+WITNESS 1: Can I go first? I got EVENT to go to soon.
+WITNESS 3: And I got that JOB TITLEs game on television tonight! I can't miss it!
+ANDY: Right, our first witness was at the town park. Can you recall what happened?
+WITNESS 1: Yes, I can. I was out with my son, watching him as he played with his OBJECT and then here he comes, naked as a ANIMAL.
+WITNESS 1: I hollered at my son "Don't look NAME ", but it was too late!
+WITNESS 1: He seen everything and now he's asking things like (Whispering) " QUESTION "
+waterphone
+ANDY: Disturbing.
+ANDY: Our next one was shopping at the supermarket. What happened to you?
+WITNESS 2: I was just stopping by for SOMETHING TO BUY to take home.
+WITNESS 2: I look up and there he comes, nothing on but SHOES .
+WITNESS 2: I heard someone go "Don't look, Ethel!" But it was too late!
+WITNESS 2: His fruit and veggies were on full display! (Upset) Outrageous!
+ANDY: (To the last witness) And what about your story? Yours happened just at last night's SPORT game!
+WITNESS 3: Oh, God, it was crazy! So, I was there, rooting for our home team, the Jarville JOB TITLEs right?
+WITNESS 3: And then here he comes whizzing by the FOOD stand going right in the middle of everything!
+WITNESS 3: Everybody was shielding their eyes, screaming "Don't look! Don't look!" But I was too mad not to!
+ANDY: And why didn't you?
+WITNESS 3: (Angrily) He was double-dribbling...
+gong
+ANDY: (Awkwardly) Okay...
+happy music 1
+STREAKER: (Enters from Stage Left) Hey, you guys are doing a story?
+ANDY: Yes, we're talking about the string of streaker incidents here in Jarville. Do you know anything?
+STREAKER: Yes, I do.
+ANDY: And what will that be?
+STREAKER: I know who The Streaker is.
+ANDY: Oh, please, do tell us!
+music stops
+STREAKER: It's me. I'm The Streaker.
+record scratch
+STREAKER: SILLY SOUND (Exit Stage Right)
+groose music
+ANDY: (Loudly) After The Streaker! There's a reward if we catch him!
+Meanwhile WITNESS 1: (stay on stage)
+ANDY: (Runs off Stage Right)
+WITNESS 3: I had NUMBER bucks on that game! (Runs off Stage Right)
+WITNESS 2: I didn't get to buy the SOMETHING TO BUY . (Runs off Stage Right)
+music stops
+WITNESS 1: Does anyone have an answer to QUESTION
+laughter
+
+======
+
+INFORMATION ===============================
+ID: 1706
+TITLE: Attack of the Produce Aisle!
+AUTHOR: ModalSoul
+VERIFIED: True
+TAGS: 
+SET: Forest
+DATE: 17/06/25
+CHARACTERS ================================
+DEMON: Demon Warrior:Entrance Stage Left
+SON: Strong Warrior's Son:Entrance Stage Left
+SHORT: Short Warrior:Backstage
+PRIDE: Prideful Warrior:Backstage
+MUSCLE: Brutish Warrior:Backstage
+NAR: Suspenseful Narrator:Narrator Podium
+SUGGESTIONS =============================
+STNAME:Name of a strong person or fictional character:Wukong,Sakuya Izayoi,Kratos
+PLANET:The name of a planet:Earth,Mars,Pluto
+WITEM:An item with some magic power in it:Lamp,Glass Ball,Party Favors
+SHOW:The name of a show, any show:Fresh Prince of Bel Air,Danny Phantom,Steamboat Willie
+VEGGIE:A type of vegetable:Lettuce,Cabbage,Tomato
+SWEET:A sweet dessert:Pie,Ice Cream,Bon Bons,Crepes
+WEEK:A day of the week:Sunday,Wednesday,Thursday
+HOLIDAY:A holiday:Valentine's Day,Christmas,Black Friday
+EVIL:A really evil crime:Tax Evasion,Stealing,Grand Theft Auto
+COUNTING:A machine that can read numbers:Fax Machine,Computer,Scouter
+ATTACK:The name of a powerful attack or technique:Special Beam Cannon,Light Grenade,Clothes Beam
+PET:An animal that would be rude to call someone:Dog,Cat,Tiger
+SCRIPT ==========================================
+Badass Music 1
+NAR: Last time, on SHOW Z!
+NAR: A mysterious warrior named Daikon arrived on PLANET, claiming to be the brother of its strongest fighter, STNAME. 
+NAR: Kidnapping his son Grains, STNAME would make an unlikely alliance with his sworn nemesis, the Demon Warrior Zucchini.
+NAR: Wait, you haven't seen the original SHOW, you wouldn't know who that is. Hmm... Think of a really bad guy, like EVIL level evil. But he's chill.
+NAR: That aside, both STNAME and Zucchini would defeat Daikon, but at a great cost...
+NAR: STNAME would be severely injured by Zucchini's ATTACK, leaving him out of commission. And even worse...
+NAR: Zucchini learned through Daikon's COUNTING device of two more Produce Warriors arriving on PLANET in just one short year.
+NAR: With so little time to prepare for their arrival, PLANET's strongest fighters trained vigorously, developing their minds and bodies!
+NAR: Until the fateful day finally arrived...
+TYPEWRITER: Arugula and Brussels Attack! The First Sign of Trouble!
+Music Stops
+Spy Music 1
+DEMON: (enter Stage Left) Those leafy green freaks will be here any minute. Grains, get yourself warmed up.
+SON: (enter Stage Left) Alright, Mr. Zucchini! (stretch and shadow box)
+DEMON: (facing Strong Warrior's Son) I doubt these guys will fight fair. Don't let them shake you up.
+SON: (continue shadow boxing) After all of your training, I don't think there's anything that could stop me!
+DEMON: Good! Hold on to that confidence.
+SHORT: (enter Stage Right) I thought I saw you guys over here! Hey! (wave)
+SON: (stop shadow boxing and look towards Stage Right) Hey, it's Krill!
+Crowd Woo
+SHORT: (move to Stage Left) I figured I would find you guys around here!
+DEMON: Fashionably late as always, Krill.
+SHORT: I know. But hey, I'm here now, and that's what counts!
+DEMON: What even took you so long to get here?
+SHORT: Was working on a new technique! If Zucchini has that ATTACK, I should work on something new, too!
+SHORT: Still workshopping a name though... 
+SHORT: Oh, yeah! I went and gave STNAME a hoagie before I got here too, he wanted one! Made sure he got the best!
+SHORT: Made sure it had everything he'd want, meat, toasted bread, mayo, VEGGIEs...
+SON: Wait... did you just say VEGGIE?
+SHORT: Yeah..?
+SON: My dad's allergic to VEGGIEs!
+SHORT: (shocked) Oh. Oh no.
+DEMON: (to Short Warrior, furious) You can't be serious! We're gonna be down our best fighter because of a hoagie! I should just kill you right now and--!
+Explosion
+Music Stops
+DEMON: (shocked) They're here!
+Forest Footstep
+Teleport PRIDE to Entrance Stage Right
+Teleport MUSCLE to Entrance Stage Right
+PRIDE: (do not enter stage yet!) Too bad that its WEEK, Brussels. Those buildings we landed on would've been filled tomorrow.
+MUSCLE: (do not enter stage yet!) A real shame, Arugula... Everybody knows that HOLIDAY is held on PLANET this time of year.
+PRIDE: Oh yeah? Well I didn't.
+Forest Footstep
+PRIDE: (enter Stage Right) Well, well, well... What do we have here?
+MUSCLE: (enter Stage Right) Looks like a bunch of PETs with idle hands sittin' around. Hands that look like they want to fight us, Arugula.
+PRIDE: (turn and face Brutish Warrior) Think these "PETs" have been waiting for us long, Brussels?
+MUSCLE: I sure hope not.
+PRIDE: Either way... (turn and face group on Stage Left) A pleasure to meet you.
+DEMON: (stare down Prideful Warrior) The pleasure's mine.
+Tense Cinematic Music
+PRIDE: So, one of you must be the one who beat Daikon. I must say, I am impressed.
+PRIDE: You've managed to beat the weakest of the Produce Warrior Race, and yet you PETs stand here like you can beat us.
+PRIDE: Whether it be ego or insanity, I commend you for even standing up to us right now.
+MUSCLE: How about I do my one good deed for the day and let you guys off easy? Tell us where the WITEM is.
+MUSCLE: If ya do, we'll leave here with it and Daikon's death will be water under the bridge.
+SHORT: (meekly) We, uh... can't tell you where the WITEM is. Once you make a wish with it, it disappears for an entire year.
+MUSCLE: What?! (angry) What in the world did you use it for?!
+SHORT: (flustered) Well, I, uh...
+MUSCLE: Spit it out, half-pint! What did you use the WITEM for!?
+PRIDE: Now now, that's no way to communicate. Brussels, be polite to our hosts.
+MUSCLE: Sorry. (clear throat) Now, what did you use the WITEM for?
+SHORT: Uh... (turn and face Demon Warrior and Strongest Fighter's Son) Don't get mad guys, but I might've used it for that hoagie I gave to STNAME...
+Vine Boom
+DEMON: (furious) What?!
+Meanwhile SON: (in disbelief) You didn't...
+MUSCLE: (furious) On a sandwich?!
+Meanwhile PRIDE: (facepalm, disappointed) What a waste...
+Music Stops
+DEMON: Enough! Hoagie aside, this is our home. And I'm not going to let you trample on it as you see fit!
+DEMON: (gesture to Strongest Warrior's Son and Short Warrior) And neither will they!
+Superhero Fanfare
+SON: You tried to take me away from my dad, away from PLANET! I'll never forgive you!
+SHORT: We aren't gonna back down! We'll show you that we aren't PETs!
+PRIDE: Looks like diplomacy is out of the question. Sorry, Brussels.
+MUSCLE: Eh, I'm over it. Let me get a crack at these guys, Arugula. Show 'em we mean business.
+PRIDE: Go right ahead. Just don't embarrass yourself out there.
+MUSCLE: (walk towards center of stage) Alright, let's check their power... (touch side of head)
+MUSCLE: They're all so weak! Beating these wimps is gonna be as easy as SWEET!
+PRIDE: (mumble) Could go for some SWEET...
+MUSCLE: (look back) What was that, Arugula?
+PRIDE: Nothing. Just be careful. They can hide their power from our COUNTINGs.
+MUSCLE: Right. (turn back to Stage Left group) Guess I won't be needing this COUNTING then.
+MUSCLE: Not that it makes a difference! It'll be like taking candy from a baby, which is fine by me! Come on!
+DEMON: Grains, Krill, coordinate your attacks and overwhelm him! If we can't beat him by ourselves, then we wait for everyone else to get here!
+DEMON: If push comes to shove, then I'll ask you to hold that musclehead back while I charge my ATTACK. 
+SHORT: That doesn't sound too bad--
+DEMON: For five minutes. And given how it took me and STNAME both to kill Daikon, you'll have it even worse Krill.
+SHORT: Oh. Not as good.
+SON: I'm ready, Mr. Zucchini! Let's get 'em!
+DEMON: Let's go! And Krill, we're gonna talk about that hoagie wish later! (charge at Brutish Warrior)
+Meanwhile SON: Here I go! (follow Demon Warrior and charge)
+SHORT: Aw jeez, do we really need to? It was a mistake, honest! (charge in after the other two)
+Teleport NAR to Narrator Podium
+NAR: The assault begins against the first Produce Warrior known as Brussels!
+NAR: Will the defenders of PLANET be able to stop these Aisle 1 Terrors?
+NAR: Will STNAME and the others arrive in time to stop the bloodshed?
+NAR: Was Krill's hoagie really worth using a wish on the WITEM? Of course it wasn't!
+NAR: Find out next time as the Attack of the Produce Warriors continues! (ignore Short Warrior and keep talking)
+Meanwhile SHORT: Wh-- Hey! I thought it was be a good idea at the time! I know you can hear me! (approach Suspenseful Narrator) Hey!
+
+======
+
+INFORMATION ===============================
 ID: 1349
 TITLE: Bankrupt Studio
 AUTHOR: Perydaplaypus
@@ -62362,7 +62353,6 @@ BUDGET:An amount of currency:$1,$69420,$1 billion
 EVENT:A dark event in history:9/11,the Holocaust,the Challenger explosion
 SCRIPT ==========================================
 (corporate motivational music)
-TYPEWRITER: STUDIO - Day - Last Meeting
 CEO: So as you all know, STUDIO has gone bankrupt.
 CEO: The failure of MOVIE was so bad, we lost all our money.
 CEO: We only have enough to make one more movie.
@@ -62415,7 +62405,9 @@ INTERN3: That is, by far, the most stupidest and offensive idea I've ever heard.
 INTERN2: It's awful.
 INTERN1: It's horrendous.
 CEO: It's brilliant. You've got the movie.
-INTERN3: WHAT?!
+(music stops)
+(corporate motivational music)
+INTERN3: What?!
 INTERN4: Really!
 CEO: Yes, and we'll invest all of our money into it.
 INTERN3: Sir, this idea is horrendous. This won't save the company what so ever.
@@ -62426,6 +62418,276 @@ CEO: We'll be the richest company in the universe.
 CEO: (points at INTERN4) You, start working on the movie right now.
 INTERN4: Yes sir. (exits)
 CEO: We're gonna be rich.
+
+======
+
+INFORMATION ===============================
+ID: 773
+TITLE: Murder: The Movie (The Original Script!)
+AUTHOR: GSGenesis
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 30/04/24
+CHARACTERS ================================
+DAVISON: Detective Davison:Entrance Stage Left
+AMY: Amy, wife of Cameron:Backstage
+SHANNON: Shannon, relative:Stage Left
+THEA: Cousin Thea:Stage Right
+BILLY: Billy, son of Amy:Backstage
+RALPH: Ralph, Thea’s son:Center Stage
+SUGGESTIONS =============================
+MEMBER:A family member title:Cousin-twice-removed,Sister,Mama,Niece
+INGREDIENT:A liquid ingredient:yeti sweat,hot sauce,liquid glass,rotten egg whites
+ACTION:Any ridiculous action:tweaked,pinched,snapped,squashed
+BODYPART:Any body part:hair,eyeball,funny bone,nostrils
+LOCATION:A type of house:outhouse,mansion,average apartment,motor home
+CONTAINER:Any type of beverage container:can,keg,barrel,bottle
+DRINK:Any liquid:root beer,Reddi-Wip,processed barf,ipecac
+TIME:Any span of time:hour,month,day,week
+GAME:A really bad video game:Dr. Jekyll & Mr. Hyde,Big Rigs,Cyberpunk 2077,Gollum
+FOOD:Any red food:strawberry,tomato,Tabasco,cherry
+APPENDAGE:Any body part:foot,hand,arm,scapula
+DINNER:Any food:pizza,pasta dish,fruitcake,sirloin steak
+SCRIPT ==========================================
+noir music 1
+THEA: What a lovely night – a friendly gala with my family and friends. Right, MEMBER Shannon?
+SHANNON: Yes... unlike that last party where Cameron spiked our wine with INGREDIENT!
+THEA: That definitely got us in a funk – and what about that time when you ran with scissors, Ralphie?
+RALPH: I was hyper, OK?
+AMY: Cameron? Are- (gasp, scream loudly)
+Music Stops
+record scratch
+SHANNON: What was that?
+THEA: Was that Amy?
+AMY: (enter from Stage Right hallway, quivering in fear) Everyone... I- I have some terrible news!
+RALPH: What’s wrong, Auntie Amy?
+SHANNON: Did Cameron ACTION your BODYPART again?
+AMY: No... he’s dead! Murdered!!!
+thunder
+RALPH: Huh?!
+Meanwhile THEA: What?!
+mystery music 1
+AMY: He was lying lifeless on the bed... blood everywhere! (start breaking down into tears)
+SHANNON: I’ll call the police.
+THEA: No, MEMBER Shannon! Let’s get a detective here first! I know just who. (go near Stage Right hallway)
+AMY: (sobbing) His throat... a gaping slit in his throat...
+THEA: Hello, operator? Have Detective Davison come to our LOCATION.
+Meanwhile RALPH: How do you know he was murdered?
+SHANNON: Not the time to ask that question, Ralph.
+THEA: (reenter from Stage Right hallway) Just don’t panic everyone, the Detective should be here any moment--
+tire screech
+knocking on door
+THEA: That must be him. (go to Stage Left Door, then open it)
+DAVISON: Good evening, all. I heard that I was summoned here.
+SHANNON: We are grateful for your presence, Mr. Detective.
+DAVISON: You can call me Dr. Davison, but only if you wish.
+Meanwhile RALPH: Uuh... (wander offstage toward Stage Right hallway)
+SHANNON: (follow Ralph through Stage Right hallway) Ralph, where are you going?
+AMY: Ugh…I think I’m going to be sick from that sight…worse than when I drank that whole CONTAINER of DRINK! (Leave through Stage Right hallway)
+dark classical music
+THEA: Dr. Davison, we need your help. Amy says her husband was murdered.
+DAVISON: That’s the third one this TIME.
+THEA: How often do you get these cases...?
+SHANNON: Ralph, where are- (scream loudly)
+Music Stops
+knife wound
+thunder
+DAVISON: What's that? The sounds of violence from behind that door?
+DAVISON: Stay back – I’ll handle this. (inch toward Stage Right Door, drawing gun)
+scary music
+RALPH: (Enter from Stage Right Door, licking his fingers) Hey, what’s going on in here---
+gunshot
+RALPH: Ack! (fall to ground)
+Meanwhile THEA: (shriek) My son! Was it my son?!
+DAVISON: Might have been – there’s blood on his hands.
+THEA: What?! Does that mean he’s the killer?
+DAVISON:(approach the body of Ralph) It would appear so; he was holding a stained knife in his hand as well!
+THEA: (sigh of relief) Thank goodness.
+footsteps on wood
+BILLY: (enter from Stage Right Door) Aunt Thea! I saw something- (gasp) Ralphie!
+THEA: Don’t get close to him, Billy! He’ll think you’re involved with Ralph’s antics!
+Meanwhile DAVISON: Who are you?
+BILLY: What antics?! What did Ralph do? Did he cheat at GAME again?
+DAVISON: This suspect murdered Cameron, wife of Amy.
+BILLY: What?! Ralphie would never do such a thing! Before I went upstairs, he said he was going to get something to eat!
+DAVISON: Are you absolutely sure- wait a minute... (crouch to Ralph’s body, wipe finger on knife, then taste it)
+Music Stops
+DAVISON: This isn’t blood – it’s FOOD jelly!
+silly music 2
+THEA: Are you now realizing that you just killed my son... without hesitation?!
+DAVISON: Uh... oops.
+THEA: You absolute moron! (take gun from Davison) You just lost your privilege to use this!
+DAVISON: Hey, wait!
+THEA: I bet a million dollars it could be you!
+BILLY: (interrupting) Guys! I saw Amy kill Shannon!
+thunder
+Music Stops
+piano theme
+DAVISON: What?
+Meanwhile THEA: You did?
+BILLY: Yeah! I saw her leave the bedroom when Cameron was stabbed, too!
+AMY: (enter from Stage Right Door behind Billy, then stab him with a knife) And now your days are over!
+knife wound
+THEA: BILLY!
+AMY: (approach Davison and Thea menacingly, holding knife) So, that rotten brat told you, huh?
+tense cinematic music
+THEA: Amy... why? Why would you do such a vile thing? To your husband! To MEMBER Shannon! And to your own son! Why?!
+AMY: (snarly tone) Cameron never appreciated me…he always wanted to do what was best for Billy...
+thunder
+AMY: Shannon never liked me either! And Billy always got the best in life while I was thrown to the wolves!
+DAVISON: So, you resorted to killing them?!
+AMY: Same went for the man who broke the Clue DVD he borrowed from me and the student driver who ran over my APPENDAGE earlier this TIME!
+DAVISON: You killed them, too... I should have known it was you all along!  (reach behind back for shotgun)
+THEA: Amy, please... calm down!
+AMY: Enough! You two won’t get away with revealing who I am! Now DIE!
+THEA: No! Don't- (shriek loudly)
+DAVISON: (pull out shotgun, shoot Amy) Not today!
+gunshot
+Music Stops
+AMY: (hit by shot from shotgun, fall backwards onto ground, dead) Blech... (gurgle)
+emotional piano music
+THEA: (short of breath) Is it over?
+DAVISON: I... I think so. She’s dead.
+THEA: (starting to cry) Poor Ralph...
+RALPH: (wake up, get to feet) Ugh... what happened?
+THEA: (gasp) Ralph! You’re alive!!! (hugs him strongly, kisses him a lot)
+DAVISON: But... but, how?! I thought you were shot dead!
+RALPH: (slowly reach inside shirt, pull out food) This frozen DINNER I tried to smuggle in my shirt saved me!
+THEA: (relieved) Well, I think we can all say…
+DAVISON: Case. Closed.
+Music Stops
+RALPH: Can I have my peanut butter and FOOD jelly sandwich now?
+
+======
+
+INFORMATION ===============================
+ID: 1777
+TITLE: The Dumb Hero 
+AUTHOR: Max Wolfberg
+VERIFIED: True
+TAGS: 
+SET: Living Room
+DATE: 04/08/25
+CHARACTERS ================================
+HERO: The Superhero:Backstage
+MAYOR: The Mayor:Stage Left
+VILLAIN: The Evil Villain:Kitchen
+SUGGESTIONS =============================
+HERO:Name for a superhero:Nightflare,Echo Titan,Nova Striker,Captain Phoenix
+VILLAIN:Name for a Villain:Crimson Revenant,Dr. Malificus,Oblivion King,Black Howl
+CITIZEN:Name for a Mayor:Elias Ford,Douglas Crowe,Sophia Grant,Ramona Steele
+DO EVIL THING:An evil thing to do:Take control of the city,become a billionaire,force everybody to watch hunter x hunter,jailbreak an iphone,turn people into hamburgers,be a republican,eat delicious meat
+MAJOR EVENT:A major distaster or historical event:the french revolution,starbucks opening,kpop demon hunters happy meal
+BUTTERFLY:Something interesting to see or look at:A Giant Inflatable Blimp,PS5,a woman,the unreleased special version of shrek where he eats a guy
+TOWN:Any nation, website, or faction:The USSR,VRChat,Alcohol land
+SUPOWER:Any super powers:Sound Absorption,Plant Voice,Seismic Slam,Plasma Nova
+DID SOMETHING I REGRET:Something you regret doing:buying spotify premium,selling my gamestop stonks,dating Justin Roiland,watched the last season of Dexter
+IMPROVE THE CITY:Something you can do to improve your city:start a recycling program,ban all of the fun drugs,make anime illegal
+STARBUCKS:Any place or type of place:starbucks,the backrooms,the zoo,my mom's basement,France
+BODYPART:Any body part:head,teeth,knee
+SCRIPT ==========================================
+tense cinematic music
+Villain: (Holding the mayor hostage) Stop struggling, Mayor CITIZEN! It's no use. You are mine!
+Meanwhile MAYOR: (Being held hostage and struggling) Let me go, you villain! Let- me - go!
+Mayor: (Trapped and scared) Wh-Why did you kidnap me and take me to your evil layer?
+Villain: Because I want to DO EVIL THING!
+Villain: So don't even think about trying to escape!
+Mayor: (Trying ot be calm) Okay, chill... don’t do anything you’re gonna regret.
+Villain: (Sad) Like that time I DID SOMETHING I REGRET...
+Villain: (Angry) Mayor CITIZEN! I absolutely despise you!
+Villain: Your "brilliant" idea to IMPROVE THE CITY totally sucks!
+Villain: Life sucks now! Being evil sucks!
+Mayor: (Nervously agreeing) I'm sorry, Yes, Uh, I'm so sorry...
+Mayor: I should never have passed that law to IMPROVE THE CITY, how silly of me.
+Villain: (Very frustrated) Damn it, Mayor CITIZEN!
+thunder
+lacrimosa music
+Villain: (Facing the audience) I am the villain known as VILLAIN!
+Villain: (Evil laugh) I will achieve my plan to DO EVIL THING at any cost! No matter what!
+Mayor: (Speaking to yourself) Yeah, right... not if somebody comes to save me.
+Villain: (Turning to Mayor) I heard that! And you're wrong! Nobody is coming to save you!
+music stops
+footsteps on wood
+Villain: (Hears a strange noise) What?? Do I hear something... on the roof of my hideout?
+Villain: (Looks up) What in the hell!?
+(music stops)
+HERO: (Falling down onto the stage) HERO-!
+(crashing debris)
+(superhero music)
+Hero: (Looking around confused) What the hell? This isn't STARBUCKS.
+Hero: ... or is it?
+Hero: (Sees the villain) Who are you?
+Villain: It's my arch nemesis, HERO! Curse, you, HERO!
+Mayor: It's HERO! I'm saved!
+Hero: Yup, that's me. HERO! (Strike a pose)
+Villain: And how could you forget my name? It's VILLAIN!
+Hero: (Wave) Nice to meet you again, apparently, VILLAIN.
+Villain: (Annoyed) You broke a hole in my ceiling, you bastard!
+Mayor: Hero, be careful! VILLAIN is trying to DO EVIL THING!
+Villain: (Shaking fist) You're also going to pay for breaking my ceiling!
+Hero: (Look up) Oh yeah. That's a lot of damage.
+Hero: (rubbing injured BODYPART) I think I hit my BODYPART a little too hard.
+Villain: Trying to fake a BODYPART injury to get me to let my guard down, eh? Well I'm not falling for that again!
+Hero: I am serious my BODYPART might to broken and I have no idea what is going on here.
+Mayor: (Sheepishly) I don’t wanna interrupt your conversation, but... please help me!?
+Hero: (Whispers to Mayor) Don't worry, Mayor CITIZEN. I'm acting dumb to distract VILLAIN! (Winks)
+Mayor: (Whispering back) Oh, great idea, HERO! TOWN will be saved, after all!
+Hero: ... Wait, you're the Mayor of TOWN?
+Mayor: Yes! How could you not remember I am Mayor CITIZEN of TOWN?
+Villain: (Interrupting loudly) For the love of God, you are a superhero, HERO! Stop whispering and fight me already!
+Hero: (confused) I'm what now?
+Villain: Super Hero, dumbass!
+Hero: O and do I have powers?
+Villain: (Facepalms) Seriously?
+Villain: Did you forget that the one and only HERO has the power of SUPOWER?!
+Villain: I think you are trying to act dumb to distract me so I let my guard down.
+Villain: So you can grab the mayor and get out of here! Well, it's not going to work.
+Villain: I will not be so easily distracted!
+(music stops)
+Hero: (Slowly walks up to villain face-to-face) Well guess what, VILLAIN?
+Hero: (Point behind villain) Look, a BUTTERFLY!
+Villain: (Turns around excitedly) BUTTERFLY? Where--?!
+Hero: (Surprise punches VILLAIN) Aha!
+Villain: (Get punched) Ouch!
+fistfight
+70s music
+Hero: (Relentlessly punches villain over and over) Look who's stupid now, foul villain!
+Villain: (Gets punched repeatedly) Ow! Ouch! Ow! Where's the BUTTERFLY, I don't see it-- Ow!
+Mayor: (Cheering on) Get them, HERO! You can do it!
+fistfight
+Hero: (Relentlessly punching) You're stronger than I remember? Hitting the gym, eh?
+Villain: (Gets punched repeatedly) Time out! Ouch! Ow! My BODYPART! Ow!
+Villain: (Escapes the fight, super tired) Aha... Hyper dodge!... Your punches are worthless against me...
+Hero: You look tired, VILLAIN. Need some coffee to wake you up?
+Hero: Or perhaps you'd like a nice warm cup of my SUPOWER powers!
+Mayor: (Cheering on) Yeah! Give 'em the SUPOWER special move!
+Villain: (Super tired) No.. not the SUPOWER...
+epic cinematic music
+super epic charge up
+HERO: (Charging up SUPOWER) I'm gonna SUPOWER!!!
+Mayor: He's gonna SUPOWER!!
+Villain: (Barely clinging to life) I regret everything.. I regret DID SOMETHING I REGRET...
+HERO: (Holding back immense power) Here it comes!
+HERO: SUPOWER attack! Nyoom! (Slowly punch VILLAIN)
+Meanwhile VILLAIN: (Extended cry) Noooooooooooooooooo!
+explosion
+Teleport VILLAIN to BACKSTAGE
+(music stops)
+(superhero fanfare)
+Mayor: You did it, HERO! You saved me, and saved all of TOWN!
+Hero: (Confidently) I sure did SUPOWER all over that guy.
+Hero: Let's get out of here, Mayor CITIZEN. You've got a TOWN to get back to.
+Mayor: We've got to hurry! MAJOR EVENT is happening in 20 minutes!
+Hero: Then what are we waiting for?
+Hero: Hold onto my BODYPART, Mayor CITIZEN! Let's fly outta here!
+Meanwhile MAYOR: (Hug HERO and grab BODYPART) My hero!
+Hero: (Charging up an epic jump) Super SUPOWER launch!
+super epic charge up
+music stops
+explosion
+Teleport HERO to BACKSTAGE
+Teleport MAYOR to BACKSTAGE
 
 ======
 
