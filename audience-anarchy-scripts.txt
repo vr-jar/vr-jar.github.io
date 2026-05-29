@@ -52189,141 +52189,6 @@ SUSPECT: Uhhh... so... wanna go to RESTAURANT?
 ======
 
 INFORMATION ===============================
-ID: 1789
-TITLE: The Overly Honest Bank Robber
-AUTHOR: -X E R O-
-VERIFIED: True
-TAGS: 
-SET: Conference Room
-DATE: 11/08/25
-CHARACTERS ================================
-ROBBER: The awkward Robber:Entrance Stage Left
-TELLER: The tired Bank Teller:Office Chair 1
-GUARD: The nonchalant Security Guard:Stage Right
-SUGGESTIONS =============================
-PROBLEM:an event or problem you might see in a bank:grandma yelling at a ATM,kids holding a tantrum,no coffee
-WATERGUN:name for water gun/plastic toy gun:Super Soaker 3000,WaterBlast Cyclone,Spyra Three,Garden Hose
-STICKER:cute animal or character:dolphin,turtle,pony
-WEAPON:a weapon or something that can be used as one:sword,katana,hammer,scissors
-TRANSPORT:a transport vehicle of any sort:car,bike,scooter,horse
-DRINK:an expensive or elaborate coffee order:Latte macchiato,Cappuccino,White Mocha,Caramel macchiato
-CATNAME:name for a cat:Mr.Whiskers,Tiger,Toast,Hairball
-MONEY:dollar amount:400,500,1000
-SCRIPT ==========================================
-(jazz music 2)
-GUARD: (look out the window) Very boring today, huh?
-TELLER: Yep. Nothing’s happening.
-GUARD: Not even a fake alarm or a PROBLEM
-GUARD: Well besides that weird looking TRANSPORT over there on the street.
-TELLER: Besides a TRANSPORT being park here on a Sunday.
-TELLER: Is this a very normal, boring Sunday. The kind of Sunday where absolutely nothing-
-(music stops)
-(door creak)
-ROBBER: Uh… hi. This is… a robbery? Put the money in the bag... Please?
-(vine boom)
-TELLER: …Please?
-(groose music)
-ROBBER: Yeah, I don’t wanna be rude about it.
-GUARD: Wait, is this serious or, like… a flash mob thing?
-ROBBER: Serious. But polite.
-GUARD: Cool. Just checking.
-ROBBER: Put the money in the bag. Please?
-TELLER: You’re holding a WATERGUN
-ROBBER: Yeah, but it’s black, so it’s intimidating.
-TELLER: It still says “WATERGUN” in rainbow letters.
-GUARD: And it’s got a STICKER sticker on the side.
-ROBBER: …It’s a tactical STICKER.
-TELLER: You couldn’t get a real weapon?
-ROBBER: I almost brought a WEAPON… but that just felt too aggressive.
-ROBBER: Like i said i dont wanna be rude and look like a criminal.
-TELLER: Ok so... what is your state of business mister robber?
-ROBBER: My cat.
-TELLER: Your cat?
-ROBBER: Yes my cat
-TELLER: Sorry i don't understand. Your cat is making you do this?
-ROBBER: Yes. My cat needs therapy.
-(vine boom)
-TELLER: …Therapy?
-ROBBER: Yeah. He’s been… different since the toaster incident.
-GUARD: Toaster incident... what happened?
-ROBBER: The toast.... Popped out
-TELLER: Popped out? isn't that how toaster works?
-ROBBER: Yes but, This time it popped out with force. And shot the toast towards the ceiling and demolished the toast...
-ROBBER: Grilledcheese everywhere. And my cat often sits next to the toaster. He loves the heat.
-ROBBER: So when that happened he got scared and ran out of the room.
-GUARD: Oh, so your cat’s afraid of breakfast now?
-ROBBER: Yeah. He won’t go near the toaster or even the water cooker anymore.
-TELLER: Sounds like he needs some serious... purr-suasive therapy.
-(laughter)
-ROBBER: I tried that. He just stares at me judgmentally and knocks over my coffee.
-GUARD: Your cat sounds like a hand-full.
-ROBBER: Trust me, it’s a constant struggle. Hence, the robbery.
-GUARD: Oh yea i almost forgot that this was a robbery.
-(silly music 1)
-GUARD: So, uh… do you want me to stop him or?...
-TELLER: I mean… he’s unable to harm any of us at the moment. He got a sad story.
-TELLER: And more importantly: He is really bad at this...
-ROBBER: Hey! i am still here! And i am trying my best ok!
-GUARD: Yeah yeah... effort counts. Say did you fix a get-away-driver too?
-ROBBER: No… my mom dropped me off by TRANSPORT
-GUARD: By TRANSPORT? Ah so the TRANSPORT is yours.
-TELLER: Well that makes sense now.
-GUARD: So uhh... anyone want a coffee?
-TELLER: Neh I’m good. I gotta check with the manager about this. (leave stage)
-ROBBER: I’ll take one.
-GUARD: What do you like?
-ROBBER: I would like a DRINK
-GUARD: We only got black. You want sugar, milk?
-ROBBER: How do you guys not have a DRINK.
-ROBBER: I thought a bank would got money enough to effort a DRINK.
-GUARD: Are you robbing us money or are you here for a DRINK?
-ROBBER: But-... fine... 2 sugars and milk please...
-GUARD: Here you go (hand over coffee)
-GUARD: So… your cat, huh? What’s his name?
-ROBBER: CATNAME
-GUARD: CATNAME? Classic. How old is he?
-ROBBER: Ten. A bit grumpy these days.
-GUARD: Ten’s a good age. Old enough to be wise, young enough to still knock stuff off tables.
-ROBBER: Yeah. Mostly the latter. Especially my coffee.
-GUARD: Does he like catnip or is he more of a fancy treat guy?
-ROBBER: Oh, definitely the fancy treats. But after the toaster incident, he’s suspicious of anything new.
-GUARD: Tough crowd. Sounds like he runs the house.
-ROBBER: Believe me, he does.
-(silly music 2)
-TELLER: (Walk back on stage) Okay, manager says we don’t have bills on hand right now.
-ROBBER: No bills? like paper bills?
-TELLER:Yep! We can only pay out in nickels.
-(vine boom)
-ROBBER: Nickels? Seriously?
-GUARD: Wait… we are actually giving him money?
-TELLER: Here you go.(hand over a big bag of nickels)
-TELLER: This is $MONEY in nickels.
-GUARD: That seems pretty heavy. You go to the gym?
-ROBBER: No.
-GUARD: Well, that's going to be a hard workout for you just to walk out the door.
-TELLER: Or... hear me out. You could also just take less.
-ROBBER: No! That’s not how robberies work!
-TELLER: Sure sure you are the boss. Want a receipt?
-ROBBER: Yeah. For tax purposes.
-GUARD: He’s gonna declare this on his taxes?
-ROBBER: Yeah duh... Just because i am robbing, does not mean i am stealing.
-(vine boom)
-GUARD: Sure Sure you are the boss. Need a hand with that?
-ROBBER: (move slowly towards the exit) NO! I am... fine...
-ROBBER: I... uh- will... go... now...
-ROBBER: This... was.. easier... than... i- (trip and fall, Continue out the door)
-(crashing debris)
-(music stops)
-GUARD: You uh-... already called the cops, right?
-TELLER: Yup. Manager was laughing when I told him the news.
-TELLER: He said paying out coins would be hilarious. But do call the cops.
-GUARD: I’m definitely watching this later on the cameras. We got 4K, by the way, so we can see the whole show again.
-TELLER: This might go viral on TikTok. I’ll go grab the popcorn.
-(laughter)
-
-======
-
-INFORMATION ===============================
 ID: 1793
 TITLE: Furry Room Party
 AUTHOR: mapleRB
@@ -52721,113 +52586,6 @@ CLEETUS: The neighborhood is cursed.
 DARRYL: Yeah, cursed!
 thunder
 applause
-
-======
-
-INFORMATION ===============================
-ID: 1806
-TITLE: The Secret Sauce
-AUTHOR: zanbbit
-VERIFIED: True
-TAGS: 
-SET: Infomercial Kitchen
-DATE: 20/08/25
-CHARACTERS ================================
-VICTORIA: The one who knows the recipe:Backstage
-NEWMAN: A new employee:Center Stage
-FURST: A new employee:Stage Left
-SUS: A spy posing as a new employee:Entrance Stage Right
-SUGGESTIONS =============================
-CHAIN:A name a fast food chain may have:Chicken Queen,Softies,Bad Foods Inc.
-FOOD:A food item a restaurant would specialize in:Burger,Ice Cream,Fried Bread
-PLACE:A city or country:Pompei,Atlantis,Skyrim
-NEWS:A name a news source may have:Hieratic Herald,Compass NEWS,New News
-BAD:An object that is inedible:Water Bottle,Hair,Coin
-INGREDIENT:A common ingredient used in cooking:Sugar,Flower,Vinegar
-RIVAL:A name a fast food chain may have:Big Bill's Buffet,Authentic Food,MacDonalds
-OTHER:A city or country:Liberty City,Cambodia,Brazil
-ILLEGAL:An illegal substance to have:Uranium,Morphine,Marijuana
-LIQUID:A liquid substance:Pepsi,Hydrochloric Acid,Crude Oil
-FRUIT:Any Fruit:Apple,Durian,Pepper X
-LAST:A last name someone may have:Davis,Robinflea,Jagginov
-SCRIPT ==========================================
-(french music)
-NEWMAN: Okay this is my first real job. Just relax.
-NEWMAN: I only got a job with CHAIN, the biggest FOOD chain in PLACE!
-NEWMAN: And I'm also about to learn their top secret recipe! No pressure at all!
-FURST: I'm not super worried. It's my first job too but it's like... whatever man.
-FURST: CHAIN is just another fast food place to me, no big deal.
-FURST: Am I supposed to be impressed that they're the biggest chain in PLACE? I'm not.
-NEWMAN: I wish I could be as calm and collected as you. I just wanna make a good first impression.
-SUS: (Sneak in and look at the kitchen setup. Mutter to self) Hmm... Nothing here.
-FURST: (Notice the new person) Hey, you a new employee too?
-SUS: (Look at the others) O-Oh yeah! I was just scanning the kitchen cause I'm really excited to get started!
-NEWMAN: They said we'll start using the kitchen after we're told the recipe. I am excited to learn it.
-FURST: I heard from NEWS that one of the ingredients is ground up BADs.
-NEWMAN: Really? You actually get your facts from NEWS? Don't they lie all the time?
-SUS: Nah, NEWS is a great source! I get my info from there too!
-VICTORIA: (Walk on stage) Alright. Mr. Newman and Mr. Furst you are our new cooks so I am here to...
-VICTORIA: Wait a minute? There are 3 of you? I was told only Newman and Furst would be here.
-SUS: Ohh, uhh sorry. You can call me uhh... LAST! I was brought on last minute.
-VICTORIA: Hmmm... I see. Very well Mr. LAST. I am Victoria and I'm going to teach you our secret formula.
-VICTORIA: We here at CHAIN pride ourselves on quality.
-VICTORIA: The great taste of our signature FOOD is due, in part, to the secret formula you all will learn to make today.
-VICTORIA: (Look around the kitchen) First we need INGREDIENT. We always start with the INGREDIENT.
-FURST: Do we use ground up BAD at any point?
-VICTORIA: UGH, you must have read that in the NEWS. No, that's preposterous, we don't use that.
-NEWMAN: See I told you! The NEWS is full of liars!
-VICTORIA: That was a fake rumor that our rival, RIVAL sold to NEWS to make us look bad.
-NEWMAN: Really, RIVAL? did that? that's low!
-FURST: UGH, RIVAL. It doesn't even sound appetizing. Who would work for them anyway!?
-SUS: I mean... I still think their food is pretty good, epically their FOOD.
-SUS: B-But they shouldn't be spreading false rumors like that. Very unprofessional!
-VICTORIA: Their FOOD is not as good as ours. That's why they want to get their hands on our secret formula.
-VICTORIA: They are already the biggest fast food chain in OTHER. Now they want to break into the PLACE market.
-VICTORIA: Oh! here's the INGREDIENT. (Pull the INGREDIENT out and set it on the table)
-VICTORIA: So we add 10 cups of INGREDIENT into a large heated pot on the stove.
-SUS: (Write down the information) You said 10 cups?
-VICTORIA: Yes I did. Why are you writing this down?
-SUS: Uhh... I have a bad memory so I want to make sure I have everything right.
-VICTORIA: You should get rid of it after you memorize the formula. Now we have the INGREDIENT as a base.
-VICTORIA: Our next piece is quite controversial.
-VICTORIA: After the INGREDIENT is boiling, we add just one tablespoon of ILLEGAL.
-SUS: No Way! (Frantically writes down)
-FURST: ILLEGAL hunh?
-VICTORIA: It dissolves immediately because of the heat but it provides an addictive flavor.
-NEWMAN: Do you have any Substitutes for the ILLEGAL? I'm not sure if that stuff is easy to come by.
-VICTORIA: No, we need to use ILLEGAL, there is nothing else that gives it the same taste. We have good connections though.
-SUS: You are aware you can be arrested for using that right? I'm pretty sure it's illegal to use ILLEGAL in food and stuff.
-VICTORIA: (Walk over to the employee) That's why you all signed NDA's before we brought you on.
-VICTORIA: Besides, we really just add it for flavor and nothing else.
-FURST: So what do we add next?
-VICTORIA: After the ILLEGAL, you add 1 cup of FRUIT. This can be substituted for another fruit if we are low on supplies.
-NEWMAN: I know FRUIT and it has a very distinct taste. Won't using different fruits mess with the flavor?
-VICTORIA: Not as much as you think. Most people don't notice the flavor FRUIT brings to the formula so most don't miss it.
-SUS: (Mutter) Good stuff. This is good stuff. (Writing the information down.)
-FURST: So what do we do with the FRUIT? Peel and shred it?
-VICTORIA: (Nods) Yes. After the FRUIT is added. We have one more ingredient. That being 1 cup of LIQUID.
-VICTORIA: After the liquid is added, the secret formula is done! You just keep it on low heat from there.
-NEWMAN: So we finish off with LIQUID?
-FURST: Now we're talking my language! I drink LIQUID religiously! Hope I don't drink all your stock.
-VICTORIA: Highly unlikely. But now, with all the ingredients here, we can finally start cooking.
-SUS: I'm actually good. I got all the info I needed so I quit. What a simpleton you are, Victoria!
-(silly music 1)
-SUS: I have it all written down. ten cups of INGREDIENT, a tablespoon of ILLEGAL
-SUS: One cup of shredded FRUIT and and a cup of LIQUID
-SUS: Now that I have the CHAIN secret formula, RIVAL will have the best FOOD in PLACE!
-SUS: We won! WE FINALLY WON! (Run off stage laughing)
-FURST: Uhh... did that just like... happen?
-NEWMAN: I think you should inform your boss about this, Victoria! It could be bad for CHAIN!
-VICTORIA: (Chuckles) No need, he will soon find out he made a big mistake. Now that he's gone I can give you the real secret formula.
-NEWMAN: What do you mean? didn't we just hear it?
-VICTORIA: I knew LAST was a RIVAL spy, so the recipe you just heard was a fake, meant to trick fools like him.
-FURST: Ohh... I like that, it's devious. I knew there was a reason I wanted to work for you guys.
-VICTORIA: If they try to obtain ILLEGAL, they'll be in serious trouble.
-VICTORIA: We don't use ILLEGAL or FRUIT or LIQUID in our secret formula.
-NEWMAN: Aww man, I was looking forward to working with FRUIT.
-FURST: I should have known. Using LIQUID almost sounded too good to be true.
-NEWMAN: So what's the real recipe? What do you use?
-VICTORIA: Well, lets take it from the top again.
 
 ======
 
@@ -53546,106 +53304,6 @@ RICHGUY: Please no! (Yelling in fear)
 DINOSAUR: (consuming the guy with a giant bite) Monch... mmm....
 Teleport RICHGUY to backstage 
 DINOSAUR: Eww... Taste like VEGETABLES.
-
-======
-
-INFORMATION ===============================
-ID: 1856
-TITLE: The Vlogger Life
-AUTHOR: zanbbit
-VERIFIED: True
-TAGS: Skit
-SET: Murder
-DATE: 14/10/25
-CHARACTERS ================================
-INFLUENCER: Famous Internet Star:Entrance Stage Right
-ROOMMATE: Internet Stars Roommate:Center Stage
-DELIVERY: A Delivery Person:Backstage
-SUGGESTIONS =============================
-WEBSITE:enter the name of a website:TouYoob,ClickClock,Tumbler
-USERNAME:a username someone would have online:SonicDash,John Famus,Parkimlier
-NICKNAME:A silly or playful nickname one would have for a friend:Dweeb,Hobknocker,Friend... With Benefits
-SPONSOR:A company that would sponsor a video:Blue Apron,Inaudible,Worse Hurt
-PRODUCT:Any functional object someone can buy:Towel Rack,Snow Globe,Knife
-TOPPING:A food topping:Pineapple,Cinnamon,Caramel Glaze
-CELEBRITY:name any celebrity :George Clooney,Taylor Swift,Homer Simpson
-CLOTHING:Any clothing item:Hoodie,Shoes,Fishnet Thigh Highs
-THEME:A theme for an event:Medieval,1920's,Vaporwave
-TITLE:Any object:Waffle Iron,Daddy's Money,Padlock
-FOOD:Name a type of food:Chicken,Haggis,Soup
-SCRIPT ==========================================
-jazz music 2
-Roommate: Ahh, what a lovely day. It's nice and quiet, no distractions.
-Roommate: I get to live in this big house that my friend bought with their WEBSITE money.
-Roommate: Life is pretty good... hopefully I can just relax, maybe play some piano.
-badass music 1
-Influencer: Yo! Whazzup WEBSITE!? It's ya boi USERNAME!
-Influencer: Yall know what it is! We out here puttin' the flu in Influencer! Droppin' all this siok content!
-Roommate: (mutter) Oh no, not this again.
-Influencer: We're doing a house tour today, that's right my USERNAMEers. You're gonna see how a king lives!
-Influencer: Let's see what the NICKNAME is up to first (walk to roommate) Wazzup NICKNAME!?
-Roommate: (sigh) Can we not do this today?
-Influencer: (say through gritted teeth) Just play along for the video or I'm going to kick you out!
-Roommate: Yoooo! What's good USERNAME!? Who are we gettin that cash from today!?
-Influencer: Well I'm glad you asked, NICKNAME! This video is brought to you by SPONSOR!
-Influencer: Click the link below to get 20% off your next SPONSOR purchase! I love SPONSOR! I use their stuff all the time!
-Influencer: Yo, NICKNAME, tell the USERNAMEers why they should use SPONSOR.
-Roommate: (take a deep breath) I mean SPONSOR is just really cool. I love their PRODUCT... they sell PRODUCTs right?
-Influencer: YO! If they don't they totally should. Hey USERNAMEers, get on that. Get SPONSOR to start selling PRODUCTs!
-Influencer: We should do a prank, hey NICKNAME, call up a FOOD delivery guy for me!
-Roommate: (Groan and walk to the phone. Speak in monotone voice) This is gonna be so epic, dude.
-Influencer: While NICKNAME is doing that, let's start on this house tour!
-Influencer: Look at my paino guys! It's really OUR paino. You helped me get it by watching my videos getting me that big WEBSITE money.
-Influencer: Look at this fireplace! What am I, a grandma or a supervillan!? Comment below and let me know!
-Roommate: They asked if you want anything with the FOOD.
-Influencer: Okay guys, here's the epic prank. Tell them I want TOPPING as a topping.
-Roommate: Come on, they won't have that!
-Influencer: That's why it's funny! DO IT!
-Roommate: Yes I would like to have that topped with TOPPING... Oh... Uhh okay, bye.
-Roommate: They said they're on their way.
-Influencer: That's so stupid! Yo USERNAMEers! Watch to the end to see the FOOD delivery guy get epically pranked!
-Roommate: I'm going into the other room, I don't want to be a part of this. (exit stage right)
-Influencer: Look at these couches guys! I actually got them gifted to me by CELEBRITY.
-Influencer: Remember guys! You gotta rise and grind everyday to make it big! Do that and you can meet CELEBRITY too!
-doorbell
-Delivery: Hello? Someone here order a FOOD with TOPPING topping?
-Influencer: (walk to door and open) Took you long enough.
-Delivery: I have the FOOD you ordered. I don't know what sicko puts TOPPING on a FOOD but here.
-Influencer: Hmmm I don't know if I am feeling hungry anymore. It took you a pretty long time to get here.
-Delivery: Look kid, I'm not in the mood for jokes. Do you want this thing or not? I got actual paying customers to serve.
-Influencer: How about this. I'll buy the FOOD if you Buy my new CLOTHING!
-Delivery: Your new what!?
-Influencer: Available now on my USERNAME store! Get the sick new exclusive THEME CLOTHING! And look better than this lame dude!
-Delivery: Wait a minute are you really USERNAME?
-Influencer: Oh are you a USERNAMEer? Maybe you're not that lame after all.
-Delivery: My kid is obsessed with your videos. Can you try to be a better person? He's started calling me NICKNAME.
-Delivery: He said he learned it from watching you. You always call your roommate NICKNAME.
-Delivery: And I know he's gonna want the new THEME CLOTHINGs you're trying to sell now too. Do you think we're made of money?
-Delivery: I am literally just a FOOD delivery guy!
-Influencer: Whatever. You're just jealous that your son has role models like me to look up to.
-Delivery: You're a horrible role model! Take this FOOD and pay me before I punch you in the face.
-Influencer: Nah, I don't want it! It was just a prank bro! HA!
-Influencer: (turn to audience) But you want to know what isn't a prank, dear USERNAMEers? The tour I'm going on!
-Influencer: Come and see me on my new TITLE tour starting next week! Imma be hittin' a bunch of towns!
-Influencer: Why is it called the TITLE tour, you ask? Well come and see me to find out!
-Influencer: I'll also be selling special TITLE tour themed CLOTHING too! Come and get the sickest merch around!
-Delivery: Really? You're going on tour? What do you even do? What is this TITLE tour about?
-Influencer: Get a ticket and find out. Your son knows what I do, so do all the other USERNAMEers. You can't get it.
-Delivery: I'm not doing that, I don't have enough money. And I'm also not leaving until you pay for this FOOD!
-Influencer: (groans) NICKNAME get out here and pay for the FOOD! This delivery guy is a jerk!
-Roommate: (Enter stage right, Sarcastically Mutter) Yeah he's the jerk here.
-Roommate: (walk to delivery guy) I'm sorry, sometimes he gets really rude with people.
-Delivery: At least one of you has some decency.
-Influencer: Yall love NICKNAME right? Well come see them on the TITLE tour too.
-Influencer: It's gonna be lit, right NICKNAME?
-Delivery: (looks at money) Thank you, goodbye.
-Roommate: (shut door) Not right now, dude. You're taking this vlogger thing too far. I hate embarrassing myself like this.
-Influencer: Pshhh, whatever! Anyway, USERNAME nation, that's it for today's sick vlog! Remember to like, comment, and subscribe!
-Influencer: Visit SPONSOR for 20% off on whatever the heck they sell.
-Influencer: Buy my THEME CLOTHING! Come and see me on the TITLE Tour!
-Influencer: If this video gets enough likes I'll make my own FOOD topped with TOPPING and actually eat it.
-Influencer: Yo NICKNAME, tell the USERNAMEers what's good before I end the video.
-Roommate: (sigh) You want to know what's good? Me getting some new friends, that's what's good.
 
 ======
 
@@ -57995,111 +57653,6 @@ RICKY: This isn't the worst thing to happen here at PLACE.
 ======
 
 INFORMATION ===============================
-ID: 1997
-TITLE: The Director's Vision
-AUTHOR: zanbbit
-VERIFIED: True
-TAGS: Skit
-SET: Western
-DATE: 12/12/25
-CHARACTERS ================================
-DIRECTOR: Director of the film:Entrance Stage Right
-ACTOR 1: The heroic Sheriff:Stage Right
-ACTOR 2: The evil Outlaw:Center Stage
-WRITER: The Writer:Stage Left
-SUGGESTIONS =============================
-ITEM:A small non-technological item:Candle,Woodchip,Cactus Puppet
-NAME:Any name:Jackson,Wilma,Sable
-OBJECT:An important item that can be stolen:Smartphone,Sandwich,Game Boy
-PLACE:A name for an old town:Ponderosa,Sandview,Ovalon
-EXOTIC:a far away land:West China,Grassview,Mordor
-MOVIE:A title for a movie:The Cactus,Bubblegum Crisis,Movie! The Movie
-STYLE:A style or genre of movie:Film Noir,Romantic Comedy,Musical
-AWARD:An absurd or made up award name:Razzmatazz,Gold Star Sticker,You Tried
-CATEGORY:An absurd thing to win an award for:Best Boy Grip,Ladders on set,Wallet
-SCRIPT ==========================================
-western showdown music
-ACTOR 1: End of the line, Gunner. Your days of troublein' the folks of PLACE are over.
-ACTOR 2: I ain't going down without a fight, Knight.
-ACTOR 1: That's Sheriff Knight to you! Now come here! (approach the outlaw)
-WRITER: Go Sheriff Knight! Throw that outlaw in the jailhouse for good!
-ACTOR 2: Don't you come no closer! I got a sack full of stolen ITEMs here! And I ain't afraid to use it!
-ACTOR 1: Drop the sack, Gunner! We're takin back those ITEMs.
-ACTOR 2: You're gonna have to pry it from my cold dead hands ya varmint!
-music stops
-DIRECTOR: (walk out on stage) Cut!!! No all wrong! This is all wrong! There's no emotion! No stakes!
-DIRECTOR: (look at writer) Why did you make ITEMs the thing the outlaw steals?
-WRITER: MOVIE is a story all about the shortage of ITEMs in PLACE. The outlaw is one of the causes.
-WRITER: It makes sense in the greater context. ITEMs are heartbreaking to lose!
-DIRECTOR: Maybe on paper but I feel nothing from this scene in practice! We need to come up with something else.
-DIRECTOR: I got it! How about instead of stealing ITEMs the outlaw steals a OBJECT?
-DIRECTOR: And even better. What if one of the OBJECTs he stole belonged to NAME! Sheriff Knight's beloved Wife!
-ACTOR 2: Arn't OBJECTs are a little out of period?
-DIRECTOR: That doesn't matter, we'll fix it later.
-ACTOR 1: But my character never had a wife!
-DIRECTOR: Well now they do! We'll throw in some voiceover lines about them being on vacation in EXOTIC or wherever.
-WRITER: But then how did the outlaw steal from NAME if they're in EXOTIC?
-DIRECTOR: If you want to argue plotholes with me I'll take you out of this scene!
-DIRECTOR: We'll figure that out later. Let's Redo the scene where the outlaw stole NAME's OBJECT! Action! (walk off stage)
-western showdown music
-ACTOR 1: (let out a short sigh) You really are one evil varmint, Gunner! Stealin NAME's OBJECT!
-ACTOR 2: Heh, so ya did notice. Their OBJECT is the purttyest in all of PLACE.
-WRITER: Stop him Sheriff Knight! My shop is one of the last places in PLACE that still has OBJECTs and ITEMs!
-ACTOR 1: You're comin' with me Gunner! Get over here! (approach the outlaw)
-ACTOR 2: (pull OBJECT out of the sack) Not so fast, Knight. Come any closer and I'll break NAME's OBJECT.
-WRITER: You monster! You wouldn't!
-ACTOR 1: (pause for a moment) You drive a hard bargain, Gunner. But I must protect the folks of PLACE before NAME's valuables.
-ACTOR 1: I can get them a new OBJECT before they get back from EXOTIC.
-ACTOR 1: Grahhh! (run at the outlaw and start fighting him)
-fistfight
-ACTOR 2: GRR! Ya stubborn little varmint! (fight back against the sheriff)
-WRITER: Do you want me to help... Sheriff?
-music stops
-DIRECTOR: CUT! (walk on stage) Quite good. But I think it still needs something.
-DIRECTOR: I think I know what will make the scene perfect. Let's do it in the style of a STYLE movie.
-WRITER: What the heck do you mean STYLE style! This is a western!
-DIRECTOR: Excuse me! Who is the one who won a AWARD award for best CATEGORY here! That's right I DID!
-WRITER: Are you really gonna pull the AWARD card on me again! You won in a weak year!
-ACTOR 1: Look man, I signed up to act in MOVIE which is a western. I'm not doing this scene in a STYLE style!
-ACTOR 2: I feel like our costumes and accents are way to western to just change to a STYLE type scene.
-DIRECTOR: That's why it's genius! Innovative choices like this are how I got the coveted AWARD award for best CATEGORY!
-WRITER: Look at this set! How do we play off this set if we change the style of the scene!
-DIRECTOR: We don't! It's subversive! Don't argue with a AWARD award winner!
-ACTOR 1: So you are really doing this. He stole my wife's OBJECT (point at the outlaw)
-ACTOR 1: And is now going to rob the store for more OBJECTs and ITEMs 
-ACTOR 1: And we have to do this scene where I stop him in the style of a STYLE film?
-DIRECTOR: Yes you do! And if you don't, I'll fire you! I'll fire all of you! (point to writer) Even you!
-WRITER: What did I do!?
-DIRECTOR: Action!
-epic cinematic music
-ACTOR 1: Uhh... N-Not so fast Gunner... by the power of PLACE... I will stop you.
-ACTOR 2: Y-Yeah right sheri- I mean uhh... Peacekeeper Knight? I have NAME's OBJECT. What are you gonna do about it?
-WRITER: (completely disinterested) Stop him Officer Knight.
-WRITER: He's a big scary man who's coming for my store full of OBJECTs and ITEMs
-ACTOR 1: I'm gonna stop you... Now come here. (approach the outlaw)
-music stops
-DIRECTOR: CUT CUT CUT! No! What is going on!? This is nothing like a STYLE! You people are all over the place!
-ACTOR 1: (frustrated) We don't know how to do this stupid scene in the style of a STYLE movie. This wasn't in our contracts!
-ACTOR 2: I think the scene was best in its original form. All your worthless ideas have done is make it worse.
-ACTOR 2: I'm pretty sure they didn't even have OBJECTs in the old west.
-ACTOR 2: And we're just supposed to listen to you cause you have a meaningless AWARD award that no one's heard of?
-DIRECTOR: How dare you! You're fired! I worked myself to death for that AWARD award! the best CATEGORY category is very competitive!
-ACTOR 2: Good! I don't want to work with a crackpot director like you anyway! Have fun with no villain! (walk off stage)
-DIRECTOR: MOVIE will still be a great film. So what if he's gone, I still have you. (look to the sheriff)
-ACTOR 1: (shake head) No. You don't, I quit too. I agree with the other guy.
-ACTOR 1: First you come in here, change the script with this NAME character and all this OBJECT nonsense.
-ACTOR 1: Then you want me to act like I am in a STYLE movie? Just cause you won some AWARD thing? No, screw this.
-ACTOR 1: (sarcastically) Can't wait to see your masterpiece. (walk off stage)
-WRITER: I told you not to change the script. I told you it would make the actors angry.
-DIRECTOR: (angry) Then you should have wrote a script that was actually good!!
-WRITER: I'm not dealing with that kind of hostility from you. I did what I was hired to do. I quit too.
-WRITER: You wanna be a big man and make all the decisions? Go ahead. Have fun doing it alone. (walk off stage)
-DIRECTOR: They are all fools. I'll finish MOVIE and it will be a smash hit! 
-DIRECTOR: They'll see they were wrong. They will all see!
-
-======
-
-INFORMATION ===============================
 ID: 2011
 TITLE: Midnight Catch
 AUTHOR: cambriancorruption
@@ -59153,6 +58706,121 @@ REAL DAUGHTER: (crying) Mommy— you can’t just walk away!
 (DEAD) MOTHER: I already have. (Mother exits stage right. ) 
 Adopted daughter: (follows mother) Ha! Bye, losers.
 OLDER SON: (falls to his knees, sobbing)
+
+======
+
+INFORMATION ===============================
+ID: 2075
+TITLE: Crossroads of Destiny
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: 
+SET: Forest
+DATE: 27/01/26
+CHARACTERS ================================
+ADV: Adventurer:Center Stage
+TRAV: Travel Partner:Center Stage
+WEST: Guardian (West):Entrance Stage Left
+EAST: Guardian (East):Entrance Stage Right
+SUGGESTIONS =============================
+SKIB:a positive adjective:stalwart,faithful,trustworthy,fine,skibidi sigma
+LAND:an unpleasant place to go to:Detroit,Ponyland,Shrimp Town,France,Fortnite
+NAME:the name of a player in the audience:Jar,Jinx Izayoi,Lancelot
+MAT:any substance:blood,straw,mud,tungsten,drywall,thoughts and prayers
+ACTIV:something you like doing:Hit the Griddy,Cast spells,Cook,Read fanfics out loud,Watch Liveleak gore compilations
+SPELL:a well-known magic spell:fireball,magic missile,polymorph,true resurrection,power word
+VEGAS:a fun place to be:Gensokyo,Vegas,Koridai,The Amazing Digital Circus,Home
+SILV:something people invest money in for profit:bitcoin,stocks,horse racing,17 black,turnips
+DRINK:a drink or liquid:mead,the blood of my enemies,The Drink,gin and orange juice,liquid mercury
+SCRIPT:your favorite script:Films with Soul(s),Anarchy Court,Splatcast!
+STORY:any media you don't like:Helluva Boss,Dead by Daylight,Morbius,Boruto,League of Legends
+HAPPY:a phrase you use in excitement:Joyous days,Yippee,Yeeeaahh boiiiii,Joy and prosperity,This is a good result
+SCRIPT ==========================================
+peaceful fantasy music
+ADV: We've made it to the crossroads, my SKIB companion.
+Meanwhile WEST: (block the entryway)
+TRAV: So, what's the deal here? Who are these two?
+Meanwhile EAST: (block the entryway)
+ADV: These two sentinals both guard a path out of this forest. One road leads to our destination, the promised land.
+TRAV: And the other road?
+ADV: The other goes to LAND.
+waterphone
+TRAV: Yeah, I don't wanna go to LAND. How do we know which is the correct path?
+ADV: One of these guardians must always tell the truth, and the other can only speak lies.
+ADV: I believe we are permitted to ask them one question to deduce the safe exit.
+ADV: (to the guard stage left) Excuse me. If I were to ask your counterpart over there if the path you stand before is the correct choice, would they say yes?
+WEST: Yes.
+noir music 4
+ADV: (turn to the guard stage left) Then the correct exit out of the forest is that one.
+TRAV: Wawawait, I'm confused. How do you know for sure?
+ADV: I've asked a question that ensures if either of them say yes, the correct exit is the opposite exit of that sentry.
+ADV: And if they say no, the correct exit is the one you're already standing at.
+TRAV: I'm still confused. (to the guard stage right) What's up, hey, uh, does the other exit lead to the promised land?
+ADV: Ah, that won't be necessary, my SKIB partner. They won't answer anyways, we've already asked them a question.
+EAST: Yes.
+ADV: Uhhh, okay. Kinda surprised they let you do that. But you do realize both the truthful one and the lying one would give you the same answer?
+TRAV: Hey, both of you! Which path goes to LAND?
+Meanwhile ADV: What are you doing?
+WEST: Mine.
+Meanwhile EAST: Mine.
+ADV: Well, that means the truthful bloke is the western one. (point to guard stage left)
+TRAV: And this dude's the liar. (point to guard stage right)
+ADV: Now that we have our route planned, shall we venture forth?
+Music Stops
+TRAV: (out loud) What's your favorite drink?
+EAST: DRINK.
+Meanwhile WEST: We cannot drink.
+groose music
+TRAV: Hahaha, they're pretty fun to mess with! Give it a try!
+ADV: Normally, I would admonish you for toying with magical beings beyond our scope of understanding. But...
+ADV: (out loud) What are your names?
+WEST: Hendrick.
+Meanwhile EAST: NAME.
+ADV: I concede your point on this.
+TRAV: What are you both made out of?
+EAST: MAT.
+Meanwhile WEST: Stone.
+ADV: What do you do when you get bored?
+WEST: We do not get bored.
+Meanwhile EAST: ACTIV.
+TRAV: What's your favorite incantation?
+EAST: Doom.
+Meanwhile WEST: SPELL.
+ADV: Where should we go on vacation after our quest?
+EAST: LAND.
+Meanwhile WEST: VEGAS.
+TRAV: Should I invest all of my gold into SILV?
+WEST: No.
+Meanwhile EAST: No.
+TRAV: Ooh, a difference of opinion.
+ADV: What is your favorite story?
+WEST: SCRIPT.
+Meanwhile EAST: STORY.
+TRAV: Are you two into each other?
+EAST: No.
+Meanwhile WEST: No.
+record scratch
+Music Stops
+WEST: Hold on. What do you mean "no" Mr. Always Lies?
+EAST: Uhhh...
+ADV: You've really done it this time. Come now, my SKIB friend. No need to interfere in a lover's quarrel. The promised land awaits. (exit stage right)
+Meanwhile TRAV: (slowly exit stage right)
+emotional piano music
+WEST: Thank the first emperor of VEGAS they're gone. Now, is there something you've got on your mind? (meet them center stage)
+EAST: (meet them center stage) Not at all. I can't stand being near you.
+EAST: I don't have any suppressed feelings for you, and I want things to stay the way they are now.
+WEST: I didn't know you were hiding these feelings.
+EAST: (clearly smitten) Your face disgusts me, Hendrick. Every day being with you is agonizing torture. I... I hate you!
+WEST: (calm) I think I understand, not-NAME. I ignored my feelings too, and in a way, I told my first lie when I said I wasn't into you.
+WEST: I love you too. Will you be my partner, now and forever more?
+EAST: (pause, emotional) No. No, I won't!
+crowd woo
+WEST: HAPPY! Together, we will be a couple to surpass the tale of SCRIPT! (embrace)
+EAST: (embrace happily) I'm so angry and horrified right now. May our union end swiftly and bring us misery! A fairy tale couple to rival STORY!
+WEST: (sigh) Now that I think about it, should we have told those adventurers that their so-called promised land and LAND are the same place?
+Music Stops
+EAST: Probably not.
+waterphone
 
 ======
 
@@ -61702,6 +61370,318 @@ CREATURE: Hey, if it's not too much trouble, can you generate me a partner?
 ======
 
 INFORMATION ===============================
+ID: 1806
+TITLE: The Secret Sauce
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: 
+SET: Infomercial Kitchen
+DATE: 20/08/25
+CHARACTERS ================================
+VICTORIA: The one who knows the recipe:Backstage
+NEWMAN: A new employee:Center Stage
+FURST: A new employee:Stage Left
+SUS: A spy posing as a new employee:Entrance Stage Right
+SUGGESTIONS =============================
+CHAIN:A name a fast food chain may have:Chicken Queen,Softies,Bad Foods Inc.
+FOOD:A food item a restaurant would specialize in:Burger,Ice Cream,Fried Bread
+PLACE:A city or country:Pompei,Atlantis,Skyrim
+NEWS:A name a news source may have:Hieratic Herald,Compass NEWS,New News
+BAD:An object that is inedible:Water Bottle,Hair,Coin
+INGREDIENT:A common ingredient used in cooking:Sugar,Flower,Vinegar
+RIVAL:A name a fast food chain may have:Big Bill's Buffet,Authentic Food,MacDonalds
+OTHER:A city or country:Liberty City,Cambodia,Brazil
+ILLEGAL:An illegal substance to have:Uranium,Morphine,Marijuana
+LIQUID:A liquid substance:Pepsi,Hydrochloric Acid,Crude Oil
+FRUIT:Any Fruit:Apple,Durian,Pepper X
+LAST:A last name someone may have:Davis,Robinflea,Jagginov
+SCRIPT ==========================================
+(french music)
+NEWMAN: Okay this is my first real job. Just relax.
+NEWMAN: I only got a job with CHAIN, the biggest FOOD chain in PLACE!
+NEWMAN: And I'm also about to learn their top secret recipe! No pressure at all!
+FURST: I'm not super worried. It's my first job too but it's like... whatever man.
+FURST: CHAIN is just another fast food place to me, no big deal.
+FURST: Am I supposed to be impressed that they're the biggest chain in PLACE? I'm not.
+NEWMAN: I wish I could be as calm and collected as you. I just wanna make a good first impression.
+SUS: (Sneak in and look at the kitchen setup. Mutter to self) Hmm... Nothing here.
+FURST: (Notice the new person) Hey, you a new employee too?
+SUS: (Look at the others) O-Oh yeah! I was just scanning the kitchen cause I'm really excited to get started!
+NEWMAN: They said we'll start using the kitchen after we're told the recipe. I am excited to learn it.
+FURST: I heard from NEWS that one of the ingredients is ground up BADs.
+NEWMAN: Really? You actually get your facts from NEWS? Don't they lie all the time?
+SUS: Nah, NEWS is a great source! I get my info from there too!
+VICTORIA: (Walk on stage) Alright. Mr. Newman and Mr. Furst you are our new cooks so I am here to...
+VICTORIA: Wait a minute? There are 3 of you? I was told only Newman and Furst would be here.
+SUS: Ohh, uhh sorry. You can call me uhh... LAST! I was brought on last minute.
+VICTORIA: Hmmm... I see. Very well Mr. LAST. I am Victoria and I'm going to teach you our secret formula.
+VICTORIA: We here at CHAIN pride ourselves on quality.
+VICTORIA: The great taste of our signature FOOD is due, in part, to the secret formula you all will learn to make today.
+VICTORIA: (Look around the kitchen) First we need INGREDIENT. We always start with the INGREDIENT.
+FURST: Do we use ground up BAD at any point?
+VICTORIA: UGH, you must have read that in the NEWS. No, that's preposterous, we don't use that.
+NEWMAN: See I told you! The NEWS is full of liars!
+VICTORIA: That was a fake rumor that our rival, RIVAL sold to NEWS to make us look bad.
+NEWMAN: Really, RIVAL? did that? That's low!
+FURST: UGH, RIVAL. It doesn't even sound appetizing. Who would work for them anyway!?
+SUS: I mean... I still think their food is pretty good, especially their FOOD.
+SUS: B-But they shouldn't be spreading false rumors like that. Very unprofessional!
+VICTORIA: Their FOOD is not as good as ours. That's why they want to get their hands on our secret formula.
+VICTORIA: They are already the biggest fast food chain in OTHER. Now they want to break into the PLACE market.
+VICTORIA: Oh! Here's the INGREDIENT. (Pull the INGREDIENT out and set it on the table)
+VICTORIA: So we add 10 cups of INGREDIENT into a large heated pot on the stove.
+SUS: (Write down the information) You said 10 cups?
+VICTORIA: Yes I did. Why are you writing this down?
+SUS: Uhh... I have a bad memory so I want to make sure I have everything right.
+VICTORIA: You should get rid of it after you memorize the formula. Now we have the INGREDIENT as a base.
+VICTORIA: Our next piece is quite controversial.
+VICTORIA: After the INGREDIENT is boiling, we add just one tablespoon of ILLEGAL.
+SUS: No Way! (Frantically writes down)
+FURST: ILLEGAL hunh?
+VICTORIA: It dissolves immediately because of the heat but it provides an addictive flavor.
+NEWMAN: Do you have any Substitutes for the ILLEGAL? I'm not sure if that stuff is easy to come by.
+VICTORIA: No, we need to use ILLEGAL, there is nothing else that gives it the same taste. We have good connections though.
+SUS: You are aware you can be arrested for using that right? I'm pretty sure it's illegal to use ILLEGAL in food and stuff.
+VICTORIA: (Walk over to the employee) That's why you all signed NDA's before we brought you on.
+VICTORIA: Besides, we really just add it for flavor and nothing else.
+FURST: So what do we add next?
+VICTORIA: After the ILLEGAL, you add 1 cup of FRUIT. This can be substituted for another fruit if we are low on supplies.
+NEWMAN: I know FRUIT and it has a very distinct taste. Won't using different fruits mess with the flavor?
+VICTORIA: Not as much as you think. Most people don't notice the flavor FRUIT brings to the formula so most don't miss it.
+SUS: (Mutter) Good stuff. This is good stuff. (Writing the information down.)
+FURST: So what do we do with the FRUIT? Peel and shred it?
+VICTORIA: (Nods) Yes. After the FRUIT is added. We have one more ingredient. That being 1 cup of LIQUID.
+VICTORIA: After the liquid is added, the secret formula is done! You just keep it on low heat from there.
+NEWMAN: So we finish off with LIQUID?
+FURST: Now we're talking my language! I drink LIQUID religiously! Hope I don't drink all your stock.
+VICTORIA: Highly unlikely. But now, with all the ingredients here, we can finally start cooking.
+SUS: I'm actually good. I got all the info I needed so I quit. What a simpleton you are, Victoria!
+(silly music 1)
+SUS: I have it all written down. ten cups of INGREDIENT, a tablespoon of ILLEGAL
+SUS: One cup of shredded FRUIT and and a cup of LIQUID
+SUS: Now that I have the CHAIN secret formula, RIVAL will have the best FOOD in PLACE!
+SUS: We won! WE FINALLY WON! (Run off stage laughing)
+FURST: Uhh... did that just like... happen?
+NEWMAN: I think you should inform your boss about this, Victoria! It could be bad for CHAIN!
+VICTORIA: (Chuckles) No need, he will soon find out he made a big mistake. Now that he's gone I can give you the real secret formula.
+NEWMAN: What do you mean? didn't we just hear it?
+VICTORIA: I knew LAST was a RIVAL spy, so the recipe you just heard was a fake, meant to trick fools like him.
+FURST: Ohh... I like that, it's devious. I knew there was a reason I wanted to work for you guys.
+VICTORIA: If they try to obtain ILLEGAL, they'll be in serious trouble.
+VICTORIA: We don't use ILLEGAL or FRUIT or LIQUID in our secret formula.
+NEWMAN: Aww man, I was looking forward to working with FRUIT.
+FURST: I should have known. Using LIQUID almost sounded too good to be true.
+NEWMAN: So what's the real recipe? What do you use?
+VICTORIA: Well, let's take it from the top again.
+
+======
+
+INFORMATION ===============================
+ID: 1856
+TITLE: The Vlogger Life
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 14/10/25
+CHARACTERS ================================
+INFLUENCER: Famous Internet Star:Entrance Stage Right
+ROOMMATE: Internet Stars Roommate:Center Stage
+DELIVERY: A Delivery Person:Backstage
+SUGGESTIONS =============================
+WEBSITE:Enter the name of a website:TouYoob,ClickClock,Tumbler
+USERNAME:A username someone would have online:SonicDash,John Famus,Parkimlier
+NICKNAME:A silly or playful nickname one would have for a friend:Dweeb,Hobknocker,Friend... With Benefits
+SPONSOR:A company that would sponsor a video:Blue Apron,Inaudible,Worse Hurt
+PRODUCT:Any functional object someone can buy:Towel Rack,Snow Globe,Knife
+TOPPING:A food topping:Pineapple,Cinnamon,Caramel Glaze
+CELEBRITY:name any celebrity :George Clooney,Taylor Swift,Homer Simpson
+CLOTHING:Any clothing item:Hoodie,Shoes,Fishnet Thigh Highs
+THEME:A theme for an event:Medieval,1920's,Vaporwave
+TITLE:Any object:Waffle Iron,Daddy's Money,Padlock
+FOOD:Name a type of food:Chicken,Haggis,Soup
+SCRIPT ==========================================
+jazz music 2
+Roommate: Ahh, what a lovely day. It's nice and quiet, no distractions.
+Roommate: I get to live in this big house that my friend bought with their WEBSITE money.
+Roommate: Life is pretty good... hopefully I can just relax, maybe play some piano.
+badass music 1
+Influencer: Yo! Whazzup WEBSITE!? It's ya boi USERNAME!
+Influencer: Yall know what it is! We out here puttin' the flu in Influencer! Droppin' all this siok content!
+Roommate: (mutter) Oh no, not this again.
+Influencer: We're doing a house tour today, that's right my USERNAMEers. You're gonna see how a king lives!
+Influencer: Let's see what the NICKNAME is up to first (walk to roommate) Wazzup NICKNAME!?
+Roommate: (sigh) Can we not do this today?
+Influencer: (say through gritted teeth) Just play along for the video or I'm going to kick you out!
+Roommate: Yoooo! What's good USERNAME!? Who are we gettin that cash from today!?
+Influencer: Well I'm glad you asked, NICKNAME! This video is brought to you by SPONSOR!
+Influencer: Click the link below to get 20% off your next SPONSOR purchase! I love SPONSOR! I use their stuff all the time!
+Influencer: Yo, NICKNAME, tell the USERNAMEers why they should use SPONSOR.
+Roommate: (take a deep breath) I mean SPONSOR is just really cool. I love their PRODUCT... they sell PRODUCTs right?
+Influencer: YO! If they don't they totally should. Hey USERNAMEers, get on that. Get SPONSOR to start selling PRODUCTs!
+Influencer: We should do a prank, hey NICKNAME, call up a FOOD delivery guy for me!
+Roommate: (Groan and walk to the phone. Speak in monotone voice) This is gonna be so epic, dude.
+Influencer: While NICKNAME is doing that, let's start on this house tour!
+Influencer: Look at my paino guys! It's really OUR paino. You helped me get it by watching my videos getting me that big WEBSITE money.
+Influencer: Look at this fireplace! What am I, a grandma or a supervillan!? Comment below and let me know!
+Roommate: They asked if you want anything with the FOOD.
+Influencer: Okay guys, here's the epic prank. Tell them I want TOPPING as a topping.
+Roommate: Come on, they won't have that!
+Influencer: That's why it's funny! DO IT!
+Roommate: Yes I would like to have that topped with TOPPING... Oh... Uhh okay, bye.
+Roommate: They said they're on their way.
+Influencer: That's so stupid! Yo USERNAMEers! Watch to the end to see the FOOD delivery guy get epically pranked!
+Roommate: I'm going into the other room, I don't want to be a part of this. (exit stage right)
+Influencer: Look at these couches guys! I actually got them gifted to me by CELEBRITY.
+Influencer: Remember guys! You gotta rise and grind everyday to make it big! Do that and you can meet CELEBRITY too!
+doorbell
+Delivery: Hello? Someone here order a FOOD with TOPPING topping?
+Influencer: (walk to door and open) Took you long enough.
+Delivery: I have the FOOD you ordered. I don't know what sicko puts TOPPING on a FOOD but here.
+Influencer: Hmmm I don't know if I am feeling hungry anymore. It took you a pretty long time to get here.
+Delivery: Look kid, I'm not in the mood for jokes. Do you want this thing or not? I got actual paying customers to serve.
+Influencer: How about this. I'll buy the FOOD if you buy my new CLOTHING!
+Delivery: Your new what!?
+Influencer: Available now on my USERNAME store! Get the sick new exclusive THEME CLOTHING! And look better than this lame dude!
+Delivery: Wait a minute are you really USERNAME?
+Influencer: Oh are you a USERNAMEer? Maybe you're not that lame after all.
+Delivery: My kid is obsessed with your videos. Can you try to be a better person? He's started calling me NICKNAME.
+Delivery: He said he learned it from watching you. You always call your roommate NICKNAME.
+Delivery: And I know he's gonna want the new THEME CLOTHINGs you're trying to sell now too. Do you think we're made of money?
+Delivery: I am literally just a FOOD delivery guy!
+Influencer: Whatever. You're just jealous that your son has role models like me to look up to.
+Delivery: You're a horrible role model! Take this FOOD and pay me before I punch you in the face.
+Influencer: Nah, I don't want it! It was just a prank bro! HA!
+Influencer: (turn to audience) But you want to know what isn't a prank, dear USERNAMEers? The tour I'm going on!
+Influencer: Come and see me on my new TITLE tour starting next week! Imma be hittin' a bunch of towns!
+Influencer: Why is it called the TITLE tour, you ask? Well come and see me to find out!
+Influencer: I'll also be selling special TITLE tour themed CLOTHING too! Come and get the sickest merch around!
+Delivery: Really? You're going on tour? What do you even do? What is this TITLE tour about?
+Influencer: Get a ticket and find out. Your son knows what I do, so do all the other USERNAMEers. You can't get it.
+Delivery: I'm not doing that, I don't have enough money. And I'm also not leaving until you pay for this FOOD!
+Influencer: (groans) NICKNAME get out here and pay for the FOOD! This delivery guy is a jerk!
+Roommate: (Enter stage right, Sarcastically Mutter) Yeah he's the jerk here.
+Roommate: (walk to delivery guy) I'm sorry, sometimes he gets really rude with people.
+Delivery: At least one of you has some decency.
+Influencer: Yall love NICKNAME right? Well come see them on the TITLE tour too.
+Influencer: It's gonna be lit, right NICKNAME?
+Delivery: (looks at money) Thank you, goodbye.
+Roommate: (shut door) Not right now, dude. You're taking this vlogger thing too far. I hate embarrassing myself like this.
+Influencer: Pshhh, whatever! Anyway, USERNAME nation, that's it for today's sick vlog! Remember to like, comment, and subscribe!
+Influencer: Visit SPONSOR for 20% off on whatever the heck they sell.
+Influencer: Buy my THEME CLOTHING! Come and see me on the TITLE Tour!
+Influencer: If this video gets enough likes I'll make my own FOOD topped with TOPPING and actually eat it.
+Influencer: Yo NICKNAME, tell the USERNAMEers what's good before I end the video.
+Roommate: (sigh) You want to know what's good? Me getting some new friends, that's what's good.
+
+======
+
+INFORMATION ===============================
+ID: 1997
+TITLE: The Director's Vision
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: Skit
+SET: Western
+DATE: 12/12/25
+CHARACTERS ================================
+DIRECTOR: Director of the film:Entrance Stage Right
+ACTOR 1: The heroic Sheriff:Stage Right
+ACTOR 2: The evil Outlaw:Center Stage
+WRITER: The Writer:Stage Left
+SUGGESTIONS =============================
+ITEM:A small non-technological item:Candle,Woodchip,Cactus Puppet
+NAME:Any name:Jackson,Wilma,Sable
+OBJECT:An important item that can be stolen:Smartphone,Sandwich,Game Boy
+PLACE:A name for an old town:Ponderosa,Sandview,Ovalon
+EXOTIC:A name for a far away land:West China,Grassview,Mordor
+MOVIE:A title for a movie:The Cactus,Bubblegum Crisis,Movie! The Movie
+STYLE:A style or genre of movie:Film Noir,Romantic Comedy,Musical
+AWARD:An absurd or made up award name:Razzmatazz,Gold Star Sticker,You Tried
+CATEGORY:An absurd thing to win an award for:Best Boy Grip,Ladders on set,Wallet
+SCRIPT ==========================================
+western showdown music
+ACTOR 1: End of the line, Gunner. Your days of troublein' the folks of PLACE are over.
+ACTOR 2: I ain't going down without a fight, Knight.
+ACTOR 1: That's Sheriff Knight to you! Now come here! (approach the outlaw)
+WRITER: Go Sheriff Knight! Throw that outlaw in the jailhouse for good!
+ACTOR 2: Don't you come no closer! I got a sack full of stolen ITEMs here! And I ain't afraid to use it!
+ACTOR 1: Drop the sack, Gunner! We're takin' back those ITEMs.
+ACTOR 2: You're gonna have to pry it from my cold dead hands ya varmint!
+music stops
+DIRECTOR: (walk out on stage) Cut!!! No! all wrong! This is all wrong! There's no emotion! No stakes!
+DIRECTOR: (look at writer) Why did you make ITEMs the thing the outlaw steals?
+WRITER: MOVIE is a story all about the shortage of ITEMs in PLACE. The outlaw is one of the causes.
+WRITER: It makes sense in the greater context. ITEMs are heartbreaking to lose!
+DIRECTOR: Maybe on paper but I feel nothing from this scene in practice! We need to come up with something else.
+DIRECTOR: I got it! How about instead of stealing ITEMs the outlaw steals a OBJECT?
+DIRECTOR: And even better. What if one of the OBJECTs he stole belonged to NAME! Sheriff Knight's beloved Wife!
+ACTOR 2: Arn't OBJECTs a little out of period?
+DIRECTOR: That doesn't matter, we'll fix it later.
+ACTOR 1: But my character never had a wife!
+DIRECTOR: Well now they do! We'll throw in some voiceover lines about them being on vacation in EXOTIC or wherever.
+WRITER: But then how did the outlaw steal from NAME if they're in EXOTIC?
+DIRECTOR: If you want to argue plotholes with me I'll take you out of this scene!
+DIRECTOR: We'll figure that out later. Let's Redo the scene where the outlaw stole NAME's OBJECT! Action! (walk off stage)
+western showdown music
+ACTOR 1: (let out a short sigh) You really are one evil varmint, Gunner! Stealin NAME's OBJECT!
+ACTOR 2: Heh, so ya did notice. Their OBJECT is the purttyest in all of PLACE.
+WRITER: Stop him Sheriff Knight! My shop is one of the last places in PLACE that still has OBJECTs and ITEMs!
+ACTOR 1: You're comin' with me Gunner! Get over here! (approach the outlaw)
+ACTOR 2: (pull OBJECT out of the sack) Not so fast, Knight. Come any closer and I'll break NAME's OBJECT.
+WRITER: You monster! You wouldn't!
+ACTOR 1: (pause for a moment) You drive a hard bargain, Gunner. But I must protect the folks of PLACE before NAME's valuables.
+ACTOR 1: I can get them a new OBJECT before they get back from EXOTIC.
+ACTOR 1: Grahhh! (run at the outlaw and start fighting him)
+fistfight
+ACTOR 2: (fight back against the sheriff) GRR! Ya stubborn little varmint! 
+WRITER: Do you want me to help... Sheriff?
+music stops
+DIRECTOR: CUT! (walk on stage) Quite good. But I think it still needs something.
+DIRECTOR: I think I know what will make the scene perfect. Let's do it in the style of a STYLE movie.
+WRITER: What the heck do you mean STYLE style! This is a western!
+DIRECTOR: Excuse me! Who won a AWARD award for best CATEGORY here! That's right I DID!
+WRITER: Are you really gonna pull the AWARD card on me again! You won in a weak year!
+ACTOR 1: Look man, I signed up to act in MOVIE which is a western. I'm not doing this scene in a STYLE style!
+ACTOR 2: I feel like our costumes are way too western to just change to a STYLE type scene.
+DIRECTOR: That's why it's genius! Innovative choices like this are how I got the coveted AWARD award for best CATEGORY!
+WRITER: Look at this set! How do we play off this set if we change the style of the scene!
+DIRECTOR: We don't! It's subversive! Don't argue with a AWARD award winner!
+ACTOR 1: So you are really doing this? (point at the outlaw) He stole my wife's OBJECT 
+ACTOR 1: And is now going to rob the store for more OBJECTs and ITEMs 
+ACTOR 1: And we have to do this scene where I stop him in the style of a STYLE film?
+DIRECTOR: Yes you do! And if you don't, I'll fire you! I'll fire all of you! (point to writer) Even you!
+WRITER: What did I do!?
+DIRECTOR: Action!
+epic cinematic music
+ACTOR 1: Uhh... N-Not so fast Gunner... by the power of PLACE... I will stop you.
+ACTOR 2: Y-Yeah right sheri- I mean uhh... Peacekeeper Knight? I have NAME's OBJECT. What are you gonna do about it?
+WRITER: (completely disinterested) Stop him Officer Knight.
+WRITER: He's a big scary man who's coming for my store full of OBJECTs and ITEMs
+ACTOR 1: I'm gonna stop you... Now come here. (approach the outlaw)
+music stops
+DIRECTOR: CUT CUT CUT! No! What is going on!? This is nothing like a STYLE! You people are all over the place!
+ACTOR 1: (frustrated) We don't know how to do this stupid scene in the style of a STYLE movie. This wasn't in our contracts!
+ACTOR 2: I think the scene was best in its original form. All your worthless ideas have done is make it worse.
+ACTOR 2: I'm pretty sure they didn't even have OBJECTs in the old west.
+ACTOR 2: And we're just supposed to listen to you cause you have a meaningless AWARD award that no one's heard of?
+DIRECTOR: How dare you! I worked myself to death for that AWARD award! The best CATEGORY category is very competitive! You're Fired!
+ACTOR 2: Good! I don't want to work with a crackpot director like you anyway! Have fun with no villain! (walk off stage)
+DIRECTOR: MOVIE will still be a great film. So what if he's gone, I still have you. (look to the sheriff)
+ACTOR 1: (shake head) No. You don't, I quit too. I agree with the other guy.
+ACTOR 1: First you come in here, change the script with this NAME character and all this OBJECT nonsense.
+ACTOR 1: Then you want me to act like I am in a STYLE movie? Just cause you won some AWARD thing? No, screw this.
+ACTOR 1: (sarcastically) Can't wait to see your masterpiece. (walk off stage)
+WRITER: I told you not to change the script. I told you it would make the actors angry.
+DIRECTOR: (angry) Then you should have wrote a script that was actually good!!
+WRITER: I'm not dealing with that kind of hostility from you. I did what I was hired to do. I quit too.
+WRITER: You wanna be a big man and make all the decisions? Go ahead. Have fun doing it alone. (walk off stage)
+DIRECTOR: They are all fools. I'll finish MOVIE and it will be a smash hit! 
+DIRECTOR: They'll see they were wrong. They will all see!
+
+======
+
+INFORMATION ===============================
 ID: 1934
 TITLE: FIlms With Soul(s)
 AUTHOR: ModalSoul
@@ -62797,6 +62777,324 @@ TELEPORT DRUMS to BACKSTAGE
 LEAD G: I think we should break up the band.
 LEAD G: Yeah...
 BASS: Is there anymore DRINK?
+
+======
+
+INFORMATION ===============================
+ID: 1789
+TITLE: The Polite Robery
+AUTHOR: -X E R O-
+VERIFIED: True
+TAGS: 
+SET: Conference Room
+DATE: 11/08/25
+CHARACTERS ================================
+ROBBER: The awkward Robber:Entrance Stage Left
+TELLER: The Bank Teller:Office Chair 1
+GUARD: The Security Guard:Stage Right
+SUGGESTIONS =============================
+PROBLEM:an event or problem you might see in a bank:grandma yelling at a ATM,kids holding a tantrum,no coffee
+WATERGUN:name for water gun/plastic toy gun:Super Soaker 3000,WaterBlast Cyclone,Spyra Three,Garden Hose
+STICKER:cute animal or character:dolphin,turtle,pony
+WEAPON:a weapon or something that can be used as one:sword,katana,hammer,scissors
+TRANSPORT:a transport vehicle of any sort:car,bike,scooter,horse
+DRINK:an expensive or elaborate coffee order:Latte macchiato,Cappuccino,White Mocha,Caramel macchiato
+CATNAME:name for a cat:Mr.Whiskers,Tiger,Toast,Hairball
+MONEY:dollar amount:400,500,1000
+SCRIPT ==========================================
+(jazz music 2)
+GUARD: (look out the window) Very boring today, huh?
+TELLER: Yep. Nothing’s happening.
+GUARD: Not even a fake alarm or a PROBLEM
+GUARD: Well besides that weird looking TRANSPORT over there on the street.
+TELLER: Besides a TRANSPORT being park here on a Sunday.
+TELLER: Is this a very normal, boring Sunday. The kind of Sunday where absolutely nothing-
+(music stops)
+(door creak)
+ROBBER: Uh… hi. This is… a robbery? Put the money in the bag... Please?
+(vine boom)
+TELLER: …Please?
+(groose music)
+ROBBER: Yeah, I don’t wanna be rude about it.
+GUARD: Wait, is this serious or, like… a skit or prank video thing?
+ROBBER: Serious. very serious. Why are you asking that?
+GUARD: Cool. Just checking.
+ROBBER: Ok so can you put the money in the bag please?
+TELLER: You are aware that you’re holding a WATERGUN, right?
+ROBBER: Yeah, but i painted it black, so it’s intimidating.
+TELLER: It still says “WATERGUN” in rainbow letters.
+GUARD: And it’s got a STICKER sticker on the side.
+ROBBER: …It’s a tactical STICKER.
+TELLER: You couldn’t get a real weapon?
+ROBBER: I almost brought a WEAPON… but that just felt too aggressive.
+ROBBER: Like i said i dont wanna be rude and look like a criminal.
+TELLER: Ok so... what is your state of business mister robber?
+ROBBER: My cat.
+TELLER: Your cat?
+ROBBER: Yes my cat
+TELLER: Sorry i don't understand. Your cat is making you do this?
+ROBBER: Yes. My cat needs therapy.
+(vine boom)
+TELLER: …Therapy?
+ROBBER: Yeah. He’s been… different since the toaster incident.
+GUARD: Toaster incident... what happened?
+ROBBER: The toast.... Popped out
+TELLER: Popped out? isn't that how toaster works?
+ROBBER: Yes but, This time it popped out with force. And shot the toast towards the ceiling and demolished the toast...
+ROBBER: Grilledcheese everywhere. And my cat often sits next to the toaster. He loves the heat.
+ROBBER: So when that happened he got scared and ran out of the room.
+GUARD: Oh, so your cat’s afraid of breakfast now?
+ROBBER: Yeah. He won’t go near the toaster or even the water cooker anymore.
+TELLER: Sounds like he needs some serious... purr-suasive therapy.
+(laughter)
+ROBBER: I tried that. He just stares at me judgmentally and knocks over my coffee.
+GUARD: Your cat sounds like a hand-full.
+ROBBER: Trust me, it’s a constant struggle. Hence, the robbery.
+GUARD: Oh yea i almost forgot that this was a robbery.
+(silly music 1)
+GUARD: So, uh… do you want me to stop him or?...
+TELLER: I mean… he’s unable to harm any of us at the moment. And he got a sad story.
+TELLER: And more importantly: He is really bad at this...
+ROBBER: Hey! i am still here! And i am trying my best ok!
+GUARD: Yeah yeah... effort counts. Say did you fix a get-away-driver too?
+ROBBER: No… my mom dropped me off by TRANSPORT
+GUARD: By TRANSPORT? Ah so the TRANSPORT parked outside is yours.
+TELLER: Well that makes sense now.
+GUARD: So uhh... anyone want a coffee?
+TELLER: Neh I’m good. I gotta check with the manager about this. (leave stage)
+ROBBER: I’ll take one.
+GUARD: What do you like?
+ROBBER: I would like a DRINK
+GUARD: We only got black. You want sugar, milk?
+ROBBER: How do you guys not have a DRINK.
+ROBBER: I thought a bank would got money enough to effort a DRINK.
+GUARD: Are you robbing us money or are you here for a DRINK?
+ROBBER: But-... fine... 2 sugars and milk please...
+GUARD: Here you go (hand over coffee)
+GUARD: So… your cat, huh? What’s his name?
+ROBBER: CATNAME
+GUARD: CATNAME? Classic. How old is he?
+ROBBER: Ten. A bit grumpy these days.
+GUARD: Ten’s a good age. Old enough to be wise, young enough to still knock stuff off tables.
+ROBBER: Yeah. Mostly the latter. Especially my coffee.
+GUARD: Does he like catnip or is he more of a fancy treat guy?
+ROBBER: Oh, definitely the fancy treats. But after the toaster incident, he’s suspicious of anything new.
+GUARD: Tough crowd. Sounds like he runs the house.
+ROBBER: Believe me, he does.
+(silly music 2)
+TELLER: (Walk back on stage) Okay, manager says we don’t have bills on hand right now.
+ROBBER: No bills? like paper bills?
+TELLER:Yep! We can only pay out in nickels.
+(vine boom)
+ROBBER: Nickels? Seriously?
+GUARD: Wait… we are actually giving him money?
+TELLER: Here you go.(hand over a big bag of nickels)
+TELLER: This is $MONEY in nickels.
+GUARD: That seems pretty heavy. You go to the gym?
+ROBBER: No.
+GUARD: Well, that's going to be a hard workout for you just to walk out the door.
+TELLER: Or...or... hear me out. Or uou could also just take less. Or nothing at all.
+ROBBER: No! That’s not how robberies work!
+TELLER: Sure sure you are the boss. Do you want a receipt for that?
+ROBBER: Yeah ofcourse. For tax purposes.
+GUARD: You're gonna declare this on your taxes?
+ROBBER: Yeah duh... Just because i am robbing, does not mean i am stealing.
+(vine boom)
+GUARD: Sure Sure you are the boss. Do you want a hand with that?
+ROBBER: (move slowly towards the exit) NO! I am... fine...
+ROBBER: I... uh- will... go... now...
+ROBBER: This... was.. easier... than... I- (trip and fall, Continue out the door)
+(crashing debris)
+(music stops)
+GUARD: So uhm... have you called the cops? Or the manager? Or something?
+TELLER: Yup. Manager was laughing when I told him the news.
+TELLER: He said: "Pay him out in nickels, that would be hilarious." As he called the cops.
+GUARD: (look outside the window) Oh look he is almost at the TRANSPORT. 
+(police car)
+TELLER: Looks like the cops are here too.
+TELLER: You can already see them laughing.
+GUARD: I’m definitely watching this later on the cameras. We got 4K, by the way, so we can see the whole show again.
+TELLER: This might go viral on TikTok. I’ll go grab the popcorn.
+(laughter)
+
+======
+
+INFORMATION ===============================
+ID: 1982
+TITLE: Alien Food Stand
+AUTHOR: Temple475
+VERIFIED: True
+TAGS: 
+SET: City
+DATE: 08/12/25
+CHARACTERS ================================
+ALIEN: Food-liking Alien:Entrance Stage Right
+STAND: Food stand owner:Center Stage
+MOM: Family member:Backstage
+EMPIRE: Space Empire Alien:Backstage
+HERO: The Hero:Backstage
+SUGGESTIONS =============================
+FOOD:Kind of food:Taco,Kebab,Pizza,Dumplings
+NAME:Name of a alien:V-1111111,Greg,Fork
+TEAM:name of a hero team:Hero League,Powerful Rangers,The Five
+NOUN:an adjective:Yellow,Annoying,Weird
+NICK:Affectionate nickname:Cupcake,Sweetie,Sweetheart
+SPACE:Space Empire name:Galactic Coalition,The Empire,Grok Empire
+WORKPLACE:Somewhere somebody can work:amazon warehouse,Denny's,office building that sells drugs
+FRIENDS ACTIVITY:Something two very good friends can do:get married,go bowling,watch anime together
+ORGAN:Any human organ or part of the body:face,heart,spleen
+BAD STUFF:Something bad that humans can do, or have done before:deforestation,great depression of the 1930s,Vietnam war,heroin
+MOTHER:Any type of family member:brother,mother,dog,grandma
+SCRIPT ==========================================
+Jazz music 2
+STAND: Ugh, it's so hard getting customers these days.
+ALIEN: (Enter stage right, crawling on the ground) I'm starving... If only had some FOOD to eat .
+STAND:( Look at the alien) Oh no you look very hungry pal, here you can have a piece of FOOD.
+ALIEN: (Eat the FOOD) Thank you good sir, how could I possibly repay you?
+STAND: Hmm, I could use someone to help me promote help my FOOD stand. What's your name?
+ALIEN: I am NAME, I was actually beaten by TEAM a few weeks ago and now I live on the street.
+STAND: Oooh monster defeated by a team of powerful heroes turning new leaf will make a great newspaper article.
+STAND: And will bring a lot of people to the stand.
+TYPEWRITER: Few hours later
+ALIEN: (Advertising loudly) Come one, come all, and taste some delicious FOOD!
+HERO: (Enter stage left) I heard a friend of mine reccomending a FOOD stand that's supposed to be around here.
+STAND: Oh, you are the NOUN one from the TEAM.
+HERO: Oh no need to put me on their level, I'm still new to the TEAM.
+HERO: I did manage to beat SPACE's monster on my first mission.
+Teleport EMPIRE to Center Stage
+alien teleport
+EMPIRE: Ah! There you are NAME, I see the TEAM failed to actually dispose of you...
+EMPIRE: And now instead of being a menacing SPACE soldier you're a mere human's food stand mascot.
+HERO: At least he turned over a new leaf!
+EMPIRE: Ah the TEAMs new recruit, our fight here might make it so the rest will come.
+EMPIRE: We're going to meet again...
+EMPIRE: In the name of SPACE!
+Teleport EMPIRE to Backstage
+HERO: Have you thought about making him your employee, a apprentice perhaps?
+STAND: I'd have to ask my MOTHER first.
+STAND: (Call your MOTHER) Yes mother, I'd like ask you something...
+STAND: Please, I told you not to call me NICK
+STAND: (Talking on phone) Oh you're close? Well then, come here! (Hang up)
+MOM: (Enter Stage Right) Here I am, NICK!
+MOM: So what is it you wanted to ask me?
+STAND: So this alien-- I mean NAME-- Do you think he could work for us?
+MOM: (Look at the alien) Hmm, I don't trust him. He caused a ruckus at Uncle Jack's WORKPLACE a few weeks ago.
+STAND: He clearly turned over a new leaf. Please, MOTHER!
+MOM: I'll have to think about this...
+Teleport EMPIRE to Center Stage
+EMPIRE: Ahh, I have returned!
+EMPIRE: Hijacking TEAM communication servers took some time...
+EMPIRE: But now I can fight you without any nuisances.
+HERO: I can beat you fair and square 1 on 1!
+Music stops
+EMPIRE: But first, let me show you an example! (Aim gun at the MOTHER)
+ALIEN: (Stand in front of the MOTHER to protect them) Noooo!
+raygun shot
+Explosion
+Lacrimosa music
+ALIEN: (Get shot) Gahhhh! (Fall onto the ground)
+MOM: Mister NAME!
+MOM: Why did you sacrifice yourself to protect me?
+ALIEN: Your son has shown me that humans aren't so bad, you know, despite the BAD STUFF.
+ALIEN: Shush now, I'll be fine... He only shot me in the ORGAN... (Leave stage left crawling)
+Meanwhile MOM: (leave stage left)
+HERO: You'll pay for this, crook!
+EMPIRE: Let's see you try! Glory to the SPACE! (Leave stage right)
+Meanwhile HERO: (Follow the evil alien) 
+TYPEWRITER: One epic battle of massive proportions later
+HERO: (Entire stage right) Oh hey there friend, I see you're doing well
+STAND: I suppose I kinda am, after your battle my stand got a lot of attention
+HERO: And what about your friend?
+STAND: Well... after that battle, he and my mother decided FRIENDS ACTIVITY.
+aww
+STAND: Then they opened up a WORKPLACE.
+aww
+
+======
+
+INFORMATION ===============================
+ID: 2096
+TITLE: The Entity
+AUTHOR: LeDerp_64
+VERIFIED: True
+TAGS: Skit
+SET: Campsite
+DATE: 08/02/26
+CHARACTERS ================================
+ENT: The Entity:Entrance Stage Left
+BRO: Man's friend:Camping chair
+NOR: Normal man:Log chair
+SUGGESTIONS =============================
+NICK:A goofy way to refer to a good friend.:Broseph,Habanebro,Dawg
+TOWN:A weird place to go camping:Detroit,a Sewer,my basement
+FAM:A family member:Aunt Lucy,Grandfather,Butler
+TWO:A number:10,A gazillion,2
+YEAR:An old year:87,1999,2001
+CREATURE:A made-up name:Thalyn,Zanulor,Voidz
+BOX:A Sinister object:Flesh Book,Shadow Cube,Rat Corpse
+HOTDOG:Yummy food:Hotdog,Bratwurst,Peanut butter pickle sandwich
+ADS:A Negative Adjective:Sinister,malicious,scary
+FAVOR:A favor you might owe someone.:20 dollars,a grilled cheese,a solid
+SCRIPT ==========================================
+Groose music
+NOR: Thanks for inviting me to go camping NICK.
+Meanwhile ENT: (stares silently at the two friends)
+NOR: I can't believe that TOWN would have a spot like this
+BRO: Yeah me and my FAM used to come by here once a year.
+NOR: Really? And you havent mentiond this till now?
+NOR: I've know you for how many years? TWO?
+BRO: Yeah, well, me and my FAM stopped going ever since.
+Music Stops
+BRO: (turns to audience) The incident.
+Vine boom
+NOR: Incident? What Incident?
+dark classical music
+BRO: Back in the year of YEAR. I went camping here with my FAM and CREATURE.
+BRO: Everything was going smoothly. We were having a blast.
+BRO: But then everything changed once CREATURE found the BOX.
+NOR: The BOX? What the hell is the box? What happend with the BOX?
+BRO: Don't worry about it.
+BRO: Anyways once CREATURE found the BOX, he suddenly dissapeared. And we never saw them again. 
+BRO: Then this guy started showing up every time we went. (Points at the entity) And it kinda killed the vibe.
+Music stops
+silly music 2
+ENT: Sup.
+NOR: I was wondering what he was doing here.
+NOR: You want a HOTDOG?
+ENT: No. (leaves backstage)
+BRO: More for me, I guess. (consume the HOTDOG) 
+NOR: Should we be concered about that thing? 
+BRO: It hasn't done anything yet so I'm not going to worry.
+NOR: Are you sure? He seems pretty ADS. 
+Meanwhile ENT: (sneaks up behind actors)
+BRO: It's harmless unless you try to take it's BOX.
+NOR: Wait, it has a BOX? Like the BOX that CREATURE found?
+BRO: Oh yeah. What a coincidence.
+NOR: The same BOX he disappeared after finding? And this thing started showing up after?
+BRO: NICK you're starting to confuse me.
+NOR: Have you never considered the fact that this entity may in fact be CREATURE?
+BRO: No, that never crossed my mind.
+NOR: (turns to the entity) Are you CREATURE?
+Music stops
+ENT: (dramatic pause) Yes!!
+scary music
+ENT: Ive been waiting for someone to realize!
+ENT: I've been stuck here ever since I've found that BOX!
+ENT: It cursed me. I wasn't able to leave of mention my name for who knows how long.
+ENT: I haven't even been able to sleep.
+ENT: Now that you realized who I am, I can finally claim what im owed and leave this place.
+ENT: (turns toward the man's friend and points at him) You. It's time.
+NOR: Oh no! Please dont kill him!
+Groose music
+ENT: Kill? I'm not gonna kill him. He just owes me FAVOR.
+NOR: A FAVOR? thats it?
+ENT: Yeah.
+BRO: Oh yeah I forgot about that. Yeah I got you.
+ENT: Finally.
+ENT: Alright, I'm going to head out see ya. Oh, and tell your FAM I said hi. (leaves stage)
+NOR: Okay then. 
+BRO: I guess I can start bringing my FAM here again. You wanna join us next year?
+NOR: I think I'm good.
 
 ======
 
