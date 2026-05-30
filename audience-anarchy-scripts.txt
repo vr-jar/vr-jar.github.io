@@ -58710,117 +58710,93 @@ OLDER SON: (falls to his knees, sobbing)
 ======
 
 INFORMATION ===============================
-ID: 2075
-TITLE: Crossroads of Destiny
-AUTHOR: Jinx Izayoi
+ID: 2104
+TITLE: Frantic Planning
+AUTHOR: Yuchensi
 VERIFIED: True
-TAGS: 
-SET: Forest
-DATE: 27/01/26
+TAGS: Skit
+SET: Living Room
+DATE: 12/02/26
 CHARACTERS ================================
-ADV: Adventurer:Center Stage
-TRAV: Travel Partner:Center Stage
-WEST: Guardian (West):Entrance Stage Left
-EAST: Guardian (East):Entrance Stage Right
+ANGEL: Frantic Planner:Entrance Stage Left
+JESS: Confused Friend:Couch
 SUGGESTIONS =============================
-SKIB:a positive adjective:stalwart,faithful,trustworthy,fine,skibidi sigma
-LAND:an unpleasant place to go to:Detroit,Ponyland,Shrimp Town,France,Fortnite
-NAME:the name of a player in the audience:Jar,Jinx Izayoi,Lancelot
-MAT:any substance:blood,straw,mud,tungsten,drywall,thoughts and prayers
-ACTIV:something you like doing:Hit the Griddy,Cast spells,Cook,Read fanfics out loud,Watch Liveleak gore compilations
-SPELL:a well-known magic spell:fireball,magic missile,polymorph,true resurrection,power word
-VEGAS:a fun place to be:Gensokyo,Vegas,Koridai,The Amazing Digital Circus,Home
-SILV:something people invest money in for profit:bitcoin,stocks,horse racing,17 black,turnips
-DRINK:a drink or liquid:mead,the blood of my enemies,The Drink,gin and orange juice,liquid mercury
-SCRIPT:your favorite script:Films with Soul(s),Anarchy Court,Splatcast!
-STORY:any media you don't like:Helluva Boss,Dead by Daylight,Morbius,Boruto,League of Legends
-HAPPY:a phrase you use in excitement:Joyous days,Yippee,Yeeeaahh boiiiii,Joy and prosperity,This is a good result
+ADJECTIVE:an adjective for a person:stinky,silly,goofy,nerdy,smart
+ACTIVITY:an activity (present tense):shopping,skiing,motorcycling,scuba diving,frolicking
+PLACE:a place:supermarket,bank,library,car dealership,toy store
+NUMBER:a number:21,11,12,100,one million
+DEVICE:a device or small appliance:walkie-talkie,blender,toaster,smartphone,cd player
+OBJECT:an object:cereal box,window cleaner,lint roller,mini fridge,broom
+FAMILY:a family member:uncle,grandma,grandpa,brother,sister
+BADNEWS:bad news:car crash,bankruptcy,eviction notice,lost the house,divorce
+PERSON:a type of person (plural):spies,construction workers,federal agents,grandmas,land lords
 SCRIPT ==========================================
-peaceful fantasy music
-ADV: We've made it to the crossroads, my SKIB companion.
-Meanwhile WEST: (block the entryway)
-TRAV: So, what's the deal here? Who are these two?
-Meanwhile EAST: (block the entryway)
-ADV: These two sentinals both guard a path out of this forest. One road leads to our destination, the promised land.
-TRAV: And the other road?
-ADV: The other goes to LAND.
-waterphone
-TRAV: Yeah, I don't wanna go to LAND. How do we know which is the correct path?
-ADV: One of these guardians must always tell the truth, and the other can only speak lies.
-ADV: I believe we are permitted to ask them one question to deduce the safe exit.
-ADV: (to the guard stage left) Excuse me. If I were to ask your counterpart over there if the path you stand before is the correct choice, would they say yes?
-WEST: Yes.
-noir music 4
-ADV: (turn to the guard stage left) Then the correct exit out of the forest is that one.
-TRAV: Wawawait, I'm confused. How do you know for sure?
-ADV: I've asked a question that ensures if either of them say yes, the correct exit is the opposite exit of that sentry.
-ADV: And if they say no, the correct exit is the one you're already standing at.
-TRAV: I'm still confused. (to the guard stage right) What's up, hey, uh, does the other exit lead to the promised land?
-ADV: Ah, that won't be necessary, my SKIB partner. They won't answer anyways, we've already asked them a question.
-EAST: Yes.
-ADV: Uhhh, okay. Kinda surprised they let you do that. But you do realize both the truthful one and the lying one would give you the same answer?
-TRAV: Hey, both of you! Which path goes to LAND?
-Meanwhile ADV: What are you doing?
-WEST: Mine.
-Meanwhile EAST: Mine.
-ADV: Well, that means the truthful bloke is the western one. (point to guard stage left)
-TRAV: And this dude's the liar. (point to guard stage right)
-ADV: Now that we have our route planned, shall we venture forth?
-Music Stops
-TRAV: (out loud) What's your favorite drink?
-EAST: DRINK.
-Meanwhile WEST: We cannot drink.
-groose music
-TRAV: Hahaha, they're pretty fun to mess with! Give it a try!
-ADV: Normally, I would admonish you for toying with magical beings beyond our scope of understanding. But...
-ADV: (out loud) What are your names?
-WEST: Hendrick.
-Meanwhile EAST: NAME.
-ADV: I concede your point on this.
-TRAV: What are you both made out of?
-EAST: MAT.
-Meanwhile WEST: Stone.
-ADV: What do you do when you get bored?
-WEST: We do not get bored.
-Meanwhile EAST: ACTIV.
-TRAV: What's your favorite incantation?
-EAST: Doom.
-Meanwhile WEST: SPELL.
-ADV: Where should we go on vacation after our quest?
-EAST: LAND.
-Meanwhile WEST: VEGAS.
-TRAV: Should I invest all of my gold into SILV?
-WEST: No.
-Meanwhile EAST: No.
-TRAV: Ooh, a difference of opinion.
-ADV: What is your favorite story?
-WEST: SCRIPT.
-Meanwhile EAST: STORY.
-TRAV: Are you two into each other?
-EAST: No.
-Meanwhile WEST: No.
+ANGEL: (enter stage left) Well if it isn't Jess the ADJECTIVE
+JESS: Did you really just go back to your room so you could have a dramatic entrance?
+ANGEL: (Inspect room) Thank you for taking the time to come by...
+JESS: ...What are you doing? 
+ANGEL: Oh, just making sure there's no cameras or... PERSON around.
+JESS: ...This is your house.
+ANGEL: Nonetheless, this... (turn to the audience) is perfect.
+JESS: ...Are you okay?
+ANGEL: (turn to Jess) So here's the plan.
+JESS: The plan? You said we were going to go ACTIVITY, right?
+ANGEL: Even better.
+spy music 1
+ANGEL: (turn to audience) First, we enter the PLACE
+JESS: Angel, we're going to go ACTIVITY, right?
+ANGEL: (turn to Jess) Then we blow the whole place up!
 record scratch
 Music Stops
-WEST: Hold on. What do you mean "no" Mr. Always Lies?
-EAST: Uhhh...
-ADV: You've really done it this time. Come now, my SKIB friend. No need to interfere in a lover's quarrel. The promised land awaits. (exit stage right)
-Meanwhile TRAV: (slowly exit stage right)
-emotional piano music
-WEST: Thank the first emperor of VEGAS they're gone. Now, is there something you've got on your mind? (meet them center stage)
-EAST: (meet them center stage) Not at all. I can't stand being near you.
-EAST: I don't have any suppressed feelings for you, and I want things to stay the way they are now.
-WEST: I didn't know you were hiding these feelings.
-EAST: (clearly smitten) Your face disgusts me, Hendrick. Every day being with you is agonizing torture. I... I hate you!
-WEST: (calm) I think I understand, not-NAME. I ignored my feelings too, and in a way, I told my first lie when I said I wasn't into you.
-WEST: I love you too. Will you be my partner, now and forever more?
-EAST: (pause, emotional) No. No, I won't!
-crowd woo
-WEST: HAPPY! Together, we will be a couple to surpass the tale of SCRIPT! (embrace)
-EAST: (embrace happily) I'm so angry and horrified right now. May our union end swiftly and bring us misery! A fairy tale couple to rival STORY!
-WEST: (sigh) Now that I think about it, should we have told those adventurers that their so-called promised land and LAND are the same place?
-Music Stops
-EAST: Probably not.
-waterphone
+JESS: What?! Just straight up?!
+ANGEL: No, of course not. There's a NUMBER step process
+JESS: (disbelief) A NUMBER- Angel!
+spy music 1
+ANGEL: (turn to audience) First, we enter the PLACE, as inconspicuous as possible.
+JESS: Angel- I'm not sure if I wanna do this.
+ANGEL: (turn to Jess) But we can't do it without this! (hold up DEVICE)
+JESS: ...Is that a DEVICE?
+ANGEL: Of course! Just let me... (tinker with DEVICE)
+JESS: ...Is it working?
+Music stops
+ANGEL: Batteries not included?! UGH! (toss DEVICE at window)
+crashing debris
+JESS: Angel! What the heck?!
+ANGEL: Back to the plan! 
+JESS: But you said you needed the DEVICE-
+tense cinematic music
+ANGEL: Oh you think because you're sooooooo ADJECTIVE you can just tell me what to do?!
+ANGEL: Well, let me tell you Jess the ADJECTIVE, you are the least ADJECTIVE person I know!
+JESS: You gave me that nickname!
+Music stops
+ANGEL: ...Stop wasting my time, we have a plan to get to!
+spy music 1
+ANGEL: (turn to audience) Once we get in, we grab the nearest OBJECT, and then-
+JESS: We're stealing stuff now?!
+ANGEL: -we blow the whole place up!
+Music stops
+vine boom
+JESS: What?! What about the NUMBER-step process?!
+ANGEL: (turn to Jess) There's more!
+JESS: Then why did you skip to the explosion part?!
+pokemon battle start
+ANGEL: Hold on, my phones ringing. (answer cellphone)
+Music stops
+ANGEL: Yeah? FAMILY?
+ANGEL: ...BADNEWS?! (sob and hang up)
+JESS: Oh my gosh... What happened?
+ANGEL: (completely fine) Oh, my mom was just saying hi.
+JESS: ...What..?
+spy music 1
+ANGEL: Anyways, let's do this!
+JESS: Do what?!
+Music stops
+ANGEL: ...We're going to go ACTIVITY, remember?
+JESS: ...Are you kidding me?
+ANGEL: Fine! If you don't wanna go ACTIVITY with me, then I'll go ACTIVITY by myself!
+ANGEL: (walk towards stage right) Have fun with your stupid plan, Jess the ADJECTIVE!
+ANGEL: If you even are so ADJECTIVE! (exit stage right)
+JESS: ...That was your plan!
 
 ======
 
@@ -59362,113 +59338,6 @@ MANAGER: (vicious tone) We need those for the coming war with HARDWARESTORE!
 ======
 
 INFORMATION ===============================
-ID: 2137
-TITLE: Creature King
-AUTHOR: zanbbit
-VERIFIED: True
-TAGS: Game Show
-SET: Game Show
-DATE: 04/03/26
-CHARACTERS ================================
-HOST: Game Show Host:Host Podium
-CONTESTANT 1: Contestant 1:Contestant Podium 1
-CONTESTANT 2: Contestant 2:Contestant Podium 2
-SUGGESTIONS =============================
-ANIMAL:Name any animal (real or fictional):Dragon,Rhino,Chimera
-JOB:An occupation:Plumber,Professional Imposter,Tik-Toker
-PLACE:Any location:Papua New Guinea,Texas,Unalaska
-NAME:Any name:Wawa,Ashley,Norman Guy
-OTHER:Any name:Mumu,Chris,Gil Tee
-FOOD:A type of food that grows in the wild:Banana,Pistachios,Guava
-STRUCTURE:A type of building:Factory,Airport,Wacky Shack
-ACTOR:Name any celebrity:Jack Black,Markiplier,Cher
-MOVIE:A title for a movie:Honey I Shrunk the Pet,Out of This World,Blob
-VERB:An action or activity:Play Volleyball,Go Swimming,Climb Buildings
-TOWN:A name a small town would have:Gulch Gulch,Washington,Scarborough
-SCRIPT ==========================================
-gameshow intro
-HOST: Hello all and welcome to another thrilling episode of Creature King!
-HOST: The game show where we quiz contestants on a new creature every episode! The focus of this episode is the majestic ANIMAL!
-HOST: I am your host, Drew Barker. Now let's meet our contestants. Contestant 1, What's your name?
-CONTESTANT 1: Hello! I'm NAME and I'm from PLACE. I am here to prove I am the king of the ANIMAL!
-HOST: You sound confident, I like that! How about you, Contestant 2.
-CONTESTANT 2: Yo! I'm OTHER. I'm a JOB. And I know more than anyone about the ANIMAL!
-HOST: Excellent! Well, let's not waste any time and get into the game.
-HOST: I am going to ask you trivia about the ANIMAL, just answer it correctly.
-gameshow start
-HOST: Question 1- What food is the ANIMAL known to most commonly eat?
-gameshow ring
-HOST: OTHER!
-CONTESTANT 2: Okay Okay! I know this! It's other ANIMALs. They eat each other!
-gameshow buzzer
-HOST: I am sorry that is incorrect, and quite horrifying. Your answer NAME?
-CONTESTANT 1: It is FOOD?
-gameshow ding
-HOST: That is correct! It is FOOD. Sorry OTHER.
-CONTESTANT 2: No, I screwed up. I'm crafting my own ANIMAL world lore. FOOD doesn't exist in that world so they eat each other. 
-CONTESTANT 1: (sound weirded out) Oh... what a... creative mind... you have.
-HOST: Uhh... I guess that's a good opportunity to learn more about the contestants. Thank you for sharing that with us, OTHER.
-HOST: Anyway, why don't you tell us something about yourself, NAME?
-CONTESTANT 1: I used to work as a JOB before I quit and began studying ANIMALs. I almost had one as a pet but I was too nervous.
-HOST: Hmm I see. Let's move on to the second question.
-HOST: Question 2- Where do most ANIMALs prefer to build their habitat?
-gameshow ring
-HOST: Thank goodness, NAME! Your answer please!
-CONTESTANT 1: I believe it's normally abandoned STRUCTUREs, right?
-HOST: (look offstage) Hmm, can we accept that?
-CONTESTANT 2: NO! That's wrong! They're normally found in caves! They only live in old STRUCTUREs in urban areas!
-CONTESTANT 2: It's caves! They live in caves! Give me the point for the steal!
-HOST: Our judges have told me they will accept that answer so congratulations NAME! You have another point on the board!
-gameshow ding
-CONTESTANT 2: What the heck, dude!
-HOST: As OTHER, rather rudely pointed out, They normally live in caves.
-HOST: But since many ANIMALs in more populated areas occupy abandoned STRUCTUREs, we were willing to accept either answer.
-CONTESTANT 2: That's bogus man! This game is rigged!
-CONTESTANT 1: I should know that. I used to observe some ANIMALs at a local abandoned STRUCTURE near my house.
-CONTESTANT 1: But it was unfortunately torn down and the ANIMALs fled.
-CONTESTANT 2: (sarcastic) Oh BOO HOO HOO, they tore the STRUCTURE down! Cry me a river! I'm sure the stupid ANIMALs are fine.
-HOST: Thank you for sharing that cute story, NAME. Onto the final round, this one is worth double points. So OTHER can tie.
-HOST: The humble ANIMAL became very popular after beloved actor ACTOR portrayed one as the protagonist of which film?
-gameshow ring
-HOST: (short groan) Yes, OTHER, your answer?
-CONTESTANT 2: Okay, I know this one. It was MOVIE 3! I know that for a fact.
-gameshow buzzer
-HOST: No, I am sorry, that is wrong! You can steal and move onto the last round, NAME.
-CONTESTANT 1: I believe it was actually MOVIE 2.
-gameshow ding
-CONTESTANT 2: what!?
-HOST: That is correct and that is a clean sweep! NAME you advance onto the final round.
-CONTESTANT 2: That's complete bull! Come on! I got the right film series! You should have gave it to me!
-CONTESTANT 2: If they got the last question right with that stupid STRUCTURE answer, I should have got this one.
-HOST: Sorry, our judges didn't agree.
-CONTESTANT 1: To be fair, they are very different movies. I don't even think ACTOR was in MOVIE 3 
-HOST: Thanks for playing OTHER. Did you have fun?
-CONTESTANT 2: No I didn't have fun! The heck with this rigged game! I'm outta here! (walk off stage)
-HOST: (mutter under breath) and stay out. Anyway, good job getting this far, Name. Are you ready for the final question?
-CONTESTANT 1: (Nod) Yes I am!
-gameshow bonus round
-HOST: Okay, What place has an obscure law that makes it illegal for ANIMALs to VERB after 9PM?
-gameshow timer music
-CONTESTANT 1: This law has never been enforced has it?
-HOST: Not that anyone knows of.
-music stops
-HOST: I need your answer now
-CONTESTANT 1: Shoot, I don't know. Uhh TOWN!?
-gameshow buzzer
-HOST: I apologize NAME. But TOWN is sadly, not the right answer.
-HOST: The answer, believe it or not, is PLACE. Where you are from!
-CONTESTANT 1: Really?
-HOST: Yep we found an old unrepealed law in PLACE that forbids ANIMALs from VERBing after 9PM.
-CONTESTANT 1: Well I guess I learned something new today then.
-HOST: I know you didn't win but did you at least have fun?
-CONTESTANT 1: Yeah I did, I had a good time.
-HOST: Then that's all that matters!
-gameshow outro
-HOST: Anyway, that's all the time we have. I've been Drew Barker, Thank you for joining us folks. See you next time on Creature King!
-
-======
-
-INFORMATION ===============================
 ID: 2119
 TITLE: The "Imaginary" Friend
 AUTHOR: jarofjelly_
@@ -59901,6 +59770,105 @@ ZORDON: OH NO! Not good.
 ======
 
 INFORMATION ===============================
+ID: 2129
+TITLE: Lunch Travails
+AUTHOR: Local Maid
+VERIFIED: True
+TAGS: Skit,Contains Adult Innuendo
+SET: Restaurant
+DATE: 28/02/26
+CHARACTERS ================================
+GRUMPY: The Grumpy One:Entrance Stage Right
+CHEERY: The Cheery One:Entrance Stage Right
+WAITER 1: The First Waiter:Entrance Stage Left
+WAITER 2: The Second Waiter:Backstage
+SUGGESTIONS =============================
+RESTAURANT:A Good Place To Eat:Femboy Hooters,Sloppy Poppies,Pickle Nickle
+ADJECTIVE:An adjective to describe someone:Fishy,Troublesome,Clueless
+FOOD1:A simple silly meal:Popcorn Soup,Cherry Chicken,Baked Marshmallow
+DRINK1:A calm drink:Femboy Milk,Water,Apple Juice
+MEASURE:A measurement, such as 69in:69in,5 feet,2 football fields
+TIME:An exaggerated amount of time:10 hours,20 years,30 circles around the sun
+STROPPING:A strange topping for a sandwich:squid,dried noodles,sprinkles
+WTOPPING:A festive food:Cotton Candy,Candy Corn,Funnel cake
+SCONDIMENT:An unusual condiment:Femboy Milk,Grape Juice,Pork Sweat
+SDRINK:An unusual drink:Femboy Milk,Pickle Juice,Saltwater
+COPINION:Controversial Opinion:All furniture should be inflatable,junk food being banned,social media bans
+SCRIPT ==========================================
+french music
+GRUMPY: (enters) I told you man, RESTAURANT is always the same, we are going to be late for the meeting!
+CHEERY: Relax man, I know you are just exaggerating about how long it takes, you have the same passion about COPINION
+Meanwhile GRUMPY: (sits in chair)
+vine boom
+GRUMPY: (animated) I never exaggerate!..okay I do, but I mean it man! The same ADJECTIVE people work here and it always takes TIME!
+french music
+CHEERY: (sits in other chair) Dude, ADJECTIVE people are not that bad, look, there they are now. It will not take TIME, just chill.
+Meanwhile WAITER 1: (enters stage left)
+WAITER 1: Hi, welcome to RESTAURANT! (looks at CHEERY) What would you like?
+GRUMPY: (mumbles) Oh great, here we go.
+CHEERY: I just want FOOD1 and DRINK1 please!
+WAITER 1: Ah excellent choice! We are well known for our FOOD1! And for you? (looks at GRUMPY)
+GRUMPY: Can I get a MEASURE sized wheat sub with  STROPPING, WTOPPING and SCONDIMENT, with SDRINK?
+Waiter 1: (audibly confused) Huh, okay then. (walks off stage left)
+CHEERY: See? We will get our food and everything will be just fine.
+GRUMPY: Oh you will see, it is just like with COPINION.
+CHEERY: You have got to stop bringing that up in public, you are begging for a case.
+Waiter 1: (returns) Did you say MEASURE?
+GRUMPY: (irritated and looking over at CHEERY) Yes I said MEASURE.
+Waiter 1: Oh okay. (leaves stage left)
+CHEERY: They are just checking, calm down. I can feel your boiling rage from  here.
+Waiter 1: (returns) What kind of condiment did you want again?
+GRUMPY: (more irritated) WTOPPING, you know, like I said before.
+Waiter 1: Gotcha gotcha, just making sure. (leaves)
+GRUMPY: Realizing it yet?
+CHEERY: They are just ADJECTIVE dude, you know their type. Just gotta be a bit patient.
+Waiter 1: (returns) Did you want that sub toasted?
+vine boom
+GRUMPY: (shouting) Of course I want it toasted! It is a wheat sub with STROPPING and WTOPPING, it is made to be toasted!
+CHEERY: Sorry about them, we are just in a bit of a rush.
+Waiter 1: Sorry, we will get it right out to you. (leaves)
+dark classical music
+GRUMPY: You wanted to come to RESTAURANT let me remind you.
+CHEERY: You exaggerate about everything, just like with COPINION, so how would I have guessed?
+vine boom
+GRUMPY: (shouting) Because I am always right! I am the one who knows! And COPINION is a fact!
+Waiter 2: (enter stage left) Hi hi, I have FOOD1 and DRINK1, but I was needing to ask, what was your drink again? (turns to GRUMPY)
+vine boom
+GRUMPY: (continuing to shout) I just want lunch! SDRINK! And make everything to-go, we do not have time to spend TIME here!
+Waiter 2: I understand I understand, you had the..(audible disgust) Wheat Sub with STROPPING WTOPPING and..SCONDIMENT. O..kay then.
+vine boom
+GRUMPY: (snaps) Do not judge me! I get what I want, I can make my own sandwich!
+Cheery: Here is the card to pay for the meal, please try to hurry. (hands card)
+Waiter 2: Of course, I will be right back. (exits stage left)
+waltz music
+CHEERY: They are trying dude, they are just ADJECTIVE. Also, do you ever think that it is your complicated order and not them?
+GRUMPY: (angry) RESTAURANT is always like this! If those ADJECTIVE freaks did not want it ordered, why have it?!
+Waiter 2: (returns) I have some unfortunate news, not sure how to say it.
+CHEERY: (concerned) Just say it. What is it?
+Waiter 2: We are completely out of wheat bread and SCONDIMENT.
+vine boom
+GRUMPY: (animated again) What?! It took you ADJECTIVE people TIME to notice such a simple thing?! You are having a laugh!
+Waiter 2: I truly am sorry, but we could make a white sub with STROPPING and WTOPPING if you want, it just will not have the SCONDIMENT.
+GRUMPY: (defeated) Whatever, just do it.
+Waiter 2: Consider it done. (exits stage left)
+cellphone vibrate
+GRUMPY: It is the meeting time, I told you it would take TIME.
+CHEERY: They will understand, they are used to you being late anyway, you always get into it with the receptionist about COPINION.
+Waiter 2: (returns) Did you want that toasted?
+gong
+GRUMPY: (finished) I am out! I am going to the meeting, I can get some STROPPING or WTOPPING to snack on from the store instead! (storms off stage right)
+Waiter 2: (looks at CHEERY) Should we still make their meal?
+CHEERY: I think that would just make them angrier, I will just finish my FOOD1 then leave, charge my card.
+Waiter 2: Got it. (exits stage left)
+cellphone vibrate
+CHEERY: (checks phone) Now they are texting me..more ranting about COPINION, and then..a picture of STROPPING. (impressed) Huh. Actually does look tasty.
+Waiter 1: (re-enters from stage left) We are working on the payment, while waiting what are your thoughts on COPINION?
+laughter
+CHEERY: (sighs) I am surrounded by ADJECTIVE everywhere..
+
+======
+
+INFORMATION ===============================
 ID: 1545
 TITLE: Cooking Informercial
 AUTHOR: Perydaplaypus
@@ -59968,6 +59936,117 @@ MAYS: Are you tired of non-stick pans not working? CAN can help with that.
 WOMAN: I can see bone!
 MAYS: But you have to call now.
 (infomercial disclaimer)
+
+======
+
+INFORMATION ===============================
+ID: 2137
+TITLE: Creature King
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+DATE: 04/03/26
+CHARACTERS ================================
+HOST: Game Show Host:Host Podium
+CONTESTANT 1: Contestant 1:Contestant Podium 1
+CONTESTANT 2: Contestant 2:Contestant Podium 2
+SUGGESTIONS =============================
+ANIMAL:Name any animal (real or fictional):Dragon,Rhino,Chimera
+JOB:An occupation:Plumber,Professional Imposter,Tik-Toker
+PLACE:Any location:Papua New Guinea,Texas,Unalaska
+NAME:Any name:Wawa,Ashley,Norman Guy
+OTHER:Any name:Mumu,Chris,Gil Tee
+FOOD:A type of food that grows in the wild:Banana,Pistachios,Guava
+STRUCTURE:A type of building:Factory,Airport,Wacky Shack
+ACTOR:Name any celebrity:Jack Black,Markiplier,Cher
+MOVIE:A title for a movie:Honey I Shrunk the Pet,Out of This World,Blob
+VERB:An action or activity:Play Volleyball,Go Swimming,Climb Buildings
+TOWN:A name a small town would have:Gulch Gulch,Washington,Scarborough
+PRIZE:A prize someone may win on a game show:NEW CAR!!!,$420.69,Your Winner trophy
+SCRIPT ==========================================
+gameshow intro
+HOST: Hello all and welcome to another thrilling episode of Creature King!
+HOST: The game show where we quiz contestants on a new creature every episode! The focus of this episode is the majestic ANIMAL!
+HOST: I am your host, Drew Barker. Now let's meet our contestants. Contestant 1, What's your name?
+CONTESTANT 1: Hello! I'm NAME and I'm from PLACE. I am here to prove I am the king of the ANIMAL!
+HOST: You sound confident, I like that! How about you, Contestant 2.
+CONTESTANT 2: Yo! I'm OTHER. I'm a JOB. And I know more than anyone about the ANIMAL!
+HOST: Excellent! Here's how the game will work. I'am going to ask you trivia about the ANIMAL, just buzz in and answer correctly.
+HOST: If one of you gets a question wrong. The other can steal.
+HOST: We will have 3 questions and a final round where one of you will have a chance to win a PRIZE!
+HOST: Without any further ado, Lets begin!
+gameshow start
+HOST: Question 1- What food is the ANIMAL known to most commonly eat?
+gameshow ring
+HOST: OTHER!
+CONTESTANT 2: Okay Okay! I know this! It's other ANIMALs. They eat each other!
+gameshow buzzer
+HOST: I am sorry that is incorrect, and quite horrifying. Your answer NAME?
+CONTESTANT 1: It is FOOD?
+gameshow ding
+HOST: That is correct! It is FOOD. Sorry OTHER.
+CONTESTANT 2: No, I screwed up. I'm crafting my own ANIMAL world lore. FOOD doesn't exist in that world so they eat each other. 
+CONTESTANT 1: (sound weirded out) Oh... what a... creative mind... you have.
+HOST: Uhh... I guess that's a good opportunity to learn more about the contestants. Thank you for sharing that with us, OTHER.
+HOST: Anyway, why don't you tell us something about yourself, NAME?
+CONTESTANT 1: I used to work as a JOB before I quit and began studying ANIMALs. I almost had one as a pet but I was too nervous.
+HOST: Understandable, I imagine an ANIMAL would be difficult to take care of. Anyway, let's move on to the second round.
+HOST: Question 2- Where do most ANIMALs prefer to build their habitat?
+gameshow ring
+HOST: Thank goodness, NAME! Your answer please!
+CONTESTANT 1: I believe it's normally abandoned STRUCTUREs, right?
+HOST: (look offstage) Hmm, can we accept that?
+CONTESTANT 2: NO! That's wrong! They're normally found in caves! They only live in old STRUCTUREs in cities!
+CONTESTANT 2: It's caves! They live in caves! Give me the point for the steal!
+HOST: Our judges have told me they will accept that answer so congratulations NAME! You have another point on the board!
+gameshow ding
+CONTESTANT 2: What the heck, dude!?
+HOST: As OTHER, rather rudely pointed out, They normally live in caves.
+HOST: But since many ANIMALs in urban areas occupy abandoned STRUCTUREs, we were willing to accept either answer.
+CONTESTANT 2: That's bogus man! This game is rigged!
+CONTESTANT 1: I should know that. I used to observe some ANIMALs at a local abandoned STRUCTURE near my house.
+CONTESTANT 1: But it was unfortunately torn down and the ANIMALs fled.
+CONTESTANT 2: (sarcastic) Oh BOO HOO HOO, they tore the STRUCTURE down! Cry me a river! I'm sure the stupid ANIMALs are fine.
+HOST: Thank you for sharing that cute story, NAME. Onto round 3, this one is worth double points. So OTHER can tie.
+HOST: Question 3- The humble ANIMAL became very popular after beloved actor ACTOR portrayed one as the protagonist of which film?
+gameshow ring
+HOST: (short groan) Yes, OTHER, your answer?
+CONTESTANT 2: Okay, I know this one. It was MOVIE 3! I know that for a fact.
+gameshow buzzer
+HOST: No, I am sorry, that is wrong! You can steal and move onto the final round, NAME.
+CONTESTANT 1: I believe it was actually MOVIE 2.
+gameshow ding
+CONTESTANT 2: what!?
+HOST: That is correct and that is a clean sweep! NAME you advance onto the final round. and a chance to win the PRIZE.
+CONTESTANT 2: That's complete bull! Come on! I got the right film series! You should have gave it to me!
+CONTESTANT 2: If they got the last question right with that stupid STRUCTURE answer, I should have got this one.
+HOST: Sorry, our judges didn't agree.
+CONTESTANT 1: To be fair, they are very different movies. I don't even think ACTOR was in MOVIE 3 
+HOST: Thanks for playing OTHER. Did you have fun?
+CONTESTANT 2: No I didn't have fun! The heck with this rigged game! I'm outta here! (walk off stage)
+HOST: (mutter under breath) and stay out.
+HOST: Anyway, good job getting this far, NAME. Are you ready for the final question? And a chance to win a PRIZE?
+CONTESTANT 1: (Nod) Yes I am! That PRIZE is mine!
+gameshow bonus round
+HOST: Okay, What place has an obscure law that makes it illegal for ANIMALs to VERB after 9PM?
+gameshow timer music
+CONTESTANT 1: This law has never been enforced has it?
+HOST: Not that anyone knows of.
+music stops
+HOST: I need your answer now.
+CONTESTANT 1: Shoot, I don't know. Uhh TOWN!?
+gameshow buzzer
+HOST: I apologize NAME. But TOWN is sadly, not the right answer.
+HOST: The answer, believe it or not, is PLACE. Where you are from!
+CONTESTANT 1: Really?
+HOST: Yep! We found an old unrepealed law in PLACE that forbids ANIMALs from VERBing after 9PM.
+CONTESTANT 1: Well I guess I learned something new today then.
+HOST: Unfortunately you didn't win the PRIZE. But did you at least have fun?
+CONTESTANT 1: Yeah I did, I had a good time.
+HOST: Then that's all that matters!
+gameshow outro
+HOST: Anyway, that's all the time we have. I've been Drew Barker, Thanks for joining us folks. See you next time on Creature King!
 
 ======
 
@@ -62233,103 +62312,6 @@ NECROMANCER: ...What?
 ======
 
 INFORMATION ===============================
-ID: 1349
-TITLE: Bankrupt Studio
-AUTHOR: Perydaplaypus
-VERIFIED: True
-TAGS: 
-SET: Conference Room
-DATE: 29/12/24
-CHARACTERS ================================
-CEO: Company CEO:Boss Chair
-INTERN1: No Idea Intern 1:Office Chair 1
-INTERN2: No Idea Intern 2:Office Chair 2
-INTERN3: Smart Intern:Office Chair 3
-INTERN4: Stupid Intern:Backstage
-SUGGESTIONS =============================
-STUDIO:Name for a movie studio:Paramount,Sony,Warner Bros.
-MOVIE:Title for a movie:The Adventures of Pluto Nash in 3D,Madame Web,Morbius
-PITCH1:Title for a movie:Goon Squad 3,Average Vrchat Enjoyer,Milk buddies
-PITCH2:Title for a movie:naked in japan,Car Downloader Pro,Mr Bean's Island Adventure
-PITCH3:Title for a movie:Attack of the chubby bunnies,goodbye sweet prince,Overwatch the animated movie
-PITCH4:Title for an awful movie pitch:Zombie Cow,Liar Liar Pants on Fire,Shrek 420
-CELEBRITY:A controversial celebrity:MrBeast,Kanye West,Bob Ross,Jared Leto
-ACTIVITY:An activity someone would do:Gamble,play sports,play video games
-CAREER:A career someone would have:Lawyer,Doctor,Businessman
-CONSPIRACY:A famous conspiracy:9/11 was an inside job,Lee Harvey Oswald didn't assassinate JFK,the 2020 election was rigged
-BUDGET:An amount of currency:$1,$69420,$1 billion
-EVENT:A dark event in history:9/11,the Holocaust,the Challenger explosion
-SCRIPT ==========================================
-(corporate motivational music)
-CEO: So as you all know, STUDIO has gone bankrupt.
-CEO: The failure of MOVIE was so bad, we lost all our money.
-CEO: We only have enough to make one more movie.
-INTERN1: Well, what movie?
-CEO: That's problem. We're out of ideas.
-CEO: That's why I called you 4, uh wait. 1, 2, 3. Where's the other intern?
-CEO: Whatever, we'll catch him up later. Anyways, I've called you guys in here today. I need you to give me an idea for a movie we can make.
-INTERN2: Can you really trust us with movies? We're only interns.
-CEO: We don't have a choice. Now give me movies.
-INTERN3: But we don't have any ideas.
-CEO: Then make one up. You're in the film business, and in the film business, you gotta make stuff up on that spot.
-CEO: You think our founder just found ideas. No, he made them up on the spot.
-CEO: So like he did, you'll have to do. So do it.
-CEO: (points at INTERN1) We'll start with you. What's your idea?
-(music stops)
-(shark tank discussion music 1)
-INTERN1: Ok, um, how about PITCH1?
-(shark tank offer)
-CEO: Go on.
-INTERN1: Well, PITCH1 is about a CAREER who gets in trouble for ACTIVITY and has to cope with it.
-CEO: Ok, that sounds like it's been done many times before. (points at INTERN2) YOU! What's your pitch?
-INTERN2: Um, PITCH2.
-(shark tank offer)
-INTERN2: It's about a CAREER who gets in trouble for ACTIVITY and has to cope with it.
-CEO: That's literally what the other guy just said.
-INTERN2: I don't know ok. It's a lot of pressure.
-CEO: (sighs) Whatever. (points at INTERN3) YOU! What's your pitch?
-INTERN3: Well, unlike my fellow interns, I have an actual idea. I call it, PITCH3.
-(shark tank offer)
-CEO: Ooh, sounds interesting. What is it about?
-INTERN3: Well, PITCH3 follows an actor who gets himself into a crazy conspiracy.
-CEO: What's the conspiracy?
-INTERN3: That CONSPIRACY.
-CEO: Ooh, sounds riveting. What's the budget?
-INTERN3: Only BUDGET.
-CEO: That's way below our remaining, so it could work. You've got the movie.
-INTERN4: (enters) Sorry I'm late boss. Traffic was a nightmare.
-CEO: It's ok intern. We were just pitching movie ideas as STUDIO has gone bankrupt.
-INTERN4: Ooh, I have an idea.
-INTERN3: Sorry, but we've already got the movie idea...
-CEO: No no, let's see what he has to say.
-CEO: (to INTERN4) What's your idea?
-INTERN4: I call it PITCH4.
-(shark tank offer)
-INTERN4: It follows a CAREER, played by CELEBRITY, who travels through time to prevent different events from happening.
-CEO: What kind of events?
-INTERN4: Events like the the assassinations of JFK and Lincoln, and EVENT.
-(record scratch)
-INTERN3: That is, by far, the most stupidest and offensive idea I've ever heard.
-INTERN2: It's awful.
-INTERN1: It's horrendous.
-CEO: It's brilliant. You've got the movie.
-(music stops)
-(corporate motivational music)
-INTERN3: What?!
-INTERN4: Really!
-CEO: Yes, and we'll invest all of our money into it.
-INTERN3: Sir, this idea is horrendous. This won't save the company what so ever.
-INTERN1: Yeah, this will for sure kill us.
-INTERN2: We cannot make this movie.
-CEO: Trust me, this movie will get us back on top. We'll win multiple Academy Awards for this.
-CEO: We'll be the richest company in the universe.
-CEO: (points at INTERN4) You, start working on the movie right now.
-INTERN4: Yes sir. (exits)
-CEO: We're gonna be rich.
-
-======
-
-INFORMATION ===============================
 ID: 773
 TITLE: Murder: The Movie (The Original Script!)
 AUTHOR: GSGenesis
@@ -63095,6 +63077,1430 @@ ENT: Alright, I'm going to head out see ya. Oh, and tell your FAM I said hi. (le
 NOR: Okay then. 
 BRO: I guess I can start bringing my FAM here again. You wanna join us next year?
 NOR: I think I'm good.
+
+======
+
+INFORMATION ===============================
+ID: 2075
+TITLE: Crossroads of Destiny
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: 
+SET: Forest
+DATE: 27/01/26
+CHARACTERS ================================
+ADV: Adventurer:Center Stage
+TRAV: Travel Partner:Center Stage
+WEST: Guardian (West):Entrance Stage Left
+EAST: Guardian (East):Entrance Stage Right
+SUGGESTIONS =============================
+SKIB:a positive adjective:stalwart,faithful,trustworthy,fine,skibidi sigma
+LAND:an unpleasant place to go to:Detroit,Ponyland,Shrimp Town,France,Fortnite
+NAME:the name of a player in the audience:Jar,Jinx Izayoi,Lancelot
+MAT:any substance:blood,straw,mud,tungsten,drywall,thoughts and prayers
+ACTIV:something you like doing:Hit the Griddy,Cast spells,Cook,Read fanfics out loud,Watch Liveleak gore compilations
+SPELL:a well-known magic spell:fireball,magic missile,polymorph,true resurrection,power word
+VEGAS:a fun place to be:Gensokyo,Vegas,Koridai,The Amazing Digital Circus,Home
+SILV:something people invest money in for profit:bitcoin,stocks,horse racing,17 black,turnips
+DRINK:a drink or liquid:mead,the blood of my enemies,The Drink,gin and orange juice,liquid mercury
+SCRIPT:your favorite script:Films with Soul(s),Anarchy Court,Splatcast!
+STORY:any media you don't like:Helluva Boss,Dead by Daylight,Morbius,Boruto,League of Legends
+HAPPY:a phrase you use in excitement:Joyous days,Yippee,Yeeeaahh boiiiii,Joy and prosperity,This is a good result
+SCRIPT ==========================================
+peaceful fantasy music
+ADV: We've made it to the crossroads, my SKIB companion.
+Meanwhile WEST: (block the entryway)
+TRAV: So, what's the deal here? Who are these two?
+Meanwhile EAST: (block the entryway)
+ADV: These two sentinels both guard a path out of this forest. One road leads to our destination, the promised land.
+TRAV: And the other road?
+ADV: The other goes to LAND.
+waterphone
+TRAV: Yeah, I don't wanna go to LAND. How do we know which is the correct path?
+ADV: One of these guardians must always tell the truth, and the other can only speak lies.
+ADV: I believe we are permitted to ask them one question to deduce the safe exit.
+ADV: (to the guard stage left) Excuse me. If I were to ask your counterpart over there if the path you stand before is the correct choice, would they say yes?
+WEST: Yes.
+noir music 4
+ADV: (turn to the guard stage left) Then the correct exit out of the forest is that one.
+TRAV: Wawawait, I'm confused. How do you know for sure?
+ADV: I've asked a question that ensures if either of them say yes, the correct exit is the opposite exit of that sentry.
+ADV: And if they say no, the correct exit is the one you're already standing at.
+TRAV: I'm still confused. (to the guard stage right) What's up, hey, uh, does the other exit lead to the promised land?
+ADV: Ah, that won't be necessary, my SKIB partner. They won't answer anyways, we've already asked them a question.
+EAST: Yes.
+ADV: Uhhh, okay. Kinda surprised they let you do that. But you do realize both the truthful one and the lying one would give you the same answer?
+TRAV: Hey, both of you! Which path goes to LAND?
+Meanwhile ADV: What are you doing?
+WEST: Mine.
+Meanwhile EAST: Mine.
+ADV: Well, that means the truthful bloke is the western one. (point to guard stage left)
+TRAV: And this dude's the liar. (point to guard stage right)
+ADV: Now that we have our route planned, shall we venture forth?
+Music Stops
+TRAV: (out loud) What's your favorite drink?
+EAST: DRINK.
+Meanwhile WEST: We cannot drink.
+groose music
+TRAV: Hahaha, they're pretty fun to mess with! Give it a try!
+ADV: Normally, I would admonish you for toying with magical beings beyond our scope of understanding. But...
+ADV: (out loud) What are your names?
+WEST: Hendrick.
+Meanwhile EAST: NAME.
+ADV: I concede your point on this.
+TRAV: What are you both made out of?
+EAST: MAT.
+Meanwhile WEST: Stone.
+ADV: What do you do when you get bored?
+WEST: We do not get bored.
+Meanwhile EAST: ACTIV.
+TRAV: What's your favorite incantation?
+EAST: Doom.
+Meanwhile WEST: SPELL.
+ADV: Where should we go on vacation after our quest?
+EAST: LAND.
+Meanwhile WEST: VEGAS.
+TRAV: Should I invest all of my gold into SILV?
+WEST: No.
+Meanwhile EAST: No.
+TRAV: Ooh, a difference of opinion.
+ADV: What is your favorite story?
+WEST: SCRIPT.
+Meanwhile EAST: STORY.
+TRAV: Are you two into each other?
+EAST: No.
+Meanwhile WEST: No.
+record scratch
+Music Stops
+WEST: Hold on. What do you mean "no" Mr. Always Lies?
+EAST: Uhhh...
+ADV: You've really done it this time. Come now, my SKIB friend. No need to interfere in a lover's quarrel. The promised land awaits. (exit stage right)
+Meanwhile TRAV: (slowly exit stage right)
+emotional piano music
+WEST: Thank the first emperor of VEGAS they're gone. Now, is there something you've got on your mind? (meet them center stage)
+EAST: (meet them center stage) Not at all. I can't stand being near you.
+EAST: I don't have any suppressed feelings for you, and I want things to stay the way they are now.
+WEST: I didn't know you were hiding these feelings.
+EAST: (clearly smitten) Your face disgusts me, Hendrick. Every day being with you is agonizing torture. I... I hate you!
+WEST: (calm) I think I understand, not-NAME. I ignored my feelings too, and in a way, I told my first lie when I said I wasn't into you.
+WEST: I love you too. Will you be my partner, now and forever more?
+EAST: (pause, emotional) No. No, I won't!
+crowd woo
+WEST: HAPPY! Together, we will be a couple to surpass the tale of SCRIPT! (embrace)
+EAST: (embrace happily) I'm so angry and horrified right now. May our union end swiftly and bring us misery! A fairy tale couple to rival STORY!
+WEST: (sigh) Now that I think about it, should we have told those adventurers that their so-called promised land and LAND are the same place?
+Music Stops
+EAST: Probably not.
+waterphone
+
+======
+
+INFORMATION ===============================
+ID: 1349
+TITLE: Bankrupt Studio
+AUTHOR: Perydaplaypus
+VERIFIED: True
+TAGS: 
+SET: Conference Room
+DATE: 29/12/24
+CHARACTERS ================================
+CEO: Company CEO:Boss Chair
+INTERN1: No Idea Intern 1:Office Chair 1
+INTERN2: No Idea Intern 2:Office Chair 2
+INTERN3: Smart Intern:Office Chair 3
+INTERN4: Stupid Intern:Backstage
+SUGGESTIONS =============================
+STUDIO:Name for a movie studio:Paramount,Sony,Warner Bros.
+MOVIE:Title for a movie:The Adventures of Pluto Nash in 3D,Madame Web,Morbius
+PITCH1:Title for a movie:naked in japan,Car Downloader Pro,Mr Bean's Island Adventure
+PITCH2:Title for a movie:Attack of the chubby bunnies,goodbye sweet prince,Overwatch the animated movie
+PITCH3:Title for an awful movie pitch:Zombie Cow,Liar Liar Pants on Fire,Shrek 420
+CELEBRITY:A controversial celebrity:MrBeast,Kanye West,Bob Ross,Jared Leto
+ACTIVITY:An activity someone would do:Gamble,play sports,play video games
+CAREER:A career someone would have:Lawyer,Doctor,Businessman
+CONSPIRACY:A famous conspiracy:9/11 was an inside job,Lee Harvey Oswald didn't assassinate JFK,the 2020 election was rigged
+BUDGET:An amount of currency:$1,$69420,$1 billion
+EVENT:A dark event in history:9/11,the Holocaust,the Challenger explosion
+SCRIPT ==========================================
+(corporate motivational music)
+CEO: So as you all know, STUDIO has gone bankrupt.
+CEO: The failure of MOVIE was so bad, we lost all our money.
+CEO: We only have enough to make one more movie.
+INTERN1: Well, what movie?
+CEO: That's problem. We're out of ideas.
+CEO: That's why I called you 4, uh wait. 1, 2, 3. Where's the other intern?
+CEO: Whatever, we'll catch him up later. Anyways, I've called you guys in here today. I need you to give me an idea for a movie we can make.
+INTERN2: Can you really trust us with movies? We're only interns.
+CEO: We don't have a choice. Now give me movies.
+INTERN3: But we don't have any ideas.
+CEO: Then make one up. You're in the film business, and in the film business, you gotta make stuff up on that spot.
+CEO: You think our founder just found ideas. No, he made them up on the spot.
+CEO: So like he did, you'll have to do. So do it.
+CEO: (points at INTERN1) We'll start with you. What's your idea?
+(music stops)
+(shark tank discussion music 1)
+INTERN1: Ok, um, how about PITCH1?
+(shark tank offer)
+CEO: Go on.
+INTERN1: Well, PITCH1 is about a CAREER who gets in trouble for ACTIVITY and has to cope with it.
+CEO: Ok, that sounds like it's been done many times before. (points at INTERN2) YOU! What's your pitch?
+INTERN2: Um, PITCH1.
+(shark tank offer)
+INTERN2: It's about a CAREER who gets in trouble for ACTIVITY and has to cope with it.
+CEO: That's literally what the other guy just said.
+INTERN2: I don't know ok. It's a lot of pressure.
+CEO: (sighs) Whatever. (points at INTERN3) YOU! What's your pitch?
+INTERN3: Well, unlike my fellow interns, I have an actual idea. I call it, PITCH3.
+(shark tank offer)
+CEO: Ooh, sounds interesting. What is it about?
+INTERN3: Well, PITCH2 follows an actor who gets himself into a crazy conspiracy.
+CEO: What's the conspiracy?
+INTERN3: That CONSPIRACY.
+CEO: Ooh, sounds riveting. What's the budget?
+INTERN3: Only BUDGET.
+CEO: That's way below our remaining, so it could work. You've got the movie.
+INTERN4: (enters) Sorry I'm late boss. Traffic was a nightmare.
+CEO: It's ok intern. We were just pitching movie ideas as STUDIO has gone bankrupt.
+INTERN4: Ooh, I have an idea.
+INTERN3: Sorry, but we've already got the movie idea...
+CEO: No no, let's see what he has to say.
+CEO: (to INTERN4) What's your idea?
+INTERN4: I call it PITCH3.
+(shark tank offer)
+INTERN4: It follows a CAREER, played by CELEBRITY, who travels through time to prevent different events from happening.
+CEO: What kind of events?
+INTERN4: Events like the the assassinations of JFK and Lincoln, and EVENT.
+(record scratch)
+INTERN3: That is, by far, the most stupidest and offensive idea I've ever heard.
+INTERN2: It's awful.
+INTERN1: It's horrendous.
+CEO: It's brilliant. You've got the movie.
+(music stops)
+(corporate motivational music)
+INTERN3: What?!
+INTERN4: Really!
+CEO: Yes, and we'll invest all of our money into it.
+INTERN3: Sir, this idea is horrendous. This won't save the company what so ever.
+INTERN1: Yeah, this will for sure kill us.
+INTERN2: We cannot make this movie.
+CEO: Trust me, this movie will get us back on top. We'll win multiple Academy Awards for this.
+CEO: We'll be the richest company in the universe.
+CEO: (points at INTERN4) You, start working on the movie right now.
+INTERN4: Yes sir. (exits)
+CEO: We're gonna be rich.
+TYPEWRITER: PITCH3 was so bad, it caused STUDIO to go bankrupt.
+TYPEWRITER: STUDIO would end up being bought by Disney to add to their monopoly.
+TYPEWRITER: Directed by M. Night Shyamalan
+
+======
+
+INFORMATION ===============================
+ID: 2097
+TITLE: Murder of Master Blackwood
+AUTHOR: peemydayo
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 08/02/26
+CHARACTERS ================================
+DETECTIVE: Detective:Center Stage
+BUTLER: Butler:Center Stage
+SUSPECT A: Musician:Stage Right
+SUSPECT B: Smelly Guest:Stage Left
+MASTER BLACKWOOD: Master Blackwood:Center Stage
+SUGGESTIONS =============================
+RIDICULOUS OBJECT:Ridiculous object:jar of pickles,the mona lisa,freddy fazbear plushie,his phone with umamusume open
+FLOSS:Action or activity that someone can do:floss,cry,work out,play roblox,be a genshin paypig in the year 2026,fight in world war 1,watch bad anime
+MOIST SONATA:Fancy sounding poem title:me when I fart,requiem for an e-girl,somebody once told me the world is gonna roll me,sonata number six sevennnnnnnn
+GROSS NOUN:something gross:mayonnaise,the sludge,toenail clippings
+BAD SMELL:Bad smell:expired tuna,wet socks,regret
+SUSPICIOUS HABIT:something strange that someone can do:eats soup with a fork,breathes dramatically,vents
+SILLY NAME:Silly name:Beef Wellington,Beef Stroganoff,Sir Wigglebottom
+DEATHMETHOD:a way you might die:falling into a meat grinder,a heart attack except I win,cranking my hog,running with scissors
+ABSURD ITEM:Absurd item:zucchini,eggplant,rubber chicken,hog
+MEDICINAL:Literally any medicine drug, disease, or disorder:make heart work good pills,make wife happy pills,anime addiction,anti werewolf medicine
+CHAMBER:a strange room to have in your house for some reason:room with all the freaky dolls,meat chamber,giant walk-in toilet,daddy's special room that I'm not allowed to go in,active warzone,downstairs Starbucks
+CIGARETTE:thing(s) you might use to relieve stress:cigarette,doritos and mountain dew,competitive league of legends match,anime wife
+SCRIPT ==========================================
+noir music 1
+BUTLER: Master Blackwood has collapsed beside the fireplace…! Oh great heavens!
+meanwhile MASTER BLACKWOOD: (Laying dead by the fireplace as if you died of DEATHMETHOD)
+DETECTIVE: Nobody leaves this parlor until I discover who did it when the Master fell.
+DETECTIVE: According to my clues, The killer was most likely to FLOSS.
+meanwhile MASTER BLACKWOOD: (Laying dead by the fireplace as if you died of DEATHMETHOD)
+DETECTIVE: (To suspects) You two are the prime suspects. What were you doing at the time of the murder?
+meanwhile MASTER BLACKWOOD: (Laying dead by the fireplace as if you died of DEATHMETHOD)
+SUSPECT A: I was at the piano composing my latest piece of art, “MOIST SONATA in A minor”.
+SUSPECT A: (sigh wistfully) It will be my magnum opus...
+DETECTIVE: Interesting... (Point at the suspect) The piano keys are covered in GROSS NOUN!
+shark tank offer
+SUSPECT A: (Offended) Excuse me sir! That GROSS NOUN is a little someting called "art"!
+DETECTIVE: (Pacing and thinking) I see, I see.
+DETECTIVE: (Pointing at other suspects) And you? What were you doing?
+SUSPECT B: (Pointing to clock) I was standing under the grandfather clock the entire time.
+SUSPECT B: I need to make sure I take my MEDICINAL pills at exactly 10 pm.
+DETECTIVE: (Investigating clock) Aha! The clock stopped at midnight. Interesting.
+DETECTIVE: (Sniff the suspect) Strange. The clock doesn't explain why you smell like BAD SMELL.
+shark tank offer
+SUSPECT B: That's a side effect of my MEDICINAL pills!
+music Stops
+BUTLER: (Speaking up) Excuse me, Mr. Detective, sir? If I may say something...
+DETECTIVE: What is it, mister butler?
+DETECTIVE: This better be relevant to the case. I'm busy smelling the suspects. (Sniff the suspect again)
+BUTLER: Erm, before he collapsed, I believe I heard the Master shouted out, “The killer is the one who always SUSPICIOUS HABIT!”
+DETECTIVE: Always SUSPICIOUS HABIT?
+shark tank offer
+SUSPECT A: That could be anyone!
+SUSPECT B: Especially someone who likes to FLOSS.
+dark classical music
+DETECTIVE: Recently, the Master updated his will. Everything now goes to SILLY NAME.
+DETECTIVE: The very same SILLY NAME who is known to FLOSS!
+DETECTIVE: (Pointing fingers) I believe one of you may be in cahoots...
+SUSPECT B: What kind name is SILLY NAME?! That's like Ice Spice and Gronk!
+SUSPECT A: Hm... Now that you mention it, I once saw SILLY NAME doing FLOSS in the CHAMBER with the butler.
+BUTLER: W-We all do things in the heat of passion...
+DETECTIVE:In the CHAMBER you say?
+SUSPECT A: With a RIDICULOUS OBJECT.
+BUTLER: Why I would never...!
+DETECTIVE: (pull out RIDICULOUS OBJECT) You mean this RIDICULOUS OBJECT?
+shark tank offer
+BUTLER: (gasp) What in the...?! 
+SUSPECT A: (sniff RIDICULOUS OBJECT and gag) Why does it smell like BAD SMELL?
+shark tank offer
+SUSPECT B: Because someone was using it to FLOSS!
+DETECTIVE: Enough! The murderer is clearly the one who had the RIDICULOUS OBJECT that resulted in the death of Mr. Blackwood!
+DETECTIVE: One of you helped SILLY NAME... to secretly FLOSS on their behalf.
+shark tank offer
+SUSPECT A: I would never FLOSS for SILLY NAME!
+SUSPECT B: I can sorta FLOSS, but only at an amateur level!
+SUSPECT B: See? Kinda like this... (FLOSS in the air but then give up) See, I don't know what comes next.
+SUSPECT B: Totally not ready to FLOSS professionally. At least not yet!
+DETECTIVE: And yet, the evidence points to someone who smells like BAD SMELL, is covered in GROSS NOUN, and owns this RIDICULOUS OBJECT!
+BUTLER: Why...! That describes everyone in this room!
+shark tank offer
+SUSPECT A: That’s slander! How dare you, sir!
+SUSPECT B: I refuse to be falsely accused for smelling like BAD SMELL!
+music Stops
+thunder
+MASTER BLACKWOOD: That's quite enough! (Standing up)
+scary music
+MASTER BLACKWOOD: I am not dead! I was merely pretending to be dead.
+MASTER BLACKWOOD: My motionless body was supposed to convince you that I died of DEATHMETHOD.
+courtroom music
+DETECTIVE: You staged your own death? By DEATHMETHOD?
+vine boom
+MASTER BLACKWOOD: Indeed. I wanted to see who would panic over a ABSURD ITEM.
+vine boom
+BUTLER: Master, you... you caused all this chaos? All over a ABSURD ITEM?
+vine boom
+SUSPECT A: You interrupted my creative flow! Now my "MOIST SONATA in A Minor" will never be complete!
+vine boom
+SUSPECT B: And my BAD SMELL smell is even worse because of the stress now!
+vine boom
+DETECTIVE: Whatever. (Frustrated and tired) Damn. I need a CIGARETTE.
+DETECTIVE: (Walk up to Butler) Looks like this case closed. I'm going home. (Exit stage)
+MASTER BLACKWOOD: (Point to suspects) And now I know exactly who always SUSPICIOUS HABIT! 
+SUSPECT A: SUSPICIOUS HABIT?!
+meanwhile SUSPECT B: SUSPICIOUS HABIT?!
+spy ending sting
+music Stops
+music Stops
+music Stops
+
+======
+
+INFORMATION ===============================
+ID: 2102
+TITLE: Blood is Thicker than Water
+AUTHOR: pinkvox
+VERIFIED: True
+TAGS: 
+SET: Detective Noir
+DATE: 10/02/26
+CHARACTERS ================================
+DETECTIVE: Detective:Stage Right
+LADY: Lydia, female client:Backstage
+MARK: Mark, missing brother:Backstage
+SUGGESTIONS =============================
+SNOW:something cold:ice,a snowman,frozen yogurt
+WATER:something wet:water,a fish,a mop
+SICKNESS:a negative physical condition:fever,diarrhea,broken arm
+BUTCHER:name for a serial killer:The Back-Alley Butcher,Johnny the Knife,Red Streak
+NAME:a name for a detective:John Detective,Tricky Dick,Cliff Spanner
+FIRE:something hot:magma,a seatbelt in summer,fresh coffee
+FAMILY:ridiculous sounding last name:Nipple,Shmoopydoopen,Bean-Eater
+WOWZERS:exclamation of surprise:holy moly!,sweet sassafras!,poggies!
+BEER:an intoxicating substance:whiskey,goofy juice,nostalgia
+HAWAII:Vacation destination:Tahiti,Las Vegas,Europe
+SCRIPT ==========================================
+noir music 2
+DETECTIVE:(narrate directly to audience)  It was a cold and wet November night.
+DETECTIVE: Cold like SNOW. 
+DETECTIVE: Cold like the body I found in an alley behind 3rd Street.
+DETECTIVE: And wet. Wet like WATER.
+DETECTIVE: This rain was driving me crazy, and the SICKNESS wasn't helping.
+DETECTIVE: HAWAII this town is not.
+DETECTIVE: I had finished off the last of my BEER and was going through the evidence of the latest BUTCHER incident
+DETECTIVE: and that's when trouble walked in.
+(knocking on door)
+LADY: (enter) Are you NAME?
+DETECTIVE: (To Lady) That's the name written on the door.
+LADY:Oh, right. Well the door was unlocked, I hope you don't mind.
+DETECTIVE: (Continue narrating) She was pretty, let me tell you.
+DETECTIVE: Hotter than FIRE on the 4th of July.
+LADY: (close door) I hear you're a detective. I could use your help.
+LADY: My brother went missing and I'd do anything to see him again.
+DETECTIVE: (to lady) Anything? Even face down BUTCHER in a dark alleyway?
+LADY: I'm not afraid of scum like that. Yes Anything.
+LADY: Even putting my hand on FIRE and holding it there.
+DETECTIVE: You must really care about him.
+meanwhile LADY:(nod to Detective) I do! 
+DETECTIVE: Well if I can't find your brother then my name isn't NAME. Like the door says.
+DETECTIVE: Who's your brother?
+LADY: Mark FAMILY
+DETECTIVE: FAMILY? Of the FAMILY Empire?
+LADY: That's right. I'm Lydia FAMILY. My family can reward you handsomely for this deed.
+DETECTIVE: (narrate to audience) That name matched the stiff I found this morning. Just my luck.
+DETECTIVE: How was I supposed to tell this rich, beautiful woman that her brother was dead?
+LADY: NAME? You look troubled. You're sweating so much, you look like WATER.
+DETECTIVE:(pause)... sorry, I have a SICKNESS.
+music stops
+MARK: (Angry) NAME!!! 
+(break down door)
+noir music 4
+MARK:(enter) Aha! I knew I'd find you here.
+DETECTIVE: My name is on the door!
+DETECTIVE: (Narrate) WOWZERS - Mark FAMILY. The dead walk! -and break down my door too.
+LADY: Oh NAME! You're incredible!
+MARK: What are you doing with my sister, Detective?
+DETECTIVE: What were you doing unconscious, face-down in a puddle of blood?
+MARK: Can't a guy enjoy a evening nap?
+DETECTIVE: What about the blood?? I saw you myself, looking like a red WATER
+MARK: That...may not have been my blood
+LADY: Oh Mark! WOWZERS! I'm so glad you're okay!
+MARK: Quiet, Lydia. The men are talking.
+meanwhile LADY: (offended) Humph!
+DETECTIVE: (check crime files) Wait a minute. I can't believe I hadn't noticed before.
+DETECTIVE: You match every description of BUTCHER. You've killed 9 people.
+LADY: No. He hasn't. (pull out gun) I did.
+LADY: Mark here is supposed to be my clean up, but he got caught. 
+MARK: I may have had too much BEER and passed out, I'm sorry.
+LADY:Don't tell me you're sorry. Mark, you are a fool and a jerk!
+LADY: "Quiet. The men are talking"? 
+MARK: Now hang on, I didn't mean it like that.
+LADY: Shut up, Mark. The adults are talking.
+gunshot
+music stops
+MARK: (hurt)We were supposed to run off to HAWAII(die) 
+noir music 1
+DETECTIVE: Wow, Lydia. That's cold. SNOW cold.
+LADY: Your turn, Detective. Any last words?
+DETECTIVE: You wouldn't shoot a guy with SICKNESS, would you?
+LADY: Yes. I would
+(gunshot)
+DETECTIVE: (Narrate to audience) So this was it.
+DETECTIVE: She must have shot bullets of FIRE. The burning in my chest was overwhelming.
+DETECTIVE: In my fleeting moments i was just able to mutter out the only thing going through my head.
+DETECTIVE: (to lady) WOWZERS (die)
+church bell
+
+======
+
+INFORMATION ===============================
+ID: 2111
+TITLE: Drink the Wine, Honey
+AUTHOR: ᴄᴀʟʟᴍᴇᴊɪɴ
+VERIFIED: True
+TAGS: Skit
+SET: Living Room
+DATE: 16/02/26
+CHARACTERS ================================
+HUSBAND: Desperate Husband:Kitchen
+WIFE: Sneaky Wife:Couch
+LOVER: The Guy:Front Door
+SUGGESTIONS =============================
+DRINK:a fancy drink:oui oui juice,holymoly wine,pickle juice
+FOOD:strange food combo:cheeto icecream,krabby patty chocolate bar,brownies that taste like bob
+PREGGO:pregnancy symptom:back pains,listening to drake,headache
+ORGAN:organ or body part:lungs,heart,brain
+NAME:Some kind of username:gary,rosetta,lover67
+PLACE:Location:mcdonalds,pandora,chicago
+HOLIDAY:real or fake holiday:green shirt day,easter,friday the 13th
+MOVIE:Movie title:Shawshank redemption,animal kingdom,lawless
+SPEECH:an emotional goodbye phrase:Good morning and in case I don't see ya Good afternoon good evening and good night!,merry christmas,5 big booms
+MONEY:an amount of money:50M,a penny,10 euros
+SCRIPT ==========================================
+dark classical music
+wife: (Sits dramatically, holding stomach) sighhh
+husband: (Walk to the couch with the drink) My darling… my glowing, beautiful, definitely pregnant wife… I brought you a glass of DRINK
+wife: Oh honey, you always know how to treat me. The baby has been craving FOOD all day. (She sets the wine down somewhere else.)
+husband: …Yes. Drink it. Drink the DRINK, honey.
+wife: In a minute! First I must call my doctor about my… PREGGO(dramatically leaves the room)
+husband: (To audience) This poison cost me MONEY.
+wife: (Returns, grabs a totally different drink.) Darling!
+husband: No no no — not that one. Drink the DRINK, honey.
+wife: Oh, I forgot! The doctor says DRINK is bad for… (touches stomach) the baby’s ORGAN.
+husband: Yes. But this DRINK is… medicinal.
+wife: Oh! But I'm so so so dizzy from my PREGGO (she falls to the couch)
+husband: (Muttering) Why won’t she drink the DRINK...
+Music Stops
+extreme knocking
+lover: (Burst in and kiss her hand) Babe! I got your message about the your "condition".
+husband: ... Who are you?
+wife: (panicking) Oh! This is my... cousin.
+lover: Yes, her cousin NAME. From PLACE
+husband: You kiss your cousin...?
+lover: Only on HOLIDAY!
+laughter
+Music stops
+husband: Seriously...? The best lie you can come up with?
+scary music
+husband: (Trembling and upset, slowly laughing) I bought poison… I practiced my speech… I even watched MOVIE for inspiration!
+wife: You tried to poison me?!
+husband: YES! For cheating over and over! But you keep dodging the glass!
+wife: If I drank DRINK then I would tell you the truth about the baby!
+music stops
+husband: What truth!
+wife: I'm not actually pregnant!
+emotional piano music
+husband: What... ? I wasn't going to be a father?
+music stops
+wife: You wouldnt have if you killed me either! (she beats him up)
+fistfight
+music stops
+lover: Wait… that’s DRINK , poison or not- i want me some of that
+husband: NO—!
+lover: You know what… If I die, tell my dog SPEECH. (drinks it)
+wife: You monster! (she grabs the glass too)
+husband: Well… if we’re doing this… (he drinks it)
+husband: (Holding up glass making a toast) To a failed marriage.
+wife: (Holding up glass making a toast) To bad decisions.
+lover: (Holding up glass making a toast) To whatever this was.
+aww
+Husband: Down the hatch. (Drink the poisoned drink)
+Husband: (Looking around) You didn't drink yours? Oh man...
+music stops
+Husband: (Touching your stomach) I'm not dead?
+Husband: Wait… I forgot to add the poison.
+
+======
+
+INFORMATION ===============================
+ID: 2125
+TITLE: An unexpected toilet infomercial
+AUTHOR: Lichruler
+VERIFIED: True
+TAGS: Infomercial,Skit
+SET: Infomercial Bathroom
+DATE: 24/02/26
+CHARACTERS ================================
+SALESMAN: The Salesman:Stage Left
+CUSTOMER: Janice:Center Stage
+SUGGESTIONS =============================
+TOOL:An item used to clean or fix things:hammer,machine gun,waffle iron,brush,sword
+PRODUCT:A product everyone, and I mean everyone wants.:Solid gold bars,a copy machine that actually works,games without live service,your mother
+NUMBER:A random number:23,7,six-seven,42
+ACTIVITY:A physical activity:Running,Swimming in hot lava,eating 493 tacos nonstop,breathing
+ANIMAL:An animal:Dog,cat,velocirpator,tardigrade,blobfish
+ITEM:An object:Tea Tray,Waffle Iron,sock,meme generator
+FOOD:A food to eat:Lobster,vegan pot pie,peanuts,my moms mac and cheese
+COST:An amount of money:$458,tree fiddy,$999,$921,215,342
+10BUCKS:amount of money, or a favor someone can do for you:10 bucks,a hug,headpats,100 dollars
+THREAT:An entire threat you might say to someone:I will eat you,you wouldn't wan't to fall down the stairs,watch your back at school tomorrow
+SCRIPT ==========================================
+happy music 1
+CUSTOMER: Ugh, I hate cleaning my toilet so much! I wish there was a better way than using a TOOL.
+break down door
+SALESMAN: (run through door) Hi Janice! Frilly Sellman here to introduce Toilet Blaster The perfect way to clean your toilet without using a TOOL!
+CUSTOMER: WOW! Frilly Sellman! What's this Toilet Blaster, and what does it do?!
+SALESMAN:  It cleans your Toilet with super Blaster action!
+CUSTOMER: Wow! Does it really work?
+SALESMAN: (exciedly) NO! No it does not, Janice!
+record scratch
+music stops
+CUSTOMER: Uh... it doesn't?
+SALESMAN: Not even remotely! It's complete garbage!
+SALESMAN: In fact, you should just flush it down the toilet, because it's nothing but crap!
+CUSTOMER: (concerned) Uh... Sellman? If... it doesn't work... Why are you here?
+SALESMAN: Because I'm here to actually introduce PRODUCT!
+superhero fanfare
+CUSTOMER: (Gasps audibly) No way! PRODUCT?! The very thing everyone has been wanting for years, but no one made?!
+SALESMAN: That's right Janice! After NUMBER years, PRODUCT is finally available!
+SALESMAN: You all know what it can do! It slices, it dices, it walks your ANIMAL, it can even make ACTIVITY fun!
+CUSTOMER: Oh my goodness! And I bet it can do ACTIVITY with my ANIMAL even better!
+SALESMAN: 100% Janice, and even better, it comes with wifi, AND it comes with a free ITEM
+CUSTOMER: A free ITEM?! That means I can do ACTIVITY without needing to get a new ITEM!
+SALESMAN: Exactly! But wait, there's more!
+SALESMAN: If you call today or place an order online, not only will you get the PRODUCT, and the ITEM, but you'll also get an entire months supply of FOOD!
+CUSTOMER: Everyone loves FOOD! And simply buying PRODUCT will get you a whole month?! This deal can't get better!
+SALESMAN: Oh yes it can Janice, because you know what else?!
+CUSTOMER: It comes with free shipping and handling?!
+record scratch
+music stops
+SALESMAN: Uh... no. No, shipping and handling is not free.
+CUSTOMER: Oh...
+SALESMAN: (awkwardly) Yeah, to get this in the mail you gotta give us 10BUCKS.
+superhero fanfare
+SALESMAN: But it is available right now!
+CUSTOMER: (gasp) Right now?!
+SALESMAN: That's right, for the low low price of COST, you can get the PRODUCT, with ITEM, and a months supply of FOOD!
+SALESMAN: That's COST, plus shipping and handling! And even more, you can even do with a payment plan!
+SALESMAN: You can pay the COST over a span of NUMBER years, at no extra cost!
+CUSTOMER: Wow!
+SALESMAN: So call today! Buy it!!! Do it! THREAT!
+CUSTOMER: (Scared) Yeah! Do it now, buy now!
+infomercial disclaimer
+
+======
+
+INFORMATION ===============================
+ID: 2079
+TITLE: Ruined Future, Renewed Hope
+AUTHOR: ModalSoul
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 29/01/26
+CHARACTERS ================================
+FUTUREBOY: Older Briefs:Narrator Podium
+YOUNGBOY: Young Briefs:Backstage
+GRAINS: Future Grains:Stage Right
+MALECYBORG: Cyborg 838:Backstage
+FEMCYBORG: Cyborg 067:Backstage
+SUGGESTIONS =============================
+YEAR:Any number:2077,4100,2027
+STRONG:Tough guy name:Wukong,Sakuya Izayoi,Kendrick Lamar
+VEGGIE:Healthy ingredient:Cabbage,Kale,Cauliflower
+CITY:Any place:West City,Salzaland,Northburg
+PLANET:Any planet real or imaginary:Earth,Pluto,Venus
+SCIENTIST:Strange name:Bardock,Einstein,Galileo
+LOCALE:Any location:South Town,Paprikaburg,East City,pizza hut,the audience
+SHOCK:Something you might say when surprised:Oh,crapbaskets,Oh my god!,This cannot be!
+LIMB:A singular body part which comes in pairs:Arm,Leg,Foot
+JOB:Any job or profession, good or bad:Park Ranger,Firefighter,VTuber
+FLIRT:Aggressively flirty way to describe a man:a real catch,handsome,gorgeous
+GOLF:Something you do on a date:golf,touch grass,watch brainrot videos together
+SCRIPT ==========================================
+FUTUREBOY: Hello, my name is Briefs. And this is my story.
+Noir Music 1
+FUTUREBOY: It all started 20 years ago with the death of STRONG.
+FUTUREBOY:  I was a few months old at the time. I was told that STRONG died from a bad sandwich with... VEGGIEs in it.
+FUTUREBOY: Six months after STRONG's passing, the strongest fighters on PLANET would encounter their strongest foes yet: the cyborgs. 
+FUTUREBOY: Grains was the only fighter to escape and survive, and now, in my future there's little hope left for PLANET.
+Music Stops
+Dark Classical Music
+YOUNGBOY: (enter Stage Left) SHOCK! There's nobody left in CITY!
+YOUNGBOY: (angry) Curse those cyborgs! I wish there was something I could do!
+Meanwhile GRAINS: (unaware of Briefs, muttering) Not a single person left... I was too slow again.
+YOUNGBOY: Wait a second, is that..? Grains!
+GRAINS: Huh? Oh, you're Dr. SCIENTIST's son! Briefs, right?
+YOUNGBOY: Yeah! I came to CITY to try and help anyone I could, the radio said that this place was attacked!
+GRAINS: By the cyborgs, yeah. Unfortunately, there's nobody left to save.
+YOUNGBOY: Grains, I don't want those cyborgs to terrorize anyone like they did to the people of CITY!
+YOUNGBOY: Train me! Please!
+GRAINS: It'll be tough training, but I think you could handle it. I'd bet my LIMB on it.
+YOUNGBOY: I'll do it! I'll do whatever it takes!
+Music Stops
+Shark Tank Serious Music 1
+FUTUREBOY: Grains would become my mentor, and we'd train from sun up to sundown.
+FUTUREBOY: We fought the cyborgs once together, Grains would be injured and would lose his LIMB.
+FUTUREBOY: After that, I had the resolve to train even harder. For Grains, Dr. SCIENTIST, everyone.
+FUTUREBOY: And while I did get stronger... I wouldn't be strong enough in time for it to matter.
+GRAINS: (To young Briefs) You know, I think you're right there Briefs. I just think you need one big push.
+YOUNGBOY: You did always say that the feeling of loss is a good way to do it, but I never really... lost anyone.
+GRAINS: And I hope that you don't too soon, especially Dr. SCIENTIST.
+GRAINS: Whenever I transform, I think of losing Mr. Zucchini, or STRONG...
+GRAINS: But when I think about that loss, that pain... it builds up, and then it explodes. 
+Music Stops
+Explosion
+Scary Music
+YOUNGBOY: (Alerted by explosion) That sounds like it came from LOCALE! The cyborgs are attacking!
+GRAINS: SHOCK! Briefs! You need to stay here, I'll go handle them! 
+YOUNGBOY: But Grains! You're still injured, you're missing a LIMB! Please, let me help you!
+GRAINS: You know what? You're right. What can I do without my LIMB?
+YOUNGBOY: Thank you Grains! Now, let's go! We can still save someone!
+GRAINS: Sorry, Briefs. I need to knock you unconcsious for your own safety. (Punch Briefs in the neck)
+YOUNGBOY: SHOCK... (fall over unconscious)
+GRAINS: But that's what I can do with one LIMB. Now, what can I do with one LIMB to the cyborgs...? (Exit Stage Left)
+Music Stops
+Halloween Music
+MALECYBORG: (Enter Stage Right)You know what, 067? I'm tired.
+Meanwhile FEMCYBORG: (Enter Stage Right with Cyborg 838 together)
+FEMCYBORG: Tired of what? This place? We could just go to the next city over.
+FEMCYBORG: VEGGIEburg's only right across the way.
+MALECYBORG: Nah, not like that. I mean tired of... (gesture around area) all this.
+MALECYBORG: All of the destruction and terrorizin', it isn't fair to PLANET.
+FEMCYBORG: What, feeling down all of the sudden?
+FEMCYBORG: Just two cities over in CITY you made a game of doing hit and runs.
+MALECYBORG: I think I'm just done with the whole "omnipotent ruler" schtick.
+MALECYBORG: 067, you know what I wanna do? Work at a JOB.
+FEMCYBORG: You? At a JOB? I guess I could see it.
+FEMCYBORG: Personally, I think I'm gonna settle down and marry a real FLIRT of a guy.
+MALECYBORG: You said you liked that bald guy. If he was so FLIRT, why'd you kill him?
+GRAINS: (Enter Stage Left) Hey, cyborgs! It's about time I turned you to scrap!
+MALECYBORG: (Alerted) Well would you look at that, it's Grains!
+MALECYBORG: (Looking at Grains) I was just thinking about you, you know. You'd get in my way of working at a JOB.
+Music Stops
+Tense Cinematic Music
+GRAINS: Your rein of terror ends here in LOCALE, cyborgs! I'm stronger than I was in CITY!
+FEMCYBORG: (Aiming at Grains) Really? While you're missing a LIMB? I dunno about that.
+MALECYBORG: (Aiming at Grains) You've got some guts to be coming at us without that LIMB.
+FEMCYBORG: (Advancing forward towards Grains) But four LIMBs are better than one.
+Meanwhile MALECYBORG: (Advancing forward towards Grains)
+MALECYBORG: You will be eliminated.
+Meanwhile FEMCYBORG:  You will be eliminated.
+Super Epic Charge Up
+GRAINS: No! This isn't where my story ends!
+FUTUREBOY: (sigh) This is where Grains's story ends.
+Explosion
+Music stops
+Grains: Grains... you're PLANET's last... remaining... hope... (Fall over, dying)
+FEMCYBORG: Well, that's that.
+FEMCYBORG: (To Cyborg 838) Wanna go for GOLF?
+MALECYBORG: Sure. I don't see why not. (Exit Stage Right)
+Meanwhile FEMCYBORG: (Exit Stage Right with Cyborg 838)
+Teleport YOUNGBOY to Stage Right
+YOUNGBOY: (Waking up) Wh... what happened? From last I remember...
+YOUNGBOY: Grains! He went to fight the cyborgs by himself!
+Thunder
+Lacrimosa Music
+GRAINS: (lay defeated, speaking weakly) B-Briefs... This fight... The fight for PLANET... Is yours...
+YOUNGBOY: (kneel down at Grains's body) Oh, no, no no... Grains! Grains! Speak to me, please! Nooooooooo!
+FUTUREBOY: It was the first time I ever felt real, personal loss. And the first time I ever went Super Veggie.
+Music Stops
+FUTUREBOY: If only I had been stronger... But dwelling on the past isn't going to help.
+Superhero Music
+FUTUREBOY: I'm going to use a time machine built by Dr. SCIENTIST in order to go back 20 years into the past. 
+FUTUREBOY: I plan to give STRONG a medicine to counteract their allergy to VEGGIEs.
+FUTUREBOY: Then, I'll tell the PLANET's warriors about the cyborgs, where and when they'll show up in YEAR.
+FUTUREBOY: If I can change one thing, just one thing... the future will be a little better.
+Scifi Contraption
+Teleport FUTUREBOY to Backstage
+
+======
+
+INFORMATION ===============================
+ID: 2134
+TITLE: Spoopy
+AUTHOR: pinkvox
+VERIFIED: True
+TAGS: 
+SET: Infomercial Bathroom
+DATE: 03/03/26
+CHARACTERS ================================
+SCROOGE: Ebenezer Scrooge:Toilet 
+MARLEY: Jacob Marley:Entrance Stage Left
+PAST: Ghost of Christmas Past:Backstage
+PRESENT: Ghost of Christmas Present:Backstage
+FUTURE: Ghost of Christmas Yet-to-Come:Backstage
+SUGGESTIONS =============================
+FOODS:food (plural):beans,cheeses,Twinkies
+HELL:a place you don't want to be:prison,a dentist's,VRChat
+GOLD:a very desirable object:diamond,motorcycle,steak dinner
+FIFTY:Any number:1,99,69
+TAIL:body part humans don't have:wings,tentacle,fangs
+HUMBUG:an expression of anger:humbug,fiddlesticks,shenanigans
+DO YOUR HOMEWORK:Good advice to give to someone:stay in school,don't do drugs,always bet on black
+SCRIPT ==========================================
+dark classical music
+SCROOGE: (Sitting on toilet, struggling) Oooh. I knew I shouldn't have had all those FOODS.
+SCROOGE: My stomach is killing me.
+SCROOGE: I blame all this "Christmas cheer". HUMBUG.
+(knocking on door)
+SCROOGE: Occupied!
+MARLEY: (Entering with a ghostly haunting voice) Ebenezer Scrooge!
+SCROOGE: I said "Occupied!"
+MARLEY: I'm not here for the toilet, I'm here for you, Scrooge!
+SCROOGE: Jacob Marley!? I thought you were dead.
+MARLEY: I AM dead! And I'm here to warn you about the afterlife. 
+SCROOGE: Afterlife? Me? I'm only FIFTY. I'm not going to die any time soon.
+MARLEY: We spent our lives selling counterfeit GOLDs and it meant nothing once I died.
+MARLEY: It's Hell!
+SCROOGE: (groan) I'm in hell right now!
+MARLEY: No. I mean it's worse than HELL.
+MARLEY: Tonight you will be visited by three ghosts. 
+MARLEY:I hope they can convince you to change your ways. So you won't end up like me.(exit)
+SCROOGE: HUMBUG!
+music stops
+heavy door knocking
+SCROOGE: I'm a bit busy in here!
+christmas music 2
+teleport PAST to stage left
+PAST: Hello, Ebenezer Scrooge. I am the Ghost of Christmas Past.
+SCROOGE: You're a ghost? some kind of monster? Shouldn't you have a halo or TAIL or something?
+PAST:I want to show you "that which came before".
+SCROOGE: Can you take me back to when I wasn't sick?
+PAST: I will show you how you spent last Christmas. Come with me! (Force Scrooge to exit)
+meanwhile SCROOGE: (Exit with ghost) Do we have to?
+music stops
+christmas music 2
+teleport SCROOGE to Center stage
+teleport PAST to stage left
+PAST: Seriously? This is the past? How long have you been on the toilet?
+Meanwhile SCROOGE: (Struggling on the toilet)
+SCROOGE: (On the toilet, struggling) OOooh too many FOODS!
+PAST: You're hopeless. (exit)
+music stops
+extreme knocking
+SCROOGE: Ugh, go away!
+christmas music 1
+PRESENT: (enter stage by ladder) Go away!? I've only just got here, man!
+SCROOGE: Who are you?
+PRESENT: I am the Ghost of Christmas Present, and I have a gift for you.
+SCROOGE: (groan) Is it more toilet paper?
+PRESENT: No, and it isn't a GOLD either.
+PRESENT: It is a vision of what your life could be like elsewhere. Come with me! (force Scrooge to exit)
+meanwhile SCROOGE: (exit with ghost) HUMBUG. Fine!
+SCROOGE: (re-enter on opposite side) This is just another toilet.
+PRESENT: (enter) Not just any toilet, but a toilet in HELL!
+PRESENT: Your life isn't so bad. Imagine if this is where you had to do your business. I mean, it's like usual, but worse.
+PRESENT: 'Cause you know... You're in HELL.
+SCROOGE: (groan) I'll take what I can get. Now leave me be, Spirit. (sit on toilet)
+PRESENT: I tried. (exit)
+music stops
+door creak
+SCROOGE: Now what?
+mystery music 1
+teleport FUTURE to Stage right
+(footsteps on wood)
+SCROOGE: Oh. You must be the third ghost.
+SCROOGE: Let me guess, the Ghost of Christmas Future?
+thunder
+FUTURE: No.
+FUTURE: Well not exactly.
+FUTURE: Actually I am the Ghost of FOODS Yet-to-Come and I can see that you have many days like this one in your future.
+SCROOGE: HUMBUG. How many days?
+FUTURE: uh...FIFTY?
+SCROOGE: Oh God, please no.
+SCROOGE: I will do anything to avoid that. Do I need to exercise more? Drink more water?
+SCROOGE: Must I amend my greed-driven lifestyle and become a supportive beacon of generosity?
+SCROOGE: I'll do it! I will stop selling counterfeit GOLDs. I'll even give my employees raises and vacations!
+FUTURE: You must stop eating FOODS.
+SCROOGE: But what about a little bit of FOODS, as a treat?
+FUTURE: No more FOODS. Ever. Or you'll die on a toilet in HELL.
+SCROOGE: What if I only eat FIFTY FOODS total for the rest of my life?
+thunder
+FUTURE: Enough, Ebenezer Scrooge! Or I will use my ghostly powers to make you grow a thousand TAILs!
+SCROOGE: (crying) Very well! You've convinced me, Spirit. I will abstain from FOODS.
+FUTURE: And DO YOUR HOMEWORK!
+SCROOGE: Yes, it's important to DO YOUR HOMEWORK. I'll remember!
+FUTURE: You have been warned. (exit)
+music stops
+christmas music 3
+SCROOGE: (gasp) Christmas Day! I haven't missed it! I must throw out all my FOODS. 
+SCROOGE: I'll do one better- I shall throw a FOODS feast and give everyone else that horrible sickness.
+SCROOGE: And in their illness, the people will be more easily influenced to purchase my low-quality GOLDs. Perhaps at a FIFTY percent upcharge.
+SCROOGE: (Evil laughter) Muhahahaha!!!
+
+======
+
+INFORMATION ===============================
+ID: 2146
+TITLE: The Comrade's Solution
+AUTHOR: Eliх
+VERIFIED: True
+TAGS: Skit
+SET: Restaurant
+DATE: 11/03/26
+CHARACTERS ================================
+FOOD WAITER: Russian waiter:Stage Left
+BOYFRIEND: Boyfriend:Entrance Stage Right
+GIRLFRIEND: Girlfriend:Entrance Stage Right
+COOK: Russian cook:Backstage
+SUGGESTIONS =============================
+A TYPE OF FOOD:Carrot:Burger,Pizza,Pasta
+A TYPE OF DRINK:Cola:Sprite,Water,Fanta
+ITEM TO EXTINGUISH FIRE:Fire Extinguisher:Water Bucket,Dirt,Clothes
+NAME OF A RESTAURANT:MCDonalds:Five Guys,Chick-Fil-A,Domino's Pizza
+WORD FOR LACKLUSTER:Weird:Unlikable,Bland,Boring
+NAME FOR A FOOD COOK:Viktor:David,James,William
+WORST INSURANCE COMPANY:the worst possible insurance company:mom n pops barrel of cash,state farm,daddys credit card
+RARE COLLECTION:Item(s) that you care very much about:my VR stuff,my anime,my dogs
+SCRIPT ==========================================
+corporate guitar music
+Boyfriend: Wow, I've never been to a Russian restaurant ever in my life, it's so exciting!
+Girlfriend: I know right? I've heard they serve those weird things called A TYPE OF FOOD!
+Boyfriend: Can't wait to taste that!
+Food Waiter: Hello. Welcome to NAME OF A RESTAURANT! Do you have a reservation?
+Boyfriend: No, actually we just came here.
+Food Waiter: Alright. I will find a table for you. Wait here. (Walk around)
+Food Waiter: Okay, you may sit here! (Point on a random table) I'll bring the menus right up. (Walk to the backstage)
+Girlfriend: Wow.. This place looks really nice. The food has to be good.
+Food Waiter: (Walk back to the table) Alright, here are your menus. My name is Boris and I'll be your waiter today.
+Boyfriend: Thanks. (Look at the menu)
+Meanwhile Girlfriend: Thank you! (Look at the menu)
+Food Waiter: If you have any questions, ask me.
+Girlfriend: Wow! I want this A TYPE OF FOOD!
+Boyfriend: Let's take 2 then!
+Girlfriend: What about a drink?
+Boyfriend: I think I'll go for A TYPE OF DRINK. And how about you?
+Girlfriend: I'll take it too then.
+Boyfriend: Boris, Right? I think we're ready!
+Food Waiter: Great! What would you like to order?
+Boyfriend: We want 2 A TYPE OF FOOD and 2 A TYPE OF DRINK.
+Food Waiter: Oh! Great choice! Anything else?
+Girlfriend: Um... That'll be it. Thanks!
+Food Waiter: Okay. It won't take long! (Walk to left door)
+Food Waiter: Hey NAME FOR A FOOD COOK! I got a new order!
+Cook: (Enter stage a little bit) Great, what is it?
+Food Waiter: It's umm.. 2 A TYPE OF FOOD and 2 A TYPE OF DRINK!
+Cook: Okay. (fetch food and give it to waiter) I think this should be good. Give it to them. (Exit)
+Food Waiter: Okay, thanks, chef. (Bring food to table) Careful, it's hot!
+Boyfriend: Wow it's ready this quickly?
+Girlfriend: We're lucky we went here. I told you when I feel good about something, it is good!
+Food Waiter: (Put the plates on the table) I hope you'll enjoy it! (Walk away)
+Girlfriend: Thanks Boris! (Try the food)
+Boyfriend: Um... It's not..
+Girlfriend: Uh... Why is it so bland?
+Boyfriend: I know, right? It doesn't taste as good as it looks. Like there's no seasoning or whatever.
+Girlfriend: I mean, it's okay.. It's eatable.
+Boyfriend: No! I'm telling the waiter that it's bland.
+Boyfriend: (Yell) Boris!
+Food Waiter: (Walk back to the table) Yes?
+Boyfriend: This A TYPE OF FOOD tastes really WORD FOR LACKLUSTER.
+Food Waiter: WORD FOR LACKLUSTER? How so?
+Boyfriend: Like there's no taste what so ever.
+Food Waiter: Do you want me to take the plate and order something else?
+Girlfriend: No wait! I don't want something else! Can you just make it with more "taste"?
+Food Waiter: I'll see what I can do. (Walk to left door)
+Cook: (Enter stage a little bit) Why did you bring their plates back?!
+Food Waiter: They said it tastes "WORD FOR LACKLUSTER".
+Cook: How so?
+Food Waiter: They said there is no taste and want you to add taste to it.
+Cook: What? Okay... I'll show them what a true Russian taste of A TYPE OF FOOD can be like!
+Cook: I'll pour some Vodka on top of the food. They will love it. (Get a bottle from your pocket)
+ussr anthem music
+Food Waiter: (Holding out plate for chef) Wait NAME FOR A FOOD COOK... Are you sure it's gonna taste better?
+Meanwhile Cook: (Pouring bottle onto the plates of food)
+Cook: Pfft. I'm a professional! (Pours out all the Vodka)
+Music Stops
+fire alarm
+tense cinematic music
+Cook: (Looking back into kitchen) Oh no!! The kitchen is burning!!
+Food Waiter: Nooo! My RARE COLLECTION is in there! What do we do??
+Cook: Tell them the food won't be ready for now!!
+Cook: Oh no!! Ahhh!! (Run off into kitchen)
+Boyfriend: What are those screams coming from the kitchen?
+Girlfriend: Oh no!! The kitchen is on fire! Look!
+Food Waiter: (Go back to the table) Um... We have some slight issues with the food. It will take a while to be ready.
+Girlfriend: (Peeking across the room and panicking) The fire is spreading outside the kitchen!
+Cook: (Enter the stage, coughing from smoke) Everyone calm down!!! It's gonna be okay! I'm a professional!
+Boyfriend: We're doomed!
+Food Waiter: (Having an idea) What if we use ITEM TO EXTINGUISH FIRE!?
+tada
+Cook: Good idea! (Use an item through the doorway)
+Cook: Oh no! It made it worse!
+Boyfriend: Let's get out of here! (Run backstage throught right door)
+Meanwhile Girlfriend: Okay! (Run backstage throught right door)
+Food Waiter: Wait! You didn't pay the check!
+Cook: The restaurant is on fire! We should also run!
+Food Waiter: What??
+Cook: Just run!!! (Run backstage throught right door)
+Food Waiter: But the retaurant! and my RARE COLLECTION!
+Cook: Don't worry, WORST INSURANCE COMPANY will pay for it, it's fine!
+explosion
+
+======
+
+INFORMATION ===============================
+ID: 2149
+TITLE: Evil Talkshow
+AUTHOR: ˚ღ Shammy ღ˚
+VERIFIED: True
+TAGS: Skit
+SET: News
+DATE: 13/03/26
+CHARACTERS ================================
+HOST: The Talk Show Host:News Desk
+EVIL: A SuperVillain:Stage Left
+SUGGESTIONS =============================
+NAME:Any Name:Josh,Max Steele,Jonathan FiggleBone,Stacy CropTop
+CITY:A name for a city:Gotham,Chicago,Atlantis,Towny Town
+VILLAIN:A name for a supervillain:The Joker,Lex Luthor,ScareCrow,Peter
+ITEM:Any Item:Mysterious Orb,Apple,Craig,Monster
+HERO:A name for a superhero:Batman,Superman,Spiderman,Metroman
+SITE:A Website/Social Media platform:FaceBook,InstaGram,Reddit,Villain.com
+SCRIPT ==========================================
+corporate guitar music
+HOST: (To audience) Hello everyone, and welcome to tonight’s Evil Talk Show!!
+HOST: I’m your host, NAME, and today we have a special guest!
+HOST: All the way from CITY, please welcome VILLAIN!!
+crowd woo
+EVIL: (Walks in from stage left) Hello NAME. I’m just ecstatic to be here today!
+HOST: It’s great to have you VILLAIN. Now, a little birdy told me about your most recent endeavor in CITY, something about an ITEM?
+EVIL: (Laughs) Ah, yes, my ITEM Launcher! With it, I was able to shoot ITEMS at 200 meters per second!
+EVIL: I would’ve had CITY in the palm of my hand! If it wasn’t for that dastardly HERO!
+HOST: (Intrigued) How did HERO find a way to overcome your mighty ITEM Launcher?
+EVIL: (angry)  HERO found some way to turn MY ITEM Launcher onto ME, and sent me flying!
+HOST: Wow.. That must’ve been quite the sight to see
+EVIL: Tell me about it, I’m the laughing stock of the villain community!
+EVIL: I’m trending on Evil SITE with #VILLAIN Blasting Off Again!
+HOST: Speaking about your now-tarished reputation, how are you going to bounce back from this embarrassment?
+EVIL: I see.. You want insight into the mighty VILLAIN’s newest Villainous scheme.
+EVIL: Very well, I will tell you NAME, but this must stay between us and the audience, or we run the risk of HERO catching wind of my evil plan!
+HOST: Our lips are sealed.
+Music stops
+scary music
+EVIL: My next villainous scheme will be to construct a device that will wreak havoc on CITY!
+HOST: What would this “Device” do?
+EVIL: It’ll be a machine that’ll be able to hurl ITEMs into CITY in an arch, causing unparalleled destruction (Laughs Manically)!
+draw sword
+Music Stops
+HOST: (Confused) Is that it?
+EVIL: Were you expecting something else?
+HOST: Well, to me, and stop me if I’m wrong.
+HOST:yYur next grand scheme is to do the same exact thing, just with a catapult instead of a launcher.
+EVIL: (Scoffs) No! They're completely different! And what’s this “Catapult” you speak of? I’ve never heard of something so silly!
+HOST: But they both launch ITEMs.
+EVIL: Yes, but one does it in an arch!
+HOST: That doesn’t really make a difference.
+EVIL: Yes, it does! You’ll see! You’ll all see how unstoppable my ITEM arch thrower will be!
+EVIL: Evil SITE will have a new Hashtag, and it will be “VILLAIN destroys CITY and HERO! Mark my words!
+corporate guitar music
+HOST: Sure man. Well, I’m afraid that we have run out of time tonight! Thank you once again VILLAIN, and good luck with your “ITEM Arch Thrower” or whatever.
+crowd woo
+EVIL: You will rue the day that you mocked the mighty VILLAIN! #VILLAIN! (Leaves stage left)
+
+======
+
+INFORMATION ===============================
+ID: 2101
+TITLE: Curse For Talent
+AUTHOR: ModalSoul
+VERIFIED: True
+TAGS: 
+SET: Living Room
+DATE: 10/02/26
+CHARACTERS ================================
+PRODUCER: Informative Producer:Narrator Podium
+ACTOR: Experienced Actor:Backstage
+NEWBIE: Inexperienced Actor:Backstage
+SUGGESTIONS =============================
+STUDIO:The name of a fictional movie production studio:Big Movies Inc.,Masonry Entertainment Studios,America's Funniest Home Videos
+FOOD:Food:walnuts,pizza,Slurpee
+ITEM:Any object:microphone,dynamite stick,written will
+JOBTITLE:An important job title:CEO,Director,Assistant Manager
+PHRASE:A phrase to get things started:Let's get it started,Let's get moving,Let's get sweaty
+CURSE:name for an ancient curse:the Curse of Ra,King Ramses Curse,the Curse of King Tut
+ADJECTIVE:An adjective:perfect,inspiring,lumpy
+FAKESHOW:fake movie title related to food:Pizza Delivery!,Title In Progress,Delivery Woes
+RESTAURANT:A restaurant:Little Caesars,Subway,P.F. Chang's
+PRICE:some amount of money:$22.99,$1,000,000,at least $3
+CONDITION:emotion or physical state you might be in:depressed in an anime way,full of cake,dying of ligma
+BLATANT LIE:a blatantly incorrect statement to make:amarica has culture,the moon landing was an inside job,I'm not high right now
+SCRIPT ==========================================
+Gameshow Intro
+PRODUCER: Welcome to STUDIO! A brand-new acting company where we fuse the audience and the actors together to create the ultimate VRChat experience.
+PRODUCER: (walk off podium and enter stage) I'm Mr. McMovie, the executive producer.
+Bird Screech
+PRODUCER: (Point to audience) And today, we need your help to film our upcoming lineup of programs. PHRASE.
+Music Stops
+Jazz Music 1
+PRODUCER: One of you out there is designated as the JOBTITLE. If so, one of the Pawns may have given you a menu.
+PRODUCER: If that was you, just choose the "PHRASE" option and I'll personally send you our three best screenplays.
+PRODUCER: But if you instead want to pass the responsibility of JOBTITLE to someone else, hit 'em with CURSE. 
+PRODUCER: So, are you ready to steal the ITEM as an actor, or do you prefer a ADJECTIVE seat in the audience while enjoying some FOOD?
+PRODUCER: Do keep in mind that a ITEM is required if you choose to act. But don't be afraid to give it a try!
+PRODUCER: Now, the next step of making the most ADJECTIVE is picking the most ADJECTIVE actors. 
+PRODUCER: We here at STUDIO pick random people... with magic!
+Alien Teleport
+Teleport ACTOR to Stage Right
+Teleport ACTOR to Stage Left
+PRODUCER: (To actors) So, you two have been selected to be actors! Congratulations!
+NEWBIE: What the heck?! Where am I?
+ACTOR: (To other actor) First time?
+PRODUCER: (To audience) If you didn't get selected this time, don't worry! You'll probably be in the next one.
+PRODUCER: Now! (To actors) It's time for you two to pick your characters!
+PRODUCER: You'll be playing FAKESHOW, a classic film turned stage play! You have two characters to choose from: FOOD Deliverer and Hungry Guy.
+ACTOR: I'll pick Hungry Guy.
+NEWBIE: I'll, uh... pick FOOD Deliverer?
+PRODUCER: Great choices! Now, we do things a little differently here at STUDIO! The rehearsal IS the live performance!
+NEWBIE: Huh?
+PRODUCER: You'll figure it out! It's as easy as FOOD!
+PRODUCER: Now, I'll be watching from over here to make sure things don't get too crazy now. (move back to podium)
+NEWBIE: Wait, I'm not ready!
+Teleport NEWBIE to Entrance Stage Right
+Music Stops
+PRODUCER: Alright everyone, PHRASE! Lights! Camera! Action!
+Gameshow Ding
+Jazz Music 2
+ACTOR: (laying on the couch) I'm sooo hungry...
+ACTOR: Has anybody seen my FOOD?
+Laughter
+ACTOR: I guess I could always just order something.
+ACTOR: I hope that RESTAURANT is open, they always have the best FOOD. Now, where'd I put my phone?
+Cellphone Vibrate
+ACTOR: There it is!
+Message Receive 
+ACTOR: And RESTAURANT's doing a sale on FOOD! Sweet! I've got to call right now!
+ACTOR: Yeah, let me get a FOOD, with a little bit of this, a little bit of that...
+PRODUCER: I'm sure you've noticed it already, but those words and phrases you all put into those suggestion boxes? We've been saying them!
+PRODUCER: You guys are the secret sauce that really makes this all come together. Thank you.
+ACTOR: It'll be ready in 15 minutes? ADJECTIVE! Thanks, have a good day.
+ACTOR: Now all I need to do is stave my hunger, I feel like an ITEM...
+Knocking on Door
+NEWBIE: Uh, FOOD delivery! 
+ACTOR: (stand up) Oh boy, FOOD! (open door on Stage Right)
+ACTOR: Man, that looks so ADJECTIVE! How much do I owe you?
+NEWBIE: It's... uh... PRICE?
+PRODUCER: No need to be nervous, say it confidence! Or even better, say it like you're CONDITION!
+NEWBIE: (CONDITION) It's PRICE!
+PRODUCER: More CONDITION!
+NEWBIE: (Really really CONDITION) It's PRICE!
+PRODUCER: That's more like it!
+ACTOR: (feel pockets for wallet) I don't have my wallet on me! I'll go get it. Take a seat in the meantime! (exit Stage Left)
+NEWBIE: Okay... (sit down reluctantly) I don't think this is in FAKESHOW...
+PRODUCER: Ah, I love some good improv! As a matter of fact, I'll take my hands off and let you two have fun!
+Teleport PRODUCER to Backstage
+Music Stops
+Mystery Music 1
+ACTOR: (enter Stage Right) You have no idea what's going on, do you?
+NEWBIE: N-no? Last thing I remember, I was in the audience, enjoying my FOOD in my ADJECTIVE seat.
+ACTOR: You've been cursed. With CURSE.
+NEWBIE: CURSE? No way! You're lying!
+ACTOR: Did you sign a contract on the way into the studio?
+NEWBIE: Yeah? Why, was I not supposed to?
+ACTOR: You got cursed to stay in the STUDIO forever as soon as you signed it! Do you not read random pieces of paper that get handed out to you?
+NEWBIE: No...
+Laughter
+ACTOR: Mr. McMovie can now use you whenever he wants, for whatever show he wants!
+ACTOR: Ever since he closed his movie studio to go into acting, he's had hundreds of stories he's sitting on!
+NEWBIE: But I swear I've seen some of these! FAKESHOW was a great film with soul!
+ACTOR: It was. Now it's a soulless stage play.
+NEWBIE: (terrified) How do we get out of this? 
+ACTOR: We don't.
+Vine Boom
+ACTOR: I have become one with STUDIO now. I am stuck here, acting for Mr. McMovie until I die.
+ACTOR: But it's not too late for you, run! Run, and don't let anyone stop you!
+NEWBIE: Thank you! I'll make the most of this opportunity! (move toward the door...)
+Teleport PRODUCER to Entrance Stage Right
+Door Creak
+Music Stops
+PRODUCER: (Entering through the door) And where do you think you're going?
+NEWBIE: Mr. McMovie! I was, uh, gonna look for my wallet?
+PRODUCER: (Sarcastic) Yeah, right. And BLATANT LIE. As if!
+PRODUCER: Can't let acting like this bring us down! Now begone! (snap fingers)
+NEWBIE: Wait, wait wait--!
+magic sound
+Teleport NEWBIE to Backstage
+Jazz Music 1
+PRODUCER: I was hoping that one would have some talent. Oh well.
+ACTOR: Not your finest work, sir.
+PRODUCER: You're right. I should try again with a version of FAKESHOW that's less fourth-wall breaking.
+ACTOR: By the way, sir, how are you getting the Pawns to cooperate with you?
+PRODUCER: I pay them PRICE more than the JOBTITLE does an hour.
+PRODUCER: That's why we need the big bucks. And that means big talent!
+PRODUCER: (To audience) And there's plenty of talent to look for!
+ACTOR: Quite astute sir, but we have a meeting with RESTAURANT that we are late to.
+PRODUCER: Oh, that's no good! PHRASE! (exit Stage Right)
+Meanwhile ACTOR: PHRASE indeed, sir. (exit Stage Right with Producer)
+Gameshow Outro
+
+======
+
+INFORMATION ===============================
+ID: 2162
+TITLE: A Fateful Debate
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: Skit
+SET: Political Debate USA
+DATE: 18/03/26
+CHARACTERS ================================
+LEADER: The Leader:Podium Stage Left
+CHALLENGER: Opposing candidate:Podium Stage Right
+MAUD: Maud the Moderator:Moderator Table
+SNUB: Rejected candidate:Backstage
+SUGGESTIONS =============================
+GROUP:A group of people, subculture, or fandom:Anime Lover,Furry,Metal Head
+TV:Name a popular television show:Beastards,Sailor Moon,Breaking Bad
+GOOD:A fun activity or event:Convention,Drinking Game,Concert
+BAD:An odd or dangerous activity:Planking,Pinecone Sitting,Sword Swallowing
+ANYTHING:Any single word:Words,Anarchy,Chainsaw
+JOB:A unique or exotic job:Seat Filler,Musician,Shoe Maker
+GAME:A popular video game franchise:Legend Of Zelda,Final Fantasy,Bubsy
+SERVICE:A service that is paid monthly:Rent,Electricity,Apple Music
+WEBSITE:A name for an art website.:DYEingBreed,F732,Imagecow
+NAME:A first and last name:John Johnson,Bill Williams,Felix Fixit
+FIELD:A strange thing to have a degree in:Flower Fields,Neon Signs,Music
+PARTY:A name a political party could have.:Chartreuse,Cool,Conservatively Liberal
+SCRIPT ==========================================
+MAUD: Good Evening members of the GROUP community.
+MAUD: My name is Maud, and I will be moderating this debate to decide the leader of the GROUP community.
+MAUD:Tn one side, hwe have the current leader of the GROUP community, President Incumb.
+LEADER: Good evening Maud.
+MAUD: And opposing them, GROUP scientist, Doctor Candid.
+CHALLENGER: Hello Maud.
+MAUD: Your opening statement, President Incumb?
+groose music
+LEADER: My fellow citizens. GROUP is about to enter a great era.
+LEADER: Under my leadership, GROUP related GOODs are up by 10% and BAD is down by 15%!
+LEADER: It's because of smart decisions I have made for our community, like my landmark ANYTHING act!
+LEADER: (Point to other debater) The good doctor there will argue against that, but don't be fooled!
+LEADER: Re-elect me, and I will make the GROUP community even better!
+applause
+Music stops
+MAUD: An inspiring start. Doctor Candid, your response?
+silly music 1
+CHALLENGER: Denizens of the GROUP community. President Incumb has failed us!
+CHALLENGER: GROUP related GOODs may be up, but the quality of GOODs is drastically down!
+CHALLENGER: And they are lying! There's actually still BAD everywhere! Just look around!
+CHALLENGER: The ANYTHING act has done basically nothing for GROUP people.
+CHALLENGER: I would argue it has only further strained our relationship with the TV fandom.
+CHALLENGER: We are on a dangerous path, but all is not lost. If you elect me, I will fix these ill advised decisions.
+applause
+Music stops
+MAUD: You bring up a good point, Doctor. President Incumb, how do you plan on handling increasing tensions with the TV fandom?
+MAUD: Some of the policies in the ANYTHING act put TV fans at higher risk of having to pay extra SERVICE fees.
+shark tank discussion music 1
+LEADER: It's an unfortunate, but necessary, consequence of the ANYTHING act.
+LEADER: I am in talks with the TV fandom leader discussing possible solutions.
+CHALLENGER: Why does the ANYTHING act mandate that TV fans in particular have to deal with extra SERVICE fees?
+LEADER: Well the TV section of the community is large enough to take the hit. The extra SERVICE fees are just temporary.
+LEADER: It's so the ANYTHING act achieves its main goal of helping struggling JOBs in our community.
+CHALLENGER: But JOBs in the GROUP community have not seen any meaningful impact yet.
+Music Stops
+MAUD: Doctor Candid, President Incumb has criticized your open support of the GAME fandom.
+MAUD: He alleges that, if elected, you will give the GAME fandom within the community far more funding and power. Your response?
+shark tank serious music 1
+LEADER: He will! He is a GAME fanatic! He's even lobbied to give them more representation in GROUP GOODs!
+CHALLENGER: I do believe the GAME section of the GROUP community deserves better.
+LEADER: Don't give me that! Do you know how much art there is of GAME characters on WEBSITE alone?
+CHALLENGER: WEBSITE is a supportive boon but it's not enough. They don't need websites. They need help from community leadership!
+LEADER: Sites like WEBSITE generate healthy revenue and symbolism for the GAME section of the GROUP community.
+CHALLENGER: The GAME fandom is what the current GROUP community grew from. Under your leadership they have been horribly mistreated!
+Music stops
+MAUD: (looking at phone) Oh wow... those images are ummm... Wow! Yeah WEBSITE is quite nice! (mutter) and bookmarked.
+SNUB: (run on stage) ENOUGH! I've had it with this pointless debate!
+MAUD: Excuse me!? Who are you!?
+SNUB: NAME. (point at Doctor Candid) I was the one who was supposed to be up here but they picked the doctor instead!
+SNUB: I am here to expose both of these clowns!
+tense cinematic music
+LEADER: This is a grave breach of security!
+CHALLENGER: How rude! This is very unprofessional, NAME!
+SNUB: Doctor Candid is a fraud! They are not a politician! Want to know what they have a doctorate in? 
+CHALLENGER: Wait! No! You can't!
+LEADER: Hunh, funnily enough I never bothered to check. Are they not a GROUP community scientist?
+SNUB: No! They have a doctorate in FIELD!
+SNUB: They are not a GROUP community scientist! They are a FIELD scientist in the GROUP community!
+MAUD: A degree in... FIELD?
+LEADER: Really? They have a degree in FIELD?! HA! That's pointless!
+CHALLENGER: How could you!? All my legitimacy! Ruined!
+SNUB: And then there is our dear President Incumb. If I had been picked as the candidate, I would have revealed the dirt I have on you.
+LEADER: What are you talking about? I don't even know who you are, NAME.
+SNUB: I have documentation that proves your ANYTHING act intentionally targeted the TV section of the GROUP community!
+SNUB: I've read call transcripts where you say that you want to hit the TV fans hard with SERVICE Fees!
+LEADER: That's absurd. I would say no such thing!
+CHALLENGER: AHA! I knew you were prejudiced against the TV section of the community!
+LEADER: You can't prove anything! At least I know what I am doing! You're just ridiculous! A FIELD scientist? Really!?
+CHALLENGER: The study of FIELD is actually fascinating! You're one to talk! You used to be a JOB before becoming President!
+Music Stops
+SNUB: (turn to maud) Hey Maud, why don't you ask me what I’ll do if I’m elected?
+CHALLENGER: What do you mean if you are elected? You're not even in the running.
+SNUB: Yes I am! I am running independently under the PARTY party!
+MAUD: (sigh) So NAME, you are running under the newly formed PARTY party. What will you do if you are elected?
+usa anthem music
+SNUB: People of the GROUP community Look how far we have fallen. Our current choices are an insecure doctor and a corrupt legislator.
+SNUB: This community deserves better! Someone who is a sensible GAME enjoyer and knows the pain TV fans are going through.
+SNUB: If elected. I will repeal the ANYTHING act. Candid would only adjust it.
+SNUB: I would give all GROUPs fair treatment, not just the JOBs or GAME fans.
+SNUB: Incumb is corrupt. If you vote for me, I will reveal documents I have of them targeting the TV fandom!
+SNUB: Under my leadership GOODs would be worth your time again. And BAD would be sought out and dealt with.
+SNUB: The GROUP community we all love is fractured. But you can vote for NAME to make it whole again. Thank you.
+Music Stops
+MAUD: A moving speech. Thank you NAME.
+LEADER: That was pretty good. (mutter) I gotta get some dirt on them.
+CHALLENGER: Well... I wish you luck, NAME.
+MAUD: Anyway that is all the time we have for this debate.
+MAUD: Remember to go to the polls and make your voices heard, GROUP community. Good night!
+
+======
+
+INFORMATION ===============================
+ID: 2200
+TITLE: The Mysterious Restaurant 
+AUTHOR: RBRYTCHANNEL
+VERIFIED: True
+TAGS: 
+SET: Restaurant
+DATE: 12/04/26
+CHARACTERS ================================
+WAITER: The Waiter:Backstage
+WOMEN: The Date:Chair 1
+MAN: The Dater:Chair 2
+SCIENTIST: The Scientist:Backstage
+SUGGESTIONS =============================
+FOOD1:a strange combination of food:Pickles with Peanut Butter,Tuna and chocolate syrup,Spaghetti with Bananas
+NICKNAME:boy's name:John,Jack,Abel
+DRINK:something you shouldn't drink:Glue,Diesel,Bleach
+FOOD2:cursed food/meal:Onion Sandwich,Cereal with Water,Seasoned Steak with Pickle juice
+DESSERT:cursed dessert:Toothpaste covered pancakes,Cheese cake with mustard,Meat Pie
+NAME1:boy's name:John,Jack,Abel
+FAILURE:A reason for a science experiment to go wrong:John tripped over and spilled the potions all over,John tasted tested all the foods,John was absent today
+INCIDENT:something that an object can do:Explode,Melt,Mold
+DISCOUNT:an amount of money:25 percent,50 percent,80 percent
+ANIMAL:any animal:boar,chicken,dog
+SECRET AGENCY:Secret government agency or foreign country:the illuminati,CIA,North Korea
+SPACE:Something science shouldn't do/be involved in:yeet cats into space,AI generated wife,dad bod
+SCRIPT ==========================================
+jazz music 2
+WOMEN:Thank you for taking me out on this date.
+MAN: Anything for you, my NICKNAME!
+aww
+WOMEN: Let's look at the menu!
+MAN: What the? Why are they serving DRINK?
+WOMEN: What in the world is a FOOD1?
+WAITER: (Enters the stage) Would you two like anything?
+MAN: What is on your menu? Can I ask what is a FOOD2?
+WAITER: (Enthusiastic) Oh that is our popular food item! I recommend it!
+WOMEN: Why is DRINK on the menu? T-That doesn't even sound edible!
+WAITER: Oh that is edible! We have scientists here to experiment on the food to make it edible!
+vine boom
+MAN: T-That doesn't even make any sense! How do you have the budget to hire scientists?!
+SCIENTIST: (Nonchalant) Sorry, Ma'am. Information regarding SECRET AGENCY's SPACE program is classified.
+WOMEN: Ahem, what is DESSERT? W-Why is this- T-That sounds gross!
+WAITER: Do not worry about that! The DESSERT will make you feel like you're in heaven.
+MAN: Just tell me why! Do you server this type of food?! These-.. I can't even put it all in one sentence!
+WAITER: We want to make our feel restarunt feel special! Foods like FOOD2 are special in their own way! 
+WOMEN: That is not special! FOOD2 does not sound something I would want to put in my mouth!
+SCIENTIST: (Enters the stage) Hey! Uh, FAILURE and it caused a mass destruction on our products!
+WAITER: (Secretly to scientist) Shut it NAME1! They don't need to know that.
+MAN: (Overhearing them) Hmm? Know what?
+WAITER: Nothing! Order something, now!
+SCIENTIST: Oh yeah, I should also mention that the FOOD1 product failed and it started to INCIDENT.
+SCIENTIST: And we need to order more ANIMALs to test the product on to replace the ones that died. Or should I get more?
+WAITER: (Secretly to scientist) Shut up! You are making a bad impression of the restaurant! Go back to the lab.
+SCIENTIST: Okay fine! Real quick though, should I order 8 ANIMALs? Is 8 okay? Okay. I'll order 8 ANIMALs. (Leaves the stage)
+MAN: Okay thats it! I'm leaving, Lets go!
+WOMEN: Yeah, I'll be right behind you.
+WAITER: W-Wait! Hang on! Stay please, our restarunt is in debt! We'll give a DISCOUNT off!
+MAN: I'm convinced this restaurant is weird, goodbye.
+WAITER: (Defeated) N-No no no! Wait! Stay! I need to feed my family
+
+======
+
+INFORMATION ===============================
+ID: 2204
+TITLE: Secret Menu
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: 
+SET: Restaurant
+DATE: 13/04/26
+CHARACTERS ================================
+WAIT: Fast Food Employee:Stage Left
+MAN: Store Manager:Entrance Stage Left
+VEG: "Vegan" Customer:Backstage
+TAKE: Takeout Customer:Backstage
+PERS: Persistent Customer:Backstage
+SUGGESTIONS =============================
+PLAYER:the name of a player in the audience:Jar,Jinx Izayoi,Stella from Harper Valley
+REST:the name of a restaurant:Raising Cane's,Chili's,Rainforest Cafe,Mystia's Izakaya,Crusty Sean's
+SALAD:an outrageous food item with veggies in it:thick thighs kitty salad,three-day-old caesar salad,Dirty CJ,hamburger helper without the hamburger or the helper
+CRIME:a crime:murder,prostitution,arson,drug smuggling,fishing while sitting on a camel's back
+BUZZ:a buzzword or meme word you think is funny:fent,rizz,abstraction,burger burger,annihilation
+STUPID:a meme word or name you don't like:Kinger,Da Baby,Rizzler,Gyat,Sigma
+BMAC:a food entree, but replace the first letter with B:Big Mac,Bataburger,Baniac Combo,baghetti,Balifornia Rolls
+BOKE:a drink, but replace the first letter with B:Boke,Brite,Boot Beer,Bemonade,Borange Juice,Baja Blast
+BICKEN:an appetizer or side dish, but replace the first letter with B:bicken nugget,bachos,baco pack,belery and barrots
+BOOKIE:a plural dessert item, but replace the first letter with B:bocolate bip bookies,bice bream bars,bapple pies,bilkshakes,bonuts
+BEBBER:a color, followed by a fake/nonsense word:yellow bebber,blue bazinga,red shladoinky,green amogus
+GOVERN:a government organization or agency:Central Intelligence Agency,Federal Bureau of Investigation,Secret Service,United States Postal Service
+SCRIPT ==========================================
+waltz music
+MAN: (Enter stage left) Alright, newbie. You've completed all the required food service safety trainin'. Now we're goin' straight to shadowing.
+MAN: Or, well, we would, but we're short staffed. So you'll be takin' orders on your own today. Real hands-on experience.
+WAIT: (Nervous) Doesn't this seem a bit too soon? I don't mind waiting a few days for PLAYER to get back so I can watch them.
+MAN: Someone's gotta do it, and corporate is breathin' down my neck to get some work done behind the scenes.
+MAN: (Fake cheerful) I have full faith that you can take customer orders with that resumé of yours. Don't let 'em see you without a smile! (exit same door)
+WAIT: They said what doesn't kill me will make me stronger. But I might actually die.
+WAIT: (Pumped) No! I gotta pull it together! All I need to do is greet the customer, type their order on my tablet, and seat them. I can do this!
+doorbell
+VEG: Yerr. (Enter stage right)
+Meanwhile WAIT: Hi, welcome to REST!
+VEG: (Bratty) Hi, it's been a while since I've been here... do you still sell any vegan options?
+WAIT: Yes, of course. (Point at a menu beside the door) Anything on the menu with a leaf icon is prepared without any animal byproduct.
+VEG: I think I want that one. (Point at the menu)
+WAIT: (Look at menu again) You want the SALAD?
+VEG: (Nodding) Yerr.
+church bell
+WAIT: The SALAD does come with meat, and it's prepared alongside our meat dishes, just so you are aware.
+VEG: (Ignoring the server) And a BUZZ burger with the STUPID sauce.
+church bell
+WAIT: Wait... BUZZ burger? STUPID sauce? I don't think we offer those.
+VEG: Well, when I used to come here, there was a server named PLAYER who made sure I got them, AND they were vegan.
+VEG: So put the vegan BUZZ burger with the STUPID sauce on my order, or I'll have to ask for your manager.
+WAIT: R-right. (Typing on tablet) One vegan SALAD and one vegan BUZZ burger with STUPID sauce, coming up.
+VEG: (Take a seat at any table) M'kay thank you.
+WAIT: (to self) Am I gonna get in trouble for putting food on the tablet that we don't sell? Oh, shoot, I don't have time to think about it.
+doorbell
+TAKE: (Enter stage right)
+TAKE: Heyo, I have a mobile order to pick up. Confirmation number 6769.
+WAIT: Yes, of course! Let me look up the order. (Check tablet) Huh...
+WAIT: You ordered the "BMAC"
+anime sword gleam 1
+WAIT: with a large "BOKE"
+anime sword gleam 1
+WAIT: a six-piece "BICKEN"
+anime sword gleam 1
+WAIT: and three "BOOKIE"?
+anime sword gleam 1
+TAKE: On gang, that's it! That's my order!
+VEG: Heyyy, can I get a blass of bwater while you're at it?
+WAIT: I'm sorry, I don't think we sell any of those items.
+TAKE: If you don't sell 'em, how did I order 'em on the app?
+WAIT: You know what, fair enough. I'm just a bit confused.
+TAKE: I'm actually early, so I'll go get a seat and chill for a bit. (take a seat at any unoccupied table)
+doorbell
+PERS: PERS: Enter stage right looking around) Hmmm... 
+WAIT: Hi, welcome to REST!
+WAIT: Uhh... may I take your order?
+PERS: (approach server) Lemme get a BEBBER.
+vine boom
+WAIT: Let you get a what?
+PERS: Lemme get a BEBBER.
+vine boom
+WAIT: Is that a real thing? Am I going insane today?
+TAKE: Listen man, you gonna order that BEBBER, you gonna go home hungry. You sure you wanna do that?
+PERS: Lemme get a BEBBER. (take a seat at any unoccupied table)
+vine boom
+WAIT: I can't take this, I need help. I'm pinging the manager. (press hand tablet)
+gameshow ding
+MAN: (enter stage left) You pinged?
+WAIT: Do customers often come in asking for food we don't sell?
+MAN: Whaddya mean?
+WAIT: Just look at what orders I sent to the cooks! (show tablet) I know we sell SALAD, but vegan? And what is a BUZZ burger?
+MAN: If a customer asks for a specialty order, we'll find a way to make it for 'em. What's so hard about that?
+WAIT: Um... okay... but what about this? A BMAC with a large BOKE, a BICKEN, and three BOOKIE?
+MAN: Those are all on our menu, but you spelled 'em wrong.
+WAIT: I... th-then, what is a BEBBER?
+MAN: Look, newbie, if the pressure of takin' simple orders is too much for you, then we might have to reconsider your employment with us.
+MAN: Step into the back with me, I'll take over for this shift. (do not leave the stage)
+WAIT: Wait wait wait, I can do better, don't fire me on my first day!
+VEG: (Stand up) Excuse me. That won't be necessary.
+Meanwhile TAKE: (Stand up and join the other customer)
+Music Stops
+MAN: I apologize for the confusion caused by this here new hire. Can I offer y'all a coupon to make up fer it?
+VEG: We're with the GOVERN. The three of us were sent to this REST to scout for certain illegal activities.
+spy music 1
+TAKE: The things we ordered may have sounded outrageous, but they were all code words for illicit activities.
+VEG: For example, the BUZZ word, specifically with STUPID sauce, is a term human traffickers use to identify and communicate with each other.
+TAKE: My takeout order represents compliance with CRIME. We were testing to see if any of your staff would take the bait.
+PERS: Lemme get a BEBBER.
+VEG: We're done with that, Tyler.
+TAKE: Supposedly, BEBBER is code for tax evasion.
+VEG: Anyways, the fact that we didn't get an affirmatory response when we ordered those things means our suspicions were misplaced.
+MAN: I get it now! You lot are undercover employees sent by corporate to test our new hire.
+MAN: How did they score, in your honest opinion?
+VEG: Well, your employee was quite polite to us, despite the chaos. No CRIME taking place, as far as we're aware.
+MAN: Sounds like a passin' score to me. Welcome to your full-time position with REST!
+WAIT: (Meekly) I only asked for twenty hours a week.
+TAKE: You know, the least we could do after wasting your time like that is actually order some food here. I'm feeling pretty hungry.
+WAIT: (Surprised) O-oh, yeah! Uh, what can I get for you? (Typing on tablet)
+VEG: We'll have two number nines, a number nine large...
+TAKE: A number six with extra dip, a number seven, two number forty-fives, one with cheese...
+PERS: And a BEBBER.
+spy ending sting
 
 ======
 
