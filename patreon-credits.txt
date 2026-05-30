@@ -2568,6 +2568,7 @@ bd_
 Abaddon Matriel
 #TIER=3
 Huckleberry_Vix
+Shock_Wave86
 Alatreonslayer
 JinizelRyuga
 Gear Head
