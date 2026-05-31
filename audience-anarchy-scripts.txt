@@ -63654,6 +63654,104 @@ infomercial disclaimer
 ======
 
 INFORMATION ===============================
+ID: 2254
+TITLE: A Modern Proposal
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: Skit
+SET: Forest Bridge
+DATE: 08/05/26
+CHARACTERS ================================
+BUSINESS: A Property Developer:On bridge
+ASSIST: The Assistant:Stage Right
+TROLL: The Forest Troll:Backstage
+SUGGESTIONS =============================
+PLACE:A type of budling or business:Parking Tower,Rave Hanger,Dairy King
+LOCATION:A country, city or large location:Nepal,Townsville,The Seventh Ocean
+NAME:A name that a wealthy person would have:Raggy Rich,Damon Diamond,Vlad the Wealthy
+JOB:An entertaining job someone may have:Actor,Clown,Satan Impersonator
+CURRENCY:A type of currency (real or fictional):Lire,Monopoly Money,Doubloons
+SNACK:A food or drink one would have as a snack:Latte,Ten Layer Ice Cream,Cocoa Bean
+NUMBER:Any Number:99,1337,1423
+ANYTHING:Name an object someone can buy:Box,Television,Sawmill
+EXPENSIVE:An expensive thing someone can buy:Diamond Ring,Jet Ski,Penthouse
+WORKER:A common job someone might have:Gardener,Janitor,Scam Caller
+ROOM:A type of room in a building:Restroom,Backroom,Sunroom
+SCRIPT ==========================================
+double bass music
+BUSINESS: Yes! I see it now! This is the perfect location for my new PLACE!
+ASSIST: It will be cheap to build a PLACE here. But there might be some ecological impacts.
+BUSINESS: Who cares about ecological impacts? If nature gets in my way I tear it down! 
+BUSINESS: And all it costs is pocket change. Then again I'm the richest person in LOCATION.
+ASSIST: That you are, NAME!
+BUSINESS: (look at assistant) We will need to demolish the bridge, divert the river, and build a road out here.
+BUSINESS: And most important of all, hire some JOBs... to amuse me during construction.
+music stops
+TROLL: (Walk on stage and groan) Seriously!? I leave my post for a couple minutes to get a SNACK and you two weirdos show up?
+BUSINESS: Excuse me! Is that how you treat people with more money and power than you?
+TROLL: Money is worthless to us, we accept CURRENCY here, bub.
+BUSINESS: Well I probably have more CURRENCY than you can imagine, bub!
+TROLL: I don't care. Now move! You're not allowed on the bridge. (gesture NAME off the bridge)
+BUSINESS: How rude! Do you know who I am!? I am NAME! The richest person in all of LOCATION!
+ASSIST: Who do you think you are? Treating us like you own this bridge!
+fantasy music 2
+TROLL: I'm the owner of the bridge. If you wish to get by me, you must answer my questions three.
+TROLL: Unfortunately for you bozos, I am enjoying my SNACK so you'll need to wait.
+ASSIST: Now you listen here, you troll... thing! NAME is a very busy person with a ton of CURRENCY! We don't have time for trivia.
+TROLL: Too Bad, that's my job.
+ASSIST: Yeah well we're gonna pave over this forest with a brand new PLACE! What will your job be then?
+TROLL: I'd like to see you try. You can't touch this forest without my approval. I protect this area.
+BUSINESS: Do you really now? Would you say you're like the manager of this land?
+TROLL: Basically. If you want to build a PLACE here, you will be stuck with great misfortune if you proceed without my approval.
+BUSINESS: How about this then, if I answer your trivia, you let me build my new PLACE. If I lose, you can keep the forest.
+ASSIST: But NAME! Don't you feel that's risky? Why not just pay them off?
+BUSINESS: It will be cheaper to crush his questions and humiliate him in the process!
+BUSINESS: Look how he's devouring that SNACK like the dreadful peasant he is. He won't stump us.
+TROLL: Okay, fine. I accept.
+music stops
+TROLL: Good timing, I just finished my SNACK too. First Question, when was this bridge built?
+silly music 1
+BUSINESS: (pull out phone) Darn, no service out here. Assistant! Give me the answer!
+ASSIST: I don't know! I don't study old bridges in the middle of nowhere!
+BUSINESS: Uhh...NUMBER years ago! That's my guess.
+TROLL: Wow, no, that's so wrong I'm almost offended. Your buddy just called this the middle of nowhere.
+TROLL: So that brings me to my next question, do you even know what this forest is called?
+BUSINESS: uhh... o-of course I do. Come on, assistant, tell them.
+ASSIST: Umm, ohh. The LOCATION Forest! Easy!
+TROLL: (facepalm with a groan) You want to flatten this place and you don't even know what it's called? You two are pathetic!
+TROLL: You fail! I'm not even asking the third question.
+shark tank discussion music 1
+BUSINESS: Yeah well, we're not history people! Alright, let's talk business! What will it take to get you off this land?
+BUSINESS: I am prepared to offer you NUMBER in CURRENCY and an ANYTHING.
+TROLL: You're gonna have to do better than that. I got a pretty sweet life here you know.
+BUSINESS: Playing hardball are you? Fine. I'll add a EXPENSIVE if you leave.
+TROLL: Make it two EXPENSIVEs and throw in a year of free SNACKs and I'll consider it.
+ASSIST: I have an idea. What if we gave you a new job?
+TROLL: A new job you say?
+BUSINESS: What are you saying, assistant?
+ASSIST: We need workers for the new PLACE right? Why not employ the troll? Then everyone wins.
+TROLL: You know I've always wondered what it would be like to be a JOB.
+TROLL: Would this PLACE you're building have any use for a JOB?
+BUSINESS: Umm, you would not make a good JOB. What if we made you a WORKER instead?
+ASSIST: Ohh yes, great idea NAME! WORKERs will have an essential role in the operations of the PLACE.
+TROLL: No! If you’re going to make me a WORKER then I refuse. Either I get to be a JOB or no deal!
+ASSIST: But what if you got more CURRENCY as a WORKER?
+TROLL: I don't care, I still want to be a JOB. And I want a high enough salary to buy myself a ANYTHING.
+BUSINESS: Assistant. Do we have any place for a JOB in the PLACE?
+ASSIST: I'm sure we could work something out, maybe we could build a ROOM for the JOB to work in?
+BUSINESS: (sigh) You know what? You drive a hard bargain. But fine.
+BUSINESS: In exchange for your approval, and this land, and building my PLACE.
+BUSINESS: I am willing to offer you a job at the PLACE as a JOB. You'll even have your own ROOM.
+TROLL: As long as my yearly salary is over NUMBER in CURRENCY, then you have a deal!
+BUSINESS: Assistant! Is NUMBER in CURRENCY a year a living wage for a forest troll?
+ASSIST: Umm... I'm gonna guess no.
+BUSINESS: You have yourself a deal! (shake hands with the troll)
+TROLL: (shake hands with NAME) I suggest you bump that up to a living wage. I could always change my mind.
+BUSINESS: UGH! We might have to consider other locations.
+
+======
+
+INFORMATION ===============================
 ID: 2079
 TITLE: Ruined Future, Renewed Hope
 AUTHOR: ModalSoul
@@ -64199,124 +64297,6 @@ Gameshow Outro
 ======
 
 INFORMATION ===============================
-ID: 2162
-TITLE: A Fateful Debate
-AUTHOR: zanbbit
-VERIFIED: True
-TAGS: Skit
-SET: Political Debate USA
-DATE: 18/03/26
-CHARACTERS ================================
-LEADER: The Leader:Podium Stage Left
-CHALLENGER: Opposing candidate:Podium Stage Right
-MAUD: Maud the Moderator:Moderator Table
-SNUB: Rejected candidate:Backstage
-SUGGESTIONS =============================
-GROUP:A group of people, subculture, or fandom:Anime Lover,Furry,Metal Head
-TV:Name a popular television show:Beastards,Sailor Moon,Breaking Bad
-GOOD:A fun activity or event:Convention,Drinking Game,Concert
-BAD:An odd or dangerous activity:Planking,Pinecone Sitting,Sword Swallowing
-ANYTHING:Any single word:Words,Anarchy,Chainsaw
-JOB:A unique or exotic job:Seat Filler,Musician,Shoe Maker
-GAME:A popular video game franchise:Legend Of Zelda,Final Fantasy,Bubsy
-SERVICE:A service that is paid monthly:Rent,Electricity,Apple Music
-WEBSITE:A name for an art website.:DYEingBreed,F732,Imagecow
-NAME:A first and last name:John Johnson,Bill Williams,Felix Fixit
-FIELD:A strange thing to have a degree in:Flower Fields,Neon Signs,Music
-PARTY:A name a political party could have.:Chartreuse,Cool,Conservatively Liberal
-SCRIPT ==========================================
-MAUD: Good Evening members of the GROUP community.
-MAUD: My name is Maud, and I will be moderating this debate to decide the leader of the GROUP community.
-MAUD:Tn one side, hwe have the current leader of the GROUP community, President Incumb.
-LEADER: Good evening Maud.
-MAUD: And opposing them, GROUP scientist, Doctor Candid.
-CHALLENGER: Hello Maud.
-MAUD: Your opening statement, President Incumb?
-groose music
-LEADER: My fellow citizens. GROUP is about to enter a great era.
-LEADER: Under my leadership, GROUP related GOODs are up by 10% and BAD is down by 15%!
-LEADER: It's because of smart decisions I have made for our community, like my landmark ANYTHING act!
-LEADER: (Point to other debater) The good doctor there will argue against that, but don't be fooled!
-LEADER: Re-elect me, and I will make the GROUP community even better!
-applause
-Music stops
-MAUD: An inspiring start. Doctor Candid, your response?
-silly music 1
-CHALLENGER: Denizens of the GROUP community. President Incumb has failed us!
-CHALLENGER: GROUP related GOODs may be up, but the quality of GOODs is drastically down!
-CHALLENGER: And they are lying! There's actually still BAD everywhere! Just look around!
-CHALLENGER: The ANYTHING act has done basically nothing for GROUP people.
-CHALLENGER: I would argue it has only further strained our relationship with the TV fandom.
-CHALLENGER: We are on a dangerous path, but all is not lost. If you elect me, I will fix these ill advised decisions.
-applause
-Music stops
-MAUD: You bring up a good point, Doctor. President Incumb, how do you plan on handling increasing tensions with the TV fandom?
-MAUD: Some of the policies in the ANYTHING act put TV fans at higher risk of having to pay extra SERVICE fees.
-shark tank discussion music 1
-LEADER: It's an unfortunate, but necessary, consequence of the ANYTHING act.
-LEADER: I am in talks with the TV fandom leader discussing possible solutions.
-CHALLENGER: Why does the ANYTHING act mandate that TV fans in particular have to deal with extra SERVICE fees?
-LEADER: Well the TV section of the community is large enough to take the hit. The extra SERVICE fees are just temporary.
-LEADER: It's so the ANYTHING act achieves its main goal of helping struggling JOBs in our community.
-CHALLENGER: But JOBs in the GROUP community have not seen any meaningful impact yet.
-Music Stops
-MAUD: Doctor Candid, President Incumb has criticized your open support of the GAME fandom.
-MAUD: He alleges that, if elected, you will give the GAME fandom within the community far more funding and power. Your response?
-shark tank serious music 1
-LEADER: He will! He is a GAME fanatic! He's even lobbied to give them more representation in GROUP GOODs!
-CHALLENGER: I do believe the GAME section of the GROUP community deserves better.
-LEADER: Don't give me that! Do you know how much art there is of GAME characters on WEBSITE alone?
-CHALLENGER: WEBSITE is a supportive boon but it's not enough. They don't need websites. They need help from community leadership!
-LEADER: Sites like WEBSITE generate healthy revenue and symbolism for the GAME section of the GROUP community.
-CHALLENGER: The GAME fandom is what the current GROUP community grew from. Under your leadership they have been horribly mistreated!
-Music stops
-MAUD: (looking at phone) Oh wow... those images are ummm... Wow! Yeah WEBSITE is quite nice! (mutter) and bookmarked.
-SNUB: (run on stage) ENOUGH! I've had it with this pointless debate!
-MAUD: Excuse me!? Who are you!?
-SNUB: NAME. (point at Doctor Candid) I was the one who was supposed to be up here but they picked the doctor instead!
-SNUB: I am here to expose both of these clowns!
-tense cinematic music
-LEADER: This is a grave breach of security!
-CHALLENGER: How rude! This is very unprofessional, NAME!
-SNUB: Doctor Candid is a fraud! They are not a politician! Want to know what they have a doctorate in? 
-CHALLENGER: Wait! No! You can't!
-LEADER: Hunh, funnily enough I never bothered to check. Are they not a GROUP community scientist?
-SNUB: No! They have a doctorate in FIELD!
-SNUB: They are not a GROUP community scientist! They are a FIELD scientist in the GROUP community!
-MAUD: A degree in... FIELD?
-LEADER: Really? They have a degree in FIELD?! HA! That's pointless!
-CHALLENGER: How could you!? All my legitimacy! Ruined!
-SNUB: And then there is our dear President Incumb. If I had been picked as the candidate, I would have revealed the dirt I have on you.
-LEADER: What are you talking about? I don't even know who you are, NAME.
-SNUB: I have documentation that proves your ANYTHING act intentionally targeted the TV section of the GROUP community!
-SNUB: I've read call transcripts where you say that you want to hit the TV fans hard with SERVICE Fees!
-LEADER: That's absurd. I would say no such thing!
-CHALLENGER: AHA! I knew you were prejudiced against the TV section of the community!
-LEADER: You can't prove anything! At least I know what I am doing! You're just ridiculous! A FIELD scientist? Really!?
-CHALLENGER: The study of FIELD is actually fascinating! You're one to talk! You used to be a JOB before becoming President!
-Music Stops
-SNUB: (turn to maud) Hey Maud, why don't you ask me what I’ll do if I’m elected?
-CHALLENGER: What do you mean if you are elected? You're not even in the running.
-SNUB: Yes I am! I am running independently under the PARTY party!
-MAUD: (sigh) So NAME, you are running under the newly formed PARTY party. What will you do if you are elected?
-usa anthem music
-SNUB: People of the GROUP community Look how far we have fallen. Our current choices are an insecure doctor and a corrupt legislator.
-SNUB: This community deserves better! Someone who is a sensible GAME enjoyer and knows the pain TV fans are going through.
-SNUB: If elected. I will repeal the ANYTHING act. Candid would only adjust it.
-SNUB: I would give all GROUPs fair treatment, not just the JOBs or GAME fans.
-SNUB: Incumb is corrupt. If you vote for me, I will reveal documents I have of them targeting the TV fandom!
-SNUB: Under my leadership GOODs would be worth your time again. And BAD would be sought out and dealt with.
-SNUB: The GROUP community we all love is fractured. But you can vote for NAME to make it whole again. Thank you.
-Music Stops
-MAUD: A moving speech. Thank you NAME.
-LEADER: That was pretty good. (mutter) I gotta get some dirt on them.
-CHALLENGER: Well... I wish you luck, NAME.
-MAUD: Anyway that is all the time we have for this debate.
-MAUD: Remember to go to the polls and make your voices heard, GROUP community. Good night!
-
-======
-
-INFORMATION ===============================
 ID: 2200
 TITLE: The Mysterious Restaurant 
 AUTHOR: RBRYTCHANNEL
@@ -64399,7 +64379,7 @@ REST:the name of a restaurant:Raising Cane's,Chili's,Rainforest Cafe,Mystia's Iz
 SALAD:an outrageous food item with veggies in it:thick thighs kitty salad,three-day-old caesar salad,Dirty CJ,hamburger helper without the hamburger or the helper
 CRIME:a crime:murder,prostitution,arson,drug smuggling,fishing while sitting on a camel's back
 BUZZ:a buzzword or meme word you think is funny:fent,rizz,abstraction,burger burger,annihilation
-STUPID:a meme word or name you don't like:Kinger,Da Baby,Rizzler,Gyat,Sigma
+STUPID:a meme word or name you don't like:Diddy,Kinger,Da Baby,Rizzler,Gyat,Sigma
 BMAC:a food entree, but replace the first letter with B:Big Mac,Bataburger,Baniac Combo,baghetti,Balifornia Rolls
 BOKE:a drink, but replace the first letter with B:Boke,Brite,Boot Beer,Bemonade,Borange Juice,Baja Blast
 BICKEN:an appetizer or side dish, but replace the first letter with B:bicken nugget,bachos,baco pack,belery and barrots
@@ -64452,7 +64432,7 @@ TAKE: If you don't sell 'em, how did I order 'em on the app?
 WAIT: You know what, fair enough. I'm just a bit confused.
 TAKE: I'm actually early, so I'll go get a seat and chill for a bit. (take a seat at any unoccupied table)
 doorbell
-PERS: PERS: Enter stage right looking around) Hmmm... 
+PERS: (Enter stage right looking around) Hmmm... 
 WAIT: Hi, welcome to REST!
 WAIT: Uhh... may I take your order?
 PERS: (approach server) Lemme get a BEBBER.
@@ -64487,7 +64467,7 @@ TAKE: The things we ordered may have sounded outrageous, but they were all code 
 VEG: For example, the BUZZ word, specifically with STUPID sauce, is a term human traffickers use to identify and communicate with each other.
 TAKE: My takeout order represents compliance with CRIME. We were testing to see if any of your staff would take the bait.
 PERS: Lemme get a BEBBER.
-VEG: We're done with that, Tyler.
+VEG: We're done doing that, Tyler.
 TAKE: Supposedly, BEBBER is code for tax evasion.
 VEG: Anyways, the fact that we didn't get an affirmatory response when we ordered those things means our suspicions were misplaced.
 MAN: I get it now! You lot are undercover employees sent by corporate to test our new hire.
@@ -64501,6 +64481,1715 @@ VEG: We'll have two number nines, a number nine large...
 TAKE: A number six with extra dip, a number seven, two number forty-fives, one with cheese...
 PERS: And a BEBBER.
 spy ending sting
+
+======
+
+INFORMATION ===============================
+ID: 2225
+TITLE: Are you sure?
+AUTHOR: captience
+VERIFIED: True
+TAGS: Skit
+SET: Dining Room
+DATE: 19/04/26
+CHARACTERS ================================
+DAD: Nolan (A Superhero):Backstage
+MOM: Debbie:Chair 2
+KID: Mark (Got Powers):Entrance Stage Left
+SUGGESTIONS =============================
+FOOD:Any Food:A collection of cheeses,Chitlins,Straight goop
+CREATURE:Any large, scary creature or animal:Comedically large horsefly,Cockroach,Spider
+COUNTRY:Name a Country:America,China,Japan,Russia
+POWER:Something a superhero might accidentally do:Throw a trash bag into space,Melt a mailbox,Offend the neighbors
+DANGEROUS THING:Extremely dangerous thing or things:man eating shark,exploding girlfriend,blackmailer with incriminating evidence against me
+INTENSE WORKOUT ROUTINE:a hyper intense physical exercise/feat you can do:lifint up a car,drinking boiling water,getting hit by a train several times,being on fire,one singular push-up
+CHARACTER:Literally any well-known person or character:mickey mouse,the invicible guy,hooter's employee
+SOLO ACTIVITY:Something you do when you're alone:play league of legends,doom scroll,pull epic pranks on strangers
+ENACT FORCE:something you have to be very strong to do:eat an entire turkey and leave no crumbs,beat me up,not cry while watching Up
+MANLY ACTIVITY:Something manly men do, but more epic:have a really big moustache,really really enforce the patriarchy,become a super popular vtuber
+SCRIPT ==========================================
+jazz music 1
+MOM: Dinner is almost ready, I better set the table. (Hum cheerfully and set the dinner table)
+KID: (Enter through the front door) Hey mom. Weird day.
+MOM: Weird how?
+KID: Weird like... I threw something really far. Like, really far.
+MOM: How far?
+KID: I'd rather not say.
+MOM: (Pause and look at KID with suspicion) Are you hungry? I made FOOD.
+KID: I'm... actually starving, yeah.
+Music Stops
+explosion
+DAD: (Crash through the ceiling and dust yourself off) Sorry I'm late.
+MOM: Again with the ceiling.
+jazz music 2
+DAD: There was a CREATURE. In COUNTRY. It's handled.
+MOM: Was it bad?
+DAD: Seven out of ten. Maybe eight.
+DAD: No more dangerous that that one time I had to deal with DANGEROUS THING.
+MOM: Mm. Wash your hands. Mark has something to tell you.
+KID: (Annoyed)  Mom... I was gonna ease into it...
+MOM: (To father) He has powers.
+record scratch
+Music Stops
+DAD: (Turn slowly to face KID) What?
+KID: I was gonna tell him myself..!
+DAD: Are you sure..?
+KID: U-Uhmm... Pretty sure..! I POWER, it was an accident, nobody got hurt!
+DAD: Nobody got hurt.
+KID: I think?
+DAD: (Sit down slowly) How strong?
+KID: I don't know. Strong enough.
+DAD: Strong enough isn't a number.
+DAD: Strong enough to ENACT FORCE? Strong enough to MANLY ACTIVITY?
+MOM: Nolan!
+DAD: (To MOM) This is important.
+MOM: (Quietly to DAD) So is dinner. Sit down.
+superhero fanfare
+DAD: (Sit) Tomorrow morning. Early. We train.
+DAD: First, 50 push-ups. Then, INTENSE WORKOUT ROUTINE.
+KID: Okay.
+DAD: You'll need a suit.
+KID: I have a suit.
+DAD: You have a Halloween costume of CHARACTER.
+Music Stops
+record scratch
+laughter
+KID: It's a very good Halloween costume of CHARACTER.
+MOM: I made FOOD. Can we please eat the FOOD?
+DAD: (sigh) ...Yeah. Okay.
+jazz music 1
+MOM: (Serve food and sit down, cheerful again) So! A CREATURE. Tell me everything.
+DAD: You really want to know?
+MOM: Yes I want to know!
+MOM: I have been home alone all day, with nothing to do but SOLO ACTIVITY over and over again.
+KID: (Quietly to himself) I have powers.
+superhero music
+KID: (Stand up) I have superpowers!
+DAD: Don't shout at the table.
+KID: (Sit back down and whisper intensely) I have powers.
+MOM: Yes you do, honey, very nice. (Slide the FOOD toward KID) Eat your FOOD.
+applause
+
+======
+
+INFORMATION ===============================
+ID: 2237
+TITLE: Spice or Slice
+AUTHOR: LunalaKitsune
+VERIFIED: True
+TAGS: Game Show
+SET: Restaurant
+DATE: 30/04/26
+CHARACTERS ================================
+TINA: HOST (TINA):Center Stage
+CHEF: CHEF:Stage Left
+CARLOS: CARLOS the guy from Mexico:Stage Left
+BRAD: BRAD Chill Guy from cali:Stage Left
+SUGGESTIONS =============================
+REWARD:A reward:Ice Cream,Puerto Rico,A Honda Civic
+TACO:Taco stand name:Los Tacos,Tres Leche,Taco Bell
+VEGAN:A vegan food:Organic kale,Kelp,Avocados
+CHEF:Chef name:Gordon Ramsay,Micheal Jackson,Obama
+RECIPE:Mystery ingredient:Ghost pepper,Corn,Tabasco sauce
+FOOD:Mexican Food name:Inferno Taco,Burning Burrito,Blazing enchiladas
+BAD:A bad dish name:Moons over regrets,Simple mistakes,Quick Fixes
+COMBINATION:Bad food combination:sushi burrito tacos,sushi pizza,burrito pizza
+TOAST:Great dish name:California Dreamin,Vermont Road,New York Nights
+WEIRD:Weird ingredient:Chocolate,Caramel,Cotton Candy
+YES:A type of food after winning:Tacos,Tamales,Nachos
+SCRIPT ==========================================
+gameshow intro
+TINA:Welcome to "Spice or Slice", the only game show where your cooking either earns you fame… or REWARD!
+laughter
+music stops
+TINA:Today’s contestants—Carlos from Mexico!
+CARLOS:If I win, I’m opening a taco stand called “TACO"!
+TINA:And Brad from California!
+BRAD:I just got here for the vibes… and maybe VEGAN.
+CARLOS:(whispers)This man about to season with air.
+TINA:Judging today is the legendary, terrifying, never-smiles—Chef CHEF!
+CHEF:(dead serious)If your food disappoints me… I will disappoint you.
+BRAD:…That felt personal man.
+gameshow bonus round
+TINA:Round 1: “Myster Ingrediient” Your mystery ingredient is… RECIPE!
+BRAD:Oh cool, like… spiritually good RECIPE?
+CARLOS:No bro, you’re about to meet your ancestors.
+TINA: Ready get to cook in the kitchen, using RECIPE in your recipe! Go!
+70s music
+CARLOS: (confidently chopping, tossing spices) Aye man I got this homes
+BRAD: (Using phone) Let me just google something real quick... "how to not die from spice"...
+CHEF: (Judging like a villain) They better not disappoint me. 
+gameshow ding
+music stops
+applause
+TINA:Time’s up! Carlos, present your dish.
+CARLOS:I made FOOD They hurt you, but in a loving way.
+CHEF: (tastes, pauses) ...This is pain. Beautiful pain.
+applause
+TINA:Brad, your dish?
+BRAD:I made… RECIPE Avocado Toast.
+CARLOS:You put RECIPE on avocado toast??
+BRAD:I call it… “BAD”
+CHEF: (takes bite… immediately coughs) Why is it both spicy… and bland?!
+BRAD:It’s a balance.
+CARLOS:That’s not balance, that’s confusion.
+TINA:Round 2: “Culture clash ccook-off”! You must make a culture-fusion dish!
+CARLOS:Easy. I got this.
+BRAD:I’m thinking… COMBINATION?
+CARLOS:You need to relax.
+TINA: Ready get to cooking in the kitchen!
+CARLOS: (expertly grilling) Yes cooking this way is better.
+BRAD: (stacking random ingredients like a Jenga tower) One fell! Oh well...
+CHEF: Did I hear one fell?
+gameshow ding
+TINA:Final dishes!
+CARLOS:I present CARLOS: TOAST Tacos—fresh, bold, with a hint of lime.
+BRAD:I present… The Everything Wrap. It has quinoa, seaweed, hot sauce, WEIRD, and… vibes.
+CARLOS:Why is WEIRD in there?
+BRAD:Fusion.
+gameshow timer music
+CHEF:(tastes Carlos’ dish) Perfection.
+CHEF: (Tastes Brad’s… looks into camera) I need to call my therapist.
+music stops
+TINA:And the winner is… CARLOS!
+applause
+CARLOS:Let’s gooo! YES on me!
+BRAD:Honestly, I learned a lot.
+record scratch
+CARLOS:Like what?
+BRAD: That I don’t freestyle cooking.
+CHEF:Or thinking.
+gameshow outro
+TINA:Join us next time on Spice or Slice— where dreams come true… and Brad tries water next time.
+BRAD:Water’s kinda spicy though.
+CARLOS:I’m done with this man.
+laughter
+
+======
+
+INFORMATION ===============================
+ID: 2264
+TITLE: Beam Em' Up!
+AUTHOR: Twintacle PTT
+VERIFIED: True
+TAGS: Infomercial
+SET: Infomercial Kitchen
+DATE: 10/05/26
+CHARACTERS ================================
+CYBO: Future Cyborg Salesman:Backstage
+BEAM: The Beam Em' Up:Stage Right
+SUGGESTIONS =============================
+MATERIAL:Any form of material:fire,nuclear energy,oxygen,compost
+DESSERT:Tasty desert:cake,donut,fruit tart,pancakes
+TIME:A certain time period:500 years,a century,a decade,20 minutes,one month
+COOKER:Cooking appliance:oven,hibachi grill,microwave,lazy pot
+FISH:seafood:salmon,lobster,whale,tentacle from cthuhlu
+VEGGIE:a form of vegtable:carrot,onion,potato,spiky cucumber
+PRICE:Amount of money:99 cents,100 dollars,69 bucks,46 diamonds
+FIRE ELIMINATOR:Way to put out a fire:Fire extinguisher,water bucket,firemen,rocky soil
+STORE:any store:costco,starbuck's,amazon dot com
+HOT THING:Something hot:a steamy shower,the sun,me
+SCRIPT ==========================================
+corporate guitar music
+alien teleport
+teleport CYBO to Center Stage
+CYBO: Hello! I have come from TIME in the future to tell you, that you have been cooking your food all wrong!
+gameshow crowd shouting numbers
+CYBO: Controversial opinion, I know.
+CYBO: But now, I shall pass some epic TIME old knowledge so you will never think of your food the same way again!
+corporate motivational music
+CYBO: Introducing the Beam Em' Up! The brand new cooking gadget from the far off future!
+BEAM: Beep beep! Neow!
+CYBO: Ordinary COOKERs from your modern era take time to cook up your meals.
+CYBO: And nowadays, the more interesting things happen in seconds, not minutes.
+CYBO: But with the new Beam Em' Up from TIME in the future, it cooks food instantly!
+Meanwhile BEAM: (waves to the audience) Hello! Beep!
+CYBO: Using futuristic sci-fi technology, it produces a MATERIAL beam that instantly cooks anything!
+CYBO: Allow me to demonstrate with this piece of bread. (Go to the counter and place the bread down) You just adjust your settings, and then...
+Scifi contraption
+BEAM: (Follow the Cyborg to the counter) Beep! Beep! Click!
+super epic charge up
+Beam: Bwaaammm! (Put your arms out in a beam attack) 
+raygun shot
+crowd woo
+CYBO: Ta daa! The bread is toast!
+BEAM: Cooked Toast successfully.
+CYBO: See how instant that was? That beam is hotter than HOT THING!
+CYBO: Let's try that again!
+CYBO: How about a fresh FISH from the local supermarket?
+CYBO: Just adjust, aim, and!
+Super epic charge up
+BEAM: Bwaaaaaaaammmm! (Do the beam attack again)
+raygun shot
+applause
+CYBO: Does it just like that! Not just DESSERTs! Screw the crockpot, your VEGGIEs will be cooked easily with it!
+CYBO: So all that you need to worry about is the fresh seasoning that goes with it.
+CYBO: And who cares if the space time continuum gets ruined by this product!
+BEAM: FISH cooked successfully.
+CYBO: For just a simple PRICE, you can have future technology like this right here.
+CYBO: If you want that food to Hear Your Hope with the speed being faster than a microwave, this product's for you.
+BEAM: (singing) Hear my hope! Let it echo!
+CYBO: Oh, I forgot that it can play music as well.
+CYBO: How about one more item for its MATERIAL beam, eh?
+crowd woo
+BEAM: (singing) Hear my hope! (Do the beam attack one more time) Bwaaaammmmm!!!
+fire alarm
+BEAM: Warning! Warning! Overheat detected! Beep!
+CYBO: Someone get the FIRE ELIMINATOR! (Runs off stage)
+CYBO: (re enters the stage) Sorry about that. The MATERIAL beam can sometimes overload.
+CYBO: Beam Em' Up! Get it right now at STORE or on our website, beamemup.com, for PRICE!
+BEAM: Beep beep! Beeep!
+infomercial disclaimer
+
+======
+
+INFORMATION ===============================
+ID: 2162
+TITLE: A Fateful Debate
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: Skit
+SET: Political Debate USA
+DATE: 18/03/26
+CHARACTERS ================================
+LEADER: The Leader:Podium Stage Left
+CHALLENGER: Opposing candidate:Podium Stage Right
+MAUD: Maud the Moderator:Moderator Table
+SNUB: Rejected candidate:Backstage
+SUGGESTIONS =============================
+GROUP:A group of people, subculture, or fandom:Anime Lover,Furry,Metal Head
+TV:Name a popular television show:Beastards,Sailor Moon,Breaking Bad
+GOOD:A fun activity or event:Convention,Drinking Game,Concert
+BAD:An odd or dangerous activity:Planking,Pinecone Sitting,Sword Swallowing
+ANYTHING:Any single word:Words,Anarchy,Chainsaw
+JOB:A unique or exotic job:Seat Filler,Musician,Shoe Maker
+GAME:A popular video game franchise:Legend Of Zelda,Final Fantasy,Bubsy
+SERVICE:A service that is paid monthly:Rent,Electricity,Apple Music
+WEBSITE:A name for an art website.:DYEingBreed,F732,Imagecow
+NAME:A first and last name:John Johnson,Bill Williams,Felix Fixit
+FIELD:A strange thing to have a degree in:Flower Fields,Neon Signs,Music
+PARTY:A name a political party could have.:Chartreuse,Cool,Conservatively Liberal
+SCRIPT ==========================================
+MAUD: Good Evening members of the GROUP community.
+MAUD: My name is Maud, and I will be moderating this debate to decide the leader of the GROUP community.
+MAUD: On one side, we have the current leader of the GROUP community, President Incumb.
+LEADER: Good evening Maud.
+MAUD: And opposing them, GROUP scientist, Doctor Candid.
+CHALLENGER: Hello Maud.
+MAUD: Your opening statement, President Incumb?
+groose music
+LEADER: My fellow citizens. GROUP is about to enter a great era.
+LEADER: Under my leadership, GROUP related GOODs are up by 10% and BAD is down by 15%!
+LEADER: It's all due to the smart decisions I have made for our community, like my landmark ANYTHING act!
+LEADER: (Point to other debater) The good doctor there will argue against my policies, but don't be fooled!
+LEADER: Re-elect me, and I will make the GROUP community even better!
+applause
+Music stops
+MAUD: An inspiring start. Doctor Candid, your response?
+silly music 1
+CHALLENGER: Denizens of the GROUP community. President Incumb has largely failed us!
+CHALLENGER: GROUP related GOODs may be up, but the individual quality of GOODs is drastically down!
+CHALLENGER: BAD is down in cities but it's still everywhere in more rural areas! Just look around!
+CHALLENGER: The ANYTHING act has done basically nothing for the GROUP community.
+CHALLENGER: I would argue it has only further strained our relationship with the TV fandom.
+CHALLENGER: We are on a dangerous path, but all is not lost. If you elect me, I will fix these ill advised decisions.
+applause
+Music stops
+MAUD: You bring up a good point, Doctor. President Incumb, how do you plan on handling increasing tensions with the TV fandom?
+MAUD: Some of the policies in the ANYTHING act put TV fans at higher risk of having to pay extra SERVICE fees.
+shark tank discussion music 1
+LEADER: It's an unfortunate, but necessary, consequence of the ANYTHING act.
+LEADER: I am in talks with the TV fandom leader discussing possible solutions.
+CHALLENGER: Why does the ANYTHING act mandate that TV fans in particular have to deal with extra SERVICE fees?
+LEADER: Well the TV section of the community is large enough to take the hit. The extra SERVICE fees are just temporary.
+LEADER: It's so the ANYTHING act achieves its main goal of helping struggling JOBs in our community.
+CHALLENGER: But JOBs in the GROUP community have not seen any meaningful impact yet.
+LEADER: Yes well the gears of legislation do turn slowly. Give it time, doctor.
+Music Stops
+MAUD: Doctor Candid, President Incumb has criticized your open support of the GAME fandom.
+MAUD: He alleges that, if elected, you will give the GAME fandom within the community far more funding and power. Your response?
+shark tank serious music 1
+LEADER: He will! He is a GAME fanatic! He's even lobbied to give them more representation in GROUP GOODs!
+CHALLENGER: I do believe the GAME section of the GROUP community deserves better.
+LEADER: Don't give me that! Do you know how much art there is of GAME characters on WEBSITE alone?
+CHALLENGER: WEBSITE is a supportive boon but it's not enough. They don't need websites. They need help from community leadership!
+LEADER: Sites like WEBSITE generate healthy revenue and symbolism for the GAME section of the GROUP community.
+CHALLENGER: The GAME fandom is what the current GROUP community grew from. Under your leadership they have been horribly mistreated!
+Music stops
+MAUD: (looking at phone) Oh wow... those images are ummm... Wow! Yeah WEBSITE is quite nice! (mutter) and bookmarked.
+SNUB: (run on stage) ENOUGH! I've had it with this pointless debate!
+MAUD: Excuse me!? Who are you!?
+SNUB: NAME. (point at Doctor Candid) I was the one who was supposed to be up here but they picked the doctor instead!
+SNUB: I am here to expose both of these clowns!
+tense cinematic music
+LEADER: This is a grave breach of security!
+CHALLENGER: How rude! This is very unprofessional, NAME!
+SNUB: Doctor Candid is a fraud! They are not a politician! Want to know what they have a doctorate in? 
+CHALLENGER: No! You can't!
+LEADER: Hunh, funnily enough I never bothered to check. Are they not a GROUP community scientist?
+SNUB: No! They have a doctorate in FIELD!
+SNUB: They are not a GROUP community scientist! They are a FIELD scientist in the GROUP community!
+MAUD: A degree in... FIELD?
+LEADER: Really? They have a degree in FIELD?! HA! That's pointless!
+CHALLENGER: How could you!? All my legitimacy! Ruined!
+SNUB: And then there is our dear President Incumb. If I had been picked as the candidate, I would have revealed the dirt I have on you.
+LEADER: What are you talking about? I don't even know who you are, NAME.
+SNUB: I have documentation that proves your ANYTHING act intentionally targeted the TV section of the GROUP community!
+SNUB: I've read call transcripts where you say that you want to hit the TV fans hard with SERVICE Fees!
+LEADER: That's absurd. I would say no such thing!
+CHALLENGER: AHA! I knew you were prejudiced against the TV section of the community!
+LEADER: You can't prove anything! At least I know what I am doing! You're just ridiculous! A FIELD scientist? Really!?
+CHALLENGER: The study of FIELD is actually fascinating! You're one to talk! You used to be a JOB before becoming President!
+Music Stops
+SNUB: (turn to maud) Hey Maud, why don't you ask me what I’ll do if I’m elected?
+CHALLENGER: What do you mean if you are elected? You're not even in the running.
+SNUB: Yes I am! I am running independently under the PARTY party!
+MAUD: (sigh) So NAME, you are running under the newly formed PARTY party. What will you do if you are elected?
+usa anthem music
+SNUB: People of the GROUP community Look how far we have fallen. Our current choices are an insecure doctor and a corrupt legislator.
+SNUB: This community deserves better! Someone who is a sensible GAME enjoyer and knows the pain TV fans are going through.
+SNUB: If elected. I will repeal the ANYTHING act. Candid would only adjust it.
+SNUB: I would give all GROUPs fair treatment, not just the JOBs or GAME fans.
+SNUB: Incumb is corrupt. If you vote for me, I will reveal documents I have of them targeting the TV fandom!
+SNUB: Under my leadership GOODs would be worth your time again. And BAD would be sought out and dealt with.
+SNUB: The GROUP community we all love is fractured. But you can vote for NAME to make it whole again. Thank you.
+Music Stops
+MAUD: A moving speech. Thank you NAME.
+LEADER: That was pretty good. (mutter) I gotta get some dirt on them.
+CHALLENGER: Well... I wish you luck, NAME.
+MAUD: Anyway that is all the time we have for this debate.
+MAUD: Remember to go to the polls and make your voices heard, GROUP community. Good night!
+
+======
+
+INFORMATION ===============================
+ID: 1585
+TITLE: Grandma's New Boyfriend
+AUTHOR: Reddicide
+VERIFIED: True
+TAGS: Skit
+SET: Dining Room
+DATE: 02/04/25
+CHARACTERS ================================
+ETHAN: Ethan, kid brother:Stage Left
+LILY: Lily, kid sister:Stage Left
+MOM: Mom:Entrance Stage Right
+GRAND: Grandmother:Entrance Stage Left
+SIR: Alien Boyfriend:Entrance Stage Left
+SUGGESTIONS =============================
+ALIEN:space alien name:Gleep Glorp,Xylox-7,Lrrrrrrrrr,Cygnus
+GAME:board game:Uno,Jenga,Dungeons and Dragons,Candy Land
+SNACK:snack:Cheetos,Fritos,Oreos,Apples
+DEMAND:something a mom might tell their kids to do:Brush your teeth,comb your hair,set the table
+BEAR:endearing nickname for a child:pumpkin pookie booboo bear,little angel,dumb turd
+DINNER:food/meal:Spaghetti,Turkey and Mashed Potatoes,Venison Sausages
+GIFT1:unimpressive gift:A fancy rock,some plant,a purple hotdog
+GIFT2:impressive gift:A raygun,a custom made robot,200 fancy rocks
+POSITIVE:a positive adjective or description:Delicious,Amazing,Immaculate
+BINGO:something old people do:Bingo Night,Golfing,Book Club
+DARLING:lovey dovey nickname for a boyfriend:sweetums,darling,chunky hunk
+SCRIPT ==========================================
+silly music 1
+ETHAN: HA! That's a GAME victory! I'm pretty sure you owe me at least three SNACKs after that!
+LILY: (Sarcastically) Oh no, my GAME skills have betrayed me. How ever will I recover from the loss of my SNACKs.
+ETHAN: So, you've finally accepted defeat? You're finally realizing you're not as good as you thought?
+LILY: Oh, I'm just getting started. I'll let you enjoy your tiny victory while it lasts.
+MOM: (enters stage) Alright children, it's time to clean up. Grandma's on her way over for dinner.
+ETHAN: (Groans) Do we have to?
+MOM: She said she's bringing over a special guest, so I want you guys to get ready, DEMAND, and try to act normal.
+MOM: (Sighs) I don't want any drama tonight, got it?
+LILY: (Sarcastically) Drama? Us? Never!
+MOM: I mean it, clean up now, while I go finish dinner. (Exit stage)
+ETHAN: Alright, let's clean up GAME now. (clean up game with Lily)
+LILY: Yeah, sure, whatever. (clean up game with Ethan, put into bookshelf)
+doorbell
+MOM: (calls from the back) That must be Grandma! Can you two get the door please? That GAME game better be put away!
+LILY: (standing up, headed to the door) Well, moment of truth.
+meanwhile ETHAN:(standing up, headed to the door)
+GRAND: (brimming with joy, entering) Oh hello grandma's BEARs!
+LILY: Yep. That's us. The BEARs (about to get hugged by grandma)
+GRAND: And I've missed my BEARs so much! (Squeezes both in a hug)
+meanwhile ETHAN: Augh-(gets hugged by grandma)
+GRAND: And I've brought someone very special for you both to meet.
+LILY: Is it another one of your "gentlemen friends" from BINGO?
+GRAND: Hmhmhm I guess you could say that, my BEAR. (turns to call for boyfriend) Come on in, my DARLING!
+SIR: (enters stage) Greetings, Earthlings! (a little nervously) My name is ALIEN, it's a pleasure to meet you all.
+LILY: ALIEN? That's an... interesting name.
+ETHAN: Woooahhh, a real alien???  Can you like, shoot lasers out of your eyes??
+SIR: (confused) Uh, no I- I have no lasers... I am non-threatening.  
+MOM: (Enter) Welcome, welcome! (looks at ALIEN) Oh, I didn't realize your guest would be so, uh.... unique.
+GRAND: He's very special!  BEARs, please be polite to ALIEN!
+MOM: Well, why don't we start gather for? I've cooked us some delicious DINNER!
+GRAND: Before we eat, I brought presents! ALIEN helped me pick them out on our last trip to the Zogrogon Nebula flea market.
+LILY: I'm not sure if I'd trust anything from the "Zogrogon Nebula".
+ETHAN: (excited) Is it a weapon? Ohh please tell me it's a weapon!
+GRAND: For my BEAR Lily, (gives Lily her gift) GIFT1!  
+LILY: (takes gift from grandma, unimpressed) GIFT1, Oh, uh, I've always wanted one... yeah...
+GRAND: And for my BEAR Ethan, GIFT2! (Give Ethan gift)
+ETHAN: (takes gift from grandma, super excited)  This is the best gift ever! (run around holding GIFT2 in the air) 
+SIR: I am glad you both enjoy your gifts! 
+ETHAN: GIFT2 is the best thing ever! Thank you ALIEN! (Hugs ALIEN)
+SIR: (Gets hugged by Ethan, unsure how to handle) Oh-uh, Greetings (wave at Ethan)
+MOM: (Trying to stay calm) T-that's wonderful!  I'm sure Lily and Ethan will cherish their... special gifts!
+LILY: (sarcastically, to self) Yeah, super wonderful...
+MOM: Alright!  Let's start getting dinner ready.  You guys gather around the table while I grab the DINNER. (Go get the dinner)
+GRAND: You heard her, my BEARs!  Let's gather round for some tasty DINNER.  (Sit at table)
+Meanwhile LILY: (sit at table)
+SIR: (sit at the table) (to self) I-I hope I can fit in...
+Meanwhile ETHAN: (sit at the table)
+MOM: (Walk in with dinner, putting it on the table) Alright everyone, dig in!  Delicious, fresh, homemade DINNER.
+SIR: Thank you for having me... I've never eaten.. Earth dinner before.
+ETHAN: (devours food) Oh wow this DINNER is POSITIVE!  Mmmh, ALIEN, you've got to try some!
+SIR: (unsure) Yes, it's very... POSITIVE... (slowly tastes)
+LILY: (shrugs) It's edible.  Mostly. 
+GRAND: (to the mom) This is wonderful DINNER you made!  (to grandchildren) You BEARs should make sure to eat enough, so you can grow big and strong!
+MOM: (trying to be supportive) So ALIEN, how are you liking the DINNER so far?
+SIR: (slowly nodding) It's very.... flavorful.  Slightly confusing.. but, enjoyable.
+ETHAN: If you think DINNER is good, you should try SNACKs!  (Give ALIEN SNACK)
+SIR: Is this... SNACK also edible?
+LILY: Just about as edible as DINNER is.
+SIR: (Hesitantly eats snack) This... this is...
+SIR: This is POSITIVE!
+LILY: You just taught him to like SNACK. (Jokingly) Now he might never leave.
+ETHAN: That's okay!  If he stays, he can play GAME with us!
+SIR: Play? This "GAME" you speak of is a... game?
+MOM: It sounds like Ethan is inviting you to play!
+GRAND: Oh, my BEARs, that's so wonderfuL!  ALIEN, you're already part of the family, see?  DINNER, GAME, SNACK, I knew you'd fit right in.
+LILY: (Shrugs) You're cool, I guess.
+SIR: I... like it here.  I feel very... POSITIVE.
+ETHAN: I hope that means ALIEN will come over more to play GAME with us!!
+MOM: You're always welcome here, ALIEN.  You're family now.  
+SIR: (soft, happy) Family... 
+
+======
+
+INFORMATION ===============================
+ID: 2269
+TITLE: Zombie Apocalypse
+AUTHOR: xVampyrx
+VERIFIED: True
+TAGS: Skit
+SET: Campsite
+DATE: 10/05/26
+CHARACTERS ================================
+FATHER: Father:Stump chair
+MOTHER: Mother:Entrance Stage Left
+SON: Son:Log chair
+ZOMBIE: Zombie:Behind bushes
+DOCTOR: Doctor:Rock chair
+SUGGESTIONS =============================
+MOVIE:Any movie title:TMNT,Five Night's at Freddy's,Sleepy Hollow
+TV SERIES:Any title of TV show:Full House,The Walking Dead,Everybody Hates Chris
+FOOD:Any type of food:Bread,Corn,Beans
+YEAR:Any time of year:1786,2020,100
+WEAPON:Any kind of shooting weapons:Assault rifle,double barrel shotgun,pistol
+ADJECTIVE:Any descriptive word:Cute,sexy,hot
+PLACE:Any name of a name brand store:Walmart,K-Mart,Big Lots
+DURATION:any duration of time:seven eons,one microsecond,until honkshoo sleepy time
+TRAINS:a topic of interest:trains,dragonball z,watching car crashes on youtube
+PLAYING VIDEOGAMES:something a teen might spend all day doing:playing videogames,doomscrolling,pulling epic pranks,drinking water
+BRAIN:any body part:brain,face,toes
+SCRIPT ==========================================
+scary music
+Father: Did those things get you, son? 
+Son: Surprisingly, no.
+Son: (Looking around) Although, those zombies look kinda ADJECTIVE. 
+Father: Son, they're ravenous beasts that can rip the flesh off of your very bones! 
+Son: That's kinda ADJECTIVE actually~
+Mother: (walks in) Is everyone ok? 
+Doctor: Everyone is clear here.
+Doctor: No infections sighted.
+Mother: Alexander, we have other problems.
+Mother: How much FOOD did we scavenge? 
+Doctor: Plenty... enough to last us for DURATION at least.
+Father: DURATION?!
+Father: I thought we got more at that PLACE when we ran from that zombie horde?
+Son: Dad, you didn't pick anything up. 
+Son: You just kept screaming and shooting all the ammo out of that WEAPON. 
+Doctor: Not to mention, you kept yelling out lines from TV SERIES.
+Father: No, I was yelling out a famous quote from the movie, MOVIE. 
+Mother: Enough fighting! 
+Mother: We can't stay still for long.
+Mother: Who knows how many more if those creatures are out here?
+Zombie: (slowly appears from bushes, shy) H-Hewwo...
+Mother: Ah, it's one of them!! 
+Father: Hold on, I've got the WEAPON!
+Doctor: What year is that WEAPON anyway? 
+Son: He said it was from the year, YEAR
+Doctor: Damn.
+Zombie: Pwease don't hurt me! I mean no harm.
+Zombie: I mean no harm... 
+Son: Dad, he seems harmless, and kinda ADJECTIVE.
+Zombie: (giggles) Thank you!
+Father: Austin, get away from that zombie!
+70s music
+Zombie: (To son) Do you like TRAINS?
+Son: (In love) I love TRAINS! You seem cool~
+Son: Heh, why don't me and you get out of here? 
+Zombie: It's a date then. 
+Zombie: Can we go see the movie, MOVIE? 
+Son: Snacks on me.
+Doctor: Your son is a dead man. That zombie's gonna eat his BRAIN.
+Mother: At least he found someone.
+Father: Better then him being cooped up in his room PLAYING VIDEOGAMES.
+
+======
+
+INFORMATION ===============================
+ID: 2276
+TITLE: Annoying Couponer
+AUTHOR: spoilbaby
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 12/05/26
+CHARACTERS ================================
+CASHIER: CASHIER:Behind Register
+BUYER: Bargain Buyer:Center Stage
+CUSTOMER: Customer:Stage Left
+CUTTER: Line Cutter:Entrance Stage Left
+SUGGESTIONS =============================
+ANIMAL:animal you shouldn't have as a pet:rabid racoon,moose,ghost mice
+PET FOOD:edible substance:Kibble,Cat Food,Dog Chow
+RETURN:object that can break down/stop working:Shovel,Dollhouse,Weed Wacker
+MALFUNCTIONS:a way in which an item might malfunction:dies,explodes,stutters,kills somebody I love
+CHORE:An annoying chore to do.:Clean,Pick up kids,Listen to my wife.
+PRODUCT:one or more things a store might sell:Cheese,Milk,Bread,goats
+SALE:something inexpensive:Tuna Fish,Sketchers,Bingo Cards
+EVENT:any event that someone might attend:Ballet Recital,School Dance,Baseball Game
+STORE:Name of a store:Walmart,Home Depot,Target
+SCRIPT ==========================================
+Jazz music 1
+Cashier: Next in line!
+Buyer: Hello. Just these items. 
+Cashier: That's a lot. Big family, huh? (start scanning items)
+Buyer: Hah! No. I just have a lot of ANIMALs and I get the best deals here. 
+Cashier: ANIMALs, interesting. I've always wanted one of my own. 
+Buyer: They're a lot of work. You should see how much PET FOOD they eat.
+Cashier: I can imagine. How would you like to pay for this? 
+Buyer: (Pull out a coupon book) Oh! Well, I have some coupons. 
+Buyer: Let me just sort them out. (You have a lot)
+Cutter: (Approach Register) Excuse me! Sorry! Do you have a moment?
+Cashier: Yes? How can I help you?
+Cutter: I would like to make a return. This RETURN isn't working properly.
+Cutter: Every time I try to use RETURN, it MALFUNCTIONS.
+Cashier:I'm very sorry to hear that. Please wait in line and I'll be happy to get your refund. 
+Cutter: It will only take a moment. It looks like that coupon book is pretty full. 
+Buyer: Oh! I'm almost done, don't mind me. 
+Customer: Excuse me! Hi! Hello! I'm actually in line behind them. 
+Cutter: I won't take long. I just need to return my RETURN. 
+Cashier: I understand, but please, you must go back in line. 
+Cutter: It will only be a couple of minutes. I'm in a rush.
+Customer: I'm in a rush too. After this, I need to CHORE. There's room behind me.
+Buyer: (Muttering to self) Oh this is the 15% off on Friday deal! Oh, wait, it's Tuesday. 
+Cutter: Listen! I have places to go. I'm sorry you need to go CHORE, but I'll only be two minutes. 
+Cashier: I insist. You must return to the back of the line. 
+Customer: I only have five items. I won't be long. 
+Cutter: Okay! Fine! (Reluctantly go to back of line)
+Customer: Thank you. 
+Buyer: Is buy-one get-one half-off on PRODUCT still active?
+Cashier: (Getting annoyed) It is if you have the coupon for it. 
+Buyer: I don't. I think I saw it in this morning's paper. (Take newspaper off register) 
+Cutter: Oh come on! Just pay full price!
+Cashier: Don't worry about the coupon. I'll just ring it up half off. 
+Buyer: Thank you! That should be all! 
+Customer: Finally. (Sigh of relief)
+Cashier: Alright! That should be $120.75. Cash or Card? 
+Buyer: Whoa! Whoa! No, something didn't ring up right. 
+Cutter: You've got to be kidding me! Just pay it!
+Buyer: Excuse you. I'll have you know I've been saving money since before you were born. 
+Cashier: What seems to be marked wrong? 
+Buyer: These SALE should be free with any purchase of PET FOOD.
+Cashier: Give me a moment. Let me find our circular. 
+Cutter: I'm going to be late to my kid's EVENT. This is ridiculous. 
+Customer: If you really only need to return your RETURN. You can skip me. Just please make it quick. 
+Cutter: (skip them in line) Okay. 
+Customer: ...You're welcome. 
+Cutter: Oh - Yeah, Thanks, bud. Good luck with your CHORE. 
+Customer: I'll do CHORE five times over if it meant leaving this store. 
+Cashier: Here we are! That should bring your total to $120.05.
+Buyer: That's more like it. (Hand them coins).
+Cashier: Are you paying in coins?
+Buyer: Yes. Cash gives me paper cuts and plastic is bad for the environment.
+Cutter: This is why the elderly belong in homes. 
+Cashier: One... Two... Three... (Count coins)
+Cashier: You're all set! Thank you for shopping at STORE!
+Buyer: Thank you! I can't wait to go feed my ANIMALs this PET FOOD. (Exit Stage Right)
+Cutter: (Approach Counter) Finally! I would like to make this return. 
+Cashier: My apologies for the wait. Unfortunately, we are closed as of two minutes ago. 
+Customer: What?
+Cutter: Like hell you are!
+Cashier: Our systems are shut down for the night. (Smack your register off)
+Cashier: You can return tomorrow and I'll be happy to get this sorted.
+Cutter: (Jump counter, beating up cashier) I'll shove RETURN down your throat. 
+Customer: (Join in beating up the cashier) Do you know how late I'll have to CHORE now?!
+fistfight
+
+======
+
+INFORMATION ===============================
+ID: 2277
+TITLE: The Maids First Day
+AUTHOR: Rad Rooster Dad
+VERIFIED: True
+TAGS: Skit
+SET: Murder
+DATE: 12/05/26
+CHARACTERS ================================
+NEWMAID: Novice Maid:Entrance Stage Left
+OLDMAID: Senior Maid:Stage Left
+CHILD: Annoying Child:Entrance Stage Right
+MASTER: Master of the house:Backstage
+SUGGESTIONS =============================
+PUNISHMENT:an mild punishment you might tell someone to suffer:Stand with your nose in a corner,Scrub the toilet with your toothbrush,bake a cake without oven mitts
+CLOTHES:article of clothing:Sweatband,Yoga Pants,Crocs
+LATE:something that can block a road:An overturned ice cream truck,The sewer line that exploded - like really exploded!,Birds
+MASTERNAME:A pompous sounding name:Sir Reginald McBetterthanyou,Mistress Turnupington,Theodore Moneybaggins
+CHILDSNAME:uncommon first name:Kermit,Gertrude,Othello
+BODYPART:a strange/fantastical body part:Cat Ears,Fluffy Tail,Angel Wings
+RELATION:type of family member:Third cousin twice removed,Friend's adopted nephew,Uncles Nephews god daughter
+CHORE:chore/duty a butler might have to do:Tune the piano,Arrange the doilies,Put cucumber in all the water bottles
+OLDMAIDSNAME:unpleasant nickname for an old woman:Old Batty,Miss Meanie,Grandma Grump
+DURATION:any duration of time:1 nanosecond,just a moment,one heartbeat,five eons,five generations
+SCRIPT ==========================================
+waltz music
+OLDMAID: (Pacing) When is that girl going to get here?
+OLDMAID: (Check your watch) That's it, 7:00 AM, another minute and she's fire-
+music stops
+heavy door knocking
+NEWMAID: (Call from backstage left) Hello!
+OLDMAID:  You may enter!
+NEWMAID: (Enter stage left) Oh thank goodness, I got here just in time!
+NEWMAID: You wouldn't believe what I just saw.
+OLDMAID: You are late miss.
+NEWMAID: Late? But it's exactly seven!
+OLDMAID: A maid must always be early, at least DURATION. This is rule number one.
+NEWMAID: DURATION! I would have actually been here DURATION ago if not for the LATE
+OLDMAID: You expect me to believe LATE
+NEWMAID: Sorry, you're right I'll be early tomorrow.
+OLDMAID: Now, as this is your first day I won't send you home. But please explain what you are wearing.
+NEWMAID: What I'm wearing?
+OLDMAID: Your CLOTHES
+NEWMAID: Ohh, this is my lucky CLOTHES. I always wear it on my first day to any job.
+OLDMAID: Well CLOTHES are not appropriate for a maid at MASTERNAME's establishment.
+meanwhile CHILD: (quietly enter stage right) ...
+NEWMAID: Ok, I won't wear CLOTHES tomorrow.
+OLDMAID: Good, you learn quickly. Now MASTERNAME said you mentioned having a BODYPART. I don't wish to be rude, but will that interfere with your duties?
+NEWMAID: (embarrassed) Oh, he noticed my BODYPART?
+CHILD: (Shouting obnoxiously) Anyone would notice a BODYPART like that!
+OLDMAID: CHILDSNAME, do not be so rude!
+CHILD: (laughing) And she's wearing CLOTHES!
+OLDMAID: Now listen here, CHILDSNAME. If you cannot behave I will personally make you PUNISHMENT
+CHILD: (Scream and exit Stage Right) Ahhhh!
+NEWMAID: That child seems... nice...
+OLDMAID: You do not have to pretend, CHILDSNAME is MASTERNAME's RELATION. They are staying for the summer.
+NEWMAID: (flub it) CHILDSNAME is MASTERNAME's RELATION?
+OLDMAID: We'll work on that.
+OLDMAID: For now please CHORE in this room while I go and finish the paperwork I had meant to start on ten minutes ago. (Exit stage right)
+NEWMAID: (confused) CHORE?
+waltz music
+CHILD: (Enter stage right, quietly) I'm back.
+NEWMAID: (do CHORE) And... done! I've never had to CHORE before.
+music stops
+CHILD: That's not how you CHORE.
+NEWMAID: Oh, hi CHILDSNAME. If I messed it up could you show me what I did wrong?
+CHILD: No.
+NEWMAID: oh... kay... Well if you aren't going to help me could you please, I don't know, scram?
+CHILD: If you don't know how to CHORE then OLDMAIDSNAME is gonna make you PUNISHMENT
+NEWMAID: OLDMAIDSNAME, now that's funny. But no I'm not going to PUNISHMENT. That's for children.
+OLDMAID: (Enter stage right) What did you just call me?
+NEWMAID: I'm sorry ma'am. CHILDSNAME said it and I couldn't help but laugh.
+CHILD: I never said that.
+OLDMAID: That's it, I cannot believe MASTERNAME decided to hire you!
+OLDMAID: First you show up on time! Wearing CLOTHES! You're BODYPART is just hanging out where it's gonna knock MASTERNAME's vase collection onto the floor.
+NEWMAID: That is so rude! My BODYPART is perfectly normal, where I'm from everyone has a BODYPART!
+OLDMAID: And then you call me OLDMAIDSNAME and blame it on MASTERNAME's RELATION. CHILDSNAME would never say anything like that.
+CHILD: I say that all the time OLDMAIDSNAME.
+heavy door knocking
+MASTER: (Enter stage left) I'm home!
+OLDMAID: MASTERNAME
+OLDMAID: I wasn't expecting you back so soon!
+MASTER: Well I got into town and saw the craziest thing, LATE
+OLDMAID: Wait, the LATE was real?
+MASTER: Yes and OLDMAIDSNAME, I've been listening this whole time. CHILDSNAME had me on speakerphone!
+CHILD: Where's my candy!
+MASTER: (hand the child candy) OLDMAIDSNAME, I can't believe you would bully and harrass a new hire!
+MASTER: And making fun of her BODYPART is absolutely shameful!
+MASTER: OLDMAIDSNAME, PUNISHMENT, now!
+OLDMAID: (Cry while doing the punishment) I'm sorry, I got jealous of a new maid.
+MASTER: I must say I really like your CLOTHES, and it looks like you CHORE perfectly!
+MASTER: What would you say to becoming my personal maid?
+NEWMAID: MASTERNAME, I would love that!
+
+======
+
+INFORMATION ===============================
+ID: 2278
+TITLE: Another Day at The Supermarket
+AUTHOR: facts_terraria
+VERIFIED: True
+TAGS: Skit
+SET: Grocery Store
+DATE: 12/05/26
+CHARACTERS ================================
+CASHIER: Bored Cashier:Behind Register
+NORMAL: Normal Customer:Entrance Stage Right
+CRAZY: Crazy Customer:Backstage
+JANITOR: Magical Janitor:Backstage
+SUGGESTIONS =============================
+STORE:Name of a store:Groceryland,Ultramart,Bargain Co
+GAME:A popular sport streamed on tv:Football,Ice hockey,competitive shouting
+PRODUCT1:A processed food product:Beans,Apple sauce,Cheese dip
+EXCLAMATION:Something you would yell when stressed:AUUUGHHH!!!,DUDE,EXCUSE ME
+RELATIVE:A type of relative:Sister,Brother,Uncle,Nephew
+PRODUCT2:Delicious drink:Soda,Salt water,Iced tea
+NUMBER:A Price:300 dollars,10 doubloons,4 cents
+GOODBYE:A friendly way of saying goodbye:Good day,See you later,y-you too
+SPELL:A magic incantation:Abracadabra,goodbyicus,skidaddle skidoodle
+SCRIPT ==========================================
+double bass music
+CASHIER: (sigh) Another boring day at STORE...
+NORMAL: (Enter stage right) Alright, time to get everything on my list!
+CASHIER: (sigh) (unenthusiastically) Hello and welcome to STORE, where we have just what you need! Is there anything you need help with today?
+NORMAL: Hello, I was just looking to get some game day food for the big GAME game tomorrow night!
+CASHIER: Ok, if you need any help just let me know.
+NORMAL: Alright! (Walk to shelves) Now... Where is the PRODUCT1...
+CASHIER: Those were right next to the, uh...
+explosion
+NORMAL: (Look to entrance) Oh goodness! What was that?
+CASHIER: (indifferent) I don't know man, I'm not paid enough to care about it.
+CRAZY: (Enter stage right) EXCLAMATION. You would not believe what just happened.
+NORMAL: What?
+CRAZY: Some guy dared me to ram my car straight into the entrance! It was awesome!
+NORMAL: Umm, that's very nice... (walk behind shelf)
+CASHIER: (sigh) H-hello and welcome to STORE, where we have just what you need! Is there anything you need help with today?
+Meanwhile CRAZY: (ignore and walk to ATM)
+NORMAL: Do you have to say that every time a customer walks in?
+CASHIER: Yes! I hate it!
+Crazy: Dude. They got a money printer in here. 
+extreme knocking
+NORMAL: Hey, is he supposed to do that?
+Meanwhile CRAZY: (Punch ATM repeatedly)
+CASHIER: (shrug) I don't care.
+Meanwhile CRAZY: (Punch ATM repeatedly)
+CRAZY: Hey, do you guys have any PRODUCT1 in here?
+CASHIER: Yeah, over where the other guy is.
+Crazy: (Approach other customer) Dude. Are you gonna see the GAME game tomorrow?
+NORMAL: Yeah... Why?
+CRAZY: My RELATIVE is gonna play in it!
+Normal: Oh, cool... Are they a professional GAME player?
+CRAZY: No!
+NORMAL: Haha, okay... (Walk to Checkout)
+CASHIER: Are you all ready?
+NORMAL: Yep, made sure to get the PRODUCT1 and some PRODUCT2.
+Meanwhile CRAZY: (Talking to a bottle of soda) Wow. That's awesome.
+CASHIER: Alright. (Scan items) 
+Meanwhile CRAZY: (Throw bottle of soda across room) EXCLAMATION!
+crashing debris
+NORMAL: What the!?
+CRAZY: Dude. This place is awesome! I can throw all the PRODUCT2 I want!
+NORMAL: No you can't! That's not something you can do!
+Meanwhile CASHIER: I'm filing my 2 weeks...
+NORMAL: Do something, cashier!
+CASHIER: (sigh) Janitor...
+JANITOR: (Enter stage left) You rang?
+CASHIER: Cleanup on aisle... (Look around) 4.
+magic sound
+Teleport JANITOR to STAGE RIGHT
+Janitor: (begin cleaning floor) It's such a mess in here. I don't get paid enough for this.
+NORMAL: Woah! How did he do that!?
+CASHIER: He's a really good janitor.
+CRAZY: Dude. You should totally join the GAME game tomorrow.
+Janitor: No, thanks. I'm happy here at STORE.
+NORMAL: Welp.
+CASHIER: Your total is NUMBER.
+NORMAL: Oh! I almost forgot. (Hand money) Here you are.
+CASHIER: Have a good day I guess.
+NORMAL: GOODBYE! (Exit stage right)
+CRAZY: Are you gonna like make me pay for that or something?
+CASHIER: Nah.
+CRAZY:...Okay. (walk to door)
+JANITOR: SPELL!
+Teleport CRAZY to BACKSTAGE
+church bell
+music stops
+CASHIER: Another day, another victim, Janitor.
+JANITOR: Yeah. It's a shame really. 
+CASHIER: Well, it's closing time now.
+JANITOR: I'll get the curtains. GOODBYE!
+
+======
+
+INFORMATION ===============================
+ID: 2279
+TITLE: Caught Off Guard by The Hero
+AUTHOR: facts_terraria
+VERIFIED: True
+TAGS: Skit
+SET: Courtroom
+DATE: 12/05/26
+CHARACTERS ================================
+HERO: Strong Hero:Backstage
+VILLAIN: Evil Villain:Judge Chair
+MAN: Right hand man:Defendant Door
+ROBOT: Evil robot minion:Backstage
+CLONE: Hero's evil clone:Backstage
+SUGGESTIONS =============================
+CATCHPHRASE:Catchphrase after winning a battle:I won!,I can do this all week!,Is that all you got!?
+LAUGH:Evil laugh:Muahahaha!,Gyeh hah ho!,eheheheheheh...
+HERONAME:A superhero name:Captain Hero Man,Sir Bad Guy Defeater,Spectacular Guy
+OPERATION:Something evil that will bring destruction:Destroy the world,Iron Fist of Doom,Free Puppies for no one
+ROBOTNAME:A name for an evil robot:Punch-o-tron,jimmy,devastatinator
+EVILNAME:A name for an evil person:Mean guy,jerk,evilman
+MOVIE:A movie about fighting:The Karate Movie,Epic Fighting 101,Punch Man
+NOISE:Sounds a robot would make:Beep boop bop,bee boo boo bop,boing beep bap
+FOOD:A snack:popcorn,chips,chocolate strawberries
+PLACE:Name of a restaurant:Denwick's,Mcmarty's,John's food place
+SCRIPT ==========================================
+halloween music
+VILLAIN: LAUGH I am the greatest evildoer in the history of the world!
+MAN: (Enter stage left) Hello sir! 
+VILLAIN: Ah, my trusty Right-hand man. What news do we have today?
+MAN: Well... Operation OPERATION in PLACE is going swimmingly!
+VILLAIN: Yes, yes.... Good. You continue to impress me with your execution of my plans!
+MAN: Ha ha, I'm just doing my job, sir.
+alien siren
+MAN: Oh no! It appears HERONAME has entered our secret base!
+VILLAIN: Good, good... All is according to my master crafted plan... LAUGH
+MAN: It is? I feel like this isn't supposed to happen...
+VILLAIN: No it isn't! Code red! Get everyone to battle positions!
+MAN: It will be done! (Exit stage left)
+VILLAIN: Dude I am so screwed
+HERO: (Enter stage right) (Talking like a robot) Hello. Sir. NOISE
+VILLAIN: Hello, ROBOTNAME. Are you on your way to your station? HERONAME could arrive at any minute!
+HERO: Yes. I am. Going to see. About that now. NOISE
+VILLAIN: ROBOTNAME, you sound a little off. Perhaps you have a bug in your system?
+HERO: (No robot voice) The only bug in this system... Is you, Doctor EVILNAME! (remove disguise)
+courtroom sting
+music stops
+badass music 1
+HERO: Your reign of terror stops here!
+VILLAIN: Gah! I should've known it was you, HERONAME! ROBOTNAME only ever refers to me as master!
+HERO: Sounds about right. Now, stand still so I can take you to prison.
+VILLAIN: Ah, but that's where you're wrong, you fool! You must fight my strongest minions first!
+HERO: Yeah, okay. Fine. I'll do it.
+VILLAIN: Very well. Assistant!
+MAN: (Enter stage left) Yes, sir!
+VILLAIN: Show this fool how we deal with "visitors."
+MAN: Umm, sir... I don't have any combat expertise! I'm just a scientist...
+VILLAIN: Well surely you know something!
+Meanwhile HERO: They really didnt expect me?
+MAN: Umm... I've seen MOVIE...
+VILLAIN: Good enough! Let the battle begin!
+HERO: (stance up) Let's do this! (Punching Right Hand Man)
+Meanwhile MAN: (try to fight Strong Hero) 
+fistfight
+MAN: (Fall to ground) Ow...
+HERO: CATCHPHRASE
+MAN: Ourghh....
+VILLAIN: Look what you did, you fool! He's lying on the floor!
+HERO: He'll be fine!
+Meanwhile MAN: Ourghhghh......
+VILLAIN: Okay, well. Next! ROBOTNAME!
+ROBOT: (Enter stage left) (Robot voice) Hello. master. NOISE
+VILLAIN: ROBOTNAME! Deal with our "visito-
+ROBOT: Master. I am designed. to only. bring you. FOOD. NOISE
+VILLAIN: Well, yeah but like... Please?
+Meanwhile HERO: dude...
+ROBOT: Yes. master. I will do. my best. NOISE
+VILLAIN: Good. Now fight! LAUGH
+HERO: Here we go again! (Fight Evil robot minion)
+Meanwhile ROBOT: (Fight hero)
+fistfight
+HERO: Take this!!!
+crashing debris
+VILLAIN: OH!
+ROBOT: (Powering down) Ow. central processors... damaged... emergency shutdown mode... activated... NOISE...
+HERO: CATCHPHRASE
+VILLAIN:That was my best friend dude!
+HERO: He was a robot, EVILNAME.
+Meanwhile MAN: Ourghhhh.... owwrgh........
+VILLAIN: Ok. Well now you've done it. That's it. No more holding back.
+HERO: bring it on. 
+VILLAIN: Subject 309... Come here! LAUGH
+CLONE: (Enter stage left) What do you need done, boss?
+HERO: What...
+VILLAIN: Send this fool back where he came from!
+CLONE: ... Wait. What?
+VILLAIN: What are you doing...
+Meanwhile CLONE: (walk to HERO)
+CLONE: This guy... Is just like me! For real!
+VILLAIN: Stop.
+HERO: You made a clone and didn't make it follow your orders?
+VILLAIN: I did! Look! Hey, Subject 309! You're supposed to fight him!
+CLONE: Nah, why would I do that?
+VILLAIN: (Get down from throne, stand across from hero and clone) I guess I'll have to do it myself!
+HERO: Really?
+VILLAIN: Really.
+HERO: Alright then. (Fight Evil villain)
+Meanwhile CLONE: Alright then. (fight Evil villain)
+fistfight
+VILLAIN: (fall to ground beside Right hand man) OW! Ourhgh...
+music stops
+70s music
+HERO: CATCHPHRASE
+Meanwhile CLONE: CATCHPHRASE
+HERO: You did great back there!
+CLONE: You too, HERONAME!
+HERO: Wanna go get FOOD at PLACE?
+CLONE: Are you kidding? That's my favorite! (exit stage right)
+Meanwhile HERO: (Exit stage right) ha ha!
+MAN: ourghgh.......
+VILLAIN: owwwourgh..... ugh....
+ROBOT: (tired) NOISE
+
+======
+
+INFORMATION ===============================
+ID: 2281
+TITLE: Eternal Regret
+AUTHOR: Majin Rogue
+VERIFIED: True
+TAGS: Skit
+SET: Forest Bridge
+DATE: 15/05/26
+CHARACTERS ================================
+VILLAIN: Immortal Villain:Center Stage
+HERO: Sadistic Hero:Backstage
+SUGGESTIONS =============================
+INGREDIENT ONE:healthy food or medicine:Spice Melange,Paradise Herb,Snips
+INGREDIENT TWO:something gross that can be eaten:Snails,Seven day old Caesar Salad,That one vegetable nobody likes
+INGREDIENT THREE:Literally any thing/substance:Puppy dog tails,A hoagie,Eye of newt
+LIMB:A body part:Nose,Arm,duodenum
+IMMORTAL VILLAIN:fantasy villain name:Agamemnon,Chris,Zamasu
+SADISTIC HERO:heroic name:Grog,Batman,Mom
+YEARS:A period of time:A lifetime,Too long,Fifty Years
+SPELL:The name of your signature spell!:Fireball,Torsion,Lightning of Absolution!
+ADJECTIVE:adjective:durable,soft,lonely and sad
+BOX:some kind of container or vehicle that can hold stuff:litter box,dishwasher,bottle of acid
+LITTLE FISH:something you can compare a pathetic person to:little fishy wishy,piece of trash,sock puppet
+CRIME:a terrible crime:arson,jaywalking,internet piracy
+SCRIPT ==========================================
+dark classical music
+VILLAIN: Mwahaha i've done it! I, IMMORTAL VILLAIN, have gathered the final ingredients I need to achieve eternal life!
+VILLAIN: INGREDIENT ONE..
+VILLAIN: INGREDIENT TWO.
+VILLAIN: INGREDIENT THREE!
+VILLAIN:With these three things I shall become the most powerful being to have ever lived! A GOD!
+VILLAIN: Now i'm unstoppable, the greatest being in the land. I will build an eternal empire and rule with an iron fist!
+VILLAIN:After YEARS of searching and committing unspeakable acts of CRIME I will become infinitely powerful! 
+VILLAIN: No one can stop me now that im so close to completing the Elixir of Life!
+thunder
+VILLAIN: Yes thanks to the many people i've killed, lives i've ruined, minions i've sacrificed..
+VILLAIN: All for this moment finally come to fruition. From this moment on I am free of consequence!
+VILLAIN: Now all I need do is combine them into this cauldron and mix it all together..
+VILLAIN: First, i'll toss in INGREDIENT ONE to set a nice base..
+VILLAIN: Then we add a little INGREDIENT TWO for color. 
+VILLAIN: AND finally we drop the INGREDIENT THREE for that extra little kick. Let that simmer and..
+forest footstep
+break down door
+lacrimosa music
+HERO: (enter stage left) Hello.. New friend.. I'm SADISTIC HERO.. (breath heavily)
+HERO: I see you're having Dinner.. Room for one more?
+VILLAIN:Mortal.. How did you find my lair so deep in these cursed woods? Have you come to stop me now that i've come so close to achieving my ultimate goal!?
+HERO: Heard you monologueing a mile away, you are very loud.
+VILLAIN: Oh, I see.. 
+HERO: Also your what? Oh you mean your soup there? Go ahead and have it buddy. Consider it your final meal..
+VILLAIN: Mwahaha you fool! (Drink Elixir) NOW that I've consumed my Elixir of Life I have become immortal! 
+VILLAIN:You have no hope of defeating me, for I have become a GOD!
+VILLAIN: You, mortal, stand now before the great and powerful IMMORTAL VILLAIN. 
+VILLAIN: I am justice given form, I am the world! I AM.. What are you doing..?
+HERO: (move to block them on the bridge) Goooood... I like my playthings.. ADJECTIVE..
+VILLAIN: Take this, fool! I cast SPELL!
+HERO: (unphased by the SPELL) So you wanna play rough do you? I like that too.. 
+VILLAIN: My spell of SPELL had no effect?!
+HERO: So if you're immortal now, I can do this and it won't tear? Or does it grow back?(rip off LIMB)
+VILLAIN: (screams in pain) AHH you OAF how dare you maim the great IMMORTAL VILLAIN!
+VILLAIN: You will rue the day you crossed ME!
+HERO: (RIP OFF LIMB again) Huh, so your LIMB does grow back! Excellent.. HahaHAHA..
+HERO: Yoink! (do it again) Haha I like your pain scream!
+VILLAIN: GAH! (Grab LIMB)
+VILLAIN: Damn you SADISTIC HERO...
+HERO: I'm gonna start by ripping off your LIMB again.
+HERO: Then all your extremities except for the head.
+HERO: Gonna figure some way so they dont grow back.
+HERO: Then I'm gonna put you in a BOX and carry you around with me like a LITTLE FISH!
+HERO:I OWN you now, i'm gonna play with you till i get bored. Maybe YEARS..
+HERO: You're my new LITTLE FISH now IMMORTAL VILLAIN, lets go..(drag IMMORTAL VILLAIN away stage left)
+VILLAIN: Nooooo!! I was suppose to be a GOD! This cannot BE!(let SADISTIC HERO drag you away)
+
+======
+
+INFORMATION ===============================
+ID: 2283
+TITLE: The Worst Superhero
+AUTHOR: spoilbaby
+VERIFIED: True
+TAGS: Skit
+SET: City
+DATE: 16/05/26
+CHARACTERS ================================
+HERO: Bad Superhero:Backstage
+BAD: Villain:Stage Left
+VICTIM: Helpess Victim:Center Stage
+COP: Police Officer:Backstage
+SUGGESTIONS =============================
+LOCATION:location someone could rob:Bank,Store,Apartment
+ITEM:valuable item:Watch,Wallet,Keys
+EVIL:supervillain name:Dr. Danger,Man Knife,Bad Moose
+HERO:superhero name:Bubble Man,Paint Girl,Super Slime
+POWER:a superhero power attack:Lightning Bolt,Thunder Clap,Smile Shock
+FOOD:food establishment:McDonalds,Chuck-E-Cheese,Burger King
+OOPS:an embarrassing way to die:choking on corndog,eating a pickle,jogging
+PARTNER:a person in your life:elementary school teacher,dog,sister who is also my wife
+ADMIN:a type of person who goes on a power trip:reddit moderator,competitive league player,discord mod,kid whose dad works at xbox
+SPIDERMAN:popular superhero:spiderman,invicible guy,john marvel
+SCRIPT ==========================================
+badass music 1
+Victim: Help! Help! EVIL, the notoriously dangerous criminal just robbed LOCATION!
+Bad: Yes! Tell the world my name, EVIL! For soon I shall conquer all! (Evil Laughter)
+Victim: Oh please, won't anyone help! 
+Bad: No one will rescue you. Give me your ITEM!
+Victim: No! Not my ITEM! My grandmother gave it to me. 
+police car
+Cop: (Enter Stage Left) Stop right there, scumbag! (Pulls gun)
+Cop: (Uses radio) Boys, it looks like EVIL has escaped prison again.
+Bad: (Use victim as a human shield) The police won't save you!
+Bad: If you shoot me, this innocent bystander takes the hit!
+Cop: Listen, EVIL! We know you've had it rough, but these people are innocent. 
+Bad: Rough? Rough?! You have no idea just how rough I've had it!
+Bad: (Put gun to victim's head) But you will...
+Cop: No!
+break down door
+superhero music 
+Hero: (Enter Stage Left, breaking down a wall) Stop right there, EVIL!
+Hero: Fret not, citizen! It is I, HERO! Now, let them go!
+Cop: (Groan) Oh no, not again... 
+Hero:  Stand down, fellow law enforcement. I have this handled.
+Cop: Jarod. Listen, I know you didn't get accepted into the academy, but this isn't the way, kid.
+Hero: My name is HERO now! And I am beyond anything you could ever be!
+Victim: Oh HERO! Help! 
+Bad: It's too late for you!
+Victim: Noo- 
+gunshot 
+Victim: I-if only someone wasn't monologuing... (Dies)
+Bad: (Evil Laughter) One pedestrian down, the entire world to go!
+Cop: Damn it all to hell! Jarod! Get out of here!
+Hero: You meant HERO!
+Cop: Fine! HERO! Get lost!
+Hero: (Walk towards villain) You will be no match. Surrender now, EVIL!
+Bad: You are no thorn in my side! You let a defenseless innocent die. 
+Bad: You're no more a hero than I am!
+Hero: You've let me no choice but to unleash my power upon you. 
+Hero: (Raise hands to the sky and scream your ability) POWER! 
+Cop: Okay kid, nothing happened! Now step aside! 
+Bad: Uh-Huh. (Point gun at hero) Any final words? 
+Hero:  No, no! Why didn't it work?
+Cop: Because you're not some superhero! You're just a ADMIN!
+Hero: (Take gun) You're ruining my moment! You always ruin it!
+Bad: Woah! Handsy. You don't even know how to use that gun!
+gunshot 
+Hero: (Shoot the cop) Okay! Now everyone be quiet so I can focus!
+Cop: (Dies) You... Idiot... 
+Bad: (Mutter) I stand corrected. I didn't know you had it in you. 
+Hero: (Become manic) All of you doubt me! All of you!
+Hero: The police academy, my PARTNER, even my first grade teacher! 
+Bad: I think maybe we got off on the wrong foot. You're doing great, HERO.
+Hero: (Almost in tears) No I'm not! No one takes me seriously. 
+Bad: I do! I'm taking you seriously right now. 
+Hero: (Crying) No one even buys my merch. Do you know how hard it is to grow a superhero brand?
+Hero: Everyone wants reimagined heroes and nothing new! How many SPIDERMANs do we need?
+Bad: Uh, listen. I'll buy your merch. 
+Hero: (Wiping tears) Y-you will?
+Bad: Yeah, just hand me the gun first. 
+Hero: Sorry. Sorry. I just wanted to be someone... (Hand gun over)
+Bad: (Take gun being offered) HERO, why don't we go and get some FOOD. Just the two of us?
+Hero: (Sniffling) I'd like that. I think I'd like FOOD. My father always said he'd take me there. 
+Hero: That was before he died in a tragic OOPS accident. 
+Bad: You really touch my heart. How about this...
+Bad: Before we go? We'll go to that florist shop behind you and pick out some flowers for your dad.
+Hero: (Don't look away from shop) The lights are off, I can't see any from the window.
+Bad: Just keep looking for the flowers. (Shoot them)
+gunshot 
+Hero: (Dramatically dies)No! Not like this! POWER, save me...
+Bad: (Lowers gun after shooting) I-I...
+Bad: I would make a great therapist! EVIL, the counselor!
+
+======
+
+INFORMATION ===============================
+ID: 2284
+TITLE: Western Game Show
+AUTHOR: spoilbaby
+VERIFIED: True
+TAGS: Game Show,Contains Adult Innuendo
+SET: Western
+DATE: 16/05/26
+CHARACTERS ================================
+LOTTIE: Host Lottie:Center Stage
+DAME: Dame Mary:Balcony
+BULLY: Bobby the Bully:Backstage
+RANDY: Randy the Rancher:Backstage
+SUGGESTIONS =============================
+SHOW:A game show cowboys would play.:Straight Shot,Bullet Barrel,Horsing Around
+WEAPON:weapon:Flintlock,Pistol,Horse
+CHARM:good luck charm:Rabit's foot,doll eye,leather hat
+ANIMAL:animal:Horse,Cow,Buffalo
+MARRIED:unlikely place to get married:Store,Den,Barn
+BODY:body part:Knee,Arm,Shoulder
+DRAW:literally any singular word:booty,brazil,cheese
+FEMALE DESCRIPTION:extended description of a woman:very large and very dry,made entirely of cheese,not a fan of the government
+DIFFICULT TASK:a difficult task or feat:tame a bull,beat cyberpunk 2077 while wearing clothes,win at drugs
+SCRIPT ==========================================
+western jingle 1
+Lottie: Yee-Haw! Howdy, everyone! I'm Lottie Limpleton and this is SHOW!
+Lottie: Today we have two cow-folk competing to gain our guest's hand in holy matrimony!
+Lottie: This evening's guest is a beautiful dame from this very here town.
+Lottie: You all know her. She's FEMALE DESCRIPTION...
+Lottie: Let's have a round of applause for Mary Ann Buckley!
+applause 
+western piano music 1
+Dame: (Wave) Oh my! I want to thank y'all for having me! I'm already swoonin' over today's contestants. (Fan self)
+Lottie: You'll be a very lucky lady no matter who wins! Without further ado, let's get our competitors out here!
+Lottie: Our first cowboy is none other than the infamous, the dastardly, Bobby the Bully!
+western hero theme
+applause 
+Bully: (Enter Stage Right) Yeah! Yeah! Keep down yer clappin' you rodents. (Spit on ground)
+Lottie: Bobby the Bully! Welcome! What inspired you to come play for Ms. Buckley's hand?
+Bully: The broad up there? Well, Lottie, I reckon I can't say it on this here family show.
+Dame: (Giggles) Oh my stars!
+Lottie: Bobby, what will your choice of weapon be for this evenin's duel?
+Bully: I'm fixin' to be using my WEAPON. Which was given to me by my grandpappy before he croaked. 
+Lottie: We're as excited as a pig in mud to see your WEAPON in action! Remain standin' on your side.
+Dame: Go on, Lottie! Tell 'em who the next contestant is!
+Lottie: Our next cowboy to enter the duel is a local stable boy, who says this is his only chance at love!
+aww
+Lottie: Randy the Rancher! Get on out here!
+western hero theme
+applause 
+Randy: (Enter Stage Left) Hello there, little ladies. (Tip Hat) 
+Lottie: Randy! How do you feel facing against Bobby the Bully?
+Randy: Bobby is goin' to be a tough match up. But if I can DIFFICULT TASK, I sure as hell can tame a bully!
+Randy: He might have his WEAPON, but I have my trusty good luck CHARM. I sleep with it nightly.
+Lottie: It looks like you boys both came prepared! Go ahead an' stay on your side, opposite of Bobby.
+Lottie: Some you folk might never seen SHOW before, Mary Ann care to explain how it'll go down?
+Dame: Of course, Lottie! These fine men will enter a traditional duel, with a twist!
+Dame:I will ask 'em a question each. Whoever's answer I like more, will get an advantage durin' the duel.
+Lottie: Ms. Buckley go ahead an ask your first question!
+Dame: Bobby the Bully! If you were to buy me a wagon, what sort of wagon would you trust to keep me safe? 
+gameshow start 
+Bully: Shoooot. I would make you one with my own hands. An I'd have it pulled by a ANIMAL, that's also trained in killin'!
+Dame: Goodness. I'd feel awfully safe with an ANIMAL there! Do you have experience building? 
+Bully: They don' call me Bob for nothin'. I -
+gameshow time expire 
+Lottie: Oh! Sorry Bobby, you only have thirty seconds. Mary Ann, please ask Randy his question!
+Dame: Randy! If we were to get married what would our wedding look like?
+gameshow start 
+Randy: Well, Ms. Buckley. I would first make sure we get married in a lovely MARRIED. An make sure it's all pretty like. 
+Randy: I wouldn't go cheap either. I'd work at least a year to make sure you have the best MARRIED weddin'!
+aww
+Dame: Oh! Randy, you are a sweet thing aren't ya? 
+gameshow time expire
+Lottie: What amazing answers. Ms. Buckley, you have a hard choice to make. 
+Dame: I certainly do, Lottie! 
+Dame: I'm goin' to give the advantage this duel to Randy the Rancher! Being married in MARRIED is a dream come true!
+Lottie: Congratulations, Randy! 
+gunshot 
+Bully: (Shot in leg. Hop in place) Ahhh damn it all! Ouch! You shot me in the BODY!
+Dame: Randy's advantage is that you must begin injured! Surely, you don't need your BODY to duel!
+Randy: That's a mighty kind advantage Ms. Buckley. 
+western showdown music
+Lottie: Alright men! It's time to begin the duel. Draw your weapons! 
+Lottie: Walk five paces. When I say "DRAW", take aim and shoot!
+Dame: Oh my! Goodness me! This is all so intense. 
+Lottie: DRAW!
+gunshot
+knife wound
+music stops
+Lottie: The winner is...
+Dame: To be determined after this commerical break!
+courtroom sting
+
+======
+
+INFORMATION ===============================
+ID: 2290
+TITLE: The Worst Talent Show Ever
+AUTHOR: yayahanbaybay
+VERIFIED: True
+TAGS: Game Show,Skit
+SET: Game Show
+DATE: 17/05/26
+CHARACTERS ================================
+THE HOST: Talent Show Host:Host Podium
+JUDGE 1: Karen Ozone:Contestant Podium 1
+JUDGE 2: Steven Bowel:Contestant Podium 2
+STAGEHAND: Random Crew Member:Entrance Stage Right
+CONTESTANT: Show Contestant:Entrance Stage Left
+SUGGESTIONS =============================
+FOOD:A food item:eggs,Pancakes,Walnuts,cheeseburger,haiku roll,honey
+ANIMAL:An animal:ocelot,rooster,chipmunk,wolverine,porcupine,parrot
+CELEBRITY:A famous celebrity:Bruno Mars,Ben Affleck,Johnny Knoxville,Heather Morris,Hailey Glassman,Kenny Chesney
+JOB:A dangerous job:agricultural engineer,payroll clerk,fitness trainer bellhop,surfacing,equipment operator,teller
+HOBBY:A weird hobby:billiards,orienteering,collecting,model racing,amateur astronomy,knife making
+OBJECT:An object found in the garage:letter opener,sand paper,plate,ring,dove,extension cord
+LOCATION:A location:Dainan,Kunigal,Trimbach,Visaginas,Alimos,Konstantinovskaya
+EMOTION:An emotion:bliss,longing,gratitude,remorse,disappointment,irritation
+DANCE MOVE:A dance move:wrong-way mixmaster in swingout position,continuous hops,open pivots with a clap,continuous swingout in open position,pivots,troika hops while transitioning into Cross-Step Waltz Mixer
+CRIME:minor crime or fake crime:Vigilantism,Forced marriage,AI-enabled crime,Tax evasion,Battery,Stealing sand from the beach
+PHRASE:A dramatic phrase:Mouth-watering,Playing For Keeps,High And Dry,A Busy Body,Under Your Nose,Right Out of the Gate
+SCRIPT ==========================================
+gameshow intro
+THE HOST: Good evening, ladies and gentlemen, and welcome to the 47th Annual "Worst Talent Show Ever!".
+THE HOST: The only talent competition where contestants are legally required to sign both a waiver and a last will and testament.
+JUDGE 1: I still can’t believe we came back after the incident in LOCATION.
+JUDGE 2: We lost three interns and an entire shipment of FOOD. Worth it.
+THE HOST: Tonight, brave performers from across the globe will risk everything for the grand prize:
+THE HOST: Aboslutely no money whatsoever!
+applause
+THE HOST: And now our first contestant!
+shark tank walking theme
+CONTESTANT: Good evening. My name is Professor CELEBRITY... and tonight I shall attempt the impossible.
+THE HOST: And what talent will you be demonstrating for us this evening?
+CONTESTANT: I combine the precision of professional JOB...
+CONTESTANT: ... the discipline of competitive HOBBY...
+CONTESTANT: ... and the forbidden art of interpretive DANCE MOVE.
+JUDGE 1: I already hate this.
+JUDGE 2: I’m somehow emotionally invested.
+Meanwhile STAGEHAND: (Rush to the contestant with an object)
+tire screech
+STAGEHAND: (Getting everybody's attention) Stop the show!
+STAGEHAND: You forgot the sacred OBJECT! (Return to entrance)
+CONTESTANT: Dear God…
+CONTESTANT: I almost began without the sacred OBJECT. (Carefully grabs the object)
+JUDGE 1: Why is it leaking?
+STAGEHAND: Nobody knows. And frankly, nobody wants to know.
+THE HOST: Contestant… You may begin.
+shark tank serious music 1
+CONTESTANT: First… I summon the spirit of the mighty ANIMAL! (Makes horrible animal sounds)
+JUDGE 2: That thing sounds deeply EMOTION.
+JUDGE 1: No, that’s the sound of a lawsuit.
+Meanwhile CONTESTANT: (Start dancing randomly)
+CONTESTANT: Witness...
+CONTESTANT: ... the ancient technique of...
+CONTESTANT: ... the DANCE MOVE!!!
+crashing debris
+THE HOST: Sweet heavens.
+STAGEHAND: The prophecy was true.
+record scratch
+noir music 1
+JUDGE 1: I knew the city smelled funny...
+JUDGE 1: ...but I never suspected the FOOD.
+JUDGE 2: Nobody survives the DANCE MOVE.
+JUDGE 2: Nobody.
+THE HOST: Contestant... Tell us the truth.
+THE HOST: Why are you really here tonight?
+Meanwhile CONTESTANT: (Act dramatic)
+CONTESTANT: Because years ago…
+CONTESTANT: My family was destroyed by someone committing the unforgivable crime of…
+CONTESTANT: CRIME.
+vine boom
+STAGEHAND: You monster!
+JUDGE 1: There are laws. And there are standards.
+CONTESTANT: No more lies!
+CONTESTANT: I have only one thing left to say.
+CONTESTANT: PHRASE!
+waterphone
+THE HOST: Security?!?
+STAGEHAND: Security quit after the LOCATION incident...
+epic fantasy music 3
+JUDGE 2: The OBJECT is overloading!
+CONTESTANT: Long live...
+CONTESTANT: THE ANIMAL!
+record scratch
+THE HOST: And that's why talent shows are banned in fourteen countries.
+CONTESTANT: You can say that again!
+
+======
+
+INFORMATION ===============================
+ID: 2291
+TITLE: Final Feud
+AUTHOR: Jinx Izayoi
+VERIFIED: True
+TAGS: Game Show
+SET: Game Show
+DATE: 17/05/26
+CHARACTERS ================================
+HOST: Gameshow Host:Center Stage
+CONT1: First Team Member:Contestant Podium 1
+CONT2: Second Team Member:Backstage
+SUGGESTIONS =============================
+SHOW:a funny name for a game show:Clash of Clans,The Pointless Game,Who's Cuter,Chain Reaction Bait,Ninja Warrior but without Ninjas or Warriors
+NAME:a funny-sounding surname:Kardashian,Smurf,Fortnite,Jar,Keller
+ANNOY:something your partner does that annoys you:They snore,Eats too loud,They gamble,Stay too long at work,Plays VRChat
+JOBB:a job you're not likely to get hurt doing:Streamer,Data entry,Script writer,Game developer,Photographer
+BEDOBJ:something you always keep beside your bed:Gun,Body pillow,Krabby Patty,Dog bed,Pot of Greed
+MOVIE:a movie or Audience Anarchy script you like:Amor Real,The Trolley Problem,Films with Soul(s),Anarchy Court,Secret Menu
+EVIL:an evil character or fictional group:Zamasu,Gamers,The Octarians,KaibaCorp,Andross
+ANNERD:something your partner does that you like:Twirls their hair,Sings in the shower,Baking,Donates to charity,Kisses my cat
+JERB:a dangerous job:Construction worker,Prostitute,Soldier,Cashier,NASCAR racer
+BADOBJ:an object that would be embarrasing for you to have:Cube of uranium,Ouya,A knife,Mighty Morphin' Power Rangers action figure collection set,A cardboard cutout of my waifu
+MOOVIE:a movie or Audience Anarchy script:Telexorcist,Attack of the Produce Aisle,Memes,Death by Karen,Quadrillionaires
+POWER:an extremely powerful character or fictional organization:The First Order,Grand Regent Thragg,Albert Jasmine Priscilla Wesker,Vtubers,Supreme King Z-ARC
+SCRIPT ==========================================
+gameshow bonus round
+applause
+HOST: Welcome back to SHOW! We just watched the NAME family win the main feud, so now they get to play in the bonus round, our Final Feud.
+HOST: Fuuka, your family chose you to play, come over here. Are you excited to win?
+CONT1: Yeah, I'm excited! Let's do this!
+crowd woo
+HOST: Let me remind you of the rules then. We have Nami backstage with headphones on, so she can't see or hear what's going on.
+HOST: I'm going to ask you five questions in 25 seconds. Your goal is to give me the most popular answers...
+HOST: The more people that agree with you, the more points you get. After we tally up your points, we get Nami up here.
+HOST: She'll do the same thing, but she can't repeat your answers. If you both get 200 points combined, you win the grand prize. So, Fuuka, are you ready?
+CONT1: I'm ready.
+HOST: 25 seconds on the clock, please.
+gameshow ring
+HOST: Clock starts after I ask the first question. We asked 100 married women, name something your spouse does that annoys you.
+gameshow timer music
+CONT1: (answer questions confidently) ANNOY.
+HOST: Name a job you're not likely to get hurt doing.
+CONT1: JOBB.
+HOST: Name something you always keep by your bed.
+CONT1: BADOBJ.
+HOST: Name a show you'd rather be watching right now.
+CONT1: MOVIE.
+HOST: Name the all-powerful entity that's going to rule over the planet soon.
+CONT1: EVIL.
+Music Stops
+crowd woo
+HOST: Well done, Fuuka, let's see how you did.
+HOST: We asked, "name something your spouse does that annoys you", you said:
+TYPEWRITER: ANNOY
+HOST: Survey says!
+gameshow ding
+applause
+HOST: 37 points, good answer.
+HOST: "Name a job that ain't gonna hurt ya", you said:
+TYPEWRITER: JOBB
+HOST: Survey says!
+gameshow ding
+crowd woo
+HOST: 42 points, awesome answer.
+HOST: "Name something by your bed", you said:
+TYPEWRITER: BEDOBJ
+HOST: Survey says!
+gameshow ding
+applause
+HOST: 34 more points, great job so far.
+HOST: "Name something you'd rather be watching", you said:
+TYPEWRITER: SHOW
+HOST: Survey says!
+gameshow ding
+crowd woo
+HOST: 52 points, that's definitely the number one answer! Name our new overlord, you said:
+TYPEWRITER: EVIL
+HOST: Survey says!
+gameshow buzzer
+HOST: No points for that one.
+aww
+CONT1: Really? I thought EVIL was winning the intergalactic war.
+HOST: But hey, you did fantastic, you got 165 points! Go back to your podium, we're gonna get Nami out here to finish the fight.
+world news intro
+Teleport CONT2 to Entrance Stage Right
+CONT2: (run center stage, pumped up) I'm ready!
+crowd woo
+HOST: Nami! Let me tell you, you've been given this win on a platter. Fuuka just scored 165 points. You only need 35 points to win.
+CONT2: Let's go! (run around celebrating with others then return to podium)
+Meanwhile CONT1: (celebrating behind your podium)
+HOST: Gotta go over the rules for you now. I'm gonna ask you five questions. Your goal is to give me the most popular answers...
+HOST: The more people that agree with you, the more points you get. If you give the same answer as Fuuka, you'll hear this sound.
+vine boom
+HOST: That means try again. Since it's a little harder, we're gonna put 30 seconds on the clock for you. Are you ready?
+CONT2: I'm ready.
+gameshow ring
+HOST: Clock starts after I ask the first question. We asked 100 married women, name something your spouse does that annoys you.
+gameshow timer music
+CONT2: (answer questions nervously) ANNERD.
+HOST: Name a job you're not likely to get hurt doing.
+CONT2: JERB.
+HOST: Name something you always keep by your bed.
+CONT2: BEDOBJ.
+HOST: Name a show you'd rather be watching right now.
+CONT2: MOVIE.
+vine boom
+CONT2: MOOVIE.
+HOST: Name the all-powerful entity that's going to rule over the planet soon.
+CONT2: POWER.
+Music Stops
+HOST: Well, you answered them all, let's see how you did.
+CONT2: Ohh, I didn't do good, did I? (glance at other contestant)
+Meanwhile CONT1: (cringe a little) Good answers, good answers.
+HOST: We asked, name something your spouse does that annoys you, you said:
+TYPEWRITER: ANNERD
+HOST: Survey says!
+gameshow buzzer
+aww
+HOST: No points. ANNOY was the number one answer.
+HOST: Name a job you probably won't get hurt doing, you said:
+TYPEWRITER: JERB
+HOST: If you say so. Survey says!
+gameshow buzzer
+aww
+HOST: Another miss. JOBB was the number one answer.
+HOST: Name something you keep by your bed, you said:
+TYPEWRITER: BADOBJ
+HOST: I ain't here to judge. Survey says!
+gameshow buzzer
+aww
+HOST: (shrug) Number one answer was sleep paralysis demon.
+CONT1: Wait what?
+HOST: Name a program you'd rather be watching, you said:
+TYPEWRITER: MOOVIE
+HOST: MOOVIE, survey says!
+gameshow ding
+applause
+HOST: You got one point for that. I guess every show is someone's favorite. Number one answer was MOVIE.
+HOST: Finally, name our soon-to-be overlord, you said:
+TYPEWRITER: POWER
+HOST: Nami, if this answer is worth 34 points, you and the NAME family win it all. (dramatically) Survey saaays!
+gameshow ding
+crowd woo
+HOST: 100 points! Nami, Fuuka, you won!
+superhero fanfare
+applause
+CONT1: You did it! You ended up clutching it!
+CONT2: All me, baby! Let me hear it!
+CONT1: Be so for real right now.
+HOST: That's it for this episode of SHOW. Be sure to tune in next time!
+gameshow outro
+applause
+crowd woo
+
+======
+
+INFORMATION ===============================
+ID: 2293
+TITLE: A.I. (Authentic Incompetence)
+AUTHOR: GSGenesis
+VERIFIED: True
+TAGS: Skit
+SET: Conference Room
+DATE: 18/05/26
+CHARACTERS ================================
+CEO: The Tech Company CEO:Boss Chair
+FIRST EMP: Employee #1:Office Chair 1
+SECOND EMP: Employee #2:Office Chair 2
+SVP: The Senior VP:Stage Right
+OTTO: Otto AI Robot:Entrance Stage Left
+SUGGESTIONS =============================
+NAME:Any first and last name:Frederick Jefferson,Ronald Greachon,Ricky Jones,John Jackson
+OBJECT:type of inanimate object that might deserve a name:pet rock,stress toy,yacht,kazoo
+EMPLOYEE:Any first and last name:Tristyn Boole,James Pallack,Arnold Evans,Jarlene Misselbrook
+COMPANY:A name for a big company:UltraTech,Cyberdyne,OmniCorp,Wayne-Powers
+FEATURE:A useless invention:the world's loudest alarm clock,a 15-minute freezer,the world's smallest oven,a gym coach mode
+NUMBER:Any number:100 thousand,1 million,100 million,10 billion
+SLOGAN:A marketing slogan:It's always listening!,It's at your service!,It's always with you!,Loneliness is obsolete!
+DRINK:Your favorite drink:coffee,tea,water,juice
+BUYOUT:A name for a small company:Macromuck,Gaggle,CosmiX,O.T. Botics
+DRUG:A non-edible substance:baby powder,baking soda,corn starch,dishwashing detergent
+TIN CAN:man-made metal object or device:tin can,garbage can,toaster,iphone,washing machine
+SCRIPT ==========================================
+corporate guitar music
+CEO: My colleagues, I have gathered you here today for a most tremendous occasion.
+FIRST EMP: (whispering to Employee #2) I assume NAME coerced the boss into greenlighting their pay raise?
+CEO: We have officially completed the first of our advanced AI-based automated robots!
+FIRST EMP: Oh, well then – that’s good to hear!
+SECOND EMP: Congratulations!
+CEO: We codenamed it Otto – personally suggested by NAME, named after their OBJECT.
+FIRST EMP: Great. Another personal favor.
+CEO: Now, now, EMPLOYEE, we named it after a majority vote for the suggestion. NAME, please introduce us to Otto.
+SVP: Fellow executives, COMPANY has been committed to the tech industry for over three years.
+SVP: And last year, we decided to venture into the unknown field of artificial intelligence.
+SVP: Otto has enabled us to bring all of our R&D, expertise, and industry-leading innovations into a single product.
+SVP: Powered by our own Neural Engine, our trademark next-generation solar battery, and featuring FEATURE, Otto is the most advanced product we’ve ever made.
+music stops
+SVP: And now, without further ado, it gives me great pleasure to present...
+world news intro
+SVP: Otto!
+Meanwhile OTTO: (enter through door) Greetings. I am Otto.
+applause
+SVP: Otto can perform any operation within NUMBER milliseconds, faster than any other AI system before it, competition or otherwise.
+SECOND EMP: Huh – not bad!
+CEO: A very enticing product description, NAME!
+corporate motivational music
+SVP: Well, we are marketing Otto with an enticing promotional campaign featuring the phrase “SLOGAN”!
+SECOND EMP: Ha! That’s a good one!
+SVP: This prototype is exclusively programmed for internal corporate use. It can even neutralize any non-employee present in the building.
+SVP: Otto’s main function is as a multi-use AI assistant that can even perform tasks through your smartphone, PC, and voice input.
+SVP: I’ll test that right now with a simple question. Otto!
+OTTO: Yes?
+SVP: Are there any words with three consecutive sets of double letters?
+OTTO: Yes – there is only one in English: Bookkeeper.
+SECOND EMP: Wow – you learn something new every day!
+Meanwhile CEO: Indeed.
+SVP: Now, let’s give Otto a command to simulate a task it’d do in everyday life. Otto!
+OTTO: Yes?
+SVP: Put some extra sugar into EMPLOYEE’s DRINK.
+OTTO: Right away.
+FIRST EMP: Wait. H-how did you know that I prefer my DRINK that way?
+Meanwhile OTTO: Dispensing sugar. (pour “sugar” into the employee’s cup)
+SVP: I didn’t, but Otto did.
+SECOND EMP: Okay, that’s a bit freaky.
+CEO: That is quite interesting – how does Otto get its knowledge and programming assistance?
+SVP: Simple – data servers from us, and our new friends at our newly acquired storage subsidiary, BUYOUT contain many terabytes of knowledge.
+FIRST EMP: How does it do that? (drink from the cup)
+SVP: Otto can wirelessly connect to the servers to regularly improve its functionality.
+FIRST EMP: (spit out drink) Eugh! What did that talking tin can put in my DRINK?
+record scratch
+music stops
+SVP: That was sugar, EMPLOYEE.
+FIRST EMP: Then why does it taste like DRUG?
+CEO: NAME, does that mean those rumors about your DRUG collection are true?
+vine boom
+SECOND EMP: Uh-oh...
+SVP: Uh... I’ll talk with you in your office about that after the presentation.
+OTTO: Data retrieved from BUYOUT servers confirm the claim about NAME’s DRUG and OBJECT collection.
+SVP: Hey!
+badass music 1
+SECOND EMP: Looks like the cat’s outta the bag!
+OTTO: New data retrieved from BUYOUT servers.
+OTTO: NAME posted disguised social media disinformation against the CEO before Otto’s development.
+CEO: What?!
+OTTO: NAME also donated NUMBER dollars to a rival of COMPANY for uninfringed use of FEATURE.
+SVP: Otto, stop that! Power down, NOW!
+OTTO: New data from COMPANY shows NAME’s public opinions on artificial intelligence also drive their public lobbying efforts.
+Meanwhile SVP: Stop that, Otto, stop it now! (run up to Otto, attempt to power it off)
+SECOND EMP: Artificial intelligence? More like authentic incompetence!
+FIRST EMP: Ooh... burn!
+CEO: NAME, you had better have a good explanation for this gross misconduct!
+SVP: Where’s that emergency shutdown switch?!
+OTTO: New data from COMPANY shows that NAME threatened EMPLOYEE in the executive restroom last month over their OBJECT.
+CEO: Oh, my – I really should have listened to that HR report.
+OTTO: New data from COMPANY shows record spending (stuttering) spending-- spending--
+MEANWHILE SVP: Argh, Shut up shut up! Shut! Up!!!
+SVP: Shut up you stupid thing!
+alien teleport
+music stops
+OTTO: Emergency shutdown activated. Powering down. (power down, go limp)
+FIRST EMP: Uh-oh... I know that look on the boss's face.
+SECOND EMP: (whispering to Employee #1) Yep - that’s the look they give when they're about to fire someone.
+CEO: NAME, words cannot describe how infuriated I am with this... this- glorified talking TIN CAN!
+SVP: Well... we can only go up from here. It's only a prototype. Cost efficiency was a priority for this model.
+spy machinery
+OTTO: (power back on) ... data from COMPANY shows record spending on Otto prototype development.
+OTTO: Other corporate projects were halted by NAME, such as the fundraiser for EMPLOYEE’s wife’s baby shower.
+SECOND EMP: Ouch to the max.
+CEO: That does it! NAME, you’re fired!
+gameshow buzzer
+OTTO: Alert! Alert! A non-employee has been located in this building!
+SVP: Hey, wait a minute! Otto, stop! (get beaten up by Otto and fall to the ground unconscious)
+Meanwhile OTTO:  Must neutralize! (beat Senior VP with fiste)
+fistfight
+OTTO: Threat removed. Powering down. (power down, go limp)
+alien teleport
+FIRST EMP: Wow - that was quite a surprise.
+groose music
+SECOND EMP: At least something eventful happened this week.
+CEO: Amen to that. Well, I think this is a good excuse for us to take the rest of the day off.
+FIRST EMP: I agree wholeheartedly.
+SECOND EMP: Make it unanimous.
+CEO: So, EMPLOYEE, should we try to get your wife’s baby shower funded soon?
+FIRST EMP: Sure – maybe get a DRINK or two while we’re at it. Just one thing: NO sugar!
+
+======
+
+INFORMATION ===============================
+ID: 2296
+TITLE: Murphy's Marriage
+AUTHOR: AlexisCaedmont
+VERIFIED: True
+TAGS: Skit,Prototype
+SET: Murder
+DATE: 19/05/26
+CHARACTERS ================================
+GROOM: The groom:Center Stage
+BEST MAN: The best man:Entrance Stage Right
+BRIDE: The bride:Stage Right
+FIREMAN: A fireman:Entrance Stage Left
+SUGGESTIONS =============================
+GROOM NAME:A proper-sounding man's name:Julian,Adrian,Richard,Francis,Jonathan
+BEST MAN NAME:A name you'd associate with a sorta dumb guy:Chad,Cameron,Jeff,Paulie,Duncan
+BRIDE NAME:A proper-sounding woman's name:Mary,Melissa,Rebecca,Sarah,Angelia,Jolene
+BAND NAME:Name a band or a musical group made up of many people:Journey,U2,One Direction,Nickelback,BTS
+FLOWER 1:Name a plant:Dandelion,rose,chrysanthamum,peony
+CAKE:Name a silly thing for a cake to look like:Armadillo,toilet,bedknob,sunroof,Chic-fil-A.
+CAUSE OF DEATH:Name a sport or an action ending in ing:Boating,hunting,water skiing,juggling
+BUILDING:Name a public or private building or place:Farmhouse,strip mall,etc.
+BODY PART:Name a body part:Head,shoulders,knees and toes (knees and toes)
+DRINK:Name a liquid or drink:Dr. Pepper,milk with soft Oreos in it,etc.
+CHOCOLATE:literally any flavor, or a particular food/ingredient:chocolate,lime,pineapple,sushi
+HAPPYSTUFF:pleasant thing(s):puppies,going to the beach all day every day,five dollar footlongs
+SCRIPT ==========================================
+guitar music 1
+GROOM: (Hyping yourself up) Okay... this is it, GROOM NAME. This. is. IT!
+GROOM: In just half an hour, you will be seeing your beloved BRIDE NAME walking down the isle.
+GROOM: Everything has been leading up to this day. Soon, you will be Mr. and Mrs. Robinson. Nothing could possibly go wrong now.
+BEST MAN:  (Enter stage right) Yo, yo, yo, GROOM NAME. What's poppin', bro? You are looking fly right now, heh.
+GROOM: Ah, BEST MAN NAME! There you are. How are the final preparations going? Have the flowers arrived?
+BEST MAN: You bet they did, bro! The guy just left. Man, those FLOWER 1s are pretty.
+Music stops
+GROOM: ...FLOWER 1s? Did... did you say FLOWER 1s?
+BEST MAN: Heck yeah, man. 12 bouquets of them.
+vine boom
+GROOM: We... we were supposed to get 12 dozen bouquets of white roses. What sort of wedding has FLOWER 1s at it?
+BEST MAN: Oh, it's all good, man. You don't need roses, anyhow, the thorns hurt your fingies if you dont wear gloves!
+guitar music 1
+GROOM: Well... I guess you have a point, there. Mariah does like FLOWER 1s, anyhow... besides, it's not as though the cake got messed up.
+BEST MAN: See, bro? It's no big deal. Though I gotta say, it's a unique choice, going for a wedding cake that looks like a CAKE.
+GROOM: Indeed, I.... what.
+BEST MAN: Yeah, man. It's a vanilla cake with CHOCOLATE, shaped like a CAKE...
+GROOM: Wh..... that's terrible!
+BEST MAN:Ommm... yeah, I'd have to agree, now that I'm saying it out loud...
+GROOM: Why the hell would we want a CHOCOLATE cake on our wedding?! It doesn't match the color scheme!
+vine boom
+BEST MAN: That's what you have a problem with? I mean.... uh... look, it's alright. It's still alright. People like CHOCOLATE. It's not going to be the end of the world.
+GROOM: Maybe, maybe... hey, at least the music for the reception's all lined up, though, right? We got the Holiday Crooners to come out of retirement just for this.
+BEST MAN: ...About that... they decided to do a gig at a CAUSE OF DEATH show, there was an accident, and they all died.
+GROOM: What?!
+BEST MAN: But don't worry, GROOM NAME. BEST MAN NAME's gotcha all covered, because who should break down right by the church buuut... BAND NAME!
+GROOM: Dude, BAND NAME sucks! I don't want them playing my reception!
+BEST MAN: How dare you, sir! I'm gonna go get their autographs! (Exit stage right)
+GROOM: (sits on the couch) Wrong flowers, CHOCOLATE CAKE cake, and now BAND NAME is playing at the reception? How could this possibly get worse?
+Music stops
+extreme knocking
+break down door
+FIREMAN: Pardon me, sir, are you alright?
+GROOM: Why.... yes, so far, but what are you doing here? There's no fire. 
+FIREMAN: Oh, I'm just making sure that everyone here is fine. There was a CAUSE OF DEATH accident at this little BUILDING down the road.
+record scratch
+GROOM: ...Was... was it the red BUILDING... with a beautiful brick wall in front? Lovely groves of trees?
+FIREMAN: It "was" the red BUILDING. The whole place kinda burned to the ground.
+FIREMAN: It's gone, sir.
+epic fantasy music 3
+GROOM: That... that was where the reception was being held....
+GROOM: (Slowly starts to freak out) no.... nooooooooo! 
+FIREMAN: (awkwardly not sure what to do) Sir, please, calm down!
+FIREMAN: Sir, it's okay! Think happy thoughts! Think of HAPPYSTUFF! Remember HAPPYSTUFF?
+Meanwhile GROOM: (Very upset and freaking out and not listening)
+FIREMAN: (Akwardly leaving) I... sir... uh. I'm just gonna.... (Exit stage left)
+GROOM: It's ruined! It's all ruined! (Goes crazy)
+Music stops
+BRIDE: (Enter stage right) GROOM NAME, what's the matter with you?!
+GROOM: Wh... no! Now I've seen the bride before the wedding, too... BRIDE NAME, I'm sorry. The whole wedding's ruined. (Crouches down sadly)
+emotional piano music
+BRIDE: (Chuckles) Oh, you silly, silly man... it's not ruined. (crouches down beside Groom) You're here, right?
+GROOM: (Sniffles) Y...yeah....
+BRIDE: And I'm here, right?
+GROOM: Y....yeah....
+BRIDE: Then everything's going to be okay. We have each other... and I love you, GROOM NAME Robinson.(Stands up) Now... shall we go get married?
+GROOM: (Stands up) I.... I would love nothing more, my dear BRIDE NAME. (Hugs bride)
+Meanwhile BRIDE: (Hugs groom)
+canada anthem music
+BEST MAN: (Enters stage right) Yo dude, check it out! BAND NAME signed my BODY PART!
+GROOM: (Chuckles) Good for you, BEST MAN NAME. Now, let's go to the chapel and get married, so we can enjoy some nice champagne after.
+Meanwhile BRIDE: (Chuckles with groom happily)
+BEST MAN: Oh, about that... they sent the wrong drink, so you'll be toasting with DRINK.
+GROOM: What?!
+Meanwhile BRIDE: What?!
+gong
+laughter
 
 ======
 
