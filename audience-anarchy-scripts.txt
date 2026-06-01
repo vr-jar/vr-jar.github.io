@@ -66193,3 +66193,110 @@ laughter
 
 ======
 
+INFORMATION ===============================
+ID: 2280
+TITLE: Party Foul
+AUTHOR: zanbbit
+VERIFIED: True
+TAGS: Skit
+SET: Dining Room
+DATE: 13/05/26
+CHARACTERS ================================
+HOST: Party host:Center Stage
+FRAN: Friend:Backstage
+RUDY: Jerk:Backstage
+SUGGESTIONS =============================
+THEME:A theme for a party:Mid-Century,Christmas,Office
+WEBSITE:A website:WickerHow,Classes4Kidz,OnlyLessons
+ADJECTIVE:visual adjective or description:Kawaii,Plain,Trashy
+FOOD:Any food:Frozen Pizza,Turkey,Bamhurgers
+BOOK:a book title:Don't Read This Book,5000 Shades of Gray,The Murder
+GENRE:a music genre:Belgian Techno,Funk,Shoegaze
+MUSICIAN:a band or musician:Louis Armstrong,Megadeath,DJ JayDee
+CLOTHES:an article of clothing:Beanie,Bathrobe,Gold Tooth
+GAME:a video game:Mario Party,Them's Fightin' Herds,Animal Crossing
+BOARD:a board game:Sorry,Settlers of Catan,Dos
+TOOL:device, tool, or appliance:Oven,Santoku Knife,Sink
+DRINK:A liquid or drink:Captain Smirnoff,Beer,Motor Oil
+SCRIPT ==========================================
+jazz music 1
+HOST: Okay everything is set up I got the FOOD cooking. I got some MUSICIAN music playing.
+HOST: I even got all the THEME themed decorations put up. Just like the party guide on WEBSITE said.
+HOST: My first ever party. Though it's more of a pilot test, just a small thing really.
+HOST: My guests will be here any second. If I can handle two guests, a bigger party sometime in the future should be easy!
+doorbell
+FRAN: We're here!
+RUDY: (Jokingly) It's the FBI! Open up!
+HOST: (Opens door) Hello Fran and hello Rudy.
+FRAN: Thanks for inviting us, Emcee. Ooh you look ADJECTIVE. I like it! (Enters room)
+FRAN: THEME decorations? Very nice!
+RUDY: (Enters the room) UGH! What is this Music?
+HOST: I put on some MUSICIAN. Do you not like it?
+RUDY: MUSICIAN!? Their stuff is horrible for parties! Play some GENRE! Liven things up!
+HOST: Oh... I don't know if I have any GENRE songs.
+FRAN: Now Rudy, you said you wouldn't do this. Don't go back on your word.
+RUDY: (Approaches bookshelf) I'm going to see what books you got.
+FRAN: Is that FOOD I smell?
+HOST: Yeah I have some FOOD cooking in the kitchen. It should be ready soon.
+RUDY: (Approaches host) So you got all those books but you don't have BOOK?
+HOST: N-No... I've never heard of BOOK.
+RUDY: (Scans room) You should get BOOK. What's with the THEME decorations? You know how overdone this stuff is?
+RUDY: I went to a THEME themed party just last week.
+FRAN: Rudy, you're doing that thing again! Don't be rude!
+RUDY: (Looks at host) What's this look you're going for. Is it meant to look ADJECTIVE?
+HOST: Uhh... I guess so, yeah.
+RUDY: Ehh, you're not quite there. You need a CLOTHES to really nail the ADJECTIVE vibe.
+FRAN: Rudy! Stop it! So what if the THEME theme is overdone or they're not playing GENRE music?
+RUDY: I'm giving suggestions to make the party better! It's like they used WEBSITE to put this together or something!
+HOST: How would owning BOOK make the party better?
+RUDY: Oh... It wouldn’t... I just really like BOOK.
+RUDY: What do you have for entertainment? Got any video games? You have GAME?
+FRAN: (Facepalms) You and your video games. Sometimes I wonder why I stay with you. Emcee doesn’t have GAME.
+HOST: I have a couple of board games. I have BOARD but that's about it. I'm not much for games.
+FRAN: Well we can’t play BOARD now, even if we wanted to. The FOOD will be done soon.
+HOST: Oh right I have to go check on that! (Walks off stage)
+FRAN: Do you think Emcee realizes yet?
+RUDY: No but I think they are starting to get annoyed. I kinda feel bad, MUSICIAN is actually really good party music.
+FRAN: Yes well just keep going. This is an important lesson for Emcee to learn. You're doing great so far.
+FRAN: I can't believe you told them to wear a CLOTHES, I'd be furious.
+RUDY: (Chuckles) Well I didn't tell them to wear a CLOTHES, I said they need a CLOTHES to pull off the ADJECTIVE look.
+FRAN: Same difference.
+70s music
+HOST: (Walks back on stage) Okay, I got the FOOD. (Sets food on table) Let's all sit down and eat.
+RUDY: What's this music now?
+HOST: I don't have any GENRE music so I put on something I thought was close. Is this a bad choice too?
+RUDY: It's better but it's still lacking if you ask me.
+FRAN: It's fine but I was honestly enjoying the MUSICIAN music more.
+RUDY: Oh so I can't criticize the party but you can!?
+FRAN: Oh shut up! I'm just saying I thought the music was better before. This is still good though. I'm not complaining, unlike you!
+RUDY: Hmm (Observes the meal) Did you make this FOOD with a TOOL?
+HOST: Uhh... no... I looked up a recipe for it on WEBSITE.
+RUDY: I’m not sure if I want it then. You really should have used a TOOL to make this.
+RUDY: All the pros use a TOOL to make great FOOD at parties.
+HOST: Yeah well maybe I didn't feel like using a TOOL. Why don't you actually try it before you judge it?
+FRAN: Don’t listen to him Emcee. The FOOD is delicious!
+RUDY: I’ll try it, but I need some DRINK. You at least have DRINK right?
+HOST: (Annoyed) No. I don't.
+RUDY: Okay! Hold up! This is basic stuff now! You can't have a party without DRINK!
+FRAN: I don't care if they don't have DRINK.
+HOST: You know what! I've had it! Leave! Right now! You've done nothing but nitpick everything since you got here!
+HOST: You insult my THEME decorations, my FOOD, my music, and even how I look. Out! Now! (Points at door)
+RUDY: What the heck! I'm giving helpful pointers!
+HOST: No! You're being a rude insensitive jerk! Leave!
+RUDY: UGH Fine! Kick me out of this lame party! See if I care! (Walks off stage)
+FRAN: (Nods in approval) I'm proud of you, Emcee!
+HOST: What's his problem today anyway!?
+FRAN: (Laughs) Oh Emcee dear. Don't you see? This was a test.
+emotional piano music
+FRAN: I know you can get nervous in high stress situations. So when you said you wanted to host a party, I became concerned.
+FRAN: I wondered how you would deal with a rude guest. So I told Rudy to be very mean. Just as a little test, to see how you'd react.
+RUDY: (Walks back on stage) And you handled things perfectly! You didn't overreact or try too hard to satisfy me.
+RUDY: I thought the TOOL comment would really set you off. But it was the DRINK in the end.
+FRAN: So you passed, Emcee! I think you'll make a fine party host! Congratulations!
+music stops
+HOST: (Looks down) You know what. I really hated doing that.
+HOST: Maybe I shouldn't host a party after all.
+FRAN: What!? No! That wasn't my intention!
+
+======
+
