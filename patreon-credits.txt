@@ -1667,8 +1667,8 @@ Shadomancer2000
 STARDUST LEON
 Suna スナさん
 SylveoniccKyler
-Taiga12
 Timosurous Rex
+Tiny Taiga
 Verton
 Zulrah
 《Melody_》
@@ -2568,6 +2568,7 @@ Abaddon Matriel
 bd_
 #TIER=3
 Huckleberry_Vix
+Wolf_viper98
 Alatreonslayer
 JinizelRyuga
 Gear Head
