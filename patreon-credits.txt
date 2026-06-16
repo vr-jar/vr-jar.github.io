@@ -1958,6 +1958,7 @@ Mozkey
 Neon_Fennix
 vo_q
 #TIER=1
+AmonTheDead
 Dinorawrr
 Foreversleepy_
 The way of life
@@ -2439,7 +2440,6 @@ Mx Hibiki
 sagittariuwus
 THEskinny
 Wi1ted
-AmonTheDead
 ArdsFantasy
 Disproven
 Fallen xD
