@@ -2577,7 +2577,6 @@ shifca
 Abaddon Matriel
 bd_
 #TIER=3
-Ｂｕｂｂｌｅｚ
 Huckleberry_Vix
 Alatreonslayer
 Gear Head
