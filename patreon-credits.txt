@@ -2602,6 +2602,7 @@ bd_
 #TIER=3
 ×͜×Drago×͜×
 Huckleberry_Vix
+VoidDragon_
 Alatreonslayer
 JinizelRyuga
 Gear Head
