@@ -1194,6 +1194,7 @@ CorgiCorgi_
 Dead Dandy
 DRAG0N SP1KE
 eDrag
+GhostBeam_1
 GreeneRGB
 HerLittleNerd
 Hideri2021
