@@ -2601,6 +2601,7 @@ Volrug
 #TIER=3
 ×͜×Drago×͜×
 Huckleberry_Vix
+VRCNova
 Alatreonslayer
 -Lord_Red-
 SnowFoxHound
