@@ -2585,6 +2585,7 @@ bd_
 #TIER=3
 ×͜×Drago×͜×
 Huckleberry_Vix
+Nebula02
 Alatreonslayer
 JinizelRyuga
 Gear Head
