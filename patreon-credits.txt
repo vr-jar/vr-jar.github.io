@@ -2498,7 +2498,6 @@ Dooley
 #TIER=2
 ༒Bambii༒
 Akuma_Corpse
-Croan
 j.o.r.l200 a98a
 Greenygren_gold
 Tai-Sen Bladez
@@ -2592,6 +2591,7 @@ Abaddon Matriel
 bd_
 #TIER=3
 ×͜×Drago×͜×
+Croan
 Huckleberry_Vix
 Alatreonslayer
 JinizelRyuga
