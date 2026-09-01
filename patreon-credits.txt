@@ -2011,6 +2011,7 @@ Suguru Geto-
 Unit-001
 vo_q
 #TIER=1
+BasicVT
 Dinorawrr
 Foreversleepy_
 The way of life
@@ -2422,7 +2423,6 @@ Megumi System
 1blue1
 Mirafaren
 savage_mommy
-SonicGhostGames
 Tachi Kona
 -Uiriamu-
 DarkBatGirl32
