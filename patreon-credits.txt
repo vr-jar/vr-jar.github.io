@@ -1979,6 +1979,7 @@ Mozkey
 Neon_Fennix
 vo_q
 #TIER=1
+ArtieTheCritter
 Dinorawrr
 Foreversleepy_
 The way of life
