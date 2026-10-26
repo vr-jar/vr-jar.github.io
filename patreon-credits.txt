@@ -2437,6 +2437,7 @@ Dooley
 #TIER=2
 ༒Bambii༒
 Akuma_Corpse
+IyakoFox
 j.o.r.l200 a98a
 Greenygren_gold
 Tai-Sen Bladez
