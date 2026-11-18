@@ -2502,6 +2502,7 @@ bd_
 Abaddon Matriel
 #TIER=3
 ×͜×Drago×͜×
+Freds Return
 Huckleberry_Vix
 Alatreonslayer
 JinizelRyuga
