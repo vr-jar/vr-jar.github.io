@@ -1,5 +1,6 @@
 #TIER=0
 -Flesh
+-Sköll-
 [Offline]
 ༺EvolStrikes༻
 『M L T』
@@ -220,7 +221,6 @@ sᴜɴ_ʙᴇʀʀʏ サンベリー
 Sym_スキ
 SǃLK
 TenshiElPayaso
-Zephyr_lobo
 Aluminum Lion
 Alzunz
 ChemicalForm
